@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a presentable manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a presentable manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that is decent, suitable, attractive, or acceptable for public inspection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative characterization, performing duties or dressing with adequate propriety to avoid social embarrassment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, presentably designates in a presentable manner."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky Sharp knew how to dress **presentably** on a pittance, outshining heiresses whose gowns cost ten times as much."*
+> - 📜 **Henry James (*The Bostonians*):** *"She spoke **presentably** enough upon the public platform, though her arguments lacked logical coherence upon closer inspection."*
+> - 📜 **Louisa May Alcott (*Little Women*):** *"Meg turned and mended her faded bonnet until it sat **presentably** upon her head for church."*

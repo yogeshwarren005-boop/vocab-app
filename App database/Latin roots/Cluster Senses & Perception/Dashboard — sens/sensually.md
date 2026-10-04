@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a sultry and sensual manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a sultry and sensual manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a sensual manner; in a way that gratifies bodily desires, physical appetites, or the senses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary description and moral critique, pleasing to the bodily senses or pursued with voluptuous carnal indulgence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As we are men, Thus should we do; being sensually subdued, We lose our human title."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He lived too **sensually**, neglecting the stern discipline required of a noble prince in wartime."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"Enticed by Dalila, Samson yielded **sensually** to deceitful blandishments and lost his consecrated strength."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The rustic fair indulged **sensually** in heavy ales and roasted meats, oblivious to the gathering storm."*

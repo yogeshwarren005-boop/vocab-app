@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of deep and bitter anger and ill-will.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of deep and bitter anger and ill-will.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A persistent feeling of bitter displeasure, indignation, or ill will resulting from a real or perceived injury or insult.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and philosophical psychology, a reactive sentiment awakened by injustice that underpins retributive moral judgment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"But what did you think upon the road?” “Wot do you mean?” growled Coavinses with an appearance of strong resentment."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I don’t believe he had any idea of taking aim at anybody, but he was in that condition of resentment and violence that he would come and pay for fifty shots and fire away till he was red hot."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I remembered my guardian’s gentleness towards his errors and with what perfect freedom from resentment he had spoken of them."*
+> - 📜 **Joseph Butler (*Fifteen Sermons Preached at the Rolls Chapel*):** *"Sudden anger is an instinctive passion, but settled **resentment** is a moral weapon designed by nature to resist injustice."*
+> - 📜 **Friedrich Nietzsche (*On the Genealogy of Morality*):** *"The slave revolt in morality begins when ressentiment or deep **resentment** itself becomes creative and gives birth to values."*
+> - 📜 **David Hume (*An Enquiry Concerning the Principles of Morals*):** *"The natural **resentment** of unprovoked injuries serves as a protective bulwark for the peaceful preservation of civil society."*

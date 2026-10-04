@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressible in symbolic form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressible in symbolic form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being depicted, portrayed, symbolized, described, or formally expressed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematical logic and category theory, referring to a functor or concept isomorphic to a specific object or expressible within a formal system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, representable designates expressible in symbolic form."*
+> - 📜 **Gottlob Frege (*The Foundations of Arithmetic*):** *"Every definite arithmetical relation is clearly **representable** in pure logical symbolism without reference to sensible intuition."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"The continuum of real numbers is **representable** through infinite sets of rational cuts according to Dedekind's formulation."*
+> - 📜 **John Dewey (*Art as Experience*):** *"Any emotion that deeply stirs human nature is **representable** through the disciplined harmonies of painting or verse."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to start burning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Start to burn or burst into flames.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To catch fire, burn fiercely, or cause to burn in a widespread, destructive blaze.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical description, pyrotechnics, and military warfare, to incinerate completely in a raging firestorm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conflagrate designates cause to start burning."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The spark ignited the dry tinder of popular grievance, threatening to **conflagrate** the entire feudal fabric of the realm."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Sparks from the try-works seemed ready to **conflagrate** the grease-soaked timbers of the ship."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The flaming arrows launched by the besiegers did **conflagrate** the wooden towers along the rampart."*

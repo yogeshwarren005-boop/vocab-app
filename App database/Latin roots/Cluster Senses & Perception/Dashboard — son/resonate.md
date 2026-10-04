@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sound with resonance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be received or understood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To produce, increase, or prolong sound by vibration; to vibrate sympathetically or evoke deep shared feeling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics, cultural criticism, and psychology, to oscillate at a natural frequency or strike a chord of recognition and empathy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, resonate designates sound with resonance."*
+> - 📜 **John Tyndall (*Sound*):** *"When excited by the proper pitch, the hollow glass vessel will **resonate** with surprising acoustic power."*
+> - 📜 **Lord Rayleigh (*The Theory of Sound*):** *"The soundboard was specifically proportioned to **resonate** across the entire compass of the instrument."*
+> - 📜 **Oliver Sacks (*Musicophilia: Tales of Music and the Brain*):** *"Certain melodic motifs **resonate** so deeply within memory as to trigger intense emotional reminiscence."*

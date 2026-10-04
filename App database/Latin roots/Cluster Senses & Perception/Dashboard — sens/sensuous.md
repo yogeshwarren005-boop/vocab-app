@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Taking delight in beauty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Taking delight in beauty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, appealing to, or perceived through the bodily senses, especially in an aesthetic manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary aesthetics and art criticism, richly gratifying the physical senses without the pejorative carnal connotations of 'sensual'.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"That would depend upon whether the germs of staunch comradeship underlay the temporary emotion, or whether it were a sensuous joy in her form only, with no substratum of everlastingness."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"This sensuous acceptance of the physical joy of life pleased Laura, born a Selincourt, bred in France, and temperamentally out of touch with middle-class England."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Riding was an indulgence which she allowed herself in spite of conscientious qualms; she felt that she enjoyed it in a pagan sensuous way, and always looked forward to renouncing it."*
+> - 📜 **John Milton (*Tractate on Education*):** *"True poetry should be simple, **sensuous**, and passionate, touching the soul through vibrant imagery."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Milton correctly coined the term **sensuous** to distinguish aesthetic perception from mere animal carnality."*
+> - 📜 **Walter Pater (*The Renaissance: Studies in Art and Poetry*):** *"Venetian painting achieves its magic through the rich, **sensuous** radiance of oil glazes and golden light."*

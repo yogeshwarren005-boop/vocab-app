@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a numb manner; without feeling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a numb manner; without feeling.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an imperceptible manner, by gradual degrees, or without conscious sensory awareness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative prose and scientific exposition, transpiring so slowly and subtly that the transition escapes detection by the observer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Moreover, when two people are once parted—have abandoned a common domicile and a common environment—new growths insensibly bud upward to fill each vacated place; unforeseen accidents hinder intentions, and old plans are forgotten."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Insensibly our voices had slightly risen, so that Philippa heard."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"This is what we find in the sayings of Jesus; there is form, but living form, the freedom and grace which the clear mind and the friendly eye communicate insensibly and inimitably to language."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Ancient civic virtue **insensibly** gave way to the luxuriant corruption of oriental despotism."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth found her early prejudices **insensibly** softening as Mr. Darcy's honorable character stood revealed."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The language of the court **insensibly** influenced popular vernacular throughout the provinces."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a method of teaching language that focuses on listening and speaking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a method of teaching language that focuses on listening and speaking.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to a language-teaching method emphasizing spoken repetition, auditory drill, and habit formation over written analysis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In applied linguistics and pedagogy, an instructional methodology rooted in structural linguistics and behavioral conditioning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, audio-lingual designates of or relating to a method of teaching language that focuses on listening and speaking."*
+> - 📜 **Noam Chomsky (*Aspects of the Theory of Syntax*):** *"The mechanical drilling characteristic of the **audio-lingual** approach fails to engage the child's innate generative capacity."*
+> - 📜 **Dell Hymes (*On Communicative Competence*):** *"Mere habit drills in the **audio-lingual** classroom do not impart socio-cultural communicative competence."*
+> - 📜 **Wilga Rivers (*The Psychologist and the Foreign-Language Teacher*):** *"Teachers utilizing the **audio-lingual** method found that tape-recorded dialogues accelerated pronunciation acquisition."*

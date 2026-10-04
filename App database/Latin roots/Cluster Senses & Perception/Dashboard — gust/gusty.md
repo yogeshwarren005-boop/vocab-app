@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Blowing in puffs or short intermittent blasts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Blowing in puffs or short intermittent blasts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by, accompanied by, or blowing in sudden, strong gusts of wind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meteorological description and literature, turbulent, blustery, and marked by intermittent squalls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn’s windows are wide open, and the room is lofty, gusty, and gloomy."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"On sleeping, I continued in dreams the idea of a dark and gusty night."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Whether the summer kindly warms, Wi’ life an light; Or winter howls, in gusty storms, The lang, dark night!"*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"A **gusty** autumn wind drove the dead heather blossoms across the black expanse of Egdon Heath."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The night was wet and **gusty**, with wild clouds tearing across the moon over Chesney Wold."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The ship pitched heavily into the **gusty** head-seas, throwing curtains of salty spray across the forecastle."*

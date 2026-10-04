@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having physical sensation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having physical sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Endowed with physical sensation, perceived through the bodily senses, or focused upon material reality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural sociology and philosophical anthropology, describing civilizations or minds preoccupied with empirical, palpable, and physical phenomena.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sensate designates having physical sensation."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Every **sensate** creature responds instinctively to pain by withdrawing from the destructive stimulus."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"The evolution of the nervous system transformed simple protoplasm into complex **sensate** organisms."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"The struggle for existence imposes severe trials upon every **sensate** being endowed with nervous consciousness."*

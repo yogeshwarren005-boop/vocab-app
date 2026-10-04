@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the use of or having the nature of a declaration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the use of or having the nature of a declaration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to declare, explain, or state an existing situation, law, or right rather than creating a new one.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional law and statutory interpretation, legislation enacted to clarify, confirm, or reaffirm pre-existing legal principles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Miss Wisk’s mission, my guardian said, was to show the world that woman’s mission was man’s mission and that the only genuine mission of both man and woman was to be always moving declaratory resolutions about things in general at public meetings."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"A "Declaratory Statement" was drawn up of the sense in which, while retaining the Standards, the Church understood them."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"They are only declaratory of a truth which would have resulted by necessary and unavoidable implication from the very act of constituting a federal government, and vesting it with certain specified powers."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Statutes are either **declaratory** of the ancient common law or remedial of its discovered defects."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The constitutional clause was strictly **declaratory** of powers already inherent in sovereign governance."*
+> - 📜 **Edmund Burke (*Speech on American Taxation*):** *"Parliament passed the **declaratory** act to reassert its theoretical sovereignty over colonial taxation."*

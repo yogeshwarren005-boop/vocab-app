@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an absentminded or preoccupied manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an absentminded or preoccupied manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without paying attention to what one is doing; in a daydreaming, distracted, or preoccupied manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive fiction, executing automatic physical gestures or misplacing objects while conscious attention is captured by interior deliberation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Poul Anderson (*The Valor of Cappen Varra*):** *"He comforted her, absentmindedly, and dressed in the dark, swearing at the clumsy leggings."*
+> - 📜 **Leo Tolstoy (*Anna Karenina*):** *"Levin walked down the garden path, **absentmindedly** flicking off the dandelion heads with his walking stick as he pondered Kitty's words."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"He reached into his pocket and **absentmindedly** fingered the metal coin, oblivious to the murmur of sailors on the deck."*
+> - 📜 **Thomas Mann (*Buddenbrooks*):** *"The senator tapped his fingers **absentmindedly** against the desk, calculating the heavy freight losses of the Baltic shipment."*

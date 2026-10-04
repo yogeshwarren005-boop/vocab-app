@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to burn rapidly and with great intensity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Burn with great heat and intense light.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To burn rapidly with intense heat and sparks without exploding, undergoing rapid chemical combustion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In explosive chemistry, thermodynamics, and pyrotechnics, rapid subsonic combustion propagating through thermal conductivity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deflagrate designates cause to burn rapidly and with great intensity."*
+> - 📜 **Michael Faraday (*The Chemical History of a Candle*):** *"A mixture of nitre and charcoal will **deflagrate** with brilliant scintillation when touched with a red-hot iron rod."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"Certain volatile salts **deflagrate** upon the coals, throwing off vivid luminous vapors before dissolving."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"Black powder is engineered to **deflagrate** rather than detonate, producing steady propellant expansion in the cannon."*

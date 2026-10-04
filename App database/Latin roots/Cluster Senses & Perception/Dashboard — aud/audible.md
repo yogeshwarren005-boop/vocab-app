@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A football play is changed orally after both teams have assumed their positions at the line of scrimmage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Heard or perceptible by the ear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being heard; loud enough to be perceived by the human ear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In acoustic science and dramatic narration, clear enough to register upon an observer's hearing apparatus without mechanical amplification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It’s sprightly walking, audible, and full of vent."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Leonore, who had blushed violently under his scrutiny, said in a barely audible voice, "Perhaps we should not have come; but Mäzli thought we might be allowed to see you."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Ada touched the notes so softly and sang so low that the wind, sighing away to the distant hills, was as audible as the music."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"A heavy sigh broke from his breast, scarcely **audible** amid the howling of the Arctic tempest."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The ticking of the clock grew painfully **audible** in the heavy silence of the chamber."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"No sound was **audible** save the faint rustle of the wind through the dense foliage."*

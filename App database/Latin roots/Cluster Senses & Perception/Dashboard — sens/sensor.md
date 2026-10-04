@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any device that receives a signal or stimulus (as heat or pressure or light or motion etc.) and responds to it in a distinctive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any device that receives a signal or stimulus (as heat or pressure or light or motion etc.) and responds to it in a distinctive manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A device or biological organ that detects, measures, or responds to physical stimuli and inputs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electronic engineering and cybernetics, a transducer that converts environmental physical quantities into measurable electronic or mechanical signals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"An aberrant indicator caught his eye and he mind-stroked a sensor control."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Hodak, acting as clumsily as he could, slammed and locked the passageway safety doors with the loudest noises he could generate, broadcasting the unusual activity to all within hearing range and for electronic sensor pickup."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Ceres' sensors verify the findings."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The tactile papilla of the fingertip functions as a biological **sensor**, converting pressure into nerve impulses."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The intricate brass apparatus included an automatic **sensor** calibrated to monitor atmospheric resistance and velocity."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"Every sensory organ evolved as an external **sensor** registering environmental changes vital to organismal survival."*

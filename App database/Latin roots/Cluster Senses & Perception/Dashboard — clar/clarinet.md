@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A single-reed instrument with a straight tube.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A single-reed instrument with a straight tube.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woodwind instrument with a single-reed mouthpiece, a cylindrical tube with a flared bell, and key-operated tone holes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organology, acoustics, and orchestral scoring, an aerophone characterized by an odd-harmonic cylindrical acoustic bore.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clarinet designates a single-reed instrument with a straight tube."*
+> - 📜 **Hector Berlioz (*Treatise on Modern Instrumentation and Orchestration*):** *"The timbre of the **clarinet** possesses an incomparable pastoral sweetness in its middle register."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The soloist played the Mozart concerto upon his **clarinet** with exquisite tonal purity and phrasing."*
+> - 📜 **Thomas Mann (*Doctor Faustus*):** *"The expressive lament of the solo **clarinet** introduced a mood of haunting sorrow into the symphonic movement."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Represent falsely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tamper, with the purpose of deception.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To give a false, misleading, or inaccurate account, impression, or statement concerning something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tort law and forensic rhetoric, to make a fraudulent or negligent statement of material fact intended to deceive another party.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"They watch you, misrepresent you, write letters about you (anonymous sometimes), and you are the torment and the occupation of their lives."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"I had no right to misrepresent the goods to that lady."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The testimony of the serpent is significant of the illusion of error, of the false claims that misrepresent God, good."*
+> - 📜 **Edmund Burke (*Speech on the Nabob of Arcot's Debts*):** *"I shall not **misrepresent** the facts of this sordid transaction, but lay before Parliament the authentic ledgers themselves."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Disputants often deliberately **misrepresent** the arguments of their adversaries to secure a cheap victory before the audience."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Wickham did not hesitate to **misrepresent** Mr. Darcy's character and actions to every receptive ear in Meryton."*

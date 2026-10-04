@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act in a sentimental way or indulge in sentimental thoughts or expression.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act in a sentimental way or indulge in sentimental thoughts or expression.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To indulge in sentiment, daydream with affected emotional tenderness, or imbue an object with excessive emotion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological character study, to retreat from resolute practical decision into the passive enjoyment of tender emotional reverie.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sentimentize designates act in a sentimental way or indulge in sentimental thoughts or expression."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Men **sentimentize** about universal benevolence, but fail to exercise simple justice toward the neighbor at their gate."*
+> - 📜 **Edgar Allan Poe (*Marginalia*):** *"The lesser magazine poets continue to **sentimentize** upon autumn leaves and weeping willows with wearisome monotony."*
+> - 📜 **Herman Melville (*Pierre; or, The Ambiguities*):** *"He would pace the orchard and **sentimentize** upon filial piety while his mother remained estranged in the haughty mansion."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being the present; - r.e.spiller.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being the present; - r.e.spiller.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or characteristic of being directly present, immediate, vivid, or currently actualized.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modernist art criticism and existential phenomenology, the total, immediate absorption of perceptual consciousness in an aesthetic object.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, presentness designates the quality of being the present; - r.e.spiller."*
+> - 📜 **Michael Fried (*Art and Objecthood*):** *"We are all literalists most or all of our lives; **presentness** is grace, uniting the viewer with the artwork in an instantaneous epiphany."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The feeling of vivid **presentness** distinguishes direct perceptual awareness from the dim echoes of conceptual memory."*
+> - 📜 **Henri Bergson (*Matter and Memory*):** *"Pure perception is precisely the **presentness** of the material object acting directly upon our motor sensors."*

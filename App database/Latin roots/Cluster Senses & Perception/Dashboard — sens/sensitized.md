@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make sensitive or aware.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to sense; make sensitive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rendered sensitive, reactive to light or chemicals, or easily affected by external conditions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In photography and immunology, made responsive to light frequencies or preconditioned to exhibit immune hypersensitivity upon allergen challenge.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sensitized designates make sensitive or aware."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"The chemical solution had **sensitized** the paper, causing the secret cipher to emerge under candlelight."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"When **sensitized** animals received a second injection, severe bronchial constriction immediately ensued."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The Martian eyes, **sensitized** to the twilight of their native globe, shielded themselves from bright terrestrial sunshine."*

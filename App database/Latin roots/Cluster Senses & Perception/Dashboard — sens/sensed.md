@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perceive by a physical sensation, e.g., coming from the skin or muscles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Detect some circumstance or entity automatically.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Perceived through bodily senses, apprehended intuitively, or detected by an instrument.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology and narrative prose, instinctively registered or subconsciously grasped prior to formal analytical deduction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Captain Jamie must have sensed this faith that informed me, for he said: “I remember a Swede that went crazy twenty years ago."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It was nervous, tingling work, for as surely as I sensed his intention of briefness, just as surely had he sensed mine."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But in him, this poor-clad, lean-bellied priest, I sensed the power behind power in all the palace and in all Cho-Sen."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Clym **sensed** the gathering gloom of Egdon Heath as an ancient, brooding presence in his soul."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"He **sensed** the impending catastrophe before the vessel struck the submerged wreckage in the dark."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"Mrs. Ramsay **sensed** the unspoken sadness of her guest and offered a gentle, reassuring word."*

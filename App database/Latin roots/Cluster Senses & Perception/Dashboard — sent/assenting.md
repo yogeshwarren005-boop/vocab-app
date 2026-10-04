@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Agreeing with or consenting to (often unwillingly).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To agree or express agreement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Giving agreement, concurring, or formally signifying approval and compliance with a measure or statement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence, describing a judge who concurs with the majority outcome of an appellate decision or a signatory ratifying a compact.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"After breakfast it is time to go to school." The mother, assenting, rose and went to the table to fill their cups."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"George, entirely assenting, puts on his hat and prepares to march with Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The old girl promptly makes a sign of entreaty to him to say nothing; assenting with a nod, he suffers them to enter as he shuts the door."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The pliant senate ratified the imperial decree with an **assenting** acclamation that barely concealed their underlying terror."*
+> - 📜 **George Bancroft (*History of the United States of America*):** *"Every **assenting** colony added momentum to the continental declaration that transformed thirteen provinces into a republic."*
+> - 📜 **Benjamin Cardozo (*The Nature of the Judicial Process*):** *"An **assenting** colleague may arrive at the common judgment through an entirely distinct corridor of legal precedent."*

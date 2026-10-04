@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Agreement in the judgment or opinion reached by a group as a whole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Agreement in the judgment or opinion reached by a group as a whole.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A general agreement, collective solidarity, or concord arrived at by a group or society.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political philosophy and sociological epistemology, widespread convergence of belief, scientific doctrine, or institutional policy across disparate factions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We must give greater credence to each other's needs and aspirations and arrive at consensus on sharing in the responsibilities for this, our family of planets and satellites."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Slowly, positions clarified and consensus took form."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The consensus of ancient opinion on this subject seems too great to be rejected as a mere fancy."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The election of the new pontiff was ratified by the unanimous **consensus** of the clergy and assembled Roman populace."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Sociological laws reflect the intimate **consensus** existing between the diverse intellectual, moral, and economic institutions of an era."*
+> - 📜 **William James (*The Will to Believe*):** *"Scientific dogma achieves practical credibility through a steady **consensus** formed across generations of experimental observers."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an insensate manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an insensate manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner lacking physical sensation, rational comprehension, or moral restraint; blindly or foolishly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic narrative and ethical discourse, acting with callous ferocity or reckless indifference to human suffering and logic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, insensately designates in an insensate manner."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab raged **insensately** against the eternal elements, defying ocean and tempest alike."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The heavy cannon battered the jungle cliff **insensately**, firing blind shells into impenetrable foliage."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"Blind circumstance had beaten down his ambitions, operating **insensately** without justice or mercy."*

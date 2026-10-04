@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing agreement or consent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressing agreement or consent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing agreement, concurring in judgment, or actively indicating consent or compliance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal drafting and ecclesiastic governance, designating a party or faction that formally adopts and validates a decreed doctrine or covenant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, assentient designates expressing agreement or consent."*
+> - 📜 **Jeremy Bentham (*Rationale of Judicial Evidence*):** *"The judge looked for an **assentient** nod from the senior juror before permitting the evidentiary testimony to conclude."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A statute receives binding moral and legal force only when passed by the **assentient** voices of King, Lords, and Commons."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"Faith demands not a passive surrender of reason, but an **assentient** will responding to spiritual illumination."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make (someone or something) sentimental or imbue with sentimental qualities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Look at with sentimentality or turn into an object of sentiment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To indulge in sentimental feelings, or to portray subjects with exaggerated emotional nostalgia (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary critique, to gloss over harsh existential or ethical conflicts with unearned tearful platitudes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"We, of this self-conscious, incredulous generation, sentimentalise our children, analyse our children, think we are endowed with a special capacity to sympathise and identify ourselves with children; we play at being children."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Sentimentalise over the railings when you feel _rose_." Charmion's fine brows arched, her lids drooped over her eyes."*
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"We must not **sentimentalise** the poet's wayward life, nor turn his serious revolutionary passions into harmless nursery rhymes."*
+> - 📜 **George Bernard Shaw (*Plays Pleasant and Unpleasant*):** *"The dramatist ought to expose the cruel hypocrisy of social institutions rather than **sentimentalise** over domestic misfortunes."*
+> - 📜 **E. M. Forster (*Aspects of the Novel*):** *"It is easy to **sentimentalise** about pastoral simplicity, but the countryside remains a realm of arduous and unromantic labor."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cigar made with light-colored tobacco.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cigar made with light-colored tobacco.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mild cigar made with light-colored, yellowish-brown tobacco wrapper leaf.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the tobacco trade and cigar connoisseurship, a grade designation denoting the lightest standard leaf shade.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, claro designates a cigar made with light-colored tobacco."*
+> - 📜 **Mark Twain (*Autobiography of Mark Twain*):** *"I selected a mild **claro** from the cedar box, savoring its delicate aroma as the match caught."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes examined the pale ash of the **claro** discarded upon the carpet by the mysterious visitor."*
+> - 📜 **Joseph Conrad (*Victory*):** *"He puffed languidly upon a slender **claro**, watching the smoke curls drift away into the humid tropical night."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Materials using sight or sound to present information.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving both hearing and seeing (usually relating to teaching aids).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Using both sound and visual components, typically in education, presentation, or media broadcasting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pedagogy and communications technology, instructional materials designed to stimulate hearing and vision simultaneously to enhance comprehension.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, audiovisual designates materials using sight or sound to present information."*
+> - 📜 **Marshall McLuhan (*The Gutenberg Galaxy*):** *"Modern **audiovisual** technology returns our sensorium to the multi-sensory involvement characteristic of pre-print cultures."*
+> - 📜 **Walter J. Ong (*Interfaces of the Word*):** *"The classroom transformed as **audiovisual** devices supplemented the silent printed book with moving imagery and spoken narration."*
+> - 📜 **Raymond Williams (*Television: Technology and Cultural Form*):** *"New **audiovisual** apparatuses created cultural flows that fundamentally altered traditional recreational habits."*

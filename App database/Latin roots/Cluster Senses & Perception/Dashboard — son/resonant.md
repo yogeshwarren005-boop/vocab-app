@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by resonance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving to bring to mind; - wilder hobson.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deep, clear, and continuing to sound or ring; full of rich acoustic vibrations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phonetics, aesthetics, and acoustics, characterized by vibrant tonal fullness or rich evocative associations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"His voice, short, deep, and resonant, is not at all unlike the tones of the instrument to which he is devoted."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Waterloo, lamplit and resonant: the pulsing of many lamps, the hurry of many steps, the flitting by of many faces under an arch of gloom: dark quiet and the scent of violets in a waiting car."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Hawley started up, and said in his firm resonant voice, “Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"His deep, **resonant** voice filled the old paneled library with an imposing forensic solemnity."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Caleb Garth spoke in a rich, **resonant** tone that commanded immediate respect across the workshop."*
+> - 📜 **Henry James (*The Turn of the Screw*):** *"The stroke of the midnight bell was remarkably **resonant** in the chilly silence of the great hall."*

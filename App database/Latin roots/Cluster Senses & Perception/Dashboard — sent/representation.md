@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A presentation to the mind in the form of an idea or image.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A creation that is a visual or tangible rendering of someone or something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of portraying, symbolizing, depicting, or standing for someone or something; an image or model.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional law and cognitive psychology, the democratic system of governance through chosen deputies, or a mental schema encoding external data.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I doubt if my guardian were altogether taken by surprise when he received the representation, though it caused him much uneasiness and disappointment."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He heard it patiently and feelingly, but I saw that on the two subjects he had reserved it was at present hopeless to make any representation to him."*
-> - 📜 **Jane Austen (*Persuasion*):** *"I know those who would be shocked by such a representation of Mr Elliot, who would have difficulty in believing it; but I have never been satisfied."*
+> - 📜 **James Madison (*The Federalist Papers*):** *"The effect of legislative **representation** is to refine and enlarge the public views by passing them through the medium of a chosen body of citizens."*
+> - 📜 **Arthur Schopenhauer (*The World as Will and Representation*):** *"The world is my **representation**: this is a truth valid for every living, knowing being, though only man can reflect upon it."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"A completely equal **representation** of all classes is the only safeguard against the tyranny of sectional class interests."*

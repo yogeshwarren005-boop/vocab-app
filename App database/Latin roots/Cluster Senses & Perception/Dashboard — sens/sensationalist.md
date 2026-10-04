@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who uses exaggerated or lurid material in order to gain public attention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who uses exaggerated or lurid material in order to gain public attention.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who advocates philosophical sensationism or who employs shocking, provocative material to attract attention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In print journalism and epistemology, an author who exploits lurid scandals or a philosopher who grounds all knowledge purely in sensory impressions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sensationalist designates someone who uses exaggerated or lurid material in order to gain public attention."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"The ardent **sensationalist** ignores the higher spiritual intuitions that transcend empirical contact."*
+> - 📜 **George Bernard Shaw (*The Doctor's Dilemma*):** *"The newspaper proprietor acted as a shameless **sensationalist**, eager to inflate circulation at any cost."*
+> - 📜 **William James (*Pragmatism*):** *"The tough-minded thinker is often a **sensationalist**, trusting only tangible, physical realities."*

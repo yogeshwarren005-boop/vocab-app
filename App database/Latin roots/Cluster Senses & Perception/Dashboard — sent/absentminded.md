@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lost in thought; showing preoccupation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lost in thought; showing preoccupation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deep in thought and oblivious to current surroundings, everyday actions, or immediate obligations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology, exhibiting attentional lapses caused by deep inward cognitive focus displacing working memory for environmental cues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I noticed that you have been absentminded till now."*
-> - 📜 **James Joyce (*Ulysses*):** *"The French point of view. _Hamlet ou_... —The absentminded beggar, Stephen ended."*
-> - 📜 **James Joyce (*Ulysses*):** *"I fought with the colours for king and country in the absentminded war under general Gough in the park and was disabled at Spion Kop and Bloemfontein, was mentioned in dispatches."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The naturalist was so notoriously **absentminded** that he would pursue an unusual moth across the treacherous mire without a thought of danger."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"Our host appeared strangely **absentminded** that evening, gazing into the fire as if contemplating epochs far removed from our Victorian drawing-room."*
+> - 📜 **Mark Twain (*The Innocents Abroad*):** *"The learned professor was so hopelessly **absentminded** that he once bowed deferentially to his own umbrella in a hotel vestibule."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Desire for sensual pleasures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (philosophy) the ethical doctrine that feeling is the only criterion for what is good.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Preoccupation with bodily pleasures, sensuality, or philosophical sensationalism in epistemology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethical theory and philosophy of mind, the doctrine that sensual gratification is the chief good, or the belief that all ideas derive solely from physical sensations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"This doctrine may be inconvenient in practice, but it is far removed from vulgar sensualism, of which Shelley had not a trace."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The earthly 36:15 price of spirituality in a material age and the great moral distance between Christianity and sensualism preclude Christian Science from finding favor with the worldly- 36:18 minded."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Powerless promises The broadcast powers of evil so conspicuous to-day show themselves in the materialism and sensualism of 65:15 the age, struggling against the advancing spiritual era."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"Those who confuse utility with vulgar **sensualism** forget that the pleasures of the intellect rank far above bodily appetites."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The mechanistic **sensualism** of the eighteenth century failed to account for creative poetic imagination."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Ascetic practices represent a violent revulsion against animal **sensualism** in pursuit of spiritual purity."*

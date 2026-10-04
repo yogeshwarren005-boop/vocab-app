@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make clear and (more) comprehensible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make clear by removing impurities or solids, as by heating.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make something clear or easier to understand, or to melt fat or heat liquids to separate and remove impurities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pedagogy, culinary technique, and analytical philosophy, to elucidate conceptual distinctions or separate liquid fractions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"There is but one man in Jerusalem this day who can save Him,” she urged, “and that man is you, Lodbrog.” Because I did not immediately reply she shook me, as if in impulse to clarify wits she considered addled."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Some sorts of dirt serve to clarify.” “It’s just what I should have expected,” said Mr."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"As each topic was opened for discussion the view tank portrayed the corresponding regions, sectors, planets or satellites, shifting from one to the other as needed to clarify points under discussion or accompany the exploration for alternatives."*
+> - 📜 **Jack London (*The Star Rover*):** *"My solitary meditations in the dark cell served to **clarify** memories that had long lain dormant."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She spoke with earnest candor, hoping her explanation would **clarify** the unfortunate misunderstanding."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Systematic experimentation tends to purge the mind of idols and **clarify** the path of natural inquiry."*

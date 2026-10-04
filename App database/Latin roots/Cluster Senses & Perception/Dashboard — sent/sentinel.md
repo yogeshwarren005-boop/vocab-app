@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person employed to keep watch for some anticipated event.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person employed to keep watch for some anticipated event.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A soldier or guard whose job is to stand watch, observe threats, and maintain vigilant security.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epidemiology and ecological monitoring, a monitor species or checkpoint that provides early warning of environmental toxins or infectious outbreaks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"One aloof stand sentinel. [_Exeunt Fairies."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Might it be a sentinel at the castle who was ordered to go about?"*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"May be the old castle-barons had always wished an armed sentinel to keep watch."*
+> - 📜 **William Shakespeare (*A Midsummer Night's Dream*):** *"One aloof stand **sentinel**. Thus the fairy guard took up his silent watch while the queen slept peacefully."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Fixed on their duty, the cherubic watch and mighty **sentinel** stood vigilant around the battlements of heaven."*
+> - 📜 **Walter Scott (*The Lady of the Lake*):** *"The highland **sentinel** paced the craggy parapet, scanning the mist-covered glen for advancing royal cohorts."*

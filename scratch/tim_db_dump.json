@@ -1,0 +1,1296 @@
+{
+  "altimeter": {
+    "defs": [
+      "An instrument for taking altitudes, as a quadrant, sextant, etc. Knight.",
+      "an instrument that measures the height above ground; used in navigation"
+    ],
+    "quotes": []
+  },
+  "antimacassar": {
+    "defs": [
+      "A cover for the back or arms of a chair or sofa, etc., to prevent them from being soiled by macassar or other oil from the hair.",
+      "a piece of ornamented cloth that protects the back of a chair from hair oils"
+    ],
+    "quotes": []
+  },
+  "antimagnetic": {
+    "defs": [
+      "impervious to the effects of a magnetic field; resistant to magnetization"
+    ],
+    "quotes": []
+  },
+  "antimalarial": {
+    "defs": [
+      "Good against malaria.",
+      "a medicinal drug used to prevent or treat malaria"
+    ],
+    "quotes": []
+  },
+  "antimatter": {
+    "defs": [
+      "matter consisting of elementary particles that are the antiparticles of those making up normal substances"
+    ],
+    "quotes": []
+  },
+  "antimeson": {
+    "defs": [
+      "the antiparticle of a meson"
+    ],
+    "quotes": []
+  },
+  "antimetabolite": {
+    "defs": [
+      "an antineoplastic drug that inhibits the utilization of a metabolite"
+    ],
+    "quotes": []
+  },
+  "antimicrobial": {
+    "defs": [
+      "an agent (as heat or radiation or a chemical) that destroys microorganisms that might carry disease",
+      "capable of destroying or inhibiting the growth of disease-causing microorganisms"
+    ],
+    "quotes": []
+  },
+  "antimicrobic": {
+    "defs": [
+      "an agent (as heat or radiation or a chemical) that destroys microorganisms that might carry disease",
+      "capable of destroying or inhibiting the growth of disease-causing microorganisms"
+    ],
+    "quotes": []
+  },
+  "antimonial": {
+    "defs": [
+      "Of or pertaining to antimony. -- n. (Med.)  A preparation or medicine containing antimony. Antimonial powder, a consisting of one part oxide of antimony and two parts phosphate of calcium; -- also called James's powder.",
+      "containing antimony"
+    ],
+    "quotes": []
+  },
+  "antimonic": {
+    "defs": [
+      "Pertaining to, or derived from, antimony; -- said of those compounds of antimony in which this element has its highest equivalence; as, antimonic acid.",
+      "relating to or derived from antimony"
+    ],
+    "quotes": []
+  },
+  "antimonious": {
+    "defs": [
+      "Pertaining to, or derived from, antimony; -- said of those compounds of antimony in which this element has an equivalence next lower than the highest; as, antimonious acid.",
+      "relating to or derived from antimony"
+    ],
+    "quotes": []
+  },
+  "antimonopoly": {
+    "defs": [
+      "of laws and regulations; designed to protect trade and commerce from unfair business practices"
+    ],
+    "quotes": []
+  },
+  "antimony": {
+    "defs": [
+      "An elementary substance, resembling a metal in its appearance and physical properties, but in its chemical relations belonging to the class of nonmetallic substances. Atomic weight, 120. Symbol, Sb. Note: It is of tin-white color, brittle, laminated or crystalline, fusible, and vaporizable at a rather low temperature. It is used in some metallic alloys, as type metal and bell metal, and also for medical preparations, which are in general emetics or cathartics. By ancient writers, and some moderns, the term is applied to native gray ore of antimony, or stibnite (the stibium of the Romans, and the Cervantite, senarmontite, and valentinite are native oxides of antimony.",
+      "a metallic element having four allotropic forms; used in a wide variety of alloys; found in stibnite"
+    ],
+    "quotes": []
+  },
+  "antimuon": {
+    "defs": [
+      "the antiparticle of a muon; decays to positron and neutrino and antineutrino"
+    ],
+    "quotes": []
+  },
+  "antimycin": {
+    "defs": [
+      "a crystalline antibiotic active against various fungi"
+    ],
+    "quotes": []
+  },
+  "antimycotic": {
+    "defs": [
+      "any agent that destroys or prevents the growth of fungi"
+    ],
+    "quotes": []
+  },
+  "intima": {
+    "defs": [
+      "the innermost membrane of an organ (especially the inner lining of an artery or vein or lymphatic vessel)"
+    ],
+    "quotes": []
+  },
+  "intimacy": {
+    "defs": [
+      "The state of being intimate; close familiarity or association; nearness in friendship. Syn. -- Acquaintance; familiarity; fellowship; friendship. See Acquaintance.",
+      "close or warm friendship",
+      "a usually secretive or illicit sexual relationship",
+      "a feeling of being intimate and belonging together"
+    ],
+    "quotes": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Say the words, dear one, and the subject shall be dismissed; a blissful loving intimacy of six years, and then marriage—O Bathsheba, say them!” he begged in a husky voice, unable to sustain the forms of mere friendship any longer."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Garth had been a teacher before her marriage; in which case an intimacy with Lindley Murray and Mangnall’s Questions was something like a draper’s discrimination of calico trademarks, or a courier’s acquaintance with foreign countries: no woman who was better off needed that sort of thing."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "Sherlock Holmes, for solution during the years of our intimacy, there were only two which I was the means of introducing to his notice—that of Mr."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "This belief fostered a sympathy which, by the time they had discovered how different they really were, had grown so strong a habit that they always kept up their intimacy."
+      },
+      {
+        "author": "Oscar Wilde",
+        "work": "The Picture of Dorian Gray",
+        "sentence": "Then the intimacy had come suddenly to an end."
+      },
+      {
+        "author": "Joseph Conrad",
+        "work": "Heart of Darkness",
+        "sentence": "I did say the right thing, though indeed he could not have been more irretrievably lost than he was at this very moment, when the foundations of our intimacy were being laid—to endure—to endure—even to the end—even beyond."
+      },
+      {
+        "author": "James Joyce",
+        "work": "Dubliners",
+        "sentence": "Not long before she had celebrated her silver wedding and renewed her intimacy with her husband by waltzing with him to Mr Power’s accompaniment."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "For her kindred, should the tidings ever reach them, and for the companions of her unspotted life, there remained nothing but the contagion of her dishonour; which would not fail to be distributed in strict accordance and proportion with the intimacy and sacredness of their previous relationship."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "But our intimacy was much advanced by his taking me on his back to carry me home."
+      },
+      {
+        "author": "Mary Shelley",
+        "work": "Frankenstein",
+        "sentence": "The Turk allowed this intimacy to take place and encouraged the hopes of the youthful lovers, while in his heart he had formed far other plans."
+      },
+      {
+        "author": "Jane Austen",
+        "work": "Emma",
+        "sentence": "Between _them_ it was more the intimacy of sisters."
+      }
+    ]
+  },
+  "intimal": {
+    "defs": [
+      "of or relating to the intima"
+    ],
+    "quotes": []
+  },
+  "intimate": {
+    "defs": [
+      "1. Innermost; inward; internal; deep-seated; hearty. \"I knew from intimate impulse.\" Milton. 2. Near; close; direct; thorough; complete. He was honored with an intimate and immediate admission. South. 3. Close in friendship or acquaintance; familiar; confidential; as, an intimate friend. Syn. -- Familiar; near; friendly; confidential.\n\nAn intimate friend or associate; a confidant. Gov. of the Tongue.\n\n1. To announce; to declare; to publish; to communicate; to make known. [Obs.] He, incontinent, did proclaim and intimate open war. E. Hall. So both conspiring 'gan to intimate Each other's grief. Spenser. 2. To suggest obscurely or indirectly; to refer to remotely; to give slight notice of; to hint; as, he intimated his intention of resigning his office. The names of simple ideas and substances, with the abstract ideas in the mind, intimate some real existence, from which was derived their original pattern. Locke.",
+      "someone to whom private matters are confided",
+      "give to understand",
+      "imply as a possibility",
+      "marked by close acquaintance, association, or familiarity; ;  - V.L. Parrington"
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Thou this to hazard needs must intimate Skill infinite, or monstrous desperate."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Ah,” said Matthew Moon, “she’ll wish her cake dough if so be she’s over intimate with that man."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "We may conclude, from what we have seen of the intimate and complex manner in which the inhabitants of each country are bound together, that any change in the numerical proportions of some of the inhabitants, independently of the change of climate itself, would most seriously affect many of the others."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Of this sequence to Bichat’s work, already vibrating along many currents of the European mind, Lydgate was enamoured; he longed to demonstrate the more intimate relations of living structure, and help to define men’s thought more accurately after the true order."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "This is my intimate friend and associate, Dr."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "The result is now in question, although our words intimate well enough the popular feeling, that the appearance supposes a substance."
+      },
+      {
+        "author": "Oscar Wilde",
+        "work": "The Picture of Dorian Gray",
+        "sentence": "It was remarked, however, that some of those who had been most intimate with him appeared, after a time, to shun him."
+      },
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "It is something at once more intimate with us and more universal than any other work of art."
+      },
+      {
+        "author": "Joseph Conrad",
+        "work": "Heart of Darkness",
+        "sentence": "And the intimate profundity of that look he gave me when he received his hurt remains to this day in my memory—like a claim of distant kinship affirmed in a supreme moment."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "And about this harpooneer, whom I have not yet seen, you persist in telling me the most mystifying and exasperating stories tending to beget in me an uncomfortable feeling towards the man whom you design for my bedfellow—a sort of connexion, landlord, which is an intimate and confidential one in the highest degree."
+      },
+      {
+        "author": "James Joyce",
+        "work": "Dubliners",
+        "sentence": "The man glanced at the two clients who were standing at the counter as if to intimate that their presence prevented him from answering."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "Then why—since the choice was with himself—should the individual, whose connexion with the fallen woman had been the most intimate and sacred of them all, come forward to vindicate his claim to an inheritance so little desirable?"
+      },
+      {
+        "author": "H. G. Wells",
+        "work": "The Time Machine",
+        "sentence": "But to come to a stop involved the jamming of myself, molecule by molecule, into whatever lay in my way; meant bringing my atoms into such intimate contact with those of the obstacle that a profound chemical reaction—possibly a far-reaching explosion—would result, and blow myself and my apparatus out of all possible dimensions—into the Unknown."
+      },
+      {
+        "author": "Thomas Henry Huxley",
+        "work": "Evolution and Ethics",
+        "sentence": "Their kindness as hosts won upon Cowper; they sought and had his more intimate friendship, till in his correspondence he playfully abused the first syllable of their name and called them Mr. and Mrs."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "If I ain’t been azackly as intimate with you."
+      },
+      {
+        "author": "Jonathan Swift",
+        "work": "Gulliver's Travels",
+        "sentence": "Lemuel Gulliver, is my ancient and intimate friend; there is likewise some relation between us on the mother’s side."
+      },
+      {
+        "author": "Mary Shelley",
+        "work": "Frankenstein",
+        "sentence": "I spoke of my desire of finding a friend, of my thirst for a more intimate sympathy with a fellow mind than had ever fallen to my lot, and expressed my conviction that a man could boast of little happiness who did not enjoy this blessing."
+      }
+    ]
+  },
+  "intimately": {
+    "defs": [
+      "In an intimate manner.",
+      "in a close manner",
+      "with great or especially intimate knowledge"
+    ],
+    "quotes": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "His host and his host’s household, his men and his maids, as they became intimately known to Clare, began to differentiate themselves as in a chemical process."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "_Extinction_.—This subject will be more fully discussed in our chapter on Geology; but it must be here alluded to from being intimately connected with natural selection."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "It was not possible to write the history of Shakspeare till now; for he is the father of German literature: it was on the introduction of Shakspeare into German, by Lessing,[612] and the translation of his works by Wieland[613] and Schlegel,[614] that the rapid burst of German literature was most intimately connected."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "So strangely did they meet in the dim wood that it was like the first encounter in the world beyond the grave of two spirits who had been intimately connected in their former life, but now stood coldly shuddering in mutual dread, as not yet familiar with their state, nor wonted to the companionship of disembodied beings."
+      },
+      {
+        "author": "H. G. Wells",
+        "work": "The War of the Worlds",
+        "sentence": "Happily, I knew the road intimately."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "Micawber!’ I repeated. ‘Why, I am intimately acquainted with them!’"
+      },
+      {
+        "author": "Jane Austen",
+        "work": "Emma",
+        "sentence": "I do not often walk this way _now_,\" said Emma, as they proceeded, \"but _then_ there will be an inducement, and I shall gradually get intimately acquainted with all the hedges, gates, pools and pollards of this part of Highbury."
+      }
+    ]
+  },
+  "intimation": {
+    "defs": [
+      "1. The act of intimating; also, the thing intimated. 2. Announcement; declaration. Macaulay. They made an edict with an intimation that whosoever killed a stork, should be banished. Holland. 3. A hint; an obscure or indirect suggestion or notice; a remote or ambiguous reference; as, he had given only intimations of his design. Without mentioning the king of England, or giving the least intimation that he was sent by him. Bp. Burnet.",
+      "an indirect suggestion",
+      "a slight suggestion or vague understanding"
+    ],
+    "quotes": [
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "It is a faint intimation, yet so are the first streaks of morning."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "Seeing, however, that his forbearance had not the slightest effect, by an awful and unspeakable intimation with his twisted hand he warned off the foolish and infatuated man; but it was to no purpose."
+      },
+      {
+        "author": "James Joyce",
+        "work": "Dubliners",
+        "sentence": "An intimation of the result pricked him like the point of a sharp instrument."
+      },
+      {
+        "author": "H. G. Wells",
+        "work": "The Time Machine",
+        "sentence": "It was here that I was destined, at a later date, to have a very strange experience—the first intimation of a still stranger discovery—but of that I will speak in its proper place."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "It was not long after that--not more than two or three days--when he gave me the first intimation of what I tell you."
+      },
+      {
+        "author": "Jane Austen",
+        "work": "Emma",
+        "sentence": "Knightley passing through the garden door, and coming towards her.--It was the first intimation of his being returned from London."
+      }
+    ]
+  },
+  "intimidate": {
+    "defs": [
+      "To make timid or fearful; to inspire of affect with fear; to deter, as by threats; to dishearten; to abash. Now guilt, once harbored in the conscious breast, Intimidates the brave, degrades the great. Johnson. Syn. -- To dishearten; dispirit; abash; deter; frighten; terrify; daunt; cow.",
+      "make timid or fearful",
+      "to compel or deter by or as if by threats"
+    ],
+    "quotes": [
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "The society of the energetic class, in their friendly and festive meetings, is full of courage, and of attempts, which intimidate the pale scholar."
+      }
+    ]
+  },
+  "intimidated": {
+    "defs": [
+      "make timid or fearful",
+      "to compel or deter by or as if by threats",
+      "made timid or fearful as by threats"
+    ],
+    "quotes": [
+      {
+        "author": "Mary Shelley",
+        "work": "Frankenstein",
+        "sentence": "As I spoke, rage sparkled in my eyes; the magistrate was intimidated."
+      }
+    ]
+  },
+  "intimidating": {
+    "defs": [
+      "make timid or fearful",
+      "to compel or deter by or as if by threats",
+      "discouraging through fear"
+    ],
+    "quotes": []
+  },
+  "intimidation": {
+    "defs": [
+      "The act of making timid or fearful or of deterring by threats; the state of being intimidated; as, the voters were kept from the polls by intimidation. The king carried his measures in Parliament by intimidation. Paley.",
+      "the act of intimidating a weaker person to make them do something",
+      "the feeling of discouragement in the face of someone's superior fame or wealth or status etc.",
+      "the feeling of being intimidated; being made to feel afraid or timid",
+      "a communication that makes you afraid to try something"
+    ],
+    "quotes": []
+  },
+  "mistime": {
+    "defs": [
+      "To time wrongly; not to adapt to the time.",
+      "time incorrectly"
+    ],
+    "quotes": []
+  },
+  "mistiming": {
+    "defs": [
+      "something located at a time when it could not have existed or occurred",
+      "time incorrectly"
+    ],
+    "quotes": []
+  },
+  "optimal": {
+    "defs": [
+      "most desirable possible under a restriction expressed or implied"
+    ],
+    "quotes": []
+  },
+  "optimally": {
+    "defs": [
+      "in an optimal and most desirable way"
+    ],
+    "quotes": []
+  },
+  "optimisation": {
+    "defs": [
+      "the act of rendering optimal"
+    ],
+    "quotes": []
+  },
+  "optimise": {
+    "defs": [
+      "make optimal; get the most out of; use best",
+      "modify to achieve maximum efficiency in storage capacity or time or cost",
+      "act as an optimist and take a sunny view of the world"
+    ],
+    "quotes": []
+  },
+  "optimism": {
+    "defs": [
+      "1. (Metaph.)  The opinion or doctrine that everything in nature, being the work of God, is ordered for the best, or that the ordering of things in the universe is such as to produce the highest good. 2. A disposition to take the most hopeful view; -- opposed to pessimism.",
+      "the optimistic feeling that all is going to turn out well",
+      "a general disposition to expect the best in all things"
+    ],
+    "quotes": [
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "The soul refuses limits, and always affirms an Optimism,[140] never a Pessimism."
+      },
+      {
+        "author": "Oscar Wilde",
+        "work": "The Picture of Dorian Gray",
+        "sentence": "The basis of optimism is sheer terror."
+      },
+      {
+        "author": "H. G. Wells",
+        "work": "The War of the Worlds",
+        "sentence": "We lit these, and his optimism glowed."
+      },
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Man Who Was Thursday",
+        "sentence": "Then all Bull's boiling good sense and optimism broke suddenly out of him."
+      }
+    ]
+  },
+  "optimist": {
+    "defs": [
+      "1. (Metaph.)  One who holds the opinion that all events are ordered for the best. 2. One who looks on the bright side of things, or takes hopeful views; -- opposed to pessimist.",
+      "a person disposed to take a favorable view of things"
+    ],
+    "quotes": [
+      {
+        "author": "James Joyce",
+        "work": "Dubliners",
+        "sentence": "Villona was in good humour because he had had a very satisfactory luncheon; and besides he was an optimist by nature."
+      },
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Ball and the Cross",
+        "sentence": "Who can discuss whether Emerson was a better optimist than Schopenhauer was pessimist?"
+      }
+    ]
+  },
+  "optimistic": {
+    "defs": [
+      "1. (Metaph.)  Of or pertaining to optimism; tending, or conforming, to the opinion that all events are ordered for the best. 2. Hopeful; sanguine; as, an optimistic view.",
+      "expecting the best in this best of all possible worlds",
+      "expecting the best"
+    ],
+    "quotes": [
+      {
+        "author": "H. G. Wells",
+        "work": "The War of the Worlds",
+        "sentence": "Heavy losses of soldiers were mentioned, but the tone of the dispatch was optimistic."
+      },
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Man Who Was Thursday",
+        "sentence": "They said I looked too healthy and too optimistic, and too reliable and benevolent; they called me all sorts of names at Scotland Yard."
+      }
+    ]
+  },
+  "optimistically": {
+    "defs": [
+      "with optimism; in an optimistic manner"
+    ],
+    "quotes": []
+  },
+  "optimization": {
+    "defs": [
+      "the act of rendering optimal"
+    ],
+    "quotes": []
+  },
+  "optimize": {
+    "defs": [
+      "make optimal; get the most out of; use best",
+      "modify to achieve maximum efficiency in storage capacity or time or cost",
+      "act as an optimist and take a sunny view of the world"
+    ],
+    "quotes": []
+  },
+  "optimum": {
+    "defs": [
+      "most favorable conditions or greatest degree or amount possible under given circumstances",
+      "most desirable possible under a restriction expressed or implied"
+    ],
+    "quotes": []
+  },
+  "overtime": {
+    "defs": [
+      "Time beyond, or in excess of, a limit; esp., extra working time.",
+      "work done in addition to regular working hours",
+      "playing time beyond regulation, to break a tie",
+      "beyond the regular time"
+    ],
+    "quotes": []
+  },
+  "timalia": {
+    "defs": [
+      "type genus of the Timaliidae"
+    ],
+    "quotes": []
+  },
+  "timaliidae": {
+    "defs": [
+      "babblers"
+    ],
+    "quotes": []
+  },
+  "time-ball": {
+    "defs": [
+      "a ball that slides down a staff to show a fixed time; especially at an observatory"
+    ],
+    "quotes": []
+  },
+  "time-consuming": {
+    "defs": [
+      "of a task that takes time and patience"
+    ],
+    "quotes": []
+  },
+  "time-fuse": {
+    "defs": [
+      "a fuse made to burn for a given time (especially to explode a bomb)"
+    ],
+    "quotes": []
+  },
+  "time-honored": {
+    "defs": [
+      "Honored for a long time; venerable, and worthy of honor, by reason of antiquity, or long continuance.",
+      "acceptable for a long time",
+      "honored because of age or long usage"
+    ],
+    "quotes": [
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "I say, the most ungentlemanly trick a man can be guilty of is to come among the members of his profession with innovations which are a libel on their time-honored procedure."
+      }
+    ]
+  },
+  "time-honoured": {
+    "defs": [
+      "acceptable for a long time",
+      "honored because of age or long usage"
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Old John of Gaunt, time-honoured Lancaster, Hast thou, according to thy oath and band, Brought hither Henry Hereford, thy bold son, Here to make good the boist’rous late appeal, Which then our leisure would not let us hear, Against the Duke of Norfolk, Thomas Mowbray?"
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "The proprietor of a large old water-mill at Wellbridge—once the mill of an Abbey—had offered him the inspection of his time-honoured mode of procedure, and a hand in the operations for a few days, whenever he should choose to come."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "As I looked out of the coach window, and observed that an old house on Fish-street Hill, which had stood untouched by painter, carpenter, or bricklayer, for a century, had been pulled down in my absence; and that a neighbouring street, of time-honoured insalubrity and inconvenience, was being drained and widened; I half expected to find St."
+      }
+    ]
+  },
+  "time-out": {
+    "defs": [
+      "a brief suspension of play"
+    ],
+    "quotes": []
+  },
+  "time-release": {
+    "defs": [
+      "of or relating to a preparation that gradually releases an active substance (especially a drug) over a period of time"
+    ],
+    "quotes": []
+  },
+  "time-switch": {
+    "defs": [
+      "a switch set to operate at a desired time"
+    ],
+    "quotes": []
+  },
+  "time-tested": {
+    "defs": [
+      "tested and proved to be reliable"
+    ],
+    "quotes": []
+  },
+  "time": {
+    "defs": [
+      "1. Duration, considered independently of any system of measurement or any employment of terms which designate limited portions thereof. The time wasteth [i. e. passes away] night and day. Chaucer. I know of no ideas . . . that have a better claim to be accounted simple and original than those of space and time. Reid. 2. A particular period or part of duration, whether past, present, or future; a point or portion of duration; as, the time was, or has been; the time is, or will be. God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets. Heb. i. 1. 3. The period at which any definite event occurred, or person lived; age; period; era; as, the Spanish Armada was destroyed in the time of Queen Elizabeth; -- often in the plural; as, ancient times; modern times. 4. The duration of one's life; the hours and days which a person has at his disposal. Believe me, your time is not your own; it belongs to God, to religion, to mankind. Buckminster. 5. A proper time; a season; an opportunity. There is . . . a time to every purpose. Eccl. iii. 1. The time of figs was not yet. Mark xi. 13. 6. Hour of travail, delivery, or parturition. She was within one month of her time. Clarendon. 7. Performance or occurrence of an action or event, considered with reference to repetition; addition of a number to itself; repetition; as, to double cloth four times; four times four, or sixteen. Summers three times eight save one. Milton. 8. The present life; existence in this world as contrasted with immortal life; definite, as contrasted with infinite, duration. Till time and sin together cease. Keble. 9. (Gram.)  Tense. 10. (Mus.)  The measured duration of sounds; measure; tempo; rate of movement; rhythmical division; as, common or triple time; the musician keeps good time. Some few lines set unto a solemn time. Beau. & Fl. Note: Time is often used in the formation of compounds, mostly self- explaining; as, time-battered, time-beguiling, time-consecrated, time-consuming, time-enduring, time-killing, time-sanctioned, time- scorner, time-wasting, time-worn, etc. Absolute time, time irrespective of local standards or epochs; as, all spectators see a lunar eclipse at the same instant of absolute time. -- Apparent time, the time of day reckoned by the sun, or so that 12 o'clock at the place is the instant of the transit of the sun's center over the meridian. -- Astronomical time, mean solar time reckoned by counting the hours continuously up to twenty-four from one noon to the next. -- At times, at distinct intervals of duration; now and then; as, at times he reads, at other times he rides. -- Civil time, time as reckoned for the purposes of common life in distinct periods, as years, months, days, hours, etc., the latter, among most modern nations, being divided into two series of twelve each, and reckoned, the first series from midnight to noon, the second, from noon to midnight. -- Common time (Mil.), the ordinary time of marching, in which ninety steps, each twenty-eight inches in length, are taken in one minute. -- Equation of time. See under Equation, n. -- In time. (a) In good season; sufficiently early; as, he arrived in time to see the exhibition. (b) After a considerable space of duration; eventually; finally; as, you will in time recover your health and strength. -- Mean time. See under 4th Mean. -- Quick time (Mil.), time of marching, in which one hundred and twenty steps, each thirty inches in length, are taken in one minute. -- Sidereal time. See under Sidereal. -- Standard time, the civil time that has been established by law or by general usage over a region or country. In England the standard time is Greenwich mean solar time. In the United States and Canada four kinds of standard time have been adopted by the railroads and accepted by the people, viz., Eastern, Central, Mountain, and Pacific time, corresponding severally to the mean local times of the 75th, 90th, 105th, and 120th meridians west from Greenwich, and being therefore five, six, seven, and eight hours slower than Greenwich time. -- Time ball, a ball arranged to drop from the summit of a pole, to indicate true midday time, as at Greenwich Observatory, England. Nichol. -- Time bargain (Com.), a contract made for the sale or purchase of merchandise, or of stock in the public funds, at a certain time in the future. -- Time bill. Same as Time-table. [Eng.] -- Time book, a book in which is kept a record of the time persons have worked. -- Time detector, a timepiece provided with a device for registering and indicating the exact time when a watchman visits certain stations in his beat. -- Time enough, in season; early enough. \"Stanly at Bosworth field, . . . came time enough to save his life.\" Bacon. -- Time fuse, a fuse, as for an explosive projectile, which can be so arranged as to ignite the charge at a certain definite interval after being itself ignited. -- Time immemorial, or Time out of mind. (Eng. Law) See under Immemorial. -- Time lock, a lock having clockwork attached, which, when wound up, prevents the bolt from being withdrawn when locked, until a certain interval of time has elapsed. -- Time of day, salutation appropriate to the times of the day, as \"good morning,\" \"good evening,\" and the like; greeting. -- To kill time. See under Kill, v. t. -- To make time. (a) To gain time. (b) To occupy or use (a certain) time in doing something; as, the trotting horse made fast time. -- To move, run, or go, against time, to move, run, or go a given distance without a competitor, in the quickest possible time; or, to accomplish the greatest distance which can be passed over in a given time; as, the horse is to run against time. -- True time. (a) Mean time as kept by a clock going uniformly. (b) (Astron.) Apparent time as reckoned from the transit of the sun's center over the meridian.\n\n1. To appoint the time for; to bring, begin, or perform at the proper season or time; as, he timed his appearance rightly. There is no greater wisdom than well to time the beginnings and onsets of things. Bacon. 2. To regulate as to time; to accompany, or agree with, in time of movement. Who overlooked the oars, and timed the stroke. Addison. He was a thing of blood, whose every motion Was timed with dying cries. Shak. 3. To ascertain or record the time, duration, or rate of; as, to time the speed of horses, or hours for workmen. 4. To measure, as in music or harmony.\n\n1. To keep or beat time; to proceed or move in time. With oar strokes timing to their song. Whittier. 2. To pass time; to delay. [Obs.]",
+      "an instance or single occasion for some event",
+      "a period of time considered as a resource under your control and sufficient to accomplish something",
+      "an indefinite period (usually marked by specific attributes or activities)",
+      "a suitable moment"
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Look in thy glass and tell the face thou viewest, Now is the time that face should form another, Whose fresh repair if now thou not renewest, Thou dost beguile the world, unbless some mother."
+      }
+    ]
+  },
+  "timecard": {
+    "defs": [
+      "a card recording an employee's starting and quitting times each work day",
+      "a card used with a time clock to record an employee's starting and quitting times each day"
+    ],
+    "quotes": []
+  },
+  "timed": {
+    "defs": [
+      "measure the time or duration of an event or action or the person who performs an action in a certain period of time",
+      "assign a time for an activity or event",
+      "set the speed, duration, or execution of",
+      "regulate or set the time of"
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "His sword, Death’s stamp, Where it did mark, it took; from face to foot He was a thing of blood, whose every motion Was timed with dying cries."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "The sky was clear—remarkably clear—and the twinkling of all the stars seemed to be but throbs of one body, timed by a common pulse."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "I was too bashful to do so then--I was afraid of confusing her, and I was no less afraid of confusing myself.--but I informed myself of the hour at which she left of an evening, in order that our visit might be timed accordingly; and taking leave of Mr."
+      },
+      {
+        "author": "Jane Austen",
+        "work": "Emma",
+        "sentence": "Elton's civilities were dreadfully ill-timed; but she had the comfort of appearing very polite, while feeling very cross--and of thinking that the rest of the visit could not possibly pass without bringing forward the same information again, or the substance of it, from the open-hearted Mr."
+      },
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Man Who Was Thursday",
+        "sentence": "Yes,\" answered the new guide, \"I've timed it all."
+      }
+    ]
+  },
+  "timekeeper": {
+    "defs": [
+      "1. A clock, watch, or other chronometer; a timepiece. 2. A person who keeps, marks, regulates, or determines the time. Specifically: -- (a) A person who keeps a record of the time spent by workmen at their work. (b) One who gives the time for the departure of conveyances. (c) One who marks the time in musical performances. (d) One appointed to mark and declare the time of participants in races or other contests.",
+      "(sports) an official who keeps track of the time elapsed",
+      "a clerk who keeps track of the hours worked by employees",
+      "a measuring instrument or device for keeping time"
+    ],
+    "quotes": []
+  },
+  "timekeeping": {
+    "defs": [
+      "the act or process of determining the time"
+    ],
+    "quotes": []
+  },
+  "timeless": {
+    "defs": [
+      "1. Done at an improper time; unseasonable; untimely. [R.] Nor fits it to prolong the heavenly feast Timeless, indecent. Pope. 2. Done or occurring before the proper time; premature; immature; as, a timeless grave. [Obs.] Must I behold thy timeless, cruel death Shak. 3. Having no end; interminable; unending. \"Timeless night and chaos.\" Young.",
+      "unaffected by time"
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Have I sought every country far and near, And, now it is my chance to find thee out, Must I behold thy timeless cruel death?"
+      },
+      {
+        "author": "George Eliot",
+        "work": "Silas Marner",
+        "sentence": "Osgood’s family was also understood to be of timeless origin—the Raveloe imagination having never ventured back to that fearful blank when there were no Osgoods—still, he merely owned the farm he occupied; whereas Squire Cass had a tenant or two, who complained of the game to him quite as if he had been a lord."
+      }
+    ]
+  },
+  "timelessness": {
+    "defs": [
+      "a state of eternal existence believed in some religions to characterize the afterlife"
+    ],
+    "quotes": []
+  },
+  "timeline": {
+    "defs": [
+      "a sequence of related events arranged in chronological order and displayed along a line (usually drawn left to right or top to bottom)"
+    ],
+    "quotes": []
+  },
+  "timeliness": {
+    "defs": [
+      "The quality or state of being timely; seasonableness; opportuneness.",
+      "being at the right time",
+      "timely convenience"
+    ],
+    "quotes": []
+  },
+  "timely": {
+    "defs": [
+      "1. Being or occurring in good time; sufficiently early; seasonable. \"The timely dew of sleep.\" Milton. 2. Keeping time or measure. Spenser.\n\nEarly; soon; in good season. Timely advised, the coming evil shun. Prior. Thanks to you, That called me timelier than my purpose hither, For I have gained by it. Shak.",
+      "before a time limit expires",
+      "done or happening at the appropriate or proper time",
+      "at an opportune time"
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "But here must end the story of my life; And happy were I in my timely death, Could all my travels warrant me they live."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Leaving her instructions with Gabriel and Maryann, that they were to see everything carefully locked up for the night, she went out of the house just at the close of a timely thunder-shower, which had refined the air, and daintily bathed the coat of the land, though all beneath was dry as ever."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Casaubon, meeting these timely questions with dignified patience."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "Our words and actions to be fair must be timely."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "Oh, Death, why canst thou not sometimes be timely?"
+      },
+      {
+        "author": "Thomas Henry Huxley",
+        "work": "Evolution and Ethics",
+        "sentence": "He therefore, timely warned, himself supplies Her want of care, screening and keeping warm The plenteous bloom, that no rough blast may sweep His garlands from the boughs."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "A timely observation of the sense of power that there was in his face, did more to bring back to my remembrance the entreaty of Agnes, in its full force, than any effort I could have made."
+      }
+    ]
+  },
+  "timepiece": {
+    "defs": [
+      "A clock, watch, or other instrument, to measure or show the progress of time; a chronometer.",
+      "a measuring instrument or device for keeping time"
+    ],
+    "quotes": [
+      {
+        "author": "H. G. Wells",
+        "work": "The Time Machine",
+        "sentence": "I found the date was indeed today, and looking at the timepiece, saw the hour was almost eight o’clock."
+      }
+    ]
+  },
+  "timer": {
+    "defs": [
+      "A timekeeper; especially, a watch by which small intervals of time can be measured; a kind of stop watch. It is used for timing the speed of horses, machinery, etc.",
+      "a timepiece that measures a time interval and signals its end",
+      "(sports) an official who keeps track of the time elapsed",
+      "a regulator that activates or deactivates a mechanism at set times"
+    ],
+    "quotes": []
+  },
+  "times": {
+    "defs": [
+      "a more or less definite period of time now or previously present",
+      "an arithmetic operation that is the inverse of division; the product of two numbers is computed",
+      "an instance or single occasion for some event",
+      "a period of time considered as a resource under your control and sufficient to accomplish something"
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Be thou the tenth Muse, ten times more in worth Than those old nine which rhymers invocate, And he that calls on thee, let him bring forth Eternal numbers to outlive long date."
+      }
+    ]
+  },
+  "timeserver": {
+    "defs": [
+      "One who adapts his opinions and manners to the times; one who obsequiously compiles with the ruling power; -- now used only in a bad sense.",
+      "one who conforms to current ways and opinions for personal advantage"
+    ],
+    "quotes": []
+  },
+  "timeserving": {
+    "defs": [
+      "Obsequiously complying with the spirit of the times, or the humors of those in power.\n\nAn obsequious compliance with the spirit of the times, or the humors of those in power, which implies a surrender of one's independence, and sometimes of one's integrity. Syn. -- Temporizing. -- Timeserving, Temporizing. Both these words are applied to the conduct of one who adapts himself servilely to times and seasons. A timeserver is rather active, and a temporizer, passive. One whose policy is timeserving comes forward to act upon principles or opinions which may promote his advancement; one who is temporizing yields to the current of public sentiment or prejudice, and shrinks from a course of action which might injure him with others. The former is dishonest; the latter is weak; and both are contemptible. Trimming and timeserving, which are but two words for the same thing, . . . produce confusion. South. [I] pronounce thee . . . a hovering temporizer, that Canst with thine eyes at once see good and evil, Inclining to them both. Shak.",
+      "taking immediate advantage, often unethically, of any circumstance of possible benefit"
+    ],
+    "quotes": []
+  },
+  "timetable": {
+    "defs": [
+      "a schedule listing events and the times at which they will take place",
+      "a schedule of times of arrivals and departures"
+    ],
+    "quotes": []
+  },
+  "timework": {
+    "defs": [
+      "work paid for at a rate per unit of time"
+    ],
+    "quotes": []
+  },
+  "timeworn": {
+    "defs": [
+      "repeated too often; overfamiliar through overuse"
+    ],
+    "quotes": []
+  },
+  "timid": {
+    "defs": [
+      "Wanting courage to meet danger; easily frightened; timorous; not bold; fearful; shy. Poor is the triumph o'er the timid hare. Thomson. Syn. -- Fearful; timorous; afraid; cowardly; pusillanimous; faint- hearted; shrinking; retiring. -- Tim\"id*ly, adv. -- Tim\"id*ness, n.",
+      "people who are fearful and cautious",
+      "showing fear and lack of confidence",
+      "lacking self-confidence",
+      "lacking conviction or boldness or courage"
+    ],
+    "quotes": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Recognition—A Timid Girl Chapter VIII."
+      },
+      {
+        "author": "Lewis Carroll",
+        "work": "Alice's Adventures in Wonderland",
+        "sentence": "Oh! won’t she be savage if I’ve kept her waiting!” Alice felt so desperate that she was ready to ask help of any one; so, when the Rabbit came near her, she began, in a low, timid voice, “If you please, sir—” The Rabbit started violently, dropped the white kid gloves and the fan, and skurried away into the darkness as hard as he could go."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "But Dorothea herself was a little shocked and discouraged at her own stupidity, and the answers she got to some timid questions about the value of the Greek accents gave her a painful suspicion that here indeed there might be secrets not capable of explanation to a woman’s reason."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "How could she, a young and timid woman, make her way into such a place and pluck her husband out from among the ruffians who surrounded him?"
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "The spirit of the American freeman is already suspected to be timid, imitative, tame."
+      },
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "The old and infirm and the timid, of whatever age or sex, thought most of sickness, and sudden accident and death; to them life seemed full of danger,—what danger is there if you don’t think of any?—and they thought that a prudent man would carefully select the safest position, where Dr."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "I saw a person pretending to beat a lady, who had a very timid little dog on her lap, and the trial had never been made before; the little creature instantly jumped away, but after the pretended beating was over, it was really pathetic to see how perseveringly he tried to lick his mistress’s face, and comfort her."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "A curious sight; these bashful bears, these timid warrior whalemen!"
+      },
+      {
+        "author": "James Joyce",
+        "work": "Dubliners",
+        "sentence": "But he played too fiercely for us who were younger and more timid."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "In a short pause which ensued, she had a fancy that she felt Miss Betsey touch her hair, and that with no ungentle hand; but, looking at her, in her timid hope, she found that lady sitting with the skirt of her dress tucked up, her hands folded on one knee, and her feet upon the fender, frowning at the fire."
+      }
+    ]
+  },
+  "timidity": {
+    "defs": [
+      "The quality or state of being timid; timorousness; timidness.",
+      "fear of the unknown or unfamiliar or fear of making decisions",
+      "fearfulness in venturing into new and unknown places or activities"
+    ],
+    "quotes": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "The same evening the sheep had trailed homeward head to tail, the behaviour of the rooks had been confused, and the horses had moved with timidity and caution."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Dorothea accused herself of some meanness in this timidity: it was always odious to her to have any small fears or contrivances about her actions, but at this moment she was seeking the highest aid possible that she might not dread the corrosiveness of Celia’s pretty carnally minded prose."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "Courage and timidity are extremely variable qualities in the individuals of the same species, as is plainly seen in our dogs."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "But this occasional timidity is characteristic of almost all herding creatures."
+      },
+      {
+        "author": "Thomas Henry Huxley",
+        "work": "Evolution and Ethics",
+        "sentence": "Perhaps timidity restrains his arm, When he should strike he trembles, and sets free, Himself enslaved by terror of the band, The audacious convict whom he dares not bind."
+      },
+      {
+        "author": "H. G. Wells",
+        "work": "The War of the Worlds",
+        "sentence": "At the end of it I sat, tempering nuts with a cigarette, regretting Ogilvy’s rashness, and denouncing the short-sighted timidity of the Martians."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "Wickfield glanced towards her, sitting at the tea table by Agnes, she seemed to me to avoid his look with such unwonted hesitation and timidity, that his attention became fixed upon her, as if something were suggested to his thoughts."
+      },
+      {
+        "author": "Jane Austen",
+        "work": "Emma",
+        "sentence": "I am a great advocate for timidity--and I am sure one does not often meet with it.--But in those who are at all inferior, it is extremely prepossessing."
+      },
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Wisdom of Father Brown",
+        "sentence": "This renewed timidity on his part was so different from the impudence with which he had walked into the sea, that I felt vaguely comforted."
+      }
+    ]
+  },
+  "timidly": {
+    "defs": [
+      "in a shy or timid or bashful manner"
+    ],
+    "quotes": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "She placed one of these forks under each arm as a crutch, tested them, timidly threw her whole weight upon them—so little that it was—and swung herself forward."
+      },
+      {
+        "author": "Lewis Carroll",
+        "work": "Alice's Adventures in Wonderland",
+        "sentence": "Not _quite_ right, I’m afraid,” said Alice, timidly; “some of the words have got altered."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "What is your opinion?” she added, rather timidly, after a slight pause."
+      },
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "This man seemed to me to lean over the cornice, and timidly whisper his half truth to the rude occupants who really knew it better than he."
+      },
+      {
+        "author": "James Joyce",
+        "work": "Dubliners",
+        "sentence": "I walked into the centre of the bazaar timidly."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "My mother dropped her work, and arose hurriedly, but timidly I thought."
+      },
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Ball and the Cross",
+        "sentence": "There seems,\" said Michael, timidly, \"to be something sticking up in the middle of it."
+      },
+      {
+        "author": "Walt Whitman",
+        "work": "Leaves of Grass",
+        "sentence": "Long have you timidly waded holding a plank by the shore, Now I will you to be a bold swimmer, To jump off in the midst of the sea, rise again, nod to me, shout, and laughingly dash with your hair."
+      }
+    ]
+  },
+  "timidness": {
+    "defs": [
+      "fear of the unknown or unfamiliar or fear of making decisions"
+    ],
+    "quotes": []
+  },
+  "timimoun": {
+    "defs": [
+      "a town in central Algeria in the Atlas Mountains"
+    ],
+    "quotes": []
+  },
+  "timing": {
+    "defs": [
+      "the time when something happens",
+      "the regulation of occurrence, pace, or coordination to achieve a desired effect (as in music, theater, athletics, mechanics)",
+      "measure the time or duration of an event or action or the person who performs an action in a certain period of time",
+      "assign a time for an activity or event"
+    ],
+    "quotes": [
+      {
+        "author": "James Joyce",
+        "work": "Dubliners",
+        "sentence": "As he walked on slowly, timing his pace to theirs, he watched Corley’s head which turned at every moment towards the young woman’s face like a big ball revolving on a pivot."
+      }
+    ]
+  },
+  "timolol": {
+    "defs": [
+      "a beta blocker (trade name Blocadren) administered after heart attacks"
+    ],
+    "quotes": []
+  },
+  "timor": {
+    "defs": [
+      "an island in Indonesia in the Malay Archipelago; the largest and most eastern of the Lesser Sunda Islands"
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "SUFFOLK. _Pene gelidus timor occupat artus_."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "Was it not so, O Timor Tom! thou famed leviathan, scarred like an iceberg, who so long did’st lurk in the Oriental straits of that name, whose spout was oft seen from the palmy beach of Ombay?"
+      }
+    ]
+  },
+  "timorese": {
+    "defs": [
+      "a native or inhabitant of Timor",
+      "of or relating to or characteristic of Timor or its inhabitants"
+    ],
+    "quotes": []
+  },
+  "timorous": {
+    "defs": [
+      "1. Fearful of danger; timid; deficient in courage. Shak. 2. Indicating, or caused by, fear; as, timorous doubts. \"The timorous apostasy of chuchmen.\" Milman. -- Tim\"or*ous*ly, adv. -- Tim\"or*ous*ness, n.",
+      "timid by nature or revealing timidity"
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "I am not worthy of the wealth I owe; Nor dare I say ’tis mine, and yet it is; But, like a timorous thief, most fain would steal What law does vouch mine own."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Doubtless some ancient Greek has observed that behind the big mask and the speaking-trumpet, there must always be our poor little eyes peeping as usual and our timorous lips more or less under anxious control."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "The sinew and heart of man seem to be drawn out, and we are become timorous, desponding whimperers."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "But if there happen to be an unduly slender, clumsy, or timorous wight in the ship, that wight is certain to be made a ship-keeper."
+      },
+      {
+        "author": "James Joyce",
+        "work": "Dubliners",
+        "sentence": "The workmen’s discussions, he said, were too timorous; the interest they took in the question of wages was inordinate."
+      },
+      {
+        "author": "Thomas Henry Huxley",
+        "work": "Evolution and Ethics",
+        "sentence": "More delicate his timorous mate retires."
+      },
+      {
+        "author": "H. G. Wells",
+        "work": "The War of the Worlds",
+        "sentence": "The curate, who was still timorous and restless, was now, oddly enough, for pushing on, and I was urging him to keep up his strength by eating when the thing happened that was to imprison us."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "‘She had been summat timorous and down,’ said Mr."
+      },
+      {
+        "author": "Mary Shelley",
+        "work": "Frankenstein",
+        "sentence": "Several witnesses were called who had known her for many years, and they spoke well of her; but fear and hatred of the crime of which they supposed her guilty rendered them timorous and unwilling to come forward."
+      },
+      {
+        "author": "John Milton",
+        "work": "Paradise Lost",
+        "sentence": "But all was false and hollow; though his tongue Dropped manna, and could make the worse appear The better reason, to perplex and dash Maturest counsels: for his thoughts were low-- To vice industrious, but to nobler deeds Timorous and slothful."
+      },
+      {
+        "author": "Walt Whitman",
+        "work": "Leaves of Grass",
+        "sentence": "Root of wash'd sweet-flag! timorous pond-snipe! nest of guarded duplicate eggs! it shall be you!"
+      }
+    ]
+  },
+  "timorously": {
+    "defs": [
+      "in a timorous and trepid manner"
+    ],
+    "quotes": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "I’ll try to think,” she observed, rather more timorously; “if I can think out of doors; my mind spreads away so."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "Chillip, timorously, ‘are great observers, sir.’"
+      }
+    ]
+  },
+  "timorousness": {
+    "defs": [
+      "fear of the unknown or unfamiliar or fear of making decisions",
+      "fearfulness in venturing into new and unknown places or activities"
+    ],
+    "quotes": []
+  },
+  "timothy": {
+    "defs": [
+      "A kind of grass (Phleum pratense) with long cylindrical spikes; -- called also herd's grass, in England, cat's-tail grass, and meadow cat's-tail grass. It is much prized for fodder. See Illustration in Appendix.",
+      "grass with long cylindrical spikes grown in northern United States and Europe for hay",
+      "a disciple of Saint Paul who became the leader of the Christian community at Ephesus",
+      "a grass grown for hay"
+    ],
+    "quotes": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "He loved Paul of Tarsus, liked St John, hated St James as much as he dared, and regarded with mixed feelings Timothy, Titus, and Philemon."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Timothy was a wiry old laborer, of a type lingering in those times—who had his savings in a stocking-foot, lived in a lone cottage, and was not to be wrought on by any oratory, having as little of the feudal spirit, and believing as little, as if he had not been totally unacquainted with the Age of Reason and the Rights of Man."
+      },
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "1:1 Paul, an apostle of Jesus Christ by the will of God, and Timothy our brother, unto the church of God which is at Corinth, with all the saints which are in all Achaia: 1:2 Grace be to you and peace from God our Father, and from the Lord Jesus Christ."
+      },
+      {
+        "author": "Walt Whitman",
+        "work": "Leaves of Grass",
+        "sentence": "I am there, I help, I came stretch'd atop of the load, I felt its soft jolts, one leg reclined on the other, I jump from the cross-beams and seize the clover and timothy, And roll head over heels and tangle my hair full of wisps."
+      }
+    ]
+  },
+  "timucu": {
+    "defs": [
+      "found in warm waters of western Atlantic"
+    ],
+    "quotes": []
+  },
+  "timur": {
+    "defs": [
+      "Mongolian ruler of Samarkand who led his nomadic hordes to conquer an area from Turkey to Mongolia (1336-1405)"
+    ],
+    "quotes": []
+  },
+  "unintimidated": {
+    "defs": [
+      "not shrinking from danger"
+    ],
+    "quotes": []
+  },
+  "untimeliness": {
+    "defs": [
+      "Unseasonableness.",
+      "being at an inappropriate time",
+      "the quality of occurring at an inconvenient time"
+    ],
+    "quotes": []
+  },
+  "untimely": {
+    "defs": [
+      "Not timely; done or happening at an unnatural, unusual, or improper time; unseasonable; premature; inopportune; as, untimely frosts; untimely remarks; an untimely death.\n\nOut of the natural or usual time; inopportunely; prematurely; unseasonably. \"Let them know . . . what's untimely done.\" Shak.",
+      "badly timed",
+      "uncommonly early or before the expected time",
+      "too soon; in a premature manner"
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Come, Gertrude, we’ll call up our wisest friends, And let them know both what we mean to do And what’s untimely done, so haply slander, Whose whisper o’er the world’s diameter, As level as the cannon to his blank, Transports his poison’d shot, may miss our name, And hit the woundless air."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "His first feeling now was one of pity for the untimely fate of these gentle ewes and their unborn lambs."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "It is possible that I might have placed them upon record before, but a promise of secrecy was made at the time, from which I have only been freed during the last month by the untimely death of the lady to whom the pledge was given."
+      },
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "Mourning untimely consumes the sad; Few are their days in the land of the living, Beautiful daughter of Toscar."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "As in decapitating the whale, the operator’s instrument is brought close to the spot where an entrance is subsequently forced into the spermaceti magazine; he has, therefore, to be uncommonly heedful, lest a careless, untimely stroke should invade the sanctuary and wastingly let out its invaluable contents."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "Weight, solidity, firmness—this was the expression of his repose, even in such decay as had crept untimely over him at the period of which I speak."
+      },
+      {
+        "author": "Thomas Henry Huxley",
+        "work": "Evolution and Ethics",
+        "sentence": "Theirs, should I paint him, has his pinions fledged With motley plumes, and, where the peacock shows His azure eyes, is tinctured black and red With spots quadrangular of diamond form, Ensanguined hearts, clubs typical of strife, And spades, the emblem of untimely graves."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "Under the influence of this delusion, she dived into the coal-cellar at the most untimely hours, and scarcely ever opened the door of a dark cupboard without clapping it to again, in the belief that she had got him."
+      },
+      {
+        "author": "Mary Shelley",
+        "work": "Frankenstein",
+        "sentence": "Who that had seen him bright and joyous in his young beauty, but must weep over his untimely loss!"
+      },
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "58:8 As a snail which melteth, let every one of them pass away: like the untimely birth of a woman, that they may not see the sun."
+      }
+    ]
+  }
+}

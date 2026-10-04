@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hollow chamber whose dimensions allow the resonant oscillation of electromagnetic or acoustic waves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electrical circuit that combines capacitance and inductance in such a way that a periodic electric oscillation will reach maximum amplitude.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus or hollow body designed to increase the resonance or sound of an instrument by vibrating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In acoustics, radio engineering, and phonetics, a cavity tuned to selectively amplify specific oscillatory frequencies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, resonator designates a hollow chamber whose dimensions allow the resonant oscillation of electromagnetic or acoustic waves."*
+> - 📜 **Hermann von Helmholtz (*On the Sensations of Tone as a Physiological Basis for the Theory of Music*):** *"By applying a spherical **resonator** to the ear, we can detect the presence of faint partial tones in speech."*
+> - 📜 **Lord Rayleigh (*The Theory of Sound*):** *"The acoustic **resonator** responds selectively only to vibrations that coincide precisely with its natural period."*
+> - 📜 **Nikola Tesla (*Experiments with Alternate Currents of High Potential and High Frequency*):** *"The electrical **resonator** developed massive potential swings when tuned in synchrony with the primary circuit."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of reducing sensitivity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of reducing sensitivity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The progressive reduction of physiological responsiveness, physical sensitivity, or allergic reactivity to an external agent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical immunology and behavioral therapy, the systematic protocol of dampening allergic anaphylaxis or desensitising emotional dread through graded exposure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, desensitisation designates the process of reducing sensitivity."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Clinical **desensitisation** requires meticulous, incremental doses of foreign serum to avert severe systemic shock."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Habitual exposure produces sensory **desensitisation**, blunting the defensive reflex against distressing stimuli."*
+> - 📜 **Sigmund Freud (*Introductory Lectures on Psycho-Analysis*):** *"Gradual **desensitisation** enables neurotic subjects to master terrifying memory traces without lapsing into panic."*

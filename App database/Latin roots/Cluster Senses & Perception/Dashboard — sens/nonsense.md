@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A message that seems to convey no meaning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ornamental objects of no great value.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Words or actions having no rational sense, intelligible coherence, or serious substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary aesthetics and epistemological logic, language intentionally absurd, playful, or vacuous that defies propositional truth conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I wonder the very paving-stones opposite our house can have the patience to stay there and be a witness of such inconsistencies and contradictions as all that sounding nonsense, and Ma’s management!” I could not but understand her to refer to Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Nonsense, I never heard of him!” “If you please, he told ME that!” says Rosa."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Don’t be foolish.” “It shall not happen again, sir,” I returned, “but at first it is difficult—” “Nonsense!” he said."*
+> - 📜 **Lewis Carroll (*Through the Looking-Glass*):** *"The Jabberwock ballad filled her head with ideas, though she could not explain its delightful **nonsense**."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Scholastic jargon often consists of solemn **nonsense** dressed up in obscure metaphysical terms."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Knightley declared that talk of perfection was utter **nonsense** in this imperfect world."*

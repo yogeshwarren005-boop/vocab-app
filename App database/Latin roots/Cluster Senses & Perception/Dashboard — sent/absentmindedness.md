@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Preoccupation so great that the ordinary demands on attention are ignored.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preoccupation so great that the ordinary demands on attention are ignored.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Habitual preoccupation, reverie, and failure to pay attention to one's immediate physical surroundings or routine actions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phenomenology and philosophy of mind, an absorption in abstract speculation that temporarily uncouples practical bodily agency from ambient sensory cues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, absentmindedness designates preoccupation so great that the ordinary demands on attention are ignored."*
+> - 📜 **Henri Bergson (*Laughter: An Essay on the Meaning of the Comic*):** *"The comic character is often born of pure **absentmindedness**, a mechanical inelasticity where supple responsiveness was required."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Extreme **absentmindedness** is often the counterpart of intense selective concentration, where peripheral impressions are systematically ignored."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Dick's habitual **absentmindedness** vanished the moment he was asked to compose another petition concerning King Charles's head."*

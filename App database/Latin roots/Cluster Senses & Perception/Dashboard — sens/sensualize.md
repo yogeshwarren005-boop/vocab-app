@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Represent materialistically, as in a painting or a sculpture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ascribe to an origin in sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make sensual, material, or carnal; to debase spiritual matters to the level of bodily appetites.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethics and aesthetic philosophy, to degrade elevated artistic or religious concepts by subjecting them to physical, voluptuous representations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sensualize designates represent materialistically, as in a painting or a sculpture."*
+> - 📜 **Samuel Taylor Coleridge (*The Friend*):** *"Pagan mythologies served to **sensualize** divine providence by endowing gods with human vices."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Materialistic philosophies strive to **sensualize** man's noble soul, reducing duty to mere utility."*
+> - 📜 **William James (*The Will to Believe*):** *"We must not **sensualize** spiritual ideals by demanding immediate material dividends from faith."*

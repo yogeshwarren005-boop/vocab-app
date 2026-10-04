@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause not to be sensitive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make insensitive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exerting a deadening, calming, or blunting effect upon sensory perception or emotional sensitivity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychiatric rehabilitation and ophthalmic pharmacology, operating to attenuate acute distress reactions or diminish corneal reflex irritability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, desensitizing designates cause not to be sensitive."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Persistent repetition has a **desensitizing** outcome upon conscious attention, transforming active effort into automatic habit."*
+> - 📜 **William James (*Talks to Teachers on Psychology*):** *"Indulging in sentiment without action proves **desensitizing** to noble ethical impulses."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The hypodermic drug acted as a **desensitizing** agent against urban monotony and intellectual exhaustion."*

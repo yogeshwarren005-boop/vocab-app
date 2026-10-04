@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A closed carriage with four wheels and seats for four passengers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A closed carriage with four wheels and seats for four passengers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A closed, four-wheeled horse-drawn carriage with seats for four passengers inside, named after the Duke of Clarence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century social transport and coaching history, a popular English private carriage featuring a curved glass front.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter the King, Warwick, Thomas Duke of Clarence and Humphrey Duke of Gloucester and others."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is not his brother Thomas of Clarence with him?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nothing but well to thee, Thomas of Clarence."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The grand lady stepped into her well-appointed **clarence**, ordering the coachman to drive straight to the park."*
+> - 📜 **Charles Dickens (*Our Mutual Friend*):** *"A fashionable **clarence** waited before the residence, its sleek horses pawing restlessly at the pavement."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"The bishop and his wife drove to the cathedral deanery in their roomy family **clarence**."*

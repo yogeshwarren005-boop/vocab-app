@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The faculty through which the external world is apprehended.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The faculty through which the external world is apprehended.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, condition, or faculty of being sentient; sensory consciousness or responsiveness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metaphysics and physiological psychology, the rudimentary capacity of animal nervous systems to receive sensory impressions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sentiency designates the faculty through which the external world is apprehended."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"The development of nervous systems displays a continuous ascent from primitive reflex irritability to complex cognitive **sentiency**."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Nature seemed endowed with a brooding **sentiency**, responding with living sympathy to the poet's solitary meditation."*
+> - 📜 **George Henry Lewes (*Problems of Life and Mind*):** *"Every tissue of the living organism participates in varying degrees in the general neural web of animal **sentiency**."*

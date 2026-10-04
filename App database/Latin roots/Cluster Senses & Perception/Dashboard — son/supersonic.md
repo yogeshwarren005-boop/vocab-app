@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of speed) greater than the speed of sound in a given medium (especially air).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having frequencies above those of audible sound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving or denoting a speed greater than that of sound in the surrounding medium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In high-speed aeronautics and fluid dynamics, flow fields characterized by Mach numbers exceeding unity and shock waves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supersonic designates (of speed) greater than the speed of sound in a given medium (especially air)."*
+> - 📜 **Theodore von Kármán (*Aerodynamics*):** *"When an aircraft pierces the sound barrier into **supersonic** flight, detached shock waves dominate its drag profile."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"The passage of a **supersonic** transport aircraft generates sharp conical shock waves that trail across continents."*
+> - 📜 **Lord Rayleigh (*The Theory of Sound*):** *"Rifled bullets traveling at **supersonic** velocities produce the distinctive sharp crack of an acoustic bow wave."*

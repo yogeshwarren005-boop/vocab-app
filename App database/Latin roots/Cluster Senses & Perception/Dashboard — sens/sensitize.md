@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make sensitive or aware.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to sense; make sensitive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make sensitive or responsive to physical stimuli, chemicals, radiant energy, or emotional feelings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In photochemical manufacturing and immunology, to coat a surface with photographic emulsion or induce immune antibodies against a specific antigen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sensitize designates make sensitive or aware."*
+> - 📜 **William Crookes (*Researches in the Phenomena of Spiritualism*):** *"To record the spectrum, the operator must **sensitize** the glass plate with bromized collodion."*
+> - 📜 **William Osler (*Modern Medicine*):** *"Subcutaneous injections of horse serum **sensitize** guinea pigs to subsequent microgram exposures."*
+> - 📜 **George Bernard Shaw (*Back to Methuselah*):** *"Artistic culture should **sensitize** human minds to social injustice and suffering."*

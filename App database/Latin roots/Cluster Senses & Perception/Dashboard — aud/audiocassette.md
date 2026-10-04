@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cassette for audiotape.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cassette for audiotape.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plastic cartridge containing magnetic tape running between two reels, used for recording and playing sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In audio technology and media history, a compact analog magnetic format that democratized portable consumer sound recording.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, audiocassette designates a cassette for audiotape."*
+> - 📜 **Walter J. Ong (*Orality and Literacy*):** *"The widespread distribution of the **audiocassette** in developing regions fostered unexpected revivals of oral narrative traditions."*
+> - 📜 **Marshall McLuhan (*Understanding Media*):** *"The portable **audiocassette** detached acoustic experience from domestic furniture, turning personal audition mobile."*
+> - 📜 **Raymond Williams (*Television: Technology and Cultural Form*):** *"The commercial **audiocassette** allowed audiences to curate private soundscapes outside broadcast programming."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With disgust.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With disgust.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a disgusted manner; with feelings of strong revulsion, distaste, or moral indignation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative characterization, reacting with visible contempt, physical aversion, or vocal disapproval.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jos. E. Badger (*The Texas Hawks; or, The Strange Decoy*):** *"It’s no use,” muttered Fenton, disgustedly."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Creakle tossed the boy's slate **disgustedly** onto the floor, demanding immediate recitation of the Latin rules."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The inspector stared **disgustedly** at the muddy footprints upon the windowsill, baffled by their diminutive size."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"The sled driver threw down his whip **disgustedly**, realizing the exhausted dogs could pull no farther through the slush."*

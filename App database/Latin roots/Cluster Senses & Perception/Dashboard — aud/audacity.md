@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fearless daring.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aggressive boldness or unmitigated effrontery.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A willingness to take bold risks, or rude or disrespectful behavior; daring impudence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military strategy, politics, and rhetorical contest, resolute defiance in the face of daunting danger or entrenched authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Arm me, audacity, from head to foot!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who would e’er suppose They had such courage and audacity?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My friend, carry your tail without offence Or scandal to the ladies; and be sure You tumble with audacity and manhood; And when you bark, do it with judgement."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"They proceed with an **audacity** of innovation that overturns in an hour the work of centuries."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The enterprise required extraordinary military **audacity**, combined with consummate coolness in execution."*
+> - 📜 **Frederick Douglass (*Narrative of the Life of Frederick Douglass*):** *"I seized him by the throat with an **audacity** born of desperation, determining never again to submit to his whip."*

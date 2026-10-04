@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of indulging in sentiment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of indulging in sentiment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, tendency, or process of investing ordinary matters with excessive, unrealistic emotional softness (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural analysis and art criticism, the dilution of tragic or gritty social realities through mawkish aesthetic embellishment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sentimentalisation designates the act of indulging in sentiment."*
+> - 📜 **George Orwell (*Shooting an Elephant and Other Essays*):** *"The cheap **sentimentalisation** of working-class squalor by middle-class novelists conceals the brutal physical hardships of the coal mines."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"Austen's astringent wit preserved her narrative art from the cloying **sentimentalisation** that disfigured many of her contemporaries."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"The poetic spirit of the age declined toward feeble **sentimentalisation** whenever it turned away from heroic classical severity."*

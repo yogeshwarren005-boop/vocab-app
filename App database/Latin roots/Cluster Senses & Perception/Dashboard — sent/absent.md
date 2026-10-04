@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Go away or leave.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not being in a specified place.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not present in a specified place, position, or gathering; non-existent or conspicuously missing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychology and behavioral observation, showing preoccupation or inward distraction that removes attention from immediate surroundings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord your son made me to think of this; Else Paris, and the medicine, and the king, Had from the conversation of my thoughts Haply been absent then."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The solemn feast Shall more attend upon the coming space, Expecting absent friends."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You see it lawful then; it is no more But that your daughter, ere she seems as won, Desires this ring; appoints him an encounter; In fine, delivers me to fill the time, Herself most chastely absent."*
+> - 📜 **William Shakespeare (*All's Well That Ends Well*):** *"Else Paris, and the medicine, and the king, Had from the conversation of my thoughts Haply been **absent** then."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"He had been **absent** for two weeks, and during that time Thornfield Hall seemed devoid of its animating spirit."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The long-sought documents were entirely **absent** from the dusty drawer where they were expected to lie."*

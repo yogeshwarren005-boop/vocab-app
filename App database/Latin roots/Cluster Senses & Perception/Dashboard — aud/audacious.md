@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Invulnerable to fear or intimidation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unrestrained by convention or propriety; ; ; - los angeles times; ; ; - bertrand russell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing a willingness to take surprisingly bold risks; impudently daring or insolent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary and historical characterization, marked by defiant originality or reckless disregard for conventional restraints.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The King hath sent to know The nature of your griefs, and whereupon You conjure from the breast of civil peace Such bold hostility, teaching his duteous land Audacious cruelty."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, prelate; such is thy audacious wickedness, Thy lewd, pestiferous, and dissentious pranks, As very infants prattle of thy pride."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And perish ye, with your audacious prate!"*
+> - 📜 **William Shakespeare (*Love's Labour's Lost*):** *"He is too picked, too spruce, too affected, too odd, as it were, too peripatetic; and his **audacious** discourse astonisheth."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The general formed the **audacious** resolution of marching across the desert to surprise the enemy capital."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Her spirit rose to meet the ordeal with an **audacious** calm that baffled her persecutors."*

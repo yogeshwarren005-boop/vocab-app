@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Larks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Larks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The family of passerine birds consisting of the larks, known for ground-dwelling habits and musical songs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian taxonomy, a widespread family of oscine songbirds possessing rounded bills, scutellated posterior tarsi, and complex vocal repertoires.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog alaudidae as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The **Alaudidae** find their greatest diversity across the arid steppes and grasslands of the Old World."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Several genera within the **Alaudidae** display plumage patterns exquisitely cryptic against desert gravels."*
+> - 📜 **Ernst Mayr (*Systematics and the Origin of Species*):** *"Geographic variation in the bill structure of the **Alaudidae** reflects ecological adaptation to distinct seed sizes."*

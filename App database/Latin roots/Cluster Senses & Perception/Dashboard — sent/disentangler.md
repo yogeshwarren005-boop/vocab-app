@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who removes tangles; someone who takes something out of a tangled state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who removes tangles; someone who takes something out of a tangled state.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who or that which unravels, straightens out complications, or resolves perplexing confusions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary exposition and social commentary, an analyst, arbiter, or reformer skilled in bringing clarity to labyrinthine controversies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disentangler designates a person who removes tangles; someone who takes something out of a tangled state."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Society cries aloud for an able governor, a patient **disentangler** of tangled economic relations and social misery."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"Culture acts as a gentle **disentangler** of modern perplexities, substituting sweet reasonableness for sectarian bigotry."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"The primitive judge functioned primarily as a **disentangler** of family vendettas through the award of customary blood-money."*

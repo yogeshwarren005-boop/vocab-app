@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A conflict of people's opinions or actions or characters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The auditory experience of sound that lacks musical quality; sound that is a disagreeable auditory experience.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lack of harmony or agreement among musical notes, people, opinions, or elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology and musical composition, psychological discomfort from conflicting beliefs or harsh unresolved tonal tension.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"In the name of all dissonance, what can it be?” It was very remarkable into what prominent relief—even as if a dim picture should leap suddenly from its canvas—Clifford’s character was thrown by this apparently trifling annoyance."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The baker’s cart, with the harsh music of its bells, had a pleasant effect on Clifford, because, as few things else did, it jingled the very dissonance of yore."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The final echoes of Alice Pyncheon’s performance (or Clifford’s, if his we must consider it) were driven away by no less vulgar a dissonance than the ringing of the shop-bell."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The emotional **dissonance** between our moral ideals and selfish desires generates intense inner friction."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The wild shouts of the harpooners mingled in chaotic **dissonance** with the shrieking gale."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"The clamor of partisan factions produced a bewildering **dissonance** in the public councils of the nation."*

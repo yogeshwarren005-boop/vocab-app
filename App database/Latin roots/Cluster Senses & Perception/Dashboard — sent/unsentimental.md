@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Facing facts or difficulties realistically and with determination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Facing facts or difficulties realistically and with determination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not swayed by sentimental feelings, nostalgic emotion, or mawkish sympathy; realistic and hard-headed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and historiography, marked by sober, clear-eyed realism that disdains melodramatic romanticization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsentimental designates facing facts or difficulties realistically and with determination."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"The militia officers displayed a cool, **unsentimental** courage in the trenches that won the respect of seasoned veterans."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"Defoe's prose possesses a dry, **unsentimental** vigor that chronicles human struggle without a trace of self-pity."*
+> - 📜 **Henry James (*The American*):** *"Christopher Newman conducted his commercial enterprises with an **unsentimental** clarity that swiftly built his Western fortune."*

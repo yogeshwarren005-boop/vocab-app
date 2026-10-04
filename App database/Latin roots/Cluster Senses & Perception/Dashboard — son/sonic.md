@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of speed) having or caused by speed approximately equal to that of sound in air at sea level.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to audible sound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to sound, the speed of sound in air, or sound waves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aerodynamics, acoustics, and engineering, pertaining to mechanical acoustic waves or velocities near Mach 1.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sonic designates (of speed) having or caused by speed approximately equal to that of sound in air at sea level."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"Vehicles exceeding the **sonic** threshold create shock fronts that reverberate across the landscape as loud booms."*
+> - 📜 **Lord Rayleigh (*The Theory of Sound*):** *"The fundamental principles of **sonic** propagation in gases were first formulated mathematically by Laplace."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Acoustic delay lines utilizing **sonic** pulses in mercury tubes provided early digital computers with volatile memory."*

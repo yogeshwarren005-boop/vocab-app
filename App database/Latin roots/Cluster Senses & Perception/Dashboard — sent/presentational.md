@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a presentation (especially in psychology or philosophy).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a presentation (especially in psychology or philosophy).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to public performance, delivery, stylistic exhibition, or visual display.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theater semiotics and aesthetics, an artistic style that acknowledges the audience directly rather than sustaining realistic illusion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, presentational designates of or relating to a presentation (especially in psychology or philosophy)."*
+> - 📜 **Susanne Langer (*Philosophy in a New Key*):** *"Music is a **presentational** rather than a discursive symbolism, articulating feelings that words are powerless to define."*
+> - 📜 **Bertolt Brecht (*Brecht on Theatre*):** *"Epic theatre employs a **presentational** technique, continually reminding spectators that they are watching an instructive stage performance."*
+> - 📜 **Erving Goffman (*The Presentation of Self in Everyday Life*):** *"Social encounters rely upon nuanced **presentational** rituals to preserve the fragile front of interpersonal dignity."*

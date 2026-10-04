@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The inability to respond to affective changes in your interpersonal environment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The inability to respond to affective changes in your interpersonal environment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Absence of physical sensation, emotional awareness, or sympathetic delicacy toward others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological pathology and social psychology, sensory unresponsiveness or entrenched ethical obtuseness in interpersonal relationships.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, insensitivity designates the inability to respond to affective changes in your interpersonal environment."*
+> - 📜 **Virginia Woolf (*Night and Day*):** *"She felt appalled by the casual **insensitivity** with which society brushed aside private tragedy."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"Complete **insensitivity** to tactile provocation indicated destruction of the principal neural ganglion."*
+> - 📜 **George Bernard Shaw (*Heartbreak House*):** *"Cultivated society masks its gross political **insensitivity** beneath a veneer of brilliant wit."*

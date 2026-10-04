@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who assents.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who assents.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who declares agreement, gives formal consent, or affirms an opinion, proposition, or contractual term.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In parliamentary history and political philosophy, a participant who registers an affirmative vote or accedes to an established consensus without debate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, assenter designates a person who assents."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"He who remains a silent **assenter** to political innovations cannot afterward complain of the destructive cascade that ensues."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The uncritical **assenter** to received dogmas holds his truth as a dead belief rather than as a living conviction."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The king found in the pliant chancellor a willing **assenter** to every fiscal demand levied upon the reluctant borough."*

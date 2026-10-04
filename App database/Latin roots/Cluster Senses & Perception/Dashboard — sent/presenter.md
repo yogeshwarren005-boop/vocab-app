@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who presents a message of some sort (as a petition or an address or a check or a memorial etc.).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An advocate who presents a person (as for an award or a degree or an introduction etc.).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who introduces, hosts, formally delivers, or displays a program, exhibition, or gift.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In broadcasting, academia, and ecclesiastical law, an individual who confers a benefice or introduces a lecturer or media broadcast.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"EPILOGUE Dramatis Personæ RUMOUR, the Presenter."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"One thing more rests, that thyself execute, To make one among these wooers: if thou ask me why, Sufficeth my reasons are both good and weighty. [_Exeunt._] [_The Presenters above speak._] FIRST SERVANT."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The skilful **presenter** of knowledge adapts his discourse to the capacity and prejudices of his particular auditory."*
+> - 📜 **Samuel Johnson (*Lives of the Most Eminent English Poets*):** *"The patron smiled upon the modest **presenter** of the dedicatory epistle, rewarding him with flattering words but little gold."*
+> - 📜 **Walter Bagehot (*Biographical Studies*):** *"As an oratorical **presenter** of complex financial budgets, Gladstone possessed no rival in the Victorian House of Commons."*

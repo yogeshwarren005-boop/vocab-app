@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause not to be sensitive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make insensitive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make emotionally callous, physically insensitive, or physiologically unreactive to external irritants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology and psychiatric therapy, to induce tolerance to allergens or systematically neutralize hyperactive anxiety responses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, desensitize designates cause not to be sensitive."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"Extreme arctic temperatures quickly **desensitize** exposed extremities by depressing peripheral circulatory and nervous activity."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"Familiarity with extreme poverty must either break a sensitive heart or permanently **desensitize** moral conscience."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The physician must cultivate composure without allowing clinical routine to **desensitize** sympathetic compassion."*

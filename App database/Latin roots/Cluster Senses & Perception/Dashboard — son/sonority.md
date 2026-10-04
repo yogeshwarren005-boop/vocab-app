@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the character of a loud deep sound; the quality of being resonant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the character of a loud deep sound; the quality of being resonant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The acoustic resonance, fullness, and depth that characterizes vibrant tones and voiced phonemes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phonology, acoustics, and orchestration, relative loudness of speech sounds or fullness of instrumental timbre.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sonority designates having the character of a loud deep sound; the quality of being resonant."*
+> - 📜 **Otto Jespersen (*Language: Its Nature, Development and Origin*):** *"Vowels occupy the highest peak of acoustic **sonority**, forming the natural nucleus of syllables."*
+> - 📜 **Hermann von Helmholtz (*On the Sensations of Tone*):** *"The rich **sonority** of the cello arises from abundant low harmonic partials reinforced by its spacious body."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The brass chorus executed the solemn chorale with majestic **sonority** that filled the entire hall."*

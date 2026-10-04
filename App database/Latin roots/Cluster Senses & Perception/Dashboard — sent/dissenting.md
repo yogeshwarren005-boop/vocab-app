@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Withhold assent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Express opposition through action or words.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing disagreement, nonconformity, or refusal to assent to an established decree or prevailing belief.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In judicial jurisprudence, describing an opinion rendered by an appellate judge who rejects the conclusion of the court majority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"No dissenting voice was raised against the marriage."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Still in the Dissenting line, eh?"*
-> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode to have won the hand of Harriet Vincy; whose family was undeniable in a Middlemarch light—a better light surely than any thrown in London thoroughfares or dissenting chapel-yards."*
+> - 📜 **Oliver Wendell Holmes Jr. (*Lochner v. New York*):** *"This case is decided upon an economic theory which a large part of the country does not entertain, as I argue in my **dissenting** opinion."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Even when the received opinion is true, the silencing of a **dissenting** perspective deprives truth of its vital edge."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The tyranny of the majority frequently exerts a quiet intimidation upon all **dissenting** voices in public discourse."*

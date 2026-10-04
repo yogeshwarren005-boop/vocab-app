@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: That must be declared.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: That must be declared.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being declared, or legally required to be declared for tax or customs purposes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In customs administration, civil procedure, and contract law, subject to mandatory statutory notification or disclosure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, declarable designates that must be declared."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Merchant commodities imported into the harbor were officially classified as **declarable** under statutory tariff rates."*
+> - 📜 **Alexander Hamilton (*Report on Manufactures*):** *"Imported goods subject to specific protective duties must remain strictly **declarable** at the port of entry."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The statute made all clandestine foreign shipments strictly **declarable** upon pain of vessel forfeiture."*

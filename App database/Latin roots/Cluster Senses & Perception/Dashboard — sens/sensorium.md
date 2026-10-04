@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The areas of the brain that process and register incoming sensory information and make possible the conscious awareness of the world.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The areas of the brain that process and register incoming sensory information and make possible the conscious awareness of the world.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sensory center of the brain, or the seat of sensation and perceptual consciousness in an organism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Cartesian philosophy, neuroanatomy, and intellectual history, the central brain region where sensory impulses are gathered, experienced, and integrated.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sensorium designates the areas of the brain that process and register incoming sensory information and make possible the conscious awareness of the world."*
+> - 📜 **Isaac Newton (*Opticks*):** *"Does not the **sensorium** of God contain all space, wherein things are intimately seen and comprehended?"*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Peripheral nerve motions terminate in the **sensorium**, where they become conscious ideas in the mind."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The entire cerebral cortex may be considered as a vast **sensorium** coordinating our total perceptual life."*

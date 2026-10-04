@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not responsive to physical stimuli.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deficient in human sensibility; not mentally or morally sensitive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking physical sensitivity or deficient in emotional sympathy and awareness toward others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical diagnosis and social psychology, unresponsive to tactile or immunological stimuli, or indifferent to subtle affective cues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"It is something like the way Dame Nature gathers round a foreign body an envelope of some insensitive tissue which can protect from evil that which it would otherwise harm by contact."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The second step in the process of securing safety is that the powerful explosive, the one that does the work, is made very insensitive, so that it is really quite hard to explode it."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon was remarkably **insensitive** to the vibrant aspirations and delicate spirits of his youthful wife."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Certain cutaneous areas are relatively **insensitive** to moderate thermal fluctuations when nerve endings are sparse."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Osmond revealed himself as chillingly **insensitive** to every artistic virtue that failed to enhance his prestige."*

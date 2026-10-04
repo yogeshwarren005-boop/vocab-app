@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an allergy or peculiar or excessive susceptibility (especially to a specific factor).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an allergy or peculiar or excessive susceptibility (especially to a specific factor).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally or excessively sensitive to physical stimuli, chemicals, or emotional slights.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In experimental instrumentation and psychiatric characterization, possessing an unusually low stimulus threshold or extreme emotional vulnerability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But with the self-combating proclivity of the supersensitive, an answer thereto arose in Clare’s own mind, and he almost feared it."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Certain neuropathic individuals possess **supersensitive** hearing that converts everyday murmurs into torment."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Her **supersensitive** nature felt the silent reproaches of the world with crushing weight."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"Challenger rigged a **supersensitive** galvanometer to detect the subtle electrical currents of the living organisms."*

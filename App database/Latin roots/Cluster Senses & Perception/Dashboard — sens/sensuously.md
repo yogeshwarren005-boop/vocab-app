@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With aesthetic gratification or delight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With aesthetic gratification or delight.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a sensuous manner; appealing richly, aesthetically, or warmly to the senses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic criticism and creative prose, experienced or expressed through vivid, delightful sensory imagery without moral corruption.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sensuously designates with aesthetic gratification or delight."*
+> - 📜 **John Keats (*Letters of John Keats*):** *"The autumn ode unfolds **sensuously**, lingering over ripe fruit, misty air, and mellow sunshine."*
+> - 📜 **Walter Pater (*Appreciations*):** *"Wordsworth rendered nature **sensuously** vivid, making the reader feel the coolness of mountain streams."*
+> - 📜 **George Eliot (*Romola*):** *"The young Florentine painter delighted in decorating fabrics **sensuously** with classical garlands and mythical beasts."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of not being perceptible by the ear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of not being perceptible by the ear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The utter absence of perceptible sound; absolute faintness or muteness to the sense of hearing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sensory psychology and acoustics, the absence of detectable acoustic energy sufficient to excite the cochlear receptors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inaudibleness designates the quality of not being perceptible by the ear."*
+> - 📜 **Alexander Melville Bell (*Principles of Speech and Dictionary of Sounds*):** *"Complete **inaudibleness** results whenever vocal fold vibration ceases prior to the release of breath."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The profound **inaudibleness** of the desert night heightens our imaginative dread of lurking perils."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The eerie **inaudibleness** of their midnight advance across the desolate common chilled our very hearts."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Taste with relish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Taste with relish.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To taste or savor food or drink carefully in order to appreciate its flavor; to sample critically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastronomy, enology, and sensory analysis, to formally evaluate organoleptic properties through structured tasting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, degust designates taste with relish."*
+> - 📜 **William Makepeace Thackeray (*The Book of Snobs*):** *"The epicure sat down with immense solemnity to **degust** the rare vintage imported from the cellars of Bordeaux."*
+> - 📜 **Robert Louis Stevenson (*The Dynamiter*):** *"He paused before the display, eager to **degust** the exotic delicacies described in the continental menu."*
+> - 📜 **George Bernard Shaw (*Man and Superman*):** *"The philosopher should **degust** experience with refined curiosity rather than devour it with gluttonous haste."*

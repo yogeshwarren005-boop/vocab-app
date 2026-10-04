@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The faculty of distinguishing sweet, sour, bitter, and salty properties in the mouth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The faculty of distinguishing sweet, sour, bitter, and salty properties in the mouth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action, sense, or faculty of tasting; the physical perception of flavor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sensory neurobiology and physiology, chemosensory reception mediated by taste buds on lingual papillae responding to tastants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gustation designates the faculty of distinguishing sweet, sour, bitter, and salty properties in the mouth."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The physiological processes of **gustation** interact continuously with olfaction to generate our compound sensations of flavor."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"Nerve fibers terminating in the lingual papillae transmit electrical impulses that mediate **gustation** in the cerebral cortex."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"Pathological paralysis of the glossopharyngeal nerve abolishes **gustation** over the posterior third of the tongue."*

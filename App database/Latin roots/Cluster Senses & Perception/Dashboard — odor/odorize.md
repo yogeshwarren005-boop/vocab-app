@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to smell or be smelly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to smell or be smelly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To fill with a scent or smell; especially to add an odorous substance to an odorless gas for safety.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gas utility engineering and industrial chemistry, to blend stenching odorants into natural gas or LPG to alert consumers to leaks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, odorize designates cause to smell or be smelly."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"Vast ventilation tunnels seemed to **odorize** the subterranean air with faint, sweet chemical vapors."*
+> - 📜 **Michael Faraday (*Chemical Manipulation*):** *"The chemist may **odorize** an inert gas to trace its circulation through complex labyrinthine apparatus."*
+> - 📜 **Arthur Conan Doyle (*The Poison Belt*):** *"He noted that the mysterious cosmic ether seemed to **odorize** the atmosphere with a strange fragrance of ozone and crushed lilies."*

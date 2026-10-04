@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to audiometry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to audiometry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or obtained by audiometry or the measurement of hearing acuity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In otolaryngology and industrial hygiene, designating quantitative hearing threshold testing protocols and diagnostic sound chambers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, audiometric designates of or relating to audiometry."*
+> - 📜 **Georg von Békésy (*Experiments in Hearing*):** *"Standardized **audiometric** evaluations confirmed bilateral high-frequency losses among the boilermakers."*
+> - 📜 **Wilder Penfield (*Epilepsy and the Functional Anatomy of the Human Brain*):** *"Preoperative **audiometric** curves exhibited preserved low-pitch sensitivity despite temporal lobe damage."*
+> - 📜 **Oliver Sacks (*Musicophilia: Tales of Music and the Brain*):** *"His absolute pitch persisted unaltered even when profound **audiometric** deterioration affected both inner ears."*

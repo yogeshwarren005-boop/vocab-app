@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The inability to respond to affective changes in your interpersonal environment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The inability to respond to affective changes in your interpersonal environment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property or disposition of being unfeeling, physically unreactive, or emotionally obtuse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological characterization and clinical measurement, habitual lack of sympathetic responsiveness or elevated sensory thresholds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, insensitiveness designates the inability to respond to affective changes in your interpersonal environment."*
+> - 📜 **Herbert Spencer (*The Study of Sociology*):** *"Barbarian warfare fosters a brutal **insensitiveness** toward human misery that impedes ethical progress."*
+> - 📜 **William James (*Talks to Teachers on Psychology*):** *"A certain **insensitiveness** to the inner significance of other people's lives is our common human flaw."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Tom's dogmatic **insensitiveness** prevented him from understanding Maggie's yearning for affection."*

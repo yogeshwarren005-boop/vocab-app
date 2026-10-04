@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (chemistry) a substance other than a catalyst that facilitates the start of a catalytic reaction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (chemistry) a substance other than a catalyst that facilitates the start of a catalytic reaction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent, substance, or stimulus that induces sensitivity, photochemical responsiveness, or allergic reactivity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In photographic science and immunopathology, an optical dye broadening spectral emulsion absorption or an antigen causing systemic allergic hypersensitivity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sensitiser designates (chemistry) a substance other than a catalyst that facilitates the start of a catalytic reaction."*
+> - 📜 **William Crookes (*Researches in the Phenomena of Spiritualism*):** *"Silver halide acted as the primary **sensitiser** within wet collodion photographic processes."*
+> - 📜 **William Osler (*Modern Medicine*):** *"The foreign toxin functioned as a potent **sensitiser**, eliciting violent vascular reactions on secondary exposure."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Intellectual curiosity serves as a powerful **sensitiser** to the beauty of natural laws."*

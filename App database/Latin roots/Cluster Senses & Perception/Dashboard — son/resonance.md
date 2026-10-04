@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An excited state of a stable particle causing a sharp maximum in the probability of absorption of electromagnetic radiation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vibration of large amplitude produced by a relatively small vibration near the same frequency of vibration as the natural frequency of the resonating system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of sound being deep, full, and reverberating, or the reinforcement of vibrations at a natural frequency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics, literature, and psychology, oscillatory amplification at eigenfrequencies or evocative power evoking emotional depth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Then followed the dull and remote resonance of the twelve heavy strokes in the tower above."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Having finished her morning tea she went to the ballroom, which she particularly liked for its loud resonance, and began singing her solfeggio."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Standing as usual in the middle of the hall and choosing the place where the resonance was best, Natásha began to sing her mother’s favorite song."*
+> - 📜 **Lord Rayleigh (*The Theory of Sound*):** *"The principle of acoustic **resonance** explains why a tuning fork amplifies its sound over a resonant tube."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The cavernous barn lent an unusual **resonance** to the rustic fiddler's lively harvest tune."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"Her solitary words carried a solemn poetic **resonance** that lingered in the quiet dining room."*

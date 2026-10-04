@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medieval brass instrument with a clear shrill tone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Blow the clarion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A shrill, narrow-tubed war trumpet used in the Middle Ages, or clear, loud, and inspiring in sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In poetic diction and martial imagery, an evocative emblem of a ringing summons to heroic action or moral awakening.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"His voice and laugh, which perpetually re-echoed through the Custom-House, had nothing of the tremulous quaver and cackle of an old man’s utterance; they came strutting out of his lungs, like the crow of a cock, or the blast of a clarion."*
-> - 📜 **Bram Stoker (*Dracula*):** *"Certain it was that I was lapsing into sleep, the open-eyed sleep of one who yields to a sweet fascination, when there came through the snow-stilled air a long, low wail, so full of woe and pity that it woke me like the sound of a clarion."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"It is set up under the tree and is adorned with carved figures of the birds whose shrill clarion heralds the approach of the sun in the east."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"His voice rang out like a solemn **clarion**, summoning the conscience of the Puritan community to judgment."*
+> - 📜 **Bram Stoker (*Dracula*):** *"The cock crowed with a sharp **clarion** notes that signaled the retreat of phantom night shadows."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"The sudden sound of the warrior's **clarion** roused the sleeping camp to immediate combat readiness."*

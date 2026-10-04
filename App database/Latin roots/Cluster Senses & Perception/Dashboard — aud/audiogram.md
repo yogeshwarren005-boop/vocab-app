@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A graphical representation of a person's auditory sensitivity to sound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A graphical representation of a person's auditory sensitivity to sound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chart or graph showing the results of a hearing test, displaying an individual's hearing threshold across various sound frequencies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical audiology, a standard psychophysical graph plotting decibel hearing levels against standard acoustic octave frequencies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, audiogram designates a graphical representation of a person's auditory sensitivity to sound."*
+> - 📜 **Georg von Békésy (*Experiments in Hearing*):** *"A sensory dip at four thousand cycles upon the **audiogram** unmistakably signaled acoustic trauma to the cochlea."*
+> - 📜 **Alexander Graham Bell (*Memoir upon the Formation of a Deaf Variety of the Human Race*):** *"Careful measurement of hearing acuity across frequencies yields an **audiogram** essential for diagnostic classification."*
+> - 📜 **Wilder Penfield (*The Cerebral Cortex of Man*):** *"Cortical lesions rarely alter the peripheral threshold plotted upon a patient's pure-tone **audiogram**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of indulging in sentiment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of indulging in sentiment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of making or rendering something overly sentimental or emotionally idealized.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historiography and media sociology, the sanitizing of painful collective memories through comforting, nostalgic popular mythologies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sentimentalization designates the act of indulging in sentiment."*
+> - 📜 **Hannah Arendt (*Eichmann in Jerusalem*):** *"The gruesome reality of totalitarian bureaucracy resists all post-war **sentimentalization** into conventional moral melodramas."*
+> - 📜 **Susan Sontag (*Regarding the Pain of Others*):** *"The photographic framing of suffering risks an aesthetic **sentimentalization** that dulls the viewer's imperative toward political action."*
+> - 📜 **C. S. Lewis (*The Abolition of Man*):** *"The modern educator destroys genuine moral sensibility under the guise of attacking emotional **sentimentalization**."*

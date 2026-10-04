@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A male human offspring.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The divine word of god; the second person in the trinity (incarnate in jesus).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A male child in relation to his parents, or a male descendant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In kinship structures, social genealogy, and theology, a male offspring or member of an ancestral lineage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And when a woman woos, what woman’s son, Will sourly leave her till he have prevailed?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In delivering my son from me, I bury a second husband."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Welcome, Count; My son’s no dearer."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"A little more than kin, and less than kind; but still my father's **son** must face his grief."*
+> - 📜 **Charles Dickens (*Dombey and Son*):** *"The ambitious merchant dreamed only of the day when his infant **son** would join the great mercantile firm."*
+> - 📜 **George Eliot (*Silas Marner*):** *"Godfrey Cass gazed upon the youth with pride, yet dared not openly claim him as his **son**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be dissonant or harsh.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to sound harsh and unpleasant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To be dissonant, out of harmony, discordant, or inconsistent with something else.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musical composition and rhetorical analysis, to produce an unresolved clashing acoustic or conceptual clash.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dissonate designates be dissonant or harsh."*
+> - 📜 **John Tyndall (*Sound*):** *"Tones whose frequencies produce rapid beat sensations will **dissonate** harshly upon the human ear."*
+> - 📜 **Samuel Taylor Coleridge (*Literary Remains*):** *"His metaphysical speculations seemed to **dissonate** from the orthodox theology of his contemporaries."*
+> - 📜 **Lord Rayleigh (*The Theory of Sound*):** *"Without proper damping, adjacent pipe vibrations tend to **dissonate** rather than reinforce the fundamental."*

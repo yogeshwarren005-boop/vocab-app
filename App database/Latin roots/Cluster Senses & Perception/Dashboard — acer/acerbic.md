@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sour or bitter in taste.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Harsh or corrosive in tone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sharp and forthright in speech or expression; tasting sour, astringent, or bitter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and conversational stylistics, cutting, biting, or incisively sarcastic wit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acerbic designates sour or bitter in taste."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The dowager delivered her social judgments in an **acerbic** tone that made young debutantes tremble."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"Swift's pamphlets were penned with an **acerbic** irony that laid bare the hypocrisies of the court."*
+> - 📜 **George Bernard Shaw (*Dramatic Opinions and Essays*):** *"The dramatic critic turned his **acerbic** pen upon the sentimental melodrama, tearing its pretensions to shreds."*

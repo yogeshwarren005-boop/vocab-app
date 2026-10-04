@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of evil to come.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of evil to come.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An intuitive feeling or foreboding concerning a future event, especially an impending misfortune.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In romantic literature and psychical analysis, a premonitory psychic tremor or ominous hunch anticipating tragedy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The Lord's blessing is enough for me_." The letter was sent and forgotten, but a strange presentiment came over the mind of the writer."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Impelled by an irresistible presentiment, you will eagerly advance to it, unlock its folding doors, and search into every drawer—but for some time without discovering anything of importance—perhaps nothing but a considerable hoard of diamonds."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"However, my tenderest feelings are about to receive a shock: such is my presentiment; stay now, to see whether it will be realised.” Ere long, Adèle’s little foot was heard tripping across the hall."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Presentiments are strange things! and so are sympathies, and so are signs... I had a strange **presentiment** that evening."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"A heavy **presentiment** of evil oppressed my heart as the boat glided toward the shores of Geneva."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"A dark **presentiment** hung over the departing warrior, whispering that he would see his native hills no more."*

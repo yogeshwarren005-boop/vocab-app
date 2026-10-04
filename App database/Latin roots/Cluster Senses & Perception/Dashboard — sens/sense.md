@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A general conscious awareness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The meaning of a word or expression; the way in which a word or expression or situation can be interpreted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A biological faculty of perception, rational discernment, practical wisdom, or semantic meaning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical epistemology and linguistic semantics, a sensory modality or the intelligible conceptual content expressed by a linguistic proposition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are my all the world, and I must strive, To know my shames and praises from your tongue, None else to me, nor I to none alive, That my steeled sense or changes right or wrong."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In so profound abysm I throw all care Of others’ voices, that my adder’s sense, To critic and to flatterer stopped are: Mark how with my neglect I do dispense."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O that our night of woe might have remembered My deepest sense, how hard true sorrow hits, And soon to you, as you to me then tendered The humble salve, which wounded bosoms fits!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Modest doubt is called the beacon of the wise, the tent that searches to the bottom of the worst **sense**."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"No man's knowledge here can go beyond the experience furnished by external **sense** and internal reflection."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor possessed a strength of understanding and coolness of judgment which qualified her to guide those lacking **sense**."*

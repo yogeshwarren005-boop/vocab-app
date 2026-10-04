@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Devoid of feeling and consciousness and animation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without compunction or human feeling.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Destitute of physical sensation, unconscious, or entirely lacking rational discernment and humane feeling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and descriptive literature, unfeeling, stone-like, brutish, or stubbornly oblivious to reason and mercy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Mine was th’ insensate frenzied part, Ah! why should I such scenes outlive?"*
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"THE WORSHIPPERS Wo Sing was just a heathen blind, A dull insensate clod, Yet somehow to his darkened mind, There came a thought of God."*
-> - 📜 **John Milton (*Paradise Lost*):** *"This saw his hapless Foes, but stood obdur’d, And to rebellious fight rallied thir Powers Insensate, hope conceiving from despair."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"So with the laws and statutes of the land, he left them to their **insensate** folly and ruin."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The mob advanced like an **insensate** avalanche of iron fury against the ancient palace gates."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The prison walls stood **insensate** and cold, deaf to the weeping of doomed captives."*

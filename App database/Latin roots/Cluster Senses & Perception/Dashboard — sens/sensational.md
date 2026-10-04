@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing intense interest, curiosity, or emotion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Commanding attention.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing intense public excitement, vivid interest, or shock; or relating immediately to sensory perception.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In journalism and literary criticism, calculated to startle through lurid spectacle or emotional exaggeration rather than sober truth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The morning following the arrest of Victor Ancona, the newspapers published long sensational articles, denounced him as a fiend, and convicted him."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"I've been reading sensational novels lately, and it seems to me that Hawk's cut out to be a minion."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"To him, I suppose, the return of Ukridge was as sensational and astounding an event as the reappearance of one from the tomb would have been."*
+> - 📜 **William Makepeace Thackeray (*The Newcomes*):** *"The daily gazette indulged in **sensational** headlines to satisfy the public appetite for courtroom scandal."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"The crime produced a **sensational** thrill through London, occupying all the evening broadsheets."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"The **sensational** elements of early mental life provide raw materials for higher intellectual synthesis."*

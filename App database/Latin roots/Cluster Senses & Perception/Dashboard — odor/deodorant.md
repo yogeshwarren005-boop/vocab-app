@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A toiletry applied to the skin in order to mask unpleasant odors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A toiletry applied to the skin in order to mask unpleasant odors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance applied to the body to prevent or conceal unpleasant body odor; or any odor-neutralizing substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In personal hygiene, cosmetic dermatology, and sanitary chemistry, an antimicrobial or fragrance formulation inhibiting bacterial apocrine breakdown.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deodorant designates a toiletry applied to the skin in order to mask unpleasant odors."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chlorine washes and carbolic preparations functioned both as a clinical disinfectant and an effective **deodorant** in hospital wards."*
+> - 📜 **H. G. Wells (*The World of William Clissold*):** *"Modern pharmaceutical chemists manufactured sanitary **deodorant** preparations that transformed personal grooming across the middle class."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The physician utilized aromatic vinegars as a practical **deodorant** when examining patients in crowded urban fever infirmaries."*

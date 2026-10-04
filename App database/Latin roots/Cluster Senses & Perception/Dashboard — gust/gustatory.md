@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to gustation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to gustation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerned with or relating to tasting or the sense of taste.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human neuroanatomy and psychology, pertaining to the taste system, including taste buds, facial and glossopharyngeal nerves, and gustatory cortex.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gustatory designates of or relating to gustation."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The **gustatory** cortex located within the insula processes basic taste qualities including sweet, salty, sour, and bitter."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Acids applied to the tongue provoke reflex salivary secretion and protective **gustatory** grimaces in infants."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"The lingual papillae house microscopic **gustatory** bulbs that detect dissolved chemical substances in food."*

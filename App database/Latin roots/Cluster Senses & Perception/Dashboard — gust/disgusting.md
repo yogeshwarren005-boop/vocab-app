@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fill with distaste.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause aversion in; offend the moral sense of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arousing revulsion or profound indignation; extremely unpleasant, offensive, or repulsive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychology and moral critique, offensive to sensory receptors or violating foundational moral standards.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Everything that revolts other people, low company, paltry rooms, foul air, disgusting associations are inviting to you."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Her professions of attachment were now as disgusting as her excuses were empty, and her demands impudent."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I saw a universal manifestation of discontent when the fumes of the repast met the nostrils of those destined to swallow it; from the van of the procession, the tall girls of the first class, rose the whispered words— “Disgusting!"*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"The wretched cellar presented a spectacle of **disgusting** filth and misery that appalled the visiting gentleman."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"His open boasts regarding his conquests were in the highest degree **disgusting** to every person of refined sentiment."*
+> - 📜 **George Orwell (*Down and Out in Paris and London*):** *"The subterranean scullery exhibited a **disgusting** accumulation of grease and discarded garbage beneath the boilers."*

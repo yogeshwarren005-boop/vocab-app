@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving or derived from the senses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving or derived from the senses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the senses, physical sensation, or the anatomical sensory apparatus of the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurophysiology and philosophical psychology, pertaining specifically to the sensory nervous system or the sensorium rather than motor faculties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sensorial designates involving or derived from the senses."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The primary **sensorial** cortex receives immediate afferent projections from the peripheral sense organs."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Damage to the posterior spinal nerve roots disrupts **sensorial** conductivity while sparing motor efference."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"Higher cognitive associations develop through the integration of basic **sensorial** impressions over evolutionary time."*

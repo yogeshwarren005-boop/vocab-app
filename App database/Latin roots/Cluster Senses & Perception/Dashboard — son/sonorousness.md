@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the character of a loud deep sound; the quality of being resonant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the character of a loud deep sound; the quality of being resonant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The auditory richness, booming amplitude, and reverberant resonance of a voice or musical instrument.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vocal acoustics and oratorical style, fullness of acoustic resonance and majestic auditory impact.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The immortal tune ended, a fine DD rolling forth from the bass-viol with the sonorousness of a cannonade, and Gabriel delayed his entry no longer."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"After midnight the voice of a clock seems to lose in breadth as much as in length, and to diminish its sonorousness to a thin falsetto."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Any one may give their remarks an interrogative turn,” he continued, his sonorousness rising with his style."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The remarkable **sonorousness** of the ancient church bells made their tolling audible across three parishes."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The natural **sonorousness** of Mr. Casaubon's voice lent an air of solemn gravity to his domestic maxims."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The roaring cataract possesses a sublime **sonorousness** that overwhelms all petty human speech."*

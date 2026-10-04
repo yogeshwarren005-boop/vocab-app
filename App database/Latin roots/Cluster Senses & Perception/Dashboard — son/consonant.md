@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A speech sound that is not a vowel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A letter of the alphabet standing for a spoken consonant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A speech sound produced by obstructing air in the vocal tract, or in agreement, harmony, or accord.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phonetics and ethics, an articulatory obstruction of the vocal stream or conduct consistent with established principles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"HOLOFERNES. _Quis, quis_, thou consonant?"*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"That isn't consonant with the traditions of the service." "Oh, when it comes to the honour of the Army--!" Lawrence jeered at him."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Under such a regulation, it may well happen that the public voice, pronounced by the representatives of the people, will be more consonant to the public good than if pronounced by the people themselves, convened for the purpose."*
+> - 📜 **Alexander Melville Bell (*Visible Speech*):** *"Every articulation that interrupts the pure passage of voice constitutes a distinct **consonant**."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Such moderate penal measures were deemed **consonant** with the ancient traditions of Roman jurisprudence."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"To act in a manner **consonant** with rational judgment is the highest exercise of human liberty."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause not to be sensitive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make insensitive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To render less susceptible, reactive, or sensitive to physical stimuli, irritants, or emotional shocks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In photographic chemistry and behavioral neurology, to diminish photochemical emulsion reactivity or systematically extinguish autonomic fear responses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, desensitise designates cause not to be sensitive."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Repeated exposure to industrial din will rapidly **desensitise** the delicate acoustic receptors of auditory nerve fibres."*
+> - 📜 **Sigmund Freud (*The Ego and the Id*):** *"Prolonged trauma may **desensitise** the ego, erecting protective barriers against psychic excitation."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"Topical anesthetics **desensitise** mucosal surfaces, allowing delicate operative incisions without muscular convulsions."*

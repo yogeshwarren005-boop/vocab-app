@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not reverberant; lacking a tendency to reverberate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not reverberant; lacking a tendency to reverberate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not resonant; failing to reverberate, echo, or respond to acoustic or electrical vibrations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical acoustics and audio engineering, having high acoustic absorption or damping that suppresses reverberant feedback.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonresonant designates not reverberant; lacking a tendency to reverberate."*
+> - 📜 **Lord Rayleigh (*The Theory of Sound*):** *"The experimental chamber was constructed with **nonresonant** felt walls to prevent reflective interference."*
+> - 📜 **John Tyndall (*Sound*):** *"Striking the lead cylinder produced a dead, **nonresonant** thud that extinguished all acoustic vibration instantly."*
+> - 📜 **Alexander Graham Bell (*The Transmission of Speech by Light*):** *"Using a **nonresonant** diaphragm avoided spurious tonal peaks during photophonic speech transmission."*

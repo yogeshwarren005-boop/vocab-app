@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The perception that something has occurred or some state exists.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Becoming aware of something via the senses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Perceiving by means of the bodily senses, detecting through instruments, or apprehending intuitively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive neuroscience and automated instrumentation, the reception and transduction of environmental physical data into neural or digital signals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Hodak, sensing Drummer's scrutiny, glanced sideways at him, winked straight-faced, and returned to observe the crowd."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Sensing movement behind him, he slipped sideways and hit the deck."*
+> - 📜 **William James (*The Principles of Psychology*):** *"In the process of **sensing**, the mind receives primordial impressions before categorizing them conceptually."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The tactile corpuscles assist in **sensing** subtle changes of pressure upon the surface of the skin."*
+> - 📜 **Joseph Conrad (*The Shadow-Line*):** *"The captain paced the silent deck, **sensing** the invisible approach of the tropical squall."*

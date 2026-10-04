@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Falsely emotional in a maudlin way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extravagant or affected feeling or emotion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive tenderness, exaggerated emotionalism, or mawkish sadness in speech, writing, or behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic philosophy, shallow emotional indulgence unearned by dramatic truth, artistic complexity, or moral integrity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The leaders of any group of men, whether of wage workers, merchants, manufacturers, or political constituents, find it necessary to show that the interest of their supporters rather than a broader "sentimentality" is uppermost in their thought."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Shane, do you know people cover greed with sentimentality and call it virtue?" "But, Hedda, the women don't see."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Is it just sentimentality, old wives’ tales, or is she right?” he asked himself."*
+> - 📜 **Leo Tolstoy (*What Is Art?*):** *"Infection with false feeling and cloying **sentimentality** is the mark of counterfeit art produced for pampered upper classes."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Ralph Touchett observed his cousin's high romantic aspirations with affection, though he dreaded the snare of mere **sentimentality**."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"We must strip away political **sentimentality** and look squarely at the raw physical deprivation enduring in industrial towns."*

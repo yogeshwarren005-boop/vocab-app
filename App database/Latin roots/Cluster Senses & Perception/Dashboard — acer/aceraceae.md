@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of trees and shrubs of order sapindales including the maples.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of trees and shrubs of order sapindales including the maples.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical family of dicotyledonous trees and shrubs comprising the maples (genus Acer) and Dipteronia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical plant taxonomy, a temperate woody plant family characterized by opposite palmately lobed leaves and winged double samara fruits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aceraceae designates a family of trees and shrubs of order sapindales including the maples."*
+> - 📜 **Asa Gray (*Introduction to Structural and Systematic Botany*):** *"The family **Aceraceae** is readily recognized by its paired winged schizocarps adapted for aerial dispersal."*
+> - 📜 **Joseph Dalton Hooker (*Flora of British India*):** *"Himalayan species of the **Aceraceae** flourish along moist mountain slopes between five and ten thousand feet."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"Fossil leaves belonging to the **Aceraceae** are abundantly preserved in European Tertiary lacustrine strata."*

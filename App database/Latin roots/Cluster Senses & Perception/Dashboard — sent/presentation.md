@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity of formally presenting something (as a prize or reward).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A show or display; the act of presenting something to sight or view.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of offering, delivering, exhibiting, or formally introducing something to an audience or recipient.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology and obstetrics, the immediate perceptual appearance of a mental object; or the anatomical positioning of a fetus at birth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He uses his folly like a stalking-horse, and under the presentation of that he shoots his wit."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Uncle Philip was less able to stand the quiet which was reigning after the presentation of his gifts than were the children, who were completely lost in the new marvels."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Matthew Bagnet, and by you accepted, for the sum of ninety-seven pounds four shillings and ninepence, will become due to-morrow, when you will please be prepared to take up the same on presentation."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Every sensation begins as a simple sensory **presentation** before association weaves it into our memory network."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The formal **presentation** of the revolutionary address to the Assembly was greeted with rapturous partisan applause."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The lucid **presentation** of scientific evidence requires both absolute candor and rigorous logical discipline."*

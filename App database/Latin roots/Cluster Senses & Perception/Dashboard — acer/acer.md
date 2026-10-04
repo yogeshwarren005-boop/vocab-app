@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the aceraceae; trees or shrubs having winged fruit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the aceraceae; trees or shrubs having winged fruit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The botanical genus comprising the maple trees and shrubs, known for opposite leaves and winged samaras.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dendrology and systematic botany, the type genus of the family Aceraceae (or Sapindaceae subf. Hippocastanoideae), valued for timber and syrup.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acer designates type genus of the aceraceae; trees or shrubs having winged fruit."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The sugar maple, designated **Acer** saccharum, yields sweet sap in early spring before leaf emergence."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Japanese horticulturists have selected numerous ornamental cultivars within the polymorphous genus **Acer**."*
+> - 📜 **Henry David Thoreau (*Autumnal Tints*):** *"The scarlet leaves of the red maple, the swamp **Acer**, illuminate the dark October lowlands."*

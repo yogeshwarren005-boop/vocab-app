@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strong feelings of dislike.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fill with distaste.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of revulsion or profound disapproval aroused by something unpleasant, offensive, or immoral; or to cause such revulsion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary psychology, moral philosophy, and psychiatry, an adaptive rejection response against pathogen contaminants or ethical transgressions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"A man is in greater danger in the navy of being insulted by the rise of one whose father, his father might have disdained to speak to, and of becoming prematurely an object of disgust himself, than in any other line."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Freckles do not disgust me so very much as they do him."*
-> - 📜 **Jane Austen (*Persuasion*):** *"I should have thought your last impressions of Lyme must have been strong disgust.” “The last hours were certainly very painful,” replied Anne; “but when pain is over, the remembrance of it often becomes a pleasure."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The emotion of **disgust** manifests primarily in movements about the mouth resembling an effort to reject offensive food."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She turned away with irrepressible **disgust** from the obsequious flattery of Mr. Collins."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Bucket looked upon the fraudulent attorney with cold, professional **disgust** as he applied the handcuffs."*

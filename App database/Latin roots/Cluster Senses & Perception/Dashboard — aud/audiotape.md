@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tape recording of sound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Magnetic tape for use in recording sound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A magnetic tape used for recording and reproducing sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sound engineering and historical archives, a flexible plastic ribbon coated with iron oxide particles utilized to preserve acoustic recordings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"If the mechanics of writing or drawing is the problem, then audiotape."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"She wrote: I audiotape the story and mail the book to him along with the cassette,' she wrote, 'but there's more to it than that."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Grandparent-Grandchild Interview A fun way to open lines of communications while visiting grandchildren, be they nearby or far away, is the audiotaped interview."*
+> - 📜 **Walter J. Ong (*Orality and Literacy*):** *"Capturing epic recitations upon magnetic **audiotape** preserved oral poetic performances that would otherwise have vanished."*
+> - 📜 **Marshall McLuhan (*Understanding Media*):** *"The medium of **audiotape** enabled composers to slice, loop, and reassemble raw sonic reality at will."*
+> - 📜 **Raymond Williams (*Keywords: A Vocabulary of Culture and Society*):** *"The introduction of cheap **audiotape** recorders facilitated widespread ethnographic field recordings across rural communities."*

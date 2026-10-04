@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who listens attentively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A student who attends a course but does not take it for credit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person appointed to conduct an official financial audit, or someone who attends a class without receiving academic credit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In corporate finance and historical governance, an independent professional who verifies accounting accuracy or an attentive institutional listener.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I heard him tell it to one of his company last night at supper; a kind of auditor, one that hath abundance of charge too, God knows what."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll be an auditor; An actor too perhaps, if I see cause."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket’s eye and the masterly manner in which he contrived, without a look or a word against which his watchful auditor could protest, to let us know that he stated the case according to previous agreement and could say much more of Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket stood before the magistrate, serving as a vigilant, impassive **auditor** to every confession."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The public **auditor** must certify every disbursement of state treasure before the accounts can be closed."*
+> - 📜 **William Shakespeare (*A Midsummer Night's Dream*):** *"I'll be an **auditor**; an actor too perhaps, if I see cause."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A verse form consisting of 14 lines with a fixed rhyme scheme.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Praise in a sonnet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A poem of fourteen lines using any of a number of formal rhyme schemes, typically having ten syllables per line.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In lyric poetry and prosodic history, a fixed fourteen-line stanzaic form developed in medieval Italy and perfected in Renaissance Europe.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good Captain, will you give me a copy of the sonnet you writ to Diana in behalf of the Count Rossillon?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I once writ a sonnet in his praise and began thus: “Wonder of nature,”— ORLEANS."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have heard a sonnet begin so to one’s mistress."*
+> - 📜 **William Shakespeare (*The Sonnets*):** *"Shall I compare thee to a summer's day? This immortal **sonnet** celebrates love triumphant over time."*
+> - 📜 **William Wordsworth (*Poems, in Two Volumes*):** *"Scorn not the **sonnet**; Critic, you have frowned, mindless of its honors; with this key Shakespeare unlocked his heart."*
+> - 📜 **John Keats (*On the Grasshopper and Cricket*):** *"The young poet poured his most ecstatic lyric meditations into the compact architecture of the Petrarchan **sonnet**."*

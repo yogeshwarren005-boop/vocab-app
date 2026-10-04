@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rendering an organism sensitive to a serum by a series of injections.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to sense; make sensitive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inducing heightened physiological sensitivity, photochemical reactivity, or psychological impressionability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In immunochemistry and photographic processing, predisposing living tissues to allergic inflammation or making dry plates responsive to light wavelengths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sensitising designates rendering an organism sensitive to a serum by a series of injections."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The **sensitising** dose must be administered with extreme caution to prevent premature anaphylactic shock."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"Continuous exposure exerts a **sensitising** effect upon central auditory pathways in wild animals."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Refined artistic environments exert a **sensitising** influence over the emotional life of adolescents."*

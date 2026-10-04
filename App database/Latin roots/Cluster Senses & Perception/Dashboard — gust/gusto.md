@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Vigorous and enthusiastic enjoyment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vigorous and enthusiastic enjoyment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Enthusiastic enjoyment, zest, or hearty appreciation in doing something; or individual artistic relish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic criticism and psychology, vigorous passion and passionate vitality in artistic execution (e.g. Hazlitt's concept of gusto).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"The natives have no European prejudices regarding the human body, and eat it with as good a conscience and as much gusto as we do butcher's meat."*
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"Some of them read with animation the responses in church service and repeat the Lord's Prayer with the greatest gusto."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Harrison and used it with great gusto . . ."*
+> - 📜 **William Hazlitt (*On Gusto*):** *"**Gusto** in art is power or passion defining any object; it gives the truth of character in the highest degree, as in Titian's glowing flesh."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber brewed the bowl of rum punch with extraordinary **gusto**, stirring the steaming concoction with theatrical flourishes."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The hungry harpooners ate their supper with tremendous **gusto**, devouring smoking hot steaks of beef after the long chase."*

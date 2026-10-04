@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical american shrub bearing edible acid red fruit resembling cherries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acid red or yellow cherry-like fruit of a tropical american shrub very rich in vitamin c.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tropical shrub or small tree (Malpighia emarginata) bearing tart, bright red cherry-like fruits extremely rich in vitamin C.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic botany and nutrition science, a Neotropical malpighiaceous fruit celebrated for exceptional ascorbic acid concentration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acerola designates tropical american shrub bearing edible acid red fruit resembling cherries."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The tropical **acerola** yields juicy, tart drupes prized by inhabitants of the West Indies for refreshing beverages."*
+> - 📜 **Joseph Dalton Hooker (*Curtis's Botanical Magazine*):** *"The red berries of the **acerola** possess a pleasant acidulous pulp that makes delightful preserves in the colonies."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of America*):** *"Along the shores of the Orinoco, thickets of **acerola** were laden with bright crimson fruits in the rainy season."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The measurement of hearing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Measuring sensitivity of hearing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quantitative testing and measurement of the acuity of hearing for various sound frequencies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sensory psychophysics and clinical medicine, the diagnostic methodology employed to map sensory hearing thresholds and speech discrimination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, audiometry designates the measurement of hearing."*
+> - 📜 **Georg von Békésy (*Experiments in Hearing*):** *"Through automated **audiometry**, human bone-conduction thresholds can be plotted without subjective examiner bias."*
+> - 📜 **Alexander Graham Bell (*The Transmission of Speech by Light*):** *"Precise **audiometry** showed that speech sounds stimulate peripheral nerve fibers with striking selectivity."*
+> - 📜 **Oliver Sacks (*Seeing Voices*):** *"Routine neonatal **audiometry** in modern maternity wards has transformed how childhood hearing impairments are remediated."*

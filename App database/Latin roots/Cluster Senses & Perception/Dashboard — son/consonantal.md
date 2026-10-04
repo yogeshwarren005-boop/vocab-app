@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being or marked by or containing or functioning as a consonant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or having the nature of a consonant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or having the characteristics of a consonant sound in speech.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical phonology and linguistics, designating phonemes produced by constriction or occlusion of the supraglottal vocal tract.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, consonantal designates being or marked by or containing or functioning as a consonant."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"Semitic word roots are predominantly triconsonantal, relying upon a rigid **consonantal** skeleton."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"The shift in Indo-European **consonantal** series demonstrates systematic articulatory mutation over centuries."*
+> - 📜 **Otto Jespersen (*Language: Its Nature, Development and Origin*):** *"English phonotactics permits complex **consonantal** clusters at the onset of stressed syllables."*

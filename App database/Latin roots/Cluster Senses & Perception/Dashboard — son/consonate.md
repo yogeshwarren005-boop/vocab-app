@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sound in sympathy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sound in sympathy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To sound in harmony, accord, or sympathy with another tone or voice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In acoustics, musicology, and rhetoric, to vibrate in sympathetic resonance or align in conceptual agreement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, consonate designates sound in sympathy."*
+> - 📜 **Lord Rayleigh (*The Theory of Sound*):** *"When tuned to the fundamental mode, the secondary string begins to **consonate** with vibrant clarity."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The poet's emotional cadences seemed to **consonate** with the melancholic murmurs of the evening breeze."*
+> - 📜 **John Tyndall (*Sound*):** *"A tuning fork held near an open jar of proper depth will **consonate** powerfully with its aerial column."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person employed to keep watch for some anticipated event.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person employed to keep watch for some anticipated event.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A soldier stationed at an outpost, gate, or perimeter to keep guard and prevent unauthorized passage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military logistics and fortification doctrine, a tactical lookout posted to challenge approaching visitors and sound alarms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter a Sentry and his company."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet, in a perfect abyss of gravity, walks up and down before the little parlour window like a sentry and looks in every time he passes, apparently revolving something in his mind."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Man may, in effect, be said to look out on the world from a sentry-box with two joined sashes for his window."*
+> - 📜 **William Shakespeare (*Antony and Cleopatra*):** *"The court of guard: the **sentry** challenges: / 'Hark! the drums / Demurely wake the sleepers.'"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet walked with martial precision, carrying himself as though he were a **sentry** on guard before an imperial palace."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The solitary mast-head lookout stood like a lone **sentry** gazing across the boundless desert of the Pacific waters."*

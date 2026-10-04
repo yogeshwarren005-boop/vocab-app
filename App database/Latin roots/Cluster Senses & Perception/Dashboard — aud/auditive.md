@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the process of hearing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the process of hearing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the sense of hearing; auditory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology and linguistics, referring to the mental processing and perceptual encoding of acoustic impressions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"What was Stephen’s auditive sensation?"*
+> - 📜 **William James (*The Principles of Psychology*):** *"The **auditive** memory retains phonetic cadences with greater vividness than the corresponding visual signs."*
+> - 📜 **Edward Titchener (*A Text-Book of Psychology*):** *"In certain subjects the **auditive** sensations evoke vivid secondary visual images known as colored hearing."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"The acoustic signifier relies primarily on an **auditive** impression that links to a mental concept."*

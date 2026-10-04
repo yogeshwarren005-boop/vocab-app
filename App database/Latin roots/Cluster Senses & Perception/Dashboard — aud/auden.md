@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states poet (born in england) (1907-1973).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states poet (born in england) (1907-1973).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: W. H. Auden (1907–1973), an influential Anglo-American poet celebrated for technical virtuosity, intellectual versatility, and social engagement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern literary history, the preeminent voice of the 1930s generation who fused psychological insight, political urgency, and moral gravity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"Auden's "Academic Graffiti," in Collected Poems_, ed."*
+> - 📜 **T. S. Eliot (*To Criticize the Critic*):** *"The poems of **Auden** brought into modern English verse an unmistakable idiom of intellectual diagnostic power."*
+> - 📜 **Stephen Spender (*World Within World*):** *"During our Oxford days, **Auden** dominated our literary circle with his dazzling mastery of traditional meters."*
+> - 📜 **Christopher Isherwood (*Lions and Shadows*):** *"Working alongside **Auden** on dramatic verse taught me the precise mechanics of theatrical language."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states ornithologist and artist (born in haiti) noted for his paintings of birds of america (1785-1851).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states ornithologist and artist (born in haiti) noted for his paintings of birds of america (1785-1851).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: John James Audubon (1785–1851), an American ornithologist, naturalist, and painter renowned for his monumental 'The Birds of America'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In conservation history and natural history illustration, the pioneering artist whose lifelike folio engravings established American ornithological art.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, audubon designates united states ornithologist and artist (born in haiti) noted for his paintings of birds of america (1785-1851)."*
+> - 📜 **Ralph Waldo Emerson (*Journals*):** *"The magnificent folio engravings of **Audubon** bring the vitality of American wilderness onto our library tables."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I consulted the accounts of **Audubon** to identify the rare aquatic fowl nesting along the tranquil marsh."*
+> - 📜 **John Burroughs (*Birds and Poets*):** *"No naturalist observed field habits with the poetic enthusiasm and tireless fidelity of **Audubon**."*

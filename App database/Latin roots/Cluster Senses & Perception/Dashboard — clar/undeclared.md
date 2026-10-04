@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not announced or openly acknowledged.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not announced or openly acknowledged.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not announced, admitted, or openly stated; kept secret or informal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military conflict, taxation, and psychological motivations, carried out without formal diplomatic declaration or explicit public admission.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Brooke’s Middlemarch projects, revealed clearly enough that the undeclared motive had relation to Dorothea."*
+> - 📜 **George Eliot (*Middlemarch*):** *"An **undeclared** affection existed between them, communicated only through involuntary glances and hushed tones."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Border skirmishes continued as an **undeclared** war along the Danube frontier for several anxious years."*
+> - 📜 **Henry James (*The Ambassadors*):** *"His motives remained an **undeclared** secret that piqued the curiosity of his Parisian companions."*

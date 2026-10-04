@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fearless daring.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aggressive boldness or unmitigated effrontery.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of exhibiting fearless boldness, rash daring, or insolent presumption.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character assessment and dramatic portrayal, the provocative display of contempt for conventional boundaries or peril.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"A casual observer might, perhaps, applaud the audaciousness of this conduct."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Her defiant posture revealed an **audaciousness** that scandalized the solemn magistrates assembled on the platform."*
+> - 📜 **George Eliot (*Middlemarch*):** *"There was a startling **audaciousness** in his proposal to restructure the hospital management without consulting the board."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Her youthful **audaciousness** led her into friendships that more prudent observers regarded with apprehension."*

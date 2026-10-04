@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of physical sensation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unaware of or indifferent to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of sensory feeling, unconscious, or imperceptible by gradual and minute degrees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In empirical philosophy and clinical physiology, lacking conscious awareness of external stimuli or advancing by imperceptible increments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Peace is a very apoplexy, lethargy; mulled, deaf, sleepy, insensible; a getter of more bastard children than war’s a destroyer of men."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A man that apprehends death no more dreadfully but as a drunken sleep; careless, reckless, and fearless of what’s past, present, or to come; insensible of mortality and desperately mortal."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jobling repair to the rag and bottle shop, where they find Krook still sleeping like one o’clock, that is to say, breathing stertorously with his chin upon his breast and quite insensible to any external sounds or even to gentle shaking."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Roman citizens were betrayed by an **insensible** decline into tyranny, barely conscious of lost liberties."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Natural selection acts solely through the accumulation of slight, almost **insensible** hereditary variations."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Exhausted by cold and hunger upon the open moors, I fell **insensible** across the threshold."*

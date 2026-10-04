@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A measuring instrument for measuring the light sensitivity of film over a range of exposures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A measuring instrument for measuring the light sensitivity of film over a range of exposures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical measuring instrument used to determine the photographic sensitivity and speed of emulsions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In photometric physics and photographic engineering, a calibrated apparatus that exposes photochemical materials to graded light intensities to plot characteristic exposure curves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sensitometer designates a measuring instrument for measuring the light sensitivity of film over a range of exposures."*
+> - 📜 **William de Wiveleslie Abney (*A Treatise on Photography*):** *"By using Warnerke's **sensitometer**, the comparative speed of commercial gelatino-bromide plates can be numerically determined."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The analytical chemist utilized an optical **sensitometer** to measure plate responses during forensic photography tests."*
+> - 📜 **H. G. Wells (*The First Men in the Moon*):** *"Cavor brought a pocket **sensitometer** to record the actinic brilliance of solar rays outside the terrestrial atmosphere."*

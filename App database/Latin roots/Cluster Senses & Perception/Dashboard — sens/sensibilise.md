@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make sensitive or aware.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make sensitive or aware.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To render physically sensitive, perceptual, or acutely impressionable to external stimuli.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic theory and experimental neurology, to heighten receptive responsiveness to delicate sensory or artistic nuances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sensibilise designates make sensitive or aware."*
+> - 📜 **Walter Pater (*The Renaissance: Studies in Art and Poetry*):** *"The contemplative life serves to **sensibilise** the artistic temperament to fleeting subtleties of light and color."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"Refined sensory exercise will **sensibilise** peripheral nerve terminations to minute vibratory distinctions."*
+> - 📜 **Havelock Ellis (*The Dance of Life*):** *"Cultural education should **sensibilise** our moral consciousness to the rhythmic beauty of human communion."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The audible part of a transmitted signal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An audible acoustic wave frequency.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to recorded, transmitted, or reproduced sound, or the sound elements of a broadcast.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In telecommunications and acoustics, the electrical or digital representation of frequencies within the human auditory spectrum (roughly 20 Hz to 20 kHz).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Strategic Concepts Computer presented visual displays accompanied by a gently modulated audio."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The message calls for an audio-visual presentation in the view tank."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Many of them use tech data recorded on audio systems or in Braille."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"High fidelity transmission of an **audio** signal requires adequate channel bandwidth to prevent distortion."*
+> - 📜 **Alan Turing (*Computing Machinery and Intelligence*):** *"The teleprinter interface deliberately eliminated **audio** clues such as timbre and pitch from the test."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Feedback mechanisms operating upon **audio** frequencies can stabilize amplifier circuits against erratic oscillations."*

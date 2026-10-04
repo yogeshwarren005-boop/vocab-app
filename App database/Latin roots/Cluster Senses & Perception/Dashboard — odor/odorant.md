@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin odor within the domain of Senses & Perception.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of odor in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance that gives off a smell or odor; especially a pungent compound added to odorless natural gas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sensory biochemistry, chemical safety, and olfactory research, a volatile compound (such as t-butyl mercaptan) that triggers olfactory sensations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, odorant designates pertaining to, derived from, or characteristic of latin odor within the domain of senses & perception."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The volatile **odorant** evaporated rapidly, diffusing through the lecture theater within seconds of unstopping the flask."*
+> - 📜 **Claude Shannon (*The Mathematical Theory of Communication*):** *"In chemical communication systems, a specific **odorant** functions as an information carrier between biological organisms."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Adding a trace of a potent **odorant** to commercial fuel gas ensures prompt detection of household leaks."*

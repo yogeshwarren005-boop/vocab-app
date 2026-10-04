@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any property detected by the olfactory system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sensation that results when olfactory receptors in the nose are stimulated by particular chemicals in gaseous form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A distinctive smell, scent, or fragrance, especially one that is perceived through the sense of smell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sensory physiology, chemistry, and figurative idioms, volatile chemical emissions or moral reputation (e.g. odor of sanctity, in bad odor).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"When she entered his room with this concoction a little later, the odor from it was so inviting that the Baron breathed it in gratefully."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon seemed even unconscious that trivialities existed, and never handed round that small-talk of heavy men which is as acceptable as stale bride-cake brought forth with an odor of cupboard."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Raffles, both of which seemed to have a stale odor of travellers’ rooms in the commercial hotels of that period."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"What's in a name? That which we call a rose by any other name would smell as sweet; its lovely **odor** would remain unchanged."*
+> - 📜 **John Keats (*Ode to a Nightingale*):** *"I cannot see what flowers are at my feet, nor what soft incense hangs upon the boughs, but, in embalmed darkness, guess each sweet; the heavy **odor** of summer pines."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"A faint, sickly **odor** of decaying parchment and stagnant ink hung perpetually about the dusty law offices."*

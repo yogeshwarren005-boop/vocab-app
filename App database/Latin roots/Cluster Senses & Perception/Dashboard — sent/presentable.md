@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fit to be seen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fit to be seen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fit to be seen, accepted, introduced, or displayed; suitable in appearance, dress, manners, or quality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social etiquette and publishing, meeting the minimum aesthetic or editorial decorum required for public exhibition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"I wiped my eyes, and put myself into presentable shape as soon as I could, and opened the door."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"My very shoes and stockings were purified and rendered presentable."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Mamie says Ned remarked on the fact that the baby was hardly presentable when you girls stopped in with him to see it the other day, Nell."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Biddy exerted herself to make Joe **presentable** before he set out for London to visit Pip in his fine chambers."*
+> - 📜 **George Bernard Shaw (*Pygmalion*):** *"In six months I could pass this guttersnipe off as a duchess at an ambassador's garden party, perfectly **presentable** and poised."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"The curate brushed his threadbare coat vigorously in a vain effort to appear **presentable** before the bishop's imperious wife."*

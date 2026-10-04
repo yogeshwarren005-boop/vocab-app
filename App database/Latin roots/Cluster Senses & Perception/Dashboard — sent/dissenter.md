@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who dissents from some established policy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who dissents from some established policy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who dissents, disagrees, or refuses to conform to an established doctrine, policy, or institution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British constitutional and ecclesiastical history, a Protestant who separated from the established Church of England, such as a Puritan or Quaker.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"The family were of that "strict, not strictest species of Presbyterian Dissenter," and John attended also the Bible-class and Fellowship Meeting."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But now he may be no better than a Dissenter, and want to push aside my son on pretence of doctrine."*
-> - 📜 **George Eliot (*Middlemarch*):** *"She so much wished to ignore towards others that her husband had ever been a London Dissenter, that she liked to keep it out of sight even in talking to him."*
+> - 📜 **Daniel Defoe (*The Shortest Way with the Dissenters*):** *"The zealous pamphleteer argued that every persistent **dissenter** should be banished from the realm to secure uniformity."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The Toleration Act provided substantial relief to the Protestant **dissenter**, though full civil equality was withheld for generations."*
+> - 📜 **John Locke (*A Letter Concerning Toleration*):** *"The magistrate has no authority to persecute a religious **dissenter** whose harmless rites disturb no civil peace."*

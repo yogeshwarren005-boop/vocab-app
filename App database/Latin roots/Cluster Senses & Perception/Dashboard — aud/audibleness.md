@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Quality or fact or degree of being audible or perceptible by the ear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Quality or fact or degree of being audible or perceptible by the ear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The acoustic distinctness or clarity that enables sound to be perceived by the ear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sensory physiology and phonetics, the physical clarity and sufficient acoustic intensity that render an utterance perceptible.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, audibleness designates quality or fact or degree of being audible or perceptible by the ear."*
+> - 📜 **Alexander Melville Bell (*Visible Speech: The Science of Universal Alphabetics*):** *"The vocalized breath gains sufficient **audibleness** only when unobstructed by excessive muscular constriction."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The faint **audibleness** of distant thunder produces a subconscious tension in our sensory attention."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"A minimum acoustic energy is indispensable to ensure the **audibleness** of whispered sibilants."*

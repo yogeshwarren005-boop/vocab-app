@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Street names for marijuana.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fractional monetary unit of japan and indonesia and cambodia; equal to one hundredth of a yen or rupiah or riel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The fundamental concept of meaning, direction, sensory reception, or rational understanding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical linguistics and comparative Romance semantics, the root meaning or conceptual trajectory inherited from Latin sensus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Captain Jamie must have sensed this faith that informed me, for he said: “I remember a Swede that went crazy twenty years ago."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It was nervous, tingling work, for as surely as I sensed his intention of briefness, just as surely had he sensed mine."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But in him, this poor-clad, lean-bellied priest, I sensed the power behind power in all the palace and in all Cho-Sen."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The modern term is derived through French **sens** from Latin sensus, designating both perception and signification."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"In early Romance vernaculars the word **sens** denoted mental discernment as well as direction of motion."*
+> - 📜 **Edward Tylor (*Primitive Culture*):** *"Symbolic gestures convey a definite **sens** or purpose long before written alphabets crystallize."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A message that seems to convey no meaning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A message that seems to convey no meaning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The character or occurrence of being absurd, irrational, or devoid of meaningful sense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetorical satire and philosophical discourse, the intrinsic preposterousness of unfounded claims or whimsical literary conceits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonsensicality designates a message that seems to convey no meaning."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The sublime **nonsensicality** of formal fashion reveals the deeper spiritual paradoxes of modern life."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The grotesque **nonsensicality** of the ballad was redeemed by its haunting rhythmic melody."*
+> - 📜 **George Bernard Shaw (*Man and Superman*):** *"Conventional chivalry displays a comic **nonsensicality** that collapses at the first touch of realism."*

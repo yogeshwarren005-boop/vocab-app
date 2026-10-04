@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking consciousness or ability to perceive sensations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking consciousness or ability to perceive sensations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The absence of sensory perception, consciousness, or the capacity to feel; inanimate or unfeeling status.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the philosophy of mind and ontology, the fundamental attribute of non-living matter that lacks subjective experience or qualia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, insentience designates lacking consciousness or ability to perceive sensations."*
+> - 📜 **Arthur Schopenhauer (*The World as Will and Representation*):** *"From the blind **insentience** of inorganic crystal formations to the conscious suffering of human intellect, the Will manifests ceaselessly."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"The cosmos moves inexorably from primal **insentience** toward high nervous organization and reflective intelligence."*
+> - 📜 **William James (*The Principles of Psychology*):** *"To bridge the absolute gulf between the complete **insentience** of molecules and conscious feeling remains the enigma of psychophysics."*

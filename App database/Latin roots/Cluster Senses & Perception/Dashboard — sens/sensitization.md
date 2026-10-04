@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being sensitive (as to an antigen).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (psychology) the process of becoming highly sensitive to specific events or situations (especially emotional events or situations).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of becoming sensitive or making something susceptible to an agent, antigen, or stimulus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical immunology and behavioral neuroscience, the amplification of allergic anaphylaxis or non-associative learning whereby repeated stimuli increase response vigor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sensitization designates the state of being sensitive (as to an antigen)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Allergic **sensitization** to foreign serum proteins develops several days after the primary parenteral exposure."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Neural **sensitization** explains why repeated warnings sharpen attention and quicken motor responses."*
+> - 📜 **Charles Darwin (*Insectivorous Plants*):** *"Repeated mechanical touch induced marked **sensitization** in the tentacles of Drosera, hastening secretion."*

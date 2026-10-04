@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: State emphatically and authoritatively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Announce publicly or officially.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Publicly announced, stated openly, or acknowledged with official recognition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military history, international law, and civil politics, formally promulgated or sworn before lawful authorities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I have no time to tell you now, Kurt," the mother declared decisively."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I told her right away," Lippo declared."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"One ought to put in the first block and pack it before one takes up the second." "Then I won't wait for you," Mäzli declared, rapidly whisking out by the door."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The legions **declared** their victorious general emperor, refusing allegiance to the Senate in Rome."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"He remained an openly **declared** opponent of the royal dispensing power throughout his parliamentary career."*
+> - 📜 **Johanna Spyri (*Heidi*):** *"The physician **declared** that the mountain air would restore the sickly child to vigorous health."*

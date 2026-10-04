@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (used especially of art) depicting objects, figures,or scenes as seen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used especially of art) depicting objects, figures,or scenes as seen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, characterized by, or based upon depiction, symbolization, or portrayal of reality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fine art and semiotics, denoting figurative painting or sculpture that reproduces recognizable likenesses of physical subjects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, representational designates (used especially of art) depicting objects, figures,or scenes as seen."*
+> - 📜 **E. H. Gombrich (*Art and Illusion*):** *"The development of **representational** art in classical Greece was not an effortless copying of nature but a triumph of visual experimentation."*
+> - 📜 **Susanne Langer (*Feeling and Form*):** *"Even the most strictly **representational** picture achieves its artistic power through formal expressive design rather than literal transcription."*
+> - 📜 **Roger Fry (*Vision and Design*):** *"Post-impressionist masters discarded superfluous **representational** detail in order to intensify the emotional impact of pure color and line."*

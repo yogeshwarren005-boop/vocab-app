@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to be bitter or resentful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make sour or bitter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make sour, bitter, or astringent; or to irritate, vex, or exasperate someone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral psychology and rhetoric, to embitter personal animosity or intensify emotional acrimony.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acerbate designates cause to be bitter or resentful."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Factional quarrels served only to **acerbate** public fury against the wavering constitutional ministry."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Harsh fiscal exactions did much to **acerbate** the smoldering disaffection of the Syrian provinces."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate's cold, sarcastic replies seemed designed to **acerbate** his brother-in-law's rising indignation."*

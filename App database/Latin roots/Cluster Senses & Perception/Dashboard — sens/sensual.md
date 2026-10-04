@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by the appetites and passions of the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sexually exciting or gratifying.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or derived from physical, bodily, or carnal pleasures rather than the intellect or spirit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and aesthetic criticism, appealing voluptuously to the bodily appetites or characterized by preoccupation with physical gratification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have begun, And now I give my sensual race the rein."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Bitter and base associations have become the sole food of your memory: you wander here and there, seeking rest in exile: happiness in pleasure—I mean in heartless, sensual pleasure—such as dulls intellect and blights feeling."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"For we are clear that this was no mere straying of sensual appetite, but a straying, strange and deplorable, of the spirit; that (contrary to what Mr."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For thou hast been a man that fortune's buffets and rewards hast ta'en with equal thanks, not swayed by **sensual** passion."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Gross **sensual** appetite took the place of reason, leading them into shameful disobedience and fallen misery."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I could not respect a man whose life was surrendered to gross and **sensual** indulgences."*

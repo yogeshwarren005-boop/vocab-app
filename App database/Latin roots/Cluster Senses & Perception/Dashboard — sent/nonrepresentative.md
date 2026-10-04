@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not standing for something else.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not standing for something else.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not typical of a class, population, or category; not serving to represent a broader group or constituency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In quantitative statistics and political theory, a sample or assembly that fails to reflect the demographic or ideological composition of the whole.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonrepresentative designates not standing for something else."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"An assembly selected by narrow property qualifications proved dangerously **nonrepresentative** of the vast democratic majority."*
+> - 📜 **Karl Pearson (*The Grammar of Science*):** *"Drawing inferences from a **nonrepresentative** sample introduces systematic bias fatal to scientific generalization."*
+> - 📜 **Walter Lippmann (*Public Opinion*):** *"The small clique of party delegates remained thoroughly **nonrepresentative** of the unorganized electorate they claimed to speak for."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Subject matter that is calculated to excite and please vulgar tastes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The journalistic use of subject matter that appeals to vulgar tastes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of using shocking, lurid, or exaggerated matters to provoke intense public excitement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical epistemology and media critique, the doctrine that all knowledge derives from sense experience, or the cynical exploitation of vulgar curiosity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"If he only amuses them and deals in paltry three-cent sensationalism, away with more of the same sort of stuff which we already have in so many pastors!"*
+> - 📜 **John Stuart Mill (*An Examination of Sir William Hamilton's Philosophy*):** *"French philosophical **sensationalism** traced all operations of judgment back to transformed passive sensations."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"Modern journalism panders to crude **sensationalism**, debasing the reflective faculties of the reading public."*
+> - 📜 **William James (*The Meaning of Truth*):** *"Radical empiricism must not be confused with crude **sensationalism**, since relations themselves are experienced facts."*

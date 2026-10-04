@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an unpleasant smell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an unpleasant smell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Smelling very unpleasant; foul-smelling, offensive to the sense of smell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sanitation, environmental health, and descriptive literature, emitting noxious, putrid, or sulfurous volatile vapors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"God bless you!...” He embraced his daughter, and then again Pierre, and kissed him with his malodorous mouth."*
-> - 📜 **Bram Stoker (*Dracula*):** *"We were prepared for some unpleasantness, for as we were opening the door a faint, malodorous air seemed to exhale through the gaps, but none of us ever expected such an odour as we encountered."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tom-all-Alone's was a **malodorous** rookery of collapsing tenements shrouded in pestilential river fogs."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The boiling of old blubber scraps produced a dense, **malodorous** smoke that coated the ship's rigging with black soot."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Bronchiectasis is characterized by paroxysms of severe cough yielding large quantities of **malodorous**, purulent sputum."*

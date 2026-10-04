@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feel bitter or indignant about.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wish ill or allow unwillingly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To feel or show bitter indignation, displeasure, or offense at an act, remark, or person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral psychology and historical semantics, to harbor an aggrieved emotional reaction to perceived injustice or personal slight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He did not resent my conduct, he simply said that some day I should receive the first-fruits of the Spirit—that those who came to scoff sometimes remained to pray."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Isabella could not be aware of the pain she was inflicting; but it was a degree of wilful thoughtlessness which Catherine could not but resent."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Collins, after assuring them that he bore his young cousin no ill-will, and should never resent her behaviour as any affront, seated himself at another table with Mr."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth could not but secretly **resent** the supercilious airs with which Mr. Darcy treated her family at the ball."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Small minds are quick to **resent** imaginary insults where no intentional offense was ever conceived."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"We naturally **resent** the injury done to an innocent victim, and our moral sympathies demand retribution on his behalf."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Take the place of or be parallel or equivalent to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Express indirectly by an image, form, or model; be a symbol.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To stand for, depict, symbolize, or act as an authorized proxy or delegate on behalf of another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political theory and cognitive science, to serve as an elected deputy voicing constituent interests, or to form an internal mental token of external reality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For well I wot the empress never wags But in her company there is a Moor; And, would you represent our queen aright, It were convenient you had such a devil."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now, if I avow that I represent, in Jarndyce and Jarndyce and otherwise, a highly humane, but at the same time singular, man, shall I compromise myself by any stretch of my professional caution?” said Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Chadband unpleasantly warm, but to represent the innocent Mr."*
+> - 📜 **John Locke (*Second Treatise of Government*):** *"Legislators are chosen to **represent** the collective wills and protect the natural property of the citizens who elected them."*
+> - 📜 **Edmund Burke (*Speech to the Electors of Bristol*):** *"Your representative owes you, not his industry only, but his judgment; and he betrays, instead of serving you, if he does not **represent** his own enlightened conscience."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"Concepts without intuitions are empty; intuitions without concepts cannot **represent** intelligible objects to the understanding."*

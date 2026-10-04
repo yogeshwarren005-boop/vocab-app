@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sensuous feeling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sensuous feeling.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of appealing richly and aesthetically to the physical senses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and poetic philosophy, the presence of vivid, exquisite sensory warmth and beauty detached from gross carnality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The former curves of sensuousness were now modulated to lines of devotional passion."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A victim of licentiousness and sensuousness, who often, amid his sinful pleasures, had the memory of Christian parents before him, felt his was indeed a life of shame."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Discerning Christ, Truth, anew on the shore of time, they were enabled to rise somewhat from mortal sensuousness, or the burial of mind in matter, into new- 35:9 ness of life as Spirit."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The exquisite **sensuousness** of Spenser's verse never degenerates into vulgar immorality."*
+> - 📜 **Walter Pater (*The Renaissance: Studies in Art and Poetry*):** *"Botticelli's canvas combines pagan **sensuousness** with a haunting melancholy of Christian sentiment."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"Keats possessed a natural gift of **sensuousness** that rendered his descriptions of nature unforgettable."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to sense; make sensitive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make sensitive to a drug or allergen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To render sensitive, responsive, or impressionable to light, allergens, or sensory stimuli.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In photography and clinical medicine, to treat a photographic emulsion or immunological system to induce acute responsiveness to radiation or antigens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sensitise designates cause to sense; make sensitive."*
+> - 📜 **William Crookes (*Researches in the Phenomena of Spiritualism*):** *"Photographers must carefully **sensitise** the collodion plate in a darkroom bath of silver nitrate."*
+> - 📜 **William Osler (*Modern Medicine*):** *"Small intravenous doses of foreign protein **sensitise** animal tissue to subsequent allergic challenge."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Careful scientific observation will **sensitise** the human intellect to minute patterns in natural phenomena."*

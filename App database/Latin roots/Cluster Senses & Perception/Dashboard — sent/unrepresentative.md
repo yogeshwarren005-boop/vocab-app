@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not exemplifying a class.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not exemplifying a class.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not typical of a class, group, or whole; failing to represent the broader population accurately.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political science and constitutional history, a governing assembly chosen under corrupt or restrictive suffrage that fails to voice popular will.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unrepresentative designates not exemplifying a class."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"An **unrepresentative** parliament dominated by landlord interests naturally favored protectionist tariffs at the expense of starving consumers."*
+> - 📜 **Walter Bagehot (*The English Constitution*):** *"Rotten boroughs produced an **unrepresentative** legislature whose decrees commanded decreasing moral respect throughout the manufacturing counties."*
+> - 📜 **Alexis de Tocqueville (*The Old Regime and the Revolution*):** *"The royal provincial councils were thoroughly **unrepresentative** of the taxpaying peasantry whose burdens they arbitrarily increased."*

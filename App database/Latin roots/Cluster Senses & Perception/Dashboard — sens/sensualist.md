@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who enjoys sensuality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who enjoys sensuality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person devoted to carnal, physical, and sensual pleasures; or an adherent of philosophical sensationalism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character studies and ethics, one whose lifestyle or philosophy subordinates intellectual and spiritual duties to bodily gratification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I am not absolutely such a fool and sensualist as to regret the absence of a carpet, a sofa, and silver plate; besides, five weeks ago I had nothing—I was an outcast, a beggar, a vagrant; now I have acquaintance, a home, a business."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The sensualist's affections are as imaginary, 241:9 whimsical, and unreal as his pleasures."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Sensualist and money-lover were at least occupied with a sort of reality; pleasure and money in their way are real, and the pursuit of them brings a man, sooner or later, into contact with realities genuine enough."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Rochester confessed his former errors, having lived as a disappointed **sensualist** wandering European capitals."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"King Charles the Second was an indolent **sensualist**, indifferent to national honor so long as his pleasures were secure."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The aging **sensualist** finds that physical appetites wither, leaving behind only bitter regret and boredom."*

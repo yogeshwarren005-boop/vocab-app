@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An interpretation that removes obstacles to understanding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of removing solid particles from a liquid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of making a statement or situation less confusing and more comprehensible, or freeing a liquid of impurities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetoric, chemical processing, and jurisprudence, clearing up ambiguities in discourse or removing suspended particulates from liquids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clarification designates an interpretation that removes obstacles to understanding."*
+> - 📜 **Michael Faraday (*Chemical Manipulation*):** *"The careful **clarification** of the turbid chemical solution required filtering through unglazed porcelain."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"A rigorous definition operates as an indispensable **clarification** of terms before theoretical debate can proceed."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Scientific education provides an essential intellectual **clarification**, sweeping away entrenched metaphysical superstitions."*

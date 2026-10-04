@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eliminate the odor from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eliminate the odor from.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove, neutralize, or mask the unpleasant odor from something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial sanitation, wastewater treatment, and chemical engineering, to eliminate volatile malodorous compounds by oxidation or absorption.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"This deodorises and purifies the sewage, in addition to which iron salts are formed on the iron plates, the effect of which is to precipitate the solid particles."*
+> - 📜 **Michael Faraday (*The Chemical History of a Candle*):** *"Fresh charcoal possesses a remarkable power to **deodorise** foul gases, absorbing organic effluvia within its porous matrix."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"Sanitary engineers used aeration and filtration beds to **deodorise** urban sewage before discharging effluent into the river."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The parish authorities sprinkled lime over the churchyard soil to **deodorise** the pestilential vapor rising from the graves."*

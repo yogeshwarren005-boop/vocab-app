@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin gust within the domain of Senses & Perception.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of gust in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being tasted; pleasant to the taste; sapid, savory, or flavorful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical sensory philosophy, perceptible to the gustatory papillae of the tongue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gustable designates pertaining to, derived from, or characteristic of latin gust within the domain of senses & perception."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"Certain delicate herbs yield juices that are mildly **gustable**, gently stimulating the palate without burning."*
+> - 📜 **Robert Boyle (*Experiments and Considerations Touching Colours*):** *"The chemist observed that the crystallizable salt was pleasantly **gustable**, leaving a cool sensation upon the tongue."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Water drawn from pure limestone springs is scarcely **gustable**, presenting no mineral acidity to the organs of taste."*

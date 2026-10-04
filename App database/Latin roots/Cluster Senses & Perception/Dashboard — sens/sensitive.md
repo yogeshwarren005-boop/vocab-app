@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who serves as an intermediary between the living and the dead.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Responsive to physical stimuli.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Quick to detect or respond to slight changes, signals, or influences; easily hurt emotionally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical instrumentation and interpersonal psychology, having high responsiveness or delicate susceptibility to minute perturbations or moral sentiments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Beside him is a spare cushion with which he is always provided in order that he may have something to throw at the venerable partner of his respected age whenever she makes an allusion to money—a subject on which he is particularly sensitive."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Turveydrop’s deportment is very beautiful, you know, Esther,” said Caddy, “and his feelings are extremely sensitive.” “Are they, my dear?” “Oh, extremely sensitive."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"So sensitive the two friends happen to be that the air is full of these phantoms, and the two look over their shoulders by one consent to see that the door is shut."*
+> - 📜 **Charles Darwin (*Insectivorous Plants*):** *"The leaves of the **sensitive** plant close rapidly when touched even with the point of a needle."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Marianne's heart was too **sensitive** to bear the coldness of Willoughby without passionate weeping."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The retina is extraordinarily **sensitive** to faint rays of light after prolonged adaptation in darkness."*

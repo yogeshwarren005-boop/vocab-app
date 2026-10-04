@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In complete agreement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In complete agreement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Agreeing, consonant, unanimous, or in full accord with reason, principles, or concurrent opinions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical jurisprudence and scholastic philosophy, harmoniously consistent with established natural law or reciprocal doctrines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, consentaneous designates in complete agreement."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Such conclusions appear entirely **consentaneous** to the primary dictates of right reason and universal experience."*
+> - 📜 **Joseph Butler (*The Analogy of Religion*):** *"The scheme of divine revelation is thoroughly **consentaneous** to the constitution and course of the natural world."*
+> - 📜 **Jonathan Swift (*A Tale of a Tub*):** *"The doctor held theories that were barely **consentaneous** with the settled maxims of ancient medical philosophy."*

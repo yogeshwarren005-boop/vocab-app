@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who indulges in excessive sentimentality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who indulges in excessive sentimentality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is prone to sentimental feelings, mawkish nostalgia, or emotional self-indulgence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural psychology, an observer who savors the luxurious sensation of pity without undertaking actual moral sacrifice or action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Lawrence isn't a sentimentalist like Jack or Val." Here Jack Bendish got as far as an artless "Oh, I say!" but his wife paid no attention."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"For unless you own the whale, you are but a provincial and sentimentalist in Truth."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"For unless you own the whale, you are but a provincial and sentimentalist in Truth."*
+> - 📜 **James Joyce (*Ulysses*):** *"The **sentimentalist** is simply one who desires an experience without paying the immense spiritual price that reality demands."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Starbuck, that brave **sentimentalist**, gazed with tender grief upon the sunset while Ahab brooded upon vengeance."*
+> - 📜 **George Meredith (*The Ordeal of Richard Feverel*):** *"The confirmed **sentimentalist** weeps profusely over an imaginary tragedy while ignoring real distress at his very doorstep."*

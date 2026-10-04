@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One that is absent or not in residence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One that is absent or not in residence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is expected or required to be present at a specific station, duty, or event but is not there.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In socioeconomic history and agrarian law, a landowner or proprietor who resides abroad while extracting rents from an estate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Agricultural land in the hands of absentee landlords yields an income not very clearly due to social service, and this phase of property has been especially assailed during the past century."*
-> - 📜 **James Joyce (*Ulysses*):** *"Never about the runaway wife coming back, however much devoted to the absentee."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Also, after a year’s absence one of the five hundred thousand she will straightway recognize the returned absentee and grace the recognition with an affectionate welcome."*
+> - 📜 **Maria Edgeworth (*The Absentee*):** *"The miseries of the tenants were directly traceable to the neglect of an **absentee** landlord who squandered their rents in London."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The remittances of money sent abroad to an **absentee** proprietor represent a steady drain upon domestic agricultural reinvestment."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The civic duties of the township fall inevitably into disorder whenever the influential citizen becomes a habitual **absentee**."*

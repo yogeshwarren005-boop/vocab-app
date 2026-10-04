@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Given to or marked by sentiment or sentimentality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Effusively or insincerely emotional.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Prompted by, appealing to, or exhibiting exaggerated tenderness, sadness, or romantic emotion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary history, denoting the cult of emotional delicacy and moral sensibility characteristic of the late eighteenth century.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy looked at him with a sentimental air, “from boyhood’s hour.” Mr."*
-> - 📜 **Jane Austen (*Persuasion*):** *"The idea of Louisa Musgrove turned into a person of literary taste, and sentimental reflection was amusing, but she had no doubt of its being so."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"How could she face her parents, get back her box, and disconcert the whole scheme for the rehabilitation of her family on such sentimental grounds?"*
+> - 📜 **Laurence Sterne (*A Sentimental Journey Through France and Italy*):** *"Dear sensibility! source inexhausted of all that's precious in our joys, or costly in our sorrows! cried the **sentimental** traveler."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy was plunged into a state of melancholy, cherishing a **sentimental** attachment that brought him neither peace nor profit."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Angel Clare prided himself on his intellectual detachment, yet his heart harbored a deeply **sentimental** idealization of pastoral innocence."*

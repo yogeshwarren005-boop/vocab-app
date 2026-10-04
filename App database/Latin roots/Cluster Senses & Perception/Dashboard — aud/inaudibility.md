@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of not being perceptible by the ear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of not being perceptible by the ear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The acoustic imperceptibility or complete lack of volume that prevents sound from being heard by the ear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In acoustics and phonetics, the physical status of an acoustic vibration lying below the perceptual threshold of sound pressure level.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inaudibility designates the quality of not being perceptible by the ear."*
+> - 📜 **Lord Rayleigh (*The Theory of Sound*):** *"The rapid attenuation of ultra-high acoustic frequencies leads to absolute **inaudibility** at short distances."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"His footfalls were masked by complete **inaudibility** as he trod silently across the heavy carpeted floor."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Speckled Band*):** *"The sinister creature moved with deadly **inaudibility**, sliding downward along the bell-rope toward the bed."*

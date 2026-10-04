@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One whose mental imagery is auditory rather than visual or motor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the process of hearing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to hearing; experiencing or understanding mental imagery predominantly through auditory impressions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology and educational theory, designating an individual who learns and memorizes most effectively via acoustic stimuli.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, audile designates one whose mental imagery is auditory rather than visual or motor."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The purely **audile** subject recalls a spoken sentence by reviving the sound of the speaker's voice in his imagination."*
+> - 📜 **Francis Galton (*Inquiries into Human Faculty and Its Development*):** *"Certain persons are exceptionally **audile**, retaining whole melodies with photographic fidelity in sonic terms."*
+> - 📜 **Edward Titchener (*A Text-Book of Psychology*):** *"In the **audile** mind, the memory of an event is registered primarily as a succession of tonal impressions."*

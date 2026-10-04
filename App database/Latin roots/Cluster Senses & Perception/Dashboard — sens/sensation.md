@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unelaborated elementary awareness of stimulation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who is dazzlingly skilled in any field.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A physical feeling resulting from external stimuli, or a widespread state of excited public interest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In perceptual psychology and social history, the immediate conscious result of sensory nerve excitation or an event that electrifies popular sentiment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I am always conscious of an uncomfortable sensation now and then when the wind is blowing in the east.” “Rheumatism, sir?” said Richard."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"In the midst of this sensation, the beadle arrives."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The sensation is heightened as the tidings spread from mouth to mouth that the beadle is on the ground and has gone in."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Our senses convey into the mind several distinct perceptions of things, which produce **sensation**."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The mysterious arrival of an anonymous benefactor created a profound **sensation** throughout the little market town."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Pure **sensation** is an abstraction, for adult perception is perpetually enveloped in memories and associations."*

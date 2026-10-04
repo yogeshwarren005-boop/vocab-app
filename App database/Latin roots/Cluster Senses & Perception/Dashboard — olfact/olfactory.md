@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to olfaction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to olfaction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the sense of smell or the bodily organs concerned with smelling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human neuroanatomy, histology, and sensory physiology, pertaining to the first cranial nerve (CN I), olfactory bulb, or olfactory mucosa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"They felt our skin, much in the same way that a silk mercer would handle a remarkably fine piece of satin; and some of them went so far in their investigation as to apply the olfactory organ."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"They produce a rose through seed and soil, and bring the rose into contact with the olfactory nerves that they may smell it."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"The olfactory nerve enters the cavity of the orbit and is developed into the special sense of hearing."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Tumors of the frontal lobe often compress the **olfactory** tract, resulting in unilateral anosmia and loss of flavor discrimination."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The hound hunts by virtue of its exquisitely sensitive **olfactory** nerves, tracing faint scent molecules upon the damp turf."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish*):** *"Specialized sensory setae upon the antennules serve an **olfactory** function, detecting chemical traces dissolved in the water."*

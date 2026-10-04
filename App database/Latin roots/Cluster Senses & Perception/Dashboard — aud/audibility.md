@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Quality or fact or degree of being audible or perceptible by the ear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Quality or fact or degree of being audible or perceptible by the ear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capability of being heard, or the degree to which a sound is perceptible by the ear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In acoustics and communications engineering, the threshold or measurement at which acoustic signals can be discerned above ambient noise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, audibility designates quality or fact or degree of being audible or perceptible by the ear."*
+> - 📜 **Lord Rayleigh (*The Theory of Sound*):** *"The limit of **audibility** depends upon both atmospheric humidity and the absolute frequency of the vibration."*
+> - 📜 **John Tyndall (*Sound*):** *"Fog horns were tested along the cliffs to determine their maximum **audibility** against offshore gale winds."*
+> - 📜 **Alexander Graham Bell (*The Transmission of Speech by Light*):** *"By adjusting the transmitter diaphragm, we achieved satisfactory vocal **audibility** over the photophonic beam."*

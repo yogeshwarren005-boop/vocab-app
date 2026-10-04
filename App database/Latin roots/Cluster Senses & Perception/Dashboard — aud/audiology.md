@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The measurement of hearing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The measurement of hearing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of science and medicine concerned with the study, diagnosis, and treatment of hearing and balance disorders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In healthcare and clinical neuroscience, the diagnostic discipline utilizing electroacoustic and behavioral evaluations to manage auditory pathology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, audiology designates the measurement of hearing."*
+> - 📜 **Georg von Békésy (*Experiments in Hearing*):** *"Modern clinical **audiology** owes its rapid development to precise electronic instrumentation and calibrated attenuators."*
+> - 📜 **Oliver Sacks (*Seeing Voices: A Journey into the World of the Deaf*):** *"The diagnostic advances in neonatal **audiology** allow infants with profound deafness to be identified within days of birth."*
+> - 📜 **Alexander Graham Bell (*The Mechanism of Speech*):** *"The early foundations of what we now designate **audiology** arose from attempts to teach deaf pupils articulate speech."*

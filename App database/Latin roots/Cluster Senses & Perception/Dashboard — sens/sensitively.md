@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a sensitive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a sensitive manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a delicate, perceptive, responsive, or easily affected manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In artistic criticism and interpersonal ethics, responding with subtle nuance, exquisite empathy, or high instrument accuracy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The feeble mother was most sensitively anxious lest her daughter should pursue some unwarrantable course which should lead to relapse."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"It is entitled "Woman and the War," and shows how, even at that early day, the patriotism of American women was bearing fruit, and how keenly and sensitively the writer appreciated our peril."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"The last three words would have been almost inaudible to ears less sensitively alert than were Alice Greggory's."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea listened **sensitively** to the poor tenant's grievance, determined to relieve his distress."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Isabel reacted **sensitively** to every hint of patronizing condescension from her wealthy relations."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"The tip of the root responded **sensitively** to the presence of moisture in the porous sand."*

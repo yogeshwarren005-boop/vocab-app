@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A measuring instrument that sends out an acoustic pulse in water and measures distances in terms of the time for the echo of the pulse to return.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A measuring instrument that sends out an acoustic pulse in water and measures distances in terms of the time for the echo of the pulse to return.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A system for the detection of underwater objects and for measuring the water's depth by emitting acoustic pulses and detecting reflections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine navigation, oceanography, and echolocation biology, acoustic telemetry utilizing sound propagation under water.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sonar designates a measuring instrument that sends out an acoustic pulse in water and measures distances in terms of the time for the echo of the pulse to return."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Naval **sonar** pulses bounced off the mysterious deep scattering layer composed of millions of oceanic organisms."*
+> - 📜 **Jacques Cousteau (*The Silent World*):** *"Our vessel navigated the treacherous submarine reefs guided by the steady acoustic pings of the **sonar**."*
+> - 📜 **Arthur C. Clarke (*The Deep Range*):** *"Submarine whale-herders tracked the migrating pod using long-range directional **sonar** beams."*

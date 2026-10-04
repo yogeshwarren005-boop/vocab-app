@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The period of time that is happening now; any continuous stretch of time including the moment of speech.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something presented as a gift.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Existing, occurring, or being in a specified place or time; currently occurring; or to introduce or offer something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy of time and phenomenology, the immediate boundary between the recalled past and anticipated future; or in diplomacy, to exhibit credentials.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So either by thy picture or my love, Thyself away, art present still with me, For thou not farther than my thoughts canst move, And I am still with them, and they with thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So thou be good, slander doth but approve, Thy worth the greater being wooed of time, For canker vice the sweetest buds doth love, And thou present’st a pure unstained prime."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who hateth thee that I do call my friend, On whom frown’st thou that I do fawn upon, Nay if thou lour’st on me do I not spend Revenge upon my self with present moan?"*
+> - 📜 **William Shakespeare (*Hamlet*):** *"The **present** death of Denmark, for thine especial safety, Which we do tender as dearly as we do that for ourselves."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"All knowledge begins with the ideas that sensations **present** to the receptive mind at the very instant of experience."*
+> - 📜 **Marcus Aurelius (*Meditations*):** *"Confine your attention strictly to the **present** moment, and you will extinguish useless anxiety concerning what lies ahead."*

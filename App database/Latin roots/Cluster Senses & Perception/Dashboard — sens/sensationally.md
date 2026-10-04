@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a sensational manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a sensational manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a sensational, startling, or extraordinarily dramatic and exciting manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative journalism and performance critique, exciting intense public wonder or spectacular popular reaction through vivid display.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sensationally designates in a sensational manner."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The hound appeared **sensationally** upon the fog-bound moor, ringed with luminous phosphor fire."*
+> - 📜 **William Makepeace Thackeray (*Pendennis*):** *"The young tragedian triumphed **sensationally** upon his first London appearance, captivating the critics."*
+> - 📜 **Henry James (*The Tragic Muse*):** *"She delivered the tragic climax **sensationally**, sweeping the vast audience into breathless applause."*

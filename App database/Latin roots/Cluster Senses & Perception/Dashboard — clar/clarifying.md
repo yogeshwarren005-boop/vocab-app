@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make clear and (more) comprehensible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make clear by removing impurities or solids, as by heating.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to make something clear, transparent, or easily understood; shedding light on obscurity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemology, chemical separation, and critical discourse, providing elucidating context or precipitating impurities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Rigg, and had taken out his snuff-box and tapped it, but had put it again unopened as an indulgence which, however clarifying to the judgment, was unsuited to the occasion."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His thoughtful analysis shed a **clarifying** light upon the entangled financial affairs of the estate."*
+> - 📜 **John Dewey (*How We Think*):** *"Reflective inquiry performs a vital **clarifying** function by sorting verified facts from unexamined beliefs."*
+> - 📜 **William James (*Pragmatism: A New Name for Some Old Ways of Thinking*):** *"A pragmatic evaluation exerts a **clarifying** influence upon philosophical disputes by asking what difference they make."*

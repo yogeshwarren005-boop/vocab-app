@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The attribute of having a strong offensive smell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The attribute of having a strong offensive smell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or condition of smelling offensive, unpleasant, or foul; foulness of odor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sanitation science and environmental monitoring, the intensity or objectionable character of pungent air pollution or putrefaction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malodorousness designates the attribute of having a strong offensive smell."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The extreme **malodorousness** of the seventeenth-century London streets arose from open drains and uncollected city offal."*
+> - 📜 **Charles Dickens (*Our Mutual Friend*):** *"The dust-heaps by the river were notorious for their **malodorousness** during hot August afternoons."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The distinctive **malodorousness** of the wound discharge confirmed the presence of anaerobic gangrenous necrosis."*

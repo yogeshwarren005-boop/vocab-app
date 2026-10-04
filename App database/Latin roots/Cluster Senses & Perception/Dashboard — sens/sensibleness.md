@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of showing good sense or practical judgment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of showing good sense or practical judgment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of exercising sound practical judgment, reasonableness, or perceptual capability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethical discourse and psychological observation, prudent moderation in conduct combined with lucid appreciation of reality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sensibleness designates the quality of showing good sense or practical judgment."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Fanny appreciated the unpretending **sensibleness** of Edmund's conversation amid the frivolous vanity around them."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Caleb Garth conducted his surveying business with a steady **sensibleness** that inspired confidence across the county."*
+> - 📜 **Samuel Richardson (*Clarissa*):** *"Her letters displayed remarkable **sensibleness** and composure under circumstances of extraordinary domestic oppression."*

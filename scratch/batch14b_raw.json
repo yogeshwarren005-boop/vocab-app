@@ -1,0 +1,1150 @@
+{
+  "provencal": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Of or pertaining to Provence or its inhabitants.\n\n1. A native or inhabitant of Provence in France. 2. The Provencal language. See Langue d'oc."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the medieval dialects of Langue d'oc (southern France)"
+      },
+      {
+        "source": "wordnet_a",
+        "def": "of or relating to Provence or its people or their culture"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "I ask not for the great, the remote, the romantic; what is doing in Italy or Arabia; what is Greek art, or Provençal minstrelsy; I embrace the common, I explore and sit at the feet of the familiar, the low."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "In southern France during the eleventh century, wandering poets went from castle to castle reciting or singing love-songs, composed in the old Provençal dialect, a sort of vulgarized Latin."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "Some of the Provençal poetry is of the highest artistic significance, though the mass of it is worthless high-flown trash.]"
+      }
+    ]
+  },
+  "provence": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "a former province of southeastern France; now administered with Cote d'Azur"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "From the Maiden’s Blush, through all varieties of the Provence down to the Crimson Tuscany, the countenance of Oak’s acquaintance quickly graduated; whereupon he, in considerateness, turned away his head."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "The poets of Provençe, a province of the southeastern part of France."
+      }
+    ]
+  },
+  "provenience": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Origin; source; place where found or produced; provenance; -- used esp. in the fine arts and in archæology; as, the provenience of a patera."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "where something originated or was nurtured in its early existence"
+      }
+    ],
+    "quotes": []
+  },
+  "reconvene": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "To convene or assemble again; to call or come together again."
+      },
+      {
+        "source": "wordnet_v",
+        "def": "meet again"
+      }
+    ],
+    "quotes": []
+  },
+  "reinvention": {
+    "defs": [],
+    "quotes": []
+  },
+  "revenant": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "a person who returns after a lengthy absence"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "someone who has returned from the dead"
+      },
+      {
+        "source": "wordnet_a",
+        "def": "of or relating to or typical of a revenant"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "coming back"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "Charlotte s'était empressée d'écrire au Major pour lui faire connaître les intentions qu'Ottilie avait manifestées en revenant à la vie, et pour le prier d'engager Édouard à s'abstenir de toute démarche relative au divorce, du moins jusqu'à ce que la pauvre enfant eût retrouvé plus de calme et de tranquillité d'esprit."
+      }
+    ]
+  },
+  "revenue": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. That which returns, or comes back, from an investment; the annual rents, profits, interest, or issues of any species of property, real or personal; income. Do not anticipate your revenues and live upon air till you know what you are worth. Gray. 2. Hence, return; reward; as, a revenue of praise. 3. The annual yield of taxes, excise, customs, duties, rents, etc., which a nation, state, or municipality collects and receives into the treasury for public use. Revenue cutter, an armed government vessel employed to enforce revenue laws, prevent smuggling, etc."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the entire amount of income before any deductions are made"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "government income due to taxation"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Lastly, he frets That Lepidus of the triumvirate Should be deposed and, being, that we detain All his revenue."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "A lean cheek, which you have not; a blue eye and sunken, which you have not; an unquestionable spirit, which you have not; a beard neglected, which you have not—but I pardon you for that, for simply your having in beard is a younger brother’s revenue."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "It shall be to your good, for my father’s house and all the revenue that was old Sir Rowland’s will I estate upon you, and here live and die a shepherd."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "It was thy master’s; shrew me, If I would lose it for a revenue Of any king’s in Europe!"
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Nay, do not think I flatter; For what advancement may I hope from thee, That no revenue hast, but thy good spirits To feed and clothe thee?"
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Only we shall retain The name, and all the addition to a king; the sway, Revenue, execution of the rest, Beloved sons, be yours; which to confirm, This coronet part between you. [_Giving the crown._]"
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "If our father would sleep till I waked him, you should enjoy half his revenue for ever, and live the beloved of your brother EDGAR.’ Hum!"
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Conspiracy? ‘Sleep till I wake him, you should enjoy half his revenue.’—My son Edgar!"
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "But I have heard him oft maintain it to be fit that, sons at perfect age, and fathers declined, the father should be as ward to the son, and the son manage his revenue."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "She lingers my desires, Like to a step-dame or a dowager, Long withering out a young man’s revenue."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "I have a widow aunt, a dowager Of great revenue, and she hath no child."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "And, for our coffers, with too great a court And liberal largess, are grown somewhat light, We are enforced to farm our royal realm, The revenue whereof shall furnish us For our affairs in hand."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "First, if all obstacles were cut away, And that my path were even to the crown As the ripe revenue and due of birth, Yet so much is my poverty of spirit, So mighty and so many my defects, That I would rather hide me from my greatness, Being a bark to brook no mighty sea, Than in my greatness covet to be hid, And in the vapour of my glory smothered."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "He being thus lorded, Not only with what my revenue yielded, But what my power might else exact, like one Who having into truth, by telling of it, Made such a sinner of his memory, To credit his own lie, he did believe He was indeed the Duke; out o’ the substitution, And executing th’ outward face of royalty, With all prerogative."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "But, worthy Hector, She is a theme of honour and renown, A spur to valiant and magnanimous deeds, Whose present courage may beat down our foes, And fame in time to come canonize us; For I presume brave Hector would not lose So rich advantage of a promis’d glory As smiles upon the forehead of this action For the wide world’s revenue."
+      }
+    ]
+  },
+  "revenuer": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "a government agent responsible for collecting revenue (especially one responsible for stopping bootlegging)"
+      }
+    ],
+    "quotes": []
+  },
+  "seven": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "One more than six; six and one added; as, seven days make one week. Seven sciences. See the Note under Science, n., 4. -- Seven stars (Astron.), the Pleiades. -- Seven wonders of the world. See under Wonders. -- Seven-year apple (Bot.), a rubiaceous shrub (Genipa clusiifolia) growing in the West Indies; also, its edible fruit. -- Seven-year vine (Bot.), a tropical climbing plant (Ipomoea tuberosa) related to the morning-glory.\n\n1. The number greater by one than six; seven units or objects. Of every beast, and bird, and insect small, Game sevens and pairs. Milton. 2. A symbol representing seven units, as 7, or vii."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the cardinal number that is the sum of six and one"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "one of four playing cards in a deck with seven pips on the face"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "being one more than six"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "All the world’s a stage, And all the men and women merely players; They have their exits and their entrances, And one man in his time plays many parts, His acts being seven ages."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "I was seven of the nine days out of the wonder before you came; for look here what I found on a palm-tree."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "If the interim be but a se’nnight, time’s pace is so hard that it seems the length of seven year."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Upon a lie seven times removed—bear your body more seeming, Audrey—as thus, sir."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "I knew when seven justices could not take up a quarrel, but when the parties were met themselves, one of them thought but of an “if”, as, “if you said so, then I said so;” and they shook hands, and swore brothers."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "O time’s extremity, Hast thou so crack’d and splitted my poor tongue In seven short years that here my only son Knows not my feeble key of untun’d cares?"
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "But seven years since, in Syracusa, boy, Thou know’st we parted; but perhaps, my son, Thou sham’st to acknowledge me in misery."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "It gives me an estate of seven years’ health, in which time I will make a lip at the physician."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "He received in the repulse of Tarquin seven hurts i’ th’ body."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "If I could shake off but one seven years From these old arms and legs, by the good gods, I’d with thee every foot."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Tears seven times salt, Burn out the sense and virtue of mine eye."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Indeed, you come near me now, Hal, for we that take purses go by the moon and the seven stars, and not by Phœbus, he, that wand’ring knight so fair."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "I am not yet of Percy’s mind, the Hotspur of the north, he that kills me some six or seven dozen of Scots at a breakfast, washes his hands, and says to his wife, “Fie upon this quiet life!"
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "As we were sharing, some six or seven fresh men set upon us."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "I made me no more ado, but took all their seven points in my target, thus."
+      }
+    ]
+  },
+  "sevener": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "the cardinal number that is the sum of six and one"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "being one more than six"
+      }
+    ],
+    "quotes": []
+  },
+  "sevens": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "a card game in which you play your sevens and other cards in sequence in the same suit as the sevens; you win if you are the first to use all your cards"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the cardinal number that is the sum of six and one"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "one of four playing cards in a deck with seven pips on the face"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "He’s been courted by sixes and sevens—all the girls, gentle and simple, for miles round, have tried him."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "And I with a family vault under that there church of Kingsbere as big as Squire Jollard’s ale-cellar, and my folk lying there in sixes and sevens, as genuine county bones and marrow as any recorded in history."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "After this, it came to be held in various quarters that Lydgate played even with respectable constitutions for his own purposes, and how much more likely that in his flighty experimenting he should make sixes and sevens of hospital patients."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "The least they pretended was that they were going to cut Lowick Parish into sixes and sevens."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "Copperfield objected to my threes and fives being too much like each other, or to my putting curly tails to my sevens and nines,’ resumed my mother in another burst, and breaking down again."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "For similar reasons I made no allusion to the skirmishing plates upon the floor; or to the disreputable appearance of the castors, which were all at sixes and sevens, and looked drunk; or to the further blockade of Traddles by wandering vegetable dishes and jugs."
+      },
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "7:2 Of every clean beast thou shalt take to thee by sevens, the male and his female: and of beasts that are not clean by two, the male and his female."
+      },
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "7:3 Of fowls also of the air by sevens, the male and the female; to keep seed alive upon the face of all the earth."
+      },
+      {
+        "author": "John Milton",
+        "work": "Paradise Lost",
+        "sentence": "Of every beast, and bird, and insect small, Came sevens, and pairs; and entered in as taught Their order: last the sire and his three sons, With their four wives; and God made fast the door."
+      }
+    ]
+  },
+  "sevensome": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "seven people considered as a unit"
+      }
+    ],
+    "quotes": []
+  },
+  "seventh": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. Next in order after the sixth;; coming after six others. On the seventh day, God ended his work which he had made; and he rested on the seventh day from all his work which he had made. Gen. ii. 2. 2. Constituting or being one of seven equal parts into which anything is divided; as, the seventh part. Seventh day, the seventh day of the week; Saturday. -- Seventh-day Baptists. See under Baptist.\n\n1. One next in order after the sixth; one coming after six others. 2. The quotient of a unit divided by seven; one of seven equal parts into which anything is divided. 3. (Mus.) (a) An interval embracing seven diatonic degrees of the scale. (b) A chord which includes the interval of a seventh whether major, minor, or diminished."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "position seven in a countable series of things"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "one part in seven equal parts"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the musical interval between one note and another seven notes away from it"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "coming next after the sixth and just before the eighth in position"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Faith, we met, and found the quarrel was upon the seventh cause."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "How seventh cause?—Good my lord, like this fellow?"
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "How did you find the quarrel on the seventh cause?"
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "I will name you the degrees: the first, the retort courteous; the second, the quip modest; the third, the reply churlish; the fourth, the reproof valiant; the fifth, the countercheck quarrelsome; the sixth, the lie with circumstance; the seventh, the lie direct."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Henry the Seventh succeeding, truly pitying My father’s loss, like a most royal prince, Restored me to my honours and out of ruins Made my name once more noble."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Another yet!—A seventh!—I’ll see no more:— And yet the eighth appears, who bears a glass Which shows me many more; and some I see That twofold balls and treble sceptres carry."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "And as soon as he could thoroughly fancy he was doing wrong and committing the seventh, ’a got to like her as well as ever, and they lived on a perfect picture of mutel love."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "Phase the Seventh: Fulfilment Chapter LIII Chapter LIV Chapter LV Chapter LVI Chapter LVII Chapter LVIII Chapter LIX"
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "She did not enter any house till, at the seventh or eighth mile, she descended the steep long hill below which lay the village or townlet of Evershead, where in the morning she had breakfasted with such contrasting expectations."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "Thus, the species which lived at the sixth great stage of descent in the diagram are the modified offspring of those which lived at the fifth stage, and are the parents of those which became still more modified at the seventh stage; hence they could hardly fail to be nearly intermediate in character between the forms of life above and below."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "A Greek poet of the seventh century before Christ."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "This family became divided eight generations ago into two branches; so that the head of the above-mentioned branch is cousin in the seventh degree to the head of the other branch."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "The three upper feathers, a, b, c, from the male; the three lower corresponding feathers, d, e, f, from the female. a and d, fifth secondary wing-feather of male and female, upper surface. b and e, sixth secondary, upper surface. c and f, seventh secondary, lower surface.]"
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "The nose is far from being too prominent, according to our ideas, in the natives of Ceylon; yet “the Chinese in the seventh century, accustomed to the flat features of the Mongol races, were surprised at the prominent noses of the Cingalese; and Thsang described them as having ‘the beak of a bird, with the body of a man.’"
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "But roses only bloom in summer; whereas the fine carnation of their cheeks is perennial as sunlight in the seventh heavens."
+      }
+    ]
+  },
+  "seventhly": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "In the seventh place."
+      },
+      {
+        "source": "wordnet_r",
+        "def": "in the seventh place"
+      }
+    ],
+    "quotes": []
+  },
+  "souvenir": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "That which serves as a reminder; a remembrancer; a memento; a keepsake."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "something of sentimental value"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a reminder of past events"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "--J'aime à me rappeler nos premières relations, continua-t-elle, et, surtout, à t'en faire souvenir."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "--Je ne suis pas superstitieuse, répliqua Charlotte, et je ne ferais aucun cas des vagues pressentiments, s'ils n'étaient que cela; mais ils sont presque toujours un souvenir confus des conséquences heureuses ou malheureuses que nous avons vues découler, chez les autres, des actions que nous sommes sur le point de commettre nous-mêmes."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "Celui-ci ne répondit rien, car il craignait de réveiller ce triste souvenir."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "Ottilie soutenait qu'elle les avait admirés alors, comme le plus beau couple de la ville et de la cour; et quand son ami lui répondait qu'alors elle était encore trop enfant pour avoir pu conserver un souvenir net et clair de ce passé, elle lui racontait le fait suivant, que lui aussi n'avait point oublié:"
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "Je ne vous fais pas un crime du souvenir que vous en avez conservé."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "Charlotte ne tarda pas à se retirer dans ses appartements où elle s'abandonna au souvenir de ce qui s'était passé entre elle et le Capitaine dans le cours de la soirée."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "Le souvenir de la visite nocturne de son mari qui lui avait été d'abord si pénible, lui causa un frémissement mystérieux auquel succéda bientôt un pieux et doux espoir."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "Les personnes présentes à la pose de la première pierre de la maison d'été, avaient conservé un agréable souvenir de cette cérémonie, et celles qui n'avaient pu y assister en avaient entendu parler avec beaucoup d'éloges; aussi chacun s'empressa-t-il de venir prendre sa part d'une nouvelle fête de ce genre."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "Charlotte fut de son avis; mais elle changea d'entretien, car elle avait compris qu'il ramenait la pensée de la jeune fille sur Édouard, qui cherchait, sinon habituellement, du moins plus souvent qu'elle ne l'aurait voulu, à augmenter sa gaieté en à chasser un souvenir fâcheux en buvant quelques verres de vin de trop."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "Il ne représente donc pas un souvenir, mais une personne; il n'appartient pas au passé, mais au présent."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "--Non, non, répondit vivement l'Architecte, ce n'est pas au désir de perpétuer le souvenir de notre existence, mais à la place où nous avons cessé d'être, qu'il faudrait renoncer."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "Je possède une assez jolie collection de dessins représentant les ornements funéraires des genres les plus opposés; mais il me semble que le plus beau de tous sera toujours l'image de l'homme, dont on veut perpétuer le souvenir."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "L'Architecte promit de décorer la chapelle de peintures d'après ses esquisses, afin de perpétuer son souvenir dans un lieu où il avait été si heureux, et que bientôt il serait forcé de quitter."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "«Il y a plus d'une manière de perpétuer le souvenir d'une personne morte ou absente; la meilleure de toutes est, sans contredit, le portrait."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "«Les pierres mortuaires usées par les genoux des fidèles, les églises dont les voûtes se sont écroulées sur ces lugubres monuments, nous montrent, pour ainsi dire, une seconde époque de la vie de souvenir que nous aimons à faire à nos morts, et, en général, cette vie est plus longue que la vie d'action."
+      }
+    ]
+  },
+  "supervene": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "To come as something additional or extraneous; to occur with reference or relation to something else; to happen upon or after something else; to be added; to take place; to happen. Such a mutual gravitation can never supervene to matter unless impressed by divine power. Bentley. A tyrany immediately supervened. Burke."
+      },
+      {
+        "source": "wordnet_v",
+        "def": "take place as an additional or unexpected development"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "In certain cases the successive steps of variation might supervene, from causes of which we are wholly ignorant, at a very early period of life, or each step might be inherited at an earlier period than that at which it first appeared."
+      }
+    ]
+  },
+  "uneven": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. Not even; not level; not uniform; rough; as, an uneven road or way; uneven ground. 2. Not equal; not of equal length. Hebrew verse consists of uneven feet. Peacham. 3. Not divisible by two without a remainder; odd; -- said of numbers; as, 3, 7, and 11 are uneven numbers. Un*e\"ven*ly, adv. -- Un*e\"ven*ness, n."
+      },
+      {
+        "source": "wordnet_a",
+        "def": "not even or uniform as e.g. in shape or texture"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "(of a contest or contestants) not fairly matched as opponents"
+      },
+      {
+        "source": "wordnet_a",
+        "def": "not divisible by two"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "variable and recurring at irregular intervals"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Eight yards of uneven ground is threescore and ten miles afoot with me, and the stony-hearted villains know it well enough."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "In most uneven and distracted manner."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "The villain is much lighter-heel’d than I: I follow’d fast, but faster he did fly, That fallen am I in dark uneven way, And here will rest me."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "All is uneven, And everything is left at six and seven."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "These high wild hills and rough uneven ways Draws out our miles and makes them wearisome."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Uneven is the course; I like it not."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "Then with her little scissors, by the aid of a pocket looking-glass, she mercilessly nipped her eyebrows off, and thus insured against aggressive admiration, she went on her uneven way."
+      },
+      {
+        "author": "H. G. Wells",
+        "work": "The Time Machine",
+        "sentence": "I slipped on the uneven floor, and fell over one of the malachite tables, almost breaking my shin."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "Repeating ‘no’, and ‘not the least’, and other short assurances to the same purport, Doctor Strong jogged on before us, at a queer, uneven pace; and we followed: Mr."
+      },
+      {
+        "author": "Mary Shelley",
+        "work": "Frankenstein",
+        "sentence": "The surface is very uneven, rising like the waves of a troubled sea, descending low, and interspersed by rifts that sink deep."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "A Tale of Two Cities",
+        "sentence": "In this state they set forth with the sharp rain driving in their faces: clattering at a heavy dragoon trot over the uneven town pavement, and out upon the mire-deep roads."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "A Tale of Two Cities",
+        "sentence": "The hard uneven pavement is under us, the soft deep mud is on either side."
+      }
+    ]
+  },
+  "unevenly": {
+    "defs": [
+      {
+        "source": "wordnet_r",
+        "def": "in an uneven and irregular way"
+      },
+      {
+        "source": "wordnet_r",
+        "def": "in a ragged uneven manner"
+      },
+      {
+        "source": "wordnet_r",
+        "def": "in an unequal or partial manner"
+      }
+    ],
+    "quotes": []
+  },
+  "unevenness": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "the quality of being uneven and lacking uniformity"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the quality of being unbalanced"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Jane Austen",
+        "work": "Emma",
+        "sentence": "I have not been working uninterruptedly,\" he replied, \"I have been assisting Miss Fairfax in trying to make her instrument stand steadily, it was not quite firm; an unevenness in the floor, I believe."
+      }
+    ]
+  },
+  "uneventful": {
+    "defs": [
+      {
+        "source": "wordnet_a",
+        "def": "marked by no noteworthy or significant events"
+      }
+    ],
+    "quotes": []
+  },
+  "uneventfully": {
+    "defs": [
+      {
+        "source": "wordnet_r",
+        "def": "in an uneventful manner"
+      }
+    ],
+    "quotes": []
+  },
+  "unproven": {
+    "defs": [
+      {
+        "source": "wordnet_a",
+        "def": "not proved"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "H. G. Wells",
+        "work": "The War of the Worlds",
+        "sentence": "But such unproven speculations will scarcely be of interest to the general reader, to whom this story is addressed."
+      }
+    ]
+  },
+  "vena": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "A vein. Vena cava; pl. Venæ cavæ. Etym: [L., literally, hollow vein.] (Anat.) Any one of the great systemic veins connected directly with the heart.-- Vena contracta. Etym: [L., literally, contracted vein.] (Hydraulics) The contracted portion of a liquid jet at and near the orifice from which it issues. -- Vena portæ; pl. VenÆ portæ. Etym: [L., literally, vein of the entrance.] (Anat.) The portal vein of the liver. See under Portal."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a blood vessel that carries blood from the capillaries toward the heart"
+      }
+    ],
+    "quotes": []
+  },
+  "venal": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Of or pertaining to veins; venous; as, venal blood. [R.]\n\nCapable of being bought or obtained for money or other valuable consideration; made matter of trade or barter; held for sale; salable; mercenary; purchasable; hireling; as, venal services. \" Paid court to venal beauties.\" Macaulay. The venal cry and prepared vote of a passive senate. Burke. Syn. -- Mercenary; hireling; vendible. -- Venal, Mercenary. One is mercenary who is either actually a hireling (as, mercenary soldiers, a mercenary judge, etc.), or is governed by a sordid love of gain; hence, we speak of mercenary motives, a mercenary marriage, etc. Venal goes further, and supposes either an actual purchase, or a readiness to be purchased, which places a person or thing wholly in the power of the purchaser; as, a venal press. Brissot played ingeniously on the latter word in his celebrated saying, \" My pen is venal that it may not be mercenary,\" meaning that he wrote books, and sold them to the publishers, in order to avoid the necessity of being the hireling of any political party. Thus needy wits a vile revenue made, And verse became a mercenary trade. Dryden. This verse be thine, my friend, nor thou refuse This, from no venal or ungrateful muse. Pope."
+      },
+      {
+        "source": "wordnet_s",
+        "def": "capable of being corrupted"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "There was another attraction in his profession: it wanted reform, and gave a man an opportunity for some indignant resolve to reject its venal decorations and other humbug, and to be the possessor of genuine though undemanded qualifications."
+      },
+      {
+        "author": "James Joyce",
+        "work": "Dubliners",
+        "sentence": "Those venal and furtive loves filled him with despair."
+      }
+    ]
+  },
+  "venality": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "The quality or state of being venal, or purchasable; mercenariness; prostitution of talents, offices, or services, for money or reward; as, the venality of a corrupt court; the venality of an official. Complaints of Roman venality became louder. Milton."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "prostitution of talents or offices or services for reward"
+      }
+    ],
+    "quotes": []
+  },
+  "venally": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "In a venal manner."
+      },
+      {
+        "source": "wordnet_r",
+        "def": "in a corrupt and deceitful manner"
+      }
+    ],
+    "quotes": []
+  },
+  "venation": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "The arrangement or system of veins, as in the wing of an insect, or in the leaves of a plant. See Illust. in Appendix.\n\nThe act or art of hunting, or the state of being hunted. [Obs.] Sir T. Browne."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "(botany) the arrangement of veins in a leaf"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "(zoology) the system of venous blood vessels in an animal"
+      }
+    ],
+    "quotes": []
+  },
+  "veneer": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "To overlay or plate with a thin layer of wood or other material for outer finish or decoration; as, to veneer a piece of furniture with mahogany. Used also figuratively. As a rogue in grain Veneered with sanctimonious theory. Tennyson.\n\nA thin leaf or layer of a more valuable or beautiful material for overlaying an inferior one, especially such a thin leaf of wood to be glued to a cheaper wood; hence, external show; gloss; false pretense. Veneer moth (Zoöl.), any moth of the genus Chilo; -- so called because the mottled colors resemble those of veneering."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "coating consisting of a thin layer of superior wood glued to a base of inferior wood"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "an ornamental coating to a building"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "cover with veneer"
+      }
+    ],
+    "quotes": []
+  },
+  "veneering": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. The act or art of one who veneers. 2. Thin wood or other material used as a veneer."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "coating consisting of a thin layer of superior wood glued to a base of inferior wood"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the act of applying veneer"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "cover with veneer"
+      }
+    ],
+    "quotes": []
+  },
+  "venerability": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "The quality or state of being venerable; venerableness. Dr. H. More."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the quality of deserving veneration"
+      }
+    ],
+    "quotes": []
+  },
+  "venerable": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. Capable of being venerated; worthy of veneration or reverence; deserving of honor and respect; -- generally implying an advanced age; as, a venerable magistrate; a venerable parent. He was a man of eternal self-sacrifice, and that is always venerable. De Quincey. Venerable men! you have come down to us from a former generation. D. Webster. 2. Rendered sacred by religious or other associations; that should be regarded with awe and treated with reverence; as, the venerable walls of a temple or a church. Note: This word is employed in the Church of England as a title for an archdeacon. In the Roman Catholic Church, venerable is applied to those who have attained to the lowest of the three recognized degrees of sanctity, but are not among the beatified, nor the canonized. -- Ven\"er*a*ble*ness, n. -- Ven\"er*a*bly, adv."
+      },
+      {
+        "source": "wordnet_s",
+        "def": "impressive by reason of age"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "profoundly honored"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Set down your venerable burden, And let him feed."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "We are all bastards, And that most venerable man which I Did call my father was I know not where When I was stamp’d."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "This youth that you see here I snatch’d one half out of the jaws of death, Reliev’d him with such sanctity of love; And to his image, which methought did promise Most venerable worth, did I devotion."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "--Et toi, vénérable Patriarche, tu peux dire avec Siméon[3]: «Seigneur, laisse maintenant aller ton serviteur en paix selon ta parole, car mes yeux ont vu le Sauveur de cette maison!»"
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "Quant à nous, nous disons humblement: L'ensemble est vénérable, et les détails sont d'une grande utilité pratique."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "Evidently some dim knowledge of it has been brought back to your mind by the sight of this venerable caravan."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Camden Farebrother, whom Lydgate went to see the next evening, lived in an old parsonage, built of stone, venerable enough to match the church which it looked out upon."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "Honor is venerable to us because it is no ephemeris."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "They who made England, Italy, or Greece venerable in the imagination did so by sticking fast where they were, like an axis of the earth."
+      },
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "They are among the most simple and indigenous animal products; ancient and venerable families known to antiquity as to modern times; of the very hue and substance of Nature, nearest allied to leaves and to the ground,—and to one another; it is either winged or it is legged."
+      },
+      {
+        "author": "Joseph Conrad",
+        "work": "Heart of Darkness",
+        "sentence": "We looked at the venerable stream not in the vivid flush of a short day that comes and departs for ever, but in the august light of abiding memories."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "This caused the lip in one case to project two inches beyond the tip of the nose; and when the lady smiled, the contraction of the muscles elevated it over the eyes. ‘Why do the women wear these things?’ the venerable chief, Chinsurdi, was asked."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "I had not been seated very long ere a man of a certain venerable robustness entered; immediately as the storm-pelted door flew back upon admitting him, a quick regardful eyeing of him by all the congregation, sufficiently attested that this fine old man was the chaplain."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "BOOK I. (_Folio_), CHAPTER II. (_Right Whale_).—In one respect this is the most venerable of the leviathans, being the one first regularly hunted by man."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "Now, venerable priest, further into the light, and hold the Holy Book before me that I may touch it."
+      }
+    ]
+  },
+  "venerableness": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "the quality of deserving veneration"
+      }
+    ],
+    "quotes": []
+  },
+  "venerate": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "To regard with reverential respect; to honor with mingled respect and awe; to reverence; to revere; as, we venerate parents and elders. And seemed to venerate the sacred shade. Dryden. I do not know a man more to be venerated for uprightness of heart and loftiness of genius. Sir W. Scott. Syn. -- To reverence; revere; adore; respect."
+      },
+      {
+        "source": "wordnet_v",
+        "def": "regard with feelings of respect and reverence; consider hallowed or exalted or be in awe of"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Thomas Henry Huxley",
+        "work": "Evolution and Ethics",
+        "sentence": "I venerate the man whose heart is warm, Whose hands are pure, whose doctrine and whose life, Coincident, exhibit lucid proof That he is honest in the sacred cause."
+      },
+      {
+        "author": "Walt Whitman",
+        "work": "Leaves of Grass",
+        "sentence": "Why should I pray? why should I venerate and be ceremonious?"
+      }
+    ]
+  },
+  "venerating": {
+    "defs": [
+      {
+        "source": "wordnet_v",
+        "def": "regard with feelings of respect and reverence; consider hallowed or exalted or be in awe of"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "feeling or manifesting veneration"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Sir James Chettam was going to dine at the Grange to-day with another gentleman whom the girls had never seen, and about whom Dorothea felt some venerating expectation."
+      }
+    ]
+  },
+  "veneration": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "The act of venerating, or the state of being venerated; the highest degree of respect and reverence; respect mingled with awe; a feeling or sentimental excited by the dignity, wisdom, or superiority of a person, by sacredness of character, by consecration to sacred services, or by hallowed associations. We find a secret awe and veneration for one who moves about us in regular and illustrious course of virtue. Addison. Syn. -- Awe; reverence; respect. See Reverence."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a feeling of profound respect for someone or something"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "religious zeal; the willingness to serve God"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "--Je crois, dit-il, qu'il en est de même de l'estime que de la vénération; quand on a trouvé un être digne que l'on fixe ses sentiments sur lui, on aime à les étendre sur tous les autres."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "Est-ce le monument qui demande et obtient la vénération?"
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "L'amour et la résignation, une douce sociabilité, une pieuse vénération pour l'être invisible qui est au-dessus de nous, respiraient sur tous ces visages, se manifestaient dans chaque pose, dans chaque mouvement."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "La première doit se maintenir dans son indépendance déterminée, et s'armer de toutes les forces que peuvent lui prêter l'amour, la piété et la vénération, pour pénétrer dans la vie sacrée de la nature, sans s'inquiéter de ce que les mathématiques pourront faire et prouver de leur côté."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "But it would be difficult to convey to those who never heard him utter the word “business,” the peculiar tone of fervid veneration, of religious regard, in which he wrapped it, as a consecrated symbol is wrapped in its gold-fringed linen."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "We arraign society, if it do not give us besides earth, and fire, and water, opportunity, love, reverence, and objects of veneration."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "The Germans regard Goethe with the same veneration we accord to Shakespeare."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "Indeed, place this reversed skull (scaled down to the human magnitude) among a plate of men’s skulls, and you would involuntarily confound it with them; and remarking the depressions on one part of its summit, in phrenological phrase you would say—This man had no self-esteem, and no veneration."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "The remainder may perhaps be applied to purposes equally valuable hereafter, or not impossibly may be worked up, so far as they go, into a regular history of Salem, should my veneration for the natal soil ever impel me to so pious a task."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "It is inconceivable, the agony with which this public veneration tortured him."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "Therefore I gave him one of my three bright shillings, which he received with much humility and veneration, and spun up with his thumb, directly afterwards, to try the goodness of."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "I told him all I knew, but he would have believed anything I might have taken it into my head to impart to him; for he had a profound veneration for my abilities, and informed his wife in my hearing, on that very occasion, that I was ‘a young Roeshus’--by which I think he meant prodigy."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "He always sat in a particular corner, on a particular stool, which was called ‘Dick’, after him; here he would sit, with his grey head bent forward, attentively listening to whatever might be going on, with a profound veneration for the learning he had never been able to acquire."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "When the day arrived, my very carpet-bag was an object of veneration to the stipendiary clerks, to whom the house at Norwood was a sacred mystery."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "She was so devoted, she had such a quick perception of what it would be well to say, and what it would be well to leave unsaid; she was so forgetful of herself, and so regardful of the sorrow about her, that I held her in a sort of veneration."
+      }
+    ]
+  }
+}

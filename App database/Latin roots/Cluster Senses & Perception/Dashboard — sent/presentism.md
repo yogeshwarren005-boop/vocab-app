@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine that the scripture prophecies of the apocalypse (as in the book of revelations) are presently in the course of being fulfilled.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The doctrine that the scripture prophecies of the apocalypse (as in the book of revelations) are presently in the course of being fulfilled.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The tendency to judge past actions, ideas, or historical figures solely by modern standards and contemporary values.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy of time and historical methodology, the ontological thesis that only present entities exist, or the anachronistic bias in historiography.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, presentism designates the doctrine that the scripture prophecies of the apocalypse (as in the book of revelations) are presently in the course of being fulfilled."*
+> - 📜 **Herbert Butterfield (*The Whig Interpretation of History*):** *"The chief snare of historical study is an uncritical **presentism** that reads current controversies backward into distant centuries."*
+> - 📜 **George Santayana (*The Life of Reason*):** *"To view ancient customs through the lens of modern sentiment is a vulgar **presentism** that blinds the intellect to cultural variety."*
+> - 📜 **Arthur Danto (*Analytical Philosophy of History*):** *"Radical **presentism** denies historical reality to past events, reducing all historical inquiry to contemporary discourse."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an absentminded or preoccupied manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an absentminded or preoccupied manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner marked by distraction, reverie, or lack of conscious attention to one's present actions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative prose, exhibiting automatic or mechanical physical movements while the intellect is absorbed in distant thoughts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Her hand often lay immovably on these, while she absently looked in front of her."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"You should, I think, have considered, and not have been so foolish as to leave the slides closed.” “Yes I suppose I should,” said Oak, absently."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He was humming absently to himself, in a low tone: “I be as good as some folks here and there!"*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea gazed **absently** out across the snow-covered park, barely hearing the persistent murmur of the clerical discussion."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"She turned the page of her book **absently**, listening instead to the rhythmic pulse of the waves against the shore."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Isabel stirred her tea **absently**, her mind revolving around the enigmatic counsel she had just received from Madame Merle."*

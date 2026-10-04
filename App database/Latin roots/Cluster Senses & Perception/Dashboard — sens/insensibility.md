@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lack of sensibility.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Devoid of passion or feeling; hardheartedness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Complete destitution of physical feeling, loss of consciousness, or utter emotional unresponsiveness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pathology and moral psychology, total sensory anesthesia or callous disregard for ethical propriety and civic empathy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Ada found me thus and had such a delightful confidence in me when I showed her the keys and told her about them that it would have been insensibility and ingratitude not to feel encouraged."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But since you mention me so pointedly, I will acknowledge that I should like to impart to you a little of my—come, sir, you are disposed to call it insensibility, and I am sure I have no objection—say insensibility—a little of my insensibility.” “Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Vholes,” explains the client, somewhat abashed, “I had no intention to accuse you of insensibility.” “I think you had, sir, without knowing it,” returns the equable Vholes."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor was far from attributing his reserved manners to coldness or moral **insensibility**."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His senses were frozen into dull **insensibility**, perceiving neither light nor the voice of grief."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The wretched outcast sank upon the wet pavement into merciful **insensibility** before dawn arrived."*

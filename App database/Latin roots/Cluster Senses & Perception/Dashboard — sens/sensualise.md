@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Debase through carnal gratification.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Debase through carnal gratification.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make sensual, debase through carnal indulgence, or reduce spiritual ideals to bodily terms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic theory and moral theology, to contaminate elevated spiritual conceptions with carnal imagery or voluptuous appetites.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sensualise designates debase through carnal gratification."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"Superstition tends to **sensualise** religious worship by substituting tangible idols for spiritual devotion."*
+> - 📜 **Thomas Carlyle (*Heroes and Hero-Worship*):** *"Dante refused to **sensualise** the celestial realms, preserving their austere, transcendent radiance."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"Epicurean philosophy was unjustly accused of seeking to **sensualise** human happiness at the expense of intellect."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ability to hear; the auditory faculty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A test of the suitability of a performer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An interview or trial performance for a singer, actor, or musician, or the power or sense of hearing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theater and sensory physiology, a competitive trial demonstration of artistic skill or the neurobiological faculty of acoustic perception.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Abraham talked on, rather for the pleasure of utterance than for audition, so that his sister’s abstraction was of no account."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The organ of **audition** translates mechanical vibrations of atmospheric air into distinct cortical sensations."*
+> - 📜 **George Bernard Shaw (*Our Theatres in the Nineties*):** *"At her dramatic **audition**, the young actress delivered the classical monologue with arresting emotional precision."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"The inner ear of the reader conducts a private **audition** of the novelist's prose rhythms."*

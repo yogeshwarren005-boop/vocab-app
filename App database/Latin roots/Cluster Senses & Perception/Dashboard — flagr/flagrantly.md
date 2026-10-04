@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a flagrant manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a flagrant manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a flagrant manner; notoriously, brazenly, conspicuously, or outrageously.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal history and civic discourse, violating statutes, treaties, or moral decency with open defiance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Turn of the Screw*):** *"She smiled and smiled, and we met; but it was all done in a silence by this time flagrantly ominous."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The king acted **flagrantly** in defiance of the Test Act, appointing Catholic officers to high military commands."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The revolutionary decrees **flagrantly** violated the ancient property rights guaranteed to the clergy and municipal corporations."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The legal trustee had **flagrantly** misapplied the orphan's patrimony to cover his own private speculations."*

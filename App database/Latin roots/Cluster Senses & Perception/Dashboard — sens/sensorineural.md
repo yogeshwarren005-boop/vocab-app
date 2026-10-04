@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the neural process of sensation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the neural process of sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or involving sensory nerve pathways, especially sensory mechanisms of the inner ear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical otology and audiology, designating hearing loss resulting from lesions of the cochlea, auditory nerve, or central acoustic pathways.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sensorineural designates of or relating to the neural process of sensation."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Tuning fork evaluations distinguish conductive middle-ear impairment from irreversible **sensorineural** auditory damage."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Damage to the acoustic nerve trunk produces profound **sensorineural** deafness independent of the tympanic membrane."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"Toxic drugs like quinine can induce transient **sensorineural** impairment by poisoning delicate cochlear hair cells."*

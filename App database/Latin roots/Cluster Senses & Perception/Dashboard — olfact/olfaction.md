@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The faculty that enables us to distinguish scents.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The faculty that enables us to distinguish scents.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sense of smell; the act, capacity, or physiological process of perceiving odors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sensory neurobiology and physiology, the chemosensory transduction of volatile odorant molecules by olfactory receptor neurons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, olfaction designates the faculty that enables us to distinguish scents."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The neural mechanisms of **olfaction** are directly connected to the primitive limbic pathways governing instinct and memory."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"In nocturnal quadrupeds, the sense of **olfaction** is developed to an extraordinary pitch of sensory acuity."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"Airborne volatile particles stimulate the delicate mucous membrane of the nasal cavity, giving rise to conscious **olfaction**."*

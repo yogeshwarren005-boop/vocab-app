@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Agreement with a statement or proposal to do something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To agree or express agreement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The expression of formal approval, concurrence, agreement, or mental acceptance of a proposal or statement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemology and constitutional jurisprudence, the sovereign's sanction of a legislative bill, or the intellect's affirmative judgment toward a proposition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"First, that without the King’s assent or knowledge, You wrought to be a legate, by which power You maimed the jurisdiction of all bishops."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"He ought to be most sorry if he did not come up to the best." Bruno could now gladly and joyfully assent."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy yielding his assent to this proposal, Jo is requested to follow into the drawing-room doorway, where Mr."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Men give their **assent** to general maxims as soon as the terms are understood and compared by the intellect."*
+> - 📜 **Walter Bagehot (*The English Constitution*):** *"The Crown has by convention retained the formal right to withhold royal **assent**, though that prerogative has long lain dormant."*
+> - 📜 **David Hume (*A Treatise of Human Nature*):** *"Belief consists in nothing but a certain feeling or manner of conceiving to which we readily give our cognitive **assent**."*

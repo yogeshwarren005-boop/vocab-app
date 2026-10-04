@@ -1,0 +1,1898 @@
+{
+  "attributable": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "text": "Capable of being attributed; ascribable; imputable. Errors . . . attributable to carelessness. J. D. Hooker."
+      },
+      {
+        "source": "wordnet_a",
+        "text": "capable of being attributed"
+      }
+    ],
+    "citations": [
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "It is shewn by various facts, given hereafter, and by the results fairly attributable to sexual selection, that the female, though comparatively passive, generally exerts some choice and accepts one male in preference to others."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "I am therefore willing to believe that she was in a fit when we found her under the boiler; and that the deficient tea-spoons were attributable to the dustman."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "A Tale of Two Cities",
+        "sentence": "Since the state of your mind that you describe, is, at all events, attributable to some influence of mine--this is what I mean, if I can make it plain--can I use no influence to serve you?"
+      }
+    ]
+  },
+  "attribute": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "text": "To ascribe; to consider (something) as due or appropriate (to); to refer, as an effect to a cause; to impute; to assign; to consider as belonging (to). We attribute nothing to God that hath any repugnancy or contradiction in it. Abp. Tillotson. The merit of service is seldom attributed to the true and exact performer. Shak. Syn. -- See Ascribe.\n\n1. That which is attributed; a quality which is considered as belonging to, or inherent in, a person or thing; an essential or necessary property or characteristic. But mercy is above this sceptered away; . . . It is an attribute to God himself. Shak. 2. Reputation. [Poetic] Shak. 3. (Paint. & Sculp.)  A conventional symbol of office, character, or identity, added to any particular figure; as, a club is the attribute of Hercules. 4. (Gram.)  Quality, etc., denoted by an attributive; an attributive adjunct or adjective."
+      },
+      {
+        "source": "wordnet_n",
+        "text": "a construct whereby objects or individuals can be distinguished"
+      },
+      {
+        "source": "wordnet_n",
+        "text": "an abstraction belonging to or characteristic of an entity"
+      },
+      {
+        "source": "wordnet_v",
+        "text": "attribute or credit to"
+      },
+      {
+        "source": "wordnet_v",
+        "text": "decide as to where something belongs in a scheme"
+      }
+    ],
+    "citations": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "This heavy-headed revel east and west Makes us traduc’d and tax’d of other nations: They clepe us drunkards, and with swinish phrase Soil our addition; and indeed it takes From our achievements, though perform’d at height, The pith and marrow of our attribute."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "His sceptre shows the force of temporal power, The attribute to awe and majesty, Wherein doth sit the dread and fear of kings; But mercy is above this sceptred sway, It is enthroned in the hearts of kings, It is an attribute to God himself; And earthly power doth then show likest God’s When mercy seasons justice."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Unless you play the pious innocent, And for an honest attribute cry out ‘She died by foul play.’"
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Much attribute he hath, and much the reason Why we ascribe it to him."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "We learn that it is not the rays which bodies absorb, but those which they reject, that give them the colours they are known by; and in the same way people are specialized by their dislikes and antagonisms, whilst their goodwill is looked upon as no attribute at all."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "But limitation of the capacity is never recognized as a loss by the loser therefrom: in this attribute moral or æsthetic poverty contrasts plausibly with material, since those who suffer do not mind it, whilst those who mind it soon cease to suffer."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "She had an attribute which amounted to a disadvantage just now; and it was this that caused Alec d’Urberville’s eyes to rivet themselves upon her."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "Tess was the merest stray phenomenon to Angel Clare as yet—a rosy, warming apparition which had only just acquired the attribute of persistence in his consciousness."
+      },
+      {
+        "author": "John Stuart Mill",
+        "work": "Utilitarianism",
+        "sentence": "It does not present itself to their minds as a superstition of education, or a law despotically imposed by the power of society, but as an attribute which it would not be well for them to be without."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "In one very limited sense, as we shall hereafter see, this may be true; but it is preposterous to attribute to mere external conditions, the structure, for instance, of the woodpecker, with its feet, tail, beak, and tongue, so admirably adapted to catch insects under the bark of trees."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "To judge how much, in the case of any variation, we should attribute to the direct action of heat, moisture, light, food, etc., is most difficult: my impression is, that with animals such agencies have produced very little direct effect, though apparently more in the case of plants."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "When we travel from south to north, or from a damp region to a dry, we invariably see some species gradually getting rarer and rarer, and finally disappearing; and the change of climate being conspicuous, we are tempted to attribute the whole effect to its direct action."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "When we look at the plants and bushes clothing an entangled bank, we are tempted to attribute their proportional numbers and kinds to what we call chance."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "When a variation is of the slightest use to a being, we cannot tell how much of it to attribute to the accumulative action of natural selection, and how much to the conditions of life."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "As it is difficult to imagine that eyes, though useless, could be in any way injurious to animals living in darkness, I attribute their loss wholly to disuse."
+      }
+    ]
+  },
+  "attribution": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "text": "1. The act of attributing or ascribing, as a quality, character, or function, to a thing or person, an effect to a cause. 2. That which is ascribed or attributed."
+      },
+      {
+        "source": "wordnet_n",
+        "text": "assigning some quality or character to a person or thing"
+      },
+      {
+        "source": "wordnet_n",
+        "text": "assigning to a cause or source"
+      }
+    ],
+    "citations": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "If speaking truth In this fine age were not thought flattery, Such attribution should the Douglas have As not a soldier of this season’s stamp Should go so general current through the world."
+      }
+    ]
+  },
+  "attributive": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "text": "Attributing; pertaining to, expressing, or assigning an attribute; of the nature of an attribute.\n\nA word that denotes an attribute; esp. a modifying word joined to a noun; an adjective or adjective phrase."
+      },
+      {
+        "source": "wordnet_a",
+        "text": "of adjectives; placed before the nouns they modify"
+      }
+    ],
+    "citations": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "But value dwells not in particular will: It holds his estimate and dignity As well wherein ’tis precious of itself As in the prizer. ’Tis mad idolatry To make the service greater than the god, And the will dotes that is attributive To what infectiously itself affects, Without some image of th’affected merit."
+      }
+    ]
+  },
+  "attributively": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "text": "In an attributive manner."
+      },
+      {
+        "source": "wordnet_r",
+        "text": "in an attributive manner"
+      }
+    ],
+    "citations": []
+  },
+  "contribute": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "text": "To give or grant i common with others; to give to a common stock or for a common purpose; to furnish or suply in part; to give (money or other aid) for a specified object; as, to contribute food or fuel for the poor. England contributes much more than any other of the allies. Addison.\n\n1. To give a part to a common stock; to lend assistance or aid, or give something, to a common purpose; to have a share in any act or effect. We are engaged in war; the secretary of state calls upon the colonies to contribute. Burke. 2. To give or use one's power or influence for any object; to assist. These men also contributed to obstruct the progress of wisdom. Goldsmith."
+      },
+      {
+        "source": "wordnet_v",
+        "text": "bestow a quality on"
+      },
+      {
+        "source": "wordnet_v",
+        "text": "contribute to some cause"
+      },
+      {
+        "source": "wordnet_v",
+        "text": "be conducive to"
+      },
+      {
+        "source": "wordnet_v",
+        "text": "provide"
+      }
+    ],
+    "citations": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "That I can’t, indeed,” he said, moving past Oak as a Christian edges past an offertory-plate when he does not mean to contribute."
+      },
+      {
+        "author": "John Stuart Mill",
+        "work": "Utilitarianism",
+        "sentence": "On the present occasion, I shall, without further discussion of the other theories, attempt to contribute something towards the understanding and appreciation of the Utilitarian or Happiness theory, and towards such proof as it is susceptible of."
+      },
+      {
+        "author": "John Stuart Mill",
+        "work": "Utilitarianism",
+        "sentence": "Those who introduced the word, but who had for many years discontinued it as a distinctive appellation, may well feel themselves called upon to resume it, if by doing so they can hope to contribute anything towards rescuing it from this utter degradation.[A]"
+      },
+      {
+        "author": "John Stuart Mill",
+        "work": "Utilitarianism",
+        "sentence": "All honour to those who can abnegate for themselves the personal enjoyment of life, when by such renunciation they contribute worthily to increase the amount of happiness in the world; but he who does it, or professes to do it, for any other purpose, is no more deserving of admiration than the ascetic mounted on his pillar."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Lydgate was ambitious above all to contribute towards enlarging the scientific, rational basis of his profession."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "If a fair number of the better educated men went to work with the belief that their observations might contribute to the reform of medical doctrine and practice, we should soon see a change for the better."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Brooke of Tipton has already given me his concurrence, and a pledge to contribute yearly: he has not specified the sum—probably not a great one."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "If you maintain a dead church, contribute to a dead Bible-society, vote with a great party either for the government or against it, spread your table like base housekeepers,--under all these screens I have difficulty to detect the precise[173] man you are."
+      },
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "These are the little air-guns which contribute to make the ice crack and whoop."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "For, as it eventually turned out, he cared not to consort, even for five minutes, with any stranger captain, except he could contribute some of that information he so absorbingly sought."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "To the student of old Roman walls, the middle layer will furnish a curious parallel to the thin course of tiles always alternating with the stone in those wonderful relics of the antique, and which undoubtedly contribute so much to the great strength of the masonry."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "Yet I’ll contribute to raise rods on the Himmalehs and Andes, that all the world may be secured; but out on privileges!"
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "Many characteristics—and those, too, which contribute not the least forcibly to impart resemblance in a sketch—must have vanished, or been obscured, before I met the General."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "Some of the briefer articles, which contribute to make up the volume, have likewise been written since my involuntary withdrawal from the toils and honours of public life, and the remainder are gleaned from annuals and magazines, of such antique date, that they have gone round the circle, and come back to novelty again."
+      },
+      {
+        "author": "H. G. Wells",
+        "work": "The War of the Worlds",
+        "sentence": "I cannot but regret, now that I am concluding my story, how little I am able to contribute to the discussion of the many debatable questions which are still unsettled."
+      }
+    ]
+  },
+  "contributing": {
+    "definitions": [
+      {
+        "source": "wordnet_v",
+        "text": "bestow a quality on"
+      },
+      {
+        "source": "wordnet_v",
+        "text": "contribute to some cause"
+      },
+      {
+        "source": "wordnet_v",
+        "text": "be conducive to"
+      },
+      {
+        "source": "wordnet_v",
+        "text": "provide"
+      }
+    ],
+    "citations": [
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "A sense of contributing to form the world’s opinion makes conversation particularly cheerful; and Mr."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "But whether he should succeed in that mode of contributing to the majority on the right side was very doubtful to him."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "‘I am immediately otherwise engaged,’ she says. ‘I am going into Yorkshire with Sir James and Lady Chettam; and the conclusions I come to about some land which I am to see there may affect my power of contributing to the Hospital.’ Thus, Mr."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "Nor must we forget the captains of the rusty little schooners that bring firewood from the British provinces; a rough-looking set of tarpaulins, without the alertness of the Yankee aspect, but contributing an item of no slight importance to our decaying trade."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "Had a roar of laughter burst from the multitude—each man, each woman, each little shrill-voiced child, contributing their individual parts—Hester Prynne might have repaid them all with a bitter and disdainful smile."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "The vulgar, who, in those dreary old times, were always contributing a grotesque horror to what interested their imaginations, had a story about the scarlet letter which we might readily work up into a terrific legend."
+      },
+      {
+        "author": "Jane Austen",
+        "work": "Emma",
+        "sentence": "There was always sufficient reason for such an attention; Mrs. and Miss Bates loved to be called on, and she knew she was considered by the very few who presumed ever to see imperfection in her, as rather negligent in that respect, and as not contributing what she ought to the stock of their scanty comforts."
+      },
+      {
+        "author": "Jane Austen",
+        "work": "Persuasion",
+        "sentence": "She is dead! she is dead!\" screamed Mary, catching hold of her husband, and contributing with his own horror to make him immoveable; and in another moment, Henrietta, sinking under the conviction, lost her senses too, and would have fallen on the steps, but for Captain Benwick and Anne, who caught and supported her between them."
+      },
+      {
+        "author": "Jane Austen",
+        "work": "Sense and Sensibility",
+        "sentence": "Determined not to quit Marianne, though hopeless of contributing, at present, to her ease, she hurried away to excuse herself from attending Mrs."
+      }
+    ]
+  },
+  "contribution": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "text": "1. The act of contributing. 2. That which is contributed; -- either the portion which an individual furnishes to the common stock, or the whole which is formed by the gifts of individuals. A certain contribution for the poor saints which are at jerusalem. Rom. xv. 26. Aristotle's actual contributions to the physical sciences. Whewell. 3. (Mil.)  An irregular and arbitrary imposition or tax leved on the people of a town or country. These sums, . . . and the forced contributions paid by luckless peasants, enabled him to keep his straggling troops together. Motley. 4. (Law)  Payment, by each of several jointly liable, of a share in a loss suffered or an amount paid by one of their number for the common benefit."
+      },
+      {
+        "source": "wordnet_n",
+        "text": "the part played by a person in bringing about a result"
+      },
+      {
+        "source": "wordnet_n",
+        "text": "a voluntary gift (as of money or service or ideas) made to some worthwhile cause"
+      },
+      {
+        "source": "wordnet_n",
+        "text": "act of giving in common with others for a common purpose especially to a charity"
+      },
+      {
+        "source": "wordnet_n",
+        "text": "an amount of money contributed"
+      }
+    ],
+    "citations": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "The people ’twixt Philippi and this ground Do stand but in a forced affection; For they have grudg’d us contribution."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "It was the gallant sergeant, who had come haymaking for pleasure; and nobody could deny that he was doing the mistress of the farm real knight-service by this voluntary contribution of his labour at a busy time."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "Of the five-and-twenty pounds which had remained to her of Clare’s allowance, after deducting the other half of the fifty as a contribution to her parents for the trouble and expense to which she had put them, she had as yet spent but little."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Brooke, not quite knowing at what point the discussion had arrived, but coming up to it with a contribution which was generally appropriate."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "The nervous language of the Common Law,[585] the impressive forms of our courts, and the precision and substantial truth of the legal distinctions, are the contribution of all the sharp-sighted, strong-minded men who have lived in the countries where these laws govern."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "Under date of October 30, 1841, he wrote: \"On this wonderful day when heaven and earth seem to glow with magnificence, and all the wealth of all the elements is put under contribution to make the world fine, as if Nature would indulge her offspring, it seemed ungrateful to hide in the house."
+      },
+      {
+        "author": "Thomas Henry Huxley",
+        "work": "Evolution and Ethics",
+        "sentence": "He travels and expatiates, as the bee From flower to flower so he from land to land; The manners, customs, policy of all Pay contribution to the store he gleans, He sucks intelligence in every clime, And spreads the honey of his deep research At his return--a rich repast for me."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "I don’t know what good he thought it would do me, for I had one of my own: but it was all he had to lend, poor fellow, except a sheet of letter-paper full of skeletons; and that he gave me at parting, as a soother of my sorrows and a contribution to my peace of mind."
+      },
+      {
+        "author": "Jonathan Swift",
+        "work": "Gulliver's Travels",
+        "sentence": "Here they inquire into the state and condition of the several districts; whether they abound or be deficient in hay or oats, or cows, or _Yahoos_; and wherever there is any want (which is but seldom) it is immediately supplied by unanimous consent and contribution."
+      },
+      {
+        "author": "Jane Austen",
+        "work": "Emma",
+        "sentence": "Elton's praise passed from one mouth to another as it ought to do, unimpeded by Miss Woodhouse, who readily continued her first contribution and talked with a good grace of her being \"very pleasant and very elegantly dressed."
+      },
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "15:26 For it hath pleased them of Macedonia and Achaia to make a certain contribution for the poor saints which are at Jerusalem."
+      },
+      {
+        "author": "Walt Whitman",
+        "work": "Leaves of Grass",
+        "sentence": "He was a good fellow, free-mouth'd, quick-temper'd, not bad-looking, Ready with life or death for a friend, fond of women, gambled, ate hearty, drank hearty, Had known what it was to be flush, grew low-spirited toward the last, sicken'd, was help'd by a contribution, Died, aged forty-one years--and that was his funeral."
+      }
+    ]
+  },
+  "contributive": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "text": "Contributing, or tending to contribute. Fuller."
+      },
+      {
+        "source": "wordnet_s",
+        "text": "tending to bring about; being partly responsible for"
+      }
+    ],
+    "citations": []
+  },
+  "contributor": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "text": "One who, or that which, contributes; specifically, one who writes articles for a newspaper or magazine."
+      },
+      {
+        "source": "wordnet_n",
+        "text": "someone who contributes (or promises to contribute) a sum of money"
+      },
+      {
+        "source": "wordnet_n",
+        "text": "a writer whose work is published in a newspaper or magazine or as part of a book"
+      }
+    ],
+    "citations": [
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Wisdom of Father Brown",
+        "sentence": "Then, with a more thoughtful eye, he ripped open the letter from his more distinguished contributor, which bore a postmark of Devonshire, and read as follows:"
+      }
+    ]
+  },
+  "contributory": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "text": "Contributing to the same stock or purpose; promoting the same end; bringing assistance to some joint design, or increase to some common stock; contributive. Milton. Bonfires of contributory wood. Chapman. Contributory negligence (Law), negligence by an injured party, which combines with the negligence of the injurer in producing the injury, and which bars recovery when it is the proximate cause of the injury. Wharton.\n\nOne who contributes, or is liable to be called upon to contribute, as toward the discharge of a common indebtedness. Abbott."
+      },
+      {
+        "source": "wordnet_s",
+        "text": "tending to bring about; being partly responsible for"
+      }
+    ],
+    "citations": []
+  },
+  "detribalisation": {
+    "definitions": [
+      {
+        "source": "wordnet_n",
+        "text": "the act of causing tribal people to abandon their customs and adopt urban ways of living"
+      },
+      {
+        "source": "wordnet_n",
+        "text": "the decline or termination of tribal organization"
+      }
+    ],
+    "citations": []
+  },
+  "detribalise": {
+    "definitions": [
+      {
+        "source": "wordnet_v",
+        "text": "cause members of a tribe to lose their cultural identity"
+      }
+    ],
+    "citations": []
+  },
+  "detribalization": {
+    "definitions": [
+      {
+        "source": "wordnet_n",
+        "text": "the act of causing tribal people to abandon their customs and adopt urban ways of living"
+      },
+      {
+        "source": "wordnet_n",
+        "text": "the decline or termination of tribal organization"
+      }
+    ],
+    "citations": []
+  },
+  "detribalize": {
+    "definitions": [
+      {
+        "source": "wordnet_v",
+        "text": "cause members of a tribe to lose their cultural identity"
+      }
+    ],
+    "citations": []
+  },
+  "distributary": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "text": "Tending to distribute or be distributed; that distributes; distributive."
+      },
+      {
+        "source": "wordnet_n",
+        "text": "a branch of a river that flows away from the main stream and does not rejoin it"
+      }
+    ],
+    "citations": []
+  },
+  "distribute": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "text": "1. To divide among several or many; to deal out; to apportion; to allot. She did distribute her goods to all them that were nearest of kindred. Judith xvi. 24. 2. To dispense; to administer; as, to distribute justice. Shak. 3. To divide or separate, as into classes, orders, kinds, or species; to classify; to assort, as specimens, letters, etc. 4. (Printing) (a) To separate (type which has been used) and return it to the proper boxes in the cases. (b) To spread (ink) evenly, as upon a roller or a table. 5. (Logic)  To employ (a term) in its whole extent; to take as universal in one premise. A term is said to be distributed when it is taken universal, so as to stand for everything it is capable of being applied to. Whately. Syn. -- To dispense; deal out; apportion; allot; share; assign; divide.\n\nTo make distribution. Distributing to the necessity of saints. Rom. xii. 13."
+      },
+      {
+        "source": "wordnet_v",
+        "text": "administer or bestow, as in small portions"
+      },
+      {
+        "source": "wordnet_v",
+        "text": "distribute or disperse widely"
+      },
+      {
+        "source": "wordnet_v",
+        "text": "make available"
+      },
+      {
+        "source": "wordnet_v",
+        "text": "give to several people"
+      }
+    ],
+    "citations": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "As much as one sound cudgel of four foot— You see the poor remainder—could distribute, I made no spare, sir."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "I shall tell everybody that you are going to put up for Middlemarch on the Whig side when old Pinkerton resigns, and that Casaubon is going to help you in an underhand manner: going to bribe the voters with pamphlets, and throw open the public-houses to distribute them."
+      },
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "Our ambassadors should be instructed to send home such seeds as these, and Congress help to distribute them over all the land."
+      },
+      {
+        "author": "Bram Stoker",
+        "work": "Dracula",
+        "sentence": "If then the Count meant to scatter these ghastly refuges of his over London, these places were chosen as the first of delivery, so that later he might distribute more fully."
+      },
+      {
+        "author": "H. G. Wells",
+        "work": "The War of the Worlds",
+        "sentence": "A similar tube was handed to each of the three, and the seven proceeded to distribute themselves at equal distances along a curved line between St."
+      },
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "13:32 These are the countries which Moses did distribute for inheritance in the plains of Moab, on the other side Jordan, by Jericho, eastward."
+      },
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "31:14 And Kore the son of Imnah the Levite, the porter toward the east, was over the freewill offerings of God, to distribute the oblations of the LORD, and the most holy things."
+      },
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "13:13 And I made treasurers over the treasuries, Shelemiah the priest, and Zadok the scribe, and of the Levites, Pedaiah: and next to them was Hanan the son of Zaccur, the son of Mattaniah: for they were counted faithful, and their office was to distribute unto their brethren."
+      },
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "18:22 Now when Jesus heard these things, he said unto him, Yet lackest thou one thing: sell all that thou hast, and distribute unto the poor, and thou shalt have treasure in heaven: and come, follow me."
+      }
+    ]
+  },
+  "distributed": {
+    "definitions": [
+      {
+        "source": "wordnet_v",
+        "text": "administer or bestow, as in small portions"
+      },
+      {
+        "source": "wordnet_v",
+        "text": "distribute or disperse widely"
+      },
+      {
+        "source": "wordnet_v",
+        "text": "make available"
+      },
+      {
+        "source": "wordnet_v",
+        "text": "give to several people"
+      }
+    ],
+    "citations": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "If he evade us there, Enforce him with his envy to the people, And that the spoil got on the Antiates Was ne’er distributed."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "Yet the advantage of plumed seeds no doubt stands in the closest relation to the land being already thickly clothed by other plants; so that the seeds may be widely distributed and fall on unoccupied ground."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "In looking at species as they are now distributed over a wide area, we generally find them tolerably numerous over a large territory, then becoming somewhat abruptly rarer and rarer on the confines, and finally disappearing."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "Geographical distribution may sometimes be brought usefully into play in classing large and widely-distributed genera, because all the species of the same genus, inhabiting any distinct and isolated region, have in all probability descended from the same parents."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Borthrop Trumbull, a distinguished bachelor and auctioneer of those parts, much concerned in the sale of land and cattle: a public character, indeed, whose name was seen on widely distributed placards, and who might reasonably be sorry for those who did not know of him."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "When Will Ladislaw had come in, a second fender, said to have been forgotten in its right place, suddenly claimed the auctioneer’s enthusiasm, which he distributed on the equitable principle of praising those things most which were most in need of praise."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "But, unfortunately, this original unit, this fountain of power, has been so distributed to multitudes, has been so minutely subdivided and peddled out, that it is spilled into drops, and cannot be gathered."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "Here is a planted globe, pierced and belted with natural laws and fenced and distributed externally with civil partitions and properties which impose new restraints on the young inhabitant."
+      },
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "The necessaries of life for man in this climate may, accurately enough, be distributed under the several heads of Food, Shelter, Clothing, and Fuel; for not till we have secured these are we prepared to entertain the true problems of life with freedom and a prospect of success."
+      },
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "The Pope’s Homers would soon get properly distributed.—"
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "How are such races distributed over the world; and how, when crossed, do they react on each other in the first and succeeding generations?"
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "Hayes, in his work on ‘The Open Polar Sea,’ repeatedly remarks that his dogs, instead of continuing to draw the sledges in a compact body, diverged and separated when they came to thin ice, so that their weight might be more evenly distributed."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "He would be deeply impressed with the fact, first noticed by Agassiz (7. ‘Diversity of Origin of the Human Races,’ in the ‘Christian Examiner,’ July 1850.), that the different races of man are distributed over the world in the same zoological provinces, as those inhabited by undoubtedly distinct species and genera of mammals."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "If, however, we look to the races of man as distributed over the world, we must infer that their characteristic differences cannot be accounted for by the direct action of different conditions of life, even after exposure to them for an enormous period of time."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "Walsh has remarked to me, the females of our orange-tip butterfly, above referred to, and of an American species (Anth. genutia) probably shew us the primordial colours of the parent-species of the genus; for both sexes of four or five widely-distributed species are coloured in nearly the same manner."
+      }
+    ]
+  },
+  "distributer": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "text": "One who, or that which, distributes or deals out anything; a dispenser. Addison."
+      },
+      {
+        "source": "wordnet_n",
+        "text": "someone who markets merchandise"
+      },
+      {
+        "source": "wordnet_n",
+        "text": "electrical device that distributes voltage to the spark plugs of a gasoline engine in the order of the firing sequence"
+      }
+    ],
+    "citations": []
+  },
+  "distribution": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "text": "1. The act of distributing or dispensing; the act of dividing or apportioning among several or many; apportionment; as, the distribution of an estate among heirs or children. The phenomena of geological distribution are exactly analogous to those of geography. A. R. Wallace. 2. Separation into parts or classes; arrangement of anything into parts; disposition; classification. 3. That which is distributed. \"Our charitable distributions.\" Atterbury. 4. (Logic)  A resolving a whole into its parts. 5. (Print.)  The sorting of types and placing them in their proper boxes in the cases. 6. (Steam Engine)  The steps or operations by which steam is supplied to and withdrawn from the cylinder at each stroke of the piston; viz., admission, suppression or cutting off, release or exhaust, and compression of exhaust steam prior to the next admission. Geographical distribution, the natural arrangements of animals and plants in particular regions or districts. Syn. -- Apportionments; allotment; dispensation; disposal; dispersion; classification; arrangement."
+      },
+      {
+        "source": "wordnet_n",
+        "text": "(statistics) an arrangement of values of a variable showing their observed or theoretical frequency of occurrence"
+      },
+      {
+        "source": "wordnet_n",
+        "text": "the spatial or geographic property of being scattered about over a range, area, or volume"
+      },
+      {
+        "source": "wordnet_n",
+        "text": "the act of distributing or spreading or apportioning"
+      },
+      {
+        "source": "wordnet_n",
+        "text": "the commercial activity of transporting and selling goods from a producer to a consumer"
+      }
+    ],
+    "citations": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Of all the horses— Whereof we have ta’en good and good store—of all The treasure in this field achieved and city, We render you the tenth, to be ta’en forth Before the common distribution At your only choice."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Let the superfluous and lust-dieted man, That slaves your ordinance, that will not see Because he does not feel, feel your power quickly; So distribution should undo excess, And each man have enough."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "La distribution des prix vient d'avoir lieu, et je dois en faire connaître le résultat aux parents de toutes mes élèves."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "Mademoiselle Luciane s'est chargée de vous donner elle-même les détails de cette distribution de prix, et de vous exprimer en même temps la joie que lui cause ses éclatants succès, que vous ne pouvez manquer de partager."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "Je sais, plus que tout autre, combien la bonne Ottilie est incapable de manifester publiquement ce qu'elle sait et ce qu'elle vaut; aussi ai-je tremblé pour elle à mesure que je voyais approcher la distribution des prix."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "Après cette espèce de réprimande, je ne pouvais plus espérer devoir prononcer le nom d'Ottilie à la distribution des prix, mais je ne croyais pas que cet échec dût avoir des résultats aussi fâcheux pour elle."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "Sa cousine lui répondit avec calme que ce n'était pas la dernière distribution des prix."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "La clarté consiste dans une sage distribution de là lumière et des ombres."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "GEOGRAPHICAL DISTRIBUTION—_continued_. 13."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "Present distribution cannot be accounted for by differences in physical conditions."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "GEOGRAPHICAL DISTRIBUTION—_continued_."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "Distribution of fresh-water productions."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "When on board H.M.S. ‘Beagle,’ as naturalist, I was much struck with certain facts in the distribution of the inhabitants of South America, and in the geological relations of the present to the past inhabitants of that continent."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "In the next chapter I shall consider the geological succession of organic beings throughout time; in the eleventh and twelfth, their geographical distribution throughout space; in the thirteenth, their classification or mutual affinities, both when mature and in an embryonic condition."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "Many of the cases of strongly-marked varieties or doubtful species well deserve consideration; for several interesting lines of argument, from geographical distribution, analogical variation, hybridism, etc., have been brought to bear on the attempt to determine their rank."
+      }
+    ]
+  },
+  "distributional": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "text": "Of or pertaining to distribution. Huxley."
+      },
+      {
+        "source": "wordnet_a",
+        "text": "of or relating to spatial distribution"
+      }
+    ],
+    "citations": []
+  },
+  "distributive": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "text": "1. Tending to distribute; serving to divide and assign in portions; dealing to each his proper share. \"Distributive justice.\" Swift. 2. (Logic)  Assigning the species of a general term. 3. (Gram.)  Expressing separation; denoting a taking singly, not collectively; as, a distributive adjective or pronoun, such as each, either, every; a distributive numeral, as (Latin) bini (two by two). Distributive operation (Math.), any operation which either consists of two or more parts, or works upon two or more things, and which is such that the result of the total operation is the same as the aggregated result of the two or more partial operations. Ordinary multiplication is distributive, since a × (b + c) = ab + ac, and (a + b) × c = ac + bc. -- Distributive proportion. (Math.) See Fellowship.\n\nA distributive adjective or pronoun; also, a distributive numeral."
+      },
+      {
+        "source": "wordnet_a",
+        "text": "serving to distribute or allot or disperse"
+      }
+    ],
+    "citations": [
+      {
+        "author": "John Stuart Mill",
+        "work": "Utilitarianism",
+        "sentence": "This is the highest abstract standard of social and distributive justice; towards which all institutions, and the efforts of all virtuous citizens, should be made in the utmost possible degree to converge."
+      },
+      {
+        "author": "Jonathan Swift",
+        "work": "Gulliver's Travels",
+        "sentence": "To say the truth, I had conceived a few scruples with relation to the distributive justice of princes upon those occasions."
+      }
+    ]
+  },
+  "distributively": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "text": "By distribution; singly; not collectively; in a distributive manner."
+      },
+      {
+        "source": "wordnet_r",
+        "text": "as individuals or as separate units (not collectively)"
+      },
+      {
+        "source": "wordnet_r",
+        "text": "in a distributive manner"
+      }
+    ],
+    "citations": []
+  },
+  "distributor": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "text": "(a) A machine for distributing type. (b) An appliance, as a roller, in a printing press, for distributing ink. (c) An apparatus for distributing an electric current, either to various points in rotation, as in some motors, or along two or more lines in parallel, as in a distributing system."
+      },
+      {
+        "source": "wordnet_n",
+        "text": "someone who markets merchandise"
+      },
+      {
+        "source": "wordnet_n",
+        "text": "a person with authority to allot or deal out or apportion"
+      },
+      {
+        "source": "wordnet_n",
+        "text": "a company that markets merchandise"
+      },
+      {
+        "source": "wordnet_n",
+        "text": "electrical device that distributes voltage to the spark plugs of a gasoline engine in the order of the firing sequence"
+      }
+    ],
+    "citations": []
+  },
+  "intertribal": {
+    "definitions": [
+      {
+        "source": "wordnet_a",
+        "text": "between or among tribes"
+      }
+    ],
+    "citations": []
+  },
+  "reattribute": {
+    "definitions": [
+      {
+        "source": "wordnet_v",
+        "text": "attribute to another source"
+      }
+    ],
+    "citations": []
+  },
+  "redistribute": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "text": "To distribute again. -- Re*dis`tri*bu\"tion (-tr, n."
+      },
+      {
+        "source": "wordnet_v",
+        "text": "distribute anew"
+      }
+    ],
+    "citations": []
+  },
+  "redistributed": {
+    "definitions": [
+      {
+        "source": "wordnet_v",
+        "text": "distribute anew"
+      },
+      {
+        "source": "wordnet_s",
+        "text": "having population and industries relocated from urban to outlying areas"
+      }
+    ],
+    "citations": [
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "The colouring matter seems to be a nearly constant quantity, but is redistributed, either centripetally or centrifugally."
+      }
+    ]
+  },
+  "redistribution": {
+    "definitions": [
+      {
+        "source": "wordnet_n",
+        "text": "distributing again"
+      }
+    ],
+    "citations": []
+  },
+  "retribute": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "text": "To pay back; to give in return, as payment, reward, or punishment; to requite; as, to retribute one for his kindness; to retribute just punishment to a criminal. [Obs. or R.] Locke."
+      }
+    ],
+    "citations": []
+  },
+  "retribution": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "text": "1. The act of retributing; repayment. In good offices and due retributions, we may not be pinching and niggardly. Bp. Hall. 2. That which is given in repayment or compensation; return suitable to the merits or deserts of, as an action; commonly, condign punishment for evil or wrong. All who have their reward on earth, . . . Naught seeking but the praise of men, here find Fit retribution, empty as their deeds. Milton. 3. Specifically, reward and punishment, as distributed at the general judgment. It is a strong argument for a state of retribution hereafter, that in this world virtuous persons are very often unfortunate, and vicious persons prosperous. Addison. Syn. -- Repayment; requital; recompense; payment; retaliation."
+      },
+      {
+        "source": "wordnet_n",
+        "text": "a justly deserved penalty"
+      },
+      {
+        "source": "wordnet_n",
+        "text": "the act of correcting for your wrongdoing"
+      },
+      {
+        "source": "wordnet_n",
+        "text": "the act of taking revenge (harming someone in retaliation for something harmful that they have done) especially in the next life; --Romans 12:19; --James Garfield"
+      }
+    ],
+    "citations": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "One may, indeed, admit the possibility of a retribution lurking in the present catastrophe."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "And if he turned to God there seemed to be no answer but the pressure of retribution."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "What we call retribution is the universal necessity by which the whole appears wherever a part appears."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "Men call the circumstance the retribution."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "The causal retribution is in the thing, and is seen by the soul."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "The retribution in the circumstance is seen by the understanding; it is inseparable from the thing, but is often spread over a long time, and so does not become distinct until after many years."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "If he has escaped them in form, and in the appearance, it is because he has resisted his life, and fled from himself, and the retribution is so much death."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "We feel defrauded of the retribution due to evil acts, because the criminal adheres to his vice and contumacy, and does not come to a crisis or judgment anywhere in visible nature."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "[Footnote 120: Nemesis, a Greek female deity, goddess of retribution, who visited the righteous anger of the gods upon mortals.]"
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "But after their gratification when past and weaker impressions are judged by the ever-enduring social instinct, and by his deep regard for the good opinion of his fellows, retribution will surely come."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "The new female did all the courtship, and was at last successful, for she paired with the male; but after a time she met with a just retribution, for, ceasing to be pugnacious, she was replaced by the old female, and the male then deserted his new and returned to his old love."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "The fetid closeness of the air, and a famishing diet, united perhaps to some fears of ultimate retribution, had constrained them to surrender at discretion."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "They embarked; and so for ever got the start of their former captain, had he been at all minded to work them legal retribution."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "Retribution, swift vengeance, eternal malice were in his whole aspect, and spite of all that mortal man could do, the solid white buttress of his forehead smote the ship’s starboard bow, till men and timbers reeled."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "Doubtless, however, either of these stern and black-browed Puritans would have thought it quite a sufficient retribution for his sins that, after so long a lapse of years, the old trunk of the family tree, with so much venerable moss upon it, should have borne, as its topmost bough, an idler like myself."
+      }
+    ]
+  },
+  "retributive": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "text": "Of or pertaining to retribution; of the nature of retribution; involving retribution or repayment; as, retributive justice; retributory comforts."
+      },
+      {
+        "source": "wordnet_s",
+        "text": "of or relating to or having the nature of retribution"
+      },
+      {
+        "source": "wordnet_s",
+        "text": "given or inflicted in requital according to merits or deserts"
+      }
+    ],
+    "citations": [
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "Bynoe, much rain, much snow, blow much”; and this was evidently a retributive punishment for wasting human food."
+      },
+      {
+        "author": "William James",
+        "work": "Pragmatism",
+        "sentence": "I trembled; for I felt that we had committed a 'foul murder.' Master Johnny, however, derided my fears--called it retributive justice--and ignominiously consigned the remains of a game-cock to a dunghill!"
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "A Tale of Two Cities",
+        "sentence": "I see Barsad, and Cly, Defarge, The Vengeance, the Juryman, the Judge, long ranks of the new oppressors who have risen on the destruction of the old, perishing by this retributive instrument, before it shall cease out of its present use."
+      }
+    ]
+  },
+  "retributory": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "text": "Of or pertaining to retribution; of the nature of retribution; involving retribution or repayment; as, retributive justice; retributory comforts."
+      },
+      {
+        "source": "wordnet_s",
+        "text": "of or relating to or having the nature of retribution"
+      },
+      {
+        "source": "wordnet_s",
+        "text": "given or inflicted in requital according to merits or deserts"
+      }
+    ],
+    "citations": []
+  },
+  "tribade": {
+    "definitions": [
+      {
+        "source": "wordnet_n",
+        "text": "a female homosexual"
+      }
+    ],
+    "citations": []
+  },
+  "tribadism": {
+    "definitions": [
+      {
+        "source": "wordnet_n",
+        "text": "a form of lesbianism that simulates heterosexual intercourse"
+      }
+    ],
+    "citations": []
+  },
+  "tribadistic": {
+    "definitions": [
+      {
+        "source": "wordnet_s",
+        "text": "of female homosexual behavior that attempts to simulate heterosexual behavior"
+      }
+    ],
+    "citations": []
+  },
+  "tribal": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "text": "Of or pertaining to a tribe or tribes; as, a tribal scepter. Bp. Warburton."
+      },
+      {
+        "source": "wordnet_a",
+        "text": "relating to or characteristic of a tribe"
+      }
+    ],
+    "citations": [
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "The first mother, following the tribal custom, destroys four daughters and preserves two."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "Landor, Dr., on remorse for not obeying tribal custom."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "Tylor, E.B., on emotional cries, gestures, etc., of man; on the origin of the belief in spiritual agencies; remorse for violation of tribal usage in marrying; on the primitive barbarism of civilised nations; on the origin of counting; inventions of savages; on resemblances, of the mental characters in different races of man."
+      }
+    ]
+  },
+  "tribalisation": {
+    "definitions": [
+      {
+        "source": "wordnet_n",
+        "text": "the act of making tribal; unification on a tribal basis"
+      }
+    ],
+    "citations": []
+  },
+  "tribalism": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "text": "The state of existing in tribes; also, tribal feeling; tribal prejudice or exclusiveness; tribal peculiarities or characteristics."
+      },
+      {
+        "source": "wordnet_n",
+        "text": "the state of living together in tribes"
+      },
+      {
+        "source": "wordnet_n",
+        "text": "the beliefs of a tribal society"
+      }
+    ],
+    "citations": []
+  },
+  "tribalization": {
+    "definitions": [
+      {
+        "source": "wordnet_n",
+        "text": "the act of making tribal; unification on a tribal basis"
+      }
+    ],
+    "citations": []
+  },
+  "tribe": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "text": "1. A family, race, or series of generations, descending from the same progenitor, and kept distinct, as in the case of the twelve tribes of Israel, descended from the twelve sons of Jacob. \"The Lion of the tribe of Juda.\" Rev. v. 5. A wealthy Hebrew of my tribe. Shak. 2. (Bot.)  A number of species or genera having certain structural characteristics in common; as, a tribe of plants; a tribe of animals. Note: By many recent naturalists, tribe has been used for a group of animals or plants intermediate between order and genus.family is between order and genus. 3. A nation of savages or uncivilized people; a body of rude people united under one leader or government; as, the tribes of the Six Nations; the Seneca tribe. 4. A division, class, or distinct portion of a people, from whatever cause that distinction may have originated; as, the city of Athens was divided into ten tribes. 5. (Stock Breeding)  A family of animals descended from some particular female progenitor, through the female line; as, the Duchess tribe of shorthorns.\n\nTo distribute into tribes or classes. [R.] Our fowl, fish, and quadruped are well tribed. Abp. Nicolson."
+      },
+      {
+        "source": "wordnet_n",
+        "text": "a social division of (usually preliterate) people"
+      },
+      {
+        "source": "wordnet_n",
+        "text": "a federation (as of American Indians)"
+      },
+      {
+        "source": "wordnet_n",
+        "text": "(biology) a taxonomic category between a genus and a subfamily"
+      },
+      {
+        "source": "wordnet_n",
+        "text": "group of people related by blood or marriage"
+      }
+    ],
+    "citations": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "I would my son Were in Arabia and thy tribe before him, His good sword in his hand."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "O that I had him, With six Aufidiuses, or more, his tribe, To use my lawful sword."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Who, in the lusty stealth of nature, take More composition and fierce quality Than doth within a dull stale tired bed Go to the creating a whole tribe of fops Got ’tween asleep and wake?"
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Cursed be my tribe If I forgive him!"
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Tubal, a wealthy Hebrew of my tribe, Will furnish me."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Still have I borne it with a patient shrug, (For suff’rance is the badge of all our tribe.) You call me misbeliever, cut-throat dog, And spet upon my Jewish gaberdine, And all for use of that which is mine own."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Here comes another of the tribe; a third cannot be match’d, unless the devil himself turn Jew."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "If sanctimony and a frail vow betwixt an erring barbarian and a supersubtle Venetian be not too hard for my wits and all the tribe of hell, thou shalt enjoy her; therefore make money."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Good heaven, the souls of all my tribe defend From jealousy!"
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Then must you speak Of one that loved not wisely, but too well; Of one not easily jealous, but being wrought, Perplex’d in the extreme; of one whose hand, Like the base Judean, threw a pearl away Richer than all his tribe; of one whose subdu’d eyes, Albeit unused to the melting mood, Drop tears as fast as the Arabian trees Their medicinal gum."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "And she is an unimpeachable Christian, I am sure; perhaps of the very tribe, genus, and species you desire to propagate."
+      },
+      {
+        "author": "John Stuart Mill",
+        "work": "Utilitarianism",
+        "sentence": "The same superiority of intelligence, joined to the power of sympathizing with human beings generally, enables him to attach himself to the collective idea of his tribe, his country, or mankind, in such a manner that any act hurtful to them rouses his instinct of sympathy, and urges him to resistance."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "In the cat tribe, most of the species are striped or spotted in lines; and stripes can be plainly distinguished in the whelp of the lion."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "There is somewhat that resembles the ebb and flow of the sea, day and night, man and woman, in a single needle of the pine, in a kernel of corn, in each individual of every animal tribe."
+      },
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "The squirrel tribe tried the same and succeeded."
+      }
+    ]
+  },
+  "tribesman": {
+    "definitions": [
+      {
+        "source": "wordnet_n",
+        "text": "someone who lives in a tribe"
+      }
+    ],
+    "citations": []
+  },
+  "tribolium": {
+    "definitions": [
+      {
+        "source": "wordnet_n",
+        "text": "flour beetles"
+      }
+    ],
+    "citations": []
+  },
+  "tribologist": {
+    "definitions": [
+      {
+        "source": "wordnet_n",
+        "text": "a specialist in tribology"
+      }
+    ],
+    "citations": []
+  },
+  "tribology": {
+    "definitions": [
+      {
+        "source": "wordnet_n",
+        "text": "the branch of engineering that deals with the interaction of surfaces in relative motion (as in bearings or gears): their design and friction and wear and lubrication"
+      }
+    ],
+    "citations": []
+  },
+  "tribonema": {
+    "definitions": [
+      {
+        "source": "wordnet_n",
+        "text": "type genus of Tribonemaceae"
+      }
+    ],
+    "citations": []
+  },
+  "tribonemaceae": {
+    "definitions": [
+      {
+        "source": "wordnet_n",
+        "text": "simple filamentous freshwater yellow-green algae"
+      }
+    ],
+    "citations": []
+  },
+  "tribromoethanol": {
+    "definitions": [
+      {
+        "source": "wordnet_n",
+        "text": "an intravenous anesthetic"
+      }
+    ],
+    "citations": []
+  },
+  "tribromomethane": {
+    "definitions": [
+      {
+        "source": "wordnet_n",
+        "text": "colorless liquid haloform CHBr3"
+      }
+    ],
+    "citations": []
+  },
+  "tribulate": {
+    "definitions": [
+      {
+        "source": "wordnet_v",
+        "text": "oppress or trouble greatly"
+      }
+    ],
+    "citations": []
+  },
+  "tribulation": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "text": "That which occasions distress, trouble, or vexation; severe affliction. When tribulation or persecution ariseth because of the word, by and by he is offended. Matt. xiii. 21. In the world ye shall have tribulation. John. xvi. 33."
+      },
+      {
+        "source": "wordnet_n",
+        "text": "an annoying or frustrating or catastrophic event"
+      }
+    ],
+    "citations": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "These are the youths that thunder at a playhouse and fight for bitten apples, that no audience but the tribulation of Tower Hill or the limbs of Limehouse, their dear brothers, are able to endure."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "For a moment the voices cheered the heart of Tess, till she reasoned that this interview had its origin, on one side or the other, in the same attraction which had been the prelude to her own tribulation."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "That odd sort of wayward mood I am speaking of, comes over a man only in some time of extreme tribulation; it comes in the very midst of his earnestness, so that what just before might have seemed to him a thing most momentous, now seems but a part of the general joke."
+      },
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "4:30 When thou art in tribulation, and all these things are come upon thee, even in the latter days, if thou turn to the LORD thy God, and shalt be obedient unto his voice; 4:31 (For the LORD thy God is a merciful God;) he will not forsake thee, neither destroy thee, nor forget the covenant of thy fathers which he sware unto them."
+      },
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "10:14 Go and cry unto the gods which ye have chosen; let them deliver you in the time of your tribulation."
+      },
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "26:24 And, behold, as thy life was much set by this day in mine eyes, so let my life be much set by in the eyes of the LORD, and let him deliver me out of all tribulation."
+      },
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "13:20 But he that received the seed into stony places, the same is he that heareth the word, and anon with joy receiveth it; 13:21 Yet hath he not root in himself, but dureth for a while: for when tribulation or persecution ariseth because of the word, by and by he is offended."
+      },
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "24:19 And woe unto them that are with child, and to them that give suck in those days! 24:20 But pray ye that your flight be not in the winter, neither on the sabbath day: 24:21 For then shall be great tribulation, such as was not since the beginning of the world to this time, no, nor ever shall be."
+      },
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "13:24 But in those days, after that tribulation, the sun shall be darkened, and the moon shall not give her light, 13:25 And the stars of heaven shall fall, and the powers that are in heaven shall be shaken."
+      },
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "In the world ye shall have tribulation: but be of good cheer; I have overcome the world."
+      },
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "14:21 And when they had preached the gospel to that city, and had taught many, they returned again to Lystra, and to Iconium, and Antioch, 14:22 Confirming the souls of the disciples, and exhorting them to continue in the faith, and that we must through much tribulation enter into the kingdom of God."
+      },
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "5:3 And not only so, but we glory in tribulations also: knowing that tribulation worketh patience; 5:4 And patience, experience; and experience, hope: 5:5 And hope maketh not ashamed; because the love of God is shed abroad in our hearts by the Holy Ghost which is given unto us."
+      },
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "8:35 Who shall separate us from the love of Christ? shall tribulation, or distress, or persecution, or famine, or nakedness, or peril, or sword? 8:36 As it is written, For thy sake we are killed all the day long; we are accounted as sheep for the slaughter."
+      },
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "12:10 Be kindly affectioned one to another with brotherly love; in honour preferring one another; 12:11 Not slothful in business; fervent in spirit; serving the Lord; 12:12 Rejoicing in hope; patient in tribulation; continuing instant in prayer; 12:13 Distributing to the necessity of saints; given to hospitality."
+      },
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "1:3 Blessed be God, even the Father of our Lord Jesus Christ, the Father of mercies, and the God of all comfort; 1:4 Who comforteth us in all our tribulation, that we may be able to comfort them which are in any trouble, by the comfort wherewith we ourselves are comforted of God."
+      }
+    ]
+  },
+  "tribulus": {
+    "definitions": [
+      {
+        "source": "wordnet_n",
+        "text": "annual or perennial herbs or subshrubs of warm regions"
+      }
+    ],
+    "citations": []
+  },
+  "tribunal": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "text": "1. The seat of a judge; the bench on which a judge and his associates sit for administering justice. 2. Hence, a court or forum; as, the House of Lords, in England, is the highest tribunal in the kingdom."
+      },
+      {
+        "source": "wordnet_n",
+        "text": "an assembly (including one or more judges) to conduct judicial business"
+      }
+    ],
+    "citations": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Here’s the manner of ’t: I’ th’ market-place, on a tribunal silvered, Cleopatra and himself in chairs of gold Were publicly enthroned."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Why, I am going with my pigeons to the tribunal plebs, to take up a matter of brawl betwixt my uncle and one of the emperal’s men."
+      },
+      {
+        "author": "John Stuart Mill",
+        "work": "Utilitarianism",
+        "sentence": "And there needs be the less hesitation to accept this judgment respecting the quality of pleasures, since there is no other tribunal to be referred to even on the question of quantity."
+      },
+      {
+        "author": "John Stuart Mill",
+        "work": "Utilitarianism",
+        "sentence": "A tribunal, for example, must be impartial, because it is bound to award, without regard to any other consideration, a disputed object to the one of two parties who has the right to it."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "It was curious what an awful tribunal the mild Caleb’s was to her, whenever he set it up."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "The divine tribunal had changed its aspect for him; self-prostration was no longer enough, and he must bring restitution in his hand."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "The duteous merciful constancy of his wife had delivered him from one dread, but it could not hinder her presence from being still a tribunal before which he shrank from confession and desired advocacy."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "It could have betokened nothing short of the anticipated execution of some noted culprit, on whom the sentence of a legal tribunal had but confirmed the verdict of public sentiment."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "Continually, and in a thousand other ways, did she feel the innumerable throbs of anguish that had been so cunningly contrived for her by the undying, the ever-active sentence of the Puritan tribunal."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "A Tale of Two Cities",
+        "sentence": "The crime for which I am imprisoned, Monsieur heretofore the Marquis, and for which I shall be summoned before the tribunal, and shall lose my life (without your so generous help), is, they tell me, treason against the majesty of the people, in that I have acted against them for an emigrant."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "A Tale of Two Cities",
+        "sentence": "That, in the prison he had found a self-appointed Tribunal sitting, before which the prisoners were brought singly, and by which they were rapidly ordered to be put forth to be massacred, or to be released, or (in a few cases) to be sent back to their cells."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "A Tale of Two Cities",
+        "sentence": "That, presented by his conductors to this Tribunal, he had announced himself by name and profession as having been for eighteen years a secret and unaccused prisoner in the Bastille; that, one of the body so sitting in judgment had risen and identified him, and that this man was Defarge."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "A Tale of Two Cities",
+        "sentence": "That, hereupon he had ascertained, through the registers on the table, that his son-in-law was among the living prisoners, and had pleaded hard to the Tribunal--of whom some members were asleep and some awake, some dirty with murder and some clean, some sober and some not--for his life and liberty."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "A Tale of Two Cities",
+        "sentence": "I am well prepared, but there are precautions to be taken, that could not be taken until he was actually summoned before the Tribunal."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "A Tale of Two Cities",
+        "sentence": "The dread tribunal of five Judges, Public Prosecutor, and determined Jury, sat every day."
+      }
+    ]
+  },
+  "tribune": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "text": "1. (Rom. Antiq.)  An officer or magistrate chosen by the people, to protect them from the oppression of the patricians, or nobles, and to defend their liberties against any attempts that might be made upon them by the senate and consuls. Note: The tribunes were at first two, but their number was increased ultimately to ten. There were also military tribunes, officers of the army, of whom there were from four to six in each legion. Other officers were also called tribunes; as, tribunes of the treasury, etc. 2. Anciently, a bench or elevated place, from which speeches were delivered; in France, a kind of pulpit in the hall of the legislative assembly, where a member stands while making an address; any place occupied by a public orator."
+      },
+      {
+        "source": "wordnet_n",
+        "text": "(ancient Rome) an official elected by the plebeians to protect their interests"
+      },
+      {
+        "source": "wordnet_n",
+        "text": "the apse of a Christian church that contains the bishop's throne"
+      }
+    ],
+    "citations": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "MENENIUS AGRIPPA, Friend to Coriolanus COMINIUS, General against the Volscians TITUS LARTIUS, General against the Volscians SICINIUS VELUTUS, Tribune of the People JUNIUS BRUTUS, Tribune of the People A ROMAN HERALD"
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "By yond clouds, Let me deserve so ill as you, and make me Your fellow tribune."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "If you will pass To where you are bound, you must inquire your way, Which you are out of, with a gentler spirit, Or never be so noble as a consul, Nor yoke with him for tribune."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "The plebeians have got your fellow tribune And hale him up and down, all swearing if The Roman ladies bring not comfort home, They’ll give him death by inches."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "CASSIUS, ” ” ” CASCA, ” ” ” TREBONIUS, ” ” ” LIGARIUS,” ” ” DECIUS BRUTUS, ” ” ” METELLUS CIMBER, ” ” ” CINNA, ” ” ” FLAVIUS, tribune MARULLUS, tribune ARTEMIDORUS, a Sophist of Cnidos."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "TITUS ANDRONICUS, a noble Roman, General against the Goths MARCUS ANDRONICUS, Tribune of the People, and brother to Titus"
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "YOUNG LUCIUS, a boy, son to Lucius PUBLIUS, son to Marcus the Tribune"
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "How fair the tribune speaks to calm my thoughts!"
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Thanks, gentle tribune, noble brother Marcus."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Titus Andronicus, the people of Rome, Whose friend in justice thou hast ever been, Send thee by me, their tribune and their trust, This palliament of white and spotless hue, And name thee in election for the empire With these our late-deceased emperor’s sons."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Proud and ambitious tribune, canst thou tell?"
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "No, foolish tribune, no; no son of mine, Nor thou, nor these, confederates in the deed That hath dishonoured all our family."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "The tribune and his nephews kneel for grace; I will not be denied."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "My gracious lord, no tribune hears you speak."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "It did me good before the palace gate To brave the tribune in his brother’s hearing."
+      }
+    ]
+  },
+  "tribuneship": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "text": "The office or power of a tribune."
+      },
+      {
+        "source": "wordnet_n",
+        "text": "the position of tribune"
+      }
+    ],
+    "citations": []
+  },
+  "tributary": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "text": "1. Paying tribute to another, either from compulsion, as an acknowledgment of submission, or to secure protection, or for the purpose of purchasing peace. [Julius] unto Rome made them tributary. Chaucer. 2. Hence, subject; subordinate; inferior. He to grace his tributary gods. Milton. 3. Paid in tribute. \"Tributary tears.\" Shak. 4. Yielding supplies of any kind; serving to form or make up, a greater object of the same kind, as a part, branch, etc.; contributing; as, the Ohio has many tributary streams, and is itself tributary to the Mississippi.\n\n1. A ruler or state that pays tribute, or a stated sum, to a conquering power, for the purpose of securing peace and protection, or as an acknowledgment of submission, or for the purchase of security. 2. A stream or river flowing into a larger river or into a lake; an affluent."
+      },
+      {
+        "source": "wordnet_n",
+        "text": "a branch that flows into the main stream"
+      },
+      {
+        "source": "wordnet_s",
+        "text": "(of a stream) flowing into a larger stream"
+      },
+      {
+        "source": "wordnet_s",
+        "text": "paying tribute"
+      },
+      {
+        "source": "wordnet_s",
+        "text": "tending to bring about; being partly responsible for"
+      }
+    ],
+    "citations": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Th’ imperious seas breed monsters; for the dish, Poor tributary rivers as sweet fish."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Back, foolish tears, back to your native spring, Your tributary drops belong to woe, Which you mistaking offer up to joy."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Lo, at this tomb my tributary tears I render for my brethren’s obsequies; And at thy feet I kneel, with tears of joy Shed on this earth for thy return to Rome."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Besides, this sorrow is an enemy, And would usurp upon my watery eyes, And make them blind with tributary tears."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Alas! he naught esteems that face of thine, To which love’s eyes pay tributary gazes; 632 Nor thy soft hands, sweet lips, and crystal eyne, Whose full perfection all the world amazes; But having thee at vantage, wondrous dread!"
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Whereat each tributary subject quakes, As when the wind imprison’d in the ground, Struggling for passage, earth’s foundation shakes, Which with cold terror doth men’s minds confound."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "A tributary of the main stream flowed through the basin of the pool by an inlet and outlet at opposite points of its diameter."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "Thus, during this October month of wonderful afternoons they roved along the meads by creeping paths which followed the brinks of trickling tributary brooks, hopping across by little wooden bridges to the other side, and back again."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "She might be firm, but only by relationship, and in an inferior and tributary degree."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "I was still giddy with the shock of my mother’s death, and in a kind of stunned state as to all tributary things."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "Entering at the open door of one of these, and releasing my arm, she beckoned me to follow her up the common staircase, which was like a tributary channel to the street."
+      }
+    ]
+  },
+  "tribute": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "text": "1. An annual or stated sum of money or other valuable thing, paid by one ruler or nation to another, either as an acknowledgment of submission, or as the price of peace and protection, or by virtue of some treaty; as, the Romans made their conquered countries pay tribute. Millions for defense, but not one cent for tribute. C. C. Pinckney. 2. A personal contribution, as of money, praise, service, etc., made in token of services rendered, or as that which is due or deserved; as, a tribute of affection. Implores the passing tribute of a sigh. Gray. 3. (Mining)  A certain proportion of the ore raised, or of its value, given to the miner as his recompense. Pryce. Tomlinson. Tribute money, money paid as a tribute or tax. -- Tribute pitch. (Mining) See under Tributer. [Eng.] Syn. -- See Subsidy.\n\nTo pay as tribute. [R.] Whitlock (1654)."
+      },
+      {
+        "source": "wordnet_n",
+        "text": "something given or done as an expression of esteem"
+      },
+      {
+        "source": "wordnet_n",
+        "text": "payment by one nation for protection by another"
+      },
+      {
+        "source": "wordnet_n",
+        "text": "payment extorted by gangsters on threat of violence"
+      }
+    ],
+    "citations": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Caius Lucius Will do’s commission throughly; and I think He’ll grant the tribute, send th’ arrearages, Or look upon our Romans, whose remembrance Is yet fresh in their grief."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "I do believe Statist though I am none, nor like to be, That this will prove a war; and you shall hear The legions now in Gallia sooner landed In our not-fearing Britain than have tidings Of any penny tribute paid."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Come, there’s no more tribute to be paid."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "If Cæsar can hide the sun from us with a blanket, or put the moon in his pocket, we will pay him tribute for light; else, sir, no more tribute, pray you now."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "You must know, Till the injurious Romans did extort This tribute from us, we were free."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Thou com’st not, Caius, now for tribute; that The Britons have raz’d out, though with the loss Of many a bold one, whose kinsmen have made suit That their good souls may be appeas’d with slaughter Of you their captives, which ourself have granted; So think of your estate."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "And, Caius Lucius, Although the victor, we submit to Cæsar And to the Roman empire, promising To pay our wonted tribute, from the which We were dissuaded by our wicked queen, Whom heavens in justice, both on her and hers, Have laid most heavy hand."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "This same starved justice hath done nothing but prate to me of the wildness of his youth, and the feats he hath done about Turnbull Street, and every third word a lie, duer paid to the hearer than the Turk’s tribute."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "And, Charles, upon condition thou wilt swear To pay him tribute and submit thyself, Thou shalt be placed as viceroy under him, And still enjoy the regal dignity."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "The proudest peer in the realm shall not wear a head on his shoulders unless he pay me tribute; there shall not a maid be married but she shall pay to me her maidenhead ere they have it."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Needs must you lay your heart at his dispose, Subjected tribute to commanding love, Against whose fury and unmatched force The aweless lion could not wage the fight, Nor keep his princely heart from Richard’s hand."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Now he goes, With no less presence, but with much more love Than young Alcides when he did redeem The virgin tribute paid by howling Troy To the sea-monster: I stand for sacrifice; The rest aloof are the Dardanian wives, With bleared visages come forth to view The issue of th’ exploit."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Take some remembrance of us as a tribute, Not as fee."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Off goes his bonnet to an oyster-wench; A brace of draymen bid God speed him well, And had the tribute of his supple knee, With “Thanks, my countrymen, my loving friends”, As were our England in reversion his, And he our subjects’ next degree in hope."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Me, poor man, my library Was dukedom large enough: of temporal royalties He thinks me now incapable; confederates, So dry he was for sway, wi’ th’ King of Naples To give him annual tribute, do him homage, Subject his coronet to his crown, and bend The dukedom, yet unbow’d—alas, poor Milan!— To most ignoble stooping."
+      }
+    ]
+  },
+  "tributyrin": {
+    "definitions": [
+      {
+        "source": "wordnet_n",
+        "text": "a bitter oily triglyceride of butyric acid; a form of butyrin"
+      }
+    ],
+    "citations": []
+  },
+  "unattributable": {
+    "definitions": [
+      {
+        "source": "wordnet_a",
+        "text": "not attributable"
+      }
+    ],
+    "citations": []
+  },
+  "undistributed": {
+    "definitions": [
+      {
+        "source": "wordnet_s",
+        "text": "(of investments) not distributed among a variety of securities"
+      }
+    ],
+    "citations": []
+  }
+}

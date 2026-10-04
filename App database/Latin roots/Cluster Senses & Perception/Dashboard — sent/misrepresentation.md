@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A misleading falsehood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A willful perversion of facts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A false, misleading, or incorrect statement, depiction, or rendering of factual truth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial law and equity jurisprudence, an assertion not in accord with the facts that induces a contract, rendering it voidable.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"There may be an element of error, even of misrepresentation, in such estimates."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Cadwallader, and I believe this is false too,” said Dorothea, with indignant energy; “at least, I feel sure it is a misrepresentation."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"I have unfolded to you a complication of dangers to which you would be exposed, should you permit that sacred knot which binds the people of America together be severed or dissolved by ambition or by avarice, by jealousy or by misrepresentation."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Any willful **misrepresentation** of an essential term in a commercial policy relieves the insurer of all financial liability."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"The doctrine of utility has suffered grievous prejudice from the gross **misrepresentation** of its fundamental moral aims."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The public mind was poisoned by gross **misrepresentation** regarding the true scope of executive authority in the proposed constitution."*

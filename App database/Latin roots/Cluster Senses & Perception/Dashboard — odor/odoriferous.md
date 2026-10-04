@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Morally offensive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emitting an odor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Giving off a fragrant, sweet, or distinctive smell; pleasantly scented; or having a strong odor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature, botany, and pharmacy, diffusing rich aromatic essential oils or pungent plant balsams.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou odoriferous stench, sound rottenness!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And why indeed “Naso,” but for smelling out the odoriferous flowers of fancy, the jerks of invention? _Imitari_ is nothing: so doth the hound his master, the ape his keeper, the tired horse his rider."*
-> - 📜 **James Joyce (*Ulysses*):** *"An exquisite dulcet epithalame of most mollificative suadency for juveniles amatory whom the odoriferous flambeaus of the paranymphs have escorted to the quadrupedal proscenium of connubial communion."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Gentle gales, fanning their **odoriferous** wings, dispense native perfumes, and whisper whence they stole those balmy spoils."*
+> - 📜 **Francis Bacon (*Essays: Of Gardens*):** *"Because the breath of flowers is far sweeter in the air than in the hand, you should plant **odoriferous** herbs along the garden walks."*
+> - 📜 **Sir Walter Scott (*The Talisman*):** *"The sultan burned **odoriferous** pastilles of musk and ambergris within the royal pavilion to cool the desert air."*

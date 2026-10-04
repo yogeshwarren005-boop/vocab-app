@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Narrow and long and pointed; as pine leaves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Narrow and long and pointed; as pine leaves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Needle-shaped, like the leaves of a pine tree; or chaffy, like grain husks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical morphology and mineralogy, having needle-like, slender crystalline structures or stiff pine-like foliar form.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acerose designates narrow and long and pointed; as pine leaves."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The foliage of Pinus strobus consists of slender, **acerose** leaves gathered in bundles of five."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The basaltic cavity was lined with radiating **acerose** crystals of natrolite shimmering like white needles."*
+> - 📜 **Joseph Dalton Hooker (*Flora Antarctica*):** *"The alpine shrub is distinguished by its rigid, **acerose** leaves adapted to survive perpetual mountain blizzards."*

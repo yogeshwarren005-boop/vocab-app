@@ -1,0 +1,362 @@
+{
+  "Cluster Action": {
+    "index": 1,
+    "pass": true,
+    "total": 1262,
+    "problems": 0
+  },
+  "Cluster Action & State": {
+    "index": 2,
+    "pass": true,
+    "total": 1082,
+    "problems": 0
+  },
+  "Cluster Anatomy & Clinical Medicine": {
+    "index": 3,
+    "pass": false,
+    "total": 394,
+    "problems": 394
+  },
+  "Cluster Animal & Plant": {
+    "index": 4,
+    "pass": false,
+    "total": 514,
+    "problems": 514
+  },
+  "Cluster Animal Adjectives & Biological": {
+    "index": 5,
+    "pass": false,
+    "total": 254,
+    "problems": 254
+  },
+  "Cluster Asking & Seeking": {
+    "index": 6,
+    "pass": false,
+    "total": 389,
+    "problems": 389
+  },
+  "Cluster Binding": {
+    "index": 7,
+    "pass": false,
+    "total": 342,
+    "problems": 342
+  },
+  "Cluster Body": {
+    "index": 8,
+    "pass": false,
+    "total": 551,
+    "problems": 551
+  },
+  "Cluster Body & State": {
+    "index": 9,
+    "pass": true,
+    "total": 110,
+    "problems": 0
+  },
+  "Cluster Botany, Minerals & Elements": {
+    "index": 10,
+    "pass": false,
+    "total": 477,
+    "problems": 477
+  },
+  "Cluster Building & Dwelling": {
+    "index": 11,
+    "pass": true,
+    "total": 113,
+    "problems": 0
+  },
+  "Cluster Carrying": {
+    "index": 12,
+    "pass": true,
+    "total": 535,
+    "problems": 0
+  },
+  "Cluster Clothing & Covering": {
+    "index": 13,
+    "pass": true,
+    "total": 179,
+    "problems": 0
+  },
+  "Cluster Color & Appearance": {
+    "index": 14,
+    "pass": true,
+    "total": 154,
+    "problems": 0
+  },
+  "Cluster Death": {
+    "index": 15,
+    "pass": true,
+    "total": 176,
+    "problems": 0
+  },
+  "Cluster Destruction": {
+    "index": 16,
+    "pass": true,
+    "total": 171,
+    "problems": 0
+  },
+  "Cluster Emotion": {
+    "index": 17,
+    "pass": true,
+    "total": 677,
+    "problems": 0
+  },
+  "Cluster Equality": {
+    "index": 18,
+    "pass": true,
+    "total": 133,
+    "problems": 0
+  },
+  "Cluster Faith": {
+    "index": 19,
+    "pass": true,
+    "total": 92,
+    "problems": 0
+  },
+  "Cluster Fire, Heat & Ash": {
+    "index": 20,
+    "pass": false,
+    "total": 358,
+    "problems": 358
+  },
+  "Cluster Food, Eating & Drink": {
+    "index": 21,
+    "pass": false,
+    "total": 392,
+    "problems": 392
+  },
+  "Cluster General": {
+    "index": 22,
+    "pass": false,
+    "total": 292,
+    "problems": 292
+  },
+  "Cluster Giving & Receiving": {
+    "index": 23,
+    "pass": true,
+    "total": 88,
+    "problems": 0
+  },
+  "Cluster Good & Bad": {
+    "index": 24,
+    "pass": false,
+    "total": 654,
+    "problems": 654
+  },
+  "Cluster Greek-Latin Hybrid": {
+    "index": 25,
+    "pass": false,
+    "total": 820,
+    "problems": 820
+  },
+  "Cluster Holding": {
+    "index": 26,
+    "pass": false,
+    "total": 712,
+    "problems": 712
+  },
+  "Cluster Law": {
+    "index": 27,
+    "pass": false,
+    "total": 678,
+    "problems": 678
+  },
+  "Cluster Law, Justice & Feudal": {
+    "index": 28,
+    "pass": false,
+    "total": 360,
+    "problems": 360
+  },
+  "Cluster Life": {
+    "index": 29,
+    "pass": false,
+    "total": 876,
+    "problems": 876
+  },
+  "Cluster Light": {
+    "index": 30,
+    "pass": false,
+    "total": 217,
+    "problems": 68
+  },
+  "Cluster Mind & Knowledge": {
+    "index": 31,
+    "pass": true,
+    "total": 888,
+    "problems": 0
+  },
+  "Cluster Motion": {
+    "index": 32,
+    "pass": true,
+    "total": 1552,
+    "problems": 0
+  },
+  "Cluster Movement & Speed": {
+    "index": 33,
+    "pass": true,
+    "total": 685,
+    "problems": 0
+  },
+  "Cluster Nature": {
+    "index": 34,
+    "pass": false,
+    "total": 952,
+    "problems": 952
+  },
+  "Cluster Number & Measure": {
+    "index": 35,
+    "pass": false,
+    "total": 744,
+    "problems": 744
+  },
+  "Cluster Objects & Forms": {
+    "index": 36,
+    "pass": false,
+    "total": 298,
+    "problems": 298
+  },
+  "Cluster Order": {
+    "index": 37,
+    "pass": false,
+    "total": 542,
+    "problems": 541
+  },
+  "Cluster Placing": {
+    "index": 38,
+    "pass": false,
+    "total": 1093,
+    "problems": 1093
+  },
+  "Cluster Power": {
+    "index": 39,
+    "pass": false,
+    "total": 428,
+    "problems": 428
+  },
+  "Cluster Quantity": {
+    "index": 40,
+    "pass": false,
+    "total": 762,
+    "problems": 762
+  },
+  "Cluster Sacred": {
+    "index": 41,
+    "pass": false,
+    "total": 228,
+    "problems": 228
+  },
+  "Cluster Sending": {
+    "index": 42,
+    "pass": false,
+    "total": 762,
+    "problems": 762
+  },
+  "Cluster Senses & Perception": {
+    "index": 43,
+    "pass": false,
+    "total": 298,
+    "problems": 298
+  },
+  "Cluster Separation & Loosening": {
+    "index": 44,
+    "pass": false,
+    "total": 952,
+    "problems": 952
+  },
+  "Cluster Sight": {
+    "index": 45,
+    "pass": false,
+    "total": 424,
+    "problems": 424
+  },
+  "Cluster Sleep, Rest & Stillness": {
+    "index": 46,
+    "pass": true,
+    "total": 78,
+    "problems": 0
+  },
+  "Cluster Society": {
+    "index": 47,
+    "pass": false,
+    "total": 916,
+    "problems": 916
+  },
+  "Cluster Space & Environment": {
+    "index": 48,
+    "pass": false,
+    "total": 740,
+    "problems": 740
+  },
+  "Cluster Speech": {
+    "index": 49,
+    "pass": false,
+    "total": 363,
+    "problems": 363
+  },
+  "Cluster Speech & Communication": {
+    "index": 50,
+    "pass": false,
+    "total": 896,
+    "problems": 896
+  },
+  "Cluster Structure": {
+    "index": 51,
+    "pass": false,
+    "total": 718,
+    "problems": 718
+  },
+  "Cluster Thought": {
+    "index": 52,
+    "pass": true,
+    "total": 397,
+    "problems": 0
+  },
+  "Cluster Time": {
+    "index": 53,
+    "pass": false,
+    "total": 381,
+    "problems": 381
+  },
+  "Cluster Touch": {
+    "index": 54,
+    "pass": true,
+    "total": 110,
+    "problems": 0
+  },
+  "Cluster Truth, Deception & Error": {
+    "index": 55,
+    "pass": false,
+    "total": 577,
+    "problems": 577
+  },
+  "Cluster Turning": {
+    "index": 56,
+    "pass": false,
+    "total": 592,
+    "problems": 592
+  },
+  "Cluster Virtue": {
+    "index": 57,
+    "pass": false,
+    "total": 333,
+    "problems": 333
+  },
+  "Cluster War": {
+    "index": 58,
+    "pass": false,
+    "total": 262,
+    "problems": 262
+  },
+  "Cluster Weight": {
+    "index": 59,
+    "pass": false,
+    "total": 294,
+    "problems": 294
+  },
+  "Cluster Writing": {
+    "index": 60,
+    "pass": false,
+    "total": 294,
+    "problems": 294
+  }
+}

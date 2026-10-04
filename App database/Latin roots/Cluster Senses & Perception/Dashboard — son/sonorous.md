@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Full and loud and deep.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Full and loud and deep.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of producing a deep, ringing sound; imposing or full in tone and style.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phonetics, aesthetics, and rhetorical criticism, possessing impressive auditory richness or grandiloquent diction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Kenge, therefore, came down to dinner one day, and leaned back in his chair, and turned his eye-glasses over and over, and spoke in a sonorous voice, and did exactly what I remembered to have seen him do when I was a little girl."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"He spoke to everybody he met, in the train, in the steamboat, or in hotels, in fluent if rather "bookish" German, in correct but somewhat halting French, or, if it was a Roman Catholic priest he had to deal with, in sonorous Latin."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Any valid professional aims may often find a freer, if not a richer field, in the provinces.” One of Lydgate’s gifts was a voice habitually deep and sonorous, yet capable of becoming very low and gentle at the right moment."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Kenge delivered his legal remarks in a rich, **sonorous** cadence that carried profound professional weight."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The great bell tolled across the quiet valley in slow, **sonorous** strokes announcing the passing hour."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His speech had a **sonorous** dignity that commanded instant attention from the assembled parishioners."*

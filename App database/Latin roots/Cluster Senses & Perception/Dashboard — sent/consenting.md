@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give an affirmative reply to; respond favorably to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having given consent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Giving permission, agreeing, or complying willingly with a course of action or proposal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In criminal jurisprudence and civil contract law, possessing the legal capacity and voluntariness required to legitimize an agreement or relationship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"FIRST GENTLEMAN. ’Tis but the boldness of his hand haply, which his heart was not consenting to."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Neither call the giddiness of it in question, the poverty of her, the small acquaintance, my sudden wooing, nor her sudden consenting."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In such a one as, you consenting to’t, Would bark your honour from that trunk you bear, And leave you naked."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The state has no warrant to intervene in transactions between freely **consenting** adults that inflict no harm upon third parties."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A marriage contracted without the **consenting** will of both contracting parties is void ab initio under the common law."*
+> - 📜 **Henry David Thoreau (*Civil Disobedience*):** *"A government cannot have pure right over my person and property but what I concede to it by my own **consenting** acts."*

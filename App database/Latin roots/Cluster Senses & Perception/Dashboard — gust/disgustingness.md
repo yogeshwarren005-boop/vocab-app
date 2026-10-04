@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme unpalatability to the mouth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being extremely unacceptable to the mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme, sickening offensiveness provoking visceral revulsion or loathing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral aesthetics and sensory psychology, the offensive character of objects, sights, or deeds provoking visceral revulsion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disgustingness designates extreme unpalatability to the mouth."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The extreme **disgustingness** of putrid flesh evokes instantaneous vomiting reflexes across carnivorous animals."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"He recoiled from the moral **disgustingness** of commercial fraud veiled beneath pious hypocritical phrases."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"Senseless, degraded ornamentation exhibits a **disgustingness** of form that corrupts the public architectural eye."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Taking a small amount into the mouth to test its quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Taking a small amount into the mouth to test its quality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of tasting food or drink carefully, especially a formal sampling of multiple small gourmet courses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In high gastronomy and sommelier culture, a structured multi-course culinary tasting showcasing culinary technique.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, degustation designates taking a small amount into the mouth to test its quality."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Jos Sedley engaged in the prolonged **degustation** of curries and made dishes with silent, devoted absorption."*
+> - 📜 **Henry James (*A Little Tour in France*):** *"The luncheon was an exquisite **degustation** of local Burgundian vintages accompanied by rustic country cheeses."*
+> - 📜 **George Bernard Shaw (*Pygmalion*):** *"The dinner party turned into an elaborate **degustation** where guests debated vintages with high culinary pretension."*

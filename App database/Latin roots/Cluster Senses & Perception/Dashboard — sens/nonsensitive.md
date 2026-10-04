@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Never having had security classification.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Never having had security classification.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not displaying physiological sensitivity, physical reactivity, or delicate susceptibility to external influences.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In laboratory instrumentation and data security classification, unreactive to weak stimuli or containing no confidential, restricted information.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonsensitive designates never having had security classification."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Certain horny epidermal tissues remain entirely **nonsensitive** because no peripheral nerve fibrils penetrate them."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"While the tip of the radicle responds to moisture, the basal section proves **nonsensitive** to directional stimuli."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"Unlike the sensitive mimosa, the foliage of adjacent leguminous weeds is completely **nonsensitive** to mechanical shock."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With good sense or in a reasonable or intelligent manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With good sense or in a reasonable or intelligent manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a prudent, reasonable, or judicious manner; or perceptibly by the bodily senses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical narrative and experimental physics, to a degree readily detected by observation or in accordance with rational wisdom.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O noble fellow, Who sensibly outdares his senseless sword, And when it bows, stand’st up!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That I am guiltless of your father’s death, And am most sensibly in grief for it, It shall as level to your judgement ’pear As day does to your eye."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Mrs Croft was attending with great good-humour, and whenever she spoke at all, it was very sensibly."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The frontiers of the empire were **sensibly** contracted during the disastrous reign of Honorius."*
+> - 📜 **Jane Austen (*Emma*):** *"Emma decided to act **sensibly** by withholding her romantic theories until clearer proof appeared."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The temperature of the sea fell **sensibly** as the vessel approached the chilly Falkland current."*

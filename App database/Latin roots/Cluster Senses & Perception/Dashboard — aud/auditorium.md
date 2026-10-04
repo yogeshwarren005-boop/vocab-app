@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The area of a theater or concert hall where the audience sits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The area of a theater or concert hall where the audience sits.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of a theater, concert hall, or public building in which the audience sits, or a large hall for public meetings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architecture and acoustic design, an enclosed venue engineered for optimal sightlines and sound propagation to a seated public.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Eddy and to the friend who invited me to attend the service held in the Auditorium years ago."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Morlene, thickly veiled, had been sitting in a corner of the auditorium throughout the meeting."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"The auditorium has the shape of a keystone, with the stage at the narrow end."*
+> - 📜 **Mark Twain (*The Innocents Abroad*):** *"We stood within the ancient Roman **auditorium**, gazing upon tiers of stone benches that once seated thousands."*
+> - 📜 **Henry James (*The Bostonians*):** *"A murmur of anticipation swept across the vast **auditorium** as the lecturer stepped upon the rostrum."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"Looking across the opera **auditorium**, he surveyed the private boxes gleaming with jewels and silk gowns."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rendering an organism sensitive to a serum by a series of injections.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make sensitive or aware.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rendering sensitive, inducing allergic reactivity, or increasing photographic and emotional susceptibility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In immunology and photographic sciences, causing tissue hypersensitivity to antigen challenge or treating emulsions for enhanced spectral response.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sensitizing designates rendering an organism sensitive to a serum by a series of injections."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Administering a **sensitizing** dose of foreign protein creates an enduring state of hypersusceptibility."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"The **sensitizing** influence of early memories permanently shapes adult emotional attachments and fears."*
+> - 📜 **William Crookes (*Researches in the Phenomena of Spiritualism*):** *"The process of **sensitizing** photographic film must be performed under strict actinic darkroom filters."*

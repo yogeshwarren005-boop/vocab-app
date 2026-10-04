@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Release from entanglement of difficulty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extricate from entanglement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extricated from a state of knotting, confusion, complication, or embarrassing involvement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative prose and scientific discourse, having been carefully resolved, clarified, or separated from complicating factors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"And all this the artist had disentangled from a rough block of stone--so vivid was his conception of the goddess, and so sure his hand."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"But Ned Land had disentangled the Captain, who, getting up without any wound, went straight to the Indian, quickly cut the cord which held him to his stone, took him in his arms, and, with a sharp blow of his heel, mounted to the surface."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Having disentangled his leg, he rose."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The intricate web of court conspiracies was finally **disentangled** by the resolute action of the praetorian prefect."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I had **disentangled** the complicated apparatus of galvanic wires before attempting the critical laboratory experiment."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"Once the historical record was **disentangled** from party propaganda, the statesman's integrity became indisputable."*

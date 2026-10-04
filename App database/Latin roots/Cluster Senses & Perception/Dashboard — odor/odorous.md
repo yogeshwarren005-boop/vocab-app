@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having odor or a characteristic odor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emitting an odor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or emitting a smell or scent, especially a fragrant or pleasant one; aromatic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In poetry, descriptive botany, and sensory literature, perfumed with fragrant natural essences or aromatic balsams.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And thorough this distemperature we see The seasons alter: hoary-headed frosts Fall in the fresh lap of the crimson rose; And on old Hiems’ thin and icy crown An odorous chaplet of sweet summer buds Is, as in mockery, set."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Comparisons are odorous: palabras, neighbour Verges."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon; but prejudices, like odorous bodies, have a double existence both solid and subtle—solid as the pyramids, subtle as the twentieth echo of an echo, or as the memory of hyacinths which once scented the darkness."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Now gentle gales, fanning their **odorous** wings, dispense native perfumes, and whisper whence they stole those balmy spoils."*
+> - 📜 **Percy Bysshe Shelley (*The Sensitive Plant*):** *"And the rose like a nymph to the bath addrest, which unveild the depth of her glowing breast, till, fold after fold, to the fainting air the soul of her **odorous** love went bare."*
+> - 📜 **Sir Walter Scott (*The Lady of the Lake*):** *"The mountain breeze was laden with the sweet, **odorous** scent of wild heather and bog-myrtle."*

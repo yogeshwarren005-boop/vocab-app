@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an audible manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an audible manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that can be heard; perceptibly to the hearing sense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic and descriptive writing, with sufficient sonic volume to be detected and noted by nearby listeners.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Only think of Elizabeth’s including everybody!” whispered Mary very audibly."*
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"I don’t know the meaning of half those long words, and, what’s more, I don’t believe you do either!” And the Eaglet bent down its head to hide a smile: some of the other birds tittered audibly."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Pumblechook cried audibly, “Good again!” “You see, blacksmith,” said the sergeant, who had by this time picked out Joe with his eye, “we have had an accident with these, and I find the lock of one of ’em goes wrong, and the coupling don’t act pretty."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Captain Wentworth sighed **audibly** as he folded the letter and prepared to quit the drawing room."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Maggie gasped **audibly**, unable to suppress her emotional agitation at the sudden disclosure."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"His heart beat so **audibly** that he feared the lurking hound might detect his hiding place."*

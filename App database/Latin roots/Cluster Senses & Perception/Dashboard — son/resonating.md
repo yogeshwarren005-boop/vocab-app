@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sound with resonance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be received or understood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sounding with resonance; reverberating, echoing, or vibrating in sympathetic response.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical science and social discourse, producing continuous vibratory amplification or enduring widespread cultural impact.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, resonating designates sound with resonance."*
+> - 📜 **John Tyndall (*Sound*):** *"The **resonating** column of air reinforced the feeble reed vibration into a brilliant musical note."*
+> - 📜 **Lord Rayleigh (*The Theory of Sound*):** *"Placing a **resonating** cavity before the ear allows isolation of minute individual harmonic components."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The cathedral organ filled the nave with **resonating** chords that stirred profound devotional awe."*

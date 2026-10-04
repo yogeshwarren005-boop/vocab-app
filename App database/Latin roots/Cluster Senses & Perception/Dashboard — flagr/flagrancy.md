@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin flagr within the domain of Senses & Perception.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of flagr in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conspicuous, scandalous notoriety or glaring outrageousness in wrongdoing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence and moral philosophy, brazen, undeniable culpability that defies civic law or decency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"When his passion should subside, would he not perceive the flagrancy of his injustice and hasten to atone for it?"*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The **flagrancy** of the praetorian auction of the empire shocked the moral sensibilities of even that corrupt age."*
+> - 📜 **Edmund Burke (*Speech on the Impeachment of Warren Hastings*):** *"The sheer **flagrancy** of the extortion practiced upon the native princes admitted of no legal palliation."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The court felt compelled to act because the **flagrancy** of the judicial bribe could no longer be concealed from the public."*

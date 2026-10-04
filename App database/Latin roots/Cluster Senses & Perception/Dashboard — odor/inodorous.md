@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no odor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no odor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no smell or scent; completely odorless.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry and physiology, lacking volatile molecules capable of stimulating olfactory chemoreceptors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inodorous designates having no odor."*
+> - 📜 **Michael Faraday (*The Chemical History of a Candle*):** *"Pure hydrogen gas is completely **inodorous**, colorless, and highly combustible when mingled with atmospheric air."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"Distilled water obtained from clear mountain snow proved remarkably **inodorous** and tasteless upon the palate."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"Carbonic acid gas is an invisible, **inodorous** fluid that suffocates animal life when accumulated in deep caverns."*

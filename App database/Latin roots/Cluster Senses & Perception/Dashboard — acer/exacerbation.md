@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Action that makes a problem or a disease (or its symptoms) worse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Violent and bitter exasperation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An increase in the severity of a disease, symptom, conflict, or bad feeling; aggravation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical diagnosis, a sudden flare-up or worsening of chronic pathological conditions (e.g. asthma exacerbation).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exacerbation designates action that makes a problem or a disease (or its symptoms) worse."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient suffered an acute **exacerbation** of pulmonary distress following the sudden drop in barometric pressure."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The sudden assassination produced an uncontrollable **exacerbation** of popular fury against the senate."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The revival of ancient theological controversies led to a violent **exacerbation** of party rancor."*

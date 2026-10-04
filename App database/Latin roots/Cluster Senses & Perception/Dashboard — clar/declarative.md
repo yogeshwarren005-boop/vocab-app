@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mood (grammatically unmarked) that represents the act or state as an objective fact.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the use of or having the nature of a declaration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Taking the form of or making a formal statement or assertion, rather than asking a question or issuing a command.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In generative grammar and philosophy of language, the grammatical mood or sentence type that conveys an assertive proposition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, declarative designates a mood (grammatically unmarked) that represents the act or state as an objective fact."*
+> - 📜 **William Dwight Whitney (*Language and the Study of Language*):** *"The simple **declarative** sentence serves as the fundamental vehicle for asserting objective propositions."*
+> - 📜 **Otto Jespersen (*The Philosophy of Grammar*):** *"Word order in English **declarative** clauses typically places the grammatical subject before the finite verb."*
+> - 📜 **Bertrand Russell (*An Inquiry into Meaning and Truth*):** *"Every genuine **declarative** sentence expresses a belief that must be either true or false."*

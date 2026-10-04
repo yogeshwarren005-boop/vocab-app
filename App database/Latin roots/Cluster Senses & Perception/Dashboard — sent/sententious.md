@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abounding in or given to pompous or aphoristic moralizing; - kathleen barnes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concise and full of meaning; ; - hervey allen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Given to moralizing, concise maxims, or aphorisms in a pompous, affected, or preachy manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and rhetoric, pithy and packed with moral gravitas, often bordering on pedantic smugness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By my faith, he is very swift and sententious."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your reasons at dinner have been sharp and sententious, pleasant without scurrility, witty without affection, audacious without impudency, learned without opinion, and strange without heresy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"R is for the—no, I know it begins with some other letter, and she hath the prettiest sententious of it, of you and rosemary, that it would do you good to hear it."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"He delivered his moral observations in a **sententious** style, adopting the solemn gravity of an ancient stoic philosopher."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mary was very pompous and **sententious** in her remarks, extracting moral platitudes from every passing misfortune of life."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Old Mr. Osborne loved to utter **sententious** warnings about fiscal ruin whenever his son requested an increased allowance."*

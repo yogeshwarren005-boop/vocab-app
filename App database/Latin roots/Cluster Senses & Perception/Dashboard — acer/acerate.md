@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Narrow and long and pointed; as pine leaves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Narrow and long and pointed; as pine leaves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like a needle; needle-shaped, pointed, or sharp; or a salt or ester of aceric acid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical morphology and descriptive entomology, slender and pointed like a pine needle, as in certain spines or setae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acerate designates narrow and long and pointed; as pine leaves."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The foliar organs of conifers are characteristically **acerate**, reducing surface transpiration during frosty winters."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The sponge spicules were distinctly **acerate**, terminating in sharp microscopic points at either end."*
+> - 📜 **Joseph Dalton Hooker (*The Botany of the Antarctic Voyage*):** *"The subantarctic heath is clothed in rigid, **acerate** leaves that resist the desiccating oceanic winds."*

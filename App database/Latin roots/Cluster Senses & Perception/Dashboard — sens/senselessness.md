@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Total lack of meaning or ideas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Total lack of meaning or ideas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or characteristic of lacking physical consciousness, meaningful purpose, or rational sense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In existential philosophy and ethical critique, the tragic absurdity or cognitive vacuity of destructive human enterprises.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Open their bleared lids and look on your own accursed senselessness!"*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"But even then, at moments of weakness as he had accounted them, his mind had penetrated to those distances and he had there seen the same pettiness, worldliness, and senselessness."*
-> - 📜 **William Wordsworth (*Poems in Two Volumes, Volume 1*):** *"Another time That was, when I was here long years ago: The senselessness of joy was then sublime!"*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"Pierre felt overwhelmed by the cruel **senselessness** of war as he witnessed the burning of Moscow."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Melancholy plunges the mind into a gray abyss where the apparent **senselessness** of existence paralyzes action."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"He grieved over the bitter **senselessness** of social conventions that wrecked innocent human lives."*

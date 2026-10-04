@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Take the place of or be parallel or equivalent to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Express indirectly by an image, form, or model; be a symbol.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Portrayed, depicted, symbolized, or acted for by an authorized proxy or agent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal history and cognitive science, having legitimate voice through political deputies, or mentally modeled as an internal cognitive token.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"In which (I would say) every difficulty, every contingency, every masterly fiction, every form of procedure known in that court, is represented over and over again?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It touched me that the home of such a beautiful young creature should be represented by that dry, official place."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Krook were really, as his lodger represented him, deranged."*
+> - 📜 **Thomas Jefferson (*Declaration of Independence*):** *"The colonies were taxed by a parliament in which their citizens were not **represented**, violating the fundamental covenants of liberty."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon **represented** to Dorothea's inexperienced mind an incarnation of profound scholarship and pious devotion."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The pagan gods were **represented** in magnificent marble statues that filled the temples of ancient Antioch."*

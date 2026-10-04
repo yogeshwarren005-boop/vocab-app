@@ -1,0 +1,929 @@
+{
+  "venerator": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "One who venerates. Jer. Taylor"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "someone who regards with deep respect or reverence"
+      }
+    ],
+    "quotes": []
+  },
+  "venereal": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. Of or pertaining to venery, or sexual love; relating to sexual intercourse. Into the snare I fell Of fair, fallacious looks, venereal trains, Softened with pleasure and voluptuous life. Milton. 2. (Med.) (a) Arising from sexual intercourse; as, a venereal disease; venereal virus or poison. (b) Adapted to the cure of venereal diseases; as, venereal medicines. 3. Adapted to excite venereal desire; aphrodisiac. 4. Consisting of, or pertaining to, copper, formerly called by chemists Venus. [Obs.] Boyle.\n\nThe venereal disease; syphilis."
+      },
+      {
+        "source": "wordnet_a",
+        "def": "of or relating to the external sex organs"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "No, madam, these are no venereal signs."
+      },
+      {
+        "author": "Walt Whitman",
+        "work": "Leaves of Grass",
+        "sentence": "He traveling with me needs the best blood, thews, endurance, None may come to the trial till he or she bring courage and health, Come not here if you have already spent the best of yourself, Only those may come who come in sweet and determin'd bodies, No diseas'd person, no rum-drinker or venereal taint is permitted here."
+      },
+      {
+        "author": "Walt Whitman",
+        "work": "Leaves of Grass",
+        "sentence": "Not one word or deed, not venereal sore, discoloration, privacy of the onanist, Putridity of gluttons or rum-drinkers, peculation, cunning, betrayal, murder, seduction, prostitution, But has results beyond death as really as before death."
+      }
+    ]
+  },
+  "veneridae": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "hard-shell clams"
+      }
+    ],
+    "quotes": []
+  },
+  "venesect": {
+    "defs": [
+      {
+        "source": "wordnet_v",
+        "def": "practice venesection"
+      }
+    ],
+    "quotes": []
+  },
+  "venesection": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "The act or operation of opening a vein for letting blood; bloodletting; phlebotomy."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "surgical incision into a vein; used to treat hemochromatosis"
+      }
+    ],
+    "quotes": []
+  },
+  "venetia": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "a region of northeastern Italy on the Adriatic"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Ah, good old Mantuan, I may speak of thee as the traveller doth of Venice: _Venetia, Venetia, Chi non ti vede, non ti pretia._ Old Mantuan, old Mantuan!"
+      }
+    ]
+  },
+  "venetian": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Of or pertaining to Venice in Italy. Venetian blind, a blind for windows, doors, etc., made of thin slats, either fixed at a certain angle in the shutter, or movable, and in the latter case so disposed as to overlap each other when close, and to show a series of open spaces for the admission of air and light when in other positions. -- Venetian carpet, an inexpensive carpet, used for passages and stairs, having a woolen warp which conceals the weft; the pattern is therefore commonly made up of simple stripes. -- Venetian chalk, a white compact or steatite, used for marking on cloth, etc. -- Venetian door (Arch.), a door having long, narrow windows or panes of glass on the sides. -- Venetian glass, a kind of glass made by the Venetians, for decorative purposes, by the combination of pieces of glass of different colors fused together and wrought into various ornamental patterns. -- Venetian red, a brownish red color, prepared from sulphate of iron; -- called also scarlet ocher. -- Venetian soap. See Castile soap, under Soap. -- Venetian sumac (Bot.), a South European tree (Rhus Cotinus) which yields the yellow dyewood called fustet; -- also called smoke tree. -- Venetian window (Arch.), a window consisting of a main window with an arched head, having on each side a long and narrow window with a square head.\n\nA native or inhabitant of Venice."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a resident of Venice"
+      },
+      {
+        "source": "wordnet_a",
+        "def": "of or relating to or characteristic of Venice or its people"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Do you not remember, lady, in your father’s time, a Venetian, a scholar and a soldier, that came hither in company of the Marquis of Montferrat?"
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Madam, there is alighted at your gate A young Venetian, one that comes before To signify th’ approaching of his lord, From whom he bringeth sensible regreets; To wit (besides commends and courteous breath) Gifts of rich value; yet I have not seen So likely an ambassador of love."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "What, and my old Venetian friend, Salerio!"
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Of a strange nature is the suit you follow, Yet in such rule that the Venetian law Cannot impugn you as you do proceed. [_To Antonio_.] You stand within his danger, do you not?"
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Thou hast the right arched beauty of the brow that becomes the ship-tire, the tire-valiant, or any tire of Venetian admittance."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "DUKE OF VENICE BRABANTIO, a Senator of Venice and Desdemona’s father Other Senators GRATIANO, Brother to Brabantio LODOVICO, Kinsman to Brabantio OTHELLO, a noble Moor in the service of Venice CASSIO, his Lieutenant IAGO, his Ancient MONTANO, Othello’s predecessor in the government of Cyprus RODERIGO, a Venetian Gentleman CLOWN, Servant to Othello"
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "If sanctimony and a frail vow betwixt an erring barbarian and a supersubtle Venetian be not too hard for my wits and all the tribe of hell, thou shalt enjoy her; therefore make money."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Cassio, my lord, hath kill’d a young Venetian Call’d Roderigo."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "You shall close prisoner rest, Till that the nature of your fault be known To the Venetian state."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "And say besides, that in Aleppo once, Where a malignant and a turban’d Turk Beat a Venetian and traduc’d the state, I took by the throat the circumcised dog, And smote him, thus."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "In a book, called \"the Golden Book,\" were recorded the names of all the children of Venetian noblemen.]"
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "The Venetian Merchant in Shakespeare's play, _The Merchant of Venice_.]"
+      },
+      {
+        "author": "Oscar Wilde",
+        "work": "The Picture of Dorian Gray",
+        "sentence": "In the huge gilt Venetian lantern, spoil of some Doge’s barge, that hung from the ceiling of the great, oak-panelled hall of entrance, lights were still burning from three flickering jets: thin blue petals of flame they seemed, rimmed with white fire."
+      },
+      {
+        "author": "Oscar Wilde",
+        "work": "The Picture of Dorian Gray",
+        "sentence": "My dear Basil, how do I know?” murmured Dorian Gray, sipping some pale-yellow wine from a delicate, gold-beaded bubble of Venetian glass and looking dreadfully bored."
+      },
+      {
+        "author": "Oscar Wilde",
+        "work": "The Picture of Dorian Gray",
+        "sentence": "His eye fell on a large, purple satin coverlet heavily embroidered with gold, a splendid piece of late seventeenth-century Venetian work that his grandfather had found in a convent near Bologna."
+      }
+    ]
+  },
+  "veneto": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "a region of northeastern Italy on the Adriatic"
+      }
+    ],
+    "quotes": []
+  },
+  "venezia-euganea": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "a region of northeastern Italy on the Adriatic"
+      }
+    ],
+    "quotes": []
+  },
+  "venezia": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "the provincial capital of Veneto; built on 118 islands within a lagoon in the Gulf of Venice; has canals instead of streets; one of Italy's major ports and a famous tourist attraction"
+      }
+    ],
+    "quotes": []
+  },
+  "venezuela": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "a republic in northern South America on the Caribbean; achieved independence from Spain in 1811; rich in oil"
+      }
+    ],
+    "quotes": []
+  },
+  "venezuelan": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "a native or inhabitant of Venezuela"
+      },
+      {
+        "source": "wordnet_a",
+        "def": "of or relating to or characteristic of Venezuela or its people"
+      }
+    ],
+    "quotes": []
+  },
+  "venial": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. Capable of being forgiven; not heinous; excusable; pardonable; as, a venial fault or transgression. So they do nothing, 't is a venial slip. Shak. 2. Allowed; permitted. [Obs.] \"Permitting him the while venial discourse unblamed.\" Milton. Venial sin (R. C. Theol.), a sin which weakens, but does not wholly destroy, sanctifying grace, as do mortal, or deadly, sins. -- Ve\"ni*al*ly, adv. -- Ve\"ni*al*ness, n. Bp. Hall."
+      },
+      {
+        "source": "wordnet_s",
+        "def": "warranting only temporal punishment"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "easily excused or forgiven"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "So they do nothing, ’tis a venial slip."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "This is a lover’s most stoical virtue, as the lack of it is a lover’s most venial sin."
+      },
+      {
+        "author": "John Stuart Mill",
+        "work": "Utilitarianism",
+        "sentence": "Davis, by an oversight too common not to be quite venial, has in this case confounded the very different ideas of Motive and Intention."
+      },
+      {
+        "author": "James Joyce",
+        "work": "Dubliners",
+        "sentence": "Sometimes he had amused himself by putting difficult questions to me, asking me what one should do in certain circumstances or whether such and such sins were mortal or venial or only imperfections."
+      },
+      {
+        "author": "Thomas Henry Huxley",
+        "work": "Evolution and Ethics",
+        "sentence": "Witness, at his foot The spaniel dying for some venial fault, Under dissection of the knotted scourge; Witness the patient ox, with stripes and yells Driven to the slaughter, goaded as he runs To madness, while the savage at his heels Laughs at the frantic sufferer's fury spent Upon the guiltless passenger o'erthrown."
+      },
+      {
+        "author": "John Milton",
+        "work": "Paradise Lost",
+        "sentence": "Book IX No more of talk where God or Angel guest With Man, as with his friend, familiar us'd, To sit indulgent, and with him partake Rural repast; permitting him the while Venial discourse unblam'd."
+      }
+    ]
+  },
+  "venice": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "the provincial capital of Veneto; built on 118 islands within a lagoon in the Gulf of Venice; has canals instead of streets; one of Italy's major ports and a famous tourist attraction"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Ah, good old Mantuan, I may speak of thee as the traveller doth of Venice: _Venetia, Venetia, Chi non ti vede, non ti pretia._ Old Mantuan, old Mantuan!"
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Magnificoes of Venice, Officers of the Court of Justice, a Gaoler, Servants and other Attendants"
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "SCENE: Partly at Venice, and partly at Belmont, the seat of Portia on the Continent"
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Gratiano speaks an infinite deal of nothing, more than any man in all Venice."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Thou know’st that all my fortunes are at sea; Neither have I money nor commodity To raise a present sum, therefore go forth Try what my credit can in Venice do; That shall be rack’d even to the uttermost, To furnish thee to Belmont to fair Portia."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "I hate him for he is a Christian, But more for that in low simplicity He lends out money gratis, and brings down The rate of usance here with us in Venice."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Why, all the boys in Venice follow him, Crying, his stones, his daughter, and his ducats."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "There came divers of Antonio’s creditors in my company to Venice that swear he cannot choose but break."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "I will have the heart of him if he forfeit, for were he out of Venice I can make what merchandise I will."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "First go with me to church and call me wife, And then away to Venice to your friend."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "The Duke cannot deny the course of law, For the commodity that strangers have With us in Venice, if it be denied, ’Twill much impeach the justice of the state, Since that the trade and profit of the city Consisteth of all nations."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Take this same letter, And use thou all th’ endeavour of a man In speed to Padua, see thou render this Into my cousin’s hands, Doctor Bellario; And look what notes and garments he doth give thee, Bring them, I pray thee, with imagin’d speed Unto the traject, to the common ferry Which trades to Venice."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "There is no force in the decrees of Venice."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "I have spoke thus much To mitigate the justice of thy plea, Which if thou follow, this strict court of Venice Must needs give sentence ’gainst the merchant there."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "It must not be, there is no power in Venice Can alter a decree established; ’Twill be recorded for a precedent, And many an error by the same example Will rush into the state."
+      }
+    ]
+  },
+  "venipuncture": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "(medicine) puncture of a vein through the skin in order to withdraw blood for analysis or to start an intravenous drip or to inject medication or a radiopaque dye"
+      }
+    ],
+    "quotes": []
+  },
+  "venire": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "(law) a group of people summoned for jury service (from whom a jury will be chosen)"
+      }
+    ],
+    "quotes": []
+  },
+  "venison": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. Beasts of the chase. [Obs.] Fabyan. 2. Formerly, the flesh of any of the edible beasts of the chase, also of game birds; now, the flesh of animals of the deer kind exclusively."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "meat from a deer used as food"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Come, shall we go and kill us venison?"
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "He that strikes The venison first shall be the lord o’ th’ feast; To him the other two shall minister; And we will fear no poison, which attends In place of greater state."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "What thing is’t that I never Did see man die! scarce ever look’d on blood But that of coward hares, hot goats, and venison!"
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "I thank you for my venison, Master Shallow."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "I wished your venison better; it was ill killed."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Come, we have a hot venison pasty to dinner."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "Was it that houses and lands, offices, wine, horses, dress, luxury, are had by unprincipled men, whilst the saints are poor and despised; and that a compensation is to be made to these last hereafter, by giving them the like gratifications another day,--bank stock and doubloons,[96] venison and champagne?"
+      },
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "Once or twice, however, while I lived at the pond, I found myself ranging the woods, like a half-starved hound, with a strange abandonment, seeking some kind of venison which I might devour, and no morsel could have been too savage for me."
+      },
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "I took a step, and lo, away it scud with an elastic spring over the snow crust, straightening its body and its limbs into graceful length, and soon put the forest between me and itself,—the wild free venison, asserting its vigor and the dignity of Nature."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "It tasted something as I should conceive a royal cutlet from the thigh of Louis le Gros might have tasted, supposing him to have been killed the first day after the venison season, and that particular venison season contemporary with an unusually fine vintage of the vineyards of Champagne."
+      },
+      {
+        "author": "Thomas Henry Huxley",
+        "work": "Evolution and Ethics",
+        "sentence": "Whoso seeks an audit here Propitious, pays his tribute, game or fish, Wildfowl or venison, and his errand speeds."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "When I had none, I used to look at a venison shop in Fleet Street; or I have strolled, at such a time, as far as Covent Garden Market, and stared at the pineapples."
+      },
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "25:28 And Isaac loved Esau, because he did eat of his venison: but Rebekah loved Jacob."
+      },
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "27:2 And he said, Behold now, I am old, I know not the day of my death: 27:3 Now therefore take, I pray thee, thy weapons, thy quiver and thy bow, and go out to the field, and take me some venison; 27:4 And make me savoury meat, such as I love, and bring it to me, that I may eat; that my soul may bless thee before I die."
+      },
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "And Esau went to the field to hunt for venison, and to bring it."
+      }
+    ]
+  },
+  "venn": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "English logician who introduced Venn diagrams (1834-1923)"
+      }
+    ],
+    "quotes": []
+  },
+  "venogram": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "an X ray of a vein injected with a radiopaque contrast medium"
+      }
+    ],
+    "quotes": []
+  },
+  "venography": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "roentgenographic examination of veins"
+      }
+    ],
+    "quotes": []
+  },
+  "venom": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. Matter fatal or injurious to life; poison; particularly, the poisonous, the poisonous matter which certain animals, such as serpents, scorpions, bees, etc., secrete in a state of health, and communicate by thing or stinging. Or hurtful worm with cankered venom bites. Milton. 2. Spite; malice; malignity; evil quality. Chaucer. \"The venom of such looks.\" Shak. Syn. -- Venom; virus; bane. See Poison.\n\nTo infect with venom; to envenom; to poison. [R.] \"Venomed vengeance.\" Shak."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "toxin secreted by animals; secreted by certain snakes and poisonous insects (e.g., spiders and scorpions)"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "feeling a need to see others suffer"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "The venom clamours of a jealous woman Poisons more deadly than a mad dog’s tooth."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "A clout upon that head Where late the diadem stood, and for a robe, About her lank and all o’erteemed loins, A blanket, in th’alarm of fear caught up— Who this had seen, with tongue in venom steep’d, ’Gainst Fortune’s state would treason have pronounc’d."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "When in your motion you are hot and dry, As make your bouts more violent to that end, And that he calls for drink, I’ll have prepar’d him A chalice for the nonce; whereon but sipping, If he by chance escape your venom’d stuck, Our purpose may hold there."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Learn this, Thomas, And thou shalt prove a shelter to thy friends, A hoop of gold to bind thy brothers in, That the united vessel of their blood, Mingled with venom of suggestion— As, force perforce, the age will pour it in— Shall never leak, though it do work as strong As aconitum or rash gunpowder."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "The venom of such looks, we fairly hope, Have lost their quality; and that this day Shall change all griefs and quarrels into love."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "But thou art neither like thy sire nor dam, But like a foul misshapen stigmatic, Marked by the Destinies to be avoided, As venom toads or lizards’ dreadful stings."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "This butcher’s cur is venom-mouthed, and I Have not the power to muzzle him; therefore best Not wake him in his slumber."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "By the gods, You shall digest the venom of your spleen, Though it do split you; for, from this day forth, I’ll use you for my mirth, yea, for my laughter, When you are waspish."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "There the grown serpent lies; the worm that’s fled Hath nature that in time will venom breed, No teeth for th’ present.—Get thee gone; tomorrow We’ll hear, ourselves, again."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Round about the cauldron go; In the poison’d entrails throw.— Toad, that under cold stone Days and nights has thirty-one Swelter’d venom sleeping got, Boil thou first i’ th’ charmed pot!"
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "No, it is stopped with other flattering sounds, As praises, of whose state the wise are fond; Lascivious metres, to whose venom sound The open ear of youth doth always listen; Report of fashions in proud Italy, Whose manners still our tardy-apish nation Limps after in base imitation."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Now for our Irish wars: We must supplant those rough rug-headed kerns, Which live like venom where no venom else But only they have privilege to live."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Feed not thy sovereign’s foe, my gentle earth, Nor with thy sweets comfort his ravenous sense, But let thy spiders, that suck up thy venom, And heavy-gaited toads lie in their way, Doing annoyance to the treacherous feet Which with usurping steps do trample thee."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Look when he fawns, he bites; and when he bites, His venom tooth will rankle to the death."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Anointed let me be with deadly venom, And die ere men can say “God save the Queen."
+      }
+    ]
+  },
+  "venomed": {
+    "defs": [
+      {
+        "source": "wordnet_s",
+        "def": "full of malice or hate"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "I am disgraced, impeached, and baffled here, Pierced to the soul with slander’s venomed spear, The which no balm can cure but his heart-blood Which breathed this poison."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "More direful hap betide that hated wretch That makes us wretched by the death of thee Than I can wish to adders, spiders, toads, Or any creeping venomed thing that lives."
+      }
+    ]
+  },
+  "venomous": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. Full of venom; noxious to animal life; poisonous; as, the bite of a serpent may be venomous. 2. (Zoöl.)  Having a poison gland or glands for the secretion of venom, as certain serpents and insects. 3. Noxious; mischievous; malignant; spiteful; as, a venomous progeny; a venomous writer. Venomous snake (Zoöl.), any serpent which has poison glands and fangs, whether dangerous to man or not. These serpents constitute two tribes, the viperine serpents, or Solenoglypha, and the cobralike serpents, or Proteroglypha. The former have perforated, erectile fangs situated in the front part of the upper jaw, and are without ordinary teeth behind the fangs; the latter have permanently erect and grooved fangs, with ordinary maxillary teeth behind them. -- Ven\"om*ous*ly, adv. -- Ven\"om*ous*ness, n."
+      },
+      {
+        "source": "wordnet_s",
+        "def": "extremely poisonous or injurious; producing venom"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "marked by deep ill will; deliberately harmful"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Poor venomous fool, Be angry and dispatch."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "These are counsellors That feelingly persuade me what I am.” Sweet are the uses of adversity, Which, like the toad, ugly and venomous, Wears yet a precious jewel in his head; And this our life, exempt from public haunt, Finds tongues in trees, books in the running brooks, Sermons in stones, and good in everything."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "I’ll do well yet.—Thou old and true Menenius, Thy tears are salter than a younger man’s And venomous to thine eyes.—My sometime general, I have seen thee stern, and thou hast oft beheld Heart-hard’ning spectacles."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Some devil whisper curses in my ear, And prompt me that my tongue may utter forth The venomous malice of my swelling heart!"
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Beshrew the witch! with venomous wights she stays As tediously as hell, but flies the grasps of love With wings more momentary-swift than thought."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "I struck him down with no more compunction than if he had been some foul and venomous beast."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "One of these, Elaps, is venomous; a second and widely-distinct genus is doubtfully venomous, and the two others are quite harmless."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "The cause, however, of the bright colours of the venomous Elaps remains to be explained, and this may perhaps be sexual selection."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "Lastly, the adult male ornithorhynchus is provided with a remarkable apparatus, namely a spur on the foreleg, closely resembling the poison-fang of a venomous snake; but according to Harting, the secretion from the gland is not poisonous; and on the leg of the female there is a hollow, apparently for the reception of the spur. (7."
+      },
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "28:4 And when the barbarians saw the venomous beast hang on his hand, they said among themselves, No doubt this man is a murderer, whom, though he hath escaped the sea, yet vengeance suffereth not to live."
+      }
+    ]
+  },
+  "venomously": {
+    "defs": [
+      {
+        "source": "wordnet_r",
+        "def": "in a very malevolent manner"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "His own unkindness, That stripp’d her from his benediction, turn’d her To foreign casualties, gave her dear rights To his dog-hearted daughters, these things sting His mind so venomously that burning shame Detains him from Cordelia."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Thou stormest venomously; Wilt thou spit all thyself?"
+      }
+    ]
+  },
+  "venose": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Having numerous or conspicuous veins; veiny; as, a venose frond."
+      },
+      {
+        "source": "wordnet_s",
+        "def": "having or showing markings that resemble veins"
+      }
+    ],
+    "quotes": []
+  },
+  "venous": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. (Anat.)  Of or pertaining to a vein or veins; as, the venous circulation of the blood. 2. Contained in the veins, or having the same qualities as if contained in the veins, that is, having a dark bluish color and containing an insufficient amount of oxygen so as no longer to be fit for oxygenating the tissues; -- said of the blood, and opposed to arterial. 3. Marked with veins; veined; as, a venous leaf. Venous leaf (Bot.), a leaf having vessels branching, or variously divided, over its surface. -- Venous hum (Med.), a humming sound, or bruit, heard during auscultation of the veins of the neck in anæmia. -- Venous pulse (Physiol.), the pulse, or rhythmic contraction, sometimes seen in a vein, as in the neck, when there is an obstruction to the passage of blood from the auricles to the ventricles, or when there is an abnormal rigidity in the walls of the greater vessels. There is normally no pulse in a vein."
+      },
+      {
+        "source": "wordnet_a",
+        "def": "of or contained in or performing the function of the veins"
+      }
+    ],
+    "quotes": []
+  },
+  "vent-hole": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "a hole for the escape of gas or air"
+      }
+    ],
+    "quotes": []
+  },
+  "venthole": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "A touchhole; a vent."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a hole for the escape of gas or air"
+      }
+    ],
+    "quotes": []
+  },
+  "venue": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. (Law)  A neighborhood or near place; the place or county in which anything is alleged to have happened; also, the place where an action is laid. The twelve men who are to try the cause must be of the same venue where the demand is made. Blackstone. Note: In certain cases, the court has power to change the venue, which is to direct the trial to be had in a different county from that where the venue is laid. 2. A bout; a hit; a turn. See Venew. [R.] To lay a venue (Law), to allege a place."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the scene of any event or action (especially the place of a meeting)"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "in law: the jurisdiction where a trial will be held"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Now, by the salt wave of the Mediterraneum, a sweet touch, a quick venue of wit!"
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "--Elle a raison, s'écria Édouard, comment cette idée ne nous est-elle pas venue?"
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "--Cette pensée-là ne t'est pas venue depuis bien longtemps."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "La fortune est venue chercher le Capitaine ici, aussi avons-nous pu le voir partir sans regret et même avec joie."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "Dans cette conviction, il pria son ami de l'avertir de sa réussite à l'instant même par un signal convenu, tel qu'un coup de canon, s'il faisait encore jour, ou quelques fusées si la nuit était déjà venue."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "La nuit était venue et le plus morne silence régnait chez Ottilie."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "L'homme se trouve jeté au milieu de tant d'effets, qu'il ne peut s'empêcher d'en demander la cause; la première venue lui étant la plus commode, il la croit la meilleure et s'en contente."
+      }
+    ]
+  },
+  "venula": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "a minute vein continuous with a capillary"
+      }
+    ],
+    "quotes": []
+  },
+  "venule": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "A small vein; a veinlet; specifically (Zoöl.), one of the small branches of the veins of the wings in insects."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a minute vein continuous with a capillary"
+      }
+    ],
+    "quotes": []
+  },
+  "venus": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. (Class. Myth.)  The goddess of beauty and love, that is, beauty or love deified. 2. (Anat.)  One of the planets, the second in order from the sun, its orbit lying between that of Mercury and that of the Earth, at a mean distance from the sun of about 67,000,000 miles. Its diameter is 7,700 miles, and its sidereal period 224.7 days. As the morning star, it was called by the ancients Lucifer; as the evening star, Hesperus. 3. (Alchem.)  The metal copper; -- probably so designated from the ancient use of the metal in making mirrors, a mirror being still the astronomical symbol of the planet Venus. [Archaic] 4. (Zoöl.)  Any one of numerous species of marine bivalve shells of the genus Venus or family Veneridæ. Many of these shells are large, and ornamented with beautiful frills; others are smooth, glossy, and handsomely colored. Some of the larger species, as the round clam, or quahog, are valued for food. Venus's basin (Bot.), the wild teasel; - - so called because the connate leaf bases form a kind of receptacle for water, which was formerly gathered for use in the toilet. Also called Venus's bath. -- Venus's basket (Zoöl.), an elegant, cornucopia-shaped, hexactinellid sponge (Euplectella speciosa) native of the East Indies. It consists of glassy, transparent, siliceous fibers interwoven and soldered together so as to form a firm network, and has long, slender, divergent anchoring fibers at the base by means of which it stands erect in the soft mud at the bottom of the sea. Called also Venus's flower basket, and Venus's purse. -- Venus's comb. (a) (Bot.) Same as Lady's comb. (b) (Zoöl.) A species of Murex (M. tenuispinus). It has a long, tubular canal, with a row of long, slender spines along both of its borders, and rows of similar spines covering the body of the shell. Called also Venus's shell. -- Venus's fan (Zoöl.), a common reticulated, fanshaped gorgonia (Gorgonia flabellum) native of Florida and the West Indies. When fresh the color is purple or yellow, or a mixture of the two. -- Venus's flytrap. (Bot.) See Flytrap, 2. -- Venus's girdle (Zoöl.), a long, flat, ribbonlike, very delicate, transparent and iridescent ctenophore (Cestum Veneris) which swims in the open sea. Its form is due to the enormous development of two spheromeres. See Illust. in Appendix. -- Venus's hair (Bot.), a delicate and graceful fern (Adiantum Capillus-Veneris) having a slender, black and shining stem and branches. -- Venus's hair stone (Min.), quartz penetrated by acicular crystals of rutile. -- Venus's looking-glass (Bot.), an annual plant of the genus Specularia allied to the bellflower; -- also called lady's looking- glass. -- Venus's navelwort (Bot.), any one of several species of Omphalodes, low boraginaceous herbs with small blue or white flowers. -- Venus's pride (Bot.), an old name for Quaker ladies. See under Quaker. -- Venus's purse. (Zoöl.) Same as Venus's basket, above. -- Venus's shell. (Zoöl.) (a) Any species of Cypræa; a cowrie. (b) Same as Venus's comb, above. (c) Same as Venus, 4. -- Venus's slipper. (a) (Bot.) Any plant of the genus Cypripedium. See Lady's slipper. (b) (Zoöl.) Any heteropod shell of the genus Carinaria. See Carinaria."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the second nearest planet to the sun; it is peculiar in that its rotation is slow and retrograde (in the opposite sense of the Earth and all other planets except Uranus); it is visible from Earth as an early `morning star' or an `evening star'"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "goddess of love; counterpart of Greek Aphrodite"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "type genus of the family Veneridae: genus of edible clams with thick oval shells"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Yet have I fierce affections, and think What Venus did with Mars."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "For her own person, It beggared all description: she did lie In her pavilion, cloth-of-gold of tissue, O’erpicturing that Venus where we see The fancy outwork nature."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "No, that same wicked bastard of Venus, that was begot of thought, conceived of spleen, and born of madness, that blind rascally boy that abuses everyone’s eyes because his own are out, let him be judge how deep I am in love."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Saturn and Venus this year in conjunction!"
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Bright star of Venus, fall’n down on the earth, How may I reverently worship thee enough?"
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Then was Venus like her mother; for her father is but grim."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "O ten times faster Venus’ pigeons fly To seal love’s bonds new-made than they are wont To keep obliged faith unforfeited!"
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Yet you, the murderer, look as bright, as clear, As yonder Venus in her glimmering sphere."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "When his love he doth espy, Let her shine as gloriously As the Venus of the sky.— When thou wak’st, if she be by, Beg of her for remedy."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "I will write against it: You seem to me as Dian in her orb, As chaste as is the bud ere it be blown; But you are more intemperate in your blood Than Venus, or those pamper’d animals That rage in savage sensuality."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Appear thou in the likeness of a sigh, Speak but one rhyme, and I am satisfied; Cry but ‘Ah me!’ Pronounce but Love and dove; Speak to my gossip Venus one fair word, One nickname for her purblind son and heir, Young Abraham Cupid, he that shot so trim When King Cophetua lov’d the beggar-maid."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Immoderately she weeps for Tybalt’s death, And therefore have I little talk’d of love; For Venus smiles not in a house of tears."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Tell me, heavenly bow, If Venus or her son, as thou dost know, Do now attend the queen?"
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Madam, though Venus govern your desires, Saturn is dominator over mine."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Marry, sir, at the request of Paris my lord, who is there in person; with him the mortal Venus, the heart-blood of beauty, love’s invisible soul—"
+      }
+    ]
+  },
+  "venushair": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "delicate maidenhair fern with slender shining black leaf stalks; cosmopolitan"
+      }
+    ],
+    "quotes": []
+  }
+}

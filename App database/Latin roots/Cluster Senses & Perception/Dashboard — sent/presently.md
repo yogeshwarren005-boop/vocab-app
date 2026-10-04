@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In the near future.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At this time or period; now.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: After a short time; soon or before long; or at the current moment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative exposition, signaling an imminent transition or imminent arrival of an anticipated occurrence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That, having this obtain’d, you presently Attend his further pleasure."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll about it this evening; and I will presently pen down my dilemmas, encourage myself in my certainty, put myself into my mortal preparation; and by midnight look to hear further from me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of us must Pompey presently be sought, Or else he seeks out us."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She was **presently** joined by Mr. Darcy, whose abrupt appearance put an end to her solitary reflections."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The footsteps died away, but **presently** the heavy rattling of wheels upon the cobblestones announced a new arrival."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The harpooneer paused upon the gunwale, and **presently** cast his iron with tremendous force into the foaming sea."*

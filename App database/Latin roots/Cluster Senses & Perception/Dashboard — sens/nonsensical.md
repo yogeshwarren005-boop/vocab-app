@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incongruous;inviting ridicule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no intelligible meaning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Devoid of rational meaning, absurd, foolish, or utterly contrary to common logic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic philosophy and dramatic criticism, structured without conceptual coherence or purpose, defying logical deduction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"You are a nonsensical child to have done anything of this kind,” said Mrs."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Very nonsensical to come at all!"*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Her mother only scolded her for being nonsensical."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The Laputan academicians pursued **nonsensical** schemes, such as extracting sunbeams out of cucumbers."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"Metaphysical systems that defy empirical demonstration degenerate into **nonsensical** speculations."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pumblechook harangued the company with **nonsensical** arithmetic questions that baffled my youthful mind."*

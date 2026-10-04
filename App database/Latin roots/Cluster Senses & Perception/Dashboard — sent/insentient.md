@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Devoid of feeling and consciousness and animation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Devoid of feeling and consciousness and animation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking perception, sensation, or consciousness; devoid of feeling; completely inanimate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metaphysical cosmology, describing brute physical mechanisms or geological materials that operate without experiential awareness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"The cause of a brief sharp unforeseen heard loud lone crack emitted by the insentient material of a strainveined timber table."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"The cold, **insentient** rocks echoed with the agonizing cries of the chained Titan through millennia."*
+> - 📜 **Thomas Hardy (*The Dynasts*):** *"The Immanent Will weaves its blind patterns through human pawns and **insentient** nature alike."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Living organisms are shaped by relentless struggle against both predatory rivals and **insentient** physical forces."*

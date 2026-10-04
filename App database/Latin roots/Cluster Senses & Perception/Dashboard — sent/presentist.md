@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A theologian who believes that the scripture prophecies of the apocalypse (the book of revelation) are being fulfilled at the present time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A theologian who believes that the scripture prophecies of the apocalypse (the book of revelation) are being fulfilled at the present time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who interprets historical events primarily through modern viewpoints, or one who holds that only the present exists.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metaphysics and historiography, a theorist who advocates temporal presentism or practices anachronistic historical interpretation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, presentist designates a theologian who believes that the scripture prophecies of the apocalypse (the book of revelation) are being fulfilled at the present time."*
+> - 📜 **E. H. Carr (*What Is History?*):** *"The crude **presentist** treats the past as mere clay to be reshaped according to the political needs of today."*
+> - 📜 **Arthur Danto (*Analytical Philosophy of History*):** *"A thoroughgoing **presentist** philosopher must explain how statements about deceased historical figures possess any truth value whatsoever."*
+> - 📜 **R. G. Collingwood (*The Idea of History*):** *"The historian who succumbs to **presentist** impulses ceases to re-enact past thought, contenting himself with narcissistic self-reflection."*

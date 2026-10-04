@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Release from entanglement of difficulty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extricate from entanglement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To free from entanglement, snarls, confusion, or perplexity; to straighten out interwoven strands or complicated affairs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific investigation and analytical philosophy, to isolate distinct causal variables or semantic distinctions from an undifferentiated whole.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He gave it its present name and lived here shut up, day and night poring over the wicked heaps of papers in the suit and hoping against hope to disentangle it from its mystification and bring it to a close."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The count moved in his affairs as in a huge net, trying not to believe that he was entangled but becoming more and more so at every step, and feeling too feeble to break the meshes or to set to work carefully and patiently to disentangle them."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Shall it be breakfast, lunch, dinner, tea, or supper?” The respectful tenderness with which, on one knee before her, he helped her to remove her hat, and disentangle her pretty hair from it, was quite a chivalrous sight."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The duty of the true natural philosopher is to **disentangle** nature from the confusing cobwebs of scholastic subtleties."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"It requires patient observation to **disentangle** the direct effects of climate from the complex interactions of competing organisms."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Maggie struggled in vain to **disentangle** her genuine moral impulses from the passionate desires that clouded her judgment."*

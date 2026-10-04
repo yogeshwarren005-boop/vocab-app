@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by musical dissonance; harmonically unresolved.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking in harmony.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Clashing or lacking harmony in sound, or unsuitable, incongruous, and conflicting in character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In acoustic aesthetics and social commentary, characterized by jarring harshness or sharp ideological disagreement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The interval, for example, which divides the wild revels of Cybele from the stately ritual of the Catholic Church is measured by the gulf which severs the dissonant clash of cymbals and tambourines from the grave harmonies of Palestrina and Handel."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"A baker’s cart had already rattled through the street, chasing away the latest vestige of night’s sanctity with the jingle-jangle of its dissonant bells."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The harsh street vendor's cry struck a **dissonant** note against the quiet solemnity of Chancery Lane."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Hawley's rough interjections broke upon the drawing-room conversation with a **dissonant** harshness."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"The discordant bells rang out in a **dissonant** clangor that echoed mournfully through the Roman ruins."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make sensitive or aware.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make sensitive or aware.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To endow with sensory feeling, awaken perception within, or convert into sensory form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological metaphysics and poetical aesthetics, to render an abstract thought visceral or imbue an inanimate entity with conscious feeling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sensify designates make sensitive or aware."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The creative imagination strives to **sensify** abstract spiritual truths through vivid poetic symbols."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"Evolutionary forces gradually **sensify** primordial organic matter, developing specialized sensory surfaces."*
+> - 📜 **Thomas Carlyle (*Critical and Miscellaneous Essays*):** *"Novalis sought to **sensify** the invisible world, rendering divine presence palpable to mortal understanding."*

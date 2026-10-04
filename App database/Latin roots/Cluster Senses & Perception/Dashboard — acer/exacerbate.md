@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make worse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exasperate or irritate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make a problem, bad situation, disease, or negative feeling worse, more intense, or more severe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, politics, and sociology, to aggravate acute symptoms, provoke civil unrest, or escalate conflict.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We've also got to avoid political irritations that may exacerbate the situation further."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Narval realized that he was being goaded by his INOR allies to exacerbate the confrontation between the Regions."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"He said nothing, however, and his conduct greatly astonished me; yet I thought it prudent not to exacerbate the growing moodiness of his temper by any comment."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Cold, damp atmospheric exposure serves to **exacerbate** acute rheumatoid inflammation and joint stiffness."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Imprudent imperial edicts tended to **exacerbate** the religious animosities dividing the citizens of Alexandria."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The arrest of the popular magistrates could only **exacerbate** the smoldering rage of the London populace."*

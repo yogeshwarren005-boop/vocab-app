@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a sentence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a sentence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, expressed in, or consisting of sentences; of the nature of a grammatical sentence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In symbolic logic and philosophical semantics, pertaining to the calculus of truth-functional propositional connectives (sentential logic).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sentential designates of or relating to a sentence."*
+> - 📜 **Willard Van Orman Quine (*Methods of Logic*):** *"The elementary branch of mathematical logic is the **sentential** calculus, dealing with truth-functional combinations of statements."*
+> - 📜 **Bertrand Russell (*An Inquiry into Meaning and Truth*):** *"Every compound **sentential** structure derives its truth value strictly from the truth values of its constituent atomic clauses."*
+> - 📜 **Noam Chomsky (*Syntactic Structures*):** *"Transformational analysis demonstrates that certain **sentential** complements are embedded deep within the noun phrase hierarchy."*

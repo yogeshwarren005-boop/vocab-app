@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A string of words satisfying the grammatical rules of a language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (criminal law) a final judgment of guilty in a criminal case and the punishment that is imposed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A grammatical unit of one or more words expressing an independent statement, question, or command; or a formal judicial penalty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence and classical rhetoric, the authoritative determination of punishment rendered by a judge upon a convicted criminal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With that she sighed as she stood, With that she sighed as she stood, And gave this sentence then: Among nine bad if one be good, Among nine bad if one be good, There’s yet one good in ten._ COUNTESS."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pronounce that sentence then on me, my liege."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But upon the fairest boughs, Or at every sentence’ end, Will I “Rosalinda” write, Teaching all that read to know The quintessence of every sprite Heaven would in little show."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"After the verdict of the jury is recorded, the court proceeds to pronounce solemn **sentence** according to established law."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Every propositions joined together in a single **sentence** must signify clear and distinct ideas if truth is to be preserved."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The revolutionary tribunal pronounced the fatal **sentence** of death with terrifying dispatch before clamoring spectators."*

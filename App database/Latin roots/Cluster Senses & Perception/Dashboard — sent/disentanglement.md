@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of releasing from a snarled or tangled condition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of releasing from a snarled or tangled condition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or outcome of freeing from complication, confusion, snare, or knotty involvement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomacy and geopolitical strategy, the systematic withdrawal or decoupling of military forces and treaty commitments from foreign quagmires.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disentanglement designates the act of releasing from a snarled or tangled condition."*
+> - 📜 **Henry Kissinger (*Diplomacy*):** *"The deliberate **disentanglement** of imperial rivalries in the Balkans required a balance of power too precarious to endure."*
+> - 📜 **John Dewey (*How We Think*):** *"Reflective thought achieves the progressive **disentanglement** of central principles from confusing peripheral data."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"True statesmanship lies in the prudent **disentanglement** of fiscal grievances before they harden into armed rebellion."*

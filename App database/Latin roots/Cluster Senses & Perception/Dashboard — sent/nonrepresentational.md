@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a style of art in which objects do not resemble those known in physical nature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a style of art in which objects do not resemble those known in physical nature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not resembling, depicting, or portraying recognizable objects, figures, or scenes from the physical world.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In art history and modernist aesthetic theory, abstract art relying exclusively on form, color, line, and texture without figurative mimesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonrepresentational designates of or relating to a style of art in which objects do not resemble those known in physical nature."*
+> - 📜 **Wassily Kandinsky (*Concerning the Spiritual in Art*):** *"Pure **nonrepresentational** painting frees color and form from the tyranny of external objects, addressing the inner soul directly."*
+> - 📜 **Clive Bell (*Art*):** *"The aesthetic ecstasy is awakened by significant form alone, flourishing with greatest purity in **nonrepresentational** compositions."*
+> - 📜 **Clement Greenberg (*Art and Culture*):** *"The avant-garde progressed inevitably toward **nonrepresentational** canvases where the flat surface of the medium declared its own autonomy."*

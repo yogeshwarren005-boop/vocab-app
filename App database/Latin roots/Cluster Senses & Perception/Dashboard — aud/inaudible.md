@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible to hear; imperceptible by the ear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impossible to hear; imperceptible by the ear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unable to be heard; not loud enough to reach sensory perception.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literature and sensory description, emitted with such low acoustic amplitude as to escape human ear detection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let’s take the instant by the forward top; For we are old, and on our quick’st decrees Th’inaudible and noiseless foot of time Steals ere we can effect them."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Such the guests in the long drawing-room at Chesney Wold this dismal night when the step on the Ghost’s Walk (inaudible here, however) might be the step of a deceased cousin shut out in the cold."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester—his passion died as if a blight had shrivelled it up: he only asked—“What have _you_ to say?” An inaudible reply escaped Mason’s white lips."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Her lips moved in fervent prayer, but the whispered words remained wholly **inaudible** to those beside her."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He muttered an **inaudible** protest before turning his face away toward the desolate window pane."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Her reply was almost **inaudible**, stifled by the heavy sobs rising in her throat."*

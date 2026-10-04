@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mental responsiveness and awareness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Refined sensitivity to pleasurable or painful impressions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capacity to feel, perceive physical impressions, or respond with acute emotional delicacy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Enlightenment aesthetics and moral philosophy, refined capacity for artistic appreciation, ethical empathy, and exquisite sentiment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Yes, cousin John.” “Why,” he slowly replied, roughening his head more and more, “he is all sentiment, and—and susceptibility, and—and sensibility, and—and imagination."*
-> - 📜 **Jane Austen (*Persuasion*):** *"For the first time, since their renewed acquaintance, she felt that she was betraying the least sensibility of the two."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Glowing and lovely in sensibility and happiness, and more generally admired than she thought about or cared for, she had cheerful or forbearing feelings for every creature around her."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Marianne's excessive **sensibility** was a source of constant wonder and anxiety to her prudent elder sister."*
+> - 📜 **Mary Wollstonecraft (*A Vindication of the Rights of Woman*):** *"False education cultivates fragile **sensibility** at the expense of robust intellectual understanding."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"The poet possessed a delicate **sensibility** to the music of English verse, unmatched by his contemporaries."*

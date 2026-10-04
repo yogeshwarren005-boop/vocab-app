@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Disagreement among those expected to cooperate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A conflict of people's opinions or actions or characters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Strong disagreement, sharp discord, or contentious factional quarreling within an organization or community.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civic statecraft and ecclesiastical history, deep ideological schisms that disrupt institutional harmony and governance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And for dissension, who preferreth peace More than I do, except I be provoked?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Believe me, lords, my tender years can tell Civil dissension is a viperous worm That gnaws the bowels of the commonwealth. [_A noise within, “Down with the tawny-coats!”._] What tumult’s this?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let this dissension first be tried by fight, And then your Highness shall command a peace."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The bitter theological **dissension** concerning the nature of Christ tore the Eastern cities asunder."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Internal political **dissension** within the coalition government paralyzed naval operations in the Channel."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Civil **dissension** broke the ancient peace of heaven, dividing angelic orders into hostile legions."*

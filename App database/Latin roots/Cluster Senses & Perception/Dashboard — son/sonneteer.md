@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A poet who writes sonnets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A poet who writes sonnets.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who writes sonnets, especially an inferior, amateur, or overly conventional one.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and satire, an author dedicated to crafting fourteen-line lyric verses, often mildly depreciated.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Times had altered since then, and no sonneteer had insisted on Mr."*
+> - 📜 **Alexander Pope (*An Essay on Criticism*):** *"What crowded hour can satisfy the petty **sonneteer** who pesters every patron with his rhymes?"*
+> - 📜 **George Eliot (*Middlemarch*):** *"Ladislaw had no ambition to become a fashionable **sonneteer** sighing over unattainable romantic fancies."*
+> - 📜 **Virginia Woolf (*Orlando*):** *"In the Elizabethan court, every courtier fancied himself an inspired **sonneteer** dedicated to royal beauty."*

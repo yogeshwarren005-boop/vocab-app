@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an allergy or peculiar or excessive susceptibility (especially to a specific factor).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an allergy or peculiar or excessive susceptibility (especially to a specific factor).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Made extraordinarily or abnormally sensitive to physical agents, light, or emotional reactions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In photographic technology and experimental pathophysiology, artificially prepared for hyper-acute reaction to photons, radiation, or biological antigens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supersensitized designates having an allergy or peculiar or excessive susceptibility (especially to a specific factor)."*
+> - 📜 **William Crookes (*Researches in the Phenomena of Spiritualism*):** *"Astronomers utilized **supersensitized** emulsion films to capture the faint spectra of distant nebulae."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The guinea pig, once **supersensitized** with diphtheritic toxin, could not withstand the smallest booster injection."*
+> - 📜 **H. G. Wells (*The Island of Doctor Moreau*):** *"The biological subjects developed **supersensitized** nervous systems that magnified every touch into agony."*

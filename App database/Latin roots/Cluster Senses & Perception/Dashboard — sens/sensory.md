@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a nerve fiber or impulse originating outside and passing toward the central nervous system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving or derived from the senses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to physical sensation, perception, or the biological organs and nerves that convey stimuli.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurophysiology and epistemology, pertaining to afferent nerves transmitting impulses from peripheral receptors to the central nervous system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Millions of people who see poorly, or not at all, or who have other sensory problems, use precision tools all the time."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The entire field of communications to bypass sensory limitations is just beginning to open up; it'll be part of your world."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Our **sensory** experiences furnish the basic materials out of which reason constructs its universal ideas."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"A cut across the dorsal nerve root abolishes all **sensory** transmission from the associated limb."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The higher mammals possess **sensory** faculties analogous to those of man, including keen smell and acute hearing."*

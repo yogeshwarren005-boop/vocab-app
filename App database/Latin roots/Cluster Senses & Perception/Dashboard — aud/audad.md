@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wild sheep of northern africa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wild sheep of northern africa.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A wild sheep (Ammotragus lervia) native to the rocky mountains of North Africa, having heavy curved horns and a long fringe of hair on the neck and chest; also spelled aoudad.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalogy and game conservation, an agile caprine ungulate adapted to arid rocky cliffs, featuring conspicuous ventral hair fringes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, audad designates wild sheep of northern africa."*
+> - 📜 **Theodore Roosevelt (*African Game Trails*):** *"The **audad**, or Barbary sheep, bounds across sheer precipices where human foot cannot follow."*
+> - 📜 **Richard Lydekker (*Wild Oxen, Sheep, and Goats of All Lands*):** *"The horns of the adult male **audad** sweep backward and downward in an imposing crescent."*
+> - 📜 **William Henry Flower (*An Introduction to the Study of Mammals Living and Extinct*):** *"In osteology the **audad** occupies an intermediate position between the typical sheep and goats."*

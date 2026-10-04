@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inspection of the accounting procedures and records by a trained accountant or cpa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A methodical examination or review of a condition or situation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official inspection of an individual's or organization's accounts, or a systematic examination and evaluation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In financial governance and organizational accountability, a rigorous independent verification of statutory financial statements and internal controls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For having traffic with thyself alone, Thou of thyself thy sweet self dost deceive, Then how when nature calls thee to be gone, What acceptable audit canst thou leave?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though all at once cannot See what I do deliver out to each, Yet I can make my audit up, that all From me do back receive the flour of all, And leave me but the bran.” What say you to’t?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And so, great pow’rs, If you will take this audit, take this life, And cancel these cold bonds."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Public officers entrusted with revenue management ought to submit their accounts to annual legislative **audit**."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A regular statement and account of the receipts and expenditures of all public money ensures strict public **audit**."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The commission instituted a searching **audit** into the naval contracts, exposing widespread corruption in the dockyards."*

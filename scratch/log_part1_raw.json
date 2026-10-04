@@ -1,0 +1,743 @@
+{
+  "allogamous": {
+    "matches_count": 0,
+    "defs_count": 2,
+    "matches": [],
+    "defs": [
+      "Characterized by allogamy.",
+      "relating to cross-fertilization in plants"
+    ]
+  },
+  "allogamy": {
+    "matches_count": 0,
+    "defs_count": 2,
+    "matches": [],
+    "defs": [
+      "Fertilization of the pistil of a plant by pollen from another of the same species; cross-fertilization.",
+      "cross-fertilization in plants"
+    ]
+  },
+  "allogeneic": {
+    "matches_count": 0,
+    "defs_count": 1,
+    "matches": [],
+    "defs": [
+      "denoting or relating to cells or tissues from individuals belonging to the same species but genetically dissimilar (and hence immunologically incompatible)"
+    ]
+  },
+  "allograft": {
+    "matches_count": 0,
+    "defs_count": 1,
+    "matches": [],
+    "defs": [
+      "tissue or organ transplanted from a donor of the same species but different genetic makeup; recipient's immune system must be suppressed to prevent rejection of the graft"
+    ]
+  },
+  "allograph": {
+    "matches_count": 0,
+    "defs_count": 3,
+    "matches": [],
+    "defs": [
+      "A writing or signature made by some person other than any of the parties thereto; -- opposed to autograph.",
+      "a variant form of a grapheme, as `m' or `M' or a handwritten version of that grapheme",
+      "a signature written by one person for another"
+    ]
+  },
+  "allographic": {
+    "matches_count": 0,
+    "defs_count": 1,
+    "matches": [],
+    "defs": [
+      "of or relating to an allograph"
+    ]
+  },
+  "analogical": {
+    "matches_count": 3,
+    "defs_count": 2,
+    "matches": [
+      [
+        "Charles Darwin",
+        "The Origin of Species",
+        "Many of the cases of strongly-marked varieties or doubtful species well deserve consideration; for several interesting lines of argument, from geographical distribution, analogical variation, hybridism, etc., have been brought to bear on the attempt to determine their rank."
+      ],
+      [
+        "Herman Melville",
+        "Moby-Dick",
+        "Though the certainty of this criterion is far from demonstrable, yet it has the savor of analogical probability."
+      ],
+      [
+        "George Eliot",
+        "Silas Marner",
+        "The landlord’s analogical argument was not well received by the farrier—a man intensely opposed to compromise."
+      ]
+    ],
+    "defs": [
+      "1. Founded on, or of the nature of, analogy; expressing or implying analogy. When a country which has sent out colonies is termed the mother country, the expression is analogical. J. S. Mill. 2. Having analogy; analogous. Sir M. Hale.",
+      "expressing, composed of, or based on an analogy"
+    ]
+  },
+  "analogise": {
+    "matches_count": 0,
+    "defs_count": 1,
+    "matches": [],
+    "defs": [
+      "make an analogy"
+    ]
+  },
+  "analogist": {
+    "matches_count": 0,
+    "defs_count": 2,
+    "matches": [],
+    "defs": [
+      "One who reasons from analogy, or represent, by analogy. Cheyne.",
+      "someone who looks for analogies or who reasons by analogy"
+    ]
+  },
+  "analogize": {
+    "matches_count": 0,
+    "defs_count": 2,
+    "matches": [],
+    "defs": [
+      "To employ, or reason by, analogy.",
+      "make an analogy"
+    ]
+  },
+  "analogous": {
+    "matches_count": 3,
+    "defs_count": 3,
+    "matches": [
+      [
+        "Thomas Hardy",
+        "Far from the Madding Crowd",
+        "A process somewhat analogous to that of alleged formations of the universe, time and times ago, was observable."
+      ],
+      [
+        "John Stuart Mill",
+        "Utilitarianism",
+        "The feelings concerned are so powerful, and we count so positively on finding a responsive feeling in others (all being alike interested), that _ought_ and _should_ grow into _must_, and recognized indispensability becomes a moral necessity, analogous to physical, and often not inferior to it in binding force."
+      ],
+      [
+        "Charles Darwin",
+        "The Origin of Species",
+        "Species of the same genus vary in an analogous manner."
+      ]
+    ],
+    "defs": [
+      "Having analogy; corresponding to something else; bearing some resemblance or proportion; -- often followed by to. Analogous tendencies in arts and manners. De Quincey. Decay of public spirit, which may be considered analogous to natural death. J. H. Newman. nalogous pole (Pyroelect.), that pole of a crystal which becomes positively electrified when heated. Syn. -- Correspondent; similar; like. -- A*nal\"o gous*ly, adv. -- A*nal\"o*gous*ness, n.",
+      "similar or equivalent in some respects though otherwise dissimilar",
+      "corresponding in function but not in evolutionary origin"
+    ]
+  },
+  "analogously": {
+    "matches_count": 0,
+    "defs_count": 1,
+    "matches": [],
+    "defs": [
+      "in an analogous manner"
+    ]
+  },
+  "analogy": {
+    "matches_count": 4,
+    "defs_count": 4,
+    "matches": [
+      [
+        "Thomas Hardy",
+        "Far from the Madding Crowd",
+        "About a hundred.” (In speaking of farms the word “acres” is omitted by the natives, by analogy to such old expressions as “a stag of ten.”)"
+      ],
+      [
+        "Charles Darwin",
+        "The Origin of Species",
+        "In very many cases, however, one form is ranked as a variety of another, not because the intermediate links have actually been found, but because analogy leads the observer to suppose either that they do now somewhere exist, or may formerly have existed; and here a wide door for the entry of doubt and conjecture is opened."
+      ],
+      [
+        "Ralph Waldo Emerson",
+        "Essays",
+        "The chemist finds proportions and intelligible method throughout matter; and science is nothing but the finding of analogy, identity, in the most remote parts."
+      ],
+      [
+        "Henry David Thoreau",
+        "Walden",
+        "Of course the vital heat is not to be confounded with fire; but so much for analogy."
+      ]
+    ],
+    "defs": [
+      "1. A resemblance of relations; an agreement or likeness between things in some circumstances or effects, when the things are otherwise entirely different. Thus, learning enlightens the mind, because it is to the mind what light is to the eye, enabling it to discover things before hidden. Note: Followed by between, to, or with; as, there is an analogy between these objects, or one thing has an analogy to or with another. Note: Analogy is very commonly used to denote similarity or essential resemblance; but its specific meaning is a similarity of relations, and in this consists the difference between the argument from example and that from analogy. In the former, we argue from the mere similarity of two things; in the latter, from the similarity of their relations. Karslake. 2. (Biol.)  A relation or correspondence in function, between organs or parts which are decidedly different. 3. (Geom.)  Proportion; equality of ratios. 4. (Gram.)  Conformity of words to the genius, structure, or general rules of a language; similarity of origin, inflection, or principle of pronunciation, and the like, as opposed to pl. analogies. Johnson.",
+      "an inference that if things agree in some respects they probably agree in others",
+      "drawing a comparison in order to show a similarity in some respect"
+    ]
+  },
+  "anthologise": {
+    "matches_count": 0,
+    "defs_count": 1,
+    "matches": [],
+    "defs": [
+      "compile an anthology"
+    ]
+  },
+  "anthologist": {
+    "matches_count": 0,
+    "defs_count": 2,
+    "matches": [],
+    "defs": [
+      "One who compiles an anthology.",
+      "an editor who makes selections for an anthology"
+    ]
+  },
+  "anthologize": {
+    "matches_count": 0,
+    "defs_count": 1,
+    "matches": [],
+    "defs": [
+      "compile an anthology"
+    ]
+  },
+  "anthology": {
+    "matches_count": 1,
+    "defs_count": 2,
+    "matches": [
+      [
+        "Ralph Waldo Emerson",
+        "Essays",
+        "The Liturgy,[582] admired for its energy and pathos, is an anthology of the piety of ages and nations, a translation of the prayers and forms of the Catholic church,--these collected, too, in long periods, from the prayers and meditations of every saint and sacred writer all over the world."
+      ]
+    ],
+    "defs": [
+      "1. A discourses on flowers. [R.] 2. A collection of flowers; a garland. [R.] 3. A collection of flowers of literature, that is, beautiful passages from authors; a collection of poems or epigrams; -- particularly applied to a collection of ancient Greek epigrams. 4. (Gr. Ch.)  A service book containing a selection of pieces for the festival services.",
+      "a collection of selected literary passages"
+    ]
+  },
+  "antilog": {
+    "matches_count": 0,
+    "defs_count": 1,
+    "matches": [],
+    "defs": [
+      "the number of which a given number is the logarithm"
+    ]
+  },
+  "antilogarithm": {
+    "matches_count": 0,
+    "defs_count": 2,
+    "matches": [],
+    "defs": [
+      "The number corresponding to a logarithm. The word has been sometimes, though rarely, used to denote the complement of a given logarithm; also the logarithmic cosine corresponding to a given logarithmic sine. -- An`ti*log`a*rith\"mic, a.",
+      "the number of which a given number is the logarithm"
+    ]
+  },
+  "apologetic": {
+    "matches_count": 7,
+    "defs_count": 2,
+    "matches": [
+      [
+        "Thomas Hardy",
+        "Far from the Madding Crowd",
+        "Young Cain Ball is a very good lad,” Henery said, “and Shepherd Oak don’t mind his youth?” he added, turning with an apologetic smile to the shepherd, who had just appeared on the scene, and was now leaning against the doorpost with his arms folded."
+      ],
+      [
+        "George Eliot",
+        "Middlemarch",
+        "Vincy whether it were only the general election or the end of the world that was coming on, now that George the Fourth was dead, Parliament dissolved, Wellington and Peel generally depreciated and the new King apologetic, was a feeble type of the uncertainties in provincial opinion at that time."
+      ],
+      [
+        "Ralph Waldo Emerson",
+        "Essays",
+        "Man is timid and apologetic; he is no longer upright; he dares not say \"I think,\" \"I am,\" but quotes some saint or sage."
+      ],
+      [
+        "James Joyce",
+        "Dubliners",
+        "In a few minutes an apologetic “Pok!” was heard as the cork flew out of Mr Lyons’ bottle."
+      ],
+      [
+        "Bram Stoker",
+        "Dracula",
+        "I don’t want any souls!” he said in a feeble, apologetic way."
+      ]
+    ],
+    "defs": [
+      "Defending by words or arguments; said or written in defense, or by way of apology; regretfully excusing; as, an apologetic essay. \"To speak in a subdued and apologetic tone.\" Macaulay.",
+      "offering or expressing apology"
+    ]
+  },
+  "apologise": {
+    "matches_count": 5,
+    "defs_count": 2,
+    "matches": [
+      [
+        "Arthur Conan Doyle",
+        "The Adventures of Sherlock Holmes",
+        "And now I must fly to my dear boy to apologise to him for the wrong which I have done him."
+      ],
+      [
+        "James Joyce",
+        "Dubliners",
+        "You’ll apologise to me for your impertinence or you’ll quit the office instanter!"
+      ],
+      [
+        "H. G. Wells",
+        "The Time Machine",
+        "I suppose I must apologise,” he said."
+      ],
+      [
+        "Jane Austen",
+        "Emma",
+        "Yes, here I am, my good friend; and here I have been so long, that anywhere else I should think it necessary to apologise; but, the truth is, that I am waiting for my lord and master."
+      ],
+      [
+        "G. K. Chesterton",
+        "The Man Who Was Thursday",
+        "How hard they hunt us you can gather from the fact that we are driven to such disguises as those for which I apologise, and to such pranks as this one by which you suffer."
+      ]
+    ],
+    "defs": [
+      "defend, explain, clear away, or make excuses for by reasoning",
+      "acknowledge faults or shortcomings or failing"
+    ]
+  },
+  "apologist": {
+    "matches_count": 1,
+    "defs_count": 2,
+    "matches": [
+      [
+        "George Eliot",
+        "Middlemarch",
+        "Now is there civil war within the soul: Resolve is thrust from off the sacred throne By clamorous Needs, and Pride the grand-vizier Makes humble compact, plays the supple part Of envoy and deft-tongued apologist For hungry rebels."
+      ]
+    ],
+    "defs": [
+      "One who makes an apology; one who speaks or writes in defense of a faith, a cause, or an institution; especially, one who argues in defense of Christianity.",
+      "a person who argues to defend or justify some policy or institution"
+    ]
+  },
+  "apologize": {
+    "matches_count": 7,
+    "defs_count": 3,
+    "matches": [
+      [
+        "Thomas Hardy",
+        "Far from the Madding Crowd",
+        "He had come to apologize and beg forgiveness of Bathsheba with something like a sense of shame at his violence, having but just now learnt that she had returned—only from a visit to Liddy, as he supposed, the Bath escapade being quite unknown to him."
+      ],
+      [
+        "George Eliot",
+        "Middlemarch",
+        "The fire was not dissipated yet, and she thought it was ignoble in her husband not to apologize to her."
+      ],
+      [
+        "Ralph Waldo Emerson",
+        "Essays",
+        "Let us never bow and apologize more."
+      ],
+      [
+        "Charles Dickens",
+        "David Copperfield",
+        "As to the washerwoman pawning the clothes, and coming in a state of penitent intoxication to apologize, I suppose that might have happened several times to anybody."
+      ],
+      [
+        "Jane Austen",
+        "Persuasion",
+        "That she was coming to apologize, and that they should have to spend the evening by themselves, was the first black idea; and Mary was quite ready to be affronted, when Louisa made all right by saying, that she only came on foot, to leave more room for the harp, which was bringing in the carriage."
+      ]
+    ],
+    "defs": [
+      "1. To make an apology or defense. Dr. H. More. 2. To make an apology or excuse; to make acknowledgment of some fault or offense, with expression of regret for it, by way of amends; -- with for; as, my correspondent apologized for not answering my letter. To apologize for his insolent language. Froude.\n\nTo defend. [Obs.] The Christians . . . were apologized by Plinie. Dr. G. Benson.",
+      "acknowledge faults or shortcomings or failing",
+      "defend, explain, clear away, or make excuses for by reasoning"
+    ]
+  },
+  "apology": {
+    "matches_count": 11,
+    "defs_count": 4,
+    "matches": [
+      [
+        "William Shakespeare",
+        "The Complete Works of William Shakespeare",
+        "That you will take your instant leave o’ the king, And make this haste as your own good proceeding, Strengthen’d with what apology you think May make it probable need."
+      ],
+      [
+        "Thomas Hardy",
+        "Far from the Madding Crowd",
+        "The worst features of this arrangement were that, if he thought she ridiculed him, an apology would increase the offence by being disbelieved; and if he thought she wanted him to woo her, it would read like additional evidence of her forwardness."
+      ],
+      [
+        "George Eliot",
+        "Middlemarch",
+        "There was too much cleverness in her apology: she was laughing both at her uncle and himself."
+      ],
+      [
+        "Arthur Conan Doyle",
+        "The Adventures of Sherlock Holmes",
+        "With an apology for my intrusion, I was about to withdraw when Holmes pulled me abruptly into the room and closed the door behind me."
+      ],
+      [
+        "Ralph Waldo Emerson",
+        "Essays",
+        "Their works are done as an apology or extenuation of their living in the world,--as invalids and the insane pay a high board."
+      ]
+    ],
+    "defs": [
+      "1. Something said or written in defense or justification of what appears to others wrong, or of what may be liable to disapprobation; justification; as, Tertullian's Apology for Christianity. It is not my intention to make an apology for my poem; some will think it needs no excuse, and others will receive none. Dryden. 2. An acknowledgment intended as an atonement for some improper or injurious remark or act; an admission to another of a wrong or discourtesy done him, accompanied by an expression of regret. 3. Anything provided as a substitute; a makeshift. He goes to work devising apologies for window curtains. Dickens. Syn. -- Excuse. An apology, in the original sense of the word, was a pleading off from some charge or imputation, by explaining and defending one's principles or conduct. It therefore amounted to a vindication. One who offers an apology, admits himself to have been, at least apparently, in the wrong, but brings forward some palliating circumstance, or tenders a frank acknowledgment, by way of reparation. We make an apology for some breach of propriety or decorum (like rude expressions, unbecoming conduct, etc.), or some deficiency in what might be reasonably expected. We offer an excuse when we have been guilty of some breach or neglect of duty; and we do it by way of extenuating our fault, and with a view to be forgiven. When an excuse has been accepted, an apology may still, in some cases, be necessary or appropriate. \"An excuse is not grounded on the claim of innocence, but is rather an appeal for favor resting on some collateral circumstance. An apology mostly respects the conduct of individuals toward each other as equals; it is a voluntary act produced by feelings of decorum, or a desire for the good opinion of others.\" Crabb.\n\nTo offer an apology. [Obs.] For which he can not well apology. J. Webster.",
+      "an expression of regret at having caused trouble for someone",
+      "a formal written defense of something you believe in strongly"
+    ]
+  },
+  "archaeologic": {
+    "matches_count": 0,
+    "defs_count": 2,
+    "matches": [],
+    "defs": [
+      "Relating to archæology, or antiquities; as, archæological researches. -- Ar`*chæ*o*log\"ic*al*ly, adv.",
+      "related to or dealing with or devoted to archaeology"
+    ]
+  },
+  "archaeological": {
+    "matches_count": 0,
+    "defs_count": 2,
+    "matches": [],
+    "defs": [
+      "Relating to archæology, or antiquities; as, archæological researches. -- Ar`*chæ*o*log\"ic*al*ly, adv.",
+      "related to or dealing with or devoted to archaeology"
+    ]
+  },
+  "archaeologist": {
+    "matches_count": 0,
+    "defs_count": 2,
+    "matches": [],
+    "defs": [
+      "One versed in archæology; an antiquary. Wright.",
+      "an anthropologist who studies prehistoric people and their culture"
+    ]
+  },
+  "archaeology": {
+    "matches_count": 1,
+    "defs_count": 2,
+    "matches": [
+      [
+        "Charles Darwin",
+        "The Descent of Man",
+        "On the Caves of Gibraltar,” ‘Transactions of the International Congress of Prehistoric Archaeology,’ Third Session, 1869, p. 159."
+      ]
+    ],
+    "defs": [
+      "The science or study of antiquities, esp. prehistoric antiquities, such as the remains of buildings or monuments of an early epoch, inscriptions, implements, and other relics, written manuscripts, etc.",
+      "the branch of anthropology that studies prehistoric people and their cultures"
+    ]
+  },
+  "biologic": {
+    "matches_count": 0,
+    "defs_count": 2,
+    "matches": [],
+    "defs": [
+      "Of or relating to biology. -- Bi`o*log\"ic*al*ly, adv.",
+      "pertaining to biology or to life and living things"
+    ]
+  },
+  "biological": {
+    "matches_count": 2,
+    "defs_count": 3,
+    "matches": [
+      [
+        "H. G. Wells",
+        "The Time Machine",
+        "What, unless biological science is a mass of errors, is the cause of human intelligence and vigour?"
+      ],
+      [
+        "G. K. Chesterton",
+        "The Man Who Was Thursday",
+        "He had not discovered anything new in biology; but what biological creature could he have discovered more singular than himself?"
+      ]
+    ],
+    "defs": [
+      "Of or relating to biology. -- Bi`o*log\"ic*al*ly, adv.",
+      "pertaining to biology or to life and living things",
+      "of parents and children; related by blood"
+    ]
+  },
+  "biologically": {
+    "matches_count": 0,
+    "defs_count": 1,
+    "matches": [],
+    "defs": [
+      "with respect to biology"
+    ]
+  },
+  "biologism": {
+    "matches_count": 0,
+    "defs_count": 1,
+    "matches": [],
+    "defs": [
+      "use of biological principles in explaining human especially social behavior"
+    ]
+  },
+  "biologist": {
+    "matches_count": 0,
+    "defs_count": 2,
+    "matches": [],
+    "defs": [
+      "A student of biology; one versed in the science of biology.",
+      "(biology) a scientist who studies living organisms"
+    ]
+  },
+  "biologistic": {
+    "matches_count": 0,
+    "defs_count": 1,
+    "matches": [],
+    "defs": [
+      "of or relating to biologism"
+    ]
+  },
+  "biology": {
+    "matches_count": 5,
+    "defs_count": 4,
+    "matches": [
+      [
+        "George Eliot",
+        "Middlemarch",
+        "He did not mean to think of furniture at present; but whenever he did so it was to be feared that neither biology nor schemes of reform would lift him above the vulgarity of feeling that there would be an incompatibility in his furniture not being of the best."
+      ],
+      [
+        "Oscar Wilde",
+        "The Picture of Dorian Gray",
+        "Every day he seemed to become more interested in biology, and his name appeared once or twice in some of the scientific reviews in connection with certain curious experiments."
+      ],
+      [
+        "Charles Darwin",
+        "The Descent of Man",
+        "Herbert Spencer (27. ‘Principles of Biology,’ vol. i. p. 455.) has remarked, the greater use of the jaws in chewing coarse, uncooked food, would act in a direct manner on the masticatory muscles, and on the bones to which they are attached."
+      ],
+      [
+        "H. G. Wells",
+        "The War of the Worlds",
+        "Of course all the students in the crammer’s biology class, to which my brother went that day, were intensely interested, but there were no signs of any unusual excitement in the streets."
+      ],
+      [
+        "G. K. Chesterton",
+        "The Man Who Was Thursday",
+        "He had not discovered anything new in biology; but what biological creature could he have discovered more singular than himself?"
+      ]
+    ],
+    "defs": [
+      "The science of life; that branch of knowledge which treats of living matter as distinct from matter which is not living; the study of living tissue. It has to do with the origin, structure, development, function, and distribution of animals and plants.",
+      "the science that studies living organisms",
+      "characteristic life processes and phenomena of living organisms"
+    ]
+  },
+  "catalog": {
+    "matches_count": 1,
+    "defs_count": 5,
+    "matches": [
+      [
+        "Bram Stoker",
+        "Dracula",
+        "_In case the wrapper is lost write to the publishers for a complete catalog_"
+      ]
+    ],
+    "defs": [
+      "Catalogue.",
+      "a book or pamphlet containing an enumeration of things",
+      "a complete list of things; usually arranged systematically"
+    ]
+  },
+  "cataloger": {
+    "matches_count": 0,
+    "defs_count": 1,
+    "matches": [],
+    "defs": [
+      "a librarian who classifies publication according to a categorial system"
+    ]
+  },
+  "catalogue": {
+    "matches_count": 11,
+    "defs_count": 5,
+    "matches": [
+      [
+        "William Shakespeare",
+        "The Complete Works of William Shakespeare",
+        "I say I am your mother, And put you in the catalogue of those That were enwombed mine. ’Tis often seen Adoption strives with nature, and choice breeds A native slip to us from foreign seeds."
+      ],
+      [
+        "Charles Darwin",
+        "The Origin of Species",
+        "To treat this subject at all properly, a long catalogue of dry facts should be given; but these I shall reserve for my future work."
+      ],
+      [
+        "George Eliot",
+        "Middlemarch",
+        "Bulstrode had particularly wished to have a certain picture—a “Supper at Emmaus,” attributed in the catalogue to Guido; and at the last moment before the day of the sale Mr."
+      ],
+      [
+        "Ralph Waldo Emerson",
+        "Essays",
+        "Flamsteed[59] and Herschel,[60] in their glazed observatories, may catalogue the stars with the praise of all men, and, the results being splendid and useful, honor is sure."
+      ],
+      [
+        "Herman Melville",
+        "Moby-Dick",
+        "It would be a hopeless, endless task to catalogue all these things."
+      ]
+    ],
+    "defs": [
+      "A list or enumeration of names, or articles arranged methodically, often in alphabetical order; as, a catalogue of the students of a college, or of books, or of the stars. Card catalogue, a catalogue, as of books, having each item entered on a separate card, and the cards arranged in cases by subjects, or authors, or alphabetically. -- Catalogue raisonné Etym: [F.], a catalogue of books, etc., classed according to their subjects. Syn. -- List; roll; index; schedule; enumeration; inventory. See List.\n\nTo make a list or catalogue; to insert in a catalogue.",
+      "a complete list of things; usually arranged systematically",
+      "a book or pamphlet containing an enumeration of things"
+    ]
+  },
+  "cataloguer": {
+    "matches_count": 0,
+    "defs_count": 2,
+    "matches": [],
+    "defs": [
+      "A maker of catalogues; esp. one skilled in the making of catalogues.",
+      "a librarian who classifies publication according to a categorial system"
+    ]
+  },
+  "collogue": {
+    "matches_count": 1,
+    "defs_count": 2,
+    "matches": [
+      [
+        "George Eliot",
+        "Silas Marner",
+        "And how long have you been so thick with Dunsey that you must _collogue_ with him to embezzle my money?"
+      ]
+    ],
+    "defs": [
+      "To talk or confer secretly and confidentially; to converse, especially with evil intentions; to plot mischief. [Archaic or Colloq.] Pray go in; and, sister, salve the matter, Collogue with her again, and all shall be well. Greene. He had been colloguing with my wife. Thackeray.",
+      "confer secretly"
+    ]
+  },
+  "cologne": {
+    "matches_count": 3,
+    "defs_count": 3,
+    "matches": [
+      [
+        "Ralph Waldo Emerson",
+        "Essays",
+        "Michael's Square,[434] being steeped in Cologne water,[435] and perfumed, and dined, and introduced, and properly grounded in all the biography, and politics, and anecdotes of the boudoirs."
+      ],
+      [
+        "Herman Melville",
+        "Moby-Dick",
+        "Her masts—cut somewhere on the coast of Japan, where her original ones were lost overboard in a gale—her masts stood stiffly up like the spines of the three old kings of Cologne."
+      ],
+      [
+        "Mary Shelley",
+        "Frankenstein",
+        "Beyond Cologne we descended to the plains of Holland; and we resolved to post the remainder of our way, for the wind was contrary and the stream of the river was too gentle to aid us."
+      ]
+    ],
+    "defs": [
+      "A perfumed liquid, composed of alcohol and certain aromatic oils, used in the toilet; -- called also cologne water and eau de cologne.",
+      "a commercial center and river port in western Germany on the Rhine River; flourished during the 15th century as a member of the Hanseatic League",
+      "a perfumed liquid made of essential oils and alcohol"
+    ]
+  },
+  "dialogue": {
+    "matches_count": 7,
+    "defs_count": 5,
+    "matches": [
+      [
+        "William Shakespeare",
+        "The Complete Works of William Shakespeare",
+        "But shall we have this dialogue between the Fool and the Soldier?"
+      ],
+      [
+        "Thomas Hardy",
+        "Far from the Madding Crowd",
+        "She hesitated, somewhat disconcerted at Oak’s old-fashioned earnest conclusion to a dialogue lightly carried on."
+      ],
+      [
+        "George Eliot",
+        "Middlemarch",
+        "Old Featherstone would not begin the dialogue till the door had been closed."
+      ],
+      [
+        "Ralph Waldo Emerson",
+        "Essays",
+        "There can never be deep peace between two spirits, never mutual respect until, in their dialogue, each stands for the whole world."
+      ],
+      [
+        "Oscar Wilde",
+        "The Picture of Dorian Gray",
+        "with the brief dialogue that follows, were spoken in a thoroughly artificial manner."
+      ]
+    ],
+    "defs": [
+      "1. A conversation between two or more persons; particularly, a formal conservation in theatrical performances or in scholastic exercises. 2. A written composition in which two or more persons are represented as conversing or reasoning on some topic; as, the Dialogues of Plato.\n\nTo take part in a dialogue; to dialogize. [R.] Shak.\n\nTo express as in dialogue. [R.] And dialogued for him what he would say. Shak.",
+      "a conversation between two persons",
+      "the lines spoken by characters in drama or fiction"
+    ]
+  },
+  "dislogistic": {
+    "matches_count": 0,
+    "defs_count": 1,
+    "matches": [],
+    "defs": [
+      "expressing disapproval"
+    ]
+  },
+  "ecologic": {
+    "matches_count": 0,
+    "defs_count": 2,
+    "matches": [],
+    "defs": [
+      "characterized by the interdependence of living organisms in an environment",
+      "of or relating to the science of ecology"
+    ]
+  },
+  "ecological": {
+    "matches_count": 0,
+    "defs_count": 2,
+    "matches": [],
+    "defs": [
+      "characterized by the interdependence of living organisms in an environment",
+      "of or relating to the science of ecology"
+    ]
+  },
+  "ecologically": {
+    "matches_count": 0,
+    "defs_count": 1,
+    "matches": [],
+    "defs": [
+      "with respect to ecology"
+    ]
+  },
+  "ecologist": {
+    "matches_count": 0,
+    "defs_count": 1,
+    "matches": [],
+    "defs": [
+      "a biologist who studies the relation between organisms and their environment"
+    ]
+  },
+  "ecology": {
+    "matches_count": 0,
+    "defs_count": 2,
+    "matches": [],
+    "defs": [
+      "the environment as it relates to living organisms",
+      "the branch of biology concerned with the relations between organisms and their environment"
+    ]
+  },
+  "epilogue": {
+    "matches_count": 2,
+    "defs_count": 3,
+    "matches": [
+      [
+        "William Shakespeare",
+        "The Complete Works of William Shakespeare",
+        "Another part of the Forest Epilogue"
+      ],
+      [
+        "Ralph Waldo Emerson",
+        "Essays",
+        "[Footnote 146: _Epilogue to Beaumont and Fletcher's Honest Man's Fortune_.]"
+      ]
+    ],
+    "defs": [
+      "1. (Drama)  A speech or short poem addressed to the spectators and recited by one of the actors, after the conclusion of the play. A good play no epilogue, yet . . . good plays prove the better by the help of good epilogues. Shak. 2. (Rhet.)  The closing part of a discourse, in which the principal matters are recapitulated; a conclusion.",
+      "a short speech (often in verse) addressed directly to the audience by an actor at the end of a play",
+      "a short passage added at the end of a literary work"
+    ]
+  }
+}

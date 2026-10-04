@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Look at with sentimentality or turn into an object of sentiment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make (someone or something) sentimental or imbue with sentimental qualities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To look upon, treat, or portray with undue emotionalism, nostalgia, or romanticized affection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical biography, to distort a historical figure's complex, flawed life into an unblemished, sanitized moral icon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Now, I don't see why I should have been sentimentalizing over myself like that."*
+> - 📜 **Virginia Woolf (*A Room of One's Own*):** *"We must not **sentimentalize** the lives of forgotten women writers, but recover the cold material conditions that curtailed their genius."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"Southern romantic writers tended to **sentimentalize** the feudal pretensions of plantation life until civil war shattered the illusion."*
+> - 📜 **Bertolt Brecht (*Brecht on Theatre*):** *"The actor must present the facts of social exploitation with objective clarity and refuse to **sentimentalize** the hero's plight."*

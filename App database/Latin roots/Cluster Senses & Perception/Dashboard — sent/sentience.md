@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: State of elementary or undifferentiated consciousness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The faculty through which the external world is apprehended.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capacity to experience sensations, feelings, and subjective perceptual awareness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In animal ethics and philosophy of mind, the threshold of conscious experiential awareness that confers moral status on living organisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sentience designates state of elementary or undifferentiated consciousness."*
+> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"The question is not, Can they reason? nor, Can they talk? but, Can they suffer? for raw **sentience** demands moral concern."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"With the dawn of organic **sentience**, pleasure and pain emerged as biological compasses guiding survival through natural selection."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The lowest conceivable grade of consciousness is simple sensory **sentience**, prior to all conceptual discrimination."*

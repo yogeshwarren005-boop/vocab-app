@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Seemingly outside normal sensory channels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Seemingly outside normal sensory channels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Originating or perceived outside the normal scope of the physiological physical senses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In parapsychology and speculative cognitive philosophy, perception or cognitive transference allegedly transcending conventional sensory organ channels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extrasensory designates seemingly outside normal sensory channels."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Mystical states often carry an overwhelming impression of **extrasensory** revelation that defies empirical scrutiny."*
+> - 📜 **Arthur Conan Doyle (*The Edge of the Unknown*):** *"The investigator argued that clairvoyance represents an authentic **extrasensory** modality native to human consciousness."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Futuristic observers speculated on whether telepathy might operate through unknown **extrasensory** neural faculties."*

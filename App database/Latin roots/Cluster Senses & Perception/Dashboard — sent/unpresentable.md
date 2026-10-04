@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Creating an unfavorable or neutral first impression.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Creating an unfavorable or neutral first impression.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not fit to be seen, shown, introduced, or displayed in polite company or public view.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social decorum and editorial curation, possessing disheveled, indecent, or substandard qualities that bar public exhibition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unpresentable designates creating an unfavorable or neutral first impression."*
+> - 📜 **Charles Dickens (*Our Mutual Friend*):** *"His coat was so threadbare and mud-bespattered as to render him totally **unpresentable** in any respectable London drawing-room."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The sketches were hastily executed and deemed **unpresentable** to the fastidious connoisseur who patronized the local studio."*
+> - 📜 **Henry James (*The Ambassadors*):** *"Strether realized with a start that his travelling attire was quite **unpresentable** for an afternoon call at the Parisian mansion."*

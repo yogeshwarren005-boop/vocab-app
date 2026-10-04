@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Existing by consent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Existing by consent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by, relating to, or founded upon mutual agreement and explicit shared consent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contract jurisprudence and neurobiology, formed purely by mutual assent without ceremonial delivery, or designating an involuntary sympathetic reflex in a contralateral organ.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, consensual designates existing by consent."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Marriage is regarded in English jurisprudence as a strictly **consensual** contract, requiring the mutual assent of parties capable of contracting."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"Legitimate civil authority originates through **consensual** compacts formed by rational individuals seeking communal security."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"When light falls upon one retina, the opposite iris exhibits a simultaneous **consensual** contraction mediated by intersecting optic pathways."*

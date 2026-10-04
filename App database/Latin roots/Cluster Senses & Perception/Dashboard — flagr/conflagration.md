@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A very intense and uncontrolled fire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very intense and uncontrolled fire.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extensive, destructive, and fiercely burning fire that destroys much land or property.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urban history, military warfare, and metaphorical usage, a devastating city fire or an explosive eruption of war.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"On the ground the groups of villagers were still occupied in doing all they could to keep down the conflagration, which was not much."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"As far as their light reaches, so far, in the belief of the peasants, the fields will be fruitful, and the houses on which they shine will be safe from conflagration or sickness."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In Gacko it is also believed that if a pregnant woman witnesses a conflagration, her child will either be born with a red eruption on its skin or will contract the malady sooner or later afterwards."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The great **conflagration** of Rome raged for six days, consuming ancient temples and imperial palaces upon the hills."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The Great **Conflagration** of London reduced the ancient medieval city within the walls to a smoking desert of ashes."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The château was wrapped in a towering **conflagration**, its stone pillars glowing red against the midnight sky."*

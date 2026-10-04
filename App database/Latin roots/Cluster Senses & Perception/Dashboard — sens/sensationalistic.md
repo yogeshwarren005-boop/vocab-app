@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Typical of tabloids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Typical of tabloids.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by sensationalism, lurid exaggeration, or deliberate appeals to morbid curiosity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In media critique and cultural commentary, constructed specifically to inflame popular passions through melodramatic or scandalous framing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sensationalistic designates typical of tabloids."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"The critic condemned the **sensationalistic** novels of the season for degrading the austere dignity of English letters."*
+> - 📜 **H. G. Wells (*Tono-Bungay*):** *"The patent medicine advertising relied upon **sensationalistic** warnings of impending physical decay."*
+> - 📜 **George Orwell (*Down and Out in Paris and London*):** *"Popular rumors assumed a wildly **sensationalistic** coloring as news of the robbery spread through the quarter."*

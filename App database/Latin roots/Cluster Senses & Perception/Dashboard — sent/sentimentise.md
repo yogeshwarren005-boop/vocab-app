@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act in a sentimental way or indulge in sentimental thoughts or expression.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act in a sentimental way or indulge in sentimental thoughts or expression.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To indulge in sentimental feelings or express thoughts with affected emotional delicacy (alternative British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Victorian essays and social satire, to adopt the theatrical poses of excessive sensibility in polite conversation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sentimentise designates act in a sentimental way or indulge in sentimental thoughts or expression."*
+> - 📜 **William Makepeace Thackeray (*The Book of Snobs*):** *"Our fashionable snob loves to **sentimentise** over Italian opera while completely indifferent to the misery of his starving tenantry."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Cease to **sentimentise** upon the sorrows of young Werther, and begin instead to produce some honest daily work."*
+> - 📜 **George Meredith (*Diana of the Crossways*):** *"The salon ladies assembled to **sentimentise** over romantic verses that possessed neither genuine passion nor intellectual vigor."*

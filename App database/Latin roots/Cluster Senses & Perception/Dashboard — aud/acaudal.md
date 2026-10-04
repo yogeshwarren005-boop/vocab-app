@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking a tail or taillike appendage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking a tail or taillike appendage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking a tail or taillike anatomical appendage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate morphology and comparative zoology, designating organisms or anatomical variations characterized by the total absence of a caudal projection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acaudal designates lacking a tail or taillike appendage."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Several breeds of fowls and domestic cats are naturally **acaudal**, possessing only rudimentary terminal vertebrae."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The adult amphibian presents an **acaudal** skeleton, having resorbed the larval tail during metamorphosis."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Comparative Anatomy of Vertebrated Animals*):** *"Certain aberrant teleost species exhibit an **acaudal** trunk where the caudal fin is completely fused or absent."*

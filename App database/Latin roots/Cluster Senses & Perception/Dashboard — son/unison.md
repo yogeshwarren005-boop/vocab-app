@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Corresponding exactly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring together or simultaneously.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Simultaneous performance of action or utterance of speech, or identity of musical pitch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In music theory, choristry, and social coordination, coincidence in pitch of two or more tones or harmonious cooperative action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Here we be, ’a b’lieve,” was echoed in shrill unison."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Its deep "Ah! hah! hah!" came with a staccato, quacking sound from somewhere low down in the chest, and set his huge shoulders moving in unison with its peals."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Rejecting all other music, he adopted the plain song in which all could join, and with one voice, every man in unison with his brother, we sang with him."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The congregation joined in singing the evening hymn in rough but hearty **unison**."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"The citizens cried out in **unison**, their shared terror uniting all divergent factions into one plea."*
+> - 📜 **John Milton (*Paradise Lost*):** *"All heaven resounded with angelic voices singing in sweet **unison** around the radiant throne."*

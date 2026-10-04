@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to gustation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to gustation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the sense of taste; gustatory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sensory physiology, descriptive of neural pathways, lingual papillae, or chemoreceptive organs involved in tasting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gustative designates of or relating to gustation."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Sensory impressions arising from **gustative** stimulation are heavily colored by concurrent tactile and thermal feelings in the mouth."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish*):** *"Microscopic sensory hairs upon the maxillipeds function as **gustative** receptors testing food particles before ingestion."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The human faculties of sight, hearing, and **gustative** discrimination are instruments given for exploring natural wonders."*

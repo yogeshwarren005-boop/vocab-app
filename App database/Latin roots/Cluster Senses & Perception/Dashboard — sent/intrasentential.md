@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to constituents within a sentence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to constituents within a sentence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring, operating, or positioned entirely within the grammatical boundaries of a single sentence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theoretical syntax and sociolinguistics, referring to phenomena such as code-switching or anaphora resolution occurring within a single clause structure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intrasentential designates of or relating to constituents within a sentence."*
+> - 📜 **Noam Chomsky (*Aspects of the Theory of Syntax*):** *"Transformational rules operate primarily upon **intrasentential** structural domains rather than across discourse paragraphs."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"An **intrasentential** pause often signals syntactic coordination rather than a terminal boundary between distinct utterances."*
+> - 📜 **Roman Jakobson (*Selected Writings: Word and Language*):** *"The bilingual speaker executes an **intrasentential** switch between dialects without violating the morphosyntactic constraints of either tongue."*

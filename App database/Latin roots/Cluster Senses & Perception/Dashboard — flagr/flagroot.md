@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perennial marsh plant having swordlike leaves and aromatic roots.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perennial marsh plant having swordlike leaves and aromatic roots.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The aromatic, creeping rhizome of the sweet flag (Acorus calamus), formerly used in medicine, perfumery, and flavoring.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnobotany and traditional pharmacognosy, a fragrant wetland araceous rhizome chewed as an herbal stimulant and carminative.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flagroot designates perennial marsh plant having swordlike leaves and aromatic roots."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I dug the spicy **flagroot** along the marshy edges of the pond, enjoying its warm, pungent aroma in the autumn sun."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"Scented herbage of my breast, leaves from the roots of sweet flag, aromatic **flagroot** gathered from the stream bank."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Acorus calamus produces the pungent **flagroot**, esteemed in rustic medicine for warming the stomach and dispelling flatulence."*

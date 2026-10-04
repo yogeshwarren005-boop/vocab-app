@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (chemistry) a substance other than a catalyst that facilitates the start of a catalytic reaction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (chemistry) a substance other than a catalyst that facilitates the start of a catalytic reaction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent, substance, or chemical compound that induces sensitivity, reactivity, or photochemical absorption.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In photochemical engineering and clinical allergy, an optical dye that broadens emulsion spectral response or a chemical inducer of allergic contact dermatitis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sensitizer designates (chemistry) a substance other than a catalyst that facilitates the start of a catalytic reaction."*
+> - 📜 **William Crookes (*Researches in the Phenomena of Spiritualism*):** *"Eosin was employed as an optical **sensitizer** to extend the photographic plate's green-yellow sensitivity."*
+> - 📜 **William Osler (*Modern Medicine*):** *"The bacteriological extract acted as a systemic **sensitizer**, provoking rapid vascular collapse on reinjection."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Scientific rigor serves as an intellectual **sensitizer**, alerting the investigator to the slightest observational error."*

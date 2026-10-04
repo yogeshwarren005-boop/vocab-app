@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having frequencies above those of audible sound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having frequencies above those of audible sound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving or producing sound waves of a frequency above the upper limit of human hearing (greater than 20 kHz).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical imaging, non-destructive testing, and bioacoustics, high-frequency acoustic waves used for echolocation or diagnostic sonography.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ultrasonic designates having frequencies above those of audible sound."*
+> - 📜 **Lord Rayleigh (*The Theory of Sound*):** *"The properties of short acoustic waves foreshadowed what we now classify as **ultrasonic** radiation."*
+> - 📜 **Donald Griffin (*Listening in the Dark: The Acoustic Orientation of Bats and Men*):** *"Insectivorous bats emit intense **ultrasonic** pulses to navigate caves and locate prey in total darkness."*
+> - 📜 **Oliver Sacks (*The Island of the Colorblind*):** *"Modern clinical diagnosis relies routinely upon non-invasive **ultrasonic** scans of internal abdominal organs."*

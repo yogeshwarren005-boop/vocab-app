@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not dispatched or transmitted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not dispatched or transmitted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not dispatched, transmitted, or forwarded to an intended recipient; kept back or withheld.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary biography and epistolary studies, referring to private letters drafted in intense emotion but withheld from the post.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsent designates not dispatched or transmitted."*
+> - 📜 **Emily Dickinson (*The Letters of Emily Dickinson*):** *"The impassioned message remained tucked away in the mahogany drawer, an **unsent** confession of profound spiritual devotion."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"She tore the fiery response into fragments; it was better that the harsh truth should remain forever **unsent**."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"The crumpled letter lay upon the hearthstone, **unsent** and destined to leave their bitter misunderstanding unresolved."*

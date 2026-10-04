@@ -1,0 +1,2264 @@
+{
+  "ambulacral": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Of or pertaining to ambulacra; avenuelike; as, the ambulacral ossicles, plates, spines, and suckers of echinoderms."
+      },
+      {
+        "source": "wordnet_a",
+        "def": "pertaining to the ambulacra of radial echinoderms"
+      }
+    ],
+    "quotes": []
+  },
+  "ambulacrum": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "(a) One of the radical zones of echinoderms, along which run the principal nerves, blood vessels, and water tubes. These zones usually bear rows of locomotive suckers or tentacles, which protrude from regular pores. In star fishes they occupy the grooves along the under side of the rays. (b) One of the suckers on the feet of mites."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "one of the five areas on the undersurface of an echinoderm on which the tube feet are located"
+      }
+    ],
+    "quotes": []
+  },
+  "ambulance": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "(a) A field hospital, so organized as to follow an army in its movements, and intended to succor the wounded as soon as possible. Often used adjectively; as, an ambulance wagon; ambulance stretcher; ambulance corps. (b) An ambulance wagon or cart for conveying the wounded from the field, or to a hospital."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a vehicle that takes people to and from hospitals"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "James Joyce",
+        "work": "Dubliners",
+        "sentence": "He had the body taken to the waiting-room pending the arrival of the ambulance."
+      }
+    ]
+  },
+  "ambulant": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Walking; moving from place to place. Gayton."
+      },
+      {
+        "source": "wordnet_s",
+        "def": "able to walk about"
+      }
+    ],
+    "quotes": []
+  },
+  "ambulate": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "To walk; to move about. [R.] Southey."
+      },
+      {
+        "source": "wordnet_v",
+        "def": "walk about; not be bedridden or incapable of walking"
+      }
+    ],
+    "quotes": []
+  },
+  "ambulation": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "The act of walking. Sir T. Browne."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "walking about"
+      }
+    ],
+    "quotes": []
+  },
+  "ambulatory": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. Of or pertaining to walking; having the faculty of walking; formed or fitted for walking; as, an ambulatory animal. 2. Accustomed to move from place to place; not stationary; movable; as, an ambulatory court, which exercises its jurisdiction in different places. The priesthood . . . before was very ambulatory, and dispersed into all families. Jer. Taylor. 3. Pertaining to a walk. [R.] The princess of whom his majesty had an ambulatory view in his travels. Sir H. Wotton. 4. (Law)  Not yet fixed legally, or settled past alteration; alterable; as, the dispositions of a will are ambulatory until the death of the testator.\n\nA place to walk in, whether in the open air, as the gallery of a cloister, or within a building."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a covered walkway (as in a cloister)"
+      },
+      {
+        "source": "wordnet_a",
+        "def": "relating to or adapted for walking"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "able to walk about"
+      }
+    ],
+    "quotes": []
+  },
+  "ambulette": {
+    "defs": [],
+    "quotes": []
+  },
+  "circumambulate": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "To walk round about. -- Cir`cum*am`bu*la\"tion, n."
+      },
+      {
+        "source": "wordnet_v",
+        "def": "walk around something"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "Circumambulate the city of a dreamy Sabbath afternoon."
+      }
+    ]
+  },
+  "perambulate": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "To walk through or over; especially, to travel over for the purpose of surveying or examining; to inspect by traversing; specifically, to inspect officially the boundaries of, as of a town or parish, by walking over the whole line.\n\nTo walk about; to ramble; to stroll; as, he perambulated in the park."
+      },
+      {
+        "source": "wordnet_v",
+        "def": "make an official inspection on foot of (the bounds of a property)"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "walk with no particular goal"
+      }
+    ],
+    "quotes": []
+  },
+  "perambulating": {
+    "defs": [
+      {
+        "source": "wordnet_v",
+        "def": "make an official inspection on foot of (the bounds of a property)"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "walk with no particular goal"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "strolling or walking around"
+      }
+    ],
+    "quotes": []
+  },
+  "perambulation": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. The act of perambulating; traversing. Bacon. 2. An annual survey of boundaries, as of town, a parish, a forest, etc. 3. A district within which one is authorized to make a tour of inspection. \"The . . . bounds of his own perambulation.\" [Obs.] Holyday."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a walk around a territory (a parish or manor or forest etc.) in order to officially assert and record its boundaries"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a leisurely walk (usually in some public place)"
+      }
+    ],
+    "quotes": []
+  },
+  "perambulator": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. One who perambulates. 2. A surveyor's instrument for measuring distances. It consists of a wheel arranged to roll along over the ground, with an apparatus of clockwork, and a dial plate upon which the distance traveled is shown by an index. See Odometer. 3. A low carriage for a child, propelled by pushing."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a small vehicle with four wheels in which a baby or child is pushed around"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Bram Stoker",
+        "work": "Dracula",
+        "sentence": "If he doesn’t, and some nursemaid goes a-walkin’ orf with a soldier, leavin’ of the hinfant in the perambulator--well, then I shouldn’t be surprised if the census is one babby the less."
+      },
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Wisdom of Father Brown",
+        "sentence": "All our exclusive citizens will recall the Perambulator Parade Dinner, in which Last-Trick Todd, at his palatial home at Pilgrim's Pond, caused so many of our prominent debutantes to look even younger than their years."
+      }
+    ]
+  },
+  "somnambulant": {
+    "defs": [],
+    "quotes": []
+  },
+  "somnambulate": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "To walk when"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "walk in one's sleep"
+      }
+    ],
+    "quotes": []
+  },
+  "somnambulation": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "The act of walking in sleep."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "walking by a person who is asleep"
+      }
+    ],
+    "quotes": []
+  },
+  "somnambulism": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "A condition of the nervous system in which an individual during sleep performs actions approppriate to the waking state; a state of sleep in which some of the senses and voluntary powers are partially awake; noctambulism."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "walking by a person who is asleep"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "Walking in the shadow of a dream, as it were, and perhaps actually under the influence of a species of somnambulism, Mr."
+      }
+    ]
+  },
+  "somnambulist": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "A person who is subject to somnambulism; one who walks in his sleep; a sleepwalker; a noctambulist."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "someone who walks about in their sleep"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Boldwood, more like a somnambulist than a wakeful man, pulled out the large canvas bag he carried by way of a purse, and searched it."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "With those words uttered impetuously, Will rose, put out his hand to Rosamond, still with the air of a somnambulist, and went away."
+      },
+      {
+        "author": "Joseph Conrad",
+        "work": "Heart of Darkness",
+        "sentence": "The slim one got up and walked straight at me—still knitting with downcast eyes—and only just as I began to think of getting out of her way, as you would for a somnambulist, stood still, and looked up."
+      }
+    ]
+  },
+  "emigrant": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. Removing from one country to another; emigrating; as, an emigrant company or nation. 2. Pertaining to an emigrant; used for emigrants; as, an emigrant ship or hospital.\n\nOne who emigrates, or quits one country or region to settle in another. Syn. -- Emigrant, Immigrant. Emigrant and emigration have reference to the country from which the migration is made; the correlative words immigrant and immigration have reference to the country into which the migration is made, the former marking the going out from a country, the latter the coming into it."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "someone who leaves one country to settle in another"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "Ordering my cab to wait, I passed down the steps, worn hollow in the centre by the ceaseless tread of drunken feet; and by the light of a flickering oil-lamp above the door I found the latch and made my way into a long, low room, thick and heavy with the brown opium smoke, and terraced with wooden berths, like the forecastle of an emigrant ship."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "But it is a common name in Nantucket, they say, and I suppose this Peter here is an emigrant from there."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "It is now nearly two centuries and a quarter since the original Briton, the earliest emigrant of my name, made his appearance in the wild and forest-bordered settlement which has since become a city."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "The time drawing on rapidly for the sailing of the emigrant-ship, my good old nurse (almost broken-hearted for me, when we first met) came up to London."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "Three years had elapsed since the sailing of the emigrant ship; when, at that same hour of sunset, and in the same place, I stood on the deck of the packet vessel that brought me home, looking on the rosy water where I had seen the image of that ship reflected."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "A Tale of Two Cities",
+        "sentence": "The crime for which I am imprisoned, Monsieur heretofore the Marquis, and for which I shall be summoned before the tribunal, and shall lose my life (without your so generous help), is, they tell me, treason against the majesty of the people, in that I have acted against them for an emigrant."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "A Tale of Two Cities",
+        "sentence": "It is in vain I represent that, before the sequestration of emigrant property, I had remitted the imposts they had ceased to pay; that I had collected no rent; that I had had recourse to no process."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "A Tale of Two Cities",
+        "sentence": "The only response is, that I have acted for an emigrant, and where is that emigrant?"
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "A Tale of Two Cities",
+        "sentence": "Ah! most gracious Monsieur heretofore the Marquis, where is that emigrant?"
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "A Tale of Two Cities",
+        "sentence": "Emigrant,” said the functionary, “I am going to send you on to Paris, under an escort."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "A Tale of Two Cities",
+        "sentence": "An ominous crowd gathered to see him dismount of the posting-yard, and many voices called out loudly, “Down with the emigrant!"
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "A Tale of Two Cities",
+        "sentence": "You are a cursed emigrant,” cried a farrier, making at him in a furious manner through the press, hammer in hand; “and you are a cursed aristocrat!"
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "A Tale of Two Cities",
+        "sentence": "A man with a bloated face opened the strong wicket, to whom Defarge presented “The Emigrant Evrémonde."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "A Tale of Two Cities",
+        "sentence": "Come!” said the chief, at length taking up his keys, “come with me, emigrant."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "A Tale of Two Cities",
+        "sentence": "Lorry when business hours came round, was this:--that he had no right to imperil Tellson’s by sheltering the wife of an emigrant prisoner under the Bank roof."
+      }
+    ]
+  },
+  "emigrate": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "To remove from one country or State to another, for the purpose of residence; to migrate from home. Forced to emigrate in a body to America. Macaulay. They [the Huns] were emigrating from Tartary into Europe in the time of the Goths. J. H. Newman.\n\nMigratory; roving. [Obs.]"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "leave one's country of residence for a new one"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "I am not going to emigrate, you know; I wasn’t aware that you would wish me not to when I told ’ee or I shouldn’t ha’ thought of doing it,” he said, simply."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "The restless who will not follow any steady occupation—and this relic of barbarism is a great check to civilisation (17. ‘Hereditary Genius,’ 1870, p. 347.)—emigrate to newly-settled countries; where they prove useful pioneers."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "They emigrate according to a preconcerted plan."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "Owing to this excess in the death-rate of male children, both at birth and for some time subsequently, and owing to the exposure of grown men to various dangers, and to their tendency to emigrate, the females in all old-settled countries, where statistical records have been kept, are found to preponderate considerably over the males. (53."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "‘They will emigrate together, aunt,’ said I."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "Micawber, if you were to emigrate now.’"
+      }
+    ]
+  },
+  "emigration": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. The act of emigrating; removal from one country or state to another, for the purpose of residence, as from Europe to America, or, in America, from the Atlantic States to the Western. 2. A body emigrants; emigrants collectively; as, the German emigration."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "migration from a place (especially migration from your native country in order to settle in another)"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "Angel’s original intention had not been emigration to Brazil but a northern or eastern farm in his own country."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "Emigration also comes in aid as a temporary check, but, with the extremely poor classes, not to any great extent."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "Zincke, Mr., on European emigration to America."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "Micawber, I wonder you have never turned your thoughts to emigration.’"
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "Micawber,’ was my aunt’s first salutation after we were seated. ‘Pray, have you thought about that emigration proposal of mine?’"
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "Micawber!’ said my aunt, when they entered. ‘We have been discussing your emigration, with many apologies to you for keeping you out of the room so long; and I’ll tell you what arrangements we propose.’"
+      },
+      {
+        "author": "Mary Shelley",
+        "work": "Frankenstein",
+        "sentence": "In this emigration I exceedingly lamented the loss of the fire which I had obtained through accident and knew not how to reproduce it."
+      }
+    ]
+  },
+  "emigre": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "One of the natives of France who were opposed to the first Revolution, and who left their country in consequence."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "someone who leaves one country to settle in another"
+      }
+    ],
+    "quotes": []
+  },
+  "emigree": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "someone who leaves one country to settle in another"
+      }
+    ],
+    "quotes": []
+  },
+  "immigrant": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "One who immigrates; one who comes to a country for the purpose of permanent residence; -- correlative of emigrant. Syn. -- See Emigrant."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a person who comes to a country where they were not born in order to settle there"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "When I have met an immigrant tottering under a bundle which contained his all—looking like an enormous wen which had grown out of the nape of his neck—I have pitied him, not because that was his all, but because he had all _that_ to carry."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "So with languages: the most symmetrical and complex ought not to be ranked above irregular, abbreviated, and bastardised languages, which have borrowed expressive words and useful forms of construction from various conquering, conquered, or immigrant races."
+      }
+    ]
+  },
+  "immigrate": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "To come into a country of which one is not a native, for the purpose of permanent residence. See Emigrate."
+      },
+      {
+        "source": "wordnet_v",
+        "def": "migrate to a new environment"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "introduce or send as immigrants"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "come into a new country and change residency"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "If the country were open on its borders, new forms would certainly immigrate, and this also would seriously disturb the relations of some of the former inhabitants."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "Let the climate and vegetation change, let other competing rodents or new beasts of prey immigrate, or old ones become modified, and all analogy would lead us to believe that some at least of the squirrels would decrease in numbers or become exterminated, unless they also became modified and improved in structure in a corresponding manner."
+      }
+    ]
+  },
+  "immigration": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "The act of immigrating; the passing or coming into a country for the purpose of permanent residence. The immigrations of the Arabians into Europe. T. Warton."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "migration into a place (especially migration to a country of which you are not a native in order to settle there)"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the body of immigrants arriving during a specified interval"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "Nor do I believe that any great physical change, as of climate, or any unusual degree of isolation to check immigration, is actually necessary to produce new and unoccupied places for natural selection to fill up by modifying and improving some of the varying inhabitants."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "Lastly, isolation, by checking immigration and consequently competition, will give time for any new variety to be slowly improved; and this may sometimes be of importance in the production of new species."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "The existence of such places will often depend on physical changes, which are generally very slow, and on the immigration of better adapted forms having been checked."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "In an extremely small area, especially if freely open to immigration, and where the contest between individual and individual must be severe, we always find great diversity in its inhabitants."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "And such new places will depend on slow changes of climate, or on the occasional immigration of new inhabitants, and, probably, in a still more important degree, on some of the old inhabitants becoming slowly modified, with the new forms thus produced and the old ones acting and reacting on each other."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "Moreover, when by sudden immigration or by unusually rapid development, many species of a new group have taken possession of a new area, they will have exterminated in a correspondingly rapid manner many of the old inhabitants; and the forms which thus yield their places will commonly be allied, for they will partake of some inferiority in common."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "We must, however, allow for the entire extinction of some preceding forms, and for the coming in of quite new forms by immigration, and for a large amount of modification, during the long and blank intervals between the successive formations."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "Facility of immigration, I believe, has been at least as important as the nature of the conditions."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "Even at present, by comparing the differences of the inhabitants of the sea on the opposite sides of a continent, and the nature of the various inhabitants of that continent in relation to their apparent means of immigration, some light can be thrown on ancient geography."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "The cases which I have here given all relate to aborigines, who have been subjected to new conditions as the result of the immigration of civilised men."
+      }
+    ]
+  },
+  "migraine": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Same as Megrim. -- Mi*grain\"ous, a."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a severe recurring vascular headache; occurs more frequently in women than men"
+      }
+    ],
+    "quotes": []
+  },
+  "migrant": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Migratory. Sir T. Browne. -- n.  A migratory bird or other animal."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "traveler who moves from one region or country to another"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "habitually moving from place to place especially in search of seasonal work"
+      }
+    ],
+    "quotes": []
+  },
+  "migrate": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. To remove from one country or region to another, with a view to residence; to change one's place of residence; to remove; as, the Moors who migrated from Africa into Spain; to migrate to the West. 2. To pass periodically from one region or climate to another for feeding or breeding; -- said of certain birds, fishes, and quadrupeds."
+      },
+      {
+        "source": "wordnet_v",
+        "def": "move from one country or region to another and settle there"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "move periodically or seasonally"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "It would be easy to show that several distinct mental actions are commonly embraced by this term; but every one understands what is meant, when it is said that instinct impels the cuckoo to migrate and to lay her eggs in other birds’ nests."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "If this were the case, the process of laying and hatching might be inconveniently long, more especially as she has to migrate at a very early period; and the first hatched young would probably have to be fed by the male alone."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "When the old nest is found inconvenient, and they have to migrate, it is the slaves which determine the migration, and actually carry their masters in their jaws."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "The masters determine when and where a new nest shall be formed, and when they migrate, the masters carry the slaves."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "If, for instance, a number of species, which stand in direct competition with each other, migrate in a body into a new and afterwards isolated country, they will be little liable to modification; for neither migration nor isolation in themselves can do anything."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "The answer, as I believe, is, that mammals have not been able to migrate, whereas some plants, from their varied means of dispersal, have migrated across the vast and broken interspace."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "The great and striking influence which barriers of every kind have had on distribution, is intelligible only on the view that the great majority of species have been produced on one side alone, and have not been able to migrate to the other side."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Sir James was much pained, and offered that they should all migrate to Cheltenham for a few months with the sacred ark, otherwise called a cradle: at that period a man could hardly know what to propose if Cheltenham were rejected."
+      },
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "Those same stars twinkle over other fields than these.—But how to come out of this condition and actually migrate thither?"
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "At the proper season these birds seem all day long to be impressed with the desire to migrate; their habits change; they become restless, are noisy and congregate in flocks."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "When they migrate into a colder climate, they must become clothed with thicker fur, or have their constitutions altered."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "Audubon states that a certain number of mocking-thrushes (Mimus polyglottus) remain all the year round in Louisiana, whilst others migrate to the Eastern States; these latter, on their return, are instantly recognised, and always attacked, by their southern brethren."
+      }
+    ]
+  },
+  "migration": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "The act of migrating."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the movement of persons from one country or locality to another"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a group of people migrating together (especially in some given time period)"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "(chemistry) the nonrandom movement of an atom or radical from one place to another within a molecule"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the periodic passage of groups of animals (especially birds or fishes) from one region to another for feeding or breeding"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "When the old nest is found inconvenient, and they have to migrate, it is the slaves which determine the migration, and actually carry their masters in their jaws."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "One day I fortunately chanced to witness a migration from one nest to another, and it was a most interesting spectacle to behold the masters carefully carrying, as Huber has described, their slaves in their jaws."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "One evening I visited another community of F. sanguinea, and found a number of these ants entering their nest, carrying the dead bodies of F. fusca (showing that it was not a migration) and numerous pupæ."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "With marine animals of all kinds, we may safely infer a large amount of migration during climatal and other changes; and when we see a species first appearing in any formation, the probability is that it only then first immigrated into that area."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "It is well known, for instance, that several species appeared somewhat earlier in the palæozoic beds of North America than in those of Europe; time having apparently been required for their migration from the American to the European seas."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "When such beds as were deposited in shallow water near the mouth of the Mississippi during some part of the glacial period shall have been upraised, organic remains will probably first appear and disappear at different levels, owing to the migration of species and to geographical changes."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "Barrande, which intrude for a period in the midst of an older formation, and then allow the pre-existing fauna to reappear; but Lyell’s explanation, namely, that it is a case of temporary migration from a distinct geographical province, seems to me satisfactory."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "During these long and blank intervals I suppose that the inhabitants of each region underwent a considerable amount of modification and extinction, and that there was much migration from other parts of the world."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "But after very long intervals of time and after great geographical changes, permitting much inter-migration, the feebler will yield to the more dominant forms, and there will be nothing immutable in the laws of past and present distribution."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "A second great fact which strikes us in our general review is, that barriers of any kind, or obstacles to free migration, are related in a close and important manner to the differences between the productions of various regions."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "We see this in the great difference of nearly all the terrestrial productions of the New and Old Worlds, excepting in the northern parts, where the land almost joins, and where, under a slightly different climate, there might have been free migration for the northern temperate forms, as there now is for the strictly arctic productions."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "Thus the high importance of barriers comes into play by checking migration; as does time for the slow process of modification through natural selection."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "If, for instance, a number of species, which stand in direct competition with each other, migrate in a body into a new and afterwards isolated country, they will be little liable to modification; for neither migration nor isolation in themselves can do anything."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "In the case of those species, which have undergone during whole geological periods but little modification, there is not much difficulty in believing that they may have migrated from the same region; for during the vast geographical and climatal changes which will have supervened since ancient times, almost any amount of migration is possible."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "He who rejects it, rejects the _vera causa_ of ordinary generation with subsequent migration, and calls in the agency of a miracle."
+      }
+    ]
+  },
+  "migrational": {
+    "defs": [
+      {
+        "source": "wordnet_a",
+        "def": "of or related to migration"
+      }
+    ],
+    "quotes": []
+  },
+  "migrator": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "traveler who moves from one region or country to another"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "an animal (especially birds and fish) that travels between different habitats at particular times of the year"
+      }
+    ],
+    "quotes": []
+  },
+  "migratory": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. Removing regularly or occasionally from one region or climate to another; as, migratory birds. 2. Hence, roving; wandering; nomad; as, migratory habits; a migratory life. Migratory locust (Zoöl.) See Locust. -- Migratory thrush (Zoöl.), the American robin. See Robin."
+      },
+      {
+        "source": "wordnet_a",
+        "def": "used of animals that move seasonally"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "habitually moving from place to place especially in search of seasonal work"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "I can only assert, that instincts certainly do vary—for instance, the migratory instinct, both in extent and direction, and in its total loss."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "Migratory birds are quite miserable if stopped from migrating; perhaps they enjoy starting on their long flight; but it is hard to believe that the poor pinioned goose, described by Audubon, which started on foot at the proper time for its journey of probably more than a thousand miles, could have felt any joy in doing so."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "But the most curious instance known to me of one instinct getting the better of another, is the migratory instinct conquering the maternal instinct."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "Nevertheless, the migratory instinct is so powerful, that late in the autumn swallows, house-martins, and swifts frequently desert their tender young, leaving them to perish miserably in their nests. (22."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "Whether this is the case with the migratory in comparison with the maternal instinct, may be doubted."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "Whilst the mother-bird is feeding, or brooding over her nestlings, the maternal instinct is probably stronger than the migratory; but the instinct which is the more persistent gains the victory, and at last, at a moment when her young ones are not in sight, she takes flight and deserts them."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "When arrived at the end of her long journey, and the migratory instinct has ceased to act, what an agony of remorse the bird would feel, if, from being endowed with great mental activity, she could not prevent the image constantly passing through her mind, of her young ones perishing in the bleak north from cold and hunger."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "Thus the males of our migratory birds generally arrive at their places of breeding before the females, so that many males are ready to contend for each female."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "Swaysland of Brighton has been in the habit, during the last forty years, of catching our migratory birds on their first arrival, and he has never known the females of any species to arrive before their males."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "And the like holds good with most of the migratory birds of the United States. (5."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "With respect to the migratory locusts of Russia, Korte has given (28."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "Instinct, migratory, vanquishing the maternal."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "Koppen, F.T., on the migratory locust."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "Locust, migratory; selection by female."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "Migratory instinct of birds; vanquishing the maternal."
+      }
+    ]
+  },
+  "nonmigratory": {
+    "defs": [
+      {
+        "source": "wordnet_a",
+        "def": "used of animals that do not migrate"
+      }
+    ],
+    "quotes": []
+  },
+  "transmigrante": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "a Latin American who buys used goods in the United States and takes them to Latin America to sell"
+      }
+    ],
+    "quotes": []
+  },
+  "transmigrate": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. To pass from one country or jurisdiction to another for the purpose of residence, as men or families; to migrate. 2. To pass from one body or condition into another. Their may transmigrate into each other. Howell."
+      },
+      {
+        "source": "wordnet_v",
+        "def": "be born anew in another body after death"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "move from one country or region to another and settle there"
+      }
+    ],
+    "quotes": []
+  },
+  "transmigration": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. The act of passing from one country to another; migration. 2. The passing of the soul at death into another mortal body; metempsychosis."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the passing of a soul into another body after death"
+      }
+    ],
+    "quotes": []
+  },
+  "concuss": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. To shake or agitate. \"Concussed with uncertainty.\" Daniel. 2. (Law)  To force (a person) to do something, or give up something, by intimidation; to coerce. Wharton."
+      },
+      {
+        "source": "wordnet_v",
+        "def": "shake violently"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "injure the brain; sustain a concussion"
+      }
+    ],
+    "quotes": []
+  },
+  "concussion": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. A shaking or agitation; a shock; caused by the collision of two bodies. It is believed that great ringing of bells, in populous cities, hath dissipated pestilent air; which may be from the concussion of the air. Bacon. 2. (Med.)  A condition of lowered functional activity, without visible structural change, produced in an organ by a shock, as by fall or blow; as, a concussion of the brain. 3. (Civil Law)  The unlawful forcing of another by threats of violence to yield up something of value. Then concussion, rapine, pilleries, Their catalogue of accusations fill. Daniel. Concussion fuse (Mil.), one that is ignited by the concussion of the shell when it strikes. Syn. -- See Shock."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "injury to the brain caused by a blow; usually resulting in loss of consciousness"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "any violent blow"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "The oak partition shook with the concussion, and the place was filled with grey smoke."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Farebrother had the effect of a sharp concussion."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "The broad palms of his tail are flirted high into the air; then smiting the surface, the thunderous concussion resounds for miles."
+      },
+      {
+        "author": "Bram Stoker",
+        "work": "Dracula",
+        "sentence": "There was of course a considerable concussion as the vessel drove up on the sand heap."
+      },
+      {
+        "author": "Bram Stoker",
+        "work": "Dracula",
+        "sentence": "But, strangest of all, the very instant the shore was touched, an immense dog sprang up on deck from below, as if shot up by the concussion, and running forward, jumped from the bow on the sand."
+      },
+      {
+        "author": "H. G. Wells",
+        "work": "The War of the Worlds",
+        "sentence": "I turned, and as I did so the screw must have come out, for the lid of the cylinder fell upon the gravel with a ringing concussion."
+      },
+      {
+        "author": "H. G. Wells",
+        "work": "The War of the Worlds",
+        "sentence": "The sudden near concussion, the last close upon the first, made my heart jump."
+      },
+      {
+        "author": "H. G. Wells",
+        "work": "The War of the Worlds",
+        "sentence": "Then, after an interminable time, as it seemed to us, crouching and peering through the hedge, came a sound like the distant concussion of a gun."
+      },
+      {
+        "author": "H. G. Wells",
+        "work": "The War of the Worlds",
+        "sentence": "There was a concussion, and the black horse came staggering sideways, and the carthorse pushed beside it."
+      },
+      {
+        "author": "H. G. Wells",
+        "work": "The War of the Worlds",
+        "sentence": "And then followed such a concussion as I have never heard before or since."
+      },
+      {
+        "author": "Mary Shelley",
+        "work": "Frankenstein",
+        "sentence": "The path, as you ascend higher, is intersected by ravines of snow, down which stones continually roll from above; one of them is particularly dangerous, as the slightest sound, such as even speaking in a loud voice, produces a concussion of air sufficient to draw destruction upon the head of the speaker."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "A Tale of Two Cities",
+        "sentence": "Stryver turned and burst out of the Bank, causing such a concussion of air on his passage through, that to stand up against it bowing behind the two counters, required the utmost remaining strength of the two ancient clerks."
+      }
+    ]
+  },
+  "cuss": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "a persistently annoying person"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a boy or man"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "profane or obscene expression usually of surprise or anger"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "utter obscenities or profanities"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "’A’s a stammering man, mem,” said Henery Fray in an undertone, “and they turned him away because the only time he ever did speak plain he said his soul was his own, and other iniquities, to the squire. ’A can cuss, mem, as well as you or I, but ’a can’t speak a common speech to save his life."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "And how Farmer James would cuss, and call thee a fool, wouldn’t he, Joseph, when ’a seed his name looking so inside-out-like?” continued Matthew Moon with feeling."
+      },
+      {
+        "author": "William James",
+        "work": "Pragmatism",
+        "sentence": "Where's Timmis?\" said he, one day after he had taken a seat, and puffed and blowed for the space of five minutes--\"Cuss them stairs; they'll be the death o' me."
+      }
+    ]
+  },
+  "cussed": {
+    "defs": [
+      {
+        "source": "wordnet_v",
+        "def": "utter obscenities or profanities"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "stubbornly persistent in wrongdoing"
+      }
+    ],
+    "quotes": []
+  },
+  "cussedly": {
+    "defs": [
+      {
+        "source": "wordnet_r",
+        "def": "in a stubborn unregenerate manner"
+      }
+    ],
+    "quotes": []
+  },
+  "cussedness": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Disposition to willful wrongdoing; malignity; perversity; cantankerousness; obstinacy. [Slang or Colloq., U. S.] In her opinion it was all pure \"cussedness.\" Mrs. Humphry Ward. Disputatiousness and perversity (what the Americans call \"cussedness\"). James Bryce."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "meanspirited disagreeable contrariness"
+      }
+    ],
+    "quotes": []
+  },
+  "decussate": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "To cross at an acute angle; to cut or divide in the form of X; to intersect; -- said of lines in geometrical figures, rays of light, nerves, etc.\n\n1. Crossed; intersected. 2. (Bot.)  Growing in pairs, each of which is at right angles to the next pair above or below; as, decussated leaves or branches. 3. (Rhet.)  Consisting of two rising and two falling clauses, placed in alternate opposition to each other; as, a decussated period."
+      },
+      {
+        "source": "wordnet_v",
+        "def": "cross or intersect so as to form a cross"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "crossed or intersected in the form of an X"
+      }
+    ],
+    "quotes": []
+  },
+  "decussation": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Act of crossing at an acute angle, or state of being thus crossed; an intersection in the form of an X; as, the decussation of lines, nerves, etc."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "an intersection or crossing of two tracts in the form of the letter X"
+      }
+    ],
+    "quotes": []
+  },
+  "discuss": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. To break to pieces; to shatter. [Obs.] Sir T. Browne. 2. To break up; to disperse; to scatter; to dissipate; to drive away; -- said especially of tumors. Many arts were used to discuss the beginnings of new affection. Sir H. Wotton. A pomade . . . of virtue to discuss pimples. Rambler. 3. To shake; to put away; to finish. [Obs.] All regard of shame she had discussed. Spenser. 4. To examine in detail or by disputation; to reason upon by presenting favorable and adverse considerations; to debate; to sift; to investigate; to ventilate. \"We sat and . . . discussed the farm . . . and the price of grain.\" Tennyson. \"To discuss questions of taste.\" Macaulay. 5. To deal with, in eating or drinking. [Colloq.] We sat quietly down and discussed a cold fowl that we had brought with us. Sir S. Baker. 6. (Law)  To examine or search thoroughly; to exhaust a remedy against, as against a principal debtor before proceeding against the surety. Burrill. Syn. -- To Discuss, Examine, Debate. We speak of examining a subject when we ponder it with care, in order to discover its real state, or the truth respecting it. We speak of discussing a topic when we examine it thoroughly in its distinct parts. The word is very commonly applied to matters of opinion. We may discuss a subject without giving in an adhesion to any conclusion. We speak of debating a point when we examine it in mutual argumentation between opposing parties. In debate we contend for or against some conclusion or view."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "an athletic competition in which a disk-shaped object is thrown as far as possible"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a disk used in throwing competitions"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "to consider or examine in speech or writing"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "speak with others about (something); talk (something) over in detail; have a discussion"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "The concavities of it is not sufficient; for, look you, the athversary, you may discuss unto the Duke, look you, is digt himself four yard under the countermines."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Discuss the same in French unto him."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "I will discuss the humour of this love to Ford."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Speak, breathe, discuss; brief, short, quick, snap."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "I’ll make a memorandum of the arrangement which struck me as likely to be convenient, for I haven’t time to talk about it now; and then we’ll discuss it at our leisure."
+      },
+      {
+        "author": "John Stuart Mill",
+        "work": "Utilitarianism",
+        "sentence": "Whether this opinion is correct or not, it is superfluous here to discuss; since whatever aid religion, either natural or revealed, can afford to ethical investigation, is as open to the utilitarian moralist as to any other."
+      },
+      {
+        "author": "John Stuart Mill",
+        "work": "Utilitarianism",
+        "sentence": "The origin of this sentiment it is not necessary here to discuss."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "We shall, however, be enabled to discuss what circumstances are most favourable to variation."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "In the next chapter I shall discuss the complex and little known laws of variation and of correlation of growth."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "Before applying the principles arrived at in the last chapter to organic beings in a state of nature, we must briefly discuss whether these latter are subject to any variation."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "Nor shall I here discuss the various definitions which have been given of the term species."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "But to discuss whether they are rightly called species or varieties, before any definition of these terms has been generally accepted, is vainly to beat the air."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "But when we come to discuss the principle, as I call it, of Divergence of Character, we shall see how this may be explained, and how the lesser differences between varieties will tend to increase into the greater differences between species."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "We will now discuss in a little more detail the struggle for existence."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "This subject has been ably treated by several authors, and I shall, in my future work, discuss some of the checks at considerable length, more especially in regard to the feral animals of South America."
+      }
+    ]
+  },
+  "discussant": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "a participant in a formal discussion"
+      }
+    ],
+    "quotes": []
+  },
+  "discussion": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. The act or process of discussing by breaking up, or dispersing, as a tumor, or the like. 2. The act of discussing or exchanging reasons; examination by argument; debate; disputation; agitation. The liberty of discussion is the great safeguard of all other liberties. Macaulay. Discussion of a problem or an equation (Math.), the operation of assigning different reasonable values to the arbitrary quantities and interpreting the result. Math. Dict."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "an extended communication (often interactive) dealing with some particular topic"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "an exchange of views on some topic"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "Édouard reprit cette discussion avec plaisir."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Gabriel theorized, not without truth, that in quiet discussion of any matter within reach of the speakers’ eyes, these are usually fixed upon it."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "The fitful evasiveness of her manner when the subject was under discussion countenanced the idea."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "Before discussion of the question had proceeded further there walked round the corner of the settle into the full firelight of the apartment Mr Dairyman Crick, Mrs Crick, and two of the milkmaids."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "We’ve just had up a story about—” Durbeyfield began, and thereupon related in detail to his wife a discussion which had arisen at the inn about the clergy, originated by the fact of his daughter having married into a clerical family."
+      },
+      {
+        "author": "John Stuart Mill",
+        "work": "Utilitarianism",
+        "sentence": "On the present occasion, I shall, without further discussion of the other theories, attempt to contribute something towards the understanding and appreciation of the Utilitarian or Happiness theory, and towards such proof as it is susceptible of."
+      },
+      {
+        "author": "John Stuart Mill",
+        "work": "Utilitarianism",
+        "sentence": "So far is this from being the fact, that there is as much difference of opinion, and as fierce discussion, about what is just, as about what is useful to society."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "I shall reserve for my future work the discussion of these difficulties, and the tables themselves of the proportional numbers of the varying species."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "We shall presently see its importance; but I must here treat the subject with extreme brevity, though I have the materials prepared for an ample discussion."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "After the foregoing discussion, which ought to have been much amplified, we may, I think, assume that the modified descendants of any one species will succeed by so much the better as they become more diversified in structure, and are thus enabled to encroach on places occupied by other beings."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "Many of them are very grave; but I think that in the discussion light has been thrown on several facts, which on the theory of independent acts of creation are utterly obscure."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "_On the state of Development of Ancient Forms_.—There has been much discussion whether recent forms are more highly developed than ancient."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "In our discussion on embryology, we shall see why such characters are so valuable, on the view of classification tacitly including the idea of descent."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Featherstone, two of Peacock’s most important patients, had, from different causes, given an especially good reception to his successor, who had raised some partisanship as well as discussion."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "This kind of discussion is unfruitful, Vincy,” said Mr."
+      }
+    ]
+  },
+  "percuss": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "To strike smartly; to strike upon or against; as, to percuss the chest in medical examination. Flame percussed by air giveth a noise. Bacon.\n\nTo strike or tap in an examination by percussion. See Percussion, 3. Quain."
+      },
+      {
+        "source": "wordnet_v",
+        "def": "strike or tap firmly"
+      }
+    ],
+    "quotes": []
+  },
+  "percussion": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. The act of percussing, or striking one body against another; forcible collision, esp. such as gives a sound or report. Sir I. Newton. 2. Hence: The effect of violent collision; vibratory shock; impression of sound on the ear. The thunderlike percussion of thy sounds. Shak. 3. (Med.)  The act of tapping or striking the surface of the body in order to learn the condition of the parts beneath by the sound emitted or the sensation imparted to the fingers. Percussion is said to be immediate if the blow is directly upon the body; if some interventing substance, as a pleximeter, is, used, it is called mediate. Center of percussion. See under Center. -- Percussion bullet, a bullet containing a substance which is exploded by percussion; an explosive bullet. -- Percussion cap, a small copper cap or cup, containing fulminating powder, and used with a percussion lock to explode gunpowder. -- Percussion fuze. See under Fuze. -- Percussion lock, the lock of a gun that is fired by percussion upon fulminating powder. -- Percussion match, a match which ignites by percussion. -- Percussion powder, powder so composed as to ignite by slight percussion; fulminating powder. -- Percussion sieve, Percussion table, a machine for sorting ores by agitation in running water."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the act of playing a percussion instrument"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the act of exploding a percussion cap"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the section of a band or orchestra that plays percussion instruments"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "tapping a part of the body for diagnostic purposes"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Thou wast a soldier Even to Cato’s wish, not fierce and terrible Only in strokes, but with thy grim looks and The thunderlike percussion of thy sounds Thou mad’st thine enemies shake, as if the world Were feverous and did tremble."
+      }
+    ]
+  },
+  "percussionist": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "a musician who plays percussion instruments"
+      }
+    ],
+    "quotes": []
+  },
+  "percussive": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Striking against; percutient; as, percussive force."
+      },
+      {
+        "source": "wordnet_a",
+        "def": "involving percussion or featuring percussive instruments"
+      }
+    ],
+    "quotes": []
+  },
+  "percussor": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "(medicine) a small hammer with a rubber head used in percussive examinations of the chest and in testing reflexes"
+      }
+    ],
+    "quotes": []
+  },
+  "repercuss": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "To drive or beat back; hence, to reflect; to reverberate. Perceiving all the subjacent country, . . . to repercuss such a light as I could hardly look against. Evelyn."
+      },
+      {
+        "source": "wordnet_v",
+        "def": "cause repercussions; have an unwanted effect"
+      }
+    ],
+    "quotes": []
+  },
+  "repercussion": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. The act of driving back, or the state of being driven back; reflection; reverberation; as, the repercussion of sound. Ever echoing back in endless repercussion. Hare. 2. (Mus.)  Rapid reiteration of the same sound. 3. (Med.)  The subsidence of a tumor or eruption by the action of a repellent. Dunglison. 4. (Obstetrics)  In a vaginal examination, the act of imparting through the uterine wall with the finger a shock to the fetus, so that it bounds upward, and falls back again against the examining finger."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a remote or indirect consequence of some action"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a movement back from an impact"
+      }
+    ],
+    "quotes": []
+  },
+  "succuss": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "any of several liquids of the body"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "shake; especially (a patient to detect fluids or air in the body)"
+      }
+    ],
+    "quotes": []
+  },
+  "succussion": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "The act of shaking; a shake; esp. (Med.), a shaking of the body to ascertain if there be a liquid in the thorax."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "shaking a person to determine whether a large amount of liquid is present in a body cavity"
+      }
+    ],
+    "quotes": []
+  },
+  "circumvolve": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "To roll round; to cause to revolve; to put into a circular motion. Herrick.\n\nTo roll round; to revolve."
+      },
+      {
+        "source": "wordnet_v",
+        "def": "cause to turn on an axis or center"
+      }
+    ],
+    "quotes": []
+  },
+  "convolve": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "To roll or wind together; to roll or twist one part on another. Then Satan first knew pain, And writhed him to and fro convolved. Milton."
+      },
+      {
+        "source": "wordnet_v",
+        "def": "curl, wind, or twist together"
+      }
+    ],
+    "quotes": []
+  },
+  "convolvulaceae": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "morning glory; bindweed; sweet potato; plants having trumpet-shaped flowers and a climbing or twining habit"
+      }
+    ],
+    "quotes": []
+  },
+  "convolvulus": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "A large genus of plants having monopetalous flowers, including the common bindweed (C. arwensis), and formerly the morning-glory, but this is now transferred to the genus Ipomæa. The luster of the long convolvuluses That coiled around the stately stems. Tennyson."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "any of numerous plants of the genus Convolvulus"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "My Tess, no doubt, almost as many experiences as that wild convolvulus out there on the garden hedge, that opened itself this morning for the first time."
+      },
+      {
+        "author": "Oscar Wilde",
+        "work": "The Picture of Dorian Gray",
+        "sentence": "He saw it creeping into the stained trumpet of a Tyrian convolvulus."
+      }
+    ]
+  },
+  "devolve": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. To roll onward or downward; to pass on. Every headlong stream Devolves its winding waters to the main. Akenside. Devolved his rounded periods. Tennyson. 2. To transfer from one person to another; to deliver over; to hand down; -- generally with upon, sometimes with to or into. They devolved a considerable share of their power upon their favorite. Burke. They devolved their whole authority into the hands of the council of sixty. Addison.\n\nTo pass by transmission or succession; to be handed over or down; -- generally with on or upon, sometimes with to or into; as, after the general fell, the command devolved upon (or on) the next officer in rank. His estate . . . devolved to Lord Somerville. Johnson."
+      },
+      {
+        "source": "wordnet_v",
+        "def": "pass on or delegate to another"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "be inherited by"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "grow worse"
+      }
+    ],
+    "quotes": []
+  },
+  "devolvement": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "The act or process of devolving;; devolution."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the delegation of authority (especially from a central to a regional government)"
+      }
+    ],
+    "quotes": []
+  },
+  "disinvolve": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "To uncover; to unfold or unroll; to disentangle. [R.] Dr. H. More."
+      },
+      {
+        "source": "wordnet_v",
+        "def": "free from involvement or entanglement"
+      }
+    ],
+    "quotes": []
+  },
+  "evolve": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. To unfold or unroll; to open and expand; to disentangle and exhibit clearly and satisfactorily; to develop; to derive; to educe. The animal soul sooner evolves itself to its full orb and extent than the human soul. Sir. M. Hale. The principles which art involves, science alone evolves. Whewell. Not by any power evolved from man's own resources, but by a power which descended from above. J. C. Shairp. 2. To throw out; to emit; as, to evolve odors.\n\nTo become open, disclosed, or developed; to pass through a process of evolution. Prior."
+      },
+      {
+        "source": "wordnet_v",
+        "def": "work out"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "undergo development or evolution"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "gain through experience"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "The superadded circumstance which would evolve the genius had not yet come; the universe had not yet beckoned."
+      }
+    ]
+  },
+  "involve": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. To roll or fold up; to wind round; to entwine. Some of serpent kind . . . involved Their snaky folds. Milton. 2. To envelop completely; to surround; to cover; to hide; to involve in darkness or obscurity. And leave a singèd bottom all involved With stench and smoke. Milton. 3. To complicate or make intricate, as in grammatical structure. \"Involved discourses.\" Locke. 4. To connect with something as a natural or logical consequence or effect; to include necessarily; to imply. He knows His end with mine involved. Milton. The contrary necessarily involves a contradiction. Tillotson. 5. To take in; to gather in; to mingle confusedly; to blend or merge. [R.] The gathering number, as it moves along, Involves a vast involuntary throng. Pope. Earth with hell To mingle and involve. Milton. 6. To envelop, infold, entangle, or embarrass; as, to involve a person in debt or misery. 7. To engage thoroughly; to occupy, employ, or absorb. \"Involved in a deep study.\" Sir W. Scott. 8. (Math.)  To raise to any assigned power; to multiply, as a quantity, into itself a given number of times; as, a quantity involved to the third or fourth power. Syn. -- To imply; include; implicate; complicate; entangle; embarrass; overwhelm. -- To Involve, Imply. Imply is opposed to express, or set forth; thus, an implied engagement is one fairly to be understood from the words used or the circumstances of the case, though not set forth in form. Involve goes beyond the mere interpretation of things into their necessary relations; and hence, if one thing involves another, it so contains it that the two must go together by an indissoluble connection. War, for example, involves wide spread misery and death; the premises of a syllogism involve the conclusion."
+      },
+      {
+        "source": "wordnet_v",
+        "def": "connect closely and often incriminatingly"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "engage as a participant"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "have as a necessary feature"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "require as useful, just, or proper"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "Upon the whole she felt gratified, even though such a limited and evanescent triumph should involve her daughter’s reputation; it might end in marriage yet, and in the warmth of her responsiveness to their admiration she invited her visitors to stay to tea."
+      },
+      {
+        "author": "John Stuart Mill",
+        "work": "Utilitarianism",
+        "sentence": "In our survey of the various popular acceptations of justice, the term appeared generally to involve the idea of a personal right--a claim on the part of one or more individuals, like that which the law gives when it confers a proprietary or other legal right."
+      },
+      {
+        "author": "Oscar Wilde",
+        "work": "The Picture of Dorian Gray",
+        "sentence": "It was to have its service of the intellect, certainly, yet it was never to accept any theory or system that would involve the sacrifice of any mode of passionate experience."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "But such a supposition did by no means involve the remotest suspicion as to any boat’s crew being assigned to that boat."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "To some the general interest in the White Whale was now wildly heightened by a circumstance of the Town-Ho’s story, which seemed obscurely to involve with the whale a certain wondrous, inverted visitation of one of those so called judgments of God which at times are said to overtake some men."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "I know that this would sometimes involve a slight loss of speed in the chase; but long experience in various whalemen of more than one nation has convinced me that in the vast majority of failures in the fishery, it has not by any means been so much the speed of the whale as the before described exhaustion of the harpooneer that has caused them."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "Nevertheless, as the second iron is already connected with the line, and the line is running, hence that weapon must, at all events, be anticipatingly tossed out of the boat, somehow and somewhere; else the most terrible jeopardy would involve all hands."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "But not to speak of the passage through the whole length of the Mediterranean, and another passage up the Persian Gulf and Red Sea, such a supposition would involve the complete circumnavigation of all Africa in three days, not to speak of the Tigris waters, near the site of Nineveh, being too shallow for any whale to swim in."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "In their researches into the human frame, it may be that the higher and more subtle faculties of such men were materialised, and that they lost the spiritual view of existence amid the intricacies of that wondrous mechanism, which seemed to involve art enough to comprise all of life within itself."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "‘My dear Copperfield,’ he replied. ‘To a man possessed of the higher imaginative powers, the objection to legal studies is the amount of detail which they involve."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "I know that it will involve many privations and inconveniences."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "A Tale of Two Cities",
+        "sentence": "I ask for information, as a plodding man of business who only deals with such material objects as guineas, shillings, and bank-notes--may not the retention of the thing involve the retention of the idea?"
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "A Tale of Two Cities",
+        "sentence": "It is easy to foresee that the pretence will be the common one, a prison plot, and that it will involve her life--and perhaps her child’s--and perhaps her father’s--for both have been seen with her at that place."
+      },
+      {
+        "author": "Jane Austen",
+        "work": "Emma",
+        "sentence": "She would have been too happy but for poor Harriet; but every blessing of her own seemed to involve and advance the sufferings of her friend, who must now be even excluded from Hartfield."
+      },
+      {
+        "author": "Jane Austen",
+        "work": "Persuasion",
+        "sentence": "With these supports, she hoped that the acquaintance between herself and the Crofts, which, with Lady Russell, still resident in Kellynch, and Mary fixed only three miles off, must be anticipated, need not involve any particular awkwardness."
+      }
+    ]
+  },
+  "involved": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Same as Involute."
+      },
+      {
+        "source": "wordnet_v",
+        "def": "connect closely and often incriminatingly"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "engage as a participant"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "have as a necessary feature"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "require as useful, just, or proper"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "She seemed to prefer a less tragic probability; to have saved a man from death involved talk that should harmonise with the dignity of such a deed—and she shunned it."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Long experience had so precisely taught the animal the difference between such exclamations as “Come in!” and “D–––– ye, come in!” that he knew to a hair’s breadth the rate of trotting back from the ewes’ tails that each call involved, if a staggerer with the sheep crook was to be escaped."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Coggan (a wholesome-looking lady who had a voice for each class of remark according to the emotion involved; who could toss a pancake or twirl a mop with the accuracy of pure mathematics, and who at this moment showed hands shaggy with fragments of dough and arms encrusted with flour)."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Fray here drew up his features to the mild degree of melancholy required when the persons involved in the given misfortune do not belong to your own family."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Being a woman with some good sense in reasoning on subjects wherein her heart was not involved, Bathsheba genuinely repented that a freak which had owed its existence as much to Liddy as to herself, should ever have been undertaken, to disturb the placidity of a man she respected too highly to deliberately tease."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "The peculiar motion involved in turning a wheel has a wonderful tendency to benumb the mind."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "And before I get involved in the multifarious details of my new position, I should like to have secured my partner."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "Sometimes she was completely involved in the smoke of her fire; then it would leave her figure free, irradiated by the brassy glare from the heap."
+      },
+      {
+        "author": "John Stuart Mill",
+        "work": "Utilitarianism",
+        "sentence": "There is no case of moral obligation in which some secondary principle is not involved; and if only one, there can seldom be any real doubt which one it is, in the mind of any person by whom the principle itself is recognized."
+      },
+      {
+        "author": "John Stuart Mill",
+        "work": "Utilitarianism",
+        "sentence": "Impartiality where rights are concerned is of course obligatory, but this is involved in the more general obligation of giving to every one his right."
+      },
+      {
+        "author": "John Stuart Mill",
+        "work": "Utilitarianism",
+        "sentence": "There is involved, in addition, the conception of some definite person who suffers by the infringement; whose rights (to use the expression appropriated to the case) are violated by it."
+      },
+      {
+        "author": "John Stuart Mill",
+        "work": "Utilitarianism",
+        "sentence": "The interest involved is that of security, to every one's feelings the most vital of all interests."
+      },
+      {
+        "author": "John Stuart Mill",
+        "work": "Utilitarianism",
+        "sentence": "It is involved in the very meaning of Utility, or the Greatest-Happiness Principle."
+      },
+      {
+        "author": "Lewis Carroll",
+        "work": "Alice's Adventures in Wonderland",
+        "sentence": "If I or she should chance to be Involved in this affair, He trusts to you to set them free, Exactly as we were."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "When we attempt to estimate the amount of structural difference between the domestic races of the same species, we are soon involved in doubt, from not knowing whether they have descended from one or several parent-species."
+      }
+    ]
+  },
+  "involvement": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "The act of involving, or the state of being involved. Lew Wallace."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the act of sharing in the activities of a group"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a connection of inclusion or containment"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a sense of concern with and curiosity about someone or something"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a usually secretive or illicit sexual relationship"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Jane Austen",
+        "work": "Emma",
+        "sentence": "He feared there must be some decided involvement."
+      }
+    ]
+  },
+  "revolve": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. To turn or roll round on, or as on, an axis, like a wheel; to rotate, -- which is the more specific word in this sense. If the earth revolve thus, each house pear the equator must move a thousand miles an hour. I. Watts. 2. To move in a curved path round a center; as, the planets revolve round the sun. 3. To pass in cycles; as, the centuries revolve. 4. To return; to pass. [R.] Ayliffe.\n\n1. To cause to turn, as on an axis. Then in the east her turn she shines, Revolved on heaven's great axile. Milton. 2. Hence, to turn over and over in the mind; to reflect repeatedly upon; to consider all aspects of. This having heard, straight I again revolved The law and prophets. Milton."
+      },
+      {
+        "source": "wordnet_v",
+        "def": "turn on or around an axis or a center"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "move in an orbit"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "cause to move by turning over or in a circular manner of as if on an axis"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Consider, When you above perceive me like a crow, That it is place which lessens and sets off; And you may then revolve what tales I have told you Of courts, of princes, of the tricks in war."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "And so conduct me where, from company, I may revolve and ruminate my grief."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Shall the proud lord That bastes his arrogance with his own seam And never suffers matter of the world Enter his thoughts, save such as doth revolve And ruminate himself—shall he be worshipp’d Of that we hold an idol more than he?"
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Soft, here follows prose. [_Reads._] _If this fall into thy hand, revolve."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "Would it be thought sufficient to say that because planets revolve in elliptic courses round the sun, satellites follow the same course round the planets, for the sake of symmetry, and to complete the scheme of nature?"
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "Round him I must revolve by the gravitation of spirits."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "There revolve, to give bound and period to his being on all sides, the sun and moon, the great formalists in the sky: here lies stubborn matter, and will not swerve from its chemical routine."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "Ptolemy believed that the sun, planets, and stars revolve around the earth; Copernicus taught that the planets revolve around the sun.]"
+      },
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "His words and attitude always suppose a better state of things than other men are acquainted with, and he will be the last man to be disappointed as the ages revolve."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "I thought to find one stubborn, at the least; but my one cogged circle fits into all their various wheels, and they revolve."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "But even so, amid the tornadoed Atlantic of my being, do I myself still for ever centrally disport in mute calm; and while ponderous planets of unwaning woe revolve round me, deep down and deep inland there I still bathe me in eternal mildness of joy."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "But if the great sun move not of himself; but is as an errand-boy in heaven; nor one single star can revolve, but by some invisible power; how then can this one small heart beat; this one small brain think thoughts; unless God does that beating, does that thinking, does that living, and not I."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "Round and round, then, and ever contracting towards the button-like black bubble at the axis of that slowly wheeling circle, like another Ixion I did revolve."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "Dick made his two hands revolve very fast about each other a great number of times, and then brought them into collision, and rolled them over and over one another, to express confusion. ‘There was that sort of thing done to me somehow."
+      },
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Wisdom of Father Brown",
+        "sentence": "All my riddles, however, revolve round our bandit chief,\" resumed the priest reflectively."
+      }
+    ]
+  },
+  "revolved": {
+    "defs": [
+      {
+        "source": "wordnet_v",
+        "def": "turn on or around an axis or a center"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "move in an orbit"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "cause to move by turning over or in a circular manner of as if on an axis"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "turned in a circle around an axis"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Clark, who, twenty years younger than Jan Coggan, revolved in the same orbit."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Every conceivable aid, method, stratagem, mechanism, by which these last desperate eight hundred yards could be overpassed by a human being unperceived, was revolved in her busy brain, and dismissed as impracticable."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "The churn revolved as usual, but the butter would not come."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "As I ran down the passage, my sister’s door was unlocked, and revolved slowly upon its hinges."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "He breathed with a sort of muffledness; then seemed troubled in the nose; then revolved over once or twice; then sat up and rubbed his eyes."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "For, by this time, so spent was he by loss of blood, that he helplessly rolled away from the wreck he had made; lay panting on his side, impotently flapped with his stumped fin, then over and over slowly revolved like a waning world; turned up the white secrets of his belly; lay like a log, and died."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "Levelling his glass at this sight, Ahab quickly revolved in his pivot-hole, crying, “Aloft there, and rig whips and buckets to wet the sails;—Malays, sir, and after us!"
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "It was thus with the Pequod’s; at almost every shock the helmsman had not failed to notice the whirling velocity with which they revolved upon the cards; it is a sight that hardly anyone can behold without some sort of unwonted emotion."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "The Manxman took the reel, and holding it high up, by the projecting handle-ends of the spindle, round which the spool of line revolved, so stood with the angular log hanging downwards, till Ahab advanced to him."
+      },
+      {
+        "author": "Mary Shelley",
+        "work": "Frankenstein",
+        "sentence": "I revolved these circumstances in my mind and determined thenceforth to apply myself more particularly to those branches of natural philosophy which relate to physiology."
+      },
+      {
+        "author": "Mary Shelley",
+        "work": "Frankenstein",
+        "sentence": "I revolved in my mind the events which I had until now sought to forget: the whole train of my progress toward the creation; the appearance of the works of my own hands at my bedside; its departure."
+      },
+      {
+        "author": "Mary Shelley",
+        "work": "Frankenstein",
+        "sentence": "He revolved a thousand plans by which he should be enabled to prolong the deceit until it might be no longer necessary, and secretly to take his daughter with him when he departed."
+      },
+      {
+        "author": "Mary Shelley",
+        "work": "Frankenstein",
+        "sentence": "I revolved many projects, but that on which I finally fixed was to enter the dwelling when the blind old man should be alone."
+      },
+      {
+        "author": "Mary Shelley",
+        "work": "Frankenstein",
+        "sentence": "I revolved rapidly in my mind a multitude of thoughts and endeavoured to arrive at some conclusion."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "A Tale of Two Cities",
+        "sentence": "As everything turned upon her, and revolved about her, they went out under the plane-tree, and she carried the wine down for the special benefit of Mr."
+      }
+    ]
+  },
+  "revolver": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "One who, or that which, revolves; specifically, a firearm ( commonly a pistol) with several chambers or barrels so arranged as to revolve on an axis, and be discharged in succession by the same lock; a repeater."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a pistol with a revolving cylinder (usually having six chambers for bullets)"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a door consisting of four orthogonal partitions that rotate about a central pivot; a door designed to equalize the air pressure in tall buildings"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "And, I say, Doctor, there may be some little danger, so kindly put your army revolver in your pocket.” He waved his hand, turned on his heel, and disappeared in an instant among the crowd."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "I placed my revolver, cocked, upon the top of the wooden case behind which I crouched."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "The light flashed upon the barrel of a revolver, but Holmes’ hunting crop came down on the man’s wrist, and the pistol clinked upon the stone floor."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "Most of his time he would spend in his room, with the door locked upon the inside, but sometimes he would emerge in a sort of drunken frenzy and would burst out of the house and tear about the garden with a revolver in his hand, screaming out that he was afraid of no man, and that he was not to be cooped up, like a sheep in a pen, by man or devil."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "I should be very much obliged if you would slip your revolver into your pocket."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "I took out my revolver and laid it on the corner of the table."
+      },
+      {
+        "author": "Oscar Wilde",
+        "work": "The Picture of Dorian Gray",
+        "sentence": "In a second he heard the click of a revolver, and saw the gleam of a polished barrel, pointing straight at his head, and the dusky form of a short, thick-set man facing him."
+      },
+      {
+        "author": "Joseph Conrad",
+        "work": "Heart of Darkness",
+        "sentence": "Some of the pilgrims behind the stretcher carried his arms—two shot-guns, a heavy rifle, and a light revolver-carbine—the thunderbolts of that pitiful Jupiter."
+      },
+      {
+        "author": "Bram Stoker",
+        "work": "Dracula",
+        "sentence": "We have all got arms, even for me a large-bore revolver; Jonathan would not be happy unless I was armed like the rest."
+      },
+      {
+        "author": "Bram Stoker",
+        "work": "Dracula",
+        "sentence": "When the time comes we shall have gypsies on all sides.” I got out my revolver ready to hand, for whilst we were speaking the howling of wolves came louder and closer."
+      },
+      {
+        "author": "H. G. Wells",
+        "work": "The War of the Worlds",
+        "sentence": "It seems she had had a revolver all this time, but it had been under the seat when she and her companion were attacked."
+      },
+      {
+        "author": "H. G. Wells",
+        "work": "The War of the Worlds",
+        "sentence": "Take this!” said the slender lady, and she gave my brother her revolver."
+      },
+      {
+        "author": "H. G. Wells",
+        "work": "The War of the Worlds",
+        "sentence": "He had hurried home, roused the women—their servant had left them two days before—packed some provisions, put his revolver under the seat—luckily for my brother—and told them to drive on to Edgware, with the idea of getting a train there."
+      },
+      {
+        "author": "H. G. Wells",
+        "work": "The War of the Worlds",
+        "sentence": "He promised to stay with them, at least until they could determine what to do, or until the missing man arrived, and professed to be an expert shot with the revolver—a weapon strange to him—in order to give them confidence."
+      },
+      {
+        "author": "H. G. Wells",
+        "work": "The War of the Worlds",
+        "sentence": "Point the revolver at the man behind,” he said, giving it to her, “if he presses us too hard."
+      }
+    ]
+  },
+  "uninvolved": {
+    "defs": [
+      {
+        "source": "wordnet_a",
+        "def": "not involved"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "showing lack of emotional involvement; - J.S.Perelman"
+      }
+    ],
+    "quotes": []
+  },
+  "volva": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "A saclike envelope of certain fungi, which bursts open as the plant develops."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "cuplike structure around the base of the stalk of certain fungi"
+      }
+    ],
+    "quotes": []
+  },
+  "volvaria": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "agarics having pink spores and a distinct volva"
+      }
+    ],
+    "quotes": []
+  },
+  "volvariaceae": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "a family of fungi belonging to the order Agaricales"
+      }
+    ],
+    "quotes": []
+  },
+  "volvariella": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "an important genus of mushrooms in the Orient"
+      }
+    ],
+    "quotes": []
+  },
+  "volvocaceae": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "unicellular or colonial biflagellate free-swimming flagellates"
+      }
+    ],
+    "quotes": []
+  },
+  "volvocales": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "chiefly freshwater green algae; solitary or colonial"
+      }
+    ],
+    "quotes": []
+  },
+  "volvox": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "A genus of minute, pale-green, globular, organisms, about one fiftieth of an inch in diameter, found rolling through water, the motion being produced by minute colorless cilia. It has been considered as belonging to the flagellate Infusoria, but is now referred to the vegetable kingdom, and each globule is considered a colony of many individuals. The commonest species is Volvox globator, often called globe animalcule."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "type genus of the Volvocaceae; minute pale green flagellates occurring in tiny spherical colonies; minute flagella rotate the colony about an axis"
+      }
+    ],
+    "quotes": []
+  },
+  "volvulus": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "(a) The spasmodic contraction of the intestines which causes colic. (b) Any twisting or displacement of the intestines causing obstruction; ileus. See Ileus."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "abnormal twisting of the intestines (usually in the area of the ileum or sigmoid colon) resulting in intestinal obstruction"
+      }
+    ],
+    "quotes": []
+  }
+}

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no odor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no odor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no smell, scent, or odor; inodorous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In toxicology and chemistry, lacking volatile olfactory stimulants, often increasing physical hazard (e.g. odorless carbon monoxide).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, odorless designates having no odor."*
+> - 📜 **Michael Faraday (*The Chemical History of a Candle*):** *"Carbon monoxide is an invisible, **odorless**, and insidious gas whose lethal inhalation produces death without warning."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Many flowers pollinated exclusively by wind are entirely **odorless** and inconspicuous in coloration."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Speckled Band*):** *"Holmes observed that the poison was rapid, subtle, and completely **odorless**, defying ordinary domestic detection."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Desire for sensual pleasures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Desire for sensual pleasures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unrestrained absorption in carnal indulgence, physical gratification, or voluptuous bodily pleasures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethical characterization, habitual absorption in sensory gratification to the neglect of intellectual and spiritual virtues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sensualness designates desire for sensual pleasures."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"The entrenched **sensualness** of worldly ambition blinds the mind to pure transcendent truths."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Modern mammon-worship breeds a gross **sensualness** that mistakes physical comfort for true blessedness."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Jos Sedley's self-indulgent **sensualness** was written in his indolent countenance and luxurious table habits."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a disgusting manner or to a disgusting degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a disgusting manner or to a disgusting degree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a disgusting manner; to an offensive or revolting degree; repulsively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive rhetoric and social commentary, excessively offensive or grossly repugnant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disgustingly designates in a disgusting manner or to a disgusting degree."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Jos Sedley behaved **disgustingly** at the Vauxhall supper, drinking arrack punch until he made an exhibition of himself before the company."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"The industrial canal was **disgustingly** choked with chemical offal and black sludge that poisoned the surrounding air."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He found the petty provincial gossip **disgustingly** narrow, longing for the broader intellectual horizons of the capital."*

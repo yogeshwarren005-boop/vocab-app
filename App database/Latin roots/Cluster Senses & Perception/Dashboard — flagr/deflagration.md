@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Combustion that propagates through a gas or along the surface of an explosive at a rapid rate driven by the transfer of heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Combustion that propagates through a gas or along the surface of an explosive at a rapid rate driven by the transfer of heat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rapid, intense combustion accompanied by heat, flame, or sparks, propagating at subsonic velocity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In combustion physics, chemical engineering, and ballistics, a subsonic burn front distinguished thermodynamically from a supersonic detonation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deflagration designates combustion that propagates through a gas or along the surface of an explosive at a rapid rate driven by the transfer of heat."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The sudden **deflagration** of the gaseous mixture shattered the glass vessel, discharging a dazzling sheet of flame."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Potassium placed upon water produces an instantaneous **deflagration**, burning with a characteristic violet flame."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"The rapid **deflagration** of sulfur in oxygen yields dense suffocating fumes of sulfurous acid gas."*

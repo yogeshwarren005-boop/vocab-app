@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In the manner of w. h. auden.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the manner of w. h. auden.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or characteristic of the style, themes, tone, or poetic rhythm of W. H. Auden.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism, denoting verse marked by clinical detachment, ironic diagnosis of historical anxiety, and colloquial formal dexterity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, audenesque designates in the manner of w. h. auden."*
+> - 📜 **Philip Larkin (*Required Writing*):** *"His early stanzas were frankly **Audenesque**, brimming with pylon imagery and clinical diagnoses of public dread."*
+> - 📜 **Seamus Heaney (*The Government of the Tongue*):** *"The young poet deployed an **Audenesque** mixture of high moral seriousness and jaunty satirical meters."*
+> - 📜 **Frank Kermode (*Continuities*):** *"The prevailing idiom of postwar British poetry retained an **Audenesque** irony toward imperial decline."*

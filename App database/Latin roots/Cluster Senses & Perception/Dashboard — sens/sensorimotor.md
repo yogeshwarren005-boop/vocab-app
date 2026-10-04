@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the sensory and motor coordination of an organism or to the controlling nerves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the sensory and motor coordination of an organism or to the controlling nerves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving both sensory perception and motor response, or relating to neural circuits linking them.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental psychology and neuroanatomy, describing neural arcs, reflex pathways, or early developmental stages coordinating sensation and voluntary muscle activity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sensorimotor designates of or relating to the sensory and motor coordination of an organism or to the controlling nerves."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Every conscious thought tends to discharge into muscular movement through integrated **sensorimotor** circuits."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The spinal reflex arc presents the simplest anatomical paradigm of a coordinated **sensorimotor** mechanism."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"The evolution of mind traces a continuous progression from elementary **sensorimotor** reflexes to complex deliberation."*

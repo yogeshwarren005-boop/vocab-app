@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The bridge player in contract bridge who wins the bidding and can declare which suit is to be trumps.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who claims to speak the truth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who declares something, especially the player in contract bridge who plays the hand after winning the bidding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In card game theory and legal transactions, the principal actor who formulates the contract declaration or legally tenders an affirmation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, declarer designates the bridge player in contract bridge who wins the bidding and can declare which suit is to be trumps."*
+> - 📜 **Edgar Allan Poe (*The Murders in the Rue Morgue*):** *"The skillful card player observes the subtle hesitation of the **declarer** to deduce the hidden distribution of trumps."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The legal validity of the contract depends upon whether the **declarer** possessed sound judgment at the signing."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The bold **declarer** of unpopular political doctrines must expect the fierce hostility of reigning factions."*

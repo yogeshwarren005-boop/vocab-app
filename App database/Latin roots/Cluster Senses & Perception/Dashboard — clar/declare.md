@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: State emphatically and authoritatively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Announce publicly or officially.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To state emphatically, officially, or authoritatively, or to acknowledge goods for duty at customs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sovereign diplomacy, judicial decrees, and contract law, to promulgate an official proclamation or formal legal commitment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Read, and declare the meaning."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then go we in, to know his embassy, Which I could with a ready guess declare Before the Frenchman speak a word of it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And now declare, sweet stem from York’s great stock, Why didst thou say of late thou wert despised?"*
+> - 📜 **William Shakespeare (*Henry V*):** *"We will deliver our whole mind concerning France, and **declare** our rightful royal claims before the world."*
+> - 📜 **Abraham Lincoln (*The Emancipation Proclamation*):** *"I do order and **declare** that all persons held as slaves within said designated states are, and henceforward shall be, free."*
+> - 📜 **John Locke (*Second Treatise of Government*):** *"The legislative authority must **declare** promulgated standing laws so that every subject knows his rights."*

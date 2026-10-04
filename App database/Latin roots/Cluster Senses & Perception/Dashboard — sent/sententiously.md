@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a pithy sententious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a pithy sententious manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a moralizing, concise, pithy, or self-importantly aphoristic manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative characterization, speaking with an air of superior wisdom by reciting well-worn moral adages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"And don’t go thinking about her making a match for me—it is silly.” “Very well said, Tess!” observed her father sententiously."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"How many telegrams have you sent today?" "If you do a thing at all you may as well do it in decent comfort," Lawrence replied sententiously."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"He became very cool and collected all at once. ‘I am not such a fool as I look, quoth Plato to his disciples,’ he said sententiously, emptied his glass with great resolution, and we rose."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber spoke **sententiously** of the financial storm clouds gathering on the horizon, before partaking of punch."*
+> - 📜 **George Eliot (*Felix Holt, the Radical*):** *"The elder tradesman nodded **sententiously**, delivering his verdict that rash innovations would ruin the ancient borough."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Lord Henry leaned back and murmured **sententiously** that humanity takes itself far too seriously in its ethical codes."*

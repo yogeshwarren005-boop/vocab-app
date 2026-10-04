@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a sonorous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a sonorous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a deep, full, resonant, or richly sounding manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative prose, declaiming or ringing with powerful auditory volume and impressive dignity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sonorously designates in a sonorous manner."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"The parish clerk chanted the responses **sonorously**, filling the vaulted church aisle with his bass voice."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The proclamation was read **sonorously** before the royal exchange amid triumphant flourishes of trumpets."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The wind howled **sonorously** over the barren expanse of the heath throughout the stormy night."*

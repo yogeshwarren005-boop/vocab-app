@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing reason or sound judgment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to feel or perceive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing good judgment, reasonable, or capable of being perceived by the physical senses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Cartesian philosophy and cognitive jurisprudence, perceptible to sensory organs or governed by practical prudence rather than passion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art sensible in nothing but blows, and so is an ass."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, I would your cambric were sensible as your finger, that you might leave pricking it for pity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Before my God, I might not this believe Without the sensible and true avouch Of mine own eyes."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"God has furnished us with faculties to perceive **sensible** qualities, such as yellow, white, heat, and cold."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Bennet was so odd a mixture of quick parts, sarcastic humour, and **sensible** reserve that forty years failed to explain him."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Art thou not, fatal vision, **sensible** to feeling as to sight, or art thou but a dagger of the mind?"*

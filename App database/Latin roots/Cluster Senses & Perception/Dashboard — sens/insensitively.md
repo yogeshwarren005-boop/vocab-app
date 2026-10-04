@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an insensitive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an insensitive manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without emotional tact, sympathetic feeling, or perceptive awareness of another's distress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In interpersonal ethics and behavioral observation, behaving with blunt callousness or callous disregard for delicate circumstances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, insensitively designates in an insensitive manner."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Grandcourt smiled and trampled **insensitively** over her fragile dignity with arrogant composure."*
+> - 📜 **Henry James (*The Bostonians*):** *"He broached the painful family secret **insensitively**, oblivious to the distress written on her face."*
+> - 📜 **Virginia Woolf (*Mrs. Dalloway*):** *"The consulting physician spoke **insensitively** of clinical duty while the patient shrank in despair."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make worse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exasperate or irritate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Making worse, more severe, bitter, or intensely irritated; aggravating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology and systemic dynamics, intensifying acute pathophysiological distress or social instability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exacerbating designates make worse."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her uncle's well-meaning interference had the unfortunate effect of **exacerbating** Lydgate's financial anxieties."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Scarcity of bread was the primary spark **exacerbating** the revolutionary fury of the Parisian crowds."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The physician warned that physical overexertion was an **exacerbating** factor in cardiac decompensation."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an inaudible manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an inaudible manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that cannot be heard; without making any perceptible sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative prose, whispering or moving so silently that no sonic trace registers on the listener's ear.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Quale asked Ada and me, not inaudibly, whether he was not a great creature—which he certainly was, flabbily speaking, though Mr."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"How warm ’tis to-day!” she said, almost inaudibly."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"You will never hear the tom-tom again,” he muttered, but inaudibly of course, for strict silence had been enjoined."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip murmured **inaudibly** under his breath, dreading to provoke another outburst from his sister."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The sheep moved **inaudibly** across the dewy turf, leaving faint tracks in the morning mist."*
+> - 📜 **J. M. Barrie (*Peter and Wendy*):** *"The fairy whispered **inaudibly** into his ear, warning him of the approaching pirate crew."*

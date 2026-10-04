@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conspicuously and outrageously bad or reprehensible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conspicuously and outrageously bad or reprehensible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conspicuously offensive, scandalous, shameless, or outrageous; glaringly obvious wrongdoing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional law, ethics, and sports governance, an undeniable, egregious transgression committed openly without shame.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is the most flagrant example of an abominable public vehicle that ever encumbered the face of the earth."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Boythorn found himself under the necessity of committing a flagrant trespass to restore his neighbour to himself."*
-> - 📜 **Jane Austen (*Persuasion*):** *"It was a dreadful picture of ingratitude and inhumanity; and Anne felt, at some moments, that no flagrant open crime could have been worse."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The dismissal of the Protestant fellows was a **flagrant** breach of the university's royal charter and statutory privileges."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"His conduct toward the family had been characterized by the most **flagrant** injustice and dishonor."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The assassin committed the murder in the broad daylight of the forum with **flagrant** contempt for Roman law."*

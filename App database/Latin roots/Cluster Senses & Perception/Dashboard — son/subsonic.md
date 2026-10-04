@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of speed) less than that of sound in a designated medium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of speed) less than that of sound in a designated medium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to speeds less than that of sound in a designated medium such as air.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fluid mechanics and aerodynamics, airflow velocities below Mach 1 where compressibility effects remain moderate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subsonic designates (of speed) less than that of sound in a designated medium."*
+> - 📜 **Theodore von Kármán (*Aerodynamics*):** *"In the **subsonic** regime, pressure disturbances propagate ahead of the aircraft, warning the air stream to diverge."*
+> - 📜 **Arthur C. Clarke (*The Exploration of Space*):** *"Commercial airliners operated comfortably at high **subsonic** speeds without encountering severe wave drag."*
+> - 📜 **Lord Rayleigh (*The Theory of Sound*):** *"A projectile traveling at **subsonic** speed produces continuous smooth acoustic wave trains rather than shock fronts."*

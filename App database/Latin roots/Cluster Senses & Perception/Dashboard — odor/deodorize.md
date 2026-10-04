@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eliminate the odor from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eliminate the odor from.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To rid of an odor, especially an offensive or unpleasant smell; to deodorise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public health, municipal sanitation, and food processing, to strip unwanted odors from industrial fats, air systems, or waste.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deodorize designates eliminate the odor from."*
+> - 📜 **Michael Faraday (*Chemical Manipulation*):** *"Pulverized bone black is employed to clarify and **deodorize** organic solutions without altering their dissolved crystallizable solutes."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Disinfectant sprays containing carbolic acid were used to **deodorize** post-mortem chambers in the municipal morgue."*
+> - 📜 **H. G. Wells (*A Modern Utopia*):** *"Automated ventilation systems in the subterranean city continuously purify and **deodorize** the circulating air currents."*

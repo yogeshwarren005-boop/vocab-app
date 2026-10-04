@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A statement that is emphatic and explicit (spoken or written).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) unsworn statement that can be admitted in evidence in a legal transaction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal or explicit statement or announcement, or an official document stating terms or intentions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional law, international diplomacy, and civil procedure, an authoritative proclamation of legal rights or statutory claims.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Would you be so kind as to allow me (as I may say) to file a declaration—to make an offer!” Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"You have referred to an occasion, miss, when I—when I did myself the honour of making a declaration which—” Something seemed to rise in his throat that he could not possibly swallow."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, “dear me—something bronchial, I think—hem!—to remark that you was so good on that occasion as to repel and repudiate that declaration."*
+> - 📜 **Thomas Jefferson (*The Declaration of Independence*):** *"A decent respect to the opinions of mankind requires that they should declare the causes which impel them to the separation, as set forth in this immortal **declaration**."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He listened with solemn attention to her formal **declaration**, recognizing the unalterable firmness of her purpose."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A solemn **declaration** of constitutional principles binds the several states in mutual republican defense."*

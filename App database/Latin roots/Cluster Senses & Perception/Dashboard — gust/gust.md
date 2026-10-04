@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A strong current of air.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strong current of air.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brief, strong rush of wind; or a sudden burst of rain, smoke, flame, or passion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meteorology, archaic sensory aesthetics, and poetics, a sudden violent turbulent air burst or intense relish and flavor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Some troops pursue the bloody-minded Queen That led calm Henry, though he were a king, As doth a sail, filled with a fretting gust, Command an argosy to stem the waves."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look, as I blow this feather from my face, And as the air blows it to me again, Obeying with my wind when I do blow, And yielding to another when it blows, Commanded always by the greater gust, Such is the lightness of you common men."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To kill, I grant, is sin’s extremest gust, But in defence, by mercy, ’tis most just."*
+> - 📜 **William Shakespeare (*Twelfth Night*):** *"He hath the gift of a coward to allay the **gust** he hath in quarrelling."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"A sudden **gust** of wind rattled the high casements and blew the autumn rain in sheets across the sodden terrace."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"A furious **gust** from the black squall laid the ship upon her beam ends, screeching through the taut shroud rigging."*

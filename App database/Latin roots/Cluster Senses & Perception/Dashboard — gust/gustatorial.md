@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to gustation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to gustation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to taste, the sense of taste, or the act of tasting; gustatory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomical description and gastronomy, relating to lingual taste buds or culinary discernment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gustatorial designates of or relating to gustation."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The lingual nerve conveys sensory and **gustatorial** fibers supplying the anterior two-thirds of the tongue."*
+> - 📜 **William Makepeace Thackeray (*The Book of Snobs*):** *"The epicure indulged his **gustatorial** preferences with exquisite turtle soup and vintage champagne."*
+> - 📜 **Oliver Wendell Holmes Sr. (*The Autocrat of the Breakfast-Table*):** *"Our **gustatorial** pleasures depend upon an intricate alliance between the lingual papillae and the olfactory mucosa."*

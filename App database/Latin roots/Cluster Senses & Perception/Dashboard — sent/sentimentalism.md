@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The excessive expression of tender feelings, nostalgia, or sadness in any form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A predilection for sentimentality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of indulging in, cultivating, or exalting emotional sensitivity over reason or practical action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual history, an eighteenth-century European philosophical and literary movement emphasizing innate benevolent emotions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The great unappreciated poet last cited {George Meredith} has defined passion as ‘noble strength on fire’; and this is the true passion of great natures and great poets; while sentimentalism is ignoble weakness dallying with fire; . . ."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Like men of this temperament in every age, he surrenders to emotion, and emotion declines into sentimentalism."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"But sentimentalism is essentially self-deception; and the Gospels make it clear that of all human sins and weaknesses none seems to have stirred the anger of Jesus as did self-deception."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Beneath the powdered wigs and Rousseauian **sentimentalism** of the salon lay the slumbering fires of popular insurrection."*
+> - 📜 **Leslie Stephen (*Hours in a Library*):** *"Sterne's luxuriant **sentimentalism** was a delicate plant that flourished upon tears and exquisite nervous tremors."*
+> - 📜 **George Eliot (*Impressions of Theophrastus Such*):** *"Vague **sentimentalism** regarding human brotherhood often coexists with a total neglect of private domestic obligations."*

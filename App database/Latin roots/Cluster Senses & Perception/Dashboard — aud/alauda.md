@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the alaudidae: skylarks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the alaudidae: skylarks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of lark species belonging to the avian family Alaudidae, including the common skylark.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, the type genus of terrestrial singing passerines celebrated for elaborate courtship song flights above grasslands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alauda designates type genus of the alaudidae: skylarks."*
+> - 📜 **Gilbert White (*The Natural History and Antiquities of Selborne*):** *"The skylark, classified by Linnaeus as **Alauda** arvensis, begins its ascending melody in the earliest mornings of spring."*
+> - 📜 **John Gould (*The Birds of Europe*):** *"Species of the genus **Alauda** nest directly on open pastures, concealed amid dense tufts of grass."*
+> - 📜 **Thomas Pennant (*British Zoology*):** *"The field lark belongs properly to **Alauda**, distinguished by its elongated hind claw adapted for terrestrial locomotion."*

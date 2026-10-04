@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sharp bitterness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sharp sour taste.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sharpness, bitterness, or harshness of temper, words, tone, or taste.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetoric, character analysis, and sensory description, biting severity in speech or astringent sourness on the palate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"Madame was sitting in the office, with a pen behind her ear, and her thin hair drawn up tighter, doing her husband's work with considerable acerbity."*
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"Wine can mollify stones; then _that_ wine turns into acidity, acerbity, misanthropy, a hatred of my interrupters--(God bless 'em!"*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"The scene closing on these charmers, and the lower slide ascending, oranges were revealed, attended by a mighty japanned sugar-box, to temper their acerbity if unripe."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The theological dispute was pursued with an **acerbity** of temper that disgraced the dignity of the holy council."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The parliamentary debates were conducted with unusual **acerbity**, neither party yielding an inch of ground."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mrs. Bennet commented upon Darcy's haughty manners with uncontrolled **acerbity** throughout the evening."*

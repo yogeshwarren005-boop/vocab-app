@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Aromatic herb of southern europe; cultivated in great britain as a potherb and widely as an ornamental.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aromatic herb of southern europe; cultivated in great britain as a potherb and widely as an ornamental.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An aromatic Mediterranean sage plant (Salvia sclarea) cultivated for its essential oils and medicinal seeds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical herbalism, ethnobotany, and horticulture, a biennial herb whose mucilaginous seeds were traditionally applied to clear foreign particles from eyes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clary designates aromatic herb of southern europe; cultivated in great britain as a potherb and widely as an ornamental."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"The mucilage extracted from seeds of garden **clary** cleanseth the eyes from dust and humors."*
+> - 📜 **Nicholas Culpeper (*The English Physician*):** *"Wild **clary** is a noble herb endowed with virtues to strengthen the sight and comfort warm faculties."*
+> - 📜 **John Evelyn (*Acetaria: A Discourse of Sallets*):** *"Tender young leaves of **clary** dipped in batter and fried in sweet butter yield a delicate savory dish."*

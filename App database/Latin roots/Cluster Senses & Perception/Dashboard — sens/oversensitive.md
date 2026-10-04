@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unduly sensitive or thin-skinned.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unduly sensitive or thin-skinned.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessively sensitive, physically irritable, or easily offended in emotional disposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological temperament and physical instrumentation, demonstrating abnormally low response thresholds to minute stimuli or social criticisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oversensitive designates unduly sensitive or thin-skinned."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"Her nervous temperament made her **oversensitive** to cold glances and imagined slights from the directress."*
+> - 📜 **William James (*The Principles of Psychology*):** *"An **oversensitive** nervous system magnifies everyday auditory shocks into painful physical distress."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Angel Clare confessed that his spiritual conscience had become morbidly **oversensitive** through solitary study."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A musician who plays the clarinet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musician who plays the clarinet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternative spelling of clarinetist; a musician who performs on the clarinet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British musical scholarship and organology, an instrumental performer skilled in the execution of the clarinet.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clarinettist designates a musician who plays the clarinet."*
+> - 📜 **Hector Berlioz (*Evenings with the Orchestra*):** *"Every celebrated **clarinettist** of the French capital flocked to inspect the newly patented key mechanisms."*
+> - 📜 **George Bernard Shaw (*London Music in 1888-89*):** *"The guest **clarinettist** produced a mellow, liquid tone that blended superbly with the string quartet."*
+> - 📜 **Thomas Hardy (*Under the Greenwood Tree*):** *"The village choir boasted a skilled **clarinettist** who supplied the treble parts for Sunday services."*

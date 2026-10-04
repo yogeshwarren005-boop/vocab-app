@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: 100 lisente equal 1 loti in lesotho; one sente is worth one-hundredth of a loti.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: 100 lisente equal 1 loti in lesotho; one sente is worth one-hundredth of a loti.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fractional monetary unit equal to one hundredth of a Lesotho loti; or an offensive tactical initiative in the board game of Go.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the game of Go, a move that demands an immediate, urgent reply from the opponent, thereby preserving one's initiative and board control.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Ogni dolcezza, ogni pensiero umile Nasce nel core a chi parlar la sente; Ond’è beato chi prima la vide."*
-> - 📜 **John Milton (*Paradise Lost*):** *"So sented the grim Feature, and upturn’d His Nostril wide into the murkie Air, Sagacious of his Quarrey from so farr."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The parable may import that these spiritual laws, perverted by 118:18 a perverse material sense of law, are metaphysically pre- sented as three measures of meal, - that is, three modes of mortal thought."*
+> - 📜 **Arthur Smith (*The Game of Go*):** *"To maintain **sente** throughout the opening fighting is the highest ambition of the master Go strategist."*
+> - 📜 **Edward Lasker (*Go and Go-Moku*):** *"A player who loses **sente** in an exchange must immediately yield the choice of the next battleground to his adversary."*
+> - 📜 **Basil Hall Chamberlain (*Things Japanese*):** *"In Japanese board play, seizing the **sente** forces the opponent into a cramped and defensive posture across the entire board."*

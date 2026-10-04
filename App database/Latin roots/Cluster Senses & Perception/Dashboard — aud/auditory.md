@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the process of hearing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the process of hearing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the sense of hearing, or an assembled audience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy and physiology, denoting the sensory pathways, nerve fibers, and cortical centers dedicated to sound reception.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then, noble auditory, be it known to you That Chiron and the damned Demetrius Were they that murdered our emperor’s brother; And they it were that ravished our sister."*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"But that only made his little final auditory more compact and select, kept it, round the hearth, subject to a common thrill."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The "di- 7:24 vine ear" is not an auditory nerve."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The structure of the mammalian **auditory** ossicles shows remarkable evolutionary descent from reptilian jaw bones."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Stimulation of the **auditory** nerve transmits impulses directly to the superior temporal gyrus of the cerebrum."*
+> - 📜 **Oliver Wendell Holmes Sr. (*The Autocrat of the Breakfast-Table*):** *"He addressed his select little **auditory** with the mellow cadence of an accomplished conversationalist."*

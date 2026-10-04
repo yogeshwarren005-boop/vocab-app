@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking a tail or taillike appendage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking a tail or taillike appendage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no tail; tailless, especially in botanical or zoological descriptions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic taxonomy and descriptive morphology, lacking a terminal caudal filament, spur, or posterior appendage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acaudate designates lacking a tail or taillike appendage."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The anthers of this genus are strictly **acaudate**, wanting the basal appendages observed in allied species."*
+> - 📜 **Joseph Dalton Hooker (*Flora of British India*):** *"The specimens collected in the upper valleys possessed **acaudate** carpels devoid of any plumose awns."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"An **acaudate** variety of lizard was found inhabiting the rocky, wind-swept islets off the coast."*

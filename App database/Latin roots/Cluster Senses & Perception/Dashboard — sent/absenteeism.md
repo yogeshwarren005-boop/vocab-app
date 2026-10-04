@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Habitual absence from work.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Habitual absence from work.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Habitual or customary failure to appear for scheduled work, school, military service, or civic duties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In labor economics and industrial organizational sociology, chronic employee withdrawal resulting in lost productivity and organizational strain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grant Allen (*Michael's Crag*):** *"I disapprove of absenteeism; and now the land's mine, why, I must put up with it, I suppose, and live upon it in spite of myself."*
+> - 📜 **Max Weber (*The Protestant Ethic and the Spirit of Capitalism*):** *"Traditionalist piece-rate systems frequently encountered stubborn **absenteeism** as laborers chose leisure over increased monetary earnings."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The pervasive **absenteeism** of the Irish landholders contributed greatly to the lack of capital improvements upon rural holdings."*
+> - 📜 **Alfred Marshall (*Principles of Economics*):** *"Losses from unexpected worker **absenteeism** ripple across tightly coordinated factory divisions, depressing overall output."*

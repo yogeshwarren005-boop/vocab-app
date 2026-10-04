@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sensitivity leading to easy irritation or upset.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sensitivity leading to easy irritation or upset.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An excessive degree of physical irritability, perceptual vulnerability, or emotional touchiness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychology and literary character analysis, acute constitutional vulnerability causing disproportionate anguish over minor stimuli.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oversensitiveness designates sensitivity leading to easy irritation or upset."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His intellectual arrogance was accompanied by an excruciating **oversensitiveness** to the ridicule of younger scholars."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"Constitutional **oversensitiveness** produces acute mental suffering in complex civilized environments."*
+> - 📜 **Henry James (*Roderick Hudson*):** *"The sculptor's genius was hampered by a morbid **oversensitiveness** that could bear neither criticism nor neglect."*

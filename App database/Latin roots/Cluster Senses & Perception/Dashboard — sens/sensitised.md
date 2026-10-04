@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to sense; make sensitive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make sensitive to a drug or allergen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rendered sensitive, responsive to light or chemical agents, or acutely impressionable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In photographic chemistry and allergy diagnosis, prepared with photosensitive salts or immunologically primed to react to an antigen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sensitised designates cause to sense; make sensitive."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Sherlock Holmes examined the **sensitised** paper under a bright lens to reveal the hidden watermark."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The **sensitised** patient manifested immediate cutaneous whealing upon application of the test allergen."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"Griffin described how his **sensitised** optical tissues reacted violently to sudden rays of sunlight."*

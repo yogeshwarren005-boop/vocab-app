@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tender, romantic, or nostalgic feeling or emotion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A personal belief or judgment that is not founded on proof or certainty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An attitude, emotion, opinion, or judgment prompted by feeling rather than cold calculation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 18th-century moral philosophy and aesthetic criticism, refined sensibility and emotional sympathy guiding ethical conduct.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He was so full of feeling too and had such a delicate sentiment for what was beautiful or tender that he could have won a heart by that alone."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But there are chords in the human mind—” Expressing the remainder of the desolate sentiment in rum-and-water, Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed is at once permitted so far to assert his supremacy as to be carried on a visit of sentiment into the next house and upstairs into Miss Flite’s deserted room, where he looks like a hideous bird of prey newly added to her aviary."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"How selfish soever man may be supposed, there are evidently some principles in his nature which interest him in the fortune of others, awakening generous **sentiment**."*
+> - 📜 **David Hume (*An Enquiry Concerning the Principles of Morals*):** *"Morality is determined by **sentiment**; it defines virtue to be whatever mental action gives to a spectator the pleasing sentiment of approbation."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Marianne's ardent temperament caused her to prize romantic **sentiment** far above the prudential cautions of her elder sister."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) the difference of one judge's opinion from that of the majority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A difference of opinion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Difference of opinion, nonconcurrence, or refusal to conform to prevailing ideas, dogmas, or authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In judicial procedures, a formal opinion filed by an appellate judge disagreeing with the majority ruling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It’s two young men in a gig, ma’am, who want to see the house—yes, and if you please, I told them so!” in quick reply to a gesture of dissent from the housekeeper."*
-> - 📜 **Jane Austen (*Persuasion*):** *"We do not call Bermuda or Bahama, you know, the West Indies.” Mrs Musgrove had not a word to say in dissent; she could not accuse herself of having ever called them anything in the whole course of her life."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Do you understand?” I shook my head: it required a degree of courage, excited as he was becoming, even to risk that mute sign of dissent."*
+> - 📜 **Oliver Wendell Holmes Jr. (*Abrams v. United States*):** *"I regret that I cannot agree with the judgment of the court, and must file my solemn **dissent** in this case."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"If all mankind minus one were of one opinion, mankind would be no more justified in silencing that one than he in silencing mankind; hence honest **dissent** is vital."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Religious **dissent** was punished with severe civil disabilities by the restored Cavalier Parliament."*

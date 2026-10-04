@@ -1,0 +1,2918 @@
+{
+  "entremets": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. (Cookery)  A side dish; a dainty or relishing dish usually eaten after the joints or principal dish; also, a sweetmeat, served with a dinner. 2. Any small entertainment between two greater ones. [R.]"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a dish that is served with, but is subordinate to, a main course"
+      }
+    ],
+    "quotes": []
+  },
+  "extreme": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. At the utmost point, edge, or border; outermost; utmost; farthest; most remote; at the widest limit. 2. Last; final; conclusive; -- said of time; as, the extreme hour of life. 3. The best of worst; most urgent; greatest; highest; immoderate; excessive; most violent; as, an extreme case; extreme folly. \"The extremest remedy.\" Dryden. \"Extreme rapidity.\" Sir W. Scott. Yet extreme gusts will blow out fire. Shak. 4. Radical; ultra; as, extreme opinions. The Puritans or extreme Protestants. Gladstone. 5. (Mus.)  Extended or contracted as much as possible; -- said of intervals; as, an extreme sharp second; an extreme flat forth. Extreme and mean ratio (Geom.), the relation of a line and its segments when the line is so divided that the whole is to the greater segment is to the less. -- Extreme distance. (Paint.) See Distance., n., 6. -- Extreme unction. See under Unction. Note: Although this adjective, being superlative in signification, is not properly subject to comparison, the superlative form not unfrequently occurs, especially in the older writers. \"Tried in his extremest state.\" Spenser. \"Extremest hardships.\" Sharp. \"Extremest of evils.\" Bacon. \"Extremest verge of the swift brook.\" Shak. \"The sea's extremest borders.\" Addison.\n\n1. The utmost point or verge; that part which terminates a body; extremity. 2. Utmost limit or degree that is supposable or tolerable; hence, furthest degree; any undue departure from the mean; -- often in the plural: things at an extreme distance from each other, the most widely different states, etc.; as, extremes of heat and cold, of virtue and vice; extremes meet. His parsimony went to the extreme of meanness. Bancroft. 3. An extreme state or condition; hence, calamity, danger, distress, etc. \"Resolute in most extremes.\" Shak. 4. (Logic)  Either of the extreme terms of a syllogism, the middle term being interposed between them. 5. (Math.)  The first or the last term of a proportion or series. In the extreme as much as possible. \"The position of the Port was difficult in the extreme.\" J. P. Peters."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the furthest or highest degree of something"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the point located farthest from the middle of something"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "of the greatest possible degree or extent or intensity"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "far beyond a norm in quantity or amount or degree; to an utmost degree"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Th’ expense of spirit in a waste of shame Is lust in action, and till action, lust Is perjured, murd’rous, bloody full of blame, Savage, extreme, rude, cruel, not to trust, Enjoyed no sooner but despised straight, Past reason hunted, and no sooner had Past reason hated as a swallowed bait, On purpose laid to make the taker mad."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Mad in pursuit and in possession so, Had, having, and in quest, to have extreme, A bliss in proof, and proved, a very woe; Before a joy proposed behind a dream."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Sir, it is A charge too heavy for my strength; but yet We’ll strive to bear it for your worthy sake To th’extreme edge of hazard."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "The painful service, The extreme dangers, and the drops of blood Shed for my thankless country are requited But with that surname, a good memory And witness of the malice and displeasure Which thou shouldst bear me."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "But I remember, when the fight was done, When I was dry with rage and extreme toil, Breathless and faint, leaning upon my sword, Came there a certain lord, neat and trimly dress’d, Fresh as a bridegroom, and his chin new reap’d Show’d like a stubble-land at harvest-home."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "You are now within a foot of th’extreme verge."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "The extreme parts of time extremely forms All causes to the purpose of his speed, And often at his very loose decides That which long process could not arbitrate."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Be not as extreme in submission as in offence."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Then must you speak Of one that loved not wisely, but too well; Of one not easily jealous, but being wrought, Perplex’d in the extreme; of one whose hand, Like the base Judean, threw a pearl away Richer than all his tribe; of one whose subdu’d eyes, Albeit unused to the melting mood, Drop tears as fast as the Arabian trees Their medicinal gum."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Or that we would, against the form of law, Proceed thus rashly in the villain’s death, But that the extreme peril of the case, The peace of England, and our persons’ safety, Enforced us to this execution?"
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Either thou wilt die by God’s just ordinance Ere from this war thou turn a conqueror, Or I with grief and extreme age shall perish And never more behold thy face again."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "But passion lends them power, time means, to meet, Tempering extremities with extreme sweet."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Why, that is nothing; for I tell you, father, I am as peremptory as she proud-minded; And where two raging fires meet together, They do consume the thing that feeds their fury: Though little fire grows great with little wind, Yet extreme gusts will blow out fire and all; So I to her, and so she yields to me; For I am rough and woo not like a babe."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Why, therefore, fire; for I have caught extreme cold."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "I played the cheater for thy father’s hand, And, when I had it, drew myself apart, And almost broke my heart with extreme laughter."
+      }
+    ]
+  },
+  "extremely": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "In an extreme manner or state; in the utmost degree; to the utmost point; exceedingly; as, extremely hot or cold."
+      },
+      {
+        "source": "wordnet_r",
+        "def": "to a high degree or extent; favorably or with much respect"
+      },
+      {
+        "source": "wordnet_r",
+        "def": "to an extreme degree"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "When he was brought again to th’ bar to hear His knell rung out, his judgement, he was stirred With such an agony, he sweat extremely And something spoke in choler, ill and hasty."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "The extreme parts of time extremely forms All causes to the purpose of his speed, And often at his very loose decides That which long process could not arbitrate."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "No, my noble lord, It is not for you: I have heard it over, And it is nothing, nothing in the world; Unless you can find sport in their intents, Extremely stretch’d and conn’d with cruel pain To do you service."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "But believe you this, my lord, that, not long ago one of his men was with the Lord Lucullus to borrow so many talents, nay, urged extremely for’t, and showed what necessity belonged to’t, and yet was denied."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Then I loved him, Extremely loved him, infinitely loved him!"
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Friend, you must eat no white bread; if you do, Your teeth will bleed extremely."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Speed more than speed but dull and slow she deems; Extremely still urgeth such extremes."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Love, being an extremely exacting usurer (a sense of exorbitant profit, spiritually, by an exchange of hearts, being at the bottom of pure passions, as that of exorbitant profit, bodily or materially, is at the bottom of those of lower atmosphere), every morning Oak’s feelings were as sensitive as the money-market in calculations upon his chances."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "I had thought of that, and I have considered that if I can’t appeal to your honour I can trust to your—well, shrewdness we’ll call it—not to lose five hundred pounds in prospect, and also make a bitter enemy of a man who is willing to be an extremely useful friend."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "I tell you how we’ll manage,” said the other, who perhaps felt it would be extremely awkward to offend his leading man just at this time."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "I found the mead so extremely alcoholic,” continued his mother, “that it was quite unfit for use as a beverage, but as valuable as rum or brandy in an emergency; so I have put it in my medicine-closet."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "But I am extremely interested in this news—you can have no idea how interested I am!"
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "The presence of a third person in the house would be extremely awkward just now, and, being already dressed, he opened the window and informed her that they could manage to shift for themselves that morning."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "Izz and Marian,” said Mrs Angel Clare, with a dignity which was extremely touching, seeing how very little of a wife she was: “I can’t join in talk with you now, as I used to do, about Mr Clare; you will see that I cannot; because, although he is gone away from me for the present, he is my husband."
+      },
+      {
+        "author": "John Stuart Mill",
+        "work": "Utilitarianism",
+        "sentence": "All these opinions are extremely plausible; and so long as the question is argued as one of justice simply, without going down to the principles which lie under justice and are the source of its authority, I am unable to see how any of these reasoners can be refuted."
+      }
+    ]
+  },
+  "extremeness": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "the quality of being extreme"
+      }
+    ],
+    "quotes": []
+  },
+  "extremism": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "any political theory favoring immoderate uncompromising policies"
+      }
+    ],
+    "quotes": []
+  },
+  "extremist": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "A supporter of extreme doctrines or practice; one who holds extreme opinions."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a person who holds extreme views"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "(used of opinions and actions) far beyond the norm"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Joseph Conrad",
+        "work": "Heart of Darkness",
+        "sentence": "He would have been a splendid leader of an extreme party.’ ‘What party?’ I asked. ‘Any party,’ answered the other. ‘He was an—an—extremist.’ Did I not think so?"
+      }
+    ]
+  },
+  "extremity": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. The extreme part; the utmost limit; the farthest or remotest point or part; as, the extremities of a country. They sent fleets . . . to the extremities of Ethiopia. Arbuthnot. 2. (Zoöl.)  One of locomotive appendages of an animal; a limb; a leg or an arm of man. 3. The utmost point; highest degree; most aggravated or intense form. \"The extremity of bodily pain.\" Ray. 4. The highest degree of inconvenience, pain, or suffering; greatest need or peril; extreme need; necessity. Divers evils and extremities that follow upon such a compulsion shall here be set in view. Milton. Upon mere extremity he summoned this last Parliament. Milton. Syn. -- Verge; border; extreme; end; termination."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "an external body part that projects from the body"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "an extreme condition or state (especially of adversity or disease)"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the greatest or utmost degree"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the outermost or farthest region or point"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "O what excuse will my poor beast then find, When swift extremity can seem but slow?"
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Those that are in extremity of either are abominable fellows, and betray themselves to every modern censure worse than drunkards."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Come, come, you are a fool, And turned into the extremity of love."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Hapless Egeon, whom the fates have mark’d To bear the extremity of dire mishap; Now, trust me, were it not against our laws, Against my crown, my oath, my dignity, Which princes, would they, may not disannul, My soul should sue as advocate for thee."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "But till this afternoon his passion Ne’er brake into extremity of rage."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "O time’s extremity, Hast thou so crack’d and splitted my poor tongue In seven short years that here my only son Knows not my feeble key of untun’d cares?"
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Now this extremity Hath brought me to thy hearth, not out of hope— Mistake me not—to save my life; for if I had feared death, of all the men i’ th’ world I would have ’voided thee, but in mere spite, To be full quit of those my banishers, Stand I before thee here."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Speak, man; thy tongue May take off some extremity, which to read Would be even mortal to me."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "And truly in my youth I suffered much extremity for love; very near this."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Yet, though I distrust, Discomfort you, my lord, it nothing must: For women’s fear and love holds quantity, In neither aught, or in extremity."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "The Queen’s in labour— They say in great extremity, and feared She’ll with the labour end."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Why, thou wert better in thy grave than to answer with thy uncovered body this extremity of the skies."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "This would have seem’d a period To such as love not sorrow; but another, To amplify too much, would make much more, And top extremity."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Any extremity rather than a mischief."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "If I find not what I seek, show no colour for my extremity, let me for ever be your table-sport."
+      }
+    ]
+  },
+  "extremum": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "the point located farthest from the middle of something"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the most extreme possible amount or value"
+      }
+    ],
+    "quotes": []
+  },
+  "trema": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "an evergreen tree of the family Ulmaceae that grows in tropical America and Africa and Asia"
+      }
+    ],
+    "quotes": []
+  },
+  "trematoda": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "parasitic flatworms (including flukes)"
+      }
+    ],
+    "quotes": []
+  },
+  "trematode": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "One of the Trematodea. Also used adjectively."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "parasitic flatworms having external suckers for attaching to a host"
+      }
+    ],
+    "quotes": []
+  },
+  "tremble": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. To shake involuntarily, as with fear, cold, or weakness; to quake; to quiver; to shiver; to shudder; -- said of a person or an animal. I tremble still with fear. Shak. Frighted Turnus trembled as he spoke. Dryden. 2. To totter; to shake; -- said of a thing. The Mount of Sinai, whose gray top Shall tremble. Milton. 3. To quaver or shake, as sound; to be tremulous; as the voice trembles.\n\nAn involuntary shaking or quivering. I am all of a tremble when I think of it. W. Black."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a reflex motion caused by cold or fear or excitement"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "move or jerk quickly and involuntarily up and down or sideways"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Thou wast a soldier Even to Cato’s wish, not fierce and terrible Only in strokes, but with thy grim looks and The thunderlike percussion of thy sounds Thou mad’st thine enemies shake, as if the world Were feverous and did tremble."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Thou injurious thief, Hear but my name, and tremble."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Cloten, thou double villain, be thy name, I cannot tremble at it."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Good faith, I tremble still with fear; but if there be Yet left in heaven as small a drop of pity As a wren’s eye, fear’d gods, a part of it!"
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "You that look pale and tremble at this chance, That are but mutes or audience to this act, Had I but time,—as this fell sergeant, death, Is strict in his arrest,—O, I could tell you,— But let it be."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "The heavens were all on fire, the Earth did tremble."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Such as my heart doth tremble to unfold."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Small curs are not regarded when they grin, But great men tremble when the lion roars; And Humphrey is no little man in England."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "This respite shook The bosom of my conscience, entered me, Yea, with a splitting power, and made to tremble The region of my breast; which forced such way That many mazed considerings did throng And pressed in with this caution."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "O, tremble, for you hear the lion roar."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Thou shalt be punish’d for thus frighting me, For I am sick and capable of fears, Oppress’d with wrongs, and therefore full of fears, A widow, husbandless, subject to fears, A woman, naturally born to fears, And though thou now confess thou didst but jest, With my vex’d spirits I cannot take a truce, But they will quake and tremble all this day."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "It is the part of men to fear and tremble, When the most mighty gods by tokens send Such dreadful heralds to astonish us."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "All this? ay, more: fret till your proud heart break; Go show your slaves how choleric you are, And make your bondmen tremble."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Tremble, thou wretch, That hast within thee undivulged crimes Unwhipp’d of justice."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "This judgement of the heavens that makes us tremble Touches us not with pity."
+      }
+    ]
+  },
+  "trembler": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "One who trembles."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "one who quakes and trembles with (or as with) fear"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "Ce plaisir avait beaucoup d'attrait pour elle, mais elle ne se le permettait que lorsqu'elle était seule; car Charlotte, que la plus légère apparence de danger faisait trembler pour son enfant, lui avait recommandé de ne jamais le promener sur l'eau."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "--Tout cela, mon cher ami, répondit Édouard, je me le suis répété à satiété au milieu des batailles, quand le tonnerre du canon faisait trembler le sol, quand les balles sifflaient à droite et à gauche, éclaircissaient nos rangs, tuaient mon cheval sous moi et perçaient mon chapeau!"
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "Si son regard malveillant me trouve infatigable au travail et remplissant un devoir utile, je le soutiendrai sans rougir, car alors je ne serai plus réduite à trembler devant le regard de Dieu!"
+      }
+    ]
+  },
+  "trembling": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Shaking; tottering; quivering. -- Trem\"bling*ly, adv. Trembling poplar (Bot.), the aspen."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a shaky motion"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "move or jerk quickly and involuntarily up and down or sideways"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "vibrating slightly and irregularly; as e.g. with fear or cold or like the leaves of an aspen in a breeze"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "You have brought A trembling upon Rome such as was never S’ incapable of help."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Three times they breathed, and three times did they drink, Upon agreement, of swift Severn’s flood, Who then, affrighted with their bloody looks, Ran fearfully among the trembling reeds, And hid his crisp head in the hollow bank Blood-stained with these valiant combatants."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "He will forsooth have all my prisoners, And when I urged the ransom once again Of my wife’s brother, then his cheek look’d pale, And on my face he turn’d an eye of death, Trembling even at the name of Mortimer."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Therefore rouse up fear and trembling, and do observance to my mercy."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Such safety finds The trembling lamb environed with wolves."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "The bird that hath been limed in a bush With trembling wings misdoubteth every bush; And I, the hapless male to one sweet bird, Have now the fatal object in my eye Where my poor young was limed, was caught, and killed."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "What man dare, I dare: Approach thou like the rugged Russian bear, The arm’d rhinoceros, or th’ Hyrcan tiger; Take any shape but that, and my firm nerves Shall never tremble: or be alive again, And dare me to the desert with thy sword; If trembling I inhabit then, protest me The baby of a girl."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "If he do fear God, a’ must necessarily keep peace: if he break the peace, he ought to enter into a quarrel with fear and trembling."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Pale trembling coward, there I throw my gage, Disclaiming here the kindred of the King, And lay aside my high blood’s royalty, Which fear, not reverence, makes thee to except."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Take him unto torment!” With that, methoughts, a legion of foul fiends Environed me, and howled in mine ears Such hideous cries that with the very noise I trembling waked, and for a season after Could not believe but that I was in hell, Such terrible impression made my dream."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Cold fearful drops stand on my trembling flesh."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Thou dost me yet but little hurt; thou wilt anon, I know it by thy trembling: now Prosper works upon thee."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "I am surprised with an uncouth fear; A chilling sweat o’er-runs my trembling joints."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Sir, the year growing ancient, Not yet on summer’s death nor on the birth Of trembling winter, the fairest flowers o’ th’ season Are our carnations and streak’d gillyvors, Which some call nature’s bastards: of that kind Our rustic garden’s barren; and I care not To get slips of them."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "The guilt being great, the fear doth still exceed; And extreme fear can neither fight nor fly, But coward-like with trembling terror die."
+      }
+    ]
+  },
+  "tremella": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "A genus of gelatinous fungi found in moist grounds."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "fungi with yellowish gelatinous sporophores having convolutions resembling those of the brain"
+      }
+    ],
+    "quotes": []
+  },
+  "tremellaceae": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "a family of basidiomycetous fungi of the order Tremellales that have the basidium divided longitudinally"
+      }
+    ],
+    "quotes": []
+  },
+  "tremellales": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "fungi varying from gelatinous to waxy or even horny in texture; most are saprophytic"
+      }
+    ],
+    "quotes": []
+  },
+  "tremendous": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Fitted to excite fear or terror; such as may astonish or terrify by its magnitude, force, or violence; terrible; dreadful; as, a tremendous wind; a tremendous shower; a tremendous shock or fall. A tremendous mischief was a foot. Motley. Syn. -- Terrible; dreadful; frightful; terrific; horrible; awful. -- Tre*men\"dous*ly, adv. -- Tre*men\"dous*ness, n."
+      },
+      {
+        "source": "wordnet_s",
+        "def": "extraordinarily large in size or extent or amount or power or degree; ; ; ; - Walter Lippman"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "extraordinarily good or great ; used especially as intensifiers"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "extreme in degree or extent or amount or impact"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Reversals of this kind, strange deformities, tremendous paralyses, are often seen to be inflicted by trade upon edifices—either individual or in the aggregate as streets and towns—which were originally planned for pleasure alone."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "The result from capital employed in the production of any movement of a mental nature is sometimes as tremendous as the cause itself is absurdly minute."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "With the majority such an opinion is shelved with all those trite aphorisms which require some catastrophe to bring their tremendous meanings thoroughly home."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Bathsheba flung down the brush, crook, and empty hive, pulled the skirt of her dress tightly round her ankles in a tremendous flurry, and as well as she could slid down the ladder."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Just as Bathsheba was pouring out a cup of tea, their ears were greeted by the firing of a cannon, followed by what seemed like a tremendous blowing of trumpets, in the front of the house."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "The “appetite for joy” which pervades all creation, that tremendous force which sways humanity to its purpose, as the tide sways the helpless weed, was not to be controlled by vague lucubrations over the social rubric."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "I estimated that the winter of 1854-55 destroyed four-fifths of the birds in my own grounds; and this is a tremendous destruction, when we remember that ten per cent. is an extraordinarily severe mortality from epidemics with man."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "I take Tamburlaine in his chariot for the tremendous course of the world’s physical history lashing on the harnessed dynasties."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "There are tremendous sarcasms against a landlord not a hundred miles from Middlemarch, who receives his own rents, and makes no returns."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "In any case, one can hardly increase appreciably the tremendous uncertainty of life."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Probably its regular visitants, like the initiates of freemasonry, wished that there were something a little more tremendous to keep to themselves concerning it; but they were not a closed community, and many decent seniors as well as juniors occasionally turned into the billiard-room to see what was going on."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Dorothea darted instantaneously from the window; Will followed her, seizing her hand with a spasmodic movement; and so they stood, with their hands clasped, like two children, looking out on the storm, while the thunder gave a tremendous crack and roll above them, and the rain began to pour down."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "The common bull, as every one knows, gores and tosses his opponent; but the Italian buffalo is said never to use his horns: he gives a tremendous blow with his convex forehead, and then tramples on his fallen enemy with his knees—an instinct which the common bull does not possess. (23."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "The voice of the adult male gorilla is tremendous, and he is furnished with a laryngeal sack, as is the adult male orang. (4."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "Sometimes the whale shakes its tremendous tail in the air, which, cracking like a whip, resounds to the distance of three or four miles.” —_Scoresby_."
+      }
+    ]
+  },
+  "tremendously": {
+    "defs": [
+      {
+        "source": "wordnet_r",
+        "def": "extremely"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "But the last thing likely to have entered Fred’s expectation was that he should see his brother-in-law Lydgate—of whom he had never quite dropped the old opinion that he was a prig, and tremendously conscious of his superiority—looking excited and betting, just as he himself might have done."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Oh, I could be a tremendously good fellow then, Mary, and we could be married directly."
+      },
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Wisdom of Father Brown",
+        "sentence": "Thus I wrote `heron' and `eagle' and `owl', and when I wrote `falcon' he was tremendously agitated; and when I began to make an `r' at the end of the word, that machine just bounded."
+      },
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Wisdom of Father Brown",
+        "sentence": "Who is to prove that you were not tremendously agitated?"
+      }
+    ]
+  },
+  "tremolite": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "A white variety of amphibole, or hornblende, occurring in long, bladelike crystals, and coarsely fibrous masses."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a white or pale green mineral (calcium magnesium silicate) of the amphibole group used as a form of asbestos"
+      }
+    ],
+    "quotes": []
+  },
+  "tremolo": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "(a) The rapid reiteration of tones without any apparent cessation, so as to produce a tremulous effect. (b) A certain contrivance in an organ, which causes the notes to sound with rapid pulses or beats, producing a tremulous effect; -- called also tremolant, and tremulant."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "(music) a tremulous effect produced by rapid repetition of a single tone or rapid alternation of two tones"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "vocal vibrato especially an excessive or poorly controlled one"
+      }
+    ],
+    "quotes": []
+  },
+  "tremor": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "A trembling; a shivering or shaking; a quivering or vibratory motion; as, the tremor of a person who is weak, infirm, or old. He fell into an universal tremor of all his joints. Harvey."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "an involuntary vibration (as if from illness or fear)"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a small earthquake"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "shaking or trembling (usually resulting from weakness or stress or disease)"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "shake with seismic vibrations"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "The hollow seemed a nursery of pestilences small and great, in the immediate neighbourhood of comfort and health, and Bathsheba arose with a tremor at the thought of having passed the night on the brink of so dismal a place."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Garth, gravely and decisively, though a nice ear might have discerned a slight tremor in some of the words."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "The tremor of a banished fear, An ill that was not done— O me, O me, what frugal cheer My love doth feed upon!"
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Will never quite knew how it was that he saved himself from falling down at her feet, when the “long while” came forth with its gentle tremor."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "You can tell her what you please,” said Rosamond with more tremor."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "But there was no answer, and she went on, with a gathering tremor, “Marriage is so unlike everything else."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "A touch of red in nose and cheeks, with a slight tremor of his extended hand, recalled Holmes’ surmise as to his habits."
+      },
+      {
+        "author": "Joseph Conrad",
+        "work": "Heart of Darkness",
+        "sentence": "Perhaps on some quiet night the tremor of far-off drums, sinking, swelling, a tremor vast, faint; a sound weird, appealing, suggestive, and wild—and perhaps with as profound a meaning as the sound of bells in a Christian country."
+      },
+      {
+        "author": "Joseph Conrad",
+        "work": "Heart of Darkness",
+        "sentence": "It seems to me I am trying to tell you a dream—making a vain attempt, because no relation of a dream can convey the dream-sensation, that commingling of absurdity, surprise, and bewilderment in a tremor of struggling revolt, that notion of being captured by the incredible which is of the very essence of dreams...."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "Pray hasten her, for this delay has already imparted a tremor to my nerves."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "People of New England!” cried he, with a voice that rose over them, high, solemn, and majestic—yet had always a tremor through it, and sometimes a shriek, struggling up out of a fathomless depth of remorse and woe—“ye, that have loved me!—ye, that have deemed me holy!—behold me here, the one sinner of the world!"
+      },
+      {
+        "author": "Bram Stoker",
+        "work": "Dracula",
+        "sentence": "But when I drew near, she clung to me, and I could know that the poor soul shook her from head to feet with a tremor that was pain to feel."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Silas Marner",
+        "sentence": "You’ll never think the same of me again,” said Godfrey, after a little while, with some tremor in his voice."
+      },
+      {
+        "author": "Jane Austen",
+        "work": "Emma",
+        "sentence": "But Harriet was in a tremor, and could not touch it; and Emma, never loth to be first, was obliged to examine it herself."
+      }
+    ]
+  },
+  "tremulous": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. Shaking; shivering; quivering; as, a tremulous limb; a tremulous motion of the hand or the lips; the tremulous leaf of the poplar. 2. Affected with fear or timidity; trembling. The tender, tremulous Christian. Dr. H. More. -- Trem\"u*lous*ly, adv. -- Trem\"u*lous*ness, n."
+      },
+      {
+        "source": "wordnet_s",
+        "def": "(of the voice) quivering as from weakness or fear"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Her singing was soft and rather tremulous at first, but it soon swelled to a steady clearness."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "Our tremulous lives are so different from theirs, are they not?” he musingly observed to her, as he regarded the three figures tripping before him through the frigid pallor of opening day."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "There are very few women’s lives that are not—tremulous,” Tess replied, pausing over the new word as if it impressed her."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "He was pale, even tremulous; but, as before, she was appalled by the determination revealed in the depths of this gentle being she had married—the will to subdue the grosser to the subtler emotion, the substance to the conception, the flesh to the spirit."
+      },
+      {
+        "author": "Lewis Carroll",
+        "work": "Alice's Adventures in Wonderland",
+        "sentence": "[later editions continued as follows When the sands are all dry, he is gay as a lark, And will talk in contemptuous tones of the Shark, But, when the tide rises and sharks are around, His voice has a timid and tremulous sound.]"
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Mary did not mean to betray any feeling, but in spite of herself she ended in a tremulous tone of vexation."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Then again she was conscious of another change which also made her tremulous; it was a sudden strange yearning of heart towards Will Ladislaw."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Nothing could have changed me but—” her heart was swelling, and it was difficult to go on; she made a great effort over herself to say in a low tremulous voice, “but thinking that you were different—not so good as I had believed you to be."
+      },
+      {
+        "author": "Oscar Wilde",
+        "work": "The Picture of Dorian Gray",
+        "sentence": "In the grass, white daisies were tremulous."
+      },
+      {
+        "author": "Oscar Wilde",
+        "work": "The Picture of Dorian Gray",
+        "sentence": "In the garden-scene it had all the tremulous ecstasy that one hears just before dawn when nightingales are singing."
+      },
+      {
+        "author": "Oscar Wilde",
+        "work": "The Picture of Dorian Gray",
+        "sentence": "A white dust—tremulous cloud of orris-root it seemed—hung in the panting air."
+      },
+      {
+        "author": "Oscar Wilde",
+        "work": "The Picture of Dorian Gray",
+        "sentence": "For some reason or other, the house was crowded that night, and the fat Jew manager who met them at the door was beaming from ear to ear with an oily tremulous smile."
+      },
+      {
+        "author": "Oscar Wilde",
+        "work": "The Picture of Dorian Gray",
+        "sentence": "Tears came to his eyes as he remembered her childlike look, and winsome fanciful ways, and shy tremulous grace."
+      },
+      {
+        "author": "Oscar Wilde",
+        "work": "The Picture of Dorian Gray",
+        "sentence": "It had been taken from the Turkish camp before Vienna, and the standard of Mohammed had stood beneath the tremulous gilt of its canopy."
+      },
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "Then—_that I never had been bor-r-r-r-n!_ echoes another on the farther side with tremulous sincerity, and—_bor-r-r-r-n!_ comes faintly from far in the Lincoln woods."
+      }
+    ]
+  },
+  "tremulously": {
+    "defs": [
+      {
+        "source": "wordnet_r",
+        "def": "in a tremulous manner"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Is it Sergeant Troy?” said the blurred spot in the snow, tremulously."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "But,” said she tremulously, “suppose your sin was not of your own seeking?"
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Yes,” said Dorothea, rather tremulously."
+      },
+      {
+        "author": "Oscar Wilde",
+        "work": "The Picture of Dorian Gray",
+        "sentence": "And here is the key, sir,” said the old lady, going over the contents of her bunch with tremulously uncertain hands."
+      },
+      {
+        "author": "Joseph Conrad",
+        "work": "Heart of Darkness",
+        "sentence": "One evening coming in with a candle I was startled to hear him say a little tremulously, ‘I am lying here in the dark waiting for death.’ The light was within a foot of his eyes."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "The young pastor’s voice was tremulously sweet, rich, deep, and broken."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "It was with fear, and tremulously, and, as it were, by a slow, reluctant necessity, that Arthur Dimmesdale put forth his hand, chill as death, and touched the chill hand of Hester Prynne."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "The minister tremulously, but decidedly, repelled the old man’s arm."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Silas Marner",
+        "sentence": "I’m a worse man than you thought I was, Nancy,” said Godfrey, rather tremulously."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "A Tale of Two Cities",
+        "sentence": "You see, too,” said the Doctor, tremulously, “it is such an old companion."
+      },
+      {
+        "author": "Jane Austen",
+        "work": "Persuasion",
+        "sentence": "There is so little real friendship in the world! and unfortunately\" (speaking low and tremulously) \"there are so many who forget to think seriously till it is almost too late."
+      }
+    ]
+  },
+  "divagate": {
+    "defs": [
+      {
+        "source": "wordnet_v",
+        "def": "lose clarity or turn aside especially from the main subject of attention or course of argument in writing, thinking, or speaking"
+      }
+    ],
+    "quotes": []
+  },
+  "divagation": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "A wandering about or going astray; digression. Let us be set down at Queen's Crawley without further divagation. Thackeray."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a message that departs from the main subject"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a turning aside (of your course or attention or concern)"
+      }
+    ],
+    "quotes": []
+  },
+  "extravagance": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. A wandering beyond proper limits; an excursion or sally from the usual way, course, or limit. 2. The state of being extravagant, wild, or prodigal beyond bounds of propriety or duty; want of moderation; excess; especially, undue expenditure of money; vaid and superfluous expense; prodigality; as, extravagance of anger, love, expression, imagination, demands. Some verses of my own, Maximin and Almanzor, cry vengeance on me for their extravagance. Dryden. The income of three dukes was enough to supply her extravagance. Arbuthnot. Syn. -- Wildness; irregularity; excess; prodigality; profusion; waste; lavishness; unreasonableness; recklessness."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the quality of exceeding the appropriate limits of decorum or probability or truth"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the trait of spending extravagantly"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "excessive spending"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "Son cortège grossissait de jour en jour; car elle savait s'attacher, par sa bienveillance et par sa générosité, tous ceux qu'elle n'avait pu réussir à attirer par son extravagance et ses folies."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Their ardor alternated between a vague ideal and the common yearning of womanhood; so that the one was disapproved as extravagance, and the other condemned as a lapse."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "But perhaps Dodo, if she were really bordering on such an extravagance, might be turned away from it: experience had often shown that her impressibility might be calculated on."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "But it was in the nature of fathers, Fred knew, to bully one about expenses: there was always a little storm over his extravagance if he had to disclose a debt, and Fred disliked bad weather within doors."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Garth from the consequence of what he would call encouraging extravagance and deceit."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "And might have left his property so respectable, to them that’s never been used to extravagance or unsteadiness in no manner of way—and not so poor but what they could have saved every penny and made more of it."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "How he came to fall into this extravagance would perhaps be matter of wonderment to himself on the morrow; but before dinner something in the state of the country, a slight pause in the harvest before the Far Dips were cut, the stories about the new King and the numerous handbills on the walls, had seemed to warrant a little recklessness."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "As soon as the statue was begun for itself, and with no reference to the temple or palace, the art began to decline: freak, extravagance, and exhibition, took the place of the old temperance."
+      },
+      {
+        "author": "Joseph Conrad",
+        "work": "Heart of Darkness",
+        "sentence": "I will never hear that chap speak after all’—and my sorrow had a startling extravagance of emotion, even such as I had noticed in the howling sorrow of these savages in the bush."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "Burchell, Dr., on the zebra; on the extravagance of a Bushwoman in adorning herself; celibacy unknown among the savages of South Africa; on the marriage-customs of the Bushwomen."
+      },
+      {
+        "author": "Thomas Henry Huxley",
+        "work": "Evolution and Ethics",
+        "sentence": "Note their extravagance, and be convinced."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "I did every wild extravagance that could be done, and was a long way beyond the end of my wits when Miss Mills came into the room."
+      },
+      {
+        "author": "Jane Austen",
+        "work": "Emma",
+        "sentence": "Vanity, extravagance, love of change, restlessness of temper, which must be doing something, good or bad; heedlessness as to the pleasure of his father and Mrs."
+      },
+      {
+        "author": "Jane Austen",
+        "work": "Persuasion",
+        "sentence": "Mrs Smith did not want to take blame to herself, and was most tender of throwing any on her husband; but Anne could collect that their income had never been equal to their style of living, and that from the first there had been a great deal of general and joint extravagance."
+      },
+      {
+        "author": "Jane Austen",
+        "work": "Sense and Sensibility",
+        "sentence": "He imagined, and calmly could he imagine it, that her extravagance, and consequent distress, had obliged her to dispose of it for some immediate relief."
+      }
+    ]
+  },
+  "extravagancy": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Extravagance."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the quality of exceeding the appropriate limits of decorum or probability or truth"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "No, sooth, sir; my determinate voyage is mere extravagancy."
+      }
+    ]
+  },
+  "extravagant": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. Wandering beyond one's bounds; roving; hence, foreign. [Obs.] The extravagant and erring spirit hies To his confine. Shak. 2. Exceeding due bounds; wild; excessive; unrestrained; as, extravagant acts, wishes, praise, abuse. There appears something nobly wild and extravagant in great natural geniuses. Addison. 3. Profuse in expenditure; prodigal; wasteful; as, an extravagant man. \"Extravagant expense.\" Bancroft.\n\n1. One who is confined to no general rule. L'Estrange. 2. pl. (Eccl. Hist.)  Certain constitutions or decretal epistles, not at first included with others, but subsequently made a part of the canon law."
+      },
+      {
+        "source": "wordnet_s",
+        "def": "unrestrained, especially with regard to feelings"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "recklessly wasteful"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "I have heard The cock, that is the trumpet to the morn, Doth with his lofty and shrill-sounding throat Awake the god of day; and at his warning, Whether in sea or fire, in earth or air, Th’extravagant and erring spirit hies To his confine."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "This is a gift that I have, simple, simple; a foolish extravagant spirit, full of forms, figures, shapes, objects, ideas, apprehensions, motions, revolutions."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Your daughter (if you have not given her leave) I say again, hath made a gross revolt, Tying her duty, beauty, wit, and fortunes In an extravagant and wheeling stranger Of here and everywhere."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "They may return and settle again to execute their preordained faculties, but they are now in a most extravagant vagary."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "Leur hôte extravagant ne tarda pas à les faire partir de ce lieu."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "--Il n'y a rien de plus extravagant, s'écria-t-il, qu'une renonciation volontaire et anticipée; quand un bien précieux est sur le point de nous échapper, ne vaut-il pas mieux chercher à le ressaisir?"
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "Il ne faut jamais oublier qu'il y a une foule de personnes qui veulent absolument dire ou produire quelque chose de remarquable, sans avoir pour cela les facultés nécessaires, et que de là doit nécessairement résulter le bizarre, l'extravagant."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "Everything grew more and more extravagant, and she no longer knew how time passed."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "Yet he was not an extravagant-minded man in this, and in constructing his family tree on the new basis was duly reasonable in framing his inter-marriages and aristocratic links, never inserting a single title above a rank of strict moderation."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "It was entirely from worldly vanity that you destined him for the Church: with a family of three sons and four daughters, you were not warranted in devoting money to an expensive education which has succeeded in nothing but in giving him extravagant idle habits."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Oh, that I am idle and extravagant."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "I knew he was extravagant, but I did not think that he would be so mean as to hang his risks on his oldest friend, who could the least afford to lose."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "He did this in an episodic way, very much as he gave orders to his tailor for every requisite of perfect dress, without any notion of being extravagant."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "He was not going to do anything extravagant, but the requisite things must be bought, and it would be bad economy to buy them of a poor quality."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Rosamond, accustomed from her childhood to an extravagant household, thought that good housekeeping consisted simply in ordering the best of everything—nothing else “answered;” and Lydgate supposed that “if things were done at all, they must be done properly”—he did not see how they were to live otherwise."
+      }
+    ]
+  },
+  "extravagantly": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "In an extravagant manner; wildly; excessively; profusely."
+      },
+      {
+        "source": "wordnet_r",
+        "def": "in an abundant manner"
+      },
+      {
+        "source": "wordnet_r",
+        "def": "in a wasteful manner"
+      },
+      {
+        "source": "wordnet_r",
+        "def": "in a rich and lavish manner"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "Many of our houses, both public and private, with their almost innumerable apartments, their huge halls and their cellars for the storage of wines and other munitions of peace, appear to me extravagantly large for their inhabitants."
+      },
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "Who that has heard a strain of music feared then lest he should speak extravagantly any more forever?"
+      }
+    ]
+  },
+  "extravaganza": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. A composition, as in music, or in the drama, designed to produce effect by its wild irregularity; esp., a musical caricature. 2. An extravagant flight of sentiment or language."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "any lavishly staged or spectacular entertainment"
+      }
+    ],
+    "quotes": []
+  },
+  "invaginate": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "To insert as in a sheath; to pr\n\n(a) Sheathed. (b) Having one portion of a hollow organ drawn back within another portion."
+      },
+      {
+        "source": "wordnet_v",
+        "def": "sheathe"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "fold inwards"
+      }
+    ],
+    "quotes": []
+  },
+  "invagination": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. (Biol.)  The condition of an invaginated organ or part. 2. (Biol.)  One of the methods by which the various germinal layers of the ovum are differentiated. Note: In embolic invagination, one half of the blastosphere is pushed in towards the other half, producing an embryonic form known as a gastrula. -- In epibolic invagination, a phenomenon in the development of some invertebrate ova, the epiblast appears to grow over or around the hypoblast."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the condition of being folded inward or sheathed"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the folding in of an outer layer so as to form a pocket in the surface"
+      }
+    ],
+    "quotes": []
+  },
+  "vagabond": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. Moving from place to place without a settled habitation; wandering. \"Vagabond exile.\" Shak. 2. Floating about without any certain direction; driven to and fro. To heaven their prayers Flew up, nor missed the way, by envious winds Blown vagabond or frustrate. Milton. 3. Being a vagabond; strolling and idle or vicious.\n\nOne who wanders from place to place, having no fixed dwelling, or not abiding in it, and usually without the means of honest livelihood; a vagrant; a tramp; hence, a worthless person; a rascal. A fugitive and a vagabond shalt thou be. Gen. iv. 12. Note: In English and American law, vagabond is used in bad sense, denoting one who is without a home; a strolling, idle, worthless person. Vagabonds are described in old English statutes as \"such as wake on the night and sleep on the day, and haunt customable taverns and alehouses, and routs about; and no man wot from whence they came, nor whither they go.\" In American law, the term vagrant is employed in the same sense. Cf Rogue, n., 1. Burrill. Bouvier.\n\nTo play the vagabond; to wander like a vagabond; to stroll. On every part my vagabonding sight Did cast, and drown mine eyes in sweet delight. Drummond."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "anything that resembles a vagabond in having no fixed place"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a wanderer who has no established residence or visible means of support"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "move about aimlessly or without any destination, often in search of food or employment"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "wandering aimlessly without ties to a place or community"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Go to, sir; you were beaten in Italy for picking a kernel out of a pomegranate; you are a vagabond, and no true traveller."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "This common body, Like to a vagabond flag upon the stream, Goes to and back, lackeying the varying tide, To rot itself with motion."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Let them pronounce the steep Tarpeian death, Vagabond exile, flaying, pent to linger But with a grain a day, I would not buy Their mercy at the price of one fair word, Nor check my courage for what they can give, To have’t with saying “Good morrow."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "O then, my father, Will you permit that I shall stand condemned A wandering vagabond, my rights and royalties Plucked from my arms perforce and given away To upstart unthrifts?"
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "If a man changes his name and so forth, and takes steps to deceive the world and his own wife, he’s a cheat, and that in the eye of the law is ayless a rogue, and that is ayless a lammocken vagabond; and that’s a punishable situation."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "I saw an ill-dressed vagabond in the lane yesterday evening,” said Mr."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "The intellect is vagabond, and our system of education fosters restlessness."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "Once a vagabond on his own canal, I have received good turns from one of these Canallers; I thank him heartily; would fain be not ungrateful; but it is often one of the prime redeeming qualities of your man of violence, that at times he has as stiff an arm to back a poor stranger in a strait, as to plunder a wealthy one."
+      },
+      {
+        "author": "Thomas Henry Huxley",
+        "work": "Evolution and Ethics",
+        "sentence": "A vagabond and useless tribe there eat Their miserable meal."
+      },
+      {
+        "author": "William James",
+        "work": "Pragmatism",
+        "sentence": "I lugg'd out a bob, and flung it at the vagabond for his wit."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "I know that, but for the mercy of God, I might easily have been, for any care that was taken of me, a little robber or a little vagabond."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "It is enough that I place this boy under the eye of a friend of my own, in a respectable business; that it does not please him; that he runs away from it; makes himself a common vagabond about the country; and comes here, in rags, to appeal to you, Miss Trotwood."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "You had better leave me, if you please, to walk the earth as a vagabond."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "It was very unfortunate that she should marry such a vagabond."
+      },
+      {
+        "author": "Mary Shelley",
+        "work": "Frankenstein",
+        "sentence": "A man might be respected with only one of these advantages, but without either he was considered, except in very rare instances, as a vagabond and a slave, doomed to waste his powers for the profits of the chosen few!"
+      }
+    ]
+  },
+  "vagabondage": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "The condition of a vagabond; a state or habit of wandering about in idleness; vagrancy."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "travelling about without any clear destination"
+      }
+    ],
+    "quotes": []
+  },
+  "vagal": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Of or pertaining to the vagus, or pneumogastric nerves; pneumogastric."
+      },
+      {
+        "source": "wordnet_a",
+        "def": "of or relating to the vagus nerve"
+      }
+    ],
+    "quotes": []
+  },
+  "vagary": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. A wandering or strolling. [Obs.] 2. Hence, a wandering of the thoughts; a wild or fanciful freak; a whim; a whimsical purpose. \"The vagaries of a child.\" Spectator. They changed their minds, Flew off, and into strange vagaries fell. Milton."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "an unexpected and inexplicable change in something (in a situation or a person's behavior, etc.)"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "They may return and settle again to execute their preordained faculties, but they are now in a most extravagant vagary."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "A strange vagary, this of hers, isn’t it, Oak?” said Coggan, curiously."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "It just crossed her mind, too, that he might have a faint recollection of his tender vagary, and was disinclined to allude to it from a conviction that she would take amatory advantage of the opportunity it gave her of appealing to him anew not to go."
+      }
+    ]
+  },
+  "vagile": {
+    "defs": [
+      {
+        "source": "wordnet_a",
+        "def": "having freedom to move about"
+      }
+    ],
+    "quotes": []
+  },
+  "vagina": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. (Anat.) (a) A sheath; a theca; as, the vagina of the portal vein. (b) Specifically, the canal which leads from the uterus to the external orifice if the genital canal, or to the cloaca. 2. (Zoöl.)  The terminal part of the oviduct in insects and various other invertebrates. See Illust., of Spermatheca. 3. (Bot.)  The basal expansion of certain leaves, which inwraps the stem; a sheath. 4. (Arch.)  The shaft of a terminus, from which the bust of figure seems to issue or arise."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the lower part of the female reproductive tract; a moist canal in female mammals extending from the labia minora to the uterus"
+      }
+    ],
+    "quotes": []
+  },
+  "vaginal": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. Of or pertaining to a vagina; resembling a vagina, or sheath; thecal; as, a vaginal synovial membrane; the vaginal process of the temporal bone. 2. (Anat.)  Of or pertaining to the vagina of the genital canal; as, the vaginal artery."
+      },
+      {
+        "source": "wordnet_a",
+        "def": "of or relating to the vagina"
+      }
+    ],
+    "quotes": []
+  },
+  "vaginismus": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "A painful spasmodic contraction of the vagina, often rendering copulation impossible."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "muscular contraction that causes the vagina to close; usually an anxiety reaction before coitus or pelvic examination"
+      }
+    ],
+    "quotes": []
+  },
+  "vaginitis": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Inflammation of the vagina, or the genital canal, usually of its mucous living membrane."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "inflammation of the vagina (usually associated with candidiasis)"
+      }
+    ],
+    "quotes": []
+  },
+  "vaginocele": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "hernia projecting into the vagina"
+      }
+    ],
+    "quotes": []
+  },
+  "vagrancy": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "The quality or state of being a vagrant; a wandering without a settled home; an unsettled condition; vagabondism. Threatened away into banishment and vagrancy. Barrow."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the state of wandering from place to place; having no permanent home or means of livelihood"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Charles Dickens",
+        "work": "A Tale of Two Cities",
+        "sentence": "The task of recalling him from the vagrancy into which he always sank when he had spoken, was like recalling some very weak person from a swoon, or endeavouring, in the hope of some disclosure, to stay the spirit of a fast-dying man."
+      }
+    ]
+  },
+  "vagrant": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. Moving without certain direction; wandering; erratic; unsettled. That beauteous Emma vagrant courses took. Prior. While leading this vagrant and miserable life, Johnson fell in live. Macaulay. 2. Wandering from place to place without any settled habitation; as, a vagrant beggar.\n\nOne who strolls from place to place; one who has no settled habitation; an idle wanderer; a sturdy beggar; an incorrigible rogue; a vagabond. Vagrants and outlaws shall offend thy view. Prior."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a wanderer who has no established residence or visible means of support"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "continually changing especially as from one abode or occupation to another"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Poor Rosamond’s vagrant fancy had come back terribly scourged—meek enough to nestle under the old despised shelter."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "But her vagrant mind must be reduced to order: there was an art in self-discipline; and she walked round and round the brown library considering by what sort of manoeuvre she could arrest her wandering thoughts."
+      },
+      {
+        "author": "James Joyce",
+        "work": "Dubliners",
+        "sentence": "He was a sporting vagrant armed with a vast stock of stories, limericks and riddles."
+      },
+      {
+        "author": "James Joyce",
+        "work": "Dubliners",
+        "sentence": "The adventure of meeting Gallaher after eight years, of finding himself with Gallaher in Corless’s surrounded by lights and noise, of listening to Gallaher’s stories and of sharing for a brief space Gallaher’s vagrant and triumphant life, upset the equipoise of his sensitive nature."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "It might be that an Antinomian, a Quaker, or other heterodox religionist, was to be scourged out of the town, or an idle or vagrant Indian, whom the white man’s firewater had made riotous about the streets, was to be driven with stripes into the shadow of the forest."
+      }
+    ]
+  },
+  "vague": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. Wandering; vagrant; vagabond. [Archaic] \"To set upon the vague villains.\" Hayward. She danced along with vague, regardless eyes. Keats. 2. Unsettled; unfixed; undetermined; indefinite; ambiguous; as, a vague idea; a vague proposition. This faith is neither a mere fantasy of future glory, nor a vague ebullition of feeling. I. Taylor. The poet turned away, and gave himself up to a sort of vague revery, which he called thought. Hawthorne. 3. Proceeding from no known authority; unauthenticated; uncertain; flying; as, a vague report. Some legend strange and value. Longfellow. Vague year. See Sothiac year, under Sothiac. Syn. -- Unsettled; indefinite; unfixed; ill-defined; ambiguous; hazy; loose; lax; uncertain.\n\nAn indefinite expanse. [R.] The gray vague of unsympathizing sea. Lowell.\n\nTo wander; to roam; to stray. [Obs.] \"[The soul] doth vague and wander.\" Holland.\n\nA wandering; a vagary. [Obs.] Holinshed."
+      },
+      {
+        "source": "wordnet_s",
+        "def": "not clearly understood or expressed; ; -Anatole Broyard; - P.A.Sorokin; - John Locke"
+      },
+      {
+        "source": "wordnet_a",
+        "def": "not precisely limited, determined, or distinguished"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "lacking clarity or distinctness"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "Il est donc très-juste de te procurer un _D_ qui t'empêche de te perdre dans le vague, et ce _D_ indispensable, c'est la pauvre petite Ottilie que tu es dans la nécessité d'appeler enfin auprès de toi."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "De semblables situations élèvent l'esprit, dilatent le coeur et donnent à toutes les facultés intellectuelles un vague désir de l'immense, un pressentiment de l'infini."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "En ce moment cependant leur arrivée au château causa à Charlotte une vague inquiétude, dont sa nièce était l'objet involontaire; car elle craignait l'influence qu'un pareil exemple pourrait exercer sur l'esprit de cette enfant. Édouard aussi était peu satisfait de cette visite, mais pour des causes bien différentes."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "L'air était tiède: entraîné par un vague besoin de mouvement, Édouard descendit au jardin."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "Son bras ne se reposait plus sur celui de son ami; il ne lui restait pas même le vague espoir de retrouver tôt ou tard en lui une consolation, un appui."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "Ce changement se fit dans l'âme du jeune homme d'une manière vague et calme."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "La vie à côté d'Ottilie me paraissait si belle, qu'il m'a été impossible d'en faire une abnégation complète; mille pressentiments, mille signes mystérieux, m'affermissaient malgré moi dans la vague croyance qu'un jour elle pourrait m'appartenir."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "Enhardi par l'air de résignation de son jeune ami, Mittler s'acquitta de sa commission par degrés, et en racontant comment le retour d'Ottilie à la pension n'avait d'abord été chez les deux dames qu'une pensée, un vague désir, puis un projet, et bientôt après une résolution définitivement arrêtée."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "Le penchant des Allemands pour l'indéfini et pour le vague dans les arts, vient de leur peu d'habileté."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Between this half-wooded half-naked hill, and the vague still horizon that its summit indistinctly commanded, was a mysterious sheet of fathomless shade—the sounds from which suggested that what it concealed bore some reduced resemblance to features here."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "It is hardly too much to say that she felt coerced by a force stronger than her own will, not only into the act of promising upon this singularly remote and vague matter, but into the emotion of fancying that she ought to promise."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "Tess sat up in bed, lost in a vague interspace between a dream and this information."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "Rising early next day she walked to the hill-town called Shaston, and there took advantage of a van which twice in the week ran from Shaston eastward to Chaseborough, passing near Trantridge, the parish in which the vague and mysterious Mrs d’Urberville had her residence."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "A wet day was the expression of irremediable grief at her weakness in the mind of some vague ethical being whom she could not class definitely as the God of her childhood, and could not comprehend as any other."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "Nevertheless, something nebulous, preoccupied, vague, in his bearing and regard, marked him as one who probably had no very definite aim or concern about his material future."
+      }
+    ]
+  },
+  "vaguely": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "In a vague manner. What he vaguely hinted at, but dared not speak. Hawthorne."
+      },
+      {
+        "source": "wordnet_r",
+        "def": "in a vague way"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "Her eyes vaguely rested upon the remotest trees in the lane while the kiss was given, as though she were nearly unconscious of what he did."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "The perception arrested him less when he reflected that what are called advanced ideas are really in great part but the latest fashion in definition—a more accurate expression, by words in _logy_ and _ism_, of sensations which men and women have vaguely grasped for centuries."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "Such impressions as these moved her vaguely, and without strict definiteness."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "Though Tess also meant to leave at the quarter-day, she was one of the few who did not go to the fair, having a vaguely-shaped hope that something would happen to render another outdoor engagement unnecessary."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "No one definition has as yet satisfied all naturalists; yet every naturalist knows vaguely what he means when he speaks of a species."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "He had formerly observed with approbation her capacity for worshipping the right object; he now foresaw with sudden terror that this capacity might be replaced by presumption, this worship by the most exasperating of all criticism,—that which sees vaguely a great many fine ends, and has not the least notion what it costs to reach them."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Putting it aside for a moment, he looked round vaguely, as if seeking some occupation for his visitors, and afterwards turning to Mr."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Moreover, he was one of the high gentry living four miles away from Lowick, and was thus exalted to an equal sky with the sheriff of the county and other dignities vaguely regarded as necessary to the system of things."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "He was in the habit of pausing for a cautious, vaguely designing chat with every hedger or ditcher on his way, and was especially willing to listen even to news which he had heard before, feeling himself at an advantage over all narrators in partially disbelieving them."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Mengan, his married sister, condoling with her on the loss of her baby, and expressing vaguely the hope that they should see her again at Quallingham."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "He hesitated a little while, looking vaguely towards the window; and she sat in silent expectation."
+      },
+      {
+        "author": "Oscar Wilde",
+        "work": "The Picture of Dorian Gray",
+        "sentence": "Oh! but I have seen specimens of the inhabitants,” answered the duchess vaguely."
+      },
+      {
+        "author": "Oscar Wilde",
+        "work": "The Picture of Dorian Gray",
+        "sentence": "Her eyes wandered vaguely about the room."
+      },
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "See how he cowers and sneaks, how vaguely all the day he fears, not being immortal nor divine, but the slave and prisoner of his own opinion of himself, a fame won by his own deeds."
+      },
+      {
+        "author": "Joseph Conrad",
+        "work": "Heart of Darkness",
+        "sentence": "He shook hands, I fancy, murmured vaguely, was satisfied with my French. _Bon Voyage_."
+      }
+    ]
+  },
+  "vagueness": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "The quality or state of being vague."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "unclearness by virtue of being poorly expressed or not coherent in meaning"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "indistinctness of shape or character"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "But there was an unpractical vagueness in their movements throughout the day; neither one of them seemed to consider any question of effectual escape, disguise, or long concealment."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Casaubon mentioned that his young relative had started for the Continent, seeming by this cold vagueness to waive inquiry."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "We have come now out of mere vagueness to the definite conception of an Australian from Ballarat with a grey cloak."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "Rengger, ‘Säugethiere von Paraguay,’ s. 49.) The sensations and ideas thus excited in us by music, or expressed by the cadences of oratory, appear from their vagueness, yet depth, like mental reversions to the emotions and thoughts of a long-past age."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "As I walked away, I was full of thoughtfulness; what had been incidentally revealed to me of Captain Ahab, filled me with a certain wild vagueness of painfulness concerning him."
+      }
+    ]
+  },
+  "vagus": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Wandering; -- applied especially to the pneumogastric nerve. -- n.  The vagus, ore pneumogastric, nerve."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a mixed nerve that supplies the pharynx and larynx and lungs and heart and esophagus and stomach and most of the abdominal viscera"
+      }
+    ],
+    "quotes": []
+  },
+  "devi": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "; fem. of Deva. A goddess."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "Hindu mother goddess; supreme power in the universe; wife or embodiment of the female energy of Siva having both beneficent and malevolent forms or aspects"
+      }
+    ],
+    "quotes": []
+  },
+  "deviance": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "a state or condition markedly different from the norm"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "deviate behavior"
+      }
+    ],
+    "quotes": []
+  },
+  "deviant": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Deviating. [Obs.]"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a person whose behavior deviates from what is acceptable especially in sexual behavior"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "markedly different from an accepted norm"
+      }
+    ],
+    "quotes": []
+  },
+  "deviate": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "To go out of the way; to turn aside from a course or a method; to stray or go astray; to err; to digress; to diverge; to vary. Thus Pegasus, a nearer way to take, May boldly deviate from the common track. Pope. Syn. -- To swerve; stray; wander; digress; depart; deflect; err.\n\nTo cause to deviate. [R.] To deviate a needle. J. D. Forbes."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a person whose behavior deviates from what is acceptable especially in sexual behavior"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "turn aside; turn away from"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "be at variance with; be out of line with"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "cause to turn away from a previous or expected course"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "When a race of plants is once pretty well established, the seed-raisers do not pick out the best plants, but merely go over their seed-beds, and pull up the “rogues,” as they call the plants that deviate from the proper standard."
+      },
+      {
+        "author": "Bram Stoker",
+        "work": "Dracula",
+        "sentence": "It will be a pleasure if we can so far deviate from our rules as to give the required information to his lordship."
+      }
+    ]
+  },
+  "deviation": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. The act of deviating; a wandering from the way; variation from the common way, from an established rule, etc.; departure, as from the right course or the path of duty. 2. The state or result of having deviated; a transgression; an act of sin; an error; an offense. 2. (Com.)  The voluntary and unnecessary departure of a ship from, or delay in, the regular and usual course of the specific voyage insured, thus releasing the underwriters from their responsibility. Deviation of a falling body (Physics), that deviation from a strictly vertical line of descent which occurs in a body falling freely, in consequence of the rotation of the earth. -- Deviation of the compass, the angle which the needle of a ship's compass makes with the magnetic meridian by reason of the magnetism of the iron parts of the ship. -- Deviation of the line of the vertical, the difference between the actual direction of a plumb line and the direction it would have if the earth were a perfect ellipsoid and homogeneous, -- caused by the attraction of a mountain, or irregularities in the earth's density."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a variation that deviates from the standard or norm"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the difference between an observed value and the expected value of a variable or function"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the error of a compass due to local magnetic disturbances"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "deviate behavior"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "Man can hardly select, or only with much difficulty, any deviation of structure excepting such as is externally visible; and indeed he rarely cares for what is internal."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "Nor let it be thought that some great deviation of structure would be necessary to catch the fancier’s eye: he perceives extremely small differences, and it is in human nature to value any novelty, however slight, in one’s own possession."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "A man preserves and breeds from an individual with some slight deviation of structure, or takes more care than usual in matching his best animals and thus improves them, and the improved individuals slowly spread in the immediate neighbourhood."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "But probably the most important point of all, is, that the animal or plant should be so highly useful to man, or so much valued by him, that the closest attention should be paid to even the slightest deviation in the qualities or structure of each individual."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "By a monstrosity I presume is meant some considerable deviation of structure in one part, either injurious to or not useful to the species, and not generally propagated."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "Its descendants would probably inherit a tendency to a similar slight deviation of structure."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "Nevertheless, we can here and there dimly catch a faint ray of light, and we may feel sure that there must be some cause for each deviation of structure, however slight."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "There is no more deviation in the moral standard than in the standard of height or bulk."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "Johnson, as reported by his biographer Boswell, are: \"Accustom your children constantly to this; if a thing happened at one window, and they, when relating it, say it happened at another, do not let it pass, but instantly check them; you do not know where deviation from truth will end.\"]"
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "When in any nation the standard of intellect and the number of intellectual men have increased, we may expect from the law of the deviation from an average, that prodigies of genius will, as shewn by Mr."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "We may also infer, from the law of the deviation from averages, so well illustrated by Mr."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "I then made her, according to certain established regulations from which no deviation, however slight, could ever be permitted, a glass of hot wine and water, and a slice of toast cut into long thin strips."
+      },
+      {
+        "author": "Jane Austen",
+        "work": "Sense and Sensibility",
+        "sentence": "Do not blame him, however, for departing from his character, where the deviation is necessary."
+      },
+      {
+        "author": "Jane Austen",
+        "work": "Sense and Sensibility",
+        "sentence": "In such a case, a plain and open avowal of his difficulties would have been more to his honour I think, as well as more consistent with his general character;--but I will not raise objections against any one's conduct on so illiberal a foundation, as a difference in judgment from myself, or a deviation from what I may think right and consistent."
+      }
+    ]
+  },
+  "devious": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. Out of a straight line; winding; varying from directness; as, a devious path or way. 2. Going out of the right or common course; going astray; erring; wandering; as, a devious step. Syn. -- Wandering; roving; rambling; vagrant. -- De\"vi*ous*ly, adv. -- De\"vi*ous*ness, n."
+      },
+      {
+        "source": "wordnet_s",
+        "def": "indirect in departing from the accepted or proper way; misleading"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "characterized by insincerity or deceit; evasive"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "deviating from a straight course"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "So that Monsoons, Pampas, Nor’-Westers, Harmattans, Trades; any wind but the Levanter and Simoon, might blow Moby Dick into the devious zig-zag world-circle of the Pequod’s circumnavigating wake."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "As an overladen Indiaman bearing down the Hindostan coast with a deck load of frightened horses, careens, buries, rolls, and wallows on her way; so did this old whale heave his aged bulk, and now and then partly turning over on his cumbrous rib-ends, expose the cause of his devious wake in the unnatural stump of his starboard fin."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "It was the devious-cruising Rachel, that in her retracing search after her missing children, only found another orphan."
+      },
+      {
+        "author": "James Joyce",
+        "work": "Dubliners",
+        "sentence": "She wanted to be on good terms with them but, while she strove to be polite, her eyes followed Mr Holohan in his limping and devious courses."
+      }
+    ]
+  },
+  "deviously": {
+    "defs": [
+      {
+        "source": "wordnet_r",
+        "def": "in a devious manner"
+      }
+    ],
+    "quotes": []
+  },
+  "deviousness": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "the quality of being oblique and rambling indirectly"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the quality of being deceitful and underhanded"
+      }
+    ],
+    "quotes": []
+  },
+  "obviate": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. To meet in the way. [Obs.] Not to stir a step to obviate any of a different religion. Fuller. 2. To anticipate; to prevent by interception; to remove from the way or path; to make unnecessary; as, to obviate the necessity of going. To lay down everything in its full light, so as to obviate all exceptions. Woodward."
+      },
+      {
+        "source": "wordnet_v",
+        "def": "do away with"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "prevent the occurrence of; prevent from happening"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Bram Stoker",
+        "work": "Dracula",
+        "sentence": "In order to obviate any delays possible through any routine requirements as to payment in your departments, we enclose cheque herewith for ten pounds (£10), receipt of which please acknowledge."
+      },
+      {
+        "author": "Thomas Henry Huxley",
+        "work": "Evolution and Ethics",
+        "sentence": "Heat and cold, and wind and steam, Moisture and drought, mice, worms, and swarming flies Minute as dust and numberless, oft work Dire disappointment that admits no cure, And which no care can obviate."
+      },
+      {
+        "author": "Jane Austen",
+        "work": "Emma",
+        "sentence": "That will obviate all difficulties you know; and from _us_ I really think, my dear Jane, you can have no scruple to accept such an accommodation."
+      },
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Wisdom of Father Brown",
+        "sentence": "`Any little assistance,' he continued with the same queer, priggish accent, `that may obviate the necessity of my communicating with the family.'"
+      }
+    ]
+  },
+  "obviating": {
+    "defs": [
+      {
+        "source": "wordnet_v",
+        "def": "do away with"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "prevent the occurrence of; prevent from happening"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "made impossible"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Jane Austen",
+        "work": "Sense and Sensibility",
+        "sentence": "Though with your usual anxiety for our happiness,\" said Elinor, \"you have been obviating every impediment to the present scheme which occurred to you, there is still one objection which, in my opinion, cannot be so easily removed."
+      }
+    ]
+  },
+  "obviation": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "The act of obviating, or the state of being obviated."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the act of preventing something by anticipating and disposing of it effectively"
+      }
+    ],
+    "quotes": []
+  },
+  "obvious": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. Opposing; fronting. [Obs.] To the evil turn My obvious breast. Milton. 2. Exposed; subject; open; liable. [Obs.] \"Obvious to dispute.\" Milton. 3. Easily discovered, seen, or understood; readily perceived by the eye or the intellect; plain; evident; apparent; as, an obvious meaning; an obvious remark. Apart and easy to be known they lie, Amidst the heap, and obvious to the eye. Pope. Syn. -- Plain; clear; evident. See Manifest. -- Ob\"vi*ous*ly, adv. -- Ob\"vi*ous-ness, n."
+      },
+      {
+        "source": "wordnet_a",
+        "def": "easily perceived by the senses or grasped by the mind"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Soon soft spirts alternating with loud spirts came in regular succession from within the shed, the obvious sounds of a person milking a cow."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "A meditation on the obvious inference was indulged in by all, and during its continuance each directed his vision into the ashpit, which glowed like a desert in the tropics under a vertical sun, shaping their eyes long and liny, partly because of the light, partly from the depth of the subject discussed."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Every turn, look, word, and accent contained a mystery quite distinct from its obvious import, and not one had ever been pondered by him until now."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Was Bathsheba altogether blind to the obvious fact that the support of a lover’s arms is not of a kind best calculated to assist a resolve to renounce him?"
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "It was very foolish of my father, I must say, to intrude his conversation upon a stranger when the probabilities were so obvious that it would be useless."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "It was obvious at a glance that the original _Weltlust_ had come back; that he had restored himself, as nearly as a man could do who had grown three or four years older, to the old jaunty, slapdash guise under which Tess had first known her admirer, and cousin so-called."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "Her great natural beauty was, if not heightened, rendered more obvious by her attire."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "The next pillar was isolated; others composed a trilithon; others were prostrate, their flanks forming a causeway wide enough for a carriage; and it was soon obvious that they made up a forest of monoliths grouped upon the grassy expanse of the plain."
+      },
+      {
+        "author": "John Stuart Mill",
+        "work": "Utilitarianism",
+        "sentence": "But the connexion, though less obvious, is not less real."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "Thirdly, those characters which are mainly distinctive of each breed, for instance the wattle and length of beak of the carrier, the shortness of that of the tumbler, and the number of tail-feathers in the fantail, are in each breed eminently variable; and the explanation of this fact will be obvious when we come to treat of selection."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "The paramount importance of these considerations in explaining the immense amount of variation which pigeons have undergone, will be obvious when we treat of Selection."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "It would, indeed, have been a strange fact, had attention not been paid to breeding, for the inheritance of good and bad qualities is so obvious."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "On the view here given of the all-important part which selection by man has played, it becomes at once obvious, how it is that our domestic races show adaptation in their structure or in their habits to man’s wants or fancies."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "The obvious explanation is that the conditions of life have been very favourable, and that there has consequently been less destruction of the old and young, and that nearly all the young have been enabled to breed."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "This is obvious in the structure of the teeth and talons of the tiger; and in that of the legs and claws of the parasite which clings to the hair on the tiger’s body."
+      }
+    ]
+  },
+  "obviously": {
+    "defs": [
+      {
+        "source": "wordnet_r",
+        "def": "unmistakably (`plain' is often used informally for `plainly')"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "The performer seemed quite at home anywhere between a horse’s head and its tail, and the necessity for this abnormal attitude having ceased with the passage of the plantation, she began to adopt another, even more obviously convenient than the first."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "His unreasonable anger terrified her, and she glided from him, without obviously moving, as she said, “I am only a girl—do not speak to me so!"
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "It was obviously dying—quietly and painlessly, but none the less surely."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "The carpet reached close to the sill, and under the edge of the carpet she discerned the faint white margin of the envelope containing her letter to him, which he obviously had never seen, owing to her having in her haste thrust it beneath the carpet as well as beneath the door."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "The kiss had obviously done harm by awakening feelings they were trying to subdue."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "He had obviously not discerned her yet in her position against the sun."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "His name she had obviously never used during their separation, and her dignified sense of their total severance was shown not much less by this abstention than by the hardships she had chosen to undergo (of which he now learnt for the first time) rather than apply to his father for more funds."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "Obviously her position was by no means so bad as he had feared, and it crossed his mind that she must somehow have claimed and sold the jewels to attain it."
+      },
+      {
+        "author": "John Stuart Mill",
+        "work": "Utilitarianism",
+        "sentence": "They either assume the ordinary precepts of morals as of _à priori_ authority, or they lay down as the common groundwork of those maxims, some generality much less obviously authoritative than the maxims themselves, and which has never succeeded in gaining popular acceptance."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "A high degree of variability is obviously favourable, as freely giving the materials for selection to work on; not that mere individual differences are not amply sufficient, with extreme care, to allow of the accumulation of a large amount of modification in almost any desired direction."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "Again, it may be asked, how is it that varieties, which I have called incipient species, become ultimately converted into good and distinct species, which in most cases obviously differ from each other far more than do the varieties of the same species?"
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "It will obviously thus act far more efficiently with those animals which unite for each birth; but I have already attempted to show that we have reason to believe that occasional intercrosses take place with all animals and with all plants."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "It cannot be denied that we are as yet very ignorant of the full extent of the various climatal and geographical changes which have affected the earth during modern periods; and such changes will obviously have greatly facilitated migration."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Then again it was a continually repeated shock, disturbing Lydgate’s esteem, that the Vicar should obviously play for the sake of money, liking the play indeed, but evidently liking some end which it served."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Moreover, Lydgate did not like the consciousness that in voting for Tyke he should be voting on the side obviously convenient for himself."
+      }
+    ]
+  },
+  "obviousness": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "the property of being easy to see and understand"
+      }
+    ],
+    "quotes": []
+  },
+  "previous": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Going before in time; being or happening before something else; antecedent; prior; as, previous arrangements; a previous illness. The dull sound . . . previous to the storm, Rolls o'er the muttering earth. Thomson. Previous question. (Parliamentary Practice) See under Question, and compare Closure. -- Previous to, before; -- often used adverbially for previously. \"Previous to publication.\" M. Arnold. \"A policy . . . his friends had advised previous to 1710.\" J. H. Newman. Syn. -- Antecedent; preceding; anterior; prior; foregoing; former."
+      },
+      {
+        "source": "wordnet_s",
+        "def": "just preceding something else in time or order"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "(used especially of persons) of the immediate past"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "too soon or too hasty"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Rays of male vision seem to have a tickling effect upon virgin faces in rural districts; she brushed hers with her hand, as if Gabriel had been irritating its pink surface by actual touch, and the free air of her previous movements was reduced at the same time to a chastened phase of itself."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Certainly nobody without previous information would have dreamt that Oak and the handsome woman before whom he stood had ever been other than strangers."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "A rusty patch immediately upon the verse, caused by previous pressure of an iron substance thereon, told that this was not the first time the old volume had been used for the purpose."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Bathsheba took from her desk a gorgeously illuminated and embossed design in post-octavo, which had been bought on the previous market-day at the chief stationer’s in Casterbridge."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "I say, says I, we get a fine day, and then down comes a snapper at night,” was a remark now suddenly heard spreading into the malthouse from the door, which had been opened the previous moment."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "All the surrounding cottages were more or less scenes of the same operation; the scurr of whetting spread into the sky from all parts of the village as from an armoury previous to a campaign."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Such a tenderly-shaped reproach for his previous delay was the one speech in the language that he could pardon for not being commendation of his readiness now."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "The rain had been heavier here, and all foot and horse tracks made previous to the storm had been abraded and blurred by the drops, and they were now so many little scoops of water, which reflected the flame of the match like eyes."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "It appeared that there had been a previous call which they had not noticed, for on their close approach the door of the turnpike-house opened, and the keeper came out half-dressed, with a candle in his hand."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "It was the farewell of the ambassador previous to war."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "And you mean, Frank,” said Bathsheba, sadly—her voice was painfully lowered from the fulness and vivacity of the previous summer—“that you have lost more than a hundred pounds in a month by this dreadful horse-racing?"
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "For a few seconds the wayfarer stood with that tense stillness which signifies itself to be not the end, but merely the suspension, of a previous motion."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "The meeting with the lonely woman on the previous Saturday night had been unwitnessed and unspoken of."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "On looking into the place, it occurred to her that she had seen it by daylight on some previous occasion, and that what appeared like an impassable thicket was in reality a brake of fern now withering fast."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "When Troy’s wife had left the house at the previous midnight his first act was to cover the dead from sight."
+      }
+    ]
+  },
+  "previously": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Beforehand; antecedently; as, a plan previously formed."
+      },
+      {
+        "source": "wordnet_r",
+        "def": "at an earlier time or formerly"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Previously he had been a bailiff for a short time, and earlier still a shepherd only, having from his childhood assisted his father in tending the flocks of large proprietors, till old Gabriel sank to rest."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Occupied thus, with eyes stretched afar, Oak gradually perceived that what he had previously taken to be a star low down behind the outskirts of the plantation was in reality no such thing."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "One night, when Farmer Oak had returned to his house, believing there would be no further necessity for his attendance on the down, he called as usual to the dogs, previously to shutting them up in the outhouse till next morning."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Knowed yer grandfather for years and years!” continued the maltster, the words coming forth of their own accord as if the momentum previously imparted had been sufficient."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Bathsheba tried to preserve an absolutely neutral countenance, and all the motion she made was that of closing lips which had previously been a little parted."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Previously it had had a devil-may-care tone."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Gabriel had previously beheld the sight, and he now stood with his back turned, making no reply."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Bathsheba, having previously been living in a state of suspended feeling which was not suspense, now lived in a mood of quietude which was not precisely peacefulness."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Shepherds who attended with their flocks from long distances started from home two or three days, or even a week, before the fair, driving their charges a few miles each day—not more than ten or twelve—and resting them at night in hired fields by the wayside at previously chosen points, where they fed, having fasted since morning."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "In Staffordshire, on the estate of a relation where I had ample means of investigation, there was a large and extremely barren heath, which had never been touched by the hand of man; but several hundred acres of exactly the same nature had been enclosed twenty-five years previously and planted with Scotch fir."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "During periods of elevation the area of the land and of the adjoining shoal parts of the sea will be increased, and new stations will often be formed;—all circumstances most favourable, as previously explained, for the formation of new varieties and species; but during such periods there will generally be a blank in the geological record."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "When we see a species first appearing in the middle of any formation, it would be rash in the extreme to infer that it had not elsewhere previously existed."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "Why ancient and extinct forms often tend to fill up gaps between existing forms, sometimes blending two groups previously classed as distinct into one; but more commonly only bringing them a little closer together."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "On the other hand he did not previously dry the plants or branches with the fruit; and this, as we have seen, would have caused some of them to have floated much longer."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "As soon as three Orchidean forms (Monochanthus, Myanthus, and Catasetum), which had previously been ranked as three distinct genera, were known to be sometimes produced on the same spike, they were immediately included as a single species."
+      }
+    ]
+  },
+  "trivia": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "something of small importance"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "(Middle Ages) an introductory curriculum at a medieval university involving grammar and logic and rhetoric; considered to be a triple way to eloquence"
+      }
+    ],
+    "quotes": []
+  },
+  "trivial": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. Found anywhere; common. [Obs.] 2. Ordinary; commonplace; trifling; vulgar. As a scholar, meantime, he was trivial, and incapable of labor. De Quincey. 3. Of little worth or importance; inconsiderable; trifling; petty; paltry; as, a trivial subject or affair. The trivial round, the common task. Keble. 4. Of or pertaining to the trivium. Trivial name (Nat. Hist.), the specific name.(Chem.) The common name, not describing the structure and from which the structure cannot be deduced; -- contrasted with systematic name.\n\nOne of the three liberal arts forming the trivium. [Obs.] Skelton. Wood."
+      },
+      {
+        "source": "wordnet_s",
+        "def": "(informal) small and of little importance"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "of little substance or significance"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "concerned with trivialities"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Our rash faults Make trivial price of serious things we have, Not knowing them until we know their grave."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "When we debate Our trivial difference loud, we do commit Murder in healing wounds."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "I am known to be a humorous patrician and one that loves a cup of hot wine with not a drop of allaying Tiber in’t; said to be something imperfect in favouring the first complaint, hasty and tinder-like upon too trivial motion; one that converses more with the buttock of the night than with the forehead of the morning."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "I was glad I did atone my countryman and you; it had been pity you should have been put together with so mortal a purpose as then each bore, upon importance of so slight and trivial a nature."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Yea, from the table of my memory I’ll wipe away all trivial fond records, All saws of books, all forms, all pressures past, That youth and observation copied there; And thy commandment all alone shall live Within the book and volume of my brain, Unmix’d with baser matter."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "The King will labour still to save his life, The commons haply rise to save his life, And yet we have but trivial argument, More than mistrust, that shows him worthy death."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "My lord, this argues conscience in your Grace; But the respects thereof are nice and trivial, All circumstances well considered."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "She had tried to elude agitation by fixing her mind on the trees, sky, any trivial object before her eyes, whilst his reproaches fell, but ingenuity could not save her now."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "She was set thinking a great deal about Oak and of his wish to shun her; and there occurred to Bathsheba several incidents of her latter intercourse with him, which, trivial when singly viewed, amounted together to a perceptible disinclination for her society."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "Every window of the house being open, Clare could hear across the yard each trivial sound of the retiring household."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "The traveller’s ambition to tell was not theirs, and, with dumb impassivity, they dismissed experiences which they did not value for the immediate incidents of this homely upland—the trivial movements of the two girls in disturbing the clods with their hackers so as to uncover something or other that these visitants relished as food."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "There would be nothing trivial about our lives."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "When the General Board of the Infirmary had met, however, and Lydgate had notice that the question of the chaplaincy was thrown on a council of the directors and medical men, to meet on the following Friday, he had a vexed sense that he must make up his mind on this trivial Middlemarch business."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Rosamond, who at the first moment felt as if her happiness were returning, was keenly hurt by Lydgate’s manner; her blush had departed, and she assented coldly, without adding an unnecessary word, some trivial chain-work which she had in her hands enabling her to avoid looking at Lydgate higher than his chin."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "She was oppressed by ennui, and by that dissatisfaction which in women’s minds is continually turning into a trivial jealousy, referring to no real claims, springing from no deeper passion than the vague exactingness of egoism, and yet capable of impelling action as well as speech."
+      }
+    ]
+  },
+  "trivialise": {
+    "defs": [
+      {
+        "source": "wordnet_v",
+        "def": "make trivial or insignificant"
+      }
+    ],
+    "quotes": []
+  },
+  "triviality": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. The quality or state of being trivial; trivialness. 2. That which is trivial; a trifle. The philosophy of our times does not expend itself in furious discussions on mere scholastic trivialities. Lyon Playfair."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the quality of being unimportant and petty or frivolous"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a detail that is considered insignificant"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "something of small importance"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Casaubon would support such triviality."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Could it be for God’s service that this fortune should in any considerable proportion go to a young woman and her husband who were given up to the lightest pursuits, and might scatter it abroad in triviality—people who seemed to lie outside the path of remarkable providences?"
+      },
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Wisdom of Father Brown",
+        "sentence": "A man warmly concerned with any large theories has always a relish for applying them to any triviality."
+      },
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Man Who Was Thursday",
+        "sentence": "They were walking like old friends, and were in the middle of a conversation about some triviality."
+      },
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Man Who Was Thursday",
+        "sentence": "He felt he was in possession of some impossible good news, which made every other thing a triviality, but an adorable triviality."
+      }
+    ]
+  },
+  "trivialize": {
+    "defs": [
+      {
+        "source": "wordnet_v",
+        "def": "make trivial or insignificant"
+      }
+    ],
+    "quotes": []
+  },
+  "trivially": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "In a trivial manner."
+      },
+      {
+        "source": "wordnet_r",
+        "def": "with little effort"
+      },
+      {
+        "source": "wordnet_r",
+        "def": "in a frivolously trivial manner"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Ball and the Cross",
+        "sentence": "One talks trivially of a face like parchment, but this old man's face was so wrinkled that it was like a parchment loaded with hieroglyphics."
+      }
+    ]
+  },
+  "unobvious": {
+    "defs": [
+      {
+        "source": "wordnet_a",
+        "def": "not immediately apparent; - A.N.Whitehead"
+      }
+    ],
+    "quotes": []
+  },
+  "vi": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "the cardinal number that is the sum of five and one"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "more than 130 southeastern Virgin Islands; a dependent territory of the United States"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "denoting a quantity consisting of six items or units"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Another part of the Forest Scene VI."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "A hall in Aufidius’s house Scene VI."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "The English camp near Bordeaux SCENE VI."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Another Part of the Field Scene VI."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "A park near Middleham Castle in Yorkshire Scene VI."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Another part of the Field Scene VI."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "A Room in Gloucester’s Castle Scene VI."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "A Room in Gloucester’s Castle Scene VI."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "A street before the brothel Scene VI."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "LADY ANNE, widow to Edward, Prince of Wales, son to King Henry VI.; afterwards married to the Duke of Gloucester"
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "DUCHESS OF YORK, mother to King Edward IV., Clarence, and Gloucester QUEEN MARGARET, widow to King Henry VI."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Another part of the forest Scene VI."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "Le véritable bien se fait presque toujours _clam, vi et precario_."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Departure of Bathsheba—A Pastoral Tragedy Chapter VI."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "CHAPTER VI THE FAIR—THE JOURNEY—THE FIRE"
+      }
+    ]
+  },
+  "via": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "A road way. Via Lactea Etym: [L.] (Anat.), the Milky Way, or Galaxy. See Galaxy, 1. -- Via media Etym: [L.] (Theol.), the middle way; -- a name applied to their own position by the Anglican high-churchmen, as being between the Roman Catholic Church and what they term extreme Protestantism.\n\nBy the way of; as, to send a letter via Queenstown to London."
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Now, if the help of Norfolk and myself, With all the friends that thou, brave Earl of March, Amongst the loving Welshmen canst procure, Will but amount to five and twenty thousand, Why, _via_, to London will we march amain, And once again bestride our foaming steeds, And once again cry “Charge upon our foes!” But never once again turn back and fly."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Yet a kind of insinuation, as it were, _in via_, in way, of explication; _facere_, as it were, replication, or rather, _ostentare_, to show, as it were, his inclination, after his undressed, unpolished, uneducated, unpruned, untrained, or rather, unlettered, or ratherest, unconfirmed fashion, to insert again my _haud credo_ for a deer."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Another with his finger and his thumb Cried “_Via_, we will do ’t, come what will come.” The third he capered, and cried “All goes well!” The fourth turned on the toe, and down he fell."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Two hours later, Dorothea was seated in an inner room or boudoir of a handsome apartment in the Via Sistina."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "For by a Portuguese Catholic priest, this very idea of Jonah’s going to Nineveh via the Cape of Good Hope was advanced as a signal magnification of the general miracle."
+      },
+      {
+        "author": "Bram Stoker",
+        "work": "Dracula",
+        "sentence": "They had, mind ye, taken the box on the deck ready to fling in, and as it was marked Galatz _via_ Varna, I thocht I’d let it lie till we discharged in the port an’ get rid o’t althegither."
+      }
+    ]
+  }
+}

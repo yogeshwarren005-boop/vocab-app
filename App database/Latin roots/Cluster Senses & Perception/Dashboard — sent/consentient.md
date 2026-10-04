@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In complete agreement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In complete agreement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United in opinion, concurring, or expressing unanimous agreement on a given subject.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theology and ecclesiastical councils, representing the harmonious consensus of church fathers or apostolic traditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, consentient designates in complete agreement."*
+> - 📜 **John Henry Newman (*An Essay on the Development of Christian Doctrine*):** *"The **consentient** testimony of early writers establishes the primitive recognition of the sacramental mysteries."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Upon the moral beauty of justice, the **consentient** voices of all civilized nations have spoken with one accord."*
+> - 📜 **Richard Hooker (*Of the Laws of Ecclesiastical Polity*):** *"A rule received by the **consentient** voice of the whole body of believers ought not lightly to be set aside."*

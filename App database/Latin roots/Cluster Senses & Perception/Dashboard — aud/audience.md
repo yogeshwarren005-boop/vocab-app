@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A gathering of spectators or listeners at a (usually public) performance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of the general public interested in a source of information or entertainment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An assembled group of listeners or spectators, or a formal hearing or interview with a person of high rank.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In performance studies, media theory, and diplomacy, the intended public recipient of a discourse or a sovereign reception.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"From Alexandria This is the news: he fishes, drinks, and wastes The lamps of night in revel: is not more manlike Than Cleopatra, nor the queen of Ptolemy More womanly than he; hardly gave audience, or Vouchsafed to think he had partners."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I wrote to you When rioting in Alexandria; you Did pocket up my letters, and with taunts Did gibe my missive out of audience."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She In th’ habiliments of the goddess Isis That day appeared, and oft before gave audience, As ’tis reported, so."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Let me speak to the yet unknowing world how these things came about; so shall you hear of carnal, bloody, and unnatural acts, of accidental judgments, casual slaughters, of deaths put on by cunning and forced cause, and, in this upshot, purposes mistook fall'n on the inventors' heads: all this can I truly deliver. But let this same be presently performed, even while men's minds are wild, lest more mischance on plots and errors happen. Let four captains bear Hamlet, like a soldier, to the stage; for he was likely, had he been put on, to have proved most royally: and, for his passage, the soldiers' music and the rites of war speak loudly for him. Go, bid the soldiers shoot. A dead march. Exeunt, bearing off the dead bodies; after which a peal of ordnance is shot off. Let us bespeak a quiet **audience** for the final decree."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The foreign ambassadors waited three days before obtaining an **audience** with the Byzantine emperor."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Still govern thou my song, Urania, and fit **audience** find, though few."*

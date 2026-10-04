@@ -1,0 +1,3136 @@
+{
+  "desalinate": {
+    "defs": [
+      {
+        "source": "wordnet_v",
+        "def": "remove salt from"
+      }
+    ],
+    "quotes": []
+  },
+  "desalination": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "the removal of salt (especially from sea water)"
+      }
+    ],
+    "quotes": []
+  },
+  "desalinisation": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "the removal of salt (especially from sea water)"
+      }
+    ],
+    "quotes": []
+  },
+  "desalinise": {
+    "defs": [
+      {
+        "source": "wordnet_v",
+        "def": "remove salt from"
+      }
+    ],
+    "quotes": []
+  },
+  "desalinization": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "the removal of salt (especially from sea water)"
+      }
+    ],
+    "quotes": []
+  },
+  "desalinize": {
+    "defs": [
+      {
+        "source": "wordnet_v",
+        "def": "remove salt from"
+      }
+    ],
+    "quotes": []
+  },
+  "desalt": {
+    "defs": [
+      {
+        "source": "wordnet_v",
+        "def": "remove salt from"
+      }
+    ],
+    "quotes": []
+  },
+  "disallow": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "To refuse to allow; to deny the force or validity of; to disown and reject; as, the judge disallowed the executor's charge. To whom coming, as unto a living stone, disallowed indeed of men, but chosen of God. 1 Pet. ii. 4. That the edicts of Cæsar we may at all times disallow, but the statutes of God for no reason we may reject. Milton. Note: This verb was sometimes followed by of; as, \"What follows, if we disallow of this\" Shak. See Allow. Syn. -- To disapprove; prohibit; censure; reject."
+      },
+      {
+        "source": "wordnet_v",
+        "def": "command against"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "What follows if we disallow of this?"
+      },
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "30:5 But if her father disallow her in the day that he heareth; not any of her vows, or of her bonds wherewith she hath bound her soul, shall stand: and the LORD shall forgive her, because her father disallowed her."
+      }
+    ]
+  },
+  "insalubrious": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Not salubrious or healthful; unwholesome; as, an insalubrious air or climate."
+      },
+      {
+        "source": "wordnet_s",
+        "def": "detrimental to health"
+      }
+    ],
+    "quotes": []
+  },
+  "insalubriousness": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "the quality of being insalubrious and debilitating"
+      }
+    ],
+    "quotes": []
+  },
+  "insalubrity": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Unhealthfulness; unwholesomeness; as, the insalubrity of air, water, or climate. Boyle."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the quality of being insalubrious and debilitating"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "As I looked out of the coach window, and observed that an old house on Fish-street Hill, which had stood untouched by painter, carpenter, or bricklayer, for a century, had been pulled down in my absence; and that a neighbouring street, of time-honoured insalubrity and inconvenience, was being drained and widened; I half expected to find St."
+      }
+    ]
+  },
+  "resale": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "A sale at second hand, or at retail; also, a second sale. Bacon."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the selling of something purchased"
+      }
+    ],
+    "quotes": []
+  },
+  "salaah": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "the second pillar of Islam is prayer; a prescribed liturgy performed five times a day (preferably in a mosque) and oriented toward Mecca"
+      }
+    ],
+    "quotes": []
+  },
+  "salaam": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Same as Salam. Finally, Josiah might have made his salaam to the exciseman just as he was folding up that letter. Prof. Wilson.\n\nTo make or perform a salam. I have salaamed and kowtowed to him. H. James."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a deep bow; a Muslim form of salutation"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "greet with a salaam"
+      }
+    ],
+    "quotes": []
+  },
+  "salaat": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "the second pillar of Islam is prayer; a prescribed liturgy performed five times a day (preferably in a mosque) and oriented toward Mecca"
+      }
+    ],
+    "quotes": []
+  },
+  "salability": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "The quality or condition of being salable; salableness. Duke of Argyll."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the quality of being salable or marketable"
+      }
+    ],
+    "quotes": []
+  },
+  "salable": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Capable of being sold; fit to be sold; finding a ready market. -- Sal\"a*ble*ness, n. -- Sal\"a*bly, adv."
+      },
+      {
+        "source": "wordnet_a",
+        "def": "capable of being sold; fit for sale"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "But above all harvest as early as possible, if you would escape frosts and have a fair and salable crop; you may save much loss by this means."
+      }
+    ]
+  },
+  "salableness": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "the quality of being salable or marketable"
+      }
+    ],
+    "quotes": []
+  },
+  "salacious": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Having a propensity to venery; lustful; lecherous. Dryden. -- Sa*la\"cious*ly, dv. -- Sa*la\"cious*ness, n."
+      },
+      {
+        "source": "wordnet_s",
+        "def": "characterized by lust"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "suggestive of or tending to moral looseness"
+      }
+    ],
+    "quotes": []
+  },
+  "salaciously": {
+    "defs": [
+      {
+        "source": "wordnet_r",
+        "def": "in a lascivious manner"
+      }
+    ],
+    "quotes": []
+  },
+  "salaciousness": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "the trait of behaving in an obscene manner"
+      }
+    ],
+    "quotes": []
+  },
+  "salacity": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Strong propensity to venery; lust; lecherousness."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the trait of behaving in an obscene manner"
+      }
+    ],
+    "quotes": []
+  },
+  "salad": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. A preparation of vegetables, as lettuce, celery, water cress, onions, etc., usually dressed with salt, vinegar, oil, and spice, and eaten for giving a relish to other food; as, lettuce salad; tomato salad, etc. Leaves eaten raw termed salad. I. Watts. 2. A dish composed of chopped meat or fish, esp. chicken or lobster, mixed with lettuce or other vegetables, and seasoned with oil, vinegar, mustard, and other condiments; as, chicken salad; lobster salad. Salad burnet (Bot.), the common burnet (Poterium Sanguisorba), sometimes eaten as a salad in Italy."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "food mixtures either arranged on a plate or tossed and served with a moist dressing; usually consisting of or including greens"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Indeed, sir, she was the sweet marjoram of the salad, or, rather, the herb of grace."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "My salad days, When I was green in judgment, cold in blood, To say as I said then."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "I set a bad example—married a poor clergyman, and made myself a pitiable object among the De Bracys—obliged to get my coals by stratagem, and pray to heaven for my salad oil."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "They say that by electro-magnetism, your salad shall be grown from the seed whilst your fowl is roasting for dinner: it is a symbol of our modern aims and endeavors,--of our condensation and acceleration of objects: but nothing is gained: nature cannot be cheated: man's life is but seventy salads long, grow they swift or grow they slow."
+      },
+      {
+        "author": "Oscar Wilde",
+        "work": "The Picture of Dorian Gray",
+        "sentence": "And those are ...?” asked Lord Henry, helping himself to some salad."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "Certain I am, however, that a king’s head is solemnly oiled at his coronation, even as a head of salad."
+      },
+      {
+        "author": "Bram Stoker",
+        "work": "Dracula",
+        "sentence": "This, with some cheese and a salad and a bottle of old Tokay, of which I had two glasses, was my supper."
+      },
+      {
+        "author": "Thomas Henry Huxley",
+        "work": "Evolution and Ethics",
+        "sentence": "Even in the spring and play-time of the year That calls the unwonted villager abroad With all her little ones, a sportive train, To gather king-cups in the yellow mead, And prank their hair with daisies, or to pick A cheap but wholesome salad from the brook, These shades are all my own."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "I think they must have been taken out at random, for I am sure I tasted aniseed water, anchovy sauce, and salad dressing."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "Red Whisker pretended he could make a salad (which I don’t believe), and obtruded himself on public notice."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "Red Whisker made his salad (I wondered how they could eat it."
+      },
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Wisdom of Father Brown",
+        "sentence": "I'll tell you what I'll do for you,\" he cried--, \"I'll mix you a salad!"
+      },
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Wisdom of Father Brown",
+        "sentence": "Father Brown, who was making the salad, tipped two spoonfuls of the mustard into the tumbler of water beside him; stood up and said in a new, loud and sudden voice--\"Drink that!"
+      }
+    ]
+  },
+  "salade": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "A helmet. See Sallet."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a light medieval helmet with a slit for vision"
+      }
+    ],
+    "quotes": []
+  },
+  "saladin": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "sultan of Syria and Egypt; reconquered Jerusalem from the Christians in 1187 but was defeated by Richard Coeur de Lion in 1191 (1137-1193)"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "The famous gentlemen of Asia and Europe have been of this strong type: Saladin,[387] Sapor,[388] the Cid,[389] Julius Cæsar,[390] Scipio,[391] Alexander,[392] Pericles,[393] and the lordliest personages."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "For ever since those inventive but unscrupulous times when on the marble panellings of temples, the pedestals of statues, and on shields, medallions, cups, and coins, the dolphin was drawn in scales of chain-armor like Saladin’s, and a helmeted head like St."
+      }
+    ]
+  },
+  "salafism": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "a militant group of extremist Sunnis who believe themselves the only correct interpreters of the Koran and consider moderate Muslims to be infidels; seek to convert all Muslims and to insure that its own fundamentalist version of Islam will dominate the world"
+      }
+    ],
+    "quotes": []
+  },
+  "salah": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "the second pillar of Islam is prayer; a prescribed liturgy performed five times a day (preferably in a mosque) and oriented toward Mecca"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "10:24 And Arphaxad begat Salah; and Salah begat Eber."
+      },
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "11:12 And Arphaxad lived five and thirty years, and begat Salah: 11:13 And Arphaxad lived after he begat Salah four hundred and three years, and begat sons and daughters."
+      },
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "11:14 And Salah lived thirty years, and begat Eber: 11:15 And Salah lived after he begat Eber four hundred and three years, and begat sons and daughters."
+      }
+    ]
+  },
+  "salai": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "East Indian tree yielding a resin used medicinally and burned as incense"
+      }
+    ],
+    "quotes": []
+  },
+  "salal": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "small evergreen shrub of Pacific coast of North America having edible dark purple grape-sized berries"
+      }
+    ],
+    "quotes": []
+  },
+  "salamander": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. (Zoöl.)  Any one of numerous species of Urodela, belonging to Salamandra, Amblystoma, Plethodon, and various allied genera, especially those that are more or less terrestrial in their habits. Note: The salamanders have, like lizards, an elongated body, four feet, and a long tail, but are destitute of scales. They are true Amphibia, related to the frogs. Formerly, it was a superstition that the salamander could live in fire without harm, and even extinguish it by the natural coldness of its body. I have maintained that salamander of yours with fire any time this two and thirty years. Shak. Whereas it is commonly said that a salamander extinguisheth fire, we have found by experience that on hot coals, it dieth immediately. Sir T. Browne. 2. (Zoöl.)  The pouched gopher (Geomys tuza) of the Southern United States. 3. A culinary utensil of metal with a plate or disk which is heated, and held over pastry, etc., to brown it. 4. A large poker. [prov. Eng.] Halliwell. 5. (Metal.)  Solidofied material in a furnace hearth. Giant salamander. (Zoöl.) See under Giant. -- Salamander's hair or wool (Min.), a species of asbestus or mineral flax. [Obs.] Bacon."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "any of various typically terrestrial amphibians that resemble lizards and that return to water only to breed"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "reptilian creature supposed to live in fire"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "fire iron consisting of a metal rod with a handle; used to stir a fire"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "I have maintained that salamander of yours with fire any time this two-and-thirty years, God reward me for it!"
+      },
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "Or I was attracted by the passage of wild pigeons from this wood to that, with a slight quivering winnowing sound and carrier haste; or from under a rotten stump my hoe turned up a sluggish portentous and outlandish spotted salamander, a trace of Egypt and the Nile, yet our contemporary."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "But clear Truth is a thing for salamander giants only to encounter; how small the chances for the provincials then?"
+      }
+    ]
+  },
+  "salamandra": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "type genus of the Salamandridae"
+      }
+    ],
+    "quotes": []
+  },
+  "salamandridae": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "salamanders"
+      }
+    ],
+    "quotes": []
+  },
+  "salamandriform": {
+    "defs": [
+      {
+        "source": "wordnet_a",
+        "def": "shaped like a salamander"
+      }
+    ],
+    "quotes": []
+  },
+  "salami": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "highly seasoned fatty sausage of pork and beef usually dried"
+      }
+    ],
+    "quotes": []
+  },
+  "salaried": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Receiving a salary; paid by a salary; having a salary attached; as, a salaried officer; a salaried office."
+      },
+      {
+        "source": "wordnet_a",
+        "def": "receiving a salary"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "receiving or eligible for compensation"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "for which money is paid"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Tyke should be appointed as salaried chaplain to the hospital was an exciting topic to the Middlemarchers; and Lydgate heard it discussed in a way that threw much light on the power exercised in the town by Mr."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "This was one of the difficulties of moving in good Middlemarch society: it was dangerous to insist on knowledge as a qualification for any salaried office."
+      }
+    ]
+  },
+  "salary": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Saline [Obs.]\n\nThe recompense or consideration paid, or stipulated to be paid, to a person at regular intervals for services; fixed wages, as by the year, quarter, or month; stipend; hire. This is hire and salary, not revenge. Shak. Note: Recompense for services paid at, or reckoned by, short intervals, as a day or week, is usually called wages. Syn. -- Stipend; pay; wages; hire; allowance.\n\nTo pay, or agree to pay, a salary to; to attach salary to; as, to salary a clerk; to salary a position."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "something that remunerates"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "O, this is hire and salary, not revenge."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Vincy liked well enough the notion of the chaplain’s having a salary, supposing it were given to Farebrother, who was as good a little fellow as ever breathed, and the best preacher anywhere, and companionable too."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "He did not like frustrating his own best purposes by getting on bad terms with Bulstrode; he did not like voting against Farebrother, and helping to deprive him of function and salary; and the question occurred whether the additional forty pounds might not leave the Vicar free from that ignoble care about winning at cards."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "It was desirable that chaplaincies of this kind should be entered on with a fervent intention: they were peculiar opportunities for spiritual influence; and while it was good that a salary should be allotted, there was the more need for scrupulous watching lest the office should be perverted into a mere question of salary."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "I am a good deal occupied as a magistrate, and in the collection of documentary evidence, but I regard my time as being at the disposal of the public—and, in short, my friends have convinced me that a chaplain with a salary—a salary, you know—is a very good thing, and I am happy to be able to come here and vote for the appointment of Mr."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "And I have no doubt that Mary has twenty pounds saved from her salary by this time."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "And the course is all the clearer from there being no salary in question to put my persistence in an equivocal light."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "You’ll save me Callum’s salary, you know, when you can write; and I can afford to give you eighty pounds for the first year, and more after."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "I hope you will not object to my remaining at home, sir?” he said, after rising to go; “I shall have a sufficient salary to pay for my board, as of course I should wish to do."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "I travelled for ’em, sir, in a gentlemanly way—at a high salary."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Rosamond was silent for a moment or two, looking before her, and then said, “My uncle Bulstrode ought to allow you a salary for the time you give to the Hospital: it is not right that you should work for nothing."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Nevertheless, it must be acknowledged that on this evening, which was the fifth of his recent visits to the billiard-room, Fred had, not in his pocket, but in his mind, the ten pounds which he meant to reserve for himself from his half-year’s salary (having before him the pleasure of carrying thirty to Mrs."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "TO THE RED-HEADED LEAGUE: On account of the bequest of the late Ezekiah Hopkins, of Lebanon, Pennsylvania, U.S.A., there is now another vacancy open which entitles a member of the League to a salary of £ 4 a week for purely nominal services."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "Your salary with me, madam, would commence at £ 100 a year.’"
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "‘It is also my custom,’ said he, smiling in the most pleasant fashion until his eyes were just two little shining slits amid the white creases of his face, ‘to advance to my young ladies half their salary beforehand, so that they may meet any little expenses of their journey and their wardrobe.’"
+      }
+    ]
+  },
+  "salat": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "the second pillar of Islam is prayer; a prescribed liturgy performed five times a day (preferably in a mosque) and oriented toward Mecca"
+      }
+    ],
+    "quotes": []
+  },
+  "sale": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "See 1st Sallow. [Obs.] Spenser.\n\n1. The act of selling; the transfer of property, or a contract to transfer the ownership of property, from one person to another for a valuable consideration, or for a price in money. 2. Opportunity of selling; demand; market. They shall have ready sale for them. Spenser. 3. Public disposal to the highest bidder, or exposure of goods in market; auction. Sir W. Temple. Bill of sale. See under Bill. -- Of sale, On sale, For sale, to be bought or sold; offered to purchasers; in the market. -- To set to sale, to offer for sale; to put up for purchase; to make merchandise of. [Obs.] Milton."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a particular instance of selling"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the general activity of selling"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "an occasion (usually brief) for buying at specially reduced prices"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the state of being purchasable; offered or exhibited for selling"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Besides, his cote, his flocks, and bounds of feed Are now on sale, and at our sheepcote now, By reason of his absence, there is nothing That you will feed on."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "I see no more in you than in the ordinary Of nature’s sale-work. ’Od’s my little life, I think she means to tangle my eyes too!"
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "You are mistaken: the one may be sold or given, if there were wealth enough for the purchase or merit for the gift; the other is not a thing for sale, and only the gift of the gods."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "He closes with you thus: ‘I know the gentleman, I saw him yesterday, or t’other day, Or then, or then, with such and such; and, as you say, There was he gaming, there o’ertook in’s rouse, There falling out at tennis’: or perchance, ‘I saw him enter such a house of sale’— _Videlicet_, a brothel, or so forth."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Thy sale of offices and towns in France, If they were known, as the suspect is great, Would make thee quickly hop without thy head."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Beauty is bought by judgement of the eye, Not uttered by base sale of chapmen’s tongues."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "To things of sale a seller’s praise belongs."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Why, the house you dwell in proclaims you to be a creature of sale."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Noting this penury, to myself I said, And if a man did need a poison now, Whose sale is present death in Mantua, Here lives a caitiff wretch would sell it him."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "And when thou com’st thy tale to tell, Smooth not thy tongue with filed talk, Least she some subtle practice smell,— A cripple soon can find a halt,— But plainly say thou lov’st her well, And set her person forth to sale."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "Il était impossible de ne pas admirer la métamorphose subite qui, d'un hameau sale, pauvre et irrégulier, avait fait un village où tout respirait la propreté, l'ordre et l'aisance."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Bad as I am, I am not such a villain as to make the marriage or misery of any woman a matter of huckster and sale."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "At first he lived up above entirely, reading a good deal, and strumming upon an old harp which he had bought at a sale, saying when in a bitter humour that he might have to get his living by it in the streets some day."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "The smockfrock, which I saw hanging for sale as I came along, was an afterthought, that I mightn’t be noticed."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "He reflected, with much probability on his side, that Lydgate would by-and-by be caught tripping too, and that his ungentlemanly attempts to discredit the sale of drugs by his professional brethren, would by-and-by recoil on himself."
+      }
+    ]
+  },
+  "saleable": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "See Salable, Salably, etc."
+      },
+      {
+        "source": "wordnet_a",
+        "def": "capable of being sold; fit for sale"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Jane Austen",
+        "work": "Persuasion",
+        "sentence": "I have often heard him declare, that if baronetcies were saleable, anybody should have his for fifty pounds, arms and motto, name and livery included; but I will not pretend to repeat half that I used to hear him say on that subject."
+      }
+    ]
+  },
+  "salem": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "capital of the state of Oregon in the northwestern part of the state on the Willamette River"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a city in northeastern Massachusetts; site of the witchcraft trials in 1692"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a city in southern India"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "The allusion is to Jonas Very, a mystic and poet, who lived at Salem, Massachusetts.]"
+      },
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "If your trade is with the Celestial Empire, then some small counting house on the coast, in some Salem harbor, will be fixture enough."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "Elsewhere match that bloom of theirs, ye cannot, save in Salem, where they tell me the young girls breathe such musk, their sailor sweethearts smell them miles off shore, as though they were drawing nigh the odorous Moluccas instead of the Puritanic sands."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "This old town of Salem—my native place, though I have dwelt much away from it both in boyhood and maturer years—possesses, or did possess, a hold on my affection, the force of which I have never realized during my seasons of actual residence here."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "And yet, though invariably happiest elsewhere, there is within me a feeling for Old Salem, which, in lack of a better phrase, I must be content to call affection."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "I felt it almost as a destiny to make Salem my home; so that the mould of features and cast of character which had all along been familiar here—ever, as one representative of the race lay down in the grave, another assuming, as it were, his sentry-march along the main street—might still in my little day be seen and recognised in the old town."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "It was not the first time, nor the second, that I had gone away—as it seemed, permanently—but yet returned, like the bad halfpenny, or as if Salem were for me the inevitable centre of the universe."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "For upwards of twenty years before this epoch, the independent position of the Collector had kept the Salem Custom-House out of the whirlpool of political vicissitude, which makes the tenure of office generally so fragile."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "Here, no doubt, statistics of the former commerce of Salem might be discovered, and memorials of her princely merchants—old King Derby—old Billy Gray—old Simon Forrester—and many another magnate in his day, whose powdered head, however, was scarcely in the tomb before his mountain pile of wealth began to dwindle."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "The founders of the greater part of the families which now compose the aristocracy of Salem might here be traced, from the petty and obscure beginnings of their traffic, at periods generally much posterior to the Revolution, upward to what their children look upon as long-established rank."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "Unbending the rigid folds of the parchment cover, I found it to be a commission, under the hand and seal of Governor Shirley, in favour of one Jonathan Pue, as Surveyor of His Majesty’s Customs for the Port of Salem, in the Province of Massachusetts Bay."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "The remainder may perhaps be applied to purposes equally valuable hereafter, or not impossibly may be worked up, so far as they go, into a regular history of Salem, should my veneration for the natal soil ever impel me to so pious a task."
+      },
+      {
+        "author": "Thomas Henry Huxley",
+        "work": "Evolution and Ethics",
+        "sentence": "Behold the measure of the promise filled, See Salem built, the labour of a God!"
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "My ‘First Half’ at Salem House VIII."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "‘I’m one of the masters at Salem House,’ he said."
+      }
+    ]
+  },
+  "saleratus": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Aërated salt; a white crystalline substance having an alkaline taste and reaction, consisting of sodium bicarbonate (see under Sodium.) It is lagerly used in cooking, with sour milk (lactic acid) or cream of tartar as a substitute for yeast. It is also an ingridient of most baking powders, and is used in the preparation of effervescing drinks."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a white soluble compound (NaHCO3) used in effervescent drinks and in baking powders and as an antacid"
+      }
+    ],
+    "quotes": []
+  },
+  "salerno": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "a battle in World War II; the port was captured by United States troops in September 1943"
+      }
+    ],
+    "quotes": []
+  },
+  "saleroom": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "an area where merchandise (such as cars) can be displayed"
+      }
+    ],
+    "quotes": []
+  },
+  "sales": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "income (at invoice values) received for goods and services over some given period of time"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a particular instance of selling"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the general activity of selling"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "an occasion (usually brief) for buying at specially reduced prices"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Since Troy’s death Oak had attended all sales and fairs for her, transacting her business at the same time with his own."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "This was not one of the sales indicating the depression of trade; on the contrary, it was due to Mr."
+      },
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Wisdom of Father Brown",
+        "sentence": "Every now and then, though, he would appear dressed like a decidedly fashionable gentleman; but that was only when he went up to the London sales or shops to make an addition to the Carstairs Collection."
+      }
+    ]
+  },
+  "salesclerk": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "a salesperson in a store"
+      }
+    ],
+    "quotes": []
+  },
+  "salesgirl": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "a woman salesperson"
+      }
+    ],
+    "quotes": []
+  },
+  "saleslady": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "a woman salesperson"
+      }
+    ],
+    "quotes": []
+  },
+  "salesman": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "One who sells anything; one whose occupation is to sell goods or merchandise."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a man salesperson"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "Well, I got the two dozen from a salesman in Covent Garden."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "The salesman nodded and shot a questioning glance at my companion."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "To my surprise the question provoked a burst of anger from the salesman."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "Well, then, you’ve lost your fiver, for it’s town bred,” snapped the salesman."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "Cocksure,” said the salesman, “I thought that I was out of geese, but before I finish you’ll find that there is still one left in my shop."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "Turning round we saw a little rat-faced fellow standing in the centre of the circle of yellow light which was thrown by the swinging lamp, while Breckinridge, the salesman, framed in the door of his stall, was shaking his fists fiercely at the cringing figure."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "You will excuse me,” said Holmes blandly, “but I could not help overhearing the questions which you put to the salesman just now."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "Oakshott, of Brixton Road, to a salesman named Breckinridge, by him in turn to Mr."
+      }
+    ]
+  },
+  "salesmanship": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "skill in selling; skill in persuading people to buy"
+      }
+    ],
+    "quotes": []
+  },
+  "salesperson": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "a person employed to represent a business and to sell its merchandise (as to customers in a store or to customers who are visited)"
+      }
+    ],
+    "quotes": []
+  },
+  "salesroom": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "an area where merchandise (such as cars) can be displayed"
+      }
+    ],
+    "quotes": []
+  },
+  "saleswoman": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "A woman whose occupation is to sell goods or merchandise."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a woman salesperson"
+      }
+    ],
+    "quotes": []
+  },
+  "salian": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Denoting a tribe of Franks who established themselves early in the fourth century on the river Sala [now Yssel]; Salic. -- n.  A Salian Frank."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a member of the tribe of Franks who settled in the Netherlands in the 4th century AD"
+      }
+    ],
+    "quotes": []
+  },
+  "salicaceae": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "two genera of trees or shrubs having hairy catkins: Salix; Populus"
+      }
+    ],
+    "quotes": []
+  },
+  "salicales": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "coextensive with the family Salicaceae"
+      }
+    ],
+    "quotes": []
+  },
+  "salicornia": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "glassworts"
+      }
+    ],
+    "quotes": []
+  },
+  "salicylate": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "A salt of salicylic acid."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a salt of salicylic acid (included in several commonly used drugs)"
+      }
+    ],
+    "quotes": []
+  },
+  "salience": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. That quality or condition of being salient; a leaping; a springing forward; an assaulting. 2. The quality or state of projecting, or being projected; projection; protrusion. Sir W. Hamilton."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the state of being salient"
+      }
+    ],
+    "quotes": []
+  },
+  "saliency": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Quality of being salient; hence, vigor. \"A fatal lack of poetic saliency.\" J. Morley."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the state of being salient"
+      }
+    ],
+    "quotes": []
+  },
+  "salient": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. Moving by leaps or springs; leaping; bounding; jumping. \"Frogs and salient animals.\" Sir T. Browne. 2. Shooting out up; springing; projecting. He had in himself a salient, living spring of generous and manly action. Burke. 3. Hence, figuratively, forcing itself on the attention; prominent; conspicuous; noticeable. He [Grenville] had neither salient traits, nor general comprehensiveness of mind. Bancroft. 4. (Math. & Fort.)  Projectiong outwardly; as, a salient angle; -- opposed to reëntering. See Illust. of Bastion. 5. (Her.)  Represented in a leaping position; as, a lion salient. Salient angle. See Salient, a., 4. -- Salient polygon (Geom.), a polygon all of whose angles are salient. -- Salient polyhedron (Geom.), a polyhedron all of whose solid angles are salient.\n\nA salient angle or part; a projection."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "(military) the part of the line of battle that projects closest to the enemy"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "having a quality that thrusts itself into attention"
+      },
+      {
+        "source": "wordnet_a",
+        "def": "(of angles) pointing outward at an angle of less than 180 degrees"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "represented as leaping (rampant but leaning forward)"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "Cobwebs revealed their presence on sheds and walls where none had ever been observed till brought out into visibility by the crystallizing atmosphere, hanging like loops of white worsted from salient points of the out-houses, posts, and gates."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "A brief summary will be sufficient to recall to the reader’s mind the more salient points in this work."
+      },
+      {
+        "author": "Bram Stoker",
+        "work": "Dracula",
+        "sentence": "It seemed to me that we were simply going over and over the same ground again; and so I took note of some salient point, and found that this was so."
+      },
+      {
+        "author": "H. G. Wells",
+        "work": "The War of the Worlds",
+        "sentence": "The last salient point in which the systems of these creatures differed from ours was in what one might have thought a very trivial particular."
+      }
+    ]
+  },
+  "salientia": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "frogs, toads, tree toads"
+      }
+    ],
+    "quotes": []
+  },
+  "salientian": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "any of various tailless stout-bodied amphibians with long hind limbs for leaping; semiaquatic and terrestrial species"
+      },
+      {
+        "source": "wordnet_a",
+        "def": "relating to frogs and toads"
+      }
+    ],
+    "quotes": []
+  },
+  "saliferous": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Producing, or impregnated with, salt. Saliferous rocks (Geol.), the New Red Sandstone system of some geologists; -- so called because, in Europe, this formation contains beds of salt. The saliferous beds of New York State belong largely to the Salina period of the Upper Silurian. See the Chart of Geology."
+      },
+      {
+        "source": "wordnet_s",
+        "def": "containing or yielding salt"
+      }
+    ],
+    "quotes": []
+  },
+  "salim": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "Venezuelan master terrorist raised by a Marxist-Leninist father; trained and worked with many terrorist groups (born in 1949)"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "3:23 And John also was baptizing in Aenon near to Salim, because there was much water there: and they came, and were baptized."
+      }
+    ]
+  },
+  "salina": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. A salt marsh, or salt pond, inclosed from the sea. 2. Salt works."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a town in central Kansas"
+      }
+    ],
+    "quotes": []
+  },
+  "salinate": {
+    "defs": [
+      {
+        "source": "wordnet_v",
+        "def": "add salt to"
+      }
+    ],
+    "quotes": []
+  },
+  "saline": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. Consisting of salt, or containing salt; as, saline particles; saline substances; a saline cathartic. 2. Of the quality of salt; salty; as, a saline taste.\n\nA salt spring; a place where salt water is collected in the earth.\n\n1. (Chem.)  A crude potash obtained from beet-root residues and other similar sources. [Written also salin.] 2. (Med. Chem.)  A metallic salt; esp., a salt of potassium, sodium, lithium, or magnesium, used in medicine."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "an isotonic solution of sodium chloride and distilled water"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "containing salt"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "His were the shinbones of the saline beef; his would have been the drumsticks."
+      },
+      {
+        "author": "H. G. Wells",
+        "work": "The Time Machine",
+        "sentence": "He may even now—if I may use the phrase—be wandering on some plesiosaurus-haunted Oolitic coral reef, or beside the lonely saline seas of the Triassic Age."
+      }
+    ]
+  },
+  "salinger": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "United States writer (born 1919)"
+      }
+    ],
+    "quotes": []
+  },
+  "salinity": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Salineness. Carpenter."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the taste experience when common salt is taken into the mouth"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the relative proportion of salt in a solution"
+      }
+    ],
+    "quotes": []
+  },
+  "salinometer": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "A salimeter."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a hydrometer that determines the concentration of salt solutions by measuring their density"
+      }
+    ],
+    "quotes": []
+  },
+  "salisbury": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "the capital and largest city of Zimbabwe"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Enter Gloucester, Bedford, Exeter, Erpingham, with all his host: Salisbury and Westmorland."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Farewell, good Salisbury, and good luck go with thee!"
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Then shall our names, Familiar in his mouth as household words, Harry the King, Bedford, and Exeter, Warwick and Talbot, Salisbury and Gloucester, Be in their flowing cups freshly remembered."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "So you had need; for Orleans is besieg’d The English army is grown weak and faint; The Earl of Salisbury craveth supply And hardly keeps his men from mutiny, Since they, so few, watch such a multitude."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Remaineth none but mad-brain’d Salisbury, And he may well in fretting spend his gall; Nor men nor money hath he to make war."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Salisbury is a desperate homicide; He fighteth as one weary of his life."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Enter, on the turrets, Salisbury and Talbot, Sir William Glansdale, Sir Thomas Gargrave and others."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Here they shoot, and Salisbury and Gargrave fall down."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Speak, Salisbury; at least, if thou canst speak!"
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "In thirteen battles Salisbury o’ercame; Henry the Fifth he first train’d to the wars; Whilst any trump did sound, or drum struck up, His sword did ne’er leave striking in the field."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Heaven, be thou gracious to none alive, If Salisbury wants mercy at thy hands!"
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Salisbury, cheer thy spirit with this comfort, Thou shalt not die whiles— He beckons with his hand and smiles on me, As who should say “When I am dead and gone, Remember to avenge me on the French.” Plantagenet, I will; and, like thee, Nero, Play on the lute, beholding the towns burn."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "[_Here Salisbury lifteth himself up and groans._]"
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Hear, hear how dying Salisbury doth groan; It irks his heart he cannot be revenged."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Frenchmen, I’ll be a Salisbury to you."
+      }
+    ]
+  },
+  "salish": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "a family of Mosan language spoken in northwestern United States and western Canada"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a member of a group of North American Indians speaking a Salishan language and living on the northwest coast of North America"
+      }
+    ],
+    "quotes": []
+  },
+  "salishan": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "a family of Mosan language spoken in northwestern United States and western Canada"
+      }
+    ],
+    "quotes": []
+  },
+  "saliva": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "The secretion from the salivary glands. Note: In man the saliva is a more or less turbid and slighty viscid fluid, generally of an alkaline reaction, and is secreted by the parotid, submaxillary, and sublingual glands. In the mouth the saliva is mixed with the secretion from the buccal glands. The secretions from the individual salivary glands have their own special characteristics, and these are not the same in all animals. In man and many animals mixed saliva, i.e., saliva composed of the secretions of all three of the salivary glands, is an important degestive fluid on account of the presence of the peculiar enzyme, ptyalin."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a clear liquid secreted into the mouth by the salivary glands and mucous glands of the mouth; moistens the mouth and starts the digestion of starches"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "H. G. Wells",
+        "work": "The War of the Worlds",
+        "sentence": "There was a mouth under the eyes, the lipless brim of which quivered and panted, and dropped saliva."
+      },
+      {
+        "author": "Jonathan Swift",
+        "work": "Gulliver's Travels",
+        "sentence": "His employment, from his first coming into the academy, was an operation to reduce human excrement to its original food, by separating the several parts, removing the tincture which it receives from the gall, making the odour exhale, and scumming off the saliva."
+      }
+    ]
+  },
+  "salivary": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Of or pertaining to saliva; producing or carrying saliva; as, the salivary ferment; the salivary glands; the salivary ducts, etc."
+      },
+      {
+        "source": "wordnet_a",
+        "def": "of or relating to saliva"
+      }
+    ],
+    "quotes": []
+  },
+  "salivate": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "To produce an abnormal flow of saliva in; to produce salivation or ptyalism in, as by the use of mercury. over.; as, salivate over the prospects of high profits from an enterprise. Note: Probably influenced by the experiments of Pavlov, who trained dogs to salivate at the sound of a bell, by previously ringing the bell immediately prior to feeding them."
+      },
+      {
+        "source": "wordnet_v",
+        "def": "produce saliva"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "be envious, desirous, eager for, or extremely happy about something"
+      }
+    ],
+    "quotes": []
+  },
+  "salivation": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "The act or process of salivating; an excessive secretion of saliva, often accompained with soreness of the mouth and gums; ptyalism. Note: It may be induced by direct chemical or mechanical stimulation, as in mastication of some tasteless substance like rubber, or indirectly by some agent which affects the whole system, as mercury compounds."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the secretion of saliva"
+      }
+    ],
+    "quotes": []
+  },
+  "salix": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "(a) A genus of trees or shrubs including the willow, osier, and the like, growing usually in wet grounds. (b) A tree or shrub of any kind of willow."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a large and widespread genus varying in size from small shrubs to large trees: willows"
+      }
+    ],
+    "quotes": []
+  },
+  "sallet": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "A light kind of helmet, with or without a visor, introduced during the 15th century. [Written also salade.] Then he must have a sallet wherewith his head may be saved. Latimer.\n\nSalad. [Obs.] Shak."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a light medieval helmet with a slit for vision"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Wherefore, o’er a brick wall have I climbed into this garden, to see if I can eat grass, or pick a sallet another while, which is not amiss to cool a man’s stomach this hot weather."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "And I think this word “sallet” was born to do me good; for many a time, but for a sallet, my brain-pan had been cleft with a brown bill; and many a time, when I have been dry and bravely marching, it hath served me instead of a quart pot to drink in; and now the word “sallet” must serve me to feed on."
+      }
+    ]
+  },
+  "sallow": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. The willow; willow twigs. [Poetic] Tennyson. And bend the pliant sallow to a shield. Fawkes. The sallow knows the basketmaker's thumb. Emerson. 2. (Bot.)  A name given to certain species of willow, especially those which do not have flexible shoots, as Salix caprea, S. cinerea, etc. Sallow thorn (Bot.), a European thorny shrub (Hippophae rhamnoides) much like an Elæagnus. The yellow berries are sometimes used for making jelly, and the plant affords a yellow dye.\n\nHaving a yellowish color; of a pale, sickly color, tinged with yellow; as, a sallow skin. Shak.\n\nTo tinge with sallowness. [Poetic] July breathes hot, sallows the crispy fields. Lowell."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "any of several Old World shrubby broad-leaved willows having large catkins; some are important sources for tanbark and charcoal"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "cause to become sallow"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "unhealthy looking"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Jesu Maria, what a deal of brine Hath wash’d thy sallow cheeks for Rosaline!"
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "The fields were sallow with the impure light, and all were tinged in monochrome, as if beheld through stained glass."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "However, she is married; I saw her wedding-ring on that wonderful left hand, otherwise I should have thought the sallow _Geistlicher_ was her father."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "About five ft. seven in. in height; strongly built, sallow complexion, black hair, a little bald in the centre, bushy, black side-whiskers and moustache; tinted glasses, slight infirmity of speech."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "The man who entered was a sturdy, middle-sized fellow, some thirty years of age, clean-shaven, and sallow-skinned, with a bland, insinuating manner, and a pair of wonderfully sharp and penetrating grey eyes."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "That he should come to me for help, and that I should send him away to his death—!” He sprang from his chair and paced about the room in uncontrollable agitation, with a flush upon his sallow cheeks and a nervous clasping and unclasping of his long thin hands."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "As I entered, a sallow Malay attendant had hurried up with a pipe for me and a supply of the drug, beckoning me to an empty berth."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "His eyes twinkled, and there was even a touch of colour upon his sallow cheeks."
+      },
+      {
+        "author": "Oscar Wilde",
+        "work": "The Picture of Dorian Gray",
+        "sentence": "You will become sallow, and hollow-cheeked, and dull-eyed."
+      },
+      {
+        "author": "H. G. Wells",
+        "work": "The War of the Worlds",
+        "sentence": "Then round the corner of the lane, from between the villas that guarded it at its confluence with the high road, came a little cart drawn by a sweating black pony and driven by a sallow youth in a bowler hat, grey with dust."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Silas Marner",
+        "sentence": "Here and there a sallow, begrimed face looked out from a gloomy doorway at the strangers, and increased Eppie’s uneasiness, so that it was a longed-for relief when they issued from the alleys into Shoe Lane, where there was a broader strip of sky."
+      },
+      {
+        "author": "William James",
+        "work": "Pragmatism",
+        "sentence": "Wallis, entered the office, followed by a short, sharp-visaged man, with a sallow complexion; he was dressed in a shabby frock, buttoned up to the throat--a rusty black silk neckerchief supplying the place of shirt and collar."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "He was a gaunt, sallow young man, with hollow cheeks, and a chin almost as black as Mr."
+      },
+      {
+        "author": "Jonathan Swift",
+        "work": "Gulliver's Travels",
+        "sentence": "That a weak diseased body, a meagre countenance, and sallow complexion, are the true marks of noble blood; and a healthy robust appearance is so disgraceful in a man of quality, that the world concludes his real father to have been a groom or a coachman."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "A Tale of Two Cities",
+        "sentence": "As early as six o’clock in the morning, sallow faces peeping through its barred windows had descried other faces within, bending over measures of wine."
+      }
+    ]
+  },
+  "sallowness": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "The quality or condition of being sallow. Addison."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a sickly yellowish skin color"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Casaubon’s moles and sallowness, had escaped to the vicarage to play with the curate’s ill-shod but merry children."
+      }
+    ]
+  },
+  "sally": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "To leap or rush out; to burst forth; to issue suddenly; as a body of troops from a fortified place to attack besiegers; to make a sally. They break the truce, and sally out by night. Dryden. The foe retires, -- she heads the sallying host. Byron.\n\n1. A leaping forth; a darting; a spring. 2. A rushing or bursting forth; a quick issue; a sudden eruption; specifically, an issuing of troops from a place besieged to attack the besiegers; a sortie. Sallies were made by the Spaniards, but they were beaten in with loss. Bacon. 3. An excursion from the usual track; range; digression; deviation. Every one shall know a country better that makes often sallies into it, and traverses it up and down, than he that . . . goes still round in the same track. Locke. 4. A flight of fancy, liveliness, wit, or the like; a flashing forth of a quick and active mind. The unaffected mirth with which she enjoyed his sallies. Sir W. Scott. 5. Transgression of the limits of soberness or steadiness; act of levity; wild gayety; frolic; escapade. The excursion was esteemed but a sally of youth. Sir H. Wotton. Sally port. (a) (Fort.) A postern gate, or a passage underground, from the inner to the outer works, to afford free egress for troops in a sortie. (b) (Naval) A large port on each quarter of a fireship, for the escape of the men into boats when the train is fired; a large port in an old-fashioned three-decker or a large modern ironclad."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "witty remark"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a military action in which besieged troops burst forth from their position"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a venture off the beaten path"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "When you sally upon him, speak what terrible language you will; though you understand it not yourselves, no matter; for we must not seem to understand him, unless someone among us, whom we must produce for an interpreter."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "All our general force Might with a sally of the very town Be buckled with."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "No notes of sally, for the heavens, sweet brother!"
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "By degrees a more charitable temper had pervaded him, and this was the reason of his sally to-night."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "The laughter which followed this sally was supplemented only by a sorry smile, for form’s sake, from Tess."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "It seems that there had been some informality about their license, that the clergyman absolutely refused to marry them without a witness of some sort, and that my lucky appearance saved the bridegroom from having to sally out into the streets in search of a best man."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "Where else but from Nantucket did those aboriginal whalemen, the Red-Men, first sally out in canoes to give chase to the Leviathan?"
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "This rampart is pierced by several sally-ports for the convenience of ships and whales; conspicuous among which are the straits of Sunda and Malacca."
+      },
+      {
+        "author": "H. G. Wells",
+        "work": "The War of the Worlds",
+        "sentence": "And while the Martians behind me were thus preparing for their next sally, and in front of me Humanity gathered for the battle, I made my way with infinite pains and labour from the fire and smoke of burning Weybridge towards London."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Silas Marner",
+        "sentence": "Jem Rodney’s story was no more than what might have been expected by anybody who had seen how Marner had cured Sally Oates, and made her sleep like a baby, when her heart had been beating enough to burst her body, for two months and more, while she had been under the doctor’s care."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Silas Marner",
+        "sentence": "He felt a rush of pity at the mingled sight and remembrance, and, recalling the relief his mother had found from a simple preparation of foxglove, he promised Sally Oates to bring her something that would ease her, since the doctor did her no good."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Silas Marner",
+        "sentence": "But Sally Oates’s disease had raised her into a personage of much interest and importance among the neighbours, and the fact of her having found relief from drinking Silas Marner’s “stuff” became a matter of general discourse."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Silas Marner",
+        "sentence": "Silas Marner must be a person of the same sort, for how did he know what would bring back Sally Oates’s breath, if he didn’t know a fine sight more than that?"
+      },
+      {
+        "author": "George Eliot",
+        "work": "Silas Marner",
+        "sentence": "But Sally Oates must mind and not tell the doctor, for he would be sure to set his face against Marner: he was always angry about the Wise Woman, and used to threaten those who went to her that they should have none of his help any more."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Silas Marner",
+        "sentence": "Thus it came to pass that his movement of pity towards Sally Oates, which had given him a transient sense of brotherhood, heightened the repulsion between him and his neighbours, and made his isolation more complete."
+      }
+    ]
+  },
+  "salmacis": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "nymph who merged with Hermaphroditus to form one body"
+      }
+    ],
+    "quotes": []
+  },
+  "salmagundi": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. A mixture of chopped meat and pickled herring, with oil, vinegar, pepper, and onions. Johnson. 2. Hence, a mixture of various ingredients; an olio or medley; a potpourri; a miscellany. W. Irving."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a collection containing a variety of sorts of things"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "cooked meats and eggs and vegetables usually arranged in rows around the plate and dressed with a salad dressing"
+      }
+    ],
+    "quotes": []
+  },
+  "salmi": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Same as Salmis."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "ragout of game in a rich sauce"
+      }
+    ],
+    "quotes": []
+  },
+  "salmo": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "type genus of the Salmonidae: salmon and trout"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "Head of male common salmon (Salmo salar) during the breeding-season. [This drawing, as well as all the others in the present chapter, have been executed by the well-known artist, Mr."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "Yarrell, ‘History of British Fishes,’ vol. ii. 1836, p. 10.) (Figs. 27 and 28.) In our salmon this change of structure lasts only during the breeding-season; but in the Salmo lycaodon of N.W."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "Yarrell, ‘History of British Fishes,’ vol. ii. 1836, pp. 10, 12, 35.) An analogous and even greater change takes place with the Salmo eriox or bull trout; the males of the char (S. umbla) are likewise at this season rather brighter in colour than the females. (23."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "Salmo eriox, and Salmo umbla, colouring of the male, during the breeding season."
+      }
+    ]
+  },
+  "salmon": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. (Zoöl.)  Any one of several species of fishes of the genus Salmo and allied genera. The common salmon (Salmo salar) of Northern Europe and Eastern North America, and the California salmon, or quinnat, are the most important species. They are extensively preserved for food. See Quinnat. Note: The salmons ascend rivers and penetrate to their head streams to spawn. They are remarkably strong fishes, and will even leap over considerable falls which lie in the way of their progress. The common salmon has been known to grow to the weight of seventy-five pounds; more generally it is from fifteen to twenty-five pounds. Young salmon are called parr, peal, smolt, and grilse. Among the true salmons are: Black salmon, or Lake salmon, the namaycush. -- Dog salmon, a salmon of Western North America (Oncorhynchus keta). -- Humpbacked salmon, a Pacific-coast salmon (Oncorhynchus gorbuscha). -- King salmon, the quinnat. -- Landlocked salmon, a variety of the common salmon (var. Sebago), long confined in certain lakes in consequence of obstructions that prevented it from returning to the sea. This last is called also dwarf salmon. Among fishes of other families which are locally and erroneously called salmon are: the pike perch, called jack salmon; the spotted, or southern, squeteague; the cabrilla, called kelp salmon; young pollock, called sea salmon; and the California yellowtail. 2. A reddish yellow or orange color, like the flesh of the salmon. Salmon berry (Bot.), a large red raspberry growing from Alaska to California, the fruit of the Rubus Nutkanus. -- Salmon killer (Zoöl.), a stickleback (Gasterosteus cataphractus) of Western North America and Northern Asia. -- Salmon ladder, salmon stair. See Fish ladder, under Fish. -- Salmon peel, a young salmon. -- Salmon pipe, a certain device for catching salmon. Crabb. -- Salmon trout. (Zoöl.) (a) The European sea trout (Salmo trutta). It resembles the salmon, but is smaller, and has smaller and more numerous scales. (b) The American namaycush. (c) A name that is also applied locally to the adult black spotted trout (Salmo purpuratus), and to the steel head and other large trout of the Pacific coast.\n\nOf a reddish yellow or orange color, like that of the flesh of the salmon."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "any of various large food and game fishes of northern waters; usually migrate from salt to fresh water to spawn"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a tributary of the Snake River in Idaho"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "flesh of any of various marine or freshwater fish of the family Salmonidae"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a pale pinkish orange color"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Alas, the prison I keep, though it be for great ones, yet they seldom come; before one salmon, you shall take a number of minnows."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Thus, in a slow procession, they entered the opening to which the roads tended, multitude after multitude, horned and hornless—blue flocks and red flocks, buff flocks and brown flocks, even green and salmon-tinted flocks, according to the fancy of the colourist and custom of the farm."
+      },
+      {
+        "author": "Lewis Carroll",
+        "work": "Alice's Adventures in Wonderland",
+        "sentence": "Seals, turtles, salmon, and so on; then, when you’ve cleared all the jelly-fish out of the way—"
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "The males of carnivorous animals are already well armed; though to them and to others, special means of defence may be given through means of sexual selection, as the mane to the lion, the shoulder-pad to the boar, and the hooked jaw to the male salmon; for the shield may be as important for victory, as the sword or spear."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "We have differences correlated not only to one sex, but to that short period alone when the reproductive system is active, as in the nuptial plumage of many birds, and in the hooked jaws of the male salmon."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "It causes young salmon to leap out of the fresh water, in which they could continue to exist, and thus unintentionally to commit suicide."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "Allen, on the ‘Mammals and Winter Birds of Florida,’ Bulletin of Comparative Zoology, Harvard College, p. 268.) The majority of the male salmon in our rivers, on coming up from the sea, are ready to breed before the females."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "Buist, the superintendent of the Stormontfield experiments, says that in 1865, out of 70 salmon first landed for the purpose of obtaining the ova, upwards of 60 were males."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "The male salmon is as pugnacious as the little stickleback; and so is the male trout, as I hear from Dr."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "Shaw saw a violent contest between two male salmon which lasted the whole day; and Mr."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "Another experienced observer (Scrope’s ‘Days of Salmon Fishing,’ p. 60) remarks that like the stag, the male would, if he could, keep all other males away.) Mr."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "Buist informs me, that in June 1868, the keeper of the Stormontfield breeding-ponds visited the northern Tyne and found about 300 dead salmon, all of which with one exception were males; and he was convinced that they had lost their lives by fighting."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "Head of male common salmon (Salmo salar) during the breeding-season. [This drawing, as well as all the others in the present chapter, have been executed by the well-known artist, Mr."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "The most curious point about the male salmon is that during the breeding-season, besides a slight change in colour, “the lower jaw elongates, and a cartilaginous projection turns upwards from the point, which, when the jaws are closed, occupies a deep cavity between the intermaxillary bones of the upper jaw.” (7."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "Yarrell, ‘History of British Fishes,’ vol. ii. 1836, p. 10.) (Figs. 27 and 28.) In our salmon this change of structure lasts only during the breeding-season; but in the Salmo lycaodon of N.W."
+      }
+    ]
+  },
+  "salmonberry": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "creeping raspberry of north temperate regions with yellow or orange berries"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "white-flowered raspberry of western North America and northern Mexico with thimble-shaped orange berries"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "large erect red-flowered raspberry of western North America having large pinkish-orange berries"
+      }
+    ],
+    "quotes": []
+  },
+  "salmonella": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "rod-shaped Gram-negative enterobacteria; cause typhoid fever and food poisoning; can be used as a bioweapon"
+      }
+    ],
+    "quotes": []
+  },
+  "salmonellosis": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "a kind of food poisoning caused by eating foods contaminated with Salmonella typhimurium"
+      }
+    ],
+    "quotes": []
+  },
+  "salmonid": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "soft-finned fishes of cold and temperate waters"
+      }
+    ],
+    "quotes": []
+  },
+  "salmonidae": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "salmon and trout"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "The males alone of the capelin (Mallotus villosus, one of Salmonidae), are provided with a ridge of closely-set, brush-like scales, by the aid of which two males, one on each side, hold the female, whilst she runs with great swiftness on the sandy beach, and there deposits her spawn. (2."
+      }
+    ]
+  },
+  "salmwood": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "large tropical American tree of the genus Cordia grown for its abundant creamy white flowers and valuable wood"
+      }
+    ],
+    "quotes": []
+  },
+  "salol": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "A white crystalline substance consisting of phenol salicylate."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a white powder with a pleasant taste and odor; used to absorb light in sun tan lotions or as a preservative or an antiseptic or a coating for pills in which the medicine is intended for enteric release"
+      }
+    ],
+    "quotes": []
+  },
+  "salome": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "woman whose dancing beguiled Herod into giving her the head of John the Baptist"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "15:40 There were also women looking on afar off: among whom was Mary Magdalene, and Mary the mother of James the less and of Joses, and Salome; 15:41 (Who also, when he was in Galilee, followed him, and ministered unto him;) and many other women which came up with him unto Jerusalem."
+      },
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "16:1 And when the sabbath was past, Mary Magdalene, and Mary the mother of James, and Salome, had bought sweet spices, that they might come and anoint him."
+      }
+    ]
+  },
+  "salomon": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "American financier and American Revolutionary War patriot who helped fund the army during the American Revolution (1740?-1785)"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Francis Bacon",
+        "work": "The Essays",
+        "sentence": "It was the erection and institution of an Order or Society, which we call Salomon's House; the noblest foundation (as we think) that ever was upon the earth; and the lanthorn of this kingdom."
+      },
+      {
+        "author": "Francis Bacon",
+        "work": "The Essays",
+        "sentence": "After the ceremony endeth the father or Tirsan retireth; and after some time cometh forth again to dinner, where he sitteth alone under the state, as before; and none of his descendants sit with him, of what degree or dignity soever, except he hap to be of Salomon's House."
+      },
+      {
+        "author": "Francis Bacon",
+        "work": "The Essays",
+        "sentence": "For I will impart unto thee, for the love of God and men, a relation of the true state of Salomon's House."
+      },
+      {
+        "author": "Francis Bacon",
+        "work": "The Essays",
+        "sentence": "Son, to make you know the true state of Salomon's House, I will keep this order."
+      },
+      {
+        "author": "Francis Bacon",
+        "work": "The Essays",
+        "sentence": "These are (my son) the riches of Salomon's House."
+      }
+    ]
+  },
+  "salon": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "An apartment for the reception of company; hence, in the plural, faschionable parties; circles of fashionable society.\n\nAn apartment for the reception and exhibition of works of art; hence, an annual exhibition of paintings, sculptures, etc., held in Paris by the Society of French Artists; -- sometimes called the Old Salon. New Salon is a popular name for an annual exhibition of paintings, sculptures, etc., held in Paris at the Champs de Mars, by the Société Nationale des Beaux-Arts (National Society of Fine Arts), a body of artists who, in 1890, seceded from the Société des Artistes Français (Society of French Artists)."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "gallery where works of art can be displayed"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a shop where hairdressers and beauticians work"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "elegant sitting room where guests are received"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "Ce désir de lui être agréable se révélait aussi dans le choix des lectures qu'ils faisaient à haute voix; ils poussaient même l'attention jusqu'à suspendre ces lectures, dès qu'elle s'éloignait, et ils ne les reprenaient que lorsqu'elle rentrait au salon."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "Le lendemain matin nos amis se placèrent de bonne heure aux fenêtres du salon, et leurs regards se fixèrent sur la route par laquelle le Comte et la Baronne devaient arriver."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "Il commençait à faire nuit, on venait d'allumer les bougies, lorsque la jeune fille entra enfin au salon."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "Dès qu'il fut sorti, Luciane se mit à jouer à travers le salon avec un grand lévrier."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "Charlotte et sa nièce ne trouvaient plus rien à dire, et le Professeur se mit à feuilleter le volume de gravures contenant les diverses espèces de singes, resté au salon depuis qu'on l'y avait apporté pour amuser Luciane."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "Le salon et les petits appartements qui l'entouraient offraient un refuge agréable contre l'ardeur du soleil; aussi la société ne tarda-t-elle pas à s'y retirer et à organiser de petits jeux."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "Craignant de s'y abandonner d'une manière trop visible, elle quitta brusquement le salon."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "Bientôt elles rentrèrent en effet au salon."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "Il ne la rencontra pas; car, au lieu de monter directement à sa chambre à coucher, elle entra au salon où elle vit sa nièce étendue par terre sans apparence de vie."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "L'heureuse mère ne négligea rien pour lui prouver sa reconnaissance, et pour le recevoir dignement; elle fit nettoyer en hâte son salon qui, malheureusement, lui servait en même temps de garde-meuble et d'office."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "Une femme de chambre vient apporter des sels et des fortifiants propres à la tirer de son état de stupeur, et Charlotte court près d'Édouard qu'elle trouve au salon, mais hors d'état de l'instruire de ce qui vient de se passer."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "Bientôt ses amis encore réunis au salon, reçurent le billet suivant:"
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "Quand ils entraient au salon, on les voyait bientôt debout ou assis côte à côte: pour se sentir calmes et heureux, ils avaient besoin de se tenir ainsi le plus près possible; mais ce rapprochement leur suffisait, sans leur faire désirer les communications plus positives du regard et de la parole."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "Les heures de promenades et celles des réunions au salon étaient les mêmes; et les fruits et les fleurs de la saison actuelle paraissaient être les produits de cet heureux printemps."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "La veille de l'anniversaire de la naissance d'Édouard Charlotte et le Major étaient réunis au salon, en attendant le retour du Baron qui était allé faire une promenade à cheval."
+      }
+    ]
+  },
+  "salonica": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "a port city in northeastern Greece on an inlet of the Aegean Sea; second largest city of Greece"
+      }
+    ],
+    "quotes": []
+  },
+  "salonika": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "a port city in northeastern Greece on an inlet of the Aegean Sea; second largest city of Greece"
+      }
+    ],
+    "quotes": []
+  },
+  "saloon": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. A spacious and elegant apartment for the reception of company or for works of art; a hall of reception, esp. a hall for public entertainments or amusements; a large room or parlor; as, the saloon of a steamboat. The gilden saloons in which the first magnates of the realm . . . gave banquets and balls. Macaulay. 2. Popularly, a public room for specific uses; esp., a barroom or grogshop; as, a drinking saloon; an eating saloon; a dancing saloon. We hear of no hells, or low music halls, or low dancing saloons [at Athens.] J. P. Mahaffy."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a room or establishment where alcoholic drinks are served over a counter"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "tavern consisting of a building with a bar and public rooms; often provides light meals"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a car that is closed and that has front and rear seats and two or four doors"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Oscar Wilde",
+        "work": "The Picture of Dorian Gray",
+        "sentence": "He dragged it aside and entered a long low room which looked as if it had once been a third-rate dancing-saloon."
+      },
+      {
+        "author": "Jane Austen",
+        "work": "Sense and Sensibility",
+        "sentence": "The dining parlour will admit eighteen couple with ease; card-tables may be placed in the drawing-room; the library may be open for tea and other refreshments; and let the supper be set out in the saloon.' Lady Elliott was delighted with the thought."
+      },
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Wisdom of Father Brown",
+        "sentence": "Father Brown jumped off the bandstand, his friend following; and as they walked in the direction indicated the trees fell away to right and left, and they saw a small, rather flashy hotel, such as is common in resorts--the hotel of the Saloon Bar rather than the Bar Parlour."
+      },
+      {
+        "author": "Walt Whitman",
+        "work": "Leaves of Grass",
+        "sentence": "The saloon of the steamer! the crowded excursion for me! the torchlight procession!"
+      }
+    ]
+  },
+  "salsa": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "spicy sauce of tomatoes and onions and chili peppers to accompany Mexican foods"
+      }
+    ],
+    "quotes": []
+  },
+  "salsify": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "See Oyster plant (a), under Oyster."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "edible root of the salsify plant"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "Mediterranean biennial herb with long-stemmed heads of purple ray flowers and milky sap and long edible root; naturalized throughout United States"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "either of two long roots eaten cooked"
+      }
+    ],
+    "quotes": []
+  },
+  "salsilla": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "tropical vine having umbels of small purple flowers and edible roots sometimes boiled as a potato substitute; Colombia"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "tropical vine having pink-and-yellow flowers spotted purple and edible roots sometimes boiled as a potato substitute; West Indies to northern South America"
+      }
+    ],
+    "quotes": []
+  },
+  "salsola": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "A genus of plants including the glasswort. See Glasswort."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "chiefly Old World herbs or shrubs: saltworts"
+      }
+    ],
+    "quotes": []
+  },
+  "salt": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. The chloride of sodium, a substance used for seasoning food, for the preservation of meat, etc. It is found native in the earth, and is also produced, by evaporation and crystallization, from sea water and other water impregnated with saline particles. 2. Hence, flavor; taste; savor; smack; seasoning. Though we are justices and doctors and churchmen . . . we have some salt of our youth in us. Shak. 3. Hence, also, piquancy; wit; sense; as, Attic salt. 4. A dish for salt at table; a saltcellar. I out and bought some things; among others, a dozen of silver salts. Pepys. 5. A sailor; -- usually qualified by old. [Colloq.] Around the door are generally to be seen, laughing and gossiping, clusters of old salts. Hawthorne. 6. (Chem.)  The neutral compound formed by the union of an acid base; thus, sulphuric acid and iron form the salt sulphate of iron or green vitriol. Note: Except in case of ammonium salts, accurately speaking, it is the acid radical which unites with the base or basic radical, with the elimination of hydrogen, of water, or of analogous compounds as side products. In the case of diacid and triacid bases, and of dibasic and tribasic acids, the mutual neutralization may vary in degree, producing respectively basic, neutral, or acid salts See Phrases below. 7. Fig.: That which preserves from corruption or error; that which purifies; a corrective; an antiseptic; also, an allowance or deduction; as, his statements must be taken with a grain of salt. Ye are the salt of the earth. Matt. v. 13. 8. pl.  Any mineral salt used as an aperient or cathartic, especially Epsom salts, Rochelle salt, or Glauber's salt. 9. pl.  Marches flooded by the tide. [Prov. Eng.] Above the salt, Below the salt, phrases which have survived the old custom, in the houses of people of rank, of placing a large saltcellar near the middle of a long table, the places above which were assigned to the guests of distinction, and those below to dependents, inferiors, and poor relations. See Saltfoot. His fashion is not to take knowledge of him that is beneath him in clothes. He never drinks below the salt. B. Jonson. -- Acid salt (Chem.) (a) A salt derived from an acid which has several replaceable hydrogen atoms which are only partially exchanged for metallic atoms or basic radicals; as, acid potassium sulphate is an acid salt. (b) A salt, whatever its constitution, which merely gives an acid reaction; thus, copper sulphate, which is composed of a strong acid united with a weak base, is an acid salt in this sense, though theoretically it is a neutral salt. -- Alkaline salt (Chem.), a salt which gives an alkaline reaction, as sodium carbonate. -- Amphid salt (Old Chem.), a salt of the oxy type, formerly regarded as composed of two oxides, an acid and a basic oxide. [Obsolescent] -- Basic salt (Chem.) (a) A salt which contains more of the basic constituent than is required to neutralize the acid. (b) An alkaline salt. -- Binary salt (Chem.), a salt of the oxy type conveniently regarded as composed of two ingredients (analogously to a haloid salt), viz., a metal and an acid radical. -- Double salt (Chem.), a salt regarded as formed by the union of two distinct salts, as common alum, potassium aluminium sulphate. See under Double. -- Epsom salts. See in the Vocabulary. -- Essential salt (Old Chem.), a salt obtained by crystalizing plant juices. -- Ethereal salt. (Chem.) See under Ethereal. -- Glauber's salt or salts. See in Vocabulary. -- Haloid salt (Chem.), a simple salt of a halogen acid, as sodium chloride. -- Microcosmic salt. (Chem.). See under Microcosmic. -- Neutral salt. (Chem.) (a A salt in which the acid and base (in theory) neutralize each other. (b) A salt which gives a neutral reaction. -- Oxy salt (Chem.), a salt derived from an oxygen acid. -- Per salt (Old Chem.), a salt supposed to be derived from a peroxide base or analogous compound. [Obs.] -- Permanent salt, a salt which undergoes no change on exposure to the air. -- Proto salt (Chem.), a salt derived from a protoxide base or analogous compound. -- Rochelle salt. See under Rochelle. -- Salt of amber (Old Chem.), succinic acid. -- Salt of colcothar (Old Chem.), green vitriol, or sulphate of iron. -- Salt of hartshorn. (Old Chem.) (a) Sal ammoniac, or ammonium chloride. (b) Ammonium carbonate. Cf. Spirit of hartshorn, under Hartshorn. -- Salt of lemons. (Chem.) See Salt of sorrel, below. -- Salt of Saturn (Old Chem.), sugar of lead; lead acetate; -- the alchemical of lead being Saturn. -- Salt of Seignette. Same as Rochelle salt. -- Salt of soda (Old Chem.), sodium carbonate. -- Salt of sorrel (Old Chem.), acid potassium oxalate, or potassium quadroxalate, used as a solvent for ink stains; -- so called because found in the sorrel, or Oxalis. Also sometimes inaccurately called salt of lemon. -- Salt of tartar (Old Chem.), potassium carbonate; -- so called because formerly made by heating cream of tartar, or potassium tartrate. [Obs.] -- Salt of Venus (Old Chem.), blue vitriol; copper sulphate; -- the alchemical name of copper being Venus. -- Salt of wisdom. See Alembroth. -- Sedative salt (Old Med. Chem.), boric acid. -- Sesqui salt (Chem.), a salt derived from a sesquioxide base or analogous compound. -- Spirit of salt. (Chem.) See under Spirit. -- Sulpho salt (Chem.), a salt analogous to an oxy salt, but containing sulphur in place of oxygen.\n\n1. Of or relating to salt; abounding in, or containing, salt; prepared or preserved with, or tasting of, salt; salted; as, salt beef; salt water. \"Salt tears.\" Chaucer. 2. Overflowed with, or growing in, salt water; as, a salt marsh; salt grass. 3. Fig.: Bitter; sharp; pungent. I have a salt and sorry rheum offends me. Shak. 4. Fig.: Salacious; lecherous; lustful. Shak. Salt acid (Chem.), hydrochloric acid. -- Salt block, an apparatus for evaporating brine; a salt factory. Knight. -- Salt bottom, a flat piece of ground covered with saline efforescences. [Western U.S.] bartlett. -- Salt cake (Chem.), the white caked mass, consisting of sodium sulphate, which is obtained as the product of the first stage in the manufacture of soda, according to Leblanc's process. -- Salt fish. (a) Salted fish, especially cod, haddock, and similar fishes that have been salted and dried for food. (b) A marine fish. -- Salt garden, an arrangement for the natural evaporation of sea water for the production of salt, employing large shallow basins excavated near the seashore. -- Salt gauge, an instrument used to test the strength of brine; a salimeter. -- Salt horse, salted beef. [Slang] -- Salt junk, hard salt beef for use at sea. [Slang] -- Salt lick. See Lick, n. -- Salt marsh, grass land subject to the overflow of salt water. -- Salt-marsh caterpillar (Zoöl.), an American bombycid moth (Spilosoma acreæ which is very destructive to the salt-marsh grasses and to other crops. Called also wooly bear. See Illust. under Moth, Pupa, and Woolly bear, under Woolly. -- Salt-marsh fleabane (Bot.), a strong-scented composite herb (Pluchea camphorata) with rayless purplish heads, growing in salt marshes. -- Salt-marsh hen (Zoöl.), the clapper rail. See under Rail. -- Salt-marsh terrapin (Zoöl.), the diamond-back. -- Salt mine, a mine where rock salt is obtained. -- Salt pan. (a) A large pan used for making salt by evaporation; also, a shallow basin in the ground where salt water is evaporated by the heat of the sun. (b) pl. Salt works. -- Salt pit, a pit where salt is obtained or made. -- Salt rising, a kind of yeast in which common salt is a principal ingredient. [U.S.] -- Salt raker, one who collects salt in natural salt ponds, or inclosures from the sea. -- Salt sedative (Chem.), boracic acid. [Obs.] -- Salt spring, a spring of salt water. -- Salt tree (Bot.), a small leguminous tree (Halimodendron argenteum) growing in the salt plains of the Caspian region and in Siberia. -- Salt water, water impregnated with salt, as that of the ocean and of certain seas and lakes; sometimes, also tears. Mine eyes are full of tears, I can not see; And yet salt water blinds them not so much But they can see a sort of traitors here. Shak. -- Salt-water sailor, an ocean mariner. -- Salt-water tailor. (Zoöl.) See Bluefish.\n\n1. To sprinkle, impregnate, or season with salt; to preserve with salt or in brine; to supply with salt; as, to salt fish, beef, or pork; to salt cattle. 2. To fill with salt between the timbers and planks, as a ship, for the preservation of the timber. To salt a mine, to artfully deposit minerals in a mine in order to deceive purchasers regarding its value. [Cant] -- To salt away, To salt down, to prepare with, or pack in, salt for preserving, as meat, eggs, etc.; hence, colloquially, to save, lay up, or invest sagely, as money.\n\nTo deposit salt as a saline solution; as, the brine begins to salt.\n\nThe act of leaping or jumping; a leap. [Obs.] B. Jonson."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a compound formed by replacing hydrogen in an acid by a metal (or a radical that acts like a metal)"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "white crystalline form of especially sodium chloride used to season and preserve food"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "negotiations between the United States and the Union of Soviet Socialist Republics opened in 1969 in Helsinki designed to limit both countries' stock of nuclear weapons"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the taste experience when common salt is taken into the mouth"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "My fear hath catch’d your fondness; now I see The mystery of your loneliness, and find Your salt tears’ head."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "But all the charms of love, Salt Cleopatra, soften thy waned lip!"
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "CHARMIAN. ’Twas merry when You wagered on your angling; when your diver Did hang a salt fish on his hook, which he With fervency drew up."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "But I guess it stood in her chin, by the salt rheum that ran between France and it."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "If you seek us afterwards in other terms, you shall find us in our salt-water girdle."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Within a month, Ere yet the salt of most unrighteous tears Had left the flushing in her galled eyes, She married."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Full thirty times hath Phoebus’ cart gone round Neptune’s salt wash and Tellus’ orbed ground, And thirty dozen moons with borrow’d sheen About the world have times twelve thirties been, Since love our hearts, and Hymen did our hands Unite commutual in most sacred bands."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Tears seven times salt, Burn out the sense and virtue of mine eye."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "As many arrows, loosed several ways, Come to one mark; as many ways meet in one town; As many fresh streams meet in one salt sea; As many lines close in the dial’s centre; So many a thousand actions, once afoot, End in one purpose, and be all well borne Without defeat."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "The rascally, scald, beggarly, lousy, pragging knave, Pistol, which you and yourself and all the world know to be no petter than a fellow, look you now, of no merits, he is come to me and prings me pread and salt yesterday, look you, and bid me eat my leek."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Posterity, await for wretched years, When at their mothers’ moist eyes babes shall suck, Our isle be made a nourish of salt tears, And none but women left to wail the dead."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "The pretty-vaulting sea refused to drown me, Knowing that thou wouldst have me drowned on shore With tears as salt as sea, through thy unkindness."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Fain would I go to chafe his paly lips With twenty thousand kisses, and to drain Upon his face an ocean of salt tears, To tell my love unto his dumb deaf trunk, And with my fingers feel his hand unfeeling; But all in vain are these mean obsequies."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Why, this would make a man a man of salt, To use his eyes for garden water-pots, Ay, and for laying autumn’s dust."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Now, by the salt wave of the Mediterraneum, a sweet touch, a quick venue of wit!"
+      }
+    ]
+  },
+  "salt-cured": {
+    "defs": [
+      {
+        "source": "wordnet_s",
+        "def": "(used especially of meats) preserved in salt"
+      }
+    ],
+    "quotes": []
+  },
+  "saltate": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "To leap or dance. [R.]"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "move by saltation"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "leap or skip, often in dancing"
+      }
+    ],
+    "quotes": []
+  },
+  "saltation": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. A leaping or jumping. Continued his saltation without pause. Sir W. Scott. 2. Beating or palpitation; as, the saltation of the great artery. 3. (Biol.)  An abrupt and marked variation in the condition or appearance of a species; a sudden modification which may give rise to new races. We greatly suspect that nature does make considerable jumps in the way of variation now and then, and that these saltations give rise to some of the gaps which appear to exist in the series of known forms. Huxley."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "(geology) the leaping movement of sand or soil particles as they are transported in a fluid medium over an uneven surface"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "(genetics) a mutation that drastically changes the phenotype of an organism or species"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "an abrupt transition"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "taking a series of rhythmical steps (and movements) in time to music"
+      }
+    ],
+    "quotes": []
+  },
+  "saltbox": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "a type of house built in New England; has two stories in front and one behind"
+      }
+    ],
+    "quotes": []
+  },
+  "saltbush": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "An Australian plant (Atriplex nummularia) of the Goosefoot family."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "any of various shrubby plants of the genus Atriplex that thrive in dry alkaline soil"
+      }
+    ],
+    "quotes": []
+  },
+  "saltcellar": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Formerly a large vessel, now a small vessel of glass or other material, used for holding salt on the table."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a small container for holding salt at the dining table"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "There is a saltcellar of state, so called, and there may be a castor of state."
+      }
+    ]
+  },
+  "salted": {
+    "defs": [
+      {
+        "source": "wordnet_v",
+        "def": "add salt to"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "sprinkle as if with salt"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "add zest or liveliness to"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "preserve with salt"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "I have made a satisfactory dinner, satisfactory on several accounts, simply off a dish of purslane (_Portulaca oleracea_) which I gathered in my cornfield, boiled and salted."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "It was made of small juicy clams, scarcely bigger than hazel nuts, mixed with pounded ship biscuit, and salted pork cut up into little flakes; the whole enriched with butter, and plentifully seasoned with pepper and salt."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "A most mouldy and over salted death, though;—cherries! cherries! cherries!"
+      },
+      {
+        "author": "Jane Austen",
+        "work": "Emma",
+        "sentence": "There will be the leg to be salted, you know, which is so very nice, and the loin to be dressed directly in any manner they like."
+      },
+      {
+        "author": "Jane Austen",
+        "work": "Emma",
+        "sentence": "They must not over-salt the leg; and then, if it is not over-salted, and if it is very thoroughly boiled, just as Serle boils ours, and eaten very moderately of, with a boiled turnip, and a little carrot or parsnip, I do not consider it unwholesome."
+      },
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "16:4 And as for thy nativity, in the day thou wast born thy navel was not cut, neither wast thou washed in water to supple thee; thou wast not salted at all, nor swaddled at all."
+      },
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "5:13 Ye are the salt of the earth: but if the salt have lost his savour, wherewith shall it be salted? it is thenceforth good for nothing, but to be cast out, and to be trodden under foot of men."
+      },
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "9:49 For every one shall be salted with fire, and every sacrifice shall be salted with salt."
+      }
+    ]
+  },
+  "salter": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "One who makes, sells, or applies salt; one who salts meat or fish."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "someone who uses salt to preserve meat or fish or other foods"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "someone who makes or deals in salt"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "I’ll do well yet.—Thou old and true Menenius, Thy tears are salter than a younger man’s And venomous to thine eyes.—My sometime general, I have seen thee stern, and thou hast oft beheld Heart-hard’ning spectacles."
+      }
+    ]
+  },
+  "saltine": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "a cracker sprinkled with salt before baking"
+      }
+    ],
+    "quotes": []
+  },
+  "saltiness": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "language or humor that is down-to-earth"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the taste experience when common salt is taken into the mouth"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the property of containing salt (as a compound or in solution)"
+      }
+    ],
+    "quotes": []
+  },
+  "salting": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. The act of sprinkling, impregnating, or furnishing, with salt. 2. A salt marsh."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the act of adding salt to food"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "add salt to"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "sprinkle as if with salt"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "add zest or liveliness to"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Jane Austen",
+        "work": "Emma",
+        "sentence": "Cole's note--no, it cannot be more than five-- or at least ten--for I had got my bonnet and spencer on, just ready to come out--I was only gone down to speak to Patty again about the pork--Jane was standing in the passage--were not you, Jane?-- for my mother was so afraid that we had not any salting-pan large enough."
+      }
+    ]
+  },
+  "saltire": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "A St. Andrew's cross, or cross in the form of an X, -- one of the honorable ordinaries."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a cross resembling the letter x, with diagonal bars of equal length"
+      }
+    ],
+    "quotes": []
+  },
+  "saltish": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Somewhat salt. -- Salt\"ish*ly, adv. -- Salt\"ish*ness, n."
+      },
+      {
+        "source": "wordnet_s",
+        "def": "somewhat salty"
+      }
+    ],
+    "quotes": []
+  },
+  "saltlike": {
+    "defs": [
+      {
+        "source": "wordnet_s",
+        "def": "resembling a compound formed by replacing hydrogen in an acid by a metal"
+      }
+    ],
+    "quotes": []
+  },
+  "saltpan": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "a shallow basin in a desert region; contains salt and gypsum that was deposited by an evaporated salt lake"
+      }
+    ],
+    "quotes": []
+  },
+  "saltpeter": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Potassium nitrate; niter, a white crystalline substance, KNO3, having a cooling saline taste, obtained by leaching from certain soils in which it is produced by the process of nitrification (see Nitrification, 2). It is a strong oxidizer, is the chief constituent of gunpowder, and is also used as an antiseptic in curing meat, and in medicine as a diuretic, diaphoretic, and refrigerant. Chili salpeter (Chem.), sodium nitrate (distinguished from potassium nitrate, or true salpeter), a white crystalline substance, NaNO3, having a cooling, saline, slightly bitter taste. It is obtained by leaching the soil of the rainless districts of Chili and Peru. It is deliquescent and cannot be used in gunpowder, but is employed in the production of nitric acid. Called also cubic niter. -- Saltpeter acid (Chem.), nitric acid; -- sometimes so called because made from saltpeter."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "(KNO3) used especially as a fertilizer and explosive"
+      }
+    ],
+    "quotes": []
+  },
+  "saltpetre": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Potassium nitrate; niter, a white crystalline substance, KNO3, having a cooling saline taste, obtained by leaching from certain soils in which it is produced by the process of nitrification (see Nitrification, 2). It is a strong oxidizer, is the chief constituent of gunpowder, and is also used as an antiseptic in curing meat, and in medicine as a diuretic, diaphoretic, and refrigerant. Chili salpeter (Chem.), sodium nitrate (distinguished from potassium nitrate, or true salpeter), a white crystalline substance, NaNO3, having a cooling, saline, slightly bitter taste. It is obtained by leaching the soil of the rainless districts of Chili and Peru. It is deliquescent and cannot be used in gunpowder, but is employed in the production of nitric acid. Called also cubic niter. -- Saltpeter acid (Chem.), nitric acid; -- sometimes so called because made from saltpeter."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "(KNO3) used especially as a fertilizer and explosive"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "And telling me the sovereignest thing on Earth Was parmacety for an inward bruise, And that it was great pity, so it was, This villainous saltpetre should be digg’d Out of the bowels of the harmless earth, Which many a good tall fellow had destroy’d So cowardly, and but for these vile guns, He would himself have been a soldier."
+      },
+      {
+        "author": "H. G. Wells",
+        "work": "The Time Machine",
+        "sentence": "But I could find no saltpetre; indeed, no nitrates of any kind."
+      }
+    ]
+  },
+  "saltshaker": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "a shaker with a perforated top for sprinkling salt"
+      }
+    ],
+    "quotes": []
+  },
+  "saltwater": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "water containing salts"
+      }
+    ],
+    "quotes": []
+  },
+  "saltworks": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "a plant where salt is produced commercially"
+      }
+    ],
+    "quotes": []
+  },
+  "saltwort": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "A name given to several plants which grow on the seashore, as the Batis maritima, and the glasswort. See Glasswort. Black saltwort, the sea milkwort."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "bushy plant of Old World salt marshes and sea beaches having prickly leaves; burned to produce a crude soda ash"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "low-growing strong-smelling coastal shrub of warm parts of the New World having unisexual flowers in conelike spikes and thick succulent leaves"
+      }
+    ],
+    "quotes": []
+  },
+  "salty": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Somewhat salt; saltish."
+      },
+      {
+        "source": "wordnet_s",
+        "def": "engagingly stimulating or provocative"
+      },
+      {
+        "source": "wordnet_a",
+        "def": "containing or filled with salt"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "one of the four basic taste sensations; like the taste of sea water"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Walt Whitman",
+        "work": "Leaves of Grass",
+        "sentence": "Isle of the salty shore and breeze and brine!"
+      }
+    ]
+  },
+  "salubrious": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Favorable to health; healthful; promoting health; as, salubrious air, water, or climate. Syn. -- Healthful; wholesome; healthy; salutary. -- Sa-lu\"bri*ous*ly, adv. -- Sa*lu\"bri*ous*ness, n."
+      },
+      {
+        "source": "wordnet_s",
+        "def": "promoting health; healthful; ; ; ; ; - C.B.Davis"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "favorable to health of mind or body"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "Younge, 1874; see more especially vol. i. p. 530.), that the Melanesians of the New Hebrides and neighbouring archipelagoes, suffered to an extraordinary degree in health, and perished in large numbers, when they were removed to New Zealand, Norfolk Island, and other salubrious places, in order to be educated as missionaries."
+      },
+      {
+        "author": "Thomas Henry Huxley",
+        "work": "Evolution and Ethics",
+        "sentence": "The air salubrious of her lofty hills, The cheering fragrance of her dewy vales, And music of her woods--no works of man May rival these; these all bespeak a power Peculiar, and exclusively her own."
+      },
+      {
+        "author": "Mary Shelley",
+        "work": "Frankenstein",
+        "sentence": "We passed a fortnight in these perambulations: my health and spirits had long been restored, and they gained additional strength from the salubrious air I breathed, the natural incidents of our progress, and the conversation of my friend."
+      }
+    ]
+  },
+  "salubriousness": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "the quality of being salubrious and invigorating"
+      }
+    ],
+    "quotes": []
+  },
+  "salubrity": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "The quality of being salubrious; favorableness to the preservation of health; salubriousness; wholesomeness; healthfulness; as, the salubrity of the air, of a country, or a climate. \"A sweet, dry small of salubrity.\" G. W. Cable."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the quality of being salubrious and invigorating"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Also I think of changing my residence for a time: probably I shall close or let ‘The Shrubs,’ and take some place near the coast—under advice of course as to salubrity."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "Micawber, ‘I rejoice to reply that they are, likewise, in the enjoyment of salubrity.’"
+      }
+    ]
+  },
+  "saluki": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "old breed of tall swift keen-eyed hunting dogs resembling greyhounds; from Egypt and southwestern Asia"
+      }
+    ],
+    "quotes": []
+  },
+  "salutary": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. Wholesome; healthful; promoting health; as, salutary exercise. 2. Promotive of, or contributing to, some beneficial purpose; beneficial; advantageous; as, a salutary design. Syn. -- Wholesome; healthful; salubrious; beneficial; useful; advantageous; profitable. -- Sal\"u*ta*ri*ly, adv. -- Sal\"u*ta*ri*ness, n."
+      },
+      {
+        "source": "wordnet_s",
+        "def": "tending to promote physical well-being; beneficial to health"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "She was knitting, and could either look at Fred or not, as she chose—always an advantage when one is bent on loading speech with salutary meaning; and though Mrs."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "She did not mean to go beyond this salutary general doctrine, and threw her indignation into a needless unwinding of her worsted, knitting her brow at it with a grand air."
+      },
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "There are probably words addressed to our condition exactly, which, if we could really hear and understand, would be more salutary than the morning or the spring to our lives, and possibly put a new aspect on the face of things for us."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "False facts are highly injurious to the progress of science, for they often endure long; but false views, if supported by some evidence, do little harm, for every one takes a salutary pleasure in proving their falseness: and when this is done, one path towards error is closed and the road to truth is often at the same time opened."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "All this time we, the outsiders, remained oppressed by the tremendous interests involved in the conversation; and our host regarded us with pride, as the victims of a salutary awe and astonishment."
+      }
+    ]
+  },
+  "salutation": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "The act of saluting, or paying respect or reverence, by the customary words or actions; the act of greeting, or expressing good will or courtesy; also, that which is uttered or done in saluting or greeting. In all public meetings or private addresses, use those forms of salutation, reverence, and decency usual amongst the most sober persons. Jer. Taylor. Syn. -- Greeting; salute; address. -- Salutation, Greeting, Salute, Greeting is the general word for all manner of expressions of recognition, agreeable or otherwise, made when persons meet or communicate with each other. A greeting may be hearty and loving, chilling and offensive, or merely formal, as in the opening sentence of legal documents. Salutation more definitely implies a wishing well, and is used of expressions at parting as well as at meeting. It is used especially of uttered expressions of good will. Salute, while formerly and sometimes still in the sense of either greeting or salutation, is now used specifically to denote a conventional demonstration not expressed in words. The guests received a greeting which relieved their embrassment, offered their salutations in well-chosen terms, and when they retired, as when they entered, made a deferential salute. Woe unto you, Pharisees! for ye love the uppermost seats in the synagogues, and greetings in the markets. Luke xi. 43. When Elisabeth heard the salutation of Mary, the babe leaped in her womb. Luke i. 41. I shall not trouble my reader with the first salutes of our three friends. Addison."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "an act of honor or courteous recognition"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "(usually plural) an acknowledgment or expression of good will (especially on meeting)"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "word of greeting used to begin a letter"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "For why should others’ false adulterate eyes Give salutation to my sportive blood?"
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Salutation and greeting to you all."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "He is at hand, and Pindarus is come To do you salutation from his master."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "I see thee compass’d with thy kingdom’s pearl, That speak my salutation in their minds; Whose voices I desire aloud with mine,— Hail, King of Scotland!"
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "The early village cock Hath twice done salutation to the morn; Your friends are up and buckle on their armour."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "There’s a French salutation to your French slop."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Enter several strange Shapes, bringing in a banquet: they dance about it with gentle actions of salutation; and inviting the King &c., to eat, they depart."
+      },
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "Sometimes I saw him at his work in the woods, felling trees, and he would greet me with a laugh of inexpressible satisfaction, and a salutation in Canadian French, though he spoke English as well."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "But no formal salutation was exchanged."
+      },
+      {
+        "author": "James Joyce",
+        "work": "Dubliners",
+        "sentence": "Then he took up the corkscrew and went out of the door sideways, muttering some form of salutation."
+      },
+      {
+        "author": "Bram Stoker",
+        "work": "Dracula",
+        "sentence": "Having answered the Count’s salutation, I turned to the glass again to see how I had been mistaken."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "Gummidge’s spirits by a cheerful salutation and a jocose embrace, took my arm, and hurried me away."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "Though I could almost have consigned her to the mercies of the wind on the topmost pinnacle of the Cathedral, without remorse, I made a virtue of necessity, and gave her a friendly salutation."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "Micawber,’ was my aunt’s first salutation after we were seated. ‘Pray, have you thought about that emigration proposal of mine?’"
+      },
+      {
+        "author": "Jonathan Swift",
+        "work": "Gulliver's Travels",
+        "sentence": "After salutation, observing me to look earnestly upon a frame, which took up the greatest part of both the length and breadth of the room, he said, “Perhaps I might wonder to see him employed in a project for improving speculative knowledge, by practical and mechanical operations."
+      }
+    ]
+  },
+  "salutatorian": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "The student who pronounces the salutatory oration at the annual Commencement or like exercises of a college, -- an honor commonly assigned to that member of the graduating class who ranks second in scholarship. [U.S.]"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a graduating student with the second highest academic rank; may deliver the opening address at graduation exercises"
+      }
+    ],
+    "quotes": []
+  },
+  "salutatory": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Containing or expressing salutations; speaking a welcome; greeting; -- applied especially to the oration which introduces the exercises of the Commencements, or similar public exhibitions, in American colleges.\n\n1. A place for saluting or greeting; a vestibule; a porch. [Obs.] Milton. 2. (American Colleges)  The salutatory oration."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "an opening or welcoming statement (especially one delivered at graduation exercises)"
+      }
+    ],
+    "quotes": []
+  },
+  "salute": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. To adress, as with expressions of kind wishes and courtesy; to greet; to hail. I salute you with this kingly title. Shak. 2. Hence, to give a sign of good will; to compliment by an act or ceremony, as a kiss, a bow, etc. You have the prettiest tip of a finger . . . I must take the freedom to salute it. Addison. 3. (Mil. & Naval)  To honor, as some day, person, or nation, by a discharge of cannon or small arms, by dipping colors, by cheers, etc. 4. To promote the welfare and safety of; to benefit; to gratify. [Obs.] \"If this salute my blood a jot.\" Shak.\n\n1. The act of saluting, or expressing kind wishes or respect; salutation; greeting. 2. A sign, token, or ceremony, expressing good will, compliment, or respect, as a kiss, a bow, etc. Tennyson. 3. (Mil. & Naval)  A token of respect or honor for some distinguished or official personage, for a foreign vessel or flag, or for some festival or event, as by presenting arms, by a discharge of cannon, volleys of small arms, dipping the colors or the topsails, etc."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "an act of honor or courteous recognition"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a formal military gesture of respect"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "an act of greeting with friendly words and gestures like bowing or lifting the hat"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "propose a toast to"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "You told me you salute not at the court but you kiss your hands."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "There’s not a man I meet but doth salute me As if I were their well-acquainted friend, And everyone doth call me by my name."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Unto our brother France, and to our sister, Health and fair time of day; joy and good wishes To our most fair and princely cousin Katharine; And, as a branch and member of this royalty, By whom this great assembly is contriv’d, We do salute you, Duke of Burgundy; And, princes French, and peers, health to you all!"
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "You English princes all, I do salute you."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Great King of England and my gracious lord, The mutual conference that my mind hath had By day, by night, waking and in my dreams, In courtly company or at my beads, With you, mine alderliefest sovereign, Makes me the bolder to salute my King With ruder terms, such as my wit affords And overjoy of heart doth minister."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Then, father Salisbury, kneel we together, And in this private plot be we the first That shall salute our rightful sovereign With honour of his birthright to the crown."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "I was then present, saw them salute on horseback, Beheld them when they lighted, how they clung In their embracement, as they grew together— Which had they, what four throned ones could have weighed Such a compounded one?"
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "They pass directly before the Cardinal and gracefully salute him."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Would I had no being If this salute my blood a jot."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Not that I have the power to clutch my hand When his fair angels would salute my palm; But for my hand, as unattempted yet, Like a poor beggar, raileth on the rich."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Wrong not yourself, then, noble Helicane; But if the prince do live, let us salute him."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Dear earth, I do salute thee with my hand, Though rebels wound thee with their horses’ hoofs."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Then I salute you with this royal title: Long live King Richard, England’s worthy King!"
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Let me but meet you, ladies, one hour hence, And I’ll salute your Grace of York as mother And reverend looker-on of two fair queens. [_To Anne._] Come, madam, you must straight to Westminster, There to be crowned Richard’s royal queen."
+      },
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "And here I swear by all the Roman gods, Sith priest and holy water are so near, And tapers burn so bright, and everything In readiness for Hymenæus stand, I will not re-salute the streets of Rome, Or climb my palace, till from forth this place I lead espoused my bride along with me."
+      }
+    ]
+  },
+  "saluter": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "One who salutes."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a person who greets"
+      }
+    ],
+    "quotes": []
+  },
+  "salyut": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "either of two Soviet space stations launched in the 1970s"
+      }
+    ],
+    "quotes": []
+  },
+  "unsalable": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Not salable; unmerchantable. -- n.  That which can not be sold. Byron."
+      },
+      {
+        "source": "wordnet_a",
+        "def": "impossible to sell"
+      }
+    ],
+    "quotes": []
+  },
+  "unsalaried": {
+    "defs": [
+      {
+        "source": "wordnet_s",
+        "def": "not paying a salary"
+      }
+    ],
+    "quotes": []
+  },
+  "unsaleable": {
+    "defs": [
+      {
+        "source": "wordnet_a",
+        "def": "impossible to sell"
+      }
+    ],
+    "quotes": []
+  },
+  "unsalted": {
+    "defs": [
+      {
+        "source": "wordnet_s",
+        "def": "without salt or seasoning"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Speak, then, thou unsalted leaven, speak."
+      }
+    ]
+  }
+}

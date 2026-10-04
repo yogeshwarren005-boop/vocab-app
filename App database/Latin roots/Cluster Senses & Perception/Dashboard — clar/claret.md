@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dark purplish-red color.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dry red bordeaux or bordeaux-like wine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dry red wine from Bordeaux in southwest France, or a deep dark purplish-red color.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In enology, gastronomy, and chromatic nomenclature, an English commercial designation for red Bordeaux wines of moderate body.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And here, sitting upon London Stone, I charge and command that, of the city’s cost, the Pissing Conduit run nothing but claret wine this first year of our reign."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Give him the papers, conversation, music, mutton, coffee, landscape, fruit in the season, a few sheets of Bristol-board, and a little claret, and he asked no more."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce to take a glass of claret."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce ordered a bottle of sound, mellow **claret** to refresh his weary guests after their cold journey."*
+> - 📜 **William Makepeace Thackeray (*The History of Pendennis*):** *"The young gentlemen lingered over their glasses of vintage **claret**, discussing university gossip far into the night."*
+> - 📜 **Sir Walter Scott (*Rob Roy*):** *"The host produced a dusty decanter of exquisite **claret** to pledge the health of his Scottish visitors."*

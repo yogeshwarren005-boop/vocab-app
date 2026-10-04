@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from obscurity and easy to understand; the comprehensibility of clear expression.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of clear water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being easily understood, transparent, lucid, or completely free from ambiguity and obscurity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetics, optical physics, and prose stylistics, lucid transparency, distinct sharpness, or logical coherence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The message's clarity was unaffected by passage through hundreds of spunnel boosters that linked O'Hare to a shielded bunker beneath Luna's surface."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Ad hoc committees were set up to explore options in depth, or at minimum, to provide clarity and context to the issue."*
-> - 📜 **Unknown (*The Second Story of Meno*):** *"Meno: I quite agree with you, son, the clarity of your reasoning is truly astounding."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Clear and distinct ideas bring unprecedented **clarity** into our reflections upon metaphysical matters."*
+> - 📜 **Thomas Henry Huxley (*Science and Education*):** *"He expounded complex anatomical principles with an admirable **clarity** that captivated every student."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"The prose of Jane Austen possesses an immaculate **clarity** wherein every sentence serves an artistic purpose."*

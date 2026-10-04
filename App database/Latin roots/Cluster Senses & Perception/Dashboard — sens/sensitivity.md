@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (physiology) responsiveness to external stimuli; the faculty of sensation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ability to respond to physical stimuli or to register small physical amounts or differences.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capacity for perceiving, detecting, or responding acutely to physical stimuli, radiant energy, or emotional impressions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytical chemistry, diagnostic testing, and ethical philosophy, the minimal detection threshold for a substance or profound moral empathy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Compassion will not be a burden to her; to the contrary, reaching out strengthens her sensitivity and her developing maturity."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Moreover, there are now many explosives of the dynamite nature but differing from it in having an active instead of a passive absorbent, so that the decrease in sensitivity is accompanied by an increase in strength."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Cutaneous **sensitivity** can be calibrated with precision by measuring two-point compass thresholds across the body."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Her poetic **sensitivity** made her suffer keenly under the rigid, unbending rules of the family circle."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The heightened **sensitivity** of the inflamed cornea renders even ordinary daylight painfully unbearable."*

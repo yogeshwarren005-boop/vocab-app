@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unsentimental manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unsentimental manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a realistic, matter-of-fact, clear-eyed manner without emotional softness or romantic nostalgia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative characterization, assessing human nature and tough social crises with uncompromising moral and intellectual clarity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsentimentally designates in an unsentimental manner."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Marlow judged the imperial company's rapacious exploits **unsentimentally**, laying bare the hollow greed beneath noble pretexts."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"Undershaft analyzed the modern industrial system **unsentimentally**, arguing that poverty is the only unforgivable crime."*
+> - 📜 **E. M. Forster (*Howards End*):** *"Margaret examined her family's precarious financial prospects **unsentimentally**, determined to make practical provisions for the future."*

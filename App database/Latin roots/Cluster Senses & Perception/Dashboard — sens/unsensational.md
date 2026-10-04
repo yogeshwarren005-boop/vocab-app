@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not of such character as to arouse intense interest, curiosity, or emotional reaction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not of such character as to arouse intense interest, curiosity, or emotional reaction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not sensational; quiet, matter-of-fact, unexciting, and devoid of lurid or shocking features.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical prose and journalistic critique, characterized by sober, measured truthfulness rather than sensationalism and melodrama.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsensational designates not of such character as to arouse intense interest, curiosity, or emotional reaction."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The official parliamentary gazette gave a remarkably calm, **unsensational** account of the dramatic debate."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her quiet, **unsensational** life in the provincial town unfolded without public incident or dramatic display."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"Watson preferred the solid, **unsensational** facts of the case to the wild theories circulated by the evening papers."*

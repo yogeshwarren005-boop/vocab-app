@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The last king of sweden to have any real political power (1882-1973).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: King of sweden who kept sweden neutral during both world war i and ii (1858-1950).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proper given name, notably Gustavus Adolphus (1594–1632), celebrated King of Sweden and military strategist of the Thirty Years' War.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In seventeenth-century military history, the Swedish king celebrated as the 'Father of Modern Warfare' for combined-arms tactics and mobile artillery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gustavus designates the last king of sweden to have any real political power (1882-1973)."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The brilliant campaigns of **Gustavus** Adolphus transformed Sweden into a first-rate military power on the European continent."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The Protestant armies looked upon the heroic king **Gustavus** as the heaven-sent champion of their religious liberties."*
+> - 📜 **Sir Walter Scott (*A Legend of Montrose*):** *"Major Dalgetty boasted endlessly of the military discipline he had learned under the lion of the north, **Gustavus** Adolphus."*

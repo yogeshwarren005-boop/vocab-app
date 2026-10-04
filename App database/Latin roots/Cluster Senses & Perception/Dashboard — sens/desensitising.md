@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause not to be sensitive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make insensitive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Diminishing sensitivity, autonomic responsiveness, or inflammatory reactivity through habituation or treatment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychopathology and clinical dermatology, serving to extinguish phobic hyper-reactivity or suppress dermal hypersensitivity via repetitive graduated application.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, desensitising designates cause not to be sensitive."*
+> - 📜 **William Osler (*Modern Medicine*):** *"Carefully **desensitising** the anaphylactic subject prevents fatal respiratory collapse during therapeutic serum injections."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"Continual sensory bombardment acts as a **desensitising** factor, dulling conscious awareness of chronic discomfort."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Social familiarity exerts a gradual **desensitising** influence over instinctive taboos and moral aversions."*

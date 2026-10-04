@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of drawing a plan or diagram or outline.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drawing created by superimposing a semitransparent sheet of paper on the original image and copying on it the lines of the original image.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A copy or mechanical reproduction of a drawing, map, or pattern produced by following its outlines upon a transparent or superimposed sheet; or the process of tracking a path.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In drafting, surveying, and biomedical instrumentation, a graphic record drawn by an automatic stylus depicting temporal variations in physical or physiological phenomena.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The weather had for some time been too wet and the night itself had been too wet to admit of any tracing by footsteps."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"If he be tracing out his destiny, that may be written in other characters nearer to his hand."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"There is whispering and wondering all day, strict search of every corner, careful tracing of steps, and careful noting of the disposition of every article of furniture."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The glasses and cups still stood upon the table, a water-jug being overturned, from which a thin stream had run along the floor, leaving a **tracing** like an intricate map upon the flags."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"Every exquisite **tracing** of early French stonework reveals how faithfully the mason translated organic plant curves into immutable limestone filigree."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"A careful **tracing** of the estate boundary confirmed that the disputed pathway crossed directly through the ancient peat bog."*

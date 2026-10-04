@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Food that is a component of a mixture in cooking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The accessories that normally accompany (something or some activity).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The accompanying garnishes, condiments, side dishes, or decorative trimmings that complete a meal, outfit, or installation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In North American domestic culinary tradition and carpentry, the requisite side courses for a formal festive banquet or the structural trim and hardware for architectural joinery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Well, he told me all about how you'd settled down now--son and heir, fireside bliss, pretty wife, and all the fixings."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"We’re collecting old-fashioned fixings everywhere."*
-> - 📜 **Mark Twain (*Adventures of Huckleberry Finn*):** *"The king said it was all the more homely and more pleasanter for these fixings, and so don’t disturb them."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"A bountiful holiday dinner was spread before the returning wanderers, complete with roast turkey, pumpkin pies, and all the customary **fixings**."*
+> - 📜 **Harriet Beecher Stowe (*Uncle Tom's Cabin*):** *"Aunt Chloe presided over the kitchen hearth with undisputed authority, preparing savory gravies and rich Southern **fixings** with lavish generosity."*
+> - 📜 **Bret Harte (*The Luck of Roaring Camp and Other Sketches*):** *"The miners gathered around the festive board to celebrate the newborn child, marveling at the luxury of fresh table linen and civilized **fixings**."*

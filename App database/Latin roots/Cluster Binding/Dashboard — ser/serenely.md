@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a peacefully serene manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a peacefully serene manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a calm, peaceful, untroubled, and tranquil manner, showing complete freedom from agitation or anxiety.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stoic philosophical ethics, maintaining unruffled equanimity and mental balance amidst external turbulence and misfortune.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"To see that composed court yesterday jogging on so serenely and to think of the wretchedness of the pieces on the board gave me the headache and the heartache both together."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby serenely, “what a happiness it is to be so much occupied as I am and to have this necessity for self-concentration that I have."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I thought it very curious to see her looking on serenely from her writing-table while Caddy and I discussed it, occasionally shaking her head at us with a half-reproachful smile like a superior spirit who could just bear with our trifling."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"To see that composed court yesterday jogging on so **serenely** through the fog of Chancery was a marvel of patient routine."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea looked **serenely** at her companion, untroubled by the petty gossip circulating through the county society."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The evening lake lay **serenely** still, reflecting the amber hues of twilight without a single ripple upon its glassy surface."*

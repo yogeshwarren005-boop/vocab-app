@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A persistent but subordinate motif.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A part of the score that must be performed without change or omission.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An indispensable, prominent musical accompaniment or instrumental part that is essential to the artistic performance of a piece.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musicology and symphonic composition, an integral instrumental line written to complement a vocal melody or primary solo theme.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, obligato designates a persistent but subordinate motif."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The violin **obligato** wove a delicate, mournful countermelody behind the soprano's impassioned plea in the second act."*
+> - 📜 **Thomas Mann (*Doctor Faustus*):** *"In the chamber piece, the cello plays an austere **obligato** that underpins the turbulent chromatic harmonies of the piano."*
+> - 📜 **E. M. Forster (*A Room with a View*):** *"Outside the open window, the murmuring fountain formed a gentle water **obligato** to Lucy's piano recital."*

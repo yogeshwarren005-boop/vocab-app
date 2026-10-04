@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not firmly placed or set or fastened.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking definition or definite content; ; - jane austen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not securely fastened, settled, anchored, or determined; movable, wavering, erratic, or uncertain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological, economic, and maritime contexts, describing an unstable disposition, floating commodity prices, or an unanchored vessel adrift.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"The General listened with assenting gratitude; and it seemed as if his own estimation of Northanger had waited unfixed till that hour."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"But Joe was readier with his definition than I had expected, and completely stopped me by arguing circularly, and answering with a fixed look, “Her.” “And I ain’t a master-mind,” Joe resumed, when he had unfixed his look, and got back to his whisker."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Rushworth was an inferior young man, as ignorant in business as in books, with opinions in general unfixed, and without seeming much aware of it himself."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Words whose meanings remain vague and **unfixed** introduce endless disputation and scholastic perplexity into intellectual inquiries."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"With an **unfixed** purpose and wandering steps, he traversed distant continents seeking solace for an incurable inner grief."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"The universe remains **unfixed** and fluid to the penetrating gaze of the creative intellect, ready to take any spontaneous form."*

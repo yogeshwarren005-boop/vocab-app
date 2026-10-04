@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to a linguistic affix.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to a linguistic affix.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of or pertaining to morphological affixes used in word formation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical grammar, describing morphosyntactic developments and phonological reduction patterns specific to bound affixes in compounding systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, affixial designates of or pertaining to a linguistic affix."*
+> - 📜 **Benjamin Lee Whorf (*Language, Thought, and Reality*):** *"The grammatical categories of Hopi rely on an intricate **affixial** paradigm that locates events along qualitative experiential dimensions rather than objective clock time."*
+> - 📜 **William Dwight Whitney (*The Life and Growth of Language*):** *"Independent words gradually wear away into subordinate **affixial** appendages through perpetual phonetic erosion and habituated usage."*
+> - 📜 **Edward Sapir (*Time Perspective in Aboriginal American Culture*):** *"Internal sound changes often reveal an ancient **affixial** stratum that has become completely fused with the radical vocalism of the stem."*

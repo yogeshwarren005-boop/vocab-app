@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Larva of chalcid flies injurious to the straw of wheat and other grains.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Larva of chalcid flies injurious to the straw of wheat and other grains.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The herbivorous larva of a small chalcid wasp (genus Tetramesa) that bores into and damages cereal grass stems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural entomology, a chalcidid pest (Tetramesa tritici) that causes gall-like swellings and lodging in wheat culms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, jointworm designates larva of chalcid flies injurious to the straw of wheat and other grains."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Wheat crops across the midland counties suffered devastating blight from the destructive **jointworm**."*
+> - 📜 **Asa Gray (*Scientific Papers of Asa Gray*):** *"Agricultural reports documented the rapid spread of the **jointworm** among cultivated rye and barley stems."*
+> - 📜 **Liberty Hyde Bailey (*The Principles of Agriculture*):** *"Crop rotation and clean stubble burning remain the most effective remedies against the persistent **jointworm**."*

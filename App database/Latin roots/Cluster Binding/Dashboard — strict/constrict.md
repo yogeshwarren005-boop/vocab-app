@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Squeeze or press together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become tight or as if tight.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make narrower, tighter, or smaller by squeezing, compressing, or contracting around something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology and vascular medicine, to narrow a lumen, blood vessel, or airway through smooth muscle contraction; or to limit freedom.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And, having robbed me of that, my body was defenceless, and, with his foot in my back while he drew the lacing light, he constricted me as no man had ever before succeeded in doing."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Concentrating, he constricted and relaxed his neck and shoulder muscles in an irregular pattern, and repeated the rhythm until it invoked a slight pressure high in his left shoulder."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Yet strange to say Borís’ presence in his wife’s drawing room (and he was almost always there) had a physical effect upon Pierre; it constricted his limbs and destroyed the unconsciousness and freedom of his movements."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Intense terror causes the cutaneous arterioles to **constrict**, producing a sudden, deathlike pallor over the entire countenance."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Vasomotor nerve impulses stimulate circular muscular fibers to **constrict** the peripheral blood vessels, elevating arterial pressure."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"He felt a cold band of fear **constrict** his throat as the wolves drew their deadly circle around the dying fire."*

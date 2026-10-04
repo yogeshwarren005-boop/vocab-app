@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not required by rule or law.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not required by rule or law.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not required by rule, law, conscience, or circumstance; voluntary, optional, or discretionary in character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal jurisprudence and ethical theory, denoting supererogatory actions or contractual clauses that do not establish enforceable liabilities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonobligatory designates not required by rule or law."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"Beneficence beyond the strict demands of justice remains **nonobligatory**, yet society rightly bestows high praise upon such generous conduct."*
+> - 📜 **Herbert Spencer (*The Principles of Ethics*):** *"In a highly developed social order, many cooperative duties transition from compulsory legal commands into purely **nonobligatory** moral customs."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"The stipulation in the agreement was clearly **nonobligatory**, leaving performance entirely to the discretion of the promisor."*

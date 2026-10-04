@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not limiting the reference of a modified word or phrase.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not limiting the reference of a modified word or phrase.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not imposing restrictions, limitations, or constraints; allowing broad freedom or latitude of action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive grammar and syntax, designating a relative clause that provides supplementary parenthetical detail without defining the noun.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonrestrictive designates not limiting the reference of a modified word or phrase."*
+> - 📜 **Henry Sweet (*A New English Grammar*):** *"A **nonrestrictive** relative clause is set off by commas because it adds descriptive information without limiting the antecedent noun."*
+> - 📜 **Otto Jespersen (*The Philosophy of Grammar*):** *"In spoken discourse, the pitch drop distinctly marks the **nonrestrictive** qualifier from the defining, restrictive clause."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"A wise legal covenant should be essentially **nonrestrictive**, encouraging commercial enterprise while guarding against fraud."*

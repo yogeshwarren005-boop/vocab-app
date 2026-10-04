@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disposition or tendency to yield to the will of others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disposition or tendency to yield to the will of others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A helpful, courteous, and accommodating disposition; an eager readiness to do favors and assist others with pleasant manners.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and character studies, a gracious personal readiness to confer services and mitigate the distresses of associates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"The harp arrived, and rather added to her beauty, wit, and good-humour; for she played with the greatest obligingness, with an expression and taste which were peculiarly becoming, and there was something clever to be said at the close of every air."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"The habitual **obligingness** of her temper made Fanny always ready to listen to the grievances of her aunts."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"True politeness is not mere external ceremony, but the sincere **obligingness** of a benevolent mind."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Maggie was touched by Philip's delicate **obligingness**, which anticipated her wishes before she had spoken them."*

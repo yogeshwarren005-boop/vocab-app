@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a religious order who is bound by vows of poverty and chastity and obedience.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerned with sacred matters or religion or the church.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Believing in or expressing devotion to a religion; relating to sacred beliefs, observances, or spiritual practices.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In monasticism and social observation, belonging to an ecclesiastical order bound by vows; or scrupulously, conscientiously exact.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How many a holy and obsequious tear Hath dear religious love stol’n from mine eye, As interest of the dead, which now appear, But things removed that hidden in thee lie."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus, Indian-like, Religious in mine error, I adore The sun that looks upon his worshipper, But knows of him no more."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As thou lov’st her, Thy love’s to me religious; else, does err. [_Exeunt King, Bertram, Helena, Lords, and Attendants._] LAFEW."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus, Indian-like, **religious** in mine error, I adore the sun that looks upon his worshipper."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There was a solemn and almost **religious** calm in the vast night sky arching over the quiet downs."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The grandest achievements of human intellect have often arisen in nations that permitted absolute freedom in **religious** inquiry."*

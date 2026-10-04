@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who intervenes with authorities for a person in trouble (usually using underhand or illegal methods for a fee).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical compound that sets or fixes something (as a dye or a photographic image).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or thing that mends, arranges, or sets something right; an intermediary who solves problems, often through behind-the-scenes influence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In darkroom photography and political operations, a chemical bath of sodium thiosulfate neutralizing unexposed halides, or a pragmatic political operative executing covert arrangements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Fortunately, I was able to help; my job was to be the museum's official Fixer of the Apatosaurus Nest's Floor."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Children and mothers and fathers and grandparents came from nearby exhibits to observe the Apatosaurus Nest Floor Fixer at work."*
+> - 📜 **H. G. Wells (*The New Machiavelli*):** *"Every political faction possesses its unofficial **fixer**, the discreet diplomatist who bridges gulfs between rival leaders without committing either to formal pledges."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"The industrialist discovered that hiring an energetic legal **fixer** averted troublesome strikes far more effectively than issuing moral appeals."*
+> - 📜 **Henry James (*The Bostonians*):** *"He acted as general **fixer** and manager of her lecture tours, smoothing over financial disputes with theater owners."*

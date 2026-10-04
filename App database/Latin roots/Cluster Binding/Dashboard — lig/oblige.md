@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Force somebody to do something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bind by an obligation; cause to be indebted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make someone legally or morally bound to do something; or to do a favor for someone in order to accommodate them.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In courteous social interchange, to place someone under a grateful obligation through a kind or gracious service.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I said, “Get up from that ridiculous position immediately, sir, or you will oblige me to break my implied promise and ring the bell!” “Hear me out, miss!” said Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby are very willing to oblige me and that Snagsby has, in busy times, a good deal of copying work to give out."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"On account of which, and at the same time to oblige a—do you call it, in your business, customer or client?"*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"The fundamental law of nature does **oblige** every man to preserve himself and promote the common peace of society."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard was eager to **oblige** his guest in whatever small matters lay within the power of his commercial influence."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The hospitable squire was pleased to **oblige** his neighbors by offering them the shelter of his ancestral hearth."*

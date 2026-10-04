@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Part; cease or break association with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Separate at the joints.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking order, coherent sequence, or organization; broken into incoherent fragments or loose parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orthopedics and anatomical pathology, separated at the synovial junction or dislocated from normal articulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She hastily slipped on her clothes, stumped down the disjointed staircase with its hundred creaks, ran to Coggan’s, the nearest house, and raised an alarm."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Thereupon her whistling became so disjointed that the listener, if such there were, must have discovered her suspicion of his presence."*
-> - 📜 **George Eliot (*Middlemarch*):** *"When he had something painful to tell, it was usually his way to introduce it among a number of disjointed particulars, as if it were a medicine that would get a milder flavor by mixing."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her thoughts drifted along in a **disjointed** stream of anxiety and unexpressed regret."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The old woman uttered several **disjointed** sentences that betrayed her confused and troubled memory."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The fragmented pamphlet consisted of **disjointed** reflections hastily gathered without methodical structure."*

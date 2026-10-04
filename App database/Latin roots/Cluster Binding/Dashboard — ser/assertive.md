@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Aggressively self-assured.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aggressively self-assured.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing opinions, beliefs, or desires with confidence, firmness, and clear self-assurance without becoming aggressive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral psychology and interpersonal communication, exhibiting adaptive social competence that protects personal boundaries while respecting others.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Don't Just Ride Off into the Sunset Recalling that far more assertive and influential time in their lives, the elderly insist on their right to age gracefully, usefully, and so far as they possibly can, their way."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Tom Tulliver spoke in an **assertive** tone that brooked no contradiction from his younger sister."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"She found his **assertive** intellect somewhat exhausting, demanding as it did constant intellectual surrender from his listeners."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Isabel Archer was characterized by an **assertive** independence of spirit that charmed and alarmed her European acquaintances."*

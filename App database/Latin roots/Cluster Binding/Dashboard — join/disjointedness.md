@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking order or coherence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking order or coherence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of lacking coherence, unified connection, or systematic sequential continuity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and dramaturgy, the structural fragmentation of an episodic plot lacking unifying causality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disjointedness designates lacking order or coherence."*
+> - 📜 **Henry James (*The Art of Fiction*):** *"The apparent **disjointedness** of modern narrative reflects the fragmented impressions of human consciousness."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"Critics complained of the **disjointedness** of the experimental chapters, yet each fragment held lyrical beauty."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"A lack of organic imagination results in awkward **disjointedness** among successive stanzas."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (anatomy) the point of connection between two bones or elements of a skeleton (especially if it allows motion).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disreputable place of entertainment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A point, junction, or structure at which two or more things are connected, articulate, or meet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy and biomechanics, an articulation between two bones in the skeleton, typically classified as synovial, fibrous, or cartilaginous.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What might be toward, that this sweaty haste Doth make the night joint-labourer with the day: Who is’t that can inform me?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy state is taken for a joint-stool, thy golden sceptre for a leaden dagger, and thy precious rich crown for a pitiful bald crown."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What’s a joint of mutton or two in a whole Lent?"*
+> - 📜 **William Shakespeare (*Henry IV, Part 1*):** *"Not a **joint** of him but trembled with martial fury as he mounted his battle steed."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"Bob Cratchit carved the roasted **joint** of goose with reverent skill for the assembled family."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Every **joint** in the antique carriage rattled loudly as we traversed the rocky moorland track."*

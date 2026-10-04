@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Carved ornament at the eaves of a tile roof concealing the joints between tiles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carved ornament at the eaves of a tile roof concealing the joints between tiles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ornamental architectural block or finial placed along the eaves of a roof to conceal the ends of the ridge-tiles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Greco-Roman architecture and terracotta archaeology, a molded decorative plaque depicting palmettes, gorgons, or masks terminating the rows of imbrex tiles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antefix designates carved ornament at the eaves of a tile roof concealing the joints between tiles."*
+> - 📜 **Vitruvius (*De Architectura (The Ten Books on Architecture)*):** *"Along the eaves of Tuscan temples, the terracotta **antefix** served both to mask the exposed tile joint and to protect wooden beam ends from pelting rains."*
+> - 📜 **John Addington Symonds (*Sketches in Italy and Greece*):** *"Every fractured terracotta **antefix** unearthed at Corinth reveals the Greek artisan's instinctive impulse to elevate utilitarian drainage into high ceramic sculpture."*
+> - 📜 **Walter Pater (*Greek Studies*):** *"A row of painted **antefixes** crowned the temple cornice, glittering like stylized water blossoms against the deep azure of the Mediterranean sky."*

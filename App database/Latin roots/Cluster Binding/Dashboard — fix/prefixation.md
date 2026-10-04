@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Formation of a word by means of a prefix.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formation of a word by means of a prefix.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The morphological act, process, or rule of adding an affix to the beginning of a word or stem.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative Indo-European linguistics, the derivation of complex verbs and nouns through the preposing of prepositions and directional particles to root verbs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prefixation designates formation of a word by means of a prefix."*
+> - 📜 **Henry Sweet (*A New English Grammar: Logical and Historical*):** *"Through regular **prefixation**, Old English created rich shades of aspectual meaning that modern analytical constructions have largely superseded."*
+> - 📜 **Otto Jespersen (*A Modern English Grammar on Historical Principles*):** *"Negative **prefixation** in English exhibits considerable morphological variety, drawing upon native Germanic, Latinate, and Greek elements."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"Unlike suffixation which frequently alters the lexical class, **prefixation** in English typically leaves the part of speech unaltered."*

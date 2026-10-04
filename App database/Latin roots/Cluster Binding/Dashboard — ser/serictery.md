@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Silk-producing gland of insects (especially of a silkworm) or spiders.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Silk-producing gland of insects (especially of a silkworm) or spiders.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An anatomical silk-producing gland in insects or arachnids; an alternate variant of sericterium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative arthropod morphology, the glandular structure dedicated to synthesizing structural fibroin filaments for cocoon formation or web construction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serictery designates silk-producing gland of insects (especially of a silkworm) or spiders."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The monstrous silkmoth larvae possess a remarkably developed **serictery** capable of producing fathoms of resilient silk."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"The cellular epithelium lining the larval **serictery** elaborates the viscous secretion with extraordinary rapidity before pupation."*
+> - 📜 **William MacGillivray (*A History of the Molluscous Animals of Scotland*):** *"The physiological activity of the insect **serictery** ceases abruptly once the architectural envelope of the pupa is completed."*

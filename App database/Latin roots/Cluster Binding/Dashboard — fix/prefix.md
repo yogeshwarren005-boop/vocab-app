@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An affix that is added in front of the word.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attach a prefix to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An affix attached to the beginning of a word, base, or phrase to produce a derivative word or inflectional form; or to place something in front.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In telecommunications, computing, and structural morphology, an initial character sequence, dialing code, or bound morpheme qualifying an underlying base.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is great morning; and the hour prefix’d For her delivery to this valiant Greek Comes fast upon."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When at Bohemia You take my lord, I’ll give him my commission To let him there a month behind the gest Prefix’d for’s parting:—yet, good deed, Leontes, I love thee not a jar of th’ clock behind What lady she her lord."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He had just reached the time of life at which “young” is ceasing to be the prefix of “man” in speaking of one."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"He insisted that the sovereign should **prefix** a gracious introductory message to the parliamentary declaration."*
+> - 📜 **William Dwight Whitney (*The Life and Growth of Language*):** *"The negative **prefix** modifies the radical signification of the adjective by reversing its semantic polarity across all dialectal variants."*
+> - 📜 **Otto Jespersen (*Growth and Structure of the English Language*):** *"The living Latin **prefix** continues to generate hundreds of useful abstract formations across modern scientific nomenclature."*

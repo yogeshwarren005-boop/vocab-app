@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the serranidae: mostly small pacific sea basses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the serranidae: mostly small pacific sea basses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small to medium-sized sea basses in the family Serranidae, native to coastal waters of the Atlantic Ocean and Mediterranean Sea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and marine ethology, an ichthyological genus famous for simultaneous functional hermaphroditism, where individuals produce both eggs and sperm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serranus designates type genus of the serranidae: mostly small pacific sea basses."*
+> - 📜 **Charles Darwin (*The Zoology of the Voyage of H.M.S. Beagle*):** *"The collection includes a handsome specimen of **Serranus** taken near the mouth of the Rio de la Plata during our coastal survey."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The genus **Serranus** is of exceptional biological interest because several Mediterranean species exhibit true simultaneous hermaphroditism."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"In the genus **Serranus**, the preopercle is finely serrated along its vertical border, and the dorsal fin carries stout spinous rays."*

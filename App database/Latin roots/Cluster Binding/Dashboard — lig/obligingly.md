@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In accommodation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In accommodation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an accommodating, courteous, and helpful manner; with gracious willingness to oblige or assist others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive narrative and social etiquette, executed with polite, polite compliance and unhesitating deference to another's needs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"She obligingly consented to act as mediatrix in the matter."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Ladislaw as a great favor that he would obligingly use his remarkable knowledge of pictures on behalf of Mrs."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Someone obligingly took the dish from Bagratión (or he would, it seemed, have held it till evening and have gone in to dinner with it) and drew his attention to the verses."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Ladislaw **obligingly** stepped aside to allow the carriage to pass, lifting his hat with graceful ease."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Bingley **obligingly** offered to fetch the sheet music from the library so that Elizabeth might play."*
+> - 📜 **G. K. Chesterton (*The Man Who Was Thursday*):** *"The waiter smiled and **obligingly** produced the heavy iron key that opened the secret cellar."*

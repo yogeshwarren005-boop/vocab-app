@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of being eligible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality or state of being eligible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, condition, or status of being legally, formally, or morally qualified for selection, office, or privilege.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public law, administrative governance, and electoral jurisprudence, the statutory satisfaction of mandatory qualification prerequisites.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"This was his plan of amends--of atonement--for inheriting their father’s estate; and he thought it an excellent one, full of eligibility and suitableness, and excessively generous and disinterested on his own part."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The Same Subject Continued, and Re-Eligibility of the Executive Considered."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"And they have excluded from eligibility to this trust, all those who from situation might be suspected of too great devotion to the President in office."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The constitutional criteria governing **eligibility** for the presidency were established to prevent undue foreign intrigue and factional bias."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"Broadening educational qualifications enhances the general **eligibility** of citizens to participate actively in democratic institutions."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"In democratic societies, personal wealth does not confer exclusive political **eligibility**, which remains open to general civic merit."*

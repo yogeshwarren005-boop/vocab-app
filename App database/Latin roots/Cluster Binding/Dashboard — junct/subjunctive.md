@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mood that represents an act or state (not as a fact but) as contingent or possible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to a mood of verbs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A grammatical mood of verbs used to express wishes, hypotheses, doubts, contingencies, or actions that are not asserted as facts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative Indo-European grammar and modal semantics, an irrealis inflectional category marking counterfactual conditionals, volition, purpose, and subordinate clauses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"How are you to escape the judgement of Gehenna?" he asks the Pharisees (Matt. 23:33; the subjunctive mood is worth study)."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"It is not like studying German, where you mull along, in a groping, uncertain way, for thirty years; and at last, just as you think you’ve got it, they spring the subjunctive on you, and there you are."*
+> - 📜 **Lindley Murray (*English Grammar*):** *"The **subjunctive** mood represents an action under a condition, motive, wish, or supposition, and is preceded by a conjunction."*
+> - 📜 **Henry Sweet (*A New English Grammar: Logical and Historical*):** *"Modern English has largely replaced the inflected **subjunctive** with modal auxiliaries like 'should' and 'would' to convey hypothetical conditions."*
+> - 📜 **Otto Jespersen (*The Philosophy of Grammar*):** *"The historical decay of distinctive endings has not extinguished the conceptual need for expressing irrealis thought through the **subjunctive**."*

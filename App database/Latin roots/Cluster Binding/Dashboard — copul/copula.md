@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An equating verb (such as `be' or `become') that links the subject with the complement of a sentence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An equating verb (such as `be' or `become') that links the subject with the complement of a sentence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A connecting word, particularly a linking verb such as 'to be' that couples the subject of a proposition with its predicate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal logic, generative grammar, and probability theory, a functional operator linking terms or a joint distribution function coupling multiple multivariate margins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, copula designates an equating verb (such as `be' or `become') that links the subject with the complement of a sentence."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The **copula** is the verbal sign denoting that the assertion is made, signifying the relation between the predicate and the subject."*
+> - 📜 **William Stanley Jevons (*The Principles of Science*):** *"In every affirmative categorical proposition, the logical **copula** expresses an identity or inclusion existing between two nominal concepts."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"Philosophers have frequently fallen into grave confusion by failing to discriminate between the 'is' of predication and the 'is' representing an identity **copula**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove the strings from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove the strings from.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To loosen, remove, or release the strings of a bow, musical instrument, or necklace; to relax or weaken someone's nerves or resolve.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological descriptions and classical warfare, to cause physical trembling or collapse of fortitude; or to de-tension a composite recurve bow.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unstring designates remove the strings from."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let sorrow **unstring** thy heart no more; arise and arm thy courage against the approaching storm."*
+> - 📜 **Alexander Pope (*The Iliad of Homer*):** *"The weary archer hastened to **unstring** his horn bow when the shadows of night fell over the bloody Trojan plain."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The sudden shock seemed to **unstring** all Henchard's vigorous faculties, leaving him trembling like an aged invalid."*

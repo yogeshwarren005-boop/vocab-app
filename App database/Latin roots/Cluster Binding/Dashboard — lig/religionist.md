@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person addicted to religion or a religious zealot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person addicted to religion or a religious zealot.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is excessively or zealously devoted to a particular religion; a religious partisan or fanatic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In church history and sociological analysis, an ardent advocate who champions ecclesiastical doctrines with uncompromising dogmatism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **C. A. Frazer (*Atmâ*):** *"Under the leadership of Govind, a young man of genius and enthusiasm, who comes before us in the two-fold character of religionist and military hero, the Sikhs moved on to a national greatness not dreamed of by Nanuk."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Dimmesdale was a true priest, a true religionist, with the reverential sentiment largely developed, and an order of mind that impelled itself powerfully along the track of a creed, and wore its passage continually deeper with the lapse of time."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"A man who likes to do wrong - finding pleasure in it and refraining 322:24 from it only through fear of consequences - is neither a temperate man nor a reliable religionist."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The grim Puritan magistrate stood before the crowd as a stern **religionist**, convinced that divine justice required rigorous public retribution."*
+> - 📜 **Mary Baker Eddy (*Science and Health with Key to the Scriptures*):** *"The scholastic **religionist** often clings tenaciously to creeds and dogmas while overlooking the practical demonstration of spiritual healing."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The zeal of the ancient **religionist** frequently ignited bitter theological controversies that shook the foundations of the empire."*

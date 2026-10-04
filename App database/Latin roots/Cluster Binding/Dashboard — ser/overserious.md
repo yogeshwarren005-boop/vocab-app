@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessively serious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessively serious.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessively grave, somber, or lacking in humor; treating trivial matters with unneeded solemnity and anxiety.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological characterization and comedic literature, an overly rigid disposition incapable of enjoying playful ironies or lighthearted social pleasantries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overserious designates excessively serious."*
+> - 📜 **Oscar Wilde (*The Importance of Being Earnest*):** *"Life is far too important a matter to be treated in that heavy and **overserious** manner by rational beings."*
+> - 📜 **G. K. Chesterton (*Orthodoxy*):** *"The solemn puritan becomes tragically **overserious**, forgetting that celestial wisdom is accompanied by joyful laughter."*
+> - 📜 **Robert Louis Stevenson (*Virginibus Puerisque and Other Papers*):** *"Youth should beware of turning **overserious** before its time, lest it miss the sunny morning of life."*

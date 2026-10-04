@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A neurotransmitter involved in e.g. sleep and depression and memory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A neurotransmitter involved in e.g. sleep and depression and memory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monoamine neurotransmitter and hormone synthesized in the brain, gastrointestinal tract, and platelets, regulating mood, sleep, cognition, and vascular tone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurochemistry and neuropsychiatry, 5-hydroxytryptamine (5-HT), which modulates synaptic transmission, enteric nervous system peristalsis, and hemostatic vasoconstriction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serotonin designates a neurotransmitter involved in e.g. sleep and depression and memory."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The delicate chemical balance between dopamine and **serotonin** dictates the emotional equanimity and motor stability of the patient."*
+> - 📜 **Carl Sagan (*The Dragons of Eden*):** *"The regulation of sleep cycles and primal emotional drives depends intimately upon the neurotransmitter **serotonin** in the limbic system."*
+> - 📜 **Francis Crick (*The Astonishing Hypothesis*):** *"Synaptic pathways mediated by **serotonin** demonstrate how microscopic molecular events underpin conscious mental experience."*

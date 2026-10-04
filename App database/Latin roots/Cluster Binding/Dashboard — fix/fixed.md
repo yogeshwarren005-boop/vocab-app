@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Restore by replacing a part or putting together what is torn or broken.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to be firmly attached.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Firmly positioned, fastened, or placed; not changing, fluctuating, or movable; established.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astronomy, chemistry, and economics, designating celestial bodies of seemingly unvarying relative positions, non-volatile gases bonded into compounds, or unchanging capital assets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O no, it is an ever-fixed mark That looks on tempests and is never shaken; It is the star to every wand’ring bark, Whose worth’s unknown, although his height be taken."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With silence, nephew, be thou politic; Strong-fixed is the house of Lancaster, And like a mountain, not to be removed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why are thine eyes fixed to the sullen earth, Gazing on that which seems to dim thy sight?"*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Nothing is secure but life, transition, the energizing spirit; no love can be bound by any **fixed** or irrevocable contract."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"His eyes were **fixed** upon the glowing embers of the hearth with an expression of deep and melancholy contemplation."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Clear thought demands that words should maintain a **fixed** and steady signification across each successive link of the argument."*

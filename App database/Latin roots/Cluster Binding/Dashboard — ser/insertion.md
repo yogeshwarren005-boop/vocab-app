@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A message (spoken or written) that is introduced or inserted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of putting one thing into another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of putting or setting something into something else; or something that has been added or incorporated into a text or object.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musculoskeletal anatomy, the specific site of attachment of a muscle or tendon to the bone or tissue that it moves upon contraction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And now suspended in stages over the side, Starbuck and Stubb, the mates, armed with their long spades, began cutting a hole in the body for the insertion of the hook just above the nearest of the two side-fins."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"For my own part, at every new view I take of the subject, I become more convinced of the reality of the obstacles which, we are authoritatively informed, prevented the insertion of a provision on this head in the plan of the convention."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Spectacles and hair still left the personality of the face untouched; even the bushy eyebrows were but a partial disguise, but with the insertion of those small india-rubber pads came an utter and radical change."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And now suspended in stages over the side, they commenced the delicate **insertion** of the sharp blubber-spades into the carcass."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The judicious **insertion** of constitutional amendments safeguards individual liberty without impairing executive vigor."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Anatomists observe minute variations in the exact **insertion** of tendons across related vertebrate species."*

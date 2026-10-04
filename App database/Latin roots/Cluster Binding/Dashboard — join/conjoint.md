@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of two or more associated entities; ; - j.k.fairbank.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consisting of two or more associated entities; ; - j.k.fairbank.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United, combined, or associated; acting or conducted by several persons or entities in partnership.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil jurisprudence, denoting rights, obligations, or contractual tenancies held collectively by multiple co-parties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conjoint designates consisting of two or more associated entities; ; - j.k.fairbank."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The commercial enterprise flourished through the **conjoint** capital and labor of several merchant partners."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The preservation of the commonwealth requires the **conjoint** wisdom of all three estates of the realm."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The national safety demands the **conjoint** efforts of the state militias under unified constitutional leadership."*

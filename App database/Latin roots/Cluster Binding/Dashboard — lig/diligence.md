@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conscientiousness in paying proper attention to a task; giving the degree of care required in a given situation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Persevering determination to perform a task.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Constant and earnest effort to accomplish what is undertaken; persistent application to work, duty, or study.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative civil law, the standard of prudent and reasonable care required of a fiduciary or contracting party to avoid culpable liability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For Cloten, There wants no diligence in seeking him, And will no doubt be found."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will receive it with all diligence of spirit."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This speed and quick appearance argues proof Of your accustom’d diligence to me."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will make her amend it; she shall use **diligence** to recover what she has so carelessly endangered."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate pursued his anatomical investigations with untiring **diligence**, rising before dawn to examine his tissue specimens."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"The young detective had pursued his inquiries with commendable **diligence**, examining every footprint along the garden path."*

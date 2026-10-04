@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make contact or come together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take in marriage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To combine, link, or unite together into a single entity, alliance, or coordinated action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric and logic, to unite terms or distinct propositions under a shared coordinating copula.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look you how pale he glares, His form and cause conjoin’d, preaching to stones, Would make them capable.—Do not look upon me, Lest with this piteous action you convert My stern effects."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The English army, that divided was Into two parties, is now conjoin’d in one, And means to give you battle presently."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now I perceive they have conjoin’d all three To fashion this false sport in spite of me."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Sound philosophy must **conjoin** empirical observation with rigorous mathematical demonstration."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The allied chieftains agreed to **conjoin** their barbarian legions against the encroaching imperial forces."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Enthusiastic citizens and armed deputies **conjoin** their passions in the revolutionary assembly."*

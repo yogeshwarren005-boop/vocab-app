@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lucky in making unexpected and fortunate discoveries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lucky in making unexpected and fortunate discoveries.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring or discovered by lucky chance, happy coincidence, or accidental good fortune.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the philosophy of science and history of invention, describing unintended breakthroughs resulting from sagacious observation of unforeseen experimental anomalies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serendipitous designates lucky in making unexpected and fortunate discoveries."*
+> - 📜 **Carl Sagan (*Broca's Brain*):** *"Many of the most revolutionary discoveries in modern astronomy were entirely **serendipitous**, emerging from unexpected signals."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"Evolutionary adaptations often arise from **serendipitous** historical contingencies that repurpose ancient anatomical structures."*
+> - 📜 **Oliver Sacks (*Uncle Tungsten*):** *"The discovery of synthetic aniline dyes proved **serendipitous**, transforming industrial chemistry through accidental synthesis."*

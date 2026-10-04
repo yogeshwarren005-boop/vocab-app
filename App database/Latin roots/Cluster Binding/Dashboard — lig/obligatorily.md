@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an obligatory manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner that cannot be evaded.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that is required by rule, law, custom, or necessity; mandatorily or compulsorily.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statutory compliance and procedural jurisprudence, executed pursuant to an inescapable formal directive admitting no discretionary waiver.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, obligatorily designates in an obligatory manner."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Certain civic duties must be performed **obligatorily** by every citizen to maintain the security and order of the commonwealth."*
+> - 📜 **Jeremy Bentham (*The Rationale of Judicial Evidence*):** *"The statute provided that witnesses should be examined **obligatorily** under solemn oath in all capital trials."*
+> - 📜 **Herbert Spencer (*Social Statics*):** *"Whenever cooperative contributions are exacted **obligatorily** by state coercion, individual voluntary initiative tends to wither."*

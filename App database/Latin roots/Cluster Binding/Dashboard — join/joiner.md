@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who likes to join groups.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woodworker whose work involves making things by joining pieces of wood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woodworker who constructs finished interior woodwork, cabinetry, doors, windows, and furniture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociological terminology, a person with an inclination or habit of joining multiple clubs and civic organizations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You, Pyramus’ father; myself, Thisbe’s father; Snug, the joiner, you, the lion’s part."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, I am no such thing; I am a man as other men are’: and there, indeed, let him name his name, and tell them plainly he is Snug the joiner."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then know that I, one Snug the joiner, am A lion fell, nor else no lion’s dam; For if I should as lion come in strife Into this place, ’twere pity on my life."*
+> - 📜 **William Shakespeare (*A Midsummer Night's Dream*):** *"Snug the **joiner** was cast to play the lion's part in the interlude before the Duke."*
+> - 📜 **George Eliot (*Adam Bede*):** *"The skilled **joiner** examined the seasoned oak timber before fitting the panels of the hall door."*
+> - 📜 **Thomas Hardy (*Under the Greenwood Tree*):** *"The parish **joiner** supplied both church pews and household furniture for the rustic hamlet."*

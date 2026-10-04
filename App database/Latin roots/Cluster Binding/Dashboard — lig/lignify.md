@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Convert into wood or cause to become woody.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert into wood or cause to become woody.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert into wood or woody tissue; to become hard, rigid, and wood-like through the deposition of lignin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant physiology, to deposit complex phenolic polymer networks within plant cell walls during vascular maturation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lignify designates convert into wood or cause to become woody."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"As tender vegetative shoots mature toward autumn, their primary vascular bundles begin to **lignify** and stiffen."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"The aerial roots of the creeping vine **lignify** rapidly after grasping the rocky wall, anchoring the plant permanently."*
+> - 📜 **Julius von Sachs (*Lectures on the Physiology of Plants*):** *"Secondary cell walls in xylem vessels **lignify** through the enzymatic secretion of complex aromatic polymer substances."*

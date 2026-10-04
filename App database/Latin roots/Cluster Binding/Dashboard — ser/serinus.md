@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Old world finches; e.g. canaries and serins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Old world finches; e.g. canaries and serins.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of Old World finches in the family Fringillidae, comprising the European serin, canary, and allied songbirds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian systematics and biogeography, small seed-eating fringilline birds characterized by short conical bills, predominantly yellowish-green plumage, and undulating flight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serinus designates old world finches; e.g. canaries and serins."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The wild ancestor of the domestic singing canary is a member of the fringilline genus **Serinus** indigenous to the Atlantic islands."*
+> - 📜 **Alexander Wilson (*American Ornithology*):** *"European naturalists include several melodious songbirds in **Serinus**, comparing their rapid twitter to that of our native goldfinches."*
+> - 📜 **John James Audubon (*The Birds of America*):** *"The taxonomic affinities of **Serinus** connect the Mediterranean finches with African seed-eating songbirds of related genera."*

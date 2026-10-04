@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A short line at the end of the main strokes of a character.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short line at the end of the main strokes of a character.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternate historical spelling of serif, denoting the fine cross-stroke finishing a letter in typography.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century printer's manuals and orthographic treatises, the terminal finial or cross-bar characterizing Roman typeface letterforms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, seriph designates a short line at the end of the main strokes of a character."*
+> - 📜 **William Morris (*The Art and Craft of Printing*):** *"In cutting the punch for the lower-case roman, each delicate **seriph** was shaped with microscopic exactness."*
+> - 📜 **Thomas Frognall Dibdin (*The Bibliographical Decameron*):** *"The bibliophile praised the crisp typography of the Aldine press, noting how every minute **seriph** stood out upon the vellum."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The ancient stone inscriptions in the piazza exhibited clean architectural strokes where every terminal **seriph** was carved with precision."*

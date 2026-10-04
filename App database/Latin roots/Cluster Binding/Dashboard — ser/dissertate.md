@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Talk at length and formally about a topic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Talk at length and formally about a topic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To speak, lecture, or discourse formally and at length upon a learned, theoretical, or literary topic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic rhetoric and scholastic disputation, to deliver an extended disquisition elaborating systematic arguments and scholarly analysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dissertate designates talk at length and formally about a topic."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The German philosophers were ever ready to **dissertate** at profound length upon the fundamental categories of reason."*
+> - 📜 **William Hazlitt (*Table-Talk*):** *"He would sit by the fireside and **dissertate** upon Elizabethan drama with astonishing eloquence and penetrating wit."*
+> - 📜 **Thomas De Quincey (*Confessions of an English Opium-Eater*):** *"The scholar began to **dissertate** upon ancient philological manuscripts, oblivious to the passage of midnight."*

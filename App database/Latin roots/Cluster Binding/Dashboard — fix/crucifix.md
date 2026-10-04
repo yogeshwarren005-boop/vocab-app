@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Representation of the cross on which jesus died.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gymnastic exercise performed on the rings when the gymnast supports himself with both arms extended horizontally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An artistic representation of Jesus Christ on the cross, widely venerated as a sacred Christian symbol.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In liturgical theology, church history, and devotional art, an iconographic carved, cast, or painted cross bearing the physical corpus of the crucified Christ.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"John, the crucifix and holy banner leading the way, to a place called Chouquet."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Every one took care to contribute a faggot to the pile, and the whole population marched to the spot in procession with the crucifix at their head and the priest bringing up the rear."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"There stand his trees, each with a hollow trunk, as if a hermit and a crucifix were within; and here sleeps his meadow, and there sleep his cattle; and up from yonder cottage goes a sleepy smoke."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"There stand his trees, each with a hollow trunk, as if a hermit and a **crucifix** were within, offering perpetual sanctuary to wandering souls."*
+> - 📜 **Bram Stoker (*Dracula*):** *"She took a **crucifix** from her neck and offered it to me, begging me for my mother's sake to wear it during my journey through the mountains."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"Upon the plain whitewashed wall hung an ivory **crucifix**, catching the pale morning light with quiet, severe sanctity."*

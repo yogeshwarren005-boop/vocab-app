@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unassertive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unassertive manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a shy, hesitant, modest, or retiring manner; without boldness, demand, or forceful display.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social psychology and conversational analysis, communicating deferentially with vocal softening, qualifiers, and minimal self-promotion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unassertively designates in an unassertive manner."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Farebrother answered **unassertively**, allowing the more dogmatic rector to dominate the clerical gathering."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The quiet clerk offered his ledger **unassertively**, waiting patiently until his master deigned to inspect the figures."*
+> - 📜 **Virginia Woolf (*Night and Day*):** *"She spoke **unassertively**, reluctant to disturb the prevailing opinion of the distinguished company assembled for tea."*

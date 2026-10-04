@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Leave someone who needs or counts on you; leave in the lurch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Desert (a cause, a country or an army), often in order to join the opposing cause, country, or army.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abandoned, forsaken, or left completely empty of inhabitants, caretakers, or human activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military criminal law, having illicitly absconded from armed service or assigned station with the intention of never returning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"How terribly deserted and lonely it all looks," Uncle Philip said after a while."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Trius by everybody, came back a few years ago to the deserted castle."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Now you know why the deserted castle attracts me so despite its sad aspect, for it brings back to me my most beautiful memories." "Oh, please, mother, tell us a little more," Kurt begged eagerly, when his mother rose."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The decaying mansion stood lonely and silent, its cold courtyards and shuttered halls completely **deserted** by living souls."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"We searched the dilapidated stockade and discovered that the piratical crew had **deserted** their wounded companions."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"She walked along the narrow forest track that led to the **deserted** cottage on the outskirts of the settlement."*

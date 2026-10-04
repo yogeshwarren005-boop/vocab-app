@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a squad on a team.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A worker who strings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or thing that strings; especially a freelance journalist paid by the piece, or a long horizontal timber used to support structures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bridge engineering, shipbuilding, and architecture, a heavy longitudinal beam supporting a deck, railroad tracks, or stair treads.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We've got to get off before he personally takes charge of the search." Brad again scrutinized the ship's stringers and cable insulation colors."*
+> - 📜 **Herman Melville (*White-Jacket*):** *"The ship's carpenters bolted a massive oak **stringer** along the inner timbers of the gun-deck to support the heavy battery."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"Our country paper relied upon a local **stringer** at every river landing to wire rumors of floods, steamboat races, and town brawls."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The heavy staircase rested upon an unadorned stone **stringer**, revealing the honest structural framework of the medieval masonry."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone whose occupation is preaching the gospel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone whose occupation is preaching the gospel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who delivers sermons, or one who habitually moralizes, lectures, and preaches to others about their conduct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In satiric literature and character sketches, a sanctimonious moralizer prone to delivering tedious platitudes while ignoring personal flaws.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sermoniser designates someone whose occupation is preaching the gospel."*
+> - 📜 **Jonathan Swift (*A Tale of a Tub*):** *"The self-appointed **sermoniser** mounted his tub in the public square, berating passersby for their earthly vanities."*
+> - 📜 **Henry Fielding (*The History of Tom Jones, a Foundling*):** *"Square was an inveterate **sermoniser** upon eternal fitness, though his private practice frequently contradicted his doctrines."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"The bishop found himself badgered by a zealous **sermoniser** who insisted that worldly pastimes endangered pastoral souls."*

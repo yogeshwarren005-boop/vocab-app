@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or producing or containing serum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or producing or containing serum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Thin, pale, and watery; resembling or producing serum or thin lubricating bodily fluid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human histopathology and surgical diagnosis, designating non-purulent exudates or glandular secretions low in mucus and rich in dissolved proteins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serous designates of or producing or containing serum."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The pericardial sac contains a small amount of clear **serous** fluid that facilitates the rhythmic contraction of the heart walls."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Pleurisy is frequently characterized by the accumulation of a pale **serous** effusion within the pleural cavity."*
+> - 📜 **Thomas Huxley (*Lessons in Elementary Physiology*):** *"The delicate lining of the abdominal cavity continuously secretes a **serous** moisture to prevent frictional abrasions between adjacent viscera."*

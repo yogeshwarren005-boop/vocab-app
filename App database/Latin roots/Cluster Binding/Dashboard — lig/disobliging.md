@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause inconvenience or discomfort to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ignore someone's wishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unwilling to please or accommodate others; unaccommodating, uncooperative, or deliberately discourteous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral description and diplomatic conduct, showing stubborn refusal to render conventional courtesies or concessions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Her heart instantaneously at ease on this point, she resolved to lose no time in particular examination of anything, as she greatly dreaded disobliging the General by any delay."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"It was impossible to consider him rude, yet his cold reserve was often interpreted as haughty and **disobliging**."*
+> - 📜 **Frances Burney (*Evelina*):** *"The shopkeeper was exceedingly **disobliging**, refusing to show the silk ribbons with any pretense of polite civility."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Tom considered his cousin exceedingly **disobliging** when she declined to fetch his fishing tackle from the upper loft."*

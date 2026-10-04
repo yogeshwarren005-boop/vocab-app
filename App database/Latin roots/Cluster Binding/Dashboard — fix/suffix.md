@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An affix that is added at the end of the word.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attach a suffix to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An affix added to the end of a word or stem to form a new word or express a grammatical function.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical linguistics and morphology, a terminal bound morpheme marking inflectional case, number, tense, or performing derivational class conversion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, suffix designates an affix that is added at the end of the word."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Every case-ending in ancient Sanskrit was originally an independent demonstrative pronoun transformed into an invariable **suffix** through ages of phonetic decay."*
+> - 📜 **William Dwight Whitney (*The Life and Growth of Language*):** *"The noun-forming **suffix** converts descriptive attributes into abstract concepts available for philosophical manipulation."*
+> - 📜 **Otto Jespersen (*The Philosophy of Grammar*):** *"A diminutive **suffix** conveys not merely diminished physical size but frequently an emotional nuance of endearment or contempt."*

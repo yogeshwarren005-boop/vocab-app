@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Place restrictions on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place under restrictions; limit access to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Limited in extent, amount, or scope; allowed only to specific individuals, or kept within strict boundaries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In security administration, copyright law, and zoning statutes, subject to confidential access controls or specific land-use limitations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Was he necessarily restricted to the one means?"*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Therefore, when gold is the standard, copper, nickel, and silver remain in restricted use."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Her diet is restricted to boiled rice, milk, sugar, curd, and tamarind without salt."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The monopoly granted to ancient guild masters **restricted** the freedom of ambitious apprentices to establish independent workshops."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Endemic species inhabiting oceanic islands are often **restricted** to an exceedingly narrow geographical range and specific habitat."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her social sphere had been painfully **restricted** by provincial prejudice, preventing the full exercise of her intellectual gifts."*

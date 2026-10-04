@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of carangidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of carangidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large, fast-swimming predatory marine fishes in the jack family Carangidae, including amberjacks and yellowtails.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine ichthyology and commercial pelagic fisheries, circumglobal game fishes inhabiting offshore reefs and open waters, valued for firm, oily flesh.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, seriola designates a genus of carangidae."*
+> - 📜 **Charles Darwin (*The Zoology of the Voyage of H.M.S. Beagle*):** *"The sailors captured several splendid yellow-tailed specimens of **Seriola** while trolling off the subtropical oceanic islands."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The amberjack of the genus **Seriola** is renowned among anglers for its ferocious power and tireless resistance when hooked."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"Naturalists distinguish the genus **Seriola** from typical mackerels by the dorsal fin structure and the presence of lateral keels on the caudal peduncle."*

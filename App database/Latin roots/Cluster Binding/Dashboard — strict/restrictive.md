@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to restrict.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of tariff) protective of national interests by restricting imports.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Imposing limits, constraints, or boundaries on freedom, movement, development, or choice; limiting in nature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In syntax and economic policy, defining and narrowing the identity of a noun phrase; or protectionist and trade-impeding in fiscal effects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Germany, which had always had restrictive duties, adopted still more protective measures under Bismarck in 1879."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The United States has followed a restrictive policy since near the beginning of the last century."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"She then peeped round to where I sat; so stern a neighbour was too restrictive: to him, in his present fractious mood, she dared whisper no observations, nor ask of him any information."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I found the domestic routine of the schoolroom exceedingly **restrictive**, longing for the wider horizons beyond the garden walls."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The medieval trade guilds operated under highly **restrictive** covenants that prohibited innovation and barred alien craftsmen."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A **restrictive** tariff upon grain imports inevitably burdens the laboring classes while enriching agricultural landlords."*

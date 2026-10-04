@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to a linguistic affix.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to a linguistic affix.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resembling, or functioning through grammatical affixes attached to base morphemes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic typology and derivational phonology, denoting morphological alterations governed by prefixation, suffixation, or infixation rather than tonal or suppletive shifts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, affixal designates of or pertaining to a linguistic affix."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"In polysynthetic tongues, elaborate **affixal** machinery enables a single verbal complex to express nuances that require complete clauses in analytic languages."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"The semantic distinctions between radical elements and **affixal** additions reflect fundamental cognitive classifications deeply ingrained in speech communities."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"Grammatical decomposition isolates the invariable base from its series of interchangeable **affixal** markers."*

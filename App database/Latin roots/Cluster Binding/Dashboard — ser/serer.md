@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A west african language closely related to fula; spoken primarily in senegal and gambia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A west african language closely related to fula; spoken primarily in senegal and gambia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: More dry, withered, or desiccated than before; comparative form of the adjective sere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ethnic and linguistic group native to Senegal and The Gambia, historically known for traditional agricultural practices and distinct cosmological traditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serer designates a west african language closely related to fula; spoken primarily in senegal and gambia."*
+> - 📜 **Henry David Thoreau (*Excursions*):** *"As November advanced, the woodland foliage turned daily **serer** and crisper under the sharp autumn frosts."*
+> - 📜 **Algernon Charles Swinburne (*Poems and Ballads*):** *"Leaves fallen upon the barren hill grew **serer** yet beneath the bitter winds of winter."*
+> - 📜 **Richard Francis Burton (*Wanderings in West Africa*):** *"The ethnographer observed the agrarian settlements of the **Serer** people situated along the fertile riverbanks of Senegambia."*

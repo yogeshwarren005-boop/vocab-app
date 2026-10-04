@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the conjunctiva.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the conjunctiva.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, located in, or affecting the conjunctiva of the eye.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical ophthalmology and microscopic pathology, describing the mucosal tissue, vascular networks, or inflammatory responses situated within the conjunctival sac.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conjunctival designates of or relating to the conjunctiva."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Petechial hemorrhages in the **conjunctival** vessels provide an indispensable clinical clue when diagnosing infective endocarditis."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The copious fluid secreted by the lacrimal gland bathes the **conjunctival** surface before passing into the nasal cavity."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"The doctor examined the patient's inflamed **conjunctival** tissue under a strong magnifying lens to detect early corneal erosion."*

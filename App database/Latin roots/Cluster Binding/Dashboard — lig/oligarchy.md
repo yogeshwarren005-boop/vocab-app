@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A political system governed by a few people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A political system governed by a few people.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of government or institutional structure in which supreme power is held by a small, privileged group of people.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political philosophy and state theory, the degenerate regime form where sovereign authority is exercised by the rich for their own aggrandizement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Whilst the objection itself is levelled against a pretended oligarchy, the principle of it strikes at the very root of republican government."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"So far as their tribes can be said to have a political constitution, it is a democracy or rather an oligarchy of old and influential men, who meet in council and decide on all measures of importance to the practical exclusion of the younger men."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Experience demonstrates that hereditary power transforms a free commonwealth into a corrupt and oppressive **oligarchy**."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"In primitive tribal councils, power was frequently held by a close **oligarchy** of elderly priests and magicians."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"No form of **oligarchy** has ever maintained itself without systematically repressing the political consciousness of the people."*

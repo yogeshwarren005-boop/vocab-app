@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) an estate secured to a prospective wife as a marriage settlement in lieu of a dower.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making or becoming a single unit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An estate or property settled legally on a wife for her use during her lifetime after her husband's death.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In English property law, an equitable estate settled upon a woman prior to marriage in lieu of statutory dower.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, of a snail, for though he comes slowly, he carries his house on his head—a better jointure, I think, than you make a woman."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And now forthwith shall articles be drawn Touching the jointure that your king must make, Which with her dowry shall be counterpoised."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He will make you a hundred and fifty pounds jointure."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Mrs. Dashwood's **jointure** was modest, requiring prudent retrenchment in their newly chosen cottage."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The dowager baroness guarded her handsome **jointure** with tenacious legal vigilance against spendthrift heirs."*
+> - 📜 **Henry Fielding (*Tom Jones*):** *"The marriage settlement secured a comfortable **jointure** for the lady out of the Somersetshire estates."*

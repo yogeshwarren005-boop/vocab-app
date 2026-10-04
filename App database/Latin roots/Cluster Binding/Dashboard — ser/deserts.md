@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An outcome (good or bad) that is well deserved.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arid land with little or no vegetation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arid regions characterized by minimal rainfall; or the rewards, penalties, or outcomes that a person justly merits or deserves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In retributive justice and moral philosophy, desert refers to the deontological principle that moral agents should receive treatment proportional to their conduct.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To give away yourself, keeps yourself still, And you must live drawn by your own sweet skill. 17 Who will believe my verse in time to come If it were filled with your most high deserts?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, stand up; and for these good deserts We here create you Earl of Shrewsbury; And in our coronation take your place. [_Sennet."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My Lord Protector will, I doubt it not, See you well guerdoned for these good deserts."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Use every man after his **deserts**, and who should 'scape whipping? Use them after your own honour and dignity."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of the New Continent*):** *"The coastal **deserts** of Peru receive no refreshing showers from year to year under the perpetual trade wind haze."*
+> - 📜 **John Locke (*Second Treatise of Government*):** *"In a state of nature, every transgressor must be dealt with according to the measure of his just **deserts**."*

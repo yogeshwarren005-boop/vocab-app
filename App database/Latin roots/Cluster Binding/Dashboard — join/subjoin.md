@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Add to the end.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Add to the end.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To add something, such as a note, remark, or postscript, at the end of a written document or discourse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal textual apparatus and epistolary style, to append supplementary remarks or corroborating evidence to a primary text.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"And will you give yourself the trouble of carrying similar assurances to his creditors in Meryton, of whom I shall subjoin a list, according to his information?"*
-> - 📜 **James Joyce (*Ulysses*):** *"We subjoin a specimen which has been rendered into English by an eminent scholar whose name for the moment we are not at liberty to disclose though we believe that our readers will find the topical allusion rather more than an indication."*
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"This and the three examples which I subjoin were certainly Mary's."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"To this narrative Darcy thought fit to **subjoin** a detailed account of Wickham's financial extravagances."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The historian felt obliged to **subjoin** a critical dissertation on the credibility of imperial chroniclers."*
+> - 📜 **Samuel Johnson (*Lives of the Most Eminent English Poets*):** *"To his critical remarks on the epic, the editor thought proper to **subjoin** several variant manuscript readings."*

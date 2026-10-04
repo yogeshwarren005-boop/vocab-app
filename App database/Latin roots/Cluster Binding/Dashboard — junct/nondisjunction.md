@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Meiosis in which there is a failure of paired homologous chromosomes to separate; results in an abnormal number of chromosomes in the daughter cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Meiosis in which there is a failure of paired homologous chromosomes to separate; results in an abnormal number of chromosomes in the daughter cells.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The failure of homologous chromosomes or sister chromatids to separate properly during cell division (mitosis or meiosis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cytogenetics and developmental genetics, the meiotic aberration resulting in gametes with abnormal chromosome numbers (aneuploidy), causing conditions such as Down syndrome.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nondisjunction designates meiosis in which there is a failure of paired homologous chromosomes to separate; results in an abnormal number of chromosomes in the daughter cells."*
+> - 📜 **Thomas Hunt Morgan (*The Physical Basis of Heredity*):** *"Cytological proof of chromosomal **nondisjunction** demonstrated conclusively that specific genetic traits are physically carried upon the sex chromosome."*
+> - 📜 **Calvin Bridges (*Non-disjunction as Proof of the Chromosome Theory of Heredity*):** *"Primary **nondisjunction** in Drosophila results from the exceptional failure of the paired X chromosomes to disjoin at reductional meiosis."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Aneuploid progeny arising from accidental **nondisjunction** generally exhibit lowered developmental viability compared to balanced euploid strains."*

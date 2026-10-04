@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lightweight cord.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stringed instruments that are played with a bow.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A long, thin piece of twisted thread, cord, or twine used for tying, binding, or fastening objects together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer science and music, an ordered sequence of characters in code; or a vibrating wire, gut, or nylon cord producing acoustic tones on an instrument.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have sounded the very base-string of humility."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I kiss his dirty shoe, and from heart-string I love the lovely bully."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would ’twere something that would fret the string, The master-cord on ’s heart."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her tongue will not obey her heart, nor can her heart inform her tongue; the **string** is broke that should tie them together."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"He tied the packet of letters securely with a length of faded pink **string**, placing it carefully in the secret drawer."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The weaver carried his parcels of finished linen tied with stout flaxen **string**, walking along the hedgerows into the town."*

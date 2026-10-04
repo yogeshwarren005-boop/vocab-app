@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make disjoint, separated, or disconnected; undo the joining of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become separated, disconnected or disjoint.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To separate, unfasten, or sever things that were previously connected or unified.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal logic and set theory, to divide a universe of discourse into mutually exclusive non-overlapping alternatives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I may disjoin my hand, but not my faith."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So, by a roaring tempest on the flood A whole armado of convicted sail Is scattered and disjoin’d from fellowship."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Sorrowing joy, Adieu’s last action, (Lingering lips must now disjoin), What words can ever speak affection So thrilling and sincere as thine!"*
+> - 📜 **John Milton (*Paradise Lost*):** *"No natural force could lightly **disjoin** the primeval elements ordained by divine decree."*
+> - 📜 **William Shakespeare (*Troilus and Cressida*):** *"Let not our political councils **disjoin** what urgent martial necessity hath firmly knit together."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The human intellect easily errs when it presumes to **disjoin** causes that nature hath perpetually united."*

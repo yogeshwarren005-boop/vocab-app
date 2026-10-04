@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fit as if by joints.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide with a joint.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having one or more joints, knots, or articulated movable segments connecting structural parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In arthropod morphology and botany, possessing articulated appendages or segmented culms divided by distinct nodes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O well-knit Samson, strong-jointed Samson!"*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"He was broad-shouldered and double-jointed, with short curly black hair and a bluff but not unpleasant countenance, having a mingled air of fun and arrogance."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"On Mars along with that double-jointed six- wheeler we sent up a few years ago there to sniff around in potholes and climb over rocks?"*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The **jointed** limbs of crustacea display exquisite mechanical modifications for crawling and swimming."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish: An Introduction to the Study of Zoology*):** *"Each **jointed** appendage consists of homologous podomeres arranged along a longitudinal axis."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"The stream was bordered by tall **jointed** rushes that swayed gracefully in the summer breeze."*

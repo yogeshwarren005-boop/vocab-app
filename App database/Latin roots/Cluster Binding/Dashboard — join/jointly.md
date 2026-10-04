@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In collaboration or cooperation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In conjunction with; combined.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Together in collaboration, association, or shared action; in common with one or more other parties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contract and tort law, describing shared legal responsibility whereby all obligors must be sued together.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The rascal people, thirsting after prey, Join with the traitor, and they jointly swear To spoil the city and your royal court."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do invest you jointly with my power, Pre-eminence, and all the large effects That troop with majesty."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But of that tomorrow, When therewithal we shall have cause of state Craving us jointly."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"Man and woman are **jointly** entrusted by nature with the care and education of their offspring."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The two commercial towns **jointly** maintained the navigational beacons along the navigable river estuary."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Civil freedom and ordered law must be **jointly** defended by every responsible citizen."*

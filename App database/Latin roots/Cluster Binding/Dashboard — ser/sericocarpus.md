@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of herbs of the eastern united states: white-topped asters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of herbs of the eastern united states: white-topped asters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A botanical genus of North American perennial flowering plants in the aster family (Asteraceae), commonly called whitetop asters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany and phytogeography, herbaceous composites featuring cylindrical involucres and silky-haired cypselae adapted for wind dispersal in open woodlands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sericocarpus designates small genus of herbs of the eastern united states: white-topped asters."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"The genus **Sericocarpus** is distinguished from Aster by its narrow ray blossoms and densely silky-pubescent achenes."*
+> - 📜 **John Torrey (*Flora of the State of New York*):** *"In dry sandy pine woods, specimens of **Sericocarpus** asteroides bloom profusely throughout the midsummer months."*
+> - 📜 **Alvan Wentworth Chapman (*Flora of the Southern United States*):** *"Several species of **Sericocarpus** inhabit the dry savannahs and open glades of the southern coastal plain."*

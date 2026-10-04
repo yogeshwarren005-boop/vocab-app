@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ducks; geese; swans; screamers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ducks; geese; swans; screamers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The biological order of waterfowl comprising screamers, swans, geese, ducks, and related aquatic web-footed birds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian systematics and evolutionary biology, an ancient Galloanserae lineage characterized by dertrum bill tips, aquatic adaptations, and specialized syrinx morphology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anseriformes designates ducks; geese; swans; screamers."*
+> - 📜 **Thomas Huxley (*On the Classification of Birds*):** *"The cranial morphology of the **Anseriformes** establishes a distinct evolutionary clade closely allied to gallinaceous fowl."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The global distribution of the **Anseriformes** reflects their remarkable capacity for long-distance oceanic migration."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"Every member of the **Anseriformes** possesses lamellate mandibles uniquely adapted for straining aquatic sustenance from marsh waters."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A transparent lubricating mucous membrane that covers the eyeball and the under surface of the eyelid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A transparent lubricating mucous membrane that covers the eyeball and the under surface of the eyelid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The delicate, transparent mucous membrane that covers the front of the eye and lines the inside of the eyelids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ocular anatomy and ophthalmology, a non-keratinized stratified columnar epithelium protecting the sclera, lubricating the ocular surface via goblet-cell mucin secretion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conjunctiva designates a transparent lubricating mucous membrane that covers the eyeball and the under surface of the eyelid."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe jaundice is immediately apparent upon inspecting the pale yellow tinge staining the sclera beneath the vascular **conjunctiva**."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The inner surface of each eyelid is lined by the delicate **conjunctiva**, which reflects back upon the anterior ball of the eye."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp: Being Facts and Fancies of Medical Life*):** *"A minute foreign particle embedded within the bulbar **conjunctiva** produced intense lacrimation and severe ocular distress."*

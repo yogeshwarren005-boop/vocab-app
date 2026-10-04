@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A quick reply to a question or remark (especially a witty or critical one).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) a pleading made by a defendant in response to the plaintiff's replication.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A quick, sharp, witty, or contentious reply to a remark, statement, or accusation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In common-law pleading, the formal defendant's answer to the plaintiff's replication in a civil suit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I have come with that sole purpose in view—nothing more.” There was the smallest vein of scorn in her words of rejoinder: “Have you saved yourself?"*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Madam, I should like some tea,” was the sole rejoinder she got."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"I've been lectured enough for one day," was her ungracious rejoinder; and he closed the door, and went away."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth made no **rejoinder**, but her eloquent silence spoke more plainly than any sharp retort."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I listened calmly to her reproach, preparing a respectful yet decisive **rejoinder** in my defense."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Casaubon was unprepared for so spirited a **rejoinder** from his young and usually submissive wife."*

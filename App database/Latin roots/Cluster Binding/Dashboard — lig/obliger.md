@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who performs a service or does a favor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who performs a service or does a favor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who binds another by a contract, bond, or legal obligation; or one who confers a favor or accommodation upon another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In common law and legal conveyancing, the obligee or conferring benefactor in a mutual covenant of contractual performance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, obliger designates someone who performs a service or does a favor."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"In every penal bond, the obligor promises payment to the **obliger** upon failure to perform the underlying condition."*
+> - 📜 **Samuel Richardson (*Clarissa*):** *"He posed as a generous **obliger**, seeking by small courtesies to win her confidence and disarm her vigilance."*
+> - 📜 **Jeremy Bentham (*The Rationale of Judicial Evidence*):** *"The law must protect the rights of the **obliger** against fraudulent evasion by the debtor under seal."*

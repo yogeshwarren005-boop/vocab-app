@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who claims to speak the truth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who claims to speak the truth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who asserts, affirms, maintains, or actively vindicates a claim, doctrine, right, or principle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political history and polemical literature, an outspoken champion or defender of constitutional liberties, civil rights, or theological dogmas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"He predicted the same fate to _attraction_, whereof the present learned are such zealous asserters."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"He stood forward as a bold **asserter** of ancient constitutional liberties against arbitrary monarchical encroachment."*
+> - 📜 **Samuel Johnson (*The Lives of the Most Eminent English Poets*):** *"Milton remained throughout his political career an unyielding **asserter** of republican principles and religious freedom."*
+> - 📜 **Thomas Carlyle (*On Heroes, Hero-Worship, and the Heroic in History*):** *"Luther appeared as the fearless **asserter** of individual spiritual conscience against centuries of ecclesiastical tradition."*

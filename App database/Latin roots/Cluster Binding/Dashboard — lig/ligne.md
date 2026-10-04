@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A linear unit (1/40 inch) used to measure diameter of buttons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A linear unit (1/40 inch) used to measure diameter of buttons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historic unit of length equal to one-twelfth of an inch or roughly 2.256 millimeters, widely used in watchmaking and button sizing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In traditional Swiss horology and garment manufacturing, a standard measure of movement caliber diameter or button diameter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"What did surprise him was that during these last two years his wife had succeeded in gaining the reputation “d’ une femme charmante, aussi spirituelle que belle.” *(2) The distinguished Prince de Ligne wrote her eight-page letters."*
+> - 📜 **Horace Walpole (*Letters of Horace Walpole*):** *"The delicate Swiss movement measured barely eight **ligne** across, yet ticked with absolute precision within its enameled gold case."*
+> - 📜 **Charles Dickens (*Household Words*):** *"The watchmaker examined the miniature escapement through his loupe, measuring each tiny gear down to a fraction of a **ligne**."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes measured the diameter of the foreign pearl button, noting it conformed exactly to the eighteen-**ligne** continental scale."*

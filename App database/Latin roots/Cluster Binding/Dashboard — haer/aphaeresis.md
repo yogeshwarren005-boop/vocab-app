@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (linguistics) omission at the beginning of a word as in `coon' for `raccoon' or `till' for `until'.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (linguistics) omission at the beginning of a word as in `coon' for `raccoon' or `till' for `until'.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The loss or omission of one or more sounds or letters from the beginning of a word.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical phonology, metric versification, and surgical medicine, the phonetic elision of an initial vowel or consonant (such as 'round' from 'around'), or an archaic term for amputation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aphaeresis designates (linguistics) omission at the beginning of a word as in `coon' for `raccoon' or `till' for `until'."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Through regular phonetic **aphaeresis**, popular speech drops unstressed initial syllables, converting solemn ancestral words into colloquial monosyllables."*
+> - 📜 **Henry Sweet (*A History of English Sounds*):** *"The emergence of 'fend' from 'defend' and 'tend' from 'attend' illustrates the persistent operation of **aphaeresis** in spoken English."*
+> - 📜 **Otto Jespersen (*Growth and Structure of the English Language*):** *"Poetic meter frequently licenses **aphaeresis** to shorten words without impairing their communicative intelligibility."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not affixed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not affixed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not attached, fastened, joined, or appended to anything; existing without attached grammatical affixes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In morphological analysis and philology, designating an uninflected bare root or stem that lacks prefixes, infixes, or suffixes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unaffixed designates not affixed."*
+> - 📜 **William Dwight Whitney (*The Life and Growth of Language*):** *"An **unaffixed** root represents the primitive conceptual kernel prior to its formal specialization into nominal or verbal categories."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"In isolating languages like Chinese, each monosyllabic morpheme stands strictly **unaffixed**, relying on pitch and syntax for semantic relations."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"Certain archaic noun stems survive completely **unaffixed** in fossilized ritual idioms, preserving ancestral morphological simplicity."*

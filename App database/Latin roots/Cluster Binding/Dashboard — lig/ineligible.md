@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not eligible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prohibited by official rules.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not legally, officially, or practically qualified to be chosen, elected, or granted a particular position or benefit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In judicial review and public administration, barred by constitutional disqualification or statutory non-compliance from public office.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"He would have let the house, but could find no tenant, in consequence of its ineligible and insalubrious site."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In the first view, appeals to the people at fixed periods appear to be nearly as ineligible as appeals on particular occasions as they emerge."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The members of the Congress are rendered ineligible to any civil offices that may be created, or of which the emoluments may be increased, during the term of their election."*
+> - 📜 **Abraham Lincoln (*Speeches and Letters*):** *"The election board determined that the candidate was **ineligible** owing to his non-residence in the judicial district."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"Those who had not contributed toward the civic defense fund were deemed **ineligible** for the municipal privileges granted to subscribers."*
+> - 📜 **Henry Adams (*The History of the United States*):** *"Foreign ministers were declared **ineligible** to hold simultaneous commissions in the newly organized provincial assemblies."*

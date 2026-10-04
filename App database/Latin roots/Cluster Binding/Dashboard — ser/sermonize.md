@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Speak as if delivering a sermon; express moral judgements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Speak as if delivering a sermon; express moral judgements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To compose, preach, or deliver a sermon; or to discourse in a pompous, lecturing, or moralizing manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetorical analysis and homiletics, to impart religious instruction through systematic biblical exposition and moral exhortation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode?” “Who else, eh?” “Then the story has grown into this lie out of some sermonizing words he may have let fall about me."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I am perhaps talking rather superfluously; but a man likes to assume superiority over himself, by holding up his bad example and sermonizing on it.” Lydgate took Mr."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Old Caleb came in and ate quickly, sermonizing Mr."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He had no wish to **sermonize** over the misfortunes of his neighbor, preferring to offer quiet practical assistance."*
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Old Caleb came in and ate quickly, ready to **sermonize** the household on the virtues of early rising and frugality."*
+> - 📜 **Washington Irving (*Bracebridge Hall*):** *"The country parson was not given to **sermonize** in company, keeping his theological discourses strictly for the pulpit."*

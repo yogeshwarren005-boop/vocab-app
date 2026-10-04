@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a copula.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a copula.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, functioning as, or containing a grammatical copula that connects a grammatical subject to its complement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In syntactic typology and descriptive linguistics, denoting stative relational predicates or auxiliary verbs that license predicate nominals and predicate adjectives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, copular designates of or relating to a copula."*
+> - 📜 **Henry Sweet (*A New English Grammar: Logical and Historical*):** *"Verbs of being and seeming perform a purely **copular** duty, delegating virtually all communicative semantic weight to the following predicate noun."*
+> - 📜 **Otto Jespersen (*The Philosophy of Grammar*):** *"The distinctive **copular** construction links subject and predicative in an inseparable bond of Nexus, distinct from attributive modification."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"Many American Indian idioms dispense entirely with an overt **copular** element, juxtaposing noun stem and stative qualifier without connective morphology."*

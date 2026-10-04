@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of supplementing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of supplementing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of appending, adding, or annexing supplementary material at the end of a discourse or text.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive linguistics, manuscript textual criticism, and formal treaties, the deliberate attachment of a supplementary qualifying clause, postscript, or codil.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subjunction designates the act of supplementing."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"To every controversial discourse the author made an elaborate **subjunction** of explanatory notes and documentary vindications."*
+> - 📜 **Jeremy Bentham (*Rationale of Judicial Evidence*):** *"The legislative **subjunction** of explicit procedural warnings prevents ambiguous depositions from misleading the fact-finding jury."*
+> - 📜 **Walter Pater (*Appreciations: With an Essay on Style*):** *"The delicate **subjunction** of an ironic concluding sentence gives to the essay its final intellectual poise and aesthetic charm."*

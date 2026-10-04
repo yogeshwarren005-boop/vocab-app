@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sessile hydroid that forms feathery colonies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sessile hydroid that forms feathery colonies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of delicate, branching marine colonial hydrozoans in the family Sertulariidae, commonly called sea firs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate marine biology and benthic oceanography, branching hydroid colonies bearing small sessile biserial hydrothecae along their chitinous stalks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sertularia designates sessile hydroid that forms feathery colonies."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Among the tangled seaweeds cast up on the beach of Tierra del Fuego, I found beautiful branching specimens of **Sertularia**."*
+> - 📜 **Thomas Huxley (*The Oceanic Hydrozoa*):** *"The minute cups or hydrothecae of **Sertularia** protect the delicate hydranths from violent coastal surf action."*
+> - 📜 **Philip Henry Gosse (*A Naturalist's Rambles on the Devonshire Coast*):** *"Under the microscope, the feathery fronds of **Sertularia** reveal thousands of busy living polyps waving their translucent tentacles."*

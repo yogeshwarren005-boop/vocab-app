@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a disjointed manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a disjointed manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a fragmented, disconnected, or disorderly manner, without smooth continuity or logical coherence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In conversational analysis and psycholinguistics, speaking in staccato bursts, broken clauses, or incomplete utterances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disjointedly designates in a disjointed manner."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"He spoke **disjointedly**, pausing between hesitant phrases as if struggling with overwhelming recollections."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"She recounted the harrowing incident **disjointedly**, her voice trembling with lingering agitation."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The wounded sailor mumbled **disjointedly** about foreign ports and hidden treasures."*

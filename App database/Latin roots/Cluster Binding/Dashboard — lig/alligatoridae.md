@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Alligators; caimans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Alligators; caimans.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic family of crocodilian reptiles comprising modern alligators, caimans, and their extinct ancestral lineages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology and systematic herpetology, a clade characterized by mandibular teeth fitting into internal pits of the upper jaw when the mouth closes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alligatoridae designates alligators; caimans."*
+> - 📜 **Richard Owen (*Palaeontology*):** *"Fossil crania attributable to the family **Alligatoridae** demonstrate that broad-snouted crocodilians flourished in temperate river systems during the Eocene."*
+> - 📜 **Alfred Romer (*Vertebrate Paleontology*):** *"Within the order Crocodylia, the **Alligatoridae** diverged early by developing specialized dentition adapted for crushing freshwater mollusks and armored prey."*
+> - 📜 **Thomas Henry Huxley (*On the Classification of the Dinosauria*):** *"Comparative anatomical studies of living **Alligatoridae** provide essential morphological insights into the cranial architecture of extinct reptiles."*

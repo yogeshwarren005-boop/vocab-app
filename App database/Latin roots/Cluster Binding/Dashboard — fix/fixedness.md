@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remaining in place.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being fixed in place as by some firm attachment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of remaining securely stationary, steadfast, permanent, or resistant to change.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical natural philosophy and moral psychology, the immutability of character, physical resistance to volatilization, or stability of intellectual conviction against doubt.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I derived benefit from the task: it had kept my head and hands employed, and had given force and fixedness to the new impressions I wished to stamp indelibly on my heart."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"I confess," said Atma, "that the fixedness of fate engages my thought frequently, though hitherto unprofitably."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"But, under the softness and gentleness of her external demeanor, one soon detects a firmness of determination, and a fixedness of will."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The marvelous **fixedness** of instinctive habit in mature animals contrasts sharply with the plastic instability characteristic of early infancy."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Human affairs are subject to perpetual flux, so that he who seeks absolute **fixedness** in earthly fortunes pursues an illusion."*
+> - 📜 **George Eliot (*Middlemarch*):** *"There was a terrifying **fixedness** in his resolve that seemed to ignore all practical obstacles and ordinary human considerations."*

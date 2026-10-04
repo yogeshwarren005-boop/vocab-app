@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not astringent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not astringent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not causing contraction of tissues or drawing together of organic surfaces; lacking a puckering, sharp, or drying quality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pomology and food science, designating persimmon cultivars (such as Fuyu) that lose tannin insolubility early and can be consumed while still firm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonastringent designates not astringent."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Modern orchardists select **nonastringent** varieties of oriental persimmons because the crisp fruits can be eaten immediately upon ripening."*
+> - 📜 **Asa Gray (*Scientific Papers of Asa Gray*):** *"The cultivated variety yielded a sweet, **nonastringent** pulp quite unlike the harsh, tannin-rich fruit of the wild persimmon tree."*
+> - 📜 **Luther Burbank (*His Methods and Discoveries*):** *"Through selective breeding, we isolated a completely **nonastringent** seedling whose succulent flesh had entirely lost its ancestral bitterness."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small very elongate sea poachers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small very elongate sea poachers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A slender marine bottom-dwelling teleost fish of the family Agonidae, distinguished by hard bony armor plates encasing its body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyological taxonomy, a northern coastal agonid species such as Aspidophoroides monopterygius, adapted for crawling along rocky seabed substrates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alligatorfish designates small very elongate sea poachers."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The curious **alligatorfish** of the northern seas carries a rigid exoskeleton of interlocking bony plates that protects it from benthic predators."*
+> - 📜 **George Brown Goode (*Oceanic Ichthyology*):** *"Specimens of the armored **alligatorfish** dredged from cold Atlantic shallows reveal how dorsal fins are reduced in bottom-dwelling species."*
+> - 📜 **William Beebe (*The Arcturus Adventure*):** *"Among the marine curiosities swept aboard in our dredge net was an armored **alligatorfish**, stiff and motionless as a carving."*

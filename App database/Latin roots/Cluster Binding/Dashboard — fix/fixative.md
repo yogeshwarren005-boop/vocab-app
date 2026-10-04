@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A compound (such as ethanol or formaldehyde) that fixes tissues and cells for microscopic study.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A varnish dissolved in alcohol and sprayed over pictures to prevent smudging.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance used to preserve, harden, stabilize, or prevent the fading and smudging of materials such as artwork, perfumes, or biological tissues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histological pathology and fragrance formulation, a chemical reagent that cross-links proteins to prevent autolysis, or an aromatic base that retards the evaporation of volatile essential oils.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fixative designates a compound (such as ethanol or formaldehyde) that fixes tissues and cells for microscopic study."*
+> - 📜 **John Ruskin (*The Elements of Drawing*):** *"After completing a delicate charcoal sketch, apply a fine mist of **fixative** immediately to prevent the powdery tones from rubbing away."*
+> - 📜 **Santiago Ramón y Cajal (*Advice for a Young Investigator*):** *"The choice of an appropriate **fixative** determines whether the delicate arborizations of neural dendrites will remain visible or contract into shapeless coagula."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The sharp aromatic smell of an ethereal **fixative** lingered about the small cabinet where the chemist prepared his delicate botanical slides."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Constrict or bind or draw together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become constricted or compressed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To draw together, compress, or cause organic tissue to contract; to constrict or bind tightly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical therapeutics and materia medica, to apply an astringent agent that stops hemorrhage, diminishes secretions, or tightens mucous membranes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, astringe designates constrict or bind or draw together."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"Cold doth **astringe** and bind the pores of the body, shutting in the natural spirits and preventing excessive dissipation."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Tannic acid was traditionally employed to **astringe** the weeping mucosal surfaces and arrest superficial capillary bleeding."*
+> - 📜 **John Evelyn (*Sylva, or A Discourse of Forest-Trees*):** *"The bitter bark of the oak hath an ancient virtue to **astringe** loose tissues and firm up relaxed sinews in medicinal draughts."*

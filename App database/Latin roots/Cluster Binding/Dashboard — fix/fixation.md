@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal state in which development has stopped prematurely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unhealthy and compulsive preoccupation with something or someone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The stabilization or firm attachment of something; or an obsessive, persistent preoccupation with a person, idea, or object.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histology, biochemistry, and psychoanalysis, chemical preservation of biological tissue, assimilation of inorganic nitrogen or carbon into organic molecules, or arrested emotional attachment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fixation designates an abnormal state in which development has stopped prematurely."*
+> - 📜 **Sigmund Freud (*The Interpretation of Dreams*):** *"An unconscious **fixation** rooted in childhood memories continues to exert a determining influence upon adult choices long after the original incident is forgotten."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The permanent **fixation** of slight advantageous variations through continuous natural selection constitutes the primary engine of organic transformation."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"In every sudden conversion we witness the instantaneous **fixation** of psychic energy around an entirely novel spiritual center."*

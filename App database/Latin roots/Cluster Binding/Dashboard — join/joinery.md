@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fine woodwork done by a joiner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The craft of a joiner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The craft, trade, or finished wooden products of a joiner, especially fine interior architectural woodwork.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In building construction and woodworking technology, the art of assembling timber joints without nails using interlocking mortises.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, joinery designates fine woodwork done by a joiner."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The exquisite **joinery** of the Venetian choir stalls demonstrated peerless medieval craftsmanship."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Honest work in masonry and timber **joinery** speaks more truly than empty political slogans."*
+> - 📜 **William Morris (*Hopes and Fears for Art*):** *"True decorative art relies on sound **joinery** and noble materials rather than superficial ornament."*

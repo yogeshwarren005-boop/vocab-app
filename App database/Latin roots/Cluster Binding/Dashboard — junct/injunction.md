@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal command or admonition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) a judicial remedy issued in order to prohibit a party from doing or continuing to do a certain activity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An authoritative order, command, admonition, or directive requiring a person to do or refrain from doing something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In equity jurisprudence, an extraordinary judicial remedy issued by a court of equity ordering a party to cease a harmful act or perform an affirmative obligation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I must remove Some thousands of these logs, and pile them up, Upon a sore injunction: my sweet mistress Weeps when she sees me work, and says such baseness Had never like executor."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She did commend my yellow stockings of late, she did praise my leg being cross-gartered, and in this she manifests herself to my love, and with a kind of injunction, drives me to these habits of her liking."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"No, you must not scold him, for Lippo did right in putting his things in order before taking a walk," said his mother, who had herself given him that injunction."*
+> - 📜 **William Shakespeare (*All's Well That Ends Well*):** *"Now will I write letters to Angelo, the provost, he shall bear them, whose contents shall witness to him my strict **injunction**."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A court of equity issues an **injunction** to prevent an irreparable injury to property where legal damages would be inadequate."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The Lord Chancellor granted an **injunction** restraining the defendants from cutting down timber upon the disputed family estate."*

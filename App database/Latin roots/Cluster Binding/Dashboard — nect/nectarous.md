@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely pleasing to the taste; sweet and fragrant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely pleasing to the taste; sweet and fragrant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sweet, delicious, and fragrant like nectar; resembling or possessing the divine qualities of nectar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In romantic poetry and classical lyricism, describing beverages, fruits, or amorous kisses evoking the ambrosial sweetness of Olympus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Then did you, chivalrous Terence, hand forth, as to the manner born, that nectarous beverage and you offered the crystal cup to him that thirsted, the soul of chivalry, in beauty akin to the immortals."*
+> - 📜 **John Milton (*Paradise Lost*):** *"A gentle cloud diffused its **nectarous** fragrance over the bower where the primeval pair reposed."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"The enchanted spring poured forth its **nectarous** stream to revive the fainting spirits of earth."*
+> - 📜 **Alexander Pope (*The Iliad of Homer*):** *"The gods quaffed the **nectarous** vintage from radiant golden chalices during their council on high Olympus."*

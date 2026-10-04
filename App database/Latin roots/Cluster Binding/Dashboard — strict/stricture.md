@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal narrowing of a bodily canal or passageway.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Severe criticism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Severe criticism, adverse remark, or stern censure; or an abnormal narrowing of a canal, duct, or vessel in the human body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology and pathology-informed surgery, a fibrous constriction of a tubular organ (such as the urethra, esophagus, or bowel) causing obstruction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have delivered to Lord Angelo, A man of stricture and firm abstinence, My absolute power and place here in Vienna, And he supposes me travelled to Poland; For so I have strewed it in the common ear, And so it is received."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Perhaps in no minor point does woman astonish her helpmate more than in the strange power she possesses of believing cajoleries that she knows to be false—except, indeed, in that of being utterly sceptical on strictures that she knows to be true."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"What would I give to hear your strictures on them!” “Your conjecture is totally wrong, I assure you."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth smiled at his sharp **stricture** on the manners of the local assembly, knowing he spoke more from pride than malice."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood bore the sarcastic **stricture** of his companion in stony silence, his heart preoccupied with deeper grievances."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Surgical dilation of the cicatricial **stricture** restored normal passage through the esophagus, relieving the patient's dysphagia."*

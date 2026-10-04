@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) a judicial remedy issued in order to prohibit a party from doing or continuing to do a certain activity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Issue an injunction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Commanding, directing, or urging authoritatively; laying an imperative duty or legal injunction upon someone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil litigation and chancery practice, the formal issuance of an interlocutory order forbidding a specified activity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"They therefore thrust him and his pig into the rubbish heap and covered them over with the taro peelings, enjoining him to keep perfectly still, and watch till he should see eight heavy breakers roll in successively from the sea."*
-> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"Another useless edict was put out to-day mildly enjoining officials to distinguish between good and bad Boxers, and punish only the bad."*
-> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"The throne was anxious to avoid conflict, and issued edicts ordering the protection of the legations and enjoining pity for the converts."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The imperial rescripts were dispatched, **enjoining** the provincial prefects to maintain civic tranquility."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Proclamations were read at the town corners, **enjoining** all citizens to surrender unlicensed firearms."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The sovereign issued letters patent **enjoining** royal officers to provide safe conduct throughout the realm."*

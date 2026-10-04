@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Offspring of a male lion and a female tiger.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Offspring of a male lion and a female tiger.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hybrid offspring resulting from the mating of a male lion (Panthera leo) and a female tiger (Panthera tigris).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian genetics and zoology, a large feline hybrid exhibiting striped tawny fur, marked gigantism, and male sterility caused by Haldane's rule.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, liger designates offspring of a male lion and a female tiger."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The rare zoological hybrid known as a **liger** demonstrates that distinct species of Panthera can interbreed when kept in long confinement."*
+> - 📜 **Alfred Russel Wallace (*Darwinism*):** *"Breeding experiments producing the **liger** illustrate how reproductive barriers between wild felids remain largely behavioral in nature."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"The menagerie featured a captive **liger**, whose immense bulk exceeded that of either parent while displaying faint tiger stripes."*

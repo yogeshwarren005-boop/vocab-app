@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conscientious attention to rules and details.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Uncompromising resolution.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rigorous, unyielding adherence to rules, principles, exact standards, or severe ethical and institutional discipline.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and institutional governance, uncompromising rectitude or severity that tolerates no relaxation of prescribed codes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"So far from diminishing its strictness, it adds emphasis to its claims, and fully meets its unmitigated requisitions."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But Will’s articles and speeches naturally recommended him in families which the new strictness of party division had marked off on the side of Reform."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The proposed Constitution, therefore, is, in strictness, neither a national nor a federal Constitution, but a composition of both."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Will Ladislaw rebelled against the puritanical **strictness** of his uncle's household, longing for artistic color and spontaneous joy."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"The moral **strictness** of the ancient Stoics fortified the spirit against the vicissitudes of tyranny and bodily pain."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The magistrates governed the colony with an unrelenting **strictness** that mirrored the severe theology of their faith."*

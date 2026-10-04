@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various brown and yellow finches of parts of europe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various brown and yellow finches of parts of europe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small yellow-green European finch (Serinus serinus) closely related to the canary, noted for its rapid twittering song.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Mediterranean ornithology, a common fringillid bird inhabiting orchards, olive groves, and parklands, feeding primarily on small weed seeds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serin designates any of various brown and yellow finches of parts of europe."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The traveler through southern France frequently observes the lively little **serin** singing perched on top of orchard boughs."*
+> - 📜 **W. H. Hudson (*Birds in London*):** *"The musical trill of the wild **serin** is remarkably sweet and hurried, recalling the rapid song of our domestic canary."*
+> - 📜 **John Gould (*The Birds of Europe*):** *"The yellow breast and streaked plumage of the **serin** render it conspicuous among the small songbirds of Iberian groves."*

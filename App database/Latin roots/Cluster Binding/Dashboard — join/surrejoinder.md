@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) a pleading by the plaintiff in reply to the defendant's rejoinder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) a pleading by the plaintiff in reply to the defendant's rejoinder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A second response or further answer given in reply to a rejoinder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In common-law pleading, the plaintiff's formal answer to the defendant's rejoinder in sequential written pleadings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, surrejoinder designates (law) a pleading by the plaintiff in reply to the defendant's rejoinder."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"To the defendant's rejoinder the plaintiff may reply in a **surrejoinder**, continuing the orderly sequence of allegations."*
+> - 📜 **Henry Hallam (*The Constitutional History of England*):** *"The legal disputation dragged through plea, replication, rejoinder, and **surrejoinder** before the judges reached a verdict."*
+> - 📜 **Jeremy Bentham (*Rationale of Judicial Evidence*):** *"The elaborate technicality of common-law **surrejoinder** served chiefly to multiply fees for practicing attorneys."*

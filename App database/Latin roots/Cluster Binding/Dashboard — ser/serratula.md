@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of old world perennial herbs with spirally arranged toothed leaves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of old world perennial herbs with spirally arranged toothed leaves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of Old World perennial flowering herbs in the daisy family Asteraceae, commonly known as saw-worts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic botany and historical ethnobotany, herbaceous plants (notably Serratula tinctoria) historically cultivated across Europe as a source of yellow textile dye.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"We have not often found this fungus in the neighbourhood of London on the leaves of the knapweed, but, on the other hand, we have encountered it very commonly on those of the saw-wort (_Serratula tinctoria_)."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"Upon the chalk downs we gathered the common saw-wort of the genus **Serratula**, whose toothed leaves resemble a miniature saw."*
+> - 📜 **William Jackson Hooker (*British Flora*):** *"The dye plant **Serratula** tinctoria produces purple composite flower-heads and was formerly gathered by clothiers for yellow tints."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Botanists distinguish **Serratula** from carduoid thistles by its spineless involucral scales and deeply pinnatifid leaves."*

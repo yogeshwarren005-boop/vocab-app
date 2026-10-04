@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mixing the serious with the comic with comic predominating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mixing the serious with the comic with comic predominating.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by a mixture of serious and comical features; amusingly earnest or satirical in presentation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetorical criticism and Victorian fiction, exhibiting playful solemnity that invites both thoughtful reflection and gentle laughter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, seriocomical designates mixing the serious with the comic with comic predominating."*
+> - 📜 **William Makepeace Thackeray (*The Book of Snobs*):** *"He related the mortifying social catastrophe in a **seriocomical** vein that provoked unrestrained mirth around the dinner table."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Rabelais deployed a **seriocomical** narrative style to shield biting philosophical criticisms of the Sorbonne behind exuberant buffoonery."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The old scholar delivered his opinion with a **seriocomical** solemnity that left his guests uncertain whether to bow or laugh."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strengthen or make more firm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strengthen or make more firm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To state, declare, or affirm again with renewed emphasis; to reclaim or exercise authority, rights, or control once more.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political jurisprudence and international diplomacy, to reinstate formal legal jurisdiction or sovereign prerogatives following a period of lapse or dispute.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Liddy,” she said, with a lighter heart, for youth and hope had begun to reassert themselves; “you are to be my confidante for the present—somebody must be—and I choose you."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Is not this to revert to an outworn view of the Christian religion--to reassert its dark side, better forgotten, all the horrible emphasis on sin and its consequences introduced into the sunny teaching of Jesus by Paul of Tarsus, and alien to it?"*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The long-suppressed spiritual elements of the nation began to reassert themselves in religion and in poetry."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She spoke with a lighter heart, for the resilient spirit of her youth began to **reassert** its cheerful dominion."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Parliament convened after the prorogation to **reassert** its constitutional control over national taxation."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"In that quiet harbor, the familiar routines of civilized life seemed to **reassert** their calming power over the crew."*

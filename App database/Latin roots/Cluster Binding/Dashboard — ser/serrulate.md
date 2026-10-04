@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Minutely serrated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Minutely serrated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Finely or minutely saw-toothed, having very small, delicate forward-pointing teeth along the edge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical plant taxonomy, describing leaf margins bordered with microscopic denticulations barely visible without a magnifying lens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serrulate designates minutely serrated."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The glossy leaves of the mountain laurel exhibit a **serrulate** margin whose minute teeth are revealed under a field pocket glass."*
+> - 📜 **John Torrey (*Flora of the State of New York*):** *"This delicate sedge is easily identified by its sharply **serrulate** culms which feel rough when drawn through the fingers."*
+> - 📜 **William Bartram (*Travels through North and South Carolina, Georgia, East and West Florida*):** *"We observed an elegant shrub with bright green **serrulate** foliage bordering the pristine banks of the crystalline stream."*

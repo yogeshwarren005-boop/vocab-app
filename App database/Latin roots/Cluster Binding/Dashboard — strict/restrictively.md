@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a restrictive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a restrictive manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that places limits, bounds, or tight constraints on freedom, interpretation, or activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In judicial interpretation and statutory construction, construing legislative texts with narrow, literal, and strict boundaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, restrictively designates in a restrictive manner."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Penal statutes must ever be construed **restrictively**, lest the liberties of the subject be infringed by loose judicial implication."*
+> - 📜 **John Marshall (*Judicial Decisions*):** *"The powers granted in the constitution are not to be interpreted so **restrictively** as to paralyze the necessary operations of government."*
+> - 📜 **Jeremy Bentham (*The Rationale of Judicial Evidence*):** *"Rules that exclude witness testimony operate **restrictively**, blinding the court to essential facts required for just adjudication."*

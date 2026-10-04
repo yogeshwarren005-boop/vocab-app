@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Publication in serial form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Publication in serial form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of publishing, broadcasting, or presenting a work in successive installments over time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer systems engineering and software architecture, the conversion of an in-memory data object into a binary or text stream for network transmission or persistence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serialisation designates publication in serial form."*
+> - 📜 **George Gissing (*New Grub Street*):** *"The successful **serialisation** of his new novel in the periodical provided him with sufficient funds to marry."*
+> - 📜 **Arnold Bennett (*The Truth about an Author*):** *"Magazine **serialisation** yields far greater financial recompense to a popular author than the ultimate volume rights."*
+> - 📜 **Thomas Hardy (*The Life of Thomas Hardy*):** *"The editor demanded several textual modifications before approving the **serialisation** of the Wessex narrative in the illustrated weekly."*

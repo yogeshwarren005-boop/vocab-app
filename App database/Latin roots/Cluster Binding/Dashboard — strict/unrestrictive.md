@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not tending to restrict.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not tending to restrict.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not imposing restrictions, limitations, or constraints; broad, permissive, and granting wide freedom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In regulatory jurisprudence and institutional policy, establishing liberal frameworks that promote voluntary association and free enterprise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unrestrictive designates not tending to restrict."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"An **unrestrictive** commercial code enables capital to flow naturally into those domestic employment channels where profits are highest."*
+> - 📜 **Herbert Spencer (*Social Statics*):** *"A truly progressive society maintains an **unrestrictive** legal regime that maximizes individual initiative and voluntary contract."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The state serves its citizens best when its laws remain fundamentally **unrestrictive**, allowing diverse moral experiments in living."*

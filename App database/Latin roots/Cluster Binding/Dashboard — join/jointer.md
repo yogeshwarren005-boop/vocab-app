@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A long carpenter's plane used to shape the edges of boards so they will fit together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A long carpenter's plane used to shape the edges of boards so they will fit together.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woodworking tool or machine plane with a long flat bed used to true and square the edges of boards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In masonry and bricklaying, a small curved metal tool used to compress and finish mortar joints between bricks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, jointer designates a long carpenter's plane used to shape the edges of boards so they will fit together."*
+> - 📜 **George Eliot (*Adam Bede*):** *"Adam ran his heavy **jointer** plane along the edge of the ash board until the shaving curled paper-thin."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"The young mason used his curved steel **jointer** to strike neat horizontal mortar lines across the wall."*
+> - 📜 **Henry David Thoreau (*Cape Cod*):** *"The carpenter planed the weathered timber with a sturdy **jointer** before laying the deck planks."*

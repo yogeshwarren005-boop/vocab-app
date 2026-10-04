@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Typical geese.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Typical geese.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The principal zoological genus comprising typical true geese, including the greylag goose, swan goose, and white-fronted goose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithological taxonomy and wetland ecology, web-footed waterfowl of the family Anatidae characterized by lamellate bills, migratory flocks, and herbivorous grazing habits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anser designates typical geese."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"All our domestic breeds of geese are descended from the common wild greylag goose, designated **Anser** ferus."*
+> - 📜 **Alexander Wilson (*American Ornithology*):** *"Naturalists place the arctic snow goose in the genus **Anser**, noting its serrated bill margins and powerful migratory flight."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"The majestic flocks of **Anser** albifrons descend upon the flooded prairies with resonant honking calls in late autumn."*

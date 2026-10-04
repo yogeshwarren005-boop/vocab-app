@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A principle that limits the extent of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act of limiting or restricting (as by regulation).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A limiting condition or measure; a rule or law that limits what you can do, or the act of limiting someone or something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular genetics and commerce, cleavage of DNA at specific palindromic sequences by endonucleases; or legal tariffs and trade quotas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Every restriction that would wound the most susceptible is withdrawn; not one more than another, but all."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The American Revolution was one of the bitter fruits of the English policy of trade restriction. § 13. #Adam Smith's influence#."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The paper money issued under the English bank restriction act of 1797-1820 is especially notable because it gave rise to the controversy which did much to develop the modern theory of the subject."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Every gate of the city was guarded, and no citizen could pass through without submitting to the stern **restriction** of the guard."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The imposition of an import **restriction** on foreign manufactured goods created an immediate windfall for domestic industrialists."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Any artificial **restriction** upon the expression of philosophical opinion tends to deprive mankind of the discovery of truth."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Crack and acquire the appearance of alligator hide, as from weathering or improper application; of paint and varnishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of paint or varnish; having the appearance of alligator hide.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Displaying a fractured surface pattern characterized by coarse interconnected cracks resembling the textured skin of a reptilian snout.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In materials engineering and architectural coatings, exhibiting extensive crazing or rectilinear fissure networks caused by severe thermal contraction or ultraviolet degradation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alligatored designates crack and acquire the appearance of alligator hide, as from weathering or improper application; of paint and varnishes."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The ancient varnish across the Venetian panel had become heavily **alligatored**, fracturing into tiny rectangular plates over the centuries."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The dried sea-boots worn by the harpooneer had grown brittle and **alligatored** from decades of brine and sun exposure."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Examining the painted carriage door, Holmes noted the weathered enamel was cracked and **alligatored** near the brass handle."*

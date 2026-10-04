@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an assertive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an assertive manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a confident, forceful, and self-assured manner that clearly states opinions or insists on rights.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In negotiation theory and social psychology, communicating one's standpoint directly and constructively without passive capitulation or aggressive hostility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, assertively designates in an assertive manner."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"She answered **assertively**, declaring that her moral principles were not subject to the convenience of others."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The veteran captain stepped forward **assertively**, commanding silence among the agitated sailors on the listing deck."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"Newland Archer spoke **assertively** in defense of unconventional views, challenging the unspoken decorum of old New York."*

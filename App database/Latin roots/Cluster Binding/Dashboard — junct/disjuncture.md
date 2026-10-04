@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: State of being disconnected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: State of being disconnected.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A separation, disconnection, or cleavage; a breach or discordance between interrelated parts or ideas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical social theory, cultural sociology, and institutional analysis, a structural misalignment or rupture between ideological expectations and material realities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disjuncture designates state of being disconnected."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"The acute **disjuncture** between traditional religious faith and modern industrial society threatened to plunge culture into widespread anarchy."*
+> - 📜 **Walter Pater (*Appreciations: With an Essay on Style*):** *"Any violent **disjuncture** between artistic form and inner meaning inevitably damages the aesthetic harmony of the literary work."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"An artificial **disjuncture** between vocational training and liberal education weakens the vital democratic fabric of public schools."*

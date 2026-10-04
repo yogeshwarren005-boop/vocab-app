@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a serial manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a serial manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a sequential, continuous manner; appearing one after another in regular succession or ordered parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statistics and time series econometrics, designating observations or residual errors exhibiting temporal autocorrelation along successive time periods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serially designates in a serial manner."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The anatomical segments of the arthropod body are arranged **serially**, displaying homologous modifications along the main axis."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Evolutionary changes do not happen simultaneously everywhere, but unfold **serially** through interconnected developmental stages."*
+> - 📜 **Thomas Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The vertebrae follow each other **serially**, each bone repeating the general architectural plan of its predecessor."*

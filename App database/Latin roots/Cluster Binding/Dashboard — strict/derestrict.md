@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make free from restrictions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make free from restrictions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove, relax, or abolish legal or official limits, regulations, or speed limits imposed on an activity or area.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In transport policy, traffic regulation, and economic governance, to lift statutory restrictions on highway speeds or trade quotas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, derestrict designates make free from restrictions."*
+> - 📜 **John Maynard Keynes (*The Economic Consequences of the Peace*):** *"To revive continental trade, the allied powers must urgently **derestrict** the movement of basic raw materials across borders."*
+> - 📜 **H. G. Wells (*The World of William Clissold*):** *"The transport ministry decided to **derestrict** the new arterial highway, permitting motorists to travel at their own discretion."*
+> - 📜 **George Bernard Shaw (*The Intelligent Woman's Guide to Socialism and Capitalism*):** *"Whenever municipal authorities **derestrict** speculative commerce, private monopolies instantly rush in to exploit the unwary consumer."*

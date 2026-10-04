@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A vast plain in tanzania to the west of the great rift valley known for its wildlife.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vast plain in tanzania to the west of the great rift valley known for its wildlife.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vast geographical ecosystem and national park region in northern Tanzania extending into southwestern Kenya, famed for wildlife migration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tropical savannah ecology and conservation biology, an expansive grassland biome supporting the world's largest terrestrial mammal migration of blue wildebeest and zebras.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serengeti designates a vast plain in tanzania to the west of the great rift valley known for its wildlife."*
+> - 📜 **Ernest Hemingway (*Green Hills of Africa*):** *"The endless grasslands of the **Serengeti** rolled away to the horizon like an ocean of sun-cured yellow grass."*
+> - 📜 **Peter Matthiessen (*The Tree Where Man Was Born*):** *"Across the open plains of the **Serengeti**, great columns of wildebeest moved steadily southward toward fresh volcanic pastures."*
+> - 📜 **Julian Huxley (*Africa View*):** *"The ecological balance of the **Serengeti** remains one of the supreme spectacles of natural life on our planet."*

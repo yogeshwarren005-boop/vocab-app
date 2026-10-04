@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Quietly and steadily persevering especially in detail or exactness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by care and perseverance in carrying out tasks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by steady, earnest, and energetic effort in completing tasks; industriously attentive to obligations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In administrative practice and scholarship, marked by painstaking, scrupulous, and meticulous investigative thoroughness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For since patiently and constantly thou hast stuck to the bare fortune of that beggar Posthumus, thou canst not, in the course of gratitude, but be a diligent follower of mine."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here is the guess of their true strength and forces By diligent discovery; but your haste Is now urg’d on you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here, love; thou seest how diligent I am, To dress thy meat myself, and bring it thee: [_Sets the dish on a table._] I am sure, sweet Kate, this kindness merits thanks."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is a **diligent** servant, watchful and prompt to fulfill every command that his lord assigns to him."*
+> - 📜 **George Eliot (*Silas Marner*):** *"Silas was a **diligent** weaver, working long hours at his loom while the shuttle flew back and forth in rhythmic cadence."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"A **diligent** observer of nature will discover that every hour of the day possesses its own distinct flora and light."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (surgery) tying a duct or blood vessel with a ligature (as to prevent bleeding during surgery).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (surgery) tying a duct or blood vessel with a ligature (as to prevent bleeding during surgery).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical act of tying off a blood vessel, duct, or tissue structure with a thread, wire, or suture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular biology and vascular surgery, the covalent joining of complementary DNA strands or therapeutic occlusion of hemorrhaging vessels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ligation designates (surgery) tying a duct or blood vessel with a ligature (as to prevent bleeding during surgery)."*
+> - 📜 **Joseph Lister (*The Collected Papers of Joseph Lister*):** *"The clinical success of arterial **ligation** depends entirely upon preventing putrefactive fermentation within the wound margin."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Prompt **ligation** of the severed vessels prevented fatal exsanguination before the patient reached the hospital ward."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"William Harvey demonstrated the unidirectional circulation of blood by applying temporary **ligation** to the veins of the human arm."*

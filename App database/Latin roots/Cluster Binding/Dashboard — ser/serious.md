@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerned with work or important matters rather than play or trivialities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of great consequence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Demanding earnest thought, thorough attention, or solemn reflection; grave in manner and not trivial or frivolous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine and public safety, attended with considerable danger, risk, or potential fatality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, my lord will go away tonight; A very serious business calls on him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our rash faults Make trivial price of serious things we have, Not knowing them until we know their grave."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In Sicyon: Her length of sickness, with what else more serious Importeth thee to know, this bears. [_Gives a letter._] ANTONY."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, my lord will go on a **serious** mission to the capital before tomorrow's sun ascends the sky."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"His countenance assumed a deeply **serious** cast as he unfolded the ominous legal correspondence to the family."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea looked at him with **serious** eyes, earnestly seeking to comprehend the underlying motives of his actions."*

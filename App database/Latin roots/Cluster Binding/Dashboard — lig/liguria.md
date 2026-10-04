@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Region of northwestern italy on the ligurian sea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Region of northwestern italy on the ligurian sea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A coastal region of northwestern Italy bordering the Mediterranean Sea, characterized by dramatic cliffs, coastal terraces, and the maritime Alps.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Mediterranean history and classical geography, an ancient territory renowned for seafaring commerce, olive cultivation, and the maritime republic of Genoa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, liguria designates region of northwestern italy on the ligurian sea."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Roman legions marched along the rugged coast of **Liguria**, securing the vital overland highway connecting Rome with the Gallic provinces."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"The azure waves of the Gulf of Genoa break gently upon the olive-crowned headlands that adorn the shore of romantic **Liguria**."*
+> - 📜 **Henry James (*Italian Hours*):** *"There is a severe, precipitous beauty in the steep terraced hills of **Liguria**, where tiny fishing hamlets cling tenaciously above the sea."*

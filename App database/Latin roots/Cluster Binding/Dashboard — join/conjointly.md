@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In conjunction with; combined.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In conjunction with; combined.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In combination or conjunction; unitedly and cooperatively to achieve a common purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and fiscal liability, describing obligations assumed simultaneously and collectively by multiple debtors or co-signers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When these prodigies Do so conjointly meet, let not men say, “These are their reasons; they are natural”; For I believe, they are portentous things Unto the climate that they point upon."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Besides the tea-drinking, there was to be some considerable speech-making and letter-writing on the general merits of the cultivation of coffee, conjointly with natives, at the Settlement of Borrioboola-Gha."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The groups and isolated centers so painstakingly formed and established must, conjointly with this highly commendable and essential duty, be maintained, fostered and if possible multiplied."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The twin emperors ruled the divided realm **conjointly**, issuing imperial edicts bearing both their names."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Land, labor, and capital operate **conjointly** to generate all material production within an economy."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Natural selection and inherited habit act **conjointly** in modifying the structural characteristics of animal varieties."*

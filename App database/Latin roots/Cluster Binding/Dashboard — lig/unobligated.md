@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not obligated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not obligated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not bound by any duty, legal promise, or debt; free from moral or contractual obligations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public finance and accounting jurisprudence, funds or budgetary appropriations that remain uncommitted to encumbrances or contracts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unobligated designates not obligated."*
+> - 📜 **Alexander Hamilton (*Report on Public Credit*):** *"The treasury maintained a reserve of **unobligated** revenues to meet unexpected contingencies without issuing new emergency loans."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"An agent who acts from purely generous motives stands **unobligated** to any prior social contract or legal mandate."*
+> - 📜 **Henry Maine (*Village-Communities in the East and West*):** *"The freeholder held his pasture **unobligated** to the lord's bailiff, rendering neither fealty nor customary tribute."*

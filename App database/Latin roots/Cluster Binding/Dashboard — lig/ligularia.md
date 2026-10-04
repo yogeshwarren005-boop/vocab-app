@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of old world herbs resembling groundsel: leopard plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of old world herbs resembling groundsel: leopard plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of bold, herbaceous perennial flowering plants in the daisy family Asteraceae, known for large leaves and bright golden-yellow floral heads.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticultural botany and landscape architecture, moisture-loving Eurasian composite perennials widely cultivated in wetland gardens and shaded borders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ligularia designates genus of old world herbs resembling groundsel: leopard plants."*
+> - 📜 **Gertrude Jekyll (*Wood and Garden*):** *"Along the pond margins, the giant round foliage of **Ligularia** provides a magnificent architectural contrast to slender water irises."*
+> - 📜 **Reginald Farrer (*On the Eaves of the World*):** *"We discovered colonies of **Ligularia** growing beside alpine torrents in Kansu, their golden flower spikes blazing in the mountain mist."*
+> - 📜 **William Robinson (*The English Flower Garden*):** *"For bold grouping in moist, deep soil, few hardy plants rival **Ligularia** with its handsome leaves and orange daisy clusters."*

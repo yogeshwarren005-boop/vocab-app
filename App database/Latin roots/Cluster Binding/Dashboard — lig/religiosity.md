@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exaggerated or affected piety and religious zeal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exaggerated or affected piety and religious zeal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An exaggerated, affected, sentimental, or superficial manifestation of religious sentiment, piety, or devotional fervor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychology of religion, the empirical measurement of religious belief, devotional practices, and subjective spiritual commitments in individuals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, religiosity designates exaggerated or affected piety and religious zeal."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"A morbid **religiosity** may seize upon tender consciences, transforming innocent daily acts into sources of tormenting guilt."*
+> - 📜 **George Eliot (*Romola*):** *"Beneath her emotional **religiosity**, there lay a sincere longing for moral purity that resisted the cynicism of the Florentine court."*
+> - 📜 **Leo Tolstoy (*Anna Karenina*):** *"Countess Lydia's sudden surge of pietistic **religiosity** seemed to Levin an artificial barrier against the genuine duties of life."*

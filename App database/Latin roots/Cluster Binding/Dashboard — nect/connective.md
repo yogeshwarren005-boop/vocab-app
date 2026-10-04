@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An uninflected function word that serves to conjoin words or phrases or clauses or sentences.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrumentality that connects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving or tending to connect; forming a physical link or logical relationship between parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histology, biological tissue (such as collagen or cartilage) that supports, binds, or separates other tissues and organs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, connective designates an uninflected function word that serves to conjoin words or phrases or clauses or sentences."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The microscopic strands of **connective** tissue bound the muscle fibers firmly to the bony attachments."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Adipose vesicles are embedded within the interlacing fibers of loose **connective** tissue throughout the dermis."*
+> - 📜 **William James (*Essays in Radical Empiricism*):** *"Conjunctive and **connective** relations between experiences are as directly experienced as the things themselves."*

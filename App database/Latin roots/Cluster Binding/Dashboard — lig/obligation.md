@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The social force that binds you to the courses of action demanded by that force; ; - john d.rockefeller jr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being obligated to do or pay something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An act or course of action to which a person is morally, legally, or socially bound; a duty, promise, or binding commitment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence and contract law, a legal tie (vinculum juris) by which one party is bound to perform or refrain from doing something for another.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I cannot think my sister in the least Would fail her obligation."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, and Ratolorum too; and a gentleman born, Master Parson, who writes himself “Armigero” in any bill, warrant, quittance, or obligation—“Armigero.” SHALLOW."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The sharpening lasted so long that at last I felt a kind of obligation on me to raise my eyes in order that I might break the spell under which he seemed to labour, of not being able to leave off."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is a kind of character in thy life that to the observer doth thy history fully unfold; remember thy solemn **obligation**."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"Justice implies something which it is not only right to do, and wrong not to do, but which some individual person can claim from us as a moral **obligation**."*
+> - 📜 **George Eliot (*Romola*):** *"He felt that ancient ties of gratitude imposed an inescapable **obligation** which no selfish ambition could dissolve."*

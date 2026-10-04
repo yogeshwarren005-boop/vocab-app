@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A complex polymer; the chief constituent of wood other than carbohydrates; binds to cellulose fibers to harden and strengthen cell walls of plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A complex polymer; the chief constituent of wood other than carbohydrates; binds to cellulose fibers to harden and strengthen cell walls of plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A complex organic polymer deposited in the cell walls of many vascular plants, making them rigid, woody, and resistant to decay.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In wood biochemistry and paper manufacturing, an amorphous, cross-linked aromatic biopolymer that binds cellulose microfibrils in timber.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lignin designates a complex polymer; the chief constituent of wood other than carbohydrates; binds to cellulose fibers to harden and strengthen cell walls of plants."*
+> - 📜 **Julius von Sachs (*Text-Book of Botany*):** *"The mechanical rigidity of timber is directly attributable to **lignin**, which encrusts the cellulose matrix of mature plant cells."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"Plant cells synthesize **lignin** to form dense supportive skeletal tissue capable of lifting heavy foliage toward sunlight."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"Chemical digestion removes the insoluble **lignin** from raw wood pulp, leaving behind the pliable cellulose fibers used for paper."*

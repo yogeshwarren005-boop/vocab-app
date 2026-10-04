@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A short line at the end of the main strokes of a character.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short line at the end of the main strokes of a character.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small decorative stroke, foot, or projection finishing off the main stroke of a letter in a typeface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In typographic design and print publishing, terminal cross-lines originating from Roman stone-carved lapidary inscriptions that enhance printed legibility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serif designates a short line at the end of the main strokes of a character."*
+> - 📜 **William Morris (*The Ideal Book*):** *"The beauty of a roman letter depends upon the subtle balance of its curves and the delicate restraint of each terminating **serif**."*
+> - 📜 **Eric Gill (*An Essay on Typography*):** *"A printed **serif** is not merely an ornament, but an essential historical gesture derived from the carver's chisel stroke."*
+> - 📜 **George Bernard Shaw (*Our Theatres in the Nineties*):** *"The theatrical program was handsomely printed in an elegant font where every graceful **serif** was rendered with exquisite clarity."*

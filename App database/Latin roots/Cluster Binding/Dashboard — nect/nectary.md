@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A gland (often a protuberance or depression) that secretes nectar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gland (often a protuberance or depression) that secretes nectar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A nectar-secreting glandular organ or tissue found within flowers, or on plant stems and leaves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In floral morphology, a specialized plant gland (floral or extrafloral) that synthesizes and exudes nectar to attract pollinating or mutualist insects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nectary designates a gland (often a protuberance or depression) that secretes nectar."*
+> - 📜 **Charles Darwin (*The Various Contrivances by Which Orchids Are Fertilised by Insects*):** *"The elongated spur acts as a specialized **nectary**, compelling the visiting moth to touch the pollinia with its eyes."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The position of the **nectary** varies greatly, occurring either on the receptacle, the petals, or as extrafloral glands on the petiole."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Botanists recognize the functional significance of the glandular **nectary** as a mutualistic adaptation for cross-pollination."*

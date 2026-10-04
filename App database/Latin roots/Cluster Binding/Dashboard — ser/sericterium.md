@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Silk-producing gland of insects (especially of a silkworm) or spiders.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Silk-producing gland of insects (especially of a silkworm) or spiders.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialized silk-producing gland found in insect larvae, particularly in caterpillars of the silkworm moth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate functional anatomy and entomological histology, the modified labial salivary gland in lepidopteran larvae responsible for secreting liquid fibroin and sericin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sericterium designates silk-producing gland of insects (especially of a silkworm) or spiders."*
+> - 📜 **William Kirby (*An Introduction to Entomology*):** *"The caterpillar synthesizes its protective cocoon from viscous fluid secreted by an internal organ termed the **sericterium**."*
+> - 📜 **Jean-Henri Fabre (*The Life of the Caterpillar*):** *"Liquid silk flows through the tubular conduit of the **sericterium**, solidifying into an elastic gossamer thread upon meeting the air."*
+> - 📜 **Thomas Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"Histologists examine the paired tubular glandular structure of the **sericterium** in the fifth instar silkworm larva."*

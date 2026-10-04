@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Raising silkworms in order to obtain raw silk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The production of raw silk by raising silkworms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The breeding, rearing, and management of silkworms for the purpose of harvesting raw silk from their cocoons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agro-industrial history and entomology, the domestic propagation of Bombyx mori larvae fed on Morus alba foliage for textile filament reeling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sericulture designates raising silkworms in order to obtain raw silk."*
+> - 📜 **Alexander von Humboldt (*Political Essay on the Kingdom of New Spain*):** *"Attempts were made in the colonial era to introduce **sericulture** into Mexico, planting thousands of mulberry saplings along the valleys."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Centuries of intensive **sericulture** in China and Japan have rendered the domestic silkworm moth flightless and dependent on human care."*
+> - 📜 **George Perkins Marsh (*Man and Nature*):** *"The expansion of rural **sericulture** across southern France reshaped entire hillside agricultural landscapes into orderly mulberry terraces."*

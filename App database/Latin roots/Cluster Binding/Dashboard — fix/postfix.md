@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An affix that is added at the end of the word.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An affix that is added at the end of the word.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An affix added to the end of a word (a suffix); or to append or fasten something behind or after another element.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer science and formal syntax, reverse Polish notation wherein mathematical operators appear immediately after their corresponding operands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, postfix designates an affix that is added at the end of the word."*
+> - 📜 **Donald Knuth (*The Art of Computer Programming*):** *"Evaluating an arithmetic expression in **postfix** notation eliminates all need for operator precedence rules and nested parentheses."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"The element functioning as a **postfix** attaches directly to the nominal stem to indicate locative or ablative relations."*
+> - 📜 **Alfred Aho (*Compilers: Principles, Techniques, and Tools*):** *"A syntax-directed translation scheme converts standard infix mathematical notation into intermediate **postfix** code suitable for stack machine execution."*

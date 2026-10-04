@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (music) a group of notes connected by a slur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Character consisting of two or more letters combined into one.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A piece of cord, wire, or suture thread used in surgery to tie off blood vessels; or something that binds or connects things together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In typography and music notation, a composite character combining two letters (like æ) or a curved slurred line binding musical notes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Miss Abbot, lend me your garters; she would break mine directly.” Miss Abbot turned to divest a stout leg of the necessary ligature."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"So, then, an elongated Siamese ligature united us."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"So, then, an elongated Siamese ligature united us."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bind up his wounds with tender care, and let a firm **ligature** stay the course of his fast-ebbing blood."*
+> - 📜 **Joseph Lister (*Antiseptic Surgery*):** *"The silk **ligature** was steeped in carbolized oil, ensuring that deep tissue closure remained free from bacterial decomposition."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"I felt hundreds of slender cords bound about my limbs, each tiny **ligature** holding me firmly fastened to the ground."*

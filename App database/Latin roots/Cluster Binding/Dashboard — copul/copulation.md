@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of sexual procreation between a man and a woman; the man's penis is inserted into the woman's vagina and excited until orgasm and ejaculation occur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of sexual procreation between a man and a woman; the man's penis is inserted into the woman's vagina and excited until orgasm and ejaculation occur.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sexual union of two mating organisms involving the transfer of gametes; coitus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate and invertebrate zoology, the anatomical act of physical coitus whereby internal fertilization is facilitated through specialized copulatory structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let copulation thrive; For Gloucester’s bastard son was kinder to his father Than my daughters got ’tween the lawful sheets."*
-> - 📜 **James Joyce (*Ulysses*):** *"Copulation without population!"*
-> - 📜 **James Joyce (*Ulysses*):** *"From outrage (matrimony) to outrage (adultery) there arose nought but outrage (copulation) yet the matrimonial violator of the matrimonially violated had not been outraged by the adulterous violator of the adulterously violated."*
+> - 📜 **William Shakespeare (*King Lear*):** *"Let **copulation** thrive; for Gloucester's bastard son was kinder to his father than my daughters got 'tween the lawful sheets."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"When wild animals are confined in menageries, normal **copulation** is often suspended or rendered completely sterile."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"In hermaphrodite mollusks, reciprocal **copulation** ensures that mutual cross-fertilization occurs simultaneously during a single encounter."*

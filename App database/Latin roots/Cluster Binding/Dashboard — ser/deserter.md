@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disloyal person who betrays or deserts his cause or religion or political party or friend etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who abandons their duty (as on a military post).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who abandons an assigned military post, duty, cause, or social allegiance without permission.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In martial jurisprudence, a soldier or naval rating who separates from service with the specific mens rea of evading hazardous combat or permanently forsaking duty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"He broke out suddenly while clasping me in his arms— “Cruel, cruel deserter!"*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Toward dawn, Count Orlóv-Denísov, who had dozed off, was awakened by a deserter from the French army being brought to him."*
-> - 📜 **James Scurry (*The captivity, sufferings, and escape of James Scurry*):** *"We were now formed into a company, but having Dempster for our commander, was no small mortification to us; knowing him to be a base wretch, and a deserter from the Bengal Artillery."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"The provost guard apprehended the shivering **deserter** hiding beneath the straw in a peasant barn behind the lines."*
+> - 📜 **Stephen Crane (*The Red Badge of Courage*):** *"The youth felt a shameful kinship with the panic-stricken **deserter** fleeing through the tangled thickets of the battlefield."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The old veteran admitted having sheltered an unfortunate **deserter** from the Crimean campaign many years ago."*

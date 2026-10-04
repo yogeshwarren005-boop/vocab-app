@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of not being devout.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of not being devout.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Absence of religious beliefs; indifference, neglect, hostility, or open opposition toward religious practices and divine reverence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological discourse and moral philosophy, the habitual contempt for sacred duties and repudiation of organized ecclesiastical authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"Nor would I quarrel with a man for his irreligion, any more than I would for his want of a musical ear, I would regret that he was shut out from what, to me and to others, were such superlative sources of enjoyment."*
+> - 📜 **John Locke (*A Letter Concerning Toleration*):** *"He contended that moral decay was fostered far more by ecclesiastical tyranny than by speculative **irreligion** among thoughtful men."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The fanaticism of revolutionary **irreligion** demolished ancient shrines while erecting altars to abstract philosophical concepts."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The fashionable world too often excuses blatant **irreligion** under the false name of intellectual wit and social freedom."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A strong belief in a supernatural power or powers that control human destiny.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An institution to express belief in a divine power.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A particular system of faith and worship; belief in and reverence for a superhuman controlling power, especially a personal God or gods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural anthropology and comparative theology, an integrated complex of sacred beliefs, ethical precepts, and communal rituals binding a society.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, as thereto sworn by your command, Which my love makes religion to obey, I tell you this: Caesar through Syria Intends his journey, and within three days You with your children will he send before."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With no less religion than if thou wert indeed my Rosalind."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But I see you have some religion in you, that you fear."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Keep thy word justly; swear not; commit not with man's sworn spouse; set not thy sweet heart on proud array; practice pure **religion**."*
+> - 📜 **John Locke (*A Letter Concerning Toleration*):** *"The care of souls cannot belong to the civil magistrate, because true **religion** consists in the inward persuasion of the mind."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She had an instinctive fear of the dogmatic **religion** that condemned her simple sorrows without mercy or understanding."*

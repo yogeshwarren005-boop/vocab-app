@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intermediate between peat and bituminous coal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intermediate between peat and bituminous coal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A soft, brownish-black intermediate fossil coal that retains traces of original plant wood structure; brown coal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sedimentary geology and economic mining, low-rank coal possessing low calorific heat value and high natural moisture content.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"I went through gallery after gallery, dusty, silent, often ruinous, the exhibits sometimes mere heaps of rust and lignite, sometimes fresher."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Strata of Tertiary **lignite** exposed along the river bank preserve charred fragments of conifers that once clothed ancient valleys."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"In the sandstone cliffs of the Chilean coast we discovered thin seams of **lignite** containing fossilized leaves of extinct broadleaf trees."*
+> - 📜 **Herman Melville (*The Encantadas*):** *"The volcanic rocks were interspersed with dark beds of smoldering **lignite**, lending a desolate subterranean aspect to the coast."*

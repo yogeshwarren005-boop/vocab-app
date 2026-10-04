@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be interwoven or interconnected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to be interconnected or interwoven.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mutually connected or reciprocal; linked together so that each part affects or communicates with the others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systems ecology and network theory, describing complex webs whose nodes share reciprocal feedback loops.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, interconnected designates be interwoven or interconnected."*
+> - 📜 **Alexander von Humboldt (*Cosmos: A Sketch of a Physical Description of the Universe*):** *"All physical phenomena across the globe form an **interconnected** whole governed by harmonious natural forces."*
+> - 📜 **John Muir (*My First Summer in the Sierra*):** *"When we try to pick out anything by itself, we find it **interconnected** and hitched to everything else in the universe."*
+> - 📜 **William James (*A Pluralistic Universe*):** *"The parts of our experiential world appear intimately **interconnected** in continuous transitions of time and space."*

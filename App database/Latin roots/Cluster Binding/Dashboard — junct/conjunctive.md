@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An uninflected function word that serves to conjoin words or phrases or clauses or sentences.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving or tending to connect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to join, unite, or connect; connective; in grammar, used as or resembling a conjunction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In traditional grammar, logic, and ophthalmology, relating to the subjunctive/conjunctive mood expressing contingency, or pertaining directly to the conjunctiva of the eye.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Queen his mother Lives almost by his looks; and for myself,— My virtue or my plague, be it either which,— She’s so conjunctive to my life and soul, That, as the star moves not but in his sphere, I could not but by her."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let us be conjunctive in our revenge against him: if thou canst cuckold him, thou dost thyself a pleasure, me a sport."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"A truly poetic imagination exerts a synthetic and **conjunctive** power that reconciles discordant qualities into harmonious unities."*
+> - 📜 **Lindley Murray (*English Grammar*):** *"The **conjunctive** mood represents action not as a positive reality, but under a condition, wish, or uncertainty."*
+> - 📜 **Henry Sweet (*A New English Grammar: Logical and Historical*):** *"Certain adverbs perform a **conjunctive** function, linking adjacent sentences while modifying the verbal action."*

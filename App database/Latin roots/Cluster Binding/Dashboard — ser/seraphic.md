@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an angel of the first order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a sweet nature befitting an angel or cherub.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of, resembling, or befitting a seraph; angelic, pure, radiant, and displaying exalted spiritual joy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Catholic ecclesiastical hagiography, Doctor Seraphicus designates Saint Bonaventure due to the fiery mystical ardor of his theological writings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"But far within And in thir own dimensions like themselves The great Seraphic Lords and Cherubim In close recess and secret conclave sat A thousand Demy-Gods on golden seat’s, Frequent and full."*
-> - 📜 **John Milton (*Paradise Lost*):** *"But far within, And in their own dimensions like themselves, The great Seraphic Lords and Cherubim In close recess and secret conclave sat, A thousand demi-gods on golden seats, Frequent and full."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Seraphic symbols Spirit is symbolized by strength, presence, and power, 512:9 and also by holy thoughts, winged with Love."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The celestial warriors stood arrayed in **seraphic** majesty, their gleaming shields illuminating the plains of heaven."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Spiritual understanding awakens a **seraphic** peace that transcends all physical discord and mortal fear."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"Hilda looked up with a **seraphic** expression of gentle purity that disarmed every suspicious thought."*

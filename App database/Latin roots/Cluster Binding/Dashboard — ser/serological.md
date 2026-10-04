@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to serology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to serology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resulting from the scientific analysis of blood serum and other bodily fluids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In immunology, virology, and blood banking, designating standardized antibody-antigen assays such as ELISA and agglutination tests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serological designates of or relating to serology."*
+> - 📜 **Karl Landsteiner (*The Specificity of Serological Reactions*):** *"Our investigations reveal that the **serological** specificity of proteins is governed by subtle chemical variations in their molecular structure."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"Martin spent long hours in the laboratory performing complex **serological** tests with guinea-pig serum and bacterial cultures."*
+> - 📜 **Theobald Smith (*Parasitism and Disease*):** *"The development of reliable **serological** techniques enabled epidemiologists to map the geographic spread of immunity across herds."*

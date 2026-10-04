@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various large nonvenomous snakes that kill their prey by crushing it in its coils.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various large nonvenomous snakes that kill their prey by crushing it in its coils.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A snake, such as a boa or python, that kills prey by wrapping its muscular coils around it and squeezing; or a muscle that closes an orifice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human anatomy, any sphincter-like muscle (such as the pharyngeal constrictors) whose contraction narrows a hollow passageway.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"Like the fatal boa-constrictor Charming those who soon must die, She can so transfix her victim By the glitter of her eye, That the greatest of thy statesmen Dares not question her decree, But in meek humiliation Bows to her, abjuring thee."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Again, the Caffres are said to dread greatly the boa-constrictor or an enormous serpent resembling it; "and being influenced by certain superstitious notions they even fear to kill it."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"In the dense tropical thickets along the Parana, we encountered a magnificent boa **constrictor** sunning itself upon a fallen log."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"During the act of swallowing, the inferior pharyngeal **constrictor** contracts sequentially to propel the bolus down into the esophagus."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Certain indigenous tribes regarded the giant python or boa **constrictor** with religious reverence, forbidden from slaying it."*

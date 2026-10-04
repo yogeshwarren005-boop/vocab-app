@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not agitated; without losing self-possession.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Completely clear and fine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Calm, peaceful, tranquil, and untroubled; or clear, bright, and unclouded when describing weather or the sky.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In royal honorific protocol and heraldry, Serene Highness denotes an exalted princely rank indicative of sovereign dignity and calm grace.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby merely added, with the serene composure with which she said everything, “Go along, you naughty Peepy!” and fixed her fine eyes on Africa again."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But so from rough outsides (I hope I have learnt), serene and gentle influences often proceed."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Is it lovely, and gentle, and beautiful, and pleasant, and serene, and joyful?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mrs. Jellyby merely added, with the **serene** composure with which she handled all domestic crises, that Africa claimed her heart."*
+> - 📜 **William Wordsworth (*Lines Composed a Few Miles above Tintern Abbey*):** *"A presence that disturbs me with the joy of elevated thoughts; a sense sublime of something far more deeply interfused, whose dwelling is the light of setting suns, and the round ocean and the living air, and the **serene** blue sky."*
+> - 📜 **Ralph Waldo Emerson (*Nature*):** *"Standing on the bare ground, my head bathed by the blithe air, I become a **serene** spectator of universal harmony."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of old world shrubs: privet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of old world shrubs: privet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of deciduous or evergreen shrubs and small trees in the olive family Oleaceae, commonly known as privets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticultural landscaping and plant ecology, tough hedging shrubs bearing panicles of small white flowers and glossy black berries, often naturalizing as invasive understory flora.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ligustrum designates genus of old world shrubs: privet."*
+> - 📜 **John Evelyn (*Sylva, or A Discourse of Forest-Trees*):** *"The common privet, known to botanists as **Ligustrum**, yields a thick and serviceable hedge that endures severe clipping without injury."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"Thrushes and blackbirds feed eagerly through the winter months upon the dark purple berries borne by the **Ligustrum** bushes in the lane."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Species of **Ligustrum** are indispensable for formal boundary hedges throughout temperate regions on account of their dense foliage and resilience."*

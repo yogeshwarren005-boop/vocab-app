@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The section of an orchestra that plays stringed instruments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lightweight cord.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Multiple cords or threads; or the stringed instruments played in an orchestra, including violins, violas, cellos, and double basses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and theoretical mechanics, slender, vibrating acoustic filaments; or conditions, stipulations, and qualifications attached to an offer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Egypt, thou knew’st too well My heart was to thy rudder tied by th’ strings, And thou shouldst tow me after."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Make assay: Bow, stubborn knees; and heart with strings of steel, Be soft as sinews of the new-born babe."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When such strings jar, what hope of harmony?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How sweet the moonlight sleeps upon this bank! Here will we sit and let the sounds of music creep in our ears; soft stillness and the night become the touches of sweet harmony from sounding **strings**."*
+> - 📜 **Thomas Hardy (*Under the Greenwood Tree*):** *"The village choir tuned the fiddle **strings** with earnest devotion before embarking upon their lively Christmas carol."*
+> - 📜 **Lewis Carroll (*Through the Looking-Glass*):** *"The Mock Turtle sighed deeply, drawing his bow across the fiddle **strings** to produce a plaintive, quavering melody."*

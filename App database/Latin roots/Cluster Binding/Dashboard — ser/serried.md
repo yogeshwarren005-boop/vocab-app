@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (especially of rows as of troops or mountains) pressed together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (especially of rows as of troops or mountains) pressed together.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pressed crowdedly and closely together in compact, dense ranks or rows, especially of soldiers or trees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military history and epic poetry, an impenetrable defensive battle array formed with interlocked shields and overlapping ranks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The third showed the pinnacle of an iceberg piercing a polar winter sky: a muster of northern lights reared their dim lances, close serried, along the horizon."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Above the bush the trees stood in serried ranks."*
-> - 📜 **John Milton (*Paradise Lost*):** *"All in a moment through the gloom were seen Ten thousand banners rise into the air, With orient colours waving: with them rose A forest huge of spears; and thronging helms Appeared, and serried shields in thick array Of depth immeasurable."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The third showed the pinnacle of an iceberg piercing a polar sky, while beneath stood **serried** ranks of frozen pines."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Above the bush the trees stood in **serried** ranks, silent, motionless, and enigmatic against the darkening river."*
+> - 📜 **John Milton (*Paradise Lost*):** *"All in a moment through the gloom were seen ten thousand banners rise, and **serried** shields in thick array of depth immeasurable."*

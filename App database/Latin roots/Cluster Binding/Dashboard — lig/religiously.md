@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By religion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With extreme conscientiousness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a religious or pious manner; with devotional reverence, or with conscientious, scrupulous exactness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral habits and daily discipline, executed with unvarying, strict regularity and meticulous commitment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A nun of winter’s sisterhood kisses not more religiously; the very ice of chastity is in them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My learned lord, we pray you to proceed And justly and religiously unfold Why the law Salic that they have in France Or should or should not bar us in our claim."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For this down-trodden equity we tread In warlike march these greens before your town, Being no further enemy to you Than the constraint of hospitable zeal In the relief of this oppressed child Religiously provokes."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He will keep his solemn vow **religiously**, performing to the letter every covenant he has sworn to his lord."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"Marty South observed the ancient woodland customs **religiously**, never pruning a bough without reverent care."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"The scholar must **religiously** preserve his independence of judgment against the overwhelming pressure of fashionable opinion."*

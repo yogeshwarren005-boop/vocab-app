@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A treatise advancing a new point of view resulting from research; usually a requirement for an advanced academic degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A treatise advancing a new point of view resulting from research; usually a requirement for an advanced academic degree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substantial, formal written treatise advancing an original thesis, typically submitted in candidacy for an advanced academic doctoral degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic historiography and rhetoric, an elaborate structured exposition investigating a specialized intellectual subject with exhaustive source documentation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Part 1*):** *"To Which Is Prefix'd, a Critical Dissertation on This Species of Poetry_ (London, 1727).] As the title of this epigram also suggests, window panes were not the only surfaces considered appropriate for such writing."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"This dissertation on organic chemistry was simply intended to lead up to the question of liquid fuels, all of which are organic."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"DORLAN'S PLAN. (SEQUEL TO "UNFETTERED.") A DISSERTATION ON THE RACE PROBLEM."*
+> - 📜 **Charles Lamb (*Essays of Elia*):** *"Mankind, says a Chinese manuscript, which my friend was obliging enough to read and explain to me, for the first seventy thousand ages ate their meat raw, as narrated in his quaint **dissertation** on roast pig."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"His lengthy **dissertation** upon classical monetary systems was celebrated for its luminous style and breadth of erudition."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Casaubon labored endlessly upon his scholarly **dissertation**, striving to assemble a comprehensive key to all mythological systems."*

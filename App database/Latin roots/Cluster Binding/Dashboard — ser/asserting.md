@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: State categorically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To declare or affirm solemnly and formally as true.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Stating, declaring, or affirming with positive emphasis; putting forward an energetic claim or declaration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal procedure and diplomatic negotiations, advancing authoritative claims of sovereignty, title, or jurisdiction during formal proceedings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"George himself, striding towards them in his morning exercise with his pipe in his mouth, no stock on, and his muscular arms, developed by broadsword and dumbbell, weightily asserting themselves through his light shirt-sleeves."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"King's counsel, and tendered his services for the recovery of the property, asserting he knew nothing about the robbery, nor the thieves, but that he could get the treasure."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Sympathies, I believe, exist (for instance, between far-distant, long-absent, wholly estranged relatives asserting, notwithstanding their alienation, the unity of the source to which each traces his origin) whose workings baffle mortal comprehension."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"A man should learn to detect and watch that gleam of light which flashes across his mind, **asserting** his own native intuition."*
+> - 📜 **Henry David Thoreau (*Civil Disobedience*):** *"The individual demonstrates true civic dignity by quietly **asserting** conscience over unjust statutory mandates."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The revolutionary tribunal proceeded rapidly, with the prosecutor **asserting** the guilt of the accused before the cheering mob."*

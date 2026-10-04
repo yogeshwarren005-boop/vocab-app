@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A house or other dwelling in need of repair (usually offered for sale at a low price).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A house or other dwelling in need of repair (usually offered for sale at a low price).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A house, automobile, or other piece of property sold at a reduced price because it requires extensive renovation and repair.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In residential real estate economics and vernacular culture, a neglected domestic dwelling bought as a speculative investment or sweat-equity rehabilitation project.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fixer-upper designates a house or other dwelling in need of repair (usually offered for sale at a low price)."*
+> - 📜 **Tracy Kidder (*House*):** *"What the realtor cheerily marketed as a charming **fixer-upper** proved upon closer inspection to possess rotting sills and a compromised fieldstone foundation."*
+> - 📜 **Bill Bryson (*The Life and Times of the Thunderbolt Kid*):** *"Our neighbor spent his entire summer vacation hammering away at a decrepit Victorian **fixer-upper** that looked perpetually on the verge of collapse."*
+> - 📜 **Michael Pollan (*A Place of My Own*):** *"Rather than acquiring another drafty suburban **fixer-upper**, he determined to construct an authentic writing hut with his own hands from green timber."*

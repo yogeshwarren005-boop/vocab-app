@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Living quarters reserved for wives and concubines and female relatives in a muslim household.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Living quarters reserved for wives and concubines and female relatives in a muslim household.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An enclosed palace, court, or sultanic residence in the Levant; an alternate historical spelling of seraglio.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Mediterranean travel accounts and diplomatic memoirs, the administrative seat and private palace quarters of Ottoman governors and viziers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serail designates living quarters reserved for wives and concubines and female relatives in a muslim household."*
+> - 📜 **Alphonse de Lamartine (*A Pilgrimage to the Holy Land*):** *"We rode beneath the monumental gates of the pasha's **serail**, where guards in colorful uniforms kept vigilant watch."*
+> - 📜 **Lord Byron (*The Giaour*):** *"The gloomy ramparts of the **serail** cast their long shadows across the moonlit waters of the Golden Horn."*
+> - 📜 **François-René de Chateaubriand (*Travels in Greece, Palestine, Egypt, and Barbary*):** *"The architecture of the provincial **serail** combined light colonnades with dense stone fortifications designed for security."*

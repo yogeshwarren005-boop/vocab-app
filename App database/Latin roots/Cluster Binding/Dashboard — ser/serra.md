@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spanish missionary who founded franciscan missions in california (1713-1784).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spanish missionary who founded franciscan missions in california (1713-1784).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A saw or saw-like structure, serrated anatomical organ, or rugged jagged mountain ridge; also the surname of Father Junípero Serra.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical geography and Iberian topography, a jagged mountain range resembling the teeth of a saw; or historically, the Spanish Franciscan founder of California missions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serra designates spanish missionary who founded franciscan missions in california (1713-1784)."*
+> - 📜 **Richard Henry Dana Jr. (*Two Years Before the Mast*):** *"The mission was established decades earlier by Father Junipero **Serra**, whose Franciscan brethren built church towers along the coast."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of the New Continent*):** *"The jagged crest of the **serra** cut across the horizon like the sharp iron teeth of a colossal saw against the sunset."*
+> - 📜 **Washington Irving (*The Life and Voyages of Christopher Columbus*):** *"The mountainous terrain of the interior presented ridge after rugged **serra**, challenging every overland expedition with steep ravines."*

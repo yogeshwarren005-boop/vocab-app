@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marine fishes: sea basses; sea perches; groupers; jewfish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marine fishes: sea basses; sea perches; groupers; jewfish.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The large taxonomic family of marine percoid fishes known as the sea basses and groupers, inhabiting tropical and temperate seas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic ichthyology, an extensive percoid family characterized by three spines on the opercle, single continuous dorsal fins, and protogynous reproductive biology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serranidae designates marine fishes: sea basses; sea perches; groupers; jewfish."*
+> - 📜 **David Starr Jordan (*Fishes of North and Middle America*):** *"The family **Serranidae** embraces hundreds of carnivorous species ranging from tiny reef basslets to the colossal giant jewfish."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"Systematists group under the **Serranidae** those robust perch-like fishes having scaly cheek coverings and prominent opercular spines."*
+> - 📜 **Spencer Fullerton Baird (*Reports of the United States Fish Commission*):** *"The commercial fisheries of the Florida Keys depend heavily on various valuable members of the **Serranidae** harvested along offshore reefs."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of being ineligible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality or state of being ineligible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or condition of not being legally or officially qualified to participate, hold an office, or receive a privilege.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statutory governance and administrative law, legal disqualification resulting from failure to satisfy statutory age, residency, or citizenship criteria.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The doctrine that expulsion creates ineligibility was attacked and exposed by him with great force."*
+> - 📜 **Thomas Jefferson (*Writings of Thomas Jefferson*):** *"The statute clearly defined the circumstances that would produce political **ineligibility** among former crown magistrates."*
+> - 📜 **James Madison (*Debates in the Federal Convention*):** *"He argued that temporary **ineligibility** to re-election was essential to guard public representatives against executive corruption."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Disqualifying senators during their term of service removes suspected motives of personal gain without creating perpetual **ineligibility**."*

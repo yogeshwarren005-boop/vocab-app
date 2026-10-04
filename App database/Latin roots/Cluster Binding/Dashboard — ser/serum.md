@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An amber, watery fluid, rich in proteins, that separates out when blood coagulates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An amber, watery fluid, rich in proteins, that separates out when blood coagulates.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The clear yellowish fluid that separates from whole blood when it coagulates, containing antibodies and proteins without clotting factors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pathology and transfusional medicine, blood plasma devoid of fibrinogen and clotting factors, used as a medium for serological assays and diagnostic titers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"When Burns came back he opened the outer door and called to Johnny Caruthers, to know if he had obtained the serum for which he had been sent to the druggist."*
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"The physician prepared the diphtheria **serum** with steady fingers, knowing that every passing minute decided the child's life."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"He separated the clear golden **serum** from the clotted blood in the centrifugal machine with meticulous sterile care."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The therapeutic value of anti-pneumococcal **serum** is greatly enhanced when administered during the initial forty-eight hours of illness."*

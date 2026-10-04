@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to sericulture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to sericulture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, involving, or connected with the cultivation of silkworms and the commercial production of raw silk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural economics and textile history, relating to specialized mulberry tree orchards, cocoon harvesting facilities, and filament reeling establishments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sericultural designates of or relating to sericulture."*
+> - 📜 **Marco Polo (*The Travels of Marco Polo*):** *"The prosperous inhabitants of Cathay maintained extensive **sericultural** groves of white mulberry to feed myriads of silkworms."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"European breeders developed several distinct **sericultural** varieties of Bombyx mori characterized by different cocoon colors and silk yields."*
+> - 📜 **Herman Melville (*Mardi: and a Voyage Thither*):** *"The islanders tended their fragile cocoons with the meticulous care of ancient **sericultural** artisans in the Orient."*

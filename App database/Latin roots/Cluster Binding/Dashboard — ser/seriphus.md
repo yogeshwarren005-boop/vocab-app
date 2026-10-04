@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of sciaenidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of sciaenidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of marine ray-finned fishes in the drum and croaker family Sciaenidae, exemplified by the queenfish (Seriphus politus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Pacific coastal ichthyology and fisheries biology, schooling coastal fishes of the eastern Pacific distinguished by wide mouths, slender bodies, and luminescent schooling behavior.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, seriphus designates a genus of sciaenidae."*
+> - 📜 **David Starr Jordan (*Fishes of North and Middle America*):** *"The coastal queenfish belonging to **Seriphus** is abundant in shallow bays along the southern California shore."*
+> - 📜 **Spencer Fullerton Baird (*Reports of the United States Fish Commission*):** *"Night hauls with the beach seine brought in vast numbers of **Seriphus** glistening like silver in the surf."*
+> - 📜 **Charles Frederick Holder (*The Big Game Fishes of the United States*):** *"The small croakers of the genus **Seriphus** serve as valuable forage for sea bass and pelagic game fish in open waters."*

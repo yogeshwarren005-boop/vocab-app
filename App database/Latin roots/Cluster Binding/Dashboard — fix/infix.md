@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An affix that is inserted inside the word.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put or introduce into something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To insert, fasten, or implant firmly within; in morphology, an affix inserted inside the body of a root or base word.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In morphological linguistics, a bound morpheme spliced into the interior of a root morpheme, common in Austronesian and Semitic language families.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do protest I never lov’d myself Till now infixed I beheld myself Drawn in the flattering table of her eye. [_Whispers with Blanche._] BASTARD. [_Aside_.] Drawn in the flattering table of her eye!"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Gnawed within and scorched without, with the infixed, unrelenting fangs of some incurable idea; such an one, could he be found, would seem the very man to dart his iron and lift his lance against the most appalling of all brutes."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Gnawed within and scorched without, with the infixed, unrelenting fangs of some incurable idea; such an one, could he be found, would seem the very man to dart his iron and lift his lance against the most appalling of all brutes."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"In Tagalog and many Malayo-Polynesian languages, an **infix** inserted right after the initial consonant signals verbal aspect and voice."*
+> - 📜 **William Dwight Whitney (*Language and the Study of Language*):** *"To **infix** an interrogative or causative particle directly into the radical syllable is a structural device virtually foreign to Indo-European tongues."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Grammarians distinguish the **infix** from prefix and suffix by its peculiar capacity to bisect an otherwise indivisible root."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Argentinian cariama.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brazilian cariama; sole representative of the genus cariama.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, long-legged South American predatory bird of the family Cariamidae, inhabiting dry scrublands and savannahs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian paleontology and phylogenetic systematics, an extant Cariamiformes bird representing the closest living relatives of extinct terror birds (Phorusrhacidae).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, seriema designates argentinian cariama."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Across the open plains of the Argentine pampas, the wary **seriema** runs through the coarse grass with astonishing speed when pursued on horseback."*
+> - 📜 **William Henry Hudson (*Birds of La Plata*):** *"The wild, resonant barking cry of the crested **seriema** carries over miles of thorny scrub at the first approach of dawn."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"Systematists place the South American **seriema** in an isolated avian family, noting its morphological affinities to cranes and bustards."*

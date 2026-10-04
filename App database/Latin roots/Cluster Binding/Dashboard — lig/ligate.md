@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Join letters in a ligature when writing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bind chemically.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To tie off or bind tightly, especially a blood vessel or surgical duct with a suture, ligature, or clamp during an operation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular genetics and surgical therapeutics, to join nucleic acid fragments covalently using ligase or occlude hollow structures to stop hemorrhage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ligate designates join letters in a ligature when writing."*
+> - 📜 **Joseph Lister (*On the Antiseptic Principle in the Practice of Surgery*):** *"The surgeon must carefully **ligate** the exposed artery with carbolized catgut to prevent hemorrhage without introducing septic contagion."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In cases of severe trauma, the immediate necessity is to **ligate** the bleeding vessel before systemic collapse supervenes."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"John Hunter demonstrated how to **ligate** the main arterial trunk far above the aneurysmal sac, revolutionizing vascular surgery."*

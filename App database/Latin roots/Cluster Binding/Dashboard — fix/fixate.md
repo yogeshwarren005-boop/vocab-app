@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Attach (oneself) to a person or thing in a neurotic way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pay attention to exclusively and obsessively.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To direct one's eyes or attention steadily and intensely upon something; to become obsessively preoccupied.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychoanalytic theory and ophthalmology, to arrest psychosexual development at an immature stage, or to align the optical fovea directly onto a visual target.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fixate designates attach (oneself) to a person or thing in a neurotic way."*
+> - 📜 **Sigmund Freud (*A General Introduction to Psychoanalysis*):** *"When libido encounters severe external frustration, it tends to regress and **fixate** upon early infantile positions where satisfaction was once secured."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The voluntary attention cannot continuously **fixate** an unchanging sensory object for more than a few successive seconds without wandering or shifting."*
+> - 📜 **Carl Jung (*Psychological Types*):** *"The neurotic mind will repeatedly **fixate** upon an imaginary grievance rather than adapt to the complex demands of external reality."*

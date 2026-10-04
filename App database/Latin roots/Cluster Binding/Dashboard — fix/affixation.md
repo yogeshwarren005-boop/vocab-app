@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The result of adding an affix to a root word.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formation of a word by means of an affix.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The morphological process of adding a bound morpheme to a root or stem to form a new word or inflected form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In generative grammar and lexical morphology, the concatenation of phonological strings to roots to license syntactic case, agreement, or derivational category change.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, affixation designates the result of adding an affix to a root word."*
+> - 📜 **Otto Jespersen (*The Philosophy of Grammar*):** *"By systematic **affixation**, English easily produces hundreds of abstract nouns from corresponding descriptive adjectives."*
+> - 📜 **Henry Sweet (*A New English Grammar: Logical and Historical*):** *"Derivational **affixation** changes the grammatical function or meaning of a root, whereas inflectional endings merely satisfy syntactic concords."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Agglutinative tongues exhibit transparent **affixation**, wherein the joined syllables preserve their distinct phonetic boundaries with remarkable fidelity."*

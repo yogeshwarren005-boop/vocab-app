@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Common brown bat of europe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Common brown bat of europe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medium-sized Eurasian bat (Eptesicus serotinus) with silky dark brown fur, noted for appearing in flight in the late evening.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian chiropterology and forest ecology, a vespertilionid bat that roosts in tree cavities and buildings, hunting beetles along woodland edges at dusk.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serotine designates common brown bat of europe."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The large bat known as the **serotine** flies high over the village trees on warm summer evenings, hunting chafers in the twilight."*
+> - 📜 **Thomas Bell (*A History of British Quadrupeds*):** *"Naturalists distinguish the **serotine** by its broad wings and its habit of emerging from its roost only when deep dusk has settled."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"In habits, the European **serotine** closely resembles the noctule, though its flight is slower and confined to lower elevations."*

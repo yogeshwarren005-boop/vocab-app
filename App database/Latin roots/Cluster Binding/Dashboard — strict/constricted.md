@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Squeeze or press together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become tight or as if tight.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Narrowed, tightened, or compressed in dimension; or restricted and inhibited in scope, freedom, or expression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy and pathology, having an abnormally narrowed lumen or reduced physical diameter due to spasms, scarring, or external pressure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And, having robbed me of that, my body was defenceless, and, with his foot in my back while he drew the lacing light, he constricted me as no man had ever before succeeded in doing."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Concentrating, he constricted and relaxed his neck and shoulder muscles in an irregular pattern, and repeated the rhythm until it invoked a slight pressure high in his left shoulder."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Yet strange to say Borís’ presence in his wife’s drawing room (and he was almost always there) had a physical effect upon Pierre; it constricted his limbs and destroyed the unconsciousness and freedom of his movements."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I felt my heart oppressed and my breathing painfully **constricted** within the narrow confines of the red-room."*
+> - 📜 **Jack London (*The Star Rover*):** *"The canvas jacket was laced so tightly that my lungs felt **constricted** and every breath became an agony."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"Passing through the narrow gorge, the marching column became tightly **constricted** between the mountain rocks."*

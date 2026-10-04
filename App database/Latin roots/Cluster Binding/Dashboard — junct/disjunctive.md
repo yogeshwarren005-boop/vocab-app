@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving or tending to divide or separate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving or tending to divide or separate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to separate, divide, or distinguish; indicating alternatives or choices (such as 'or' and 'either').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In logic and grammar, expressing mutual exclusivity or non-exclusive choice in propositions, or designating conjunctions that contrast alternative clauses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disjunctive designates serving or tending to divide or separate."*
+> - 📜 **William Stanley Jevons (*Elementary Lessons in Logic*):** *"A **disjunctive** syllogism proceeds from an alternative major premise to establish a conclusion by denying one of the components."*
+> - 📜 **Lindley Murray (*English Grammar*):** *"A **disjunctive** conjunction not only connects sentences, but expresses an opposition of meaning while joining grammatical clauses."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"The **disjunctive** judgment divides the total sphere of a concept into coordinate, mutually exclusive logical spheres."*

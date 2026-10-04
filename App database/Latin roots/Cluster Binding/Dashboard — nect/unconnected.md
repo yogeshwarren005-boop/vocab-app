@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not joined or linked together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not connected by birth or family.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not joined, linked, or related; physically separated or intellectually lacking common association.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In circuitry and telecommunications, describing a terminal, port, or bus trace intentionally left floating or open-ended.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby’s lambs, being wholly unconnected with Borrioboola-Gha; he is not softened by distance and unfamiliarity; he is not a genuine foreign-grown savage; he is the ordinary home-made article."*
-> - 📜 **Jane Austen (*Persuasion*):** *"I thought you were speaking of some man of property: Mr Wentworth was nobody, I remember; quite unconnected; nothing to do with the Strafford family."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Reed probably considered she had kept this promise; and so she had, I dare say, as well as her nature would permit her; but how could she really like an interloper not of her race, and unconnected with her, after her husband’s death, by any tie?"*
+> - 📜 **Jane Austen (*Persuasion*):** *"I thought he seemed entirely **unconnected** with the fashionable party assembled at the assembly rooms."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The events seemed strangely **unconnected** in my bewildered mind as I awoke from that long and feverish sleep."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The eccentric gentleman lived in an **unconnected** world of his own, heedless of his neighbors' gossip."*

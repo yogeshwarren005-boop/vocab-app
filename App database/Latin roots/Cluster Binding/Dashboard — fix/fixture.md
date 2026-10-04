@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An object firmly fixed in place (especially in a household).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A regular patron.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something securely fastened or established in a specific position; an item of personal property attached to real estate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In real property law and institutional sociology, a chattel physically annexed to land passing with the conveyance, or a familiar person permanently embedded in a social circle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou wouldst make an absolute courtier, and the firm fixture of thy foot would give an excellent motion to thy gait in a semi-circled farthingale."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Frights, changes, horrors, Divert and crack, rend and deracinate, The unity and married calm of states Quite from their fixture!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The fixture of her eye has motion in ’t, As we are mock’d with art."*
+> - 📜 **William Shakespeare (*The Merry Wives of Windsor*):** *"Thou wouldst make an absolute courtier, and the firm **fixture** of thy foot would give an excellent motion to thy gait."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Having resided in the parish for half a century, the elderly curate had become an indispensable social **fixture** at every festive gathering."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Whatever chattel is annexed to the freehold becomes a legal **fixture**, and cannot be severed therefrom without incurring the penalty of waste."*

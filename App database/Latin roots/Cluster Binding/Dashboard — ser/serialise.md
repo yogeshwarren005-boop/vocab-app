@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arrange serially.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arrange serially.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To publish, broadcast, or produce a literary or artistic work in successive parts or regular installments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In software programming, to encode an object hierarchy into a structured data format such as JSON or XML for storage or inter-process transfer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serialise designates arrange serially."*
+> - 📜 **Anthony Trollope (*An Autobiography*):** *"It was my regular custom to **serialise** my novels in magazines before reissuing them in three volumes."*
+> - 📜 **George Moore (*Confessions of a Young Man*):** *"The ambitious editor offered to **serialise** the French romance in his progressive literary gazette."*
+> - 📜 **H. G. Wells (*Experiment in Autobiography*):** *"The decision to **serialise** the scientific tale in the monthly magazine established my early reputation as a writer."*

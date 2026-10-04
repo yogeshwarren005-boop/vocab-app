@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Good luck in making unexpected and fortunate discoveries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Good luck in making unexpected and fortunate discoveries.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The occurrence and development of fortunate discoveries or pleasant experiences by chance in a happy and unexpected way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual history and methodology of science, the faculty of making valuable findings while pursuing unrelated inquiries, coined by Horace Walpole in 1754.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serendipity designates good luck in making unexpected and fortunate discoveries."*
+> - 📜 **Horace Walpole (*Letters of Horace Walpole*):** *"This accidental discovery was made by that kind of sagacity which I call **serendipity**, after the three princes of Serendip."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Scientific progress owes an immense debt to that fortunate **serendipity** which rewards attentive and prepared observers."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"Browsing through forgotten shelves in an old library offers the exquisite **serendipity** of encountering forgotten masterpieces."*

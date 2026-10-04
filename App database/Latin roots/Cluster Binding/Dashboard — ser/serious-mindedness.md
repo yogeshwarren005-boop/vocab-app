@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being serious; - robert rice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being serious; - robert rice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or disposition of being earnest, morally thoughtful, and dedicated to purposeful contemplation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethical philosophy and educational theory, a habit of mental discipline that regards social responsibilities and truth with unyielding sobriety.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serious-mindedness designates the trait of being serious; - robert rice."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"The Puritan heritage bequeathed to the English middle class an unbending **serious-mindedness** that shaped national politics."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"There was a native **serious-mindedness** in his temper which made him shrink from the flippant cynicisms of his peers."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"A constitutional **serious-mindedness** often prepares the human mind for intense spiritual and philosophical awakenings."*

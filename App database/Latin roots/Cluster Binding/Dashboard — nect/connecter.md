@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrumentality that connects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrumentality that connects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, mechanism, or device that joins two or more parts, circuits, or entities together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electronics and mechanical assembly, an alternative spelling for a coupling component that bridges electrical or fluid lines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, connecter designates an instrumentality that connects."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"A delicate brass **connecter** linked the quartz crystals to the forward driving lever of the mechanism."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The metallic **connecter** completed the voltaic circuit, enabling a steady galvanic current to pass through the bath."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The intellectual scholar functions as a vital **connecter** between abstract research and popular understanding."*

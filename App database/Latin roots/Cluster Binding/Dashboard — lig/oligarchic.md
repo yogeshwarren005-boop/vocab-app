@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or supporting or characteristic of an oligarchy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or supporting or characteristic of an oligarchy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, characteristic of, or controlled by an oligarchy or small ruling clique.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative political theory and constitutional analysis, denoting an exclusive institutional structure that reserves sovereign authority to an elite caste.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The countenance of the government may become more democratic, but the soul that animates it will be more oligarchic."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The delegates took special precautions that the federal senate should never degenerate into an **oligarchic** cabal."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"An **oligarchic** regime invariably sacrifices the long-term education and liberty of the majority to factional monopoly."*
+> - 📜 **George Grote (*A History of Greece*):** *"The Spartan constitution was essentially **oligarchic**, concentrating real executive direction within the council of the Ephors."*

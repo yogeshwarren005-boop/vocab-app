@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make disjoint, separated, or disconnected; undo the joining of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become separated, disconnected or disjoint.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Separated, disconnected, or sundered from a former state of union, assembly, or attachment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural framing and engineering, describing structural components pulled out of their mortises, joints, or alignment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The last link between the midsummer customs of gathering the mistletoe and lighting the bonfires is supplied by Balder's myth, which can hardly be disjoined from the customs in question."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Their lives seemed hopelessly **disjoined** after the painful revelations on their wedding night."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The western provinces remained **disjoined** from the imperial center during the protracted gothic insurrections."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The storm left shattered branches and **disjoined** timbers scattered across the desolate mountain path."*

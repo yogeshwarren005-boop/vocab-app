@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrumentality that connects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrumentality that connects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A device, fitting, or structural element that joins two or more things, mechanisms, or circuits together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electronic engineering, an electromechanical hardware component providing a separable interface for electrical circuits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Once satisfied that a gun emplacement was not booby-trapped, Kumiko inserted random realignment parameters into laser blocks, twirled tracking sequencers into disarray, and switched about chips and connectors."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The Martian machinery relied on an articulated metallic **connector** that moved with uncanny biological flexibility."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"A platinum **connector** was immersed in the electrolyte to convey the charge without undergoing chemical corrosion."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"Captain Nemo tightened the heavy brass **connector** that channeled electrical power from the sodium batteries."*

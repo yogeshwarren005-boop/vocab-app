@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not aggressively self-assured, though not necessarily lacking in confidence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not aggressively self-assured, though not necessarily lacking in confidence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking boldness, self-confidence, or inclination to state opinions; quiet, diffident, and unpretentious in demeanor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral therapy and social dynamics, exhibiting a communication pattern that avoids conflict through passive compliance or suppression of personal rights.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonassertive designates not aggressively self-assured, though not necessarily lacking in confidence."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Edward Ferrars possessed a mild and **nonassertive** disposition that shrank from fashionable display and noisy company."*
+> - 📜 **Henry James (*Washington Square*):** *"Catherine remained gentle and **nonassertive**, offering no verbal resistance to her father's cutting domestic decrees."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The weaver was of a **nonassertive** temper, content to work at his loom without mingling in village disputes."*

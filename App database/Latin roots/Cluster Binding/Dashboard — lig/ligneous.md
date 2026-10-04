@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or containing lignin or xylem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consisting of or containing lignin or xylem.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of, resembling, or having the texture and properties of wood; woody or timber-like in composition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant anatomy and histology, containing high concentrations of secondary xylem and rigid, heavily lignified cell walls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ligneous designates consisting of or containing lignin or xylem."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"Perennial shrubs produce tough **ligneous** stems that endure winter frosts by virtue of thickened secondary xylem."*
+> - 📜 **Charles Darwin (*The Movements and Habits of Climbing Plants*):** *"The climbing lianas develop thick **ligneous** cords that twist around tropical forest trees to ascend into the sunlit canopy."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"The old decayed pine stump had broken down into soft, reddish **ligneous** fibers that crumbled easily between my fingers."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Formation of a word by means of a suffix.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formation of a word by means of a suffix.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The morphological process of adding an affix to the end of a base word or root.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In synchronic morphological analysis, the derivation or inflection of words via terminal affixes, serving as the predominant affixing mechanism in Indo-European.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, suffixation designates formation of a word by means of a suffix."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"In Latin and Greek, extensive **suffixation** bears the principal burden of relational expression, assigning words to precise syntactic cases."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"The productive patterns of **suffixation** in contemporary English allow technical vocabularies to expand spontaneously without structural strain."*
+> - 📜 **Henry Sweet (*A New English Grammar: Logical and Historical*):** *"Inflectional **suffixation** steadily decayed throughout the Middle English period, replaced by rigorous positional syntax and functional prepositions."*

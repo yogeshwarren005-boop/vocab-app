@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being serrated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A row of notches.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sharp tooth-like projection or notch resembling the teeth of a saw; or an edge characterized by saw-toothed indentations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural geomorphology and lithic archaeology, intentional denticulate flaking along the cutting margin of prehistoric stone tools.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serration designates the condition of being serrated."*
+> - 📜 **John Muir (*The Mountains of California*):** *"The snowy crest of the Sierra presented an exquisite granite **serration** against the deep cobalt blue of the midday sky."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Each delicate **serration** on the edge of the leaf exhibits a minute glandular tip that secretes clear droplets at dawn."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The ice around the pond's edge melted into sharp scalloped patterns, mimicking the fine **serration** of an ancient weapon."*

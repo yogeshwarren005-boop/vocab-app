@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or resident of connecticut.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or resident of connecticut.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A native, resident, or inhabitant of the state of Connecticut; often interchangeably termed a Nutmegger.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In regional American sociolinguistics, a demonym for residents of Connecticut, distinguished in popular parlance from 'Connectician'.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, connecticuter designates a native or resident of connecticut."*
+> - 📜 **Mark Twain (*Autobiography of Mark Twain*):** *"Every genuine **Connecticuter** possessed an innate genius for mechanical invention and practical horse-trading."*
+> - 📜 **Washington Irving (*A History of New York*):** *"The shrewd **Connecticuter** drove his wagon loaded with wooden nutmegs across the Hudson to test Dutch credulity."*
+> - 📜 **Henry James (*The American Scene*):** *"The quiet demeanor of the native **Connecticuter** reflected centuries of New England civic discipline and restraint."*

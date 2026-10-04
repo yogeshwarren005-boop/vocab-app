@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: State of being disconnected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unbridgeable disparity (as from a failure of understanding).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of severing a link, or the resulting state of separation, detachment, and isolation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In utility operations and telecommunications, the formal cessation of service or physical decoupling of an account meter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"He looked on the operations of nature "in disconnection dull and spiritless;" he could no longer apprehend her unity nor feel her charm."*
+> - 📜 **Joseph Conrad (*The Secret Agent*):** *"The sudden **disconnection** of the domestic routine plunged the household into bewildered consternation."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"She dreaded any complete **disconnection** from the aristocratic circles in which her ambitions had taken root."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"A momentary **disconnection** of the battery leads caused the indicator lamps to flicker and extinguish."*

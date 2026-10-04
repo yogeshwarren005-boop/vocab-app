@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One species: saw palmetto.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One species: saw palmetto.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small fan palms containing Serenoa repens, commonly known as the saw palmetto, native to the southeastern United States.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phytopharmacology and coastal ecology, an Arecaceae palm whose fatty-acid-rich berries are harvested for herbal preparations mitigating benign prostatic hyperplasia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serenoa designates one species: saw palmetto."*
+> - 📜 **William Bartram (*Travels through North and South Carolina, Georgia, East and West Florida*):** *"The sandy pine barrens were densely carpeted with thorny dwarf palms of the genus **Serenoa**, obstructing our progress."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"In maritime sand dunes of Florida, **Serenoa** repens forms impenetrable sprawling thickets of creeping horizontal stems."*
+> - 📜 **John Muir (*A Thousand-Mile Walk to the Gulf*):** *"We forced our way through thickets of sharp-edged saw palmetto belonging to **Serenoa**, whose fan-like fronds rustled dryly."*

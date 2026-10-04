@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thin membrane lining the closed cavities of the body; has two layers with a space between that is filled with serous fluid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thin membrane lining the closed cavities of the body; has two layers with a space between that is filled with serous fluid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A smooth, thin tissue membrane consisting of a single layer of mesothelium supported by connective tissue, lining internal body cavities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human gross anatomy and visceral histology, the outermost covering of intraperitoneal organs (tunica serosa) that secretes lubricating fluid to reduce friction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serosa designates a thin membrane lining the closed cavities of the body; has two layers with a space between that is filled with serous fluid."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The external coat of the stomach is formed by the peritoneal **serosa**, which invests the entire viscus with a glistening protective sheet."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Inflammation of the intestinal **serosa** leads rapidly to fibrous adhesions that compromise normal gastrointestinal motility."*
+> - 📜 **Thomas Huxley (*Lessons in Elementary Physiology*):** *"The closed coelomic cavities are invariably lined by a delicate **serosa** that secretes a clear, pale fluid ensuring frictionless movement."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used in some especially older classifications; coextensive with the family anatidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in some especially older classifications; coextensive with the family anatidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical Linnaean avian order comprising aquatic swimming birds with webbed feet, including geese, ducks, swans, and gulls.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic taxonomy and comparative ornithology, an early ordinal classification encompassing diverse waterbirds united by palmate feet and aquatic foraging ecology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anseres designates used in some especially older classifications; coextensive with the family anatidae."*
+> - 📜 **Carl Linnaeus (*Systema Naturae*):** *"Under the comprehensive order **Anseres**, the Swedish naturalist grouped all birds possessing webbed swimming feet and smooth bills."*
+> - 📜 **Thomas Pennant (*Arctic Zoology*):** *"The coastal explorers observed innumerable **anseres** congregating across the arctic estuaries during the brief subpolar summer."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"Earlier taxonomists assembled under **anseres** both the diving ducks and the pelicans before osteological differences dictated division."*

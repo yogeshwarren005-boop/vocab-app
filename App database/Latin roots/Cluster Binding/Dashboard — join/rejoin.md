@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Join again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Answer back.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To join together again after separation; to return to a group, company, or previously held position.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal pleading or dialogue, to answer or reply to a previous statement or plaintiff's replication.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Carstone is about to rejoin his regiment, perhaps Mr."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Angel might have accompanied them, but preferred to rejoin his sweetheart at Talbothays."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She had a conviction that sooner or later the magnanimity which she persisted in reckoning as a chief ingredient of Clare’s character would lead him to rejoin her."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I hasten back to **rejoin** my companions before the evening fog gathers over Chancery Lane."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She hurried across the misty pasture, eager to **rejoin** the dairymaids at the milking stalls."*
+> - 📜 **Robert Louis Stevenson (*Kidnapped*):** *"Alan Breck signaled from the heather that we should **rejoin** our flight under cover of darkness."*

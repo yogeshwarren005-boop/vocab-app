@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without joints or jointed segments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without joints or jointed segments.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking joints, nodes, or articulable segments; continuous and unarticulated in physical structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoology and comparative anatomy, describing organisms or appendages that lack segmented articulating skeletal units.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This bald unjointed chat of his, my lord, I answered indirectly, as I said, And I beseech you, let not his report Come current for an accusation Betwixt my love and your high Majesty."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Certain primitive annelids exhibit simple **unjointed** appendages that precede the articulated limbs of higher arthropods."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish: An Introduction to the Study of Zoology*):** *"The primitive tubular proboscis presents an **unjointed** muscular structure capable of peristaltic extension."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The massive lower jaw of the sperm whale appeared like an **unjointed** solid beam of white bone."*

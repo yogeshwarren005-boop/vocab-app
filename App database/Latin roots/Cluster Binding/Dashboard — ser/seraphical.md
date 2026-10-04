@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an angel of the first order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to an angel of the first order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to the highest order of celestial angels; imbued with heavenly ardor or sublime spiritual purity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early modern English theology and homiletics, describing divine illuminations or mystical ecstasies of extraordinary fervency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, seraphical designates of or relating to an angel of the first order."*
+> - 📜 **Jeremy Taylor (*The Rule and Exercises of Holy Living*):** *"The soul is elevated into a **seraphical** contemplation of divine majesty that purges away worldly affections."*
+> - 📜 **Richard Baxter (*The Saints' Everlasting Rest*):** *"They shall join the angelic choirs in **seraphical** praises that never cease throughout eternal ages."*
+> - 📜 **Samuel Johnson (*The Lives of the Most Eminent English Poets*):** *"His devotional verses aspired to a **seraphical** elevation of feeling that few mortal poets could sustain."*

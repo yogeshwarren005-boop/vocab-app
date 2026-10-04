@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make contact or come together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take in marriage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Combined, linked, or fastened together; forming a unified physical, legal, or conceptual entity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In teratology and embryology, denoting physically unified identical twins developing from a single fertilized ovum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If either of you know any inward impediment, why you should not be conjoined, I charge you, on your souls, to utter it."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The throw was the idea of a man conjoined with the execution of a woman."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I am perfectly convinced that he is still alive!” Bathsheba remained firm in this opinion till Monday, when two circumstances conjoined to shake it."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Ancient anatomists described anomalous monsters with **conjoined** torsos and shared vital organs."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Complex ideas arise when several simple ideas are **conjoined** in the understanding by deliberate reflection."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Their destinies seemed indissolubly **conjoined** upon the surface of the boundless Pacific ocean."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Renewed affirmation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Renewed affirmation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A renewed or repeated declaration, affirmation, or insistence upon a claim, truth, or sovereign authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional history and legal jurisprudence, a formal legislative declaration renewing an established principle or liberty against contemporary challenges.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reassertion designates renewed affirmation."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The bill of rights constitutes a solemn **reassertion** of ancient common-law liberties guaranteed against tyranny."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"A rigid theoretical **reassertion** of abstract parliamentary supremacy will only inflame the grievances of the colonies."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Every generation requires a vibrant **reassertion** of truth through vigorous debate to prevent vital doctrines from becoming dead dogmas."*

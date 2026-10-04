@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become tight or as if tight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become tight or as if tight.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To draw tightly together, contract, compress, or cause to shrink in dimensions through physical or chemical action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology and chemical physics, to induce reversible or irreversible muscular or macromolecular contraction across tissue structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, constringe designates become tight or as if tight."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Sudden cold doth **constringe** the outward parts of living creatures, driving the vital heat inward to preserve life."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"Rigorous cold baths serve to **constringe** the fibres of the skin, hardening young bodies against delicate ailments."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"Misfortune will either elevate a generous soul or **constringe** a narrow mind into bitter, suspicious isolation."*

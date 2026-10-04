@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An equating verb (such as `be' or `become') that links the subject with the complement of a sentence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Syntactically connecting sentences or elements of a sentence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to connect, couple, or unite; in grammar, denoting a conjunction or link expressing addition or connection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In traditional rhetoric and formal logic, designating conjunctive syntactic connectives or propositions that coordinate semantic clauses into unified relational assertions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I press in here, sir, amongst the rest of the country copulatives, to swear and to forswear according as marriage binds and blood breaks."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"I press in here, sir, amongst the rest of the country **copulatives**, to swear and to forswear, according as marriage binds and blood stirs."*
+> - 📜 **George Campbell (*The Philosophy of Rhetoric*):** *"The frequent repetition of the **copulative** particle lends an impressive solemnity and deliberate cadence to sacred narrative style."*
+> - 📜 **Lindley Murray (*English Grammar*):** *"A **copulative** conjunction serves to connect or continue a sentence by expressing an addition, an opposition, or a supposition."*

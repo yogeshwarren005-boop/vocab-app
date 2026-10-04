@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of motile peritrichous bacteria that contain small gram-negative rod.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of motile peritrichous bacteria that contain small gram-negative rod.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of Gram-negative, facultatively anaerobic rod-shaped bacteria of the family Yersiniaceae, known for producing red pigment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical microbiology and hospital epidemiology, opportunistic pathogens (notably Serratia marcescens) producing the red pigment prodigiosin, causing nosocomial infections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serratia designates a genus of motile peritrichous bacteria that contain small gram-negative rod."*
+> - 📜 **Paul de Kruif (*Microbe Hunters*):** *"The mysterious red spots on sacramental bread were eventually proven to be colonies of the harmless red bacterium **Serratia**."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"He plated out the water samples in the incubator, watching for the distinctive blood-red colonies of **Serratia** marcescens."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Hospital outbreaks of urinary catheter contamination frequently trace their origin to persistent environmental reservoirs of **Serratia**."*

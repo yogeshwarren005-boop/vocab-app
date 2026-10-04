@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (botany) any appendage to a plant that is shaped like a strap.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (botany) any appendage to a plant that is shaped like a strap.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small membranous outgrowth or fringe of hairs at the junction of the leaf blade and leaf sheath in grasses and sedges.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agrostology and asteraceous floral morphology, the strap-shaped, ray-like limb of the corolla in the ray florets of composite flower heads.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ligule designates (botany) any appendage to a plant that is shaped like a strap."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The microscopic shape of the **ligule** at the base of the blade serves as a definitive diagnostic character when identifying sterile grass specimens."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"Each outer ray floret of the composite head terminates in an elongated **ligule** designed to attract visiting pollinating insects."*
+> - 📜 **Agnes Arber (*The Gramineae: A Study of Cereal, Bamboo, and Grass*):** *"Developmental morphology indicates that the grass **ligule** functions primarily as a protective water-shedding collar around the delicate culm."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not accommodating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not accommodating.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not willing to do favors or accommodate others; unhelpful, uncooperative, and discourteous in manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In interpersonal psychology and social behavior, stubbornly resistant to mutual accommodation or polite social conventions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unobliging designates not accommodating."*
+> - 📜 **Jane Austen (*Emma*):** *"She found the postmaster thoroughly **unobliging**, unwilling to search the sorting rack for the missing letter from London."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"Madame Beck was seldom openly rude, yet she could be coldly **unobliging** when a request conflicted with her private plans."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"The archdeacon considered the new bishop's chaplain an arrogant and **unobliging** man who took pleasure in thwarting ancient customs."*

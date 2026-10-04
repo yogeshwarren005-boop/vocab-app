@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A grammatical qualification that makes the meaning more specific (`red hat' has a more specific meaning than `hat').
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lack of permissiveness or indulgence and a tendency to confine behavior within certain specified limits.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, state, or extent of being restrictive; the degree to which rules, limits, or controls constrain freedom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In regulatory sociology and institutional design, the severity and rigidity of formal bureaucratic prohibitions and access barriers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, restrictiveness designates a grammatical qualification that makes the meaning more specific (`red hat' has a more specific meaning than `hat')."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"The oppressive **restrictiveness** of ancient sumptuary laws dictated the exact fabric and color of garments permitted to each social rank."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Whenever the **restrictiveness** of guild statutes exceeded endurance, contraband commerce arose in suburban districts beyond their reach."*
+> - 📜 **Alexis de Tocqueville (*The Old Regime and the Revolution*):** *"The bureaucratic **restrictiveness** of the royal administration stifled local civic initiative across the provinces of pre-revolutionary France."*

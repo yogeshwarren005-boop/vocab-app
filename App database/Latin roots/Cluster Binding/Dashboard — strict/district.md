@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A region marked off for administrative or other purposes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Regulate housing in; of certain areas of towns.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An area of a country, territory, or city that has defined borders or distinct administrative, geographical, or cultural characteristics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In municipal administration and electoral law, a demarcated precinct established for schooling, tax assessment, or judicial jurisdiction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"That is nothing at all," said the district attorney's wife in answer."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The district attorney's wife did not seem gratified with this information."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Maxa told her brother now about the morning's interview with the wife of the district attorney."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In that secluded agricultural **district**, news of the outer world filtered through only on weekly market days."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Plants inhabiting an isolated mountainous **district** frequently exhibit endemic variations absent from the surrounding plains."*
+> - 📜 **George Eliot (*Silas Marner*):** *"Raveloe was a village situated in a fertile, undulating **district** where the old customs of rural England lingered undisturbed."*

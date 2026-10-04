@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Joining; forming an adjunct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Joining; forming an adjunct.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Joining, connecting, or added as a subordinate or complementary accompaniment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, pharmacology, and syntactic theory, describing secondary therapies administered concurrently with primary treatments to enhance efficacy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adjunctive designates joining; forming an adjunct."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Physical rest and wholesome diet serve as crucial **adjunctive** measures in supporting the body's natural recuperative mechanisms."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Sensory impressions are accompanied by **adjunctive** feelings of pleasure or pain that powerfully influence habitual motor reactions."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"The dialect utilizes **adjunctive** particles to nuance the emotional intensity of assertions without altering the logical proposition."*

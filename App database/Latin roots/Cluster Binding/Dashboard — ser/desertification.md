@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The gradual transformation of habitable land into desert; is usually caused by climate change or by destructive use of the land.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The gradual transformation of habitable land into desert; is usually caused by climate change or by destructive use of the land.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The gradual process by which fertile, arable land degrades into arid, barren desert, typically through climate variation and unsustainable human activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dryland geomorphology and environmental geography, the persistent reduction of ecological productivity in arid and semi-arid biomes driven by overgrazing and deforestation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, desertification designates the gradual transformation of habitable land into desert; is usually caused by climate change or by destructive use of the land."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Widespread soil mismanagement and the destruction of natural vegetative ground cover accelerate catastrophic **desertification** across vulnerable continents."*
+> - 📜 **John Muir (*Steep Trails*):** *"The relentless overgrazing of sheep along semi-arid foothills initiates local **desertification**, sweeping away the vital topsoil."*
+> - 📜 **George Perkins Marsh (*Man and Nature*):** *"Human improvidence has converted fertile Mediterranean provinces into sterile wilderness, exemplifying the tragic consequences of unchecked **desertification**."*

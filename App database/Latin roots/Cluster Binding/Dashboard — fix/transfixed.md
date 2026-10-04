@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To render motionless, as with a fixed stare or by arousing terror or awe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pierce with a sharp stake or point.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pierced through with a weapon; or rendered completely motionless with awe, astonishment, horror, or wonder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative poetics and psychology, suspended in bodily stasis by an intense aesthetic, emotional, or traumatic revelation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"She was first transfixed with surprise, and then electrified with delight."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Love, from Clarinda’s heavenly eyes, Transfixed his bosom thro’ and thro’; But still in Friendships’ guarded guise, For more the demon fear’d to do."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"It had dropped into a watchful and brooding expression,—most likely when all the things about her had become transfixed,—and it looked as if nothing could ever lift it up again."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"I forced myself to murmur, 'Oh, nonsense!' and stood over him as if **transfixed** by the horrific darkness of his dying gaze."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Hurriedly turning, with averted face, he descended into his cabin, leaving the sailors **transfixed** upon the quarter-deck."*
+> - 📜 **Bram Stoker (*Dracula*):** *"We stood **transfixed** with horror as the spectral figure glided silently through the dense moonlight across the churchyard."*

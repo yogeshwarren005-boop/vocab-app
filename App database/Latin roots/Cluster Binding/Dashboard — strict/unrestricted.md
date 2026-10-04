@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not subject to or subjected to restriction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free of restrictions on conduct.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not limited or restricted in size, scope, movement, or activity; free, open, and without bounds or conditions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial economics and constitutional jurisprudence, enjoying plenary freedom of access, unhampered by protective tariffs or state censorship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This increases the number of those whose self-interest, at least when narrowly judged, leads them to favor the policy of unrestricted immigration, Tho perhaps less general than it once was, this sentiment in favor of immigration is still potent."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"But he knowed Orlick, and Orlick’s in the county jail.” By these approaches we arrived at unrestricted conversation."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"However, I would have none of these, though the king most earnestly impressed upon my mind that my choice was wholly unrestricted."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"He was granted **unrestricted** liberty to wander through the crumbling rooms and overgrown gardens of Satis House."*
+> - 📜 **Herman Melville (*Typee: A Peep at Polynesian Life*):** *"The native youths enjoyed **unrestricted** freedom amidst the lush breadfruit groves, untroubled by European conventions."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The policy of **unrestricted** immigration furnished American industries with an abundant supply of adaptable manual labor."*

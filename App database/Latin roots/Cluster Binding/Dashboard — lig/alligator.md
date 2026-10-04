@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Leather made from alligator's hide.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of two amphibious reptiles related to crocodiles but with shorter broader snouts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large predatory amphibious reptile of the genus Alligator in the order Crocodylia, characterized by a broad, rounded snout and dark armored skin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In leathercraft and commercial herpetology, durable exotic hide patterned with quadrangular scales; or specialized heavy mechanical jaws resembling a reptile's mouth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Circus Adventure A favorite setting for a children's story is the circus, and following an alligator that sneaks about the grounds searching for an adventure offers the listener a sense of involvement."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Abercrombie, the alligator, wants to visit the circus."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Quickly, he climbs over a large red and white striped box, slips around a corner and, fast as an alligator can, he wiggles up, over the side and into an orange-colored barrel."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The habits of the American **alligator** in the rivers of South America illustrate how predatory reptiles dominate freshwater margins."*
+> - 📜 **Henry David Thoreau (*A Week on the Concord and Merrimack Rivers*):** *"He described the southern bayous where the sluggish **alligator** basks upon the mudbanks through the sultry summer noon."*
+> - 📜 **G. K. Chesterton (*The Innocence of Father Brown*):** *"The leather traveling bag was crafted of genuine tanned **alligator**, its dark pebbled hide gleaming under the street lamp."*

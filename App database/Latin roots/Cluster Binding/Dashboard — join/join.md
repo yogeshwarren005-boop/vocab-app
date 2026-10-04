@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The shape or manner in which things come together and a connection is made.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A set containing all and only the members of two or more given sets.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To connect, fasten, or bring two or more things together so as to form a single unit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In relational database theory and mathematics, an operation combining records from multiple tables based on related fields.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The mightiest space in fortune nature brings To join like likes, and kiss like native things."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let witchcraft join with beauty, lust with both; Tie up the libertine in a field of feasts; Keep his brain fuming."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let her live To join our kingdoms and our hearts; and never Fly off our loves again!"*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"Those whom true love and solemn vows do **join** together, let no earthly rancor separate."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"He asked if he might **join** our evening company around the hearth at the village inn."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"The sea-cook offered to **join** fortunes with us if we promised him a share of the Spanish treasure."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being connected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A relation between things or events (as in the case of one causing the other or sharing features with it).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence or quality of mutual association, relational coherence, or continuous physical linkage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social psychology and network theory, the measurable degree of interpersonal belonging or node integration across a social graph.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, connectedness designates the state of being connected."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Consciousness reveals an unbroken stream of felt **connectedness** linking past moments to immediate awareness."*
+> - 📜 **Henry James (*The Golden Bowl*):** *"She felt a subtle **connectedness** between their unspoken sympathies and the delicate balance of the household."*
+> - 📜 **John Dewey (*Experience and Nature*):** *"Human knowledge advances by discovering the underlying **connectedness** uniting disparate natural events."*

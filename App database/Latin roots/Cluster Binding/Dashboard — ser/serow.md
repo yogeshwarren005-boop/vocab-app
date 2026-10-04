@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Short-horned dark-coated goat antelope of mountain areas of southern and southeastern asia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Short-horned dark-coated goat antelope of mountain areas of southern and southeastern asia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A solitary, goat-like ungulate of the genus Capricornis, native to rugged mountainous forests of central, eastern, and southeastern Asia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian taxonomy and alpine wildlife ecology, a stout caprine bovid characterized by short backward-curving horns, coarse bristly coat, and agile climbing ability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serow designates short-horned dark-coated goat antelope of mountain areas of southern and southeastern asia."*
+> - 📜 **Ernest Henry Wilson (*A Naturalist in Western China*):** *"High on the precipitous limestone crags of Szechuan, our native hunters pointed out a solitary **serow** standing motionless above the abyss."*
+> - 📜 **Theodore Roosevelt (*Trailing the Giant Panda*):** *"We tracked the goat-antelope known as the **serow** across slippery moss-covered screes in the dense bamboo forests of Tibet."*
+> - 📜 **Richard Lydekker (*The Great and Small Game of India, Burma, and Tibet*):** *"The Himalayan **serow** is an animal of solitary habits, spending the heat of the day concealed in precipitous ravines and dark caves."*

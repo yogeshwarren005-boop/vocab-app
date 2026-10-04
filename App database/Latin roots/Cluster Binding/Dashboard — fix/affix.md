@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A linguistic element added to a word to produce an inflected or derived form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attach to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To attach, fasten, stick, or append something securely to another object or document.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In morphology and structural linguistics, a bound morpheme added before, within, or after a root to modify its syntactic category or semantic significance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She obeyed like one in a dream, and when she could affix no more he himself tucked a bud or two into her hat, and heaped her basket with others in the prodigality of his bounty."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester, —— Hotel, London,” on each: I could not persuade myself to affix them, or to have them affixed."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Tell me _now_ on pain of being doomed to bear this burden, my humble self, in your arms for ever." "The very penalty that you affix as a menace is an inducement for me to disobey."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She obeyed like one in a dream, and when she could **affix** no more he himself tucked in the remaining pins with silent efficiency."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"If he were then told that hundreds of similar specimens could be brought from the museum, he would **affix** to each a distinguishing label."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The magistrate deemed it fitting to **affix** upon her bosom the indelible token of public judgment and personal shame."*

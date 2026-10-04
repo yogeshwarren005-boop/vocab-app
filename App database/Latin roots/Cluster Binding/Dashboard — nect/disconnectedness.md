@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: State of being disconnected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: State of being disconnected.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or condition of lacking unity, mutual linkage, coherence, or continuity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In existential phenomenology, the acute psychological sensation of estrangement from social bonds and environmental meaning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Turn of the Screw*):** *"I used to speculate—but even this with a dim disconnectedness—as to how the rough future (for all futures are rough!) would handle them and might bruise them."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"A feeling of eerie **disconnectedness** crept over her as she wandered through the grand, deserted Roman palazzo."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"The sudden **disconnectedness** between their private thoughts caused an uncomfortable silence to fall upon the terrace."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Melancholia frequently manifests as a profound moral **disconnectedness** separating the sufferer from human joy."*

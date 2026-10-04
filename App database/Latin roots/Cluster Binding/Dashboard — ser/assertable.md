@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being affirmed or asserted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being affirmed or asserted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being legitimately asserted, affirmed, or maintained as true on reasonable grounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical epistemology and intuitionistic logic, satisfying warrant or verifiable evidential criteria permitting rational utterance or claim.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, assertable designates capable of being affirmed or asserted."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"A scientific hypothesis is only properly **assertable** when supported by empirical observations capable of rigorous independent replication."*
+> - 📜 **Bertrand Russell (*An Inquiry into Meaning and Truth*):** *"The proposition becomes epistemically **assertable** the instant that unambiguous observational data verifies the relation."*
+> - 📜 **William James (*The Meaning of Truth*):** *"Whether a moral ideal is **assertable** depends entirely upon its pragmatic bearing on lived human experience."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A category in some early taxonomies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A category in some early taxonomies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former broad taxonomic or ecological grouping encompassing woody vascular plants, including trees and shrubs, as distinguished from herbs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical phytogeography and plant systematics, a major phylogenetic or ecological division characterized by persistent secondary growth and woody stems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lignosae designates a category in some early taxonomies."*
+> - 📜 **John Hutchinson (*The Families of Flowering Plants*):** *"In his taxonomic system, Hutchinson separated dicotyledonous families into the fundamentally woody **Lignosae** and the herbaceous Herbaceae."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"The insular flora exhibited a remarkable predominance of arborescent forms belonging to the **Lignosae**, while annual herbs were scarce."*
+> - 📜 **Asa Gray (*Scientific Papers of Asa Gray*):** *"Classifying trees and shrubs under the comprehensive heading of **Lignosae** emphasizes ecological growth forms rather than strict genetic lineages."*

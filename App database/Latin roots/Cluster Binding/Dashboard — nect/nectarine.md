@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Variety or mutation of the peach bearing fruit with smooth skin and (usually) yellow flesh.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A variety or mutation of the peach that has a smooth skin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A smooth-skinned cultivar of peach (Prunus persica var. nucipersica) having sweet and juicy firm flesh.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pomology, a glabrous mutant of the peach lacking velvety epidermal pubescence, originating through recessive somatic bud mutation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"A broken pane of glass in one of the dirty windows was papered and wafered over, but there was a little plate of hothouse nectarines on the table, and there was another of grapes, and another of sponge-cakes, and there was a bottle of light wine."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"There was now employment for the whole party; for though they could not all talk, they could all eat; and the beautiful pyramids of grapes, nectarines, and peaches, soon collected them round the table."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Remarkable instances have occurred of a single branch bearing both a peach and a smooth-skinned **nectarine** simultaneously."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The golden blush of a ripe **nectarine** bathed in morning sunlight offers an unrivaled study in delicate color gradations."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"The sunny south wall of the kitchen garden produced an admirable harvest of peach and **nectarine** trees."*

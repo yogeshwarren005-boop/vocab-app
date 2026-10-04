@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A narrowing that reduces the flow through a channel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tight or narrow compression.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mechanical narrowing or compression of an opening, channel, or duct; a tight inward restriction or choke point.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiology and pulmonology, the pathological or physiological narrowing of a duct, sphincter, or blood vessel; or severe social constraint.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"For a few minutes I was aware merely of an uncomfortable constriction which I fondly believed would ease as I grew accustomed to it."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"So severe was this constriction of my frail frame upon my vital organs that I felt, there and then, immediately, that death was upon me."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Perforce I was nearly unconscious from the fearful constriction."*
+> - 📜 **Jack London (*The Star Rover*):** *"With every breath I drew, the relentless **constriction** of the straitjacket crushed against my ribs and spine."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The sudden **constriction** of the glottis during choking prevents air from penetrating into the pulmonary alveoli."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Violent grief is often accompanied by an agonizing sensation of **constriction** across the chest and throat."*

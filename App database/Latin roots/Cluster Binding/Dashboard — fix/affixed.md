@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Attach to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Add to the very end.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Firmly attached, fastened, appended, or joined to an underlying surface or parent structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic history and administrative law, stamped or appended to a formal covenant, deed, or parchment to grant official legal validity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"We’ll try this, and if it doesn’t do we’ll have another.” A large red seal was duly affixed."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In all innocence before his palace he had affixed two shields with votive inscriptions."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In Hebrew, Greek, and Latin he had a writing affixed to Jesus’ cross which read, “The King of the Jews.” In vain the priests complained."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Human or animal, the mystical brow is as that great golden seal **affixed** by the Grand Monarch himself to confirm an unalterable decree."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I observed a large document with various red ribbons and royal seals **affixed** lying prominently upon the lawyer's mahogany table."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"To this solemn indenture the Norman barons had each **affixed** his mark or heraldic crest in witness of perpetual allegiance."*

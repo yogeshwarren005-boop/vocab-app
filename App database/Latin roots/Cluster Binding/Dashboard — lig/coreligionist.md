@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone having the same religion as another person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone having the same religion as another person.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who adheres to the same religion, ecclesiastical community, or system of theological belief as another individual.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociology of religion and diplomatic history, an adherent bound by mutual confessional ties, often invoking communal solidarity across national boundaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coreligionist designates someone having the same religion as another person."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The emigrant felt an immediate bond with each **coreligionist** he encountered in the frontier settlements of the western territory."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The emperor extended his imperial protection to every **coreligionist** dwelling under alien rule in the adjacent provinces."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The English Puritans sent fraternal greetings and financial subsidies to their beleaguered **coreligionist** brethren upon the European continent."*

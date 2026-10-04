@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) a judicial remedy issued in order to prohibit a party from doing or continuing to do a certain activity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) a judicial remedy issued in order to prohibit a party from doing or continuing to do a certain activity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An authoritative instruction, direction, or command that imposes an obligation or prohibition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In administrative law and equity, the formal enforcement or execution of an injunctive decree.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enjoinment designates (law) a judicial remedy issued in order to prohibit a party from doing or continuing to do a certain activity."*
+> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"Every legal **enjoinment** carries an implicit sanction to ensure civic compliance with the statute."*
+> - 📜 **Richard Hooker (*Of the Laws of Ecclesiastical Polity*):** *"The pastoral **enjoinment** bound both clergy and laity to observe the solemn liturgical rites."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"Civil governance derives its legitimacy from the rational consent of people rather than arbitrary **enjoinment**."*

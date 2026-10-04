@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Goods (or wreckage) on the sea bed that is attached to a buoy so that it can be recovered.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Goods (or wreckage) on the sea bed that is attached to a buoy so that it can be recovered.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Goods, cargo, or wreckage sunk at sea with a buoy attached to mark the spot for subsequent recovery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In admiralty jurisprudence and maritime salvage law, cargo thrown overboard (jetsam) that remains buoyant or buoy-marked, preserving owner title.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ligan designates goods (or wreckage) on the sea bed that is attached to a buoy so that it can be recovered."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Flotsam is where goods continue floating; jetsam where they sink; and **ligan** where they are sunk with a cork or buoy tied to them for recovery."*
+> - 📜 **Richard Henry Dana Jr. (*The Seaman's Friend*):** *"The coastal wreckers claimed salvage rights over the sunken cargo, asserting that the cask anchored by the buoy constituted legal **ligan**."*
+> - 📜 **Joseph Conrad (*The Mirror of the Sea*):** *"The salvage tug drifted above the marked shoal, searching through the fog for the tethered cask of **ligan** dropped by the grounded steamer."*

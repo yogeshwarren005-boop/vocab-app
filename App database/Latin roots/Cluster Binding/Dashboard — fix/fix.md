@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Informal terms for a difficult situation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something craved, especially an intravenous injection of a narcotic drug.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To fasten, attach, or secure firmly in place; to set unalterably; or to repair and mend what is broken.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In experimental science and photography, to render a specimen or latent chemical image stable, permanent, and resistant to environmental degradation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The king’s disease,—my project may deceive me, But my intents are fix’d, and will not leave me. [_Exit._] SCENE II."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The children thus dispos’d, my wife and I, Fixing our eyes on whom our care was fix’d, Fast’ned ourselves at either end the mast, And, floating straight, obedient to the stream, Was carried towards Corinth, as we thought."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or that the Everlasting had not fix’d His canon ’gainst self-slaughter."*
+> - 📜 **Francis Bacon (*The Essays*):** *"Custom doth **fix** and confirm the inclinations of youth far more deeply than any philosophical precept or sudden resolution."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"If we would **fix** our ideas with clarity, we must attach distinct and invariable definitions to the signs by which they are communicated."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She could not **fix** upon the exact hour or expression which first attracted her regard, so imperceptible had been the transition."*

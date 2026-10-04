@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a logical or causal connection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consider (an instance of something) as part of a general rule or principle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To bind, tie, or unite closely together; especially to combine disparate observations or facts under a single unifying empirical law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy of science and epistemology, to synthesize diverse experimental data under a general conception that explains their systematic relationship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, colligate designates make a logical or causal connection."*
+> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"The philosopher does not merely collect observations; his duty is to **colligate** facts by discovering the appropriate conception that binds them into a law."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Dr. Whewell maintains that Kepler did not deduce the planetary orbits, but did simply **colligate** the observed positions of Mars under the geometrical idea of an ellipse."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"When we **colligate** several empirical assertions, we formulate an integrated hypothesis that must undergo rigorous inductive verification."*

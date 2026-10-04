@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: State categorically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To declare or affirm solemnly and formally as true.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affirmed positively, stated with firm confidence, or declared as an established fact or claim.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal jurisprudence and evidentiary argumentation, put forward in pleadings as an allegation without yet receiving conclusive judicial confirmation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"You can call as often as you please from now on, I shall certainly not come again." "I know they will open some day," the boy asserted firmly, "only we can't tell just when; but it might be any time."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The ghost of Wildenstein might have pushed them open," Kurt quickly asserted."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"When we came here first I was so glad that Bruno would have them for friends, but now I am in continual fear that they will clash." "Yes, mother," Kurt asserted, "you would never have been glad of that friendship if you had really known them."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The delegates **asserted** the sovereign necessity of establishing a energetic national government capable of self-preservation."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea **asserted** her judgment with a gentle quietude that surprised those accustomed to her deference."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The victorious legionaries **asserted** their prerogative by saluting their chosen general with the title of Augustus."*

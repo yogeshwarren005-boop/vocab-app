@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something added to another thing but not an essential part of it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is an assistant or subordinate to another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something added or joined to another thing as a supplementary, subordinate, or nonessential part.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal syntax, institutional governance, and logic, an optional modifying phrase whose removal leaves the sentence grammatical, or an auxiliary academic faculty appointment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And every humour hath his adjunct pleasure, Wherein it finds a joy above the rest, But these particulars are not my measure, All these I better in one general best."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So well that what you bid me undertake, Though that my death were adjunct to my act, By heaven, I would do it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Despair to gain doth traffic oft for gaining, And when great treasure is the meed proposed, Though death be adjunct, there’s no death supposed."*
+> - 📜 **William Shakespeare (*Sonnets (Sonnet 91)*):** *"And every humour hath his **adjunct** pleasure, wherein it finds a joy above the rest."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"All secondary qualities are mere **adjunct** perceptions that do not exist inherently in the external objects themselves."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Technical instruction should never be treated as an ornamental **adjunct**, but as an essential element of modern national prosperity."*

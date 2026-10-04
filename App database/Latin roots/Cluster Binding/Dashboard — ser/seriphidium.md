@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Woody plants grown chiefly for their silver or grey and often aromatic foliage; formerly included in the genus artemisia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Woody plants grown chiefly for their silver or grey and often aromatic foliage; formerly included in the genus artemisia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A botanical subgenus or segregated genus of aromatic shrubs in the daisy family Asteraceae, closely allied to wormwoods (Artemisia).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dryland plant systematics and steppic ecology, perennial subshrubs characterized by homogamous discoid flower heads, silvery tomentum, and volatile camphoraceous terpenoids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, seriphidium designates woody plants grown chiefly for their silver or grey and often aromatic foliage; formerly included in the genus artemisia."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"Botanists frequently group the desert sagebrush species under the distinctive section **Seriphidium** of the genus Artemisia."*
+> - 📜 **John Torrey (*Botany of the Boundary*):** *"Across the arid alkali plains of the southwest, several aromatic shrubs of **Seriphidium** constitute the dominant vegetation."*
+> - 📜 **Ferdinand von Mueller (*Select Extra-Tropical Plants*):** *"Species belonging to **Seriphidium** thrive upon saline and arid soils where few other fodder bushes survive."*

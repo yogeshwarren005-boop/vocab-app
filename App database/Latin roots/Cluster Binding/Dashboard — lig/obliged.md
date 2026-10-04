@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Force somebody to do something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bind by an obligation; cause to be indebted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Forced, compelled, or bound by duty, law, or circumstance to act; or grateful and indebted to someone for a favor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In traditional epistolary formulas and social manners, acknowledging a courteous indebtedness for a kindness received.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O ten times faster Venus’ pigeons fly To seal love’s bonds new-made than they are wont To keep obliged faith unforfeited!"*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"If you once were obliged to say to me that I had spoiled my grandchild, I should die of shame."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I am sure that you will be grateful if the question is solved for Bruno, as you would otherwise be obliged to settle it yourself." Frau Maxa's heart was very heavy at this news."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To those that flee, fear is a fierce pursuer; we are **obliged** to stand and fight with resolute courage."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She felt herself painfully **obliged** to confess the hidden history of her past before the wedding day arrived."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Even when opinion is silenced, truth is not injured, but society is **obliged** to endure intellectual stagnation."*

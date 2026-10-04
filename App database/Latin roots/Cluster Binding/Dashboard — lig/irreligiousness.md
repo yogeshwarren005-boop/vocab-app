@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of not being devout.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of not being devout.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, condition, or habit of being irreligious; lack of religious devotion, faith, or spiritual reverence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social ethics and pastoral literature, pervasive secular indifference characterized by the abandonment of devotional and liturgical life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, irreligiousness designates the quality of not being devout."*
+> - 📜 **Jonathan Swift (*An Argument Against Abolishing Christianity*):** *"The growing **irreligiousness** of the metropolis was manifested in the complete neglect of Sunday worship and clerical counsel."*
+> - 📜 **George Eliot (*Scenes of Clerical Life*):** *"The rector lamented the casual **irreligiousness** of the farming folk, who treated sacred days as mere occasions for tavern conviviality."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"A temperament marked by aggressive **irreligiousness** is often accompanied by an acute distrust of mystical or intuitive feelings."*

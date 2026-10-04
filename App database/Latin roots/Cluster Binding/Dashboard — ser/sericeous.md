@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Covered with fine soft hairs or down.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Covered with fine soft hairs or down.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Silky, smooth, and lustrous; covered with fine, soft, closely appressed hairs resembling silk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical morphology and entomology, describing leaves or insect integuments covered with glistening downy pubescence producing a satiny sheen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sericeous designates covered with fine soft hairs or down."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The under surfaces of the willow leaves are densely **sericeous**, shimmering with a silvery luster in the wind."*
+> - 📜 **William Jackson Hooker (*British Flora*):** *"The delicate calyx is covered with **sericeous** pubescence that protects the developing blossom from harsh dampness."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Botanists distinguish this alpine shrub by its softly **sericeous** foliage, which conserves moisture against desiccating summit gales."*

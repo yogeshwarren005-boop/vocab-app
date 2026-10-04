@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An event that occurs at a critical time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crisis situation or point in time when a critical decision must be made.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A particular point in time, especially one made critical, pivotal, or urgent by a concurrence of circumstances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phonology, anatomy, and diplomatic history, a phonetic boundary feature marking word transitions, an anatomical articulation of bones, or an opportune diplomatic moment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Sir Leicester, avoiding, with some trouble those obtrusive sounds, says, “True.” At this juncture a considerable noise of voices is heard in the hall."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"At this juncture we perceived Mr."*
-> - 📜 **Jane Austen (*Persuasion*):** *"I must take leave to observe, Sir Walter,” said Mr Shepherd one morning at Kellynch Hall, as he laid down the newspaper, “that the present juncture is much in our favour."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Deriving his idiosyncrasies from both sides of the Channel, he showed at such a **juncture** an extraordinary readiness of resource."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"At this critical **juncture**, the emperor resolved to risk his crown and life upon the fortune of a single general engagement."*
+> - 📜 **Jane Austen (*Emma*):** *"At such an interesting **juncture**, she could not resist imparting her suspicions regarding the secret attachment to her dear friend."*

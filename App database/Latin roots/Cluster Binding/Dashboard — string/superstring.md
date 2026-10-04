@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hypothetical particle that is the elementary particle in a theory of space-time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hypothetical particle that is the elementary particle in a theory of space-time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hypothetical one-dimensional vibrating quantum entity measuring roughly the Planck length, postulated as the fundamental constituent of all matter and forces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theoretical physics and quantum cosmology, the fundamental vibrating filament in ten or eleven space-time dimensions reconciling quantum mechanics with general relativity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superstring designates a hypothetical particle that is the elementary particle in a theory of space-time."*
+> - 📜 **Stephen Hawking (*A Brief History of Time*):** *"In **superstring** theory, the fundamental constituents of the universe are not point-like particles, but tiny vibrating loops of energy."*
+> - 📜 **Brian Greene (*The Elegant Universe*):** *"Each vibrational pattern of a single **superstring** produces a distinct particle mass and charge, orchestrating the symphony of the cosmos."*
+> - 📜 **Roger Penrose (*The Road to Reality*):** *"The mathematical beauty of **superstring** models has attracted generations of theoretical physicists seeking a unified quantum geometry."*

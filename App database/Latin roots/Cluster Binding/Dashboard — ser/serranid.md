@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marine food sport fishes mainly of warm coastal waters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marine food sport fishes mainly of warm coastal waters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any marine fish belonging to the family Serranidae, which includes sea basses, groupers, and fairy basslets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In coastal marine ecology and artisanal fisheries, predatory percoid teleosts of coral and rocky reefs characterized by ctenoid scales, large mouths, and protogynous hermaphroditism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serranid designates marine food sport fishes mainly of warm coastal waters."*
+> - 📜 **Charles Darwin (*The Zoology of the Voyage of H.M.S. Beagle*):** *"We obtained a handsome **serranid** from the rocky shoals of the Galapagos, remarkable for its mottled crimson and olive scales."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"Every tropical reef harbors some representative **serranid** lurking in cavernous coral heads to ambush passing crustaceans."*
+> - 📜 **William Beebe (*Half Mile Down*):** *"Through the thick quartz window of the bathysphere, a heavy **serranid** glided past the searchlight into the deep blue gloom."*

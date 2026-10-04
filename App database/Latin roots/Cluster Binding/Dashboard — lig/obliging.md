@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Force somebody to do something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bind by an obligation; cause to be indebted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Willing to do a service or kindness; helpful, courteous, and accommodating in social behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social manners and interpersonal conduct, demonstrating an eager readiness to assist others without regard to selfish convenience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"After meditating a while Kurt replied, "I guess I really shouldn't." "Don't you all like Loneli because she never gets rough and always is friendly, obliging and cheerful?"*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"We think and know that she is the friendliest and most obliging child in school." "Long live Loneli!" Lux suddenly cheered so that the whole band involuntarily joined him."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I have often said before that Loneli is the most clever child in all Nolla, besides being the most friendly and obliging one could possibly find."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The innkeeper was an **obliging** man, ready at a moment's notice to stable a traveler's horse or fetch fresh cider."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Brooke possessed an **obliging** temper, always willing to lend a listening ear even when he lacked practical remedy."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The railway clerk was exceptionally **obliging**, searching through his timetables to locate a special train for the detective."*

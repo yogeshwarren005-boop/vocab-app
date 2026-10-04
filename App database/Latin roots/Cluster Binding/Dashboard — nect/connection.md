@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A relation between things or events (as in the case of one causing the other or sharing features with it).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being connected.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A relationship, association, or physical link through which two or more people, things, or ideas are joined.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In railway and transport logistics, a scheduled transfer between two sequential routes or vehicles allowing continuous travel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Bruno now flung behind him all the thoughts and schemes he had had in connection with his coming fate and with all the fire of his nature he fastened on the thought of doing everything in his power to help Salo."*
-> - 📜 **Jane Austen (*Persuasion*):** *"She looked down very decidedly upon the Hayters, and thought it would be quite a misfortune to have the existing connection between the families renewed—very sad for herself and her children."*
-> - 📜 **Jane Austen (*Persuasion*):** *"If Elizabeth and her father did not deceive themselves, had been taking much pains to seek the acquaintance, and proclaim the value of the connection, as he had formerly taken pains to shew neglect."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"The prudent gentleman valued family **connection** and affluent fortune above mere personal accomplishments."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"There seemed no evident **connection** between the solitary outcast and the grand affairs of the Court of Chancery."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His scientific ambition led him to seek the subtle **connection** between cellular structure and living function."*

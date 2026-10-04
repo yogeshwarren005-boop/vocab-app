@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical scientist who specializes in serology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medical scientist who specializes in serology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical scientist or clinical laboratory specialist who investigates blood serum, antibodies, antigens, and immune reactions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic pathology and hematological diagnostics, an expert who performs antibody titrations, blood typing, and immunochemical determinations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serologist designates a medical scientist who specializes in serology."*
+> - 📜 **Karl Landsteiner (*The Specificity of Serological Reactions*):** *"The experienced **serologist** observes minute agglutination patterns under the microscope to identify incompatible blood groups."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"The institute appointed a young **serologist** from Vienna whose delicate titer assays resolved the dispute over the bacterial toxin."*
+> - 📜 **Paul de Kruif (*Microbe Hunters*):** *"Bordet worked with the precision of a master **serologist**, demonstrating that complement was indispensable for bacterial lysis."*

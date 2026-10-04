@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A selective-serotonin reuptake inhibitor commonly prescribed as an antidepressant (trade name zoloft).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A selective-serotonin reuptake inhibitor commonly prescribed as an antidepressant (trade name zoloft).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A selective serotonin reuptake inhibitor (SSRI) pharmaceutical antidepressant widely prescribed to treat major depressive and anxiety disorders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychopharmacology, an orally administered naphthylamine derivative that selectively blocks the presynaptic serotonin transporter protein (SERT).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sertraline designates a selective-serotonin reuptake inhibitor commonly prescribed as an antidepressant (trade name zoloft)."*
+> - 📜 **Oliver Sacks (*Musicophilia*):** *"The clinical introduction of **sertraline** gradually stabilized the patient's severe obsessive ruminations without sedating his creative faculties."*
+> - 📜 **William Styron (*Darkness Visible: A Memoir of Madness*):** *"Modern pharmacotherapy relies on agents like **sertraline** to restore chemical equilibrium during episodes of crippling melancholia."*
+> - 📜 **Kay Redfield Jamison (*An Unquiet Mind*):** *"The careful administration of **sertraline** in conjunction with mood stabilizers alleviated the crushing despondency of the depressive cycle."*

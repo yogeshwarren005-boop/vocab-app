@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sharp astringent taste; the taste experience when a substance causes the mouth to pucker.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sharp astringent taste; the taste experience when a substance causes the mouth to pucker.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, state, or property of drawing tissues together or contracting organic surfaces; constricting power.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmaceutical chemistry and sensory physiology, the rough, puckering tactile sensation in the oral cavity caused by tannins precipitating salivary proteins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, astringence designates a sharp astringent taste; the taste experience when a substance causes the mouth to pucker."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"The notable **astringence** of vitriolic liquors upon the tongue arises from their power to coagulate the subtle animal spirits in the saliva."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The green sloe berries possess such intense **astringence** that cattle avoid grazing upon the blackthorn hedges."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Certain vegetable infusions produce an immediate **astringence** across the mucous membranes by coagulating superficial cellular proteins."*

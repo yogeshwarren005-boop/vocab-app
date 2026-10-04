@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being joined together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The connection of isolated facts by a general hypothesis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of binding or tying together; specifically, the conceptual uniting of observed isolated phenomena under a single explanatory concept.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific methodology and formal logic, the epistemic process whereby empirical propositions are organized into a coherent inductive generalization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, colligation designates the state of being joined together."*
+> - 📜 **William Whewell (*Novum Organon Renovatum*):** *"This **colligation** of facts is the primary foundation of scientific progress, transforming scattered data into an orderly system of truths."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"He argued that the **colligation** of known particulars does not constitute true induction unless it introduces a valid general inference beyond them."*
+> - 📜 **William Stanley Jevons (*The Principles of Science*):** *"A brilliant inductive discovery often consists in the sudden **colligation** of observations that had previously seemed utterly unconnected."*

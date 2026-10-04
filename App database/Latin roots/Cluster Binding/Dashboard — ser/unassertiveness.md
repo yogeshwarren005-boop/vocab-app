@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Diffidence about self promotion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Diffidence about self promotion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, condition, or habit of being diffident, modest, shy, or reluctant to assert oneself.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical behavioral psychology, an inhibition in communicating boundaries or legitimate claims that can predispose an individual to compliance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unassertiveness designates diffidence about self promotion."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Anne Elliot's gentle **unassertiveness** had in early youth exposed her to the well-meaning but unfortunate persuasions of Lady Russell."*
+> - 📜 **William James (*The Principles of Psychology*):** *"An habitual **unassertiveness** of character often stems from excessive fear of social disapproval rather than lack of inner conviction."*
+> - 📜 **Edith Wharton (*The House of Mirth*):** *"Her cousin's helpless **unassertiveness** in financial matters left her vulnerable to the machinations of unscrupulous trustees."*

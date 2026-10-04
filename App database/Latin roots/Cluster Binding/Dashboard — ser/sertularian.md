@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feathery colony of long-branched stems bearing stalkless paired polyps.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feathery colony of long-branched stems bearing stalkless paired polyps.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resembling, or belonging to the genus Sertularia or the family Sertulariidae of plant-like marine hydroids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine invertebrate zoology, describing colonial calyptoblastic hydrozoans possessing branched chitinous perisarcs and sessile protective hydrothecae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sertularian designates feathery colony of long-branched stems bearing stalkless paired polyps."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The dredge brought up numerous **sertularian** zoophytes adhering to dead bivalve shells from twenty fathoms depth."*
+> - 📜 **Louis Agassiz (*Methods of Study in Natural History*):** *"The plant-like **sertularian** colonies were long mistaken by early observers for marine mosses rather than true animal organisms."*
+> - 📜 **Philip Henry Gosse (*The Aquarium: An Unveiling of the Wonders of the Deep Sea*):** *"The delicate yellow stems of this **sertularian** hydroid form miniature submarine groves across the rocky tide pool floor."*

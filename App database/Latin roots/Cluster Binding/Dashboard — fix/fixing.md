@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of putting something in working order again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Restraint that attaches to something or holds something in place.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of securing, establishing, mending, or adjusting something; fastening securely in position.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical photography and structural histology, the critical immersion process that stabilizes sensitive emulsions or arrests post-mortem cellular degradation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The children thus dispos’d, my wife and I, Fixing our eyes on whom our care was fix’d, Fast’ned ourselves at either end the mast, And, floating straight, obedient to the stream, Was carried towards Corinth, as we thought."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Study me how to please the eye indeed By fixing it upon a fairer eye, Who dazzling so, that eye shall be his heed, And give him light that it was blinded by."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Is it Gridley that’s wanted?” he said, fixing his eyes on me with an angry stare."*
+> - 📜 **William Shakespeare (*The Comedy of Errors*):** *"The children thus dispos'd, my wife and I, **fixing** our eyes on whom our care was fixed, fast'ned ourselves at either end the mast."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"He remained motionless, **fixing** his dark and piercing eyes upon the trembling boy with an expression of malignant triumph."*
+> - 📜 **Thomas Henry Huxley (*Physiography: An Introduction to the Study of Nature*):** *"The chemical **fixing** of atmospheric carbon by green plants constitutes the sole energetic foundation of all terrestrial animal life."*

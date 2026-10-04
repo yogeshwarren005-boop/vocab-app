@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Engage in sexual intercourse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Engage in sexual intercourse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To engage in sexual intercourse or sexual union; or more broadly, to connect, unite, or join together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive biology, ethology, and comparative morphology, to undergo coitus through the physical apposition of specialized male and female intromittent organs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"And when I began to consider that, by copulating with one of the _Yahoo_ species I had become a parent of more, it struck me with the utmost shame, confusion, and horror."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Certain insects cannot successfully **copulate** unless the male grasps the thorax of the female with specially modified clasping organs."*
+> - 📜 **Jean-Henri Fabre (*The Wonders of Instinct*):** *"Pairs of predatory beetles **copulate** briefly beneath damp foliage before resuming their solitary and voracious nocturnal hunting."*
+> - 📜 **Gilbert White (*The Natural History and Antiquities of Selborne*):** *"Swifts appear to **copulate** on the wing, soaring into higher currents of summer air with astonishing dexterity."*

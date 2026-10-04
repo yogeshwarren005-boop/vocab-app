@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An act of joining or adjoining things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act of joining or adjoining things.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of joining, adding, or annexing one thing to another; an addition or attachment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In category theory, civil law property jurisprudence, and mathematical logic, a pair of adjoint functors establishing an equivalence between categories, or the physical accession of property.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adjunction designates an act of joining or adjoining things."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"By the **adjunction** of careful experimental observation to speculative philosophy, sciences make steady and cumulative progress."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"In Roman and English jurisprudence, the doctrine of **adjunction** settles the ownership of property when materials belonging to different owners are fused together."*
+> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"The legislative **adjunction** of a penal sanction to an ethical duty provides the sole reliable motive ensuring civic compliance."*

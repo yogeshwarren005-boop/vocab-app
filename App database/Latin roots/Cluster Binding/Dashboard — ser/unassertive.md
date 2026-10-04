@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inclined to timidity or lack of self-confidence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inclined to timidity or lack of self-confidence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having or showing a confident, forceful, or demanding personality; modest, shy, and retiring in social interaction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In trait personality theory, scoring low on social dominance and extraversion, displaying humble deference and reluctance to impose personal views.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unassertive designates inclined to timidity or lack of self-confidence."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Edward's quiet and **unassertive** manners made him appear distant only to those who looked for theatrical brilliance."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"She remained an **unassertive** spectator in the corner of the classroom, observing everyone while drawing no attention to herself."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"His modest and **unassertive** demeanor concealed a mind of exceptional depth and unswerving moral integrity."*

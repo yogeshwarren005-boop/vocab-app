@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of supplementing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Add to the end.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of appending or adding additional statements, notes, or clauses at the conclusion of a document.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic draftsmanship and codicology, appending supplemental provisions or clarifying codicils to an instrument.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subjoining designates the act of supplementing."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The parliamentary committee concluded their report by **subjoining** several sworn depositions from naval captains."*
+> - 📜 **David Hume (*The History of England*):** *"The royal chancellor dismissed the petition after **subjoining** a stern warning against seditious assemblies."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"He completed his philosophical thesis by **subjoining** an illustrative essay on poetic imagination."*

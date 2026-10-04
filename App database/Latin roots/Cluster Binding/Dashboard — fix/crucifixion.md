@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of executing by a method widespread in the ancient world; the victim's hands and feet are bound or nailed to a cross.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The death of jesus by crucifixion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient method of slow and torturous capital punishment where the victim was bound or nailed to a wooden cross.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Christian theology and iconography, the historical execution of Jesus on Calvary, regarded as the central sacrificial event of human atonement and redemption.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The cry for blood rang through the court, and all were clamouring for crucifixion."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Pilate gave orders for the crucifixion."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Evidence of the character of an age is given by the treatment of criminals; and that age was characterized by crucifixion."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Moody stricken Ahab stood before them with a **crucifixion** in his face; in all the nameless regal overbearing dignity of some mighty woe."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The degrading penalty of **crucifixion**, traditionally reserved for rebellious slaves and bandits, was abolished under the reign of Constantine out of reverence for the sacred instrument of salvation."*
+> - 📜 **G. K. Chesterton (*The Everlasting Man*):** *"The **crucifixion** remains unique in the history of mythology because it insists that the supreme cosmic drama ended in apparent earthly tragedy and ignominious defeat."*

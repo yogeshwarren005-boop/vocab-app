@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Woody tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Woody tissue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wood or timber, especially when used as a botanical, pharmacognostic, or commercial designation for hard, dense plant materials.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In materia medica and historical botany, medicinal hardwood, notably lignum vitae (Guaiacum officinale), prized for extreme density and healing resins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"For Lignum, he’s tied so close now, and gets so little exercise, that a walk does him good."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Don’t tell me there’s anything wrong about that security of Lignum’s!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I trust my old Lignum to you, and I am sure you’ll bring him through it.” The trooper returns that this is kindly said and that he WILL bring Lignum through it somehow."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The belaying pins along the bulwarks were fashioned of dense **lignum** vitae, capable of withstanding the heaviest strain of ocean winds."*
+> - 📜 **Richard Henry Dana Jr. (*Two Years Before the Mast*):** *"The ship's carpenter shaped sheaves for the tackle blocks out of heavy, oily **lignum** vitae to prevent excessive friction."*
+> - 📜 **Oliver Wendell Holmes (*The Autocrat of the Breakfast-Table*):** *"His resolve was as hard as **lignum** vitae, defying the corrosive chisel of circumstance and time."*

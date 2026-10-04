@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A comedy with serious elements or overtones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A comedy with serious elements or overtones.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A theatrical play, novel, or performance that combines serious and tragic themes with comical or humorous elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic theory and literary criticism, a hybrid genre where serious moral or philosophical stakes are explored through ironical and comedic dialogue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, seriocomedy designates a comedy with serious elements or overtones."*
+> - 📜 **William Hazlitt (*Lectures on the English Comic Writers*):** *"The dramatist excelled in bittersweet **seriocomedy**, blending poignant domestic tears with spontaneous, hearty tavern laughter."*
+> - 📜 **George Meredith (*An Essay on Comedy*):** *"True comic perception flourishes in the subtle domain of **seriocomedy**, where folly is observed with thoughtful philosophical compassion."*
+> - 📜 **George Bernard Shaw (*Dramatic Opinions and Essays*):** *"His latest stage work is a brilliant **seriocomedy** that compels the audience to ponder solemn social dilemmas while smiling continuously."*

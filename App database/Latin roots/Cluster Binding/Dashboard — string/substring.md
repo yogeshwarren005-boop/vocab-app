@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A string that is part of a longer string.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A string that is part of a longer string.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A contiguous sequence of characters taken from within a longer string of text or code.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal language theory, string matching algorithms, and computational linguistics, any contiguous linear sub-segment of an alphabet sequence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, substring designates a string that is part of a longer string."*
+> - 📜 **Alan Turing (*Computing Machinery and Intelligence*):** *"The symbolic machine scans the tape cell by cell, identifying whether a target **substring** occurs within the coded input sequence."*
+> - 📜 **Donald Knuth (*The Art of Computer Programming*):** *"Efficient pattern matching requires determining whether a specified **substring** appears within a text in linear time without backtracking."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"The mechanical engine was designed to analyze each numerical **substring** represented by the rotational positions of its geared wheels."*

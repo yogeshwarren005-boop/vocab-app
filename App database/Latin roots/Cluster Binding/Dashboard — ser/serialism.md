@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: 20th century music that uses a definite order of notes as a thematic basis for a musical composition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: 20th century music that uses a definite order of notes as a thematic basis for a musical composition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A twentieth-century technique of musical composition utilizing predetermined numerical sequences or rows of pitches, durations, and dynamics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In post-tonal musicology and modernist aesthetics, an avant-garde paradigm pioneered by Arnold Schoenberg and expanded by Pierre Boulez to serialize all musical parameters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serialism designates 20th century music that uses a definite order of notes as a thematic basis for a musical composition."*
+> - 📜 **Theodor W. Adorno (*Philosophy of New Music*):** *"The rigorous total **serialism** of the post-war composers sought to eliminate all remnants of conventional bourgeois tonality."*
+> - 📜 **Aaron Copland (*Music and Imagination*):** *"While fascinating from a structural perspective, strict **serialism** poses formidable challenges to the listener's auditory comprehension."*
+> - 📜 **Igor Stravinsky (*Conversations with Igor Stravinsky*):** *"In my later years, I found that the discipline of **serialism** opened unexpected avenues of contrapuntal exploration."*

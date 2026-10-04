@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Restricted to something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a stringent manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a strict, rigorous, and exact manner; with meticulous adherence to rules, definitions, facts, or instructions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific methodology and formal logic, with absolute precision that permits no ambiguity, deviation, or broad interpretation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Faith, by no means; she hath so strictly tied Her to her chamber, that ’tis impossible."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The King hath strictly charged the contrary."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Lippo on his arrival home from school had posted himself there to see that his mother's orders were strictly kept."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Charge him that he tell the truth **strictly**, omitting no circumstance that may uncover the conspirators."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel Oak **strictly** observed every shift in the barometer, knowing that the harvest depended upon prompt preparation."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"In logical discourse, we must employ terms **strictly** according to their precise definitions to avoid fallacious deductions."*

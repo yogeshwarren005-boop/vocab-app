@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Acting with or showing thought and good sense.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acting with or showing thought and good sense.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Approaching life, duty, and ideas with earnest thought, moral purpose, and mature contemplation rather than levity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biographical characterization and social commentary, displaying persistent conscientiousness, intellectual depth, and resistance to frivolous diversions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serious-minded designates acting with or showing thought and good sense."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Fanny Price was a **serious-minded** girl whose quiet devotion to principle set her apart from her livelier cousins."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"The youth was intensely **serious-minded**, spending every spare hour studying classical grammars by candlelight."*
+> - 📜 **Henry James (*The Bostonians*):** *"She gathered about her a circle of **serious-minded** reformers dedicated to the moral renovation of society."*

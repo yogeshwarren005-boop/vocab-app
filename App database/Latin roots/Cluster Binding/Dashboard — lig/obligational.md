@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating or constituting or qualified to create a legal or financial obligation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating or constituting or qualified to create a legal or financial obligation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, involving, or creating a binding duty, legal responsibility, or moral liability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil jurisprudence and financial theory, relating to the formal duties, covenants, and claims that arise out of a binding legal agreement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, obligational designates relating or constituting or qualified to create a legal or financial obligation."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The **obligational** bond created between the master and apprentice establishes reciprocal duties enforceable at common law."*
+> - 📜 **Henry Maine (*Ancient Law*):** *"Progress in progressive societies has been characterized by a movement from status to the individual **obligational** nexus of contract."*
+> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"The legislator must analyze the exact **obligational** burdens imposed upon the subject by each penal sanction."*

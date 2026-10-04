@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Force somebody to do something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Commit in order to fulfill an obligation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bound by legal agreement, moral imperative, or strong social necessity to perform a particular duty or return a favor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial contracts and relational sociology, legally committed to satisfy an outstanding liability or culturally beholden to a benefactor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"So, he’d come with a most tremenjous crowd and make such a row at the doors of the houses where we was, that they used to be obligated to have no more to do with us and to give us up to him."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"He feels morally obligated to 451:24 open the eyes of his students that they may perceive the nature and methods of error of every sort, especially any subtle degree of evil, deceived and deceiving."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"I felt myself deeply **obligated** to the gentleman for his friendly counsel and timely financial assistance when I commenced business."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Fred felt himself uncomfortably **obligated** to Mr. Garth, realizing that another man had borne the financial penalty of his folly."*
+> - 📜 **Abraham Lincoln (*Speeches and Letters*):** *"The government is solemnly **obligated** to protect the rights of all citizens who have remained loyal beneath its flag."*

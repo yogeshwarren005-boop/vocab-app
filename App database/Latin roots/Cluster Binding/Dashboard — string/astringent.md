@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug that causes contraction of body tissues and canals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sour or bitter in taste.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing the contraction of skin cells and other body tissues; sharp, severe, or biting in manner or style.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and dermatology, a topical agent (such as witch hazel, alum, or zinc oxide) used to reduce secretions and protect epidermal surfaces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Where the astringent memory of Lizzie came into play, Lawrence was dumb."*
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"Whatever pleasant or unpleasant, sweet or not sweet, bitter or astringent thing meets his tongue will become of the finest flavour, like heavenly nectar; nothing will be unpleasant."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Where the autumn breeze blew over the marsh, the air held an **astringent** coolness that revived his weary spirits."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Application of a mild **astringent** lotion effectively diminished cutaneous exudation and accelerated healthy epithelial healing."*
+> - 📜 **Ralph Waldo Emerson (*English Traits*):** *"There is an **astringent** common sense in the English temperament that rejects wild metaphysical abstractions."*

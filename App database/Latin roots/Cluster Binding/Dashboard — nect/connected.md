@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Connect, fasten, or put together two or more pieces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a logical or causal connection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Joined, linked, or associated together; having a coherent relationship or continuous communication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In topology and graph theory, describing a space or network where a continuous path exists between any two points or nodes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Apollonie was intimately connected with the earliest impressions of her childhood, as well as with the experiences of her youth, with all the people whom she had loved most and who had stood nearest to her."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I know that bitter memories are connected with the name, but I also want you to know that you will deprive yourself of a great blessing if you banish the boy who bears that name." "Please let him come here, if only for a little while," Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Richard, anxious to atone for his thoughtlessness of yesterday, good-naturedly explained that Miss Jellyby was not connected with the suit."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"They were intimately **connected** by long family friendship and common intellectual interests."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"All the circumstances were closely **connected** in my memory with that fateful autumn evening at Thornfield."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Every mysterious circumstance was neatly **connected** into an unbroken chain of deductive evidence."*

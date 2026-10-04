@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lean and sinewy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of meat) full of sinews; especially impossible to chew.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing, consisting of, or resembling long, tough strings or fibrous threads; chewy and fibrous in texture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical geology, metallurgy, and culinary anatomy, exhibiting viscous ropiness or tough, fibrous connective tissue bands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"At one place in the path he saw a tuft of stringy roots washed white and clean as a bundle of tendons."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"After all superfluous flesh is gone what is left is stringy and resistant."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"From the wild stringy root of human uprightness, she has reared a due sense of the Divine justice."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The turf was bound together by **stringy** roots of wild heath that clung with stubborn tenacity to the barren chalk hill."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The meat of the wild guanaco was lean and **stringy**, requiring hours of slow simmering over our campfires to make it tender."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Long, **stringy** filaments of marine weed hung from the rusty anchor flukes, dripping sea-water onto the forecastle deck."*

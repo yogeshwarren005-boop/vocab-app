@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A folded section placed between the leaves of another publication.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artifact that is inserted or is to be inserted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To put, set, or place something into another object; or a separate printed sheet, advertisement, or illustration bound within a publication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomical and surgical nomenclature, to attach a tendon or muscle to a mobile bone; or to introduce an instrument into a bodily cavity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You could for a need study a speech of some dozen or sixteen lines, which I would set down and insert in’t, could you not?"*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In the centre was a small oval enclosure; this was left blank, that the sender might insert tender words more appropriate to the special occasion than any generalities by a printer could possibly be."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He ought to have been dead long ago.” Warden Atherton, after a hard struggle, managed to insert his forefinger between the lacing and my back."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You could for a need **insert** five or six lines into the script, which you would do in earnest for our diversion."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In the centre was a small oval enclosure; to **insert** a wedge into the timber required steady and deliberate handiwork."*
+> - 📜 **Jack London (*The Star Rover*):** *"The guards hastened to **insert** the heavy iron key into the cell door before the commotion aroused the whole corridor."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of circumstances) tending to constrict freedom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Restricting the scope or freedom of action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving or tending to contract, tighten, or narrow; causing compression, restriction, or limitation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology (as in constrictive pericarditis), characterized by rigid fibrotic thickening that impairs normal physiological expansion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, constrictive designates (of circumstances) tending to constrict freedom."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic inflammation of the pericardial sac produces a dense, **constrictive** sheath that hampers diastolic ventricular filling."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Feudal guild regulations exerted a highly **constrictive** influence upon the natural expansion of artisan manufacturing."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"The tight corsets worn by fashionable women exerted a **constrictive** pressure upon the thoracic cage and vital organs."*

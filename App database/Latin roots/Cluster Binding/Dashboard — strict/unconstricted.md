@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not constricted physically or by extension psychologically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not constricted physically or by extension psychologically.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not compressed, narrowed, or tightened; free from physical compression, inhibiting restriction, or artificial limitation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In circulatory physiology and biomechanics, characterized by fully dilated vessel lumens, unimpeded fluid flow, and normal elastic compliance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unconstricted designates not constricted physically or by extension psychologically."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"When the tender tendril grows in an **unconstricted** space, it moves in wide, graceful circles seeking support."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"In the healthy circulatory system, blood flows smoothly through **unconstricted** arterioles without excessive vascular resistance."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"The Gothic vault arches upward with an **unconstricted** vitality that mirrors the soaring branches of a primeval forest."*

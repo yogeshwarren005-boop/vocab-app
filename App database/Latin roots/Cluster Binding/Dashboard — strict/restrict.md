@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Place restrictions on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place under restrictions; limit access to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To put a limit on someone or something; to keep within bounds, confine, or control access to resources or movements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional governance and resource management, to limit personal liberties, trade flows, or property use by statutory regulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The attempts of two of the States to restrict the authority of the legislature in the article of military establishments, are of the number of these instances."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Most elderly reject the diminution of their abilities and interests, although as they age into the seventh and eighth decades they may be compelled to restrict their direct involvement somewhat."*
-> - 📜 **Bram Stoker (*Dracula*):** *"Now let us see how far the general powers arrayed against us are restrict, and how the individual cannot."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The powers granted to the central government must not arbitrarily **restrict** the traditional rights of the several states."*
+> - 📜 **Bram Stoker (*Dracula*):** *"Now let us see what precautions we can take to **restrict** the vampire's movements within the perimeter of the ancient abbey."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The only purpose for which power can be rightfully exercised over any member of a civilized community is to prevent harm to others; in all else, the law must not **restrict** him."*

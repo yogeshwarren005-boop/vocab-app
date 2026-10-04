@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: State categorically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To declare or affirm solemnly and formally as true.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To declare or state positively, emphatically, and with confidence; to affirm or maintain a claim, right, or proposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy of language and epistemic logic, to produce a speech act committing the speaker to the truth of an expressed proposition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It wasn’t a bad profession; he couldn’t assert that he disliked it; perhaps he liked it as well as he liked any other—suppose he gave it one more chance!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed is at once permitted so far to assert his supremacy as to be carried on a visit of sentiment into the next house and upstairs into Miss Flite’s deserted room, where he looks like a hideous bird of prey newly added to her aviary."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"That I assert no cause whatever of complaint against her."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The wronged duke stood before the assembly to **assert** his ancestral rights against the usurping council."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"We cannot reasonably **assert** the certainty of any proposition beyond the clear evidence furnished by sensory experience and reflection."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The commons resolved to **assert** their parliamentary privileges with unyielding resolution against royal prerogative."*

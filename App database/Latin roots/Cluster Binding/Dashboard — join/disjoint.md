@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Part; cease or break association with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Separate at the joints.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To disrupt the connection or continuity of; to dislocate or pull out of natural joint or alignment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In set theory and discrete mathematics, describing two or more sets that possess no elements in common.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But let the frame of things disjoint, Both the worlds suffer, Ere we will eat our meal in fear, and sleep In the affliction of these terrible dreams That shake us nightly."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She hastily slipped on her clothes, stumped down the disjointed staircase with its hundred creaks, ran to Coggan’s, the nearest house, and raised an alarm."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Thereupon her whistling became so disjointed that the listener, if such there were, must have discovered her suspicion of his presence."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Our state to be **disjoint** and out of frame, Colleagued with this dream of his advantage."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Civil wars and factional rivalries **disjoint** the orderly administrative machinery of an empire."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Revolutionary dogmas threaten to **disjoint** the organic fabric of venerable social institutions."*

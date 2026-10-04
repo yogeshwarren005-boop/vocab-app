@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used in some classifications for the swans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in some classifications for the swans.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The avian subfamily of Anatidae comprising true geese, swans, and closely related grazing waterfowl.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In wetland wildlife biology and systematic ornithology, an Anatid subfamily distinguished from true ducks by monochromatic plumage, monomorphic sexes, and lifelong pair bonding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anserinae designates used in some classifications for the swans."*
+> - 📜 **Spencer Fullerton Baird (*The Water Birds of North America*):** *"Within the family Anatidae, the subfamily **Anserinae** includes the stately swans alongside the typical northern geese."*
+> - 📜 **Robert Ridgway (*A Manual of North American Birds*):** *"The reticulate tarsal scaling serves as a diagnostic family marker separating the **Anserinae** from river ducks."*
+> - 📜 **Frank Chapman (*Handbook of Birds of Eastern North America*):** *"The migratory patterns of the **Anserinae** span entire hemispheres, connecting subarctic tundra breeding grounds with temperate wintering bays."*

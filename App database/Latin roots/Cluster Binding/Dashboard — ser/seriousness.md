@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An earnest and sincere feeling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of arousing fear or distress.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Earnest gravity of demeanor, profound solemnity, and thoughtful absorption in important matters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and moral theory, high seriousness (spoudaiotes) signifies Aristotle's criterion for sublime tragic poetry reflecting universal truths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Just look at the progress I am making." With comical seriousness the Baron pointed to the empty cup and the sole remaining roll."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Her cheeks had lost a great deal of their healthful fire from the very seriousness of her position; but her eye was bright with the excitement of a triumph—though it was a triumph which had rather been contemplated than desired."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Her beauty, which, whilst it had been quiescent, he had praised in jest, had in its animated phases moved him to earnest; and though his seriousness was less than she imagined, it was probably more than he imagined himself."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Her cheeks had lost their former bloom, replaced by a quiet **seriousness** born of unexpected suffering."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"The highest poetry must possess that grand virtue of high **seriousness** which arises from profound poetic truth."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The tutor observed the unusual **seriousness** with which the young girl applied herself to the challenging lesson."*

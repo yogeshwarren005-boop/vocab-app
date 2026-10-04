@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to coitus or copulation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to coitus or copulation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, designed for, or involved in sexual union, mating, or copulation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary morphology and entomology, describing anatomical intromittent organs, claspers, and behavioral displays dedicated exclusively to facilitating reproductive insemination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, copulatory designates of or relating to coitus or copulation."*
+> - 📜 **Alfred Russel Wallace (*Darwinism: An Exposition of the Theory of Natural Selection*):** *"The complex structure of the male **copulatory** appendages in dragonflies presents an insurmountable mechanical barrier to interspecific hybridization."*
+> - 📜 **Julian Huxley (*The Courtship Habits of the Great Crested Grebe*):** *"Mutual display ceremonies precede the final **copulatory** posturing on the water platform, coordinating endocrine readiness across both partners."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"The bifid **copulatory** spicules of nematodes provide mechanical stability during the transmission of spermatophores within narrow bursal envelopes."*

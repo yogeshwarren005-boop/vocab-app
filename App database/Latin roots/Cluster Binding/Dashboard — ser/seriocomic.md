@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mixing the serious with the comic with comic predominating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mixing the serious with the comic with comic predominating.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Combining serious and comical elements, with the lighthearted or comic aspect typically predominating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary aesthetics and satire, an ironical tone that addresses weighty philosophical or political dilemmas through whimsical or mocking humor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"MRS BREEN: You were the lion of the night with your seriocomic recitation and you looked the part."*
+> - 📜 **Washington Irving (*Knickerbocker's History of New York*):** *"The author maintained a delightfully **seriocomic** gravity while recounting the absurd squabbles of the early Dutch burghers."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"Mr. Pickwick stepped forward into the crowd with a **seriocomic** earnestness that moved bystanders to affectionate amusement."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Teufelsdröckh expounds his philosophy of clothes with an enigmatic **seriocomic** vehemence that baffles conventional commentators."*

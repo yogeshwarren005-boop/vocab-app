@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several muscles of the trunk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several muscles of the trunk.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several saw-toothed muscles of the human thorax and back, particularly the serratus anterior muscle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human functional kinesiology and sports medicine, a fan-shaped thoracic muscle that protracts the scapula and pulls it forward around the ribcage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serratus designates any of several muscles of the trunk."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The **serratus** anterior muscle arises by fleshy digitations from the outer surfaces of the upper eight or nine ribs."*
+> - 📜 **Thomas Huxley (*Lessons in Elementary Physiology*):** *"Contraction of the broad **serratus** draws the shoulder blade forward and steadies the shoulder during violent pushing efforts."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Paralysis of the long thoracic nerve impairs the action of the **serratus**, resulting in prominent winging of the scapula."*

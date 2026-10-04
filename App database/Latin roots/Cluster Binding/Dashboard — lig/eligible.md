@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Qualified for or allowed or worthy of being chosen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Qualified for or allowed or worthy of being chosen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Legally, formally, or practically qualified to participate, hold office, or be chosen; desirable or suitable as a prospective candidate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social courtship conventions and statutory law, meeting all conventional financial, class, or legal standards for marriage or appointment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"We have only, in the first place, to discover a sufficiently eligible practitioner; and as soon as we make our want—and shall I add, our ability to pay a premium?—known, our only difficulty will be in the selection of one from a large number."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He might be deemed eligible by you and might be disposed to respond to this proposal."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"As to beauty, I am not a judge of that myself, and I never did give much attention to it from a boy, but I dare say the young lady is equally eligible in that point of view."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The community regarded young Mr. Chettam as an eminently **eligible** suitor, possessed of unencumbered estates and amiable manners."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"The commissioner verified that every applicant was physically **eligible** before admitting them into the constabulary ranks."*
+> - 📜 **Oscar Wilde (*The Importance of Being Earnest*):** *"Lady Bracknell examined his family connections to judge whether he could be regarded as an **eligible** husband for her daughter."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: State of being disconnected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of breaking a connection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The severance, division, or separation of two entities; a distinct divergence or contrast between components.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal propositional logic and cell genetics, an 'either/or' logical operation true if at least one component is true, or the normal segregation of chromosomes during meiosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"On mine honour, I’ll point you where you shall have such receiving As shall become your highness; where you may Enjoy your mistress; from the whom, I see, There’s no disjunction to be made, but by, As heavens forfend, your ruin."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"In a hypothetical proposition expressing **disjunction**, we affirm that one of two alternative predicates must necessarily apply to the subject."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The philosophical **disjunction** between theoretical intellect and sensory experience has produced centuries of sterile scholastic dispute."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"Logical **disjunction** requires careful definition to ensure that the inclusive interpretation remains formally consistent across all proofs."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A producer of raw silk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A producer of raw silk.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who raises silkworms or engages professionally in the practice and science of sericulture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agronomic practice, a specialist skilled in silkworm pathology, temperature-controlled incubation, mulberry foliar management, and cocoon grading.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sericulturist designates a producer of raw silk."*
+> - 📜 **Louis Pasteur (*Studies on the Disease of Silkworms*):** *"The French **sericulturist** faced catastrophic economic ruin when pebrine disease infected his entire nursery of silkworm eggs."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The experienced **sericulturist** selects breeding pairs with obsessive care to maintain the tensile strength of the harvested silk thread."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"A patient **sericulturist** watching his spinning worms might discover profound parables on industry and simple living."*

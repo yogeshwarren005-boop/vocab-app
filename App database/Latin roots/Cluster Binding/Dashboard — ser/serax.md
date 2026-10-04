@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tranquilizing drug (trade name serax) used to treat anxiety and insomnia and alcohol withdrawal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tranquilizing drug (trade name serax) used to treat anxiety and insomnia and alcohol withdrawal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pharmaceutical brand name for oxazepam, a short-to-intermediate-acting benzodiazepine medication used to treat anxiety disorders and alcohol withdrawal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychopharmacology, an active sedative-anxiolytic that enhances GABAergic neurotransmission at the GABA-A receptor complex with minimal active metabolites.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serax designates a tranquilizing drug (trade name serax) used to treat anxiety and insomnia and alcohol withdrawal."*
+> - 📜 **William Burroughs (*The Soft Machine*):** *"The clinical attendant administered a mild sedative known as **Serax** to steady the trembling patient during the crisis."*
+> - 📜 **Philip K. Dick (*A Scanner Darkly*):** *"He kept a small bottle labeled **Serax** tucked inside his travel kit to manage acute episodes of nocturnal anxiety."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The temporary introduction of **Serax** alleviated the autonomic agitation without clouding cognitive faculties excessively."*

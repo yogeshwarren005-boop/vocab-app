@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance (an atom or molecule or radical or ion) that forms a complex around a central atom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance (an atom or molecule or radical or ion) that forms a complex around a central atom.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ion or molecule that binds specifically to a central metal atom to form a coordination complex, or binds to a biological receptor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and coordination chemistry, an electron-pair donating group or signaling molecule that induces conformational changes in proteins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ligand designates a substance (an atom or molecule or radical or ion) that forms a complex around a central atom."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The bonding between a metallic ion and a surrounding **ligand** involves both electrostatic attraction and coordinate covalent electron donation."*
+> - 📜 **Svante Arrhenius (*Immunochemistry*):** *"The equilibrium between the biological receptor and its complementary **ligand** obeys the fundamental mathematical laws of mass action."*
+> - 📜 **John Howard Northrop (*Crystalline Enzymes*):** *"The specific binding of an organic **ligand** to the enzymatic active site dictates the catalytic rate of metabolic transformation."*

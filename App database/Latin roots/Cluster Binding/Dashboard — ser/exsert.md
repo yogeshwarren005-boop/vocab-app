@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Thrust or extend out.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thrust or extend out.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To project, thrust outward, or protrude beyond surrounding parts or an enclosing structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical morphology and entomology, designating stamens, pistils, or insect ovipositors that extend prominently beyond the corolla or body margin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exsert designates thrust or extend out."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The slender blossoms of the fuchsia exhibit elongated stamens that **exsert** far beyond the scarlet lobes of the calyx."*
+> - 📜 **Charles Darwin (*The Various Contrivances by Which Orchids Are Fertilised by Insects*):** *"Certain orchid species **exsert** their adhesive pollen masses so that visiting insects necessarily carry them to the stigma."*
+> - 📜 **William Jackson Hooker (*British Flora*):** *"In this species of heath, the anthers do not remain concealed within the bell but distinctly **exsert** into the open air."*

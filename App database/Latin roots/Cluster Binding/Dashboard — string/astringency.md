@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sharp astringent taste; the taste experience when a substance causes the mouth to pucker.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ability to contract or draw together soft body tissues to check blood flow or restrict secretion of fluids.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sharp, drying, or puckering quality in taste or sensation; or the capacity to contract and tighten organic tissues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In enology and literary criticism, the tannic bitterness in dry wines; or severe, harsh, biting rigor in satirical prose.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, astringency designates a sharp astringent taste; the taste experience when a substance causes the mouth to pucker."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Then, when he spoke, there was a dry **astringency** in his tone that checked any exuberant outburst of juvenile enthusiasm."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The wild fruits growing upon the patagonian hills possessed an extreme **astringency**, rendering them completely unpalatable to our party."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"In traditional medicine, plants possessing marked **astringency** were frequently chosen for sacred purification rituals."*

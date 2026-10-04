@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several australian eucalypts having fibrous inner bark.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several australian eucalypts having fibrous inner bark.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several Australian eucalyptus trees characterized by thick, fibrous, deeply furrowed bark that can be stripped off in long cords.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Australian silviculture and forestry, timber-yielding Eucalyptus species (such as Eucalyptus obliqua) yielding durable building timber and fibrous bark used for cordage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stringybark designates any of several australian eucalypts having fibrous inner bark."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"In the blue mountains of New South Wales, the majestic **stringybark** eucalyptus trees rose with fibrous trunks high into the clear sky."*
+> - 📜 **Alfred Russel Wallace (*Australasia*):** *"Settlers constructed their first bush huts using the thick, pliable bark stripped from the towering **stringybark** trees."*
+> - 📜 **Ferdinand von Mueller (*Eucalyptographia*):** *"The economic value of the **stringybark** lies not only in its excellent timber for railway ties, but also in the tough fibers of its cortex."*

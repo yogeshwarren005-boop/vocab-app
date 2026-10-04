@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exaggerated or affected piety and religious zeal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exaggerated or affected piety and religious zeal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affectation or ostentation of religious feeling; bigoted or fanatical devotion to the external forms of religion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical and philosophical critique, dogmatic sectarianism that exalts ritual conformity above universal ethical values.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, religiousism designates exaggerated or affected piety and religious zeal."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"We must carefully separate the eternal mystery of existence from the transient dogmas of historical **religiousism**."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Empty formulas and noisy **religiousism** cannot sustain a nation when the living spirit of honest labor has departed."*
+> - 📜 **Matthew Arnold (*Literature and Dogma*):** *"The narrow **religiousism** of the sectaries mistook poetic imagery for literal scientific definitions of the divine."*

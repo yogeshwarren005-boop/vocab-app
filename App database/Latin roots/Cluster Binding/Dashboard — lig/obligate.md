@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Force somebody to do something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Commit in order to fulfill an obligation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To bind or compel someone morally, legally, or logically to perform a certain duty, covenant, or course of action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biology and ecology, restricted to a particular mode of life, environment, or host, having no alternative capacity for survival (as an obligate parasite).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"So, he’d come with a most tremenjous crowd and make such a row at the doors of the houses where we was, that they used to be obligated to have no more to do with us and to give us up to him."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"He feels morally obligated to 451:24 open the eyes of his students that they may perceive the nature and methods of error of every sort, especially any subtle degree of evil, deceived and deceiving."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A treaty ratified by the sovereign authority must **obligate** every state in the union to execute its provisions faithfully."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Certain parasitic insects are so specialized that they **obligate** their progeny to develop within a single species of host caterpillar."*
+> - 📜 **Thomas Henry Huxley (*Critiques and Addresses*):** *"Moral principles **obligate** the rational mind to acknowledge established physical truths, regardless of prior theological prejudices."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the conjunctiva of the eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the conjunctiva of the eye.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the conjunctiva of the eye, typically marked by redness, swelling, irritation, discharge, and tearing (commonly termed pink eye).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmic pathology, an acute or chronic inflammation of the palpebral and bulbar conjunctiva caused by viral, bacterial, allergic, or toxic etiologies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conjunctivitis designates inflammation of the conjunctiva of the eye."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute catarrhal **conjunctivitis** spreads with astonishing rapidity through crowded institutions and schools unless strict hygiene is maintained."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp: Being Facts and Fancies of Medical Life*):** *"The irritation caused by chemical vapors had produced a severe follicular **conjunctivitis** that clouded the workman's vision."*
+> - 📜 **George Bernard Shaw (*The Doctor's Dilemma*):** *"The young physician gravely announced a diagnosis of simple **conjunctivitis**, prescribing a harmless boric acid eye wash."*

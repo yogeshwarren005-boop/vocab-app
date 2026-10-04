@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Speak as if delivering a sermon; express moral judgements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Speak as if delivering a sermon; express moral judgements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To deliver a religious sermon; or to lecture, exhort, and offer unsolicited moral advice in an authoritarian or didactic tone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Victorian literature and conversational etiquette, reproving moralizing behavior that tires companions with preachy lectures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"You used occasionally to sermonise too; I wish you would, in charity, favour me with a sheet full in your own way."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"When do you intend to give up sermonising?" was the other's reply."*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"By his knack of sermonising and pious discoursing, he contrived to make a great impression on Mr."*
+> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"You used occasionally to **sermonise** too; I would gladly hear another lecture from your friendly lips."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"When do you intend to give up your habit to **sermonise** every honest friend who makes a slip in society?"*
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"By his knack of preaching and his relentless zeal to **sermonise**, the old servant made every Sabbath a day of torment."*

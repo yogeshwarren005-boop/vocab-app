@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Place restrictions on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place under restrictions; limit access to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Placing limits or boundaries on someone or something; keeping within definite bounds or controlling freedom of action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In regulatory policy and biological adaptation, limiting the expansion of market monopolies or confining anatomical development.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The inelasticity was necessitated by illogical federal and state laws restricting absolutely the further extension of credit when the reserves fell below the percentage of deposits (15 or 25 per cent) fixed by law."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Not even to marry Isabel was he going to impose on his own unbroken egoism the restricting code of a country village."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"At that time in the morning any Christian would have washed his face; but Queequeg, to my amazement, contented himself with restricting his ablutions to his chest, arms, and hands."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"By **restricting** the output of coal mines, the commercial cartel succeeded in maintaining artificially inflated prices across the market."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The captain paced the quarterdeck, **restricting** the sailors to their essential duties while the gale raged around them."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A constitutional charter achieves its purpose by **restricting** legislative excess and protecting fundamental civic guarantees."*

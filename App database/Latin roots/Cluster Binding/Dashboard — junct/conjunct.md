@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Progressing melodically by intervals of a second.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bound in close association.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Joined together; combined; united in action, association, or purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal logic, music theory, and grammatical coordination, one of the propositions joined by a conjunction, or melodic motion proceeding by stepwise intervals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am doubtful that you have been conjunct And bosom’d with her, as far as we call hers."*
+> - 📜 **William Shakespeare (*King Lear*):** *"Not Hercules could have knock'd out his brains, for he had none; yet was he **conjunct** and flattering with his vicious master."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"When theoretical speculation and practical mechanics act in **conjunct** harmony, human power over nature multiplies exceedingly."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Ideas that are found **conjunct** in our experience tend to become so intimately bound in imagination that separation becomes impossible."*

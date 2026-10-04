@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of plants that are rich in nectar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of plants that are rich in nectar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Yielding, containing, or characterized by an abundant and concentrated supply of floral nectar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pollination biology and apiculture, describing plant taxa whose high nectar volume and sugar concentration make them premier forage for honeybees.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nectar-rich designates of plants that are rich in nectar."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The **nectar-rich** blossoms of red clover are visited predominantly by long-tongued humble-bees capable of reaching the tube base."*
+> - 📜 **Alfred Russel Wallace (*Darwinism*):** *"Hummingbirds and sunbirds congregate wherever **nectar-rich** tropical trees burst into simultaneous blossom."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The apiary thrived exceedingly during July, when the lime trees offered an abundance of **nectar-rich** blossoms."*

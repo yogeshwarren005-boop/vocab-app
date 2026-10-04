@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or resembling a goose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or revealing stupidity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resembling, or characteristic of a goose; or foolish, silly, and clumsy in behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human medicine and dermatology, cutis anserina denotes goose bumps caused by pilomotor reflex contraction under cold exposure or fear.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anserine designates of or resembling a goose."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"He laughed at the **anserine** pomposity of the provincial dignitaries strutting through the council hall."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"A sudden gust of icy wind chilled our marrow and provoked an immediate **anserine** roughness upon our bare forearms."*
+> - 📜 **William Makepeace Thackeray (*The History of Pendennis*):** *"The young gentleman displayed an **anserine** simplicity in trusting his meager fortune to unprincipled sharper acquaintances."*

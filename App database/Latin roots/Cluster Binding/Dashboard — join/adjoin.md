@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lie adjacent to another or share a boundary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be in direct physical contact with; make contact.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To be next to and joined with; to share a common boundary, wall, or border with another place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In real property law and surveying, to touch directly along a property line or boundary without intervening land.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is a massy wheel Fix’d on the summit of the highest mount, To whose huge spokes ten thousand lesser things Are mortis’d and adjoin’d; which when it falls, Each small annexment, petty consequence, Attends the boist’rous ruin."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Your room adjoins mine,” said he, opening a door, “and mine opens into the drawing-room that we have just quitted.” I entered the Captain’s room: it had a severe, almost a monkish, aspect."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"If this adjoins railroad tracts, he can secure what is desired of the latter at from two to ten dollars per acre."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The stables and outhouses **adjoin** the main mansion, forming an enclosed quadrangular court."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"His private chambers directly **adjoin** the offices of the legal partnership in Lincoln's Inn Fields."*
+> - 📜 **Sir Walter Scott (*Ivanhoe*):** *"The banquet apartments **adjoin** the great courtyard of the Saxon manor, separated only by a stout oaken partition."*

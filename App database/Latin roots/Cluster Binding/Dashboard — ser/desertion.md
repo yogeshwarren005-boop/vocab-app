@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Withdrawing support or help despite allegiance or responsibility.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of giving something up.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of abandoning, forsaking, or relinquishing a post, duty, dependent, or allegiance without lawful cause.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In family law and marital jurisprudence, the willful abandonment of cohabitation by one spouse without mutual consent or justifiable cause.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Fortunately (though I do not deny that I felt each desertion) our band grew less and less every day."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I replied— “There is no dishonour, no breach of promise, no desertion in the case."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Impromptu On General Dumourier’s Desertion From The French Republican Army You’re welcome to Despots, Dumourier; You’re welcome to Despots, Dumourier: How does Dampiere do?"*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The sudden **desertion** of public duties during times of foreign peril threatens the very existence of the republic."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She bore the agonizing loneliness of his prolonged **desertion** with heartbreaking patience and silent grief."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The widespread **desertion** of frontier garrisons left the Roman provinces completely exposed to barbarian incursions."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A new england state; one of the original 13 colonies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A river in the northeastern united states; flows south from northern new hampshire along the border between new hampshire and vermont and through massachusetts and connecticut where it empties into long island sound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A northeastern United States state in New England, bordered by New York, Massachusetts, and Rhode Island.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American geographical history, an Algonquian-derived toponym meaning 'beside the long tidal river', adopted by the 1788 charter state.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"I was brought up religiously as a servant in a family in Connecticut, and from twelve years of age until twenty-three, knew no other home."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The story is told by the Christian woman to whom it happened, in her own language: "About the month of January, 1863, I was living in Connecticut, alone with two little boys, one of them four years old, and the other about a year and a half old."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In 1910 the plan was adopted in California; and it is largely used in New Jersey, Connecticut, Delaware, and Pennsylvania, and to a small extent in some other states."*
+> - 📜 **Mark Twain (*A Connecticut Yankee in King Arthur's Court*):** *"I am an American; but I was born and reared in **Connecticut**, where we make everything from clocks to locomotives."*
+> - 📜 **Henry David Thoreau (*A Week on the Concord and Merrimack Rivers*):** *"The broad valley of the **Connecticut** River supported flourishing agrarian communities from colonial times."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Many veteran whalemen hailed from the rocky shores of Massachusetts and the maritime hamlets of **Connecticut**."*

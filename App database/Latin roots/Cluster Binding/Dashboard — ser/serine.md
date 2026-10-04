@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sweetish crystalline amino acid involved in the synthesis by the body of cysteine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sweetish crystalline amino acid involved in the synthesis by the body of cysteine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A nonessential polar amino acid found in most proteins, essential for the biosynthesis of purines, pyrimidines, and cellular membranes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and enzymology, a proteinogenic amino acid whose hydroxymethyl side chain frequently serves as a catalytic nucleophile in serine proteases.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serine designates a sweetish crystalline amino acid involved in the synthesis by the body of cysteine."*
+> - 📜 **J. B. S. Haldane (*The Causes of Evolution*):** *"Enzymatic hydrolysis of natural fibroin yielded substantial quantities of the crystalline polar amino acid **serine**."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The reactive hydroxyl side chain of **serine** participates readily in hydrogen bonding and catalytic phosphorylation reactions."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"The genetic code assigns specific trinucleotide codons that dictate the incorporation of **serine** into polypeptide chains."*

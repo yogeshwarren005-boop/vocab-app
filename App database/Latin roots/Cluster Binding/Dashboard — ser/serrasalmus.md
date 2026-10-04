@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Piranhas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Piranhas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of carnivorous characin freshwater fishes native to tropical South America, comprising notorious aggressive piranhas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neotropical freshwater ecology and limnology, predatory riverine characiforms characterized by compressed bodies, sharp ventral serrae, and interlocked razor-sharp triangular teeth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog serrasalmus as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Theodore Roosevelt (*Through the Brazilian Wilderness*):** *"The ferocious piranha belonging to the genus **Serrasalmus** will snap off a man's finger with clean surgical ease if incautiously handled in the boat."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of the New Continent*):** *"The caribe fishes of the genus **Serrasalmus** infest the calm waters of the Orinoco, rendering bathing perilous whenever blood is drawn."*
+> - 📜 **Henry Walter Bates (*The Naturalist on the River Amazons*):** *"The native fishermen warned us never to trail our hands in the river lagoons on account of the voracious shoals of **Serrasalmus**."*

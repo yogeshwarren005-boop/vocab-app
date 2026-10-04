@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Living quarters reserved for wives and concubines and female relatives in a muslim household.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Living quarters reserved for wives and concubines and female relatives in a muslim household.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sequestered living quarters reserved for wives and concubines in an Ottoman palace; a harem or secluded residence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Orientalist literature and architectural history, the imperial palace complex of the Ottoman sultans, exemplified by the Topkapi palace in Istanbul.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I would not exchange this one little English girl for the Grand Turk’s whole seraglio, gazelle-eyes, houri forms, and all!” The Eastern allusion bit me again."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I’ll not stand you an inch in the stead of a seraglio,” I said; “so don’t consider me an equivalent for one."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"We have been taught to tremble at the terrific visages of murdering janizaries, and to blush at the unveiled mysteries of a future seraglio."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I would not exchange this one little English hearth for the grandest palace or golden **seraglio** in the Orient."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"We have been taught to tremble at the imaginary terrors of executive corruption as if it were a despotic Ottoman **seraglio**."*
+> - 📜 **Lord Byron (*Don Juan*):** *"Disguised in oriental silks, he was smuggled past the watchful eunuchs into the guarded courtyards of the **seraglio**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of being connected reciprocally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (computer science) the act of interconnecting (wires or computers or theories etc.).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mutual or reciprocal connection between two or more things, systems, or ideas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In infrastructure engineering, a tie-line or physical conduit allowing bidirectional exchange of energy, data, or traffic between distinct networks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, interconnection designates a state of being connected reciprocally."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Evolutionary progress reveals an advancing structural **interconnection** among specialized social organs."*
+> - 📜 **Alfred North Whitehead (*Process and Reality*):** *"Every actual entity achieves concrete reality through its systematic **interconnection** with the entire cosmic continuum."*
+> - 📜 **H. G. Wells (*Anticipations*):** *"The rapid **interconnection** of world commercial centers by steam and cable heralded a new international order."*

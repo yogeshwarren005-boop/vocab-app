@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a series; one after another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a series; one after another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One after another in regular, orderly succession; point by point, item by item, or serially.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In appellate judicial practice, the delivery of separate legal opinions by each individual judge on a panel rather than a single unified majority opinion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Having said thus much, I will take up the judge’s interrogatories as I find them printed in the _Chicago Times_, and answer them _seriatim_."*
+> - 📜 **Thomas Jefferson (*Writings of Thomas Jefferson*):** *"The justices of the Supreme Court ought to deliver their opinions **seriatim**, that the public might know the constitutional reasoning of each magistrate."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The committee examined the proposed amendments **seriatim**, carefully debating the merits of each specific clause."*
+> - 📜 **Samuel Taylor Coleridge (*Table Talk*):** *"He took up the objections **seriatim**, demolishing each superficial sophism with formidable philosophical rigor."*

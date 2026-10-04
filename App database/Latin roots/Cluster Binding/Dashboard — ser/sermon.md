@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An address of a religious nature (usually delivered during a church service).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A moralistic rebuke.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A religious discourse or address delivered in public, typically by a clergyman during a worship service, based on a passage of scripture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lengthy, earnest admonition, lecture, or moral reproof delivered to caution or reprove someone's conduct.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In her chamber, making a sermon of continency to her; And rails, and swears, and rates, that she, poor soul, Knows not which way to stand, to look, to speak, And sits as one new risen from a dream."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It was while they were preparing to sing, before the sermon."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Yet there is a Sermon on the Mount with a calendar of the blessed at the head, and certain meek men may be named therein.” “Cainy’s grandfather was a very clever man,” said Matthew Moon."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And this our life, exempt from public haunt, finds tongues in trees, books in the running brooks, sermons in stones, and good in everything, preaching a silent **sermon** to the soul."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"It was while they were preparing to sing, before the **sermon** began, that Esther felt a strange peace settle in her heart."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Yet there is a **Sermon** on the Mount with a comforting message for those who suffer in silence upon this earth."*

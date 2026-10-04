@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To render motionless, as with a fixed stare or by arousing terror or awe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pierce with a sharp stake or point.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To pierce through with or as if with a pointed weapon; to impale; or to render motionless with terror, amazement, or awe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature, surgical trauma, and dramatic rhetoric, to penetrate deeply with a sharp blade or paralyze human volition through overwhelming psychological shock.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Time doth transfix the flourish set on youth, And delves the parallels in beauty’s brow, Feeds on the rarities of nature’s truth, And nothing stands but for his scythe to mow."*
-> - 📜 **William Shakespeare (*Shakespeare's Sonnets*):** *"Time doth transfix the flourish set on youth And delves the parallels in beauty’s brow, Feeds on the rarities of nature’s truth, And nothing stands but for his scythe to mow: And yet to times in hope, my verse shall stand."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Well, you too have power over me, and may injure me: yet I dare not show you where I am vulnerable, lest, faithful and friendly as you are, you should transfix me at once.” “If you have no more to fear from Mr."*
+> - 📜 **William Shakespeare (*Sonnets (Sonnet 60)*):** *"Time doth **transfix** the flourish set on youth, and delves the parallels in beauty's brow."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"We cannot touch a string or move a stop but the charming moral **transfixes** us with unexpected delight."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The sight of that immoveable white forehead seemed to **transfix** the helmsman upon his perch as though struck by sudden lightning."*

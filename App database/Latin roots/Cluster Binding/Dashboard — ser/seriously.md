@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a serious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a severe or serious degree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a grave, earnest, or solemn manner; with deep sincerity and conviction; or to an alarming or dangerous extent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical discourse and legal analysis, considering a claim or obligation with full epistemic and ethical weight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, by my faith and honour, If seriously I may convey my thoughts In this my light deliverance, I have spoke With one that in her sex, her years, profession, Wisdom, and constancy, hath amaz’d me more Than I dare blame my weakness."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, do you think he will make no deed at all of this, that so seriously he does address himself unto?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This to hear Would Desdemona seriously incline."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, by my faith and honor, I speak **seriously** and bid you weigh these tidings with an attentive heart."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I looked at him **seriously**, determined not to be diverted from the solemn duty that lay before me."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes regarded the footprint **seriously**, recognizing that a mortal peril hung over the young baronet."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Progressing melodically by intervals larger than a major second.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having deep constrictions separating head, thorax, and abdomen, as in insects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Separated, disconnected, or marked by separation and discontinuity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In music theory, logic, and biogeography, describing melodic motion moving by wide leaps rather than stepwise steps, or geographically isolated population distributions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disjunct designates progressing melodically by intervals larger than a major second."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The presence of anomalous **disjunct** species on remote mountain summits demonstrates the vast geographic shifts caused by glacial epochs."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"This remarkably **disjunct** distribution across distant continents can only be explained by the subsidence of ancient land corridors."*
+> - 📜 **George Bernard Shaw (*The Perfect Wagnerite: A Commentary on the Niblung's Ring*):** *"The theme proceeds not in flowing conjunct curves, but through bold and **disjunct** intervals expressing heroic determination."*

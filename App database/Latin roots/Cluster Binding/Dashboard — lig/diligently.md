@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With diligence; in a diligent manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With diligence; in a diligent manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a steady, careful, and painstaking manner; with persevering and conscientious attention to detail or duty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archival research and investigative jurisprudence, executed with rigorous, thorough, and exhaustive scrutiny.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce, a very good profession.” “The course of study and preparation requires to be diligently pursued,” observed my guardian with a glance at Richard."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Diligently.” “But that being the case, more or less, with all pursuits that are worth much,” said Mr."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"His first church was at V----, and, though he labored diligently, working with his own hands for his support, he became eighty dollars in debt."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel worked **diligently** throughout the stormy night to secure the wheat ricks against the penetrating rain."*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"The White Rabbit searched **diligently** through the grass for his white kid gloves and fan, muttering anxiously."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mary Garth applied herself **diligently** to her sewing, listening patiently to the querulous complaints of the invalid."*

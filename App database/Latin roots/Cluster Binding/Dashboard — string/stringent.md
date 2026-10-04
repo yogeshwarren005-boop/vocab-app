@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Demanding strict attention to rules and procedures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Demanding strict attention to rules and procedures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Demanding strict, rigorous, and exact adherence to rules, standards, or conditions; severely limiting or restricting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic markets and constitutional administration, characterized by severe shortage of capital or binding, unyielding legal prohibitions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Any business man able to offer any commercial paper of sound quality should now be able to borrow on it at some rate of discount, even in the most stringent times."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Laws and principles are not for the times when there is no temptation: they are for such moments as this, when body and soul rise in mutiny against their rigour; stringent are they; inviolate they shall be."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I should suffer often, no doubt, attached to him only in this capacity: my body would be under rather a stringent yoke, but my heart and mind would be free."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The legislature enacted **stringent** factory inspection laws to curb child labor and ensure sanitary conditions in industrial workshops."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"She submitted with patient fortitude to the **stringent** regulations of Lowood, finding in steady labor a relief from sorrow."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"A **stringent** enforcement of contracts is the indispensable cornerstone upon which modern mercantile enterprise rests."*

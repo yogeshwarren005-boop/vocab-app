@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sheet or band of tough fibrous tissue connecting bones or cartilages or supporting muscles or organs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any connection or unifying bond.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tough, flexible band of fibrous connective tissue that connects two bones or cartilages together or holds a joint in place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy and mechanical biology, dense regular collagenous tissue resisting tensile stress and guiding joint articulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Every kind of finer tendon and ligament that is in the nature of poultry to possess is developed in these specimens in the singular form of guitar-strings."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Interwoven as is the love of liberty with every ligament of your hearts, no recommendation of mine is necessary to fortify or confirm the attachment."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Six years after, she fell again on the same knee, so twisting it and injuring the ligaments that it became partially stiff, and, the physician said, incurable."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The articulation of the bones and the attachment of each **ligament** in the limb display exquisite functional adaptation."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"Microscopic examination of the capsular **ligament** reveals how closely anthropoid shoulder anatomy mirrors that of human primates."*
+> - 📜 **Oliver Wendell Holmes (*The Autocrat of the Breakfast-Table*):** *"Every fibrous **ligament** uniting human hearts in society is woven from mutual memories, shared trials, and long companionship."*

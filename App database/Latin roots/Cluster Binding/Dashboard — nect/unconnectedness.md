@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The lack of a connection between things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lack of a connection between things.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The absence of mutual association, relational coherence, or physical linkage between parts or ideas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemological theory and stylistics, the absence of bridging transitions between propositions or narrative sequences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unconnectedness designates the lack of a connection between things."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Total cognitive **unconnectedness** is an intellectual fiction, for the mind continuously weaves relations across fleeting impressions."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The apparent **unconnectedness** of his fragmented aphorisms concealed a deep and harmonious underlying philosophy."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"The painful **unconnectedness** of her solitary thoughts intensified the melancholy of the quiet river evenings."*

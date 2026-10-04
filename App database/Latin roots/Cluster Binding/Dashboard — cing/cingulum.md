@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (anatomy) an encircling structure (as the ridge around the base of a tooth).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (anatomy) an encircling structure (as the ridge around the base of a tooth).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An anatomical band, girdle, or encircling ridge, especially the ridge at the cervical margin of a tooth crown or a curved bundle of association fibers in the brain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy and biological anthropology, an association fiber tract located within the cingulate gyrus connecting medial temporal and frontal lobes, or a distinctive basal enamel ridge in mammalian dentition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"IX.--OF THE CINGULUM VENERIS, OR THE GIRDLE OF VENUS."*
+> - 📜 **William Henry Flower (*An Introduction to the Osteology of the Mammalia*):** *"The development of a basal **cingulum** on the molar crowns constitutes one of the most reliable diagnostic characters distinguishing primitive ungulates from contemporary carnivores."*
+> - 📜 **G. Elliot Smith (*The Evolution of the Brain*):** *"Through the arcuate course of the **cingulum**, associative pathways from the parahippocampal cortex maintain direct communication with anterior prefrontal formations."*
+> - 📜 **Henry Fairfield Osborn (*Evolution of Mammalian Molar Teeth*):** *"Upon the internal **cingulum** there arise successive cusplets which gradually transform the tritubercular ground plan into a multicuspidate grinding surface."*

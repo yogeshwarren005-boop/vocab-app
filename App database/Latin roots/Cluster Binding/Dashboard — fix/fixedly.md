@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a fixed manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a fixed manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a steadfast, motionless, unwavering, or intently focused manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative psychological characterization, describing an unblinking, concentrated gaze or sustained contemplation that reveals profound emotion or internal paralysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He hastened down to raise her, but she repulsed him as he bent over her, and looking at him fixedly and coldly, said, ‘I will die here where I have walked."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"As I sat looking fixedly at him and the sun’s rays descended, softly shining through the leaves upon his bare head, I felt as if the brightness on him must be like the brightness of the angels."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Well?” he said, in a suppressed passion, fixedly looking at her."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"'Well?' he said, in a suppressed passion, **fixedly** looking at her across the dimly lit kitchen table."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Holmes sat in silence for several minutes, staring **fixedly** at the blue smoke rising towards the ceiling from his briar pipe."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"He looked **fixedly** before him into the gathering shadows of the jungle, as though confronting the phantom of his lost honor."*

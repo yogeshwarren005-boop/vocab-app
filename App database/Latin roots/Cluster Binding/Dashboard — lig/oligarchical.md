@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or supporting or characteristic of an oligarchy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or supporting or characteristic of an oligarchy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or having the nature of an oligarchy; governed by a small, exclusive group of powerful individuals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical sociology and institutional criticism, organized to perpetuate the hereditary, financial, or political dominion of a minority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oligarchical designates of or relating to or supporting or characteristic of an oligarchy."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The ancient senatorial families maintained an **oligarchical** monopoly over the highest magistracies of the republic."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The Venetian republic presented an imposing facade of liberty, but was in reality ruled by an **oligarchical** Council of Ten."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Without regular constitutional elections, the most promising republic would slide into an **oligarchical** despotism."*

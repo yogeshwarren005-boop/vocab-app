@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of proteidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of proteidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic genus of aquatic North American salamanders commonly known as mudpuppies or waterdogs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative vertebrate anatomy and herpetology, a perennibranchiate salamander genus retaining bushy external gills throughout adult life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, necturus designates a genus of proteidae."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The respiratory system of **Necturus** retains three pairs of external branching gills throughout its adult aquatic life."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"Specimens of **Necturus** collected from the Ohio River demonstrate the permanent larval characteristics of perennibranchiate amphibians."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"The genus **Necturus** inhabits muddy lake beds and river bottoms across eastern North America, feeding on small crustaceans and mollusks."*

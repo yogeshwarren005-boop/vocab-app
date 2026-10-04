@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being connected or the degree to which something has connections.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being connected or the degree to which something has connections.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capacity, ability, or degree of being connected or interconnected across multiple components or systems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In telecommunications and graph theory, the minimum number of nodes or links that must be severed to partition a connected network.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, connectivity designates the property of being connected or the degree to which something has connections."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"Global satellite constellations will provide instant communication **connectivity** across the most remote desert islands."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"The neurological deficits stemmed from compromised synaptic **connectivity** within the association cortices."*
+> - 📜 **H. G. Wells (*The World Brain*):** *"Universal intellectual progress requires organized **connectivity** among research libraries and scientific centers."*

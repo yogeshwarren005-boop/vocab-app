@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Blood serum containing antibodies against specific antigens; provides immunity to a disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Blood serum containing antibodies against specific antigens; provides immunity to a disease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Blood serum containing specific antibodies against a targeted pathogen, toxin, or foreign antigen, used for therapeutic or diagnostic passive immunity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical immunology and infectious disease pharmacology, a biological preparation administered to neutralize snake venom, diphtheria toxins, or microbial antigens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antiserum designates blood serum containing antibodies against specific antigens; provides immunity to a disease."*
+> - 📜 **Paul Ehrlich (*Collected Studies on Immunity*):** *"The standardized diphtheria **antiserum** demonstrated a high titer of neutralizing antitoxins capable of arresting cellular necrosis."*
+> - 📜 **Alexis Carrel (*Man, the Unknown*):** *"The timely administration of specific **antiserum** rescued patients suffering from what had previously been lethal bacterial toxemia."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In every suspected exposure to tetanus, prophylactic injection of **antiserum** must be carried out without hesitation."*

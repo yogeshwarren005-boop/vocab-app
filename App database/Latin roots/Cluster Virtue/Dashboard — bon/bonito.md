@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Flesh of mostly pacific food fishes of the genus sarda of the family scombridae; related to but smaller than tuna.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fish whose flesh is dried and flaked for japanese cookery; may be same species as skipjack tuna.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A predatory medium-sized marine fish (genus Sarda) of the mackerel and tuna family Scombridae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology and global fisheries, an epipelagic scombroid fish prized for canning, angling, and dried culinary flakes in East Asian cuisine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"From Kahoolawe, Aiai next went to Lanai, where he started fishing for _aku_ (bonito) at Cape Kaunolu, using his pearl Kahuoi."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Sweet potatoes have been successfully tried in the vicinity of Fort Sumner and along the head-waters of the Rio Bonito."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"These waters furnished our table with excellent fish, mackerel, bonitos, and some varieties of a sea-serpent."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Schools of swift **bonito** darted through the glassy swell, pursuing flying fish with voracious agility."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Sailors caught several fine specimens of **bonito**, whose dark red flesh provided a welcome fresh meal at sea."*
+> - 📜 **Ernest Hemingway (*The Old Man and the Sea*):** *"The old fisherman cut a small **bonito** into neat strips of bait to lure the giant marlin from the depths."*

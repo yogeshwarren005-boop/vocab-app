@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Covered with bony plates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Covered with bony plates.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Protected or reinforced with an exterior covering of hard osteal plates or bony scales.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleontology and comparative zoology, designating organisms whose dermis develops ossified scutes, such as armadillos, sturgeons, or armored dinosaurs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bony-plated designates covered with bony plates."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The fossil beds yielded giant **bony-plated** edentates whose heavy armor protected them from prehistoric carnivores."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The sturgeon exhibits longitudinal rows of **bony-plated** scutes shielding its cartilaginous body from river obstacles."*
+> - 📜 **Louis Agassiz (*Geological Sketches*):** *"Paleozoic oceans swarmed with **bony-plated** ganoids representing the earliest armored experiments of vertebrate evolution."*

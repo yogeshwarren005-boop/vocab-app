@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of parents and children; related by adoption.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acquired as your own by free choice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Related through or acquired by legal adoption rather than by biological descent; also having the power to adopt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social anthropology and legal status doctrine, describing non-consanguineous relationships given full juridical and ceremonial equivalence to blood ties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Her husband had been an advanced member of the Order, and she had herself taken all the "Adoptive Degrees." These reasons induced her to seek the aid of the Order, and she was pleased to find that she met with much encouragement."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"A woman will take a boy whom she intends to adopt and push or pull him through her clothes; ever afterwards he is regarded as her very son, and inherits the whole property of his adoptive parents."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"He cannot mention them all--"new, old, barbarian, Greek, Roman, foreign, captive, adoptive, special, common, male, female, rustic, urban, nautical and military"--but Saturn at any rate was a man, as the historians know."*
+> - 📜 **Sir Walter Scott (*Rob Roy*):** *"He regarded the Scottish Highlands as his **adoptive** homeland, defending its ancient traditions with filial fervor."*
+> - 📜 **Washington Irving (*The Sketch Book*):** *"The emigrant wept as he beheld his **adoptive** country rising across the western waters of the Atlantic."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"She found solace in the quiet village, looking upon its severe inhabitants with the gentle regard of an **adoptive** mother."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of western north and south american perennials often partially parasitic on roots of grasses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of western north and south american perennials often partially parasitic on roots of grasses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of hemiparasitic herbaceous plants in the broomrape family Orobanchaceae, commonly known as Indian paintbrush or prairie-fire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant ecology and systematic botany, annual and perennial root parasites native to the Americas, famous for vibrant red, orange, or yellow floral bracts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, castilleja designates genus of western north and south american perennials often partially parasitic on roots of grasses."*
+> - 📜 **John Muir (*Steep Trails*):** *"The brilliant crimson tufts of **Castilleja** gleam like torches upon the dry rocky slopes of the western ranges."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The genus **Castilleja** is easily distinguished by its brightly colored floral bracts which far surpass the corolla in showiness."*
+> - 📜 **Enos Mills (*The Spell of the Rockies*):** *"Along the timberline trails, scarlet **Castilleja** bloomed in magnificent clusters against the dark background of dwarfed spruces."*

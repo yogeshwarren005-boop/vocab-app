@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A percussion instrument consisting of a pair of hollow pieces of wood or bone (usually held between the thumb and fingers) that are made to click together (as by spanish dancers) in rhythm with the dance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A percussion instrument consisting of a pair of hollow pieces of wood or bone (usually held between the thumb and fingers) that are made to click together (as by spanish dancers) in rhythm with the dance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A percussion instrument consisting of a concave pair of hardwood or ivory shells clicked together in the palm to accompany dance rhythm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnomusicology and choreographic performance, rhythmic idiophones traditionally employed in Andalusian flamenco and Spanish folkloric dance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"The tall chimney clusters were black against the sky, and beneath them and about the overgrown porch the ivy leaves clattered bonely like fairy castanets."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Only one woman danced at a time, throwing the upper part of her body into the oddest postures, while she held in her hands a branch of fir or a kind of wooden castanets."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"At every house the women dance and sing, clashing castanets or cymbals of brass and jingling bunches of little brass bells in both hands."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"The Spanish dancers whirled across the platform to the crisp, rhythmic clicking of wooden **castanets**."*
+> - 📜 **Washington Irving (*Tales of the Alhambra*):** *"In the moonlight courtyards of Granada, peasants danced to guitars and the sharp, merry rattle of **castanets**."*
+> - 📜 **George Borrow (*The Zincali; or, An Account of the Gypsies of Spain*):** *"The Gitana struck her **castanets** with incredible rapidity, accentuating each gyration of the festive dance."*

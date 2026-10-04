@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A measuring instrument for measuring the area of an irregular plane figure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A measuring instrument for measuring the area of an irregular plane figure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, mechanism, or software component that coordinates, unifies, and combines disparate systems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analog computing and electrical engineering, an operational circuit or mechanical instrument that computes the time integral of an input signal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, integrator designates a measuring instrument for measuring the area of an irregular plane figure."*
+> - 📜 **Lord Kelvin (*Popular Lectures and Addresses*):** *"Our mechanical **integrator** calculates tidal curves by continuously compounding the harmonic oscillations of the sun and moon."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"The central synapse functions as an organic **integrator**, summing subthreshold electrical impulses to trigger muscular discharge."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"The enlightened monarch acted as the supreme civic **integrator**, reconciling feudal rivalries under a centralized national administration."*

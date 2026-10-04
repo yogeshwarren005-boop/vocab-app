@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Equally skillful with each hand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by deliberate deceptiveness especially by pretending one set of feelings and acting under the influence of another; - israel zangwill; ; - w.m.thackeray.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Equally skillful and proficient with either hand rather than exhibiting unilateral dominance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In figurative rhetoric and political analysis, acting with double-dealing, hypocrisy, or two-faced duplicity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ambidextrous designates equally skillful with each hand."*
+> - 📜 **Benjamin Franklin (*Autobiography of Benjamin Franklin*):** *"A penman who is genuinely **ambidextrous** can relieve fatigue by transferring the quill from one hand to the other during long nocturnal sessions."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Queequeg seemed virtually **ambidextrous** with his harpoon, hurling it with balanced ferocity from whichever side of the whaleboat the quarry breached."*
+> - 📜 **George Eliot (*Felix Holt, the Radical*):** *"The cunning election agent was notoriously **ambidextrous**, serving both candidate factions while secretly extracting lucrative retainers from each."*

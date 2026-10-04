@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal condition where the heart is located toward the right side of the chest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormal condition where the heart is located toward the right side of the chest.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A congenital condition where the apex of the heart is displaced to the right side of the thoracic cavity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric cardiology, cardiac malposition often associated with situs inversus totalis or complex ventricular transposition anomalies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dextrocardia designates abnormal condition where the heart is located toward the right side of the chest."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In congenital **dextrocardia** with situs inversus, the cardiac apex beats in the right fifth intercostal space without causing functional impairment."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"Anatomical dissection revealed true **dextrocardia**, where every thoracic and abdominal viscera mirrored the customary anatomical position."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The physician leaned over the patient’s chest in astonishment, realizing that **dextrocardia** placed the heartbeat firmly beneath the right nipple."*

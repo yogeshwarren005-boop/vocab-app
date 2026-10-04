@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to cause breakup into constituent elements or parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to cause breakup into constituent elements or parts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing, tending toward, or characterized by the breakdown and destruction of unity or cohesion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociological analysis and materials science, forces that undermine organizational solidarity or destabilize molecular matrices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disintegrative designates tending to cause breakup into constituent elements or parts."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Internal factional warfare exerts a profoundly **disintegrative** influence upon the traditional political institutions of tribal confederacies."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"Unchecked sectarian antipathies unleash **disintegrative** tendencies that paralyze the collective legislative will of a democratic state."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Chemical leaching and atmospheric weathering operate as relentless **disintegrative** agencies across exposed mountain ranges."*

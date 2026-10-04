@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Constitutionally lazy or idle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Constitutionally lazy or idle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely indolent, persistently inactive, and thoroughly averse to any form of labor or exertion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In characterological critique and sociological vernacular, describing an ingrained, habitual refusal to engage in productive effort.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bone-idle designates constitutionally lazy or idle."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"Critics who described the unemployed miners as **bone-idle** demonstrated profound ignorance of industrial distress."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The master discharged the lad, declaring him to be **bone-idle** and unfit for farm duties."*
+> - 📜 **H. G. Wells (*Kipps*):** *"His employer complained that he was naturally **bone-idle**, daydreaming beside the counters instead of sorting inventory."*

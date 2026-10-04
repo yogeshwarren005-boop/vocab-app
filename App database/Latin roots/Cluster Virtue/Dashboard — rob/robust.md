@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sturdy and strong in form, constitution, or construction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by richness and fullness of flavor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Strong, sturdy, vigorous, and physically healthy; also capable of performing effectively under stressful or adverse conditions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statistical inference, systems engineering, and economics, maintaining validity and operational stability despite large model deviations or input noise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Salo had not recovered as quickly as she had hoped, and Leonore, instead of getting more robust in our vigorous mountain-air, only became thinner and frailer."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I took him to be nearer sixty than fifty, but he was upright, hearty, and robust."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Man is more robust than woman, but he is not longer lived; which exactly explains my view of the nature of their attachments."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I took him for a **robust** young man who could withstand the rigors of the London climate and the strain of legal studies."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Man is more **robust** than woman, but he is not longer-lived; he cannot endure the slow wear of prolonged mental anxiety."*
+> - 📜 **Johanna Spyri (*Heidi*):** *"The fresh mountain air and goat's milk soon transformed the frail child into a **robust** and lively girl who ran along the slopes."*

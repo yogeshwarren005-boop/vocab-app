@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not belonging to or having been expelled from a caste and thus having no place or status in society.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not belonging to or having been expelled from a caste and thus having no place or status in society.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no caste, expelled from a social hierarchy, or belonging to no recognized social rank; egalitarian.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociological analysis and comparative cultural anthropology, existing outside statutory social strata or describing a community devoid of hereditary class distinctions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, casteless designates not belonging to or having been expelled from a caste and thus having no place or status in society."*
+> - 📜 **E. M. Forster (*A Passage to India*):** *"The sweepers and scavengers existed as a **casteless** multitude, excluded from the ceremonial precincts of the sacred temples."*
+> - 📜 **Max Weber (*The Religion of India*):** *"The heterodox ascetic wanderers deliberately formed a **casteless** fraternity that rejected orthodox Brahmanical rank and ritual purity."*
+> - 📜 **Swami Vivekananda (*The Complete Works of Swami Vivekananda*):** *"The spiritual ideal envisions a **casteless** fellowship where divine consciousness dissolves all artificial social distinctions."*

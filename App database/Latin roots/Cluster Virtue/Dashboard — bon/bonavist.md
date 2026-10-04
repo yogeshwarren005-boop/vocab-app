@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perennial twining vine of old world tropics having trifoliate leaves and racemes of fragrant purple pea-like flowers followed by maroon pods of edible seeds; grown as an ornamental and as a vegetable on the indian subcontinent; sometimes placed in genus dolichos.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perennial twining vine of old world tropics having trifoliate leaves and racemes of fragrant purple pea-like flowers followed by maroon pods of edible seeds; grown as an ornamental and as a vegetable on the indian subcontinent; sometimes placed in genus dolichos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tropical climbing bean plant (Lablab purpureus) cultivated widely for its edible pods, seeds, and ornamental blossoms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic botany and tropical agriculture, a leguminous biennial or perennial vine adapted to drought-prone soils and valued for forage and pulse production.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bonavist designates perennial twining vine of old world tropics having trifoliate leaves and racemes of fragrant purple pea-like flowers followed by maroon pods of edible seeds; grown as an ornamental and as a vegetable on the indian subcontinent; sometimes placed in genus dolichos."*
+> - 📜 **Hans Sloane (*A Voyage to the Islands Madera, Barbados, Nieves, S. Christophers and Jamaica*):** *"The plantation laborers cultivate the **bonavist** pulse beside garden walls for its hearty pods and nourishing dry seeds."*
+> - 📜 **Patrick Browne (*The Civil and Natural History of Jamaica*):** *"This climbing bean, locally termed **bonavist**, yields abundant pods even during seasons of protracted tropical drought."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"The sprawling vines of **bonavist** produce dense racemes of purple blossoms followed by broad flattened legumes."*

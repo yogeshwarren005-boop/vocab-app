@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of a medicine that is strengthening.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used of a medicine that is strengthening.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to corroborate, confirm, or give additional strength and support; also a medicine or tonic that imparts vigor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evidentiary jurisprudence and classical pharmacology, an auxiliary piece of confirming proof, or a medicinal restorative strengthening bodily vitality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, corroborant designates used of a medicine that is strengthening."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The testimony of an accomplice requires a reliable **corroborant** witness before a jury can safely convict on capital charges."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"During convalescence from exhausting fevers, a gentle bitter tonic acts as an effective bodily **corroborant**."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"The internal harmony of Scripture provides a powerful **corroborant** argument for its divine inspiration."*

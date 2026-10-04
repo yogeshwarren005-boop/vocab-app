@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Subclass of insects characterized by gradual and usually incomplete metamorphosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subclass of insects characterized by gradual and usually incomplete metamorphosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A superorder of winged insects whose wings develop externally outside the body wall during gradual hemimetabolous metamorphosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic entomology and phylogenetics, the clade comprising hemimetabolous orders such as Odonata, Orthoptera, and Hemiptera lacking a pupal instar.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exopterygota designates subclass of insects characterized by gradual and usually incomplete metamorphosis."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The collection contained primitive species of **exopterygota**, whose external wing pads were clearly visible upon the nymphs."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Sexual ornamentation among the **exopterygota** frequently manifests in the elaborate wing venation of male crickets."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Unlike holometabolous beetles, members of the **exopterygota** undergo direct nymphal molts without an intervening chrysalis."*

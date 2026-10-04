@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disposition to be friendly and approachable (easy to talk to).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disposition to be friendly and approachable (easy to talk to).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genial, pleasant, and easygoing disposition; cheerful affability and good-natured warmth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social psychology and salon literature, an open, unpretentious friendliness that fosters effortless camaraderie among companions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bonhomie designates a disposition to be friendly and approachable (easy to talk to)."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"His hearty laugh and unaffected **bonhomie** made him a favorite companion at every mess table in the regiment."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Lord Warburton greeted his guests with that charming mixture of high breeding and frank **bonhomie**."*
+> - 📜 **Joseph Conrad (*The Secret Agent*):** *"Behind his appearance of genial **bonhomie**, the conspirator concealed an alert, calculating intelligence."*

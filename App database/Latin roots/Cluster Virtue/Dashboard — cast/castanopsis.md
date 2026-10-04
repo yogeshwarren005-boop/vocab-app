@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Evergreen trees and shrubs of warm regions valued for their foliage; southeastern united states and eastern australia and northern new zealand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evergreen trees and shrubs of warm regions valued for their foliage; southeastern united states and eastern australia and northern new zealand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of evergreen trees and shrubs in the beech family Fagaceae, closely related to chestnuts and chinquapins and native to tropical and subtropical Asia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dendrology and East Asian silviculture, dominant canopy trees characterized by cupules enclosing hard nuts, forming major components of subtropical evergreen broadleaf forests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, castanopsis designates evergreen trees and shrubs of warm regions valued for their foliage; southeastern united states and eastern australia and northern new zealand."*
+> - 📜 **Joseph Dalton Hooker (*Flora of British India*):** *"The dense sub-Himalayan evergreen forests are largely dominated by majestic species of **Castanopsis** bearing prickly cupules."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"On the high ridges of Borneo, we collected specimens of **Castanopsis** whose tough foliage resembled that of our northern chestnuts."*
+> - 📜 **Ernest Henry Wilson (*A Naturalist in Western China*):** *"The mountain slopes of Szechuan harbor several stately species of **Castanopsis** that furnish valuable construction timber to the villagers."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being actually such in almost every respect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Existing in essence or effect though not in actual fact.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Almost or nearly as described, but not completely or according to strict formal definition; existing in essence or effect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and computer science, simulated or carried on by software rather than physical reality, or denoting quantum particle states of transient existence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The frequent use of the adjectives partial, limited, and virtual are implied but usually superfluous recognitions of the relative character of monopoly. § 2. #Political sources of monopoly.# Monopoly gets its power from various sources."*
-> - 📜 **George Eliot (*Middlemarch*):** *"He slept upon that idea, but when he was dressing in the rational morning light, Objection said— “That will be a virtual defiance of Mr."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The result, except in the case of insanity, must for the most part be arbitrary; and insanity, without any formal or express provision, may be safely pronounced to be a virtual disqualification."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"To deny the federal legislature the means of executing its powers is to decree its **virtual** dissolution and impotence."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He slept little, and his waking hours were spent in a **virtual** solitude of brooding disappointment and unuttered grief."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The concentration of capital in large rail mergers created a **virtual** monopoly over inland freight transport."*

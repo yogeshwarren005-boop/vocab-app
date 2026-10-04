@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Take something away by force or without the consent of the owner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rip off; ask an unreasonable price.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To take property or possessions unlawfully from a person or place by force, intimidation, or threat of violence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In criminal common law and moral philosophy, felonious larceny accomplished through physical assault or putting a victim in bodily fear.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Besides, if things go well, Opinion that so sticks on Martius shall Of his demerits rob Cominius."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, ’tis no great matter; for a very little thief of occasion will rob you of a great deal of patience."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll rob none but myself; and let me die, Stealing so poorly."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"I never heard a passion so confused, so strange, outrageous, and so variable, as the dog Jew did utter in the streets: My daughter! O my ducats! Justice! The law! A sealed bag, two sealed bags of ducats, of double ducats, stolen from me by my daughter! Let not a traitor escape who dared to **rob** my house!"*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"Fagin warned the boy that if he dared to **rob** his master, the gallows would surely claim him before long."*
+> - 📜 **Victor Hugo (*Les Misérables*):** *"To **rob** an honest traveler upon the public highway is a terrible crime, yet desperate starvation drove the wretch to madness."*

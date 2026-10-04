@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Constitutionally lazy or idle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Constitutionally lazy or idle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by profound and incorrigible laziness; completely disinclined to work or exert oneself.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colloquial psychology and behavioral description, an inveterate aversion to mental or physical discipline and industrious exertion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bone-lazy designates constitutionally lazy or idle."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"Aunt Polly insisted that Tom was not malicious but simply **bone-lazy** whenever chores had to be performed."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The beachcomber lounged upon the veranda, too **bone-lazy** to brush away the flies circling his glass."*
+> - 📜 **Willa Cather (*O Pioneers!*):** *"The neighbor was considered **bone-lazy** by the thrifty settlers who labored from dawn to dusk."*

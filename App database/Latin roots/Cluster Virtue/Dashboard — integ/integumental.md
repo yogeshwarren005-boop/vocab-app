@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the integument.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the integument.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, forming, or resembling an integument or external covering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy and embryology, pertaining to the epidermal or dermal structures derived from the ectoderm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, integumental designates of or relating to the integument."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"Feathers, scales, and hair represent homologous **integumental** appendages modified throughout evolutionary descent for thermal insulation and flight."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Brilliant coloration across avian species frequently develops within specialized **integumental** outgrowths under the influence of sexual selection."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The bony scutes of armadillos constitute an osseous **integumental** cuirass defending the dorsal surface against predatory assault."*

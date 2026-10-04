@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of incorporating a racial or religious group into a community.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make into a whole or make part of a whole.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action or process of bringing disparate parts together into a cohesive and unified structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroscience and signal processing, combining incoming synaptic impulses into a collective threshold response.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"His skill caused his downfall: he was convicted of illegally penetrating and modifying a database that was integrating a highly sensitive project."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Matter is continually passing from an indefinite, incoherent homogeneity to a definite, coherent heterogeneity through **integrating** processes."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The cerebral cortex performs an **integrating** office, weaving isolated sensory inputs into a continuous stream of conscious experience."*
+> - 📜 **John Stuart Mill (*System of Logic*):** *"Inductive reasoning proceeds by **integrating** individual factual observations into general empirical laws governing natural phenomena."*

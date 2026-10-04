@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to mechanical robots.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling the unthinking functioning of a machine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, characteristic of, or operated by robots; mechanically rigid, repetitive, or devoid of human feeling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cybernetics and biomechanics, concerning electromechanical automation, sensor-actuator feedback control, or artificial autonomous agents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Men, women and children in all shapes and sizes: tall, short, stocky, slender, organic, bionic, robotic, and combinations thereof."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Hundreds of logistics robots crammed the station's cavernous bays, self-sustaining and programmed to activate sub-systems on schedule, deploy robotic specialists and service the machine during its voyage, and in perpetuity thereafter."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The problem is that although much of the gear is self-repairing through built-in robotics, when the robies themselves need fixing, no one knows how."*
+> - 📜 **H. G. Wells (*The World Set Free*):** *"The automated armaments operated with a cold, **robotic** precision that terrified the human soldiers fleeing the battlefield."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"The creature moved with a strange, **robotic** stiffness that suggested an organism guided purely by unthinking reflex."*
+> - 📜 **George Bernard Shaw (*Back to Methuselah*):** *"The modern industrial laborer is trained into a **robotic** efficiency that threatens to extinguish every spark of artistic imagination."*

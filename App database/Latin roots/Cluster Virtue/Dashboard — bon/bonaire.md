@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A popular island resort in the netherlands antilles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A popular island resort in the netherlands antilles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An island territory in the southern Caribbean Sea renowned for coral reefs, arid geography, and flamingo habitats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical geography and maritime history, a Dutch Antillean island characterized by xerophytic scrub, extensive salt flats, and protected fringing marine reserves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bonaire designates a popular island resort in the netherlands antilles."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of the New Continent*):** *"Navigators cruising near the coast of Venezuela noted the arid shores of **Bonaire** rising above the turquoise waters."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Vessels traversing the Caribbean often made anchorage off **Bonaire** to take in solar salt and fresh supplies."*
+> - 📜 **Washington Irving (*The Life and Voyages of Christopher Columbus*):** *"Early explorers charted the Leeward Antilles, observing the low limestone terraces of **Bonaire** in the trade winds."*

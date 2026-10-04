@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a bonny manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a bonny manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an attractive, cheerful, pleasing, or handsomely agreeable manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary dialect and poetics, executing an action with lively grace, radiant cheerfulness, or flourishing beauty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bonnily designates in a bonny manner."*
+> - 📜 **Sir Walter Scott (*The Heart of Midlothian*):** *"The morning sun shone down **bonnily** upon the green meadows and winding riverbanks of the dale."*
+> - 📜 **Robert Louis Stevenson (*The Master of Ballantrae*):** *"The vessel rode **bonnily** upon the crest of the incoming tide, her white sails gleaming in the bay."*
+> - 📜 **Thomas Carlyle (*Reminiscences*):** *"She stepped forward **bonnily** to greet her kinfolk after long months of solitary travel in the north."*

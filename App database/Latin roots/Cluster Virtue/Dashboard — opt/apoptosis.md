@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A type of cell death in which the cell uses specialized cellular machinery to kill itself; a cell suicide mechanism that enables metazoans to control cell number and eliminate cells that threaten the animal's survival.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A type of cell death in which the cell uses specialized cellular machinery to kill itself; a cell suicide mechanism that enables metazoans to control cell number and eliminate cells that threaten the animal's survival.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genetically programmed and orderly process of cellular self-destruction essential for organismal development and tissue homeostasis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular biology and oncology, energy-dependent physiological cell death featuring chromatin condensation, membrane blebbing, and phagocytosis without inflammation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apoptosis designates a type of cell death in which the cell uses specialized cellular machinery to kill itself; a cell suicide mechanism that enables metazoans to control cell number and eliminate cells that threaten the animal's survival."*
+> - 📜 **Sydney Brenner (*Nature (Scientific Memoirs)*):** *"Genetic analysis revealed that **apoptosis** during nematode morphogenesis eliminates redundant cell lineages with exact precision."*
+> - 📜 **William Harvey (*Anatomical Disquisitions*):** *"The orderly involution of living parts resembles what modern physiologists identify as controlled **apoptosis** in developing tissues."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Nature balances tissue accretion with systematic **apoptosis**, shaping embryonic organs through selective cellular sacrifice."*

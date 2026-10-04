@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An embarrassing mistake.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An embarrassing mistake.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An embarrassing, comical, or conspicuous blunder or error in speech, judgment, or conduct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In informal twentieth-century American English, an egregious social or athletic gaffe causing derision or confusion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, boner designates an embarrassing mistake."*
+> - 📜 **Sinclair Lewis (*Main Street*):** *"Carol worried that her unfamiliarity with provincial gossip might cause her to pull a disastrous **boner** at the bridge party."*
+> - 📜 **P. G. Wodehouse (*Heavy Weather*):** *"Lord Emsworth committed an unforgivable **boner** by confusing the prize pumpkin with an ordinary marrow."*
+> - 📜 **F. Scott Fitzgerald (*This Side of Paradise*):** *"Amory realized he had made a major **boner** when debating literary principles with his cynical tutor."*

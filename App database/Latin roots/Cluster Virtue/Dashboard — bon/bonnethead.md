@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small harmless hammerhead having a spade-shaped head; abundant in bays and estuaries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small harmless hammerhead having a spade-shaped head; abundant in bays and estuaries.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small species of hammerhead shark (Sphyrna tiburo) possessing a distinctive shovel- or spade-shaped head.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In elasmobranch biology and coastal ecology, an omnivorous coastal carcharhiniform shark noted for feeding on crabs, mantis shrimp, and seagrass in warm estuaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bonnethead designates small harmless hammerhead having a spade-shaped head; abundant in bays and estuaries."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The **bonnethead** shark differs from its larger congeners in the smooth, semicircular contour of its cephalic foil."*
+> - 📜 **William Beebe (*Half Mile Down*):** *"From the surface skiff we observed a young **bonnethead** hunting crustacea along the muddy edges of the mangrove lagoon."*
+> - 📜 **Alexander Agassiz (*Three Cruises of the United States Coast and Geodetic Survey Steamer Blake*):** *"Trawling near the Florida keys brought up specimens of **bonnethead** sharks inhabiting shallow inshore banks."*

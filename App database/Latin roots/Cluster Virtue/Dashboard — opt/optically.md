@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an optical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an optical manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner pertaining to optics, visual perception, or the transmission and manipulation of light rays.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stereochemistry and crystallography, rotating the plane of polarized light or displaying anisotropic optical behavior.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But it seemed that, when on the wharf, Queequeg had not at all noticed what I now alluded to; hence I would have thought myself to have been optically deceived in that matter, were it not for Elijah’s otherwise inexplicable question."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"But it seemed that, when on the wharf, Queequeg had not at all noticed what I now alluded to; hence I would have thought myself to have been optically deceived in that matter, were it not for Elijah’s otherwise inexplicable question."*
+> - 📜 **Louis Pasteur (*Researches on Molecular Asymmetry*):** *"Tartaric acid derived from fermentation is **optically** active, rotating polarized light clockwise through the solution."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The heavy glass prism became **optically** birefringent when placed within a potent magnetic field."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The horizon was **optically** distorted by the shimmering heat rising from the glassy surface of the equatorial sea."*

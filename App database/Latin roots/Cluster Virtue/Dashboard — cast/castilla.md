@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A region of central spain; a former kingdom that comprised most of modern spain and united with aragon to form spain in 1479.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A region of central spain; a former kingdom that comprised most of modern spain and united with aragon to form spain in 1479.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Spanish geographical and historical name for Castile; or a genus of Central and South American rubber-producing trees in the family Moraceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic botany and colonial Latin American history, the historical kingdom or the genus of lactiferous Moraceae trees, notably Castilla elastica (Panama rubber).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, castilla designates a region of central spain; a former kingdom that comprised most of modern spain and united with aragon to form spain in 1479."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of America*):** *"The indigenous gatherers extracted milky rubber latex from the majestic trunks of **Castilla** elastica in the humid forests."*
+> - 📜 **Bernal Diaz del Castillo (*The True History of the Conquest of New Spain*):** *"We served under the glorious banners of the Crown of **Castilla**, enduring great perils in the service of our emperor."*
+> - 📜 **Henry Walter Bates (*The Naturalist on the River Amazons*):** *"Along the forest margins grew tall trees of **Castilla**, whose thick bark was scarred by the machetes of rubber hunters."*

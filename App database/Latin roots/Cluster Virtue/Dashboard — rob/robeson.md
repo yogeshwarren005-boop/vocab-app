@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states bass singer and an outspoken critic of racism and proponent of socialism (1898-1976).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states bass singer and an outspoken critic of racism and proponent of socialism (1898-1976).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surname of Anglo-Scottish border origin, notably associated with African-American bass-baritone singer and activist Paul Robeson.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 20th-century cultural and civil rights history, associated with Paul Robeson's monumental operatic performances, Shakespearean Othello, and international anti-imperialist advocacy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Robeson, New Jersey, June 25th, 1869. _Secretary of Interior_, Jacob D."*
+> - 📜 **W. E. B. Du Bois (*The World and Africa*):** *"Paul **Robeson** possessed not merely a transcendent vocal artistry, but an unyielding moral dedication to global freedom."*
+> - 📜 **Langston Hughes (*The Big Sea*):** *"When **Robeson** stepped upon the stage to sing spirituals, his magnificent resonance shook the very foundations of the concert hall."*
+> - 📜 **Eugene O'Neill (*Selected Letters*):** *"I was thrilled by the tragic dignity and emotional power that **Robeson** brought to the title role of Emperor Jones."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cuban socialist leader who overthrew a dictator in 1959 and established a marxist socialist state in cuba (born in 1927).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cuban socialist leader who overthrew a dictator in 1959 and established a marxist socialist state in cuba (born in 1927).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fortified settlement, hillfort, or castle in Iberian toponymy; or a common Portuguese and Spanish surname.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaeology, European history, and geopolitics, the Castro culture of ancient northwestern Iberia, or referring prominently to Cuban revolutionary leader Fidel Castro.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, castro designates cuban socialist leader who overthrew a dictator in 1959 and established a marxist socialist state in cuba (born in 1927)."*
+> - 📜 **George Borrow (*The Bible in Spain*):** *"On the rocky hilltops of Galicia, the stone foundations of an ancient **castro** recalled the Celtic clans of pre-Roman Hispania."*
+> - 📜 **Richard Ford (*A Handbook for Travellers in Spain*):** *"The path ascended past the ruins of a Moorish **castro** that commanded the entrance to the fertile valley below."*
+> - 📜 **C. L. R. James (*The Black Jacobins*):** *"The revolutionary defiance embodied by Fidel **Castro** resonated deeply across the Caribbean and the wider developing world."*

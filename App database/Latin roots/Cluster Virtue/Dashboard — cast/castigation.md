@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A severe scolding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Verbal punishment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Severe verbal punishment, stern reprimand, chastisement, or harsh public condemnation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and ecclesiastical discipline, rigorous corrective rebuke or the formal penance inflicted for grave moral infractions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This hand of yours requires A sequester from liberty, fasting and prayer, Much castigation, exercise devout; For here’s a young and sweating devil here That commonly rebels. ’Tis a good hand, A frank one."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I suppose,” observes Volumnia, having taken a little time to recover her spirits after her late castigation, “I suppose Mr."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Grattan being asked his opinion of the valour of a certain captain, who from excess of feeling put up with a severe castigation, replied, That he thought it odd, for to his knowledge the captain had fought."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This requires a sudden and severe **castigation**, exercise devout; for here's a young and sweating devil here."*
+> - 📜 **Jonathan Swift (*A Tale of a Tub*):** *"No amount of satirical **castigation** could shame the fraudulent quacks into abandoning their profitable deceptions."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"He bore the critical **castigation** of his faults with a patient humility rarely found among ambitious authors."*

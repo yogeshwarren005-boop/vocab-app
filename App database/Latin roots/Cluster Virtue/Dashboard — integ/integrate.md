@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make into a whole or make part of a whole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Open (a place) to members of all races and ethnic groups.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To combine two or more things into a unified, harmonious, and functional whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics, to calculate the definite or indefinite integral of a function across a defined domain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Computer," he said, "integrate these proceedings into the database."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Show costs in still accessible resources separately and integrate results with relevant commitments and schedules."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"It will give them all a target against which to plan and integrate deployment schedules, vectors, tactics and combined operations."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Organisms advance in complexity as they continually differentiate distinct tissues and **integrate** them into coordinated physiological systems."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Natural selection tends to **integrate** diverse structural adaptations so that organs work in mutual harmony for the preservation of the species."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The task of wise statesmanship is to **integrate** the interests of labor and capital into an enduring civic framework."*

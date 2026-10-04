@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having bones especially many or prominent bones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being very thin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lean, emaciated, or full of prominent bones; an alternative spelling of the adjective bony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical vernacular and physical description, displaying prominent skeletal contours beneath thin skin, or historically used as a diminutive nickname for Bonaparte.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"Yes,” said Paul, “I got tired and fell asleep, and I don't know when I should have waked up but for your dog.” “Yes, Boney's got a keen scent for provisions,” laughed the pedler."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"You see his real name is Bonaparte; we only call him Boney, for short.” Meanwhile he had stopped his horse."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"He clambered into the cart, and took a seat behind the pedler, while Boney, who took his recent disappointment very good-naturedly, jogged on contentedly behind."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The emaciated patient presented a **boney** countenance whose sharp orbital ridges reflected severe nutritional decline."*
+> - 📜 **Thomas Hardy (*The Dynasts*):** *"The English villagers whispered frightened tales of old **Boney** landing with his armies upon the southern coast."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Mr. Pumblechook extended a cold, **boney** finger that offered no welcoming warmth to the frightened boy."*

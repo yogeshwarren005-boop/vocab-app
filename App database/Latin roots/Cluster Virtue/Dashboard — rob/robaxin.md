@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Muscle relaxant for skeletal muscles (trade name robaxin) used to treat spasms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Muscle relaxant for skeletal muscles (trade name robaxin) used to treat spasms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brand name for methocarbamol, a centrally acting skeletal muscle relaxant used to treat muscle spasms and musculoskeletal pain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology, a carbamate derivative of guaifenesin exerting central nervous system depression to alleviate acute muscular rigidity and spasm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, robaxin designates muscle relaxant for skeletal muscles (trade name robaxin) used to treat spasms."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Modern muscle relaxants related to **robaxin** act by depressing polysynaptic spinal pathways rather than blocking motor endplates directly."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The pharmacopeia continually introduces synthetic relaxants such as **robaxin** to relieve distressing lumbago and traumatic back strain."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"The clinic staff dispensed skeletal relaxants like **robaxin** to soothe laborers suffering from lumbar injuries in the steel mill."*

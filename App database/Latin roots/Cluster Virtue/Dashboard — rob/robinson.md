@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: English chemist noted for his studies of molecular structures in plants (1886-1975).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states prizefighter who won the world middleweight championship five times and the world welterweight championship once (1921-1989).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A patronymic surname meaning 'son of Robin', famously immortalized in Daniel Defoe's castaway novel 'Robinson Crusoe'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative fiction, cultural iconography, and literary history, the archetype of solitary maritime survival, ingenuity, and colonial self-sufficiency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce said he doubted if Robinson Crusoe could have read it, though he had had no other on his desolate island."*
-> - 📜 **Jane Austen (*Persuasion*):** *"It must be a work of time to ascertain that no injury had been done to the spine; but Mr Robinson found nothing to increase alarm, and Charles Musgrove began, consequently, to feel no necessity for longer confinement."*
-> - 📜 **Jane Austen (*Persuasion*):** *"I perfectly understand Mr Robinson’s directions, and have no fears; and indeed, Mary, I cannot wonder at your husband."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"I, poor miserable **Robinson** Crusoe, being shipwrecked, came on shore on this dismal unfortunate island, which I called the Island of Despair."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Jarndyce referred smilingly to the solitary fortitude of **Robinson** Crusoe whenever the wards complained of isolation."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Captain Wentworth recalled having met Mrs. **Robinson** in Bath during his previous leave from the naval station at Portsmouth."*

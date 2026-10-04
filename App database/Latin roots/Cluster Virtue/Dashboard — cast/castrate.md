@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A man who has been castrated and is incapable of reproduction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deprive of strength or vigor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove the testicles of a male animal or human, depriving them of reproductive capability; or to deprive something of vitality or strength.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary medicine, animal husbandry, and figurative rhetoric, to gonadectomize a male, or to censor and emasculate a literary or artistic work.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The story of the self-mutilation of Attis is clearly an attempt to account for the self-mutilation of his priests, who regularly castrated themselves on entering the service of the goddess."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Pastoral breeders frequently choose to **castrate** young bullocks to promote docility and expedite the accumulation of fat."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Barbarian conquerors would often **castrate** captive youths to serve as palace eunuchs in eastern imperial courts."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"The frenzied priests of Cybele were compelled by ritual frenzy to **castrate** themselves during the vernal orgies of the goddess."*

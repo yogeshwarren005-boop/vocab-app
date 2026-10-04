@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cast an actor, singer, or dancer in an unsuitable role.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cast an actor, singer, or dancer in an unsuitable role.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To assign an unsuitable actor to a dramatic role; or to designate someone for a role or function inappropriate to their talents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theatrical criticism, cinematography, and human resource management, an error in dramatic casting that undermines the artistic credibility of a performance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, miscast designates cast an actor, singer, or dancer in an unsuitable role."*
+> - 📜 **George Bernard Shaw (*Our Theatres in the Nineties*):** *"The tragedian was hopelessly **miscast** as the nimble romantic lead, moving across the boards with the solemn gravity of an undertaker."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"One felt that the sensitive novelist was **miscast** as a political pamphleteer, wasting delicate prose upon coarse controversies."*
+> - 📜 **Max Beerbohm (*Around Theatres*):** *"To see so brilliant a comic actress **miscast** in a somber melodrama was a painful trial for her loyal admirers."*

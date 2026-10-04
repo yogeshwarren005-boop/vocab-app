@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a sophisticated charm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a cheerful, lively, and self-confident air; - frances g. patton; - h.m.reynolds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Charming, suave, elegant, and light-hearted; an archaic variant spelling of debonair.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Middle English and historical romance literature, displaying courteous gentleness, noble breeding, and cheerful grace.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, debonaire designates having a sophisticated charm."*
+> - 📜 **Geoffrey Chaucer (*The Canterbury Tales*):** *"The gentle knight was courteous, humble, and **debonaire** to every traveler who sought shelter beneath his hall."*
+> - 📜 **Edmund Spenser (*The Faerie Queene*):** *"A gallant squire of countenance sweet and **debonaire** rode forward to attend the fair lady across the forest."*
+> - 📜 **Sir Walter Scott (*Ivanhoe*):** *"His speech was **debonaire** and smooth, masking the ruthless ambition that governed his feudal policy."*

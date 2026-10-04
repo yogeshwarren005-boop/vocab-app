@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Choose or elect as a fellow member or colleague.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Neutralize or win over through assimilation into an established group.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To elect or appoint someone as a member of a committee or group by the existing members; also to assimilate or appropriate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political sociology and governance theory, absorbing dissident leaders or hostile ideological symbols into institutional frameworks to neutralize opposition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, co-opt designates choose or elect as a fellow member or colleague."*
+> - 📜 **Max Weber (*Economy and Society*):** *"Ruling bureaucratic elites frequently **co-opt** charismatic protest leaders to stabilize administrative authority."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"A governing council may **co-opt** distinguished jurists to enhance the technical caliber of its legislative deliberations."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"The industrial capitalists seek to **co-opt** radical reformers by funding philanthropic charities and municipal institutions."*

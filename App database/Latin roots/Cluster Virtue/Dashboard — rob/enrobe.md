@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with a coating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adorn with a robe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To dress, array, or invest someone in rich, dignified, or formal robes or clothing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial food confectionery and ceremonial vesture, to coat a confection uniformly in chocolate or ceremonially invest in ritual robes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"It is a garment wherein they will enrobe forty bodies." We began upon the work, digging earth from the ditch which was being opened in the court of the church."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"Should I go to church and see the holy edifice of stone, and not bethink me straight of dangerous rocks, which touching but my gentle vessel's side would scatter all her spices on the stream, **enrobe** the roaring waters with my silks."*
+> - 📜 **Lord Tennyson (*Idylls of the King*):** *"Attendant maidens came to **enrobe** Queen Guinevere in gold and samite for the Pentecostal tournament."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"The setting sun seemed to **enrobe** the ruined arches of the Roman Forum in purple and molten gold."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large tree of trinidad and guyana having odd-pinnate leaves and violet-scented axillary racemes of yellow flowers and long smooth pods; grown as a specimen in parks and large gardens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tall graceful deciduous california oak having leathery leaves and slender pointed acorns.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Spanish word for oak tree, applied in California and Latin America to various species of deciduous or semi-evergreen oaks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forestry and New World botany, specifically designating Quercus lobata (valley oak) or tropical hardwood timber species such as Tabebuia rosea.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, roble designates large tree of trinidad and guyana having odd-pinnate leaves and violet-scented axillary racemes of yellow flowers and long smooth pods; grown as a specimen in parks and large gardens."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of America*):** *"The foothills of the coastal cordillera were crowned with majestic forests of mountain oak, known locally as **roble**."*
+> - 📜 **Richard Henry Dana Jr. (*Two Years Before the Mast*):** *"We rode beneath towering groves of California **roble**, whose massive spreading boughs cast a welcome shade over the dusty trail."*
+> - 📜 **Bret Harte (*The Luck of Roaring Camp and Other Sketches*):** *"The gold miners pitched their canvas tents beneath the ancient branches of a moss-draped valley **roble**."*

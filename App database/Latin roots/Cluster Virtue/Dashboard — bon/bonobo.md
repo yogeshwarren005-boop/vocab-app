@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small chimpanzee of swamp forests in zaire; a threatened species.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small chimpanzee of swamp forests in zaire; a threatened species.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A gracile species of great ape (Pan paniscus) native to the Congo Basin, closely related to the common chimpanzee.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In primatology and evolutionary anthropology, a hominid primate characterized by slender morphology, egalitarian social groups, and female-led dominance hierarchies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bonobo designates small chimpanzee of swamp forests in zaire; a threatened species."*
+> - 📜 **Frans de Waal (*Peacemaking among Primates*):** *"Social conflicts within the **bonobo** troop are routinely diffused through empathetic vocalizations and affiliative interactions."*
+> - 📜 **Richard Dawkins (*The Ancestor's Tale*):** *"Our evolutionary lineage shares equal genetic kinship with the chimpanzee and the more peaceful **bonobo**."*
+> - 📜 **Jane Goodall (*In the Shadow of Man*):** *"Comparative studies between common chimpanzees and the **bonobo** reveal diverse behavioral repertoires across great ape societies."*

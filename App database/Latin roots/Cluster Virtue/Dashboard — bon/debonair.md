@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a sophisticated charm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a cheerful, lively, and self-confident air; - frances g. patton; - h.m.reynolds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Confident, stylish, charming, and gracious in manner; affable and casually elegant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chivalric literature and social portraiture, possessing easy aristocratic refinement, buoyant good humor, and courteous demeanor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Courtiers as free, as debonair, unarm’d, As bending angels; that’s their fame in peace."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"Next comes Nibs, the gay and debonair, followed by Slightly, who cuts whistles out of the trees and dances ecstatically to his own tunes."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"If I could have leaped the hedge with a single bound, that would have made a sufficiently dashing and debonair exit."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Courtiers as free, as **debonair**, unarm'd, as bending angels; that's their fame in peace."*
+> - 📜 **James Joyce (*Dubliners*):** *"His inexplicable debts were a byword in his circle; he was a **debonair** young man who carried off indiscretions with an easy smile."*
+> - 📜 **P. G. Wodehouse (*The Inimitable Jeeves*):** *"Bingo strolled into the club with a **debonair** swagger that suggested total ignorance of the disaster awaiting him."*

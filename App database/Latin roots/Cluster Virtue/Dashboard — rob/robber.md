@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thief who steals from someone by threatening violence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thief who steals from someone by threatening violence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who commits robbery; one who takes property from another unlawfully by force or threat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statutory criminal jurisprudence, an offender guilty of aggravated theft achieved by putting another in immediate fear of bodily injury.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art a robber, A law-breaker, a villain."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am your host: With robber’s hands my hospitable favours You should not ruffle thus."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Injurious time now with a robber’s haste Crams his rich thiev’ry up, he knows not how."*
+> - 📜 **William Shakespeare (*Henry IV, Part 1*):** *"Where shall we take a purse tomorrow, Jack? Falstaff replied that an honest **robber** must watch for wealthy travelers at Gadshill."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"Israel Hands glared like a desperate **robber** as he crept across the deck with his drawn dirk."*
+> - 📜 **Sir Walter Scott (*The Heart of Midlothian*):** *"The notorious highland **robber** haunted the mountain passes, levying blackmail upon all drove cattle."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a decomposed state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A loss (or serious disruption) of organization in some system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of losing cohesion, breaking apart, or decomposing into small pieces or components.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nuclear physics and geomorphology, radioactive nuclear decay or subaerial breakdown of bedrock strata.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Of these plans he had not merely one or two in his head but dozens, some only beginning to form themselves, some approaching achievement, and some in course of disintegration."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"A general disintegration of the body politic set in."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Hitherto the preponderating tendency of the Negro has been toward disintegration, showing the lack of a proper measure of fellow-feeling; the tendency of the Anglo-Saxon is toward racial integration."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The subaerial **disintegration** of basaltic columns on volcanic peaks proceeds at an astonishing rate under tropical weathering."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Evolution involves an integration of matter and concomitant dissipation of motion, whereas dissolution exhibits pervasive material **disintegration**."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The gradual mechanical **disintegration** of the chalk cliffs furnishes the white mud accumulating across the English Channel seabed."*

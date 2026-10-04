@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rotating to the right.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rotating to the right.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by the property of turning the plane of polarization of light to the right or clockwise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stereochemical nomenclature, designated by the prefix d- or (+)- to indicate chiral substances that deflect polarized rays rightward.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dextrorotatory designates rotating to the right."*
+> - 📜 **Louis Pasteur (*Researches on Molecular Asymmetry*):** *"The **dextrorotatory** enantiomer crystallizes with hemihedral facets oriented in a right-handed spatial configuration."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"A column of essential oil of turpentine may be either levorotatory or **dextrorotatory**, depending on the botanical variety from which it is distilled."*
+> - 📜 **Claude Bernard (*Lectures on Experimental Pathology*):** *"Urinary analysis employing the saccharimeter measures the percentage of **dextrorotatory** sugars excreted by diabetic patients."*

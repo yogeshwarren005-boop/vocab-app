@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Censure severely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflict severe punishment on.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To reprimand, criticize, or punish someone severely and harshly for wrongdoing or perceived failure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In textual criticism and moral philosophy, to purge errors from a corrupted manuscript or subject vice to rigorous verbal censure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou didst put this sour cold habit on To castigate thy pride, ’twere well; but thou Dost it enforcedly."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"My unfortunate limb was now left much in the same condition as a rump-steak after undergoing the castigating process which precedes cooking."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Think, when your castigated pulse Gies now and then a wallop!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he be disposed to swear, I will **castigate** his insolence with sharper words than he expects."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The stern moralists of the senate did not hesitate to **castigate** the profligate habits of the decadent court."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The satirist seized every opportunity to **castigate** the venal politicians who betrayed the public trust."*

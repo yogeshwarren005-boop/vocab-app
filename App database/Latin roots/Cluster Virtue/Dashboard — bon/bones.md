@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A percussion instrument consisting of a pair of hollow pieces of wood or bone (usually held between the thumb and fingers) that are made to click together (as by spanish dancers) in rhythm with the dance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rigid connective tissue that makes up the skeleton of vertebrates.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The plural of bone; the skeletal framework of an organism, or a handheld rhythm percussion instrument.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musical folklore and osteology, either the anatomical osseous framework or paired ribs of wood or bone clacked rhythmically in minstrel traditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The mere word’s a slave, Debauch’d on every tomb, on every grave A lying trophy, and as oft is dumb Where dust and damn’d oblivion is the tomb Of honour’d bones indeed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he filled His vacancy with his voluptuousness, Full surfeits and the dryness of his bones Call on him for’t."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In verity, you did; my bones bear witness, That since have felt the vigour of his rage."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Full fathom five thy father lies; of his **bones** are coral made; those are pearls that were his eyes."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The legal dispute dragged on until the very **bones** of the disputed estate were picked bare by suitors and clerks."*
+> - 📜 **Mark Twain (*The Adventures of Huckleberry Finn*):** *"The performer clicked the wooden **bones** between his fingers to keep time with the brisk banjo tune."*

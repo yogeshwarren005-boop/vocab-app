@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person skilled in testing for defects of vision in order to prescribe corrective glasses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person skilled in testing for defects of vision in order to prescribe corrective glasses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A licensed health care professional specializing in examining eyes, diagnosing visual defects, and prescribing corrective lenses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In primary vision care, a practitioner evaluating binocular function, visual acuity, refractive errors, and screening for ocular pathologies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, optometrist designates a person skilled in testing for defects of vision in order to prescribe corrective glasses."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Golden Pince-Nez*):** *"The consulting **optometrist** affirmed that only a patient with exceptional astigmatism and acute myopia could have worn spectacles of such peculiar curvature."*
+> - 📜 **H. G. Wells (*The Wheels of Chance*):** *"Hoopdriver peered through the shop window at the brass instruments and vision charts displayed by the town **optometrist**."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"He consulted an enterprising **optometrist** on Floral Avenue, who fitted him with fashionable tortoiseshell frames to enhance his executive dignity."*

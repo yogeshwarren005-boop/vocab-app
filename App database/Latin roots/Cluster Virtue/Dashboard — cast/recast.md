@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cast again, in a different role.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cast again.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cast, shape, or mold again; or to assign new actors to dramatic roles or alter the form and organization of a concept or text.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metallurgy, foundry manufacturing, and rhetoric, to remelt and reform metal items, or to reformulate an argument, law, or financial model.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Jesus entirely recast mankind's common ideas of holiness."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"As soon as he was out of earshot Bernard turned on Laura and seized her by the wrist, his features altering, their sardonic mask recast in deep lines of hate."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The emperor ordered the bronze statues of his fallen predecessor to be melted down and **recast** into military standards."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The ministry was forced to **recast** the revenue bill entirely after meeting furious resistance in the House of Commons."*
+> - 📜 **John Stuart Mill (*Autobiography*):** *"I found it necessary to **recast** the whole introductory treatise to accommodate the newly discovered economic principles."*

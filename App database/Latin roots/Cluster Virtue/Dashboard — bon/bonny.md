@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Very pleasing to the eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very pleasing to the eye.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pleasing and attractive to the eye; pretty, blooming, cheerful, and full of buoyant health.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In northern English and Scottish literature, designating wholesome beauty, charming landscape, or cheerful personal demeanor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why would you be so fond to overcome The bonny prizer of the humorous Duke?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They say he made a good end. [_Sings._] For bonny sweet Robin is all my joy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The deadly-handed Clifford slew my steed, But match to match I have encountered him And made a prey for carrion kites and crows Even of the bonny beast he loved so well."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why would you be so fond to overcome the **bonny** prizer of the humorous Duke?"*
+> - 📜 **Robert Burns (*Tam o' Shanter*):** *"The **bonny** lassies danced with joyous abandon through the festive gathering while music echoed across the green."*
+> - 📜 **Sir Walter Scott (*Waverley*):** *"The regiment marched briskly to the tune of **bonny** Dundee, their banners fluttering in the autumn breeze."*

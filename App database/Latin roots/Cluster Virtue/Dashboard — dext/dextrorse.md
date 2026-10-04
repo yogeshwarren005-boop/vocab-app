@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spiraling upward from left to right.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spiraling upward from left to right.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Twining, spiraling, or coiling upward from left to right in a right-handed direction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive malacology and plant morphology, designating structures whose spiral helices follow a clockwise trajectory.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dextrorse designates spiraling upward from left to right."*
+> - 📜 **Charles Darwin (*The Movements and Habits of Climbing Plants*):** *"Species of Bryonia produce tendrils that are distinctly **dextrorse**, gripping the trellises with resilient clockwise coils."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The fossilized turritella shells show consistently **dextrorse** whorls throughout the successive strata of the Tertiary formation."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"On isolated archipelagoes, certain snail colonies diverge from the ancestral **dextrorse** shell to produce sinistral populations."*

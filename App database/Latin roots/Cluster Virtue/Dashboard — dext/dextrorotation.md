@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rotation to the right.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rotation to the right.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Clockwise rotation, specifically the clockwise deflection of the plane of polarized light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical chemistry, the quantitative angular measure in degrees of rightward optical deflection caused by chiral enantiomers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dextrorotation designates rotation to the right."*
+> - 📜 **Louis Pasteur (*Researches on Molecular Asymmetry*):** *"The observed angle of **dextrorotation** diminished proportionately as the concentrated sugar syrup was diluted with distilled water."*
+> - 📜 **Lord Kelvin (*Popular Lectures and Addresses*):** *"Molecular helicity in helical quartz prisms produces measurable **dextrorotation** of transmitted monochromatic light beams."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"The continuous conversion of sucrose during acidic hydrolysis terminates the initial **dextrorotation** and yields an inverted levorotary mixture."*

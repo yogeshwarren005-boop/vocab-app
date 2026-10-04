@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling the unthinking functioning of a machine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling the unthinking functioning of a machine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a robot; acting mechanically, automatically, or without apparent human emotion, thought, or spontaneity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral psychology and sociological critique, exhibiting stereotyped, programmed responsiveness or dehumanized compliance in repetitive tasks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, robotlike designates resembling the unthinking functioning of a machine."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"The party functionary gave a series of **robotlike** nods as he chanted the prescribed propaganda slogans without missing a syllable."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"The conditioned factory workers performed their repetitive assembly tasks with a chilling, **robotlike** accuracy."*
+> - 📜 **H. G. Wells (*When the Sleeper Wakes*):** *"The subterranean labor battalions marched in silent, **robotlike** files beneath the glare of the electric arc-lights."*

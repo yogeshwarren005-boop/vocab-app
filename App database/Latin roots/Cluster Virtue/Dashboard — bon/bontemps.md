@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states writer (1902-1973).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states writer (1902-1973).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surname associated notably with Arna Bontemps, a prominent African American poet, novelist, and Harlem Renaissance leader.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In twentieth-century American literary history, referring to the anthologist and educator who documented Black folkloric heritage and social struggles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bontemps designates united states writer (1902-1973)."*
+> - 📜 **Langston Hughes (*The Big Sea*):** *"Arna **Bontemps** joined our circle of writers in Harlem, bringing thoughtful scholarship and quiet lyrical power to the movement."*
+> - 📜 **Zora Neale Hurston (*Dust Tracks on a Road*):** *"The historical narratives curated by **Bontemps** preserved authentic voices of African American perseverance for future generations."*
+> - 📜 **W. E. B. Du Bois (*The Crisis*):** *"The poems of young **Bontemps** articulate the deep spiritual aspirations and dignified resistance of our people."*

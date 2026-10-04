@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An outer protective covering such as the skin of an animal or a cuticle or seed coat or rind or shell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An outer protective covering such as the skin of an animal or a cuticle or seed coat or rind or shell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A natural outer covering or layer of an organism, such as skin, rind, husk, shell, or pelt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical anatomy and entomology, the protective cellular envelope of an ovule or the chitinous exoskeleton of an arthropod.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"One morning the few lonely trees and the thorns of the hedgerows appeared as if they had put off a vegetable for an animal integument."*
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"I feel I hardly feel enough for him; my own calamities press about me and involve me in a thick integument not to be reached at by other folks' misfortunes."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"In many crustaceans, the hard chitinous **integument** must be shed periodically to permit somatic expansion during seasonal molting."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The cutaneous **integument** serves not merely as a physical barrier against abrasion, but as an indispensable organ of tactile sensation and heat regulation."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The delicate fossil impressions preserve even the scaled **integument** of ancient reptiles entombed within lithographic limestone."*

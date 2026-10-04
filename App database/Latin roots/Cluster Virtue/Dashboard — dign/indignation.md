@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of righteous anger.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of righteous anger.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Anger or scorn aroused by something perceived as unjust, mean, disgraceful, or wicked.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and political rhetoric, collective public outrage mobilized against tyrannical abuse or social corruption.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is not well, rash and unbridled boy, To fly the favours of so good a king, To pluck his indignation on thy head By the misprizing of a maid too virtuous For the contempt of empire."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The cannons have their bowels full of wrath, And ready mounted are they to spit forth Their iron indignation ’gainst your walls."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The iron of itself, though heat red-hot, Approaching near these eyes would drink my tears And quench his fiery indignation Even in the matter of mine innocence; Nay, after that, consume away in rust, But for containing fire to harm mine eye."*
+> - 📜 **William Shakespeare (*All's Well That Ends Well*):** *"This is not well, rash and unbridled boy, to fly the favours of so good a king, to pluck his **indignation** on thy head."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He was not a man to feel any strong moral **indignation** even on account of trespasses against himself, viewing human frailty with lenient irony."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Had he appeared surprised at his own arrest, or feigned **indignation** at it, I should have looked upon him with far greater suspicion."*

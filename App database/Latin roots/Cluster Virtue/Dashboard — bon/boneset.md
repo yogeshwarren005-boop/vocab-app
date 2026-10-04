@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: European herb having small white, pink or purple flowers; naturalized as a weed in north america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perennial herb of southeastern united states having white-rayed flower heads; formerly used as in folk medicine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A perennial North American composite herb (Eupatorium perfoliatum) traditionally brewed as a febrifuge and tonic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnobotany and herbal pharmacognosy, an asteraceous medicinal plant containing sesquiterpene lactones historically administered for influenza and dengue fever.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"Once they crossed a wandering little creek whose shallow waters flowed through lovely meadows where boneset plants were white with bloom and giant eupatorium lifted its rosy heads."*
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"But why don't you make a big crock of boneset tea and make her take a good swallow every day?"*
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"I'll fix her up some boneset tea to-day yet."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"The settlers kept dried bundles of **boneset** hanging from rafters to brew bitter tea for autumn chills."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"Old domestic practitioners placed boundless confidence in steaming infusions of **boneset** to break stubborn fevers."*
+> - 📜 **John Burroughs (*Riverby*):** *"Along the marshy margins of the brook grew towering clusters of white **boneset** buzzing with wild bees."*

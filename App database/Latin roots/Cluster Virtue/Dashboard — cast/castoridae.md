@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Beavers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beavers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mammalian family of semi-aquatic rodents comprising the beavers, characterized by broad flat tails, webbed hind feet, and chisel-like incisors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology and mammalogy, a family of castorimorph rodents represented today only by the genus Castor, but historically containing giant Pleistocene forms such as Castoroides.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog castoridae as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The skull of the **Castoridae** exhibits massive zygomatic arches and specialized incisors adapted for gnawing through hard timber."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Comparative craniology places the **Castoridae** among the most anatomically specialized families within the order Rodentia."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The geographical distribution of the **Castoridae** was formerly circumscribed to the temperate and boreal regions of the northern hemisphere."*

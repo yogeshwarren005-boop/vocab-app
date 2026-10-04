@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The selection of a new member (usually by a vote of the existing membership).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of appointing summarily (with or without the appointee's consent).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of co-opting an individual or idea; appointment to membership by incumbent colleagues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In corporatist governance and political philosophy, institutional preemption of dissident movements through structural incorporation and minor concessions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, co-option designates the selection of a new member (usually by a vote of the existing membership)."*
+> - 📜 **James Bryce (*The American Commonwealth*):** *"The municipal committee maintained stability through regular **co-option** of trusted community elders and civic leaders."*
+> - 📜 **Woodrow Wilson (*Congressional Government*):** *"The permanent standing committees resisted executive interference by relying on internal **co-option** for leadership succession."*
+> - 📜 **Beatrice Webb (*My Apprenticeship*):** *"The trade union executive resisted imperial **co-option**, refusing to compromise its socialist principles for minor titles."*

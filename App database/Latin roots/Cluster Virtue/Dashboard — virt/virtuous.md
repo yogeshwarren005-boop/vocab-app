@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Morally excellent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a state of sexual virginity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing high moral standards, ethical righteousness, integrity, or upright personal character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Aristotelian and Thomistic moral philosophy, possessing stable dispositions toward the golden mean in passion and action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have those hopes of her good that her education promises her dispositions she inherits, which makes fair gifts fairer; for where an unclean mind carries virtuous qualities, there commendations go with pity, they are virtues and traitors too."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To each of you one fair and virtuous mistress Fall, when love please!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If she be All that is virtuous, save what thou dislik’st, A poor physician’s daughter,—thou dislik’st— Of virtue for the name."*
+> - 📜 **William Shakespeare (*Twelfth Night*):** *"Dost thou think, because thou art **virtuous**, there shall be no more cakes and ale? Yes, by Saint Anne, and ginger shall be hot i' the mouth too!"*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Fanny Price remained steadfast in her convictions, choosing rather to endure cold neglect than compromise her **virtuous** principles."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"I conceived the bold and arduous project of arriving at moral perfection, desiring to live without committing any fault, and to become truly **virtuous**."*

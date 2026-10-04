@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a very dark black.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a very dark black.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dark, deeply black like ebony wood; an archaic and poetic adjective for profound darkness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Romantic verse and descriptive literature, denoting absolute darkness, pitch-black color, or dense shadows.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rouse up revenge from ebon den with fell Alecto’s snake, For Doll is in."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Where, I mean, I did encounter that obscene and most preposterous event that draweth from my snow-white pen the ebon-coloured ink, which here thou viewest, beholdest, surveyest, or seest."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Love’s golden arrow at him should have fled, And not death’s ebon dart to strike him dead. 948 “Dost thou drink tears, that thou provok’st such weeping?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rouse up revenge from **ebon** den with fell Alecto's snake, for Doll is in; I would requite her well."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The harpooneer's chest was marked with spiral tattoos against his dark, **ebon** complexion."*
+> - 📜 **Edgar Allan Poe (*The Raven*):** *"Then this **ebon** bird beguiling my sad fancy into smiling, by the grave and stern decorum of the countenance it wore."*

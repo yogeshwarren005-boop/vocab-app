@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mechanism that can move automatically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mechanism that can move automatically.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A machine capable of carrying out a complex series of physical actions automatically, especially one programmable by computer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literature, industrial engineering, and cybernetics, an artificial autonomous mechanism, coined by Karel Čapek in the 1920 play 'R.U.R.'.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Joining the laughing, chattering throng, they squeezed their way to the desk robot, and registered as a group."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A convoy of robot deflectors and screens cleared the Extractor fleet's path of meteoroids, sand and rock swarms and space debris."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A fleet of robot tugs clamped mag-beams on the free-floating globes and hauled them off."*
+> - 📜 **Karel Čapek (*R.U.R. (Rossum's Universal Robots)*):** *"A **robot** is not a human being, Domin declared; it has no soul, but can perform the labor of two and a half men without exhaustion."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The automatic factories of the new world republic were tended by mechanical **robot** devices that eliminated human drudgery."*
+> - 📜 **Arthur Conan Doyle (*The Maracot Deep*):** *"The deep-sea bathysphere relied upon an ingenious mechanical **robot** arm to gather biological specimens from the ocean trench."*

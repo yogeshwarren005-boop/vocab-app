@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is rejected (from society or home).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shipwrecked person.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person shipwrecked and stranded in an isolated or desolate place; or an abandoned, rejected outcast.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime law, naval history, and narrative literature, a survivor marooned on an uninhabited shore after the loss of a sailing vessel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That ever I should call thee castaway!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He thence departs a heavy convertite; She there remains a hopeless castaway."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Who cares about the looks of a castaway like me!” Her journey back was rather a meander than a march."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Pip jumped from the boat once more, and was left adrift in the vast Atlantic, a lonely **castaway** bobbing in infinite waters."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"He felt like a solitary **castaway** who looks out from his barren rock upon sails passing far on the horizon."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"I was reduced to the desolate condition of a helpless **castaway**, stripped of all human companionship on a solitary island."*

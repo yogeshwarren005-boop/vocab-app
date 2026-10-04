@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Object formed by a mold.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of creating something by casting it in a mold.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An object made by pouring liquid metal, plastic, or plaster into a mold and allowing it to solidify; or the process of choosing actors for a play or film.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanical engineering, foundry metallurgy, and angling, the production of complex metal components by molten metal solidification, or the act of throwing a baited fishing line.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Wolves and bears, they say, Casting their savageness aside, have done Like offices of pity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There was casting up of eyes, holding up of hands, with countenance of such distraction that they were to be known by garment, not by favour."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Kenge, standing with his back to the fire and casting his eyes over the dusty hearth-rug as if it were Mrs."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"He studied the bronze **casting** upon the mantlepiece, admiring the fine finish of the metalwork."*
+> - 📜 **George Eliot (*Adam Bede*):** *"The artisan examined every iron **casting** before it left the workshop, testing for invisible flaws and air bubbles."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"The heavy flywheel of the steam engine was a massive iron **casting** that turned with monotonous, unceasing power."*

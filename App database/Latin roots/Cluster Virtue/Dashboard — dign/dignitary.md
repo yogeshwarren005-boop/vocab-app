@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An important or influential (and often overbearing) person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An important or influential (and often overbearing) person.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who holds high rank or an important office, especially in church, state, or civic government.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociological hierarchy and diplomatic protocol, an official invested with recognized ceremonial precedence and honors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"How many men to-day will say what they really think before a man in clerical dress, or a dignitary however trivial?"*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"This was the time for Wemmick to produce a little kettle, a tray of glasses, and a black bottle with a porcelain-topped cork, representing some clerical dignitary of a rubicund and social aspect."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"An ancient picture of some reverend dignitary of the Church in his robes hung over the fireplace."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Kieou-he-yu, a great **dignitary** of the state of Wei, sent a messenger to Khoung-tseu to inquire concerning his welfare."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"In the course of these confidences it became quite plain to me I had been represented to the wife of the high **dignitary** as an exceptional young man."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Their cravats were in general stiff, I thought, and their looks haughty, as became an ecclesiastical **dignitary** of the Doctors' Commons."*

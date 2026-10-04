@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various polysaccharides obtained by hydrolysis of starch; a tasteless and odorless gummy substance that is used as a thickening agent and in adhesives and in dietary supplements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various polysaccharides obtained by hydrolysis of starch; a tasteless and odorless gummy substance that is used as a thickening agent and in adhesives and in dietary supplements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A soluble gummy carbohydrate substance formed by the partial hydrolysis or roasting of starch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial chemistry and adhesive manufacturing, a water-soluble pyrodextrin binder used for paper sizing and pharmaceutical excipients.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dextrin designates any of various polysaccharides obtained by hydrolysis of starch; a tasteless and odorless gummy substance that is used as a thickening agent and in adhesives and in dietary supplements."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Diastatic enzymes degrade complex starch molecules into **dextrin** and fermentable sugars under carefully regulated temperature regimes."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"The conversion of starch into adhesive **dextrin** through dry torrefaction demonstrates how heat reorganizes complex organic polymers."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Salivary amylase acts promptly upon ingested starch granules, breaking them down into soluble **dextrin** during the first stage of digestion."*

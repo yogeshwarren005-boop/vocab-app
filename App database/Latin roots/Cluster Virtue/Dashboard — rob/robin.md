@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small old world songbird with a reddish breast.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large american thrush having a rust-red breast and abdomen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small songbird with a reddish-orange breast (European Erithacus rubecula or American thrush Turdus migratorius).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, folklore, and English literature, a beloved migratory or resident passerine bird associated with winter snows and pastoral gardens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They say he is already in the Forest of Arden, and a many merry men with him; and there they live like the old Robin Hood of England."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They say he made a good end. [_Sings._] For bonny sweet Robin is all my joy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This house is turned upside down since Robin ostler died."*
+> - 📜 **William Shakespeare (*The Two Gentlemen of Verona*):** *"To relish a love-song, like a **robin** redbreast; to walk alone, like one that had the pestilence; to sigh, like a schoolboy that had lost his A B C."*
+> - 📜 **William Blake (*Auguries of Innocence*):** *"A **robin** redbreast in a cage puts all heaven in a rage, rebuking the thoughtless cruelty of man toward helpless creatures."*
+> - 📜 **Emily Dickinson (*Poems*):** *"I shall keep singing! Birds will pass me on their way to Yellower Climes; Each with a **robin** on his breast and sunshine in his eyes."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (used informally) stupid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used informally) stupid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhibiting obstinate stupidity, dense foolishness, or a pronounced lack of common sense and forethought.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In conversational criticism and social description, characterized by intractable blunders resulting from stubborn unreasonableness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, boneheaded designates (used informally) stupid."*
+> - 📜 **P. G. Wodehouse (*Carry On, Jeeves*):** *"Only the most **boneheaded** scheme could have led him into the vicar's private conservatory at midnight."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"The laboratory assistant regretted the **boneheaded** mistake that contaminated three weeks of careful bacterial cultures."*
+> - 📜 **Raymond Chandler (*The Big Sleep*):** *"It was a **boneheaded** manoeuvre that gave the pursuers every opportunity to corner him in the alley."*

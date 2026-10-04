@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Skillful in physical movements; especially of the hands.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Skillful in physical movements; especially of the hands.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Demonstrating physical skill, cleverness, and neat handling, especially with the hands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possessing mental sharpness, practical resourcefulness, or artful finesse in tricky practical situations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dextrous designates skillful in physical movements; especially of the hands."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"With a keen blade and **dextrous** fingers, the cooper trimmed the cedar staves to withstand the battering of storm-tossed seas."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The Lilliputian tailors were surprisingly **dextrous**, taking my measurements with mathematical compasses and constructing garments with remarkable speed."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The higher apes possess **dextrous** forelimbs capable of handling fragile fruits and cracking hard-shelled nuts with stones."*

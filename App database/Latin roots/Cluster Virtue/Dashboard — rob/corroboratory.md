@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to support or corroborate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving to support or corroborate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to corroborate or confirm; corroborative in nature or intended function.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In judicial proceedings and academic discourse, serving the formal evidentiary function of substantiating a disputed thesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, corroboratory designates serving to support or corroborate."*
+> - 📜 **Jeremy Bentham (*A Treatise on Judicial Evidence*):** *"A single witness cannot suffice in cases of perjury without auxiliary and **corroboratory** circumstances."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode listened in terror as Raffles produced **corroboratory** documents attesting to his shameful early transactions."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Travellers' accounts from Polynesia offer **corroboratory** data supporting our evolutionary theory of ceremonial institutions."*

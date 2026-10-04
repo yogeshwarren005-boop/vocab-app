@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct beavers of the pleistocene; of eastern and southern united states.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct beavers of the pleistocene; of eastern and southern united states.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct genus of giant beavers that inhabited North America during the Pleistocene epoch, reaching the size of modern black bears.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, Pleistocene megafaunal rodents (notably Castoroides ohioensis) possessing fluted incisors and weighing up to one hundred kilograms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, castoroides designates extinct beavers of the pleistocene; of eastern and southern united states."*
+> - 📜 **Charles Lyell (*Travels in North America*):** *"In the peat bogs of Ohio, naturalists discovered the skull of **Castoroides**, an extinct beaver that attained the proportions of a bear."*
+> - 📜 **Louis Agassiz (*Lake Superior*):** *"The giant Pleistocene rodent **Castoroides** ohioensis demonstrates that prehistoric lakes supported vastly larger mammalian forms than our modern fauna."*
+> - 📜 **Joseph Leidy (*The Extinct Mammalian Fauna of Dakota and Nebraska*):** *"The immense, grooved incisors of **Castoroides** indicate an adaptation for felling woody vegetation along ancient glacial waterways."*

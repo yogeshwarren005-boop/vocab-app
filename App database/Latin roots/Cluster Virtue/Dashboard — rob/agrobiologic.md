@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to agrobiology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to agrobiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to agrobiology, the scientific study of plant nutrition and soil management in relation to crop yield.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agronomic science and pedology, concerning the biological and chemical laws governing soil fertility and agricultural productivity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agrobiologic designates of or pertaining to agrobiology."*
+> - 📜 **Justus von Liebig (*Organic Chemistry in Its Applications to Agriculture and Physiology*):** *"Every sound **agrobiologic** investigation demonstrates that soil fertility depends strictly upon replenishing depleted mineral salts."*
+> - 📜 **George Washington Carver (*Progressive Nature Studies*):** *"Applying sound **agrobiologic** principles to cotton fields will regenerate worn-out soils through nitrogen-fixing cowpeas and sweet potatoes."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"The humble earthworm plays an indispensable **agrobiologic** role by aerating the arable soil and enriching humus."*

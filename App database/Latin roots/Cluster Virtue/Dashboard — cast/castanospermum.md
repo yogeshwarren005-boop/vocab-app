@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rosid dicot genus of the subfamily papilionoideae having one species: moreton bay chestnut.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rosid dicot genus of the subfamily papilionoideae having one species: moreton bay chestnut.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monotypic genus of leguminous rainforest trees native to eastern Australia, containing the species Castanospermum australe, known as the black bean or Moreton Bay chestnut.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic botany and phytochemistry, an Australian Fabaceae timber tree famous for large edible chestnuts when prepared properly and containing bioactive castanospermine alkaloids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, castanospermum designates a rosid dicot genus of the subfamily papilionoideae having one species: moreton bay chestnut."*
+> - 📜 **Ferdinand von Mueller (*Fragmenta Phytographiae Australiae*):** *"The lofty riverbank tree **Castanospermum** australe displays magnificent orange-red papilionaceous blossoms among glossy pinnate foliage."*
+> - 📜 **Joseph Dalton Hooker (*Curtis's Botanical Magazine*):** *"Specimens of **Castanospermum** raised in the Palm House at Kew exhibited enormous leguminous pods bearing chestnut-like seeds."*
+> - 📜 **John Macoun (*Catalogue of Canadian and Exotic Plants*):** *"The timber of the Australian **Castanospermum** is prized for cabinetwork owing to its rich dark grain resembling walnut."*

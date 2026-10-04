@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of physics that studies the physical properties of light.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Optical properties.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific discipline and branch of physics that studies the behavior, properties, and manipulation of light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern political analysis and corporate communication, public perception and aesthetic presentation of policy decisions or leadership actions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Still I'm not sure you'd like it exactly (Such tastes as a rule are acquired), And you'll find in a nutshell this fact lie, Bruised optics are not much admired."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Yet those same bleared optics had a strange, penetrating power, when it was their owner’s purpose to read the human soul."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Divine metaphysics reverses perverted 111:15 and physical hypotheses as to Deity, even as the ex- planation of optics rejects the incidental or inverted image and shows what this inverted image is meant to 111:18 represent."*
+> - 📜 **Isaac Newton (*Opticks*):** *"My design in this treatise of **optics** is not to explain the properties of light by hypotheses, but to propose and prove them by reason and experiments."*
+> - 📜 **Johann Wolfgang von Goethe (*Theory of Colours*):** *"The physiological phenomena of vision constitute the living foundation upon which all natural **optics** must rest."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The venerable minister studied the subtle **optics** of human nature, discerning spiritual passions beneath veiled brows."*

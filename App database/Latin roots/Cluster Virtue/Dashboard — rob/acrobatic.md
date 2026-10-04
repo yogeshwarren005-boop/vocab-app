@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Vigorously active.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vigorously active.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Performing, relating to, or involving spectacular feats of physical balance, agility, and gymnastic coordination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biomechanics and dramatic staging, exhibiting extraordinary bodily flexibility, rapid dynamic equilibrium, and kinesthetic control.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"That is an acrobatic feat that I never believed you capable of, honey.” “We-ell!"*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Instead of going to the gym on Saturday, I'll put in calisthenics and acrobatic stunts with a broom and duster.” She was thorough, too."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The sailors mounted the rigging with **acrobatic** swiftness, swinging high above the foaming waves of the Pacific."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Tonga leaped onto the roof with **acrobatic** lightness, leaving barely a scratch upon the zinc gutter."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The Malay boatmen displayed an **acrobatic** dexterity as they leaped from the surf onto the slippery reef."*

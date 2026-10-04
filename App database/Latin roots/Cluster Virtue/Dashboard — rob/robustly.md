@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a robust manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a robust manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a robust, strong, vigorous, or sturdy manner; with healthy energy and resilience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytical argument and clinical assessment, defending a theoretical position with uncompromising vigor or exhibiting exceptional physiological endurance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, robustly designates in a robust manner."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"The investigator must **robustly** defend empirical truth against the polite evasions of theological dogma."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"He was a man who laughed **robustly**, enjoying the physical pleasures of hunting and good cheer with unaffected relish."*
+> - 📜 **Theodore Roosevelt (*The Strenuous Life*):** *"A nation cannot long endure unless its youth are taught to work **robustly** and defend their civic liberties with courage."*

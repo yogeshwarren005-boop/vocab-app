@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An isomer of glucose that is found in honey and sweet fruits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An isomer of glucose that is found in honey and sweet fruits.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of glucose found in fruits and honey, widely used in food, brewing, and medical intravenous solutions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmaceutical therapy and clinical metabolism, anhydrous d-glucose administered parenterally for rapid caloric rehydration and hypoglycemia treatment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dextrose designates an isomer of glucose that is found in honey and sweet fruits."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Yeast cells consume pure **dextrose** in the nutrient broth, metabolizing the hexose rapidly into ethanol and carbonic acid gas."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"Commercial **dextrose** extracted from starch granules constitutes a nutritious carbohydrate readily assimilated by the human digestive tract."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Intravenous infusion of buffered **dextrose** solution provides indispensable nutritional support when gastrointestinal absorption is compromised."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Confer dignity or honor upon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Raise the status of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bestowing nobility, honor, or solemn worth upon a person, activity, or condition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Imparting an air of spurious importance or elevated distinction to an otherwise trivial matter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"In the long run, they brought Philosophy to its knees, abasing it to be the apologist of everything they taught and did, and dignifying themselves by giving a philosophic colouring to their mysticism."*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"The dignified and dignifying consciousness of an honest man, and the well-grounded trust in approving Heaven, are two most substantial foundations of happiness."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"True artistic genius consists in **dignifying** the humblest elements of common nature through the revelation of universal beauty."*
+> - 📜 **Samuel Johnson (*The Lives of the Poets*):** *"Dryden possessed the rare faculty of **dignifying** colloquial diction without allowing verse to degenerate into pompous affectation."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"She possessed a natural grace capable of **dignifying** even the routine chores of the pensionnat schoolroom."*

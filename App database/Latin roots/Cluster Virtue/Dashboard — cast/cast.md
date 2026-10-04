@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The actors in a play.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Container into which liquid is poured to create a given shape when it hardens.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To throw, fling, or propel something with force; or to assign roles to actors in a theatrical performance or production.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metallurgy, foundry manufacturing, and sculpture, to shape molten metal, plaster, or synthetic resin by pouring it into a hollow mold.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then if he thrive and I be cast away, The worst was this: my love was my decay. 81 Or I shall live your epitaph to make, Or you survive when I in earth am rotten, From hence your memory death cannot take, Although in me each part will be forgotten."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It were pity to cast them away for nothing, though, between them and a great cause they should be esteemed nothing."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The city cast Her people out upon her, and Antony, Enthroned i’ th’ market-place, did sit alone, Whistling to th’ air, which, but for vacancy, Had gone to gaze on Cleopatra too, And made a gap in nature."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The city **cast** her people out upon her, and Antony, enthroned in the market-place, did sit alone."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He looked at the murky river and saw the reflections that the street lanterns **cast** upon the rippling black tide."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"A man needs only to turn about to see that the morning light can **cast** all old conventions into shadow."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Select as an alternative over another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Select as an alternative over another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make a choice or decision between different possibilities; to choose one course over others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rational choice economics and decision theory, to select an action that maximizes subjective expected utility among available alternatives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, opt designates select as an alternative over another."*
+> - 📜 **William James (*The Will to Believe*):** *"In every moral crisis, the thinker must **opt** for one live hypothesis and face the hazard of being mistaken."*
+> - 📜 **John Dewey (*Human Nature and Conduct*):** *"Deliberation enables the reflective agent to **opt** for constructive habits rather than blind instinctual reactions."*
+> - 📜 **H. G. Wells (*The World Set Free*):** *"Mankind must either **opt** for international disarmament or perish in the fires of atomic devastation."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of melting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of melting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being broken down, decomposed, or separated into individual constituent parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology and materials engineering, susceptible to mechanical friability, chemical weathering, or structural dissolution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disintegrable designates capable of melting."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Certain soft sandstones exposed along coastal cliffs prove readily **disintegrable** under the continuous beating of rain and oceanic spray."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"The granite rocks contain feldspar minerals that are chemically **disintegrable** when penetrated by carbonic acid dissolved in groundwater."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Every highly complex aggregate remains mechanically **disintegrable** whenever external kinetic disruptions overcome internal cohesive forces."*

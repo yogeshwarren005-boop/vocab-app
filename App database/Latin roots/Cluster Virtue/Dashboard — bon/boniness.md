@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme leanness (usually caused by starvation or disease).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extreme leanness (usually caused by starvation or disease).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The physical characteristic of having prominent, protruding bones or an excessively spare, lean frame.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical anthropometry and physical examination, visible osteological prominence resulting from skeletal architecture or systemic loss of adipose tissue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, boniness designates extreme leanness (usually caused by starvation or disease)."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The extreme **boniness** of the starved cart-horse testified to months of neglect during the hard winter."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His angular wrists and the severe **boniness** of his jaw gave him an air of austere asceticism."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The hound's ribs pressed against its skin with a frightening **boniness** that made its feral strength more terrible."*

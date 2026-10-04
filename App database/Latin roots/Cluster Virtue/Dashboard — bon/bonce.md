@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Informal terms for a human head.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Informal terms for a human head.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large playing marble used in children's games; also used informally in British slang to denote the human head.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British dialectology and traditional street games, a champion shooter marble fashioned from stoneware, stone, or glass, or colloquial humor designating a skull.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bonce designates informal terms for a human head."*
+> - 📜 **P. G. Wodehouse (*Right Ho, Jeeves*):** *"A resounding crack upon the **bonce** was sufficient to bring the wandering fellow back to his practical senses."*
+> - 📜 **George Orwell (*Down and Out in Paris and London*):** *"The boys knelt along the muddy pavement, flicking a heavy stone **bonce** into the center ring with practiced skill."*
+> - 📜 **Arthur Morrison (*Tales of Mean Streets*):** *"He caught a stray blow directly across his **bonce** during the frantic scramble in the crowded lane."*

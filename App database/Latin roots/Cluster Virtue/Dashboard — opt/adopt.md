@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Choose and follow; as of theories, ideas, policies, strategies or plans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take up and practice as one's own.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To legally take another's child into one's family, or to formally choose and embrace a method, principle, or policy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In parliamentary procedure and civil jurisprudence, to formally approve and ratify a resolution, motion, or legislative enactment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it be honour in your wars to seem The same you are not, which for your best ends You adopt your policy, how is it less or worse That it shall hold companionship in peace With honour as in war, since that to both It stands in like request?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tell me, may not a king adopt an heir?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lead your lady off And call your lovers from the stage of death, Whom I adopt my friends."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The convention determined to **adopt** a plan of federal government capable of uniting the sovereign states."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Mrs. Dashwood was ready to **adopt** any scheme that promised comfort and independence to her daughters."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Naturalists will find reason to **adopt** the principle of natural selection when explaining organic adaptations."*

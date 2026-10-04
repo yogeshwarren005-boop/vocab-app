@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an integral manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an integral manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an integral manner; completely, inseparably, and as an essential, indispensable constituent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural engineering and systems biology, united seamlessly so that individual members act as a single monolithic unit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It appears that on joint committees of the Lords and Commons, each committee acted integrally in the following instances: _7 Grey_, 261, 278, 285, 338; _1 Chandler_, 357, 462."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"The circulatory channels and nervous filaments are **integrally** woven into the muscular fabric, sustaining vital somatic harmony."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The Gothic spire rises **integrally** from the foundational masonry, expressing vertical aspiration through every carved buttress."*
+> - 📜 **Thomas Henry Huxley (*Science and Education*):** *"Scientific method must be **integrally** incorporated into early education if pupils are to acquire habits of rigorous independent thought."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of doing what is right and avoiding what is wrong.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any admirable quality or attribute.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Behavior showing high moral standards, righteousness, or moral excellence; also a beneficial efficacy or good quality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Aristotelian ethics and Christian theology, an acquired moral habitus disposing an agent toward the human good, or healing medicinal potency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He that so generally is at all times good, must of necessity hold his virtue to you, whose worthiness would stir it up where it wanted, rather than lack it where there is such abundance."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy blood and virtue Contend for empire in thee, and thy goodness Share with thy birthright!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So is running away, when fear proposes the safety: but the composition that your valour and fear makes in you is a virtue of a good wing, and I like the wear well."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Assume a **virtue**, if you have it not. That monster, custom, who all sense doth eat of habits devil, is angel yet in this."*
+> - 📜 **John Milton (*Areopagitica*):** *"I cannot praise a fugitive and cloistered **virtue**, unexercised and unbreathed, that never sallies out and sees her adversary."*
+> - 📜 **Francis Bacon (*Essays*):** *"**Virtue** is like precious odours, most fragrant when they are incensed or crushed; for prosperity doth best discover vice, but adversity doth best discover virtue."*

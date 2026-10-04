@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of rendering optimal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of rendering optimal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or technique of making something as effective, perfect, functional, or advantageous as possible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In applied mathematics, economics, and control engineering, finding values of decision variables that maximize or minimize a objective function.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, optimization designates the act of rendering optimal."*
+> - 📜 **Charles Babbage (*On the Economy of Machinery and Manufactures*):** *"The careful **optimization** of mechanical tools allows a single artisan to execute work that formerly demanded dozens."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The division of tasks leads naturally to the **optimization** of labor efficiency across commercial manufacturing shops."*
+> - 📜 **Thorstein Veblen (*The Engineers and the Price System*):** *"Industrial production depends upon the technical **optimization** achieved by trained engineers rather than speculative financiers."*

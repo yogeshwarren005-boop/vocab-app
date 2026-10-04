@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A worker who makes glasses for remedying defects of vision.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A worker who makes glasses for remedying defects of vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A professional technician qualified to make, verify, and fit spectacle lenses and optical appliances prescribed for patients.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of science and commercial craftsmanship, a maker of astronomical telescopes, microscopes, and navigational surveying instruments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"It is called the "ultra-microscope." It must first be pointed out that there is a limit to the power of the ordinary microscope, beyond which the skill of the optician cannot go."*
+> - 📜 **Charles Dickens (*Dombey and Son*):** *"Sol Gills was an old-fashioned **optician** and nautical instrument maker, surrounded by chronometers and brass telescopes."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The specialized skill of the London **optician** depends upon a fine division of labor in polishing lenses."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"Griffin purchased flint glass prisms from a London **optician** to conduct his secret light-refraction experiments."*

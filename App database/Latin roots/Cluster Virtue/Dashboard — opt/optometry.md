@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of an optometrist.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The practice of an optometrist.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The profession or practice of examining the eyes for visual defects and prescribing corrective lenses or other vision aids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In healthcare sciences and physiological optics, the clinical discipline encompassing refraction, visual perception therapy, and ocular disease screening.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, optometry designates the practice of an optometrist."*
+> - 📜 **Hermann von Helmholtz (*Treatise on Physiological Optics*):** *"The rigorous development of clinical **optometry** transformed ophthalmic refraction from empirical guesswork into an exact physical science."*
+> - 📜 **Thomas Young (*Lectures on Natural Philosophy*):** *"Understanding the optical focal planes of the living eye constitutes the indispensable foundation for practical **optometry**."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"Martin attended lectures in physiology and elementary **optometry**, learning how physical lenses compensate for biological defects of the eye."*

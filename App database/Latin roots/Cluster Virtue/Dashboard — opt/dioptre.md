@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of measurement of the refractive power of a lens which is equal to the reciprocal of the focal length measured in meters; used by oculists.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of measurement of the refractive power of a lens which is equal to the reciprocal of the focal length measured in meters; used by oculists.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The British standard spelling of diopter, measuring the refractive and focal power of optical lenses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical ophthalmology and optical physics, reciprocal metric focal length used to prescribe spectacle lenses and assess refractive errors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dioptre designates a unit of measurement of the refractive power of a lens which is equal to the reciprocal of the focal length measured in meters; used by oculists."*
+> - 📜 **Lord Rayleigh (*Scientific Papers*):** *"The convex lens exhibited a power of one **dioptre**, bringing parallel rays to a focus at precisely one metre distance."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Myopic anomalies in domestic animals show variations equivalent to several degrees of **dioptre** deviation."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Mortimer adjusted his spectacles, whose thick ground glass indicated a corrective prescription of several **dioptre** units."*

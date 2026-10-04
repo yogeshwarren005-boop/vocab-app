@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ruffed grouse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ruffed grouse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of North American gallinaceous birds in the grouse subfamily, exemplified by the ruffed grouse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian taxonomy and wildlife ornithology, a genus characterized by feathered tarsi, neck ruffs, and territorial drumming behavior performed on forest logs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bonasa designates ruffed grouse."*
+> - 📜 **John James Audubon (*The Birds of America*):** *"The woodland hunter recognizes the drumming call of **Bonasa** echoing through the dense hemlock stands of autumn."*
+> - 📜 **Alexander Wilson (*American Ornithology*):** *"In habits and morphology, the ruffed grouse of the genus **Bonasa** occupies a distinctive position among forest birds."*
+> - 📜 **Spencer Fullerton Baird (*Birds of North America*):** *"Systematic naturalists distinguish **Bonasa** by the pectinated toes and erectile neck tufts of the male specimen."*

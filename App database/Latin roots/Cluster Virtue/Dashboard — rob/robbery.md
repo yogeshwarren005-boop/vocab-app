@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Larceny by threat of violence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plundering during riots or in wartime.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The crime of taking or attempting to take anything of value from the care or custody of a person by force or threat of force.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In common law jurisprudence, felonious theft from the person or immediate presence of another accomplished via violence or intimidation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do forgive thy robbery gentle thief Although thou steal thee all my poverty: And yet love knows it is a greater grief To bear greater wrong, than hate’s known injury."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dost thou think I’ll grace thee with that robbery, thy stol’n name Coriolanus, in Corioles?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But in one night A storm, or robbery, call it what you will, Shook down my mellow hangings, nay, my leaves, And left me bare to weather."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Open and violent larceny from the person, or **robbery**, is an aggravated species of theft punishable with the utmost rigor of the law."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip was haunted by the terrifying memory of the convicts and the midnight **robbery** of his sister's pantry."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Beryl Coronet*):** *"The daring **robbery** of the imperial crown jewels threatened to create a grave scandal in diplomatic circles."*

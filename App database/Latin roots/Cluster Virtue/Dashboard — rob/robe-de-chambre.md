@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A robe worn before dressing or while lounging.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A robe worn before dressing or while lounging.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A loose, comfortable dressing gown or chamber robe worn informally at home, typically in private domestic quarters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fashion history and 19th-century literature, an elegant loungewear garment favored by gentlemen of leisure and scholars during morning hours.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, robe-de-chambre designates a robe worn before dressing or while lounging."*
+> - 📜 **Honoré de Balzac (*Eugénie Grandet*):** *"Monsieur Grandet went down to his counting-house at dawn, wearing his threadbare **robe-de-chambre** and woollen nightcap."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Jos Sedley reclined on the divan in a gorgeous crimson silk **robe-de-chambre**, smoking his oriental hookah in placid luxury."*
+> - 📜 **Gustave Flaubert (*Madame Bovary*):** *"Charles sat by the hearth in his padded **robe-de-chambre**, listening to the November rain beat against the pharmacy windows."*

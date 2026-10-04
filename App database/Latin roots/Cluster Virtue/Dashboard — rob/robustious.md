@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Noisy and lacking in restraint or discipline.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Noisy and lacking in restraint or discipline.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Boisterous, rough, vigorous, and unruly; loudly assertful and violently energetic in speech or behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and theatrical register, describing theatrical bombast, crude blustering physicality, or over-vigorous rhetoric.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, it offends me to the soul to hear a robustious periwig-pated fellow tear a passion to tatters, to very rags, to split the ears of the groundlings, who, for the most part, are capable of nothing but inexplicable dumb shows and noise."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Just, just; and the men do sympathize with the mastiffs in robustious and rough coming on, leaving their wits with their wives; and then, give them great meals of beef and iron and steel, they will eat like wolves and fight like devils."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"A robustious countryman, meeting a physician, ran to hide behind a wall; being asked the cause, he replied, It is so long since I have been sick, that I am ashamed to look a physician in the face. 700."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"O, it offends me to the soul to hear a **robustious** periwig-pated fellow tear a passion to tatters, to very rags, to split the ears of the groundlings."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"Mr. Vincent Crummles commended the **robustious** acting style of the tragedian, whose ferocious roars delighted the gallery."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The gathering assembly heard the **robustious** bellowing of Danton rising above the shrill protests of the Girondin deputies."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An artificial language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artificial language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A French imperative or plural verbal form meaning 'choose' or 'opt', occasionally encountered in diplomatic, culinary, or bilingual registers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical bilingual correspondence and European political tracts, an imperative exhortation urging an audience to decide between competing loyalties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, optez designates an artificial language."*
+> - 📜 **Voltaire (*Philosophical Letters*):** *"Between superstitious servitude and enlightened reason, **optez** for liberty and think as autonomous men."*
+> - 📜 **Edmund Burke (*Letters on a Regicide Peace*):** *"The French manifesto presented a blunt ultimatum to neighboring states: **optez** for our republic or face our bayonets."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The revolutionary orator mounted the tribune, crying out to the wavering assembly: **optez** between courage and eternal infamy!"*

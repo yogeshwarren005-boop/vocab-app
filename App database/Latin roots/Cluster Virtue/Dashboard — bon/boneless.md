@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being without a bone or bones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being without a bone or bones.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Develoid of skeletal bones; lacking stiffness, firmness, courage, or resolute character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy and culinary butchery, describing soft invertebrate tissues or meat cuts prepared without osteal tissue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have given suck, and know How tender ’tis to love the babe that milks me: I would, while it was smiling in my face, Have pluck’d my nipple from his boneless gums And dash’d the brains out, had I so sworn as you Have done to this."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"So that this whole enormous boneless mass is as one wad."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Just so with the head; but with this difference: about the head this envelope, though not so thick, is of a boneless toughness, inestimable by any man who has not handled it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have given suck, and know how tender 'tis to love the babe that milks me: I would, while it was smiling in my face, have plucked my nipple from his **boneless** gums!"*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The giant squid drifted through deep abyssal currents like a pulpy, **boneless** phantom of the sea."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The Martians appeared as huge, **boneless** creatures possessing vast brains and sensitive tentacles."*

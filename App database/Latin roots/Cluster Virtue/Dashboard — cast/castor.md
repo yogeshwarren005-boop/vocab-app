@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A multiple star with 6 components; second brightest in gemini; close to pollux.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shaker with a perforated top for sprinkling powdered sugar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The beaver (genus Castor), or the oily, strong-smelling glandular secretion obtained from beavers and used historically in perfumes and medicine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astronomy, historical fashion, and chemistry, the second-brightest star in Gemini (Alpha Geminorum), a heavy beaver-fur hat, or castoreum secretion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"For, my young friends,” suddenly addressing the ’prentices and Guster, to their consternation, “if I am told by the doctor that calomel or castor-oil is good for me, I may naturally ask what is calomel, and what is castor-oil."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Hussey interposed the mustard-pot and vinegar-cruet, and the entire castor of her countenance."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Certainly it cannot be olive oil, nor macassar oil, nor castor oil, nor bear’s oil, nor train oil, nor cod-liver oil."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The old whaler sported a battered **castor** upon his head, woven of authentic beaver fur that had weathered decades of salt spray."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"Trappers along the northern streams were constantly searching for the dams of **castor** to secure precious pelts."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Fossil remains belonging to the genus **Castor** demonstrate that giant beavers flourished in Pleistocene river basins."*

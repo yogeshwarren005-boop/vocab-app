@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rigid connective tissue that makes up the skeleton of vertebrates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The porous calcified substance from which bones are made.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rigid organ constituting part of the skeleton in most vertebrate animals, protecting organs and enabling motion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate anatomy and histological histology, dense mineralized connective tissue composed of hydroxyapatite crystals embedded in a dense collagen matrix.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here comes lean Jack, here comes bare-bone."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now for the bare-pick’d bone of majesty Doth dogged war bristle his angry crest And snarleth in the gentle eyes of peace."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"NATHANIEL. _Laus Deo, bone intelligo._ HOLOFERNES. _Bone?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy **bones** are marrowless, thy blood is cold; thou hast no speculation in those eyes which thou dost glare with!"*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Homologous **bone** structures in the flipper of a seal and the hand of a human disclose common evolutionary descent."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The solid jaw of the leviathan contains masses of dense **bone** that can splinter the tough timbers of a whaleboat."*

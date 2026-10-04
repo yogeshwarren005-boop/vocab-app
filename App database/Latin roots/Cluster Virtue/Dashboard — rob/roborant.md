@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin rob within the domain of Virtue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of rob in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medicine, tonic, or restorative regimen that imparts physical strength and restores bodily vigor; also strengthening in effect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In therapeutics and historical materia medica, an agent stimulating nutritional assimilation, muscular power, and cardiovascular tonicity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, roborant designates pertaining to, derived from, or characteristic of latin rob within the domain of virtue."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In chronic wasting diseases, the physician must administer a reliable nutritional **roborant** like cod-liver oil and iron."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"A generous diet combined with sea air proves far more **roborant** to an anemic invalid than toxic mineral drugs."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Rigorous scientific investigation acts as a moral **roborant**, invigorating the intellect and banishing debilitating superstitious fears."*

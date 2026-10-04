@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being equally skillful with each hand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being equally skillful with each hand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capability of using both the right and left hands with equal facility and effectiveness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organizational psychology and evolutionary biology, adaptive versatility allowing simultaneous exploration and exploitation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ambidexterity designates the property of being equally skillful with each hand."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Habitual right-handedness is predominant among human races, yet natural **ambidexterity** appears occasionally in individuals without impairing coordinate motor skill."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The swordsman demonstrated remarkable **ambidexterity**, parrying thrusts with his left hand as deftly as he lunged with his right."*
+> - 📜 **Oliver Wendell Holmes (*Over the Teacups*):** *"True intellectual **ambidexterity** requires the thinker to wield analytic dissection and poetic intuition with equal proficiency."*

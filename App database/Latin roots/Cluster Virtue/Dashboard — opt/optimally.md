@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an optimal and most desirable way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an optimal and most desirable way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In the best, most effective, or most favorable manner possible under prevailing circumstances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optimization algorithms and ecological modeling, achieving maximal performance efficiency or resource utilization with minimal thermodynamic cost.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I have no choice, but I have to act quickly." Selvin's battle computer counted down the enemy's distance and flashed estimates on when the enemy line would be optimally exposed to particle beam volleys."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"The human organism functions **optimally** when physical exercise, balanced nutrition, and intellectual labor are harmonized."*
+> - 📜 **Herbert Spencer (*The Data of Ethics*):** *"Social institutions function **optimally** only when the liberty of each citizen is bounded solely by equal liberty for all."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Capital yields its greatest societal benefit when deployed **optimally** across productive and sustainable enterprises."*

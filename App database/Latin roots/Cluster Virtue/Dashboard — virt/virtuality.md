@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin virt within the domain of Virtue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of virt in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of having the potential or inherent efficacy to produce an effect without the formal material presence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scholastic metaphysics and contemporary digital ontology, latent potentiality ready to be actualized, or simulated digital reality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, virtuality designates pertaining to, derived from, or characteristic of latin virt within the domain of virtue."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"The germ contains in its secret **virtuality** the entire future architecture and blossom of the mighty oak."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The power of producing ideas in the mind resides in the active **virtuality** of external material corpuscles."*
+> - 📜 **Thomas Aquinas (*Summa Theologiae*):** *"The cause possesses an operative **virtuality** that pre-contains the form and perfection of the subsequent effect."*

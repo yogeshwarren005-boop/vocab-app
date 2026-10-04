@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Choose and follow; as of theories, ideas, policies, strategies or plans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take up and practice as one's own.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Taken into a family through legal procedures, or chosen, embraced, and formally accepted as a custom or measure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative ethnology and international law, formally incorporated into a kinship clan, institutional canon, or statutory code.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am more proud to be Sir Rowland’s son, His youngest son, and would not change that calling To be adopted heir to Frederick."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My nephew’s trespass may be well forgot, It hath the excuse of youth and heat of blood, And an adopted name of privilege— A hare-brain’d Hotspur, govern’d by a spleen."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, this is he that took King Henry’s chair, And this is he was his adopted heir."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Trajan was the first stranger who was **adopted** into the family of the Caesars and adorned the purple."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"She felt herself warmly loved and fully **adopted** as a daughter by the venerable clergyman and his sisters."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The newly settled townships quickly **adopted** the municipal bylaws that had long prevailed in the older colonies."*

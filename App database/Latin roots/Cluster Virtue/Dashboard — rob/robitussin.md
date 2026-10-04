@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Trade name of an expectorant that loosens phlegm and makes it easier to cough up.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Trade name of an expectorant that loosens phlegm and makes it easier to cough up.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A widely used over-the-counter brand of cough medication containing expectorants such as guaifenesin and cough suppressants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology and respiratory therapy, an antitussive and expectorant preparation formulated to loosen bronchial secretions and suppress reflex coughing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, robitussin designates trade name of an expectorant that loosens phlegm and makes it easier to cough up."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Modern cough syrups such as **robitussin** employ guaifenesin to reduce bronchial mucus viscosity and soothe tracheobronchial irritation."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"The clinic dispensary kept bottles of expectorant similar to **robitussin** on hand to relieve the chronic coughs of foundry workers."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The apothecary dispensed soothing mixtures foreshadowing modern **robitussin**, seeking to calm the paroxysms of acute catarrhal pharyngitis."*

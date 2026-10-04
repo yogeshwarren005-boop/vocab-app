@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an indignant manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an indignant manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that expresses righteous anger, annoyance, or resentment at an injustice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With vocal defiance and offended pride in response to an unwarranted accusation or slight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Kurt quite indignantly assured her that he would never do such a thing."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"They were there, though, when we came into the woods." "The cowards!" Clevi cried indignantly, "To be afraid of trees!"*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It was night-time, and you can imagine we did not see the color clearly," Clevi said indignantly."*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"I'm not a serpent! said Alice **indignantly**; I'm a little girl, and I've eaten apples in my time, as you very well know."*
+> - 📜 **George Eliot (*Middlemarch*):** *"How can you let Tantripp talk such gossip to you, Celia? said Dorothea, **indignantly**, not the less annoyed because her sister blushed."*
+> - 📜 **James Joyce (*Dubliners*):** *"I was going to reply **indignantly** that we were not National School boys to be whipped, as he called it, but my companion nudged me to keep quiet."*

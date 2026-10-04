@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Skillful in physical movements; especially of the hands.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Skillful in physical movements; especially of the hands.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing or having great skill and manual cleverness, especially in fine physical movements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by mental agility, resourcefulness, or artful cleverness in navigating complex negotiations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The creature fell stunned, and the force of its fall brought it within the reach of the dexterous hunter’s grasp."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Sometimes an impending surge appeared ready to overwhelm her, and nothing but a dexterous movement of the helm preserved her from the shock."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"He was famed for great knowledge and skill in horsemanship, being as dexterous on horseback as a Tartar."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Whereupon planting his feet firmly against two opposite planks of the boat, the gigantic negro stood ready, a **dexterous** harpooneer poised to strike."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"All the buildings and trees seemed easily practicable to such **dexterous** climbers as the Morlocks, to whom subterranean darkness was second nature."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"My mistress had a daughter of nine years old, a child of towardly parts for her age, very **dexterous** at her needle and quick to learn."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an optional manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an optional manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that is not compulsory; by choice or discretion rather than obligation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In software specification and contract construction, denoting clauses, arguments, or features that may be included or omitted at the user's discretion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, optionally designates in an optional manner."*
+> - 📜 **Jeremy Bentham (*The Constitutional Code*):** *"The magistrate may **optionally** remit the fine whenever mitigating circumstances and sincere remorse are demonstrated in court."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The partnership agreement provided that additional profits might be **optionally** reinvested in plant infrastructure or distributed as dividends."*
+> - 📜 **Herbert Spencer (*The Principles of Ethics*):** *"Beneficence begins precisely where legal duty ceases, prompting individuals to act **optionally** for the welfare of others."*

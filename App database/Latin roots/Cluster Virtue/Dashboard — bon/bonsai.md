@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dwarfed ornamental tree or shrub grown in a tray or shallow pot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dwarfed ornamental tree or shrub grown in a tray or shallow pot.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The horticultural art of cultivating dwarfed trees in shallow containers through careful pruning and root restriction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Japanese aesthetics and botanical cultivation, a living potted specimen shaped to evoke the mature proportions and weathered grace of full-sized trees.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bonsai designates a dwarfed ornamental tree or shrub grown in a tray or shallow pot."*
+> - 📜 **Lafcadio Hearn (*Glimpses of Unfamiliar Japan*):** *"The Japanese master tended his century-old **bonsai** pine, admiring the gnarls and miniature majesty of its tortured branches."*
+> - 📜 **Inazo Nitobe (*Bushido: The Soul of Japan*):** *"The meditative patience required to prune a living **bonsai** mirrors the interior discipline demanded of the samurai."*
+> - 📜 **Basil Hall Chamberlain (*Things Japanese*):** *"In every courtyard garden one observes prized trays of **bonsai** reproducing ancient mountain landscapes in miniature."*

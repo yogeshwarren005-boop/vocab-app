@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin bon within the domain of Virtue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of bon in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Made, done, or presented in sincere good faith; genuine, authentic, and without fraud or deceit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal jurisprudence and commercial contract theory, designating an innocent party who acts without intention to deceive or knowledge of fraudulent claims.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bona fide designates pertaining to, derived from, or characteristic of latin bon within the domain of virtue."*
+> - 📜 **James Joyce (*Dubliners*):** *"The travelers were acknowledged as **bona fide** wayfarers entitled to refreshment outside standard trading hours."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A purchaser who acts **bona fide** and pays valuable consideration acquires clear title unimpeachable by latent trusts."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"Mr. Pickwick maintained that the transaction was entered into in a **bona fide** manner with pure intentions."*

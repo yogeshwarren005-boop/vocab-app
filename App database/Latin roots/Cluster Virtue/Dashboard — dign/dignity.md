@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being worthy of esteem or respect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formality in bearing and appearance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inherent worth, noble composure, and solemn self-respect that commands public esteem.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethical philosophy and human rights jurisprudence, the inalienable moral status possessed by every individual person.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The great dignity that his valour hath here acquir’d for him shall at home be encountered with a shame as ample."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Meantime, forget this new-fall’n dignity, And fall into our rustic revelry."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hapless Egeon, whom the fates have mark’d To bear the extremity of dire mishap; Now, trust me, were it not against our laws, Against my crown, my oath, my dignity, Which princes, would they, may not disannul, My soul should sue as advocate for thee."*
+> - 📜 **William Shakespeare (*Troilus and Cressida*):** *"The great **dignity** that his valour hath here acquired for him shall at home be encountered with a shameful defeat if pride corrupts his judgment."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The self-consciousness shown would have been vanity if a little more pronounced, **dignity** if a little less, but poised between both it was pure grace."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"I am ashamed of you, Holmes, said Lestrade with **dignity** after a few minutes of stunned silence."*

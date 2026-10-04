@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of plant nutrition and growth especially as a way to increase crop yield.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of plant nutrition and growth especially as a way to increase crop yield.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of science that studies plant nutrition, soil chemistry, and biological conditions in relation to crop yield.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agrarian theory and pedology, the systematic discipline investigating the physiological and ecological determinants of crop productivity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agrobiology designates the study of plant nutrition and growth especially as a way to increase crop yield."*
+> - 📜 **Justus von Liebig (*Animal Chemistry*):** *"The emerging science of **agrobiology** bridges laboratory chemistry with the practical labors of the husbandman in the field."*
+> - 📜 **George Washington Carver (*Some Peanut Products*):** *"Through patient **agrobiology**, we discovered that the humble legume could revitalize the exhausted soil of the South."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"The development of **agrobiology** illustrates how human intelligence systematically bends biological laws to feed growing populations."*

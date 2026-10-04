@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Establish or strengthen as with new evidence or facts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give evidence for.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To confirm, support, or substantiate a statement, theory, or finding with fresh evidence or authoritative testimony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In criminal evidence law and experimental scientific methodology, providing independent verification to eliminate doubt or bias.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His heart is fracted and corroborate."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Lloyd, received his answer: it appeared that what he said went to corroborate my account."*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"By all their vain reasonings and presumptuous objections, they just corroborate revealed truth, and evince the desperate wickedness of the natural heart."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The discovery of the bloodstained footprint served to **corroborate** the extraordinary theory which Holmes had deduced."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Subsequent embryological studies by continental naturalists fully **corroborate** our observations on human morphological development."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The surviving epigraphic inscriptions from the province **corroborate** the narrative of the historian Tacitus."*

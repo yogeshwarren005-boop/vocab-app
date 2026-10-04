@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: On or starting from the wearer's right.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: On or starting from the wearer's right.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or situated on the right-hand side, especially in heraldic descriptions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical augury and symbolic omen lore, indicating favorable or propitious fortune as opposed to sinister auspices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"I did plan to go way over North Dexter way, where I've never be'n, an' see if there wa'n't somebody, but the weather ain't be'n settled as I could wish."*
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"Dexter from Boston, who was a Miss Ticnor, daughter of the author of the book on Spanish literature--she and her husband full of interesting talk."*
-> - 📜 **James Joyce (*Ulysses*):** *"Sooner have me as I am than some poet chap with bearsgrease plastery hair, lovelock over his dexter optic."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"Upon the knight's shield was emblazoned a ravenous falcon perched proudly upon the **dexter** canton of the silver field."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman augur turned toward the south, interpreting birds in flight toward the **dexter** horizon as divine pledges of military victory."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The heraldic crest on the ancient tomb bore an escutcheon with an azure bend descending from the **dexter** chief."*

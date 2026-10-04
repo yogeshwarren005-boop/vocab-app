@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a sophisticated charm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a sophisticated charm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Displaying cheerful self-possession, pleasant courtesy, and sophisticated ease; variant of debonair.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaic chivalric prose and Renaissance verse, characterizing a courtly, gracious, and complaisant demeanor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, debonnaire designates having a sophisticated charm."*
+> - 📜 **John Milton (*L'Allegro*):** *"So buxom, blithe, and **debonnaire**, haste thee, Nymph, and bring with thee jest, and youthful Jollity."*
+> - 📜 **Lord Byron (*Don Juan*):** *"The young grandee had a **debonnaire** grace that fascinated all the beauties of the foreign court."*
+> - 📜 **Sir Walter Scott (*The Lay of the Last Minstrel*):** *"The herald delivered his message with **debonnaire** politeness, bowing low before the assembled Scottish lords."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of incorporating a racial or religious group into a community.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of combining into an integral whole.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of uniting different things, people, or components into an organic, harmonious whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics and sociology, evaluating an integral or bringing marginalized social groups into full civic and cultural parity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Another phase of corporate growth is the "integration of industry," that is, the grouping under one control of a whole series of industries."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Now that we know the construction site is the target we'll use it for working out the details for fleet integration, formation and logistics in place of what we had before," Brad rasped."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Arriving at infinitesimals, mathematics, the most exact of sciences, abandons the process of analysis and enters on the new process of the integration of unknown, infinitely small, quantities."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Evolution is an **integration** of matter and concomitant dissipation of motion; during which the matter passes from an indefinite, incoherent homogeneity to a definite, coherent heterogeneity."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The **integration** of habits into instinctive automatic actions frees the higher centers of thought for inventive reflection."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The economic **integration** of regional markets lowers transport friction and distributes essential commodities with greater efficiency."*

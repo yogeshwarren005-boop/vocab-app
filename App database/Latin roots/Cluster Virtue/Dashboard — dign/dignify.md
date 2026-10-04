@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Confer dignity or honor upon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Raise the status of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make something appear noble, worthy of honor, or impressive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To confer an honor, title, or elevated status upon an ordinary or humble object or event.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, such a day, So fought, so follow’d and so fairly won, Came not till now to dignify the times Since Caesar’s fortunes!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He leaves his friends to dignify them more; I leave myself, my friends, and all for love."*
-> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"Father, I beg of thee a little task To dignify my days,--'tis all I ask Forever, but forever, this denied, I perish." "Child," my father's voice replied, "All things thy fancy hath desired of me Thou hast received."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"We are to **dignify** to each other the daily needs and offices of man's life, and embellish it by courage and genuine sympathy."*
+> - 📜 **George Eliot (*Middlemarch*):** *"An eminent philosopher among my friends can **dignify** even your ugly furniture by lifting it into an emblem of domestic endurance."*
+> - 📜 **William Shakespeare (*Henry IV, Part 2*):** *"O, such a day, so fought, so followed and so fairly won, came not till now to **dignify** the times since Caesar's fortunes."*

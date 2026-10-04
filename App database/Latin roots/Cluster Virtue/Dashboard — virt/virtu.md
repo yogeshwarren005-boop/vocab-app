@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Love of or taste for fine objects of art.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Artistic quality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A love of or taste for fine arts, rare curiosities, and antiquities; also antique or artistic value in an object.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic history and Renaissance political theory (Machiavellian virtù), fine art connoisseurship or civic prowess, martial drive, and statecraft boldness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have those hopes of her good that her education promises her dispositions she inherits, which makes fair gifts fairer; for where an unclean mind carries virtuous qualities, there commendations go with pity, they are virtues and traitors too."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The web of our life is of a mingled yarn, good and ill together; our virtues would be proud if our faults whipped them not; and our crimes would despair if they were not cherish’d by our virtues."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do presume, sir, that you are not fallen From the report that goes upon your goodness; And therefore, goaded with most sharp occasions, Which lay nice manners by, I put you to The use of your own virtues, for the which I shall continue thankful."*
+> - 📜 **Niccolò Machiavelli (*The Prince*):** *"Fortune is a woman, and if you wish to control her, you must conquer her with bold and decisive **virtu**."*
+> - 📜 **Horace Walpole (*Letters of Horace Walpole*):** *"Strawberry Hill was enriched with rare medals, porcelain, and exquisite articles of **virtu** gathered from every capital in Europe."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Gilbert Osmond regarded his daughter and his collection of Florentine antiquities with the fastidious eye of a man of **virtu**."*

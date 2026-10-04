@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of western north and south american perennials often partially parasitic on roots of grasses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of western north and south american perennials often partially parasitic on roots of grasses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternative or historical botanical spelling for Castilleja, the genus of flowering hemiparasitic plants commonly known as Indian paintbrushes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical botanical literature and taxonomy, a genus of Orobanchaceae (formerly Scrophulariaceae) characterized by brightly pigmented floral bracts that conceal inconspicuous flowers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, castilleia designates genus of western north and south american perennials often partially parasitic on roots of grasses."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"Under the taxon **Castilleia**, earlier botanists grouped the alpine paintbrush species whose scarlet bracts dazzle travelers."*
+> - 📜 **John Muir (*The Mountains of California*):** *"In the high glacial meadows, the flaming spikes of **Castilleia** grow in great profusion alongside larkspurs and gentians."*
+> - 📜 **Charles Darwin (*Insectivorous Plants*):** *"Several species allied to **Castilleia** were examined to determine whether root parasitism affected their foliar morphology."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Break into parts or components or lose cohesion or unity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to undergo fission or lose particles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To break up, decompose, or fall apart into small fragments, particles, or constituent components.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In atomic physics and sociology, the decay of radioisotopes or the dissolution of institutional cohesion and social bonds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Forms disintegrate into the eternal nothingness from which there is no return."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"First of all, the coming of the Negro into our ranks will cause our party to disintegrate, many men now being held in it because they there escape contact with the Negro."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Disbelief in him cannot come swiftly, disbelief in a healthy and deeply-loved tar baby has never been known to disintegrate swiftly; it is a very slow process."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"Earthworms continually swallow earthy particles, causing coarse stones to **disintegrate** slowly into nutrient-rich surface loam."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Frost exerts immense mechanical leverage inside rock fissures, causing massive boulders to **disintegrate** during winter thaws."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"When internal equilibrium can no longer be sustained, societies and empires **disintegrate** into discordant rival factions."*

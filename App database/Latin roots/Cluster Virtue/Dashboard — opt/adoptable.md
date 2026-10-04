@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suitable or eligible for adoption.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suitable or eligible for adoption.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Suitable, eligible, or legally qualified for adoption into a family, or capable of being embraced as a plan.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In family law and policy analysis, satisfying statutory criteria for custodial placement or practical feasibility for institutional implementation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adoptable designates suitable or eligible for adoption."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"The charitable guardians deemed the child thoroughly **adoptable**, noting his tractable temperament and promising health."*
+> - 📜 **Jeremy Bentham (*The Rationale of Judicial Evidence*):** *"A legal reform is truly valuable only when it offers a readily **adoptable** rule of procedure for common courts."*
+> - 📜 **Herbert Spencer (*Social Statics*):** *"No administrative scheme is permanently **adoptable** unless it aligns with the evolving moral consensus of society."*

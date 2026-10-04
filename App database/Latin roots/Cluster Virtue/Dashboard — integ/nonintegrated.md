@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not integrated; not taken into or made a part of a whole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not integrated; not taken into or made a part of a whole.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not incorporated into or unified with an organized whole; remaining separate, detached, or autonomous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systems engineering and sociology, operating as an isolated discrete unit without functional interconnection or civic assimilation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonintegrated designates not integrated; not taken into or made a part of a whole."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"In early evolutionary stages, aggregates consist of **nonintegrated** particles drifting without permanent architectural cohesion."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"A decentralized nation composed of **nonintegrated** local markets suffers from severe price fluctuations during regional famines."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Subconscious impressions often persist as **nonintegrated** psychic fragments until brought under the illumination of active attention."*

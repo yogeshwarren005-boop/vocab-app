@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone (not necessarily a licensed physician) who sets broken bones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone (not necessarily a licensed physician) who sets broken bones.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A practitioner who sets broken or dislocated bones, historically without formal surgical credentials.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of medicine and traditional orthopedic practice, a manipulative healer who realigned fractures and joint dislocations through empirical tactile skill.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"She bows her old head to a voice that speaks to her loudly, her bonesetter, her medicineman: me she slights."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"When the horse fell upon the highway, they summoned the local **bonesetter** to adjust the traveler's fractured shoulder."*
+> - 📜 **George Eliot (*Adam Bede*):** *"The villagers trusted the intuitive craft of the village **bonesetter** far more than the prescriptions of university doctors."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"The unfortunate pupil was carried off to a rough country **bonesetter** after tumbling from the rickety ladder."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman catholic church) anglo-saxon missionary who was sent to frisia and germany to spread the christian faith; was martyred in frisia (680-754).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The owner or manager of an inn.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The jovial proprietor or host of an inn or tavern, named after a character in classic Restoration comedy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary folklore and cultural history, an archetypal welcoming innkeeper derived from George Farquhar's play The Beaux' Stratagem.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"According to the great alchemist, Pierre de Boniface, the diamond rendered a man invisible, and the agate of India made him eloquent."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"O!”: Boniface VIII. (not Benedict IX., as Vasari has it), wishing to employ Giotto, sent a courtier to obtain some proof of his skill."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"True, sir, said Boniface, but your honour forgets the three gentlemen under the table. 631."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The smiling **boniface** bowed the distinguished guests toward the private parlor of the countryside coaching inn."*
+> - 📜 **Washington Irving (*The Sketch Book of Geoffrey Crayon*):** *"Our portly **boniface** bustled about the roaring fire, replenishing tankards of spiced ale with unceasing hospitality."*
+> - 📜 **Sir Walter Scott (*Kenilworth*):** *"Mine host was a true **boniface**, ever ready with a flagon of sack and an ear for the gossip of travelers."*

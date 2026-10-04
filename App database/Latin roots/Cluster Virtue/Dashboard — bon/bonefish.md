@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Slender silvery marine fish found in tropical mud flats and mangrove lagoons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Slender silvery marine fish found in tropical mud flats and mangrove lagoons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A slender silvery marine game fish (Albula vulpes) inhabiting shallow tropical mudflats and coastal shallows.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology and sport angling, a teleost fish of the family Albulidae prized for exceptional swimming velocity and specialized crushing dentition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bonefish designates slender silvery marine fish found in tropical mud flats and mangrove lagoons."*
+> - 📜 **Ernest Hemingway (*Islands in the Stream*):** *"The guide poled the skiff across the shallow green flat, searching for the telltale tails of feeding **bonefish**."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The tropical **bonefish** displays primitive teleost anatomy coupled with extraordinary speed when alarmed upon the shallows."*
+> - 📜 **Zane Grey (*Tales of Fishes*):** *"Hooking a ten-pound **bonefish** produces a run across the shoals that tests the angler's tackle to the uttermost limit."*

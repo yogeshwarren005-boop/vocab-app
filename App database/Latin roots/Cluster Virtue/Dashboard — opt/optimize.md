@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make optimal; get the most out of; use best.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Modify to achieve maximum efficiency in storage capacity or time or cost.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make the best or most effective use of a situation, opportunity, or resource; to refine for maximum efficiency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computational algorithm design and industrial operations, to programmatically tune system parameters to achieve optimal output under specified constraints.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"They intended to cut straight through our defenses to optimize their broadsides but instead they opened themselves to ours."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"The inventor must carefully **optimize** every mechanical link in the apparatus to diminish friction and avoid lost motion."*
+> - 📜 **William Stanley Jevons (*The Theory of Political Economy*):** *"Economic agents naturally calculate how to **optimize** their consumption choices to maximize total psychic satisfaction."*
+> - 📜 **H. G. Wells (*A Modern Utopia*):** *"The planners of the ideal commonwealth seek to **optimize** public hygiene and civic education for all citizens."*

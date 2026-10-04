@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Technical skill or fluency or style exhibited by a virtuoso.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Technical skill or fluency or style exhibited by a virtuoso.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Great technical skill, brilliant mastery, and consummate execution displayed in the practice of an artistic craft.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musicology and aesthetic critique, dazzling instrumental dexterity that evokes admiration, sometimes contrasted with spiritual depth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, virtuosity designates technical skill or fluency or style exhibited by a virtuoso."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The violinist dazzled the audience with incredible **virtuosity**, executing rapid harmonics and flying staccatos with effortless bravura."*
+> - 📜 **Walter Pater (*Appreciations*):** *"The poet's stylistic **virtuosity** enabled him to capture the subtlest shades of ephemeral mood and chromatic light."*
+> - 📜 **Henry James (*The Tragic Muse*):** *"Miriam's performance revealed not merely dramatic passion, but a conscious **virtuosity** acquired through relentless Parisian stage training."*

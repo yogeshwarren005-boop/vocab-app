@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or on the right.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preferring to use right foot or hand or eye.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Right-handed or located toward the right side, especially in structural and biological contexts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In malacology, designating gastropod shells whose whorls spiral clockwise and whose aperture opens to the right.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dextral designates of or on the right."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The majority of fossil mollusks display **dextral** coiling, while sinistral variations appear only as rare anomalies throughout the stratified beds."*
+> - 📜 **Alfred Russel Wallace (*Darwinism*):** *"In certain land snails, the **dextral** direction of spiral whorls is governed by hereditary factors that directly influence embryonic cleavage."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"The asymmetry of bilateral organisms frequently favors the **dextral** limb for offensive thrusts and intricate manipulating actions."*

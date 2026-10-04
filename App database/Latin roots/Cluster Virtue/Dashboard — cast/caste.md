@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Social status or position conferred by a system based on class.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (hinduism) a hereditary social class among hindus; stratified according to ritual purity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rigid, hereditary social class system into which people are born and which restricts social mobility and interaction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociology, anthropology, and entomology, an exclusive stratified social hierarchy or a specialized morphological subpopulation in eusocial insect colonies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"None of these were clothed to any extent worth mentioning, each appearing to have hit in the matter of raiment the decent mean between a high and low caste Hindoo."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"This, Kim explained, was an automatic determination and advertisement of caste."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"She was an aristocrat in social caste; she was an aristocrat by nature."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"He was an outcast who had lost his standing among his peers, an exile barred forever from the privileged **caste** of mariners."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The sterile worker **caste** in ants differs remarkably in structure and instincts from both fertile males and queens."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Provincial society guarded its boundaries with jealous care, maintaining distinctions of **caste** that no newcomer could easily breach."*

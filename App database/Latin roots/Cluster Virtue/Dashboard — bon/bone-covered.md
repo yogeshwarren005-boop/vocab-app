@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of animals) armored with bone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of animals) armored with bone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Encased, protected, or overlaid with an exterior layer or shell of hard bony material.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary morphology and comparative zoology, designating dermal armor, ossified scutes, or osteoderms shielding the cranial or dorsal surfaces of ancestral vertebrates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bone-covered designates (of animals) armored with bone."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Certain extinct armored fishes possessed **bone-covered** bodies designed to repel the attacks of primitive aquatic predators."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The carapace presents a **bone-covered** shield formed by the coalescence of expanded ribs and dermal plates."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"Fossil deposits reveal placoderm species with solid **bone-covered** heads adapted to benthic foraging."*

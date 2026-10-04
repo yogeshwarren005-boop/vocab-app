@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or involving light or optics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or using sight.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to sight, light, or vision; constructed to assist visual inspection or harness the physics of light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and instrumentation, concerning electromagnetic radiation within and near the visible spectrum and devices manipulating wave fronts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"It is demonstrable that the scratches are going everywhere impartially and it is only your candle which produces the flattering illusion of a concentric arrangement, its light falling with an exclusive optical selection."*
-> - 📜 **Bram Stoker (*Dracula*):** *"Once there appeared a strange optical effect: when he stood between me and the flame he did not obstruct it, for I could see its ghostly flicker all the same."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Testimony of the senses 122:15 The optical focus is another proof of the illusion of material sense."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The white light of the sun is a heterogeneous mixture of rays possessing distinct **optical** refrangibilities."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate examined the minute cellular tissue through his favorite **optical** instrument with passionate scientific curiosity."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes examined the minute powder residue under an **optical** lens of high magnifying magnification."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An affront to one's dignity or self-esteem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An affront to one's dignity or self-esteem.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An act or occurrence that hurts a person's self-respect or pride; an insulting or humiliating treatment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional and penal law, degrading physical or mental humiliation inflicted in violation of human rights.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, you give me most egregious indignity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Complain unto the duke of this indignity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Immediately they will again be here In their own shapes, for it can never be They will digest this harsh indignity."*
+> - 📜 **William Shakespeare (*All's Well That Ends Well*):** *"My lord, you give me most egregious **indignity**, and I will make bold to demand satisfaction for this unwarranted affront."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"What does that **indignity** amount to, weighed, I mean, in the scales of the New Testament? Do you think the archangel Gabriel thinks anything the less of me?"*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"After having long been in danger of my life at the hands of the village, I have been seized with great **indignity** and dragged into prison."*

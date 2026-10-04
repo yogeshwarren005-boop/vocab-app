@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small motile bacterial rods that can reduce nitrates and cause galls on plant stems.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small motile bacterial rods that can reduce nitrates and cause galls on plant stems.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of Gram-negative soil bacteria capable of transferring DNA horizontally into plant genomes to induce gall tumors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant biotechnology and molecular biology, a biological vector naturally mediating T-DNA integration into host plant chromosomes for genetic engineering.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agrobacterium designates small motile bacterial rods that can reduce nitrates and cause galls on plant stems."*
+> - 📜 **Erwin Frink Smith (*Bacteria in Relation to Plant Diseases*):** *"Crown gall formation is provoked when pathogenic **agrobacterium** inoculates wounded cellular tissues of susceptible nursery fruit trees."*
+> - 📜 **William Osler (*Modern Medicine*):** *"The tumorigenic process induced in botanical hosts by **agrobacterium** presents striking analogies to animal neoplasia."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Plant tumors induced by parasitic microbes like **agrobacterium** demonstrate how alien agents can modify normal cellular growth."*

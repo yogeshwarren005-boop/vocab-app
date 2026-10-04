@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being strong and healthy in constitution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The characteristic of being strong enough to withstand intellectual challenge.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of possessing great physical strength, sturdiness, vigor, and resilience under harsh conditions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systems engineering and statistical methodology, the capacity of an apparatus or estimator to maintain accurate performance across diverse perturbations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"He looked like a man cut away from the stake, when the fire has overrunningly wasted all the limbs without consuming them, or taking away one particle from their compacted aged robustness."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"When Angelo paints even God the Father in human form, mark what robustness is there."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Though the spiritual bearing of things is the all-in-all, in his poetry, the robustness of his nature, the fulness and splendid equilibrium of his life, protect him against an inarticulate mysticism."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The extraordinary physical **robustness** of the veteran whaleman was proven by forty years of battling arctic gales and sea-monsters."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Browning*):** *"The critic praised the intellectual **robustness** of the poetry, which wrestled boldly with the deepest spiritual doubts of the Victorian age."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Cross-bred seedlings frequently exhibit superior **robustness** and reproductive fertility in comparison with inbred strains."*

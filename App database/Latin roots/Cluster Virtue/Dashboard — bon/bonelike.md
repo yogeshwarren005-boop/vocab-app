@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling bone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling bone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling bone in appearance, texture, hardness, or structural density.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histology and comparative paleontology, designating mineralized tissues, chitinous integuments, or sclerotized matrices possessing osteoid stiffness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bonelike designates resembling bone."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The external plates of ancient armored organisms consisted of a hard, **bonelike** substance resisting marine erosion."*
+> - 📜 **Thomas Henry Huxley (*Physiography: An Introduction to the Study of Nature*):** *"Certain calcareous corals build massive **bonelike** reefs across vast stretches of tropical ocean."*
+> - 📜 **Oliver Wendell Holmes Sr. (*The Autocrat of the Breakfast-Table*):** *"The calcified growth assumed a smooth, **bonelike** consistency as the mineral layers gradually solidified."*

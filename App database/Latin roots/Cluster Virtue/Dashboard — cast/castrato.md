@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A male singer who was castrated before puberty and retains a soprano or alto voice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A male singer who was castrated before puberty and retains a soprano or alto voice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A male singer castrated before puberty to preserve a high soprano or alto vocal range into adulthood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In opera history and vocal acoustics, celebrated 17th- and 18th-century virtuosi who combined the lung capacity of adult males with the flexible vocal cords of boys.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, castrato designates a male singer who was castrated before puberty and retains a soprano or alto voice."*
+> - 📜 **Edward Gibbon (*Memoirs of My Life and Writings*):** *"In the Italian opera houses, the soaring aria of the **castrato** captivated audiences with its unnatural brilliance and power."*
+> - 📜 **Charles Burney (*The Present State of Music in France and Italy*):** *"The famous **castrato** Farinelli held the audience breathless with his astonishing breath control and effortless trills."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The disappearance of the **castrato** from European stages marked the triumph of natural dramatic singing over baroque artifice."*

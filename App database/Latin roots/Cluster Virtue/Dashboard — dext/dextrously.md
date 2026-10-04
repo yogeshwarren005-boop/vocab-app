@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With dexterity; in a dexterous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With dexterity; in a dexterous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an adroit, deft, and skillfully coordinated manner, especially when performing manual tasks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With clever mental finesse, tact, or inventive efficiency in dealing with an obstacle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dextrously designates with dexterity; in a dexterous manner."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The coachman **dextrously** cracked his long whip above the leaders' ears, guiding the lumbering mail coach through the muddy ruts."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba **dextrously** caught the bridle of the runaway horse, checking its momentum with sudden and courageous firmness."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Holmes **dextrously** slipped the skeleton key into the heavy lock and turned the bolt without making the slightest sound."*

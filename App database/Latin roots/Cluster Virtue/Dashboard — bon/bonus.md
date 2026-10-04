@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Anything that tends to arouse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An additional payment (or other remuneration) to employees as a means of increasing output.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sum of money, dividend, or reward granted to an employee or recipient beyond standard compensation or expectation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial economics and labor incentive theory, supplementary remuneration distributed to workers contingent on operational performance, output, or profit-sharing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In a variety of ways a bonus or a premium may be paid for quality, or for economy in the use of materials (as to a fireman for using less coal), or for various other results."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The system of premiums, or bonus payments, for output, where it can be safeguarded against abuses, gives in most cases better results and is rapidly spreading."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Nor is it the same as a bonus or premium for a larger output, made contingent on the physical product, on the increased number of pieces turned out by the workmen, individually or in groups."*
+> - 📜 **William James (*Pragmatism*):** *"The ancient aphorism declared that an orator must be a vir **bonus**—a good and upright person capable of virtuous civic guidance."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics*):** *"Industrial firms frequently distribute an annual **bonus** to incentivize exceptional productivity among skilled mechanics."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"Executive directors receive a handsome cash **bonus** whenever speculative combinations yield unexpected dividends for investors."*

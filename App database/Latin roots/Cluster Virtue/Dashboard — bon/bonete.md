@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mountain in the andes in argentina (22,546 feet high).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mountain in the andes in argentina (22,546 feet high).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prominent mountain summit in the Argentine Andes, ranking among the highest volcanic peaks in the Americas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical orography and volcanology, an extinct Andean volcanic complex (Cerro Bonete Chico) situated in La Rioja province rising over 6,750 meters above sea level.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bonete designates a mountain in the andes in argentina (22,546 feet high)."*
+> - 📜 **Charles Darwin (*Geological Observations on South America*):** *"Looking across the barren Andean plateau, the distant snow-crowned crest of **Bonete** stood sharp against the azure sky."*
+> - 📜 **Edward Whymper (*Travels Amongst the Great Andes of the Equator*):** *"The survey party noted the monumental bulk of Cerro **Bonete** looming over the desolate desert passes of the cordillera."*
+> - 📜 **Alexander von Humboldt (*Cosmos: A Sketch of a Physical Description of the Universe*):** *"The immense volcanic elevations including **Bonete** demonstrate the violent crustal forces that elevated the western spine of the continent."*

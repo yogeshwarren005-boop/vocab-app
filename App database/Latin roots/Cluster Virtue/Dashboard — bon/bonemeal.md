@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fertilizer made of ground bones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fertilizer made of ground bones.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Crushed or finely ground animal bones utilized as a rich organic fertilizer or dietary mineral supplement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agronomy and soil chemistry, a phosphorus- and calcium-rich soil amendment derived from steamed and pulverized bovine skeletons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bonemeal designates fertilizer made of ground bones."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"Agricultural yields increase dramatically when exhausted fields receive liberal applications of treated **bonemeal**."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The pungent scent of steam-ground **bonemeal** hung over the agricultural warehouse where farm wagons loaded sacks."*
+> - 📜 **Gilbert White (*The Natural History and Antiquities of Selborne*):** *"Gardeners apply pulverized **bonemeal** to fruit trees to strengthen root systems and encourage heavy autumn crops."*

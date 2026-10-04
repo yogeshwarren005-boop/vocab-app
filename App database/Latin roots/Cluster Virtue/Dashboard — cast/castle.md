@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large and stately mansion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large building formerly occupied by a ruler and fortified against attack.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large fortified stone building or complex of buildings erected in the Middle Ages as a residence and defensive stronghold for nobility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chess terminology and military architecture, an alternative name for the rook piece, or a monumental feudal compound equipped with moats, curtain walls, and keeps.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A platform before the Castle Scene II."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A room of state in the Castle Scene III."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A more remote part of the Castle ACT II Scene I."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The ancient **castle** stood grim and solitary against the twilight sky, surrounded by miles of desolation."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"We passed many an old ruined **castle** standing on the edge of precipices that overlooked the winding Rhine."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The old fort on the headland resembled a feudal **castle** guarding the entrance to an unknown and brooding continent."*

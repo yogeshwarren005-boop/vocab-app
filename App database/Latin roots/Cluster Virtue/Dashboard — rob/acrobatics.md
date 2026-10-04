@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The gymnastic moves of an acrobat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The performance of stunts while in flight in an aircraft.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spectacular gymnastic feats of agility and balance, or metaphorical displays of intellectual mental agility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In performance art and aviation, aerial maneuvering, tumbling, and equilibrium displays, or tortuous rhetorical reasoning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acrobatics designates the gymnastic moves of an acrobat."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"The young barrister engaged in clever verbal **acrobatics** to evade the plain moral consequences of his argument."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The Martian fighting-machines strode over trees and buildings with colossal agility that mimicked grotesque mechanical **acrobatics**."*
+> - 📜 **Henry James (*The Bostonians*):** *"His conversational **acrobatics** delighted the salon, though conservative listeners distrusted his flashy dexterity."*

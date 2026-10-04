@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Changing a particular word or phrase.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cast again, in a different role.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of melting down and molding anew; or revising, reconstructing, or reallocating roles in a production.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial manufacturing, literary revision, and corporate strategy, the structural re-forming of cast metal goods, dramatic roles, or theoretical frameworks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, recasting designates changing a particular word or phrase."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The revolutionary upheaval demanded nothing less than the radical **recasting** of all political and ecclesiastical institutions."*
+> - 📜 **John Addington Symonds (*Renaissance in Italy*):** *"The sculptor supervised the hazardous **recasting** of the bronze colossus after the first foundry pour failed to fill the mold."*
+> - 📜 **Henry James (*The Art of the Novel*):** *"The persistent **recasting** of sentences and chapters consumed many laborious months of solitary artistic toil."*

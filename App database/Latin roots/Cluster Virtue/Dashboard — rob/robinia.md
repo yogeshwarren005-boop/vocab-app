@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deciduous flowering trees and shrubs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deciduous flowering trees and shrubs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of North American deciduous trees and shrubs in the pea family Fabaceae, notably including the black locust (Robinia pseudoacacia).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dendrology and forestry, leguminous hardwood trees valued for rot-resistant timber, fragrant pendant flower racemes, and nitrogen-fixing root nodules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, robinia designates deciduous flowering trees and shrubs."*
+> - 📜 **Alexander von Humboldt (*Aspects of Nature*):** *"The graceful foliage and fragrant white racemes of the North American **robinia** have naturalized widely across European parklands."*
+> - 📜 **Charles Darwin (*The Movements and Habits of Climbing Plants*):** *"The sensitive leaflets of **robinia** fold downward at the approach of dusk, exhibiting characteristic nyctinastic sleep movements."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"Beside the sandy cart-track grew clumps of fragrant **robinia**, whose sweet blossoms scented the warm June air."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking dignity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking dignity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Appearing clumsy, lacking in seriousness, or failing to maintain proper personal self-respect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social decorum and diplomatic protocol, conduct inappropriate for formal office, etiquette, or ceremonial gravity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Sometimes this obscure corner received no inhabitant for the space of two or three years, and then it was usually but a pauper, a poacher, or other sinner of undignified sins."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Sitting down as a level member of the dairyman’s household seemed at the outset an undignified proceeding."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Undignified, I call it, the way you women run after a man nowadays."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"I don't like this cobbling sort of business; I don't like it at all; it's **undignified**; it's not my place to be patching old boots for the ship's carpenter."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Sometimes this obscure corner received no inhabitant for years, and then an **undignified** burial in the dark took place without tolling bell or mourners."*
+> - 📜 **G. K. Chesterton (*The Wisdom of Father Brown*):** *"I was about to climb the fence and follow, when I realized that the detective fever had lured me into an absurd and **undignified** posture."*

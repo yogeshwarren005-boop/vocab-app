@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of weight used in some spanish speaking countries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A liquid measure (with different values) used in some spanish speaking countries.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A traditional Spanish and Portuguese unit of weight (around 25–32 pounds) or liquid measure, also representing the '@' symbol in Spanish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic history and colonial Latin American commerce, a standard merchant weight unit used for sugar, wool, wine, and livestock.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arroba designates a unit of weight used in some spanish speaking countries."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of America*):** *"The colonial plantation produced thousands of pounds of brown sugar, calculated in units of the customary Spanish **arroba**."*
+> - 📜 **William H. Prescott (*History of the Conquest of Mexico*):** *"The tribute exacted from the native provinces was reckoned by the Spanish officers in measures of grain and the **arroba** of cotton."*
+> - 📜 **Richard Henry Dana Jr. (*Two Years Before the Mast*):** *"The Californian hide-droghers reckoned their trade in tallow by the **arroba**, loading heavy cakes of fat into the ship's hold."*

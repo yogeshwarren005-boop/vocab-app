@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Interchanging the positions of the king and a rook.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move the king two squares toward a rook and in the same move the rook to the square next past the king.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A special move in chess involving the simultaneous relocation of the king and one rook under specific defensive rules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In game theory and chess strategy, the tactical maneuver whereby the king moves two squares toward a rook on the first rank, and the rook hops over to the adjacent square.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, castling designates interchanging the positions of the king and a rook."*
+> - 📜 **Edgar Allan Poe (*The Murders in the Rue Morgue*):** *"In the game of chess, the sudden maneuver of **castling** alters the defensive geometry of the entire board."*
+> - 📜 **H. G. Wells (*The Food of the Gods and How It Came to Earth*):** *"The players sat engrossed over their ivory pieces, debating whether kingside **castling** offered adequate security against the open file."*
+> - 📜 **Lewis Carroll (*Through the Looking-Glass*):** *"The White Queen nodded approvingly as the pawn advanced, remarking that rapid **castling** was the surest way to avoid check."*

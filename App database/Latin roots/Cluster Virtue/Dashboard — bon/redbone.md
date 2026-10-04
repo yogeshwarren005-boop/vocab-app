@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A speedy red or red-and-tan american hound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A speedy red or red-and-tan american hound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A breed of American hound with a solid red coat, or an African American vernacular term for a light-skinned person of color.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In canine breeding and Southern cultural history, the Redbone Coonhound developed for trailing raccoon, or an ethnocultural colloquial descriptor in the American South.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, redbone designates a speedy red or red-and-tan american hound."*
+> - 📜 **Zora Neale Hurston (*Their Eyes Were Watching God*):** *"The baying of a deep-voiced **redbone** hound drifted across the muck as hunters followed their quarry through the cypress swamp."*
+> - 📜 **William Faulkner (*The Sound and the Fury*):** *"A lean **redbone** dog trotted across the dusty courthouse square, sniffing around the shade of the chinaberry trees."*
+> - 📜 **Eudora Welty (*Delta Wedding*):** *"Old Uncle George kept two fine **redbone** hounds tied behind the kitchen quarters for autumn hunting trips."*

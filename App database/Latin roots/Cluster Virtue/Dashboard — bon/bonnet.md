@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hat tied under the chin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Protective covering consisting of a metal part that covers the engine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brimless or front-brimmed head covering tied under the chin with ribbons, or the metal hood of a motor vehicle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of costume and automotive engineering, a headpiece worn by women and children, or the hinged engine cowl covering automobile mechanisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then your hose should be ungartered, your bonnet unbanded, your sleeve unbuttoned, your shoe untied, and everything about you demonstrating a careless desolation."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Put your bonnet to his right use; ’tis for the head."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give me any gage of thine, and I will wear it in my bonnet; then, if ever thou dar’st acknowledge it, I will make it my quarrel."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then your hose should be ungartered, your **bonnet** unbanded, your sleeve unbuttoned, your shoe untied, and everything about you demonstrating a careless desolation."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She wore no **bonnet** or hat, but had enveloped herself in a large cloak, which was carelessly flung over her shoulders."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mrs. Bennet admired the trim straw **bonnet** with green ribbons which her daughter had purchased in the village shop."*

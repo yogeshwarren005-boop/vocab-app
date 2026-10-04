@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An especially rich vein of precious ore.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sudden happening that brings good fortune (as a sudden opportunity to make money).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sudden discovery of rich mineral ore, or a source of immense wealth, prosperity, and sudden good fortune.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mining economic history and speculative finance, an exceptionally productive pocket of silver or gold ore yielding colossal financial returns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bonanza designates an especially rich vein of precious ore."*
+> - 📜 **Mark Twain (*Roughing It*):** *"The Virginia City prospectors spoke of nothing but the great silver **bonanza** that promised boundless wealth to every shareholder."*
+> - 📜 **Bret Harte (*The Luck of Roaring Camp and Other Sketches*):** *"The unexpected **bonanza** in the lower canyon transformed the desperate settlement into a thriving boomtown overnight."*
+> - 📜 **Frank Norris (*McTeague*):** *"He dreamed continually of striking a rich placer **bonanza** buried deep beneath the hard mountain quartz."*

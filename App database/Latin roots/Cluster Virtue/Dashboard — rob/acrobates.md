@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of phalangeridae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of phalangeridae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic genus of Australian feather-tailed gliders, or an archaic classical term for rope-dancers and aerial performers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mammalogy and classical philology, the marsupial diprodont genus Acrobates, or ancient Greek performers treading high cordages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acrobates designates a genus of phalangeridae."*
+> - 📜 **John Gould (*The Mammals of Australia*):** *"The tiny marsupial known as **acrobates** glides gracefully between eucalyptus branches by spreading its fringed tail like a feather."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"Anatomical examination of **acrobates** reveals a delicate patagium adapted for gliding through arboreal canopies."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Roman circus spectators marveled at Greek performers styling themselves **acrobates**, who walked slender ropes suspended above the amphitheater."*

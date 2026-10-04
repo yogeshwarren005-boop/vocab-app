@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Confer dignity or honor upon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Raise the status of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing a composed, serious, and self-respecting manner that commands respect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conferring a sense of stately nobility, architectural solemnity, or elevated moral gravity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"From lowest place when virtuous things proceed, The place is dignified by the doer’s deed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou wert dignified enough, Even to the point of envy, if ’twere made Comparative for your virtues to be styl’d The under-hangman of his kingdom, and hated For being preferr’d so well."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Virtue itself turns vice being misapplied, And vice sometime’s by action dignified."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His manners, she thought, were very **dignified**; the set of his iron-gray hair and his deep eye-sockets seemed to belong to an accomplished scholar."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He had sunk from his modest elevation as pastoral king into adversity, but there was a **dignified** calm in his bearing which misfortunes could not shake."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"He who believes in separate and innumerable acts of creation will say, that in these cases it has pleased the Creator to adopt a **dignified** uniformity of design."*

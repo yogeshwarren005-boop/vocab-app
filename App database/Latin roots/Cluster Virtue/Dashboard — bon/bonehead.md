@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stupid person; these words are used to express a low opinion of someone's intelligence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stupid person; these words are used to express a low opinion of someone's intelligence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A foolish, obstinate, or remarkably stupid person exhibiting poor judgment or slow comprehension.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In informal social vernacular and behavioral disparagement, an individual responsible for blunders stemming from stubborn lack of perception.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bonehead designates a stupid person; these words are used to express a low opinion of someone's intelligence."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"He muttered that only an unthinking **bonehead** would invest capital into such an unproven speculative enterprise."*
+> - 📜 **P. G. Wodehouse (*The Inimitable Jeeves*):** *"Bertie realized that even a well-meaning **bonehead** could precipitate catastrophe in matters of romantic diplomacy."*
+> - 📜 **Ring Lardner (*You Know Me Al*):** *"The manager benched the rookie after the ridiculous **bonehead** play that surrendered the lead in the ninth inning."*

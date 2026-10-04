@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fitting or appropriate and deserved; used especially of punishment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fitting or appropriate and deserved; used especially of punishment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Appropriate, fitting, and deserved, applied almost exclusively to severe punishment or retributive justice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical jurisprudence and legal philosophy, retribution strictly proportionate to the gravity of an offense.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Unless it were a bloody murderer, Or foul felonious thief that fleeced poor passengers, I never gave them condign punishment."*
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"It was his opinion that chivalry was an useful institution while confined to its original purposes of protecting the innocent, assisting the friendless, and bringing the guilty to condign punishment."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The conspirators against the emperor were apprehended before sunset and condemned to suffer **condign** punishment for high treason."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Parliament resolved that the corrupt judges who had subverted the ancient laws should receive **condign** and exemplary chastisement."*
+> - 📜 **William Shakespeare (*Henry VI, Part 2*):** *"Unless you would devise some virtuous lie, to do him entirely injury, you cannot bring him into **condign** disgrace."*

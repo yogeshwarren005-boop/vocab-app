@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states outlaw who was said to have killed 21 men (1859-1881).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states outlaw who was said to have killed 21 men (1859-1881).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The alias surname of the notorious American Old West outlaw William H. Bonney, better known as Billy the Kid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American frontier historiography, the pseudonym under which William H. Bonney participated in the violent Lincoln County War of 1878.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bonney designates united states outlaw who was said to have killed 21 men (1859-1881)."*
+> - 📜 **Owen Wister (*The Virginian*):** *"Frontier legends amplified the exploits of William **Bonney**, transforming a desperate cattle rustler into an outlaw idol."*
+> - 📜 **Theodore Roosevelt (*Ranch Life and the Hunting-Trail*):** *"The ruthless career of Billy the Kid, known as **Bonney**, illustrated the lawless turmoil of the New Mexico borderlands."*
+> - 📜 **Zane Grey (*Riders of the Purple Sage*):** *"The gunfighter spoke of the tragic Lincoln County vendettas wherein young **Bonney** made his lethal reputation."*

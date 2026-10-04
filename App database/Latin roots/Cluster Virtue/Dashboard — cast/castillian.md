@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of castile.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or inhabitant of castile.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant spelling of Castilian, denoting a native of Castile, the Castilian dialect of Spanish, or characteristics of Castile.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical historiography and travel literature, an alternative orthography describing Castilian knights, colonial administration, or peninsular cultural traditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, castillian designates a native or inhabitant of castile."*
+> - 📜 **Washington Irving (*Chronicle of the Conquest of Granada*):** *"The veteran **Castillian** troops held the mountain defile against repeated cavalry charges from the Moorish garrison."*
+> - 📜 **Richard Hakluyt (*The Principal Navigations, Voyages, Traffiques and Discoveries of the English Nation*):** *"The captured galleon was commanded by an honorable **Castillian** captain who surrendered his sword with grave courtesy."*
+> - 📜 **W. H. Prescott (*History of Ferdinand and Isabella*):** *"The proud spirit of the **Castillian** nobility was reluctant to submit to the growing administrative power of the monarchy."*

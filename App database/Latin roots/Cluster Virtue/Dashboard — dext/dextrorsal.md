@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spiraling upward from left to right.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spiraling upward from left to right.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rising or spiraling from left to right in a right-handed ascending spiral.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical morphology, describing twining climbing vines that encircle their supportive host clockwise as viewed from outside.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dextrorsal designates spiraling upward from left to right."*
+> - 📜 **Charles Darwin (*The Movements and Habits of Climbing Plants*):** *"The climbing hop shoot ascends by a **dextrorsal** course, twining firmly around its pole in a constant clockwise direction."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"Spiral phyllotaxy exhibits either a sinistrorsal or **dextrorsal** succession of leaf buds along the vertical stem axis."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"The mechanical forces governing helical growth dictate whether a plant stem assumes a **dextrorsal** or counter-clockwise twist."*

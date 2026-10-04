@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make into a whole or make part of a whole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Open (a place) to members of all races and ethnic groups.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Combined, coordinated, and unified so as to form a well-functioning, coherent whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microelectronics and psychology, incorporated into a solid-state circuit chip or a well-adjusted, harmonious personality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"During the System's research, development, test, evaluation, engineering, construction, launch and voyage phases, the terminals are spunnel-linked and tested both as separate machines with their support systems, and as the integrated master scheme."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Tornado Six was our fleet's first integrated operation."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"What he wants from me now is to portray an integrated assault by INOR combined forces from a point halfway between the depot and the Slingshot construction site."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"An **integrated** industrial community achieves enormous productivity through the orderly coordination of specialized trades and crafts."*
+> - 📜 **William James (*The Principles of Psychology*):** *"In a healthy personality, memory, sensation, and volition remain an **integrated** consciousness immune to hypnotic dissociation."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The physical geography of the globe presents an **integrated** mechanism wherein atmospheric currents, ocean tides, and volcanic uplifts interact."*

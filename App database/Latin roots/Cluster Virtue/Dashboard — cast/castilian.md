@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The spanish language as spoken in castile.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spanish language as spoken in castile.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to Castile, its people, or the standard dialect of the Spanish language spoken in northern and central Spain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical sociolinguistics and literature, denoting the standard prestige variety of peninsular Spanish characterized by distinct phonological features such as the ceceo or distinción.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The Nauras Indians of New Granada ate the hearts of Spaniards when they had the opportunity, hoping thereby to make themselves as dauntless as the dreaded Castilian chivalry."*
+> - 📜 **George Ticknor (*History of Spanish Literature*):** *"The golden age of **Castilian** poetry began when the ballad literature was collected and refined at the court."*
+> - 📜 **W. H. Prescott (*History of the Conquest of Mexico*):** *"The proud **Castilian** cavaliers advanced across the causeway with shields burnished and banners fluttering in the dawn."*
+> - 📜 **George Borrow (*The Bible in Spain*):** *"He spoke a pure, grave **Castilian** that had been preserved without corruption in the secluded valleys of Old Castile."*

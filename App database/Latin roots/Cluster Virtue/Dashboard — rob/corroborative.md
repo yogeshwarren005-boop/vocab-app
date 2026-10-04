@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to support or corroborate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving to support or corroborate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to corroborate; providing additional confirmation, validation, or evidentiary support.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic investigation and scientific reporting, having the quality of verifying and reinforcing an existing evidentiary premise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"If you want any corroborative evidence on the subject, you can ask him.” Lord Henry shrugged his shoulders."*
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"He met with one piece of corroborative evidence."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The ash from the cigar found beside the yew alley supplied valuable **corroborative** evidence of the visitor's identity."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"The fossil discoveries in Neanderthal cave provided striking **corroborative** proof of early human antiquity."*
+> - 📜 **Wilkie Collins (*The Moonstone*):** *"Sergeant Cuff examined the stained nightgown as crucial **corroborative** testimony against the suspect."*

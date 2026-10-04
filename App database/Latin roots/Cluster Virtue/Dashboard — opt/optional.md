@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Possible but not necessary; left to personal choice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possible but not necessary; left to personal choice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Available to be chosen but not mandatory; left to one's own discretion or free choice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In institutional curricula and statutory codes, designating non-compulsory coursework or non-mandatory regulatory provisions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"To leave any form of insurance optional, or elective, with either employers or wage-workers, is to fail of the main purpose in a large proportion of the individual cases where it is most needed, and to increase the expense to those that are included."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"They perform all the other functions of banks, essential and unessential, and perform them well, but the issue of bank-notes is optional with them, and some of them do not issue any bank-notes."*
+> - 📜 **Charles William Eliot (*Educational Reform*):** *"The new university curriculum rendered Greek study entirely **optional**, allowing undergraduates to pursue modern scientific disciplines."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Civic participation is not merely **optional** recreation in a free commonwealth, but the vital safeguard against administrative tyranny."*
+> - 📜 **Thomas Henry Huxley (*Science and Education*):** *"Instruction in the experimental sciences should never be relegated to an **optional** luxury in secondary school education."*

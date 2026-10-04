@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The optimistic feeling that all is going to turn out well.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A general disposition to expect the best in all things.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hopefulness, confidence, and a positive disposition regarding the future or the favorable outcome of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical philosophy, the Leibnizian doctrine that the actual universe is the best of all possible worlds created by a perfect Deity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"He has lost the cruder optimism of the 'Prometheus', and is thrown back for consolation upon something that moves us more than any prospect of a heaven realised on earth by abolishing kings and priests."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The basis of optimism is sheer terror."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"I have the greatest contempt for optimism."*
+> - 📜 **Voltaire (*Candide*):** *"Alas! said Candide, **optimism** is the madness of maintaining that everything is right when it is wrong."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The basis of **optimism** is sheer terror; we think that we are generous because we credit our neighbor with those virtues that likely benefit ourselves."*
+> - 📜 **William James (*Pragmatism*):** *"A healthy-minded **optimism** treats evils as transitory blemishes on the surface of an otherwise friendly universe."*

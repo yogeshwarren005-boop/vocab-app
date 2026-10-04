@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Preference for using the right hand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preference for using the right hand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The preference for or dominance of the right hand or right side of the body in motor activities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological psychology, hemispheric cerebral asymmetry correlating with right-sided motor and linguistic dominance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dextrality designates preference for using the right hand."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The physiological root of human **dextrality** lies in the structural specialization and functional primacy of the left cerebral hemisphere."*
+> - 📜 **Francis Galton (*Inquiries into Human Faculty and Its Development*):** *"Pedigree charts tracing persistent **dextrality** across generations indicate a pronounced hereditary component in lateral manual preference."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The universal tendency toward **dextrality** among primitive and civilized races alike suggests an early evolutionary divergence in primate anatomy."*

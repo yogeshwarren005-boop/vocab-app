@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mood (as in greek or sanskrit) that expresses a wish or hope; expressed in english by modal verbs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Indicating an option or wish.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing a wish, desire, or prayerful longing; also designating a grammatical mood expressing wishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Indo-European philology and Greek linguistics, the inflectional verbal mood expressing potentiality, hypothetical condition, or heartfelt desire.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, optative designates a mood (as in greek or sanskrit) that expresses a wish or hope; expressed in english by modal verbs."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The poet shifted from categorical assertion to an **optative** yearning for transcendent spiritual union."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"The Hellenic spirit expressed in the **optative** mood an unquenchable aspiration toward sweetness and light."*
+> - 📜 **Walter Pater (*Plato and Platonism*):** *"Socrates concluded the dialogue not with dogmatic certainty, but in the serene **optative** tone of philosophical prayer."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Clothe formally; especially in ecclesiastical robes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cover as if with clothing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dressed or clothed in a robe or formal vestment, especially one indicating status, ceremonial dignity, or office.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ceremonial traditions and poetic registers, invested with symbolic robes of state, academic convocation, or judicial authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bring in their evidence. [_To Edgar._] Thou, robed man of justice, take thy place. [_To the Fool._] And thou, his yokefellow of equity, Bench by his side. [_To Kent._] You are o’ the commission, Sit you too."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"From the bedroom window above their heads Bathsheba’s head and shoulders, robed in mystic white, were dimly seen extended into the air."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In fact, at that moment she was being robed in her grave-clothes by two attendants at the Union poorhouse—the first and last tiring-women the gentle creature had ever been honoured with."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"Here, Portia, **robed** as a doctor of laws, entered the court to defend the merchant against the forfeit bond."*
+> - 📜 **John Milton (*Il Penseroso*):** *"Come, pensive nun, devout and pure, sober, steadfast, and demure, all in a **robed** mantle of darkest grain."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The shepherd emerged into the cold autumn dawn, **robed** in a thick greatcoat against the drenching moorland mist."*

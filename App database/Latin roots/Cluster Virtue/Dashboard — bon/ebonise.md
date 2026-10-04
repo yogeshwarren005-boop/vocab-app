@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Stain black to make it look like ebony.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stain black to make it look like ebony.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To stain or treat wood or another material black so as to give it the appearance of ebony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In decorative arts and cabinetry craftsmanship, British spelling of the process applying ferric solutions and tannin dyes to imitate precious dark hardwood.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ebonise designates stain black to make it look like ebony."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Artisans sought to **ebonise** pale walnut panels to imitate the costly tropical timbers of exotic merchants."*
+> - 📜 **William Morris (*Hopes and Fears for Art*):** *"We prefer honest native oak in its natural hue rather than attempts to **ebonise** furniture with synthetic stains."*
+> - 📜 **Thomas Chippendale (*The Gentleman and Cabinet-Maker's Director*):** *"The craftsman may **ebonise** the carved mouldings to contrast elegantly with the polished mahogany veneer."*

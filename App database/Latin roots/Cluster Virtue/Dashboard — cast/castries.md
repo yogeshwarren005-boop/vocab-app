@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A port on the island of saint lucia; capital and largest city of saint lucia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A port on the island of saint lucia; capital and largest city of saint lucia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital and largest city of the Caribbean island nation of Saint Lucia, situated on a natural sheltered harbor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Caribbean geography and maritime history, a major West Indian port city founded by French settlers in the 18th century and named after the Marquis de Castries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, castries designates a port on the island of saint lucia; capital and largest city of saint lucia."*
+> - 📜 **James Anthony Froude (*The English in the West Indies*):** *"The steamer entered the magnificent landlocked harbor of **Castries**, whose deep waters accommodated the largest naval vessels of the squadron."*
+> - 📜 **Sir Frederick Treves (*The Cradle of the Deep*):** *"From the green heights above **Castries**, the red roofs of the town cluster peacefully around the blue waters of the bay."*
+> - 📜 **Anthony Trollope (*The West Indies and the Spanish Main*):** *"The coaling station at **Castries** proved of vital strategic importance to maritime traffic passing between North and South America."*

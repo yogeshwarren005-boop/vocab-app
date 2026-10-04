@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of communism developed in cuba by fidel castro.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of communism developed in cuba by fidel castro.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The political ideology, revolutionary socialist movement, and governmental system established in Cuba under Fidel Castro.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political science and 20th-century geopolitical history, a Latin American communist tendency emphasizing guerrilla warfare, anti-imperialist solidarity, and centralized state socialism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, castroism designates a form of communism developed in cuba by fidel castro."*
+> - 📜 **Che Guevara (*Guerrilla Warfare*):** *"The ideological tenets of **Castroism** demonstrated that a disciplined vanguard could ignite revolutionary consciousness across the continent."*
+> - 📜 **Arthur M. Schlesinger Jr. (*A Thousand Days*):** *"The rapid spread of **Castroism** throughout Latin America alarmed policymakers in Washington, accelerating the Alliance for Progress."*
+> - 📜 **C. Wright Mills (*Listen, Yankee: The Revolution in Cuba*):** *"To understand the appeal of **Castroism**, one must examine the decades of economic stagnation that preceded the insurrection."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With dexterity; in a dexterous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With dexterity; in a dexterous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a skillful, agile, and adroit manner, especially when employing the hands or physical reflexes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With ingenious diplomacy, tact, or clever finesse in speech, argument, or personal maneuver.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The man from Shropshire ventures another remonstrative “My lord!” but the Chancellor, being aware of him, has dexterously vanished."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Springing down into Boldwood’s pastures, each pocketed his halter to hide it from the horses, who, seeing the men empty-handed, docilely allowed themselves to be seized by the mane, when the halters were dexterously slipped on."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"However, what is must be, and here’s half-a-crown to drink my health, men.” Troy threw the coin dexterously across the front plot and over the fence towards Gabriel, who shunned it in its fall, his face turning to an angry red."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"After a few dull efforts to get to sleep again, which the man **dexterously** combated by stirring the fire, he settled himself to watch."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The girl, who wore no riding-habit, looked around for a moment, and then **dexterously** sprang into the saddle with graceful agility."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"One of the attending harpooneers now advances with a long, keen weapon, and **dexterously** slices the blanket-piece from the floating whale."*

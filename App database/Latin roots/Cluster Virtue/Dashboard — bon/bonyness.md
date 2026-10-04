@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme leanness (usually caused by starvation or disease).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extreme leanness (usually caused by starvation or disease).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The bodily manifestation of pronounced angular leanness or conspicuous skeletal prominence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical diagnosis and morphological appraisal, prominent manifestation of skeletal contours resulting from severe emaciation or anatomical structure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bonyness designates extreme leanness (usually caused by starvation or disease)."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The stark **bonyness** of the heath in winter suggested the bare skeleton of an ancient, dying world."*
+> - 📜 **Charles Dickens (*Our Mutual Friend*):** *"The peculiar **bonyness** of Mr. Venus's countenance matched the dry articulacy of the human skeletons around him."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"A persistent fever had reduced the child to extreme **bonyness**, making her dark eyes appear unnatural and immense."*

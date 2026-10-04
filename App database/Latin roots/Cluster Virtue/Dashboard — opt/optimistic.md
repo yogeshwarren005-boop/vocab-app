@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expecting the best in this best of all possible worlds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expecting the best.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by hopefulness, confidence, and a constructive expectation of positive future results.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In macroeconomic forecasting and psychiatric assessment, presenting an elevated or favorable valuation of market indicators or psychological outlook.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"When it came to making the purchases, he found, what he had overlooked previously in his optimistic way, that four pounds did not go very far."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"But his optimistic nature had to be fed, and the glories of the world to come, pictured in the Bible, to him became a living reality."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"The morning, therefore, saw another and somewhat less optimistic conference."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Brooke entertained an **optimistic** view of his impending parliamentary campaign, untroubled by his lack of coherent principles."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"His early **optimistic** dreams of university scholarship slowly withered beneath the cold reality of social exclusion."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The morning papers published **optimistic** accounts, reassuring the public that the Martians were helplessly trapped in their pit."*

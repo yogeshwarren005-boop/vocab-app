@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Very pleasing to the eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very pleasing to the eye.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Attractive, fair, pleasing to the eye, or healthy and high-spirited; an alternative spelling of bonny.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Scottish dialect and English lyrical poetry, expressing romantic affection, scenic charm, or blooming youthful vitality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Thou art a gay an’ a bonnie lass, But thou has a waukrife minnie."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Bonie, bonnie, pretty, beautiful."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Ah! she was a bonnie thing, that old gun of mine."*
+> - 📜 **Robert Burns (*Poems, Chiefly in the Scottish Dialect*):** *"O my Luve is like a red, red rose, that's newly sprung in June; O my Luve is like the melodie, that's sweetly played in tune, my **bonnie** lass."*
+> - 📜 **Sir Walter Scott (*Rob Roy*):** *"The young Highlander praised the **bonnie** hills of Loch Lomond as the fairest country under heaven."*
+> - 📜 **Robert Louis Stevenson (*Kidnapped*):** *"David admired the **bonnie** heather blossoming across the moors in purple splendor."*

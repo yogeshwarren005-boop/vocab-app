@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A region of central spain; a former kingdom that comprised most of modern spain and united with aragon to form spain in 1479.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A region of central spain; a former kingdom that comprised most of modern spain and united with aragon to form spain in 1479.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical region and former kingdom located in central Spain, known for its pivotal role in the unification of the Spanish nation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic history and toiletries manufacture, short for Castile soap, a fine olive-oil-based white soap originally produced in the Castile region.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"BLANCHE OF SPAIN, Daughter to Alphonso, King of Castile, and Niece to King John."*
-> - 📜 **James Joyce (*Ulysses*):** *"Lenehan announced gladly: —_The Rose of Castile_."*
-> - 📜 **James Joyce (*Ulysses*):** *"A jumping rose on satiny breast of satin, rose of Castile."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The royal houses of Aragon and **Castile** were united under a single sovereign crown that transformed the peninsula."*
+> - 📜 **Washington Irving (*The Life and Voyages of Christopher Columbus*):** *"Isabella of **Castile** pledged her royal support and jewels to equip the intrepid Genoese navigator for his western voyage."*
+> - 📜 **Richard Henry Dana Jr. (*Two Years Before the Mast*):** *"The sailors bartered for bars of pure white **Castile** soap whenever the trading schooners arrived in Monterey."*

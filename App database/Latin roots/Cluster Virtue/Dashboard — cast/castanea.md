@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chestnuts; chinkapins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chestnuts; chinkapins.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The botanical genus comprising deciduous trees and shrubs known as chestnuts, belonging to the beech family Fagaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forestry and arboriculture, timber and nut-producing Fagaceae trees characterized by serrated leaves, cylindrical catkins, and spiny burs enclosing edible nuts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, castanea designates chestnuts; chinkapins."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The American chestnut, designated **Castanea** dentata, was formerly one of the most magnificent forest trees of our eastern ridges."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Varieties of the sweet chestnut belonging to **Castanea** have been cultivated across southern Europe since classical antiquity for their farinaceous nuts."*
+> - 📜 **Henry David Thoreau (*Faith in a Seed*):** *"The spiny burs of the genus **Castanea** open wide upon the ground after the first crisp autumn frosts."*

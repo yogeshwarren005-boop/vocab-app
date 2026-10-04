@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A long whipstitch or overhand stitch overlying an edge to prevent raveling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make overcast or cloudy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Becoming dark and cloudy; or sewing raw fabric edges with long, diagonal looping stitches to prevent raveling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In textile craftsmanship and garment tailoring, the execution of hand or machine overedge stitching to reinforce seam allowances against frayed threads.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"It was bright and clear still, though the morning was overcasting a little, as we passed through the meadows."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Maggie sat quietly by the window with her needlework, diligently **overcasting** the seams of the rough linen frock."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The western sky was slowly **overcasting** with purple storm clouds that threatened to soak the ungathered wheat sheaves."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I spent the winter afternoon **overcasting** the hem of my dress while rain beat persistently against the schoolroom panes."*

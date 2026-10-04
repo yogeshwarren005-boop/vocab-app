@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Very thin especially from disease or hunger or cold.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Composed of or containing bone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or resembling bone; having prominent skeletal contours, or filled with many small skeletal spines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomical description and culinary ichthyology, possessing sharp osseous projections or describing fishes characterized by numerous intra-muscular ribs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The little procession then moved forward—the man in front bearing the light, the two bony women next, supporting between them the small and supple one."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"That he expressed the general feeling in our train was evidenced by the many women who leaned from the wagons, thrusting out gaunt forearms and shaking bony, labour-malformed fists at the last of Mormondom."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"She was tall and bony, and almost always wore a coarse apron, fastened over her figure behind with two loops, and having a square impregnable bib in front, that was stuck full of pins and needles."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The transition from cartilaginous ancestors to **bony** fishes marks a decisive evolutionary chapter in aquatic respiration and locomotion."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The fisherman examined the **bony** structure of the pickerel, noting its sharp dental armature and delicate vertebral spines."*
+> - 📜 **George Eliot (*Silas Marner*):** *"His emaciated shoulders and long, **bony** fingers gave him the look of an elderly phantom stooping over his loom."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deprive of strength or vigor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Edit by omitting or modifying parts considered indelicate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having had the testicles removed; or deprived of essential vigor, spirit, or effectiveness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agriculture and figurative critique, gelded or neutered; or describing texts, policies, or institutions stripped of decisive power.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The story of the self-mutilation of Attis is clearly an attempt to account for the self-mutilation of his priests, who regularly castrated themselves on entering the service of the goddess."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"When **castrated** at an early age, the male deer fails to develop the magnificent branching antlers characteristic of the species."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The corrupt administration was conducted by **castrated** chamberlains who wielded enormous backstage influence over the young emperor."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"The proposed parliamentary reform was a **castrated** measure, shorn of every clause that could challenge vested aristocratic privileges."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not castrated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not castrated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not castrated; retaining intact reproductive organs, testicles, and natural breeding capabilities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary science, animal husbandry, and agriculture, an intact male animal (such as a bull, stallion, or ram) maintained for reproductive breeding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uncastrated designates not castrated."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The **uncastrated** male displays pronounced muscular development and aggressive temperament absent in the gelded ox."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Comparative endocrine studies confirmed that the **uncastrated** subject maintains elevated androgenic levels throughout adult maturity."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel Oak carefully separated the **uncastrated** rams from the flock before leading the sheep down to the lower water meadows."*

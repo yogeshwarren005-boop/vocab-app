@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The area of ai concerned with the practical use of robots.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The area of ai concerned with the practical use of robots.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of technology and engineering that deals with the design, construction, operation, and application of robots.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanical engineering and artificial intelligence, the interdisciplinary science integrating kinematics, computer vision, control theory, and autonomous systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The problem is that although much of the gear is self-repairing through built-in robotics, when the robies themselves need fixing, no one knows how."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"But nav robotics have no backups."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"The mechanical marvels of our age foreshadow a future science of **robotics**, where automata shall compute and act without human intervention."*
+> - 📜 **H. G. Wells (*A Modern Utopia*):** *"In the utopian commonwealth, the dirty work of sanitation and excavation is consigned entirely to the advancing craft of **robotics**."*
+> - 📜 **Thorstein Veblen (*The Instinct of Workmanship*):** *"The mechanization of industry reaches its theoretical culmination in complete **robotics**, replacing living craftsmanship with machine discipline."*

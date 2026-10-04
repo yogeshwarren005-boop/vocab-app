@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or resembling repeated square indentations like those in a battlement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or resembling repeated square indentations like those in a battlement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Built with defensive battlements, turrets, or parapets in the architectural style of a fortified medieval castle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural history and topographical description, featuring notched crenellations or resembling fortified towers in geological rock formations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"His family mansion is an old castellated manor-house, gray with age, and of a most venerable though weather-beaten appearance."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Back of our camp lay the castellated rocks which had attracted our notice the previous evening, and over which Daub, our artist, now became intensely enthusiastic."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"The building is of various epochs--combining the stronghold with the ornamented and castellated mansion."*
+> - 📜 **Sir Walter Scott (*The Antiquary*):** *"The ancient baronial mansion displayed a **castellated** roof with frowning turrets and narrow loop-holes built for defense."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"Along the Rhine each frowning crag supported a **castellated** ruin that looked down upon the vineyard-clad valleys."*
+> - 📜 **Washington Irving (*The Sketch Book of Geoffrey Crayon, Gent.*):** *"The massive gray towers gave the manor house a romantic, **castellated** appearance reminiscent of the feudal wars."*

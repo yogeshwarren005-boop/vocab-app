@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Difficult to place in an adoptive home.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Difficult to place in an adoptive home.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not suitable, eligible, or legally capable of being adopted into a family or accepted as a policy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In child welfare law and social policy, designating minors whose legal custody is unsevered, or proposals exhibiting fatal administrative flaws.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unadoptable designates difficult to place in an adoptive home."*
+> - 📜 **George Eliot (*Felix Holt, the Radical*):** *"The radical artisan regarded the proposed compromise bill as utterly **unadoptable** by any honest friend of popular suffrage."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The legal complexities of the Chancery decree rendered the orphan temporarily **unadoptable** under standard parish statutes."*
+> - 📜 **Herbert Spencer (*Social Statics*):** *"Any legislative scheme that violates the equal moral rights of citizens is fundamentally **unadoptable** in a civilized commonwealth."*

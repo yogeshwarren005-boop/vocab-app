@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone (such as a child) who has been adopted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone (such as a child) who has been adopted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An individual who has been legally received into a family other than that of their biological birth parents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In domestic relations jurisprudence and sociological studies, a person holding full filial inheritance and civil rights established by judicial decree.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adoptee designates someone (such as a child) who has been adopted."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Under the civil law of Rome, the **adoptee** entered the agnatic lineage of the adoptive parent with all privileges of an heir."*
+> - 📜 **Henry Maine (*Ancient Law*):** *"Archaic tribal codes provided that the **adoptee** was severed irrevocably from his ancestral hearth and domestic religion."*
+> - 📜 **G. K. Chesterton (*What's Wrong with the World*):** *"The legal fiction that treats the **adoptee** as born of the house is an ancient and generous tribute to the family bond."*

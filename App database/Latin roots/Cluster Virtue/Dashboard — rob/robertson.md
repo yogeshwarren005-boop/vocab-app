@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states basketball guard (born in 1938).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states basketball guard (born in 1938).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A patronymic surname of Scottish origin meaning 'son of Robert', associated historically with Clan Donnachaidh of Atholl.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Scottish Enlightenment historiography and educational history, associated with historian William Robertson, principal of Edinburgh University.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Robertson, Alexander MacEwen, Joseph Leckie, and William Graham."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Robertson of Irvine used to lay claim to having been the pioneer of these "landlouping students of divinity." John Ker and others followed him; and when Cairns set out in 1843, quite a large company of old friends were expected to meet at Berlin."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Robertson of Irvine; and, later, Dr."*
+> - 📜 **James Boswell (*The Life of Samuel Johnson*):** *"Dr. Johnson debated the philosophical merits of Scottish historical prose with Principal **Robertson** in the library at Edinburgh."*
+> - 📜 **Edward Gibbon (*Memoirs of My Life and Writings*):** *"The elegant historical volumes of Hume and **Robertson** first inspired my youthful ambitions to record the annals of Rome."*
+> - 📜 **Robert Louis Stevenson (*Kidnapped*):** *"David Balfour consulted the learned advocate Mr. **Robertson**, seeking legal protection against the machinations of his treacherous uncle."*

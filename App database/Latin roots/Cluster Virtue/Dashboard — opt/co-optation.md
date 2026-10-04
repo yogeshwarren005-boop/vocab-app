@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The selection of a new member (usually by a vote of the existing membership).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of appointing summarily (with or without the appointee's consent).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of appointing a new member by vote of existing peers, or the institutional absorption of dissident factions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organizational sociology and political dynamics, strategic assimilation of external critics into administrative councils to preserve hegemony.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, co-optation designates the selection of a new member (usually by a vote of the existing membership)."*
+> - 📜 **Robert Michels (*Political Parties*):** *"The iron law of oligarchy perpetuates power through deliberate **co-optation** of emerging working-class organizers."*
+> - 📜 **Alexis de Tocqueville (*The Old Regime and the Revolution*):** *"The crown attempted the **co-optation** of influential provincial nobles, yet failed to quell underlying peasant discontent."*
+> - 📜 **Harold Laski (*A Grammar of Politics*):** *"Judicial independence is threatened whenever legislative majorities utilize **co-optation** to populate the higher tribunals."*

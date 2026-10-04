@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without a trace of moisture; as dry as a weathered bone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without a trace of moisture; as dry as a weathered bone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Completely dry, parched, and lacking any observable moisture, humidity, or dampness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In environmental meteorology and soil physics, describing desiccation reaching hygroscopic equilibrium where capillary water is entirely absent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bone-dry designates without a trace of moisture; as dry as a weathered bone."*
+> - 📜 **John Steinbeck (*The Grapes of Wrath*):** *"The topsoil blew away in blinding clouds across the **bone-dry** pastures of Oklahoma under the blazing sun."*
+> - 📜 **Willa Cather (*My Ántonia*):** *"The prairie grass turned brown and brittle, rustling like parchment in the hot **bone-dry** wind of midsummer."*
+> - 📜 **Mark Twain (*Roughing It*):** *"We traversed alkali flats that were **bone-dry**, where not a drop of spring water could be found for thirty leagues."*

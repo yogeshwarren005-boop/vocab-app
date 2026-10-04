@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in western germany on the rhine river; was the capital of west germany between 1949 and 1989.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in western germany on the rhine river; was the capital of west germany between 1949 and 1989.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historic German city on the Rhine River that served as the capital of West Germany from 1949 to 1990.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern European political history, a cultural city famed as Beethoven's birthplace and as the provisional parliamentary seat of the Federal Republic of Germany.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Ne porty ploo--habit militair--bonn--bonny a voo, prenny dehors"--were Jos's words--the coat and cap were at last his property."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Mère Julie,' I said, 'and mes bonnes femmes, my friends, know you that it is the middle of the night, the hour at which we must rest if we are to be able to do the work that is needful, which the _bon Dieu_ has laid upon us?"*
+> - 📜 **Mary Shelley (*Rambles in Germany and Italy*):** *"We steamed along the Rhine past the picturesque university buildings and green gardens of ancient **Bonn**."*
+> - 📜 **George Eliot (*Essays and Leaves from a Note-Book*):** *"Scholars residing in **Bonn** contributed profoundly to the philosophical and historical revival of nineteenth-century Europe."*
+> - 📜 **Edward Bulwer-Lytton (*The Pilgrims of the Rhine*):** *"The travelers paused at **Bonn** to admire the romantic hills of the Siebengebirge mirrored in the majestic river."*

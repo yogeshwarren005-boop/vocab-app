@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A very dark black.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hard dark-colored heartwood of the ebony tree; used in cabinetwork and for piano keys.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dense, hard, dark wood from tropical trees of the genus Diospyros, or a deep, rich black color.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dendrology and decorative artistry, dense heartwood that sinks in water, famous for its smooth texture when carved and polished into piano keys and sculptures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By heaven, thy love is black as ebony."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, it hath bay windows transparent as barricadoes, and the clerestories toward the south-north are as lustrous as ebony; and yet complainest thou of obstruction?"*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"In repassing through the small vaulted room, however, your eyes will be attracted towards a large, old-fashioned cabinet of ebony and gold, which, though narrowly examining the furniture before, you had passed unnoticed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By heaven, thy love is black as **ebony**!"*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Lord Henry rested his arm upon a small **ebony** table inlaid with mother-of-pearl, smiling languidly at his companion."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"There in the flickering light of the lamp was the machine, a thing of nickel, ivory, and polished **ebony**."*

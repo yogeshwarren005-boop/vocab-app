@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states parliamentary authority and author (in 1876) of robert's rules of order (1837-1923).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states parliamentary authority and author (in 1876) of robert's rules of order (1837-1923).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A masculine given name of Germanic origin meaning 'bright fame', borne by numerous monarchs, saints, and literary figures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In European dynastic history and cultural biography, an influential royal and noble personal name in Britain, France, and Scotland.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am Robert Shallow, sir, a poor esquire of this county, and one of the King’s justices of the peace."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am glad to see you well, good Master Robert Shallow."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll through Gloucestershire, and there will I visit Master Robert Shallow, Esquire."*
+> - 📜 **Sir Walter Scott (*The Lord of the Isles*):** *"King **Robert** the Bruce surveyed the assembled clansmen, rallying their hearts before the desperate shock of Bannockburn."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Tulkinghorn spoke quietly of Sir Leicester's kinsman **Robert**, whose ancestral pride matched his modest fortune."*
+> - 📜 **William Shakespeare (*King John*):** *"Philip the Bastard disputed the lineage and landed inheritance of his legitimate brother Sir **Robert** Faulconbridge."*

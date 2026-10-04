@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Get undressed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Get undressed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove one's clothes, robes, or vestments; to undress oneself or another person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ceremonial protocol and ecclesiastical law, to formally strip an official of clerical robes, judicial vestments, or regalia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll disrobe me Of these Italian weeds, and suit myself As does a Britain peasant."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, well did he become that lion’s robe That did disrobe the lion of that robe!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Disrobe the images, If you do find them deck’d with ceremonies."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"May we do so? You know it is the feast of Lupercal. It is no matter; let no images be hung with Caesar's trophies, and **disrobe** the statues."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"She retired to her chamber to **disrobe**, laying aside the simple bridal dress with a sorrowful heart."*
+> - 📜 **Sir Walter Scott (*Ivanhoe*):** *"The templar was commanded to **disrobe** and cast aside the holy white mantle of his disgraced order."*

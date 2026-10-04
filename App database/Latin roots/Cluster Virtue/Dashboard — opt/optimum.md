@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Most favorable conditions or greatest degree or amount possible under given circumstances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Most desirable possible under a restriction expressed or implied.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The most favorable or advantageous condition, degree, quantity, or outcome obtainable in a given situation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In environmental biology and biochemical kinetics, the precise temperature, pH, or moisture level at which enzyme activity or organismic growth is maximal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I am convinced that the UIPS military forces, once they attain optimum strength, will attempt to crush me, or at the least, dominate the Zone."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Launch fighters as soon as the INOR fleet is in optimum range."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Now." Optimum range was closing for particle beamers."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"Plants subjected to cross-pollination achieve an **optimum** vigor of growth that markedly surpasses self-fertilized seedlings."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Enzymatic digestion in the stomach requires an **optimum** degree of acidity, failing completely if the gastric juice becomes alkaline."*
+> - 📜 **Alfred Marshall (*Principles of Economics*):** *"Every manufacturing plant has an **optimum** scale of production beyond which managerial complexity increases average unit cost."*

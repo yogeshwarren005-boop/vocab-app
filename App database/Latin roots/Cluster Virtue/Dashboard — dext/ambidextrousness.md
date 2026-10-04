@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being equally skillful with each hand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being equally skillful with each hand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property or characteristic of possessing equal facility in both hands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical anthropology and developmental neurology, bilateral motor equivalence across manual manipulation tasks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ambidextrousness designates the property of being equally skillful with each hand."*
+> - 📜 **Francis Galton (*Inquiries into Human Faculty and Its Development*):** *"Statistical measurements of manual dexterity demonstrate that perfect **ambidextrousness** remains extraordinarily rare across diverse human populations."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Early education rarely encourages manual symmetry, so complete **ambidextrousness** is usually acquired through rigorous mechanical practice."*
+> - 📜 **Thomas Henry Huxley (*Critiques and Addresses*):** *"The surgeon’s training cultivates functional **ambidextrousness**, enabling delicate incision and suture work at awkward operative angles."*

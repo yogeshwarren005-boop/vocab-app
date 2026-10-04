@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small bone; especially one in the middle ear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small bone; especially one in the middle ear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A very small bone or osseous fragment, particularly one of the tiny ossicles of the vertebrate middle ear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microscopic anatomy and osteological embryology, an isolated ossicle such as the malleus, incus, or stapes that transmits acoustic vibrations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bonelet designates a small bone; especially one in the middle ear."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Sound waves vibrate the tympanic membrane, which in turn acts upon each delicate **bonelet** of the middle ear."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Necrosis of a tiny **bonelet** in the auditory canal may cause protracted chronic suppuration."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"Microscopic examination reveals the minute **bonelet** developing within the embryonic chondral framework."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The result of a mathematical integration; f(x) is the integral of f(x) if df/dx = f(x).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Existing as an essential constituent or characteristic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Essential to completeness; forming a necessary, constituent, and inseparable part of a whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In calculus and mathematical analysis, the limit of a sum of infinitesimals representing area, volume, or accumulated quantity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her flexuous and stealthy figure became an integral part of the scene."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"He was a stript abstract; an unfractioned integral; uncompromised as a new-born babe; living without premeditated reference to this world or the next."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Scientific exactness of thinking had not become an integral part of education."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Her flexuous and stealthy figure became an **integral** part of the scene, harmonizing with the misty contours of the dawn landscape."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The latter was the eternal, living principle or soul in him; an **integral** essence that survived the wreckage of mortal faculties."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"Sea of stretch'd ground-swells, sea breathing broad and convulsive breaths, an **integral** element of my immortal soul and song."*

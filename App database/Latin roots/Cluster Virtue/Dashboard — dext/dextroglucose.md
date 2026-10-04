@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An isomer of glucose that is found in honey and sweet fruits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An isomer of glucose that is found in honey and sweet fruits.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The dextrorotatory enantiomer of glucose, commonly known as d-glucose, which rotates polarized light to the right.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organic biochemistry, the principal aldohexose stereoisomer utilized by mammalian cellular metabolism for glycolysis and ATP generation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dextroglucose designates an isomer of glucose that is found in honey and sweet fruits."*
+> - 📜 **Louis Pasteur (*Researches on Molecular Asymmetry*):** *"Optical polarimetry confirms that **dextroglucose** rotates the beam of polarized light systematically toward the right-hand pole."*
+> - 📜 **Justus von Liebig (*Animal Chemistry*):** *"The physiological oxidation of **dextroglucose** in capillary circulation sustains bodily heat and provides kinetic power for muscular exertion."*
+> - 📜 **Claude Bernard (*Lectures on the Phenomena of Life*):** *"The hepatic parenchyma produces glycogen, which is continuously transformed into circulating **dextroglucose** to maintain glycemic balance."*

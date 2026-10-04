@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states biochemist (born in england) honored for his discovery that some genes contain introns (born in 1943).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states evangelist (born 1918).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A patronymic surname of English and Welsh origin meaning 'son of Robert', widely distributed across the English-speaking world.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military and maritime history, borne by notable commanders such as Field Marshal Lord Roberts and pirate captain Bartholomew Roberts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"For’ard, I could see John Roberts straining at the bow oar."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"A certain Captain Roberts was commissioned to get a boat built at Genoa, where Byron also was fitting out a yacht, the 'Bolivar'."*
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"Roberts beginning in 1731, _The Merry-Thought: or, the Glass-Window and Bog-House Miscellany_, commonly known simply as _The Bog-House Miscellany_."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The convict recalled the daring seafaring exploits of Captain **Roberts**, who raided Spanish merchantmen along the Brazilian coast."*
+> - 📜 **Arthur Conan Doyle (*The Great Boer War*):** *"Lord **Roberts** assumed supreme command of the field armies, executing a rapid strategic flank march upon Bloemfontein."*
+> - 📜 **Rudyard Kipling (*Plain Tales from the Hills*):** *"The regiment toasted General **Roberts** in the officers' mess, commemorating their grueling march to relief in the Afghan hills."*

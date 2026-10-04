@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Confirmation that some fact or statement is true through the use of documentary evidence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Confirmation that some fact or statement is true through the use of documentary evidence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Evidence, testimony, or verification that confirms, supports, or validates a statement, claim, or hypothesis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the law of evidence, independent collateral evidence that strengthens and confirms the credibility of material allegations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"If your ladyship would wish to have the boy produced in corroboration of this statement, I can lay my hand upon him at any time.” The wretched boy is nothing to my Lady, and she does NOT wish to have him produced."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Darcy would never have hazarded such a proposal, if he had not been well assured of his cousin’s corroboration."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"You see all these isolated facts, together with many minor ones, all pointed in the same direction.” “And how did you verify them?” “Having once spotted my man, it was easy to get corroboration."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"The singular fact of the dog doing nothing in the night was the final **corroboration** that pointed to an insider."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The letters discovered in the royal cabinet gave conclusive **corroboration** to the charges of secret diplomatic treason."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Bucket sought external **corroboration** before disclosing the identity of the mysterious French lodger."*

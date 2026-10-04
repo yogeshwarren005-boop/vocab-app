@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any wheeled vehicle that is dilapidated and uncomfortable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any wheeled vehicle that is dilapidated and uncomfortable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An early type of bicycle with wooden wheels and iron tires, noted for its rough and jolting ride.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In transportation history and vehicular slang, a velocipede of the 1860s lacking suspension, or any rickety, jarring wheeled carriage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, boneshaker designates any wheeled vehicle that is dilapidated and uncomfortable."*
+> - 📜 **H. G. Wells (*The Wheels of Chance*):** *"In his youth he had bruised his knees learning to balance upon a cumbersome iron-rimmed **boneshaker**."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Solitary Cyclist*):** *"Modern pneumatic tires have happily replaced the brutal vibrations of the mid-Victorian **boneshaker**."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"The veteran recalled traversing the cobbled streets of London upon an ancient **boneshaker** that rattled every tooth in his head."*

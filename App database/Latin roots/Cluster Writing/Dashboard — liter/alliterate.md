@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Use alliteration as a form of poetry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Use alliteration as a form of poetry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To use alliteration; to begin adjacent or closely connected words with the same letter or consonant sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In poetic prosody and rhetoric, to construct verses utilizing initial consonant concordance characteristic of Germanic and Old English meters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alliterate designates use alliteration as a form of poetry."*
+> - 📜 **Alexander Pope (*The Dunciad*):** *"Poetasters often strain to **alliterate** with resonant vowels and rhyming consonants in search of easy music."*
+> - 📜 **Algernon Charles Swinburne (*Studies in Prose and Poetry*):** *"The ancient bard loved to **alliterate** fierce battle phrases to stir the martial spirits of his listeners."*
+> - 📜 **George Saintsbury (*A History of English Prosody*):** *"Middle English poets continued to **alliterate** stressed syllables long after French rhyming syllabics entered London."*

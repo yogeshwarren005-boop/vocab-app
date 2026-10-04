@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make literal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make literal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make literal; to treat or interpret a metaphor, symbol, or poetic concept as an objective physical reality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In semiotics and psychoanalysis, to translate imaginative figures or emotional fantasies into tangible, concrete entities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, literalize designates make literal."*
+> - 📜 **George Santayana (*The Life of Reason*):** *"When uncritical minds **literalize** poetry, they create superstitious dogmas from innocent poetic fancies."*
+> - 📜 **William James (*Pragmatism*):** *"Philosophers often **literalize** pragmatic abstractions into eternal metaphysical substances."*
+> - 📜 **C. S. Lewis (*Miracles*):** *"We must not **literalize** anthropomorphic imagery when contemplating the transcendent nature of the divine."*

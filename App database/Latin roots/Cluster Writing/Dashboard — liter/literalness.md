@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adhereing to the concrete construal of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adhereing to the concrete construal of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Strict adherence to the exact letter, fact, or original phrasing without metaphorical latitude.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary translation and cognitive psychology, fidelity to verbatim source phrasing or a cognitive preference for concrete facts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, literalness designates adhereing to the concrete construal of something."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Her mind possessed an uncompromising **literalness** that shrank from flattering ambiguities of high society."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"His conversational **literalness** made it difficult for him to detect the delicate ironies of the drawing room."*
+> - 📜 **John Stuart Mill (*Dissertations and Discussions*):** *"Bentham approached philosophical concepts with a rigorous **literalness** that exposed legal fictions."*

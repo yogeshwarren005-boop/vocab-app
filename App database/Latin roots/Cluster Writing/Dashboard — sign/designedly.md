@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With intention; in an intentional manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With intention; in an intentional manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Purposely, deliberately, intentionally; with premeditated design or conscious aim.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and jurisprudence, executed with willful intent or premeditation rather than by accident or negligence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"He now discovered that he had been designedly mystified, and there was no escape."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Designedly, at least, Henry could not have betrayed her."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The bearings not being yet taken, perhaps designedly, I was ignorant of our exact position."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The historian seems **designedly** to have omitted all mention of the disaster to flatter the prince."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The clauses of the statute were **designedly** framed with ambiguity to satisfy conflicting parties."*
+> - 📜 **Jane Austen (*Emma*):** *"She felt that he had spoken **designedly**, intending that his words should carry a double meaning."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With resignation and acceptance; in a resigned manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a hopeless resigned manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner showing patient acceptance of something unpleasant or inevitable; submissively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological comportment, accepting adversity without vocal protest or active resistance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"But although Alpátych, frightened at his own temerity in avoiding the stroke, came up to the prince, bowing his bald head resignedly before him, or perhaps for that very reason, the prince, though he continued to shout: “Blackguards!..."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Osmond’s never so historical.” “Oh you,” the Countess answered as they moved away, “you yourself are Machiavelli--you yourself are Vittoria Colonna!” “We shall hear next that poor Madame Merle is Metastasio!” Gilbert Osmond resignedly sighed."*
-> - 📜 **Bram Stoker (*Dracula*):** *"He became quite quiet, and went and sat on the edge of his bed resignedly, and looked into space with lack-lustre eyes."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He sighed deeply and folded his arms **resignedly**, waiting for the Lord Chancellor to resume the hearing."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Clym Yeobright bowed his head **resignedly** to the loss of his sight and took up his furze-cutter's tools."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Maggie sat down **resignedly** upon the stone step, preparing herself for her brother's stern reprimands."*

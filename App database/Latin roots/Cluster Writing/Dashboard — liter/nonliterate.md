@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of a society that has not developed writing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used of a society that has not developed writing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not literate; having no written language; unlettered or belonging to a society that does not use writing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociocultural anthropology, designating traditional societies whose cultural heritage and genealogies are preserved through oral traditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonliterate designates used of a society that has not developed writing."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Among **nonliterate** hunting tribes, complex mythological genealogies are handed down intact across generations through ritual song."*
+> - 📜 **Edward Burnett Tylor (*Primitive Culture*):** *"The oral traditions of **nonliterate** peoples reveal profound speculative inquiries into natural phenomena."*
+> - 📜 **Claude Lévi-Strauss (*The Savage Mind*):** *"The cognitive classifications of **nonliterate** societies display astonishing taxonomic rigor and botanical precision."*

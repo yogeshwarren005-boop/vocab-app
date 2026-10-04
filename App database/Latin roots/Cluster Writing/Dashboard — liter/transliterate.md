@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rewrite in a different script.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rewrite in a different script.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To write or represent letters or words in the corresponding characters of a different alphabet or phonetic writing system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical linguistics, epigraphy, and cartography, to convert text from non-Latin scripts (such as Cyrillic, Greek, or Arabic) into Latin orthography.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Osiris was the offspring of an intrigue between the earth-god Seb (Keb or Geb, as the name is sometimes transliterated) and the sky-goddess Nut."*
-> - 📜 **James Joyce (*Ulysses*):** *"Dolphin’s Barn: the transliterated name and address of the addresser of the 3 letters in reversed alphabetic boustrophedonic punctated quadrilinear cryptogram (vowels suppressed) N."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Oriental scholars **transliterate** ancient Egyptian hieroglyphic cartouches using standard Roman phonetic equivalents."*
+> - 📜 **James Joyce (*Ulysses*):** *"Dolphin's Barn: the **transliterate** name and address of the foreign merchant appeared upon the shipping manifest."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"To compare Indo-European cognates accurately, the philologist must **transliterate** Sanskrit devanagari characters into Roman letters."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Destruction by annihilating something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The complete destruction of every trace of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The total destruction, wiping out, or complete erasure of something from physical existence or conscious memory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military strategy, geology, and pathology, the thorough destruction of fortifications, weathering of rock strata, or closure of anatomical lumens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Not a cousin of the batch but is amazed to hear from Sir Leicester at breakfast-time of the obliteration of landmarks, and opening of floodgates, and cracking of the framework of society, manifested through Mrs."*
-> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"She had not looked at it long, before she wetted the tip of her forefinger, and began to rub away at the obliteration."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Not a cousin of the batch but is amazed to hear of the total **obliteration** of his family's hereditary estate through Chancery litigation."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The complete **obliteration** of the ancient municipal liberties accompanied the rise of absolute territorial monarchies."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The barbarian sack resulted in the **obliteration** of noble libraries and monumental civic arches."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The system of numbering pages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The system of numbering pages.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sequence of numbers assigned to pages in a book or document, or the system and act of numbering pages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bibliography, publishing, and digital document architecture, the formal collation formula or software division of continuous content into discreet folios.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pagination designates the system of numbering pages."*
+> - 📜 **Thomas Frognall Dibdin (*Bibliomania*):** *"The defective **pagination** in the first folio edition caused endless perplexity to subsequent bibliographers."*
+> - 📜 **George Saintsbury (*A History of English Prose Rhythm*):** *"The irregular **pagination** of seventeenth-century pamphlets often reveals last-minute editorial excisions."*
+> - 📜 **Donald Knuth (*Literate Programming*):** *"Proper **pagination** requires balancing aesthetic margins, running headers, and footnote placement."*

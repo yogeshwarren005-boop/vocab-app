@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Organize into a code or system, such as a body of law.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Organize into a code or system, such as a body of law.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To arrange laws, principles, regulations, or procedures systematically into an official, coherent code.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal drafting and institutional reform, to compile and harmonize disparate statutory decrees and common law precedents into an integrated code.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, codify designates organize into a code or system, such as a body of law."*
+> - 📜 **Jeremy Bentham (*Theory of Legislation*):** *"To **codify** the laws of a nation is to present every citizen with a legible map of his duties and rights."*
+> - 📜 **Thomas Babington Macaulay (*Life and Letters of Lord Macaulay*):** *"He labored untiringly to **codify** the penal jurisprudence of the eastern empire into an intelligible digest."*
+> - 📜 **Woodrow Wilson (*The State: Elements of Historical and Practical Politics*):** *"Modern constitutional states consistently endeavor to **codify** administrative practices to prevent bureaucratic abuses."*

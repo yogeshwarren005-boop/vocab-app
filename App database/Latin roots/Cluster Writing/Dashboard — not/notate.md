@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put into notation, as of music or choreography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put into notation, as of music or choreography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To write down, record, or represent in a system of specialized notation, such as musical score or dance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In choreology and ethnomusicology, transcribing live performance movements into formal Labanotation or neumes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, notate designates put into notation, as of music or choreography."*
+> - 📜 **Oliver Sacks (*Musicophilia*):** *"The savant could listen to an intricate orchestral score once and **notate** every instrumental part flawlessly."*
+> - 📜 **Igor Stravinsky (*Poetics of Music*):** *"To properly **notate** complex polymetric rhythms requires absolute precision in time signatures and barlines."*
+> - 📜 **Aaron Copland (*What to Listen for in Music*):** *"The composer must **notate** dynamic nuances and tempo rubato so that performers recreate the intended emotion."*

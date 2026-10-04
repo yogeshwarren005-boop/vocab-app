@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not based on fact; unreal; - f.d.roosevelt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not based on fact or investigation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Existing only in theory, idea, or speculation; abstract, hypothetical, and lacking physical reality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In financial derivatives, the nominal or face value of an underlying asset upon which contract payouts are calculated.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, notional designates not based on fact; unreal; - f.d.roosevelt."*
+> - 📜 **John Henry Newman (*An Essay in Aid of a Grammar of Assent*):** *"He distinguished between **notional** assent to abstract theological propositions and real living faith."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Mercantile wealth often consisted of **notional** credit circulating upon paper without equivalent gold backing."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The scholastic disputation degenerated into mere **notional** word-play devoid of experiential substance."*

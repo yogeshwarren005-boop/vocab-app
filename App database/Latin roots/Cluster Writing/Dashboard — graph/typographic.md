@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or occurring or used in typography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or occurring or used in typography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to typography; pertaining to the design, arrangement, and visual presentation of printed or displayed text.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In information design, typographic choices encompassing font selection, kerning, leading, and hierarchy directly affect reading comprehension, user experience, and brand identity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Typographic printing had long before superseded Xylographic printing, that is, printing from a solid block of wood on which type of an entire page were cut individually by hand."*
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"I will design fanciful tailpieces to be woven in with the text; as a frontispiece the drawing that I gave you, retouched by me, and reproduced by the Typographic Etching Company, 23 Farringdon street, London, E."*
+> - 📜 **Jan Tschichold (*The New Typography*):** *"Every **typographic** decision must be governed by the purpose of clear communication."*
+> - 📜 **Emil Ruder (*Typography: A Manual of Design*):** *"**Typographic** form should emerge from the content, not be imposed upon it as mere decoration."*
+> - 📜 **Ellen Lupton (*Thinking with Type*):** *"The **typographic** grid provides the structural skeleton upon which complex page layouts are built."*

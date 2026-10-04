@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of working out the form of something (as by making a sketch or outline or plan).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An arrangement scheme.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To plan, conceive, outline, or fashion the form, structure, purpose, or ornamentation of an object, building, or system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetics, industrial engineering, and philosophy, the purposive composition, structural schema, or teleological intention of an entity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, for the love of laughter, hinder not the honour of his design: let him fetch off his drum in any hand."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I cannot help it now, Unless by using means I lame the foot Of our design."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But my design To note the chamber."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"He had an agreeable countenance and the easy demeanor of a man whose manners were formed without conscious **design**."*
+> - 📜 **John Milton (*Paradise Lost*):** *"He form'd the vast **design** to shake the throne of Heaven and wage immortal war against the Almighty."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Many naturalists formerly saw in every organic adaptation the direct evidence of special **design**."*

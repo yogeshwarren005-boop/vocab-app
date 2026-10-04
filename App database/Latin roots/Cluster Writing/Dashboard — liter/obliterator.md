@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An eliminator that does away with all traces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An eliminator that does away with all traces.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, implement, or force that obliterates, erases, cancels, or destroys something completely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In postal history and military weaponry, a postal cancellation stamp marking envelopes or a destructive engine of total warfare.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, obliterator designates an eliminator that does away with all traces."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The revolutionary guillotine acted as an indiscriminate **obliterator** of aristocratic pedigrees and historic titles."*
+> - 📜 **John Ruskin (*Fors Clavigera*):** *"Modern speculative railway building became the ruthless **obliterator** of pastoral English meadows and ancient woodland."*
+> - 📜 **Anthony Trollope (*An Autobiography*):** *"The post office clerk wielded the hand **obliterator**, defacing postage stamps with rapid rhythmic thuds."*

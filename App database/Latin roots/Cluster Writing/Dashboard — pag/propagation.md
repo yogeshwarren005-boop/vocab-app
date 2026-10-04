@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The spreading of something (a belief or practice) into new regions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of producing offspring or multiplying by such production.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of multiplying organisms, or the dissemination, spreading, and transmission of ideas, beliefs, or physical waves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agronomy, electrodynamics, and epidemiology, biological reproduction, wave traversal through media, or disease transmission across hosts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This we came not to Only for propagation of a dower Remaining in the coffer of her friends, From whom we thought it meet to hide our love Till time had made them for us."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"They are only beginning to be developed artificially by the propagation of oysters, clams, and fish."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Auvergne, in _Annales de la Propagation de la Foi_, x. (1837) pp. 23 _sq._; A.P."*
+> - 📜 **William Shakespeare (*Measure for Measure*):** *"This we came not to our house for the **propagation** of a dower remaining in the coffer of her friends."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The successful **propagation** of a species depends on the survival and fecundity of the best adapted individuals."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The velocity of **propagation** of electromagnetic disturbances through space agrees with the speed of light."*

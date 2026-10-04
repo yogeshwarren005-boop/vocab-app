@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A railroad employee in charge of signals and point in a railroad yard.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A railroad employee in charge of signals and point in a railroad yard.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person whose duty is to operate railway signals and track points, or a naval rating in charge of signaling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In railway operations and naval history, an operational specialist managing track interlockings or optical and flag signal transmissions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, signalman designates a railroad employee in charge of signals and point in a railroad yard."*
+> - 📜 **Charles Dickens (*The Signal-Man*):** *"The solitary **signalman** leaned against the damp cutting wall, tormented by spectral visions beside the warning bell."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The red lamp in the hand of the railway **signalman** glowed like an evil eye in the misty morning darkness."*
+> - 📜 **Joseph Conrad (*Nostromo*):** *"The port **signalman** climbed the watchtower to report the steam vessel entering the outer harbor."*

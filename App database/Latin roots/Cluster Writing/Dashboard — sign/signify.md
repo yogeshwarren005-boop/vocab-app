@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Denote or connote.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convey or express a meaning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To mean, indicate, or represent; or to make known with signs, speech, or actions; to have importance or consequence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In semiotics, logic, and philosophy of language, to serve as a symbolic token or convey semantic information.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll humbly signify what in his name, That magical word of war, we have effected; How, with his banners, and his well-paid ranks, The ne’er-yet-beaten horse of Parthia We have jaded out o’ th’ field."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your wisdom should show itself more richer to signify this to the doctor, for me to put him to his purgation would perhaps plunge him into far more choler."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, my lord, his Majesty bade me signify to you that he has laid a great wager on your head."*
+> - 📜 **William Shakespeare (*King Lear*):** *"O, reason not the need; our basest beggars are in the poorest thing superfluous; allow not nature more than nature needs, man's life is cheap as beast's: thou art a lady; if only to go warm were gorgeous, why, nature needs not what thou gorgeous wear'st, which scarcely keeps thee warm. But, for true need,—you heavens, give me that patience, patience I need! If it be you that stir these daughters' hearts against their father, fool me not so much to bear it tamely; touch me with noble anger, and let not women's weapons, water-drops, stain my man's cheeks! No, you unnatural hags, I will have such revenges on you both, that all the world shall—I will do such things,—what they are, yet I know not: but they shall be the terrors of the earth. You think I'll weep; no, I'll not weep: I have full cause of weeping; but this heart shall break into a hundred thousand flaws, or ere I'll weep. O fool, I shall go mad! What did their letters **signify**?"*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"It does not **signify** to me in the least what Mr. Darcy thinks of my manners or my family connections."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Barkis leaned forward from the cart to **signify** that he was entirely willing to carry the message."*

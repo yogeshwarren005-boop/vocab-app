@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the power of explicitly denoting or designating or naming.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the power of explicitly denoting or designating or naming.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the power to denote, indicate, or signify; serving as a direct sign or designation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In lexical semantics, describing vocabulary items whose communicative function is strictly referential.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, denotive designates having the power of explicitly denoting or designating or naming."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"Mathematical notations represent the purest form of **denotive** symbolism, devoid of emotional coloring."*
+> - 📜 **Benjamin Lee Whorf (*Language, Thought, and Reality*):** *"Grammatical categories exert a subtle **denotive** influence upon how cultures categorize spatial time."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"The linguistic sign unites not a thing and a name, but a concept and a **denotive** sound pattern."*

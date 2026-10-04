@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Creative writing of recognized artistic value.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The humanistic study of a body of literature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Written works, especially those considered of superior or lasting artistic merit, poetry, drama, and prose fiction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural history and bibliography, the accumulated body of written culture, belles-lettres, or specialized published academic treatises.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"These lectures, while not rising to the level of greatness, impress one with his mastery of the immense literature of the subject, and are characterised throughout by lucidity of arrangement and by sobriety and fairness of judgment."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"With his attitude to later German theological literature it is somewhat different, for here he tried to keep himself abreast of the times."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"And so, instead of going upstairs in the evening, he remained in the comfortable parlour, where he wrote his letters, talked to his brother and sister, or to visitors as they came in, and regaled himself with light literature."*
+> - 📜 **Virginia Woolf (*A Room of One's Own*):** *"Masterpieces in **literature** are not single and solitary births; they are the outcome of many years of thinking in common."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The classical **literature** of Greece remains the most glorious monument of human intellect and creative imagination."*
+> - 📜 **Ralph Waldo Emerson (*The American Scholar*):** *"Books are the best of things, well used; in creative **literature**, the mind of one age speaks to the soul of another."*

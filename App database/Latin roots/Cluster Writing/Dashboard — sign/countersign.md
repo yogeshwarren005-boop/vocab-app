@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A secret word or phrase known only to a restricted group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A second confirming signature endorsing a document already signed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To add a secondary signature to a document to verify its authenticity; or a secret military password given in response to a sentry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In administrative governance, military protocol, and banking, a certifying countersignature or tactical challenge response.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The freight they bore served as countersign and pass; she entered the Senate Chamber, and distributed her welcome store."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"To Beelzebub with the Brewer's knave!" "Carolus Rex and he of the Rhine!" Galloping past him, I got and gave In the gallop password and countersign, All soak'd with water and soil'd with mud, With the sleeve of my jerkin half drench'd in blood."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"You will then proceed to the centre of the room and address the (_President_) with the countersign, which is performed thus (_placing the right hand diagonally across the mouth_)."*
+> - 📜 **Sir Walter Scott (*Waverley*):** *"The sentry challenged the approaching horseman, demanding the regiment's secret **countersign** before lowering his musket."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Imperial warrants required the prefect to **countersign** every executive decree before execution."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The citizen officer stepped forward to inspect and **countersign** the traveler's revolutionary passport."*

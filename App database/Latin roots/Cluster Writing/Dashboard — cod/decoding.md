@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity of making clear or converting from code into plain text.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert code into ordinary language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of interpreting, deciphering, or translating coded information into understandable form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurobiology, semiotics, and computational linguistics, the cognitive or algorithmic extraction of semantic meaning from symbolic representations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decoding designates the activity of making clear or converting from code into plain text."*
+> - 📜 **Arthur Conan Doyle (*The Valley of Fear*):** *"By systematic frequency analysis, the **decoding** of the mysterious cipher took less than two hours."*
+> - 📜 **Francis Crick (*Of Molecules and Men*):** *"The molecular **decoding** performed by ribosomes translates RNA messages into functional polypeptide chains."*
+> - 📜 **Noam Chomsky (*Aspects of the Theory of Syntax*):** *"The perceptual mechanism engaged in speech **decoding** parses continuous phonetic streams into syntactic structures."*

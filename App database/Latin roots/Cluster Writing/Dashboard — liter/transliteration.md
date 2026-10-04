@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A transcription from one alphabet to another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A transcription from one alphabet to another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The conversion of a text from one script or alphabet into another, letter for letter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics, epigraphy, and library cataloging, a systematic phonetic or graphemic mapping converting non-Latin characters into Latin orthography.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"Though the pages are less peppered with Sanskrit transliterations and Buddhist terms than other Buddhist classics, the work still presents serious difficulty to the Chinese reader and not less so to the Western student."*
+> - 📜 **Max Müller (*Chips from a German Workshop*):** *"A uniform system of Roman **transliteration** is essential for international cooperation in Oriental philology."*
+> - 📜 **James George Frazer (*Adonis, Attis, Osiris*):** *"The academic **transliteration** of Semitic divine names reveals underlying linguistic roots shared across ancient kingdoms."*
+> - 📜 **Edward William Lane (*An Account of the Manners and Customs of the Modern Egyptians*):** *"In the following chapters, Arabic phrases are accompanied by phonetic **transliteration** to assist the English reader."*

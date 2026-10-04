@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who communicates by signals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who communicates by signals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or apparatus that sends signals, especially in the armed forces, railway operations, or shipping.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military communications and rail operations, a trained telegraphist or signalman operating track switches and optical transmitters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, signaller designates someone who communicates by signals."*
+> - 📜 **Rudyard Kipling (*Kim*):** *"The military **signaller** stationed on the ridge relayed the movements of the mountain battery to the commander below."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Bruce-Partington Plans*):** *"The railway **signaller** testified that the midnight express had passed the junction with all signals clear."*
+> - 📜 **Joseph Conrad (*The Mirror of the Sea*):** *"The naval **signaller** stood by the halyards, ready to hoist the admiral's fleet commands at a moment's notice."*

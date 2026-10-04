@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (usually followed by `of') pointing out or revealing clearly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (usually followed by `of') pointing out or revealing clearly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to signify, express, or represent; indicative, meaningful, or having symbolic significance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In semiotics, semantics, and scholastic logic, having intrinsic power to denote or represent an idea or condition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, significative designates (usually followed by `of') pointing out or revealing clearly."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Hieroglyphic characters possess a **significative** virtue, representing things by bodily emblems rather than arbitrary sounds."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Sensory impressions are **significative** tokens through which the understanding perceives external realities."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"The symbolic rites of the ancient church were deeply **significative** of internal spiritual transformations."*

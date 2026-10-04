@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with traffic signals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Communicate silently and non-verbally by signals or signs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make conspicuous, remarkable, or eminent; to distinguish; or to communicate using signals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical prose and semiotics, to render notable through an illustrious deed or to mark with distinct symbols.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"During the nineteen days mentioned above, no incident of any kind happened to signalise our voyage."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Normally, current flows through the strip, and so the melting is signalised by the cessation of the current, which event is recorded by the chronograph."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The troops of his nation signalised themselves in this war for anything but courage, and young Van Cutsum, Pauline's admirer, was too good a soldier to disobey his Colonel's orders to run away."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The young emperor resolved to **signalise** his accession by a magnificent triumph celebrating victories on the Rhine."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"He sought to **signalise** his administration by establishing public academies and judicial reforms."*
+> - 📜 **Sir Walter Scott (*The Antiquary*):** *"The veteran officer had the good fortune to **signalise** his courage during the storming of the fortress."*

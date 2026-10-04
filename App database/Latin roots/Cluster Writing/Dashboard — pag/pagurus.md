@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the family paguridae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the family paguridae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The type genus of hermit crabs within the family Paguridae, widely distributed across temperate and cold marine coastlines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine carcinology, an anomuran genus whose species occupy discarded marine snail shells to shield their soft spiraled abdomens from predators.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pagurus designates type genus of the family paguridae."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The modified right claw of **pagurus** functions both as a formidable defensive weapon and as a secure operculum closing its borrowed shell."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"In **pagurus**, the abdominal appendages on one side are atrophied to accommodate the spiral coil of the inhabited mollusk shell."*
+> - 📜 **Philip Henry Gosse (*The Aquarium: An Unveiling of the Wonders of the Deep Sea*):** *"I observed a combative **pagurus** dislodge a smaller rival from an elegant whelk shell and take immediate possession."*

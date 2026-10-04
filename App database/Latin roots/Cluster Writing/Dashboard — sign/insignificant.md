@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not worthy of notice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Signifying nothing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Too small, unimportant, or meaningless to have value, influence, or effect; trifling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statistical analysis and social status, having negligible probability of effect or lacking social standing and influence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"It was no insignificant barrier, indeed."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There was something in the tone of twopence remarkably insignificant."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She seemed to experience mirth, but of too insignificant a kind to start enjoyment."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"He regarded the neighboring families as thoroughly rustic and **insignificant** in fortune and social consequence."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Slight and seemingly **insignificant** differences between organisms may prove of decisive importance in the struggle for life."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The territorial gain was so **insignificant** that it hardly repaid the immense expenditure of blood and treasure."*

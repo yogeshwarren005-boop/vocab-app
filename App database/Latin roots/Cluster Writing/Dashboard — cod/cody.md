@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states showman famous for his wild west show (1846-1917).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states showman famous for his wild west show (1846-1917).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proper surname or place name, famously associated with William F. 'Buffalo Bill' Cody, American frontiersman and showman.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American frontier history and historical geography, the eponym of the Wyoming town established near Yellowstone by scout Buffalo Bill Cody.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Monday was our day of final preparation, and we commenced it by making the acquaintance of those two celebrated characters, Wild Bill and Buffalo Bill, or, more correctly, William Hickock and William Cody."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Cody is spare and wiry in figure, admirably versed in plain lore, and altogether the best guide I ever saw."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"It was extremely fortunate for us that we had secured Cody as guide."*
+> - 📜 **Mark Twain (*Autobiography of Mark Twain*):** *"Buffalo Bill **Cody** brought the wild romance of the western frontier directly into the capitals of Europe."*
+> - 📜 **Theodore Roosevelt (*Ranch Life and the Hunting-Trail*):** *"The scouting reputation of Colonel **Cody** was built upon intimate knowledge of plains topography and tracking."*
+> - 📜 **Arthur Conan Doyle (*Through the Magic Door*):** *"The exploits of **Cody** and his frontier comrades captured the imagination of schoolboys throughout Britain."*

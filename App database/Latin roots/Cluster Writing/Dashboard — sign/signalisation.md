@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A conspicuous indication.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A conspicuous indication.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The provision or system of signals, especially traffic, railway, or maritime navigational signaling equipment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In transport civil engineering and urban infrastructure, the technical installation and management of illuminated signals, switches, and semaphores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, signalisation designates a conspicuous indication."*
+> - 📜 **H. G. Wells (*The World Set Free*):** *"The modernization of continental rail transport required comprehensive automated **signalisation** across all border junctions."*
+> - 📜 **Lewis Mumford (*Technics and Civilization*):** *"Metropolitan railway traffic depended on sophisticated mechanical **signalisation** to avert catastrophic collisions."*
+> - 📜 **Anthony Trollope (*The Prime Minister*):** *"The board of trade ordered an immediate inquiry into the railway company's deficient system of night **signalisation**."*

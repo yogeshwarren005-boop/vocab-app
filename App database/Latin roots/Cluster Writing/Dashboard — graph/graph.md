@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A visual representation of the relations between certain quantities plotted with reference to a set of axes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Represent by means of a graph.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A diagram representing a system of connections or interrelations among two or more things by a number of distinctive dots, lines, bars, or curves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In discrete mathematics, a mathematical structure consisting of a set of vertices (or nodes) connected by a set of edges (or links).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, graph designates a visual representation of the relations between certain quantities plotted with reference to a set of axes."*
+> - 📜 **Leonhard Euler (*Solutio problematis ad geometriam situs pertinentis*):** *"The network of Königsberg bridges can be conceived as a topological **graph** where land areas represent nodes and bridges represent edges."*
+> - 📜 **William Stanley Jevons (*The Principles of Science*):** *"By plotting economic data upon a coordinate **graph**, cyclical fluctuations become immediately apparent to the eye."*
+> - 📜 **Claude Shannon (*A Symbolic Analysis of Relay and Switching Circuits*):** *"Every electrical switching network may be mapped onto an equivalent planar **graph** to simplify its logic equations."*

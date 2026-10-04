@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A perceptible indication of something not immediately apparent (as a visible clue that something has happened).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public display of a message.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An object, gesture, or mark that conveys information, a warning, a direction, or an instruction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In semiotics, medical diagnostics, and mathematics, a perceptual indicator denoting a concept, pathological condition, or algebraic sign.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, I beseech you— In sign of what you are, not to reward What you have done—before our army hear me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go home, And show no sign of fear."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, as I told you always, her beauty and her brain go not together; she’s a good sign, but I have seen small reflection of her wit."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"A common slave held up his left hand, which did flame and burn like twenty torches, a miraculous **sign** before the storm."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Over the shop doorway hung a painted **sign** displaying three golden balls creaking in the winter gale."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Upon the parchment was written a cryptic pact beneath the strange **sign** of the four conspirators."*

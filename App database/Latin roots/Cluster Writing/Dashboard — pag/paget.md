@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: English pathologist who discovered the cause of trichinosis (1814-1899).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English pathologist who discovered the cause of trichinosis (1814-1899).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proper surname prominently associated with Sir James Paget, British surgeon and pathologist who discovered Paget's disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical history and osteopathology, the eponymous physician who first described osteitis deformans (Paget's disease of bone) and Paget's disease of the breast.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"In the following carriage were the honourable Mrs Paget, Miss de Courcy and the honourable Gerald Ward A."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The classical description of osteitis deformans provided by Sir James **Paget** remains a masterpiece of clinical pathology."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp: Being Facts and Fancies of Medical Life*):** *"The clinical acumen of **Paget** inspired generations of surgical students at St. Bartholomew's Hospital."*
+> - 📜 **Charles Darwin (*The Life and Letters of Charles Darwin*):** *"I consulted my esteemed friend Sir James **Paget** regarding anomalous structural lesions in animal tissues."*

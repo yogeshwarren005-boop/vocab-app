@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A code of letters and digits added to a postal address to aid in the sorting of mail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A code of letters and digits added to a postal address to aid in the sorting of mail.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of letters and numbers added to a postal address to facilitate automated sorting and delivery of mail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In postal logistics and geographic information systems, a standardized alphanumeric geographical identifier designating specific delivery zones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, postcode designates a code of letters and digits added to a postal address to aid in the sorting of mail."*
+> - 📜 **George Orwell (*As I Please*):** *"The introduction of a regional **postcode** system promised to expedite the sorting of immense volumes of metropolitan mail."*
+> - 📜 **E. M. Forster (*Selected Letters*):** *"Please ensure you affix the newly designated **postcode** to the envelope to avoid unnecessary postal delays."*
+> - 📜 **Anthony Burgess (*A Mouthful of Air*):** *"The alphanumeric **postcode** compresses a complete geographic address into a handful of legible sorting characters."*

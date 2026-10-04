@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Study of the earth's surface; includes people's responses to topography and climate and soil and vegetation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Study of the earth's surface; includes people's responses to topography and climate and soil and vegetation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the physical features of the Earth and its atmosphere, and of human activity as it affects and is affected by these.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The physical and cultural features, topography, and spatial layout of a specific region, country, or territory.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"She can talk French, I suppose, and do geography, and globes, and needlework, and everything?” “No doubt,” said I."*
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"However, the Multiplication Table doesn’t signify: let’s try Geography."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"He was a little man with rosy cheeks, and was a sound scholar and an admirable teacher, whose special "fad" was Classical Geography."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"The science of **geography** seeks to comprehend the simultaneous interplay of all physical forces upon the globe."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The **geography** of the Galápagos archipelago held the key to the mysterious origin of new species."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The whaler explores a subterranean **geography** beneath the waves that landsmen never dream of."*

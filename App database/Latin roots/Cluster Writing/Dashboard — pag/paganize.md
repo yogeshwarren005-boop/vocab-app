@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make pagan in character.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make pagan in character.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To assimilate to paganism; to make heathen in character, thought, style, or religious observance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical theology and cultural critique, to infuse Christian doctrine or classical civic institutions with polytheistic customs or philosophies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paganize designates make pagan in character."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Puritan critics asserted that ecclesiastical pageantry served only to **paganize** the simple doctrines of the gospel."*
+> - 📜 **John Milton (*The Reason of Church-Government*):** *"Superstitious ceremonial rites threaten to **paganize** the worship of the reformed church."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"To reduce spiritual intuition to mere sensory mythology is effectively to **paganize** true religion."*

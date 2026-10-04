@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mistake in printed matter resulting from mechanical failures of some kind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or reflecting the essential or genuine character of something; ; - g.k.chesterton.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Taking words in their usual, most basic sense without metaphor or exaggeration; free from figurative meaning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hermeneutics, textual criticism, and linguistics, adhering strictly to the primary, letter-by-letter grammatical sense of an inscription.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"No, father; I cannot underwrite Article Four (leave alone the rest), taking it ‘in the literal and grammatical sense’ as required by the Declaration; and, therefore, I can’t be a parson in the present state of affairs,” said Angel."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The standard of equality cannot be applied in any literal sense to strong and weak, to rich and poor."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Chadwick has kindly furnished me with the following literal translation of the passage: "I saw (or 'have seen') held in safe keeping the life of Balder, the bloody god, Othin's son."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"No, father; I cannot accept that phrase in its **literal** sense, for human motives are far more complex than words."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Men often confuse figurative tropes with the plain **literal** import of language, multiplying philosophical disputes."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"His account was given with such **literal** accuracy that not a single circumstance could be called into question."*

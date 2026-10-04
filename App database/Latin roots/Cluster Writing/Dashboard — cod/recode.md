@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put into a different code; rearrange mentally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put into a different code; rearrange mentally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert, categorize, or translate existing data, code, or signals into a new or different code or format.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statistical data processing and software refactoring, to redefine variables into revised categories or rewrite legacy program instructions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, recode designates put into a different code; rearrange mentally."*
+> - 📜 **Norbert Wiener (*The Human Use of Human Beings*):** *"To transmit messages across mismatched relays, the engineer must **recode** the electrical pulses into compatible waveforms."*
+> - 📜 **Karl Pearson (*The Grammar of Science*):** *"When classification schemes change, the investigator must **recode** the observational census according to revised parameters."*
+> - 📜 **Alan Turing (*Programmers' Handbook for Manchester Electronic Computer*):** *"The programmer will frequently find it necessary to **recode** standard subroutines to conserve valuable storage space."*

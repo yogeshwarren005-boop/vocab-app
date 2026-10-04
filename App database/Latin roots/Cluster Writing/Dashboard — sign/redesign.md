@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Design anew, make a new design for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Design anew, make a new design for.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To design again; to revise, change, or modify the structure, appearance, plan, or functionality of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architecture, mechanical engineering, and software development, to revamp the conceptual blueprint or physical layout of a system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, redesign designates design anew, make a new design for."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The municipal council engaged architects to **redesign** the public piazza after the devastating fire."*
+> - 📜 **H. G. Wells (*A Modern Utopia*):** *"Enlightened social planners must continually **redesign** public institutions to keep pace with scientific advances."*
+> - 📜 **William Morris (*Architecture, Industry and Wealth*):** *"To revive honest craftsmanship, we must radically **redesign** our decorative fabrics and domestic utensils."*

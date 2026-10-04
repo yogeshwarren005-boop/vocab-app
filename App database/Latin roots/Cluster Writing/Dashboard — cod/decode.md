@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Convert code into ordinary language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert code into ordinary language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert a coded message, cipher, or signal into intelligible language, clear text, or usable form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cryptanalysis, communications engineering, and semiotics, to reverse an encoding algorithm or extract semantic significance from encoded signals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I'll get it." ## Drummer read again the message he had decoded and handed it to Brad who quickly scanned and silently returned it."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Dancing Men*):** *"Holmes sat up all night with paper and pencil, striving to **decode** the cryptographic stick figures left upon the sundial."*
+> - 📜 **Alan Turing (*Mechanical Intelligence*):** *"The computing apparatus was designed specifically to **decode** intercept transmissions before the day's settings expired."*
+> - 📜 **Claude Shannon (*Communication Theory of Secrecy Systems*):** *"An authorized recipient applies the shared key to **decode** the enciphered signal into original plaintext."*

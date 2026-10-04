@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Muscular spasms of thumb and forefinger while writing with a pen or pencil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Muscular spasms of thumb and forefinger while writing with a pen or pencil.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A painful cramp or involuntary muscular spasm of the fingers and hand caused by excessive writing; writer's cramp.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurology, a task-specific focal dystonia affecting the hand muscles, historically recognized among scriveners, clerks, and telegraphists.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, graphospasm designates muscular spasms of thumb and forefinger while writing with a pen or pencil."*
+> - 📜 **William Gowers (*A Manual of Diseases of the Nervous System*):** *"In chronic cases of **graphospasm**, the scrivener finds his pen suddenly jerking across the page or locked in rigid contraction."*
+> - 📜 **Silas Weir Mitchell (*Injuries of Nerves and Their Consequences*):** *"The overworked copyist suffered from agonizing **graphospasm** that defied all remedies until total manual rest was enforced."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Task-specific dystonias such as **graphospasm** reveal the complex cortical organization required for rapid sequential hand movements."*

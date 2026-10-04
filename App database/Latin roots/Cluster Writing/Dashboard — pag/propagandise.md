@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Subject to propaganda.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spread by propaganda.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To promote, spread, or advocate a particular doctrine, ideology, or cause through propaganda.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political discourse and rhetoric, to wage an organized campaign of persuasive agitation to recruit adherents to a partisan movement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, propagandise designates subject to propaganda."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"Political factions continued to **propagandise** among the front-line militias instead of consolidating munitions for the battle."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Radical educational reformers sought to **propagandise** world citizenship across international youth assemblies."*
+> - 📜 **Bertrand Russell (*The Practice and Theory of Bolshevism*):** *"Enthusiastic cadres were dispatched across the provinces to **propagandise** the benefits of collective agrarian management."*

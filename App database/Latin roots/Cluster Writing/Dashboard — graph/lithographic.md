@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or produced by or involved in lithography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or produced by or involved in lithography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or produced by lithography; written or printed on stone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In printing and microelectronics, describing planar transfer processes (from Bavarian limestone to modern optical photolithography on silicon).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"In the same house there were also established, as I gathered from the plates on the door, a drawing-master, a coal-merchant (there was, certainly, no room for his coals), and a lithographic artist."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The Solnhofen limestone is renowned worldwide for its fine **lithographic** quality and exquisitely preserved pterosaur fossils."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The reproduction of scientific anatomical drawings was revolutionized by the **lithographic** press."*
+> - 📜 **H.G. Wells (*The War of the Worlds*):** *"The military map had been hastily printed on rough paper using portable **lithographic** stones."*

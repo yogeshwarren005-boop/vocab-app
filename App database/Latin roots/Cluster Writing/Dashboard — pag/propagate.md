@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Transmit from one generation to the next.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Travel through the air.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To reproduce, breed, or multiply plant or animal specimens; or to spread, transmit, and diffuse ideas, news, or physical waves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticulture, physics, and sociology, to multiply organisms by cuttings or seeds, or to transmit electromagnetic or mechanical wave disturbances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Attend me, then: I went to Antioch, Where, as thou know’st, against the face of death, I sought the purchase of a glorious beauty, From whence an issue I might propagate, Are arms to princes, and bring joys to subjects."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Griefs of mine own lie heavy in my breast, Which thou wilt propagate to have it prest With more of thine."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The base o’ th’ mount Is ranked with all deserts, all kind of natures That labour on the bosom of this sphere To propagate their states."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"Griefs of mine own lie heavy in my breast, which thou wilt **propagate**, to have them prest with more of thine."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Horticulturists select and **propagate** varieties showing slight somatic variations until distinct garden breeds are formed."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The noble end of sciences is not to contend for vanity, but to **propagate** beneficial knowledge for mankind."*

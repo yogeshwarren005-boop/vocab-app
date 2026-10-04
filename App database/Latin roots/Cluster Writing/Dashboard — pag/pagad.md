@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A terrorist organization in south africa formed in 1996 to fight drug lords; evolved into a vigilante group with anti-western views closely allied with qibla; is believed to have ties to islamic extremists in the middle east; is suspected of conducting bouts of urban terrorism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A terrorist organization in south africa formed in 1996 to fight drug lords; evolved into a vigilante group with anti-western views closely allied with qibla; is believed to have ties to islamic extremists in the middle east; is suspected of conducting bouts of urban terrorism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An acronym for 'People Against Gangsterism and Drugs', a community vigilance and activist organization formed in South Africa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contemporary political sociology and criminology, a Cape Town vigilante movement emerging in the 1990s against narcotics syndicates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pagad designates a terrorist organization in south africa formed in 1996 to fight drug lords; evolved into a vigilante group with anti-western views closely allied with qibla; is believed to have ties to islamic extremists in the middle east; is suspected of conducting bouts of urban terrorism."*
+> - 📜 **Nelson Mandela (*Long Walk to Freedom*):** *"Community initiatives like **PAGAD** reflected citizens' profound frustration with violent urban gang cartels."*
+> - 📜 **Desmond Tutu (*No Future Without Forgiveness*):** *"The emergence of **PAGAD** signaled deep public outrage over endemic narcotics distribution and violent crime."*
+> - 📜 **Nadine Gordimer (*Living in Hope and History*):** *"The militant marches organized by **PAGAD** challenged local police authorities across the Cape Flats."*

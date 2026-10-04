@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Convert information into code.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert information into code.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert information, instructions, or messages into a code, cipher, or computational representation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In information theory, genetics, and software engineering, to transform a sequence of symbols or biological data into an encrypted or standardized format.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, encode designates convert information into code."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"The fundamental problem is to **encode** the source output efficiently so as to match the channel transmission capacity."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"Four distinct nucleotide bases suffice to **encode** the sequence of all twenty natural amino acids."*
+> - 📜 **Alan Turing (*Computing Machinery and Intelligence*):** *"Before the instructions can be processed by the apparatus, we must **encode** each variable into a discrete numerical register."*

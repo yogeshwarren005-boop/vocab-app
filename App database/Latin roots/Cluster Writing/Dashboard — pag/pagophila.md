@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of laridae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of laridae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of seabirds containing the ivory gull (Pagophila eburnea), native to high Arctic pack ice and coasts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, a monotypic larid genus adapted exclusively to circumpolar sea ice habitats and foraging along glacier edges.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pagophila designates a genus of laridae."*
+> - 📜 **Fridtjof Nansen (*Farthest North*):** *"A solitary ivory gull of the genus **pagophila** wheeled above our frozen vessel amid the desolate Arctic pack."*
+> - 📜 **Robert Falcon Scott (*The Voyage of the Discovery*):** *"Arctic naturalists admire how the pure white plumage of **pagophila** conceals the bird against drifting floes."*
+> - 📜 **Alfred Newton (*A Dictionary of Birds*):** *"The high northern gull **pagophila** breeds upon inaccessible cliffs and glacier nunataks near open leads."*

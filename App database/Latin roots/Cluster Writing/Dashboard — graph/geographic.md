@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the science of geography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Determined by geography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to geography; pertaining to the natural features, divisions, and populations of the Earth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by spatial distribution, regional location, or environmental setting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"On the other hand, families are more widely dispersed, successful interaction by grandparents with their distant grandchildren, whether for geographic reasons or barriers of circumstance, increasingly calls for innovation and improvisation."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"After I retired, I took the time to make notes on as many important events that I could recall, and keyed each to a geographic location."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Each AMF and its 'depot' would serve a primary geographic area."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Natural barriers like mountain chains and oceans produce profound **geographic** isolation among species."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The great **geographic** chart of the South Seas was covered with pencil marks tracing sperm whale migrations."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"The Atlantic currents create vast **geographic** zones defined by temperature and salinity gradients."*

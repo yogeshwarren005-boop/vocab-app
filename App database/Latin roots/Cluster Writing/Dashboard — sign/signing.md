@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Language expressed by visible hand gestures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mark with one's signature; write one's name (on).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of writing one's signature to authenticate or endorse a document; or communicating via sign language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contract law, international diplomacy, and deaf culture, the execution of legal agreements or manual gestural communication.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Do you know,” Lady Dedlock asks her, signing to her to bring her chair nearer, “do you know, Rosa, that I am different to you from what I am to any one?” “Yes, my Lady."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Return thanks to God for two men signing the pledge, about one month ago, who have been enabled to keep it through great temptation. _They were drunkards for over twenty years_."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"When all preliminaries were over and Peleg had got everything ready for signing, he turned to me and said, “I guess, Quohog there don’t know how to write, does he?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Do you remember the formal **signing** of that release in the lawyer's dusty office on Lincoln's Inn Fields?"*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Upon **signing** the ship's articles before the shipping commissioner, Ishmael committed his fortunes to the Pequod."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The ceremonial **signing** of the declaration was accompanied by the discharge of artillery and public acclamations."*

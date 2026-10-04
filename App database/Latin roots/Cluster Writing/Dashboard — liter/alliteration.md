@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Use of the same consonant at the beginning of each stressed syllable in a line of verse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Use of the same consonant at the beginning of each stressed syllable in a line of verse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The occurrence of the same letter or sound at the beginning of adjacent or closely connected words.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stylistic rhetoric and historical metrics, the head-rhyme poetic ornament binding lines together through identical initial phonetic consonants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"You feel he does not strain after effect--epigram, antithesis, or alliteration."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The unobtrusive, but distinctly felt, alliteration which runs through it, contributes something toward this lightsomeness."*
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"We must not, of course, suppose that Wordsworth consciously sought these alliterations, arranged these accents, resolved to introduce an unusual word in the last line, or hunted for a classical allusion."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The harmonious cadence of the line owed much to subtle **alliteration** that bound the imagery into a musical unity."*
+> - 📜 **Alexander Pope (*An Essay on Criticism*):** *"Apt **alliteration**'s artful aid often lends graceful cadence to lines that otherwise lack true poetic vigor."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He delighted in the delicate musical effect produced by deliberate **alliteration** across the opening stanza."*

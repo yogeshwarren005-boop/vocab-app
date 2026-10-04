@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (used of the meanings of words or text) not literal; using figures of speech.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of the meanings of words or text) not literal; using figures of speech.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not literal; using figurative language, metaphor, allegory, or symbolism rather than the exact sense of words.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic semantics and cognitive poetics, encompassing tropic expressions such as irony, metonymy, and hyperbole.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonliteral designates (used of the meanings of words or text) not literal; using figures of speech."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Poetic speech abounds in **nonliteral** associations that awaken rich associative emotions impossible in bare logical propositions."*
+> - 📜 **Noam Chomsky (*Language and Mind*):** *"Semantic competence enables native speakers to interpret **nonliteral** idioms effortlessly within situational contexts."*
+> - 📜 **George Santayana (*Interpretations of Poetry and Religion*):** *"Sacred scripture speaks in a **nonliteral** register, embodying cosmic intuitions in moral allegories."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who can read and write.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to read and write.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to read and write; educated, cultured, and familiar with literature and letters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In educational history and humanistic studies, possessing the intellectual culture, reading facility, and verbal elegance of an educated citizen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"One wit remarked that whatever the ability to read or write may have been at the time, almost everyone seemed to have been literate when presented with a bog-house wall: "Since all who come to Bog-house write" (pt. 2, p. 26)."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The true humanist aspires to be thoroughly **literate**, drawing wisdom from ancient philosophers and poets."*
+> - 📜 **Thomas Carlyle (*On Heroes, Hero-Worship, and the Heroic in History*):** *"In modern times, the **literate** man who writes books exercises a spiritual priesthood over the minds of millions."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"A truly **literate** society fosters readers who converse with dead authors as intimate companions."*

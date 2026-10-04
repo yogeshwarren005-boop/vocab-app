@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Golden shiners.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Golden shiners.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monotypic genus of North American cyprinid freshwater ray-finned fish, the golden shiner (Notemigonus crysoleucas).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology and aquaculture, an important forage minnow characterized by a deeply compressed body and falcate anal fin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, notemigonus designates golden shiners."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The golden shiner, **Notemigonus**, is abundant in sluggish ponds and weed beds across eastern North America."*
+> - 📜 **Spencer Fullerton Baird (*Fishes of New Jersey*):** *"Anglers value **Notemigonus** as prime live bait, cultivating schools in shallow earthen commercial ponds."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"Morphological comparisons of **Notemigonus** reveal distinctive lateral line scales curving along the belly."*

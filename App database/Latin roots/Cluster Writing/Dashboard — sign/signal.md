@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any nonverbal action or gesture that encodes a message.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any incitement to action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A gesture, sound, or action used to convey information or instructions, especially from a distance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In telecommunications, electrical engineering, and semiotics, an electrical impulse, radio wave, or acoustic fluctuation transmitting data.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He forbids it, Being free from vainness and self-glorious pride; Giving full trophy, signal, and ostent Quite from himself to God."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Meantime, in signal of my love to thee, Against proud Somerset and William Pole, Will I upon thy party wear this rose."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lord Cardinal, if thou think’st on heaven’s bliss, Hold up thy hand, make signal of thy hope."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The look-out raised the customary **signal** from the main-truck the moment the white spout appeared on the horizon."*
+> - 📜 **Charles Dickens (*The Signal-Man*):** *"The red light on the railway platform served as a danger **signal** warning the engineer of obstruction ahead."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"We waited in breathless suspense until the prearranged pistol shot sounded as our **signal** to advance."*

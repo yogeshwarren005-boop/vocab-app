@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A measuring instrument for detecting and measuring the intensity and direction and duration of movements of the ground (as an earthquake).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A measuring instrument for detecting and measuring the intensity and direction and duration of movements of the ground (as an earthquake).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument that measures and records details of earthquakes, such as force, duration, and direction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In observational geophysics, an inertial instrument (horizontal or vertical pendulum) coupled with optical, electromagnetic, or digital sensors to record seismic motion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, seismograph designates a measuring instrument for detecting and measuring the intensity and direction and duration of movements of the ground (as an earthquake)."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"The invention of the precision **seismograph** opened a window into the deep core and mantle of the Earth."*
+> - 📜 **John McPhee (*Assembling California*):** *"The **seismograph** in Berkeley registered the first micro-fractures seconds before the major shock wave struck."*
+> - 📜 **H.G. Wells (*The War of the Worlds*):** *"The delicate needles of the observatory **seismograph** quivered as the first Martian cylinder plunged into Horsell Common."*

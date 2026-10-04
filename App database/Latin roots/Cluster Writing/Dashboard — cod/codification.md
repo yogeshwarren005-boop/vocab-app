@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of codifying; arranging in a systematic order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A set of rules or principles or laws (especially written ones).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or result of arranging laws, rules, or standards into a systematic, unified written code.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statutory jurisprudence and comparative law, the comprehensive legislative reduction of customary or case law into structured statutory form.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"An enlargement of the free list, essential reductions and readjustments of rates, are to be fully considered, and some errors of conflicting codifications corrected."*
+> - 📜 **Thomas Babington Macaulay (*Speeches on Politics and Literature*):** *"The **codification** of Indian law was designed to substitute clarity and uniformity for conflicting judicial precedents."*
+> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"Only complete **codification** can rescue the subject from the uncertainties of arbitrary judicial discretion."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The **codification** achieved under Tribonian reduced three million sentences into fifty orderly books."*

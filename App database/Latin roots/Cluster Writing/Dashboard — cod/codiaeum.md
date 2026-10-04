@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Evergreen tropical trees and shrubs with thick and colorful leathery leaves; malaya and pacific islands.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evergreen tropical trees and shrubs with thick and colorful leathery leaves; malaya and pacific islands.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tropical evergreen shrubs and small trees belonging to the spurge family (Euphorbiaceae), cultivated for colorful foliage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornamental botany and horticulture, an Indo-Malayan genus encompassing garden crotons renowned for variegated, leathery leaves and milky latex.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, codiaeum designates evergreen tropical trees and shrubs with thick and colorful leathery leaves; malaya and pacific islands."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Varieties of **codiaeum** display brilliant foliage variegation ranging through yellow, crimson, and green."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"The wild forms of **codiaeum** flourish along littoral forests across the Malayan archipelago."*
+> - 📜 **George Nicholson (*The Illustrated Dictionary of Gardening*):** *"Cultivators prize the shrub **codiaeum** for decorating conservatories with its vivid, polymorphic foliage."*

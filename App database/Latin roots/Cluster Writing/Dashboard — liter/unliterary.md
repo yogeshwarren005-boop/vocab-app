@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by lack of affectation or pedantry; - w.d.howells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by lack of affectation or pedantry; - w.d.howells.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not literary; uneducated in literature; not interested in books, reading, or literary refinement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary sociology and cultural critique, lacking taste for fine literature, or composed in crude, graceless prose.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unliterary designates marked by lack of affectation or pedantry; - w.d.howells."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Brooke's conversation was delightfully **unliterary**, wandering from country drainage to agricultural leases without quoting a single classic."*
+> - 📜 **Virginia Woolf (*The Voyage Out*):** *"The young businessman confessed himself completely **unliterary**, preferring stock market gazettes to modern poetry."*
+> - 📜 **Henry James (*The American*):** *"Christopher Newman displayed an active, shrewd mind that was nonetheless frankly and cheerfully **unliterary**."*

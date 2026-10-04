@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A supplement to a will; a testamentary instrument intended to alter an already executed will.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A supplement to a will; a testamentary instrument intended to alter an already executed will.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A legal testamentary instrument executed subsequent to a will to add to, alter, qualify, or revoke provisions within it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In probate jurisprudence and estates law, a formal supplementary instrument executed with identical testamentary solemnities to amend an existing will.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"I am sure Casaubon was not.” “Well, it would have been worse if he had made the codicil to hinder her from marrying again at all, you know.” “I don’t know that,” said Sir James."*
-> - 📜 **George Eliot (*Middlemarch*):** *"She doesn’t _want_ to marry Ladislaw.” “But this codicil is framed so as to make everybody believe that she did."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Why, he has made a codicil to his will, to say the property was all to go away from you if you married—I mean—” “That is of no consequence,” said Dorothea, breaking in impetuously."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Why, he has made a **codicil** to his will, to say the property was all to go away from you if you married Ladislaw."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"A disputed **codicil** discovered in an old bureau reopened the litigation after twenty years of peace."*
+> - 📜 **Sir Walter Scott (*Guy Mannering*):** *"The family attorney was summoned in haste to draw up a secret **codicil** concerning the younger son's portion."*

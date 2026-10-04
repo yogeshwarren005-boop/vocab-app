@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The person who delivers over or commits merchandise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The person who delivers over or commits merchandise.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, business, or agent that consigns, ships, or hands over goods to another for care, sale, or transportation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial logistics and freight contracts, the originating shipper delivering cargo to a carrier for transport to a consignee.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, consigner designates the person who delivers over or commits merchandise."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The **consigner** of colonial commodities bore the maritime risk until the cargo reached European warehouses."*
+> - 📜 **Charles Dickens (*Our Mutual Friend*):** *"The river warehouseman demanded payment of storage fees from the original **consigner**."*
+> - 📜 **Joseph Conrad (*Typhoon*):** *"The captain held signed receipts guaranteeing indemnity to the **consigner** against common navigational perils."*

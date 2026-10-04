@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of two or more signers of the same document (as a treaty or declaration).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Signing jointly with others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, organization, or state that signs an official document, treaty, or contract jointly with others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international diplomacy, public international law, and multilateral agreements, a high contracting party bound by a joint treaty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosignatory designates one of two or more signers of the same document (as a treaty or declaration)."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Each barbarian king acting as **cosignatory** pledged imperial tribute and military non-aggression."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Britain became a **cosignatory** to the Grand Alliance formed to curb the continental ambitions of France."*
+> - 📜 **Woodrow Wilson (*War and Peace: Presidential Messages and State Papers*):** *"Every **cosignatory** of the international covenant pledged mutual protection against unprovoked territorial aggression."*

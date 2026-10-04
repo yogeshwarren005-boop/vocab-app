@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who communicates by signals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who communicates by signals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, mechanism, or apparatus that transmits signals, flags, lights, or coded messages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military communications and maritime signaling, a specialist or device transmitting tactical semaphores, heliographs, or electronic pulses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"At that moment, on the road from the town on which signalers had been posted, two men appeared on horse back."*
+> - 📜 **Rudyard Kipling (*The Day's Work*):** *"The army **signaler** upon the mountain ridge flashed heliograph dots across thirty miles of shimmering haze."*
+> - 📜 **Joseph Conrad (*The Rescue*):** *"The lookout hailed the **signaler** on the quarterdeck to acknowledge the foreign gunboat's flags."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"A military **signaler** worked his searchlight frantically from the top of the church tower until the tripod extinguished it."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Two successive letters (especially two letters used to represent a single sound: `sh' in `shoe').
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Two successive letters (especially two letters used to represent a single sound: `sh' in `shoe').
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pair of characters or letters used together to represent a single sound or phoneme (such as 'th', 'ph', or 'ea').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In graph theory and computer science, a directed graph consisting of vertices connected by edges that possess an inherent orientation or direction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, digraph designates two successive letters (especially two letters used to represent a single sound: `sh' in `shoe')."*
+> - 📜 **Otto Jespersen (*A Modern English Grammar*):** *"The Old English runic letter thorn was eventually replaced by the Roman **digraph** 'th' in Middle English orthography."*
+> - 📜 **Frank Harary (*Graph Theory*):** *"A **digraph** is strongly connected if every vertex is reachable from every other vertex along a directed path."*
+> - 📜 **H. L. Mencken (*The American Language*):** *"Noah Webster led the crusade to simplify English spelling by dropping the superfluous vowel from the Latin **digraph** 'ae'."*

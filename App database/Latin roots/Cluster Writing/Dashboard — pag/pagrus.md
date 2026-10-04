@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of sparidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of sparidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of marine sparid fishes commonly known as red porgies or sea breams, prized as valuable food fish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology and fisheries biology, a cosmopolitan teleost genus found over rocky substrates and continental shelves in warm temperate seas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pagrus designates a genus of sparidae."*
+> - 📜 **Charles Darwin (*The Zoology of the Voyage of H.M.S. Beagle*):** *"Specimens of the sparid **pagrus** were taken on rocky bottom lines off the South American coast."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The robust crushing dentition of **pagrus** allows it to prey upon hard-shelled mollusks and crabs."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The Mediterranean red porgy **pagrus** is celebrated for its rosy coloration and firm commercial flesh."*

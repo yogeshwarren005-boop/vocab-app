@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with traffic signals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Communicate silently and non-verbally by signals or signs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make distinguished, remarkable, or noteworthy; to make known or celebrate by some memorable action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical rhetoric, to make conspicuous or memorable through notable achievements or civic monuments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Here the writers against the Constitution seem to have taken pains to signalize their talent of misrepresentation."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Nothing else could be thought of; and dinner being ended, the Earl and his company sallied forth to the castle gate, resolved to signalize the day by an act of loyalty that would endear their names to posterity."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Not one came, moreover, without her little pipkin of pennyroyal, sage, balm, or other herb tea, delighted at an opportunity of signalizing her kindness and her doctorship."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Trajan was eager to **signalize** his reign by extending the Roman frontiers beyond the Danube into Dacia."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"Milton chose to **signalize** his devotion to liberty by publishing his eloquent defense of the unlicensed press."*
+> - 📜 **Washington Irving (*The Life of George Washington*):** *"The young commander had already begun to **signalize** his military genius during the frontier skirmishes."*

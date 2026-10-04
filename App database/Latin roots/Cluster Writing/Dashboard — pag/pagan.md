@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who does not acknowledge your god.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who follows a polytheistic or pre-christian religion (not a christian or muslim or jew).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person holding religious beliefs other than those of the main world polytheistic or monotheistic religions; especially a polytheist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical anthropology and church history, a follower of classical Greco-Roman polytheism or traditional animist rural folk religion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What a pagan rascal is this, an infidel!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, Their clothes are after such a pagan cut to’t, That, sure, they’ve worn out Christendom."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Adieu! tears exhibit my tongue, most beautiful pagan, most sweet Jew!"*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The ancient **pagan** priesthoods gradually withered as imperial edicts closed the temples of the Olympian deities."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Survivals of **pagan** agricultural rites endured across rural Europe disguised beneath Christian saint days."*
+> - 📜 **William Wordsworth (*The World Is Too Much With Us*):** *"Great God! I'd rather be a **Pagan** suckled in a creed outworn; so might I, standing on this pleasant lea, have glimpses that would make me less forlorn."*

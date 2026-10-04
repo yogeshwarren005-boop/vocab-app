@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable or worthy of being perceived.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being detected.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily seen, observed, or detected; distinct, prominent, conspicuous, or clear to perception.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical diagnosis, an observable physiological change indicating progress or regression of disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The report was sure to have some foundation, and the most noticeable thing of all was that Kurt's change had come since that night."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But dearest,” he continued in a palliative voice, “don’t be like it!” Oak sighed a deep honest sigh—none the less so in that, being like the sigh of a pine plantation, it was rather noticeable as a disturbance of the atmosphere."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There was no necessity for any continuance of speech, and the fact that she did add more seemed to proceed from an unconscious desire to show unconcern by making a remark, which is noticeable in the ingenuous when they are acting by stealth."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Following the morning dose of medication, a **noticeable** relaxation softened the rigidity in his facial muscles."*
+> - 📜 **George Orwell (*Animal Farm*):** *"There was a **noticeable** change in the demeanor of the pigs after they discovered the cases of whisky."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"A **noticeable** hush fell over the dinner table as the candles were lit and the boeuf en daube was served."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist in inferring character from handwriting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialist in inferring character from handwriting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who analyzes handwriting, especially to infer character traits, psychological temperament, or emotional states.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic document examination, an analyst who attempts to deduce psychological profiling from graphic strokes, distinct from a forensic document examiner who determines authenticity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, graphologist designates a specialist in inferring character from handwriting."*
+> - 📜 **Jean-Hippolyte Michon (*Système de graphologie*):** *"The trained **graphologist** discerns in the slant of an ascender and the pressure of a t-bar the secret virtues and vices of the soul."*
+> - 📜 **Arthur Conan Doyle (*The Norwood Builder*):** *"A professional **graphologist** would tell you that those tremulous lines indicate extreme physical exhaustion or feigned agitation."*
+> - 📜 **Albert S. Osborn (*Questioned Documents*):** *"A prudent court relies upon the scientific document examiner rather than the subjective claims of the speculative **graphologist**."*

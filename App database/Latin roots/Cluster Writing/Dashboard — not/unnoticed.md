@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not noticed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not noticed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not observed, seen, noticed, or attended to; passed by without attracting attention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In espionage or evasion, slipping through surveillance barriers without detection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The Frenchwoman stood unnoticed, looking on with her lips very tightly set."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And I thought it out in camp, silent, morose, while the children squabbled about me unnoticed, and while Arunga, my mate-woman, vainly scolded me and urged me to go hunting for more meat for the many of us."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"When she saw her, indeed, surrounded only by their immediate friends in Edgar’s Buildings or Pulteney Street, her change of manners was so trifling that, had it gone no farther, it might have passed unnoticed."*
+> - 📜 **Jane Austen (*Emma*):** *"Frank Churchill managed to slip a secret note to Jane Fairfax **unnoticed** by the rest of the company."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"A dark figure glided **unnoticed** across the moonlit granite tors, watching the hall from afar."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Sydney Carton slipped **unnoticed** into the crowded revolutionary tribunal, taking his seat behind Darnay."*

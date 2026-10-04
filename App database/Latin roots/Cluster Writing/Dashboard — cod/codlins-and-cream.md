@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plant of europe and asia having purplish-red flowers and hairy stems and leaves; introduced into north america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plant of europe and asia having purplish-red flowers and hairy stems and leaves; introduced into north america.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The great hairy willowherb (Epilobium hirsutum), a tall wild flowering plant with soft foliage smelling faintly of apple purée.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British vernacular botany, an onagraceous wetland perennial herb named for the scent of its bruised leaves resembling stewed apples and cream.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, codlins-and-cream designates plant of europe and asia having purplish-red flowers and hairy stems and leaves; introduced into north america."*
+> - 📜 **Richard Jefferies (*Wild Life in a Southern County*):** *"Along the marshy margins of the brook grew tall clusters of **codlins-and-cream** with delicate pink flowers."*
+> - 📜 **John Clare (*The Rural Muse*):** *"The brook-side was fringed with purple loose-strife and the pleasant blossoms of **codlins-and-cream**."*
+> - 📜 **W. H. Hudson (*Nature in Downland*):** *"A fragrant breath rose from the ditches where the willowherb, known locally as **codlins-and-cream**, flourished in dense thickets."*

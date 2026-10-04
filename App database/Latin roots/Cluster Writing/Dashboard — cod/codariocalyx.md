@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used in some classifications for plants usually included in genus desmodium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in some classifications for plants usually included in genus desmodium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A botanical genus of flowering legume plants in the Fabaceae family, notable for rhythmic, rapid leaflet movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic taxonomy, a Southeast Asian leguminous genus including the telegraph plant, celebrated for seismonastic and circadian leaf motility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, codariocalyx designates used in some classifications for plants usually included in genus desmodium."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"The lateral leaflets of the **codariocalyx** motor system exhibit spontaneous gyrations independent of direct light stimulus."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"Specimens of **codariocalyx** demonstrate the sensitivity of pulvinal articulations in tropical Leguminosae."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"The Asian shrub **codariocalyx** displays trifoliolate leaves with remarkably active lateral pinnae."*

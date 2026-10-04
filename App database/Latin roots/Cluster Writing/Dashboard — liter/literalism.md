@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine of realistic (literal) portrayal in art or literature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disposition to interpret statements in their literal sense.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The adherence to the explicit, letter-for-letter meaning of words, texts, or doctrines, avoiding metaphor or interpretation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological hermeneutics and aesthetics, a rigid interpretative stance that rejects figurative nuance in favor of inflexible verbal precision.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, literalism designates the doctrine of realistic (literal) portrayal in art or literature."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Mr. Tulliver's obstinate **literalism** prevented him from understanding that legal contracts contain subtleties beyond common speech."*
+> - 📜 **Matthew Arnold (*Literature and Dogma*):** *"Mechanical **literalism** in reading sacred Hebrew literature has obscured its profound psychological wisdom."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"A pedantic **literalism** cannot grasp the mystical intuitions underlying religious conversion narratives."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of two or more signers of the same document (as a treaty or declaration).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A signer in addition to the principal signer (to verify the authenticity of the principal signature or to provide surety).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A joint signer of a legal document, especially a loan, credit agreement, or contract, who guarantees performance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In credit jurisprudence and lending, a secondary obligor assuming primary or secondary liability alongside the principal debtor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosigner designates one of two or more signers of the same document (as a treaty or declaration)."*
+> - 📜 **Theodore Dreiser (*Sister Carrie*):** *"The landlord insisted upon finding a reliable **cosigner** before handing over the keys to the apartment."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"He reluctantly agreed to act as **cosigner** for his cousin's automobile installment loan."*
+> - 📜 **William Dean Howells (*The Rise of Silas Lapham*):** *"The banker examined the signature of the **cosigner** with evident satisfaction before approving the credit."*

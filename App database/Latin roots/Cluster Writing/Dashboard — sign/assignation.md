@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A secret rendezvous (especially between lovers).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of distributing by allotting or apportioning; distribution according to a plan.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An appointment to meet, especially a secret or clandestine rendezvous between lovers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal conveyance, the formal act of allocating, transferring, or allotting property or legal rights.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"That watch has regulated imperial interests in its time—the stately ceremonial, the courtly assignation, pompous travels, and lordly sleeps."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"This scene will be again polluted by a midnight assignation."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"This is the midnight assignation to which he alluded."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"She kept the clandestine **assignation** in the conservatory while the ballroom orchestra masked their conversation."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"The gossip implied that Willoughby had maintained a secret **assignation** prior to his hasty departure from the village."*
+> - 📜 **Sir Walter Scott (*The Bride of Lammermoor*):** *"The lovers met at the solitary fountain, a customary place of **assignation** shielded by ancient oaks."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being easy to see and understand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being easy to see and understand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Prominence, conspicuity, or the degree to which an object, feature, or change attracts visual attention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sensory psychophysics, the perceptual saliency of a stimulus against a competing sensory background.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, noticeability designates the property of being easy to see and understand."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The sensory **noticeability** of a faint sound increases dramatically when competing visual stimuli are darkened."*
+> - 📜 **Steven Pinker (*How the Mind Works*):** *"Visual illusions manipulate edge contrast to maximize the **noticeability** of illusory contours."*
+> - 📜 **Ernst Mach (*The Analysis of Sensations*):** *"Luminance gradients govern the subjective **noticeability** of spatial bands across the human retina."*

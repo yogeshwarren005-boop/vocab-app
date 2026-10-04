@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Letter for letter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Letter for letter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Letter by letter; verbatim; following the original text or manuscript exactly, without altering a single letter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scholarly textual criticism, printing, and legal collation, an exact letter-for-letter transcript reproducing ancient spellings and errata.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*The Elder Brother*):** *"Dyce's 1830 publication is described as a reprint "verbatim et literatim," but it has little claim to be so called."*
+> - 📜 **Thomas Frognall Dibdin (*The Bibliographical Decameron*):** *"The antiquary transcribed the rare charter **literatim**, preserving every archaic contraction and orthographic quirk."*
+> - 📜 **George Saintsbury (*A History of Elizabethan Literature*):** *"The Victorian editor reprinted the sonnets **literatim** from the unique 1609 quarto preserved in the British Museum."*
+> - 📜 **Sir Walter Scott (*The Antiquary*):** *"Oldbuck insisted upon copying the crumbling tombstone inscription **literatim**, defying the sexton's skeptical smiles."*

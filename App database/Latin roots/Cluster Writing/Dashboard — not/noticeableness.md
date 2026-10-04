@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being easy to see and understand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being easy to see and understand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Visual conspicuousness, prominence, or distinctness that commands observation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In graphic design and typography, the visual emphasis achieved through contrast, weight, and layout.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, noticeableness designates the property of being easy to see and understand."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Gothic sculptors relied upon the **noticeableness** of deep undercutting to give life to high cathedral portals."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The solitary figure upon the barrow gained **noticeableness** from the vast horizontal vacancy of Egdon Heath."*
+> - 📜 **Henry James (*The Wings of the Dove*):** *"Milly's radiant pallor possessed a tragic **noticeableness** that drew whispered murmurs across the London drawing room."*

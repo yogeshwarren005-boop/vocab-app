@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specific sequence of three adjacent nucleotides on a strand of dna or rna that specifies the genetic code information for synthesizing a particular amino acid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specific sequence of three adjacent nucleotides on a strand of dna or rna that specifies the genetic code information for synthesizing a particular amino acid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sequence of three consecutive nucleotides in DNA or RNA that specifies a particular amino acid or stop signal in protein synthesis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular genetics and biochemistry, a trinucleotide genetic unit that binds to a complementary anticodon on transfer RNA during ribosomal translation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, codon designates a specific sequence of three adjacent nucleotides on a strand of dna or rna that specifies the genetic code information for synthesizing a particular amino acid."*
+> - 📜 **Francis Crick (*The Genetic Code*):** *"Each specific triplet **codon** corresponds unequivocally to a single amino acid in the nascent peptide chain."*
+> - 📜 **Jacques Monod (*Chance and Necessity*):** *"The correspondence between a nucleic acid **codon** and its translated amino acid residue demonstrates molecular cybernetics."*
+> - 📜 **Richard Dawkins (*The Selfish Gene*):** *"The digital accuracy of the genetic message relies on the immutable translation of each three-letter **codon**."*

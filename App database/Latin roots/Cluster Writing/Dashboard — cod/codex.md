@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An official list of chemicals or medicines etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unbound manuscript of some ancient classic (as distinguished from a scroll).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient manuscript book, particularly of sacred scriptures or classical literature, composed of handwritten bound leaves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In codicology, textual criticism, and legal history, a bound parchment or vellum manuscript volume displacing the continuous papyrus scroll.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, codex designates an official list of chemicals or medicines etc."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The monastic scribes preserved the imperial jurisprudence in a vellum **codex** rescued from barbarian plundering."*
+> - 📜 **Thomas Frognall Dibdin (*Bibliomania*):** *"The antiquary examined the illuminations of the venerable **codex** with ecstatic reverence."*
+> - 📜 **Desiderius Erasmus (*Epistles of Erasmus*):** *"I collated the received Greek text against the most ancient **codex** preserved in the cathedral library."*

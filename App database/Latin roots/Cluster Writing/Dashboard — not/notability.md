@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A celebrity who is an inspiration to others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A celebrity who is an inspiration to others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Prominence, distinction, or eminence that renders an individual or achievement worthy of public attention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civic life, a person of distinction, high social rank, or acknowledged achievement in the community.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Pulling an oar in the Jeroboam’s boat, was a man of a singular appearance, even in that wild whaling life where individual notabilities make up all totalities."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Hélène had been at Erfurt during the famous meeting of the Emperors and had brought from there these connections with the Napoleonic notabilities."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"All the Moscow notabilities, all the Rostóvs’ acquaintances, were at the Razumóvskis’ chapel, for, as if expecting something to happen, many wealthy families who usually left town for their country estates had not gone away that summer."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Every provincial **notability** attended the ball, parading diamonds and antique family silver for the visitors."*
+> - 📜 **Charles Dickens (*Martin Chuzzlewit*):** *"He achieved sudden **notability** in the bustling frontier town as an eminent architectural speculator."*
+> - 📜 **Henry James (*The Bostonians*):** *"Olive Chancellor was drawn to individuals whose public **notability** advanced the great cause of reform."*

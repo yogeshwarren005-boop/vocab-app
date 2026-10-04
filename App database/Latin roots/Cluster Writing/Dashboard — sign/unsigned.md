@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking a signature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking a signature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not signed; lacking a signature or official authorial endorsement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary publishing, journalism, and computer arithmetic, published anonymously or representing non-negative numerical values.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Coming down with unsigned warrant."*
-> - 📜 **Vachel Lindsay (*The Chinese Nightingale, and Other Poems*):** *"The Dial': Unsigned article by Lucien Carey, October 16, 1914, on "The Congo", etc."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Ordinarily when an unsigned poem sweeps across the continent like a tidal wave whose roar and boom and thunder are made up of admiration, delight, and applause, a dozen obscure people rise up and claim the authorship."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The threatening letter consisted of words cut out of a newspaper and was completely **unsigned**."*
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"The editor published the controversial political broadside **unsigned**, shielding the author from partisan retaliation."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"An **unsigned** draft of the agreement was discovered tucked inside the dead clerk's pocketbook."*

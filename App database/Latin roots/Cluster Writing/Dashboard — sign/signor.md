@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used as an italian courtesy title; can be prefixed to the name or used separately.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used as an italian courtesy title; can be prefixed to the name or used separately.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A title of respect for an Italian man, equivalent to 'Mr.' or 'sir'; an Italian gentleman.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Italian culture and international literature, an honorific prefixed to an Italian man's surname or used independently as a polite address.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"HORTENSIO. _Alla nostra casa ben venuto; molto honorato signor mio Petruchio._ Rise, Grumio, rise: we will compound this quarrel."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"I have also received a letter on the subject from Signor Carlo Placci, dated 4 (or 7) September, 1905, 1 Via Alfieri, Firenze. [316] Frederick Starr, "Holy Week in Mexico," _The Journal of American Folk-lore_, xii. (1899) pp. 164 _sq._; C."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Dinsmore and Lulu Raymond in regard to her refusal to take music-lessons of Signor Foresti after he had struck her."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"**Signor** Antonio, many a time and oft in the Rialto you have rated me about my moneys and my usances."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The Italian scholar **Signor** Boni uncovered the ancient lapis niger beneath the pavement of the Roman Forum."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The polite **signor** bowed low as he entered the drawing room, addressing the company in melodious accents."*

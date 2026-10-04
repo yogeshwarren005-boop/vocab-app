@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not assigned.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not assigned.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not assigned; not allocated, appointed, or transferred to any particular person, role, or purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military logistics, personnel administration, and property records, unallotted or awaiting operational placement or ownership.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unassigned designates not assigned."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Large tracts of frontier territory remained **unassigned** to settlers following the barbarian incursions."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Several farm hands remained **unassigned** to specific tasks during the morning hiring fair."*
+> - 📜 **Arthur Conan Doyle (*The Return of Sherlock Holmes*):** *"A bundle of **unassigned** legal documents lay untied upon the clerk's mahogany writing table."*

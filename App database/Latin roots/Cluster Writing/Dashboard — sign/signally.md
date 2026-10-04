@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: As a signal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a signal manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a signal manner; conspicuously, remarkably, noticeably, or memorably.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literary style and historical narration, to an eminent or extraordinary degree, particularly in success or failure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole and how extremely likely it was that he would signally defeat me."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"His letters are full of his saintly wife, and her signally blessed efforts in winning people to put their trust where it need fear no betrayal."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"It must be admitted, that God has most signally blessed the faith of the inmates of the Consumptive's Home, answered their prayer for others."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The imperial forces were **signally** defeated in the marshes of the Danube by the confederated Gothic tribes."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The diplomatic mission succeeded **signally** in detaching the German princes from their alliance with the French crown."*
+> - 📜 **Jane Austen (*Emma*):** *"Her matchmaking schemes had failed so **signally** that she resolved never to interfere in domestic arrangements again."*

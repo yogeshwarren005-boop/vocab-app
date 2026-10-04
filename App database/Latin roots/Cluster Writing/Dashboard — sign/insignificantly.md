@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an insignificant manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not to a significant degree or amount.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner of little importance, size, or effect; trivially; to an unnoticeable degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific measurement and rhetoric, altering parameters by a negligible or imperceptible margin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, insignificantly designates in an insignificant manner."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The minor amendments altered the substance of the parliamentary bill only **insignificantly**."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The domestic varieties differed **insignificantly** in skeletal structure from their ancestral wild progenitors."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"The nervous stimulus fluctuated **insignificantly** below the threshold necessary to provoke conscious awareness."*

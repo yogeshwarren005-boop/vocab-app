@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who takes notice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who gives formal notice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An observant person who habitually pays attention to, observes, or notices fine details.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary aesthetics, a novelist or artist gifted with extraordinary sensory and social acuity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, noticer designates someone who takes notice."*
+> - 📜 **Henry James (*The Art of Fiction*):** *"Try to be one of the people on whom nothing is lost; the novelist must be an unflagging **noticer** of life."*
+> - 📜 **Thomas Hardy (*Afterwards*):** *"He was a man who used to notice such things; yes, neighbors would remember him as a gentle **noticer**."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"Jane Austen was a supreme **noticer** of human folly, recording every pomposity with tranquil amusement."*

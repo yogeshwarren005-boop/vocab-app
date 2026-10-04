@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a typographic way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a typographic way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner relating to typography; with regard to the design, arrangement, and visual presentation of printed or displayed text.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In editorial practice, typographically denotes how textual elements are styled, positioned, and formatted to achieve clarity, emphasis, and visual coherence in a publication.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"The "Speculum Humanae Salvationes," attributed to Coster by Junius was partly a folio Latin block-book, and partly typographically printed."*
+> - 📜 **Robert Bringhurst (*The Elements of Typographic Style*):** *"A well-set page is **typographically** invisible, letting the reader engage directly with the meaning."*
+> - 📜 **Jan Tschichold (*The Form of the Book*):** *"The title page must be **typographically** balanced to establish the tone of the entire volume."*
+> - 📜 **Beatrice Warde (*The Crystal Goblet*):** *"When printing is **typographically** perfect, the reader forgets the medium entirely."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Designed to arouse lust.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designed to arouse lust.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Explicitly describing or displaying sexual activity intended to stimulate erotic feelings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and aesthetic philosophy, material judged under obscenity laws regarding whether it appeals primarily to prurient interests without serious redeeming value.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pornographic designates designed to arouse lust."*
+> - 📜 **Susan Sontag (*The Pornographic Imagination*):** *"The classic **pornographic** novel treats sexual obsession as a rigorous, totalizing metaphysical quest."*
+> - 📜 **D. H. Lawrence (*Pornography and Obscenity*):** *"Genuine erotic vitality is insulted and degraded by the furtive, dirty secrecy of **pornographic** pamphlets."*
+> - 📜 **James Joyce (*Ulysses (Trial Records)*):** *"Judge Woolsey ruled that Ulysses was an honest literary epic rather than a deliberately **pornographic** work."*

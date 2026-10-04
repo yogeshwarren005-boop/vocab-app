@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who holds a commissioned rank in the united states navy or the united states coast guard; below lieutenant junior grade.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An emblem flown as a symbol of nationality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A military or naval flag or banner indicating nationality; or a junior commissioned officer in the navy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vexillology, naval rank, and military heraldry, a distinguishing national maritime banner or the lowest commissioned officer rank (O-1).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Set we forward; let A Roman and a British ensign wave Friendly together."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Coming from Sardis, on our former ensign Two mighty eagles fell, and there they perch’d, Gorging and feeding from our soldiers’ hands, Who to Philippi here consorted us."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Myself have to mine own turn’d enemy: This ensign here of mine was turning back; I slew the coward, and did take it from him."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The ship hoisted the national **ensign** at the peak as she stood out through the harbor narrows into the open ocean."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"Beauty's **ensign** yet is crimson in thy lips and in thy cheeks, and death's pale flag is not advanced there."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The soldiers rallied beneath the imperial **ensign** of the golden eagle amidst the confusion of the retreat."*

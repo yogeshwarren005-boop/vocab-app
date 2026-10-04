@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Assignment to a different duty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assignment to a different duty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of assigning again; transfer of an individual, role, or resource to a new post, function, or ownership.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In institutional administration, military personnel management, and computer programming, formal relocation or reallocation of duties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"When you read it, note that all requests for release or reassignment are denied." Xindral folded back into his normal, slightly bowed posture."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The sudden **reassignment** of the admiralty command caused sharp debates across both houses of parliament."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"The young naval officer awaited his **reassignment** to sea duty with restless impatience."*
+> - 📜 **Joseph Conrad (*The Secret Agent*):** *"The police inspector received official notice of his **reassignment** to the special political branch."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a literal sense.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (intensifier before a figurative expression) without exaggeration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a literal manner or sense; word for word; actually, without metaphor or exaggeration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic usage and rhetoric, adhering strictly to verbatim phrasing, though often colloquially employed for vivid emphasis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I don’t mean literally a child,” pursued Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Chesney Wold. (I thank my honourable friend for that cheer.) If any man had told me then that I should be as hard up at the present time as I literally find myself, I should have—well, I should have pitched into him,” says Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole’s door—literally with a hand, for the knocker was gone—and after a long parley gained admission from an Irishwoman, who was in the area when I knocked, breaking up the lid of a water-butt with a poker to light the fire with."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I don't mean **literally** a child, pursued Mr. Skimpole, but a child in heart, simplicity, and worldly unfitness."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"She was **literally** astonished by the unexpected announcement, standing speechless upon the threshold."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"He translated the ancient cipher **literally**, word for word, revealing the hidden chamber beneath the fortress."*

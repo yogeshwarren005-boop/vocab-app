@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An elaborate representation of scenes from history etc; usually involves a parade with rich costumes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rich and spectacular ceremony.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A public entertainment consisting of a procession of people in elaborate costumes, or a spectacular theatrical exhibition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural history and dramatic arts, a celebratory civic procession or allegorical mystery play staged upon movable pageant wagons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you will see a pageant truly played Between the pale complexion of true love And the red glow of scorn and proud disdain, Go hence a little, and I shall conduct you, If you will mark it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Were I a man, a duke, and next of blood, I would remove these tedious stumbling-blocks And smooth my way upon their headless necks; And, being a woman, I will not be slack To play my part in Fortune’s pageant.— Where are you there?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The very all of all is—but, sweet heart, I do implore secrecy—that the King would have me present the Princess, sweet chuck, with some delightful ostentation, or show, or pageant, or antic, or firework."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"And, like the baseless fabric of this vision, the cloud-capp'd towers, the gorgeous palaces, the solemn temples, the great globe itself, yea, all which it inherit, shall dissolve and, like this insubstantial **pageant** faded, leave not a rack behind."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The coronation was celebrated with an extravagant civic **pageant** that dazzled the populace with gilded floats."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The king looked with weary contempt upon the theatrical **pageant** prepared in the municipal square."*

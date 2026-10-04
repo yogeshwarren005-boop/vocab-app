@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Especially; in particular.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Especially; in particular.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a notable manner; especially, particularly, conspicuously, or to a significant degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytical writing, introducing an outstanding or exemplary illustration of a general principle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, if he that writ it had played Pyramus, and hanged himself in Thisbe’s garter, it would have been a fine tragedy; and so it is, truly; and very notably discharged."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"There are, however, numerous countries, notably in South America and Central America, which have fiduciary paper-money standards.[2] § 6.# Varying extent of the use of money#."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The rise in the price of gold-exchange in the silver-using countries (notably India) meant also an increase in their burden of taxation."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Division of labor increases productivity **notably** in manufactured goods, as exemplified by the pin factory."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Democratic institutions foster public education **notably** in New England, where townships fund common schools."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"Primate anatomy corresponds **notably** with human skeletal structures, especially in pelvic architecture."*

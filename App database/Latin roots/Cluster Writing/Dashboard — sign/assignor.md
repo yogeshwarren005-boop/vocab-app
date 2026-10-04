@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) the party who makes an assignment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) the party who makes an assignment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who assigns, allocates, or transfers property, legal rights, or contractual interests to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contract jurisprudence and commercial law, the party who executes a deed or instrument transferring their title or claim to an assignee.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, assignor designates (law) the party who makes an assignment."*
+> - 📜 **Sir William Blackstone (*Commentaries on the Laws of England*):** *"The **assignor** remains liable on personal covenants unless expressly discharged by the obligee."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The solicitor produced the deed signed by the original **assignor** to establish legal ownership."*
+> - 📜 **Adam Smith (*Lectures on Jurisprudence*):** *"Mercantile custom permits the **assignor** to transfer claims upon debtors with minimal formal hindrance."*

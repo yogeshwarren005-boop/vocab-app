@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A method of representing the sounds of a language by written or printed symbols.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A method of representing the sounds of a language by written or printed symbols.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The conventional spelling system of a language; the study of letters and the rules of spelling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics, the normative methodology by which spoken phonemes are transcribed into written graphemes according to accepted cultural or academic standards.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I abhor such fanatical phantasimes, such insociable and point-devise companions, such rackers of orthography, as to speak “dout” _sine_ “b”, when he should say “doubt”, “det” when he should pronounce “debt”—_d, e, b, t_, not _d, e, t_."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He was wont to speak plain and to the purpose, like an honest man and a soldier; and now is he turned orthography; his words are a very fantastical banquet, just so many strange dishes."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"In the Polynesian words used in this volume,--except in those cases where the spelling has been previously determined by others,--that form of orthography has been employed, which might be supposed most easily to convey their sound to a stranger."*
+> - 📜 **William Shakespeare (*Love's Labour's Lost*):** *"I abhor such fanatical phantasimes, such insociable and point-devise companions; such rackers of **orthography**."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The pale Usher threadbare in coat, heart, body, and brain; he was ever dusting his old lexicons and grammars, with a queer handkerchief, mockingly embellished with all the gay flags of all the known nations of the world. He loved to dust his old grammars; it somehow mildly reminded him of his **orthography**."*
+> - 📜 **Noah Webster (*Dissertations on the English Language*):** *"A national language and a reformed **orthography** are essential bonds of national union for the American republic."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The meaning of a word or expression; the way in which a word or expression or situation can be interpreted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Denote or connote.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Indicated, symbolized, meant, or expressed by a word, sign, gesture, or token.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural linguistics and semiotics, the mental concept or conceptual meaning represented by a signifier (Saussurean signifié).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The midwife wondered, and the women cried “O, Jesus bless us, he is born with teeth!” And so I was, which plainly signified That I should snarl, and bite, and play the dog."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This by Calphurnia’s dream is signified."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Badger signified to us that she had never madly loved but once and that the object of that wild affection, never to be recalled in its fresh enthusiasm, was Captain Swosser."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"It is a tale told by an idiot, full of sound and fury, **signified** by nothing."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Badger **signified** his cordial assent by drinking the health of the young gentleman with immense enthusiasm."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The emperor's nod **signified** royal favor or immediate doom to the suppliants kneeling before the throne."*

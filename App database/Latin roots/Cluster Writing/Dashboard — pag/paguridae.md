@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hermit crabs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hermit crabs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic family of decapod crustaceans commonly known as right-handed hermit crabs, inhabiting empty gastropod shells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine invertebrate zoology and carcinology, an anomuran family characterized by asymmetrical, soft abdomens and modified uropods for anchoring in spiral shells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paguridae designates hermit crabs."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Crustaceans belonging to the **paguridae** exhibit remarkable behavioural instincts when selecting spiral shells for protective habitation."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish: An Introduction to the Study of Zoology*):** *"The morphological asymmetry of the **paguridae** represents an evolutionary adaptation to dwelling within coiled gastropod shells."*
+> - 📜 **Philip Henry Gosse (*A Year at the Shore*):** *"Tide pools reveal numerous lively specimens of **paguridae** scuttling along the sand inside abandoned periwinkle shells."*

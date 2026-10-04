@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an alliterative manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an alliterative manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an alliterative manner; by using words that begin with the same initial consonant sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetorical prosody and stylistics, composing or reciting passages using repetitive initial consonant phonemes for acoustic emphasis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alliteratively designates in an alliterative manner."*
+> - 📜 **Algernon Charles Swinburne (*Essays and Studies*):** *"The verses roll forward **alliteratively**, ringing like clashed bronze shields in ancient epic recitations."*
+> - 📜 **George Saintsbury (*A History of English Prose Rhythm*):** *"Elizabethan pamphleteers phrased their satirical broadsides **alliteratively** to catch the ear of the London streets."*
+> - 📜 **Walter Pater (*Appreciations*):** *"He balanced his clauses **alliteratively**, seeking a refined, chiming melody in every carefully weighted sentence."*

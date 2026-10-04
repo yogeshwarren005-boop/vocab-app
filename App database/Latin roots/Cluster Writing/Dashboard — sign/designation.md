@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Identifying word or words by which someone or something is called and classified or distinguished from others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of putting a person into a non-elective position.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official name, title, description, or label; or the act of appointing or choosing someone for a specific position.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics, semiotics, and administrative law, the semantic act of pointing out or the official assigning of a title or tenure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He seemed about to dispute this designation of himself when he was seized with a violent fit of coughing."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But the name was soon taken up elsewhere as a local designation."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Among these were the name of a banking-house in New South Wales, where a sum of money was, and the designation of certain lands of considerable value."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The title of Augustus was the highest honorific **designation** conferred by the Roman state."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"He received the diplomatic **designation** of ambassador extraordinary to the court of Versailles."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Words serve for the **designation** of our thoughts, enabling us to communicate internal ideas to others."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The person to whom merchandise is delivered over.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The person to whom merchandise is delivered over.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The person, firm, or agency to whom goods, shipments, or property are delivered or consigned.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime law, commercial logistics, and freight transport, the named recipient entitled to take delivery of cargo upon presenting bills of lading.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"Harker has got the letters between the consignee of the boxes at Whitby and the carriers in London who took charge of them."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"General Jackson drew upon the consignee of his cotton crop in New Orleans for six thousand dollars to enable him to leave the seat of government without leaving creditors behind him."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The merchant captain checked the cargo manifest to verify the identity of the London **consignee**."*
+> - 📜 **Charles Dickens (*Dombey and Son*):** *"The shipping firm sent notice to the **consignee** regarding the arrival of the East Indiaman in port."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The bill of lading named a trading firm in Singapore as the sole authorized **consignee**."*

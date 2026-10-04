@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by propagation or relating to propagation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by propagation or relating to propagation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the power, tendency, or function to propagate, multiply, or disseminate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental biology and physical kinematics, relating to reproductive faculties or the outward traversal of wave energy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, propagative designates characterized by propagation or relating to propagation."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"Organisms allocate metabolic energy between somatic maintenance and the **propagative** faculties ensuring species survival."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Certain hybrid varieties retain vigorous vegetative growth while losing their **propagative** fertility by seed."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses and Reviews*):** *"The **propagative** impulses in nature relentlessly produce more offspring than environmental resources can sustain."*

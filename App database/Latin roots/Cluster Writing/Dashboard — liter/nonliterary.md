@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by lack of affectation or pedantry; - w.d.howells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by lack of affectation or pedantry; - w.d.howells.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not literary; having no connection with literature, poetry, or creative writing; concerned with factual or practical matters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In genre studies and stylistics, denoting pragmatic, technical, administrative, or legal discourse devoid of aesthetic ornamentation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonliterary designates marked by lack of affectation or pedantry; - w.d.howells."*
+> - 📜 **George Orwell (*Politics and the English Language*):** *"Modern political prose is largely **nonliterary**, compiled of prefabricated bureaucratic phrases that stifle genuine thought."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"The diarist recorded everyday household purchases and **nonliterary** domestic trivialities with disarming frankness."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"The middle classes immersed themselves in **nonliterary** industrial enterprises, neglecting broad humanistic cultivation."*

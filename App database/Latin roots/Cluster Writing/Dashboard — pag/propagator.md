@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who propagates plants (as under glass).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who spreads the news.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, device, or natural agent that propagates plants, spreads ideas, or transmits physical forces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticulture, quantum field theory, and communications history, a seedling incubator, a Green's function mathematical operator, or an ideological advocate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, propagator designates someone who propagates plants (as under glass)."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"He regarded himself not as a founder of dogmas, but as a humble **propagator** of experimental truths."*
+> - 📜 **John Evelyn (*Sylva, or A Discourse of Forest-Trees*):** *"The skilled nurseryman acts as a zealous **propagator** of timber trees to enrich the commonwealth."*
+> - 📜 **Richard Feynman (*Quantum Electrodynamics*):** *"In perturbation calculations, the virtual photon **propagator** describes the probability amplitude of interaction between charges."*

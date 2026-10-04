@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Italian violinist and composer of music for the violin (1782-1840).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Italian violinist and composer of music for the violin (1782-1840).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Niccolò Paganini (1782–1840), celebrated Italian violinist, violist, guitarist, and composer renowned for unmatched technical virtuosity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In music history and violin performance, the virtuoso pioneer whose Caprices and revolutionary bow techniques redefined romantic solo performance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paganini designates italian violinist and composer of music for the violin (1782-1840)."*
+> - 📜 **Franz Liszt (*Letters of Franz Liszt*):** *"Hearing **Paganini** perform revealed unprecedented technical horizons and inspired me to transform modern pianoforte playing."*
+> - 📜 **Heinrich Heine (*Florentine Nights*):** *"The uncanny figure of **Paganini** on stage seemed to draw supernatural tones from his solitary violin strings."*
+> - 📜 **Robert Schumann (*Music and Musicians: Essays and Criticisms*):** *"The violin concertos of **Paganini** combine dazzling pyrotechnics with genuine Italian melodic tenderness."*

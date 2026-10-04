@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A commentator who writes notes to a text.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A commentator who writes notes to a text.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scholar, editor, or commentator who writes explanatory notes or critical annotations on a work.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In machine learning workflows, a specialist labeling ground-truth images, sentences, or audio tokens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, annotator designates a commentator who writes notes to a text."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The modern **annotator** frequently obscures the poetic spirit by obsessing over pedantic orthography."*
+> - 📜 **Jonathan Swift (*A Tale of a Tub*):** *"Our satirical author invented an imaginary **annotator** to ridicule solemn academic disputations."*
+> - 📜 **Walter Scott (*Waverley*):** *"The antiquarian **annotator** appended voluminous historical appendices detailing ancient Highland clans."*

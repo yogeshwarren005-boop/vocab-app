@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the science of geography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Determined by geography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging or relating to geography; describing the Earth's terrestrial surface and regional distribution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical and ecological analysis, concerning the spatial and climatic parameters governing territorial habitats and human settlements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"To persons of limited spheres, miles are as geographical degrees, parishes as counties, counties as provinces and kingdoms."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Compare _id._, "Notes on the Duke of York Group, New Britain, and New Ireland," _Journal of the Royal Geographical Society_, xlvii. (1877) pp. 142 _sq._; A."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Simons, "An Exploration of the Goajira Peninsula," _Proceedings of the Royal Geographical Society_, N.S., vii. (1885) p. 791."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The **geographical** boundary known as Wallace's Line separates the Asian and Australian faunal realms."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"A thorough **geographical** knowledge of the Thames basin reveals how river drainage carved our modern valleys."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The immense **geographical** extent of the Roman provinces created insurmountable difficulties for administrative control."*

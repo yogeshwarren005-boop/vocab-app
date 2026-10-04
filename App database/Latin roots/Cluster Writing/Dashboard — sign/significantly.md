@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a statistically significant way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a significant manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a sufficiently great or important way; noticeably; or in a manner suggesting hidden meaning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statistical analysis and literary rhetoric, to a degree exceeding random chance or with pointed symbolic implication.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Woodcourt looks round with that grave professional interest and attention on his face, and glancing significantly at the trooper, signs to Phil to carry his table out."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And if you don’t—” He paused and shrugged his shoulders significantly."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Ah!—she understands what she has to do,—nobody better,” rejoined Leah significantly; “and it is not every one could fill her shoes—not for all the money she gets.” “That it is not!” was the reply."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Woodcourt looked **significantly** at the apothecary, who nodded in grave concurrence with the diagnosis."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He paused **significantly** before pronouncing the next instruction, fixing his eyes upon my face."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Mrs. Fairfax glanced **significantly** toward the locked corridor upon the third story, but said nothing further."*

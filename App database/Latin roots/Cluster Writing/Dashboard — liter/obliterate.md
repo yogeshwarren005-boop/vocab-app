@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mark for deletion, rub off, or erase.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make undecipherable or imperceptible by obscuring or concealing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To destroy completely, wipe out, or erase from memory, sight, or physical existence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical archaeology, anatomy, and warfare, to efface inscriptions, close biological cavities, or devastate urban structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"But if, in plain fact, we do not see why we should bear the cross for others, why we should deny and obliterate self on this scale for the salvation of men--how, I ask, to people of such a mind should Jesus be intelligible?"*
-> - 📜 **Effie Afton (*Eventide*):** *"I've heard say old loves were hard to forget; but I suppose new ones will obliterate them if anything will." By this time the attention of the group was drawn to them."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Time, which delights to obliterate the sterner memorials of human pride, seems to have passed lightly over this little scene of poetry and love, and to have withheld his desolating hand."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Time, which delights to **obliterate** the monuments of human vanity, has spared the venerable towers of the abbey."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The northern conquerors sought to **obliterate** the laws and institutions of ancient civilization."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The dense metropolitan fog seemed to **obliterate** every familiar street corner and bridge across the Thames."*

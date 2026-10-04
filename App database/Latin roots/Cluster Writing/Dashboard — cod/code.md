@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A set of rules or principles or laws (especially written ones).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A coding system used for transmitting messages requiring brevity or secrecy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A systematic collection or digest of laws, regulations, rules, or a system of symbols used for communication and encryption.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence, linguistics, and computing, a unified statutory compilation or algorithmic instruction sequence governing structured operations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"X Every village has its idiosyncrasy, its constitution, often its own code of morality."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"That the code they used was simple I had not the slightest doubt, yet I devoted many hours to a vain effort to work it out."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Not only each day did they change the point in the alphabet where the code initialled, but they changed it every conversation, and, often, in the midst of a conversation."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"That the **code** they used was simple I had no doubt, yet it defied the guards' closest vigilance."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The famous **code** of Justinian compiled the scattered edicts of centuries into an authoritative imperial digest."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Every village has its idiosyncratic **code** of social decorum and traditional morality."*

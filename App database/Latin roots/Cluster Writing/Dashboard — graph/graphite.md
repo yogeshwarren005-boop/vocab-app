@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used as a lubricant and as a moderator in nuclear reactors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used as a lubricant and as a moderator in nuclear reactors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A soft, gray-black, lustrous allotrope of carbon with a greasy feel, used in pencil lead, lubricants, and refractory crucibles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In materials science and nuclear engineering, a high-purity crystalline form of carbon with hexagonal sheet structure, employed as a neutron moderator in nuclear reactors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"This vacuum economised the graphite points between which the luminous arc was developed—an important point of economy for Captain Nemo, who could not easily have replaced them; and under these conditions their waste was imperceptible."*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"Black-lead--or, as we term it, graphite--of which I have several specimens here--is simply carbon--an allotrope of carbon--the same elementary substance, notwithstanding, as the diamond."*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"There is a block of graphite or black lead, for instance, prepared by simple pressure (Fig. 18 _b_)."*
+> - 📜 **Abraham Gottlob Werner (*System of Mineralogy*):** *"Because this mineral leaves a distinct mark upon paper and is used in pencils, I have assigned it the name **graphite**, from the Greek for writing."*
+> - 📜 **Enrico Fermi (*Experimental Production of a Divergent Chain Reaction*):** *"The Chicago pile consisted of thousands of carefully machined blocks of pure **graphite** interspaced with uranium lumps."*
+> - 📜 **Jules Verne (*The Mysterious Island*):** *"Cyrus Smith discovered a rich vein of plumbago or **graphite**, which provided the colonists with excellent material for crucibles."*

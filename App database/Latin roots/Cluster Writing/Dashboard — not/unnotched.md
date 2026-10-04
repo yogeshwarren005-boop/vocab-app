@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no notches.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no notches.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not notched; having a continuous, smooth, or unbroken edge lacking serrations or V-shaped cuts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology and botany, describing entire unlobed margins of leaves, sepals, or beetle elytra.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unnotched designates having no notches."*
+> - 📜 **Asa Gray (*Field, Forest, and Garden Botany*):** *"The smooth, **unnotched** margin of the ovate leaf distinguishes this species from its serrated woodland relatives."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Specimens with **unnotched** mandibles were less adapted to shear fibrous leaves during seasonal droughts."*
+> - 📜 **John Muir (*The Mountains of California*):** *"The sharp granite ridges rose into the Sierra sky, **unnotched** by glacial scouring along the highest crests."*

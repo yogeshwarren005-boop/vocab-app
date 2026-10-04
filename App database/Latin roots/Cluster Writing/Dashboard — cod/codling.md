@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Young codfish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Young codfish.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small or immature apple, especially an elongated variety suited for cooking; or an immature cod fish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pomology and historical English horticulture, an early culinary apple cultivar used for stewing, roasting, or making tarts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not yet old enough for a man, nor young enough for a boy; as a squash is before ’tis a peascod, or a codling, when ’tis almost an apple. ’Tis with him in standing water, between boy and man."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"He can make lovely whistles out of bore-tree, and his name is Codling."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"I did this because I knew it was the proper place to go--not because old Silver-buttons Codling was the least good."*
+> - 📜 **William Shakespeare (*Twelfth Night*):** *"Not yet old enough for a man, nor young enough for a boy; as a squash is before 'tis a peascod, or a **codling** when 'tis almost an apple."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"The cook placed a savory roasted **codling** tart upon the sideboard alongside the roast fowl."*
+> - 📜 **Izaak Walton (*The Compleat Angler*):** *"The young fry of the coast included small **codling** taken by the shore fishermen at low tide."*

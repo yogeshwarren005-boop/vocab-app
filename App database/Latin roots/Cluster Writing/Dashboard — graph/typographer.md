@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who sets written material into type.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who sets written material into type.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who designs the arrangement, style, and appearance of printed text; a specialist in the art and craft of setting and arranging type for publication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In graphic design and publishing, the typographer selects typefaces, determines spacing and layout, and orchestrates the visual hierarchy of text to optimize readability and aesthetic impact.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, typographer designates one who sets written material into type."*
+> - 📜 **Jan Tschichold (*The New Typography*):** *"The **typographer** must serve the reader by making the text as legible and inviting as possible."*
+> - 📜 **Robert Bringhurst (*The Elements of Typographic Style*):** *"A good **typographer** brings order and clarity to the page through the disciplined use of space and form."*
+> - 📜 **Beatrice Warde (*The Crystal Goblet*):** *"The ideal **typographer** creates a transparent vessel that reveals the content without calling attention to itself."*

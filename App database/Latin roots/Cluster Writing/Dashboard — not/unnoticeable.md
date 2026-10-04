@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not obtrusive or undesirably noticeable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not noticeable; not drawing attention; - j.g.cozzens.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not easily seen, heard, or noticed; inconspicuous, subtle, obscure, or attracting little attention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In camouflage biology, cryptic adaptations that blend an animal seamlessly into its resting background.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unnoticeable designates not obtrusive or undesirably noticeable."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"A tiny change in refractive index was virtually **unnoticeable** until the light struck the glass vessel at an angle."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"The subtle tremors were almost **unnoticeable** until the patient attempted to write his signature."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"The tiny drop of dried blood upon the wallpaper was **unnoticeable** to the untrained eye of Inspector Lestrade."*

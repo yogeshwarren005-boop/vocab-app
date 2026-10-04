@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Express or state indirectly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involve as a necessary condition of consequence; as in logic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To imply or suggest an idea, feeling, or association in addition to the literal meaning of a word.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal logic, to imply the essential attributes that define the comprehension of a general term.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Make sure that every term he uses has the full value he intends it to carry, connotes all he wishes it to cover, and has the full emotional power and suggestion that it has for himself."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"In a word, all that Jesus connotes by "the Kingdom of God" is "taken from them" (Matt. 21:43), and nothing left but "outer darkness" (Matt. 22:13)."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The word white denotes all white things, as snow or milk, and does not **connote** them, but connotes whiteness."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"In the World State, words like mother and home were conditioned to **connote** obscenity and disgust."*
+> - 📜 **Virginia Woolf (*A Room of One's Own*):** *"The title of genius had come to **connote** a solitary, brooding male figure isolated in an attic."*

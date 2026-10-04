@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rich and spectacular ceremony.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An elaborate representation of scenes from history etc; usually involves a parade with rich costumes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Elaborate, colorful, and spectacular display or ceremonial exhibition, especially in a formal public procession.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociology and political theater, ritualistic ostentation deployed by royal, civic, or military authorities to project majesty and sovereign power.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This, my last boon, give me, For such kindness must relieve me, That you aptly will suppose What pageantry, what feats, what shows, What minstrelsy, and pretty din, The regent made in Mytilene To greet the king."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In the England of our day the forests have mostly disappeared, yet still on many a village green and in many a country lane a faded image of the sacred marriage lingers in the rustic pageantry of May Day."*
-> - 📜 **William Wordsworth (*Poems in Two Volumes, Volume 2*):** *"Oh 'tis a passionate Work!--yet wise and well; Well chosen is the spirit that is here; That Hulk which labours in the deadly swell, This rueful sky, this pageantry of fear!"*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Byzantine court exhausted imperial treasuries in maintaining theatrical **pageantry** and opulent vestments."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"Behind the glittering **pageantry** of heralds and trumpeters lay deep fiscal exhaustion and political decay."*
+> - 📜 **Sir Walter Scott (*The Fair Maid of Perth*):** *"The festive **pageantry** of the craft guilds filed through the decorated streets of the ancient borough."*

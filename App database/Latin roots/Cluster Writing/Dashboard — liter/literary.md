@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characteristic of literature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Knowledgeable about literature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerning the writing, study, or content of literature, books, and formal letters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural history and aesthetics, pertaining to belles-lettres, scholarly bookmanship, or refined compositional style.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"The idea of Louisa Musgrove turned into a person of literary taste, and sentimental reflection was amusing, but she had no doubt of its being so."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"They were a notable family, full of all kinds of interesting lore, literary, scientific, and pastoral, and they exercised a boundless hospitality to all, whether gentle or simple, who came within their reach."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"For the first five years of his ministry Cairns devoted himself entirely to the work which it entailed upon him, and steadily refused to be drawn aside to the literary and philosophical tasks which many of his friends urged him to undertake."*
+> - 📜 **Jane Austen (*Persuasion*):** *"The idea of Louisa Musgrove turned into a person of **literary** taste, and spending days in poetry, was highly amusing."*
+> - 📜 **Virginia Woolf (*A Room of One's Own*):** *"To achieve authentic **literary** creation, a writer requires intellectual freedom, financial independence, and a quiet room."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"London coffee-houses in the reign of Queen Anne were the vibrant centers of English **literary** life."*

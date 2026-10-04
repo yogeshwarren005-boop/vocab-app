@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert on geography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert on geography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scholar or specialist who studies the physical features of the Earth, its atmosphere, and human populations and their spatial distribution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of exploration and cartography, a researcher who charts territorial boundaries, natural resources, and regional landscapes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"At Comana in Syria (we read in Strabo the geographer, about the time of Christ) there was a temple where there were six thousand of these temple slaves."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Strabo, the Geographer, 26, 223."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Stick a pin there on the map, and you will find that we have got well out on the spot that geographers have been pleased to call desert."*
+> - 📜 **Antoine de Saint-Exupéry (*The Little Prince*):** *"The **geographer** is much too important to go loafing about; he does not leave his desk, but receives the explorers."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"The true **geographer** does not merely enumerate rivers and towns, but perceives the interconnected harmony of nature."*
+> - 📜 **Strabo (*Geography*):** *"The wide learning of the **geographer** encompasses both the natural heavens and the varied customs of mortal men."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sea breams.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sea breams.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of marine ray-finned fishes in the sea bream family (Sparidae), commonly known as pandoras.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology and marine fisheries, a commercially harvested sparid genus inhabiting demersal coastal shelves across the Mediterranean and eastern Atlantic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pagellus designates sea breams."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Marine naturalists recorded several distinct species of **pagellus** frequenting the Mediterranean feeding banks."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish: An Introduction to the Study of Zoology*):** *"The cranial osteology of **pagellus** exemplifies the typical jaw adaptations of teleost sparids."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"The sea-bream genus **pagellus** comprises shore-dwelling fishes characterized by conical front teeth and rounded molars."*

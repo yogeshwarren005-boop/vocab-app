@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sign jointly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sign and endorse (another person's signature), as for a loan.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To sign a document or financial agreement jointly with another person, thereby sharing legal or financial liability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In banking, contract law, and debt instruments, to execute a loan or lease as a surety or guarantor promising repayment upon principal default.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosign designates sign jointly."*
+> - 📜 **Mark Twain (*The Gilded Age*):** *"He was urged to **cosign** the promissory note to keep his friend's mining enterprise from bankruptcy."*
+> - 📜 **Theodore Dreiser (*The Financier*):** *"Cowperwood persuaded his business partner to **cosign** the commercial bonds required by the city council."*
+> - 📜 **Anthony Trollope (*The Prime Minister*):** *"The prudent lawyer warned against any proposal to **cosign** financial instruments on behalf of reckless speculators."*

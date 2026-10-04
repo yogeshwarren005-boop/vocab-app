@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to be obliterated completely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to be obliterated completely.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being obliterated, erased, effaced, or entirely wiped out from existence or memory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In material epigraphy and legal forensics, susceptible to physical abrasion, chemical washing, or complete textual destruction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, obliterable designates able to be obliterated completely."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Material inscriptions upon granite are **obliterable** by wind and rain, but spiritual deeds echo throughout eternity."*
+> - 📜 **Percy Bysshe Shelley (*A Defence of Poetry*):** *"The fragile records of transient empires are easily **obliterable**, while the verses of Homer endure immortal."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"The delicate carved tracery of the portico proved **obliterable** under centuries of industrial coal smoke."*

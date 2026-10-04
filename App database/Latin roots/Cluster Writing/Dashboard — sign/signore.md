@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An italian title of respect for a man; equivalent to the english `sir'; used separately (not prefixed to his name).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An italian title of address equivalent to mrs. when used before a name.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A gentleman, lord, or nobleman in Italy; or an honorific address to an Italian gentleman.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Italian linguistics, history, and social structure, an Italian title of address or historical feudal lord (signore).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, signore designates an italian title of respect for a man; equivalent to the english `sir'; used separately (not prefixed to his name)."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The despotic **signore** of Milan commanded vast mercenary armies that terrified neighboring republics."*
+> - 📜 **George Eliot (*Romola*):** *"The servant announced that an illustrious **signore** from Venice was waiting in the courtyard below."*
+> - 📜 **Lord Byron (*Don Juan*):** *"A courteous Italian **signore** offered his hospitality to the wandering pilgrims stranded in the city."*

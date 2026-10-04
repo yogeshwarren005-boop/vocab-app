@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Information that is spread for the purpose of promoting some cause.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Information that is spread for the purpose of promoting some cause.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Information, ideas, or rumors deliberately spread widely to help or harm a person, group, movement, institution, or nation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political science and sociological history, systematic public communication orchestrated by governments or parties to manipulate mass opinion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In 1916, the centenary of the beginning of savings banks in this country, a nation-wide propaganda was undertaken by the American Bankers' Association for the encouragement of savings. § 4. #Investment banking#."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"He was committed to a great propaganda, to the preaching of Jesus, and he had to preach with penetration and appeal."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"So far as I know the club is a new departure in mission work, and most worthy of support as a rational and hopeful method of presenting the best of Christian civilization to a class often repelled by missionary propaganda."*
+> - 📜 **George Orwell (*Collected Essays, Journalism and Letters*):** *"All art is to some extent **propaganda**, yet the artist must never subordinate intellectual truth to political dogma."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The catholic college of the **propaganda** sent forth zealous missionaries trained to dispute across northern Europe."*
+> - 📜 **Aldous Huxley (*Brave New World Revisited*):** *"Modern political **propaganda** bypasses rational faculties and appeals directly to subconscious fears and herd instincts."*

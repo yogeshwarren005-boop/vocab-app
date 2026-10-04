@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of having little or no significance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of having little or no significance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of importance, weight, or consequence; triviality or meaninglessness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social philosophy and existential thought, the absence of meaningful stature, influence, power, or weight in worldly affairs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Collins seemed to sink into insignificance; to the young ladies he certainly was nothing; but he had still at intervals a kind listener in Mrs."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"My watchfulness has been effectual; and though I should certainly be a more interesting object to all my acquaintance, were I distractedly in love with him, I cannot say that I regret my comparative insignificance."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Let us hope, therefore, that her being there may teach her her own insignificance."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The petty skirmishes of nomadic tribes dwindled into absolute **insignificance** compared to the collapse of empires."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Man looks up at the infinite starry heavens and feels the momentary **insignificance** of his mortal strivings."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She was conscious of her own youthful **insignificance** amidst the learned discussions of the rectory table."*

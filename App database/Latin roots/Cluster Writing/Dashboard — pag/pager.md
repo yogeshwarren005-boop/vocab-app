@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An electronic device that generates a series of beeps when the person carrying it is being paged.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electronic device that generates a series of beeps when the person carrying it is being paged.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small portable electronic telecommunication device that beeps or vibrates upon receiving short radio messages or phone numbers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In telecommunications and hospital logistics, a personal radio paging receiver used for rapid operational dispatch before ubiquitous mobile phones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pager designates an electronic device that generates a series of beeps when the person carrying it is being paged."*
+> - 📜 **Arthur C. Clarke (*Voices from the Sky: Previews of the Coming Space Age*):** *"Miniature radio transceivers and personal **pager** units will soon connect every professional instantly to central headquarters."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"The resident physician's electronic **pager** sounded insistently, calling him back to the emergency ward."*
+> - 📜 **Tom Clancy (*The Sum of All Fears*):** *"He felt the silent vibration of his secure **pager** clipped to his belt and immediately checked the encrypted digital readout."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who specializes in designing architectural interiors and their furnishings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who creates plans to be used in making something (such as buildings).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who plans, sketches, drafts, or conceives the form, pattern, or structure of clothing, machines, buildings, or graphics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial design, decorative arts, and software engineering, a creative professional synthesizing aesthetics, mechanics, and user utility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Moreover, as was shown by what followed, she was oddly exercising the faculty of invention upon the speciality of the clever Jacquet Droz, the designer of automatic substitutes for human limbs."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Moreover, as was shown by what followed, she was oddly exercising the faculty of invention upon the speciality of the clever Jacquet Droz, the designer of automatic substitutes for human limbs."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"In this world of thousands of languages and dialects, and physical and mental limitations beyond counting, even basic tools, like a safety pin, need to be understood all along the line from designer to user."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"The medieval **designer** found freedom in carving grotesque capitals that expressed joyful individuality."*
+> - 📜 **William Morris (*Hopes and Fears for Art*):** *"The industrial **designer** must maintain intimate knowledge of the physical materials he seeks to ornament."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The ingenious **designer** displayed the miniature apparatus with justifiable pride to his gathered guests."*

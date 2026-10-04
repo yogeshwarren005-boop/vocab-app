@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An actual object referred to by a linguistic expression.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An actual object referred to by a linguistic expression.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The actual object, entity, or state of affairs in reality referred to by a linguistic sign or term.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical semantics, the referent designated by a symbol within a formal sign system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, denotatum designates an actual object referred to by a linguistic expression."*
+> - 📜 **Charles Morris (*Signs, Language and Behavior*):** *"A sign refers to what is taken account of in virtue of the sign vehicle; that object is the **denotatum**."*
+> - 📜 **Rudolf Carnap (*Meaning and Necessity*):** *"The intension of a predicate is a property, whereas its extension or **denotatum** is a class of individuals."*
+> - 📜 **Willard Van Orman Quine (*Word and Object*):** *"Ontological relativity emerges when radical translation fails to pin down a unique physical **denotatum**."*

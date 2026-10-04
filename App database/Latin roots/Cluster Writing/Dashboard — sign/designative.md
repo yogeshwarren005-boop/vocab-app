@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to designate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving to designate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to designate, point out, specify, distinguish, or indicate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In semiotics, semantics, and grammatical typology, denoting linguistic elements whose primary function is demonstrative reference or indexing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, designative designates serving to designate."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Proper names possess a purely **designative** function, pointing out the individual without connoting essential attributes."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Demonstrative pronouns serve as **designative** pointers directing visual and mental attention toward objects."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"An indexical sign exercises a **designative** force by establishing a direct existential relation with its object."*

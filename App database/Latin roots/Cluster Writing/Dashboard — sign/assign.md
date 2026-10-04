@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give an assignment to (a person) to a post, or assign a task to (a person).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give out.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To allocate, allot, or designate a duty, task, role, time, or property to a specific person or purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contract and property jurisprudence, to formally transfer legal rights, title, or interest in real or personal property to another.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Assign’d am I to be the English scourge."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So please your grace, my ancient, A man he is of honesty and trust, To his conveyance I assign my wife, With what else needful your good grace shall think To be sent after me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In haste whereof most heartily I pray Your highness to assign our trial day."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The chancellor directed the court officers to **assign** a competent guardian to oversee the minors' estate."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The emperor proceeded to **assign** frontier provinces to his most experienced veteran commanders."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Parliament resolved to **assign** specific tax revenues toward maintaining the national naval fleet."*

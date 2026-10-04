@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make pagan in character.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make pagan in character.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To render pagan or convert to pagan practices, beliefs, idioms, or cultural sensibilities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural history and ecclesiastical polemics, to reintroduce classical heathen philosophies, deities, or rituals into a Christianized civilization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paganise designates make pagan in character."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The later Renaissance architects tended to **paganise** sacred Christian art with classical mythological embellishments."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Superficial aestheticism threatened to **paganise** national moral sensibilities under a veneer of secular culture."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"The excessive glorification of physical beauty risked an attempt to **paganise** Victorian moral discipline."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or being biography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or being biography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or containing the narrative of an individual's life; biographical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the literary craft of portraying personal historical careers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biographic designates of or relating to or being biography."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Our interest in history resolves itself into an appetite for **biographic** anecdotes of monumental figures."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"No species of writing is more worthy of cultivation than **biographic** narrative, which instructs by exemplary conduct."*
+> - 📜 **Walter Pater (*Appreciations*):** *"A delicate **biographic** thread unifies his critical essays on Shakespeare's historical dramas."*

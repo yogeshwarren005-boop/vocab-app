@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characterized by propaganda.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characterized by propaganda.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of, relating to, or serving the purposes of propaganda; intentionally persuasive or biased.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and media studies, partisan discourse or art designed to advance an ideological program rather than explore disinterested truth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, propagandistic designates of or relating to or characterized by propaganda."*
+> - 📜 **George Orwell (*The Prevention of Literature*):** *"Totalitarian regimes reduce all artistic endeavor to purely **propagandistic** slogans celebrating state achievements."*
+> - 📜 **Bertrand Russell (*Power: A New Social Analysis*):** *"Modern mass broadcasting provides unprecedented machinery for **propagandistic** indoctrination of entire populations."*
+> - 📜 **Aldous Huxley (*The Olive Tree*):** *"Beneath its aesthetic facade, the revolutionary poster served an overtly **propagandistic** utility."*

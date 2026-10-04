@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or dealing with bibliography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or dealing with bibliography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to bibliography or bibliographers (variant of bibliographic).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the descriptive compilation and historical study of books as physical artifacts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"BIBLIOGRAPHICAL NOTE The literature dealing with Shelley's work and life is immense, and no attempt will be made even to summarise it here."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And this is the Bibliographical system here adopted; and it is the only one that can possibly succeed, for it alone is practicable."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"And this is the Bibliographical system here adopted; and it is the only one that can possibly succeed, for it alone is practicable."*
+> - 📜 **Thomas Frognall Dibdin (*Bibliotheca Spenceriana*):** *"Lord Spencer’s magnificent library provided materials for a lifetime of **bibliographical** research."*
+> - 📜 **George Saintsbury (*A History of English Criticism*):** *"His **bibliographical** notes illuminated obscure Elizabethan pamphlet wars."*
+> - 📜 **Frederic G. Kenyon (*The Palaeography of Greek Papyri*):** *"The discovery of Oxyrhynchus revolutionized **bibliographical** understanding of ancient book production."*

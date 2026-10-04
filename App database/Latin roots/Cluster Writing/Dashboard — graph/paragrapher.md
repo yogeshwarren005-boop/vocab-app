@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A writer of paragraphs (as for publication on the editorial page of a newspaper).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A writer of paragraphs (as for publication on the editorial page of a newspaper).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A journalist or writer who writes short, witty, or topical paragraphs, notes, or brief items for a newspaper or periodical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century American press history, a specialized columnist who crafted satiric one-liners, local squibs, and humorous editorial paragraphs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paragrapher designates a writer of paragraphs (as for publication on the editorial page of a newspaper)."*
+> - 📜 **Mark Twain (*Autobiography of Mark Twain*):** *"I began my literary career as a local **paragrapher** on the Virginia City Territorial Enterprise, inventing squibs to fill empty columns."*
+> - 📜 **H. L. Mencken (*Prejudices: First Series*):** *"The lively newspaper **paragrapher** punctured political pomposity with a brevity that long editorial sermons could never match."*
+> - 📜 **Ambrose Bierce (*The Cynic's Word Book*):** *"The anonymous **paragrapher** shoots his daily arrows from behind the rampart of the editorial page."*

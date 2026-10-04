@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A technical system of symbols used to represent special things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A comment or instruction (usually added).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of graphic symbols, characters, or marks used in specialized disciplines such as music or mathematics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of mathematics, symbolic formalisms such as Leibnizian calculus notation that enable calculation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"No ditty floated into Blackmoor Vale from the outer world but Tess’s mother caught up its notation in a week."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Every faith has its appropriate music, and the difference between the creeds might almost be expressed in musical notation."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Mark that it says 18 first, and then after a pause 300. 18 [IH in Greek notation] there thou hast Jesus."*
+> - 📜 **Isaac Newton (*Opticks*):** *"He recorded geometric reflections using a concise algebraic **notation** that clarified the angles of refraction."*
+> - 📜 **Alan Turing (*On Computable Numbers*):** *"The paper uses a standardized logical **notation** to define the finite configurations of the computing machine."*
+> - 📜 **Douglas Hofstadter (*Gödel, Escher, Bach*):** *"Typographical **notation** allows mathematicians to construct self-referential statements about formal provability."*

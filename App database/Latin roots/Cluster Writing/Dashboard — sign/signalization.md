@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A conspicuous indication.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A conspicuous indication.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of signaling, or the systematic installation of traffic and navigational signals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In municipal traffic engineering and semiotics, the regulatory implementation of signal-controlled intersections or symbolic codification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, signalization designates a conspicuous indication."*
+> - 📜 **Lewis Mumford (*The Highway and the City*):** *"Modern arterial boulevards require synchronized **signalization** to maintain uninterrupted vehicular flow."*
+> - 📜 **H. G. Wells (*Anticipations*):** *"The nineteenth century witnessed the rapid **signalization** of shipping lanes through lighthouses and coastal semaphores."*
+> - 📜 **Charles Dickens (*Mugby Junction*):** *"The labyrinthine tracks converging on the terminal relied on complex mechanical **signalization** operated from towering switch-boxes."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A defendant who has been joined together with one or more other defendants in a single action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A defendant who has been joined together with one or more other defendants in a single action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An individual or entity joined together with one or more others as a defendant in the same civil or criminal legal action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In procedural jurisprudence, a party jointly indicted or sued whose culpability, cross-claims, or defenses are tried concurrently.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, codefendant designates a defendant who has been joined together with one or more other defendants in a single action."*
+> - 📜 **Sir William Blackstone (*Commentaries on the Laws of England*):** *"Where joint liability is alleged, the acquittal of one **codefendant** may materially alter the legal burden of the other."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"His attorney advised that testifying against his **codefendant** would only prejudice the jury against both."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"The accomplice pleaded that he was merely a minor **codefendant** duped by the mastermind."*

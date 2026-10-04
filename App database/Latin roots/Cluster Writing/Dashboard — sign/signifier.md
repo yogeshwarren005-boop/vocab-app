@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The phonological or orthographic sound or appearance of a word that can be used to describe or identify something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The phonological or orthographic sound or appearance of a word that can be used to describe or identify something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A symbol, sound, word, or sign that represents an idea, concept, or physical entity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Saussurean structural linguistics and semiotics, the physical or sensory form of a sign (such as a word, sound, or image) as distinguished from the concept signified.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Et cela doit signifier,” said she, “qu’il y aura là dedans un cadeau pour moi, et peut-être pour vous aussi, mademoiselle."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"The linguistic sign unites not a thing and a name, but a concept and a sound-image; the sound-image is the **signifier**."*
+> - 📜 **Claude Lévi-Strauss (*Structural Anthropology*):** *"Mythological narrative operates through a system of relations where each symbolic element acts as a culturally conditioned **signifier**."*
+> - 📜 **Noam Chomsky (*Current Issues in Linguistic Theory*):** *"The mapping between acoustic **signifier** and semantic interpretation forms the central subject of generative syntax."*

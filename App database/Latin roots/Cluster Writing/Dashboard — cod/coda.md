@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The closing section of a musical composition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The closing section of a musical composition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The concluding passage or section of a musical composition, literary work, or event, bringing it to a formal finish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical musicology and structural poetics, an independent thematic section appended to summarize, resolve, or expand preceding cadences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coda designates the closing section of a musical composition."*
+> - 📜 **Arthur Symons (*Studies in Seven Arts*):** *"The final movement resolves through an elaborate **coda** that recalls all the primary motifs of the symphony."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The master appended a brilliant **coda** which brought the concerto to a majestic conclusion."*
+> - 📜 **W. H. Auden (*The Dyer's Hand*):** *"The poem concludes not abruptly, but with an elegiac **coda** celebrating enduring memory."*

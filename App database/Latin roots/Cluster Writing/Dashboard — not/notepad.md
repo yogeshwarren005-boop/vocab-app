@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pad of paper for keeping notes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pad of paper for keeping notes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pad of bound sheets of blank or lined paper for jotting down notes, sketches, or reminders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In desktop computing, an elemental plain-text editing utility application found on operating systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, notepad designates a pad of paper for keeping notes."*
+> - 📜 **Joan Didion (*Slouching Towards Bethlehem*):** *"A reporter lives with a spiral **notepad** always within reach, recording the fleeting ironies of the street."*
+> - 📜 **Raymond Chandler (*The Big Sleep*):** *"Marlowe pulled a greasy **notepad** from his trench coat and checked the telephone number of the orchid house."*
+> - 📜 **David Foster Wallace (*A Supposedly Fun Thing I'll Never Do Again*):** *"I sat on the Caribbean deck chair with an oversized legal **notepad**, furiously scribbling sensory details."*

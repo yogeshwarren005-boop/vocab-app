@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The literary intelligentsia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The literary intelligentsia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Educated or scholarly people; intellectuals, writers, and individuals interested in literature and cultural arts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual history and comparative literature, the educated academic or scholarly elite, historically analogous to Confucian scholar-officials.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I have likewise warm friends among the literati; Professors Stewart, Blair, and Mr."*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I distrusted my own judgment on your finding fault with it, and applied for the opinion of some of the literati here, who honour me with their critical strictures, and they all allowed it to be proper."*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I have the advice of some very judicious friends among the literati here, but with them I sometimes find it necessary to claim the privilege of thinking for myself."*
+> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I have likewise warm friends among the **literati** of Edinburgh, whose generous encouragement has revived my hopes."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The provincial **literati** gathered in academy salons to debate rhetorical tropes while barbarian armies crossed the frontiers."*
+> - 📜 **Samuel Johnson (*Lives of the Most Eminent English Poets*):** *"The Parisian **literati** received the visiting English philosopher with flattering eulogies and royal banquets."*

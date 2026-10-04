@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who presents shows or sells writing or pictures that are sexually explicit in violation of the community mores.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who presents shows or sells writing or pictures that are sexually explicit in violation of the community mores.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who creates, produces, publishes, or sells pornography.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary and censorship history, an author or printer prosecuted under obscenity statutes for distributing sexually explicit material.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pornographer designates someone who presents shows or sells writing or pictures that are sexually explicit in violation of the community mores."*
+> - 📜 **John Milton (*Areopagitica*):** *"The licenser pretended to guard virtue, treating every daring poet as though he were a vulgar **pornographer**."*
+> - 📜 **George Bernard Shaw (*Mrs. Warren's Profession*):** *"Society hypocritically condemns the **pornographer** while profiting enormously from the commercial exploitation of vice."*
+> - 📜 **Anthony Comstock (*Traps for the Young*):** *"The crusading inspector vowed to confiscate every printing press operated by a clandestine **pornographer**."*

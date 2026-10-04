@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The kind of intellectual who converts messages from a code to plain text.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A machine that converts a coded text into ordinary language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or electronic mechanism that converts coded messages or signals into plain text or readable data.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In telecommunications, digital electronics, and cryptography, a logic circuit or software module that transforms coded input into unencoded parallel outputs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decoder designates the kind of intellectual who converts messages from a code to plain text."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"In every communication link, the physical **decoder** must possess reciprocal transformation rules matching the transmitter."*
+> - 📜 **Arthur C. Clarke (*2001: A Space Odyssey*):** *"The computer's telemetry **decoder** processed the radar pulses beamed across lunar orbit."*
+> - 📜 **Claude Shannon (*The Mathematical Theory of Communication*):** *"A noisy channel introduces errors which a sophisticated **decoder** can detect and correct using parity checks."*

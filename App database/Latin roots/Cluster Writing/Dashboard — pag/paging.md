@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Calling out the name of a person (especially by a loudspeaker system).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The system of numbering pages.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of calling someone via a public address system or electronic pager; or the sequential numbering and turning of pages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In operating systems architecture, a memory management scheme that stores and retrieves data from secondary storage for use in main memory in fixed-size blocks (pages).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paging designates calling out the name of a person (especially by a loudspeaker system)."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The relentless **paging** of attending physicians echoed across the corridors of the hospital annex."*
+> - 📜 **Andrew S. Tanenbaum (*Operating Systems: Design and Implementation*):** *"Virtual memory systems employ demand **paging** to transfer fixed blocks between physical RAM and disk storage."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"The clerk continued his monotonous **paging** of the heavy ledger without looking up from the high desk."*

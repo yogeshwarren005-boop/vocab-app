@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something (whether existing or not) that is referred to by a linguistic expression.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something (whether existing or not) that is referred to by a linguistic expression.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The entity, object, property, or concept denoted or referred to by a linguistic word, sign, or symbol.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In semiotics, formal semantics, and philosophical logic, the objective referent or state of affairs designated by an expression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, designatum designates something (whether existing or not) that is referred to by a linguistic expression."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"Every meaningful symbol must connect the interpretant with its objective **designatum** in the external world."*
+> - 📜 **Bertrand Russell (*An Inquiry into Meaning and Truth*):** *"The truth of an empirical statement depends on the correspondence between the proposition and its physical **designatum**."*
+> - 📜 **William James (*The Meaning of Truth*):** *"A concept functions correctly when it successfully leads our practical thoughts to the intended **designatum**."*

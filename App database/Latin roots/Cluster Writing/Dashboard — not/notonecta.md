@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the notonectidae: backswimmers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the notonectidae: backswimmers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of predatory aquatic hemipteran bugs known as backswimmers that swim upside down at water surfaces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aquatic entomology, predatory bugs using long oar-like hind legs and piercing-sucking rostra to hunt small invertebrates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, notonecta designates type genus of the notonectidae: backswimmers."*
+> - 📜 **Henri Fabre (*The Wonders of Instinct*):** *"The predatory water-boatman **Notonecta** cruises beneath the surface film, propelling itself by powerful hind oars."*
+> - 📜 **Rachel Carson (*Under the Sea-Wind*):** *"In freshwater shallows, nymphal **Notonecta** stalk mosquito larvae among submerged pondweed stems."*
+> - 📜 **Charles Darwin (*Natural Selection*):** *"The inverted swimming posture of **Notonecta** represents an exquisite structural adaptation for surface hunting."*

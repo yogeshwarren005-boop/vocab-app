@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a connotation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a connotation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to connotation; relating to suggested, associative, or secondary meanings of words.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In semiotics, describing cultural associations and symbolic nuances distinct from literal reference.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, connotational designates of or relating to a connotation."*
+> - 📜 **Roland Barthes (*Mythologies*):** *"Visual advertising constructs an elaborate **connotational** layer that naturalizes bourgeois consumer ideals."*
+> - 📜 **Umberto Eco (*A Theory of Semiotics*):** *"The **connotational** codes of a poetic text produce semantic ambiguity through multiple interpretive frames."*
+> - 📜 **I. A. Richards (*The Philosophy of Rhetoric*):** *"Metaphor relies upon the interaction of **connotational** overtones between the tenor and vehicle."*

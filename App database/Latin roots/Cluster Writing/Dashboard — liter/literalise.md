@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make literal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make literal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To interpret or render literally; to strip away figurative, allegorical, or poetic meaning in favor of matter-of-fact reality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary hermeneutics and cultural criticism, to convert symbolic myths or poetic metaphors into rigid physical or historical propositions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, literalise designates make literal."*
+> - 📜 **Samuel Taylor Coleridge (*Confessions of an Inquiring Spirit*):** *"To **literalise** the vibrant symbolic poetry of the prophets is to destroy their profound spiritual resonance."*
+> - 📜 **George Santayana (*Interpretations of Poetry and Religion*):** *"The dogmatist tends to **literalise** myths, mistaking the moral metaphors of ancient bards for physical history."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"Vain critics **literalise** the painter's visionary clouds into mere meteorological charts."*

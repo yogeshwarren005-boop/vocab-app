@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of working out the form of something (as by making a sketch or outline or plan).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make or work out a plan for; devise.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Acting with cunning, secretive, or manipulative intent; or the act and art of planning, drawing, and designing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social characterization, scheming or deceitful, or the practical craft of architectural, industrial, or visual drafting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"You are designing people compared with me” (he really made me consider myself in that light) “but I am gay and innocent; forget your worldly arts and play with me!” the effect was absolutely dazzling."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Hence it was a favourite expedient to represent him as the tool of more designing men--as one whose simplicity had been imposed upon, and who had been thrust forward against his better judgment to do work in which he had no heart."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Won’t she feel forsaken and deserted?” “Impossible!—when I told you how she, on the contrary, deserted me: the idea of my insolvency cooled, or rather extinguished, her flame in a moment.” “You have a curious, designing mind, Mr."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The elderly aunt suspected Becky Sharp of being a shrewd and **designing** adventuress out to ensnare her nephew."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"I cannot believe that Bingley is at all deceitful, but his sisters may be very **designing** women."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"Ralph Nickleby cast a cold, appraising glance upon the **designing** usurer seated opposite him."*

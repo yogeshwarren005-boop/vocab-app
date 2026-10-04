@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ability to read and write.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ability to read and write.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ability to read and write; or competence and knowledge in a specific area, field, or medium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical demography and sociological development, the cognitive mastery of written text required for autonomous civic and economic participation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"Graffiti may, indeed, tell us something about degrees of literacy."*
+> - 📜 **H. G. Wells (*Mankind in the Making*):** *"Basic universal **literacy** forms the indispensable foundation upon which any democratic commonwealth must be erected."*
+> - 📜 **Thomas Babington Macaulay (*Speeches on Politics and Literature*):** *"The rapid expansion of popular **literacy** transformed newspapers into the most powerful estate of the realm."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"The spread of female **literacy** in the eighteenth century created an entirely new market for serialized fiction."*

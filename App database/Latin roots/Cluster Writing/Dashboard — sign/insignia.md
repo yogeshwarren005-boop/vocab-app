@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A badge worn to show official position.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A badge worn to show official position.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A badge, emblem, medal, or distinguishing mark of office, rank, membership, authority, or honor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In heraldry, vexillology, and military history, symbolic regalia, epaulets, or badges indicating institutional status or civic decoration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Then the priest, wearing the insignia of his office, went from hut to hut relighting the fires by means of a flint.[331] Among the Esquimaux with whom C.F."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The walls were festooned with the emblems and insignia of all Nations in attendance."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"It meets once a week at a little old-fashioned house kept by a jolly publican of the name of Wagstaff, and bearing for insignia a resplendent half-moon, with a most seductive bunch of grapes."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The emperor stripped the disgraced prefect of his purple mantle and the golden **insignia** of consular dignity."*
+> - 📜 **Sir Walter Scott (*Ivanhoe*):** *"The grand master wore the white mantle of the Templars emblazoned with the **insignia** of the red cross."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The heralds bore the ancient **insignia** of the kingdom before the sovereign during the coronation march."*

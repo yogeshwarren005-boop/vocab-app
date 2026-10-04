@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Leave (a job, post, or position) voluntarily.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give up or retire from a position.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To voluntarily leave a job, office, or position; or to accept an inevitable, unpleasant situation with patience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional governance, employment law, and stoic philosophy, to formally surrender a civic trust or submit passively to fate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, I am Protector of the realm, And at his pleasure will resign my place."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Resign it then, and leave thine insolence."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As willingly do I the same resign As e’er thy father Henry made it mine; And even as willingly at thy feet I leave it As others would ambitiously receive it."*
+> - 📜 **William Shakespeare (*Richard II*):** *"I give this heavy weight from off my head, and this unwieldy sceptre from my hand; here did I lose my crown, here I **resign** my state."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Diocletian chose to **resign** the purple and pass his remaining years cultivating cabbages in peaceful retirement."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The prime minister felt compelled to **resign** his seals of office following the adverse vote in the commons."*

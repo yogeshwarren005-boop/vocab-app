@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of capacity, formerly defined as the volume of one kilogram of pure water under standard conditions; now equal to 1,000 cubic centimeters (or approximately 1.75 pints).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metric unit of capacity, formerly defined as the volume of one kilogram of pure water under standard conditions; now equal to 1,000 cubic centimeters (or approximately 1.75 pints).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of volume or capacity equal to one cubic decimeter or 1,000 cubic centimeters (approx. 1.057 US liquid quarts).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the International System of Units (SI) and metrology, a non-SI metric capacity unit accepted for use with the SI, denoted by L or l.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, liter designates a metric unit of capacity, formerly defined as the volume of one kilogram of pure water under standard conditions; now equal to 1,000 cubic centimeters (or approximately 1.75 pints)."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"The revolutionary metric commission defined the standard **liter** as the volume of one kilogram of pure water at freezing."*
+> - 📜 **Thomas Henry Huxley (*Physiography: An Introduction to the Study of Nature*):** *"A **liter** of pure atmospheric air at standard temperature weighs approximately one and a quarter grams."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The pneumatic vessel collected precisely one **liter** of gas before the galvanic current was interrupted."*

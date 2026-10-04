@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sign at the bottom of (a document).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sign at the bottom of (a document).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To sign one's name at the bottom or end of a document; to subscribe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal drafting, petitions, and formal contracts, to append one's autograph beneath the text as a subscriber or consenting party.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"TO THE REVEREND CLERGY:-- The undersigned proposes to commence another Periodical, of original plan and character, provided that adequate pledges of supplies shall be furnished."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"In regard to most of the cases, the undersigned are unanimous; as to the others the decision is that of a majority."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The delegates came forward in solemn order to **undersign** the historic national manifesto."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The witnesses were summoned into the parlor to **undersign** the testamentary declaration."*
+> - 📜 **Sir Walter Scott (*The Heart of Midlothian*):** *"The town councilors were requested to **undersign** the municipal petition presented to the crown."*

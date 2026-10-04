@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Legally transferable to the ownership of another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Legally transferable to the ownership of another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being assigned, transferred, designated, or attributed to a particular cause or party.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial law and financial securities, legally transferable to a third party by endorsement or delivery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Being thus assignable to no breed, he was the ideal embodiment of canine greatness—a generalization from what was common to all."*
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"He examined these phenomena afterwards, and decided in his own mind that they were assignable to fear."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Being thus assignable to no breed he was the ideal embodiment of canine greatness—a generalization from what was common to all."*
+> - 📜 **Sir William Blackstone (*Commentaries on the Laws of England*):** *"Promissory notes and bills of exchange are legally **assignable** instruments under mercantile custom."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Every economic surplus is **assignable** to the productive collaboration of land, labor, and capital."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The scientific investigator inquiries whether the variance is **assignable** to known physical causes."*

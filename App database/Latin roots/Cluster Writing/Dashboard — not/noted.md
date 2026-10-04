@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make mention of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Notice or perceive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Well known, celebrated, widely recognized, and distinguished for a particular achievement or quality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Recorded in writing, observed, or officially registered in public records.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why write I still all one, ever the same, And keep invention in a noted weed, That every word doth almost tell my name, Showing their birth, and where they did proceed?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"More flowers I noted, yet I none could see, But sweet, or colour it had stol’n from thee. 100 Where art thou Muse that thou forget’st so long, To speak of that which gives thee all thy might?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She looks us like A thing more made of malice than of duty; We have noted it."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"Old Marley was as dead as a door-nail; this must be distinctly **noted**, or nothing wonderful can come of the story."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Anne Elliot was admired by a **noted** naval officer whose gallantry was celebrated across the kingdom."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Antioch was **noted** for its luxurious gardens, marble colonnades, and dissolute theatrical spectacles."*

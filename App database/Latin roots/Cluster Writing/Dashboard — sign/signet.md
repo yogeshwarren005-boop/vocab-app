@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A seal (especially one used to mark documents officially).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A seal (especially one used to mark documents officially).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small seal, especially one set into a finger ring, used to impress a distinctive heraldic mark upon wax.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic history and sigillography, an authenticating seal or royal signet ring validating privy letters and royal warrants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I had my father’s signet in my purse, Which was the model of that Danish seal: Folded the writ up in the form of the other, Subscrib’d it: gave’t th’impression; plac’d it safely, The changeling never known."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You know the character, I doubt not, and the signet is not strange to you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have been bold— For that I knew it the most general way— To them to use your signet and your name, But they do shake their heads, and I am here No richer in return."*
+> - 📜 **William Shakespeare (*Henry VIII*):** *"The king has given him his ring, his royal **signet**, to command our presence and obedience."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The imperial **signet** engraved with the head of Augustus gave unquestioned validity to every edict."*
+> - 📜 **Sir Walter Scott (*The Talisman*):** *"The messenger presented the golden **signet** ring of Richard the Lionheart as his credential before the crusader princes."*

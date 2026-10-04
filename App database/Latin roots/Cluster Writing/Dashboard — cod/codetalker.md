@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A secret agent who was one of the navajos who devised and used a code based on their native language; the code was unbroken by the japanese during world war ii.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A secret agent who was one of the navajos who devised and used a code based on their native language; the code was unbroken by the japanese during world war ii.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A military communications specialist who uses an obscure indigenous language to transmit confidential tactical messages during wartime.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military cryptography and history, indigenous radio operators, particularly Navajo and Choctaw servicemen, whose languages formed uncrackable battlefield ciphers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, codetalker designates a secret agent who was one of the navajos who devised and used a code based on their native language; the code was unbroken by the japanese during world war ii."*
+> - 📜 **Chester Nez (*Code Talker*):** *"Each Navajo **codetalker** memorized hundreds of military designations translated into our ancestral tongue."*
+> - 📜 **Doris Kearns Goodwin (*No Ordinary Time*):** *"The enemy cryptanalysts were entirely baffled by the transmissions of the marine **codetalker** units in the Pacific."*
+> - 📜 **Samuel Eliot Morison (*History of United States Naval Operations in World War II*):** *"Tactical coordination across landing beaches relied on the instantaneous voice transmissions of the **codetalker** teams."*

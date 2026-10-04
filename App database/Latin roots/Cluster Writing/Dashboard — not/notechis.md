@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tiger snakes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tiger snakes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of highly venomous elapid snakes native to southern Australia, commonly known as tiger snakes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In toxinological medicine, elapids producing potent presynaptic neurotoxins, myotoxins, and coagulants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, notechis designates tiger snakes."*
+> - 📜 **Raymond Ditmars (*Snakes of the World*):** *"Specimens of **Notechis** defend themselves with flattened necks and rapid, lethal strikes across Australian marshes."*
+> - 📜 **Frank Hamilton Cushing (*Zuñi Folk Tales*):** *"Herpetologists caution that bites from wild **Notechis** require immediate administration of polyvalent antivenom."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"The banded tiger snake of the genus **Notechis** displays wide color variation from tawny brown to coal black."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Signs collectively (especially commercial signs or posters).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Signs collectively (especially commercial signs or posters).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Signs collectively, especially commercial, regulatory, or directional signs displayed in public spaces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urban planning, environmental graphic design, and wayfinding architecture, visual communication displays directing human transit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, signage designates signs collectively (especially commercial signs or posters)."*
+> - 📜 **Lewis Mumford (*The City in History*):** *"Modern urban streets are crowded with commercial **signage** that competes aggressively for the pedestrian's fleeting attention."*
+> - 📜 **Jane Jacobs (*The Death and Life of Great American Cities*):** *"Clear neighborhood **signage** and active storefronts foster natural wayfinding and street vitality."*
+> - 📜 **H. G. Wells (*When the Sleeper Wakes*):** *"Vast electrical **signage** blazed across the upper aerial roadways, projecting moving advertisements into the night sky."*

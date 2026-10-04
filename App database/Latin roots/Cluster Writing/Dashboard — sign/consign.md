@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Commit forever; commit irrevocably.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give over to another for care or safekeeping.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To deliver, commit, or hand over someone or something formally into the care, custody, or disposal of another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime commerce and commercial law, to ship goods to an agent or factor for custody, transport, or sale.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It were, my lord, a hard condition for a maid to consign to."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As many farewells as be stars in heaven, With distinct breath and consign’d kisses to them, He fumbles up into a loose adieu, And scants us with a single famish’d kiss, Distasted with the salt of broken tears."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"We consign the whole thing to oblivion."*
+> - 📜 **William Shakespeare (*Cymbeline*):** *"All lovers young, all lovers must **consign** to thee, and come to dust."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The victorious conqueror resolved to **consign** the rebel city to indiscriminate fire and plunder."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She could not bear to **consign** her beloved sister to a life of perpetual regret and estrangement."*

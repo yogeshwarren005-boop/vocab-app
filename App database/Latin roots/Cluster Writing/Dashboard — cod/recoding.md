@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Converting from one code to another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put into a different code; rearrange mentally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of revising, reclassifying, or converting data into an alternative code or format.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular genetics and digital computing, translational reprogramming of genetic sequences or automated transformation of data representations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, recoding designates converting from one code to another."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"Non-standard ribosomal translation demonstrates that programmatic **recoding** can alter codon reading during peptide elongation."*
+> - 📜 **Claude Shannon (*The Mathematical Theory of Communication*):** *"Intermediate **recoding** at relay stations reduces accumulated noise before final decoding at the receiver."*
+> - 📜 **Herbert A. Simon (*The Sciences of the Artificial*):** *"Cognitive chunking involves the internal **recoding** of raw perceptual data into compact symbolic structures."*

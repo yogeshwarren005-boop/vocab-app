@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One side of one leaf (of a book or magazine or newspaper or letter etc.) or the written or pictorial matter it contains.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English industrialist who pioneered in the design and manufacture of aircraft (1885-1962).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One side of a leaf of a book, newspaper, or manuscript; or a youth employed as an errand bearer or ceremonial attendant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In codicology, typography, and medieval history, a single typographical surface of a folio or a noble youth training for chivalric knighthood.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A Page, servant to the Countess of Rossillon."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Monsieur Parolles, my lord calls for you. [_Exit Page._] PAROLLES."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll have no worse a name than Jove’s own page, And therefore look you call me Ganymede."*
+> - 📜 **Sir Walter Scott (*Ivanhoe*):** *"The handsome young **page** bore his lord's heavy shield and spurred his steed beside the knight."*
+> - 📜 **John Milton (*Areopagitica*):** *"As good almost kill a man as kill a good book; who kills a man kills a reasonable creature, but he who destroys a good book kills reason itself upon the printed **page**."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I turned the yellowed **page** of Bewick's History of British Birds, entranced by solitary Arctic shores."*

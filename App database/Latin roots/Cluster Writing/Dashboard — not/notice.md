@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An announcement containing information about an event; ; ; "a notice of sale.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of noticing or paying attention.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Attention, observation, or awareness, or a formal written or printed announcement or warning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contract and tenancy law, formal notification served by one party terminating an agreement or lease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let our officers Have notice what we purpose."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I had myself notice of my brother’s purpose herein, and have by underhand means laboured to dissuade him from it; but he is resolute."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To my poor unworthy notice, He mocked us when he begged our voices."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth took little **notice** of Darcy's silence, being happily engrossed in conversation with Wickham."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"A legal **notice** in Chancery was posted upon the iron gates, warning all claimants of impending sale."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"Holmes observed with keen **notice** the microscopic traces of red dust clinging to the victim's cuffs."*

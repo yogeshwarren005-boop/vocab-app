@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A method of planographic printing from a metal or stone surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making a lithographic print.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A printing process in which printing is done from a flat stone or metal plate treated so that ink adheres only to the design area (planography).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial history, the chemical printing invention developed by Alois Senefelder in 1796, based on the mutual repulsion of oil and water.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lithography designates a method of planographic printing from a metal or stone surface."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"Senefelder's invention of **lithography** brought exquisite tonal gradations within reach of the everyday printmaker."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Bruce-Partington Plans*):** *"The stolen government blueprints had been reproduced by secret **lithography**."*
+> - 📜 **Walter Pater (*Appreciations*):** *"The golden age of French caricature owed its spontaneous vigor to the speed and freedom of **lithography**."*

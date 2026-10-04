@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a legal title to something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a legal title to something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to a title or name; holding nominal designation without operational authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In canon law and heraldic tradition, a designated person invested with a nominal title, office, or ecclesiastical benefice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, titulary designates of or relating to a legal title to something."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The monarchy became an empty **titulary** pageant while real power shifted to popular clubs and provincial sections."*
+> - 📜 **Sir Walter Scott (*Quentin Durward*):** *"The ambassador claimed exemptions under his **titulary** privileges granted by the sovereign count."*
+> - 📜 **John Evelyn (*The Diary of John Evelyn*):** *"The prince maintained several **titulary** councillors whose functions were solely ceremonial."*

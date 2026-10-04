@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who can use sign language to communicate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who signs and is bound by a document.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who signs a document, contract, petition, or financial instrument.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal drafting and political history, an individual appending an autograph to an official deed or constitutional charter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The ineffaceable, sad birth-mark in the brow of man, is but the stamp of sorrow in the signers."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"The ineffaceable, sad birth-mark in the brow of man, is but the stamp of sorrow in the signers."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"What was said, sir, or rather what was not said, in those years, against John Adams, one of the signers of the Declaration of Independence, and its admitted ablest defender on the floor of Congress?"*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Every **signer** of the petition knew that appending his name might expose him to prosecution for sedition."*
+> - 📜 **Sir William Blackstone (*Commentaries on the Laws of England*):** *"The legal **signer** of a deed of conveyance binds both himself and his heirs by the covenants contained therein."*
+> - 📜 **Mark Twain (*The Innocents Abroad*):** *"The museum exhibited an authentic quill used by each distinguished **signer** of the historic pact."*

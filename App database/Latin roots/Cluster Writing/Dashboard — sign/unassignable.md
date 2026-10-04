@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being transferred.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being transferred.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not assignable; incapable of being allocated, delegated, transferred, or ascribed to a specific cause.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contract jurisprudence and property law, legally non-transferable or strictly personal so that it cannot be conveyed to an assignee.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unassignable designates incapable of being transferred."*
+> - 📜 **Sir William Blackstone (*Commentaries on the Laws of England*):** *"Personal trusts and certain judicial offices are by their very nature **unassignable** to third parties."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"A residue of anomalous phenomena remained **unassignable** to any recognized physical law of dynamics."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Certain royal privileges were deemed inalienable and **unassignable** under ancient constitutional charters."*

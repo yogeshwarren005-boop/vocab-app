@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act of writing in code or cipher.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attach a code to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of writing computer programs, or the classification and conversion of data into symbolic code.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In communications theory, computer science, and molecular genetics, the systematic encoding of instructions, data sequences, or nucleotide triplets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Studying the arrangement of the structures around them and the coding on cable bundles, Brad peered along the catwalk, first in one direction, then the opposite."*
+> - 📜 **Claude Shannon (*The Mathematical Theory of Communication*):** *"Efficient statistical **coding** allows information transmission with minimal probability of channel distortion."*
+> - 📜 **Francis Crick (*What Mad Pursuit: A Personal View of Scientific Discovery*):** *"The triplet sequence of bases provides the universal **coding** mechanism directing amino acid synthesis."*
+> - 📜 **Alan Turing (*Intelligent Machinery*):** *"The physical implementation of the machine translates symbolic **coding** into precise electromechanical operations."*

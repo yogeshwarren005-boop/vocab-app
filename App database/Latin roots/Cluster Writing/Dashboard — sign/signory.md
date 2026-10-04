@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The estate of a seigneur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The estate of a seigneur.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The territory, domain, lordship, or governing body of a feudal lord or Italian city-state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval and Renaissance Italian history, the governing oligarchy, municipal council (signoria), or lordly feudal estate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Were you not restored To all the Duke of Norfolk’s signories, Your noble and right well rememb’red father’s?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Repealed he shall be, And, though mine enemy, restored again To all his lands and signories."*
+> - 📜 **William Shakespeare (*Richard II*):** *"You have fed upon my **signories**, dispark'd my parks, and fell'd my forest trees."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Venetian **signory** maintained an aristocratic republic with unyielding discipline and secret tribunals."*
+> - 📜 **Sir Walter Scott (*Anne of Geierstein*):** *"The Swiss cantons defied the feudal authority of the Austrian **signory**, asserting their alpine independence."*

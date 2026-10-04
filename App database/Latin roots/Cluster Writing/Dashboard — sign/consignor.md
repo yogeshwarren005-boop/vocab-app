@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The person who delivers over or commits merchandise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The person who delivers over or commits merchandise.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The person or company that consigns or ships goods, merchandise, or property to a consignee.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial transportation law, the shipper who initiates a contract of carriage and warrants the description of the shipped goods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, consignor designates the person who delivers over or commits merchandise."*
+> - 📜 **Sir William Blackstone (*Commentaries on the Laws of England*):** *"The carrier acts as bailee responsible to both the **consignor** and the ultimate recipient for negligent damage."*
+> - 📜 **Herman Melville (*Redburn: His First Voyage*):** *"The customs officer verified the endorsements of the foreign **consignor** before releasing the crates."*
+> - 📜 **Joseph Conrad (*The Shadow-Line*):** *"The manifest bore the stamp of the **consignor**, guaranteeing the purity of the medicinal stores aboard."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not taken into account.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not taken into account.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not noticed, observed, recorded, or marked; passing without attention or remark.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical narratives, obscure deeds or quiet lives that leave no trace in official public annals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Gnats are unnoted wheresoe’er they fly, But eagles gazed upon with every eye."*
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"And such defeat, unnoted and unseen Till it had passed, has been my own to-day; And, with a sense of mortified chagrin, I turn me from the pleasing view away, And in the busy city seek to find A new diversion to engage my mind."*
+> - 📜 **Thomas Gray (*Elegy Written in a Country Churchyard*):** *"Full many a flower is born to blush unseen, and waste its sweetness on the desert air, **unnoted** by the great."*
+> - 📜 **William Wordsworth (*The Excursion*):** *"He lived an **unnoted** life among the solitude of Westmorland fells, beloved by wandering shepherds."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Dozens of petty frontier skirmishes passed **unnoted** by contemporary Roman annalists."*

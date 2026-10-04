@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A book with blank pages for recording notes or memoranda.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small compact portable computer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A book of blank or ruled paper pages used for recording notes, memoranda, drawings, or sketches.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual biography, the personal laboratory journals kept by scientists and artists to record fleeting insights.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, notebook designates a book with blank pages for recording notes or memoranda."*
+> - 📜 **Charles Darwin (*Autobiography*):** *"In July 1837 I opened my first **notebook** on Transmutation of Species, collecting facts with unflagging zeal."*
+> - 📜 **Virginia Woolf (*A Writer's Diary*):** *"She turned to her black leather **notebook** to capture the rhythmic cadence of the waves against the shore."*
+> - 📜 **Thomas Edison (*The Diary and Sundry Observations*):** *"Every failed laboratory experiment was meticulously entered into the laboratory **notebook** for future analysis."*

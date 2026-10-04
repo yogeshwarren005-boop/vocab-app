@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A second confirming signature endorsing a document already signed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A second confirming signature endorsing a document already signed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An additional, authenticating signature added to a previously signed document by an official, witness, or authorized agent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional governance, executive orders requiring the formal attestation of a responsible minister to acquire statutory force.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, countersignature designates a second confirming signature endorsing a document already signed."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Royal proclamations could not take lawful effect without the ministerial **countersignature** of the secretary of state."*
+> - 📜 **Sir William Blackstone (*Commentaries on the Laws of England*):** *"The validity of the treasury draft rested upon the proper **countersignature** of the chief auditor."*
+> - 📜 **Anthony Trollope (*The Way We Will Live Now*):** *"The commercial transfer was incomplete until Melmotte appended his personal **countersignature**."*

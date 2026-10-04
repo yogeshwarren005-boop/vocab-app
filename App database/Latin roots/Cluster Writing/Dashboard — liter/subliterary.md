@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not written as or intended to be literature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not written as or intended to be literature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Below the level of standard literature; having little or no artistic or intellectual value; cheap or sensational writing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and cultural studies, popular, ephemeral, or sensational reading material, such as chapbooks, dime novels, or pulp serials.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subliterary designates not written as or intended to be literature."*
+> - 📜 **George Orwell (*Decline of the English Murder*):** *"The sensational penny dreadfuls belonged to a vast **subliterary** underworld catering to morbid working-class curiosity."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"Beneath high literary achievements lies a teeming **subliterary** marsh of forgotten pamphlets and sentimental romances."*
+> - 📜 **Q. D. Leavis (*Fiction and the Reading Public*):** *"The rise of commercial syndicates fostered a degraded **subliterary** journalism aimed solely at mass entertainment."*

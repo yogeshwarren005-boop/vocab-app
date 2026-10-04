@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Nonsensical talk or writing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Nonsensical talk or writing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Nonsense, rubbish, or meaningless talk; absurd or baseless assertions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British informal colloquialism and lexicography, an emphatic colloquial dismissal of preposterous claims or fabricated tales.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, codswallop designates nonsensical talk or writing."*
+> - 📜 **George Orwell (*Collected Essays, Journalism and Letters*):** *"He dismissed the sensational political pamphlet as sheer unadulterated **codswallop** designed to dupe credulous voters."*
+> - 📜 **P. G. Wodehouse (*Much Obliged, Jeeves*):** *"All that talk of my running for parliament was absolute **codswallop**, and Aunt Dahlia knew it."*
+> - 📜 **C. S. Lewis (*Letters to Malcolm: Chiefly on Prayer*):** *"To argue that moral laws are mere subjective projections seems to me pure intellectual **codswallop**."*

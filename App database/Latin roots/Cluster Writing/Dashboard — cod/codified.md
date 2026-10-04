@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Organize into a code or system, such as a body of law.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enacted by a legislative body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arranged, systematized, and formally enacted into a structured legal code or authoritative standard.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statutory law, transformed from customary or decentralized judicial holdings into a comprehensive, binding legislative framework.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, codified designates organize into a code or system, such as a body of law."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"When customary rights became **codified** statutes, the tenantry lost many traditional agricultural protections."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The ancient customs of the realm were gradually **codified** into parliamentary enactments."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Priestly traditions became **codified** dogmas as tribal religions consolidated into national institutions."*

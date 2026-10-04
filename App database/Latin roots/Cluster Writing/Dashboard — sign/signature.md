@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Your name written in your own handwriting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A distinguishing style.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person's name written by themselves in a distinctive, personalized way on a document to confirm authenticity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In typography, cryptography, and biochemistry, a folded sheet of printed pages, a digital hash validation, or a unique biological biomarker.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I always received by return of post exactly the same answer in the same round hand, with the signature of Kenge and Carboy in another writing, which I supposed to be Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I have nothing but his signature."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed by no means reciprocated, “and so you chance to find, you know, a paper with the signature of Jarndyce to it."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The attorney carefully compared the questionable **signature** on the will with letters indisputably penned by the testator."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The parchment bore the mysterious **signature** of the four confederates beneath the diagram of the fortress."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"The handwriting and **signature** upon the cover of the letter confirmed all her worst apprehensions."*

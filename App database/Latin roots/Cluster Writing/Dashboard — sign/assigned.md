@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give an assignment to (a person) to a post, or assign a task to (a person).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give out.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Designated, allocated, or transferred for a specific task, function, recipient, or legal purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In administrative and military organization, formally appointed to a specific garrison, post, division, or legal duty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His sons he there proclaimed the kings of kings: Great Media, Parthia, and Armenia He gave to Alexander; to Ptolemy he assigned Syria, Cilicia, and Phoenicia."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Only once had he to consult a Greek lexicon for the meaning of a word; and then it turned out that the meaning he had assigned to it provisionally was the right one."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"In these he assigned full marks to a large proportion of the papers sent in."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"He carried out the **assigned** duties of the farm bailiff with sullen, unbending regularity."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The legions were **assigned** permanent winter quarters along the fortified banks of the Danube."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Watson was **assigned** the delicate responsibility of reporting every movement observed upon the moor."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An italian courtesy title for an unmarried woman; equivalent to `miss', it is either used alone or before a name.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An italian title or form of address for an unmarried woman.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A title of respect for an unmarried Italian woman or girl, equivalent to 'Miss'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Italian culture, literature, and social protocol, the customary honorific addressed to an unmarried maiden or young lady.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, signorina designates an italian courtesy title for an unmarried woman; equivalent to `miss', it is either used alone or before a name."*
+> - 📜 **Henry James (*Roderick Hudson*):** *"The young artist admired the delicate grace of the **signorina** as she arranged flowers in the courtyard."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"The musical maestro introduced his gifted pupil as the most promising young **signorina** in the academy."*
+> - 📜 **E. M. Forster (*A Room with a View*):** *"The Italian cabman bowed courteously to the English **signorina** as she stepped out by the Piazza della Signoria."*

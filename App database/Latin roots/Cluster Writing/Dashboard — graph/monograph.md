@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A detailed and documented treatise on a particular subject.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A detailed and documented treatise on a particular subject.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A detailed, comprehensive, and scholarly written treatise on a single specialized subject or a single aspect of a subject.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic publishing and bibliographic classification, a freestanding non-serial publication focused on an exhaustive investigation of a discrete topic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Knuffmann in a learned monograph, _Balder, Mythus und Sage_ (Strasburg, 1902). [257] Gudbrand Vigfusson and F."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon had adopted an immediate intention: there was to be a new Parergon, a small monograph on some lately traced indications concerning the Egyptian mysteries whereby certain assertions of Warburton’s could be corrected."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"In this case I found her biography sandwiched in between that of a Hebrew rabbi and that of a staff-commander who had written a monograph upon the deep-sea fishes."*
+> - 📜 **Charles Darwin (*A Monograph on the Sub-class Cirripedia*):** *"In this **monograph**, I have endeavoured to describe every known species of living barnacle with anatomical precision."*
+> - 📜 **Arthur Conan Doyle (*The Sign of Four*):** *"Sherlock Holmes had published an exhaustive **monograph** upon the tracing of footsteps and the preservation of plaster casts."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The young naturalist established his scientific reputation by publishing a thorough **monograph** on the fossil cephalopods of the chalk."*

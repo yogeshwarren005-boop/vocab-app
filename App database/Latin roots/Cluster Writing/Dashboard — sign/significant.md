@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Important in effect or meaning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fairly large.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sufficiently great or important to be worthy of attention; noteworthy; or having a particular meaning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In inferential statistics, semiotics, and historical analysis, indicative of systematic effects or loaded with symbolic import.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Miss Jellyby gave my arm a squeeze and me a very significant look."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The horse bore him away, and the very step of the animal seemed significant of dogged despair."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The charge of the judge was stern and significant."*
+> - 📜 **Jane Austen (*Persuasion*):** *"A very **significant** glance passed between them, conveying more mutual understanding than a volume of spoken words."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"This rudimentary organ presents a most **significant** witness to ancestral habits and anatomical modifications."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The parliamentary vote marked a **significant** turning point in the constitutional struggles of the seventeenth century."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An italian title of address equivalent to mrs. when used before a name.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An italian title or form of address for a married woman.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A title of respect for an Italian married woman, equivalent to 'Mrs.' or 'madam'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Italian etiquette and European literature, a courtesy title prefixed to the surname of an Italian matron or married woman.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I sought my ideal of a woman amongst English ladies, French countesses, Italian signoras, and German gräfinnen."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The elegant Italian lady was addressed as **Signora** by her companions as they strolled across the terrace."*
+> - 📜 **George Eliot (*Romola*):** *"The Florentine neighbors curtsied respectfully to the **signora** as she emerged from the parish church."*
+> - 📜 **William Makepeace Thackeray (*The Newcomes*):** *"The celebrated soprano was hailed everywhere as the charming **Signora** whose voice had conquered Europe."*

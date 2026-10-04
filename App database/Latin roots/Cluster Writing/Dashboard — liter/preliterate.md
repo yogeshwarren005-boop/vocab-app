@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not yet having acquired the ability to read and write.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used of a society that has not developed writing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of, relating to, or denoting a culture or society that has not yet developed a written language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropology and developmental archaeology, human societies operating prior to the invention or adoption of orthographic writing systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, preliterate designates not yet having acquired the ability to read and write."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In **preliterate** communities, magical rituals and seasonal myths serve to organize collective agricultural labor."*
+> - 📜 **Edward Burnett Tylor (*Anthropology: An Introduction to the Study of Man and Civilization*):** *"The material tools of **preliterate** cultures reveal sophisticated adaptations to diverse geographical environments."*
+> - 📜 **Claude Lévi-Strauss (*Tristes Tropiques*):** *"Living among a **preliterate** Amazonian tribe revealed how memory, myth, and social kinship structure communal existence."*

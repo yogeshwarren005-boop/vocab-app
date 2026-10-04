@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or presented by a graph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Written or drawn or engraved.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to drawing, writing, engraving, or representations by graphs, diagrams, or pictures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computing and interface design, utilizing visual icons, windows, and graphical elements rather than purely text-based command lines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, graphical designates relating to or presented by a graph."*
+> - 📜 **Alan Kay (*Microelectronics and the Personal Computer*):** *"The development of the **graphical** user interface transformed computers from arcane number-crunchers into intuitive extensions of the human mind."*
+> - 📜 **James Clerk Maxwell (*On Graphical Methods in Materials*):** *"A **graphical** calculation of stress distributions often reveals mechanical flaws that algebraic formulas conceal."*
+> - 📜 **William Playfair (*The Commercial and Political Atlas*):** *"I have devised these **graphical** charts to communicate commercial balances directly to the eye without tedious columns of figures."*

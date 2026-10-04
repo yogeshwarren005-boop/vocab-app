@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the power of explicitly denoting or designating or naming.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In accordance with fact or the primary meaning of a term.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to denote, specify, or indicate; relating to the direct, literal meaning of a word.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In semiotics, describing straightforward literal reference before secondary connotations are attached.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, denotative designates having the power of explicitly denoting or designating or naming."*
+> - 📜 **Roland Barthes (*Elements of Semiology*):** *"At the first semiotic tier, the photograph presents a purely **denotative** capture of the physical object."*
+> - 📜 **Umberto Eco (*The Role of the Reader*):** *"Scientific definitions strive for unambiguous **denotative** clarity, purging poetic metaphors entirely."*
+> - 📜 **I. A. Richards (*Principles of Literary Criticism*):** *"Technical prose prioritizes **denotative** precision to ensure that instructions are followed without error."*

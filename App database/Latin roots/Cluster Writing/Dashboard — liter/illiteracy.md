@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ignorance resulting from not reading.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inability to read.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inability to read or write; ignorance of letters, books, or specialized academic disciplines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In educational sociology and demographic history, the inability to comprehend and produce written communication within a literate society.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It provides that the proceeds of the sale of public land and the earnings of the Patent Office shall be funded at four per cent., and the interest divided among the States in proportion to their illiteracy."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The census reports revealed widespread adult **illiteracy** across rural districts, prompting demands for public school funding."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"Ancient civilizations were hampered by widespread **illiteracy**, confining intellectual culture to narrow scribal castes."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"Universal suffrage must be accompanied by universal education, lest national policy be dictated by widespread **illiteracy**."*

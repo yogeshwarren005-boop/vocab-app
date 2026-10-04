@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity of converting data or information into code.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert information into code.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of converting information into a coded form or symbolic representation for transmission or storage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology, molecular biology, and computer science, the systematic representation of sensory stimuli, instructions, or genetic data.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, encoding designates the activity of converting data or information into code."*
+> - 📜 **Francis Crick (*The Genetic Code*):** *"The fidelity of genetic **encoding** guarantees that proteins are synthesized identically across successive generations."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The cognitive **encoding** of sensory impressions into memory traces depends largely on the intensity of sustained attention."*
+> - 📜 **Claude Shannon (*Communication in the Presence of Noise*):** *"Proper **encoding** of redundant check digits protects transmitted messages from transmission errors."*

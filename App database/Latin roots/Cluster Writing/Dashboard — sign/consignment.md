@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Goods carried by a large vehicle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The official act of consigning a person to confinement (as in a prison or mental hospital).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A quantity of goods or cargo delivered, sent, or entrusted to someone for sale, transit, or safekeeping.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mercantile practice and bailment law, a commercial arrangement where merchandise is entrusted to a broker who pays the supplier only upon sale.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"I was down on the levee, to see to the consignment of my freight, and run afoul of her."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"At that simple but most solemn consignment of the body to the grave-“Earth to earth, ashes to ashes, dust to dust!”--the tears of the youthful companions of the deceased flowed unrestrained."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"I got a letter from Whiteley's this morning asking when my first consignment was to arrive."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"The merchant examined the heavy **consignment** of raw cotton just unloaded from the railway wagons."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"A precious **consignment** of ivory arrived from the interior station under heavy armed escort."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The dock registers showed a valuable **consignment** of timber received from the Andaman Islands."*

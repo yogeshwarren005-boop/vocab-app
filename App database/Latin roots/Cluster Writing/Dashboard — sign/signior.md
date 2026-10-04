@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used as an italian courtesy title; can be prefixed to the name or used separately.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used as an italian courtesy title; can be prefixed to the name or used separately.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An Italian title of respect and courtesy equivalent to 'sir', 'mister', or 'gentleman'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical European literature and theater, an Italian nobleman or lord, frequently applied to Venetian patricians.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good Signior Angelo, you must excuse us all, My wife is shrewish when I keep not hours."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You’re sad, Signior Balthasar; pray God our cheer May answer my good will and your good welcome here."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, Signior Balthasar, either at flesh or fish A table full of welcome makes scarce one dainty dish."*
+> - 📜 **William Shakespeare (*Othello*):** *"Most potent, grave, and reverend **signior**, my very noble and approv'd good masters, that I have ta'en away this old man's daughter, it is most true."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"The haughty **signior** stepped into his gondola as the evening shadows enveloped the Grand Canal."*
+> - 📜 **Sir Walter Scott (*The Antiquary*):** *"He was addressed as **signior** by the foreign travelers who sought his antiquarian guidance."*

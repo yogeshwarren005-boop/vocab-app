@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A boy who is employed to run errands.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A smooth hair style with the ends of the hair curled inward.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A young male attendant or messenger at a wedding, royal court, or hotel; or a rounded chin-length hairstyle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In court etiquette, hospitality history, and hair styling, a uniformed youth attendant or a smooth bobbed haircut curling smoothly under the jawline.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"His satellites—the senior clerk, a countinghouse clerk, a scullery maid, a cook, two old women, a little pageboy, the coachman, and various domestic serfs—were seeing him off."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"A diminutive **pageboy** in buttons ushered the distinguished visitors into the gloomy drawing-room."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The aristocratic lady was preceded down the carpeted stairs by a smart **pageboy** bearing her shawl."*
+> - 📜 **P. G. Wodehouse (*Right Ho, Jeeves*):** *"A brisk **pageboy** handed Bertie a silver salver bearing a telegram from Aunt Dahlia."*

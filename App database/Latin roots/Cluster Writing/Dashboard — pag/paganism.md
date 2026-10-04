@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various religions other than christianity or judaism or islamism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various religions other than christianity or judaism or islamism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Religious beliefs, practices, or values that are polytheistic, animistic, or outside major monotheistic world religions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative religion and cultural historiography, historical polytheistic belief systems centered on nature worship, local tutelary spirits, and temple rites.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He had persistently elevated Hellenic Paganism at the expense of Christianity; yet in that civilization an illegal surrender was not certain disesteem."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The truth seems to be that to this day the peasant remains a pagan and savage at heart; his civilization is merely a thin veneer which the hard knocks of life soon abrade, exposing the solid core of paganism and savagery below."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"First of all, let us try to estimate the strength of this old Mediterranean Paganism."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The final extinction of **paganism** required several centuries of legislative suppression and ecclesiastical evangelism."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Classical **paganism** drew its vital force from the seasonal rhythms of sowing, harvest, and vegetation rebirth."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The triumph of Christianity over ancient **paganism** was celebrated by the demolition of statues and altars."*

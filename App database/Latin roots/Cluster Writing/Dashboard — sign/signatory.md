@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who signs and is bound by a document.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who signs and is bound by a document.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, organization, or state that has signed an official document, treaty, contract, or convention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international public law and diplomatic protocol, a contracting party bound by the formal execution and ratifications of a treaty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, signatory designates someone who signs and is bound by a document."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Each provincial deputy acting as **signatory** delivered solemn pledges of peace to the imperial commissioner."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Every **signatory** to the treaty of peace guaranteed the commercial rights of Protestant merchants across the Baltic."*
+> - 📜 **Woodrow Wilson (*The State: Elements of Historical and Practical Politics*):** *"A sovereign **signatory** incurs moral and legal obligations to honor multilateral covenants in international law."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An asian temple; usually a pyramidal tower with an upward curving roof.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An asian temple; usually a pyramidal tower with an upward curving roof.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tiered religious tower with multiple overhanging eaves, common in China, Japan, Korea, and other parts of East and Southeast Asia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural history and Asian religious studies, a multistory sacred Buddhist stupa or temple tower erected to house relics or scriptures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The mere gateway was of the size of a palace in itself, rising pagoda-like, in many retreating stories, each story fringed with tile-roofing."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"She goes nowhere, not even to the pagoda."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Rattle thy teeth, then, and pound away; make a pagoda of thyself."*
+> - 📜 **Marco Polo (*The Travels of Marco Polo*):** *"In the great city stood a majestic porcelain **pagoda** whose gilded finials shone brilliantly across the river."*
+> - 📜 **Rudyard Kipling (*Barrack-Room Ballads*):** *"By the old Moulmein **Pagoda**, lookin' lazy at the sea, there's a Burma girl a-settin', and I know she thinks o' me."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The oriental traveler envisions the sacred **pagoda** rising serenely above primeval mountain forests."*

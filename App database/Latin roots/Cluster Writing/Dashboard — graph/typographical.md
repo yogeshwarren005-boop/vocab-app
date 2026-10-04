@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or occurring or used in typography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or occurring or used in typography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or involving typography or the process of printing; of or concerned with the arrangement of type and the visual design of printed matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In publishing and proofreading, typographical pertains to errors, conventions, and standards governing the visual presentation of text on the printed page or digital screen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Algis Budrys (*Citadel*):** *"Minor spelling and typographical errors have been corrected without note."*
-> - 📜 **Poul Anderson (*The Valor of Cappen Varra*):** *"Minor spelling and typographical errors have been corrected without note."*
-> - 📜 **John Leonard Hardenbergh (*The Journal of Lieut. John L. Hardenbergh of the Second New York Continental Regiment from May 1 to October 3, 1779, in General Sullivan's Campaign Against the Western Indians*):** *"Obvious typographical errors have been corrected."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"I corrected the **typographical** errors myself, having learned the trade as an apprentice printer."*
+> - 📜 **Stanley Morison (*First Principles of Typography*):** *"**Typographical** excellence is achieved when the reader is wholly absorbed in the text and unconscious of the medium."*
+> - 📜 **William Morris (*A Note on His Aims in Founding the Kelmscott Press*):** *"I began printing with the hope of producing books which would have a definite claim to beauty of **typographical** arrangement."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or being biography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or being biography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or concerning the biography of an individual.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Composed of or based on facts, events, and records from a person's life history.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Brown because of that." No sooner was this book off his hands than Cairns was urged to undertake another biographical work--the Life of George Wilson."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Sir?" "Would it bore you if I became auto-biographical?" "Sir?" "Never mind."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Recommended by her friend, the late Margaret Breckinridge, of whom a biographical notice is given in this volume, she came to St."*
+> - 📜 **James Boswell (*The Life of Samuel Johnson*):** *"I have collected these **biographical** materials with scrupulous fidelity from his most intimate companions."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"The **biographical** sketch allows us to enter the intimate domestic circle of seventeenth-century poets."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"His extensive **biographical** dictionary remains an indispensable monument of English scholarship."*

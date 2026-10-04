@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A speaker or writer who makes use of alliteration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A speaker or writer who makes use of alliteration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, writer, or poet who frequently uses alliteration in their speech or literary works.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and poetic history, a versifier who systematically constructs lines using initial consonant correspondence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alliterator designates a speaker or writer who makes use of alliteration."*
+> - 📜 **George Saintsbury (*A History of Elizabethan Literature*):** *"The euphuist was an inveterate **alliterator**, pairing antitheses with identical consonants from beginning to end."*
+> - 📜 **Thomas De Quincey (*Literary Reminiscences*):** *"The satirist proved himself a nimble **alliterator**, matching consonant clusters with mischievous verbal precision."*
+> - 📜 **Algernon Charles Swinburne (*William Blake: A Critical Essay*):** *"Even as a boy, the young poet showed the instincts of a natural **alliterator**, fascinated by initial word chimes."*

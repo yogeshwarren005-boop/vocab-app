@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a legal title to something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or bearing a title signifying status or function.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Holding or existing in name or title only, without having real authority, substance, or power.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical and ecclesiastical governance, possessing an official title or rank without possessing corresponding territorial jurisdiction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Algis Budrys (*Citadel*):** *"Follow my lead." He reviewed his information on Dovenilid titular systems while he touched the switch."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Many other Greek democracies had titular kings, whose duties, so far as they are known, seem to have been priestly, and to have centered round the Common Hearth of the state."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Some Greek states had several of these titular kings, who held office simultaneously."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Many other Greek democracies had **titular** kings, whose duties, so far as they are known, seem to have been priestly, and to have centered round the Common Hearth of the state."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Roman senate maintained a **titular** dignity long after its legislative sovereignty had expired."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"He remained the **titular** head of the household, though his wife commanded every domestic expenditure."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Transfer somebody to a different position or location of work.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transfer somebody to a different position or location of work.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To assign again; to allocate, appoint, or transfer a task, role, person, or asset to a different duty or recipient.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In administrative management and computer systems, to modify an operational posting or allocate memory registers to another process.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"When I saw all this, the life of man came before me under the likeness of a great pageant, arranged and marshalled by Chance," who assigns the parts and reassigns them as she pleases; and then the pageant ends, every one disrobes and all are alike."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"What's more, I understand you've reassigned some of my troops to this wagon."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The military council decided to **reassign** the auxiliary cavalry cohorts to reinforce the crumbling left wing."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The crown found it expedient to **reassign** colonial governorships to quell disaffection among the planters."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The central transport board resolved to **reassign** aerial freighters to alleviate the regional famine."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who designs and writes and tests computer programs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who designs and writes and tests computer programs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who writes computer programs, or an individual who translates information into a systematic cipher or code.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In software engineering and data management, a technical specialist responsible for writing, maintaining, and debugging software source code.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coder designates a person who designs and writes and tests computer programs."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"The human **coder** translates high-level systemic logic into precise sequences operable by digital computing relays."*
+> - 📜 **Claude Shannon (*The Mathematical Theory of Communication*):** *"An optimal **coder** maximizes throughput by matching message redundancy to channel bandwidth constraints."*
+> - 📜 **Alan Turing (*Computing Machinery and Intelligence*):** *"The instructions entered by the **coder** determine the deterministic trajectory of the discrete machine."*

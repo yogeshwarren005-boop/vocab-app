@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Attributable to chance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attributable to chance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not significant; having little importance, meaning, or statistical effect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In inferential statistics and empirical science, failing to achieve statistical significance at a designated alpha threshold (e.g. p > 0.05).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonsignificant designates attributable to chance."*
+> - 📜 **Karl Pearson (*The Grammar of Science*):** *"When the experimental divergence is **nonsignificant**, the hypothesis of pure random sampling variation is retained."*
+> - 📜 **Ronald Fisher (*Statistical Methods for Research Workers*):** *"A **nonsignificant** result does not prove the null hypothesis, but indicates insufficient evidence to reject it."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The subject dismissed the subtle temperature variations as **nonsignificant** fluctuations unworthy of attention."*

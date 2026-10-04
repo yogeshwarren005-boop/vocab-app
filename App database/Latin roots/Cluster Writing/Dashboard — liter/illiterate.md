@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person unable to read.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not able to read or write.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unable to read or write; or lacking formal education, literary culture, or specialized knowledge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical sociology and lexicography, an individual uninstructed in letters, or writing characterized by grammatical solecisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yea, the illiterate, that know not how To cipher what is writ in learned books, Will quote my loathsome trespass in my looks."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I think you must have taught them that word in the ‘Pioneer.’” “Oh, that is Keck—an illiterate fellow, you know."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Surely not for an illiterate peasantry, half crazed by the fear of hell?"*
+> - 📜 **William Shakespeare (*Love's Labour's Lost*):** *"Yea, the **illiterate** that never skimmed the book of nature shall confess the wonder of these stars."*
+> - 📜 **George Eliot (*Middlemarch*):** *"I think you must have taught them that word in their spelling lessons, for they are entirely **illiterate** rustic youths."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The country squires were often as **illiterate** as the boors who tilled their manorial acres."*

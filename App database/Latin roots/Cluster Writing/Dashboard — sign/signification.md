@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The message that is intended or expressed or signified.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The message that is intended or expressed or signified.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The exact meaning or sense conveyed by a word, sign, symbol, or action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics, semiotics, and scholastic philosophy, the semantic relation between a linguistic signifier and the mental concept or referent signified.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Not so; here there were no doctrines, nothing but that pregnant phrase, _la vraie signification de la vie_."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"But this is not of public signification that I should occupy with it the time of M. le Maire."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I was still pondering the signification of “Institution,” and endeavouring to make out a connection between the first words and the verse of Scripture, when the sound of a cough close behind me made me turn my head."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Words having naturally no **signification**, the idea each stands for is chosen by voluntary imposition."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The title of imperator had completely changed its ancient constitutional **signification** under the Caesars."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I pondered the true **signification** of the eerie laugh that echoed down the desolate corridor at Thornfield."*

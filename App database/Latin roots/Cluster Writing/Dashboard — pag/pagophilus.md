@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Harp seals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Harp seals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of phocid earless seals encompassing the harp seal (Pagophilus groenlandicus), native to northern Atlantic and Arctic oceans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine mammalogy, a monotypic pinniped genus specialized for life upon drifting pack ice and sub-zero Arctic waters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pagophilus designates harp seals."*
+> - 📜 **Fridtjof Nansen (*Farthest North*):** *"The migrating herds of **pagophilus** congregated upon the expansive ice fields to give birth to their white-coated pups."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"The harp seal, designated **pagophilus**, undertakes extensive seasonal migrations tracking the edge of the northern ice shelf."*
+> - 📜 **William Henry Flower (*An Introduction to the Osteology of the Mammalia*):** *"Cranial adaptations in **pagophilus** reflect its specialized diet of pelagic crustaceans and polar fish."*

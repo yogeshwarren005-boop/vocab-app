@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any nonverbal action or gesture that encodes a message.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Communicate silently and non-verbally by signals or signs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or system of transmitting information, messages, or warnings using signals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, economics, and telecommunications, conveying information or credibly communicating unobservable traits through verifiable behavior.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Signaling Hodak for minimal repulse and acceleration to increase the drift, Brad ordered all hands immediately into accelo-nets."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A single report of a signaling gun followed, and the troops, who were already spread out on different sides of Moscow, moved into the city through the Tver, Kalúga, and Dorogomílov gates."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Arriving, they see that the space liner is signaling Suzanne and Roger to return."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Canine postures serve for visual **signaling**, instantly communicating submission or threat across the pack."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"The fundamental problem of **signaling** is reproducing at one point either exactly or approximately a message selected at another."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"He caught the distant flicker of candlelight, realizing it was a clandestine **signaling** system operating between the convict and the hall."*

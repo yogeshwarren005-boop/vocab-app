@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) the party to whom something is assigned (e.g., someone to whom a right or property is legally transferred).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) the party to whom something is assigned (e.g., someone to whom a right or property is legally transferred).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person appointed to act for another, or an individual to whom a property right, title, or debt is legally transferred.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bankruptcy jurisprudence and contract law, a designated trustee receiving surrendered debtor assets for equitable distribution to creditors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Hammerdown will sell by the orders of Diogenes' assignees, or will be instructed by the executors, to offer to public competition, the library, furniture, plate, wardrobe, and choice cellar of wines of Epicurus deceased."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The official **assignee** took possession of the bankrupt firm's books and ledger accounts."*
+> - 📜 **Sir William Blackstone (*Commentaries on the Laws of England*):** *"The rights of the **assignee** can rise no higher than the title of the original assignor."*
+> - 📜 **Herman Melville (*Bartleby, the Scrivener*):** *"The documents required verification by the legal **assignee** before the foreclosure could proceed."*

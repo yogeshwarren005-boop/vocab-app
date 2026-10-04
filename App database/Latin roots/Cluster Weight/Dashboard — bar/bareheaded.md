@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the head uncovered.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the head uncovered.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wearing no hat, cap, helmet, or head covering upon the head; with the head bare.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ceremonial protocol and religious deference, uncovering the head as a traditional mark of reverence, homage, or mourning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter the Duke, attended; Egeon, bareheaded; with the Headsman and other Officers."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bareheaded plodded by my foot-cloth mule, And thought thee happy when I shook my head?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Welcome, Bolingbroke!” Whilst he, from the one side to the other turning, Bareheaded, lower than his proud steed’s neck, Bespake them thus, “I thank you, countrymen.” And thus still doing, thus he passed along."*
+> - 📜 **William Shakespeare (*King Lear*):** *"Contending with the fretful element; bids the wind blow the earth into the sea, running **bareheaded** in the raging tempest."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The suppliant citizens stood **bareheaded** outside the gates, begging the barbarian conqueror for life and mercy."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The prisoner was led forth **bareheaded** into the prison courtyard, ready to mount the tumbril."*

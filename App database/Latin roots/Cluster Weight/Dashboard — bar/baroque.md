@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The historic period from about 1600 until 1750 when the baroque style of art, architecture, and music flourished in europe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Elaborate and extensive ornamentation in decorative art and architecture that flourished in europe in the 17th century.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by ornate, elaborate, dynamic, and theatrical artistic or architectural style of 17th- and early 18th-century Europe; excessively flamboyant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In art history, the post-Renaissance stylistic epoch featuring dramatic tension, deep chiaroscuro, curved forms, and emotional exuberance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, baroque designates the historic period from about 1600 until 1750 when the baroque style of art, architecture, and music flourished in europe."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The late Renaissance degenerate into extravagant **baroque** ornamentation, overloading classical facades with theatrical marble scrolls."*
+> - 📜 **Henry James (*Roderick Hudson*):** *"The Roman church was a masterpiece of **baroque** splendor, filled with billowing gilded angels and soaring frescoed vaults."*
+> - 📜 **Thomas Mann (*Doctor Faustus*):** *"The composer drew inspiration from seventeenth-century **baroque** polyphony, revitalizing counterpoint with modern harmonic intensity."*

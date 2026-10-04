@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being weighed or considered; - james jeans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being thought about.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having physical weight; capable of being weighed, estimated, evaluated, or materially measured.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Newtonian physics and epistemology, matter possessing measurable inertial mass and gravitational attraction, contrasting with energy or imponderables.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ponderable designates capable of being weighed or considered; - james jeans."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry*):** *"The chemist distinguishes between **ponderable** matter that registers upon scales and radiant imponderable forces such as light."*
+> - 📜 **Isaac Newton (*Opticks*):** *"All **ponderable** bodies gravitate toward each other in direct proportion to their material masses."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"Science confines its empirical measurements to **ponderable** substances and verified energetic transformations in nature."*

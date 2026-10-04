@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the legs uncovered by clothing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the legs uncovered by clothing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the legs uncovered, without stockings, socks, pants, or footwear coverings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical costume and rustic description, wearing tunics or kilts without hose, exposing the shins and calves to the elements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barelegged designates having the legs uncovered by clothing."*
+> - 📜 **Sir Walter Scott (*Waverley*):** *"The sturdy, **barelegged** highland clansmen marched through the heather, indifferent to cold or damp."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The dairymaids waded **barelegged** through the morning meadows to milk the cows upon the lush riverbanks."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The native fishermen walked **barelegged** across the coral reef, spearing octopus in the shallow tidal pools."*

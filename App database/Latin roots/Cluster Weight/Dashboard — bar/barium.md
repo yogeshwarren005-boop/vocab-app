@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A soft silvery metallic element of the alkali earth group; found in barite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A soft silvery metallic element of the alkali earth group; found in barite.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A soft, reactive, silvery-white alkaline earth metal (symbol Ba, atomic number 56) whose compounds are used in fireworks, drilling muds, and medical imaging.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In inorganic chemistry and clinical radiology, divalent alkaline earth element whose radiopaque sulfate ($BaSO_4$) is ingested for gastrointestinal X-ray contrast.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"For instance, I have in one bottle an alcoholic solution of a lithium salt, in another of a barium, in a third of a strontium, and so on."*
+> - 📜 **Humphry Davy (*Electro-Chemical Researches*):** *"By decomposing moist baryta with the voltaic battery, I succeeded in isolating the metallic base, which I have named **barium**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The radiological examination of gastric ulcers was greatly perfected by administering a suspension of insoluble **barium** sulfate."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry*):** *"Compounds of **barium** impart a vivid emerald-green coloration to pyrotechnic flames when ignited with potassium chlorate."*

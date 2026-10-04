@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A female bartender.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A female bartender.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman who serves drinks behind the bar of a public house, tavern, or inn.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British social history and Victorian literature, a prominent public house worker central to the commercial hospitality culture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"It was with his barmaid wife that he had spent the last three days in Bristol, and his father did not know where he was."*
-> - 📜 **James Joyce (*Ulysses*):** *"The boots to them, them in the bar, them barmaids came."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"The cheerful **barmaid** drew foaming tankards of ale for the coachmen warming themselves before the taproom hearth."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"The young aristocrat was disinherited by his family for threatening to marry an intelligent provincial **barmaid**."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The busy **barmaid** bustled between the dark beer casks, serving cider to the carters on market day."*

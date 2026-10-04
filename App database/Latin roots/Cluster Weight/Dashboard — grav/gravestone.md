@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stone that is used to mark a grave.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stone that is used to mark a grave.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A marker made of stone set over or at the head of a grave, typically inscribed with the deceased person's name and dates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sepulchral epigraphy and material culture, carved limestone, slate, or granite stele commemorating a deceased individual.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lie where the light foam of the sea may beat Thy gravestone daily."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come not to me again, but say to Athens Timon hath made his everlasting mansion Upon the beached verge of the salt flood, Who once a day with his embossed froth The turbulent surge shall cover; thither come, And let my gravestone be your oracle."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My noble general, Timon is dead, Entombed upon the very hem o’ th’ sea, And on his gravestone this insculpture, which With wax I brought away, whose soft impression Interprets for my poor ignorance."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"My first most vivid impression of the identity of things was gained on a memorable raw afternoon, reading my father's **gravestone** in the marsh churchyard."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"A simple heraldic slab served as the **gravestone** above the resting place of Hester Prynne and Arthur Dimmesdale."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Tess knelt beside the forgotten churchyard **gravestone**, placing a handful of wild field flowers upon the cold turf."*

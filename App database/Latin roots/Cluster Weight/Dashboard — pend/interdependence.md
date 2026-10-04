@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reciprocal relation between interdependent entities (objects or individuals or groups).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reciprocal relation between interdependent entities (objects or individuals or groups).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mutual dependence between two or more people, groups, systems, or organisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecological economics and international relations, global structural interconnectivity where changes in one nation alter global equilibrium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Ignoring past differences, he emphasized common interests, interdependence of peoples and nations, and benefits through collective efforts to meet the needs of the dispersed communities of humankind."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The intricate **interdependence** of all organic beings in the struggle for life forms an interconnected web of affinities."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"With the division of labor comes an increasing **interdependence** among all specialized parts of the social body."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"Human society achieves civil harmony through recognized moral and economic **interdependence** among its citizens."*

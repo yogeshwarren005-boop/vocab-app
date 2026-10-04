@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mutually dependent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mutually dependent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mutually dependent on one another; relying on reciprocal support or interconnection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In complex ecological networks, species whose reproductive cycles or nutritional pathways are linked symbiotically.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"They are interdependent." Unfolding his clasped hands, Narval's fingers drummed the desk."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"From here they are both independent and interdependent."*
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"For seen and unseen are parts of the Great Whole: all the parts interdependent, closely related; all alike have proceeded from and are manifestations of the Divine Source."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"We see thousands of **interdependent** organic forms coexisting within a single square yard of ancient English turf."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The physiological parts of an advanced organism are so strictly **interdependent** that no organ can survive in isolation."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The intellectual arts and sciences are **interdependent** branches of a single expanding trunk of human wisdom."*

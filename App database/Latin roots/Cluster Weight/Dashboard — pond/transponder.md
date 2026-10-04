@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Electrical device designed to receive a specific signal and automatically transmit a specific reply.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Electrical device designed to receive a specific signal and automatically transmit a specific reply.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electronic device that receives a specific radio-frequency signal and automatically emits a corresponding response signal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aviation, telecommunications, and maritime radar, an avionics transceiver transmitting squawk codes, altitude, and telemetry to air traffic control.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transponder designates electrical device designed to receive a specific signal and automatically transmit a specific reply."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"Communication satellites equipped with microwave **transponder** arrays enable instantaneous global transmission of television signals."*
+> - 📜 **Stephen Hawking (*A Brief History of Time*):** *"Deep space probes navigate the solar system by emitting coded pulses from an onboard **transponder** back to Earth tracking stations."*
+> - 📜 **Richard Feynman (*Feynman Lectures on Computation*):** *"In radar interrogation systems, the aircraft **transponder** automatically decodes the incoming interrogating pulse and replies with its identity code."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several compounds of barium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several compounds of barium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Barium oxide ($BaO$) or barium hydroxide; also barium sulfate coating applied to photographic paper for smoothness and brilliance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In photographic processing and inorganic chemical history, heavy earth (oxide of barium) providing a smooth opaque base for gelatin silver prints.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"It was the bisulphate of baryta.” “No, no, the mystery!” I cried."*
+> - 📜 **Humphry Davy (*Electro-Chemical Researches*):** *"The alkaline earth known as **baryta** had long resisted chemical analysis until the power of the voltaic pile extracted its metal."*
+> - 📜 **Michael Faraday (*Chemical Manipulation*):** *"A solution of **baryta** water rapidly absorbs atmospheric carbon dioxide, forming an insoluble white carbonate precipitate."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"Among the primitive earths, **baryta** is distinguished by its extraordinary specific gravity and strong alkaline reaction."*

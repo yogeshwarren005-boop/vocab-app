@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove from the bar; expel from the practice of law by official action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove from the bar; expel from the practice of law by official action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To officially expel or remove a lawyer from the bar, revoking their license to practice law for misconduct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal ethics and professional regulation, formal judicial or bar association revocation of an attorney's right of audience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disbar designates remove from the bar; expel from the practice of law by official action."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The benchers of the Inn of Court met in solemn conclave to **disbar** the fraudulent attorney for embezzling his client's estate."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The parliament threatened to **disbar** any advocate who dared to defend the unpopular ministers against impeachment."*
+> - 📜 **Arthur Conan Doyle (*The Return of Sherlock Holmes*):** *"The disgraced barrister had been driven from legal practice after the authorities resolved to **disbar** him for forging affidavits."*

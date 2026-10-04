@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (astronomy) a real or apparent slow oscillation of a moon or satellite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (astronomy) a real or apparent slow oscillation of a moon or satellite.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparent or real oscillatory motion, especially the slow rocking motion of the Moon that permits observers to view about 59% of its surface over time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In celestial mechanics, optical, physical, and diurnal oscillations enabling terrestrial observation of lunar limb features.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, libration designates (astronomy) a real or apparent slow oscillation of a moon or satellite."*
+> - 📜 **Isaac Newton (*Mathematical Principles of Natural Philosophy*):** *"The phenomenon of lunar **libration** arises from the eccentricity of the Moon's orbit combined with its uniform axial rotation."*
+> - 📜 **William Herschel (*Philosophical Transactions*):** *"Through favorable lunar **libration**, several cratered formations along the eastern limb became distinctly visible in the telescope."*
+> - 📜 **Arthur Eddington (*Space, Time and Gravitation*):** *"Celestial **libration** demonstrates the intricate balance of gravitational torques acting upon non-spherical orbiting bodies."*

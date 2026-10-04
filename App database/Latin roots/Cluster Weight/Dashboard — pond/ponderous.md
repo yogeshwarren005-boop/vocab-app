@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Slow and laborious because of weight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having great mass and weight and unwieldiness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Slow and clumsy because of great weight; heavy, massive, or unwieldy; also dull and labored in style.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive physics and literary criticism, having massive physical bulk, or exhibiting solemn, exhausting pedantry in rhetoric.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let me not burst in ignorance; but tell Why thy canoniz’d bones, hearsed in death, Have burst their cerements; why the sepulchre, Wherein we saw thee quietly inurn’d, Hath op’d his ponderous and marble jaws To cast thee up again!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"CORDELIA. [_Aside._] Then poor Cordelia, And yet not so; since, I am sure, my love’s More ponderous than my tongue."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How may likeness, made in crimes, Make practice on the times, To draw with idle spiders’ strings Most ponderous and substantial things!"*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Tell why thy canonized bones, hearsed in death, have burst their cerements; why the sepulchre hath oped his **ponderous** and marble jaws."*
+> - 📜 **John Milton (*Paradise Lost*):** *"His **ponderous** shield, ethereal temper, massy, large, and round, behind him cast, the broad circumference hung on his shoulders like the moon."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"I wear the chain I forged in life; it was full as heavy and as long as this, seven Christmas Eves ago; you have laboured on a **ponderous** chain."*

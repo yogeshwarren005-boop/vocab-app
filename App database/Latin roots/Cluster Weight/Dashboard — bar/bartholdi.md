@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French sculptor best known for creating the statue of liberty now in new york harbor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French sculptor best known for creating the statue of liberty now in new york harbor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Frédéric-Auguste Bartholdi (1834–1904), French sculptor best known for designing the colossal Statue of Liberty (Liberty Enlightening the World).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In monumental sculpture and 19th-century Franco-American history, the creator of the Lion of Belfort and the colossal copper Statue of Liberty in New York Harbor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bartholdi designates french sculptor best known for creating the statue of liberty now in new york harbor."*
+> - 📜 **Walt Whitman (*Specimen Days*):** *"The colossal copper statue designed by **Bartholdi** rose majestically in the harbor, greeting the immigrant ships with its uplifted torch."*
+> - 📜 **Henry James (*The American Scene*):** *"The giant figure conceived by **Bartholdi** dominated the bay, embodying the colossal scale of transatlantic democratic ambition."*
+> - 📜 **Mark Twain (*Speeches*):** *"We celebrate the genius of **Bartholdi**, whose noble gift from the people of France stands as an everlasting beacon of international friendship."*

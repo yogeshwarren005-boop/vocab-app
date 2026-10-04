@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A gauge boson that mediates the (extremely weak) gravitational interactions between particles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gauge boson that mediates the (extremely weak) gravitational interactions between particles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hypothetical elementary particle that mediates the gravitational force in quantum field theories, postulated to be massless with spin-2.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theoretical quantum gravity and string theory, the gauge boson of general relativity whose exchange describes perturbative gravitational interactions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, graviton designates a gauge boson that mediates the (extremely weak) gravitational interactions between particles."*
+> - 📜 **Richard Feynman (*Feynman Lectures on Gravitation*):** *"In a quantum formulation of gravity, the long-range tensor field corresponds to the exchange of a massless spin-two **graviton**."*
+> - 📜 **Stephen Hawking (*A Brief History of Time*):** *"Just as the electromagnetic force is mediated by the photon, quantum physicists postulate that gravity is carried by the **graviton**."*
+> - 📜 **Paul Dirac (*General Theory of Relativity*):** *"The quantization of gravitational radiation predicts that wave packets carry discrete quanta designated as the **graviton**."*

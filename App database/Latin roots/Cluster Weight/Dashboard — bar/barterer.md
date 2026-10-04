@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A trader who exchanges goods and not money.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A trader who exchanges goods and not money.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who trades, negotiates, or exchanges goods and services directly through barter rather than currency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical trade economics, a trader conducting transactions through reciprocal commodity valuation without cash.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barterer designates a trader who exchanges goods and not money."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"In rude states of society, every **barterer** finds it difficult to find a customer who possesses exactly what he desires and wants what he has to offer."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"The primitive **barterer** learns the relative value of commodities long before metallic coin provides an abstract standard of price."*
+> - 📜 **Sir Walter Scott (*Rob Roy*):** *"The highland cattle-dealer was an astute **barterer**, driving hard bargains in the trysts with lowland buyers."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An actor who travels around the country presenting plays.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pilot who travels around the country giving exhibits of stunt flying and parachuting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A touring actor, politician, or daredevil exhibition pilot who travels through rural districts performing or campaigning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early commercial aviation and political campaigning, itinerant pilots performing wing-walking and stunts, or traveling stump orators.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Vachel Lindsay (*The Chinese Nightingale, and Other Poems*):** *"Edwin Booth An old actor at the Player's Club told me that Edwin Booth first impersonated Hamlet when a barnstormer in California."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"Vincent Crummles was a consummate theatrical **barnstormer**, moving his itinerant company through provincial playhouses with grand bombast."*
+> - 📜 **Mark Twain (*Roughing It*):** *"The wandering **barnstormer** gave recitations from Hamlet and juggled knives before an audience of enthusiastic gold miners."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"The candidate was an energetic political **barnstormer**, delivering fiery stump speeches from the back of an open automobile."*

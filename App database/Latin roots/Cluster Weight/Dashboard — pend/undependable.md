@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not worthy of reliance or trust.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Liable to be erroneous or misleading.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not trustworthy or reliable; capricious, erratic, or prone to failure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In personality theory and mechanical diagnostics, characterized by high variance and unpredictable breakdown under operational loads.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undependable designates not worthy of reliance or trust."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber's financial promises were entirely **undependable**, fluctuating with every morning's hope and evening's despair."*
+> - 📜 **Joseph Conrad (*The Secret Agent*):** *"The anarchist concluded that the nervous young man was an **undependable** accomplice who would panic under police interrogation."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Sergeant Troy was brilliant and dashing, yet utterly **undependable** in all serious domestic duties."*

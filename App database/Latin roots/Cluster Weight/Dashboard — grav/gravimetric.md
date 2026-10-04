@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to hydrometry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to hydrometry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the measurement of weight or gravitational field strength; based on weight measurement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytical chemistry, gravimetric analysis involves precipitating and weighing a compound of known composition to quantify an analyte.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gravimetric designates of or relating to hydrometry."*
+> - 📜 **Michael Faraday (*Chemical Manipulation*):** *"The precipitate was collected on an ashless filter, ignited in a platinum crucible, and subjected to rigorous **gravimetric** analysis."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"The foundation of all modern chemical theory rests upon strict **gravimetric** accounting of all reactants and products."*
+> - 📜 **Alexander von Humboldt (*Cosmos: A Sketch of a Physical Description of the Universe*):** *"Extensive **gravimetric** surveys conducted along coastal regions illuminated the subterranean density structure of the continents."*

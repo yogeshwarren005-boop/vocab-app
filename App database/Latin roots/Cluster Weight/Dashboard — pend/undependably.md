@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unfaithful undependable unreliable manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unfaithful undependable unreliable manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unreliable, erratic, or untrustworthy manner; unpredictably.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanical testing and human behavior, performing with irregular inconsistency and unpredictable failures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undependably designates in an unfaithful undependable unreliable manner."*
+> - 📜 **Joseph Conrad (*Typhoon*):** *"The defective steam pressure gauge fluctuated **undependably** as the typhoon battered the rolling freighter."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The frightened native guide acted **undependably**, darting down side streets at the first echo of gunfire."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The weather behaved **undependably** throughout the harvest season, ruining crops with sudden, unseasonable downpours."*

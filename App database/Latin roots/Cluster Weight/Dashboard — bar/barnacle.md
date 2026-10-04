@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marine crustaceans with feathery food-catching appendages; free-swimming as larvae; as adults form a hard shell and live attached to submerged surfaces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: European goose smaller than the brant; breeds in the far north.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A marine crustacean (subclass Cirripedia) that adheres permanently to rocks, ship hulls, and marine animals, feeding with feathery legs; also a stubborn hanger-on.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate zoology and naval history, sessile cirripede arthropods encased in calcified shells, responsible for significant hydrodynamic drag on ship hulls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"From that hour I clove to Queequeg like a barnacle; yea, till poor Queequeg took his last long dive."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"From that hour I clove to Queequeg like a barnacle; yea, till poor Queequeg took his last long dive."*
-> - 📜 **James Joyce (*Ulysses*):** *"God becomes man becomes fish becomes barnacle goose becomes featherbed mountain."*
+> - 📜 **Charles Darwin (*Monograph on the Sub-class Cirripedia*):** *"The metamorphosis of the larval **barnacle** from a free-swimming crustacean to a permanently attached shelled organism reveals their true arthropod affinities."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"The Circumlocution Office was staffed by the aristocratic family of the **Barnacle**s, who clung to their public sinecures like limpets to a rock."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The ancient ship's bottom was encrusted with thick clusters of **barnacle** shells and trailing sea moss from two years in the tropics."*

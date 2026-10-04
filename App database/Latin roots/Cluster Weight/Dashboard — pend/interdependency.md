@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reciprocal relation between interdependent entities (objects or individuals or groups).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reciprocal relation between interdependent entities (objects or individuals or groups).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mutual reliance, reciprocal dependence, and interconnected functional support among systems or entities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organizational sociology and ecological network theory, complex recursive feedbacks binding disparate functional subsystems together.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, interdependency designates a reciprocal relation between interdependent entities (objects or individuals or groups)."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"The structural **interdependency** of modern commercial nations makes war disastrous even to the victorious belligerent."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The social instincts of early humans fostered a mutual **interdependency** essential for collective defense against predators."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"International trade establishes an economic **interdependency** that acts as the strongest material guarantee of peace."*

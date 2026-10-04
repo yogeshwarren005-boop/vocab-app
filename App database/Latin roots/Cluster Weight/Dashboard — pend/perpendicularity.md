@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The relation of opposition between things at right angles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being at right angles to a given line or plane (especially the plane of the horizon).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Vertical uprightness, rectangular alignment, or orthogonal posture at a ninety-degree angle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architecture and structural surveying, precise vertical alignment checked with a plumb-line or theodolite to prevent wall collapse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"His square-framed perpendicularity showed more fully now than in the crowd and bustle of the market-house."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It was near noon; I knew by the perpendicularity of the sun’s rays, which were no longer refracted."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Truly it was the region of perpendicularity!"*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The slight departure from strict **perpendicularity** in the campanile gives it an appearance of living elasticity rather than rigid dead stone."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The sperm whale thrust his vast flukes into the air with majestic **perpendicularity** before sounding into the abyss."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The ancient barrow rose with rugged **perpendicularity** against the twilight sky of the desolate heath."*

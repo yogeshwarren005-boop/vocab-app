@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to gravitation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to gravitation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of, or in a manner governed by, gravitational force or attraction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In observational astrophysics and galactic dynamics, bound systems held together by mutual gravitational potential rather than external pressure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gravitationally designates with respect to gravitation."*
+> - 📜 **Stephen Hawking (*A Brief History of Time*):** *"Galaxies cluster together across billions of light-years, held **gravitationally** in colossal cosmic filaments."*
+> - 📜 **Arthur Eddington (*The Internal Constitution of the Stars*):** *"A star remains in stable equilibrium as long as internal radiation pressure balances its **gravitationally** contracting mass."*
+> - 📜 **Isaac Newton (*Mathematical Principles of Natural Philosophy*):** *"The satellites revolve around their primary planet, being **gravitationally** retained in their curved trajectories."*

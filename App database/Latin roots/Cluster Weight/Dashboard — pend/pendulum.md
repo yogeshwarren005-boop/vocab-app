@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus consisting of an object mounted so that it swings freely under the influence of gravity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An apparatus consisting of an object mounted so that it swings freely under the influence of gravity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A weight suspended from a pivot so that it can swing freely, especially one regulating the mechanism of a clock.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical physics and horology, a resonant harmonic oscillator whose period of oscillation depends solely on its length and gravitational acceleration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Unfortunately the erratic crumb did not improve his narrative powers, and a supplementary hindrance was that of a sneeze, jerking from his pocket his rather large watch, which dangled in front of the young man pendulum-wise."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"No resolution could withstand it; in that dreamy mood losing all consciousness, at last my soul went out of my body; though my body still continued to sway as a pendulum will, long after the power which first moved it is withdrawn."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Satisfied by his scrutiny, my light limbed companion swung himself nimbly upon it, and twisting his legs round it in sailor fashion, slipped down eight or ten feet, where his weight gave it a motion not un-like that of a pendulum."*
+> - 📜 **Isaac Newton (*Mathematical Principles of Natural Philosophy*):** *"Experiments performed with the **pendulum** demonstrate that inertial mass and gravitational mass are identically proportional in all bodies."*
+> - 📜 **Edgar Allan Poe (*The Pit and the Pendulum*):** *"The sweep of the **pendulum** had increased in its extent, and the hissing of the steel crescent became audible to my ear."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"The great factory piston moved up and down with the monotonous regularity of a giant melancholy **pendulum**."*

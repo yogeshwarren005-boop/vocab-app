@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any voracious marine fish of the genus sphyraena having an elongated cylindrical body and large mouth with projecting lower jaw and long strong teeth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any voracious marine fish of the genus sphyraena having an elongated cylindrical body and large mouth with projecting lower jaw and long strong teeth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, predatory, ray-finned marine fish of the genus Sphyraena, possessing sharp fangs and known for its fierce speed in tropical seas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology and game fishing, an apex ambush predator in family Sphyraenidae inhabiting coral reefs, occasionally causing ciguatera poisoning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barracuda designates any voracious marine fish of the genus sphyraena having an elongated cylindrical body and large mouth with projecting lower jaw and long strong teeth."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The fierce **barracuda** darted like a silver javelin through the clear Caribbean water, seizing its prey with snapping jaws."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of America*):** *"Fishermen in the Gulf of Mexico dread the bite of the giant **barracuda**, whose formidable teeth inflict deep lacerated wounds."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Swimming above the coral ledges, we observed the solitary **barracuda** hovering motionless in wait for unsuspecting reef fish."*

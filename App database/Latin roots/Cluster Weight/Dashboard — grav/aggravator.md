@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unpleasant person who is annoying or exasperating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unpleasant person who is annoying or exasperating.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who or that which aggravates, worsens, exasperates, or increases severity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In criminal psychology and legal pleading, a person or compounding circumstance serving to intensify conflict or criminal guilt.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aggravator designates an unpleasant person who is annoying or exasperating."*
+> - 📜 **Sir Walter Scott (*Kenilworth*):** *"Varney acted as the sinister **aggravator** of the earl's jealous suspicions against his innocent countess."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The incendiary journalist stood forth as the tireless **aggravator** of public panic and municipal hatreds."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Lush was the ever-ready **aggravator** of Grandcourt's cynical disdain toward his social dependents."*

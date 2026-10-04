@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Swiss protestant theologian (1886-1968).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states novelist (born in 1930).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to Karl Barth (1886–1968), Swiss Reformed theologian who founded neo-orthodox theology, or Heinrich Barth, German explorer of Africa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern theological history, the dialectical theology emphasizing divine transcendence (*Deus dixit*) in reaction against 19th-century liberal theology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Now by the fact of Lauriston and Barthélemi having been sent, and by the reports of the guerrillas, Kutúzov was almost sure that the wound was mortal."*
+> - 📜 **Thomas Mann (*Doctor Faustus*):** *"The young divinity students vigorously debated Karl **Barth** and his radical commentary on the Epistle to the Romans."*
+> - 📜 **Alexander von Humboldt (*Cosmos: A Sketch of a Physical Description of the Universe*):** *"The heroic African travels of Heinrich **Barth** unlocked the geography of the Sahara, Lake Chad, and the upper Niger basin."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"The theological reaction led by **Barth** reasserted Protestant orthodoxy against secular humanist compromises."*

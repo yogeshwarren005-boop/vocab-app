@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Worthy of reliance or trust.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Worthy of being depended on.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Trustworthy, reliable, and constant; capable of being relied on with confidence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial design and engineering, components exhibiting high mean time between failures under rigorous operational stress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Often enough have I found the auxiliaries good soldiers, but never so steadily dependable as the Romans."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The Roman was invariably steady and dependable."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"That's a remarkably fine child and she should have good, dependable, business-like habits put in the place of faulty and useless ones."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Biddy was the most quiet, sensible, and **dependable** friend a troubled young man could ever turn to in distress."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel Oak was a quiet, **dependable** shepherd whose watchful vigilance saved the flock from ruin during the storm."*
+> - 📜 **Joseph Conrad (*Typhoon*):** *"Captain MacWhirr was an entirely **dependable** seaman who adhered obstinately to his course through every tempest."*

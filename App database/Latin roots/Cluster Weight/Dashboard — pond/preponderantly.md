@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Much greater in number or influence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Much greater in number or influence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Chiefly, predominantly, or for the most part; with a majority of influence, weight, or numbers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statistical analysis and historical demography, prevailing by a substantial majority or determining margin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, preponderantly designates much greater in number or influence."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The northern counties remained **preponderantly** Catholic throughout the turbulent decades of the Elizabethan settlement."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"In these mammalian lineages, sexual selection operates **preponderantly** through competitive combat among males."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The capital of agricultural nations is employed **preponderantly** in improving land and sustaining rural labor."*

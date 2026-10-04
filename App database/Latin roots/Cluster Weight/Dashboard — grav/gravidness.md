@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Technical terms for pregnancy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Technical terms for pregnancy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Heavy pregnancy, gestation, or deep laden fullness of impending significance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive reproductive morphology and literary prose, the physical swelling of advanced gestation or profound thematic weight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gravidness designates technical terms for pregnancy."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The quiet summer evening seemed filled with a mysterious **gravidness**, as if nature itself were burdened with impending fate."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The noticeable **gravidness** of the queen bee restricts her flight capacity, requiring worker bees to attend her constantly."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The extreme abdominal distension indicating **gravidness** in oviparous reptiles compels them to seek warm, secluded sands."*

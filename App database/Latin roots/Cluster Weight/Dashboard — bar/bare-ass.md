@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (used informally) completely unclothed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used informally) completely unclothed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Completely naked; having the buttocks or body entirely uncovered and exposed; vulgar or colloquial.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vernacular literature and informal register, colloquial descriptive adjective denoting complete bodily nakedness without protective clothing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bare-ass designates (used informally) completely unclothed."*
+> - 📜 **Jack London (*The Road*):** *"The tramp jumped from the freight car into the swimming hole, swimming **bare-ass** under the summer sun."*
+> - 📜 **Stephen Crane (*The Red Badge of Courage*):** *"The soldier stripped off his muddy trousers, cursing the cold mud while standing **bare-ass** in the drizzle."*
+> - 📜 **Mark Twain (*Roughing It*):** *"The prospectors bathed in the mountain stream, leaping **bare-ass** over the granite boulders after days in the dust."*

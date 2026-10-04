@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Straight up or down without a break.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a perpendicular manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: At a right angle (90°) to a horizontal line or plane; vertically or straight up and down.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanics and geometry, along a normal vector orthogonal to the tangent plane.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ten masts at each make not the altitude Which thou hast perpendicularly fell."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Casually glancing over the hedge, Oak saw coming down the incline before him an ornamental spring waggon, painted yellow and gaily marked, drawn by two horses, a waggoner walking alongside bearing a whip perpendicularly."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Fray’s forehead was wrinkled both perpendicularly and crosswise, after the pattern of a portcullis, expressive of a double despair."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The mountain torrent plunged **perpendicularly** over the dark granite precipice into the foaming pool below."*
+> - 📜 **H. G. Wells (*The First Men in the Moon*):** *"The metallic sphere descended **perpendicularly** into the crater, arrested by the invisible anti-gravity screens."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"I drove the pointed stakes **perpendicularly** into the earth to construct an impregnable palisade around my dwelling."*

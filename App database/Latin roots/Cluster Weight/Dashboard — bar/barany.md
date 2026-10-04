@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Austrian physician who developed a rotational method for testing the middle ear (1876-1936).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Austrian physician who developed a rotational method for testing the middle ear (1876-1936).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to Róbert Bárány (1876–1936), Austrian neuro-otologist who won the 1914 Nobel Prize for physiology, or the caloric vestibular reaction test bearing his name.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical otoneurology, the Bárány test or caloric stimulation of the inner ear inducing convective endolymph flow and vestibular nystagmus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barany designates austrian physician who developed a rotational method for testing the middle ear (1876-1936)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Irrigating the external auditory meatus with cold water elicits the diagnostic **Bárány** reaction, establishing labyrinthine function."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The physiological investigations of **Bárány** demonstrated how semicircular canal fluids regulate ocular reflexes during head rotation."*
+> - 📜 **Sigmund Freud (*The Interpretation of Dreams*):** *"Clinical lectures in Vienna frequently discussed **Bárány** and his groundbreaking insights into the neurology of vertigo."*

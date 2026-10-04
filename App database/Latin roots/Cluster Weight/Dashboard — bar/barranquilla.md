@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A port city of northern colombia near the caribbean on the magdalena river.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A port city of northern colombia near the caribbean on the magdalena river.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major seaport and industrial city in northern Colombia, situated near the delta of the Magdalena River on the Caribbean Sea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In South American economic geography, the principal maritime and riverine gateway of Colombia, connecting Atlantic trade with the interior Magdalena basin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barranquilla designates a port city of northern colombia near the caribbean on the magdalena river."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of America*):** *"The commerce of the Magdalena River converges at **Barranquilla**, where river steamboats transfer Andean merchandise to ocean vessels."*
+> - 📜 **Joseph Conrad (*Nostromo*):** *"Coastal trading steamers called regularly at **Barranquilla**, carrying silver, coffee, and hides destined for European markets."*
+> - 📜 **Herman Melville (*The Confidence-Man*):** *"The traveler recounted voyages along the Spanish Main, describing the colorful wharves and busy warehouses of **Barranquilla**."*

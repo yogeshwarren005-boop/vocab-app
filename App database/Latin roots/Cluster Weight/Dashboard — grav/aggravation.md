@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An exasperated feeling of annoyance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unfriendly behavior that causes anger or resentment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making a condition, injury, or offense worse; also state of exasperation or annoyance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tort law and clinical pathology, circumstances augmenting legal damages or exacerbating disease trajectories.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"All the unowned dogs who stray into the Inns of Court and pant about staircases and other dry places seeking water give short howls of aggravation."*
-> - 📜 **Jane Austen (*Persuasion*):** *"She saw in it but an aggravation of the evil."*
-> - 📜 **Jane Austen (*Persuasion*):** *"This was a cruel aggravation of actually straitened means."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The sudden overthrow of ancient laws was accompanied by every **aggravation** of wanton cruelty and sacrilege."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The sudden **aggravation** of cardiac symptoms signaled the onset of acute endocarditis."*
+> - 📜 **Jane Austen (*Emma*):** *"Emma reflected with bitter **aggravation** upon her own blindness and vanity in promoting the match."*

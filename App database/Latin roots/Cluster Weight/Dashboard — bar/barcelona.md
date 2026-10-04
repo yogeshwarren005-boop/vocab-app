@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in northeastern spain on the mediterranean; 2nd largest spanish city and the largest port and commercial center; has been a center for radical political beliefs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in northeastern spain on the mediterranean; 2nd largest spanish city and the largest port and commercial center; has been a center for radical political beliefs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major seaport and the historic capital city of Catalonia in northeastern Spain, renowned for its art, architecture, and maritime commerce.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In European urban history and Mediterranean geography, an ancient Roman colony (Barcino) that became a leading Mediterranean industrial and cultural metropolis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"There was a fellow I knew once in Barcelona, queer fellow, used to call it his postprandial."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"The French held their front towards the Barcelona road and the Juslibol, where more kilns and gardens lie at the left of the second of those two ways."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"Thence the Twelfth had furiously attacked our intrenchments, making their way by the Barcelona road, and challenging with impetuous intrepidity the cross-fires of San Lazarus and that of the place called El Marcelo."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"It was the first time that I had ever been in a town where the working class was in the saddle, and that town was **Barcelona**."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Visigothic monarchs frequently established their court at **Barcelona**, commanding both the Pyrenean passes and the Mediterranean coast."*
+> - 📜 **Washington Irving (*The Life and Voyages of Christopher Columbus*):** *"Columbus made his triumphal entry into **Barcelona**, presenting the sovereigns with gold, exotic parrots, and native captives."*

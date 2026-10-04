@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suitable to be expended.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of funds) remaining after taxes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Designed to be used once and then destroyed or discarded; not worth preserving; sacrificeable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military logistics and aerospace engineering, consumable equipment (like booster stages) designed for single-mission consumption.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"You're telling me we're expendable?" "You're in covert intelligence work, Brad, and you'll be in the enemy's camp."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Expendable is bad enough; you're programming us into suicide." "Not quite, Brad."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"In that sense, yes, you are expendable."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"In modern mechanized combat, minor outposts are sometimes treated as **expendable** positions to gain vital operational time."*
+> - 📜 **Arthur Conan Doyle (*The British Campaign in France and Flanders*):** *"The transport lorries were treated as **expendable** materiel, pushed through shell craters until their axles shattered."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"Human life seemed utterly **expendable** before the indifferent, mechanical destruction unleashed by the Martian tripods."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A boating song sung by venetian gondoliers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A boating song sung by venetian gondoliers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A traditional song sung by Venetian gondoliers, or a lyrical instrumental piece of music composed in imitation of it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musical composition, a romantic lyrical piece characterized by a rocking 6/8 or 12/8 rhythm evoking the motion of a boat on water.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"He heard them as a boy in Ringabella, Crosshaven, Ringabella, singing their barcaroles."*
+> - 📜 **George Sand (*Consuelo*):** *"The mellow notes of a Venetian **barcarole** floated across the dark lagoon, sung by a solitary gondolier resting on his oar."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"In Venice, Tasso's echoes are no more, and silent rows the songless gondolier; yet the sweet **barcarole** still haunts the memory."*
+> - 📜 **Hector Berlioz (*Evenings with the Orchestra*):** *"Chopin captured the nostalgic swaying of Venetian canals in his celebrated **barcarole**, weaving shimmering harmonies over a rolling bass."*

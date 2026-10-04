@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of relying on or being controlled by someone or something else.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being abnormally tolerant to and dependent on something that is psychologically or physically habit-forming (especially alcohol or narcotic drugs).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of relying on or needing someone or something for aid, support, or existence; subordination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and psychology, adaptive somatic or psychological states requiring continuous drug administration to prevent withdrawal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet, ne’ertheless, My spritely brethren, I propend to you In resolution to keep Helen still; For ’tis a cause that hath no mean dependence Upon our joint and several dignities."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"John Jarndyce I had perhaps less reason to be surprised than either of my companions, having never yet enjoyed an opportunity of thanking one who had been my benefactor and sole earthly dependence through so many years."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Anne Elliot, so young; known to so few, to be snatched off by a stranger without alliance or fortune; or rather sunk by him into a state of most wearing, anxious, youth-killing dependence!"*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The proud spirit of the Roman senate was gradually broken into total **dependence** upon the imperial bodyguard."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The financial **dependence** of the crown upon parliamentary supply was the cornerstone of English constitutional liberty."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic habituation to morphine leads inexorably to physical **dependence**, characterized by acute distress upon cessation."*

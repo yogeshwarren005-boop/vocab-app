@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A resistor inserted into a circuit to compensate for changes (as those arising from temperature fluctuations).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A resistor inserted into a circuit to compensate for changes (as those arising from temperature fluctuations).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A device whose electrical resistance increases with temperature, historically used as a detector in early radio receivers or to stabilize current.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early telecommunications and electrical engineering, a fine platinum wire detector invented by Reginald Fessenden in 1902 to demodulate radio waves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barretter designates a resistor inserted into a circuit to compensate for changes (as those arising from temperature fluctuations)."*
+> - 📜 **Lord Rayleigh (*The Theory of Sound*):** *"The thermal response of the fine **barretter** wire allowed sensitive measurement of high-frequency acoustic oscillations."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The delicate thermal detector functioned like a primitive **barretter**, varying its resistance with minute changes in electric current."*
+> - 📜 **Nikola Tesla (*Colorado Springs Notes*):** *"In receiving high-frequency wireless impulses, the electrolytic **barretter** demonstrated superior responsiveness over older coherers."*

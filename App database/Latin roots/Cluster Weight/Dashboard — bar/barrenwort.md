@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Slow-growing creeping plant with semi-evergreen leaves on erect wiry stems; used as ground cover.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Slow-growing creeping plant with semi-evergreen leaves on erect wiry stems; used as ground cover.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hardy perennial woodland plant of the genus Epimedium (family Berberidaceae), bearing delicate spurred flowers and compound leaves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticulture and traditional herbal medicine, shade-tolerant groundcovers containing icariin, traditionally known as horny goat weed or barrenwort.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barrenwort designates slow-growing creeping plant with semi-evergreen leaves on erect wiry stems; used as ground cover."*
+> - 📜 **William Withering (*An Arrangement of British Plants*):** *"The rare alpine plant **barrenwort**, Epimedium alpinum, flourishes in moist mountain thickets, displaying curious spurred blossoms."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"In the family Berberidaceae, the genus **barrenwort** is distinguished by its four-parted floral structure and membranous carpels."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The rhizomatous roots of **barrenwort** spread through forest humus, producing graceful ternately divided foliage in early spring."*

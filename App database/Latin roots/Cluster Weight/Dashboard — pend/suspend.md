@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hang freely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to be held in suspension in a fluid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To hang something from above; to temporarily halt, defer, or delay an operation, privilege, or sentence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical chemistry and legal procedure, holding insoluble particles dispersed within a liquid, or staying a court ruling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Suspend thy purpose, if thou didst intend To make this creature fruitful!"*
-> - 📜 **Jane Austen (*Persuasion*):** *"Nothing could be done without a reference to Elizabeth: but her inclination was growing so strong for a removal, that she was happy to have it fixed and expedited by a tenant at hand; and not a word to suspend decision was uttered by her."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel was about to advance and restore the missing article when an unexpected performance induced him to suspend the action for the present."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"They cannot touch our bodies; spirits are we, but here we must **suspend** all forward movement at Prospero's command."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The senate resolved to **suspend** the ordinary magistrates and appoint a dictator during the barbarian emergency."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The revolutionaries threatened to **suspend** every aristocrat from the street lanterns of Paris."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having superior power and influence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having superior power and influence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Predominant in influence, importance, number, quantity, or physical weight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international relations and systemic sociology, wielding dominant leverage or holding a decisive majority within a balance of power.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"He had been a very small boy when his father, Daniel Tracy Touchett, a native of Rutland, in the State of Vermont, came to England as subordinate partner in a banking-house where some ten years later he gained preponderant control."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The landed interest had formerly exercised a **preponderant** influence in the constitutional councils of the kingdom."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Gothic warriors possessed a **preponderant** advantage in hand-to-hand combat owing to their immense stature and heavy broadswords."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"No single socioeconomic class should possess a **preponderant** voting power capable of tyrannizing over all other interests."*

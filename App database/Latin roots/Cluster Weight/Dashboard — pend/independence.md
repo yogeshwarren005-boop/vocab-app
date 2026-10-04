@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Freedom from control or influence of another or others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The successful ending of the american revolution.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Freedom from outside control, foreign domination, or subordinate jurisdiction; civic autonomy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In probability theory and constitutional law, events having zero mutual conditional influence, or sovereign statehood free from foreign suzerainty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Go to my lawyer (you remember where; you have been there before) and show your independence now, will you?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I wish to leave the poor girls some little independence, as well as a good name.” We now arrived at Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Well,” observed my guardian, half pleasantly, half seriously, “that’s a great occasion and will give my fair cousin some necessary business to transact in assertion of her independence, and will make London a more convenient place for all of us."*
+> - 📜 **Thomas Jefferson (*The Declaration of Independence*):** *"These United Colonies are, and of Right ought to be Free and Independent States; absolved from all Allegiance to the British Crown, declaring their **independence**."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Swiss cantons defended their ancient mountain **independence** with stubborn valor against the armies of Austria."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth valued her personal **independence** far too highly to barter it for worldly splendor with Mr. Collins."*

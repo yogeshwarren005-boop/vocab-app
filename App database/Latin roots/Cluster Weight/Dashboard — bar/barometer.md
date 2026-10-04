@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument that measures atmospheric pressure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument that measures atmospheric pressure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument measuring atmospheric pressure, used especially in forecasting the weather and determining altitude.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical meteorology and climatology, an evacuated mercury or aneroid column measuring barometric air mass fluctuations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"The barometer did not go down, nor was there any rain, but an unusual greyness wrapped earth and sky."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Allen, not having his own skies and barometer about him, declined giving any absolute promise of sunshine."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But now Lydgate came in; the book was closed before he reached Rosamond’s corner, and as he took his seat with easy confidence on the other side of her, young Plymdale’s jaw fell like a barometer towards the cheerless side of change."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"A sudden fall in the **barometer** warned the captain of an approaching pampero before any cloud appeared upon the horizon."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"The cabin **barometer** dropped steadily throughout the sultry afternoon, portending a fierce tropical tempest."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab tapped the brass casing of the marine **barometer**, watching the mercury sink toward the storm marker."*

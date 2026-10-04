@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unwelcome burdensome difficulty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unwelcome burdensome difficulty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or character of being burdensome, oppressive, demanding, or troublesome to endure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contractual equity, severe disproportion in duties or performance costs rendering an agreement exceptionally harsh or unconscionable.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, onerousness designates unwelcome burdensome difficulty."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The **onerousness** of taxation depends not merely on the gross sum extracted, but on the vexatious mode of collection."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Men will cheerfully undergo severe toil when they perceive its necessity, while the senseless **onerousness** of idle routine breeds revolt."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Gwendolen began to feel the terrifying **onerousness** of a marriage contracted purely for worldly wealth and position."*

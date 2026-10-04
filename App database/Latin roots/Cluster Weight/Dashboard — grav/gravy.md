@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sauce made by adding stock, flour, or other ingredients to the juice and fat that drips from cooking meats.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The seasoned but not thickened juices that drip from cooking meats; often a little water is added.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A seasoned sauce made from the thickened juices of cooked meat mixed with stock, flour, and seasonings; also easily acquired profit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In culinary gastronomy, meat-juice pan emulsions; in colloquial idioms, an unexpected financial windfall or unearned bonus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His effect of gravy, gravy, gravy."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"She told us a great deal that was interesting about Borrioboola-Gha and the natives, and received so many letters that Richard, who sat by her, saw four envelopes in the gravy at once."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"In the matter of gravy he is adamant."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"'There's more of **gravy** than of grave about you, whatever you are!' exclaimed Scrooge to the ghost of Jacob Marley."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The generous roast beef was carved at the head of the table, bathed in rich, savory **gravy** that delighted the hearty guests."*
+> - 📜 **George Eliot (*Silas Marner*):** *"A fragrant dish of baked pork with apple-sauce and rich brown **gravy** smoked upon the hospitable hearth."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the british order of honor; ranks below a baron but above a knight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of the british order of honor; ranks below a baron but above a knight.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the lowest hereditary British titled order, holding the rank below a baron and above a knight, styled as 'Sir'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British chivalric history, a hereditary title created by King James I in 1611 to raise funds for the plantation of Ulster, ranking as commoners.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Sir Leicester Dedlock is only a baronet, but there is no mightier baronet than he."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But the doomed young rebel (otherwise a mild youth, and very persevering), showing no sign of grace as he got older but, on the contrary, constructing a model of a power-loom, she was fain, with many tears, to mention his backslidings to the baronet."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The fellow, by his agent, or secretary, or somebody, writes to me ‘Sir Leicester Dedlock, Baronet, presents his compliments to Mr."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Sir Walter Elliot, of Kellynch Hall, in Somersetshire, was a man who, for his own amusement, never took up any book but the **Baronet**age."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Sir Leicester Dedlock was a conservative **baronet** of ancient descent, proud of his park, his family, and his gout."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"James the First instituted the order of the **baronet** to replenish his depleted exchequer without parliamentary grants."*

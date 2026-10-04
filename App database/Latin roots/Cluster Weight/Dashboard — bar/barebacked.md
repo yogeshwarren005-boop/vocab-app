@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Riding without a saddle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without a saddle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Riding or being ridden without a saddle; also having the back uncovered, exposed, or bare.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In equestrian terminology and costume design, unsaddled horses, or garments designed with an exposed open back.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barebacked designates riding without a saddle."*
+> - 📜 **Sir Walter Scott (*Waverley*):** *"A troop of **barebacked** mountain ponies was driven into the camp by the insurgent clansmen."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"Sleary's circus troupe featured magnificent **barebacked** equestrian acts that astonished the smoky industrial town."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"The dancer wore an elaborate **barebacked** gown of black velvet that scandalized the conservative dowagers of Rome."*

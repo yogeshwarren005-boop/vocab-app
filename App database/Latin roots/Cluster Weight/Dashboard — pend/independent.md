@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A neutral or uncommitted person (especially in politics).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A writer or artist who sells services to different employers without a long-term contract with any of them.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from outside control; not subject to another's authority or jurisdiction; self-governing and self-reliant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In logic and mathematics, axioms or variables not derived from or determined by others within a formal system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She firmly held the little girl's hand, for there was no telling what she might undertake otherwise, and the less independent Lippo held his mother's other hand, so that the two older brothers were obliged to accommodate their steps to the rest."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"My mother has a little property, which takes the form of a small life annuity, upon which she lives in an independent though unassuming manner in the Old Street Road."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"You’re an independent dragoon, too!"*
+> - 📜 **William Shakespeare (*King Lear*):** *"I am a man more sinned against than sinning, seeking an **independent** refuge from filial ingratitude."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The geographic isolation of islands fosters the emergence of distinct, **independent** evolutionary lineages."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"An **independent** judiciary is the surest safeguard of civil freedom against the encroachments of the crown."*

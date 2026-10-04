@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lay bare.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make public.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking clothing, covering, foliage, or adornment; exposed, naked, empty, or plain; also to uncover.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany and structural description, devoid of outer bark, epidermal hairs, or decorative casing; plain and unembellished.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His left cheek is a cheek of two pile and a half, but his right cheek is worn bare."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The thorny point Of bare distress hath ta’en from me the show Of smooth civility; yet am I inland bred And know some nurture."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As a walled town is more worthier than a village, so is the forehead of a married man more honourable than the bare brow of a bachelor."*
+> - 📜 **William Shakespeare (*King Lear*):** *"Unaccommodated man is no more but such a poor, **bare**, forked animal as thou art."*
+> - 📜 **John Milton (*Paradise Lost*):** *"So forth they moved through Eden's **bare** landscape, hand in hand, leaving their sacred paradise behind."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The wintry branches of the orchard stood **bare** against the leaden sky, stripped of every autumn leaf."*

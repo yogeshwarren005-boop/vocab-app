@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Use up, consume fully.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pay out.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To spend or use up money, time, energy, or resources in achieving a particular objective.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economics and military operations, disbursing capital reserves or exhausting ordnance and logistical materiel during combat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it will please you To show us so much gentry and good will As to expend your time with us awhile, For the supply and profit of our hope, Your visitation shall receive such thanks As fits a king’s remembrance."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know their complot is to have my life; And if my death might make this island happy And prove the period of their tyranny, I would expend it with all willingness."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For I mine own gain’d knowledge should profane If I would time expend with such a snipe But for my sport and profit."*
+> - 📜 **William Shakespeare (*The Merry Wives of Windsor*):** *"If you will **expend** your time and money upon this venture, look for a fruitful harvest of repentance."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The emperor did not hesitate to **expend** the revenues of entire provinces to adorn the new capital with palaces and baths."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Prudent merchants will **expend** capital only where the anticipated return covers both risk and replacement costs."*

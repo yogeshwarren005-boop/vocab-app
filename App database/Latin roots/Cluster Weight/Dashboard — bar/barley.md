@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A grain of barley.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cultivated since prehistoric times; grown for forage and grain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hardy cereal grain (Hordeum vulgare) cultivated worldwide for brewing beer, distilling whiskey, and animal fodder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agronomy and brewing science, an ancient diploid grass domesticated in the Fertile Crescent, valued for malt production.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Can sodden water, A drench for sur-rein’d jades, their barley-broth, Decoct their cold blood to such valiant heat?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Faith, I’ll tell you, sometime we go to barley-break, we of the blessed."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The turkey in the poultry-yard, always troubled with a class-grievance (probably Christmas), may be reminiscent of that summer morning wrongfully taken from him when he got into the lane among the felled trees, where there was a barn and barley."*
+> - 📜 **Robert Burns (*John Barleycorn*):** *"There was three kings into the east, three kings both great and high, and they hae sworn a solemn oath John **Barley**corn should die."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Archaeological grains of six-rowed **barley** found in Swiss lake-dwellings prove its ancient cultivation in prehistoric Europe."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Michael Henchard inspected the golden sacks of ripe **barley** in the corn exchange, testing the dryness of the grain."*

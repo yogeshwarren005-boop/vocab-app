@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A male singer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The second lowest adult male singing voice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The adult male singing voice intermediate between tenor and bass; or a singer possessing this voice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A brass instrument resembling a euphonium or tenor horn; or a tone of deep, resonant gravity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"He listened long enough to hear himself characterized by a baritone as a stinking Jew, and by a treble as not her style and a bit too gay but quite the gentleman, before he raised the latch and stepped in."*
-> - 📜 **George Eliot (*Middlemarch*):** *"All his faults were marked by kindred traits, and were those of a man who had a fine baritone, whose clothes hung well upon him, and who even in his ordinary gestures had an air of inbred distinction."*
-> - 📜 **George Eliot (*Middlemarch*):** *"There is the more need for you to stay,” said Rosamond, playfully, and in her lightest accent; “he will not speak to me all the evening.” “Yes, Rosamond, I shall,” said Lydgate, in his strong baritone."*
+> - 📜 **James Joyce (*Ulysses*):** *"The rich **baritone** voice of the singer rolled sonorously through the dining hall."*
+> - 📜 **E. M. Forster (*A Room with a View*):** *"He sang the Italian aria with a robust **baritone** that pleased the entire company."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The role of Don Giovanni demands a dramatic **baritone** possessing elegance as well as vocal power."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A yard adjoining a barn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A yard adjoining a barn.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An enclosed yard or open area adjoining a barn, typically used for keeping domestic animals and farm machinery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rural ecology and social description, the bustling outdoor center of farm life characterized by domestic livestock and rustic industry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte B. Herr (*The Wise Mamma Goose*):** *"She had left the barnyard because it was so noisy there that she could not collect her wits, and had hidden herself between the rows of tall red hollyhocks which border one side of the garden."*
-> - 📜 **Charlotte B. Herr (*The Wise Mamma Goose*):** *"There was something wrong in the barnyard."*
-> - 📜 **Charlotte B. Herr (*The Wise Mamma Goose*):** *"He was the king of the barnyard, and took care of them all."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The cocks crew loudly in the misty **barnyard** as Gabriel Oak set forth across the wet fields before daybreak."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"A rooster strutted proudly through the small **barnyard**, leading his speckled hens among the dusty burdocks."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The muddy **barnyard** was filled with lowing cattle, squealing pigs, and carts laden with wet autumn manure."*

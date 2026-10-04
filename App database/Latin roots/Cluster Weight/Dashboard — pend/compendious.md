@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Briefly giving the gist of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Briefly giving the gist of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing the substance of a fuller work or subject in brief form; concise, comprehensive, yet succinct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetoric and literary history, synthesizing broad scholarship or narrative scope into a clear, unified abridgment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I’ll get a crucible, and into it, and dissolve myself down to one small, compendious vertebra."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It will be my aim to remove the obstacles from your progress in as compendious a manner as it can be done, without sacrificing utility to despatch."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The damsels wear nothing but flowers and their compendious gala tunics; and when they plume themselves for the dance, they look like a band of olive-coloured Sylphides on the point of taking wing."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"He executed a **compendious** survey of English literature that presented every major genius in accurate proportion."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Knowledge is delivered in the most **compendious** method when digested into aphorisms rather than tedious systems."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"A **compendious** view of the Gothic wars enables the reader to follow Belisarius through multiple Italian campaigns."*

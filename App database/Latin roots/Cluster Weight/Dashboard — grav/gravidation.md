@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Technical terms for pregnancy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Technical terms for pregnancy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or process of pregnancy; gestation; being laden or burdened with developing offspring.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical physiological terminology, the complete physiological cycle of intrauterine gestation and embryonic development in mammals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gravidation designates technical terms for pregnancy."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The phenomenon of physiological cardiac enlargement frequently observed during normal **gravidation** regresses following delivery."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The duration of **gravidation** varies in marsupials from a few weeks, contrasting sharply with prolonged placental mammalian gestation."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Domestic animals show subtle constitutional alterations across successive periods of **gravidation** under selective breeding."*

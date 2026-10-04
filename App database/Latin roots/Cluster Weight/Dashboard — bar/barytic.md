@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or containing baryta.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or containing baryta.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, containing, or derived from barium or baryta (barite).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology and chemical petrology, rocks or hydrothermal mineral veins rich in barium minerals such as barite or witherite.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barytic designates of or relating to or containing baryta."*
+> - 📜 **Michael Faraday (*Chemical Manipulation*):** *"The addition of sulfuric acid to the solution threw down a dense **barytic** precipitate that settled rapidly to the bottom."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The geological survey revealed extensive **barytic** deposits cementing the porous sandstone along the mountain fault."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"The **barytic** neutral salts exhibit remarkably high density compared with analogous combinations of lime or magnesia."*

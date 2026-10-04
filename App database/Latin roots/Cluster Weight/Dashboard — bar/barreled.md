@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put in barrels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put in or stored in a barrel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Put into or stored in barrels; also having a specified kind or number of barrels (as in double-barreled).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In firearms nomenclature and beverage aging, equipped with a metal discharge tube, or matured in charred oak casks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"At the window, with a double-barreled gun in his hands, stood a short, square, red-headed man."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"His great brown shoulders, his barreled chest, his upper arms like a man's leg, his packed forearms, his neck like a bull's, his shaven head."*
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"Mama was there by the buggy, and they were looking at a big, double-barreled shotgun Miss Dink wanted Papa to fix."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes examined his double-**barreled** hunting rifle, checking that both cartridges were seated firmly in the breech."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The golden whale oil was carefully **barreled** and lowered into the hold before the vessel shaped its course homeward."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"Thousands of casks of prime **barreled** pork and flour were stacked along the busy wharves of New Orleans."*

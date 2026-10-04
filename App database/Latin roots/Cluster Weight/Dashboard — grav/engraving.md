@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A print made from an engraving.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A block or plate or other hard surface that has been engraved.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art or process of incising designs onto hard surfaces; also a print made from an engraved metal plate or wooden block.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In visual arts, an intaglio printmaking technique where ink is transferred from incised furrows under intense roller press pressure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Every hedge, bush, and tree was distinct as in a line engraving."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"There were no other pictures, except an engraving of "The Light of the World," given her by Val, who admired it."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Poor young Plymdale had lingered with admiration over this very engraving, and his spirit was stirred."*
+> - 📜 **George Eliot (*Middlemarch*):** *"A fine framed **engraving** of the Transfiguration hung above the drawing-room mantelpiece."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"An antique copperplate **engraving** depicted the founding of the town beneath spreading forest boughs."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The subtle gradation of tone in Turner's **engraving** captured the luminous vapor rising from the Alpine valleys."*

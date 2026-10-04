@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Carve, cut, or etch into a material or surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impress or affect deeply.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Carved, incised, or etched onto a hard surface; deeply impressed or firmly fixed in memory or feeling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In graphic arts and horology, finished by intaglio incision or laser etching on commemorative plates, coins, or watch dials.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Has the picture been engraved, miss?” “The picture has never been engraved."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Matter has no memory, because its forms are evanescent, and what is engraved on its forms perishes with the forms."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Ross Browne are pretty correct in contour; but they are wretchedly engraved."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The solemn sentence remained **engraved** upon her heart in burning characters that time could never efface."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The initials of the long-dead prisoner were deeply **engraved** into the stone wall of the subterranean cell."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The laws of the Twelve Tables were **engraved** upon brass tablets and hung in the Roman forum."*

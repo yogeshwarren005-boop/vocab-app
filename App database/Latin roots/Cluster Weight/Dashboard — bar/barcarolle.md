@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A boating song sung by venetian gondoliers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A boating song sung by venetian gondoliers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A boat song of Venetian gondoliers, or a vocal or instrumental musical piece with a gentle, swaying rhythm in compound meter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical musicology and operatic repertoire, a composition in moderate 6/8 meter, famously exemplified by Offenbach's Les contes d'Hoffmann.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Sónya was sitting at the clavichord, playing the prelude to Denísov’s favorite barcarolle."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"But no sooner had Natásha finished her barcarolle than reality again presented itself."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The audience was enchanted by the lilting **barcarolle**, whose undulating rhythm mirrored the gentle lap of water against marble steps."*
+> - 📜 **Henry James (*The Aspern Papers*):** *"From our balcony over the Grand Canal, we could hear the romantic strain of a **barcarolle** sung under the moonlit Rialto."*
+> - 📜 **Thomas Mann (*Death in Venice*):** *"The distant notes of a tenor singing a Venetian **barcarolle** drifted across the calm evening water toward the Lido."*

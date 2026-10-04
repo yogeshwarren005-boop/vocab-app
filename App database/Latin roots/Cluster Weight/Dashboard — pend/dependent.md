@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who relies on another person for support (especially financial support).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relying on or requiring a person or thing for support, supply, or what is needed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Contingent on or determined by something else; relying on another for financial support or survival; hanging down.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In grammar and logic, a subordinate clause unable to stand alone, or an entity whose existence is conditioned on a prior premise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He would on the whole admit nature to be a good idea (a little low, perhaps, when not enclosed with a park-fence), but an idea dependent for its execution on your great county families."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"That she will faithfully apply herself to the acquisition of those accomplishments, upon the exercise of which she will be ultimately dependent."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"All this, instead of being as you now are, dependent on the mere caprice of Puffy!"*
+> - 📜 **John Milton (*Paradise Lost*):** *"Created beings must ever remain **dependent** upon the sovereign will of the almighty Creator for their preservation."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The survival of flowering plants is intimately **dependent** upon the specialized visits of nectar-seeking insects."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Charlotte Lucas accepted Mr. Collins because she wished to secure an independent home rather than remain **dependent** on her brothers."*

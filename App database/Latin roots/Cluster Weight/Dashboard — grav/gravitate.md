@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Move toward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be attracted to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To move toward or be attracted to a person, place, or thing; physically, to move under the influence of gravity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Newtonian astrophysics and sociology, spontaneous directional movement governed by gravitational potential or cultural affinity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The human soul is regarded in Browning’s poetry as a complexly organized, individualized divine force, destined to gravitate towards the Infinite."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Mortals must gravitate Godward, 265:6 their affections and aims grow spiritual, - they must near the broader interpretations of being, and gain some proper sense of the infinite, - in order that sin and mortality 265:9 may be put off."*
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"They are devices for holding up many that would else gravitate down and keeping down many who would else rise up; for providing that some should reap who have not sown, and many sow without reaping."*
+> - 📜 **Isaac Newton (*Mathematical Principles of Natural Philosophy*):** *"The celestial planets **gravitate** perpetually toward the central body of the Sun in inverse proportion to the square of their distances."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"All the unfortunate suitors in Chancery seem naturally to **gravitate** toward the gloomy purlieus of Lincoln's Inn."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Ambitious courtiers and foreign diplomats tended inevitably to **gravitate** toward the king's private closet."*

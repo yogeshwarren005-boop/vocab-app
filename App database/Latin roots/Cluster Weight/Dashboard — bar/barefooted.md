@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without shoes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without shoes on.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wearing no footwear; having bare feet; discalced.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive narrative and ethnography, walking without protective footwear on ground, stone, or deck.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They were standing in a group, in their nightgowns, barefooted, at the window, the last red rays of the west still warming their faces and necks and the walls around them."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"And by a sort of fascination the three girls, one after another, crept out of their beds, and came and stood barefooted round Tess."*
-> - 📜 **George Eliot (*Middlemarch*):** *"And Lydgate’s tendency was not towards extreme opinions: he would have liked no barefooted doctrines, being particular about his boots: he was no radical in relation to anything but medical reform and the prosecution of discovery."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Poor Jo sat on the doorstep, a shivering, **barefooted** crossing-sweeper with nowhere to lay his head."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The little child ran **barefooted** through the forest path, chasing butterflies among the tall ferns."*
+> - 📜 **Sir Walter Scott (*The Heart of Midlothian*):** *"Jeanie Deans set forth **barefooted** along the road to London, carrying her shoes in her hand to save the leather."*

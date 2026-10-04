@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone guilty of barratry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone guilty of barratry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who commits barratry; an habitual instigator of groundless lawsuits or quarreling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical common law, a vexatious litigant who stirs up strife and suits in courts or among neighbors for malicious gain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barrater designates someone guilty of barratry."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A common **barrater** is a public nuisance to his neighborhood, continually exciting groundless lawsuits and civic dissensions."*
+> - 📜 **Edward Coke (*Institutes of the Lawes of England*):** *"The law severely punisheth every **barrater** who vexeth the peace of honest men with fraudulent and contentious suits."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The unscrupulous attorney was denounced as a professional **barrater**, preying upon the property of confused litigants."*

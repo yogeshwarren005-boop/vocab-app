@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put in barrels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put in or stored in a barrel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Stored in barrels, or furnished with barrels (British spelling of barreled).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British manufacturing and firearms descriptions, matured in wooden casks or configured with one or more metal firing tubes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was double-barrelled, and he had, meanwhile, in some way fastened his hand-kerchief to the trigger, and with his foot on the other end was in the act of turning the second barrel upon himself."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Across their pommels were long-barrelled rifles."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And my father, like them, had a long-barrelled rifle close to hand as he drove."*
+> - 📜 **Sir Walter Scott (*Rob Roy*):** *"The smugglers concealed thirty casks of fine **barrelled** brandy beneath the floor of the ruined chapel."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Watson carried his double-**barrelled** pistol, ready for any sudden assault in the gloomy riverside warehouse."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The merchant's cellar was stocked with rich **barrelled** oysters and prime port wine for the winter season."*

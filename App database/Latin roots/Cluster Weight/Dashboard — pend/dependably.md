@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a faithful manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a faithful manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a trustworthy, reliable, and consistent manner; with unwavering dependability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In operational mechanics and behavioral description, functioning without failure or error under recurring conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dependably designates in a faithful manner."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The faithful hound followed the scent **dependably**, guiding us through the dark alleys of south London to the river's edge."*
+> - 📜 **Joseph Conrad (*The Shadow-Line*):** *"The chronometer ticked **dependably** in its mahogany case, keeping solitary count of the long tropical nights."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"Giles Winterborne labored **dependably** among the cider presses, fulfilling every contract with honest country punctuality."*

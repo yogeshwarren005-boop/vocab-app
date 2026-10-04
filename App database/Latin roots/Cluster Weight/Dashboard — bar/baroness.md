@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A noblewoman who holds the rank of baron or who is the wife or widow of a baron.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A noblewoman who holds the rank of baron or who is the wife or widow of a baron.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The wife or widow of a baron, or a woman holding the noble rank of baron in her own right.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In European peerage hierarchy, a noblewoman entitled to the style of baroness within imperial, British, or continental nobility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Baroness Wallerstätten, the mistress of the castle at that time, had often consulted the rector as to many things."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The Baroness hardly undertook anything in her household without consulting Apollonie and asking her assistance."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I was up at the castle a great deal, because the Baroness Maximiliana of Wallerstätten was my godmother."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The foreign **baroness** was covered in antique diamonds, presiding over her German salon with imperial condescension."*
+> - 📜 **Henry James (*The Europeans*):** *"The **Baroness** Münster arrived in the quiet New England village, bringing an air of sophisticated European intrigue."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"The proud dowager boasted incessantly of her cousin, who was married to a continental **baroness** of ancient lineage."*

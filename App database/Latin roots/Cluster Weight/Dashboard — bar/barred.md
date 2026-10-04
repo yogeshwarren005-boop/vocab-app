@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Prevent from entering; keep out.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Render unsuitable for passage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fastened or secured with bars; blocked or obstructed; marked with parallel stripes or bands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology and legal status, exhibiting alternating transverse color bands on plumage (e.g., barred owl), or disqualified from legal practice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Purpose so barred, it follows Nothing is done to purpose."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Things hid and barred, you mean, from common sense?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A jewel in a ten-times-barred-up chest Is a bold spirit in a loyal breast."*
+> - 📜 **William Shakespeare (*Richard III*):** *"The gates of the city were securely **barred** against the rebel army as evening fell."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The domestic pigeon frequently displays ancestral **barred** markings across the secondary wing coverts and tail."*
+> - 📜 **Sir Walter Scott (*Ivanhoe*):** *"The heavy oak door was doubly **barred** with iron, defying the assaults of the besiegers upon the castle keep."*

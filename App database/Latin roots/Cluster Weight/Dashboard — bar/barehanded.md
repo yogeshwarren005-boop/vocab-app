@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With bare hands.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With bare hands.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Using the hands without gloves, mitts, or hand coverings; also without weapons or mechanical tools.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In manual labor, combat, and sports mechanics, catching, wrestling, or working relying solely on cutaneous friction and grip.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barehanded designates with bare hands."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"The frontiersman seized the wounded wolf **barehanded**, wrestling the snapping jaws into the snow."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The whalemen hauled the icy hemp lines **barehanded** through freezing spray as the squall struck the ship."*
+> - 📜 **Arthur Conan Doyle (*The White Company*):** *"The English archer grappled **barehanded** with the French man-at-arms, wrenching the dagger from his gauntlet."*

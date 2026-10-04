@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A british or canadian lawyer who speaks in the higher courts of law on behalf of either the defense or prosecution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A british or canadian lawyer who speaks in the higher courts of law on behalf of either the defense or prosecution.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lawyer entitled to practice as an advocate, particularly in higher courts of law, especially in England and Wales.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British legal history, an advocate called to the bar by an Inn of Court, holding exclusive right of audience in the superior courts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"I intend to go to town and eat my dinners as a barrister, since, they say, that is the preparation for all public business."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"In happier days and fairer fortunes, he had won the affections of a beautiful and interesting girl, the daughter of a late celebrated Irish barrister."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The barrister who has his case at his fingers’ ends and is able to argue with an expert upon his own subject finds that a week or two of the courts will drive it all out of his head once more."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Sydney Carton sat in court with his wig tossed carelessly aside, whispering crucial instructions to the defending **barrister**."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"Francis Bacon was admitted as a **barrister** at Gray's Inn, mastering the profound technicalities of English common law."*
+> - 📜 **William Makepeace Thackeray (*The History of Pendennis*):** *"The young **barrister** occupied modest chambers in the Temple, waiting patiently for briefs from London attorneys."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having an appendage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having an appendage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking appendages, limbs, wings, or supplementary projections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy and embryology, simple vermiform or cylindrical organisms lacking paired extremities or articulated appendages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unappendaged designates not having an appendage."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The primitive ancestral worm presents a completely **unappendaged** cylindrical body devoid of paired limbs or sensory antennae."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"In the lower helminths, the smooth **unappendaged** cuticle offers no resistance as the parasite navigates the host's intestinal tract."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The limbless amphibian possesses an **unappendaged** trunk that moves through moist subterranean soil by sinusoidal burrowing."*

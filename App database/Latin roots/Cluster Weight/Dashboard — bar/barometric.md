@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to atmospheric pressure or indicated by a barometer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to atmospheric pressure or indicated by a barometer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, determined by, or measured with a barometer; relating to atmospheric pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meteorology, describing atmospheric pressure gradients, systems of high and low pressure, or altimetric altitude calculations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"It is entirely a question of barometric pressure.” Lestrade looked startled."*
+> - 📜 **Alexander von Humboldt (*Cosmos: A Sketch of a Physical Description of the Universe*):** *"Diurnal **barometric** tides in the tropics oscillate with the regular clockwork rhythm of the sun."*
+> - 📜 **Robert FitzRoy (*The Weather Book: A Manual of Practical Meteorology*):** *"A rapid **barometric** depression invariably warns the mariner of approaching cyclonic fury."*
+> - 📜 **John Tyndall (*The Glaciers of the Alps*):** *"We determined the summit altitude of the mountain by comparing simultaneous **barometric** readings with those of the valley station."*

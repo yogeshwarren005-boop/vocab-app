@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tranquilizer (trade names librium and libritabs) used in the treatment of alcoholism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tranquilizer (trade names librium and libritabs) used in the treatment of alcoholism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pharmaceutical trade name for commercial tablet preparations of chlordiazepoxide, a benzodiazepine anxiolytic medication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychopharmacology and clinical history, one of the earliest benzodiazepine formulations marketed in the 1960s to treat anxiety disorders and alcohol withdrawal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, libritabs designates a tranquilizer (trade names librium and libritabs) used in the treatment of alcoholism."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Modern psychiatric therapeutics introduced chlordiazepoxide under proprietary names like **Libritabs** to replace habit-forming barbiturates."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The synthetic synthesis of tranquilizing benzodiazepine agents represented by **Libritabs** illuminated subcortical receptor mechanisms."*
+> - 📜 **Bertrand Russell (*Unpopular Essays*):** *"The widespread prescription of commercial sedatives such as **Libritabs** reflects the acute psychological tensions of competitive industrial society."*

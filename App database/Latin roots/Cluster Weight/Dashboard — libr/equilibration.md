@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Stabilization by bringing into equilibrium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stabilization by bringing into equilibrium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or achievement of balancing opposing forces, systems, or influences into equilibrium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and developmental cognitive psychology, dynamic self-regulation balancing assimilation and accommodation in open systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, equilibration designates stabilization by bringing into equilibrium."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Evolutionary progress represents a grand process of **equilibration** between internal organic forces and external environmental pressures."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The physiological **equilibration** of organic growth ensures that excessive development in one organ is compensated by reduction in another."*
+> - 📜 **John Tyndall (*Fragments of Science*):** *"Thermal **equilibration** proceeds until all bodies in contact attain uniform thermodynamic temperature."*

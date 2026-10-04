@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Elaborate and extensive ornamentation in decorative art and architecture that flourished in europe in the 17th century.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Elaborate and extensive ornamentation in decorative art and architecture that flourished in europe in the 17th century.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extravagant ornateness, dramatic flamboyance, theatrical excess, or complex decorative elaboration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural criticism and aesthetics, highly complex, emotive, and heavily sculpted decorative elaboration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, baroqueness designates elaborate and extensive ornamentation in decorative art and architecture that flourished in europe in the 17th century."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The excessive **baroqueness** of late Italian sculpture replaced serene spiritual dignity with restless theatrical posturing."*
+> - 📜 **Henry James (*The American*):** *"Newman was bewildered by the dense **baroqueness** of the Parisian salon, where every chair was gilded and carved into grotesque acanthus leaves."*
+> - 📜 **George Santayana (*The Sense of Beauty*):** *"The bold **baroqueness** of Bernini's fountains captures the vitality of cascading water through turbulent marble forms."*

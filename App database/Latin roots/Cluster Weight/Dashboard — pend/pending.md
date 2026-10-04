@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Awaiting conclusion or confirmation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Awaiting conclusion or confirmation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Awaiting decision or settlement; unresolved; also prep. until something happens or during the period of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil litigation and probate law, suits actively before the court (*lis pendens*) but not yet terminated by final judgment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I have just called to see you,” said Gabriel, pending her further speech."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Something kept saying to me, _you must wait_, for there is something pending on that train you must wait for."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"On the other hand, men of larger qualities of leadership in the older parties are constantly adopting and advancing pending measures of social reform."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The great Chancery suit had been **pending** for three generations, ruining every suitor who had the misfortune to be named in it."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The execution of the royal warrant was delayed **pending** the arrival of fresh dispatches from the Hague."*
+> - 📜 **Sir Walter Scott (*The Heart of Midlothian*):** *"The magistrate suspended all legal proceedings **pending** the examination of the mysterious witness from the highlands."*

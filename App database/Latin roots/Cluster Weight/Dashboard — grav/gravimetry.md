@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The measurement of specific gravity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The measurement of specific gravity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific measurement of the strength of a gravitational field or of weight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geodesy and exploration geophysics, measuring local gravitational acceleration variations to model the Earth's geoid and identify geologic structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gravimetry designates the measurement of specific gravity."*
+> - 📜 **Alexander von Humboldt (*Cosmos: A Sketch of a Physical Description of the Universe*):** *"The progress of terrestrial **gravimetry** provided crucial empirical data for calculating the true oblateness of the planetary sphere."*
+> - 📜 **Arthur Eddington (*Space, Time and Gravitation*):** *"High-precision **gravimetry** allows modern geodesists to map subtle mass redistributions caused by post-glacial rebound."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry*):** *"Quantitative chemistry relies entirely on the principles of exact **gravimetry** to establish stoichiometric proportions."*

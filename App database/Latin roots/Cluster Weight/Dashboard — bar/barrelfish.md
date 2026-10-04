@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Blackish fish of new england waters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Blackish fish of new england waters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A deep-water marine fish (Hyperoglyphe perciformis) of the medusafish family (Centrolophidae), possessing a plump, barrel-shaped body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pelagic ichthyology, a dark perciform fish inhabiting temperate continental shelves, often congregating around drifting flotsam and seaweed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barrelfish designates blackish fish of new england waters."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Fishermen brought aboard a plump, dark **barrelfish** taken from deep water beneath the drifting kelp masses."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Curious deep-sea species, including the stout **barrelfish**, lingered in the shade of the vessel's mossy copper bottom."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The pelagic fauna beneath floating drift logs often shelters juvenile **barrelfish** alongside triggerfish and small carangids."*

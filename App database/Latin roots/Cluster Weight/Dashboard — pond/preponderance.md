@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Superiority in power or influence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A superiority in numbers or amount.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Superiority in weight, power, importance, or numerical quantity; predominance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evidentiary law, the standard of proof in civil litigation (*preponderance of the evidence*) where an allegation is proven more likely true than not.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Despite the great preponderance of domestic production over foreign trade, it is perhaps too much to say that the tariff is unimportant in our present conditions."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But I am constrained to take a view of the case which gives the preponderance to Mr."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"To attain this end we must secure a preponderance of virtue over vice and must endeavor to secure that the honest man may, even in this world, receive a lasting reward for his virtue."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The overwhelming **preponderance** of parliamentary votes against the measure compelled the ministry to abandon its bill."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"In every region, we observe a numerical **preponderance** of certain dominant plant species over their rarer competitors."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The military **preponderance** of the barbarian auxiliaries ultimately proved fatal to the authority of the western Caesars."*

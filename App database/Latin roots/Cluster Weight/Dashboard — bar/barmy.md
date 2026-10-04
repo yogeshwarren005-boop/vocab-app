@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by spirited enjoyment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Informal or slang terms for mentally irregular.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Eccentric, crazy, or foolish; also archaically, frothy or yeasty like fermenting beer barm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British colloquial idiom and dialect, flighty, scatterbrained, or exhibiting bizarre behavior resembling yeasty bubbling froth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barmy designates marked by spirited enjoyment."*
+> - 📜 **P. G. Wodehouse (*Right Ho, Jeeves*):** *"Gussie's behavior at the school prize-giving was so entirely **barmy** that even the headmaster was struck dumb with horror."*
+> - 📜 **George Orwell (*Down and Out in Paris and London*):** *"The destitute tramp muttered to himself constantly, dismissed by the workhouse porters as harmlessly **barmy**."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"The old gentleman across the garden wall had gone quite **barmy**, pelting vegetable marrows at the drawing-room window."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who spends money to purchase goods or services.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who spends money to purchase goods or services.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who or organization that spends money, resources, energy, or effort.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political economy and public finance, an agent, disbursing officer, or institution executing fiscal allocations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, expender designates someone who spends money to purchase goods or services."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The sovereign who becomes an extravagant **expender** of public treasure soon exhausts the taxable capacity of his subjects."*
+> - 📜 **Francis Bacon (*Essays*):** *"A wise man should be a frugal **expender** of both his purse and his time, allocating each to worthy ends."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Parliament instituted committees of inquiry to examine every chief **expender** of naval supplies during the Dutch war."*

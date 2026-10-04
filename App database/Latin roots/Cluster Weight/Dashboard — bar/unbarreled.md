@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not in a barrel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not in a barrel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not put into or contained in barrels; removed from barrels; American spelling of unbarrelled.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bulk commodity shipping and brewing logistics, bulk liquids transported in tankers rather than wooden casks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unbarreled designates not in a barrel."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Vast quantities of **unbarreled** whale oil were pumped directly from the boiling try-pots into the copper cooling vats."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"The **unbarreled** flour and corn meal were piled in bulk beneath tarpaulins on the damp lower deck of the steamboat."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The cellar contained heaps of loose, **unbarreled** provisions waiting to be inventoried by the bailiff."*

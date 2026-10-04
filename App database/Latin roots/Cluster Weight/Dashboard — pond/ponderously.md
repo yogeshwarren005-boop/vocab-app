@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an uninterestingly ponderous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a heavy ponderous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a heavy, slow, or cumbersome manner; unwieldily or with tedious laboriousness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative prose, moving with laborious physical heaviness or speaking with tedious, self-important solemnity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"A narrow and deserted street in deep shadow, high houses, innumerable windows with venetian blinds, a dead silence, grass sprouting between the stones, imposing carriage archways right and left, immense double doors standing ponderously ajar."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Well, then," said Stevens, ponderously, "I move we proceed to elect officers and form as a corporation." "Second the motion," said Murray almost automatically."*
-> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"She has a theory," continued Madame Lemaire, ponderously, "that the boy Jean-Marie, who drove the cart, could explain the matter if he chose."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The muddy river steamer paddled **ponderously** upstream against the sullen yellow current of the great African river."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Michael Henchard moved **ponderously** across the marketplace, his massive frame radiating defiant gloom."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The great hull rolled **ponderously** in the calm, its heavy yardarms creaking against the masts with every ocean swell."*

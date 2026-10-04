@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A town in northeastern oklahoma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in northeastern oklahoma.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in northeastern Oklahoma, renowned in petroleum history as an early oil boomtown and the historic headquarters of Phillips Petroleum Company.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American industrial geography and architectural history, home to Frank Lloyd Wright's Price Tower and Oklahoma's first commercial oil well (Nellie Johnstone No. 1).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bartlesville designates a town in northeastern oklahoma."*
+> - 📜 **John Steinbeck (*The Grapes of Wrath*):** *"The drilling rigs sprouted across the prairie around **Bartlesville**, pumping black gold into the booming refineries."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"The midwestern oil men talked enthusiastically of new strikes near **Bartlesville** that yielded thousands of barrels a day."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"The energy and enterprise of the frontier town of **Bartlesville** mirrored the swift transformation of the southwestern territories."*

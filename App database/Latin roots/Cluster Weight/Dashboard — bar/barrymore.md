@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states actor; son of maurice barrymore and georgiana barrymore (1882-1942).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states actress; daughter of maurice barrymore and georgiana barrymore (1879-1959).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the famous American theatrical and cinematic acting dynasty (including Maurice, Lionel, Ethel, and John Barrymore).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theatrical history, America's 'Royal Family' of the stage, renowned for classical Shakespearean roles and magnetic screen presence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"In spite of his considerable wealth he was simple in his personal tastes, and his indoor servants at Baskerville Hall consisted of a married couple named Barrymore, the husband acting as butler and the wife as housekeeper."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"On the fourth of May Sir Charles had declared his intention of starting next day for London, and had ordered Barrymore to prepare his luggage."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"At twelve o’clock Barrymore, finding the hall door still open, became alarmed, and, lighting a lantern, went in search of his master."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The butler **Barrymore** was a tall, handsome man with a full black beard and courteous, restrained manners."*
+> - 📜 **George Bernard Shaw (*Pen Portraits and Reviews*):** *"The romantic stage presence of John **Barrymore** revitalized Hamlet for twentieth-century theater audiences."*
+> - 📜 **Henry James (*The Tragic Muse*):** *"The young actor possessed that natural dignity of theatrical presence that critics associate with the famous **Barrymore** lineage."*

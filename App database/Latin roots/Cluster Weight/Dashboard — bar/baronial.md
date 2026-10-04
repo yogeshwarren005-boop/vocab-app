@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impressive in appearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impressive in appearance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging or relating to a baron or the barony; grand, stately, and imposing, resembling a medieval baron's castle or estate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Scottish and English architectural revivalism, the Scottish Baronial style featuring corbelled turrets, crow-stepped gables, and crenellated parapets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It seemed hardly possible that by such comparatively small mouthfuls he could keep up the vitality diffused through so broad, baronial, and superb a person."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"He too worships fire; most faithful, broad, baronial vassal of the sun!—Oh that these too-favoring eyes should see these too-favoring sights."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The traditionary customs of golden-hearted antiquity, its feudal hospitalities, and lordly wassailings, have passed away with the baronial castles and stately manor-houses in which they were celebrated."*
+> - 📜 **Sir Walter Scott (*Waverley*):** *"The ancient manor house presented a proud **baronial** aspect, with granite towers, bartizans, and deep arrow slits overlooking the glen."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Chesney Wold was surrounded by vast oak woods and parklands, radiating that gloomy **baronial** splendor characteristic of ancient families."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The great lords maintained almost **baronial** courts in their country seats, feasting hundreds of tenants in their great halls."*

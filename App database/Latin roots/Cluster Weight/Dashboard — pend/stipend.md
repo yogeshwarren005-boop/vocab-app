@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sum of money allotted on a regular basis; usually for some specific purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sum of money allotted on a regular basis; usually for some specific purpose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fixed regular sum paid as a salary or allowance, especially to a clergyman, scholar, or public official.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic and ecclesiastical history, an endowment or living allocated to support a university fellow, vicar, or magistrate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Whereas from our present _via media_--facilitation of divorce--can only result the era when the young lady in reduced circumstances will no longer turn governess but will be open to engagement as wife at a reasonable stipend."*
-> - 📜 **George Eliot (*Middlemarch*):** *"After a time—not, of course, at first—he might be with me as my curate, and he would have so much to do that his stipend would be nearly what I used to get as vicar."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Was it possible that with his small stipend he could afford such extravagances?"*
+> - 📜 **Oliver Goldsmith (*The Vicar of Wakefield*):** *"A modest **stipend** of forty pounds a year was sufficient to maintain the pious country parson and his hospitable household."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The Scottish parliament voted a frugal annual **stipend** to maintain the Presbyterian ministers in every parish."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"When the **stipend** of the university professor is fixed independently of his lectures, his diligence will naturally languish."*

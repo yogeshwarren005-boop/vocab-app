@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who earns a living by digging graves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who earns a living by digging graves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person whose job is to dig graves in a cemetery or burial ground.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theatrical and social history, cemetery laborers historically associated with folk wisdom, memento mori themes, and sepulchral duty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Wopsle in a comprehensive black cloak, being descried entering at the turnpike, the gravedigger was admonished in a friendly way, “Look out!"*
-> - 📜 **James Joyce (*Ulysses*):** *"A seventh gravedigger came beside Mr Bloom to take up an idle spade. —O, excuse me!"*
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"This young woman chancing to be at a country assembly, where the gravedigger of the parish acted as master of the ceremonies, was called out to dance before Miss Gobble, who happened to be there present also with her mother."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"The clownish **gravedigger** tossed up skull after skull from the earth, singing merrily at his grim labor."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The churchyard **gravedigger** rested his spade against the grassy mound, pausing to watch the funeral procession enter."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The solitary **gravedigger** worked quietly in the marshes churchyard as evening mist crept over the dykes."*

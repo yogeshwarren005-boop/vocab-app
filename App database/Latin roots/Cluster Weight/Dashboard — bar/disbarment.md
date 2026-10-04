@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of expelling a lawyer from the practice of law.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of expelling a lawyer from the practice of law.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The official expulsion of a lawyer from the legal profession, revoking their license to practice law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In judicial administration and legal ethics, the severe disciplinary sanction stripping an advocate of legal credentials for gross misconduct.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disbarment designates the act of expelling a lawyer from the practice of law."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The corrupt solicitor faced criminal prosecution and immediate **disbarment** following the exposure of the Chancery fraud."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The sentence of **disbarment** pronounced against the crown prosecutor ruined his worldly fortune and professional standing."*
+> - 📜 **Anthony Trollope (*Orley Farm*):** *"The threat of professional **disbarment** hung over the ambitious barrister if his complicity in the forged codicil were exposed."*

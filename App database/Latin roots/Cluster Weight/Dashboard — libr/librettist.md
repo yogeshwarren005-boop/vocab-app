@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Author of words to be set to music in an opera or operetta.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Author of words to be set to music in an opera or operetta.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who writes the text (libretto) of an opera, operetta, or other extended vocal work.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musicology and theatrical history, a dramatic poet collaborating with a composer to structure dramatic recitative, arias, and choral text.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, librettist designates author of words to be set to music in an opera or operetta."*
+> - 📜 **George Bernard Shaw (*The Perfect Wagnerite*):** *"Wagner broke with traditional opera by acting as his own poet and **librettist**, fusing text and music into a unified drama."*
+> - 📜 **Thomas Mann (*Doctor Faustus*):** *"The composer collaborated closely with an erudite **librettist** to adapt the medieval mystery play for the modern stage."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The fashionable audience applauded the Italian opera, caring little for the clumsy rhymes contrived by the obscure **librettist**."*

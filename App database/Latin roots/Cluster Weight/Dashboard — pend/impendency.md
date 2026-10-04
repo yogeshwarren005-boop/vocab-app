@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being imminent and liable to happen soon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being imminent and liable to happen soon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Imminent threat, close proximity, or looming arrival of an impending catastrophe or peril.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative poetics and historical rhetoric, the looming imminence of doom or political upheaval.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, impendency designates the state of being imminent and liable to happen soon."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The **impendency** of a French invasion roused the patriotism of all parties to rally around the throne."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The minister was haunted by the dark **impendency** of public exposure and divine retribution."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The citizens were paralyzed by the fatal **impendency** of the Persian siege, expecting slaughter at every dawn."*

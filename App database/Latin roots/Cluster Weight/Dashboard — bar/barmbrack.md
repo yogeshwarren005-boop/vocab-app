@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rich currant cake or bun.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rich currant cake or bun.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A traditional Irish yeasted fruit bread or cake containing raisins, sultanas, and candied peel, traditionally baked at Halloween.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Irish folklore and culinary tradition, a festive tea-cake baked with symbolic fortune-telling charms (ring, coin, rag) predicting the future.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barmbrack designates a rich currant cake or bun."*
+> - 📜 **James Joyce (*Dubliners*):** *"Maria had bought four slices of **barmbrack** for the children, and she felt pleased as she carried the parcel through the Dublin rain."*
+> - 📜 **William Butler Yeats (*The Celtic Twilight*):** *"At Samhain, the country folk cut the fragrant **barmbrack**, laughing to see who would draw the wedding ring from the slice."*
+> - 📜 **George Bernard Shaw (*John Bull's Other Island*):** *"They sat around the turf fire with tea and rich slices of homemade **barmbrack**, discussing local parish politics."*

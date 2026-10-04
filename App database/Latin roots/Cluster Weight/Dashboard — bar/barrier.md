@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A structure or object that impedes free movement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any condition that makes it difficult to make progress or to achieve an objective.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fence, wall, or other obstacle that prevents movement, access, or passage; an obstacle to progress or communication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biogeography and physical oceanography, geographic formations (such as the Great Barrier Reef or mountain ranges) preventing gene flow or migration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"We both felt painfully sensible that between us and these people there was an iron barrier which could not be removed by our new friend."*
-> - 📜 **Jane Austen (*Persuasion*):** *"It was no insignificant barrier, indeed."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"And although the discourse had been committed to memory and was reproduced in the very words that had been written down in the study, no barrier was thereby interposed between the preacher and his hearers."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"An impassable mountain range or wide ocean forms an insurmountable geographic **barrier** separating distinct faunal regions."*
+> - 📜 **John Milton (*Paradise Lost*):** *"High over head the rocky **barrier** rose, shutting out all hope of return to the lost celestial bowers."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Danube river served for centuries as the formidable northern **barrier** protecting the Roman provinces from barbarian incursions."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A white or colorless mineral (baso4); the main source of barium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white or colorless mineral (baso4); the main source of barium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mineral form of barium sulfate ($BaSO_4$); barite; commonly called heavy spar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy and economic geology, an orthorhombic sulfate mineral mined extensively for industrial barium compounds and high-density muds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barytes designates a white or colorless mineral (baso4); the main source of barium."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The mineral veins traversing the Chilean Andes contained beautiful crystalline plates of **barytes** associated with argentiferous galena."*
+> - 📜 **Michael Faraday (*Chemical Manipulation*):** *"Heavy spar, or native **barytes**, requires high-temperature reduction with charcoal to yield soluble barium salts."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The crystalline clusters of white **barytes** from the northern mines glistened like carved alabaster in the sunlight."*

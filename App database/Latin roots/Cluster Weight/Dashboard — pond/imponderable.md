@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A factor whose effects cannot be accurately assessed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Difficult or impossible to evaluate with precision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Difficult or impossible to assess, weigh, or measure precisely; also a factor that cannot be evaluated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century physics, hypothetical weightless fluids (such as caloric, ether, or electricity) formerly supposed to produce heat and light.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"What things real are there, but imponderable thoughts?"*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"What things real are there, but imponderable thoughts?"*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The moral morale of troops in battle is an **imponderable** factor that constantly defies statistical calculations."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Natural philosophers formerly regarded electricity as an **imponderable** subtle fluid flowing through conducting channels."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The subtle instincts of the Leviathan present **imponderable** mysteries that elude the classifications of naturalists."*

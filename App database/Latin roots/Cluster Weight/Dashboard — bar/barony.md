@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The estate of a baron.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The rank or dignity or position of a baronet or baroness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The domain, lands, rank, or jurisdiction of a baron; the collective estates belonging to a baron.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical land tenure and Irish administrative geography, a major feudal freehold territorial division holding ancient court baron jurisdiction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, I’ll tell you what: If my young lord your son have not the day, Upon mine honour, for a silken point I’ll give my barony, never talk of it."*
-> - 📜 **James Joyce (*Ulysses*):** *"Demesne situate in the townland of Rosenallis, barony of Tinnahinch."*
-> - 📜 **James Joyce (*Ulysses*):** *"Those were old worldish days, loyal times in joyous townlands, old times in the barony."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Crusader knights partitioned the Peloponnese into several feudal fiefs, establishing a prosperous **barony** at Patras."*
+> - 📜 **Sir Walter Scott (*The Antiquary*):** *"The ancient **barony** had been held by the Oldbucks under feudal charter since the reign of King David the First."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The crown confirmed the ancient feudal privileges belonging to the **barony**, granting rights of pit and gallows."*

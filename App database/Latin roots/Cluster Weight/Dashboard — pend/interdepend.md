@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be connected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be connected.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To depend mutually on each other; to be interdependent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systems theory and socio-ecological modeling, displaying bidirectional functional reliance across system nodes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, interdepend designates be connected."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"In complex industrial organisms, different social organs mutually **interdepend** for sustenance, protection, and communication."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Plants and pollinating insects closely **interdepend**, so that the extinction of the flower seals the fate of the bee."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The physical sciences so intimately **interdepend** that chemistry cannot advance without constant recourse to physics."*

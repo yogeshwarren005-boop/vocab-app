@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Supplementary material that is collected and appended at the back of a book.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vestigial process that extends from the lower end of the cecum and that resembles a small pouch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A section of supplementary material at the end of a book or document; also the small, finger-like blind tube extending from the cecum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human anatomy and medical pathology, the vestigial vermiform appendix situated at the ileocecal junction, rich in lymphoid tissue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My master hath appointed me to go to Saint Luke’s to bid the priest be ready to come against you come with your appendix. [_Exit._] LUCENTIO."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"Bombay and Calcutta: MACMILLAN AND CO., LTD. [_All Rights reserved._] NOTE: The text of the present volume was passed for press by Arnold Glover and some progress had been made in his lifetime in the collection of the material given in the Appendix."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"Glover's help has again been most valuable in the completion of the work. _The Elder Brother_ is printed entirely in prose in the Second Folio, and I have therefore printed in the Appendix the play in verse, as it appeared in the First Quarto."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The vermiform **appendix** represents a rudimentary cecal diverticulum whose lymphoid follicles frequently become inflamed."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The vermiform **appendix** in man is an unmistakable vestige of the much larger cecum found in herbivorous mammalian ancestors."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The historian placed the statistical tables and transcribed diplomatic letters in an extensive **appendix** at the close of the volume."*

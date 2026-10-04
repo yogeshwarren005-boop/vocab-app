@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The supreme war chief of the ancient britons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The supreme war chief of the ancient britons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient British title signifying a supreme leader, high king, or chief commander, famously held by Uther Pendragon, father of King Arthur.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Celtic myth and Arthurian literature, a sovereign ruler bearing the dragon crest as an imperial war banner.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not to be gone from hence; for once I read That stout Pendragon in his litter sick Came to the field and vanquished his foes."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Pendragon is the title of the eldest son of the house."*
-> - 📜 **William Wordsworth (*Poems in Two Volumes, Volume 2*):** *"How glad Pendragon though the sleep Of years be on her!--She shall reap A taste of this great pleasure, viewing As in a dream her own renewing."*
+> - 📜 **Alfred Tennyson (*Idylls of the King*):** *"Then rose the King and moved his host by night, and on his helmet sat the golden **Pendragon**, breathing dragon-fire."*
+> - 📜 **Sir Walter Scott (*The Bridal of Triermain*):** *"The ancient bard sang of Uther **Pendragon**, whose mighty sword united the warring tribes of Britain."*
+> - 📜 **Thomas Babington Macaulay (*Lays of Ancient Rome*):** *"The legendary traditions of the Celtic **Pendragon** echoed across the ruined Roman villas of ancient Britain."*

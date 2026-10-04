@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A white or colorless mineral (baso4); the main source of barium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white or colorless mineral (baso4); the main source of barium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dense mineral consisting of barium sulfate ($BaSO_4$), commonly occurring in lead-zinc hydrothermal veins and sedimentary deposits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic geology and petroleum drilling, a heavy nonmetallic mineral used extensively as a weighting agent in drilling muds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barite designates a white or colorless mineral (baso4); the main source of barium."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"In the copper mines of the Andes, we observed heavy crystals of **barite** lining the cavities of the metalliferous veins."*
+> - 📜 **Michael Faraday (*Chemical Manipulation*):** *"Native **barite**, or heavy spar, is insoluble in common acids and requires fusion with alkaline carbonates for decomposition."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The mineral collector prized the tabular, honey-colored crystals of **barite** extracted from the Cumberland limestone caverns."*

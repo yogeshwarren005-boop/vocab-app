@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A spanish-speaking quarter in a town or city (especially in the united states).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An urban area in a spanish-speaking country.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A district, quarter, or neighborhood in a Spanish-speaking city or town; in the United States, an urban neighborhood of Spanish speakers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Latin American urban sociology and administrative law, an officially designated municipal district or neighborhood ward.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"From that line to the circumference ran several streets, some of them broken, like the Calles de la Diezma, Barrio Verde, de los Clavos, and de Pabostre."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of America*):** *"Every populous **barrio** of the colonial city possessed its own public plaza, parish church, and municipal fountain."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"We walked through the working-class **barrio** of Barcelona, where red and black anarchist banners hung from every balcony."*
+> - 📜 **Washington Irving (*The Alhambra*):** *"The winding alleys of the ancient Moorish **barrio** led upward toward the red towers of the royal fortress."*

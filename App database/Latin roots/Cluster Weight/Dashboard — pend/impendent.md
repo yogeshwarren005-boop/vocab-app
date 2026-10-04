@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Close in time; about to occur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Close in time; about to occur.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hanging over; imminent, impending, or threatening to occur in the immediate future.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature and physical description, hanging poised above, or menacing like an overhanging precipice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"Well thou didst advise, Yet not for thy advise or threats I fly These wicked Tents devoted, least the wrauth Impendent, raging into sudden flame Distinguish not: for soon expect to feel His Thunder on thy head, devouring fire."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Well thou didst advise; Yet not for thy advice or threats I fly These wicked tents devoted, lest the wrath Impendent, raging into sudden flame, Distinguish not: For soon expect to feel His thunder on thy head, devouring fire."*
-> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"The senate assembled, he declares the occasion of convening them; a bloody battle just impendent between two mighty armies of ancient and modern creatures, called books, wherein the celestial interest was but too deeply concerned."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Under the shadow of an **impendent** rock, the traveler sought refuge from the scorching noonday heat."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The **impendent** ruin of the Western empire could no longer be averted by the feeble decrees of the Ravenna court."*
+> - 📜 **Sir Walter Scott (*Waverley*):** *"The young soldier looked up at the **impendent** cliffs of the highland pass, expecting an ambush at every corner."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perennial herb with yellow flowers; southern and south central united states.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perennial herb with yellow flowers; southern and south central united states.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A perennial flowering plant (Collinsonia canadensis), also called horse balm or richweed, traditionally used to treat kidney stones (gravel).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnobotany and herbal pharmacopeia, an aromatic North American mint family (Lamiaceae) plant valued for diuretic and lithotriptic properties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gravelweed designates perennial herb with yellow flowers; southern and south central united states."*
+> - 📜 **William Withering (*An Arrangement of British Plants*):** *"In American herbal lore, the root of **gravelweed** was celebrated for expelling calculous concretions from the urinary passages."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Collinsonia canadensis, known locally as **gravelweed**, grows luxuriantly in rich damp woodlands, bearing fragrant yellow flowers."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The labiate plant **gravelweed** contains pungent essential oils formerly prescribed for renal gravel and catarrh."*

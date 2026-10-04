@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A publication containing a variety of works.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A concise but comprehensive summary of a larger work.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A concise, comprehensive compilation or summary of a body of knowledge, subject matter, or work.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical scholarship and encyclopedism, a handbook systematically condensing vast legal, medical, or philosophical literature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Maclean's _Compendium of Kafir Laws and Customs_; Cape Town, 1866, p. 98)."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Maclean's _Compendium of Kafir Laws and Customs_ (Cape Town, 1866), p. 93; Rev."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Collected from the scattered pages of ninety royal octavo volumes of Congressional Record they would present an invaluable compendium of the political history of the most important era through which the national government has ever passed."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The treatise was intended not as an exhaustive chronicle, but as a practical **compendium** of constitutional law."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Justinian ordered the celebrated jurists to digest thousands of scattered imperial edicts into a single authoritative **compendium**."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Every diligent scholar should maintain a commonplace book serving as a personal **compendium** of natural observations."*

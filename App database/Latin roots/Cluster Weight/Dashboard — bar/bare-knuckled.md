@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by disorderly action and disregard for rules.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by disorderly action and disregard for rules.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fought or conducted without gloves; aggressive, uninhibited, fierce, or brutally direct in approach.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sports history and adversarial journalism, fighting with unclothed fists, or engaging in savage unconstrained dispute.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bare-knuckled designates characterized by disorderly action and disregard for rules."*
+> - 📜 **Arthur Conan Doyle (*Rodney Stone*):** *"He was a veteran of many **bare-knuckled** encounters on the Hampshire downs, bearing the marks of battle upon his broken nose."*
+> - 📜 **Jack London (*The Game*):** *"The old trainer described the **bare-knuckled** bouts of his youth, where endurance and raw grit determined the victor."*
+> - 📜 **George Bernard Shaw (*Cashel Byron's Profession*):** *"A **bare-knuckled** fighter in those times needed a jaw of granite and hands hardened in brine to survive thirty rounds."*

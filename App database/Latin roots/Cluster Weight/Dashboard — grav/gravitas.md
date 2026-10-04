@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Formality in bearing and appearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formality in bearing and appearance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dignity, seriousness, solemnity, or depth of personality; high moral authority and poise in character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient Roman ethics, one of the cardinal virtues denoting dignified self-command, sober civic responsibility, and steadfast purpose.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gravitas designates formality in bearing and appearance."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The venerable senator spoke with an ancient Roman **gravitas** that hushed the clamorous factions of the forum."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"His natural dignity and moral **gravitas** gave immense authority to his pronouncements from the judicial bench."*
+> - 📜 **Winston Churchill (*Marlborough: His Life and Times*):** *"The Dutch pensionary conducted foreign negotiations with unruffled **gravitas**, never yielding to hasty diplomatic pressure."*

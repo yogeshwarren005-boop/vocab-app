@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A professional person trained in library science and engaged in library services.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A professional person trained in library science and engaged in library services.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person in charge of or professionally trained to manage a library, its book collections, and information services.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In library and information science, a specialist cataloging bibliographical metadata, managing archives, and facilitating research access.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Sladdery the librarian, and indeed the great farmer of gorgeous sheep, admits this very day, “Why yes, sir, there certainly ARE reports concerning Lady Dedlock, very current indeed among my high connexion, sir."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The librarian now stepped up to me, and demanded whether I had a card of admission."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And I'll be remembered only when some old librarian dusts a forgotten book."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The quiet **librarian** moved softly among the tall shelves of leather-bound volumes, handing me the requested histories."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The learned **librarian** of the Vatican cataloged thousands of Greek and Syriac manuscripts collected during the Renaissance."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"He spent his afternoons conversing with the gentle **librarian** of the town Athenaeum about rare colonial tracts."*

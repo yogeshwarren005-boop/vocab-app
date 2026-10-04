@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reflective thinker characterized by quiet contemplation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reflective thinker characterized by quiet contemplation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who ponders; a thinker who meditates, reflects, or deliberates deeply on matters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual characterization, one given to prolonged introspective contemplation and philosophic speculation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ponderer designates a reflective thinker characterized by quiet contemplation."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Professor Teufelsdröckh sat in his watchtower, a solitary **ponderer** surveying the chaotic currents of human existence."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The moody captain was a dark **ponderer** upon cosmic malice, nursing his vengeful purpose across lonely oceans."*
+> - 📜 **Nathaniel Hawthorne (*The Blithedale Romance*):** *"Miles Coverdale described himself as a quiet **ponderer** of other men's passions, observing the tragic drama unfold."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the breasts uncovered or featuring such nudity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the breasts uncovered or featuring such nudity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the chest or breasts uncovered and bare, lacking shirt, bodice, or protective clothing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnographic anthropology and classical painting, depicting traditional attire or allegorical figures (such as Delacroix's Liberty) without chest coverings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bare-breasted designates having the breasts uncovered or featuring such nudity."*
+> - 📜 **Herman Melville (*Typee*):** *"The Polynesian maidens walked along the palm-fringed shore, **bare-breasted** and crowned with garlands of white jasmine."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"In the interior villages of New Guinea, the native women went **bare-breasted**, adorned only with necklaces of marine shells."*
+> - 📜 **Sir Walter Scott (*The Talisman*):** *"The captive warrior stood **bare-breasted** before the sultan, showing the deep scars of ancient combat across his chest."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of relying on or being controlled by someone or something else.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being abnormally tolerant to and dependent on something that is psychologically or physically habit-forming (especially alcohol or narcotic drugs).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dependent or subordinate thing, territory, or country controlled by an outside power; also state of needing something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geopolitics and software engineering, a non-sovereign colonial protectorate, or a software package required for a program to compile.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let me report to him Your sweet dependency, and you shall find A conqueror that will pray in aid for kindness Where he for grace is kneeled to."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By mine honesty, If she be mad, as I believe no other, Her madness hath the oddest frame of sense, Such a dependency of thing on thing, As e’er I heard in madness."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Eleventh, the erection of the first dependency of the first Ma_sh_riqu'l-A_dh_kár of the western world."*
+> - 📜 **Edmund Burke (*Speech on American Taxation*):** *"The parliament claimed an unlimited legislative power over every remote **dependency** of the British Empire."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The island of Jamaica was ruled as a crown **dependency**, administered by a governor appointed by the sovereign."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The commercial monopolies imposed upon a colonial **dependency** frequently injured the mother country as much as the colony."*

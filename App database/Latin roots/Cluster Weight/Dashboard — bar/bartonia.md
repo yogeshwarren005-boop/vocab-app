@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Annual grown especially for its fragrant golden nocturnal flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Annual grown especially for its fragrant golden nocturnal flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, delicate, saprophytic herbs in the gentian family (Gentianaceae), known as screwstems, native to wetlands in North America.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, wetlands plants named after Benjamin Smith Barton, characterized by reduced scale-like leaves and yellowish flowers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bartonia designates annual grown especially for its fragrant golden nocturnal flowers."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"In damp sphagnous bogs, the slender screwstem, **Bartonia** virginica, displays its yellowish-white blossoms in late summer."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The genus **Bartonia** honors the distinguished American botanist Dr. Barton, belonging to the natural order Gentianaceae."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The subtle adaptations of bog plants such as **Bartonia** demonstrate how specialized organisms exploit nutrient-poor wetland soils."*

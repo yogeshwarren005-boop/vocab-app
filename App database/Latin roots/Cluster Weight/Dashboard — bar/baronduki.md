@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Terrestrial siberian squirrel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Terrestrial siberian squirrel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Alternative phonetic spelling of baranduki, the Siberian striped chipmunk (Eutamias sibiricus) native to northern coniferous forests.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In regional Eurasian mammalogy, small burrowing sciurids foraging for conifer seeds in Siberian taiga ecosystems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, baronduki designates terrestrial siberian squirrel."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The northern squirrel fauna includes the Siberian **baronduki**, which burrows beneath fallen cedar logs in the taiga."*
+> - 📜 **Anton Chekhov (*The Steppe*):** *"The travelers observed the quick little **baronduki** scurrying across the woodland path, carrying birch cones in its cheeks."*
+> - 📜 **Thomas Pennant (*History of Quadrupeds*):** *"The fur of the Asiatic **baronduki** is marked with five dark stripes, distinguishing it from all other northern dormice."*

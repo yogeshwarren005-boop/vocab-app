@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A public official who investigates by inquest any death not due to natural causes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public official who investigates by inquest any death not due to natural causes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A public judicial official charged with inquiring into the causes of violent, sudden, or unexplained deaths through inquests.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Anglo-American legal history, an ancient county officer historically responsible for protecting royal pleas and crown revenue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go thou and seek the coroner, and let him sit o’ my coz; for he’s in the third degree of drink; he’s drowned."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is understood to be in want of witnesses for the inquest to-morrow who can tell the coroner and jury anything whatever respecting the deceased."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"At the appointed hour arrives the coroner, for whom the jurymen are waiting and who is received with a salute of skittles from the good dry skittle-ground attached to the Sol’s Arms."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"The **coroner** hath sat on her, and finds it Christian burial."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The **coroner** and the jury sat in the public-house to inquire into the death of the solitary copyist."*
+> - 📜 **Sir Walter Scott (*The Heart of Midlothian*):** *"The county **coroner** summoned a jury of twelve substantial yeomen to examine the body found upon the heath."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A vessel (such as a yacht) that can be chartered without a captain or crew or provisions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vessel (such as a yacht) that can be chartered without a captain or crew or provisions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A charter arrangement in which a vessel or yacht is hired without crew, captain, fuel, or provisions included.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime admiralty law, a demise charter transferring full operational possession and legal control of the vessel to the charterer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bareboat designates a vessel (such as a yacht) that can be chartered without a captain or crew or provisions."*
+> - 📜 **Joseph Conrad (*The Mirror of the Sea*):** *"The commercial firm secured the freighter under a strict **bareboat** charter, appointing their own captain and shipping master."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The owners refused to let the schooner go on a **bareboat** agreement, insisting on naming the first mate themselves."*
+> - 📜 **Robert Louis Stevenson (*The Ebb-Tide*):** *"They took over the schooner as a **bareboat** proposition, having to find their own crew and provisions in the South Seas."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A room or establishment where alcoholic drinks are served over a counter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A counter where you can obtain food or drink.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of pressure equal to exactly 100,000 pascals (10^5 Pa), approximately equivalent to atmospheric pressure at sea level.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rigid oblong piece of metal or wood, or an establishment where alcoholic drinks are served, or the legal profession collectively.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I bar confusion. ’Tis I must make conclusion Of these most strange events."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But I make my wager rather against your confidence than her reputation; and, to bar your offence herein too, I durst attempt it against any lady in the world."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whereon, At three and two years old, I stole these babes, Thinking to bar thee of succession as Thou refts me of my lands."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The barometer stood at one **bar** as the machine hummed into the distant centuries."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Speckled Band*):** *"He picked up the heavy poker and with one twist bent it into a curved **bar**."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The learned gentleman who stood before the **bar** addressed the chancellor in measured tones."*

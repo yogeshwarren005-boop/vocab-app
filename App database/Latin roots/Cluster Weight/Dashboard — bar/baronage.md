@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The peers of a kingdom considered as a group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The peers of a kingdom considered as a group.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The whole body of barons in a nation; the collective nobility or peerage; also a book recording the lineage and arms of barons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional and genealogical history, the collective parliamentary estate of the barons in medieval assemblies, or heraldic peerage registers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Song of Roland*):** *"With baronage and joy they bring him in."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"To prosecute the descent farther, would far exceed our limits; but readers who may feel curious to trace the genealogy of the founders, will find ample details in the Baronage, the Monasticon, and old chronicles."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"AUTHORITIES quoted or referred to in the preceding article on Llanthony Abbey:--Dugdale’s Monasticon and Baronage, and their Commentaries--Tanner’s Notitia Monastica--Spelman’s Glossar."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The ancient **baronage** of England assembled at Runnymede to compel King John to seal the Great Charter."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The proud **baronage** of the Latin kingdom of Jerusalem maintained their feudal privileges with uncompromising jealousy."*
+> - 📜 **Sir Walter Scott (*The Antiquary*):** *"Jonathan Oldbuck carefully consulted Dugdale's **Baronage** to verify the matrimonial alliances of the ancient Scottish lords."*

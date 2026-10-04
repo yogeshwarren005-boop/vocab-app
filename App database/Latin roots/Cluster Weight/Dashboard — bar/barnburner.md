@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who burns down a barn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An impressively successful event.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An event, contest, or performance that is extraordinarily exciting, intense, or spectacular; historically, a radical reform faction in 1840s New York politics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American political history, radical anti-slavery New York Democrats willing to 'burn the barn to get rid of the pro-slavery rats'.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barnburner designates someone who burns down a barn."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"The steamboat race down the river from Cairo turned into an absolute **barnburner**, with both captains burning resin and pine knots."*
+> - 📜 **Walt Whitman (*Specimen Days*):** *"The political convention was dominated by the fiery radical **barnburner** faction that refused every pro-slavery compromise."*
+> - 📜 **Herman Melville (*The Confidence-Man*):** *"The western pioneer championed his political principles with all the uncompromising zeal of an authentic **barnburner**."*

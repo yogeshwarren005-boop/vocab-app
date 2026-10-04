@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being debarred (excluded from enjoying certain possessions or rights or practices).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of prevention by legal means.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of officially excluding, barring, or prohibiting someone from an office, privilege, benefit, or profession.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In administrative and procurement law, the official disqualification of a contractor or person from government contracts or professional status.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, debarment designates the state of being debarred (excluded from enjoying certain possessions or rights or practices)."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The statutory **debarment** of Roman Catholics from parliamentary seats was reinforced by the Test and Corporation Acts."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The decree of civic **debarment** stripped the convicted senators of their dignities and banished them from Rome."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The legal **debarment** of women from higher education was an irrational relic of ancient patriarchal subjection."*

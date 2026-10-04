@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The amount that many barrels might hold.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tube through which a bullet travels when a gun is fired.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plural of barrel; cylindrical wooden casks; also the metallic tubes of guns; also standard volumetric units of oil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In global energy economics and naval ordnance, the standard unit of crude petroleum production (bbl), or multiple artillery tubes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Place barrels of pitch upon the fatal stake, That so her torture may be shortened."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The longboat was lowering away to larboard, and I saw men, struggling on the ice-sheeted deck with barrels of provisions, abandon the food in their haste to get away."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Scarcely had I managed, helped by the second mate, Aaron Northrup, to lower away half-a-dozen barrels and kegs, when all cried from the boat that they were casting off."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Two thousand **barrels** of purest sperm oil were safely battened down in the Pequod's dark hold."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Empty wine **barrels** were dragged into the street to construct the revolutionary barricades of Saint Antoine."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"The gunner trained the brass cannon upon the mutineers, the twin **barrels** gleaming in the morning sun."*

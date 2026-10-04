@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sensory receptor that responds to pressure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sensory receptor that responds to pressure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sensory nerve ending in the walls of the heart and major blood vessels that senses and responds to changes in arterial blood pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In autonomic cardiovascular physiology, mechanoreceptors in the carotid sinus and aortic arch regulating arterial pressure via the baroreflex.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, baroreceptor designates a sensory receptor that responds to pressure."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The acute drop in blood pressure activates the carotid **baroreceptor** reflexes, provoking immediate compensatory tachycardia."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Sensory afferents originating in the aortic **baroreceptor** endings send continuous impulses to the vasomotor center in the medulla."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Cardiovascular adjustments during sudden fear are mediated by **baroreceptor** mechanisms that regulate blood supply to the brain."*

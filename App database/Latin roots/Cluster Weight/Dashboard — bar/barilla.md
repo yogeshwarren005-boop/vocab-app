@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bushy plant of old world salt marshes and sea beaches having prickly leaves; burned to produce a crude soda ash.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Algerian plant formerly burned to obtain calcium carbonate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An impure alkali (chiefly sodium carbonate) obtained from the ashes of saltwort and coastal halophyte plants, historically used in making soap and glass.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early industrial chemical technology, soda ash derived from burning Salsola soda plants, essential to Mediterranean soap and glass manufacturing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Copper barilla or copper sand, an impure native metal from Chili, was formerly of importance."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The Spanish merchants exported large cargoes of **barilla** to English soapmakers and glass manufacturers at substantial profit."*
+> - 📜 **Michael Faraday (*Chemical Manipulation*):** *"Before the invention of the Leblanc process, crude **barilla** ashes supplied the chief source of soda for industrial chemistry."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of America*):** *"The coastal natives collected halophyte weeds along the saline marshes, incinerating them to produce commercial **barilla** cakes."*

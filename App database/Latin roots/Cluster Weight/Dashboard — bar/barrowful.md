@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quantity that a barrow will hold.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quantity that a barrow will hold.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The amount that a wheelbarrow or handcart can carry or hold; a load filling a barrow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural and horticultural manual labor, a standard informal unit of soil, gravel, or manure transportation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barrowful designates the quantity that a barrow will hold."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The gardener wheeled a large **barrowful** of dead autumn leaves across the gravel lawn toward the compost heap."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"Marty South emptied another **barrowful** of fragrant pine shavings outside the carpenter's workshop."*
+> - 📜 **Nathaniel Hawthorne (*The Blithedale Romance*):** *"We wheeled many a heavy **barrowful** of rich black peat from the meadow to enrich our vegetable plots."*

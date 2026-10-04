@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An equal exchange.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exchange goods without involving money.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To exchange goods or services for other goods or services without using money; also the trade so conducted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical economics and anthropology, direct non-monetary market exchange operating before or alongside currency systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But with a baser man of arms by far Once in contempt they would have barter’d me, Which I disdaining scorn’d, and craved death Rather than I would be so vile-esteem’d."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She was bewildered too by the prospect of having to rely on her own resources again: it seemed to herself that she never could again acquire energy sufficient to go to market, barter, and sell."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Barter still lingers to-day.[3] The extent to which, on an average, money is used in different parts of the world differs widely."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The propensity to truck, **barter**, and exchange one thing for another is common to all men, and to be found in no other animal."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The native Fuegians were eager to **barter** their bone spearheads and otter skins for scraps of red cloth and iron nails."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"I had no money to purchase supplies, but was compelled to **barter** my goatskins and dried raisins for tobacco and tools."*

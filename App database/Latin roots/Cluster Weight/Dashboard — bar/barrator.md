@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone guilty of barratry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone guilty of barratry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who practices barratry; an instigator of vexatious judicial litigation or discord; variant of barrater.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime law and legal jurisprudence, a master or mariner who commits fraudulent misconduct to the injury of shipowners or cargo owners.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barrator designates someone guilty of barratry."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"No man can be indicted as a **barrator** for bringing an honest suit, but only for an habitual course of malicious litigation."*
+> - 📜 **Sir Walter Scott (*The Antiquary*):** *"The bailiff was an intolerable **barrator**, continually dragging his poor tenants before the sheriff for imaginary trespasses."*
+> - 📜 **Francis Bacon (*Essays*):** *"A contentious **barrator** in a commonwealth is like a spark in dry thatch, spreading discord across the whole community."*

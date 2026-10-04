@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an appendage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an appendage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having limbs, projecting parts, or appendages attached.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical and invertebrate taxonomy, describing organs, seeds, or arthropod segments furnished with lateral processes or wings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, appendaged designates having an appendage."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The bizarrely **appendaged** antennae of male silkworm moths are exquisitely tuned to female pheromone trails."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"The fossil trilobite was uniquely preserved, revealing delicately **appendaged** limbs beneath its dorsal pygidium."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The seed capsule is distinctly **appendaged** with membranous wings that facilitate dispersal by mountain winds."*

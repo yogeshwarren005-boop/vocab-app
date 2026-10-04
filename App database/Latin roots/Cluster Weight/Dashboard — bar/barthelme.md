@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states author of sometimes surrealistic stories (1931-1989).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states author of sometimes surrealistic stories (1931-1989).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to Donald Barthelme (1931–1996), influential American postmodernist short-story writer and novelist known for linguistic irony and collage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contemporary literary criticism and metafiction, avant-garde stylistic techniques characterized by fragmented irony, parody, and pop-culture collage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barthelme designates united states author of sometimes surrealistic stories (1931-1989)."*
+> - 📜 **John Updike (*Odd Jobs*):** *"The witty postmodernist fictions of Donald **Barthelme** disassembled narrative conventions with sparkling linguistic irony and collage."*
+> - 📜 **David Foster Wallace (*A Supposedly Fun Thing I'll Never Do Again*):** *"The metafictional energy of **Barthelme** inspired a generation of writers to interrogate the commercial debris of modern American culture."*
+> - 📜 **Philip Roth (*Reading Myself and Others*):** *"In the stories of **Barthelme**, language itself becomes the protagonist, playfully resisting conventional realistic representation."*

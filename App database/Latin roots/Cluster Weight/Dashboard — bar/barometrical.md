@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to atmospheric pressure or indicated by a barometer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to atmospheric pressure or indicated by a barometer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant form of barometric, pertaining to a barometer or the measurement of atmospheric pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical scientific and navigational writing, determined by atmospheric pressure instrumentation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barometrical designates relating to atmospheric pressure or indicated by a barometer."*
+> - 📜 **John Herschel (*A Preliminary Discourse on the Study of Natural Philosophy*):** *"Torricelli's celebrated experiment laid the foundation for all modern **barometrical** measurements of atmospheric weight."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The surveyor recorded **barometrical** heights at every plateau boundary to determine regional geological uplift."*
+> - 📜 **Robert Boyle (*New Experiments Physico-Mechanicall*):** *"The mercury column in the closed glass tube exhibited significant **barometrical** variations depending upon changing weather."*

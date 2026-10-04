@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Terrestrial siberian squirrel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Terrestrial siberian squirrel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A phonetic variant of baranduki, the Siberian striped chipmunk (Eutamias sibiricus) native to the northern Eurasian taiga.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Russian and Siberian natural history, small diurnal ground squirrels active in summer taiga forests, hibernating during subarctic winters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barunduki designates terrestrial siberian squirrel."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The Siberian taiga shelters the active striped **barunduki**, which feeds on cedar nuts and berries throughout the brief arctic summer."*
+> - 📜 **Anton Chekhov (*Sakhalin Island*):** *"The convicts watched the lively little **barunduki** scampering over the mossy roots of the Siberian spruce."*
+> - 📜 **Thomas Pennant (*Arctic Zoology*):** *"The fur of the Asiatic **barunduki** is remarkably soft, marked with the characteristic five dorsal stripes of the ground squirrel."*

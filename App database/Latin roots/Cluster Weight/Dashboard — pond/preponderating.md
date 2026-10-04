@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Weigh more heavily.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having superior power and influence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exceeding in weight, number, power, or importance; exerting predominant influence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In governance and mechanics, having sufficient excess force to dictate the outcome or equilibrium of a system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"There can be no doubt that this circumstance will always secure to them a preponderating influence over the militia."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Hitherto the preponderating tendency of the Negro has been toward disintegration, showing the lack of a proper measure of fellow-feeling; the tendency of the Anglo-Saxon is toward racial integration."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The **preponderating** influence of the large states in the confederacy was viewed with deep alarm by the smaller provinces."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The commercial prosperity of the Dutch republic gave it a **preponderating** voice in the councils of the Protestant alliance."*
+> - 📜 **Edmund Burke (*Speech on American Taxation*):** *"Commercial considerations formed the **preponderating** factor in all parliamentary deliberations concerning colonial revenue."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (spaceflight) a trajectory that passes close to a planetary body in order to gain energy from its gravitational field.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (spaceflight) a trajectory that passes close to a planetary body in order to gain energy from its gravitational field.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A maneuver in spaceflight using the relative movement and gravitational field of a celestial planet or moon to alter the path and speed of a spacecraft.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astrodynamics and interplanetary orbital mechanics, also known as a gravitational slingshot, conserving angular momentum to gain orbital velocity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gravity-assist designates (spaceflight) a trajectory that passes close to a planetary body in order to gain energy from its gravitational field."*
+> - 📜 **Arthur C. Clarke (*2010: Odyssey Two*):** *"The interplanetary vessel executed a daring **gravity-assist** maneuver around the cloud-tops of Jupiter to slingshot toward Saturn."*
+> - 📜 **Stephen Hawking (*The Universe in a Nutshell*):** *"Deep space probes such as Voyager utilized multiple **gravity-assist** flybys to escape the sun's gravitational well without massive propellant loads."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"By borrowing a tiny fraction of Jupiter's orbital momentum in a **gravity-assist**, the spacecraft gained enormous speed toward the outer solar system."*

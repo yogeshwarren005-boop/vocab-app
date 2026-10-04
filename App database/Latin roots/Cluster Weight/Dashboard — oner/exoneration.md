@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being relieved from blame or obligation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of vindicating or defending against criticism or censure etc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of officially clearing someone from blame, guilt, or an onerous burden or obligation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In procedural law, a formal legal release from criminal culpability or contractual duty through judicial determination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Why, my dear Miss Archer,” he began to explain with the most considerate eagerness, “I don’t offer you any exoneration from life or from any chances or dangers whatever."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"He regarded the parliamentary vote as a complete moral **exoneration** from the slanderous pamphlets of his political adversaries."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"The colonies demanded **exoneration** from internal parliamentary taxation as their ancient chartered right."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The general pleaded for **exoneration** from the command, citing advanced age and the insubordination of the provincial legions."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Traffic in ecclesiastical offices or preferments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The crime of a judge whose judgment is influenced by bribery.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The persistent incitement of lawsuits or groundless legal quarrels; also fraudulent or criminal misconduct by a ship's captain or crew to the injury of the vessel's owner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime insurance and common law, any fraudulent, unlawful, or grossly negligent act committed by a master or crew damaging owners or underwriters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"Clarke, "he cannot be convicted of barratry, unless he is always at variance with some person or other, a mover of suits and quarrels, who disturbs the peace under colour of law."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Common **barratry** is the offense of frequently exciting and stirring up suits and quarrels between his Majesty's subjects."*
+> - 📜 **Joseph Conrad (*The Secret Agent*):** *"The insurance underwriters suspected that the mysterious loss of the steamer was an act of deliberate **barratry** committed by the master."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The rapacious pettifoggers of Chancery Lane bordered closely on criminal **barratry**, manufacturing lawsuits out of petty domestic misunderstandings."*

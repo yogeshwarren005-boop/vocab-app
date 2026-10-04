@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being large in mass.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being large in mass.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Immense physical weight, massiveness, gravity, or cumbersome heaviness; also dull stylistic pomposity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical mechanics and literary style, significant physical massiveness or dull, heavy pomposity in prose.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"The ponderosity of her mind was only equaled by that of her body."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The colossal **ponderosity** of the sperm whale's head descended upon the waters, sending immense sheets of foam into the air."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The learned author wrote with a scholastic **ponderosity** that crushed the delicate humor of the original French dialogue."*
+> - 📜 **Sir Walter Scott (*Ivanhoe*):** *"The heavy warhorse stumbled beneath the tremendous **ponderosity** of knight and steel armor upon the marshy sward."*

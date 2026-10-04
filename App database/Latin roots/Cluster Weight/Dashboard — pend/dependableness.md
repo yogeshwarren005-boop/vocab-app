@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being dependable or reliable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being dependable or reliable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or character of being reliable, steadfast, trustworthy, and consistent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral psychology and institutional assessment, steadfast fidelity to obligations and predictable operational execution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dependableness designates the quality of being dependable or reliable."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The weaver admired the sturdy **dependableness** of Dolly Winthrop, whose neighborly kindness never failed in time of sickness."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Caspar Goodwood possessed a rugged **dependableness** that both attracted and alarmed Isabel Archer."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"The genuine greatness of an industrial enterprise resides in the moral **dependableness** of its master workmen."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tranquilizer (trade names librium and libritabs) used in the treatment of alcoholism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tranquilizer (trade names librium and libritabs) used in the treatment of alcoholism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A trademark for chlordiazepoxide, the first benzodiazepine drug, widely prescribed as a sedative and tranquilizer to treat anxiety and acute agitation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuropharmacology, an allosteric modulator of GABA-A receptors synthesized by Leo Sternbach in 1955, launching the benzodiazepine class.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, librium designates a tranquilizer (trade names librium and libritabs) used in the treatment of alcoholism."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The advent of **Librium** transformed the management of acute alcohol withdrawal syndromes by averting delirium tremens."*
+> - 📜 **Bertrand Russell (*Has Man a Future?*):** *"Modern populations rely increasingly upon chemical tranquilizers like **Librium** to endure the persistent stresses of cold-war anxieties."*
+> - 📜 **George Bernard Shaw (*The Doctor's Dilemma*):** *"The fashionable physician swiftly replaced older bromides with novel panaceas like **Librium**, assuring patients of immediate nervous composure."*

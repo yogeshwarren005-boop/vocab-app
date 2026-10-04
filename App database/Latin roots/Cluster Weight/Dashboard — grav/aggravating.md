@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make worse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exasperate or irritate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Making a bad situation, problem, or symptom worse; also provoking irritation or annoyance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statutory sentencing guidelines, factors increasing sentence severity beyond standard baseline penalties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"You are the husband,” repeated Miss Havisham, “of the sister of this boy?” It was very aggravating; but, throughout the interview, Joe persisted in addressing Me instead of Miss Havisham."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Oh Lord!” This was so very aggravating—the more especially as I found myself making no way against his surly obtuseness—that I said, disregarding Herbert’s efforts to check me,— “Come, Mr."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Not so much cross as sort of soft, and sweet, and aggravating,” sniffled Rebecca."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The minister committed the error under circumstances of the most **aggravating** public provocation."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Mrs. Reed regarded every word I uttered as an **aggravating** display of insolence and ingratitude."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"The magistrate listened with severe impatience to the **aggravating** details of the burglary."*

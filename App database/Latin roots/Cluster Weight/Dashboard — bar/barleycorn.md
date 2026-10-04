@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A grain of barley.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A grain of barley.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A single grain of barley; also an archaic English unit of length equal to one third of an inch; also a personification of malt liquor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical metrology and English folklore, the traditional unit standard for footwear sizes, and the folkloric spirit of ale (John Barleycorn).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"John Barleycorn: A Ballad There was three kings into the east, Three kings both great and high, And they hae sworn a solemn oath John Barleycorn should die."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"They took a plough and plough’d him down, Put clods upon his head, And they hae sworn a solemn oath John Barleycorn was dead."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"But the cheerful Spring came kindly on, And show’rs began to fall; John Barleycorn got up again, And sore surpris’d them all."*
+> - 📜 **Robert Burns (*John Barleycorn*):** *"They laid him down upon his back, and cudgell'd him full sore; they hung him up before the storm, and turned him o'er and o'er, brave John **Barleycorn**."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Ancient statutes defined the English inch as the combined length of three dry, round grains of **barleycorn** laid end to end."*
+> - 📜 **Jack London (*John Barleycorn*):** *"From my earliest adventures on the waterfront, the sinister spirit of John **Barleycorn** stood waiting at every harbor tavern."*

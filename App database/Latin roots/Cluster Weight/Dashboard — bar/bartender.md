@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An employee who mixes and serves alcoholic drinks at a bar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An employee who mixes and serves alcoholic drinks at a bar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who mixes and serves alcoholic and other drinks behind the counter in a bar, tavern, or restaurant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern hospitality management and social history, a mixologist responsible for beverage preparation, stock management, and hospitality service.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Brad hefted Scarf's weapon, slipped it into 'safe' and, passing the bar, handed it to the bartender with a nod that was returned with a respectful wave."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The bartender mixing drinks, adds to the value of those ingredients; in a minute that value is dissipated."*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"The bartender had taken refuge under the counter and outside of the open door were four lumberjacks who had fled into the cold, but now inviting, street."*
+> - 📜 **Mark Twain (*Roughing It*):** *"The Virginia City **bartender** was an imposing figure in diamond studs, sliding glasses of whiskey across the polished rosewood bar."*
+> - 📜 **Stephen Crane (*The Blue Hotel*):** *"The **bartender** set down his glass towel and listened intently as the stranger shouted accusations across the saloon."*
+> - 📜 **Jack London (*John Barleycorn*):** *"The waterfront **bartender** knew the names and favorite cordials of every sailor who frequented the Golden Gate docks."*

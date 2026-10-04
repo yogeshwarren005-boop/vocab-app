@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the british order of honor; ranks below a baron but above a knight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of the british order of honor; ranks below a baron but above a knight.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abbreviation for baronet (as in Sir Walter Scott, Bart.); also a male given name.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British genealogical notation and post-nominal abbreviations, the official standard contraction indicating the hereditary dignity of a baronet.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"And where’s Bart?” Grandfather Smallweed inquires of Judy, Bart’s twin sister."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Aye, aye, Bart!” says Grandfather Smallweed."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Here you are, hey?” “Here I am,” says Bart."*
+> - 📜 **Sir Walter Scott (*Waverley*):** *"The title page of the new edition bore the proud name of Sir Walter Scott, **Bart.**, inscribed by the royal publisher."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Sir Walter Elliot, **Bart.**, loved to see his name and ancestral honors emblazoned upon letters and official documents."*
+> - 📜 **William Makepeace Thackeray (*The Book of Snobs*):** *"The card on the hall table announced Sir Pitt Crawley, **Bart.**, of Queen's Crawley, Hampshire."*

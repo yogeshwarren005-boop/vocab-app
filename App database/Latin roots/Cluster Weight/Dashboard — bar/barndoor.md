@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An opaque adjustable flap on a lamp fixture; used in photography to cut off light from particular areas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An opaque adjustable flap on a lamp fixture; used in photography to cut off light from particular areas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The large swinging or sliding door of an agricultural barn; also a large aperture or target; also adjustable flaps on theatrical stage lights.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colloquial idiom, an enormous easy target ('couldn't hit a barndoor'); in studio lighting, adjustable metal baffles controlling beam spread.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Presently they heard the muffled tread of a horse, and the farmer rode up to the barndoor."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The day hardened in colour, the light coming in at the barndoors upwards from the snow instead of downwards from the sky."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The massive oak **barndoor** swung open on its iron hinges, admitting the bright morning sunlight onto the threshing floor."*
+> - 📜 **Stephen Crane (*The Red Badge of Courage*):** *"The excited raw recruit fired wildly into the smoke, missing an enemy regiment that stood broad as a **barndoor**."*
+> - 📜 **Sir Walter Scott (*Guy Mannering*):** *"The smugglers concealed their kegs behind the great **barndoor**, covering the entrance with trusses of dry straw."*

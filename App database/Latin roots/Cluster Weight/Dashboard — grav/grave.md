@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Death of a person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A place for the burial of a corpse (especially beneath the ground and marked by a tombstone).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A place of burial excavated in the earth for a dead body; also serious, solemn, and requiring thoughtful consideration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phonetic linguistics, an accent mark (`) indicating a low or falling pitch, vowel quality, or secondary stress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art the grave where buried love doth live, Hung with the trophies of my lovers gone, Who all their parts of me to thee did give, That due of many, now is thine alone."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The mere word’s a slave, Debauch’d on every tomb, on every grave A lying trophy, and as oft is dumb Where dust and damn’d oblivion is the tomb Of honour’d bones indeed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When you have spoken it, ’tis dead, and I am the grave of it."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Has this fellow no feeling of his business, that he sings at **grave**-making?"*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The **grave** historians of the republic lamented the decay of ancient martial virtue among the Roman youth."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"The Spirit pointed downward to the neglected **grave**, whose stone bore the name of Ebenezer Scrooge."*

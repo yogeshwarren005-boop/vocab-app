@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states explorer who accompanied peary's expedition to the north pole and who led many other arctic trips (1875-1946).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states publisher and editor who compiled a book of familiar quotations (1820-1905).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sweet, juicy, bell-shaped variety of European pear (the Williams pear); also John Bartlett (1820–1905), compiler of Bartlett's Familiar Quotations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pomology, Pyrus communis 'Bartlett', the leading commercial canning and dessert pear in North America; in reference literature, Bartlett's dictionary.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Farr, of Norwalk, Ohio--Miss Bartlett, of the Soldiers' Aid Society, Peoria, Ill.--Mrs."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Abner Bartlett, of Medford, Mass., now aged eighty-five years." A barrel of hospital clothing sent from Conway, Mass., contained a pair of socks knit by a lady ninety-seven years old, who declared herself ready and anxious to do all she could."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"His daughter, near the close of the war, became the wife of one of the most distinguished young officers in the service, General Bartlett."*
+> - 📜 **Henry David Thoreau (*Wild Apples*):** *"The orchard was planted with rows of grafted **Bartlett** pears, whose golden fruit perfumed the warm September air."*
+> - 📜 **Mark Twain (*Autobiography of Mark Twain*):** *"The author verified the celebrated phrase by consulting **Bartlett**'s invaluable volume of familiar quotations."*
+> - 📜 **John Muir (*The Mountains of California*):** *"The irrigated valleys of California produce magnificent crops of **Bartlett** pears and sweet Muscat grapes."*

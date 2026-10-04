@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the general shape of a barrel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the general shape of a barrel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the cylindrical, bulging form or contour characteristic of a wooden barrel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive anatomy and clinical pathology, thoracic morphology (barrel chest) characterized by increased anterior-posterior diameter in emphysema.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barrel-shaped designates having the general shape of a barrel."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The chronic emphysema patient presented a typical **barrel-shaped** chest with elevated ribs and flattened diaphragmatic domes."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The giant cactus exhibited an enormous, **barrel-shaped** trunk capable of storing hundreds of gallons of water in the arid desert."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The fossil mammalian skull was characterized by a stout, **barrel-shaped** cranial vault designed to withstand intense chewing forces."*

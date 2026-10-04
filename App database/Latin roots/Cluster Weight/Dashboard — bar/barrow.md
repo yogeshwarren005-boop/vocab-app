@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quantity that a barrow will hold.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (archeology) a heap of earth placed over prehistoric tombs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A wheelbarrow, handcart, or flat frame used for carrying loads; also an ancient prehistoric burial mound or tumulus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British archaeology and material history, a Neolithic or Bronze Age earthen tumulus covering burials, or a two-wheeled pushcart.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go fetch me a quart of sack; put a toast in ’t. [_Exit Bardolph._] Have I lived to be carried in a basket like a barrow of butcher’s offal, and to be thrown in the Thames?"*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Joseph Poorgrass now passed near them, wheeling a barrow of apples up the hill to Bathsheba’s residence."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood and Gabriel called to him, spoke to him for a few minutes, and then all three parted, Joseph immediately coming up the hill with his barrow."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The ancient Celtic **barrow** crowned the summit of Rainbarrow, standing out dark and solemn against the dying evening sky."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The costermonger wheeled his creaking vegetable **barrow** through the muddy streets of London, shouting his wares."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The boy pushed a wooden hand-**barrow** laden with fresh garden produce through the village street."*

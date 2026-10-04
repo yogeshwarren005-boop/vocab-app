@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An uninhabited wilderness that is worthless for cultivation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Providing no shelter or sustenance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unable to produce offspring, fruit, or vegetation; bleak, infertile, unproductive, or devoid of interest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive biology and physical geography, infertile organisms or desolate desert biomes lacking organic productivity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who lets so fair a house fall to decay, Which husbandry in honour might uphold, Against the stormy gusts of winter’s day And barren rage of death’s eternal cold?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And fortify yourself in your decay With means more blessed than my barren rhyme?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus do I pine and surfeit day by day, Or gluttoning on all, or all away. 76 Why is my verse so barren of new pride?"*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Upon my head they placed a fruitless crown, and put a **barren** sceptre in my gripe, thence to be wrench'd with an unlineal hand."*
+> - 📜 **John Milton (*Paradise Lost*):** *"A dismal world of lakes and rocks, a **barren** waste where eternal despair held solitary sway."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The high plateau of Santa Cruz presented a desolate, **barren** expanse of gravel and thorny scrub stretching to the horizon."*

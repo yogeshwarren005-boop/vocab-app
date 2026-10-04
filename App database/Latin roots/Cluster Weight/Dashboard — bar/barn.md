@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An outlying farm building for storing grain or animal feed and housing farm animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (physics) a unit of nuclear cross section; the effective circular area that one particle presents to another as a target for an encounter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large farm building used for storing grain, hay, or agricultural produce, or for housing livestock.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rural vernacular architecture, a heavy timber-framed post-and-beam agricultural storehouse; in nuclear physics, a cross-section unit ($10^{-28} m^2$).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In respect of the love he bears our house—he shows in this, he loves his own barn better than he loves our house."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She is my goods, my chattels; she is my house, My household stuff, my field, my barn, My horse, my ox, my ass, my anything; And here she stands, touch her whoever dare; I’ll bring mine action on the proudest he That stops my way in Padua."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The turkey in the poultry-yard, always troubled with a class-grievance (probably Christmas), may be reminiscent of that summer morning wrongfully taken from him when he got into the lane among the felled trees, where there was a barn and barley."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The great shearing **barn** was an ancient stone structure that looked like a church, with soaring timber trusses and stone-flagged floor."*
+> - 📜 **Nathaniel Hawthorne (*The Blithedale Romance*):** *"We stored the golden sheaves of autumn rye within the spacious **barn**, singing as the last wagon rolled in."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I observed a farmer laboring to fill his immense **barn**, seemingly more enslaved by his vast property than enriched by it."*

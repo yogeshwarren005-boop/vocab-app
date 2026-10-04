@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make worse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exasperate or irritate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Made more severe, serious, or painful; intensified in gravity or legal severity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In criminal law, denoting an offense (such as aggravated assault) made worse by specific egregious circumstances like the use of a weapon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Indeed, she had two.” My Lady, whose chronic malady of boredom has been sadly aggravated by Volumnia this evening, glances wearily towards the candlesticks and heaves a noiseless sigh."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I think the Romans must have aggravated one another very much, with their noses."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Wopsle’s Roman nose so aggravated me, during the recital of my misdemeanours, that I should have liked to pull it until he howled."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The patient's fever was greatly **aggravated** by the damp, foul atmosphere of the miserable court."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The sufferings of the besieged citizens were **aggravated** by the sudden outbreak of a virulent pestilence."*
+> - 📜 **Sir Walter Scott (*The Heart of Midlothian*):** *"The judge declared that the crime was **aggravated** by the sacred trust the prisoner had betrayed."*

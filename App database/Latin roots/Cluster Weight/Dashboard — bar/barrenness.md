@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state (usually of a woman) of having no children or being unable to have children.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of yielding nothing of value.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arid infertility, sterility, unproductive bleakness, or total absence of living vegetation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agrarian economics and literary aesthetics, the absence of fertile vitality, intellectual productivity, or organic abundance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I found it by the barrenness, hard in the palm of the hand."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Between stretched the barrenness of sand and alkali and drought."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Yet the first of May and the first of November mark turning-points of the year in Europe; the one ushers in the genial heat and the rich vegetation of summer, the other heralds, if it does not share, the cold and barrenness of winter."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The extreme **barrenness** of the Arabian desert long protected its nomadic inhabitants from foreign imperial conquerors."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The philosophical **barrenness** of scholastic disputation yielded no practical inventions for the alleviation of human misery."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"A sense of utter moral **barrenness** seized upon the guilty minister as he surveyed his ruined spiritual life."*

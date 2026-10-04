@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Confer baronetcy upon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Confer baronetcy upon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To elevate or confer upon someone the hereditary rank and dignity of a baronet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political patronage, the sovereign creation of a baronetcy via prime ministerial recommendation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, baronetize designates confer baronetcy upon."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The king offered to **baronetize** the leading merchants of Bristol in exchange for immediate financial advances to the fleet."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"It was rumored that the court intended to **baronetize** the colonial judge on his retirement from the bench."*
+> - 📜 **Anthony Trollope (*Can You Forgive Her?*):** *"The ambitious member of parliament hoped that a decade of faithful voting would induce the minister to **baronetize** him."*

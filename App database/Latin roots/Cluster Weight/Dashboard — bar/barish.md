@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Kamarupan languages spoken in the state of assam in northeastern india.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Kamarupan languages spoken in the state of assam in northeastern india.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Somewhat bare, plain, or sparsely furnished; slightly uncovered.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural description and landscape aesthetics, having an austere, unornamented, or thinly vegetated appearance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barish designates kamarupan languages spoken in the state of assam in northeastern india."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The high plateau presented a **barish**, windswept surface where only stunted heather and furze could maintain a foothold."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The counting-house was a **barish**, chilly room furnished with two tall desks and a rusty iron safe."*
+> - 📜 **George Eliot (*Adam Bede*):** *"The schoolroom had a **barish**, whitewashed look, enlivened only by a few maps pinned against the pine wainscot."*

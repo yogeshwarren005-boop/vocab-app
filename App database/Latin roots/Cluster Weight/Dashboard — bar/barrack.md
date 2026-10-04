@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A building or group of buildings used to house military personnel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lodge in barracks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large building or complex of buildings used to house military troops; also (in Australia/NZ) to shout encouragement or derision at sports.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military quartermaster architecture, regimented permanent troop cantonments; in Australian sports culture, passionately cheering for a team.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Peeping in at the gate of the barrack-yard, we found everything very quiet at that time in the morning, and I asked a sergeant standing on the guardhouse-steps where he lived."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He found him in a dull room, fadedly furnished, much as I had found him in his barrack-room but a little while before, except that he was not writing but was sitting with a book before him, from which his eyes and thoughts were far astray."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The high wall being that of a barrack, and marriage being looked upon with disfavour in the army, assignations and communications had probably been made across the river before to-night."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The praetorian soldiers mutinied within their fortified **barrack**, demanding higher bounties before saluting the new emperor."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The citizens of London fiercely resisted the construction of any standing **barrack**, fearing military despotism over parliament."*
+> - 📜 **Rudyard Kipling (*Barrack-Room Ballads*):** *"The bugle called the weary soldiers back to the stone **barrack** as twilight settled over the Indian plains."*

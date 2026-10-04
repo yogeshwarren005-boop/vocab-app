@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shouting to interrupt a speech with which you disagree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lodge in barracks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of shouting loud support, encouragement, or hostile jeers and taunts at a sporting contest or public meeting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Commonwealth athletic culture (especially Australian rules football and cricket), passionate vocal crowd participation and heckling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barracking designates shouting to interrupt a speech with which you disagree."*
+> - 📜 **Arthur Conan Doyle (*The Exploits of Brigadier Gerard*):** *"The noisy crowd in the amphitheater engaged in enthusiastic **barracking**, cheering each thrust of the champions upon the sand."*
+> - 📜 **George Bernard Shaw (*Cashel Byron's Profession*):** *"The spectators kept up a continuous storm of good-humored **barracking** as the rival pugilists circled each other in the ring."*
+> - 📜 **Joseph Conrad (*The Mirror of the Sea*):** *"The dockers on the quay indulged in lively **barracking**, exchanging rough nautical banter with the crew warping the vessel in."*

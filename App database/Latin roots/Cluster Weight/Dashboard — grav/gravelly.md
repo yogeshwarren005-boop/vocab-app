@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abounding in small stones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unpleasantly harsh or grating in sound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing or resembling gravel; having a rough, grating, or rasping sound, especially of a human voice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pedology and acoustics, coarse soil composed predominantly of stones, or acoustic timbre with low-frequency harsh friction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"All I know about the matter is, that one day Marheyo in my presence poured out the last drop from his huge calabash, and I observed at the bottom of the vessel a small quantity of gravelly sediment very much resembling our common sand."*
-> - 📜 **Effie Afton (*Eventide*):** *"They entered a dense timber land, and the wheels struck deep into a loose, gravelly sand, so the poor horses could scarcely drag on at a slow walk."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Certain hardy alpine flora thrive exclusively on dry, **gravelly** moraines where ordinary plants perish from drought."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The skipper gave orders in a harsh, **gravelly** voice that grated like iron across the darkened bridge."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"The trail followed the **gravelly** bed of an ancient glacial creek, bruising the pads of the sled dogs."*

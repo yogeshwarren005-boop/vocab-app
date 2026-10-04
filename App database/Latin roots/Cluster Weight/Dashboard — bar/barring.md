@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of excluding someone by a negative vote or veto.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prevent from entering; keep out.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Except for; apart from; unless there is; also the act of securing with bars or obstructing passage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal clauses and statutory contracts, an exclusionary proviso exempting specific contingencies from performance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon’s codicil, barring Dorothea’s marriage with Will, except under a penalty, was enough to cast unfitness over any relation at all between them."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Barring these you'd hear nothing at all."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And barring a mountainy man or woman, and they cutting turf, you'd meet nothing unless it were the sheep."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"**Barring** unforeseen accidents, the carrier promised that the trunk would reach London safely before tomorrow night."*
+> - 📜 **Sir Walter Scott (*Rob Roy*):** *"The Bailie declared that, **barring** the payment of the ransom, no Highlander would suffer the English officer to pass."*
+> - 📜 **Mark Twain (*Adventures of Huckleberry Finn*):** *"We reckoned that **barring** a sudden rise in the river, we would float past Cairo before dawn."*

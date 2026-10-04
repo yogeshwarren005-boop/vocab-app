@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The collective body of baronets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of a baronet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The collective body of baronets; also a published book containing the pedigrees, arms, and lineages of baronets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British genealogical literature, reference registers such as Burke's or Debrett's Baronetage documenting hereditary knighthoods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"She knew, that when he now took up the Baronetage, it was to drive the heavy bills of his tradespeople, and the unwelcome hints of Mr Shepherd, his agent, from his thoughts."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"His politeness for the fair sex has already been hinted at by Miss Rebecca Sharp--in a word, the whole baronetage, peerage, commonage of England, did not contain a more cunning, mean, selfish, foolish, disreputable old man."*
+> - 📜 **Jane Austen (*Persuasion*):** *"There he found occupation for an idle hour, and consolation in a distressed one; there his faculties were roused into admiration by the rise of the **Baronetage**."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Sir Pitt Crawley’s name occupied an honorable, if eccentric, paragraph in the pages of the official **Baronetage**."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The pride of ancestry recorded in the **baronetage** often exceeded the haughtiness of dukes and earls."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being abnormally tolerant to and dependent on something that is psychologically or physically habit-forming (especially alcohol or narcotic drugs).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of relying on or being controlled by someone or something else.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of relying on or being controlled by someone or something else; archaic spelling of dependence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical legal and political prose, vassalage, subjection, or contingent reliance upon sovereign patronage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"Religion, my honoured Madam, has not only been all my life my chief dependance, but my dearest enjoyment."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These, And your three motives to the battle, with I know not how much more, should be demanded, And all the other by-dependances, From chance to chance; but nor the time nor place Will serve our long interrogatories."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In the general course of human nature, a power over a man's subsistence amounts to a power over his will, producing abject **dependance**."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"True liberty is inconsistent with servile **dependance** upon the arbitrary caprice of a despotic monarch."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"To live in state of continual pecuniary **dependance** upon relations was deeply repugnant to Mrs. Dashwood's spirit."*

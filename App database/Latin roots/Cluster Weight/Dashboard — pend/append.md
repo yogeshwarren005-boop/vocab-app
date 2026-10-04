@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Add to the very end.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fix to; attach.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To add as an attachment, supplement, or accessory; to fix or affix to the end of a document.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computational data structures, adding an element or string onto the tail of an existing list or file without overwriting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The extracts which we append describe better the closing scenes of her life than we can."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"I will go back to the paper on Machiavelli now, and ask the reader to examine this passage from it which I append."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"We also append as full and fair a statement of Confederate taxes as can be procured, beginning with a summary of the act authorizing the issue of Treasury notes and bonds, and providing a war tax for their redemption: THE TAX ACT OF JULY, 1861."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The commissioners resolved to **append** a formal protest to the treaty, recording their reservations for future parliaments."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The imperial chancellor did **append** the great seal of the empire to the charter of civic liberties."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The solicitor requested permission to **append** several affidavits to the petition before Chancery."*

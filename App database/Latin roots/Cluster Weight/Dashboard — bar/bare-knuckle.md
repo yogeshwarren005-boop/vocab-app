@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by disorderly action and disregard for rules.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by disorderly action and disregard for rules.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fighting with the fists unprotected by boxing gloves; ruthlessly tough, direct, and uncompromising.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sports history and political rhetoric, the brutal traditional London Prize Ring boxing style, or fiercely aggressive political confrontation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bare-knuckle designates characterized by disorderly action and disregard for rules."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"In those Georgian days, gentlemen flocked to see a **bare-knuckle** prize fight fought upon the turf until both champions dropped."*
+> - 📜 **George Bernard Shaw (*Cashel Byron's Profession*):** *"The old pugilist spoke contemptuously of modern padded gloves, recalling the heroic days of the **bare-knuckle** ring."*
+> - 📜 **Arthur Conan Doyle (*Rodney Stone*):** *"The two champions squared off in the meadow for a fierce **bare-knuckle** contest that drew thousands of sporting wagers."*

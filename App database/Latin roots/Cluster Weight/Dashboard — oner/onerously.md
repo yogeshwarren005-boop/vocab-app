@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an onerous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an onerous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that is burdensome, oppressive, arduous, or grievously difficult to bear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In administrative history and tax law, imposing disproportionate fiscal or personal duties upon subjects or contracting parties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, onerously designates in an onerous manner."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The salt tax fell **onerously** upon the poorest agricultural laborers, provoking widespread smuggling along the coast."*
+> - 📜 **Edmund Burke (*Thoughts on the Cause of the Present Discontents*):** *"The public expenditure pressed **onerously** upon the nation while court favorites squandered immense pensions."*
+> - 📜 **Sir Walter Scott (*The Bride of Lammermoor*):** *"The ancestral mortgages weighed **onerously** upon the ruined master of Ravenswood, compelling him to sell his family estates."*

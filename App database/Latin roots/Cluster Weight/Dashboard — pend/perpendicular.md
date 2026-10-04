@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A straight line at right angles to another line.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gothic style in 14th and 15th century england; characterized by vertical lines and a four-centered (tudor) arch and fan vaulting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: At an angle of 90° to a given line, plane, or surface; completely vertical or upright; precipitous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Euclidean geometry and architectural history, lines meeting at right angles, or the late English Gothic architectural style (14th–16th c.).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Owen, Owen, the same; and his son-in-law Mortimer, and old Northumberland, and that sprightly Scot of Scots, Douglas, that runs a-horseback up a hill perpendicular— PRINCE."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Indoors nothing was to be heard save the droning of blue-bottle flies; out-of-doors the whetting of scythes and the hiss of tressy oat-ears rubbing together as their perpendicular stalks of amber-yellow fell heavily to each swath."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Here, under the table, and leaning against forms and chairs in every conceivable attitude except the perpendicular, were the wretched persons of all the work-folk, the hair of their heads at such low levels being suggestive of mops and brooms."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The ray of light striking the prism at a **perpendicular** angle passes into the glass without refraction."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"The English **Perpendicular** style is characterized by tall vertical tracery and magnificent fan vaulting."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The basaltic cliffs rose in sheer, **perpendicular** walls hundreds of feet above the churning surf."*

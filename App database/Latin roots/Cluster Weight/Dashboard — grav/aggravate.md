@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make worse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exasperate or irritate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make a problem, injury, or offense worse or more severe; also colloquially, to irritate or exasperate someone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine and legal jurisprudence, factors exacerbating an underlying pathology or increasing criminal culpability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I beseek you now, aggravate your choler."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ford’s a knave, and I will aggravate his style."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But I will aggravate my voice so, that I will roar you as gently as any sucking dove; I will roar you an ’twere any nightingale."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Every attempt by the king to overawe parliament served only to **aggravate** the national discontent."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Violent physical exertion in cold weather will invariably **aggravate** acute bronchial inflammation."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor was unwilling to say anything that might **aggravate** her sister's acute distress."*

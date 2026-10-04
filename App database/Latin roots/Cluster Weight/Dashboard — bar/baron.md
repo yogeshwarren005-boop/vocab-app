@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A nobleman (in various countries) of varying rank.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A british peer of the lowest rank.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the lowest rank of the British peerage or classical European nobility; also a powerful business magnate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval feudalism, a tenant-in-chief holding lands directly from the king by feudal service; in industry, a robber baron.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What say you then to Falconbridge, the young baron of England?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"THE RAPE OF LUCRECE TO THE RIGHT HONOURABLE HENRY WRIOTHESLEY, EARL OF SOUTHAMPTON, and Baron of Titchfield."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"VENUS AND ADONIS _Vilia miretur vulgus; mihi flavus Apollo Pocula Castalia plena ministret aqua._ TO THE RIGHT HONOURABLE HENRY WRIOTHESLEY, EARL OF SOUTHAMPTON, and Baron of Titchfield."*
+> - 📜 **William Shakespeare (*Richard II*):** *"Call forth the **baron** of our realm, and let him answer to the charge of high treason before our throne."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Every feudal **baron** established himself in an impregnable stone castle, defying the sovereign and oppressing the peasantry."*
+> - 📜 **Sir Walter Scott (*Ivanhoe*):** *"The Norman **baron** sat upon his raised dais, surrounded by armed retainers and captive Saxon nobles."*

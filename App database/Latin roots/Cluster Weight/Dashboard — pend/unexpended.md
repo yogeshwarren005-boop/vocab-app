@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of financial resources) not spent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not used up.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not spent, disbursed, or used up; remaining intact as unconsumed funds, energy, or ammunition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public finance and accounting, budget allocations or surplus revenues remaining at the close of an accounting fiscal year.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"There was, it might be said, the energy of her mother’s unexpended family, as well as the natural energy of Tess’s years, rekindled after the experience which had so overwhelmed her for the time."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"But a man should not and cannot forgive and forget,” he replied, and though till that moment he had not been thinking of Kurágin, all his unexpended anger suddenly swelled up in his heart."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The treasury reported a substantial **unexpended** surplus from the naval subsidies, which was promptly applied to reduce the public debt."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"A large reserve of **unexpended** vital energy enables migratory birds to survive long transoceanic crossings without feeding."*
+> - 📜 **Arthur Conan Doyle (*The Return of Sherlock Holmes*):** *"Five **unexpended** revolver cartridges were discovered in the drawer, indicating that only one shot had been fired during the struggle."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without shame.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without shame.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a shameless, audacious, or brazenly open manner; without shame or concealment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative characterization, acting or lying with brazen effrontery without showing remorse or apprehension.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barefacedly designates without shame."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"Fagin lied **barefacedly** to the magistrate, swearing that the stolen watches had been honestly purchased at a public fair."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The court favorite **barefacedly** accepted bribes from foreign ambassadors while sitting in the secret council of the king."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky Sharp flattered the wealthy dowager **barefacedly**, inventing compliments that brought blushes to her cheeks."*

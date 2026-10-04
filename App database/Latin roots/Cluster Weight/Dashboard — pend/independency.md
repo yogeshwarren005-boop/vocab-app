@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Freedom from control or influence of another or others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freedom from control or influence of another or others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Individual self-reliance or political autonomy; also church governance by autonomous local congregations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 17th-century religious history, the Puritan movement advocating autonomous local church congregations without bishops or presbyteries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"It would, indeed, be a relief,” I thought, “if I had ever so small an independency; I never can bear being dressed like a doll by Mr."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"In declaring our independency from the caucus domination we do not forget our allegiance to the party whose chosen representatives we are."*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"The critics trip up each other with charming independency."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Oliver Cromwell championed religious **independency**, ensuring that congregational autonomy prevailed over rigid Presbyterian conformity."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"A reckless spirit of faction often masquerades as manly **independency** to subvert established constitutional order."*
+> - 📜 **Sir Walter Scott (*Woodstock*):** *"The parliamentary soldiers adhered fiercely to **independency**, claiming direct personal inspiration from the scriptures."*

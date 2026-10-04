@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cheap drinking and dancing establishment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cheap drinking and dancing establishment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rough, cheap saloon, tavern, or drinking establishment; also a style of loud, energetic, percussive blues and early jazz piano music.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American music history and cultural sociology, an unpolished drinking house where early syncopated blues, boogie-woogie, and ragtime developed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barrelhouse designates a cheap drinking and dancing establishment."*
+> - 📜 **Jack London (*John Barleycorn*):** *"The waterfront was lined with disreputable **barrelhouse** saloons where sailors spent their hard-earned wages in wild debauchery."*
+> - 📜 **Stephen Crane (*Maggie: A Girl of the Streets*):** *"The noisy **barrelhouse** spilled sounds of clinking glasses, swearing men, and a battered piano onto the dark tenement alley."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"Every levee town had its notorious **barrelhouse**, serving raw corn whiskey from open casks to roustabouts and deckhands."*

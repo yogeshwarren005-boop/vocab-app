@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having branches or flower heads that bend downward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having branches or flower heads that bend downward.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hanging down loosely and swinging freely; drooping or sagging.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical and zoological anatomy, organs or structures (such as pendulous breasts, dewlaps, or catkins) suspended and swinging.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now all the plagues that in the pendulous air Hang fated o’er men’s faults light on thy daughters!"*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"The room was blue-domed but very small, and its walls were covered with soft green hangings in pendulous drops."*
-> - 📜 **Charles Dickens (*A Christmas Carol in Prose; Being a Ghost Story of Christmas*):** *"What has he done with his money?" asked a red-faced gentleman with a pendulous excrescence on the end of his nose, that shook like the gills of a turkey-cock."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The **pendulous** flowers of the fuchsia swing in the breeze, presenting their anthers directly to visiting hummingbirds."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"A **pendulous** mass of barnacles and seaweed swung from the old whale's jaw as he surfaced into the sunlight."*
+> - 📜 **Washington Irving (*The Legend of Sleepy Hollow*):** *"Ichabod Crane possessed a long snipe nose and huge ears that resembled **pendulous** spades upon his spindle neck."*

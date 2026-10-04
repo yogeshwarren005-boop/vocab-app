@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without shoes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without shoes on.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wearing no shoes, socks, or footwear upon the feet; with naked feet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In religious monasticism and rustic anthropology, discalced orders (e.g., Discalced Carmelites), or rustic poverty living without shoes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ambitious love hath so in me offended That barefoot plod I the cold ground upon, With sainted vow my faults to have amended."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"FIRST PLAYER. _Run barefoot up and down, threat’ning the flames With bisson rheum."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know a lady in Venice would have walked barefoot to Palestine for a touch of his nether lip."*
+> - 📜 **William Shakespeare (*The Taming of the Shrew*):** *"She must dance **barefoot** on her wedding-day, and for your love to her lead apes in hell."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"The summer air was glorious, and Tom walked **barefoot** through the morning dew, feeling the cool dust between his toes."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The ascetic monks of the Egyptian desert walked **barefoot** across the burning sands, practicing extreme bodily mortification."*

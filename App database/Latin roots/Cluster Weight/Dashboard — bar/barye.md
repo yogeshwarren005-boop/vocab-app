@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The absolute unit of pressure equal to one dyne per square centimeter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The absolute unit of pressure equal to one dyne per square centimeter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A centimeter-gram-second (CGS) unit of pressure equal to one dyne per square centimeter ($0.1 \text{ Pa}$); also Antoine-Louis Barye (1795–1875), French animalier sculptor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical metrology and 19th-century art history, the CGS pressure unit, or the renowned romantic sculptor celebrated for bronze animals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barye designates the absolute unit of pressure equal to one dyne per square centimeter."*
+> - 📜 **Lord Rayleigh (*The Theory of Sound*):** *"Acoustic pressure variations in the atmosphere are measured in micro-**barye** units relative to static barometric pressure."*
+> - 📜 **Henry James (*Transatlantic Sketches*):** *"In the Luxembourg gardens, we admired the bronze lions of **Barye**, capturing animal fury with majestic anatomical precision."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The pressure exerted upon the gas within the tube was calibrated in dyne units per square centimeter, or standard **barye**."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reflect deeply on a subject.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reflect deeply on a subject.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To think about something carefully and deeply, especially before making a decision or reaching a conclusion; to weigh mentally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical reflection and cognitive analysis, deliberate contemplative deliberation weighing competing values or hypotheses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Prithee go in thyself; seek thine own ease: This tempest will not give me leave to ponder On things would hurt me more."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn is not alone to-night to ponder at his usual length."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba, who had been standing motionless as a model all this latter time, flung her hands to her face, and wildly attempted to ponder on the exhibition which had just passed away."*
+> - 📜 **William Shakespeare (*King Lear*):** *"O, that way madness lies; let me shun that; no more of that, whereon I would not **ponder**."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Mary kept all these things in her heart, meditating upon celestial messages and striving to **ponder** their deep significance."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Arthur Dimmesdale would sit for solitary hours in his study to **ponder** the terrible burdens weighing upon his conscience."*

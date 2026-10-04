@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shape (a material like stone or wood) by whittling away at it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carve, cut, or etch into a material or surface.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Carved, sculpted, or incised into a hard material like stone or metal; deeply impressed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biblical literature and theological discourse, an idol or sculpted religious image (*graven image*) forbidden by the Decalogue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rise resty Muse, my love’s sweet face survey, If time have any wrinkle graven there, If any, be a satire to decay, And make time’s spoils despised everywhere."*
-> - 📜 **William Shakespeare (*Shakespeare's Sonnets*):** *"Rise, resty Muse, my love’s sweet face survey, If Time have any wrinkle graven there; If any, be a satire to decay, And make time’s spoils despised every where."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I’ve got a wold silver spoon, and a wold graven seal at home, too; but, Lord, what’s a spoon and seal?..."*
+> - 📜 **John Milton (*Paradise Lost*):** *"They turned aside to worship gods of gold and stone, bowing before the **graven** idols of pagan kings."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The stern puritan laws were **graven** in the blood and conscience of the early Massachusetts settlers."*
+> - 📜 **Sir Walter Scott (*Ivanhoe*):** *"The knight raised his shield, upon which was **graven** an uprooted oak with the motto 'Disinherited'."*

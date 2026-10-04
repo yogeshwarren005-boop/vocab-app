@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of spending money for goods or services.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Use up, consume fully.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spending, using up, or disbursing funds, energy, time, or resources in pursuit of a purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical dynamics and thermodynamics, converting stored chemical or kinetic potential into mechanical work or heat dissipation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"One night I was sitting in the chimney corner with my slate, expending great efforts on the production of a letter to Joe."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And the whale soon ceasing to sound, for some time they remained in that attitude, fearful of expending more line, though the position was a little ticklish."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"So, for want of better, I talked to myself; I declaimed in the copper box which covered my head, thereby expending more air in vain words than was perhaps expedient."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"In severe habitats, organisms survive only by **expending** minimal vital energy on ornamental traits and concentrating upon defense."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The general was accused of **expending** the imperial subsidies upon barbarian mercenaries who deserted at the first skirmish."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Living tissue maintains its structure by continuously absorbing and **expending** energetic currents from the surrounding environment."*

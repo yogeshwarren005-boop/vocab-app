@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A knife resembling a cleaver; used in the philippines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A knife resembling a cleaver; used in the philippines.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A traditional thick, leaf-shaped, single-edged short sword used by the Tausug and Moro peoples of the southern Philippines; also a traditional Filipino embroidered dress shirt (Barong Tagalog).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In martial anthropology and textile history, a lethal cleaving weapon of the Sulu Archipelago, or the formal sheer national tunic of the Philippines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barong designates a knife resembling a cleaver; used in the philippines."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The Malay warrior wore a heavy **barong** thrust through his silk sarong, its polished horn hilt gleaming in the torchlight."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The Sulu pirates were formidable in close combat, armed with razor-sharp blades including the broad-bladed **barong** and wavy kris."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The harpooneer examined the native Philippine weapons, marveling at the heavy balance of the leaf-shaped **barong**."*

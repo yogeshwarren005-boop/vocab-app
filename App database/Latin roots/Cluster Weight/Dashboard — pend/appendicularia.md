@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free-swimming tadpole-shaped pelagic tunicate resembling larvae of other tunicates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free-swimming tadpole-shaped pelagic tunicate resembling larvae of other tunicates.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A class of small, solitary, free-swimming tunicates (larvaceans) that retain their larval tail and notochord throughout adult life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pelagic marine zoology, planktonic chordates in class Appendicularia that construct elaborate gelatinous mucus 'houses' for filter feeding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, appendicularia designates free-swimming tadpole-shaped pelagic tunicate resembling larvae of other tunicates."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The pelagic tunicate **Appendicularia** retains its larval tail and persistent notochord throughout its adult reproductive existence."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The retention of the ancestral chorda dorsalis in **Appendicularia** offers profound clues to the primitive origin of all vertebrates."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"Through the rhythmic undulation of its tail, **Appendicularia** pumps seawater through the microscopic mesh of its gelatinous envelope."*

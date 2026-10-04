@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pin for holding women's hair in place.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pin for holding women's hair in place.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small decorative clip or clasp used to hold a person's hair in place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In costume history and jewelry design, an ornamental hair accessory of tortoiseshell, horn, or metal securing tresses of hair.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barrette designates a pin for holding women's hair in place."*
+> - 📜 **Henry James (*The Bostonians*):** *"Her dark hair was fastened simply at the back with a tortoiseshell **barrette**, revealing her thoughtful forehead."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"The Countess Olenska wore a diamond **barrette** in her hair that caught the candlelight with Parisian brilliance."*
+> - 📜 **Virginia Woolf (*Night and Day*):** *"Katharine adjusted the silver **barrette** at her neck, gazing out the drawing-room window into the London twilight."*

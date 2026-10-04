@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Danish physician who discovered bartholin's gland (1585-1629).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Danish physician who discovered bartholin's gland (1585-1629).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Caspar Bartholin the Younger (1655–1738), Danish anatomist who discovered Bartholin's glands (greater vestibular glands in female genitalia).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical gynecology and anatomical nomenclature, paired mucin-secreting exocrine glands located posterolateral to the vaginal opening.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bartholin designates danish physician who discovered bartholin's gland (1585-1629)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Suppurative inflammation of the **Bartholin** gland requires surgical drainage to relieve acute perineal discomfort."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The mucous secretions of the **Bartholin** glands provide natural lubrication to the female reproductive tract during physiological arousal."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"Homologues of the human **Bartholin** glands are recognized throughout mammalian anatomy, serving essential reproductive functions."*

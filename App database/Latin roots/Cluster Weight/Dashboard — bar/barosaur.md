@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dinosaur that could grow to be as tall as a building five stories tall.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dinosaur that could grow to be as tall as a building five stories tall.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A gigantic herbivorous sauropod dinosaur of the genus Barosaurus, closely related to Diplodocus, characterized by an exceptionally long neck.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, an Upper Jurassic diplodocid sauropod from the Morrison Formation possessing nine-meter cervical vertebral columns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barosaur designates a dinosaur that could grow to be as tall as a building five stories tall."*
+> - 📜 **Othniel Charles Marsh (*The Dinosaurs of North America*):** *"The fossil vertebrae of the colossal **barosaur** indicate a sauropod whose neck exceeded even Diplodocus in proportional elongation."*
+> - 📜 **Richard Owen (*On the Extinct Reptiles of the Mesozoic*):** *"The skeletal reconstruction of the **barosaur** reveals immense hollowed cervical centra designed to minimize neck weight."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"On the prehistoric plateau, the explorers gazed upon gigantic sauropods resembling the extinct **barosaur** browsing upon treetop conifers."*

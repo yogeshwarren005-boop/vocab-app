@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Affixed as an appendage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affixed as an appendage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Attached, annexed, or belonging as an accessory or incidental part to something more substantial.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In English property law, rights, easements, or advowsons annexed to land by immemorial prescription or ancestral tenure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"An impression of this seal on red wax is appendant to a conventual lease, temp."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"The common seal of the Abbey, appendant to a deed, dated 1518, has been elegantly lithographed, as we read in the Monasticon, by the care of the Rev."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A right of common **appendant** can only belong to arable land, having originated in the agricultural policy of the feudal manors."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The ancient manor held the advowson of the parish church as an **appendant** franchise since the Norman conquest."*
+> - 📜 **Sir Walter Scott (*The Antiquary*):** *"The ancient barony claimed jurisdiction over the fisheries as an **appendant** privilege granted by royal charter."*

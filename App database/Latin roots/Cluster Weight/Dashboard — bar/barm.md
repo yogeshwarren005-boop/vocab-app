@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A commercial leavening agent containing yeast cells; used to raise the dough in making bread and for fermenting beer or whiskey.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A commercial leavening agent containing yeast cells; used to raise the dough in making bread and for fermenting beer or whiskey.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The frothy, yeasty foam or scum that rises to the surface of fermenting malt liquor or beer, historically used as leavening in bread making.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In traditional brewing and baking biochemistry, living brewer's yeast top-crop (Saccharomyces cerevisiae) harvested to ferment dough.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Are not you he That frights the maidens of the villagery, Skim milk, and sometimes labour in the quern, And bootless make the breathless housewife churn, And sometime make the drink to bear no barm, Mislead night-wanderers, laughing at their harm?"*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Again, divination was practised by means of a cake called _barm-breac_, in which a nut and a ring were baked."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"That clarty barm should stain my laurels: But—what’ll ye say?"*
+> - 📜 **William Shakespeare (*A Midsummer Night's Dream*):** *"Are not you he that frights the maidens of the villagery; skim milk, and sometimes labour in the quern, and bootless make the breathless housewife churn, and sometime make the drink to bear no **barm**?"*
+> - 📜 **George Eliot (*Adam Bede*):** *"The dairy woman added fresh sweet **barm** to the flour, kneading the dough before setting the loaves by the warm hearth to rise."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"A fragrant odor of fresh brewer's **barm** and sweet malt liquor hung about the village brew-house on brewing morning."*

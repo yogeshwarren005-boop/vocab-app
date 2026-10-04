@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a grave and sober manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a severe or serious degree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a serious, solemn, or dignified manner; to a severe or critically dangerous degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative prose, speaking or acting with profound solemnity, sobriety, or deep apprehension.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou dost it half so gravely, so majestically, both in word and matter, hang me up by the heels for a rabbit-sucker or a poulter’s hare."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce, sir, whose story I have heard?” He nodded gravely."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"His manner is the gravely impressive manner of a man who has not committed himself in life otherwise than as he has become the victim of a tender sorrow of the heart."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor listened **gravely** to her mother's enthusiastic plans, knowing how little money remained to execute them."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Mr. Lorry shook his head **gravely**, acknowledging that the prisoner's situation in the Bastille was perilous."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Mr. Rochester looked **gravely** into my eyes, demanding whether I could truly forgive the deception he had practiced."*

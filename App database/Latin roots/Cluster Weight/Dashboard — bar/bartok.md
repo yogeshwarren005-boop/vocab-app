@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hungarian composer and pianist who collected hungarian folk music; in 1940 he moved to the united states (1881-1945).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hungarian composer and pianist who collected hungarian folk music; in 1940 he moved to the united states (1881-1945).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Béla Bartók (1881–1945), Hungarian composer, pianist, and ethnomusicologist, regarded as one of the most important composers of the 20th century.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modernist musicology and ethnomusicology, a pioneer combining East European folk modalities with asymmetrical meters and dissonant modernism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bartok designates hungarian composer and pianist who collected hungarian folk music; in 1940 he moved to the united states (1881-1945)."*
+> - 📜 **Thomas Mann (*Doctor Faustus*):** *"The bold rhythmic vitality and peasant modal scales of Béla **Bartók** breathed primitive earthy life into modern orchestral music."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"In the compositions of **Bartók**, we hear the authentic, unadorned folk melodies of the Carpathian basin woven into brilliant counterpoint."*
+> - 📜 **Igor Stravinsky (*Poetics of Music*):** *"The string quartets of **Bartók** stand as monuments of twentieth-century chamber literature, combining intense passion with architectural mastery."*

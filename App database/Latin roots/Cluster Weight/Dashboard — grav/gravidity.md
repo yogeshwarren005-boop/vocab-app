@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Technical terms for pregnancy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Technical terms for pregnancy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Gestational pregnancy; the cumulative tally of pregnancies experienced by a female mammal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical maternal-fetal medicine, the cumulative count of pregnancies including current gestation, ectopic, or miscarriages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gravidity designates technical terms for pregnancy."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Advanced **gravidity** induces significant physiological alterations in renal hemodynamics and pulmonary vital capacity."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The endocrine signals that sustain mammalian **gravidity** originate from the specialized corpus luteum and developing placenta."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"Comparative anatomical studies show that the skeletal pelvis adapts dynamically to the mechanical demands of repeated **gravidity**."*

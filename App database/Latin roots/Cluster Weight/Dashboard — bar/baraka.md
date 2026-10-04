@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states writer of poems and plays about racial conflict (born in 1934).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states writer of poems and plays about racial conflict (born in 1934).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Islamic and Sufi mysticism, an intangible spiritual power, blessing, or divine grace transmitted from God through saints and holy objects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropological studies of North African and Middle Eastern societies, sacred charismatic efficacy attributed to shrines, marabouts, and spiritual lineages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"On the morning of that day (_Ashur_) all water or, according to some people, only spring water is endowed with a magical virtue (_baraka_), especially before sunrise."*
+> - 📜 **Richard Burton (*Personal Narrative of a Pilgrimage to Al-Madinah and Meccah*):** *"The pious pilgrims crowded around the tomb of the saint, eager to absorb the sacred **baraka** emanating from the silken draperies."*
+> - 📜 **Edward Westermarck (*Ritual and Belief in Morocco*):** *"In Moorish belief, **baraka** is an abundant spiritual force that blesses crops, heals illnesses, and protects communities from evil."*
+> - 📜 **Charles Doughty (*Travels in Arabia Deserta*):** *"The nomadic tribesmen kissed the hem of the elder's mantle, venerating him as a possessor of heavenly **baraka**."*

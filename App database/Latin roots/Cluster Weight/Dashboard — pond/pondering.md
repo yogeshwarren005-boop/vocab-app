@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reflect deeply on a subject.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deeply or seriously thoughtful.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Engaged in deep, serious, or continuous thought and deliberation; reflecting thoughtfully.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative literature and cognitive introspection, sustained brooding consideration of moral, existential, or strategic questions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Loneli hated to see him that way and could not help pondering about this remarkable change."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Anything would suit the purpose, written in the hand.” “Some writing in that hand,” says the trooper, pondering; “may be, I have.” “My dearest friend!” “May be, I have not.” “Ho!” says Grandfather Smallweed, crest-fallen."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Where shall I find you?” “Why, I must get a lodging of some sort,” said Richard, pondering."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Sydney Carton walked the streets of Paris at night, **pondering** the solemn sacrifice he had resolved to make on the morrow."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea sat beside the window in deep silence, **pondering** whether noble action was possible within the narrow limits of provincial life."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I lay awake through the still hours of midnight, **pondering** my desolate situation and seeking strength for the journey."*

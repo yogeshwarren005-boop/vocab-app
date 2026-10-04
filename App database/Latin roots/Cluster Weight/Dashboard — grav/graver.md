@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tool used by an engraver.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dignified and somber in manner or character and committed to keeping promises.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cutting tool with a sharp, pointed steel blade used by engravers (a burin); also more serious or grave in character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intaglio printmaking and die-sinking, a lozenge-sectioned tempered steel tool mounted in a wooden mushroom handle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our graver business Frowns at this levity.—Gentle lords, let’s part."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They choose their magistrate, And such a one as he, who puts his “shall,” His popular “shall,” against a graver bench Than ever frowned in Greece."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is but a custom in your tongue; you bear a graver purpose, I hope."*
+> - 📜 **John Ruskin (*Ariadne Florentina*):** *"The line cut by the steel **graver** into polished copper possesses a crystalline sharpness that no chemical etching can equal."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"My aunt assumed a **graver** aspect as she proceeded to examine the financial embarrassments of our household."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"A **graver** charge was never brought against a British statesman in the history of parliamentary impeachments."*

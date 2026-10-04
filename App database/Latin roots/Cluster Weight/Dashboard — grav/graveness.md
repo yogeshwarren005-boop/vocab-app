@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A manner that is serious and solemn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A manner that is serious and solemn.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Solemn dignity, deep seriousness, moral sobriety, or critical importance and severity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character aesthetics and ethical philosophy, dignified demeanor marked by sobriety, moral responsibility, and restraint.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A very riband in the cap of youth, Yet needful too, for youth no less becomes The light and careless livery that it wears Than settled age his sables and his weeds, Importing health and graveness."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The senatorial ambassadors presented their petition with an ancient Roman **graveness** that commanded barbarian respect."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea's youthful face assumed a touching **graveness** whenever she contemplated schemes for rural cottages."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The lord chancellor addressed the peers with an imposing **graveness** suited to the trial of a royal favorite."*

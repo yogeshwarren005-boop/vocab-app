@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Providing absolution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Providing absolution.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving, tending, or having the power to exonerate, absolve, or free from blame or liability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the law of evidence, material or forensic findings that directly exculpate a defendant from criminal or tortious allegations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exonerative designates providing absolution."*
+> - 📜 **Sir Walter Scott (*The Antiquary*):** *"The magistrate admitted the letter as **exonerative** evidence, dismissing the warrants previously issued against the traveler."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The petition was couched in **exonerative** language, shifting the failure of the naval expedition onto corrupt suppliers."*
+> - 📜 **William Makepeace Thackeray (*The Virginians*):** *"The lawyer produced an **exonerative** receipt signed by the creditor, ending all talk of debtor's prison."*

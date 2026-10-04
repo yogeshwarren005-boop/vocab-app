@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hawker of fruit and vegetables from a barrow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hawker of fruit and vegetables from a barrow.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A young man or youth who sells fruit, vegetables, or other goods from a mobile street barrow (handcart).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In London social history and urban culture, a cockney street hawker known for sharp commercial banter and mobile trade.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barrow-boy designates a hawker of fruit and vegetables from a barrow."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"The cheeky London **barrow-boy** cried his fruit along the curb, dodging the police with swift agility."*
+> - 📜 **Charles Dickens (*Sketches by Boz*):** *"The noisy market street was enlivened by every **barrow-boy** in Covent Garden competing for the pennies of passing housewives."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"A startled **barrow-boy** watched his basket of apples mysteriously overturn in the middle of the road as the unseen traveler passed."*

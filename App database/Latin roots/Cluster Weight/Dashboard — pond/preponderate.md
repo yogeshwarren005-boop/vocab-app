@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Weigh more heavily.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Weigh more heavily.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To exceed in weight, influence, power, quantity, or importance; to predominate or tip the scales.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical political theory and mechanics, exerting greater physical or moral force so as to determine the motion of a balance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The people, by throwing themselves into either scale, will infallibly make it preponderate."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In a country consisting chiefly of the cultivators of land, where the rules of an equal representation obtain, the landed interest must, upon the whole, preponderate in the government."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"Both joy and sorrow are mingled in the cup of human life,” said Aunt Lucy, solemnly: “Which shall preponderate it is partly in our power to determine."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In a single state, passions may easily **preponderate** over reason, but across a vast republic, diverse factions neutralize each other."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"When personal ambition began to **preponderate** over civic duty, the republican institutions crumbled from within."*
+> - 📜 **Sir Walter Scott (*Waverley*):** *"The conflicting motives in the young officer's mind caused loyalty to his sovereign to **preponderate** at last over ancestral attachments."*

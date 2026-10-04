@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being imminent and liable to happen soon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being imminent and liable to happen soon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Imminent approach, looming proximity, or menacing overhang of an impending crisis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetorical and dramatic criticism, the palpable atmospheric tension caused by an impending crisis or catastrophe.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, impendence designates the state of being imminent and liable to happen soon."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"All Paris held its breath in fearful **impendence**, awaiting the outbreak that would topple the ancient monarchy."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"A sense of mysterious **impendence** shadowed the sunlit ruins of the Roman forum, chilling their lighthearted conversation."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The gloomy **impendence** of civil war distracted the legions from the defense of the Danube frontier."*

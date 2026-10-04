@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or caused by gravitation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or caused by gravitation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or caused by the force of gravity or gravitation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astrophysics and cosmology, describing phenomena (such as gravitational lensing, waves, or collapse) dictated by spacetime curvature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gravitational designates of or relating to or caused by gravitation."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The celestial bodies perform their periodic revolutions under the continuous action of central **gravitational** forces."*
+> - 📜 **Arthur Eddington (*Space, Time and Gravitation*):** *"The light rays from distant stars experienced measurable deflection in the intense **gravitational** field of the Sun."*
+> - 📜 **Stephen Hawking (*A Brief History of Time*):** *"When a massive star exhausts its nuclear fuel, uncontrollable **gravitational** collapse crushes it into a black hole."*

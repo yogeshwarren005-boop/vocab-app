@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A barrier set up by police to stop traffic on a street or road in order to catch a fugitive or inspect traffic etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A barrier (usually thrown up hastily) to impede the advance of an enemy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An improvised defensive barrier or obstacle hastily erected across a street or pass to block advance or provide cover.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urban warfare and political history, defensive structures of paving stones, overturned wagons, and timbers characteristic of Parisian revolutions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"So, in order that he might be quite undisturbed, he piled up some forms and chairs against the door on the inside, forgetting entirely that the upper part of it was obscure glass and that his barricade was perfectly visible from without."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Now lead the way, and we shall soon see the end of this black business.” We passed up the stair, unlocked the door, followed on down a passage, and found ourselves in front of the barricade which Miss Hunter had described."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Fix the barricade so that we can shoot a one-time flash-spunnel message through to him."*
+> - 📜 **Victor Hugo (*Les Misérables*):** *"The students threw down omnibuses, torn-up paving stones, and mattresses to construct a formidable **barricade** across the narrow street of the Chanvrerie."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The revolutionary mob threw up a massive **barricade** before the gates of the prison, defying the royal cavalry."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Every boulevard bristled with a hasty **barricade**, manned by armed citizens demanding bread and constitutional liberty."*

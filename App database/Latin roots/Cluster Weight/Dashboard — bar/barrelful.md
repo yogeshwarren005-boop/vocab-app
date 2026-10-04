@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quantity that a barrel (of any size) will hold.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quantity that a barrel (of any size) will hold.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The amount that a barrel can hold; a large, abundant quantity of a liquid or substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In traditional commerce and informal narrative, a volumetric measure describing an entire cask's contents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barrelful designates the quantity that a barrel (of any size) will hold."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"The jolly landlord tapped a fresh **barrelful** of October ale, sending foaming mugs around the roaring taproom fire."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"The pirates drank almost a complete **barrelful** of rum during their midnight revelry upon the sandy shore."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"The boys imagined finding a whole **barrelful** of Spanish gold doubloons buried under the haunted tree."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small appendage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small appendage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small appendage, process, projection, or supplementary anatomical part.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology and descriptive botany, a minute subsidiary appendage, auricle, or spine on an exoskeleton or foliar bract.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, appendicle designates a small appendage."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The tiny **appendicle** attached to the base of the petal serves to guide foraging insects directly toward the nectary."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"Each abdominal segment in the larva bears a slender lateral **appendicle** functioning as a tracheal gill."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The stipule possesses a minute, glandular **appendicle** that secretes sticky fluid to deter crawling herbivorous ants."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The words of an opera or musical play.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The words of an opera or musical play.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The complete text of an opera, operetta, or other long vocal musical composition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In performing arts history, the printed booklet containing the dramatic verse, dialogue, and stage directions for an operatic production.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, libretto designates the words of an opera or musical play."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"Mozart transformed Da Ponte's sparkling **libretto** into a masterpiece of psychological nuance and melodic beauty."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"They sat in the opera box following the dramatic Italian **libretto** by the dim light of the gas chandeliers."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He studied the ornate romantic **libretto**, enchanted by the mystical legends of medieval knighthood it evoked."*

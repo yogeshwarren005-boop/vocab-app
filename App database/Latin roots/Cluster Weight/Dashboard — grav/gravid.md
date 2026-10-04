@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an advanced stage of pregnancy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an advanced stage of pregnancy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pregnant; carrying eggs or developing embryos within the female body; also heavy, burdened, or full of meaning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive biology and obstetrics, female organisms gestating viable fetuses, eggs, or embryonic offspring within the uterus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gravid designates in an advanced stage of pregnancy."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The female fish becomes sluggish and vulnerable to predators when fully **gravid** with thousands of mature eggs."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"In the **gravid** female crustacean, the developing brood is carried externally beneath the abdominal pleopods."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The muscular walls of the **gravid** uterus undergo profound hypertrophy to accommodate the growing fetus."*

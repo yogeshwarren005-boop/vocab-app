@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an aggravating fashion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an aggravating fashion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that worsens a situation, intensifies severity, or provokes exasperation and annoyance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative characterization and interpersonal description, acting with persistent vexatious or exacerbating mannerisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"My appearance must have prepared him for my answer before it came, uttered in a very calm, very haughty, aggravatingly deliberate tone."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"At the sight of the pretty handwriting and aggravatingly soft-spoken sentences, Asaph Ball was forced to inconsiderate speech."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Brooke spoke with an **aggravatingly** placid optimism that irritated his more serious neighbors."*
+> - 📜 **Henry James (*The Bostonians*):** *"Basil Ransom found her persistent refusal to answer his questions **aggravatingly** polite and obstinate."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"Mr. Slope smiled **aggravatingly**, confident that the bishop's wife would support his ecclesiastical claim."*

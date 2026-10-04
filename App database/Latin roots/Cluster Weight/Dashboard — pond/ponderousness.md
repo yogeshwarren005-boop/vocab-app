@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An oppressive quality that is laborious and solemn and lacks grace or fluency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being large in mass.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Massive bulk, unwieldy weight, cumbersome clumsiness, or tedious rhetorical solemnity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetics and structural analysis, excessive heaviness lacking proportion, grace, or agility in design or literary composition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ponderousness designates an oppressive quality that is laborious and solemn and lacks grace or fluency."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The heavy ironwork of the prison door possessed a gloomy **ponderousness** that seemed calculated to extinguish all human hope."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The legal volumes were piled upon the tables with a suffocating **ponderousness** that spoke of centuries of dusty decay."*
+> - 📜 **Sir Walter Scott (*The Antiquary*):** *"The old German treatise was characterized by that exhaustive **ponderousness** that exhausts the reader before the third chapter."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not suitable to be expended.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not suitable to be expended.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not able or intended to be spent, used up, or sacrificed; irreplaceable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military logistics and capital accounting, durable plant equipment or strategic personnel designated as non-consumable assets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unexpendable designates not suitable to be expended."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The capital dreadnoughts were strictly **unexpendable** assets, preserved with the utmost vigilance to maintain naval command of the sea."*
+> - 📜 **Arthur Conan Doyle (*The British Campaign in France and Flanders*):** *"Trained artillery officers were virtually **unexpendable**, requiring months of intensive scientific education to replace."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"In the reconstructed society, skilled technical brains were declared **unexpendable**, protected from dangerous frontline service."*

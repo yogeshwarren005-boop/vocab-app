@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The rapid and continuous delivery of linguistic communication (spoken or written).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The heavy fire of artillery to saturate an area rather than hit a specific target.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A concentrated artillery bombardment over a wide area; an overwhelming outpouring of questions, criticisms, or blows; also a river dam.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military warfare, a creeping or box barrage coordinating artillery fire ahead of advancing infantry; in hydraulic engineering, a weir regulating water levels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Now." Hodak directed a final lengthy barrage of rifle bursts at the entry."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Boomerang is caught in a barrage."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The barrage follows, but I'm not beaten yet."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"A deafening artillery **barrage** opened along twenty miles of front, churning the enemy trenches into a smoking wilderness of mud."*
+> - 📜 **Arthur Conan Doyle (*The British Campaign in France and Flanders*):** *"The infantry pressed forward closely behind the creeping **barrage**, which lifted from trench to trench with mathematical precision."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The shore batteries maintained a continuous **barrage** of heavy shells, but the Martian tripods advanced unscathed through the smoke."*

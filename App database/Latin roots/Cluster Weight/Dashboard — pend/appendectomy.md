@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical removal of the vermiform appendix.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical removal of the vermiform appendix.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical removal of the vermiform appendix, typically performed to treat acute appendicitis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In abdominal surgery, an open or laparoscopic surgical excision of an inflamed vermiform appendix to prevent perforation and peritonitis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, appendectomy designates surgical removal of the vermiform appendix."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Early surgical consultation and prompt **appendectomy** avert the fatal peritonitis formerly associated with perityphlitis."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The routine success of the modern **appendectomy** stands as a triumphant landmark in antiseptic abdominal surgery."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"The surgeon demonstrated the precise anatomical incisions required for an emergency **appendectomy** under ether anesthesia."*

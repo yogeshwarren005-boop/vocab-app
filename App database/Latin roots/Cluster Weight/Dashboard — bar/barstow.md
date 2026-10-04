@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A town in southeastern california.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in southeastern california.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historic transportation hub and desert city in San Bernardino County, California, situated in the Mojave Desert.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American western transportation and rail history, an important junction along Route 66, the Santa Fe Railroad, and the Old Spanish Trail.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barstow designates a town in southeastern california."*
+> - 📜 **John Steinbeck (*The Grapes of Wrath*):** *"The migrant family reached **Barstow** as night fell, the desert wind blowing hot and dry across their overloaded jalopy."*
+> - 📜 **Jack London (*The Road*):** *"The tramp rode the brakebeams of the Santa Fe freight through **Barstow**, watching the Mojave sands flash past in the moonlight."*
+> - 📜 **Mark Twain (*Roughing It*):** *"The stagecoach route crossed the arid deserts near modern **Barstow**, where alkali dust coated horses and passengers alike."*

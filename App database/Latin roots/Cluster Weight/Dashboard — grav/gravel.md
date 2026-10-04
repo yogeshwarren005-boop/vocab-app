@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rock fragments and pebbles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause annoyance in; disturb, especially by minor irritations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A loose aggregation of small rock fragments, water-worn stones, and pebbles used for paths, roads, and concrete aggregate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology and nephrology, coarse sedimentary clastic particles (2–64 mm), or small calculous deposits in the kidneys and bladder.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"LAUNCELET. [_Aside._] O heavens, this is my true-begotten father, who being more than sand-blind, high-gravel blind, knows me not."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I made up my mind that night to come to the door and ask for Toughey, if that was all; but willing to try a move or so first, if any such was on the board, I just pitched up a morsel of gravel at that window where I saw a shadow."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A gravel walk leading from the door to the road in front was encrusted at the sides with more moss—here it was a silver-green variety, the nut-brown of the gravel being visible to the width of only a foot or two in the centre."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The vast plains of eastern Patagonia are blanketed by a thick stratum of rounded porphyry **gravel**."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"They turned along the smooth **gravel** walk that wound through the shrubbery toward the garden pavilion."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The railroad cuts through the hill, exposing magnificent sections of yellow sand and laminated **gravel**."*

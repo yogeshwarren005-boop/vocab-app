@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital of gabon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capital of gabon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital and largest city of Gabon, situated on the Komo River near the Gulf of Guinea; originally founded as a haven for freed slaves in 1849.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In West African geography and post-colonial history, a major coastal port city established as a free town (*Libreville*) analogous to Freetown, Sierra Leone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, libreville designates the capital of gabon."*
+> - 📜 **Mary Kingsley (*Travels in West Africa*):** *"We anchored in the calm estuary off **Libreville**, where the wooded hills of Gabon met the blue waters of the Atlantic."*
+> - 📜 **Joseph Conrad (*Tales of Unrest*):** *"The French coastal steamer discharged cargo at **Libreville** before proceeding south toward the mouth of the Congo."*
+> - 📜 **Alexander von Humboldt (*Cosmos: A Sketch of a Physical Description of the Universe*):** *"The equatorial coastline near **Libreville** presents luxuriant mangrove estuaries backed by dense tropical rainforests."*

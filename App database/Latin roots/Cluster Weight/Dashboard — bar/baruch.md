@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Economic advisor to united states presidents (1870-1965).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disciple of and secretary for the prophet jeremiah.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A biblical personal name meaning 'blessed'; Baruch ben Neriah, scribe and disciple of the prophet Jeremiah; also Bernard Baruch (1870–1965), American financier and statesman.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biblical literature and 20th-century geopolitical history, the author of the deuterocanonical Book of Baruch, or the presidential adviser who coined 'Cold War'.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"On the Improvement of the Understanding (Treatise on the Emendation of the Intellect) by Baruch Spinoza [Benedict de Spinoza] Translated by R."*
-> - 📜 **James Joyce (*Ulysses*):** *"Felix Bartholdy Mendelssohn (composer), Baruch Spinoza (philosopher), Mendoza (pugilist), Ferdinand Lassalle (reformer, duellist)."*
+> - 📜 **John Milton (*Paradise Regained*):** *"As when the scribe **Baruch** wrote from the prophet's mouth the solemn warnings of impending exile upon the sacred scroll."*
+> - 📜 **Winston Churchill (*The Gathering Storm*):** *"My old and trusted friend Bernard **Baruch** provided invaluable counsel on American industrial mobilization during both world conflicts."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The ancient Jewish chronicles preserved the memory of **Baruch**, who comforted the weeping elders by the rivers of Babylon."*

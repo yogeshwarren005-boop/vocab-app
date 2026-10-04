@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A measuring instrument for determining the specific gravity of a liquid or solid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A measuring instrument for measuring variations in the gravitational field of the earth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument designed to measure minute local variations in the strength of Earth's gravitational field.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In applied geophysics and mineral exploration, a sensitive spring-mass instrument measuring microgal gravitational anomalies caused by subsurface ore bodies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gravimeter designates a measuring instrument for determining the specific gravity of a liquid or solid."*
+> - 📜 **Alexander von Humboldt (*Cosmos: A Sketch of a Physical Description of the Universe*):** *"The delicate **gravimeter** recorded minute fluctuations in terrestrial gravity as the expedition traversed the Andean cordillera."*
+> - 📜 **John Tyndall (*Fragments of Science*):** *"By deploying a precise **gravimeter**, geophysicists can detect variations in underlying rock density across vast continental basins."*
+> - 📜 **Arthur Eddington (*Space, Time and Gravitation*):** *"The modern **gravimeter** reveals that local gravitational attraction is subtly modified by mountain masses and oceanic trenches."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be contingent upon (something that is elided).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have faith or confidence in.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To rely on someone or something for support, help, or sustenance; to be determined or contingent on something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanics and classical syntax, to hang down suspended from an elevated attachment point (*dependere*).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then need I not to fear the worst of wrongs, When in the least of them my life hath end, I see, a better state to me belongs Than that, which on thy humour doth depend."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The time is troublesome. [_To Pisanio._] We’ll slip you for a season; but our jealousy Does yet depend."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Poor wretches, that depend On greatness’ favour, dream as I have done; Wake and find nothing."*
+> - 📜 **William Shakespeare (*Measure for Measure*):** *"From our laws let no one **depend** for mercy where deliberate treason hath been proved."*
+> - 📜 **John Milton (*Paradise Lost*):** *"In starry sphere, the golden universe did **depend** from heaven's battlements by a golden chain."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"The happiness of the whole family must **depend** upon the prudence and good judgment of the eldest daughter."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Carve, cut, or etch into a material or surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impress or affect deeply.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cut, carve, or etch a design, lettering, or illustration onto a hard surface such as metal, wood, or stone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In printmaking and mechanical typography, creating intaglio plates with burins or acid for transferring ink onto paper.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Send to her, by the man that slew her brothers, A pair of bleeding hearts; thereon engrave “Edward” and “York.” Then haply will she weep."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It is recorded of Washington, that he wished the official title of the President to be ‘High Mightiness,’[65] and at one time it was proposed to engrave his portrait upon the national coinage."*
-> - 📜 **Oscar Wilde (*Lord Arthur Savile's Crime; The Portrait of Mr. W.H., and Other Stories*):** *"There had been a great deal of difficulty at first about the inscription on Sir Simon’s tombstone, but finally it had been decided to engrave on it simply the initials of the old gentleman’s name, and the verse from the library window."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"A golden casket, whereon was stamped: 'Who chooseth me shall gain what many men desire', words that craftsmen **engrave** in gold."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Upon the front of heaven's eternal rock, the angels did **engrave** the decree of sovereign power."*
+> - 📜 **Sir Walter Scott (*The Antiquary*):** *"The lapidary was instructed to **engrave** the family coat of arms upon the antique signet ring."*

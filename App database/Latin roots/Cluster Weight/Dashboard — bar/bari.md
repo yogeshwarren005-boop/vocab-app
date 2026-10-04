@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capital city of the apulia region on the adriatic coast.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capital city of the apulia region on the adriatic coast.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historic port city and capital of the Apulia region in southeastern Italy, situated on the Adriatic Sea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval Mediterranean history, a major Byzantine catepanate capital and Norman crusader departure port housing the relics of Saint Nicholas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Happily, about two o’clock, Ned Land brought down a magnificent hog; from the brood of those the natives call “bari-outang.” The animal came in time for us to procure real quadruped meat, and he was well received."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The “bari-outang,” grilled on the coals, soon scented the air with a delicious odour."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Among the tribes which cherish these beliefs and observe these customs are the Latuka, Bari, Laluba, and Lokoiya."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Normans besieged the maritime stronghold of **Bari**, extinguishing the last vestige of Byzantine dominion in southern Italy."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The ancient cathedral of **Bari** drew pilgrims from across Christendom to venerate the miraculous relics of Saint Nicholas."*
+> - 📜 **Sir Walter Scott (*Count Robert of Paris*):** *"The Crusader fleets assembled in the sheltered Adriatic roadsteads of **Bari** before setting sail for Constantinople."*

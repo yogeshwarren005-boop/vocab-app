@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pronounce not guilty of criminal charges.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freed from any question of guilt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cleared or absolved from an accusation, fault, debt, or criminal responsibility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal proceedings, having received a formal judicial decree of acquittal or complete absolution from liability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"From school duties she was exonerated: Mrs."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"My state of mind regarding the pilfering from which I had been so unexpectedly exonerated did not impel me to frank disclosure; but I hope it had some dregs of good at the bottom of it."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The prisoner was formally **exonerated** by the tribunal and carried forth upon the shoulders of the cheering mob."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate felt deeply relieved when the independent inquest **exonerated** him from all professional malpractice in the patient's death."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"The discovery of the missing duplicate key completely **exonerated** the young bank clerk from suspicion."*

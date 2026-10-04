@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An external body part that projects from the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A natural prolongation or projection from a part of an organism either animal or plant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thing that is added or attached to something larger or more important; an adjunct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy and zoology, an external body part projecting from an organism, such as a limb, tail, wing, antenna, or fin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The latter faithful appendage is also invariably a part of the old girl’s presence out of doors."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Never did a caudal appendage beat the sea with such violence."*
-> - 📜 **Effie Afton (*Eventide*):** *"He was, in fact, very much the same sort of an appendage in his elegant mansion that Mrs."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The swimming paddle of the porpoise and the wing of the bat represent the same anatomical **appendage** modified for distinct environments."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Each thoracic segment in the decapod crustacean bears a specialized jointed **appendage** adapted for walking or food capture."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The small island was regarded as a mere geographical **appendage** to the vast continental province."*

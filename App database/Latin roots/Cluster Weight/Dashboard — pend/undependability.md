@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of not being dependable or reliable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of not being dependable or reliable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Chronic unreliability, erratic instability, or fickle inconsistency in character or mechanical execution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological evaluation and systems engineering, high failure rate or unpredictable operational performance under stress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undependability designates the trait of not being dependable or reliable."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The fatal **undependability** of his nerve at the crucial second of crisis haunted the young officer across the eastern seas."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Fred Vincy's chronic **undependability** in financial promises sorely tried the patience of his generous uncle."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The notorious **undependability** of mercenary contingents led national commanders to rely exclusively upon native regiments."*

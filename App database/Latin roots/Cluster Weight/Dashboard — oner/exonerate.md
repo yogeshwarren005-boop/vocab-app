@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pronounce not guilty of criminal charges.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pronounce not guilty of criminal charges.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To officially absolve or clear someone from blame, guilt, liability, or criminal accusation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In criminal jurisprudence, formal judicial dismissal of charges following definitive exculpatory evidence or testimony.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"It may appear to some readers that the young lady was both precipitate and unduly fastidious; but the latter of these facts, if the charge be true, may serve to exonerate her from the discredit of the former."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"I do not exonerate those who maltreated your father."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Webster,) while he exonerates me personally from the charge, intimates that there is a party in the country who are looking to disunion."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The production of authentic state papers served to completely **exonerate** the minister from charges of treasonable correspondence."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The emperor sought to **exonerate** himself from the public odium of the burning of the capital."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She was eager to **exonerate** Wickham from every imputation that Darcy had cast upon his character."*

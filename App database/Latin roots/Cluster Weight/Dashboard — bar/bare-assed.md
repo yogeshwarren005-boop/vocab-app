@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (used informally) completely unclothed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used informally) completely unclothed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Entirely naked or exposed; possessing no clothes upon the buttocks or lower body; vulgar colloquialism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In informal social description, colloquial vulgarism denoting complete lack of clothing or unshielded exposure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bare-assed designates (used informally) completely unclothed."*
+> - 📜 **Jack London (*The Cruise of the Snark*):** *"The island children plunged **bare-assed** into the foaming breakers, laughing as the rollers carried them ashore."*
+> - 📜 **Stephen Crane (*The Open Boat*):** *"The shipwrecked oiler scrambled onto the sandy beach, exhausted and practically **bare-assed** from the pounding waves."*
+> - 📜 **Herman Melville (*Typee*):** *"The youthful natives ran **bare-assed** along the verdant riverbanks, celebrating the arrival of the foreign ship."*

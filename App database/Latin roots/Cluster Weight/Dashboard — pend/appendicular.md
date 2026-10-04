@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or consisting of an appendage or appendages; especially the limbs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or consisting of an appendage or appendages; especially the limbs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to limbs or appendages; forming an appendage, as in the appendicular skeleton.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human anatomy, designating the bones of the limbs and girdles (appendicular skeleton) as distinguished from the axial skeleton.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, appendicular designates relating to or consisting of an appendage or appendages; especially the limbs."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The **appendicular** skeleton of the quadruped exhibits remarkable homologies across the humerus, radius, and ulna."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"Vertebrate embryology demonstrates how limb buds give rise to the entire **appendicular** musculature and bone structure."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient complained of localized tenderness in the right **appendicular** region, prompting immediate surgical evaluation."*

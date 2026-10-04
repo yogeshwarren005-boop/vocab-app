@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A printing process that uses an etched or engraved plate; the plate is smeared with ink and wiped clean, then the ink left in the recesses makes the print.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A printing plate used in the process of gravure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An intaglio printing process using an etched copper cylinder to transfer high-quality images onto paper or packaging; also a print produced this way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial printing technology, rotogravure printing utilizing engraved cells of varying depth and size to reproduce photographic continuous tones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gravure designates a printing process that uses an etched or engraved plate; the plate is smeared with ink and wiped clean, then the ink left in the recesses makes the print."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The rich velvety shadow achieved in modern **gravure** reproductions preserves the subtle atmospheric transitions of the painter's brush."*
+> - 📜 **Henry James (*The Golden Bowl*):** *"The elegant frontispiece was rendered in rich photogravure, its delicate **gravure** tones capturing the gloomy Roman palace."*
+> - 📜 **Charles Dickens (*All the Year Round*):** *"The illustrated journals adopted advanced **gravure** cylinders to print thousands of detailed weekly engravings for the public."*

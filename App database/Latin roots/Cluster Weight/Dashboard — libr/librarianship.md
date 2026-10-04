@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The position of librarian.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The position of librarian.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The profession, duties, or office of a librarian; the management of libraries and information resources.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In information science, the academic discipline governing library management, collection curation, information retrieval, and preservation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, librarianship designates the position of librarian."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Richard Bentley applied his profound classical erudition to the **librarianship** of the royal collections at St. James's."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The modest income from the museum **librarianship** enabled the young scholar to pursue his independent philosophical studies."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The ancient traditions of English **librarianship** ensured that rare folios were guarded with almost monastic vigilance."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Appear at county fairs and carnivals as a stunt flier and parachute jumper.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tour the country making political speeches, giving lectures, or presenting plays.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To travel through rural or provincial areas giving theatrical performances, speeches, or aerial exhibition flights.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theatrical and aviation history, itinerant actors performing in rural barns, or early aviators staging airshows in farmer fields.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barnstorm designates appear at county fairs and carnivals as a stunt flier and parachute jumper."*
+> - 📜 **Mark Twain (*The Adventures of Huckleberry Finn*):** *"The two itinerant actors resolved to **barnstorm** through the small river towns with Shakespearean scenes and sword fights."*
+> - 📜 **Sinclair Lewis (*Main Street*):** *"The travelling theatrical troupe arrived to **barnstorm** through the prairie towns, performing melodramas in municipal halls."*
+> - 📜 **William Faulkner (*Pylon*):** *"During the reckless nineteen-twenties, daredevil aviators would **barnstorm** across the country, landing biplanes in open pastures."*

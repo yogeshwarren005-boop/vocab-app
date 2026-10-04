@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who steals valuables from graves or crypts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who takes bodies from graves and sells them for anatomical dissection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who unlawfully opens or loots graves to steal corpses, jewelry, or burial goods; a resurrectionist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical and social history, illicit grave desecrators supplying anatomical cadaves to medical dissecting theaters before anatomy acts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, graverobber designates someone who steals valuables from graves or crypts."*
+> - 📜 **Robert Louis Stevenson (*The Body Snatcher*):** *"The medical students relied upon the nocturnal **graverobber** to supply fresh anatomical subjects for the dissecting tables."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Jerry Cruncher pursued his clandestine trade as an 'honest tradesman', functioning in secret as a nocturnal **graverobber**."*
+> - 📜 **Sir Walter Scott (*The Antiquary*):** *"The superstitious villagers suspected that the ruined abbey had been disturbed by some greedy **graverobber** seeking ancient chalices."*

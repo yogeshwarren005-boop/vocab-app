@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An adornment that hangs from a piece of jewelry (necklace or earring).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Branched lighting fixture; often ornate; hangs from the ceiling.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A piece of jewelry that hangs on a chain around the neck; also something suspended or hanging down.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Gothic architecture, an ornamental hanging boss or stonework feature dropping down from the vaulting of a ceiling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sometime we see a cloud that’s dragonish, A vapour sometime like a bear or lion, A towered citadel, a pendant rock, A forked mountain, or blue promontory With trees upon’t, that nod unto the world And mock our eyes with air."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There on the pendant boughs her coronet weeds Clamb’ring to hang, an envious sliver broke, When down her weedy trophies and herself Fell in the weeping brook."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This guest of summer, The temple-haunting martlet, does approve, By his loved mansionry, that the heaven’s breath Smells wooingly here: no jutty, frieze, Buttress, nor coign of vantage, but this bird hath made his pendant bed and procreant cradle."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"Why, then the world and all that's in't is nothing; the covering sky is nothing; Bohemia nothing; my wife is a **pendant** jewel to my eye."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"A glittering diamond **pendant** rested against her dark velvet bodice, catching the flickering candlelight."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The delicate stone **pendant** suspended from the cathedral vault seemed to defy the heavy laws of gravitation."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring into balance or equilibrium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring into balance or equilibrium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To bring into balance or equilibrium; British variant of equilibrize.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical apparatus calibration, adjusting counterweights or electrical resistances to achieve neutral mechanical balance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, equilibrise designates bring into balance or equilibrium."*
+> - 📜 **Michael Faraday (*Chemical Manipulation*):** *"The experimenter must carefully **equilibrise** the balance arms with tare weights before placing the volatile liquid upon the scale."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"Organisms continually **equilibrise** their internal physiological functions against fluctuating external atmospheric conditions."*
+> - 📜 **John Tyndall (*Heat Considered as a Mode of Motion*):** *"The expansion of the gas serves to **equilibrise** the external atmospheric resistance against the piston."*

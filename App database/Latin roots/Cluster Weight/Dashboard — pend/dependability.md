@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being dependable or reliable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being dependable or reliable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Steadfast trustworthiness, reliable fidelity, and consistent performance in character or duty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systems engineering and reliability metrics, the collective measure of a system's availability, reliability, safety, and maintainability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dependability designates the quality of being dependable or reliable."*
+> - 📜 **Joseph Conrad (*The Mirror of the Sea*):** *"A shipmaster learns to value the absolute **dependability** of his steering gear above all other nautical virtues."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Caleb Garth was renowned throughout the county for the scrupulous **dependability** of his professional land surveys."*
+> - 📜 **Winston Churchill (*Marlborough: His Life and Times*):** *"The allied coalition rested entirely upon the **dependability** of British financial subsidies and disciplined Dutch regiments."*

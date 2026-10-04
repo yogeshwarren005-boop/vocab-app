@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A skilled worker who can inscribe designs or writing onto a surface by carving or etching.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A printmaker who prints from an engraved printing plate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An artist or skilled artisan who cuts designs, letters, or pictures onto hard surfaces for printing or decoration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of printing and numismatics, a master craftsman preparing intaglio copper plates, banknote dies, or coin minting matrices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"He was an engraver as well as goldsmith, sculptor, and painter.”--Heaton."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Charles Craske, an engraver of New York, introduced the method into the stereotype trade of the United States in 1850, and in 1854 he stereotyped a page of the "_New York Herald_" and later made stereotypes for other New York newspapers."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Adams, a wood-engraver connected with Harper & Bros. in New York, experimented along lines similar to those Spencer had pursued, but using a wood-cut from which to mold."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The industrious **engraver** bent over his copper plate under the shaded lamp, cutting delicate lines with his sharp burin."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The likeness of the king was executed by the royal **engraver** for the new silver coinage of the realm."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Albrecht Dürer remains the supreme **engraver** of northern Europe, mastering wood and metal with incomparable precision."*

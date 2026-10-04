@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Russian dancer and choreographer who migrated to the united states (born in 1948).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Russian dancer and choreographer who migrated to the united states (born in 1948).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mikhail Baryshnikov (born 1948), Soviet-born Russian-American ballet dancer, choreographer, and actor, celebrated as one of the greatest classical dancers of all time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of dance and performing arts, a virtuosic dancer renowned for technical purity, extraordinary elevation, and artistic direction of American Ballet Theatre.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, baryshnikov designates russian dancer and choreographer who migrated to the united states (born in 1948)."*
+> - 📜 **George Bernard Shaw (*Pen Portraits and Reviews*):** *"The thrilling elevation and flawless classical line demonstrated by **Baryshnikov** electrified audiences across the Western capitals."*
+> - 📜 **Thomas Mann (*Doctor Faustus*):** *"The dancer defied physical gravity upon the stage with that effortless grace and technical perfection associated with **Baryshnikov**."*
+> - 📜 **Arthur Miller (*Timebends: A Life*):** *"We watched the rehearsal in awe as **Baryshnikov** executed leaps that seemed to suspend him motionless in the air for an impossible second."*

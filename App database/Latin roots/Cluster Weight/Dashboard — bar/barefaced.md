@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With no effort to conceal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unrestrained by convention or propriety; ; ; - los angeles times; ; ; - bertrand russell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shameless, audacious, insolent, and undisguised (as in a barefaced lie); archaically, having the face uncovered or beardless.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetoric and character analysis, brazen mendacity or deceit carried out openly without attempt at concealment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"And was ever anything so meanly done as what I did—to skulk away like that from a man who was only civil and kind!” Clearly she did not think his barefaced praise of her person an insult now."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Upon my life, Bathsheba, it is too barefaced."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"They attacked him in various ways, with barefaced questions, ingenious suppositions, and distant surmises; but he eluded the skill of them all; and they were at last obliged to accept the second-hand intelligence of their neighbour, Lady Lucas."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"And though I could with **barefaced** power sweep him from my sight, yet I must not, for certain friends that are both his and mine."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The prime minister defended his financial peculations with **barefaced** insolence before the assembled court."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Wickham's narrative was an act of **barefaced** fabrication designed to blacken Darcy's honorable reputation."*

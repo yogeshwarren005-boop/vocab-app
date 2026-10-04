@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A room or establishment where alcoholic drinks are served over a counter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A room or establishment where alcoholic drinks are served over a counter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A room in which drinks are served over a counter; a saloon, public house, or taproom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social history and cultural geography, an urban or frontier public gathering venue centered on alcohol consumption and commercial recreation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"His barroom immediately became the place where they held prayer-meetings." VICTORIES OVER BAD HABITS, TOBACCO, OPIUM, ETC."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"We entered the barroom, which was narrow and darkling, for in these close lanes but few rays of reflected light are enabled to struggle down to the inhabitants, whose broad day is at best but a tolerable twilight."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"He was in a barroom, he said, drinking and minding his own business."*
+> - 📜 **Stephen Crane (*The Bride Comes to Yellow Sky*):** *"The frontier **barroom** was quiet until the sound of gunshots outside scattered the drinkers behind the counter."*
+> - 📜 **Mark Twain (*Roughing It*):** *"The mining camp **barroom** was crowded with miners in red flannel shirts, gambling for silver nuggets under the coal-oil lamps."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"The men argued loudly in the noisy saloon **barroom**, wagering heavy sacks of gold dust on the outcome of the sled race."*

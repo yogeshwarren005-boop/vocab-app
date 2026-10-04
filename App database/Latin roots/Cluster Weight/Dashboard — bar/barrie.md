@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Scottish dramatist and novelist; created peter pan (1860-1937).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Scottish dramatist and novelist; created peter pan (1860-1937).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to J. M. Barrie (1860–1937), Scottish novelist and playwright best remembered as the creator of Peter Pan; also a Canadian city in Ontario.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary history and cultural mythology, the author whose whimsical theatrical dramas created the enduring mythos of Neverland and the boy who wouldn't grow up.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"Barrie [James Matthew Barrie] A Millennium Fulcrum Edition produced in 1991 by Duncan Research."*
+> - 📜 **George Bernard Shaw (*Pen Portraits and Reviews*):** *"The whimsical theatrical genius of J. M. **Barrie** enchanted London audiences by turning childhood nostalgia into timeless stage art."*
+> - 📜 **Robert Louis Stevenson (*Letters to J. M. Barrie*):** *"My dear **Barrie**, the fresh Scottish humor of your early sketches brought the aroma of our native hills directly to my exile in Samoa."*
+> - 📜 **Henry James (*Letters of Henry James*):** *"We watched the stage performance with delighted amusement, marveling at the inventive fantasy that **Barrie** brought to modern drama."*

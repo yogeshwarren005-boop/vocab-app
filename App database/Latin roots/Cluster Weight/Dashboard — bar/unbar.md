@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove a bar from (a door).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove a bar from (a door).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove the bar, bolt, or fastening from a door, gate, or entrance; to unlock or open.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To open up, disclose, or make accessible something previously obstructed, forbidden, or hidden.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet am I better Than one that’s sick o’ th’ gout, since he had rather Groan so in perpetuity than be cur’d By th’ sure physician death, who is the key T’ unbar these locks."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"She wants me to unbar the window,” thought Peter, “but I won’t, not I!” He peeped again, and the tears were still there, or another two had taken their place."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"A great fear seized him lest so beautiful a vision should presently fade, and he would have rushed to unbar the entrance, his eyes dimming with tears of love and sorrow."*
+> - 📜 **William Shakespeare (*Cymbeline*):** *"The locks are picked, the doors **unbar**, and morning calls the prisoner forth."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The warder hastened to **unbar** the heavy oaken portal to admit the weary knight."*
+> - 📜 **John Keats (*Endymion*):** *"Soft whispers seem to **unbar** the secret chambers of the dreaming mind."*

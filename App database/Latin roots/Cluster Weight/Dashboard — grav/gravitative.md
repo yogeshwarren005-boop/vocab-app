@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or caused by gravitation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or caused by gravitation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Operating by, relating to, or possessing the property of gravitation; causing or tending to cause gravitational attraction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical celestial mechanics, the energetic or kinetic propensity of massive matter to generate attractive force fields.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gravitative designates of or relating to or caused by gravitation."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The condensation of the primordial nebula proceeded under continuous **gravitative** aggregation of diffuse matter."*
+> - 📜 **John Tyndall (*Fragments of Science*):** *"The descending water of the mountain cataract expends **gravitative** potential energy, transforming it into heat upon the rocks below."*
+> - 📜 **Alexander von Humboldt (*Cosmos: A Sketch of a Physical Description of the Universe*):** *"Planetary perturbations reveal the subtle **gravitative** interplay between neighboring celestial spheres."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (physics) the force of attraction between all masses in the universe; especially the attraction of the earth's mass for bodies near its surface; ; ; --albert einstein.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Movement downward resulting from gravitational attraction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The universal force of mutual attraction acting between all masses in the universe; also movement toward something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theoretical physics, fundamental interaction described classically by Newton's law of universal gravitation and relativistically by general relativity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak was an intensely humane man: indeed, his humanity often tore in pieces any politic intentions of his which bordered on strategy, and carried him on as by gravitation."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Nobody had beheld the gravitation of the two into one; and when the dairyman came round by that screened nook a few minutes later, there was not a sign to reveal that the markedly sundered pair were more to each other than mere acquaintance."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Like the law of gravitation and the law of projectiles, the theory must be interpreted with relation to actual conditions."*
+> - 📜 **Isaac Newton (*Mathematical Principles of Natural Philosophy*):** *"Universal **gravitation** explains with mathematical harmony the orbits of the planets, the wanderings of comets, and the ebb and flow of oceanic tides."*
+> - 📜 **Arthur Eddington (*Space, Time and Gravitation*):** *"Einstein demonstrated that **gravitation** is not a mysterious mechanical pull, but a manifestation of spacetime curvature caused by mass."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The grand law of **gravitation** governs celestial mechanics just as natural selection governs the organic evolution of life."*

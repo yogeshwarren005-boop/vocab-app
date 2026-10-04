@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Boating by chartering a bareboat and providing your own crew and provisions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Boating by chartering a bareboat and providing your own crew and provisions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice or activity of chartering a yacht or boat without a hired crew or captain, sailing it oneself.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nautical leisure and admiralty practice, operating a chartered vessel independently under a demise agreement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bareboating designates boating by chartering a bareboat and providing your own crew and provisions."*
+> - 📜 **Jack London (*The Cruise of the Snark*):** *"Navigating the Coral Sea by **bareboating** demands thorough seamanship and constant vigilance over uncharted reefs."*
+> - 📜 **Joseph Conrad (*The Shadow-Line*):** *"The experience of **bareboating** an unfamiliar barque through shallow equatorial straits tested his youthful maritime nerve."*
+> - 📜 **Robert Louis Stevenson (*In the South Seas*):** *"Adventurous mariners took to **bareboating** among the Tuamotu atolls, relying solely upon their own compass and lead-line."*

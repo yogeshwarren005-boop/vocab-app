@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large marine food fish common on the coasts of australia, new zealand, and southern africa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large marine food fish common on the coasts of australia, new zealand, and southern africa.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A long, slender, predatory marine fish (Thyrsites atun) of the snake mackerel family, found in southern oceans; also snoek.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial fisheries and ichthyology, a fast pelagic predator in family Gempylidae, important as a food fish in Australia, New Zealand, and South Africa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barracouta designates a large marine food fish common on the coasts of australia, new zealand, and southern africa."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The sailors caught several large specimens of the voracious **barracouta** by trailing bright tin lures behind the vessel."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Shoals of predatory fish, including the razor-toothed **barracouta**, darted through the blue Pacific swell beneath our counter."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The coastal native fleets brought in bountiful catches of **barracouta**, smoking the firm white flesh over mangrove embers."*

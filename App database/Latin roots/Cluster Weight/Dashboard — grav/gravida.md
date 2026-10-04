@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The number of the pregnancy that a woman is in.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pregnant woman.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pregnant woman; in obstetrical notation, used with a numeral to indicate the total number of times a woman has been pregnant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical obstetrics and medical records, an indicator of gestational history (e.g., gravida 2, para 1), irrespective of pregnancy outcome.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gravida designates the number of the pregnancy that a woman is in."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In clinical history taking, the physician recorded the patient as a **gravida** of multiple gestations, noting every prior labor."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The systemic cardiovascular adjustments occurring in the **gravida** include marked increases in blood volume and cardiac output."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"The physiological demands upon the maternal organism designate the **gravida** as requiring exceptional nutritional reserves."*

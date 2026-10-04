@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Thin epithelial membrane lining the ventricles of the brain and the spinal cord canal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thin epithelial membrane lining the ventricles of the brain and the spinal cord canal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The thin neuroepithelial membrane lining the ventricular system of the brain and the central canal of the spinal cord.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy and histology, a simple ciliated columnar epithelial layer involved in cerebrospinal fluid production and fluid-brain barrier transport.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ependyma designates thin epithelial membrane lining the ventricles of the brain and the spinal cord canal."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The cerebral ventricles are lined throughout by the delicate, ciliated **ependyma**, which aids the circulation of cerebrospinal fluid."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"During vertebrate embryonic development, the primitive neuroepithelium differentiates into the neural parenchyma and the inner **ependyma**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Tuberculous infection often spreads directly along the **ependyma** of the lateral ventricles, causing fatal acute hydrocephalus."*

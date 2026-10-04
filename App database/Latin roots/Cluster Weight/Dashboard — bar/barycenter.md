@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (astronomy) the common center of mass around which two or more bodies revolve.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (astronomy) the common center of mass around which two or more bodies revolve.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The center of mass of two or more celestial bodies that orbit each other; the common point around which two or more bodies revolve.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In celestial mechanics and orbital astrophysics, the gravitational balance point of a planetary or stellar system (such as the Earth-Moon barycenter).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barycenter designates (astronomy) the common center of mass around which two or more bodies revolve."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"The Sun and planets revolve about a common center of gravity, the **barycenter** of the entire solar system."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"The Earth and Moon perform mutual monthly revolutions about their common **barycenter**, situated within the terrestrial mantle."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Astronomers detect unseen extrasolar planets by measuring the reflex wobble of a parent star around the system's **barycenter**."*

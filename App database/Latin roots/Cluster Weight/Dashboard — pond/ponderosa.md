@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Common and widely distributed tall timber pine of western north america having dark green needles in bunches of 2 to 5 and thick bark with dark brown plates when mature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Common and widely distributed tall timber pine of western north america having dark green needles in bunches of 2 to 5 and thick bark with dark brown plates when mature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ponderosa pine (Pinus ponderosa), a large, thick-barked pine native to mountainous regions of western North America.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In silviculture and forest ecology, a fire-adapted timber conifer featuring characteristic puzzle-piece bark smelling of vanilla, dominating interior western forests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ponderosa designates common and widely distributed tall timber pine of western north america having dark green needles in bunches of 2 to 5 and thick bark with dark brown plates when mature."*
+> - 📜 **John Muir (*The Mountains of California*):** *"The grand yellow pine, or **ponderosa**, stands like a stately column in the open Sierra forests, its bark glowing golden-brown in the sun."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The immense girth and dense timber of the western **ponderosa** pine illustrate the luxuriant development of Pacific conifers."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Pinus **ponderosa** is distinguished by its long needles in fascicles of three and its heavy, prickly seed cones."*

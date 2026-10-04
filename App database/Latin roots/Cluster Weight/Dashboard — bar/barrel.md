@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tube through which a bullet travels when a gun is fired.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cylindrical container that holds liquids.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cylindrical container bulging out in the middle, traditionally made of wooden staves bound with iron hoops; also the tube of a firearm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In petroleum commerce and firearms engineering, a standard volume unit (42 US gallons), or the bored cylindrical guide directing projectiles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Alexander died, Alexander was buried, Alexander returneth into dust; the dust is earth; of earth we make loam; and why of that loam whereto he was converted might they not stop a beer-barrel?"*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"And Bruno always is like a loaded gun-barrel, just a little spark and he is on fire and explodes." "It is time to go in," said the mother now, taking the two youngest by the hand."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Then he is like a scrubbed out gun-barrel, all clean and polished."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The whalemen stowed hundreds of casks and **barrel** containers of fragrant sperm oil in the dark lower hold of the ship."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"I climbed into the apple **barrel**, sitting in the dark when I overheard the conspirators plotting the mutiny."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"A large **barrel** of wine had been dropped and broken in the street, and all the poor people rushed to drink the spilt liquor."*

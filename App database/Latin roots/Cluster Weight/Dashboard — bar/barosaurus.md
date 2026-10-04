@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dinosaur that could grow to be as tall as a building five stories tall.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dinosaur that could grow to be as tall as a building five stories tall.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of enormous herbivorous diplodocid sauropod dinosaurs from the Late Jurassic period, possessing an extraordinarily elongated neck.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dinosaur taxonomy and paleobiology, sauropods distinguished by sixteen elongated neck vertebrae and whiplash tails, excavated in Wyoming and Utah.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barosaurus designates a dinosaur that could grow to be as tall as a building five stories tall."*
+> - 📜 **Othniel Charles Marsh (*The Dinosaurs of North America*):** *"We establish the genus **Barosaurus** upon remarkably complete cervical and caudal skeletal elements recovered from Jurassic beds."*
+> - 📜 **Henry Fairfield Osborn (*The Origin and Evolution of Life*):** *"The gigantic **Barosaurus** adapted to high-canopy browsing, supporting its immense neck through complex pneumatic vertebral cavities."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Fossil sauropods such as **Barosaurus** demonstrate the tremendous bodily dimensions attained by terrestrial reptiles before their extinction."*

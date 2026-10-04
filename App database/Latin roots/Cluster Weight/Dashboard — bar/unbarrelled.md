@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not in a barrel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not in a barrel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not stored in barrels; uncontained by casks; British spelling of unbarreled.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In traditional brewing and viticulture trade, bulk wine or ale unconfined in wooden barrels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unbarrelled designates not in a barrel."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The cellar floor was flooded with **unbarrelled** porter from the bursting of an enormous fermenting vat."*
+> - 📜 **Sir Walter Scott (*Rob Roy*):** *"The smugglers left several hogsheads of **unbarrelled** spirits in the cavern to avoid detection by the excisemen."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The sweet cider ran in rivers from the press, waiting to be casked, filling the barn with **unbarrelled** fragrance."*

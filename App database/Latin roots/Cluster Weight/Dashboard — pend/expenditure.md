@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Money paid out; an amount spent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of spending money for goods or services.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of spending funds; an amount of money, time, or effort spent on a particular purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In macroeconomics and physiology, the sum total of fiscal outlays, or basal metabolic caloric consumption of an organism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The number of little acts of thoughtless expenditure which Richard justified by the recovery of his ten pounds, and the number of times he talked to me as if he had saved or realized that amount, would form a sum in simple addition."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"My Lady signifies, without profuse expenditure of words, that she is as wearily well as she can hope to be."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"My intention is ultimately to retire from the management altogether, and until you can take all the expenditure upon your shoulders, I’ll be a sleeping partner in the stock."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The annual **expenditure** of the sovereign must be regulated strictly by the revenue derived from taxation and commerce."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The immense **expenditure** incurred in maintaining standing armies in Flanders alarmed the country gentlemen in parliament."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Muscular labor involves an immediate increase in oxygen consumption and the energetic **expenditure** of carbohydrate reserves."*

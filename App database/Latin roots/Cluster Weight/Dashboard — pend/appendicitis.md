@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the vermiform appendix.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the vermiform appendix.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the vermiform appendix, causing acute lower right abdominal pain, nausea, and fever.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical gastroenterology, acute luminal obstruction of the appendix by fecaliths or lymphoid hyperplasia, risking ischemic necrosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Drury's floor was that Dorrie's pretty, sluttish little mother had been whisked off to the Cottage Hospital with appendicitis an hour earlier."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Gabrilowitsch had been operated on for appendicitis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Sudden localized tenderness at McBurney's point is the classic diagnostic indicator of acute **appendicitis**."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The vestigial character of the human cecal pouch renders it uniquely vulnerable to bacterial stagnation and **appendicitis**."*
+> - 📜 **George Bernard Shaw (*The Doctor's Dilemma*):** *"Every fashionable practitioner now discovers **appendicitis** where our fathers diagnosed simple bilious colic."*

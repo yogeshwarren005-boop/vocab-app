@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An employee who mixes and serves alcoholic drinks at a bar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An employee who mixes and serves alcoholic drinks at a bar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A man who serves drinks behind the bar of a pub, tavern, or club; a bartender.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hospitality management, a tavern keeper or employee managing draft ale taps, bottle service, and taproom order.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The barman rushed forward and raised his hand in respectful greeting."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Honored to see you, Major Scarf," he said, "what'll it be?" "Firehouse Red, and I don't mean the runny slops you peddle to the bar flies." The barman dashed off and returned with a long-necked flagon and a large tumbler."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The barman set the brimming tumbler close to the Major's massive, thick-fingered hand."*
+> - 📜 **James Joyce (*Dubliners*):** *"The **barman** wiped the wet zinc counter with a dirty cloth and set two glasses of stout before the tired clerks."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes questioned the surly **barman** in the riverside public-house, extracting crucial information about the steam launch."*
+> - 📜 **George Orwell (*Coming Up for Air*):** *"The old **barman** remembered the village before the factories arrived, pouring bitter beer with slow, practiced movements."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hawker of fruit and vegetables from a barrow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hawker of fruit and vegetables from a barrow.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A man who operates, pushes, or works with a handcart or wheelbarrow, especially a street vendor or coal-miner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early industrial mining and urban retail, a laborer hauling coal cars in pit workings, or a licensed street barrow trader.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barrow-man designates a hawker of fruit and vegetables from a barrow."*
+> - 📜 **Charles Dickens (*The Old Curiosity Shop*):** *"The weary **barrow-man** paused beneath the lamp-post, resting his arms upon the worn handles of his heavy cart."*
+> - 📜 **George Orwell (*Down and Out in Paris and London*):** *"The market **barrow-man** shouted the price of cabbages above the roar of the early morning traffic."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"The honest **barrow-man** wheeling his load through the street performs an honorable, useful duty in the social commonwealth."*

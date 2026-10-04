@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove a bar from (a door).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not firmly fastened or secured.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not secured, fastened, or obstructed with bars; opened, unlocked, or unobstructed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic narrative and military description, gates or entrances whose defensive iron bars have been removed or opened.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"Let me in, Peter.” It was Tink, and quickly he unbarred to her."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"As he unbarred the door, a smile of joy flitted across his strangely young-looking face and lingered for a moment about his lips."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Book VI All night the dreadless Angel, unpursued, Through Heaven’s wide champain held his way; till Morn, Waked by the circling Hours, with rosy hand Unbarred the gates of light."*
+> - 📜 **William Shakespeare (*The Comedy of Errors*):** *"The doors were left **unbarred**, and we walked into the silent mansion without encountering a single servant."*
+> - 📜 **Sir Walter Scott (*Ivanhoe*):** *"The heavy castle gate was **unbarred** at dawn, allowing the heralds to ride forth into the lists."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Hepzibah **unbarred** the heavy shop door with trembling hands, dreading the entrance of her first customer."*

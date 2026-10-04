@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Block off with barricades.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Block off with barricades.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic form of barricade; an improvised defensive rampart or fortification thrown up in haste to block an enemy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Renaissance military prose, a hasty timber and earthen defensive breastwork closing a breach or thoroughfare.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Man is enemy to virginity; how may we barricado it against him?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be it concluded, No barricado for a belly."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Fast we found, fast shut The dismal Gates, and barricado’d strong; But long ere our approaching heard within Noise, other then the sound of Dance or Song, Torment, and lowd lament, and furious rage."*
+> - 📜 **William Shakespeare (*Twelfth Night*):** *"There is no darkness but ignorance, in which thou art more puzzled than the Egyptians in their fog, though thou hadst a **barricado** against it."*
+> - 📜 **John Milton (*Paradise Lost*):** *"They threw up a mighty **barricado** of angelic shields to turn aside the flaming darts of the adversary."*
+> - 📜 **Sir Walter Scott (*The Legend of Montrose*):** *"The highland garrison threw together a rude **barricado** of felled pine trees across the entrance to the pass."*

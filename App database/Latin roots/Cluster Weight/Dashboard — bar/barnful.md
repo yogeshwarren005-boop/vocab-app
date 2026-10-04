@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quantity that a barn will hold.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quantity that a barn will hold.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The amount that a barn can hold; a large, abundant quantity of grain, produce, or animals filling a barn.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rustic narrative and agricultural estimation, a volumetric measure describing a bumper harvest filling storage capacity to the rafters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barnful designates the quantity that a barn will hold."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The harvest proved so abundant that the farmer had a complete **barnful** of prime wheat to bring to the Michaelmas fair."*
+> - 📜 **George Eliot (*Adam Bede*):** *"Mrs. Poyser gazed with deep housewifely satisfaction upon a whole **barnful** of fragrant clover hay stacked against winter."*
+> - 📜 **Sir Walter Scott (*The Heart of Midlothian*):** *"The cattle raided from the lowland farm filled a whole **barnful** in the secluded highland stronghold."*

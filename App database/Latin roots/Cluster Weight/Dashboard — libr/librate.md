@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Determine the weight of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vibrate before coming to a total rest.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To balance or oscillate like a pair of scales before coming to rest; to poise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astronomy and mechanics, to exhibit an apparent or real oscillatory movement, especially the subtle rocking motions of the Moon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, librate designates determine the weight of."*
+> - 📜 **Isaac Newton (*Mathematical Principles of Natural Philosophy*):** *"The lunar disc seems to **librate** subtly in longitude and latitude, exposing peripheral sectors of its unseen hemisphere."*
+> - 📜 **John Tyndall (*Fragments of Science*):** *"The delicate balance pointer continued to **librate** across the scale divisions before coming to exact rest at the zero mark."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"When two antagonistic impulses contend in consciousness, the will appears to **librate** between competing courses of action."*

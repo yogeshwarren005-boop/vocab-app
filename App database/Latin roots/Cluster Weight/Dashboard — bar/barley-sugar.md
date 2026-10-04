@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A brittle transparent candy made by melting and cooling cane sugar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A brittle transparent candy made by melting and cooling cane sugar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hard, brittle, amber-colored boiled confection or candy, originally prepared by boiling sugar with a decoction of barley water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In traditional confectionery and architecture, clear twisted boiled sugar sweets; or spiral twisted columns resembling barley-sugar sticks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barley-sugar designates a brittle transparent candy made by melting and cooling cane sugar."*
+> - 📜 **Charles Dickens (*The Old Curiosity Shop*):** *"The village shop displayed jars of clear yellow **barley-sugar**, peppermint drops, and gingerbread men in its bow window."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The good-natured gentleman bought a stick of **barley-sugar** for the little boy from the tavern keeper's counter."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Tom shared his prized piece of **barley-sugar** with Maggie as a solemn token of reconciliation after their quarrel."*

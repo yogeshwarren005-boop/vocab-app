@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small lake.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small lake.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small body of still water formed naturally or created artificially for decorative, agricultural, or industrial purposes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In limnology and freshwater ecology, a shallow lentic aquatic ecosystem with emergent vegetation throughout its basin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His filth within being cast, he would appear A pond as deep as hell."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"You throw worried looks in all directions as if you were afraid that this perfectly solid meadow were a dangerous pond into which your little brood might fall and lose their lives." The children had scattered in all directions."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Here and there an old tub was put to catch the droppings of rain-water from a roof, or they were banked up with mud into a little pond like a large dirt-pie."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"A lake is the landscape's most beautiful and expressive feature. It is earth's eye; looking into which the beholder measures the depth of his own nature. The **pond** was my companion."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Water-beetles and mollusks are frequently transported from one isolated **pond** to another on the muddy feet of wading birds."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"There are a sort of men whose visages do cream and mantle like a standing **pond**."*

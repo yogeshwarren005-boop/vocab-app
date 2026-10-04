@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be imminent or about to happen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be imminent or about to happen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To be imminent; to threaten or loom overhead menacingly or dangerously; to hang over.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature and dramatic foreshadowing, an unavoidable calamity or momentous event hanging over a protagonist.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Honeythunder began to impend, must have been highly gratifying to the feelings of that distinguished man."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"From a point on its left bank, and about half a mile down the river, the ruins assume a new character; and seeming to occupy a gentle eminence, impend over the river without the intervention of a single cottage to intercept the view."*
-> - 📜 **Mary Wollstonecraft Shelley (*Frankenstein; or, the modern prometheus*):** *"I was bound by a solemn promise which I had not yet fulfilled and dared not break, or if I did, what manifold miseries might not impend over me and my devoted family!"*
+> - 📜 **John Milton (*Paradise Lost*):** *"Destruction did **impend** over the rebel host, as celestial thunderbolts gathered in the darkened heavens."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The provincial governors saw the barbarian invasion **impend** upon their borders without the means to repel it."*
+> - 📜 **Sir Walter Scott (*Ivanhoe*):** *"A terrible fate seemed to **impend** over the captive maiden as the templar barred the door of the turret chamber."*

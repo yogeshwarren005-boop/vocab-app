@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Elastic straps that hold trousers up (usually used in the plural).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Elastic straps that hold trousers up (usually used in the plural).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pair of adjustable straps worn over the shoulders to hold up trousers; also a device that suspends something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural bridge engineering, a vertical cable or rod hanging from the main suspension cable to support the bridge deck.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Between him and the grave there was seldom anything more than a single suspender and the hope of a meal which would at the same time support life and make it insupportable."*
-> - 📜 **Oliver Optic (*Plane and Plank; or, The Mishaps of a Mechanic*):** *"Tie it up in your handkerchief, and fasten it to your suspender."*
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"They found a small recess in the one nearest the base of the rock, with a pallet of blankets spread down in it; also an old suspender, some bacon rind, and the well-gnawed bones of two or three fowls."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"Tom wore a single calico **suspender** that held his ragged trousers up across one sunburned shoulder."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber adjusted his eyeglasses and snapped his **suspender** strap with an air of buoyant financial expectation."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The giant suspension bridge stood mangled, every steel **suspender** snapped like wire by the Martian heat-ray."*

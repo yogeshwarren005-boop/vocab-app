@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of scolopacidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of scolopacidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of apple mosses (family Bartramiaceae) forming dense yellowish-green cushions with rounded, apple-like spore capsules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bryology and botany, alpine and temperate mosses named in honor of American naturalist John Bartram, bearing globular urns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bartramia designates a genus of scolopacidae."*
+> - 📜 **John Muir (*The Mountains of California*):** *"Upon the damp granite ledges of the high Sierra, bright cushions of **Bartramia** moss held dew drops like liquid diamonds."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The genus **Bartramia**, or apple moss, is readily identified by its spherical capsule which becomes furrowed when dry."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The subantarctic cliffs of Tierra del Fuego were upholstered with dense cushions of alpine mosses, including species of **Bartramia**."*

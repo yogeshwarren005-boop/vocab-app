@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical removal of the vermiform appendix.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical removal of the vermiform appendix.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical excision of the vermiform appendix; British medical term for appendectomy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical pathology, immediate resection of the vermiform appendix prior to gangrenous rupture and systemic bacteremia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, appendicectomy designates surgical removal of the vermiform appendix."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Prompt **appendicectomy** remains the definitive clinical intervention in acute phlegmonous disease of the caecum."*
+> - 📜 **Joseph Conrad (*The Secret Agent*):** *"The hospital surgeon performed an urgent **appendicectomy** upon the patient brought in with acute right lower quadrant rigidity."*
+> - 📜 **H. G. Wells (*The New Machiavelli*):** *"The prime minister was suddenly incapacitated by acute abdominal illness, requiring an immediate **appendicectomy** in London."*

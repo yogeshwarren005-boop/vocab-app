@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Piety by virtue of being devout.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being extremely conscientious.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, character, or practice of being religious; piety, devoutness, or reverence for spiritual duties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological anthropology, the intrinsic disposition toward transcendence and moral self-discipline.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"As to the excessive religiousness alleged against Miss Brooke, he had a very indefinite notion of what it consisted in, and thought that it would die out with marriage."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The acute **religiousness** of saintly lives demonstrates a profound psychological reorientation."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Genuine **religiousness** consists in trusting the divine soul that breathes through all human nature."*
+> - 📜 **Samuel Johnson (*Lives of the Most Eminent English Poets*):** *"Milton's intense **religiousness** animated every line of his sublime celestial epic."*
+

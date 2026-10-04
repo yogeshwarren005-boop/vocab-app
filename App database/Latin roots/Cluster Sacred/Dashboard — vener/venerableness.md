@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of deserving veneration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of deserving veneration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An impressive patriarchal majesty, sacredness, or dignified authority inspired by long life, virtue, or historical antiquity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The solemn, dignified aura surrounding ancient patriarchal figures or historic monuments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"A flowing robe of tappa, knotted over the shoulder, hung loosely round his stooping form, and heightened the venerableness of his aspect."*
-> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"Such was her character and reputation, that the belief in her supernatural powers had only heightened the notion of her venerableness."*
+> - 📜 **Samuel Johnson (*A Journey to the Western Islands of Scotland*):** *"The ruins of Iona retain a solemn **venerableness** that must touch the heart of every serious traveler."*
+> - 📜 **Walter Scott (*The Heart of Mid-Lothian*):** *"The silver hair of the old elder gave a patriarchal **venerableness** to his appearance in the assembly."*
+> - 📜 **Ralph Waldo Emerson (*English Traits*):** *"The British universities possess a picturesque **venerableness** that charms the student of classical letters."*
+

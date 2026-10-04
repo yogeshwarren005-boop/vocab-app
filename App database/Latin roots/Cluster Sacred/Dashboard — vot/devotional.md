@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A short religious service.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to worship.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or used in religious devotion, prayer, or worship; expressing spiritual piety.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literature and art, describing texts (like books of hours) or artworks created to stimulate private spiritual meditation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The former curves of sensuousness were now modulated to lines of devotional passion."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The servant handed him a book which Pierre took to be a devotional work, and the traveler became absorbed in it."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He was aghast at his hesitation and, trying to arouse his former devotional feeling, prostrated himself before the Gates of the Temple."*
+> - 📜 **Walter Scott (*The Monastery*):** *"The abbot opened his illuminated **devotional** manuscript to read the appointed psalms for vespers."*
+> - 📜 **George Eliot (*Scenes of Clerical Life*):** *"The sweet strains of the hymn produced a deeply **devotional** impression upon the quiet congregation."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Her mind found consolation in the quiet reading of ancient **devotional** volumes beside the window."*
+

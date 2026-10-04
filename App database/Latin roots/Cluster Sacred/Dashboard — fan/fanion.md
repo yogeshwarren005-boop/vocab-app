@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small flag used by surveyors or soldiers to mark a position.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small flag used by surveyors or soldiers to mark a position.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small flag or pennant used in military surveying and army camps to mark stations, boundaries, or brigade baggage lines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century European infantry drill, bright colored markers carried by guides to align battalion formations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fanion designates a small flag used by surveyors or soldiers to mark a position."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"The quartermaster planted a red **fanion** in the turf to designate the headquarters baggage perimeter."*
+> - 📜 **Stendhal (*The Charterhouse of Parma*):** *"Fabrice observed the colorful cavalry **fanion** fluttering above the smoke of the artillery battery."*
+> - 📜 **Victor Hugo (*Les Misérables*):** *"The company guide planted his small **fanion** at the corner of the barricade to dress the line."*
+

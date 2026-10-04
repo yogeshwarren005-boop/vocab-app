@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to deism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to deism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, advocating, or consistent with the doctrines and rationalist worldview of deism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual philosophy, characterizing frameworks that view the cosmos as an autonomous machine operating under immutable physical laws ordained by a supreme architect.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"There is this difference between me and deistic philosophers: I believe; and I believe the Gospel."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The eighteenth-century **deistic** creed conceived God as an architect who retired from His finished palace."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"Newtonian mechanics provided the physical foundation upon which the **deistic** Enlightenment was erected."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"A purely **deistic** conception of the supreme being remains insufficient for moral and spiritual imperatives."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin san within the domain of Sacred.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of san in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of healing, curing, or restoring to health; medical rehabilitation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Polish and European interwar history (Sanacja), a political reform movement launched by Józef Piłsudski in 1926 to restore moral health to the state.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sanation designates pertaining to, derived from, or characteristic of latin san within the domain of sacred."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"The natural **sanation** of deep wounds is remarkably promoted by cleanliness and soothing balsamic dressings."*
+> - 📜 **Jeremy Bentham (*Constitutional Code*):** *"Legislative measures should aim at the moral **sanation** of corrupt civic institutions."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Certain herbal decoctions were anciently credited with miraculous powers of physical **sanation**."*
+

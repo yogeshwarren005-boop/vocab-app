@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an insane manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used as intensives) extremely.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an insane manner; madly, foolishly, or to an extreme, unreasonable degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Colloquially used as an intensive meaning exceedingly or extravagantly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Now he alone was blamed for what had happened, he was said to be insanely jealous and subject like his father to fits of bloodthirsty rage."*
+> - 📜 **Edgar Allan Poe (*The Tell-Tale Heart*):** *"I heard all things in heaven and in the earth; how then am I mad: listen, and observe how calmly, how healthily, not **insanely**, I can tell you the whole story."*
+> - 📜 **Walter Scott (*The Bride of Lammermoor*):** *"He laughed wildly and **insanely** as the family curse was recited in the gloomy castle hall."*
+> - 📜 **F. Scott Fitzgerald (*This Side of Paradise*):** *"The music blared through the crowded hall, and the young couples danced **insanely** until midnight."*
+

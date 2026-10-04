@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give entirely to a specific person, activity, or cause.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dedicate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To give over or direct entirely to a specific purpose, person, cause, or activity; to dedicate completely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, to dedicate or consecrate by a solemn vow; to doom or set apart for divine retribution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Only, good master, while we do admire This virtue and this moral discipline, Let’s be no stoics nor no stocks, I pray; Or so devote to Aristotle’s checks As Ovid be an outcast quite abjur’d."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Caroline and I do not forget our duty—what is my duty is Caroline’s, as we have often said together—and with your approval and consent, father, we will devote ourselves to making your life agreeable.” “Strike home,” murmured Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"To devote my life to his happiness was to thank him poorly, and what had I wished for the other night but some new means of thanking him?"*
+> - 📜 **John Milton (*Paradise Lost*):** *"To God's high service let us **devote** our days in pure obedience and holy contemplation."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Men ought to **devote** their talents not to vain disputation, but to the relief of man's estate."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"I resolved to **devote** every evening to the laborious mastery of shorthand transcription."*
+

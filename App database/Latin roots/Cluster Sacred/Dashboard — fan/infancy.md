@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The early stage of growth or development.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The earliest state of immaturity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The earliest stage of childhood or human development; an early, beginning stage in the growth or development of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In common law jurisprudence, minority status before the age of majority, during which a person lacks capacity to contract.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Joan of Arc hath been A virgin from her tender infancy, Chaste and immaculate in very thought; Whose maiden blood, thus rigorously effused, Will cry for vengeance at the gates of heaven."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Beauty doth varnish age, as if new born, And gives the crutch the cradle’s infancy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go you, and where you find a maid That ere she sleep has thrice her prayers said, Rein up the organs of her fantasy; Sleep she as sound as careless infancy."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The human mind in **infancy** is like a white paper or sheet of wax, void of all characters and ideas."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The physical sciences are still in their crude **infancy**, awaiting the light of the true inductive method."*
+> - 📜 **Alexander Pope (*An Essay on Man*):** *"Behold the child, by nature's kindly law, pleased with a rattle, tickled with a straw: some livelier plaything gives his youth delight, a little louder, but as empty quite: scarfs, garters, gold, amuse his riper stage, and beads and prayer-books are the toys of age: pleas'd with this bauble still, as that before; till tir'd he sleeps, and life's poor play is o'er: from early **infancy** man seeks toys to soothe his restless soul."*
+

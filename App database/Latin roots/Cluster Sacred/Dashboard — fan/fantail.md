@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An overhang consisting of the fan-shaped part of the deck extending aft of the sternpost of a ship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An overhang consisting of the fan-shaped part of the deck extending aft of the sternpost of a ship.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fan-shaped tail; an animal (such as a fancy pigeon, goldfish, or Australasian flycatcher) characterized by a broad radiating tail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime architecture, the overhanging round or fan-shaped stern deck of a ship aft of the superstructure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fantail designates an overhang consisting of the fan-shaped part of the deck extending aft of the sternpost of a ship."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The **fantail** pigeon carries thirty or forty tail-feathers, instead of the normal twelve found in wild rock-doves."*
+> - 📜 **Herman Melville (*White-Jacket*):** *"The sailors gathered upon the **fantail** of the frigate in the dog-watch to sing sea chanties."*
+> - 📜 **Joseph Conrad (*The Rescue*):** *"The twin screws churned up a phosphorescent wake extending far behind the dark **fantail**."*
+

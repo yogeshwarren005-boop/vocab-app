@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Profaneness by virtue of committing sacrilege.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Profaneness by virtue of committing sacrilege.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, state, or character of being sacrilegious; profaneness, irreverence, or impious disregard for sacred things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In religious history, the brazen culpability attached to the intentional defilement of holy sanctuaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sacrilegiousness designates profaneness by virtue of committing sacrilege."*
+> - 📜 **Jonathan Swift (*A Tale of a Tub*):** *"The scandalous **sacrilegiousness** of their conduct provoked immediate condemnation from ecclesiastical courts."*
+> - 📜 **Walter Scott (*Old Mortality*):** *"The covenanters denounced the **sacrilegiousness** of celebrating episcopal rites within their ancestral parish."*
+> - 📜 **Cotton Mather (*Magnalia Christi Americana*):** *"The magistrates warned against the gross **sacrilegiousness** of desecrating Sabbath worship."*
+

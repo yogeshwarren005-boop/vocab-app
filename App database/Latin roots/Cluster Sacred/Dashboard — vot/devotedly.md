@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With devotion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With devotion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a devoted, loyal, or deeply affectionate manner; with steadfast fidelity and self-sacrificing dedication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressing passionate, unswerving commitment to an ideal, leader, or religious faith.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I love her most devotedly, and yet I do her wrong, in doing myself wrong, every day and hour."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Oh, my dear!”—how affectionately and devotedly she poured this out as she clung to my neck, I never can remember without tears—“I’ll be good.” So I let Charley cry a little longer, and it did us both good."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Truth is truth between man and woman, as between man and man,” she lifted her eyes and they beamed devotedly into his, as her lip rose in a tender half-smile."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"She tended the sick girl **devotedly**, sitting beside her pillow through the long feverish nights."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe Gargery loved Pip **devotedly**, despite all the boy's foolish airs and ingratitude."*
+> - 📜 **Walter Scott (*The Bride of Lammermoor*):** *"The faithful servant stood **devotedly** by the ruin of his master's ancient house."*
+

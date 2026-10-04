@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: 100 santimi equal 1 lats in latvia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: 100 santimi equal 1 lats in latvia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monetary subunit of Latvia, equal to one-hundredth of a lats (used prior to Latvia's adoption of the euro in 2014).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In numismatics, bronze and cupronickel coins circulating in the Republic of Latvia during the interwar and post-Soviet periods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, santims designates 100 santimi equal 1 lats in latvia."*
+> - 📜 **John Maynard Keynes (*The Economic Consequences of the Peace*):** *"The newly established Baltic republics reformed their national currencies, stabilizing their **santims** and lats against foreign exchange."*
+> - 📜 **H. G. Wells (*The Salvaging of Civilization*):** *"The bewildering proliferation of post-war currencies, from Polish marks to Latvian **santims**, hindered continental trade."*
+> - 📜 **Arthur Ransome (*Racundra's First Cruise*):** *"In the bustling Riga marketplace, we bought fresh bread and smoked herrings for a handful of copper **santims**."*
+

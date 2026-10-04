@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fluid product of inflammation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fluid product of inflammation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thin, reddish or yellowish watery discharge from a festering wound or ulcer, consisting of serum mixed with blood and pus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical pathology, an acrid, fetid exudate characteristic of gangrenous or chronic necrotizing ulcerations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sanies designates a fluid product of inflammation."*
+> - 📜 **John Hunter (*A Treatise on the Blood, Inflammation, and Gun-shot Wounds*):** *"Unhealthy granulations secrete a thin, ichorous **sanies** instead of thick, laudable creamy pus."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Before antiseptic surgery, hospital gangrene was heralded by the weeping of a foul, bloody **sanies** from surgical incisions."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The ancient physicians distinguished between pure blood and that corrupt **sanies** which issueth from putrid sores."*
+

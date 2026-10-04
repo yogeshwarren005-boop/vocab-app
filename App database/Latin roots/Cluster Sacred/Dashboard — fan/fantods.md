@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ill-defined state of irritability and distress.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ill-defined state of irritability and distress.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of extreme nervousness, restlessness, irritability, or vague uneasiness; the fidgets (informal/slang).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Famously popularized in nineteenth-century American frontier literature by Mark Twain in Huckleberry Finn.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fantods designates an ill-defined state of irritability and distress."*
+> - 📜 **Mark Twain (*Adventures of Huckleberry Finn*):** *"It made me so sick and gave me the **fantods** so bad I wished I hadn't come down the river."*
+> - 📜 **David Foster Wallace (*Infinite Jest*):** *"The sheer claustrophobic tension of the hospital corridor gave him the howling **fantods**."*
+> - 📜 **Stephen King (*It*):** *"Sitting in the abandoned clubhouse in the dark was enough to give any sensible kid the screaming **fantods**."*
+

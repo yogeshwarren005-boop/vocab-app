@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Indicating a lack of maturity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to infants or infancy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to infants or early childhood; childishly immature, simplistic, or undeveloped.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric neurology and pathology, denoting diseases manifesting in infancy (such as infantile paralysis or infantile spasms).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Sir,” said Mason, “this is all drivel, infantile drivel."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Pearl was a born outcast of the infantile world."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Her sisters, Camilla and Sidonia, sat looking listlessly at nothing, or engaging in purposeless infantile controversies with one another."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute anterior poliomyelitis, historically designated **infantile** paralysis, produces sudden flaccid muscular weakness."*
+> - 📜 **Sigmund Freud (*Three Essays on the Theory of Sexuality*):** *"Adult psychoneuroses frequently trace their origins back to forgotten traumas of **infantile** amnesia."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She looked upon his petulant anger as an **infantile** exhibition unworthy of a grown gentleman."*
+

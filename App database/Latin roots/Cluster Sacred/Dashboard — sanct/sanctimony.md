@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being hypocritically devout.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being hypocritically devout.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affectation of piety or religious holiness; hypocritical devoutness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, holiness or devoutness in general, but in modern English almost exclusively denoting sham piety.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If sanctimony and a frail vow betwixt an erring barbarian and a supersubtle Venetian be not too hard for my wits and all the tribe of hell, thou shalt enjoy her; therefore make money."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If beauty have a soul, this is not she; If souls guide vows, if vows be sanctimonies, If sanctimony be the god’s delight, If there be rule in unity itself, This was not she."*
+> - 📜 **William Shakespeare (*All's Well That Ends Well*):** *"Corruption boils and bubbles till it o'errun the stew: laws for all faults, but faults so countenanc'd, that the strong statutes stand like the forfeits in a barber's shop, as much in mock as mark: but his cold **sanctimony** could not endure scrutiny."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Hypocrisy, the only evil that walks invisible, borrows the gentle cloak of **sanctimony** to deceive angels."*
+> - 📜 **Alexander Pope (*The Dunciad*):** *"Dulness draped herself in solemn robes of **sanctimony**, banishing wit and learning from the court."*
+

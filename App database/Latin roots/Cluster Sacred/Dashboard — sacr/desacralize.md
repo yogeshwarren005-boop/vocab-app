@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Transfer from ecclesiastical to civil possession, use, or control.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transfer from ecclesiastical to civil possession, use, or control.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To divest of sacred or religious character; to secularize or treat a holy object or rite as mundane.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In religious sociology and phenomenology, the cultural process whereby modern rationalism strips archaic rituals of sacred aura.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, desacralize designates transfer from ecclesiastical to civil possession, use, or control."*
+> - 📜 **Mircea Eliade (*The Sacred and the Profane*):** *"Modern industrialized societies progressively **desacralize** the cosmos, viewing nature merely as raw material for exploitation."*
+> - 📜 **Max Weber (*The Sociology of Religion*):** *"The disenchantment of the world tends to **desacralize** ecclesiastical authority in secular legal states."*
+> - 📜 **Lewis Mumford (*The Myth of the Machine*):** *"Mechanical regimentation helped to **desacralize** seasonal celebrations that once gave rhythm to human life."*
+

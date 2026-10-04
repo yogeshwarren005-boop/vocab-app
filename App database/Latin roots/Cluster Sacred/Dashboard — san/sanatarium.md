@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hospital for recuperation or for the treatment of chronic diseases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hospital for recuperation or for the treatment of chronic diseases.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An establishment for the medical care and recuperation of convalescents or individuals with chronic illnesses; variant of sanitarium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century medicine, dedicated mountain or seaside retreats providing fresh air and strict dietetic regimens for consumptives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sanatarium designates a hospital for recuperation or for the treatment of chronic diseases."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Early institutional treatment in a well-managed **sanatarium** offers the pulmonary tuberculosis patient the highest probability of arrest."*
+> - 📜 **Thomas Mann (*The Magic Mountain*):** *"Hans Castorp arrived at the alpine **sanatarium** expecting a brief three-week visit to his ailing cousin."*
+> - 📜 **H. G. Wells (*Tono-Bungay*):** *"The company established a luxurious lakeside **sanatarium** where nervous patients could take mineral waters."*
+

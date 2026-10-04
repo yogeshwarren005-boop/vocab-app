@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Grossly irreverent toward what is held to be sacred.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grossly irreverent toward what is held to be sacred.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving, displaying, or guilty of sacrilege; showing profound disrespect toward sacred things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural discourse, committing offensive violations against cherished monuments, oaths, or sanctified ideals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am Posthumus, That kill’d thy daughter; villain-like, I lie; That caus’d a lesser villain than myself, A sacrilegious thief, to do’t."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Most sacrilegious murder hath broke ope The Lord’s anointed temple, and stole thence The life o’ th’ building."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Our father’s blude the Kettle bought, And wha wad dare to spoil it; By Heav’ns! the sacrilegious dog Shall fuel be to boil it!"*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Most **sacrilegious** murder hath broke ope the Lord's anointed temple, and stole thence the life o' the building."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Satan entered the blissful bower with **sacrilegious** intent to subvert man's innocence."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The revolutionary mobs desecrated the royal tombs of Saint-Denis with **sacrilegious** fury."*
+

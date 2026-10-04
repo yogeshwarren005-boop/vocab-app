@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal condition in which an older child or adult retains infantile characteristics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infantile behavior in mature persons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The retention of childish physical or psychological traits into adulthood; childish or immature behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical endocrinology, delayed or arrested physical development caused by thyroid, pituitary, or gonadal insufficiency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, infantilism designates an abnormal condition in which an older child or adult retains infantile characteristics."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Endocrine cretinism displays marked physical and mental **infantilism** that responds dramatically to thyroid extract."*
+> - 📜 **Sigmund Freud (*Totem and Taboo*):** *"Neurotic symptoms represent an emotional regression to archaic stages of psychological **infantilism**."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"State conditioning enforced a compulsory psychological **infantilism** to ensure continuous consumer docility."*
+

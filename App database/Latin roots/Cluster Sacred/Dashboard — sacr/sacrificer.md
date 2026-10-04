@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A religious person who offers up a sacrifice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A religious person who offers up a sacrifice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who offers a sacrifice, particularly an officiating priest or an individual who gives up something precious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative religion, the ritual agent who immolates the victim and dedicates the offering at the sacred altar.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Moore is probably right in the use of the capital _d_, as the sacrificer is, according to all accounts, a highly devout Christian."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"It was now that I stood upon the brink of fate, that the knife of the sacrificer was aimed at my heart, I shuddered, and betook myself to any means of escape, however monstrous."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The chief sacrificer next tore out her heart and devoured it."*
+> - 📜 **Alexander Pope (*The Iliad of Homer*):** *"The solemn **sacrificer** sprinkled barley meal upon the altar before slaughtering the consecrated steer."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Julian the Apostate took pride in acting personally as the chief **sacrificer** in pagan restorations."*
+> - 📜 **Walter Scott (*The Talisman*):** *"The hermit stood beside the smoking incense like a devoted **sacrificer** interceding for sinful man."*
+

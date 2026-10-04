@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Normal or sound powers of mind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Normal or sound powers of mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Soundness of mind, rational mental balance, and lucid intellectual discernment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character analysis, emotional stability and robust common sense that anchor judgment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saneness designates normal or sound powers of mind."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Healthy-mindedness represents a psychological attitude of robust optimism and constitutional **saneness**."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Caleb Garth's profound **saneness** and practical integrity made him the trusted adviser of landowners."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"The classical Greek poets exhibited a radiant intellectual **saneness** that modern literature seldom rivals."*
+

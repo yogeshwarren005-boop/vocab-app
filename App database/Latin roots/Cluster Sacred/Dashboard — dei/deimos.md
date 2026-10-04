@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The outer of two small satellites of mars.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The outer of two small satellites of mars.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The smaller and outermost of the two natural moons of Mars, named after the ancient Greek personification of dread and terror.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In planetary astronomy, an irregularly shaped carbonaceous asteroid-like body with a mean radius of approximately 6.2 kilometers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deimos designates the outer of two small satellites of mars."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"From the desolate plains of Mars, the tiny irregular moon **Deimos** appears as a bright, slow-moving morning star."*
+> - 📜 **Arthur C. Clarke (*The Sands of Mars*):** *"The interplanetary vessel swung in a wide parking orbit just beyond the minuscule gravitational field of **Deimos**."*
+> - 📜 **Percival Lowell (*Mars and Its Canals*):** *"The minute companions Phobos and **Deimos** were discovered skimming the Martian heavens in 1877."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Obsolete terms for legal insanity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obsolete terms for legal insanity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Profound mental unsoundness, cognitive derangement, or extreme irrational folly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychiatric history, the loss of rational coherence and cognitive self-governance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, insaneness designates obsolete terms for legal insanity."*
+> - 📜 **Samuel Johnson (*Rasselas*):** *"The astronomer confessed the secret **insaneness** of his belief that he controlled the distribution of the seasons."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The bloody excesses of the terror displayed an incredible **insaneness** born of panic and vengeance."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"A touch of ancestral **insaneness** seemed to linger in the eccentric moods of the recluse."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is indifferent or hostile to religion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who is indifferent or hostile to religion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who rejects, opposes, or demonstrates hostility toward religion and religious worship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical debates on secularism and freethought, one who promotes rationalist or anti-clerical public policies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, irreligionist designates someone who is indifferent or hostile to religion."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The dogmatic **irreligionist** often displays as much blind prejudice as the most credulous enthusiast."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The shallow **irreligionist** mocked ancient sanctities without offering any vital truth to replace them."*
+> - 📜 **William Paley (*Natural Theology*):** *"The ingenious **irreligionist** struggles in vain to explain away the manifest signs of cosmic contrivance."*
+

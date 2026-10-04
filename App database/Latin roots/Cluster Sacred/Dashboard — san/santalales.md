@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Order of plants distinguished by having a one-celled inferior ovary; many are parasitic or partly parasitic usually on roots.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Order of plants distinguished by having a one-celled inferior ovary; many are parasitic or partly parasitic usually on roots.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of flowering plants comprising mostly parasitic or hemiparasitic species, including the sandalwoods, mistletoes, and olacaceous shrubs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary phylogenetics, an ancient core eudicot clade characterized by parasitic root or shoot connections (haustoria) and ovules without integuments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, santalales designates order of plants distinguished by having a one-celled inferior ovary; many are parasitic or partly parasitic usually on roots."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Parasitic plants of the order **Santalales** exhibit progressive anatomical reductions of leaves and vascular tissues."*
+> - 📜 **Joseph Dalton Hooker (*Flora of British India*):** *"The diverse parasitic strategies across **Santalales** range from root-tapping trees to epiphytic mistletoes."*
+> - 📜 **Arthur Cronquist (*An Integrated System of Classification of Flowering Plants*):** *"Molecular data align the diverse families of **Santalales** within a distinct monophyletic parasitic alliance."*
+

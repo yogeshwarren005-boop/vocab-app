@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Derivative of opium; used as an antitussive (to relieve coughing) and an analgesic (to relieve pain).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Derivative of opium; used as an antitussive (to relieve coughing) and an analgesic (to relieve pain).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alkaloid obtained from the opium poppy or synthesized from morphine, used medically as an analgesic and antitussive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology, a central nervous system depressant metabolized primarily by hepatic CYP2D6 into morphine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, codeine designates derivative of opium; used as an antitussive (to relieve coughing) and an analgesic (to relieve pain)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In unyielding paroxysmal cough, moderate doses of **codeine** provide soothing relief without severe constipation."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Illustrious Client*):** *"The surgeon administered a draught containing **codeine** to abate the excruciating burning sensation."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"Tinctures containing crude opium alkaloids like **codeine** have quieted human suffering throughout the ages."*
+

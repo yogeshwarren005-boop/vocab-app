@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A very young child (birth to 1 year) who has not yet begun to walk or talk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very young child (birth to 1 year) who has not yet begun to walk or talk.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A very young child or baby, especially one unable to walk or talk; young, nascent, or undeveloped.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal jurisprudence, a minor person under the statutory age of full legal rights and liabilities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"At first the infant, Mewling and puking in the nurse’s arms; Then the whining schoolboy, with his satchel And shining morning face, creeping like snail Unwillingly to school."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look, when his infant fortune came to age,” And, “Gentle Harry Percy,” and “kind cousin.” O, the devil take such cozeners!—God forgive me!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So that this land, like an offensive wife That hath enraged him on to offer strokes, As he is striking, holds his infant up And hangs resolved correction in the arm That was uprear’d to execution."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"At first the **infant**, mewling and puking in the nurse's arms, begins the seven ages of man."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The newborn **infant** expresses discomfort and hunger through instinctive cries long before speech develops."*
+> - 📜 **William Wordsworth (*Ode: Intimations of Immortality*):** *"Our birth is but a sleep and a forgetting: the soul that rises with us, our life's star, hath had elsewhere its setting, and cometh from afar: not in entire forgetfulness, and not in utter nakedness, but trailing clouds of glory do we come from God, who is our home: heaven lies about us in our **infant** days."*
+

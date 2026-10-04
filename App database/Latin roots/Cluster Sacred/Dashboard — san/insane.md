@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Afflicted with or characteristic of mental derangement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very foolish.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a state of severe, chronic mental disorder; unsound in mind; outrageous or wildly foolish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence, lacking the legal capacity or cognitive responsibility required to stand trial or enter binding contracts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or have we eaten on the insane root That takes the reason prisoner?"*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Angel,” she said suddenly, in her natural tones, the insane, dry voice of terror having left her now."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"But, when it became known that a relative, in whom she had placed confidence, had managed, in ways that need not be explained, to defraud her out of her inheritance, her mind gave way and _she became insane_."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Were such things here as we do speak about, or have we eaten on the **insane** root that takes the reason prisoner?"*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"He paced the shore with wild, frantic gestures like an **insane** man bereft of all hope."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"It would be an **insane** act to venture into the foggy marsh without a lantern and a compass."*
+

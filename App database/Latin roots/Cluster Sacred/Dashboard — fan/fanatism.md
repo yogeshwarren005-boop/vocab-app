@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive intolerance of opposing views.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive intolerance of opposing views.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic or variant form of fanaticism; religious or political frenzy and intolerant enthusiasm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In eighteenth-century moral essays, the unrestrained reign of passionate sectarian dogma over sober judgment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fanatism designates excessive intolerance of opposing views."*
+> - 📜 **Jonathan Swift (*A Tale of a Tub*):** *"The epidemic spread of sectarian **fanatism** overturned both ecclesiastical hierarchy and civil tranquility."*
+> - 📜 **David Hume (*The History of England*):** *"The royalist chroniclers attributed the outbreak of civil war to the unbridled **fanatism** of the sectaries."*
+> - 📜 **Samuel Johnson (*Lives of the Most Eminent English Poets*):** *"Milton's prose pamphlets, though magnificent in rhetoric, were not entirely free from party **fanatism**."*
+

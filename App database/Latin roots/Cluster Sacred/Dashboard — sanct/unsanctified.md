@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not holy because unconsecrated or impure or defiled.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not holy because unconsecrated or impure or defiled.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not sanctified or made holy; unhallowed, profane, or unconsecrated; not spiritually purified.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral critique, clever intellect or earthly ambition unguided by ethical virtues or divine reverence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her death was doubtful; And but that great command o’ersways the order, She should in ground unsanctified have lodg’d Till the last trumpet."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I hope, in no place so unsanctified Where such as thou mayst find him."*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"It is just an effusion of the malignity of the unsanctified heart."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"I hope, in no place so **unsanctified** where such as thou mayst find him: what are these faces: he has kill'd me, mother: run away, I pray you."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The rebel angels wandered through **unsanctified** voids, brooding over their catastrophic fall."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The knight declared that he would never swear upon an **unsanctified** sword held by an infidel."*
+

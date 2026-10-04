@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of not being devout.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of not being devout.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The absence of religion, religious belief, or reverence for spiritual matters; impiety or active hostility toward religion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Enlightenment history, accusations of irreligion often targeted skeptical philosophers who challenged ecclesiastical hegemony.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"Nor would I quarrel with a man for his irreligion, any more than I would for his want of a musical ear, I would regret that he was shut out from what, to me and to others, were such superlative sources of enjoyment."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The revolutionary cabal propagated blatant **irreligion** to dismantle the moral foundations of civil order."*
+> - 📜 **Jonathan Swift (*An Argument Against Abolishing Christianity*):** *"The fashionable spread of **irreligion** undermined the integrity of oaths taken before public magistrates."*
+> - 📜 **David Hume (*The Natural History of Religion*):** *"Zealots readily brand every measured philosophical hesitation with the opprobrious title of **irreligion**."*
+

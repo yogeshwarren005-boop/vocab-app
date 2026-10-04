@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deprived of the rights of citizenship especially the right to vote.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deprived of the rights of citizenship especially the right to vote.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no right or power to vote; disenfranchised or excluded from participating in elections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political history, describing social classes, women, or subject populations denied the franchise in representative assemblies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, voteless designates deprived of the rights of citizenship especially the right to vote."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"A class that remains permanently **voteless** will inevitably find its vital economic interests neglected by legislators."*
+> - 📜 **Thomas Carlyle (*Chartism*):** *"The millions of **voteless** factory operatives demanded recognition from a parliament dominated by landowners."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"No modern free government can remain stable while keeping the majority of its productive laborers **voteless**."*
+

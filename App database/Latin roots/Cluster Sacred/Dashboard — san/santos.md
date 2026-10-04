@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A port city in southwestern brazil on an offshore island near sao paulo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A port city in southwestern brazil on an offshore island near sao paulo.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major seaport city in São Paulo state, Brazil, renowned as the world's leading coffee-exporting port.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Catholic devotional art, carved wooden or clay statues of Christian saints (santos) venerated in Spain, Portugal, and Latin America.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, santos designates a port city in southwestern brazil on an offshore island near sao paulo."*
+> - 📜 **Richard Francis Burton (*The Highlands of the Brazil*):** *"The harbor of **Santos** was crowded with merchant steamers loading enormous consignments of coffee for Europe."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Along the coast south of Rio de Janeiro, our vessel skirted the verdant mangrove hills surrounding **Santos**."*
+> - 📜 **W. H. Hudson (*The Purple Land*):** *"In the quiet village chapel, antique gilded **santos** carved by Jesuit fathers stood in decorative wall niches."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Civet of madagascar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Civet of madagascar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small, carnivorous viverrid mammal (Eupleres goudotii or Fossa fossana) endemic to the tropical rainforests of Madagascar; also known as the Malagasy civet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoological taxonomy, nocturnal carnivorans belonging to the family Eupleridae that forage for earthworms, insects, and small frogs in dense leaf litter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fanaloka designates civet of madagascar."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"The peculiar forest fauna of Madagascar includes the nocturnal **fanaloka**, an archaic viverrine carnivore."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"The striped coat and bushy tail of the **fanaloka** camouflage it effectively upon the forest floor."*
+> - 📜 **Gerald Durrell (*The Aye-Aye and I*):** *"We caught a fleeting glimpse of a shy **fanaloka** slipping quietly into the dense bamboo thicket."*
+

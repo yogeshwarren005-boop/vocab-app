@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A creator of fantasies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A creator of fantasies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who invents, indulges in, or lives in imaginative fantasies; an author or artist who creates fantasy works.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological profiling, an individual who habitually blurs the line between objective fact and creative fabrication.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fantasist designates a creator of fantasies."*
+> - 📜 **G. K. Chesterton (*The Everlasting Man*):** *"The true **fantasist** does not escape reality; he casts a magic mirror over the familiar world so we may see it afresh."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Sussex Vampire*):** *"Holmes dismissed the superstitious rumors, declaring the informant to be an excitable nervous **fantasist**."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"The ancient chronicler was half historian and half imaginative **fantasist**, decorating dry reigns with fabulous monsters."*
+

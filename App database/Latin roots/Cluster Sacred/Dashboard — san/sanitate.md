@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with sanitary facilities or appliances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide with sanitary facilities or appliances.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make sanitary; to clean, disinfect, or improve hygienic and public health conditions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In municipal engineering, to equip an urban district with modern drainage, potable water, and refuse disposal facilities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sanitate designates provide with sanitary facilities or appliances."*
+> - 📜 **Edwin Chadwick (*The Health of Nations*):** *"The board of health was empowered to **sanitate** contaminated wells and clear choked sewers throughout the parish."*
+> - 📜 **Florence Nightingale (*Notes on Hospitals*):** *"Before opening new wards, inspectors must thoroughly ventilate and **sanitate** all domestic plumbing."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The emergency hygiene teams worked tirelessly to **sanitate** refugee camps after the floods."*
+

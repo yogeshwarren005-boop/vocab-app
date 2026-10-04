@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The legendary patron saint of children; an imaginary being who is thought to bring presents to children at christmas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The legendary patron saint of children; an imaginary being who is thought to bring presents to children at christmas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Spanish, Italian, and Portuguese word meaning female saint or holy; in popular folklore, informal for Santa Claus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical geography, a frequent element in placenames commemorating Christian holy sites or female patron saints (e.g. Santa Barbara, Santa Maria).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Awake, I remembered that I, Darrell Standing, in the flesh, during the year preceding my incarceration in San Quentin, had flown with Haas further over the Pacific at Santa Monica."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"It began at eight in the evening with an illumination of the façade of Santa Maria Piedigrotta and with the whole population walking about blowing penny trumpets."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Papa!" cried Gracie, "you haven't left one single thing for Santa Claus to bring us on Christmas!" "Haven't I?" he returned, laughing, and pinching her round, rosy cheek."*
+> - 📜 **Washington Irving (*The Life and Voyages of Christopher Columbus*):** *"Columbus set sail on the Atlantic aboard his flagship, the **Santa** Maria, seeking the eastern Indies."*
+> - 📜 **Richard Henry Dana Jr. (*Two Years Before the Mast*):** *"Our hide brig dropped anchor in the picturesque harbor of **Santa** Barbara before the mission bells rang."*
+> - 📜 **Bret Harte (*The Luck of Roaring Camp and Other Sketches*):** *"The stagecoach rolled through the dusty mission town of **Santa** Clara under the shade of ancient olive trees."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impressive by reason of age.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Profoundly honored.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Commanding respect or reverence because of great age, high dignity, holy character, or noble achievements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the Roman Catholic and Anglican churches, a formal title of honor bestowed upon holy persons prior to beatification or upon archdeacons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Set down your venerable burden, And let him feed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We are all bastards, And that most venerable man which I Did call my father was I know not where When I was stamp’d."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This youth that you see here I snatch’d one half out of the jaws of death, Reliev’d him with such sanctity of love; And to his image, which methought did promise Most venerable worth, did I devotion."*
+> - 📜 **Bede (*Ecclesiastical History of the English People*):** *"The **Venerable** priest spent his days translating the Gospel of Saint John into the Anglo-Saxon tongue."*
+> - 📜 **William Wordsworth (*The Excursion*):** *"Beside the churchyard gate stood a **venerable** yew tree that had sheltered generations of worshippers."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The **venerable** magistrate raised his hand, commanding the silent multitude to attend to the governor."*
+

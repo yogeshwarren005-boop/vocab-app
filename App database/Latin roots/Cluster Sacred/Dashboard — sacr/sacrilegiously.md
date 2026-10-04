@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a sacrilegious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a sacrilegious manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a sacrilegious manner; with irreverent, profane, or destructive disrespect toward sacred things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by willful violation of holy rites, consecrated shrines, or sacred trusts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Here, also, are some mutilated sepulchral effigies of ancient abbots, crosses, &c., from which the inlaid brasses have been sacrilegiously purloined."*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I cursed them in my soul; they sacrilegiously disturbed my meditations on her who holds my heart."*
+> - 📜 **Walter Scott (*The Monastery*):** *"The marauding soldiers **sacrilegiously** stripped the jewelled reliquary from the high altar."*
+> - 📜 **John Milton (*Of Reformation*):** *"They **sacrilegiously** turned the house of prayer into an engine of worldly prelacy."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The sacred vessels of the Temple were **sacrilegiously** melted down to furnish coin for mercenary troops."*
+

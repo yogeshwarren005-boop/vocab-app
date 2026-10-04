@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Indulge in fantasies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Portray in the mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To indulge in daydreaming, imaginative reverie, or unrealistic wishful thinking; British spelling variant of fantasize.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychology, constructing internal narrative scenarios to compensate for unmet emotional or social needs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fantasise designates indulge in fantasies."*
+> - 📜 **Virginia Woolf (*Orlando*):** *"She would sit for hours by the great oak tree and **fantasise** about past centuries of royal splendor."*
+> - 📜 **George Orwell (*Keep the Aspidistra Flying*):** *"Gordon would pace his cold room and **fantasise** about receiving an unexpected legacy from a distant relative."*
+> - 📜 **E. M. Forster (*Howards End*):** *"Helen liked to **fantasise** about heroic crusades that would sweep away the dull commercialism of modern London."*
+

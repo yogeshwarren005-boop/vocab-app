@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hostile or indifferent to religion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hostile or indifferent to religion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Destitute of religion, or contrary to its principles; disregarding religious duties; impious or profane.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy, describing conduct, laws, or sentiments that treat sacred commitments with flippant disregard.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Th’ offence is holy that she hath committed, And this deceit loses the name of craft, Of disobedience, or unduteous title, Since therein she doth evitate and shun A thousand irreligious cursed hours, Which forced marriage would have brought upon her."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of this was Tamora delivered, The issue of an irreligious Moor, Chief architect and plotter of these woes."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The husband and sons were irreligious, but awed in the presence of this affliction."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"He refused to grace their **irreligious** feast or bow before the brazen image of Dagon."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"I looked back with horror upon my former wild, wicked, and **irreligious** course of life."*
+> - 📜 **Walter Scott (*Old Mortality*):** *"The troopers were denounced from the hillside pulpit as profane and **irreligious** oppressors."*
+

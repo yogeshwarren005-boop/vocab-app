@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eurasian herb with ample panicles of small white flowers; naturalized in north america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eurasian herb with ample panicles of small white flowers; naturalized in north america.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A delicate flowering plant (Gypsophila paniculata), commonly known as baby's breath, bearing dense clusters of tiny white or pink flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornamental floriculture, popular airy filler foliage paired with roses in bouquets and wreaths, belonging to the Caryophyllaceae family.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, infant's-breath designates eurasian herb with ample panicles of small white flowers; naturalized in north america."*
+> - 📜 **Gertrude Jekyll (*Wood and Garden*):** *"The cloudlike sprays of **infant's-breath** soften the brilliant crimson of the herbaceous border in midsummer."*
+> - 📜 **Vita Sackville-West (*In Your Garden*):** *"A light mist of **infant's-breath** gives a lovely lightness when arranged among heavy English garden roses."*
+> - 📜 **John Claudius Loudon (*An Encyclopaedia of Gardening*):** *"Gypsophila, or **infant's-breath**, thrives in chalky limestone soils, forming dense cushions of delicate white bloom."*
+

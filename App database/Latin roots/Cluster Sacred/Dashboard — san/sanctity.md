@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being holy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being holy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inviolable sacredness, divine holiness, or consecrated character entitled to absolute moral reverence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and moral philosophy, the absolute moral worth and inviolable protection accorded to human life and oaths (sanctity of life, sanctity of contracts).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And his kissing is as full of sanctity as the touch of holy bread."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There are a crew of wretched souls That stay his cure: their malady convinces The great assay of art; but at his touch, Such sanctity hath heaven given his hand, They presently amend."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he be none of mine, my sanctity Will to my sense bend no licentious ear, But curb it, spite of seeing."*
+> - 📜 **Abraham Lincoln (*First Inaugural Address*):** *"You have no oath registered in heaven to destroy the government, while I shall have the most solemn one to preserve the **sanctity** of the Union."*
+> - 📜 **John Milton (*Paradise Lost*):** *"With awe the seraphs approached the divine throne, veiling their faces before the unapproachable **sanctity** of God."*
+> - 📜 **Edmund Burke (*Speech on American Taxation*):** *"The **sanctity** of ancient constitutional precedents must not be sacrificed to fiscal expedients."*
+

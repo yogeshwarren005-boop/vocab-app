@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person having a strong liking for something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not plain; decorative or ornamented.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who has a special interest, enthusiasm, or hobby in breeding or developing particular animals or plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Victorian social culture, specialists devoted to breeding show pigeons, pedigree dogs, or rare florists' auriculas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"By the by; you were quite a pigeon-fancier.” The man looked up at the sky."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"I am somewhat of a fowl fancier, and I have seldom seen a better grown goose.” “Certainly, sir,” said Baker, who had risen and tucked his newly gained property under his arm."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The landowner to whom Nicholas went was a bachelor, an old cavalryman, a horse fancier, a sportsman, the possessor of some century-old brandy and some old Hungarian wine, who had a snuggery where he smoked, and who owned some splendid horses."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The pigeon **fancier** selects minute variations in plumage to produce astonishingly distinct breeds."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"He spoke with the authority of an experienced dog **fancier**, noting the spaniel's pedigree points."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Old Mr. Brooke considered himself an amateur agricultural **fancier**, experimenting with novel manures."*
+

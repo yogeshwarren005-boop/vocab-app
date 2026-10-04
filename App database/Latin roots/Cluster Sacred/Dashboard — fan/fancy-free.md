@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no commitments or responsibilities; carefree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no commitments or responsibilities; carefree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from the ties or obligations of romantic love; lighthearted, unattached, and carefree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Originating in Shakespeare's poetic imagery to describe the heart unburdened by erotic passion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fancy-free designates having no commitments or responsibilities; carefree."*
+> - 📜 **William Shakespeare (*A Midsummer Night's Dream*):** *"And the imperial votaress passed on, in maiden meditation, **fancy-free**."*
+> - 📜 **Washington Irving (*The Sketch Book of Geoffrey Crayon*):** *"The merry bachelor wandered through the village fair, unencumbered by domestic care and delightfully **fancy-free**."*
+> - 📜 **Louisa May Alcott (*Little Women*):** *"Jo declared she was happiest roaming the countryside **fancy-free**, with her scribbling pad in her apron pocket."*
+

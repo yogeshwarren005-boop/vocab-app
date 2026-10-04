@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of deserving veneration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of deserving veneration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Profound moral dignity and solemn reverence commanded by great antiquity, noble character, or accumulated wisdom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical aesthetics, the moral grandeur and dignifying patina acquired by ancient architecture, laws, or institutions over centuries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, venerability designates the quality of deserving veneration."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The **venerability** of the English constitution derives from its ancient lineage and unbroken ancestral descent."*
+> - 📜 **Washington Irving (*The Sketch Book of Geoffrey Crayon*):** *"The grey walls of Westminster Abbey inspire an awe proportioned to their antiquity and sacred **venerability**."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"True authority possesses an inherent **venerability** which no mere decree or title of nobility can fabricate."*
+

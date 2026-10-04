@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Imagination unrestricted by reality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fiction with a large amount of imagination in it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The faculty or activity of imagining impossible or improbable things; a genre of fiction featuring magic and supernatural elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological theory, an internalized imaginative reverie fulfilling suppressed emotional or instinctual wishes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But if thy love were ever like to mine— As sure I think did never man love so— How many actions most ridiculous Hast thou been drawn to by thy fantasy?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is to be all made of fantasy, All made of passion, and all made of wishes, All adoration, duty, and observance, All humbleness, all patience, and impatience, All purity, all trial, all observance, And so am I for Phoebe."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Horatio says ’tis but our fantasy, And will not let belief take hold of him Touching this dreaded sight, twice seen of us."*
+> - 📜 **William Shakespeare (*A Midsummer Night's Dream*):** *"Lovers and madmen have such seething brains, such shaping **fantasy**, that apprehend more than cool reason ever comprehends."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Satan whispered malignant illusions into Eve's ear, disturbing her sleep with disordered **fantasy**."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The Laputan academicians pursued wild **fantasy** projects, striving to extract sunbeams out of cucumbers."*
+

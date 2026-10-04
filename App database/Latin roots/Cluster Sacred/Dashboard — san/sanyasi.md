@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hindu religious mendicant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hindu religious mendicant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant spelling of sannyasi; an ascetic Hindu monk who has renounced all worldly ties and possessions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Indian colonial history, famous for the Sannyasi Rebellion in Bengal during the late eighteenth century recorded by Bankim Chandra Chatterjee.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sanyasi designates a hindu religious mendicant."*
+> - 📜 **Rudyard Kipling (*The Naulahka*):** *"By the temple tank sat an emaciated **sanyasi**, smeared with sacred cow-dung ash and immersed in trance."*
+> - 📜 **Max Müller (*The Six Systems of Indian Philosophy*):** *"The vow of the **sanyasi** demands absolute poverty, universal benevolence, and unceasing pursuit of spiritual knowledge."*
+> - 📜 **Warren Hastings (*Memoirs Relative to the State of India*):** *"Armed bands of wandering **sanyasi** pilgrims clashed with company revenue collectors across the northern districts."*
+

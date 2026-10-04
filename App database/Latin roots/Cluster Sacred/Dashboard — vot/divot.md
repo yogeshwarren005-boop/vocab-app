@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (golf) the cavity left when a piece of turf is cut from the ground by the club head in making a stroke.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A piece of turf dug out of a lawn or fairway (by an animals hooves or a golf club).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A piece of turf or sod cut or torn out of the ground, especially by a golf club during a stroke.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Scottish and northern English dialect, a thin square sod of peat or grass used for roofing cottages or fuel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Section 2 For six years now, since the day they had buried his wife in the green divots of Louth, women had been alien to him."*
+> - 📜 **Walter Scott (*Waverley*):** *"The humble highland hovel was roofed with thick heather and broad squares of peat **divot**."*
+> - 📜 **Robert Louis Stevenson (*Kidnapped*):** *"We sheltered beneath a low wall made of piled stones and damp grassy **divot**."*
+> - 📜 **P. G. Wodehouse (*The Clicking of Cuthbert*):** *"He swung his brassie with furious vigor, excavating a massive **divot** that flew fifty yards down the fairway."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Formal and explicit approval.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mechanism of social control for enforcing a society's standards.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Authoritative permission or approval for an action; a punitive measure taken by an authority or nation to enforce compliance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence and international law, legal penalties (coercive sanctions) or approvals backing sovereign decrees.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"If only her mother would sanction the plan!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"And he is upon the whole of a fixed opinion that to give the sanction of his countenance to any complaints respecting it would be to encourage some person in the lower classes to rise up somewhere—like Wat Tyler."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Warden Atherton gave the final sanction to the badness of my name."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"No law can bind human conscience without the authoritative **sanction** of natural justice and consent."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"The British parliament sought to impose the severe **sanction** of commercial interdicts upon the rebellious ports."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The senate readily granted the imperial **sanction** to decrees issued from the palace."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give sanction to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give authority or permission to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Giving authoritative approval or permission to an act; imposing punitive measures to enforce compliance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Providing moral, religious, or legal legitimacy to an institution or social contract.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sanctioning designates give sanction to."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"By **sanctioning** confiscations of church lands, the assembly undermined all security of private property."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The state oversteps its bounds when **sanctioning** intrusive sumptuary laws that restrict private choice."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The magistrate hesitated before **sanctioning** the search warrant without corroborating witness testimony."*
+

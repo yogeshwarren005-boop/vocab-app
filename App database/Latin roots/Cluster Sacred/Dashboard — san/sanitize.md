@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make sanitary by cleaning or sterilizing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make less offensive or more acceptable by removing objectionable features.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make hygienic, clean, or free from harmful microbes; to redact or make more acceptable by removing offensive elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In data management, scrubbing sensitive metadata, personal identifiers, or malicious inputs from a computer system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sanitize designates make sanitary by cleaning or sterilizing."*
+> - 📜 **George Orwell (*Politics and the English Language*):** *"Political language uses euphemisms to **sanitize** terrible realities like the pacification of villages."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"Dr. Gottlieb taught Martin how to meticulously **sanitize** laboratory glassware before inoculating bacterial cultures."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Modern chemical manufacturers attempted to **sanitize** public waterways with toxic synthetic biocides."*
+

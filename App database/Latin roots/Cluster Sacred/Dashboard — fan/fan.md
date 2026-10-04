@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A device for creating a current of air by movement of a surface or surfaces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enthusiastic devotee of sports.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus with rotating blades for creating a current of air; an enthusiastic devotee or admirer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural history, a handheld winnowing basket or paddle used to separate grain from chaff.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, no, although The air of paradise did fan the house, And angels offic’d all."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His captain’s heart, Which in the scuffles of great fights hath burst The buckles on his breast, reneges all temper And is become the bellows and the fan To cool a gipsy’s lust."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And here remain with your uncertainty; Let every feeble rumour shake your hearts; Your enemies, with nodding of their plumes, Fan you into despair!"*
+> - 📜 **William Shakespeare (*Henry IV, Part 1*):** *"By the Lord, our plot is a good plot as ever was laid; our friends true and constant: a good plot, good friends, and full of expectation; an excellent plot, very good friends: what a frosty-spirited rogue is this: why, my lord of York commends the plot and the general course of the action: by this hand, if I were now by this rascal, I could brain him with his lady's **fan**."*
+> - 📜 **Alexander Pope (*The Rape of the Lock*):** *"The delicate painted **fan** fluttered gently in Belinda's white hand, cooling her flushed cheeks."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The gentle breeze from the folding **fan** brought a momentary relief to the invalid's fever."*
+

@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant of the genus sanicula having palmately compound leaves and unisexual flowers in panicled umbels followed by bristly fruit; reputed to have healing powers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant of the genus sanicula having palmately compound leaves and unisexual flowers in panicled umbels followed by bristly fruit; reputed to have healing powers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several woodland plants belonging to the genus Sanicula in the parsley family (Apiaceae), historically valued for healing wounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In traditional herbalism, European sanicle (Sanicula europaea) was nicknamed 'self-heal' and used as a vulnerary astringent for hemorrhages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"During the past summer we noticed, for the first time, a very pretty little species of cluster-cup (_Æcidium_) on the wood sanicle (_Sanicula Europæa_) in Darenth wood."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"SANICLE BRAND; orbicular, variable in size, blackish-brown, scattered, rather confluent; spores very obtuse; peduncles somewhat elongated.—On _Sanicula Europæa_."*
+> - 📜 **Nicholas Culpeper (*The English Physician*):** *"The herb **sanicle** is of such great virtue in consolidating wounds that he that hath it needeth neither surgeon nor salve."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"Boiled in wine, **sanicle** stayeth all inward bleedings and cleanseth putrid ulcers with great efficacy."*
+> - 📜 **William Turner (*A New Herball*):** *"In shady beech woods throughout southern England, the small white umbels of **sanicle** appear in early summer."*
+

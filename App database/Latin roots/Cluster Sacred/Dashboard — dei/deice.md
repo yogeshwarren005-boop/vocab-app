@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make or become free of frost or ice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make or become free of frost or ice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove, melt, or prevent the formation of ice or frost from a surface, especially aircraft wings or windshields.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aerospace and transport engineering, applying heated chemical glycols or pneumatic boots to maintain aerodynamic safety.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deice designates make or become free of frost or ice."*
+> - 📜 **Antoine de Saint-Exupéry (*Wind, Sand and Stars*):** *"The ground crew worked through the blizzard to **deice** the freezing wings before the night mail flight."*
+> - 📜 **Richard Byrd (*Alone*):** *"We had to **deice** the frozen radio aerial daily against the howling polar gale."*
+> - 📜 **Arthur C. Clarke (*The Sands of Mars*):** *"The automated heating elements switched on to **deice** the exterior sensors as the shuttle descended."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or near the sacrum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to sacred rites.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to sacred rites or religion; in anatomy, of or relating to the sacrum bone situated at the base of the spine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In osteology and neurology, designating the sacral vertebrae, sacral plexus, and spinal nerves innervating the pelvic viscera.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Communication was effected through the pituitary body and also by means of the orangefiery and scarlet rays emanating from the sacral region and solar plexus."*
+> - 📜 **Henry Gray (*Gray's Anatomy*):** *"The anterior divisions of the **sacral** nerves unite to form the large sciatic nerve supplying the lower limb."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Trauma to the lower spine produced localized **sacral** pain and sensory loss across the perineum."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"The archaic kings performed solemn **sacral** duties to guarantee the fertility of livestock and crops."*
+

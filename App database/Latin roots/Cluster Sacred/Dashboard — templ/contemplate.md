@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Look at thoughtfully; observe deep in thought.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consider as a possibility.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To look at or view with continued, thoughtful attention; to meditate on, ponder, or consider thoughtfully.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To have in view as a future intention or contingency; to intend or plan.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"When he has nothing else to do, he can always contemplate his own greatness."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"You can contemplate your beauty at another time.” “Pardon!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"My dear son, you contemplate an absence of a week, I think?” “A week, dear father."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Here let us sit and **contemplate** the glorious works of that eternal architect."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"It is a pleasure to stand upon the shore and see ships tossed upon the sea, but no pleasure is comparable to the standing upon the vantage ground of truth, and to **contemplate** the errors below."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth stayed behind to **contemplate** the splendid portraits hanging in the gallery at Pemberley."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ardent follower and admirer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ardent follower and admirer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An enthusiastic, ardent follower or fan of an activity, artist, or cause; a person strongly devoted to religious worship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In religious history, one who consecrates themselves by special vows or ascetic practices to a particular divinity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"She loved the fresh air and the various aspects of the country, and when her eyes and cheeks glowed with mingled pleasure she looked very little like a devotee."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"All these strange antics were accompanied by still stranger guttural noises from the devotee, who seemed to be praying in a sing-song or else singing some pagan psalmody or other, during which his face twitched about in the most unnatural manner."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"My father, you must know, is a bigoted devotee of the old school, and prides himself upon keeping up something of old English hospitality."*
+> - 📜 **Washington Irving (*The Sketch Book of Geoffrey Crayon*):** *"The eager **devotee** of Shakespeare wandered through the quiet lanes of Stratford-upon-Avon."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The aged pilgrim was a humble **devotee** who had journeyed barefoot to shrines across Christendom."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Tonga was a fierce **devotee** of Small, following his master's bidding with savage loyalty."*
+

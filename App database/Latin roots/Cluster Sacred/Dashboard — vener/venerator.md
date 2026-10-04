@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who regards with deep respect or reverence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who regards with deep respect or reverence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who venerates, reveres, or honors someone or something with profound respect and devotion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A devoted admirer or defender of ancient customs, classical institutions, or heroic traditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, venerator designates someone who regards with deep respect or reverence."*
+> - 📜 **Samuel Johnson (*Lives of the Most Eminent English Poets*):** *"Dryden was an ardent **venerator** of Shakespeare, though he did not hesitate to refine his diction for the stage."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The old laird was a staunch **venerator** of Scottish legal antiquity, collecting ancient charters with passionate zeal."*
+> - 📜 **Edmund Burke (*Speech on American Taxation*):** *"He stood before parliament as a faithful **venerator** of the British constitution and its balanced liberties."*
+

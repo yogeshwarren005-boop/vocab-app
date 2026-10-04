@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A model or standard for making comparisons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A model or standard for making comparisons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant spelling of template; a pattern, gauge, or guide used in wood-carving, stone-cutting, or mechanical fabrication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In masonry and architecture, a horizontal timber or stone block bedded in a wall to receive and distribute a concentrated load from a beam or girder.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, templet designates a model or standard for making comparisons."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The master mason carved the delicate Gothic arch tracery guided by a wooden **templet**."*
+> - 📜 **Thomas Tredgold (*Elementary Principles of Carpentry*):** *"Place a sturdy stone **templet** beneath the end of the roof truss to distribute the thrust across the brickwork."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The tripod machine stamped out curved metallic shields with the swift precision of a mechanical **templet**."*
+

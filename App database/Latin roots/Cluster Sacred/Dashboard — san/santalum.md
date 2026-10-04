@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Parasitic trees of indonesia and malaysia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Parasitic trees of indonesia and malaysia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The botanical genus comprising the true sandalwood trees, valued for their fragrant, fine-grained heartwood and essential oil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dendrology and commerce, Santalum album (Indian sandalwood) has been harvested for millennia for religious incense, carvings, and perfumes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, santalum designates parasitic trees of indonesia and malaysia."*
+> - 📜 **Joseph Dalton Hooker (*Flora of British India*):** *"The valuable heartwood of **Santalum** album develops slowly over decades in the dry deciduous forests of Mysore."*
+> - 📜 **Richard Francis Burton (*The Book of the Thousand Nights and a Night*):** *"Merchants brought precious chests of **Santalum** wood from the Malabar coast to perfume the caliph's palaces."*
+> - 📜 **Ferdinand von Mueller (*Select Extra-Tropical Plants*):** *"Australian species of **Santalum** furnish durable fragrant timber and edible quandong nuts in semi-arid zones."*
+

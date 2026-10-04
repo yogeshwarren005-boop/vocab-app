@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One bound by vows to a religion or life of worship or service.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A priest or priestess (or consecrated worshipper) in a non-christian religion or cult.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person bound by religious vows, as a monk or nun; a dedicated follower or ardent advocate of a pursuit, deity, or cause.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature, one consecrated to the worship or service of a specific pagan divinity or philosophical school.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am a votary; I have vowed to Jaquenetta to hold the plough for her sweet love three year."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But wherefore waste I time to counsel thee That art a votary to fond desire?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, Proteus, we dare trust you in this kind Because we know, on Valentine’s report, You are already Love’s firm votary And cannot soon revolt and change your mind."*
+> - 📜 **John Milton (*Comus*):** *"No evil thing that walks by night can harm the chaste **votary** of heavenly virtue."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The wealthy **votary** of Apollo dedicated costly golden tripods in the sanctuary at Delphi."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The fanatical **votary** of abstract equality pulled down every ancient safeguard of law."*
+

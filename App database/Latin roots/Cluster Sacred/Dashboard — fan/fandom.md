@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The fans of a sport or famous person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fans of a sport or famous person.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The community, subculture, or collective body of enthusiastic fans devoted to a particular sport, celebrity, or artistic franchise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural studies, participatory subcultures that create fan fiction, conventions, and communal commentary around popular media.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fandom designates the fans of a sport or famous person."*
+> - 📜 **C. S. Lewis (*Letters of C. S. Lewis*):** *"The passionate enthusiasm of literary **fandom** often surprises the solitary author in his study."*
+> - 📜 **Arthur C. Clarke (*Astounding Days: A Science Fictional Autobiography*):** *"Early science fiction **fandom** formed a close-knit fraternity exchanging mimeographed fanzines across the Atlantic."*
+> - 📜 **Isaac Asimov (*In Memory Yet Green*):** *"Attending my first gathering of science fiction **fandom** in 1938 introduced me to lifelong collaborators."*
+

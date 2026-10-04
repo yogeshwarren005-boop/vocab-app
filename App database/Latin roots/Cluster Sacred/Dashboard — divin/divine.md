@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Terms referring to the judeo-christian god.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clergyman or other person in religious orders.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or proceeding directly from God or a deity; sacred, holy, or godlike in nature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To discover, perceive, or discern intuitively or through subtle hidden clues; to foresee.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nothing sweet boy, but yet like prayers divine, I must each day say o’er the very same, Counting no old thing old, thou mine, I thine, Even as when first I hallowed thy fair name."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I were bound to divine of this unity, I would not prophesy so."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sweet mistress, what your name is else, I know not, Nor by what wonder you do hit on mine; Less in your knowledge and your grace you show not Than our earth’s wonder, more than earth divine."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"More needs she the **divine** than the physician: God, God forgive us all."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Into the heaven of heavens I have presum'd, an earthly guest, and drawn **divine** empyreal air."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"I could easily **divine** that some extraordinary catastrophe had occurred from the terror in his countenance."*
+

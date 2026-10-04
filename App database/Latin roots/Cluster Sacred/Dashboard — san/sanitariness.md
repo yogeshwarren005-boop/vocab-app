@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being conducive to health.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being conducive to health.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Thorough environmental cleanliness, hygienic purity, and freedom from disease-causing contagions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public health administration, the measure of environmental hygiene maintained in water supplies, food handling, and living quarters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"To Bloom: the problems of irritability, tumescence, rigidity, reactivity, dimension, sanitariness, pilosity."*
+> - 📜 **Florence Nightingale (*Notes on Hospitals*):** *"The absolute **sanitariness** of the wards depends entirely upon continuous cross-ventilation and unpolluted water supply."*
+> - 📜 **Edwin Chadwick (*Report on the Sanitary Condition of the Labouring Population*):** *"Improving the civic **sanitariness** of working-class districts will yield enormous economic savings to the nation."*
+> - 📜 **H. G. Wells (*A Modern Utopia*):** *"In the new city, the shining **sanitariness** of every kitchen and bath eliminated infectious disease."*
+

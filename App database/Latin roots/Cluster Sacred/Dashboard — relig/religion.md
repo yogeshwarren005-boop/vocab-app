@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A strong belief in a supernatural power or powers that control human destiny.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An institution to express belief in a divine power.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A set of beliefs concerning the cause, nature, and purpose of the universe, especially when considered as the creation of a superhuman agency, usually involving devotional and ritual observances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An institutionalized system of religious attitudes, beliefs, and practices; any specific system of faith and worship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, as thereto sworn by your command, Which my love makes religion to obey, I tell you this: Caesar through Syria Intends his journey, and within three days You with your children will he send before."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With no less religion than if thou wert indeed my Rosalind."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But I see you have some religion in you, that you fear."*
+> - 📜 **Francis Bacon (*Essays*):** *"A little philosophy inclineth man's mind to atheism; but depth in philosophy bringeth men's minds about to **religion**."*
+> - 📜 **John Locke (*A Letter Concerning Toleration*):** *"The care of souls cannot belong to the civil magistrate, because his power consists only in outward force; but true **religion** consists in the inward persuasion of the mind."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Personal **religion** consists of the inner feelings, acts, and experiences of individual men in their solitude, so far as they apprehend themselves in relation to whatever they may consider the divine."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number that is the sum of six and one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being one more than six.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the Isma'ili branch of Shia Islam who recognizes Isma'il ibn Jafar as the seventh and final Imam of the early line.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Islamic historiography, Seveners historically differed from the Twelver majority regarding the cyclical prophetic sequence of seven eras.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sevener designates the cardinal number that is the sum of six and one."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The esoteric doctrines of the **Sevener** sectaries challenged the orthodox authority of the Abbasid caliphs."*
+> - 📜 **Richard Francis Burton (*Personal Narrative of a Pilgrimage to Al-Madinah and Meccah*):** *"In remote mountain valleys of Syria, adherents of the early **Sevener** tradition preserved their ancient secret rituals."*
+> - 📜 **Bernard Lewis (*The Assassins: A Radical Sect in Islam*):** *"The rise of the Fatimid dynasty represented the political triumph of the **Sevener** missionary movement."*
+

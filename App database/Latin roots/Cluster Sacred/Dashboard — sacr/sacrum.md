@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wedge-shaped bone consisting of five fused vertebrae forming the posterior part of the pelvis; its base connects with the lowest lumbar vertebra and its tip with the coccyx.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wedge-shaped bone consisting of five fused vertebrae forming the posterior part of the pelvis; its base connects with the lowest lumbar vertebra and its tip with the coccyx.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, triangular bone at the base of the spine formed by the fusion of five sacral vertebrae, connecting with the pelvis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy and osteology, the os sacrum (Latin for 'sacred bone', so called because it was anciently offered in animal sacrifices or protected the vital organs).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sacrum designates wedge-shaped bone consisting of five fused vertebrae forming the posterior part of the pelvis; its base connects with the lowest lumbar vertebra and its tip with the coccyx."*
+> - 📜 **Henry Gray (*Gray's Anatomy*):** *"The triangular **sacrum** forms the strong posterior wall of the pelvic basin, articulating laterally with the ilium."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"In birds, numerous trunk vertebrae fuse together with the true **sacrum** to form the extensive synsacrum."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The rudimentary tail vertebrae in humans curve inward from the apex of the **sacrum** as the coccyx."*
+

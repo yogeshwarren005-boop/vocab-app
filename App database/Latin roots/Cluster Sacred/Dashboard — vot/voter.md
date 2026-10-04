@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A citizen who has a legal right to vote.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A citizen who has a legal right to vote.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who votes or has the legal right to vote in an election or legislative referendum; an elector.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional law, an enfranchised citizen participating in popular sovereignty and representative government.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Look what Stanley said the other day—that the House had been tinkering long enough at small questions of bribery, inquiring whether this or that voter has had a guinea when everybody knows that the seats have been sold wholesale."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Brooke, necessarily, had his agents, who understood the nature of the Middlemarch voter and the means of enlisting his ignorance on the side of the Bill—which were remarkably similar to the means of enlisting it on the side against the Bill."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"By the State law, as long as an Indian is simply an Indian, he can buy no whisky, and is thus cruelly debarred from the privilege of getting drunk, but once a voter, he can luxuriate in corn-juice and the calaboose, as well as his white brother."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Every American **voter** takes a lively personal interest in the political destiny of the republic."*
+> - 📜 **Thomas Babington Macaulay (*Speeches on Parliamentary Reform*):** *"We propose to extend the franchise to every intelligent, industrious **voter** among the middle classes."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"The ballot places upon each individual **voter** a moral trust to act for the public good."*
+

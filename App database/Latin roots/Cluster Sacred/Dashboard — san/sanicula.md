@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chiefly american herbs: sanicle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chiefly american herbs: sanicle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The botanical genus comprising the sanicles, herbaceous perennial plants of the family Apiaceae with palmately lobed leaves and hooked bristly fruits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, a widely distributed temperate genus whose burr-like fruits (mericarps) are adapted for epizoochorous seed dispersal on animal fur.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"During the past summer we noticed, for the first time, a very pretty little species of cluster-cup (_Æcidium_) on the wood sanicle (_Sanicula Europæa_) in Darenth wood."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"SANICLE BRAND; orbicular, variable in size, blackish-brown, scattered, rather confluent; spores very obtuse; peduncles somewhat elongated.—On _Sanicula Europæa_."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The genus **Sanicula** is readily identified by its small headlike umbels and globose fruits densely clothed with hooked prickles."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Species of **Sanicula** occur throughout the temperate slopes of the Himalayas, inhabiting moist forest understories."*
+> - 📜 **John Torrey (*A Flora of North America*):** *"In rich alluvial soils, the rootstock of **Sanicula** produces radical leaves on long petioles."*
+

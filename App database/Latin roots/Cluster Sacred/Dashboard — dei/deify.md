@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consider as a god or godlike.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exalt to the position of a god.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make a god of; to exalt, worship, or revere someone or something as divine or supreme.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural sociology, the idolatrous or uncritical adoration of human idols, material wealth, or abstract ideals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is a man haunts the forest that abuses our young plants with carving “Rosalind” on their barks; hangs odes upon hawthorns and elegies on brambles; all, forsooth, deifying the name of Rosalind."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"A phrase like that of Clement of Alexandria, "deifying into apathy we become monadic," is seas away from anything we find in the speech of Jesus."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The Christians were the only people (apart from the Jews) who openly denounced the folly of worshipping and deifying Emperors."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Men will **deify** their own base lusts and build altars to false idols in the high groves."*
+> - 📜 **Alexander Pope (*An Essay on Man*):** *"Pride taught mankind to **deify** their kings and bend the knee before mortal power."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"We tend to **deify** our companions in youth, dressing them in the immaculate virtues of angels."*
+

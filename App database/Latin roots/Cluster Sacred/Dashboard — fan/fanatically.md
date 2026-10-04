@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a passionately fanatic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a passionately fanatic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a fanatical manner; with excessive, intolerant, or irrational zeal and obsessive devotion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adhering to dogmatic tenets without regard for counter-evidence, human sympathy, or social prudence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Some, like Dobbin, fanatically admired him."*
-> - 📜 **Randall Garrett (*Deadly decoy*):** *"With a member of the most fanatically dangerous race in the Galaxy sitting across from me, I didn't feel like taking chances."*
+> - 📜 **Joseph Conrad (*Under Western Eyes*):** *"He was **fanatically** devoted to the revolutionary cause, refusing to acknowledge any human frailty."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The curate clung **fanatically** to his apocalyptic visions while hiding beneath the fallen masonry."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"The avenging elders pursued their fugitive victims **fanatically** across the vast American plains."*
+

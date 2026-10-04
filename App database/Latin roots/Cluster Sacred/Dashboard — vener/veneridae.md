@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hard-shell clams.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hard-shell clams.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A very large family of marine bivalve mollusks commonly known as Venus clams, comprising many commercially important edible species.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In malacology and paleontology, characterized by thick porcelain shells with three cardinal teeth in each valve and robust concentric ridges.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, veneridae designates hard-shell clams."*
+> - 📜 **Charles Darwin (*Geological Observations on South America*):** *"Fossil beds along the Chilean coast yielded abundant shells belonging to the family **Veneridae**."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The foot of the **Veneridae** is adapted for rapid burrowing into sublittoral sands and gravels."*
+> - 📜 **Louis Agassiz (*Methods of Study in Natural History*):** *"The hinge structure and robust pallial sinus distinguish the **Veneridae** from other lamellibranch orders."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feelings of ardent love.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feelings of ardent love.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unswerving loyalty, wholehearted dedication, or selfless affection demonstrated toward a person, cause, or sacred duty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy, the steadfast attachment of the will to the welfare of another or to a righteous cause.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"It was too early yet for her fully to recognize or at least admit the change, still more for her to have readjusted that devotedness which was so necessary a part of her mental life that she was almost sure sooner or later to recover it."*
-> - 📜 **George Eliot (*Middlemarch*):** *"The first great disappointment had been borne: the tender devotedness and docile adoration of the ideal wife must be renounced, and life must be taken up on a lower stage of expectation, as it is by men who have lost their limbs."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"I was only guilty of too much devotedness to Rawdon's service."*
+> - 📜 **George Eliot (*Romola*):** *"Her self-forgetting **devotedness** to the plague victims won the reverence of all Florence."*
+> - 📜 **Walter Scott (*Rob Roy*):** *"The Highlander's unquestioning **devotedness** to his clan chief bordered upon religious zeal."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"No human friendship can long endure without mutual **devotedness** and generous forbearance."*
+

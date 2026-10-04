@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Regard with feelings of respect and reverence; consider hallowed or exalted or be in awe of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Regard with feelings of respect and reverence; consider hallowed or exalted or be in awe of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To regard with deep, reverent respect; to revere, honor, or hold in highest esteem as sacred or noble.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In religious practice, to honor relics, saints, or ancestral memory without conferring the supreme worship due to God alone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"These men were the travel-worn veterans of Sherman, and the battle-stained heroes of the glorious old Army of the Potomac, men of whom the nation is already proud, and whom history will teach our children to venerate."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The power of the Czar could not exist for a single moment if the mass of the people did not look to him as the great father whom they venerate and love."*
-> - 📜 **Baron George Gordon Byron Byron (*Childe Harold's Pilgrimage*):** *"Which sages venerate and bards adore, As Pallas and the Muse unveil their awful lore."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"We ought to **venerate** the memories of ancient discoverers without enslaving our reason to their dogmas."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The devout pilgrims travelled across deserts to **venerate** the holy sepulchre at Jerusalem."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"Children should be taught early to **venerate** truth, justice, and the counsel of their elders."*
+

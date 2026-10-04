@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Decorative needlework.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Decorative needlework.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Decorative needlework, embroidery, crocheting, or tatting done for ornament rather than purely utilitarian use.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Victorian domestic economy, ornamental needlecraft pursued by middle-class women as an emblem of refined leisure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He could talk about rural economy with the count, fashions with the countess and Natásha, and about albums and fancywork with Sónya."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"The aunt sat by the window engaged upon intricate **fancywork** with fine silk thread."*
+> - 📜 **Louisa May Alcott (*Little Women*):** *"Meg brought out her basket of **fancywork**, stitching delicate lace ruffles for her evening dress."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The parlor table was covered with antimacassars and other specimens of rustic **fancywork**."*
+

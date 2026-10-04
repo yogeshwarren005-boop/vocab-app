@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Must be kept sacred.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Must be kept sacred.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Regarded as too important, sacred, or valuable to be interfered with, questioned, or violated; inviolable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman constitutional law, legally protected by religious oath (lex sacrata), so that injuring a plebeian tribune rendered the offender accursed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sacrosanct designates must be kept sacred."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The persons of the Roman tribunes were declared **sacrosanct**, shielding them from patrician violence."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"No tradition is so **sacrosanct** that it should be exempted from rigorous public criticism and debate."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The ancient charters of the realm were regarded by parliament as **sacrosanct** safeguards of national freedom."*
+

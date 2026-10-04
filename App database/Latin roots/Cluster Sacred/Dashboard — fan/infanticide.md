@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who murders an infant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Murdering an infant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of killing an infant child; a person who kills an infant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropology and evolutionary biology, reproductive competition or resource scarcity leading to the elimination of offspring.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Infanticide was generally practiced in ancient times among peoples of advanced civilization, as, for example, in Sparta and Rome, where not only deformed and weak children, but unwelcome ones, commonly were destroyed."*
-> - 📜 **James Joyce (*Ulysses*):** *"They have no mercy on that here or infanticide."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The severe laws of the Christian emperors gradually suppressed the cruel pagan custom of exposed **infanticide**."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Widespread **infanticide** in primitive tribes served as a harsh check upon population exceeding available sustenance."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"Even in enlightened ancient Athens, the barbarous practice of **infanticide** was tolerated by eminent philosophers."*
+

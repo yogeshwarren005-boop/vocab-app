@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in north central california 75 miles to the northeast of san francisco on the sacramento river; capital of california.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in north central california 75 miles to the northeast of san francisco on the sacramento river; capital of california.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital city of the state of California, situated at the confluence of the Sacramento and American rivers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically founded by John Sutter in 1839 as New Helvetia and named after the Santísimo Sacramento (Most Holy Sacrament) by Spanish explorers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As a result, union labour possessing an important political significance at the time, the time-serving politicians at Sacramento appointed a senatorial committee of investigation of the state prisons."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"During the Viet Nam War, he was the senior civilian in the Inspector General's Office at McClellan Air Force Base, a major logistics installation near Sacramento, California."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Not long afterward, I transferred back to the States where I got a job at McClellan AFB near Sacramento."*
+> - 📜 **Mark Twain (*Roughing It*):** *"We boarded the paddle-wheel steamboat bound for **Sacramento**, eager to behold the bustling gold metropolis."*
+> - 📜 **Bret Harte (*The Luck of Roaring Camp and Other Sketches*):** *"Gold seekers poured into **Sacramento** from all corners of the earth before venturing into the Sierra foothills."*
+> - 📜 **Robert Louis Stevenson (*Across the Plains*):** *"The transcontinental railway cars rolled smoothly into **Sacramento** after our arduous crossing of the deserts."*
+

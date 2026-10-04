@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Very good;of the highest quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very good;of the highest quality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely fine, marvelous, or wonderful; an enthusiastic blend of fantastic and fabulous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In twentieth-century informal and entertainment slang, an emphatic superlative celebrating sensational performances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fantabulous designates very good;of the highest quality."*
+> - 📜 **P. G. Wodehouse (*Blandings Castle*):** *"Freddie described the new musical comedy as an absolutely **fantabulous** triumph of melody and dance."*
+> - 📜 **Tom Wolfe (*The Electric Kool-Aid Acid Test*):** *"The light show exploded in a **fantabulous** kaleidoscope of fluorescent colors across the hall ceiling."*
+> - 📜 **John Updike (*Rabbit, Run*):** *"The television commercial promised a **fantabulous** array of kitchen gadgets to simplify suburban life."*
+

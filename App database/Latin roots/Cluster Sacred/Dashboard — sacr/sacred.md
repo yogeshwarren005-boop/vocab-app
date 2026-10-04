@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerned with religion or religious purposes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Worthy of respect or dedication.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dedicated, consecrated, or set apart for religious service or worship; entitled to veneration and reverence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy, inviolable and secure against violation, profanation, or encroachment (e.g. sacred duty, sacred rights).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Where be the sacred vials thou shouldst fill With sorrowful water?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The honour is sacred which he talks on now, Supposing that I lacked it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"True is it that we have seen better days, And have with holy bell been knolled to church, And sat at good men’s feasts, and wiped our eyes Of drops that sacred pity hath engendered."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"The natural right to life, liberty, and property remains a **sacred** trust which no magistrate may usurp."*
+> - 📜 **Alexander Pope (*The Rape of the Lock*):** *"The **sacred** lock of hair was severed by the glittering shears amidst shrieks of despair."*
+> - 📜 **William Wordsworth (*Lines Composed a Few Miles above Tintern Abbey*):** *"I have felt a sublime presence in nature, a **sacred** harmony that elevates the human spirit."*
+

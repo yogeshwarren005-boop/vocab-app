@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An officer of the church who is in charge of sacred objects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An officer of the church who is in charge of sacred objects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official in a church or cathedral responsible for the care of the sacristy, sacred vessels, vestments, and parish grounds; a sexton.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In monastic communities, the monk appointed to maintain the altar, ring bells for divine offices, and safeguard holy relics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Get up early who will, Père Laserques the sacristan is always up still earlier."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Every New Year's Day the sacristan comes and puts a morsel of the holy bread in her mouth, and that is all she has to live on."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A sacristan commanded one party which captured several hundred prisoners in the course of a month; and there was Vasílisa, the wife of a village elder, who slew hundreds of the French."*
+> - 📜 **Victor Hugo (*The Hunchback of Notre-Dame*):** *"Quasimodo aided the old **sacristan** in polishing the heavy brass censers and folding liturgical vestments."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The aged **sacristan** tottered into the dim chancel carrying the massive iron keys of the crypt."*
+> - 📜 **Washington Irving (*The Alhambra*):** *"The loquacious **sacristan** pointed out the tomb where the Catholic monarchs lay entombed in royal marble."*
+

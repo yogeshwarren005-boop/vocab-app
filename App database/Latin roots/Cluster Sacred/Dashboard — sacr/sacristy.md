@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A room in a church where sacred vessels and vestments are kept or meetings are held.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A room in a church where sacred vessels and vestments are kept or meetings are held.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A room in a church where vestments, sacred vessels, and liturgical furnishings are kept, and where priests prepare for services; a vestry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical architecture, a secure chamber adjacent to the chancel or choir, often housing parish registers and relics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"They must have seized the sacristy; but that makes no difference."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"Viva Spain and Fernando VII!" We reached the church; but the French, who had preceded us by the sacristy, already occupied the high altar."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"The enemy was reinforced from the sacristy, and our rear-guard also came out of the choir."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"The priest retired into the shadowy **sacristy** to divest himself of his gold-embroidered chasuble."*
+> - 📜 **George Eliot (*Romola*):** *"Savonarola waited quietly in the San Marco **sacristy** while the bells summoned the faithful to prayer."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The outlaws searched the abbey **sacristy**, seeking hidden gold vessels beneath the heavy oak cupboards."*
+

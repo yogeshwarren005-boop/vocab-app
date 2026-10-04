@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a fan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling a fan.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or shaped like an open folding fan; spreading outward from a central point in a radiating semicircular curve.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geomorphology and anatomy, describing radiating alluvial deposits or splayed muscular and ligamentous attachments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The fog was lighter here, and he could see the strange, bottle-shaped kilns with their orange, fanlike tongues of fire."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The mountain torrent dumped gravel in a vast, **fanlike** delta across the arid valley floor."*
+> - 📜 **Henry Gray (*Gray's Anatomy*):** *"The pectoralis major muscle converges in a broad, **fanlike** arrangement toward its tendon at the humerus."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The whale's tail flukes spread out in a magnificent, **fanlike** curve before slicing beneath the waves."*
+

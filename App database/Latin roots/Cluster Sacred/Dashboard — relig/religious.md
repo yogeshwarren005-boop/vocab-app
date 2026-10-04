@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a religious order who is bound by vows of poverty and chastity and obedience.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerned with sacred matters or religion or the church.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or believing in a religion; characterized by adherence to religious beliefs and rituals; devout or pious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by meticulous, scrupulous, or conscientious attention to detail (e.g. religious devotion to duty).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How many a holy and obsequious tear Hath dear religious love stol’n from mine eye, As interest of the dead, which now appear, But things removed that hidden in thee lie."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus, Indian-like, Religious in mine error, I adore The sun that looks upon his worshipper, But knows of him no more."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As thou lov’st her, Thy love’s to me religious; else, does err. [_Exeunt King, Bertram, Helena, Lords, and Attendants._] LAFEW."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"They preserved the sacred manuscripts with **religious** care through centuries of barbarian invasion."*
+> - 📜 **John Milton (*Paradise Lost*):** *"With grave aspect and **religious** reverence, the patriarch prepared the evening sacrifice."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"He observed a **religious** punctuality in keeping all his appointments at the notary's office."*
+

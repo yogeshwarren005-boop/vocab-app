@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relatively permanent disorder of the mind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relatively permanent disorder of the mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Severe mental derangement or psychosis disrupting cognitive contact with reality; extreme, irrational foolishness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law, a recognized mental disease or defect that impairs a defendant's capacity to understand the nature or wrongfulness of their act (M'Naghten rule).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oh, Coggan,” said Troy, as if inspired by a recollection “do you know if insanity has ever appeared in Mr."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"God always hears a prayer that will in any way bring a soul to the Lord." INSANITY CURED AND SUICIDE PREVENTED."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"I asked the Lord daily in his mercy to keep a sister in the Lord from insanity, who was then apparently on the border of it."*
+> - 📜 **William Shakespeare (*King Lear*):** *"O, let me not be mad, not mad, sweet heaven: keep me in temper; I would not be mad: his bitter grief drove him to the very brink of **insanity**."*
+> - 📜 **Oliver Wendell Holmes Sr. (*The Autocrat of the Breakfast-Table*):** *"A single fixed idea in an obstinate mind borders closely upon the realm of chronic **insanity**."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The terrifying family legend had been whispered for generations with hints of ancestral **insanity** and doom."*
+

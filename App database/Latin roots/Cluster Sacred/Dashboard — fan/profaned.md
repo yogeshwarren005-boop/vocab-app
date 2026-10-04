@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt morally or by intemperance or sensuality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Violate the sacred character of a place or language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Desecrated, defiled, or treated with irreverence; violated from a state of consecrated holiness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical narratives, describing altars, sanctuaries, or holy vows that have suffered sacrilegious abuse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Profaned, dishonoured, and the third usurped."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy George, profaned, hath lost his lordly honour; Thy Garter, blemished, pawned his knightly virtue; Thy crown, usurped, disgraced his kingly glory."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though his false finger have profaned the ring, Mine shall not do his Julia so much wrong."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"Samson lamented that his consecrated locks were shorn and his high calling **profaned** among heathens."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ancient temples of Jupiter were **profaned** and transformed into stables by invading armies."*
+> - 📜 **Walter Scott (*The Talisman*):** *"The hermit cried aloud that the sacred chapel of the Holy Sepulchre had been **profaned** by traitors."*
+

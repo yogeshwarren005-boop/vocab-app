@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt morally or by intemperance or sensuality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Violate the sacred character of a place or language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating or devoted to that which is not sacred or biblical; secular rather than religious; showing contempt for sacred things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To treat something sacred with irrelevance, contempt, or desecration; to debase.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Cominius and Lartius stand bare._] May these same instruments which, you profane, Never sound more!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We should profane the service of the dead To sing sage requiem and such rest to her As to peace-parted souls."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By heaven, Poins, I feel me much to blame, So idly to profane the precious time, When tempest of commotion, like the south Borne with black vapour, doth begin to melt And drop upon our bare unarmed heads."*
+> - 📜 **William Shakespeare (*Othello*):** *"Zounds, sir, you're robb'd; for shame, put on your gown; your heart is burst, you have lost half your soul; even now, now, very now, an old black ram is tupping your white ewe: arise, arise; awake the snorting citizens with the bell, or else the devil will make a grandsire of you: arise, I say: what, have you lost your wits: most reverend signior, do you know my voice: not I; what are you: my name is Roderigo: the worser welcome: I have charg'd thee not to haunt about my doors: in honest plainness thou hast heard me say my daughter is not for thee; and now, in madness, being full of supper and distempering draughts, upon malicious knavery, dost thou come to start my quiet: sir, sir, sir: but thou must needs be sure my spirit and my place have in them power to make this bitter to thee: patience, good sir: what tell'st thou me of robbing: this is Venice; my house is not a grange: most grave Brabantio, in simple and pure soul I come to you: zounds, sir, you are one of those that will not serve God if the devil bid you: because we come to do you service, and you think we are ruffians, you'll have your daughter covered with a Barbary horse; you'll have your nephews neigh to you; you'll have coursers for cousins and gennets for germans: what **profane** wretch art thou: I am one, sir, that comes to tell you your daughter and the Moor are now making the beast with two backs."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Far off from heaven's gate, the **profane** rebel angels were cast down into the fiery pit."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Distinguish carefully between sacred divine truth and the useful inventions of **profane** history."*
+

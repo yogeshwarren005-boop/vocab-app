@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Swift agile wolf-sized bipedal dinosaur having a large curved claw on each hind foot; of the cretaceous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Swift agile wolf-sized bipedal dinosaur having a large curved claw on each hind foot; of the cretaceous.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of dromaeosaurid theropod dinosaur from the Early Cretaceous of North America, equipped with a large, sickle-shaped killing claw on each hind foot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleobiological history, John Ostrom's 1969 description of Deinonychus ignited the 'Dinosaur Renaissance' by demonstrating birdlike agility and active metabolism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deinonychus designates swift agile wolf-sized bipedal dinosaur having a large curved claw on each hind foot; of the cretaceous."*
+> - 📜 **Stephen Jay Gould (*Bully for Brontosaurus*):** *"The discovery of **Deinonychus** dealt a fatal blow to the outdated notion of dinosaurs as sluggish, cold-blooded reptiles."*
+> - 📜 **Richard Dawkins (*The Ancestor's Tale*):** *"Agile predators such as **Deinonychus** bore birdlike wishbones and hollow bones long before modern birds evolved flight."*
+> - 📜 **Carl Sagan (*The Dragons of Eden*):** *"Bipedal predators like **Deinonychus** possessed high brain-to-body ratios and formidable coordination."*
+

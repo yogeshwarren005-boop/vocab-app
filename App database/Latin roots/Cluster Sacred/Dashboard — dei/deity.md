@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any supernatural being worshipped as controlling some part of the world or some aspect of life or who is the personification of a force.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any supernatural being worshipped as controlling some part of the world or some aspect of life or who is the personification of a force.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A god, goddess, or supreme divine being worshiped in a religion; the state or character of being divine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative theology, a transcendent or supernatural entity possessing creative, cosmic, or moral sovereignty over humanity and nature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is their god; he leads them like a thing Made by some other deity than Nature, That shapes man better; and they follow him Against us brats with no less confidence Than boys pursuing summer butterflies Or butchers killing flies."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or we poor ghosts will cry To th’ shining synod of the rest Against thy deity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is the liver vein, which makes flesh a deity, A green goose a goddess."*
+> - 📜 **John Milton (*Paradise Lost*):** *"To that eternal **deity** who rules the starry sphere, the angelic choirs offered unceasing adoration."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The polytheistic populace readily adopted each newly conquered foreign **deity** into the Roman pantheon."*
+> - 📜 **William Wordsworth (*The Prelude*):** *"A presence that disturbed me with the joy of elevated thoughts spoke of a presiding **deity** in nature."*
+

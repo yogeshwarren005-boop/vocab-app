@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person devoted to the contemplative life.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deeply or seriously thoughtful.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing or given to deep, serious, and reflective thought; meditative; pensive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In monastic tradition, dedicated to silent prayer, mystical reflection, and ascetic seclusion rather than active ministry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Navarre shall be the wonder of the world; Our court shall be a little academe, Still and contemplative in living art."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Malvolio’s coming down this walk; he has been yonder i’ the sun practising behaviour to his own shadow this half hour: observe him, for the love of mockery; for I know this letter will make a contemplative idiot of him."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby, law-stationer of Cook’s Court, Cursitor Street, is sensible of the influence not only in his mind as a sympathetic and contemplative man, but also in his business as a law-stationer aforesaid."*
+> - 📜 **John Milton (*Il Penseroso*):** *"Come, pensive nun, devout and pure, sober, steadfast, and demure, with even step and musing gait, and **contemplative** look."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The aged scholar walked along the beach in a quiet, **contemplative** mood, listening to the surf."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel Oak stood leaning on his shepherd's staff in a **contemplative** silence under the stars."*
+

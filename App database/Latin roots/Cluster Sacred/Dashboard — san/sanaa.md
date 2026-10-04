@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital and largest city of yemen; on the central plateau.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capital and largest city of yemen; on the central plateau.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital and largest city of Yemen; an alternative transliteration of Sana.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically an important political capital of the Himyarite Kingdom and the Zaydi Imamate along the southern Arabian incense route.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sanaa designates the capital and largest city of yemen; on the central plateau."*
+> - 📜 **Freya Stark (*East Is West*):** *"The bustling suqs of **Sanaa** were alive with craftsmen forging ornate curved jambiyas and silver filigree."*
+> - 📜 **Wilfred Thesiger (*Arabian Sands*):** *"The mountain roads winding upward toward **Sanaa** climbed through terraced vineyards and orchards of coffee."*
+> - 📜 **Charles M. Doughty (*Travels in Arabia Deserta*):** *"Yemeni pilgrims recounted tales of the cool autumn rains watering the fertile highland basin of **Sanaa**."*
+

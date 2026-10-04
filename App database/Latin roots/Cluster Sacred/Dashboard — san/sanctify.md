@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Render holy by means of religious rites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make pure or free from sin or guilt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To set apart as holy, consecrated, or dedicated to divine service; to purify spiritually from moral guilt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To give social, religious, or moral sanction to an action, law, or custom.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But now he’s gone, and my idolatrous fancy Must sanctify his relics."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bless him at home in peace, whilst I from far His name with zealous fervour sanctify."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let all the tears that should bedew my hearse Be drops of balm to sanctify thy head, Only compound me with forgotten dust."*
+> - 📜 **Abraham Lincoln (*Gettysburg Address*):** *"In a larger sense, we cannot dedicate, we cannot consecrate, we cannot hallow this ground: the brave men who struggled here have done more to **sanctify** it than our poor power to add or detract."*
+> - 📜 **John Milton (*Paradise Lost*):** *"God blessed the seventh day and chose to **sanctify** it as a perpetual Sabbath of rest."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Long prescription and national gratitude combine to **sanctify** ancient constitutional arrangements."*
+

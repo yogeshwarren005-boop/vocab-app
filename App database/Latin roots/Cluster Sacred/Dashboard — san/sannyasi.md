@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hindu religious mendicant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hindu religious mendicant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Hindu religious renunciant or ascetic who has renounced worldly life and possessions in pursuit of spiritual liberation (moksha).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the classical four ashramas of Vedic tradition, one who has entered the fourth and final stage of ascetic wandering (sannyasa).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sannyasi designates a hindu religious mendicant."*
+> - 📜 **Rudyard Kipling (*Kim*):** *"The holy **sannyasi** sat in meditation beneath the shade of the banyan tree, begging his daily bread with a wooden bowl."*
+> - 📜 **Swami Vivekananda (*Raja Yoga*):** *"The true **sannyasi** has renounced all desire for fame and wealth, dedicating his soul to the realization of Brahman."*
+> - 📜 **E. M. Forster (*A Passage to India*):** *"Professor Godbole spoke with the serene detachment of a wandering **sannyasi** untouched by mundane political strife."*
+

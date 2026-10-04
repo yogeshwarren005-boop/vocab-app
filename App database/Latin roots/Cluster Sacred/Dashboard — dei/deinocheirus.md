@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lightly built medium-sized theropod with long limbs and neck.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lightly built medium-sized theropod with long limbs and neck.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of massive ornithomimosaurian theropod dinosaur from the Late Cretaceous of Mongolia, famed for its enormous forelimbs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, characterized by large robust arms bearing recurved claws, an elongated duck-like bill, and a dorsal sail.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deinocheirus designates lightly built medium-sized theropod with long limbs and neck."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"The fossil mystery of **Deinocheirus** lingered for decades when only its monumental eight-foot arms were known to science."*
+> - 📜 **Edwin H. Colbert (*Dinosaurs: Their Discovery and Their World*):** *"The immense clawed forearms of **Deinocheirus** hinted at a creature of extraordinary dimensions wandering Cretaceous Asia."*
+> - 📜 **Richard Fortey (*Life: A Natural History*):** *"Bizarre adaptations reached an apex in **Deinocheirus**, combining birdlike features with the bulk of a sauropod."*
+

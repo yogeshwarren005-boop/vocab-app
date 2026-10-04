@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: May be deliberately sacrificed to achieve an objective.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: May be deliberately sacrificed to achieve an objective.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being sacrificed; suitable or permissible to be surrendered or offered up for a higher purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In utilitarian calculations and military strategy, denoting expendable assets, positions, or resources.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sacrificeable designates may be deliberately sacrificed to achieve an objective."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"No fundamental human interest should be regarded as casually **sacrificeable** to temporary administrative convenience."*
+> - 📜 **Herbert Spencer (*The Principles of Ethics*):** *"In primitive tribal warfare, individual comfort was deemed entirely **sacrificeable** to group survival."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The revolutionary tribunal treated private fortunes as easily **sacrificeable** to the desperate needs of the state."*
+

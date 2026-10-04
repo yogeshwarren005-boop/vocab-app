@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make more beautiful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more beautiful.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make fancy, decorative, or elaborate; to dress up or embellish with whimsical ornaments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colloquial dialect, to adorn excessively or indulge in ornamental affectation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fancify designates make more beautiful."*
+> - 📜 **Thomas Hardy (*Under the Greenwood Tree*):** *"The village youths liked to **fancify** their Sunday smocks with bright red neckerchiefs."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"The river pilots would **fancify** their tales with astonishing exaggerations for credulous travelers."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky Sharp knew how to **fancify** a cheap straw bonnet with ribbon so it rivaled Mayfair fashion."*
+

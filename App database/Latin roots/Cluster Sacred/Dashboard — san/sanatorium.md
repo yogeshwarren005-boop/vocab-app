@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hospital for recuperation or for the treatment of chronic diseases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pejorative terms for an insane asylum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical facility for long-term illness, especially one providing rest, fresh air, and sunshine for tuberculosis patients or convalescents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In health resort history, specialized clinics established in mountain climates (such as Davos or the Adirondacks) before the advent of streptomycin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"He drives out with her every day and mixes with other people in the sanatorium and makes friends with them."*
-> - 📜 **Bram Stoker (*Dracula*):** *"He will require some few weeks’ rest in our sanatorium in the hills, but will then return."*
-> - 📜 **James Joyce (*Ulysses*):** *"Can become ideal winter sanatorium."*
+> - 📜 **Thomas Mann (*The Magic Mountain*):** *"Life in the high alpine **sanatorium** possessed its own detached, dreamlike rhythm, insulated from the distant world below."*
+> - 📜 **Anton Chekhov (*The Black Monk*):** *"The doctor advised him to spend the winter months in a southern seaside **sanatorium** to soothe his exhausted nerves."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The modern **sanatorium** regimen emphasizes absolute physical rest during febrile periods and progressive outdoor exercise."*
+

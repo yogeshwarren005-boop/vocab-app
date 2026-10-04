@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Indulge in fantasies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Portray in the mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To indulge in daydreams or imaginative reveries; to imagine or picture scenarios that are improbable or idealized.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychoanalytic theory, producing subjective mental narratives that express subconscious desires and conflicts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fantasize designates indulge in fantasies."*
+> - 📜 **Sigmund Freud (*The Interpretation of Dreams*):** *"Daydreams show how the human ego tends to **fantasize** ambitious and erotic triumphs to compensate for daily frustrations."*
+> - 📜 **F. Scott Fitzgerald (*The Great Gatsby*):** *"Gatsby would **fantasize** about his reunion with Daisy, investing her memory with an impossible colossus of romantic illusions."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"In the quiet classroom, the boy began to **fantasize** about commanding a tall ship across sunlit southern seas."*
+

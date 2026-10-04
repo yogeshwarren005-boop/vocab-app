@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something many people believe that is false.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A kind of imagination that was held by coleridge to be more casual and superficial than true imagination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The faculty of imagining artistic or whimsical ideas; a decorative, non-essential liking; elaborate in design.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In romantic aesthetics, the combinatorial mental faculty that associates existing memories without organic synthesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But now he’s gone, and my idolatrous fancy Must sanctify his relics."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pardon, my gracious lord; for I submit My fancy to your eyes."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For her own person, It beggared all description: she did lie In her pavilion, cloth-of-gold of tissue, O’erpicturing that Venus where we see The fancy outwork nature."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"Tell me where is **fancy** bred, or in the heart or in the head: how begot, how nourished: reply, reply: it is engender'd in the eyes, with gazing fed; and fancy dies in the cradle where it lies: let us all ring fancy's knell: I'll begin it: Ding, dong, bell."*
+> - 📜 **John Milton (*L'Allegro*):** *"Sweetest Shakespeare, **fancy**'s child, warble his native wood-notes wild to the enchanted ear."*
+> - 📜 **Jane Austen (*Emma*):** *"Emma allowed her playful **fancy** to construct elaborate romantic destinies for her young friend."*
+

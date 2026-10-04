@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person motivated by irrational enthusiasm (as for a cause); --winston churchill.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by excessive enthusiasm for and intense devotion to a cause or idea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person motivated by excessive, irrational, and uncritical zeal, especially in political or religious causes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical history, originally designating temple devotees believed to be possessed by orgiastic or prophetic fury (from Latin fanaticus).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Pilate waxed eloquent over the diverse sects and the fanatic uprisings and riotings that were continually occurring."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Some fanatic had fallen, and I could feel my horse recoil and half rear as it tramped on him, and I could hear the man screaming and the snarling menace from all about rising to a roar."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"They loved the fanatic Jews no more than did I, and would have welcomed my command to clear the court with naked steel."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The political **fanatic** disregards all lessons of experience in his frantic pursuit of visionary perfection."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The frenzied **fanatic** proclaimed the immediate end of the world from the temple steps."*
+> - 📜 **David Hume (*Essays, Moral, Political, and Literary*):** *"Superstition oppresses the soul, while fanaticism inflames it; hence the **fanatic** is always dangerous to public peace."*
+

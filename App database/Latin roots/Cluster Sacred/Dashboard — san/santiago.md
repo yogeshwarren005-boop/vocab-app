@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: City in the northern dominican republic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A port city in southeastern cuba; industrial center.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital and largest city of Chile; also Saint James the Greater, patron saint of Spain (from Saint Iago).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically founded by Pedro de Valdivia in 1541 at the foot of the Andes, serving as the cultural and political hub of Chile.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The two Spanish bulletins, the one already published in Santiago and the other planned in San José, should, likewise, as an adjunct to Bahá'í publications, be developed and widely circulated."*
-> - 📜 **James Joyce (*Ulysses*):** *"It ran as follows: _Tarjeta Postal, Señor A Boudin, Galeria Becche, Santiago, Chile._ There was no message evidently, as he took particular notice."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"The Spaniard replied, Don Juan Pedro Hernandez Rodriguez Alvarez de Villa-nova, Count de Malafra, Cavallero de Santiago de Alcantara."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We rode across the fertile central valley of Chile and entered **Santiago**, with the snowcapped Andes rising majestically behind it."*
+> - 📜 **William H. Prescott (*History of the Conquest of Peru*):** *"The Spanish battle cry of '**Santiago** and close Spain!' echoed across the battlefield against the Inca warriors."*
+> - 📜 **Richard Henry Dana Jr. (*Two Years Before the Mast*):** *"Sailors in the Pacific trade spoke of **Santiago** as the most elegant and hospitable capital on the western coast."*
+

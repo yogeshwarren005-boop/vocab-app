@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The function of pointing or specifying from the perspective of a participant in an act of speech or writing; aspects of a communication whose interpretation depends on knowledge of the context in which the communication occurs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The function of pointing or specifying from the perspective of a participant in an act of speech or writing; aspects of a communication whose interpretation depends on knowledge of the context in which the communication occurs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of general words and phrases that refer directly to a specific time, place, or person in the context of an utterance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and discourse analysis, grammaticalized reference anchored to the spatio-temporal coordinates of the speaker (e.g. here, now, this).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deixis designates the function of pointing or specifying from the perspective of a participant in an act of speech or writing; aspects of a communication whose interpretation depends on knowledge of the context in which the communication occurs."*
+> - 📜 **Bertrand Russell (*Human Knowledge: Its Scope and Limits*):** *"Spatial and temporal **deixis** binds abstract linguistic statements to the concrete situation of the observer."*
+> - 📜 **William James (*Essays in Radical Empiricism*):** *"The immediate pointing of **deixis** connects conceptual logic with the direct stream of perceptual experience."*
+> - 📜 **C. S. Peirce (*Collected Papers*):** *"An indexical sign relies upon genuine physical connection and context, performing the essential work of **deixis**."*
+

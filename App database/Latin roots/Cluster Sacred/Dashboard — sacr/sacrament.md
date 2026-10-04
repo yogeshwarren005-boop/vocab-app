@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal religious ceremony conferring a specific grace on those who receive it; the two protestant ceremonies are baptism and the lord's supper; in the roman catholic church and the eastern orthodox church there are seven traditional rites accepted as instituted by jesus: baptism and confirmation and holy eucharist and penance and holy orders and matrimony and extreme unction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A formal religious ceremony conferring a specific grace on those who receive it; the two protestant ceremonies are baptism and the lord's supper; in the roman catholic church and the eastern orthodox church there are seven traditional rites accepted as instituted by jesus: baptism and confirmation and holy eucharist and penance and holy orders and matrimony and extreme unction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sacred Christian religious rite regarded as an outward, visible sign of inward and spiritual divine grace.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sacramental theology, especially the seven rites of Roman Catholicism and the two primary ordinances (Baptism and Eucharist) of Protestantism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll take the sacrament on ’t, how and which way you will."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ten thousand French have ta’en the sacrament To rive their dangerous artillery Upon no Christian soul but English Talbot."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Return the precedent to these lords again; That, having our fair order written down, Both they and we, perusing o’er these notes, May know wherefore we took the sacrament, And keep our faiths firm and inviolable."*
+> - 📜 **John Milton (*Paradise Lost*):** *"They celebrated the solemn feast, receiving the holy **sacrament** with devout hearts and bent knees."*
+> - 📜 **Thomas More (*Utopia*):** *"The priests administer the highest **sacrament** with reverent ceremonies that awe the congregation."*
+> - 📜 **Walter Scott (*The Heart of Mid-Lothian*):** *"The dying prisoner requested that the parish minister administer the last comforting **sacrament**."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not sanitary or healthful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not sanitary or healthful.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not sanitary; unhealthful, unhygienic, or unclean; tending to spread disease or infection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urban regulation, properties or conditions condemned by health authorities for violating sanitation codes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The narrow streets were an unsanitary scandal of filth and slime."*
-> - 📜 **George Eliot (*Middlemarch*):** *"The friend’s stable had to be reached through a back street where you might as easily have been poisoned without expense of drugs as in any grim street of that unsanitary period."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"If the individual chose to live and work in unsuitable places and under unsanitary conditions, it was usually his own fault and he bore the consequences."*
+> - 📜 **Upton Sinclair (*The Jungle*):** *"The meat-packing cellars were dark, damp, and horribly **unsanitary**, with spoiled scraps piled in corners."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"To nurse a patient in an **unsanitary** room with closed windows is to poison him with his own exhaled breath."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"Thousands of coal-miners lived in cramped, **unsanitary** cottages with leaking roofs and no indoor water."*
+

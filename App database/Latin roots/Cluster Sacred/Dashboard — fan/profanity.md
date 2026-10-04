@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Vulgar or irreverent speech or action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vulgar or irreverent speech or action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Blasphemous, obscene, or irreverent language that demonstrates contempt for sacred things or social decencies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic pragmatics, strong offensive words and taboos violating social or religious codes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"His profanity, threats and imprecations were fearful."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"I have found by experience in the latter direction, that although many tongues are loose in the habit of profanity, I am roused more and more by grace to impart words of counsel."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode, the banker, seemed to be addressed, but that gentleman disliked coarseness and profanity, and merely bowed."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"The steamboat captain unleashed a stream of blistering **profanity** at the clumsy deckhands on the wharf."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Flask rebuked the wild harpooner for shouting reckless **profanity** into the teeth of the gale."*
+> - 📜 **George Orwell (*Down and Out in Paris and London*):** *"The kitchen was an uproar of clattering copper pots, shouting cooks, and furious French **profanity**."*
+

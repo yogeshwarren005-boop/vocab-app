@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By divine means.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By divine means.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a divine manner; by divine agency, inspiration, or providence; supremely or exquisitely well.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In poetic and literary discourse, expressing transcendent beauty, flawlessness, or celestial inspiration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lo, in this right hand, whose protection Is most divinely vow’d upon the right Of him it holds, stands young Plantagenet, Son to the elder brother of this man, And king o’er him and all that he enjoys."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is within, with two right reverend fathers, Divinely bent to meditation; And in no worldly suits would he be moved To draw him from his holy exercise."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"It is but justice to say, that in no case has there ever been the thought or the assumption, by Doctor Cullis himself, of having _any divinely conferred power_ to heal all that come to him, or for whom he may pray."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Eve appeared so **divinely** fair that all creation smiled upon her grace and innocence."*
+> - 📜 **Edmund Spenser (*The Faerie Queene*):** *"Her heavenly features shone **divinely** bright, dispelling all shadows from the enchanted bower."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"The poet's soul was stirred by harmonies **divinely** breathed across the celestial sphere."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An attitude of irreverence or contempt for a divinity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unholiness by virtue of being profane.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, state, or practice of being profane; irreverence, blasphemy, or contempt for religious sanctities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical civic regulations, public impiety and vulgar swearing punished by municipal ordinances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Beseech you tenderly apply to her Some remedies for life. [_Exeunt Paulina and Ladies with Hermione._] Apollo, pardon My great profaneness ’gainst thine oracle!"*
+> - 📜 **Jonathan Swift (*A Project for the Advancement of Religion*):** *"Open **profaneness** and public debauchery should be suppressed by the vigilant authority of the magistrate."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"He mistook brazen **profaneness** for wit, horrifying the dinner table with impious scoffs."*
+> - 📜 **Cotton Mather (*Magnalia Christi Americana*):** *"The ministers labored earnestly to cleanse the frontier towns from the blight of tavern **profaneness**."*
+

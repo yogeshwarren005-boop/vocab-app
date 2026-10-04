@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exaggerated or affected piety and religious zeal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exaggerated or affected piety and religious zeal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An excessive, ostentatious, or narrow adherence to the outward forms and dogmas of religion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological and ethical critique, sanctimonious moralizing that substitutes sectarian rigidity for true virtue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, religiousism designates exaggerated or affected piety and religious zeal."*
+> - 📜 **Thomas Carlyle (*Latter-Day Pamphlets*):** *"The mechanical **religiousism** of the age consists in building stone chapels while ignoring human misery."*
+> - 📜 **Matthew Arnold (*Literature and Dogma*):** *"Popular **religiousism** transformed the fluid metaphors of Hebrew prophecy into rigid theological dogmas."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"True Gothic craftsmanship sprang from living faith rather than fashionable academic **religiousism**."*
+

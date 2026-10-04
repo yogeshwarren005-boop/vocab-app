@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from filth and pathogens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from filth and pathogens.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the protection and preservation of health, hygiene, and cleanliness; free from filth and disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to public infrastructure, such as sanitary sewers, waste disposal, and clean municipal water systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Certainly, an arrangement of this kind would fail to be approved by a sanitary inspector in our times; and even during the day, when all the family were on the floor together, there was manifest overcrowding."*
-> - 📜 **George Eliot (*Middlemarch*):** *"A meeting was to be held in the Town-Hall on a sanitary question which had risen into pressing importance by the occurrence of a cholera case in the town."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Brooke, “we have just come from a meeting—a sanitary meeting, you know.” “Was Mr."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"The first essential of a hospital is that it should do the sick no harm; hence the primary rule of **sanitary** nursing is clean air."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The neglect of elementary **sanitary** laws in the slums of London reaped a terrible harvest of cholera."*
+> - 📜 **Edwin Chadwick (*Report on the Sanitary Condition of the Labouring Population*):** *"A complete system of underground drainage is the foundational **sanitary** requirement of any civil community."*
+

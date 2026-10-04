@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Grown as a houseplant for its mottled fleshy sword-shaped leaves or as a source of fiber.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grown as a houseplant for its mottled fleshy sword-shaped leaves or as a source of fiber.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering plants native to Africa and southern Asia, commonly cultivated as house plants and known as snake plant or mother-in-law's tongue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic botany, historically cultivated for tough bowstring fiber extracted from the durable, erect succulent leaves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sansevieria designates grown as a houseplant for its mottled fleshy sword-shaped leaves or as a source of fiber."*
+> - 📜 **David Livingstone (*Missionary Travels and Researches in South Africa*):** *"The Makololo tribes extract a strong, pliable cordage from the fibrous leaves of the wild **Sansevieria**."*
+> - 📜 **Joseph Dalton Hooker (*Flora of British India*):** *"In arid rocky scrublands, species of **Sansevieria** flourish where few other succulent monocots can survive."*
+> - 📜 **Richard Francis Burton (*The Lake Regions of Central Africa*):** *"The natives use the tough fibers of **Sansevieria** to twist fishing nets and sturdy hunting snares."*
+

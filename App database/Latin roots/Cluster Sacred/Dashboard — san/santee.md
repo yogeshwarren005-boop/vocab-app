@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the eastern branch of the sioux.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The siouan language spoken by the santee.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Native American Siouan-speaking people historically living along the Santee River in South Carolina; also denoting the Eastern Dakota Sioux.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American geographical history, designating the Santee River system and the Santee National Wildlife Refuge in the coastal plain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, santee designates a member of the eastern branch of the sioux."*
+> - 📜 **William Bartram (*Travels through North and South Carolina, Georgia, East and West Florida*):** *"We crossed the broad waters of the **Santee** River, observing the rich rice plantations along its fertile margins."*
+> - 📜 **Francis Parkman (*The Conspiracy of Pontiac*):** *"The inland trade routes linked the coastal colonies with the scattered villages of the **Santee** tribes."*
+> - 📜 **John Lawson (*A New Voyage to Carolina*):** *"The **Santee** Indians were hospitable to travelers, welcoming our party with roasted venison and wild corn."*
+

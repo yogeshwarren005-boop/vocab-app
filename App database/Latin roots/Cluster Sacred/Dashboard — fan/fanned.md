@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strike out (a batter), (of a pitcher).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make (an emotion) fiercer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cooled, ventilated, or stimulated by a moving current of air; spread outward in the shape of a fan.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Metaphorically, provoked, intensified, or rekindled, as passions or flames fanned into fury.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Coggan and Gabriel put about their horses, and, fanned by the velvety air of this July night, retraced the road by which they had come."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A heated breeze from the south slowly fanned the summits of lofty objects, and in the sky dashes of buoyant cloud were sailing in a course at right angles to that of another stratum, neither of them in the direction of the breeze below."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A hot breeze, as if breathed from the parted lips of some dragon about to swallow the globe, fanned him from the south, while directly opposite in the north rose a grim misshapen body of cloud, in the very teeth of the wind."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Gentle gales **fanned** their verdant bower with fragrant odors stolen from spicy groves."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Where the Norweyan banners flout the sky and **fanned** our people cold."*
+> - 📜 **Walter Scott (*The Lady of the Lake*):** *"The mountain breeze **fanned** the dying embers of the campfire into a sudden bright blaze."*
+

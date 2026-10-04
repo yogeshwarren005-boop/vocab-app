@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who predicts the future.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who predicts the future.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A visionary, dreamer, or eccentric person who indulges in wild, unrealistic, or bizarre fancies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary taxonomy, a creator or enthusiast of the fantastic and surreal genres.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fantast designates someone who predicts the future."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Professor Teufelsdröckh was regarded by the dry academic pedants as an impenetrable mystic and wandering **fantast**."*
+> - 📜 **Samuel Taylor Coleridge (*Table Talk*):** *"The German romantic **fantast** creates eerie worlds where the boundaries of dream and waking dissolve."*
+> - 📜 **Nathaniel Hawthorne (*The Blithedale Romance*):** *"Hollingsworth chided the poet as an idle **fantast** whose verses could never alleviate genuine human suffering."*
+

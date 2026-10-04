@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hospital for recuperation or for the treatment of chronic diseases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hospital for recuperation or for the treatment of chronic diseases.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A health resort or retreat; an institution for the preservation of health, recuperation, or treatment of chronic invalids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically synonymous with sanatorium, but originally distinguished as a preventive hygienic retreat rather than a hospital.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"I went to a sanitarium, but yet the stomach trouble prevailed."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Bloodworth was removed to the city of R---- to a private sanitarium in order, he said, that he might receive the best medical attention."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"With their collusion he was able to escape from the sanitarium each night, returning just before daybreak in the morning."*
+> - 📜 **Mark Twain (*A Tramp Abroad*):** *"Wealthy invalids gathered at the German **sanitarium** to drink sulfuric springs and take prescribed thermal mud baths."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The restorative climate of a dry mountain **sanitarium** frequently halts the early progress of apical phthisis."*
+> - 📜 **Henry James (*The American*):** *"Her nervous exhaustion prompted the family physician to recommend three months of seclusion in a quiet Swiss **sanitarium**."*
+

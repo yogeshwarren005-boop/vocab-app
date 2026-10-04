@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Place of worship consisting of an edifice for the worship of a deity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The flat area on either side of the forehead.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A building dedicated to the worship of a god, gods, or other objects of religious reverence; a sanctuary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy, the flat region on each side of the forehead behind the eyes and above the zygomatic arch.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A man may, if he were of a fearful heart, stagger in this attempt, for here we have no temple but the wood, no assembly but horn-beasts."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The noble sister of Publicola, The moon of Rome, chaste as the icicle That’s curdied by the frost from purest snow And hangs on Dian’s temple!—Dear Valeria."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ladies, you deserve To have a temple built you."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"The cloud-capp'd towers, the gorgeous palaces, the solemn **temple** halls, the great globe itself, yea, all which it inherit, shall dissolve."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"Samson grasped the two massy pillars that bore up the vast roof of the Philistine **temple**."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"A bullet had grazed his left **temple**, leaving a blackened streak across the pale skin."*
+

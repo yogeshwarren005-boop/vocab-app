@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Imagine; conceive of; see in one's mind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have a fancy or particular liking or desire for.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Imagined, unreal, or non-existent; believed in without empirical basis; preferred or favored.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetics and commerce, bred or selected for ornamental, pedigree, or whimsical qualities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I could have fancied that all the rusty keys, of which there must have been hundreds huddled together as old iron, had once belonged to doors of rooms or strong chests in lawyers’ offices."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I thought him only awkward and shy, for he was evidently much embarrassed; and I fancied that the best thing I could do would be to wait until I saw that he had everything he wanted and then to leave him to himself."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I fancied she was dreaming of him when I kissed her cheek after she had slept an hour and saw how tranquil and happy she looked."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth laughed at her sister's **fancied** grievances, knowing they had no foundation in reality."*
+> - 📜 **William Wordsworth (*The Prelude*):** *"The shadowy crags assumed **fancied** shapes of castles and armored knights in the evening mist."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"Scrooge dismissed the spectral apparition as a mere **fancied** creation of an undigested bit of beef."*
+

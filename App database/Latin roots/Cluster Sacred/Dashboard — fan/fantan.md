@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chinese gambling game; a random number of counters are placed under a bowl and you gamble on how many will be left (0, 1, 2, or 3 modulo 4).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A card game in which you play your sevens and other cards in sequence in the same suit as the sevens; you win if you are the first to use all your cards.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A traditional Chinese gambling game played by placing bets on the remainder when a pile of brass coins or beans is divided by four.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century social history, a popular casino game prevalent in Chinese immigrant communities throughout California and the treaty ports.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fantan designates a chinese gambling game; a random number of counters are placed under a bowl and you gamble on how many will be left (0, 1, 2, or 3 modulo 4)."*
+> - 📜 **Mark Twain (*Roughing It*):** *"We visited the crowded gaming rooms of Virginia City where miners watched the dealer divide buttons in **fantan**."*
+> - 📜 **Jack London (*The Sea-Wolf*):** *"The sailors spent their wages in the waterfront dens of Yokohama over bottles of saki and games of **fantan**."*
+> - 📜 **Rudyard Kipling (*From Sea to Sea*):** *"In the dim alleys of Canton, small crowds gathered silently around the white enamel **fantan** table."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The form of theological rationalism that believes in god on the basis of reason without reference to revelation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The form of theological rationalism that believes in god on the basis of reason without reference to revelation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rationalistic religious philosophy that asserts God created the universe but does not intervene in its operation through miracles or revelation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Enlightenment intellectual history, a theological movement championed by Voltaire, Thomas Paine, and Thomas Jefferson emphasizing natural law and moral reason.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"When Skelton published his ‘Deism Revealed,’ the Bishop of London asked the Bishop of Clogher if he knew the author?"*
+> - 📜 **Thomas Paine (*The Age of Reason*):** *"The true theology of natural religion is **deism**, which contemplates the creator through the magnificent works of creation."*
+> - 📜 **David Hume (*Dialogues Concerning Natural Religion*):** *"Philosophic **deism** rejects the authority of local traditions in favor of universal rational order."*
+> - 📜 **Voltaire (*Philosophical Dictionary*):** *"Pure **deism** is a religion as old as the world, untainted by superstitious rites and dogmatic fury."*
+

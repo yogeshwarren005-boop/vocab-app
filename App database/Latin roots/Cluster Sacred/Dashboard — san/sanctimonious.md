@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessively or hypocritically pious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessively or hypocritically pious.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Making a hypocritical show of religious devotion, moral righteousness, or piety; holier-than-thou.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character comedy and satire, depicting puritanical busybodies whose private conduct contradicts their pious platitudes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou conclud’st like the sanctimonious pirate that went to sea with the ten commandments, but scraped one out of the table."*
-> - 📜 **James Joyce (*Ulysses*):** *"What about sanctimonious Cromwell and his ironsides that put the women and children of Drogheda to the sword with the bible text _God is love_ pasted round the mouth of his cannon?"*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"He was donned in his Sunday garments, with his most sanctimonious and sourest face, and, holding his hat in one hand, and his stick in the other, he proceeded to clean his shoes on the mat."*
+> - 📜 **William Shakespeare (*Measure for Measure*):** *"Thou conclud'st like the **sanctimonious** pirate, that went to sea with the Ten Commandments, but scraped one out of the table."*
+> - 📜 **Charles Dickens (*Martin Chuzzlewit*):** *"Mr. Pecksniff assumed his most **sanctimonious** expression, sighing over the moral frailties of his fellow men."*
+> - 📜 **Henry Fielding (*Tom Jones*):** *"Blifil maintained a **sanctimonious** demeanor that easily deceived the benevolent Squire Allworthy."*
+

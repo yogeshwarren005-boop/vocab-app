@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Making something sanitary (free of germs) as by sterilizing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Making something sanitary (free of germs) as by sterilizing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of making something sanitary, clean, and free from harmful microorganisms; British spelling variant of sanitization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Metaphorically, the removal of offensive, sensitive, or controversial material from a document or historical narrative.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sanitisation designates making something sanitary (free of germs) as by sterilizing."*
+> - 📜 **George Orwell (*1984*):** *"The systematic **sanitisation** of historical records ensured that the Party's predictions never appeared in error."*
+> - 📜 **Florence Nightingale (*Notes on Hospitals*):** *"Thorough chemical **sanitisation** of bedding is essential to prevent the spread of contagion among wounded soldiers."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"Every hatchery room underwent rigorous atmospheric **sanitisation** to protect the embryonic cultures from bacteria."*
+

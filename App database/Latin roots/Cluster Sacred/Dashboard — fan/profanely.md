@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With curses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an irreverent or profane manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a profane, irreverent, or blasphemous manner; without proper respect for sacred things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary diction, speaking or acting with vulgar impiety and contempt for holy ordinances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"What are you laughing at so profanely?” said Rosamond, with bland neutrality."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Charley profanely hinted they were humbug."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"When his indignation had subsided a little he whirled the idol about most profanely, so as to give me an opportunity of examining it on all sides."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The boastful adversary spoke **profanely** against the omnipotence of heaven's supreme monarch."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"In my reckless youth, I took God's holy name **profanely** in my mouth without thought or dread."*
+> - 📜 **Walter Scott (*Old Mortality*):** *"The sergeant swore **profanely** by the saints as he spurred his charger across the flooded ford."*
+

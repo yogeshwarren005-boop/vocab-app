@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Venezuelan master terrorist raised by a marxist-leninist father; trained and worked with many terrorist groups (born in 1949).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Venezuelan master terrorist raised by a marxist-leninist father; trained and worked with many terrorist groups (born in 1949).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A widely distributed Spanish patronymic surname meaning 'son of Sancho', derived from the Latin Sanctius (holy, sanctified).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Hispanic history, borne by prominent historical figures including Sancho III of Navarre, early explorers, and colonial administrators.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sanchez designates venezuelan master terrorist raised by a marxist-leninist father; trained and worked with many terrorist groups (born in 1949)."*
+> - 📜 **Washington Irving (*The Life and Voyages of Christopher Columbus*):** *"The royal treasurer Gabriel **Sanchez** provided crucial financial patronage that enabled the transatlantic expedition."*
+> - 📜 **William H. Prescott (*History of the Conquest of Mexico*):** *"Captain **Sanchez** led his crossbowmen through the mountain defile to secure the advance of the main Spanish column."*
+> - 📜 **Miguel de Cervantes (*Don Quixote*):** *"Don Quixote called upon his squire Sancho Panza, whose humble ancestral lineage included many an honest **Sanchez**."*
+

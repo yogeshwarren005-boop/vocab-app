@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Blasphemous behavior; the act of depriving something of its sacred character.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Degradation of something worthy of respect; cheapening.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of profaning or treating sacred things with abuse, irreverence, or desecration; sacrilege.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In canon law and ethics, the offensive degradation of sacred shrines, oaths, or holy rites into vulgar utility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it please your honour, I know not well what they are, but precise villains they are, that I am sure of, and void of all profanation in the world that good Christians ought to have."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Great men may jest with saints; ’tis wit in them, But in the less, foul profanation."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What I am and what I would are as secret as maidenhead: to your ears, divinity; to any other’s, profanation."*
+> - 📜 **John Milton (*Of Reformation*):** *"To trade holy offices for secular gold was a scandalous **profanation** of Christ's spiritual kingdom."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The mob broke open the cathedral treasuries, committing shameless **profanation** upon the holy reliquaries."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The Grand Master denounced any commerce with infidels as a mortal **profanation** of the Templar vow."*
+

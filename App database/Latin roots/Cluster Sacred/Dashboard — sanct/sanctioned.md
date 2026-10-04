@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give sanction to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give authority or permission to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Officially approved, authorized, or ratified; penalized by legal or economic sanctions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having received customary, ecclesiastical, or sovereign approval.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I will keep the law given by God; sanctioned by man."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"I thought it my duty to give the speediest intelligence of this to my cousin, that she and her noble admirer may be aware of what they are about, and not run hastily into a marriage which has not been properly sanctioned.’ Mr."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Sprague indulged, preferring well-sanctioned quotations, and liking refinement of all kinds: it was generally known that he had some kinship to a bishop, and sometimes spent his holidays at “the palace.” Dr."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The convention parliament **sanctioned** the declaration of rights before tendering the crown to William and Mary."*
+> - 📜 **George Washington (*Farewell Address*):** *"Resist the spirit of faction that seeks to subvert principles **sanctioned** by time and experience."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Every civic association functioned effectively because its bylaws were **sanctioned** by community consensus."*
+

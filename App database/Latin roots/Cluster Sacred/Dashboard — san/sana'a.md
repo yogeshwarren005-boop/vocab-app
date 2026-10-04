@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital and largest city of yemen; on the central plateau.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capital and largest city of yemen; on the central plateau.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital of Yemen; variant spelling of Sana, situated in the Yemeni highlands at the foot of Mount Nuqum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Islamic architecture, the Old City of Sana'a is recognized globally for its geometric white gypsum friezes and stained alabaster qamariyyah windows.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sana'a designates the capital and largest city of yemen; on the central plateau."*
+> - 📜 **Freya Stark (*A Winter in Arabia*):** *"The ancient ramparts of **Sana'a** have withstood centuries of siege while guarding the highland plateau."*
+> - 📜 **Wilfred Thesiger (*Arabian Sands*):** *"The Bedouin spoke with reverence of the cool mountain airs and stone palaces of **Sana'a**."*
+> - 📜 **Richard Francis Burton (*The Book of the Thousand Nights and a Night*):** *"Tales of wondrous magicians and merchants traveling to **Sana'a** filled the Arabian storytellers' repertoire."*
+

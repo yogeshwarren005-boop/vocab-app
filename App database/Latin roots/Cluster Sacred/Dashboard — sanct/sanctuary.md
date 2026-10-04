@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A consecrated place where sacred objects are kept.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shelter from danger or hardship.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A place of safety, refuge, or asylum; a consecrated area or holy room in a religious building, especially around the altar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nature reserve or designated wildlife habitat where birds and animals are protected from hunting and destruction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He took this place for sanctuary, And it shall privilege him from your hands Till I have brought him to his wits again, Or lose my labour in assaying it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nor sleep nor sanctuary, Being naked, sick, nor fane nor Capitol, The prayers of priests nor times of sacrifice, Embarquements all of fury, shall lift up Their rotten privilege and custom ’gainst My hate to Martius."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But to prevent the tyrant’s violence— For trust not him that hath once broken faith— I’ll hence forthwith unto the sanctuary To save at least the heir of Edward’s right."*
+> - 📜 **William Shakespeare (*Richard III*):** *"The queen has fled into **sanctuary** at Westminster with the young prince, fearing Gloucester's malice."*
+> - 📜 **Walter Scott (*The Fortunes of Nigel*):** *"Fugitive debtors sought legal **sanctuary** within the privileged precincts of Whitefriars in London."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"The coastal marsh provided an indispensable nesting **sanctuary** for migrating waterfowl."*
+

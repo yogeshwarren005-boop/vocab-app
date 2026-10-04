@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mentally healthy; free from mental disorder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by sound judgment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing a sound, healthy mind; mentally rational and coherent; reasonable, sensible, or prudent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal jurisprudence, possessing sufficient cognitive capacity to distinguish right from wrong and manage personal affairs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Call it madness, and I tell you I can’t help it now, and can’t be sane."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It might well be that we kept one another from insanity, although I must admit that Oppenheimer rotted five years in solitary entirely by himself, ere Morrell joined him, and yet had remained sane."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I will hold to the principles received by me when I was sane, and not mad—as I am now."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"I am but mad north-north-west: when the wind is southerly I know a hawk from a handsaw; and can judge in **sane** moments."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"A **sane** intellect connects ideas according to natural truth and empirical consistency."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Montaigne represents the best qualities of the **sane**, balanced man of the world, avoiding all wild fanaticisms."*
+

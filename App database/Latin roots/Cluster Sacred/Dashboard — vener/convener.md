@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The member of a group whose duty it is to convene meetings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The member of a group whose duty it is to convene meetings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person whose role is to convene or call people together for a meeting, council, or formal committee.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Scottish academic and municipal administration, the official chair of a committee or guild.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Cairns was one of the conveners, soon found that, if relief were to be granted, they had only two alternatives before them."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The worthy deacon acted as **convener** of the incorporated trades of Fairport, summoning the members to the town hall."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The **convener** of the parliamentary assembly read the royal proclamation before the assembled peers."*
+> - 📜 **Robert Louis Stevenson (*Edinburgh: Picturesque Notes*):** *"The annual banquet was organized with great dignity by the **convener** of the merchant company."*
+

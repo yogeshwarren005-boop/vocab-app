@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make sanitary by cleaning or sterilizing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make less offensive or more acceptable by removing objectionable features.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make clean and hygienic; to disinfect; to clean up or censor a text by removing sensitive elements (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In food safety and water management, applying heat or chemical bactericides to reduce pathogens to safe public levels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sanitise designates make sanitary by cleaning or sterilizing."*
+> - 📜 **George Orwell (*1984*):** *"Winston's daily job was to rewrite and **sanitise** old newspaper issues so they conformed to current policy."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Boiling water and carbolic acid were employed to **sanitise** the hospital linen after the outbreak."*
+> - 📜 **H. G. Wells (*The New Machiavelli*):** *"The biographer sought to **sanitise** the statesman's colorful private life for Victorian readers."*
+

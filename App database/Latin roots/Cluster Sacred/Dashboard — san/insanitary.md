@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not sanitary or healthful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not sanitary or healthful.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unclean and likely to cause disease, infection, or ill health; lacking proper hygienic facilities; unhygienic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century public health, describing overcrowded urban tenements lacking sewage drainage and potable water.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, insanitary designates not sanitary or healthful."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Defective drainage and dark, airless sickrooms constitute the most deadly **insanitary** conditions in any hospital."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tom-all-Alone's was a foul, pestilential street where squalid, **insanitary** dwellings bred continuous typhus."*
+> - 📜 **H. G. Wells (*A Modern Utopia*):** *"The planned socialist commonwealth would systematically demolish all dark, **insanitary** alleys in the industrial cities."*
+

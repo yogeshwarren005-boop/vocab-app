@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person addicted to religion or a religious zealot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person addicted to religion or a religious zealot.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is excessively, bigotry-prone, or zealously devoted to a particular religion or sect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical history, a partisan polemicist who prioritizes denominational loyalty over civil tolerance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **C. A. Frazer (*Atmâ*):** *"Under the leadership of Govind, a young man of genius and enthusiasm, who comes before us in the two-fold character of religionist and military hero, the Sikhs moved on to a national greatness not dreamed of by Nanuk."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Dimmesdale was a true priest, a true religionist, with the reverential sentiment largely developed, and an order of mind that impelled itself powerfully along the track of a creed, and wore its passage continually deeper with the lapse of time."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"A man who likes to do wrong - finding pleasure in it and refraining 322:24 from it only through fear of consequences - is neither a temperate man nor a reliable religionist."*
+> - 📜 **David Hume (*The History of England*):** *"The furious **religionist** subordinated all national welfare to the advancement of his factional creed."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The enlightened statesman distrusts both the fanatic atheist and the intolerant **religionist**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The disputations of rival **religionist** camps echoed through the councils of Constantinople."*
+

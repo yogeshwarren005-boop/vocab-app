@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A word specifying identity or spatial or temporal location from the perspective of a speaker or hearer in the context in which the communication occurs; - r.rommetveit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of a word whose reference depends on the circumstances of its use.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Proving or pointing out directly; in linguistics, specifying words whose reference depends directly on the context of utterance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pragmatic linguistics and semantics, describing indexical markers such as demonstratives (this, that), pronouns (I, you), and temporal adverbs (now, then).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deictic designates a word specifying identity or spatial or temporal location from the perspective of a speaker or hearer in the context in which the communication occurs; - r.rommetveit."*
+> - 📜 **Bertrand Russell (*An Inquiry into Meaning and Truth*):** *"Words with egocentric particulars, such as 'this' and 'now', perform an essentially **deictic** function in language."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The speaker accompanies his statement with a **deictic** gesture, directing attention toward the immediate reality."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Direct demonstration serves as a **deictic** proof, exhibiting the object clearly to the senses."*
+

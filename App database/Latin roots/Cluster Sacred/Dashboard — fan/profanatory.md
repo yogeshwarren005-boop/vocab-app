@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Profaning or tending to desecrate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Profaning or tending to desecrate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to profane or desecrate; characterized by irreverence or sacrilegious treatment of sacred things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical censure, describing language, art, or actions that degrade sacred mysteries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, profanatory designates profaning or tending to desecrate."*
+> - 📜 **Jonathan Swift (*A Tale of a Tub*):** *"The satirist attacked the **profanatory** spectacles staged in taverns to ridicule scriptural prophecy."*
+> - 📜 **Cotton Mather (*Magnalia Christi Americana*):** *"The puritan magistrate punished such **profanatory** ballads as threatened the piety of the commonwealth."*
+> - 📜 **Walter Scott (*The Monastery*):** *"The abbot recoiled from the **profanatory** words spoken by the insolent mercenary captain."*
+

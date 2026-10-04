@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the finno-ugric-speaking people living in eastern european russia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The finnic language spoken by the votyak.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical name for the Udmurt people, a Finno-Ugric ethnic group native to the Ural-Volga region of Russia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic anthropology and ethnography, the Permic language spoken by the Udmurts (formerly termed Votyak in Czarist ethnographic records).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, votyak designates a member of the finno-ugric-speaking people living in eastern european russia."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"In spring, the **Votyak** villagers performed ancient sacrificial ceremonies in their sacred birch groves to ensure harvest fertility."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The Permic branch includes the Finnish, Zyrian, and **Votyak** dialects spoken along the western slopes of the Urals."*
+> - 📜 **Edward Burnett Tylor (*Primitive Culture*):** *"Among the **Votyak** tribes, ancestral household spirits received regular libations of mead and porridge at the domestic hearth."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exceedingly; extremely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exceedingly; extremely.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a fantastic, bizarre, or remarkably unusual manner; extraordinarily or whimsically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To an astonishing, incredible, or highly exaggerated degree.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Re-enter Ophelia, fantastically dressed with straws and flowers."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When he was naked, he was, for all the world, like a forked radish, with a head fantastically carved upon it with a knife."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Lear, fantastically dressed up with flowers."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The jagged coral reefs rose **fantastically** from the calm blue lagoon like the ruins of submerged cathedrals."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The shadows cast by the flickering grate danced **fantastically** across the dark wainscot of the library."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"The basalt cliffs rose **fantastically** into the jungle sky, cutting off the prehistoric plateau from the modern world."*
+

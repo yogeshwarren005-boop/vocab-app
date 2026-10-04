@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By religion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By religion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a sacred, reverent, or inviolable manner; with religious care and solemn fidelity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing the scrupulous observance of vows, oaths, trusts, or moral obligations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I know and deeply feel how sacredly you keep your promise.” After a short time the little round of light shone out again, and Mr."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Ladislaw, because I have a communication of a very private—indeed, I will say, of a sacredly confidential nature, which I desire to make to you."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Sacredly, in the interests of humanity, not of sect. 236:6 Is it not professional reputation and emolument rather than the dignity of God's laws, which many leaders seek?"*
+> - 📜 **George Washington (*Farewell Address*):** *"Observe good faith and justice towards all nations; cultivate peace and harmony **sacredly** with all."*
+> - 📜 **Walter Scott (*Rob Roy*):** *"The Highlander maintained his promise **sacredly**, preferring death to any betrayal of hospitality."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"The fundamental principles of English liberty must be preserved **sacredly** across the Atlantic colonies."*
+

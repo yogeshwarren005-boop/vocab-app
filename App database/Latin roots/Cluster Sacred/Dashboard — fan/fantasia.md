@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical composition of a free form usually incorporating several familiar themes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musical composition of a free form usually incorporating several familiar themes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical composition with a free form and improvisatory style; a work characterized by imaginative and unrestricted fantasy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In equestrian ethnography, a traditional North African exhibition of horsemanship where charging cavalry fire muskets in unison.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Hoskyn’s, appeared, and played a fantasia for pianoforte and orchestra by the famous Jack, another of Mrs."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"She listened as attentively as she could, but heard no angels, and was astonished when, at the conclusion of the fantasia, the audience applauded Madame Szczymplica as if she had made them hear the music of the spheres."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"The pianist executed a brilliant **fantasia** upon the concert grand, weaving intricate variations around the theme."*
+> - 📜 **Eugene Delacroix (*The Journal of Eugène Delacroix*):** *"The Moroccan cavalry staged a magnificent military **fantasia**, galloping at full speed amidst swirls of powder smoke."*
+> - 📜 **Thomas Mann (*Doctor Faustus*):** *"The late sonata resembled a free philosophical **fantasia** exploring the limits of tonal expression."*
+

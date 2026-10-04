@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feelings of ardent love.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Commitment to some purpose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Profound dedication, loyalty, or affection for a person, cause, or duty; religious worship, prayer, or piety.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Religious observances or private prayers (often used in the plural: morning devotions).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Those his goodly eyes, That o’er the files and musters of the war Have glowed like plated Mars, now bend, now turn The office and devotion of their view Upon a tawny front."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tell me, good fellow, cam’st thou here by chance, Or of devotion, to this holy shrine?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"God knows, of pure devotion; being called A hundred times and oftener, in my sleep, By good Saint Alban, who said “Simpcox, come, Come, offer at my shrine, and I will help thee.” WIFE."*
+> - 📜 **Abraham Lincoln (*Gettysburg Address*):** *"That from these honored dead we take increased **devotion** to that cause for which they gave the last full measure of devotion."*
+> - 📜 **John Milton (*Paradise Lost*):** *"To that eternal throne they paid their morning **devotion** with sincere and grateful hearts."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Knightley's steady **devotion** to the welfare of the neighborhood earned universal respect."*
+

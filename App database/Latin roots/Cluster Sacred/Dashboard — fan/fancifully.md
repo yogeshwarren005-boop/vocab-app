@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a fanciful manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a fanciful manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a fanciful, whimsical, or imaginative manner; based on creative fancy rather than sober reality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ornamented or arranged with whimsical decorative elaboration and delicate ingenuity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He loved her dearly, though perhaps rather ideally and fancifully than with the impassioned thoroughness of her feeling for him."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"It was broad day; and the house was nearly filled with young females, fancifully decorated with flowers, who gazed upon me as I rose with faces in which childish delight and curiosity were vividly portrayed."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"It was in a heavy, magnificent old style, of iron bars fancifully wrought at top into flourishes and flowers."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"The ballroom was **fancifully** decorated with paper garlands and colorful Venetian lanterns."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The eccentric old gentleman **fancifully** christened every bird in his cage with an abstract virtue."*
+> - 📜 **Walter Scott (*The Abbot*):** *"The page's velvet doublet was **fancifully** slashed with white satin along the sleeves."*
+

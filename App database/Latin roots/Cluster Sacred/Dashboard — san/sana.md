@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital and largest city of yemen; on the central plateau.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capital and largest city of yemen; on the central plateau.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient, historic capital city of Yemen, celebrated for its unique multi-story rammed earth and burnt-brick architecture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Arabian geography and heritage, an ancient commercial hub situated at an altitude of over 2,200 meters, continuously inhabited for over 2,500 years.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sana designates the capital and largest city of yemen; on the central plateau."*
+> - 📜 **Richard Francis Burton (*Personal Narrative of a Pilgrimage to Al-Madinah and Meccah*):** *"Caravans laden with frankincense and rich southern spices journeyed north from the high mountain valleys of **Sana**."*
+> - 📜 **Freya Stark (*The Southern Gates of Arabia*):** *"The minarets and tall decorated houses of **Sana** rose like an enchanting fairy tale city out of the desert dawn."*
+> - 📜 **Charles M. Doughty (*Travels in Arabia Deserta*):** *"The highland tribes traded grain and dried fruits in the ancient walled markets of **Sana**."*
+

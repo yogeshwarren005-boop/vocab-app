@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By religion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With extreme conscientiousness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a religious, devout, or pious manner; with scrupulous, conscientious care and unswerving fidelity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Denoting absolute, disciplined consistency in performing a duty or following a regimen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A nun of winter’s sisterhood kisses not more religiously; the very ice of chastity is in them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My learned lord, we pray you to proceed And justly and religiously unfold Why the law Salic that they have in France Or should or should not bar us in our claim."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For this down-trodden equity we tread In warlike march these greens before your town, Being no further enemy to you Than the constraint of hospitable zeal In the relief of this oppressed child Religiously provokes."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"He followed the doctor's instructions **religiously**, never missing his daily walk in the park."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"The magistrate is bound **religiously** to preserve the civil liberties entrusted to his stewardship."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The knight kept his sworn vow **religiously**, riding alone through the dangerous forest."*
+

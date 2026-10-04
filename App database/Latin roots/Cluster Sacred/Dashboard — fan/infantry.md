@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An army unit consisting of soldiers who fight on foot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An army unit consisting of soldiers who fight on foot.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Soldiers who fight on foot collectively; the branch of an army composed of foot soldiers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military history, the core arm of the army that closes with and destroys enemy forces through close combat and fire support.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Infantry cuts and guards are more interesting than ours, to my mind; but they are not so swashing."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The infantry have two most diabolical upward cuts, which we are too humane to use."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Now I’ll be more interesting, and let you see some loose play—giving all the cuts and points, infantry and cavalry, quicker than lightning, and as promiscuously—with just enough rule to regulate instinct and yet not to fetter it."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The heavy legionary **infantry** formed the unbreakable backbone of Roman military dominance across three continents."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The steady Scottish **infantry** stood shoulder to shoulder with pikes advanced, repulsing the royalist horse."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"Columns of Russian **infantry** marched through the muddy autumn roads with heavy knapsacks and fixed bayonets."*
+

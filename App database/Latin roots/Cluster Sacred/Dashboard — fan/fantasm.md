@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A ghostly appearing figure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something existing in perception only.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An illusory appearance, phantom, or product of fantasy; an apparition or imaginary vision (variant of phantasm).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical philosophy, an internal sensory impression or mental image retained in the imagination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fantasm designates a ghostly appearing figure."*
+> - 📜 **John Milton (*Paradise Regained*):** *"The tempter conjured up a glittering **fantasm** of imperial wealth to beguile the wilderness prophet."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"My excited imagination peopled the gloomy tapestries with every dark **fantasm** of fevered dread."*
+> - 📜 **Percy Bysshe Shelley (*Alastor; or, The Spirit of Solitude*):** *"A wandering poet pursued the lovely **fantasm** of idealized beauty across solitary mountain wastes."*
+

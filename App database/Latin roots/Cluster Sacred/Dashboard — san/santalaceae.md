@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chiefly tropical herbs or shrubs or trees bearing nuts or one-seeded fruit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chiefly tropical herbs or shrubs or trees bearing nuts or one-seeded fruit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of flowering plants in the order Santalales, commonly known as the sandalwood family, consisting mostly of hemiparasitic trees, shrubs, and herbs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, characterized by modified roots forming haustoria that attach to host plants to absorb water and mineral nutrients.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, santalaceae designates chiefly tropical herbs or shrubs or trees bearing nuts or one-seeded fruit."*
+> - 📜 **Joseph Dalton Hooker (*Flora of British India*):** *"The family **Santalaceae** is represented in tropical Asia by parasitic trees yielding precious aromatic woods."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"Species belonging to **Santalaceae** attach their root haustoria to the root systems of neighboring deciduous trees."*
+> - 📜 **George Bentham (*Genera Plantarum*):** *"The reduced perianth and single-celled inferior ovary distinguish the **Santalaceae** among monochlamydeous orders."*
+

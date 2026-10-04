@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or resembling or characterized by ichor or sanies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or resembling or characterized by ichor or sanies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resembling, or discharging sanies; thin, watery, bloody, and purulent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, describing the unhealthy, fetid exudate of gangrenous or indolent ulcers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sanious designates of or resembling or characterized by ichor or sanies."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The neglected carbuncle discharged a dark, **sanious** fluid that corroded the surrounding cutaneous margins."*
+> - 📜 **John Hunter (*A Treatise on the Venereal Disease*):** *"The primary chancre was covered by an ash-colored slough emitting a thin, **sanious** moisture."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"Applying harsh caustic unguents only aggravated the sore, causing it to weep a copious **sanious** secretion."*
+

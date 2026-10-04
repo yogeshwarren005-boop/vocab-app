@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being sacred.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being sacred.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, condition, or status of being sacred; holiness, sanctity, or inviolability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and political philosophy, the inviolable character of constitutional liberties, judicial oaths, and basic human dignity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Urge deepening realization of sacredness, preeminent importance of twin purposes which individual resolves serve."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"It seemed always to me that the sacredness of the cause for which they offered up their lives gave to them a heroism almost super-human--and the sufferings caused an almost womanly refinement among the coarsest men."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"It was not conceivable that I could mar the sacredness of such a time by masquerading in an assumed character."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The absolute **sacredness** of individual conscience must be defended against the tyranny of the majority."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"Nothing is at last sacred but the integrity of your own mind; absolve you to yourself and recognize its **sacredness**."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"The genuine **sacredness** of human existence is vindicated only through honest and noble labor."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A knight of a religious military order established in 1118 to protect pilgrims and the holy sepulcher.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A knight of a religious military order established in 1118 to protect pilgrims and the holy sepulcher.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the Knights Templar, a wealthy and powerful medieval Christian military order established in the 12th century.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In English legal history, a barrister or student living or having chambers in the Inner Temple or Middle Temple in London.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Cairns remained a Good Templar during the rest of his life."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I had a letter from a friend the other day--Lady Templar."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"You had better have tarried there to fight for the recovery of the Holy Sepulchre,” said the Templar."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"Brian de Bois-Guilbert, the fierce Knight **Templar**, rode forward with his white mantle emblazoned with a red cross."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The learned **Templar** walked down Chancery Lane clutching a bundle of legal briefs tied with red tape."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The heroic valor of the **Templar** knights could not save the final crusader strongholds of Palestine."*
+

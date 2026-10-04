@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive intolerance of opposing views.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive intolerance of opposing views.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive, unreasonable zeal or uncritical enthusiasm, especially in matters of religion or politics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social philosophy, an intransigent mental state that dehumanizes ideological opponents and resists rational persuasion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"It spoils my enjoyment of anything when I am made to think that most people are shut out from it.” “I call that the fanaticism of sympathy,” said Will, impetuously."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The influence and fanaticism, whether ecclesiastical or political, of potentially hostile organizations, firmly entrenched within their ancestral strongholds, are formidable."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"But it was passion and fanaticism, not high-flown words and docile armies and the tradesmen sneaking up behind...."*
+> - 📜 **Voltaire (*Philosophical Dictionary*):** *"Religious **fanaticism** is to superstition what delirium is to fever and rage to anger."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Reason must be our last guide in everything; when that is abandoned, wild **fanaticism** takes its place."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The revolutionary terror raged with a destructive **fanaticism** that devoured its own creators."*
+

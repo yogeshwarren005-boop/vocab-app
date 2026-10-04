@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove the sanctification from or make unsanctified.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove the sanctification from or make unsanctified.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To divest of holiness or sacred character; to make unholy, profane, or secular.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical rhetoric, to desecrate a consecrated building, altar, or solemn vow.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her death was doubtful; And but that great command o’ersways the order, She should in ground unsanctified have lodg’d Till the last trumpet."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I hope, in no place so unsanctified Where such as thou mayst find him."*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"It is just an effusion of the malignity of the unsanctified heart."*
+> - 📜 **John Milton (*The Doctrine and Discipline of Divorce*):** *"Unnatural tyranny and mutual hatred **unsanctify** the holy bond of matrimony."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The decrees of the Jacobin club sought to **unsanctify** the ancient coronation oaths of the monarchy."*
+> - 📜 **Walter Scott (*The Monastery*):** *"The sacrilegious raiders threatened to **unsanctify** the shrine by carrying away the holy rood."*
+

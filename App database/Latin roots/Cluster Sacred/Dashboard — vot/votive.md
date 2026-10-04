@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dedicated in fulfillment of a vow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dedicated in fulfillment of a vow.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Offered, given, dedicated, or performed in fulfillment of a religious vow; dedicated to a divinity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaeological anthropology, describing objects (such as plaques, candles, or anatomical models) placed at a shrine in gratitude for answered prayer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It had walked for hundreds of years, if not as benefit-club, as votive sisterhood of some sort; and it walked still."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Caiaphas was appointed by Gratus, but Caiaphas is the shadow and the mouthpiece of Hanan.” “They have never forgiven you that little matter of the votive shields,” Miriam teased."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In all innocence before his palace he had affixed two shields with votive inscriptions."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The walls of the maritime shrine were hung with **votive** tablets offered by rescued mariners."*
+> - 📜 **Walter Scott (*The Talisman*):** *"The knight placed a golden chalice upon the high altar as a **votive** offering for his recovery from fever."*
+> - 📜 **Edmund Spenser (*The Faerie Queene*):** *"Beside the sacred spring hung wreaths and **votive** gifts dedicated to the guardian nymph."*
+

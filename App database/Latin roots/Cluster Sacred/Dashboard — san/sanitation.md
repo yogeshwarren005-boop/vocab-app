@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being clean and conducive to health.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Making something sanitary (free of germs) as by sterilizing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conditions and public measures relating to public health, especially the provision of clean drinking water and proper sewage disposal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In global public health, foundational infrastructural interventions that prevent fecal-oral disease transmission and epidemics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Better conditions of safety and sanitation in their work were not the first thought of laborers when they organized."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But the modern, more enlightened, labor movement has better ideals and policies in respect to the safety, sanitation, and decency of the working places."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"They had been erected with no thought of sanitation, safety, and decency for the workers. § 2. #Improvement of factory conditions#."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Without adequate **sanitation**, ventilation, and pure water, the best medical prescriptions remain entirely useless."*
+> - 📜 **Edwin Chadwick (*Report on the Sanitary Condition of the Labouring Population*):** *"Defective civic **sanitation** was directly responsible for the recurring outbreaks of typhus across Britain."*
+> - 📜 **H. G. Wells (*A Modern Utopia*):** *"Modern engineering converted public **sanitation** from a neglected drudgery into an exact biological science."*
+

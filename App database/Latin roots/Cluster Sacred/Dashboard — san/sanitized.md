@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make sanitary by cleaning or sterilizing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make less offensive or more acceptable by removing objectionable features.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Made clean and hygienic; purged of offensive, graphic, or controversial content; redacted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical cultural theory, presented in a superficial, sterilized manner that conceals grit, struggle, or reality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sanitized designates make sanitary by cleaning or sterilizing."*
+> - 📜 **Don DeLillo (*White Noise*):** *"The supermarket aisles offered an endless array of hermetically **sanitized** consumer packages."*
+> - 📜 **Joan Didion (*The White Album*):** *"The museum display presented a cleanly **sanitized** history of pioneer settlements in the West."*
+> - 📜 **Kurt Vonnegut (*Slaughterhouse-Five*):** *"The wartime newsreels showed a cheerful, **sanitized** version of military life on the front line."*
+

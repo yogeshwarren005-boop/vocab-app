@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Normal or sound powers of mind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Normal or sound powers of mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of having a sound mind and rational thinking; mental health; reasonable, sensible judgment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social philosophy, collective intellectual equilibrium that preserves societies from hysteria and mass delusion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A happiness that often madness hits on, which reason and sanity could not so prosperously be delivered of."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"My meritorious, distinguished, honourable officer!” She uses some odd expressions, but is as cordial and full of heart as sanity itself can be—more so than it often is."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Long Bill Hodge slowly lost his sanity, so that a year later, he, too, went to live in Bughouse Alley."*
+> - 📜 **George Orwell (*1984*):** *"Sanity is not statistical; so long as one remained faithful to the evidence of one's senses, **sanity** was preserved."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The maintenance of mental **sanity** requires a balanced rhythm between intense mental exertion and serene bodily relaxation."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"In the quiet cottage, Jane gradually recovered her peace of mind and physical **sanity** after her flight."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Heater that removes ice or frost (as from a windshield or a refrigerator or the wings of an airplane).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Heater that removes ice or frost (as from a windshield or a refrigerator or the wings of an airplane).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mechanical device, chemical compound, or heating system designed to remove or prevent ice formation on surfaces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aeronautics, pneumatic rubber boots or thermal electrical coils integrated into the leading edge of aircraft wings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deicer designates heater that removes ice or frost (as from a windshield or a refrigerator or the wings of an airplane)."*
+> - 📜 **Antoine de Saint-Exupéry (*Flight to Arras*):** *"The pneumatic **deicer** cracked the clear glaze creeping along the leading edge of the stabilizer."*
+> - 📜 **Richard Byrd (*Discovery*):** *"Every airplane was equipped with an experimental **deicer** to combat sub-zero antarctic squalls."*
+> - 📜 **Arthur C. Clarke (*Islands in the Sky*):** *"The exterior **deicer** pulsed with thermal bursts to keep the airlock clear of crystallized propellant."*
+

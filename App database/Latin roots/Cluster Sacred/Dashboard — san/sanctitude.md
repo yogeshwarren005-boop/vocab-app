@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being holy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being holy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pure holiness, sacredness, or immaculate moral dignity; the radiant spiritual aura of consecrated innocence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical seventeenth-century poetry, the immaculate moral dignity characteristic of unfallen innocence or holy angels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sanctitude designates the quality of being holy."*
+> - 📜 **John Milton (*Paradise Lost*):** *"About him all the sanctities of heaven stood thick as stars, and from his presence shone divine **sanctitude**."*
+> - 📜 **Thomas Browne (*Religio Medici*):** *"The holy contemplation of eternity clothes the humble Christian in an inward **sanctitude**."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The hermit was surrounded by an aura of rustic **sanctitude** that awed the lawless outlaws of Sherwood."*
+

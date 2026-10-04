@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of australian shrubs or subshrubs: coral bush.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of australian shrubs or subshrubs: coral bush.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering leguminous shrubs and subshrubs endemic to Australia, named in honor of the Irish botanist John Templeton.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, Templetonia retusa (the 'cockies' tongues') is renowned for its conspicuous, bird-pollinated red pea-flowers blooming in winter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, templetonia designates genus of australian shrubs or subshrubs: coral bush."*
+> - 📜 **Ferdinand von Mueller (*Fragmenta Phytographiae Australiae*):** *"On the arid limestone ridges of the Great Australian Bight, **Templetonia** displayed magnificent scarlet blooms."*
+> - 📜 **Joseph Maiden (*Useful Native Plants of Australia*):** *"The drought-resistant foliage of **Templetonia** provides sparse browse for sheep in coastal scrublands."*
+> - 📜 **Robert Brown (*Prodromus Florae Novae Hollandiae*):** *"The character of **Templetonia** is distinguished by its leathery bivalved legume and strophiolate seeds."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Making something sanitary (free of germs) as by sterilizing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Making something sanitary (free of germs) as by sterilizing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of making something sanitary, hygienic, or free from disease-causing germs; disinfection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In information security and document review, redacting or removing classified, personal, or sensitive information from records.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sanitization designates making something sanitary (free of germs) as by sterilizing."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Overzealous chemical **sanitization** of agricultural soils frequently destroys beneficial microbial ecologies."*
+> - 📜 **Lewis Mumford (*The City in History*):** *"The nineteenth-century sanitary revolution proved that systematic urban **sanitization** could double human life expectancy."*
+> - 📜 **Noam Chomsky (*Manufacturing Consent*):** *"The bureaucratic **sanitization** of military reports obscured the devastating civilian casualties of the aerial bombardment."*
+

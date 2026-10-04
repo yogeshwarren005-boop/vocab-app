@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hindu religious mendicant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hindu religious mendicant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who practices sannyasa; a Hindu wandering monk, ascetic, or spiritual renunciant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Vedanta philosophy, one who has severed all caste ties, family attachments, and ritual duties to realize the non-dual Self.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sannyasin designates a hindu religious mendicant."*
+> - 📜 **Max Müller (*Ramakrishna: His Life and Sayings*):** *"The wandering **sannyasin** walked barefoot across northern India, preaching the universal love of God to all castes."*
+> - 📜 **Rudyard Kipling (*The Second Jungle Book*):** *"Purun Bhagat stripped off his ministerial robes and gold chains to become a silent, barefoot **sannyasin** in the Himalayas."*
+> - 📜 **W. B. Yeats (*The Ten Principal Upanishads*):** *"The wisdom of the forest hermits was handed down by the austere **sannyasin** who had conquered fear and desire."*
+

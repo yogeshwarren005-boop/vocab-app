@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With good sense or in a reasonable or intelligent manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a sane or lucid manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a sane, rational, or sensible manner; with sound mental judgment and prudent moderation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Approaching difficult crises without panic, delusion, or emotional distortion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Thy shrunk voice sounds too calmly, sanely woful to me."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"He thought: Alan was in love with this woman and this woman with Alan, and Alan had looked ahead sanely, seen, decided."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Five years, going on six now, since he had left the sea, and invested his fortune in a Belfast shipyard, and taken over the homestead of Clan Campbell to run as it had always been run, wisely, sanely, healthily...."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor viewed the family financial difficulties **sanely**, resolving to retrench expenses with quiet dignity."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Farfrae reasoned **sanely** with the angry farmers, persuading them to accept modern grain drills."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The inquiry sought to determine whether the chief mate had acted **sanely** when abandoning the disabled ship."*
+

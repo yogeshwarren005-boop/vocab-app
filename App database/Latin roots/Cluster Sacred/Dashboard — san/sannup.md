@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A married male american indian.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A married male american indian.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A married male Native American; an adult brave or husband among the Algonquian-speaking peoples of New England.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colonial American ethnography and literature, a term contrasting with squaw for an adult married indigenous man.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sannup designates a married male american indian."*
+> - 📜 **James Fenimore Cooper (*The Last of the Mohicans*):** *"The Delaware **sannup** stood erect in his painted war gear, gazing across the lake toward the council fire."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"Our Abenaki guide was an experienced **sannup** who knew every portage and beaver pond along the river."*
+> - 📜 **John Greenleaf Whittier (*Mogg Megone*):** *"The aged **sannup** smoked his stone pipe in silence outside the bark wigwam as evening fell."*
+

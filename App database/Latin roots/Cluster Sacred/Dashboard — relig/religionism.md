@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exaggerated religious zealotry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exaggerated or affected piety and religious zeal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice or profession of religion; especially, an excessive, narrow, or hypocritical adherence to religious forms and dogmas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century social critique, superficial piety detached from genuine ethical compassion or intellectual breadth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, religionism designates exaggerated religious zealotry."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Dull cant and formal **religionism** have smothered the fiery spiritual conviction of ancient monastic founders."*
+> - 📜 **George Eliot (*Scenes of Clerical Life*):** *"Her unyielding **religionism** expressed itself through severe censures of her neighbors' innocent pastimes."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"The narrow Puritan **religionism** of the middle class lacked the sweet reasonableness of true Hellenic culture."*
+

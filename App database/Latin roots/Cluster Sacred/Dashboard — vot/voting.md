@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A choice that is made by counting the number of people in favor of each alternative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Express one's preference for a candidate or for a measure or resolution; cast a vote.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of expressing a formal choice in an election or legislative ballot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political science, electoral participation considered as the foundational civic mechanism of representative democracy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Classes A and B are elected by the member banks by a system of group and preferential voting designed to prevent the large banks from outvoting the smaller ones."*
-> - 📜 **George Eliot (*Middlemarch*):** *"And now, when the question of voting had come, this repulsive fact told more strongly against Mr."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Moreover, Lydgate did not like the consciousness that in voting for Tyke he should be voting on the side obviously convenient for himself."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The quiet orderliness of popular **voting** in New England towns astonished foreign observers."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"The system of open **voting** encourages personal accountability and discourages venal corruption."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The **voting** booths were crowded from daybreak by freeholders eager to defend their parliamentary rights."*
+

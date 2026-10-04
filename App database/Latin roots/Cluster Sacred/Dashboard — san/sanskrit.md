@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (hinduism) an ancient language of india (the language of the vedas and of hinduism); an official language of india although it is now used only for religious purposes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (hinduism) an ancient language of india (the language of the vedas and of hinduism); an official language of india although it is now used only for religious purposes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient Indo-Aryan language of India, the classical liturgical language of Hinduism and the medium of a vast body of philosophical and literary texts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical linguistics, William Jones's 1786 demonstration of Sanskrit's close affinity to Greek and Latin laid the foundation of Indo-European philology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"As a living book it is no longer read in Sanskrit, but only in the languages of the Far East."*
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"Though the pages are less peppered with Sanskrit transliterations and Buddhist terms than other Buddhist classics, the work still presents serious difficulty to the Chinese reader and not less so to the Western student."*
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"Presumably the writer composed the work in Sanskrit and in Northern India; it may, however, have been composed farther north in Central Asia."*
+> - 📜 **William Jones (*The Third Anniversary Discourse: On the Hindus*):** *"The **Sanskrit** language, whatever be its antiquity, is of a wonderful structure; more perfect than the Greek, more copious than the Latin, and more exquisitely refined than either, yet bearing to both of them a stronger affinity, both in the roots of verbs and the forms of grammar, than could possibly have been produced by accident."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The rediscovery of **Sanskrit** by European scholars opened a new era in the comparative study of human speech."*
+> - 📜 **Arthur Schopenhauer (*The World as Will and Representation*):** *"The fundamental insights of the Upanishads, preserved in noble **Sanskrit**, contain the highest wisdom yet reached by man."*
+

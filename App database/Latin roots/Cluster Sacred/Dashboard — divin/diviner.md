@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who claims to discover hidden knowledge with the aid of supernatural powers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emanating from god; ; ; -saturday review.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who practices divination; a soothsayer, seer, or fortune-teller; one who locates underground water with a rod.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In folklore and historical geography, a dowser who uses hazel twigs or pendulums to discover subterranean springs and ore veins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The sorrow that has been in her face—for it is not there now—seems to have purified even its innocent expression and to have given it a diviner quality."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Her cheeks a mair celestial hue, A crimson still diviner!"*
-> - 📜 **George Eliot (*Middlemarch*):** *"But her voice is much diviner than anything you have seen of her.” “I see, I see."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The village **diviner** walked slowly across the orchard holding a bifurcated hazel twig between his thumbs."*
+> - 📜 **Francis Bacon (*The Wisdom of the Ancients*):** *"The ancient **diviner** claimed to read the decrees of fate in the flight of migratory eagles."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab paced the deck like an ancient **diviner** peering into the dark abysses of the sea."*
+

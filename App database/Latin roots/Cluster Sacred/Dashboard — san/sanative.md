@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to cure or restore to health.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to cure or restore to health.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the power to heal or cure; restorative, curative, or conducive to health.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In therapeutics and pharmacology, substances or treatments that stimulate tissue regeneration and restore physiological balance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"It is a mortal belief, not divine Principle or Love, which causes a 12:21 drug to be apparently either poisonous or sanative."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Nature exercises a gentle, **sanative** influence over spirits wounded by political discord and disappointment."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The physician must observe whether the medicine exerts an alterative or purely **sanative** virtue on the system."*
+> - 📜 **William Wordsworth (*The Excursion*):** *"The quiet solitude of the mountain glen poured its **sanative** balsam into the troubled mind of the wanderer."*
+

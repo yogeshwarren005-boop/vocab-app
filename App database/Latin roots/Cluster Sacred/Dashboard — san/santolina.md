@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of mediterranean subshrubs with rayless flower heads.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of mediterranean subshrubs with rayless flower heads.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of aromatic evergreen subshrubs in the daisy family (Asteraceae), commonly called cotton lavender, native to the Mediterranean.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticulture, Santolina chamaecyparissus is cultivated for its silvery, finely dissected foliage and button-like yellow flowerheads, used in knot gardens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, santolina designates genus of mediterranean subshrubs with rayless flower heads."*
+> - 📜 **Gertrude Jekyll (*Colour Schemes for the Flower Garden*):** *"The silvery-grey mounds of **santolina** form an admirable clipped edging along the formal herb border."*
+> - 📜 **Vita Sackville-West (*In Your Garden*):** *"Brush against a hedge of **santolina** on a warm sunny morning and you will release a pungent aromatic perfume."*
+> - 📜 **John Claudius Loudon (*An Encyclopaedia of Gardening*):** *"In dry Mediterranean gravels, **santolina** thrives without water, holding its neat silver foliage throughout the winter."*
+

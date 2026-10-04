@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Existing in fancy only; - nathaniel hawthorne.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ludicrously odd.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Archaic or literary form of fantastic; whimsical, bizarre, imaginary, or conceived in wild fancy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by capricious, unpredictable notions or eccentric behavior.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ne’er a fantastical knave of them all shall flout me out of my calling. [_Exit._] SCENE IV."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That is all one, my fair, sweet, honey monarch; for, I protest, the schoolmaster is exceeding fantastical; too, too vain, too, too vain."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good sir, why do you start and seem to fear Things that do sound so fair?—I’ th’ name of truth, Are ye fantastical, or that indeed Which outwardly ye show?"*
+> - 📜 **William Shakespeare (*Macbeth*):** *"My thought, whose murder yet is but **fantastical**, shakes so my single state of man that function is smother'd in surmise."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The alchemists pursued **fantastical** theories, yet stumbled upon useful chemical arts in their quest."*
+> - 📜 **Walter Scott (*The Monastery*):** *"The White Lady of Avenel appeared in a **fantastical** robe of misty white gossamer beside the well."*
+

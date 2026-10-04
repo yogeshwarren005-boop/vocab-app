@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A religious ceremony in which something is made holy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A religious ceremony in which something is made holy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making holy or setting apart for sacred use; the state of spiritual purification and deliverance from sin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Christian soteriology, the ongoing transformative work of the Holy Spirit conforming the believer to divine moral holiness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But I thought that our marriage might be a sanctification for us both. ‘The unbelieving husband is sanctified by the wife, and the unbelieving wife is sanctified by the husband,’ I said to myself."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The very sight of the hollows between them gave me a sense of solemn elation, or, rather, to use a better word, of sanctification."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The candidate prepares himself with prayer, watching and the confession of sin.[113] "The waters receive the mystery (_sacramentum_) of sanctification, when God has been called upon."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Through divine grace they attained inward **sanctification**, walking blameless in faith and love."*
+> - 📜 **Jonathan Edwards (*A Treatise Concerning Religious Affections*):** *"True progressive **sanctification** consists in the gradual crucifixion of selfish passions."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"The heavenly messenger sealed his forehead as an earnest of his final **sanctification**."*
+

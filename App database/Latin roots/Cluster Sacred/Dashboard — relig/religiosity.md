@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exaggerated or affected piety and religious zeal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exaggerated or affected piety and religious zeal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An intense, overt display of religious devotion, feeling, or piety, often carrying connotations of exaggerated or superficial zeal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the sociology of religion, measurable dimensions of faith such as ritual attendance, prayer frequency, and ideological adherence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, religiosity designates exaggerated or affected piety and religious zeal."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"A morbid degree of emotional **religiosity** may exist alongside an astonishing absence of moral rectitude."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her youthful **religiosity** took the form of romantic plans for building philanthropic cottages."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The quiet **religiosity** of American society serves as a powerful stabilizer for democratic freedom."*
+

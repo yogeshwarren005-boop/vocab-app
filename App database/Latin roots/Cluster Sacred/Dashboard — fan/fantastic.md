@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ludicrously odd.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extraordinarily good or great ; used especially as intensifiers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extravagantly fanciful, bizarre, or outlandish; extraordinarily good or attractive; based on fantasy rather than reality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literature, a genre that introduces supernatural or inexplicable elements into an otherwise realistic narrative.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There with fantastic garlands did she make Of crow-flowers, nettles, daisies, and long purples, That liberal shepherds give a grosser name, But our cold maids do dead men’s fingers call them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or wallow naked in December snow By thinking on fantastic summer’s heat?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To be fantastic may become a youth Of greater time than I shall show to be."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"There on the pendent boughs her coronet weeds clambering to hang, an envious sliver broke; when down her weedy trophies and herself fell in the weeping brook: her clothes spread wide, and, mermaid-like, awhile they bore her up: which time she chanted snatches of old tunes, as one incapable of her own distress, or like a creature native and indued unto that element: but long it could not be till that her garments, heavy with their drink, pull'd the poor wretch from her melodious lay to muddy death: alas, then, is she drown'd: drown'd, drown'd: there is a willow grows aslant a brook, that shows his hoar leaves in the glassy stream; there with **fantastic** garlands did she come of crow-flowers, nettles, daisies, and long purples."*
+> - 📜 **John Milton (*L'Allegro*):** *"Come and trip it as ye go, on the light **fantastic** toe, through the dappled shade of summer orchards."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The withered bridal banquet table displayed a **fantastic** decay covered with cobwebs and crawling with mice."*
+

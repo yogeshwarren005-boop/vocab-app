@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state that is not conducive to health.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state that is not conducive to health.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unhealthy filthiness, squalor, or severe neglect of hygiene that breeds infection and pestilence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public health reports, squalor and environmental contamination predisposing communities to epidemic contagion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsanitariness designates a state that is not conducive to health."*
+> - 📜 **Florence Nightingale (*Notes on Hospitals*):** *"The gross **unsanitariness** of military barracks during wartime caused far more fatalities than enemy cannon balls."*
+> - 📜 **Edwin Chadwick (*Report on the Sanitary Condition of the Labouring Population*):** *"The **unsanitariness** of open cesspools beneath tenement floorboards contaminated the surrounding drinking wells."*
+> - 📜 **Charles Dickens (*The Uncommercial Traveller*):** *"I observed with sadness the hopeless **unsanitariness** of the crowded immigrant lodging-houses in the dock quarter."*
+

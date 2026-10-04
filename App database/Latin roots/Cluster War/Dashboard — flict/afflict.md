@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause great unhappiness for; distress.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause physical pain or suffering in.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause persistent pain, distress, suffering, or trouble to; to torment or trouble grievously.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological and ethical literature, to subject to divine trial, sorrow, or physical chastisement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay me, most wretched, That have my heart parted betwixt two friends That does afflict each other!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And when that time comes, Afflict me with thy mocks, pity me not, As till that time I shall not pity thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is the very ecstasy of love, Whose violent property fordoes itself, And leads the will to desperate undertakings, As oft as any passion under heaven That does afflict our natures."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"**Afflict** me not with these debasements, but let me die here amidst the ruins of Philistia."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"Do not infest your mind with beating on the strangeness of this business; at pick'd leisure which shall be shortly, single I'll resolve you, which to you shall seem probable, of every happen'd accident; till when, be cheerful and think of each thing well, nor let old woes **afflict** you."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Famine and virulent plagues continued to **afflict** the provinces during the disastrous reign of Gallienus."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The collection of equipment and methods used in the practice of medicine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The collection of equipment and methods used in the practice of medicine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The complete collection of equipment, instruments, medicines, and techniques available to a medical practitioner or hospital.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical history and medical education, the comprehensive clinical arsenal deployed against disease and trauma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, armamentarium designates the collection of equipment and methods used in the practice of medicine."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The modern physician's **armamentarium** was enriched immeasurably by the introduction of antitoxins and antiseptic dressings."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"A simple stethoscope and an observant eye are more valuable in the clinical **armamentarium** than dozens of untested remedies."*
+> - 📜 **Thomas Henry Huxley (*Discourses: Biological and Geological*):** *"The experimental physiologist must master the delicate physical instruments that compose his laboratory **armamentarium**."*

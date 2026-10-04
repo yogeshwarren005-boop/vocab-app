@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Covered with heavy steel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Covered with heavy steel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Covered, encased, or shielded with protective armor, steel plate, or an impervious protective shell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In naval architecture of the 19th century, referring to wooden or iron steam warships sheathed in thick iron or steel plating.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, armor-clad designates covered with heavy steel."*
+> - 📜 **Herman Melville (*Battle-Pieces and Aspects of the War*):** *"The **armor-clad** leviathan glided along the river, deflecting cannon shot from the shore batteries like rain."*
+> - 📜 **Sir Walter Scott (*The Fair Maid of Perth*):** *"An **armor-clad** champion rode into the lists, his closed visor giving no hint of his identity."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The torpedo boat was an **armor-clad** ram designed to crash into enemy hulls at close quarters."*

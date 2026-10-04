@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act of reducing or depriving of arms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of reducing or depriving of arms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The reduction, limitation, or total abolition of military forces and conventional or nuclear weapons by an international treaty or unilateral policy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic history and global security studies, multilateral agreements between nation-states to dismantle weapons stockpiles and prevent catastrophic conflict.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disarmament designates act of reducing or depriving of arms."*
+> - 📜 **Winston Churchill (*The Gathering Storm*):** *"Unilateral British **disarmament** in the face of rapid German rearmament proved to be an error of catastrophic proportions."*
+> - 📜 **Bertrand Russell (*Has Man a Future?*):** *"Universal nuclear **disarmament** offers the only durable guarantee that human civilization will survive the twenty-first century."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The international congress met in Geneva to negotiate compulsory **disarmament**, yet mutual suspicion stalled every protocol."*

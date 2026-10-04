@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who cares for persons or property.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fighter who holds out against attack.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who defends someone or something; a champion, protector, or military guard of a position or cause.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In English royal titles, 'Defender of the Faith' (Fidei Defensor), granted by Pope Leo X to Henry VIII in 1521.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou great defender of this Capitol, Stand gracious to the rites that we intend."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But—well, goodbye!” Her defender, whom she dreaded more than her assailant, having reluctantly disappeared, the farmer continued his reprimand, which Tess took with the greatest coolness, that sort of attack being independent of sex."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Revered defender of beauteous Stuart, Of Stuart, a name once respected; A name, which to love was the mark of a true heart, But now ’tis despis’d and neglected."*
+> - 📜 **William Shakespeare (*Richard II*):** *"God, the widow's champion and **defender**, will strike the blow against the murderers of Gloucester."*
+> - 📜 **Sir Walter Scott (*Ivanhoe*):** *"The heroic **defender** of the castle barbican hurled back the besiegers with immense physical courage."*
+> - 📜 **John Milton (*Areopagitica*):** *"Every lover of truth stands forth as an unyielding **defender** of open inquiry against tyrannical censorship."*

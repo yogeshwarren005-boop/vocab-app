@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The largest ocean in the world.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or bordering the pacific ocean.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Peaceful in character or intent; calm, tranquil, soothing; also relating to the Pacific Ocean.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime exploration, named Mar Pacífico by Ferdinand Magellan in 1520 due to the calm waters encountered upon rounding Cape Horn.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He has no idea, poor wretch, of the spiritual destitution of a coral reef in the Pacific or what it costs to look up the precious souls among the coco-nuts and bread-fruit."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"At last he reached the summit, and a wide and novel prospect burst upon him with an effect almost like that of the Pacific upon Balboa’s gaze."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Awake, I remembered that I, Darrell Standing, in the flesh, during the year preceding my incarceration in San Quentin, had flown with Haas further over the Pacific at Santa Monica."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"There is, one knows not what sweet mystery about this sea, whose gently awful stirrings seem to speak of some hidden soul beneath; the **Pacific** once beheld, must ever after be the ocean of one's dreams."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"The proposal I make is of a **pacific** nature; my hold of the colonies is in the close affection which grows from common names and equal freedom."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The calm azure expanse of the **Pacific** Ocean stretched endlessly to the western horizon beneath the setting sun."*

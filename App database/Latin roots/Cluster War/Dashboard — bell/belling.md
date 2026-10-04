@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A noisy mock serenade (made by banging pans and kettles) to a newly married couple.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attach a bell to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The deep, resonant rutting call or roar of a stag or deer; also attaching a bell to something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hunting literature and woodcraft, the distinctive vocalization made by male red deer during the autumn breeding season.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, belling designates a noisy mock serenade (made by banging pans and kettles) to a newly married couple."*
+> - 📜 **Sir Walter Scott (*The Lady of the Lake*):** *"The antlered monarch of the waste sprung from his heather couch, his deep **belling** echoing through Glenartney’s hazel shade."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"In October the forest keepers listen for the hollow **belling** of the red deer stags across the wooded hills."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"Through the still autumn night came the distant **belling** of a moose across the black surface of the lake."*

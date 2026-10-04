@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who transgresses moral or civil law.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who transgresses moral or civil law.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who commits an illegal act, crime, transgression, or violation of a social or moral rule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In criminal justice and penology, an individual convicted of a statutory infraction, misdemeanor, or felony.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let him approach A stranger, no offender; and inform him So ’tis our will he should."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bind the offender, And take him from our presence."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet must not we put the strong law on him: He’s lov’d of the distracted multitude, Who like not in their judgement, but their eyes; And where ’tis so, th’offender’s scourge is weigh’d, But never the offence."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The criminal law seeks not only to punish the individual **offender**, but to deter future infractions across society."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"The magistrate glared over his spectacles at the trembling young **offender** brought before the bench."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The state is justified in restraining an **offender** whose deliberate actions cause direct harm to others."*

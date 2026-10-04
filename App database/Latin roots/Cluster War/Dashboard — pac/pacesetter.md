@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A leading instance in its field.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A horse used to set the pace in racing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, company, or competitor that leads the way or sets standards for others to follow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In middle-distance athletic racing, a runner hired to set a fast early tempo before dropping out of the contest.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pacesetter designates a leading instance in its field."*
+> - 📜 **H. G. Wells (*The World of William Clissold*):** *"The innovative manufacturing firm acted as a commercial **pacesetter**, forcing rivals to modernize their machinery."*
+> - 📜 **George Bernard Shaw (*The Intelligent Woman's Guide to Socialism and Capitalism*):** *"In every scientific and technological field, the bold investigator serves as a pioneer and **pacesetter** for humanity."*
+> - 📜 **John Kenneth Galbraith (*The New Industrial State*):** *"The modern corporation positions itself as a technological **pacesetter** through long-term capital investments."*

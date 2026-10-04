@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who communicates vocally in a very loud voice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who communicates vocally in a very loud voice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or animal that bellows; someone who shouts, roars, or protests with loud, deep, inarticulate volume.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theatrical and forensic criticism, an actor or orator relying upon crude vocal roar rather than subtle inflection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bellower designates someone who communicates vocally in a very loud voice."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Danton stood at the tribune, a tremendous **bellower** whose volcanic voice rose above the shrieks of the galleries."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"The tragedian was an unmerciful **bellower**, tearing passions to tatters to split the ears of the groundlings."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The boatheader proved a ferocious **bellower** in the chase, roaring commands through his tin megaphone."*

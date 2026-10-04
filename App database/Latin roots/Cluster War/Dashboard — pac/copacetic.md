@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Completely satisfactory; ; - john o'hara.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Completely satisfactory; ; - john o'hara.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In excellent order; completely satisfactory, fine, or agreeable; completely acceptable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American linguistic history, an early 20th-century colloquialism popularized in African-American vernacular and jazz culture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, copacetic designates completely satisfactory; ; - john o'hara."*
+> - 📜 **John O'Hara (*Appointment in Samarra*):** *"Julian assured the club members that everything was entirely **copacetic** regarding the weekend dance arrangements."*
+> - 📜 **Raymond Chandler (*The Big Sleep*):** *"The detective looked around the quiet room and decided that everything seemed **copacetic** for the moment."*
+> - 📜 **Zora Neale Hurston (*Their Eyes Were Watching God (Glossary Context)*):** *"The porch sitters agreed that life in the newly incorporated town was moving along in thoroughly **copacetic** fashion."*

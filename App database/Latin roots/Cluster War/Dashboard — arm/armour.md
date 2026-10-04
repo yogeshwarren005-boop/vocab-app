@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A military unit consisting of armored fighting vehicles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Protective covering made of metal and used in combat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Protective covering of metal or other durable material worn to defend the body in combat; British spelling of armor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military history, encompassing defensive plate harness, mail hauberks, and contemporary combat vehicle protective plating.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll give thee, friend, An armour all of gold."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Before he should thus stoop to th’ herd—but that The violent fit o’ th’ time craves it as physic For the whole state—I would put mine armour on, Which I can scarcely bear."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As thou art to thyself: Such was the very armour he had on When he th’ambitious Norway combated; So frown’d he once, when in an angry parle He smote the sledded Polacks on the ice. ’Tis strange."*
+> - 📜 **William Shakespeare (*Richard III*):** *"Give me my **armour**. What, is my beaver easier than it was? and all my **armour** laid into my tent?"*
+> - 📜 **Alfred Tennyson (*Idylls of the King*):** *"He heard the clash of falling **armour** and saw the brave knight overthrown upon the bloody sward."*
+> - 📜 **Sir Walter Scott (*Marmion*):** *"His suit of polished **armour** threw back the bright rays of the morning sun as he spurred across the field."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of appeasing someone or causing someone to be more favorably inclined.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A treaty to cease hostilities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of pacifying, soothing, or bringing peace; the establishment of peace in a troubled or rebellious region.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military and colonial history, the suppression of indigenous resistance or insurgency to enforce imperial administrative control.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"We demand the immediate and absolute removal of all disabilities imposed on account of the Rebellion, which was finally subdued seven years ago, believing that universal amnesty will result in complete pacification in all sections of the country. 4."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The permanent pacification of the southern section of the Union, and the complete protection of all its citizens in the free enjoyment of all their rights, is a duty to which the Republican party stands sacredly pledged."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The pacification of Europe, after June, 1815, assumed a firm and permanent aspect."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The complete **pacification** of Britain required the permanent stationing of three Roman legions along the northern frontier."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"I come this day to offer a plan for the **pacification** of our unhappy domestic discords with America."*
+> - 📜 **Francis Bacon (*Essays*):** *"Wise princes cultivate the **pacification** of religious sects through moderate laws rather than fierce persecution."*

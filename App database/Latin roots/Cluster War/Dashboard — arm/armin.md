@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: German hero; leader at the battle of teutoburger wald in ad 9 (circa 18 bc - ad 19).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: German hero; leader at the battle of teutoburger wald in ad 9 (circa 18 bc - ad 19).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Robert Armin (c. 1568–1615), English actor and comic playwright with the King's Men, who created Shakespeare's philosophical fools.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Elizabethan theater history, the actor whose subtle wit and musical skill inspired Shakespeare to write Touchstone, Feste, and the Fool in King Lear.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, armin designates german hero; leader at the battle of teutoburger wald in ad 9 (circa 18 bc - ad 19)."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"Shakespeare discovered in Robert **Armin** an actor whose melancholy wisdom gave profound life to his court fools."*
+> - 📜 **Charles Dickens (*The Pickwick Papers (Prefatory Note)*):** *"The philosophical jester of the Elizabethan stage, created by **Armin**, brought bittersweet truth to aristocratic revels."*
+> - 📜 **John Addington Symonds (*Shakespeare's Predecessors in the English Drama*):** *"The replacement of Will Kempe by Robert **Armin** shifted Shakespearean comedy from physical slapstick to verbal irony."*

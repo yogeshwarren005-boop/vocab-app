@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Needless warnings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Needless warnings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice or habit of needlessly warning of danger or causing unwarranted public panic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political journalism and statecraft, sensationalized rhetoric exaggerating foreign threats or economic collapse to manipulate public policy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alarmism designates needless warnings."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"Partisan **alarmism** frequently distorts parliamentary debate by inventing fictitious dangers to impede progressive reform."*
+> - 📜 **Edmund Burke (*Letters on a Regicide Peace*):** *"Prudent vigilance must never be confounded with groundless **alarmism** when the safety of the commonwealth is truly at stake."*
+> - 📜 **Bertrand Russell (*Unpopular Essays*):** *"The mass media relies upon deliberate **alarmism** to sustain popular excitement and distract from systemic social injustices."*

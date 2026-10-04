@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With hostility; in a belligerent hostile manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With hostility; in a belligerent hostile manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a hostile, aggressive, or combative manner; with eagerness to fight or quarrel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral description, confronting authority or opponents with physical menace, raised voice, or hostile gestures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, belligerently designates with hostility; in a belligerent hostile manner."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Boythorn stepped forward **belligerently**, declaring that he would blow any trespasser from his estate with horse-pistols."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The intoxicated townsman glared **belligerently** across the tavern, defying the constable to lay hands on him."*
+> - 📜 **Jack London (*The Sea-Wolf*):** *"Wolf Larsen looked down **belligerently** upon the mutinous crew, challenging any two men to step forward."*

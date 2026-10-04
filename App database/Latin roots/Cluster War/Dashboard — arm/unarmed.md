@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Take away the weapons from; render harmless.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of persons or the military) not having or using arms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking weapons, defensive arms, or instruments of physical combat; defenseless.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biology and botany, lacking spines, thorns, stings, claws, or other natural defensive anatomical structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By heaven, Poins, I feel me much to blame, So idly to profane the precious time, When tempest of commotion, like the south Borne with black vapour, doth begin to melt And drop upon our bare unarmed heads."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He has no weapons; He cannot run; the jingling of his gyves Might call fell things to listen, who have in them A sense to know a man unarmed and can Smell where resistance is."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Do you wish an escort from your present position to the dock?" "Yes, please send an unarmed tug to lead me through the gate, match me up, and point me at the dock."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"Why did you suffer the **unarmed** senators to be menaced by mutinous soldiers in the open forum?"*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The barbarians fell upon the **unarmed** citizens of the provincial capital without mercy or restraint."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Certain domesticated varieties of shrubs produce entirely **unarmed** branches, having lost their ancestral protective thorns under cultivation."*

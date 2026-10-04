@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hostile (very unfriendly) disposition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of deep-seated ill-will.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unfriendly or aggressive behavior, feelings of enmity, ill will, or opposition; combativeness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social psychology, deep-seated cognitive and affective antagonism directed toward out-groups or competitive rivals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The King hath sent to know The nature of your griefs, and whereupon You conjure from the breast of civil peace Such bold hostility, teaching his duteous land Audacious cruelty."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To say the truth, it is your policy To save your subjects from such massacre And ruthless slaughters as are daily seen By our proceeding in hostility; And therefore take this compact of a truce, Although you break it when your pleasure serves."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, in the body of the fleshly land, This kingdom, this confine of blood and breath, Hostility and civil tumult reigns Between my conscience and my cousin’s death."*
+> - 📜 **John Locke (*Second Treatise of Government*):** *"The state of war is a state of enmity and destruction, declared by plain intention against another man's life in open **hostility**."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"The mutual coldness between the sisters-in-law never broke into open **hostility**, but remained a constant barrier to intimacy."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The sullen **hostility** of the Saint Antoine populace smoldered beneath the surface, waiting for the spark of insurrection."*

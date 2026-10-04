@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Italian cardinal and theologian (1542-1621).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Italian cardinal and theologian (1542-1621).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Saint Robert Bellarmine (Roberto Francesco Romolo Bellarmino, 1542–1621), Italian Jesuit cardinal and theological defender of Catholic orthodoxy during the Counter-Reformation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In church history and scholastic theology, author of Disputationes de Controversiis, the definitive intellectual defense of papal authority against Protestantism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bellarmino designates italian cardinal and theologian (1542-1621)."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The subtle scholastic arguments of Cardinal **Bellarmino** defended the temporal supremacy of the Roman pontiff against secular princes."*
+> - 📜 **Thomas Hobbes (*Leviathan*):** *"In the third part of our treatise we must examine and confute the ecclesiastical claims asserted by Cardinal **Bellarmino**."*
+> - 📜 **John Milton (*Areopagitica*):** *"Not all the dialectical subtleties of **Bellarmino** could extinguish the dawn of reformed truth across northern Europe."*

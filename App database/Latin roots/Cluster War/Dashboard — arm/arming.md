@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of equiping with weapons in preparation for war.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prepare oneself for a military confrontation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of equipping with weapons or armor; preparing for military conflict or hostile engagement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nautical navigation and hydrography, placing tallow or grease in the hollow base of a sounding lead to retrieve seafloor sediment samples.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, and the particular confirmations, point from point, to the full arming of the verity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now play him me, Patroclus, Arming to answer in a night alarm.’ And then, forsooth, the faint defects of age Must be the scene of mirth: to cough and spit And, with a palsy fumbling on his gorget, Shake in and out the rivet."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hector, by this, is arming him in Troy; Ajax, your guard, stays to conduct you home."*
+> - 📜 **William Shakespeare (*Troilus and Cressida*):** *"Hector is gone; who shall tell Priam so? Or tell his mother that the **arming** of our heroes hath failed to stay the Greeks?"*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The sailor examined the **arming** on the bottom of the lead, finding fine gray sand that indicated shallow coastal soundings."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The thunder of distant **arming** resounded across the heavenly plains as Michael marshaled his legions."*

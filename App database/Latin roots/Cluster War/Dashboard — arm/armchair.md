@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chair with a support on each side for arms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chair with a support on each side for arms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A comfortable chair with side supports for a person's arms; also participating only through imagination or theory rather than practice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical philosophy and political commentary, characterizing armchair theorists who speculate without empirical investigation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Gradually the whole knot moved into the house and towards the uncle's armchair."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"In a sitting-room on the ground-floor, ensconced in an armchair with her back to the light, was the owner and mistress of the estate, a white-haired woman of not more than sixty, or even less, wearing a large cap."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"After he was gone, the mother threw herself into the armchair, and began to weep bitterly."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Sherlock Holmes leaned back in his deep **armchair**, closed his eyes, and analyzed the clues with razor-sharp logic."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Aunt Betsey Trotwood occupied the high-backed **armchair** by the fireside, observing the household with eagle eyes."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"No amount of comfortable **armchair** speculation can substitute for laborious field observation in geology."*

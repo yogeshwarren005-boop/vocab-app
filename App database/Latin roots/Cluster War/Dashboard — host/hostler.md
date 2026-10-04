@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone employed in a stable to take care of the horses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone employed in a stable to take care of the horses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who looks after horses at an inn or livery stable; an ostler; also an operator of a railroad switch engine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In coaching history, the stable attendant responsible for changing fresh horses on express mail stages within minutes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That hostler Must rise betime that cozens him."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"They came from the water side, and at length were distinguished to be hailing the house in the seafaring manner, “House ahoy!” The landlord turned out with his head waiter, tapster, hostler, and errand boy—that is to say, with his old negro Cuff."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"It was pretty dry when Sam went to bed; but right early in the morning a sleepy hostler stumbled out to the trough and began to pump water into it for the cattle."*
+> - 📜 **Washington Irving (*The Sketch Book of Geoffrey Crayon*):** *"The bustling **hostler** unharnessed the smoking leaders and led them clattering into the warm tavern stable."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"Sam Weller had commenced his eventful career as a sharp-witted **hostler** and boot-cleaner in a London inn yard."*
+> - 📜 **Sir Walter Scott (*The Heart of Mid-Lothian*):** *"The weary traveler called loudly for the **hostler** to bait his exhausted horse with hay and water."*

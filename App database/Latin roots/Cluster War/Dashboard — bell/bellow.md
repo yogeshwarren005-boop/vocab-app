@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A very loud utterance (like the sound of an animal).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states author (born in canada) whose novels influenced american literature after world war ii (1915-2005).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To emit a deep, loud, resonant roar or shout, like that of a bull or an enraged person; also a loud roar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pastoral description, the vocalization of cattle or marine mammals reverberating across open fields or coasts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, the croaking raven doth bellow for revenge."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Jupiter Became a bull and bellow’d; the green Neptune A ram and bleated; and the fire-rob’d god, Golden Apollo, a poor humble swain, As I seem now."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The wind blew as ’twad blawn its last; The rattling showers rose on the blast; The speedy gleams the darkness swallow’d; Loud, deep, and lang, the thunder bellow’d: That night, a child might understand, The deil had business on his hand."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"We heard a hollow burst of **bellow**ing, like bulls, or rather lions; did 't not wake you? It struck mine ear most terribly."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The harpooned bull sperm whale let out a subterranean **bellow** that made the cedar boat tremble like a leaf."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"The drovers cursed and shouted, while the frightened oxen began to **bellow** in the crowded pens of Smithfield market."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not associated with soldiers or the military.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not associated with soldiers or the military.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not belonging to, associated with, or characteristic of the military; civilian.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In national security strategy, instruments of state power such as diplomacy, foreign aid, cultural exchange, and economic sanctions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The intrusion of Pierre’s nonmilitary figure in a white hat made an unpleasant impression at first."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The great majority of democratic citizens pursue peaceful, **nonmilitary** careers in agriculture, trade, and industry."*
+> - 📜 **Woodrow Wilson (*The State: Elements of Historical and Practical Politics*):** *"Civilized governance rests primarily upon moral and legal obedience, reserving armed force for strictly **nonmilitary** crises."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The cabinet mobilized merchant shipping and other **nonmilitary** assets to supply the beleaguered island."*

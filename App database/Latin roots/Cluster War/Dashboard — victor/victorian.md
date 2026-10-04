@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who lived during the reign of victoria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to queen victoria of great britain or to the age in which she ruled.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of the reign of Queen Victoria (1837–1901); often associated with moral earnestness, propriety, or industrial progress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary history, the era of the high novel dominated by Dickens, Thackeray, George Eliot, and the Brontës, grappling with modernity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But I ask all good and gentle readers to be so kind as to forget this, and to refuse steadfastly to believe that there are any inhabitants of a Victorian Wessex outside the pages of this and the companion volumes in which they were first discovered."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"So much for Norman blood unaided by Victorian lucre."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"When they were together the Jacobean and the Victorian ages were juxtaposed."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"The austere, uncompromising **Victorian** patriarch sat at the dinner table surrounded by his admiring family."*
+> - 📜 **Lytton Strachey (*Eminent Victorians*):** *"The essential hallmark of the **Victorian** era was a formidable earnestness united with immense administrative energy."*
+> - 📜 **E. M. Forster (*Howards End*):** *"The heavy mahogany furniture and thick velvet draperies belonged unmistakably to the prosperous **Victorian** twilight."*

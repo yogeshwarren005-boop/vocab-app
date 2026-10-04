@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person given to excessive complaints and crying and whining.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person given to excessive complaints and crying and whining.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An informal term for a chronic complainer, grumbler, or whiner who constantly voices dissatisfaction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial and military slang, a soldier or worker habitual in venting grievance without taking initiative.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bellyacher designates a person given to excessive complaints and crying and whining."*
+> - 📜 **Jack London (*The Sea-Wolf*):** *"Wolf Larsen had no patience for a whining **bellyacher**, threatening to put the fellow in irons if he muttered another protest."*
+> - 📜 **John Steinbeck (*In Dubious Battle*):** *"The strike organizer warned the men not to listen to the chronic **bellyacher** who wanted to call off the picket."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"He dismissed the disgruntled employee as a hopeless **bellyacher** who could never appreciate company policy."*

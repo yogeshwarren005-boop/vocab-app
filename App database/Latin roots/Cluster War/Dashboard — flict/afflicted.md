@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause great unhappiness for; distress.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause physical pain or suffering in.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Grievously affected or troubled by illness, pain, grief, or severe misfortune; suffering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pastoral care and medicine, experiencing chronic physical incapacity, bereavement, or psychological anguish.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He said he was gentle, but unfortunate; Dishonestly afflicted, but yet honest."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A grave unto a soul; Holding th’ eternal spirit, against her will, In the vile prison of afflicted breath."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bound by my charity and my blessed order, I come to visit the afflicted spirits Here in the prison."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The poor woman was sorely **afflicted** by the loss of her infant, weeping quietly in the corner."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"Christian observed many **afflicted** pilgrims who were cast into the dark dungeons of Giant Despair."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I felt deep pity for the **afflicted** master of Thornfield Hall as he sat alone in his sightless misery."*

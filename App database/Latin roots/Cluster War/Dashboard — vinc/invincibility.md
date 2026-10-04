@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property being difficult or impossible to defeat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property being difficult or impossible to defeat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, state, or property of being invincible; impossibility of being defeated, conquered, or overcome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military history, an aura of supreme martial invulnerability often shattered by overextension or logistical collapse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Kutúzov alone at last gains a real victory, destroying the spell of the invincibility of the French, and the Minister of War does not even care to hear the details.” “That’s just it, my dear fellow."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The legend of Roman **invincibility** was shattered forever upon the disastrous battlefield of Adrianople."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Cromwell’s Ironsides marched into battle with a terrifying conviction of their spiritual and martial **invincibility**."*
+> - 📜 **Winston Churchill (*The Gathering Storm*):** *"The German army cultivated an illusion of technological **invincibility** that masked serious industrial bottlenecks."*

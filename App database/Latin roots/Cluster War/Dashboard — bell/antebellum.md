@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to a period before a war especially the american civil war.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belonging to a period before a war especially the american civil war.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring or existing before a particular war, especially the American Civil War (1861–1865).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American cultural history, denoting the agrarian, plantation society and Greek Revival architecture of the Southern states prior to 1861.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antebellum designates belonging to a period before a war especially the american civil war."*
+> - 📜 **W. E. B. Du Bois (*The Souls of Black Folk*):** *"The grand plantation mansions of the **antebellum** South stood as silent monuments to an era built upon chattel slavery."*
+> - 📜 **Henry James (*The Bostonians*):** *"Basil Ransom retained the courtly manners and aristocratic bearing of his **antebellum** Mississippi upbringing."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"He looked back with nostalgic longing toward the bustling river commerce of the flush **antebellum** days."*

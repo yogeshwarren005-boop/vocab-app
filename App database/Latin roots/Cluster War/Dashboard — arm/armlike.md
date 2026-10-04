@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling an arm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling an arm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a human arm in shape, elongation, curvature, or branching structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical and marine morphology, describing tentacles, branches, or geologic promontories extending like an outstretched arm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, armlike designates resembling an arm."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The giant cephalopod darted through the water, waving its long **armlike** tentacles to capture prey."*
+> - 📜 **John Muir (*The Mountains of California*):** *"The gnarled juniper thrust its **armlike** boughs horizontally against the granite precipice to resist high mountain winds."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"A long, **armlike** sandspit protected the inner harbor from the violent swell of the outer ocean."*

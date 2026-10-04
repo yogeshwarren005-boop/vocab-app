@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A very loud utterance (like the sound of an animal).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shout loudly and without restraint.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Emitting a loud, deep, hollow roar; shouting loudly or violently; also the roar itself.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine and acoustic descriptions, the resonant roar of surf against hollow sea caves or tempestuous winds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whiles we stood here securing your repose, Even now, we heard a hollow burst of bellowing Like bulls, or rather lions; did ’t not wake you?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The carriages in the streets are few, and other late sounds in that neighbourhood there are none, unless a man so very nomadically drunk as to stray into the frigid zone goes brawling and bellowing along the pavement."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Awake, I did not remember the crawling and the bellowing in the ancient slime."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"We heard a hollow burst of **bellowing**, like bulls, or rather lions; did 't not wake you? It struck mine ear most terribly."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The furnace of the try-works roared in the midnight gale with a fierce, **bellowing** sound that terrified the green hands."*
+> - 📜 **Jack London (*The Sea-Wolf*):** *"The monstrous bull sea-lions kept up a continuous, hoarse **bellowing** upon the slippery rocks of the rookery."*

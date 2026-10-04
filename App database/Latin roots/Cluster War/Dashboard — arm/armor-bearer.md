@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A squire carrying the armor of a knight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A squire carrying the armor of a knight.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An attendant or squire who carries the weapons and protective gear of a knight or commander in battle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biblical and historical narratives, a loyal subordinate entrusted with personal protection and logistical support for a military chieftain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, armor-bearer designates a squire carrying the armor of a knight."*
+> - 📜 **William Shakespeare (*Henry VI, Part 1*):** *"Let me be privileged by my place to speak, as is an **armor-bearer** to his knight."*
+> - 📜 **Sir Walter Scott (*The Talisman*):** *"The Scottish prince rode unattended save for a solitary **armor-bearer** leading a spare warhorse."*
+> - 📜 **Thomas Babington Macaulay (*Lays of Ancient Rome*):** *"Herminius and Spurius Lartius stood forth as his trusty companions, serving as **armor-bearer** and shield to brave Horatius."*

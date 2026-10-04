@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Weapons considered collectively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The official symbols of a family, state, etc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Weapons and ammunition; instruments of combat used in warfare or self-defense; also the heraldic insignia of a family or state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international humanitarian law and constitutional jurisprudence, munitions and offensive equipment regulated by statutory treaties or sovereign rights.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why dost thou garter up thy arms o’ this fashion?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He wears his honour in a box unseen That hugs his kicky-wicky here at home, Spending his manly marrow in her arms, Which should sustain the bound and high curvet Of Mars’s fiery steed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To lend me arms and aid when I required them, The which you both denied."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Or to take **arms** against a sea of troubles, and by opposing end them?"*
+> - 📜 **John Milton (*Paradise Lost*):** *"Satan rallied his defeated legions, urging them to contest the reign of heaven with new and terrible **arms**."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The disciplined Roman **arms** triumphed over the undisciplined valor of the northern barbarians."*

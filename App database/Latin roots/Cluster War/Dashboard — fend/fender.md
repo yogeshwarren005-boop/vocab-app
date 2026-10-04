@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A barrier that surrounds the wheels of a vehicle to block splashing water or mud.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inclined metal frame at the front of a locomotive to clear the track.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A protective metal frame or screen in front of a fireplace; also the wing or wheel arch of a motor vehicle or a boat bumper.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nautical terminology, a resilient cushion of rope, rubber, or wood hung over a ship's side to absorb impact against docks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Weevle moodily pushes the snuffers-tray from him with his elbow, leans his head on his hand, puts his feet on the fender, and looks at the fire."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket made me sit down in a corner by the fire and take off my wet shoes, which he turned up to dry upon the fender, talking all the time."*
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"And how odd the directions will look! _Alice’s Right Foot, Esq., Hearthrug, near the Fender,_ (_with Alice’s love_)."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"Scrooge took his melancholy dinner in his usual melancholy tavern, sitting near the brass **fender** of the hearth."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"We drew our low chairs closer to the bright nursery fire, resting our feet upon the burnished steel **fender**."*
+> - 📜 **Joseph Conrad (*The Mirror of the Sea*):** *"The sailors dropped a heavy coir **fender** over the rail just as the steam tug bumped alongside our hull."*

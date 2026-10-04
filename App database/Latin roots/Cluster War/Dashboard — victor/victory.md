@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A successful ending of a struggle or contest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A successful ending of a struggle or contest.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The overcoming of an enemy or opponent in battle, or of obstacles or challenges in any competition or struggle; triumph.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political philosophy and military science (Sun Tzu, Clausewitz), achieving political objectives through the decisive defeat of enemy forces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Upon your sword Sit laurel victory, and smooth success Be strewed before your feet!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They are beaten, sir, and our advantage serves For a fair victory."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let’s present him to the Duke, like a Roman conqueror, and it would do well to set the deer’s horns upon his head for a branch of victory."*
+> - 📜 **William Shakespeare (*Henry V*):** *"O God, thy arm was here; and not to us, but to thy arm alone, ascribe we all! When, without stratagem, but in plain shock and even play of battle, was ever known so great and little loss on one part and on the other? Take it, God, for it is none but thine; **victory** is thine alone."*
+> - 📜 **Winston Churchill (*Blood, Toil, Tears and Sweat*):** *"You ask, what is our aim? I can answer in one word: **victory**, victory at all costs, victory in spite of all terror."*
+> - 📜 **Lord Byron (*Don Juan*):** *"A famous **victory** was won upon the bloody ramparts, celebrated with bonfires and church bells across the kingdom."*

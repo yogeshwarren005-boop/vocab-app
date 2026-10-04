@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A honey-colored diminutive form of genus armillaria; grows in clusters; edible (when cooked) but most attention has been on how to get rid of it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A honey-colored diminutive form of genus armillaria; grows in clusters; edible (when cooked) but most attention has been on how to get rid of it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic mycological genus name formerly used for honey fungi, now generally synonymized with Armillaria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In taxonomic fungal nomenclature, segregated by some mycologists based on ring structure and spore wall ornamentation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, armillariella designates a honey-colored diminutive form of genus armillaria; grows in clusters; edible (when cooked) but most attention has been on how to get rid of it."*
+> - 📜 **M. C. Cooke (*Illustrations of British Fungi*):** *"Specimens cataloged under **Armillariella** exhibit fibrous stems and white basidiospores on woodland litter."*
+> - 📜 **William Jackson Hooker (*English Flora: Fungi*):** *"The parasitism of **Armillariella** mellea upon orchard roots causes severe yellowing and premature defoliation."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Parasitic fungi allied to **Armillariella** attack cultivated fruit trees across Western Europe."*

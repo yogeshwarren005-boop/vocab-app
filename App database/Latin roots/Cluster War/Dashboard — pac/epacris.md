@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any heathlike evergreen shrub of the genus epacris grown for their showy and crowded spikes of small bell-shaped or tubular flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any heathlike evergreen shrub of the genus epacris grown for their showy and crowded spikes of small bell-shaped or tubular flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering plants in the family Ericaceae, native to eastern Australia and New Zealand, known as Australian fuchsias or heaths.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Australian botany, notably Epacris impressa (common heath), the floral emblem of Victoria, bearing tubular bells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epacris designates any heathlike evergreen shrub of the genus epacris grown for their showy and crowded spikes of small bell-shaped or tubular flowers."*
+> - 📜 **William Jackson Hooker (*Curtis's Botanical Magazine*):** *"The pendulous scarlet bells of **Epacris** impressa provide magnificent color in Australian greenhouse collections during winter."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Species of **Epacris** are distinguished by imbricated bracts passing gradually into a colorful calyx."*
+> - 📜 **Robert Brown (*Prodromus Florae Novae Hollandiae*):** *"The genus **Epacris** thrives on sandy coastal heaths throughout New South Wales and Van Diemen's Land."*

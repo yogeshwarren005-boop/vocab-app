@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give expression to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give expression to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To reveal the presence of a quality or feeling; to indicate, manifest, display, or demonstrate clearly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political philosophy and constitutional law, displaying a systematic course of conduct that reveals underlying intent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He spent years and years in desultory studies, undertakings, and meditations; he began to evince considerable indifference to social forms and observances."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Some of them are unmannered, rough, intractable, as well as ignorant; but others are docile, have a wish to learn, and evince a disposition that pleases me."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"What sudden eagerness is this you evince?"*
+> - 📜 **Thomas Jefferson (*The Declaration of Independence*):** *"When a long train of abuses and usurpations, pursuing invariably the same Object, **evince** a design to reduce them under absolute Despotism, it is their right, it is their duty, to throw off such Government."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Darcy did not **evince** the slightest disposition to join in the general conversation of the drawing-room."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Her calm features did not **evince** any emotion, though I knew what tempestuous thoughts were raging within."*

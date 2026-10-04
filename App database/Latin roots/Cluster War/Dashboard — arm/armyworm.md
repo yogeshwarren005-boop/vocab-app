@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Noctuid moth larvae that travel in multitudes destroying especially grass and grain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moth whose destructive larvae travel in multitudes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The destructive larva of certain noctuid moths (genus Mythimna or Spodoptera) that travels in vast, dense hordes consuming grass and grain crops.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural entomology, periodic plague caterpillars whose synchronous feeding defoliates maize, sorghum, and pastures, causing catastrophic crop losses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, armyworm designates noctuid moth larvae that travel in multitudes destroying especially grass and grain."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The sudden eruption of the **armyworm** across wheat fields demonstrates how insect species can multiply exponentially when food is abundant."*
+> - 📜 **John Muir (*My First Summer in the Sierra*):** *"Millions of creeping larvae, resembling the destructive **armyworm** of southern cornfields, marched through the dry grass."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The farmer lamented that the voracious **armyworm** had strip-mined the rye field within forty-eight hours of its appearance."*

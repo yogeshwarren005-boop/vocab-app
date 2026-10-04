@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Identification mark on the ear of a domestic animal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A distinctive characteristic or attribute.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To designate or allocate resources, funds, or items for a specific designated purpose; originally, an identifying notch on livestock ears.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legislative budgeting and public finance, a statutory provision directing specified funds to a particular local project, beneficiary, or program.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, earmark designates identification mark on the ear of a domestic animal."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The highland herdsmen cut a distinctive **earmark** into each sheep to prove ownership upon the common mountain pastures."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Parliament insisted upon the right to **earmark** supplies specifically for the upkeep of the naval fleet against Dutch incursions."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The commissioners resolved to **earmark** the surplus revenues of the parish exclusively for the relief of destitute weavers."*

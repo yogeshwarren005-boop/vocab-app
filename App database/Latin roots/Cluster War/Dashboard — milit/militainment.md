@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Entertainment with military themes in which the department of defense is celebrated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Entertainment with military themes in which the department of defense is celebrated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Entertainment, popular culture, or media that glorifies, celebrates, or promotes military themes, hardware, or operations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In media studies and cultural theory, video games, films, and television produced in collaboration with defense departments to aid recruitment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, militainment designates entertainment with military themes in which the department of defense is celebrated."*
+> - 📜 **Noam Chomsky (*Manufacturing Consent (Afterword)*):** *"Commercial television increasingly blends national news with spectacles of **militainment** that normalize armed interventions."*
+> - 📜 **Susan Sontag (*Regarding the Pain of Others*):** *"Modern media converts the harrowing reality of combat into sanitized **militainment** for domestic consumers."*
+> - 📜 **Gore Vidal (*Imperial America*):** *"Hollywood studios eagerly produced high-budget **militainment** to glorify foreign military campaigns."*

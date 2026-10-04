@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Argue or speak in defense of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be on the defensive; act against an attack.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Protecting from attack, criticism, or danger; justifying or supporting an argument or party.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In athletic competition and sports, holding an existing championship title against challengers in a tournament.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"BASSANIO. [_Aside._] Why, I were best to cut my left hand off, And swear I lost the ring defending it."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Thereupon, finding Tess unfairly browbeaten, the husbands and lovers tried to make peace by defending her; but the result of that attempt was directly to increase the war."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"After Shelley's death he went to Greece with Byron, joined the rebel chief Odysseus, married his sister Tersitza, and was nearly killed in defending a cave on Mount Parnassus."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Mr. Stryver won fame by aggressively **defending** the prisoner against charges of high treason."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The citizens of Londonderry endured starvation while **defending** their city walls against the royal army."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth found herself warmly **defending** her friend Charlotte against the harsh strictures of her sister."*

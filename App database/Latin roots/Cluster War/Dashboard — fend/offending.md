@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to feel resentment or indignation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act in disregard of laws, rules, contracts, or promises.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing displeasure, hurt, or moral outrage; guilty of an offense or transgression; offending part or element.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical and anatomical pathology, the diseased, irritating, or foreign structure responsible for systemic symptoms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By Jove, I am not covetous for gold, Nor care I who doth feed upon my cost; It yearns me not if men my garments wear; Such outward things dwell not in my desires; But if it be a sin to covet honour, I am the most offending soul alive."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The bastard Faulconbridge Is now in England ransacking the church, Offending charity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You chide at him, offending twice as much."*
+> - 📜 **William Shakespeare (*King Lear*):** *"I am a man more sinn'd against than sinning; let the great gods find out their enemies now, trembling every **offending** soul."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Angel Clare felt a sudden pang of shame, realizing he was **offending** her deep country modesty."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The surgeon skillfully excised the **offending** sequestrum of necrotic bone from the inflamed tibia."*

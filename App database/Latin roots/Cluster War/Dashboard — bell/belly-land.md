@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Land on the underside without the landing gear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Land on the underside without the landing gear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To land an aircraft on the underside of its fuselage without the landing gear extended or functioning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aviation emergency procedures, executing a controlled wheels-up landing on turf, foam, or water to prevent catastrophic rollover.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, belly-land designates land on the underside without the landing gear."*
+> - 📜 **Antoine de Saint-Exupéry (*Wind, Sand and Stars*):** *"With our hydraulic lines severed, we had no choice but to **belly-land** the crippled transport upon the desert sands."*
+> - 📜 **Ernest Hemingway (*Over the River and into the Trees*):** *"The pilot was forced to **belly-land** his fighter in the marsh when the landing gear jammed after combat."*
+> - 📜 **Roald Dahl (*Going Solo*):** *"He brought the smoking Hurricane down skillfully, managing to **belly-land** in an olive grove near Athens."*

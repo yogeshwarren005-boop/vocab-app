@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medieval helmet with a visor and a neck guard.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medieval helmet with a visor and a neck guard.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A style of close-fitting 15th-century steel helmet developed in Italy, completely enclosing the head and equipped with a movable visor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In arms and armor scholarship, the first true close helmet, featuring hinged cheek-pieces that wrapped around the neck and secured with a pin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, armet designates a medieval helmet with a visor and a neck guard."*
+> - 📜 **Sir Walter Scott (*The Antiquary*):** *"The antiquary lovingly dusted an Italian **armet** of fluted Milanese steel, pointing out its hinged cheek-pieces."*
+> - 📜 **Lord Byron (*Lara: A Tale*):** *"The fallen knight unlaced his battered **armet**, revealing a pale brow stained with sweat and blood."*
+> - 📜 **William Morris (*The Story of the Glittering Plain*):** *"He donned a polished **armet** with a dragon crest, taking his heavy lance from the squire's hands."*

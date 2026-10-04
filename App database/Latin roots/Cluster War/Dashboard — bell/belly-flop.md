@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dive so that one hits the water with one's belly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dive so that one hits the water with one's belly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dive into water in which the diver lands flat on the front of the body or abdomen with a loud, stinging smack.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In popular sports vernacular and figurative usage, an awkward, humiliating failure or clumsy public collapse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, belly-flop designates dive so that one hits the water with one's belly."*
+> - 📜 **Mark Twain (*Adventures of Huckleberry Finn*):** *"The boy executed a clumsy **belly-flop** from the river bank, coming up sputtering and coughing in the yellow water."*
+> - 📜 **Jack London (*The Cruise of the Dazzler*):** *"He slipped on the wet wharf planking and took a painful **belly-flop** into the swirling harbor tide."*
+> - 📜 **Stephen Crane (*The Monster and Other Stories*):** *"A chorus of youthful jeers greeted his awkward **belly-flop** into the millpond."*

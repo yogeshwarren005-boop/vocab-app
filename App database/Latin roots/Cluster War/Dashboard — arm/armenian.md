@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of armenia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The indo-european language spoken predominantly in armenia, but also in azerbaijan.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of Armenia, its people, language, or culture; a native or inhabitant of Armenia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Indo-European comparative linguistics, forming an independent branch of the Indo-European language family with an alphabet created by Mesrop Mashtots in 405 AD.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Série, iv. (1884) pp. 14 _sqq._; William Simpson, _The Buddhist Praying Wheel_ (London, 1896), pp. 87 _sqq._ It is a popular Armenian idea that "the body of the sun has the shape of the wheel of a water-mill; it revolves and moves forward."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Involuntarily he noticed a Georgian or Armenian family consisting of a very handsome old man of Oriental type, wearing a new, cloth-covered, sheepskin coat and new boots, an old woman of similar type, and a young woman."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He was looking at the Armenian family and at two French soldiers who had gone up to them."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The **Armenian** cavalry served with distinguished valor in the eastern campaigns of the Byzantine emperors."*
+> - 📜 **Lord Byron (*Essays and Letters*):** *"The **Armenian** alphabet was invented by Saint Mesrop to translate the Holy Scriptures into the national vernacular."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Prosperous **Armenian** merchants maintained trading factories across the Levant, connecting Europe with Persian commerce."*

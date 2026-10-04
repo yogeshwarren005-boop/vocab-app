@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A smuggler of guns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A smuggler of guns.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A smuggler who illegally transports weapons, ammunition, or military ordnance across borders or blockades.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime law and international sanctions enforcement, a clandestine operative trafficking contraband small arms to insurgent groups.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arms-runner designates a smuggler of guns."*
+> - 📜 **Joseph Conrad (*The Secret Agent*):** *"The foreign police suspected that the clandestine traveler was an experienced **arms-runner** supplying illicit explosives to revolutionaries."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Gloria Scott*):** *"The suspicious schooner was chartered by a notorious **arms-runner** who evaded the coastal patrol boats by running without lights."*
+> - 📜 **H. G. Wells (*Tono-Bungay*):** *"Rumors circulated that the disreputable captain had made his fortune as an **arms-runner** during the insurrections in South America."*

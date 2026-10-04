@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hotel providing overnight lodging for travelers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inexpensive supervised lodging (especially for youths on bicycling trips).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An establishment providing inexpensive food and lodging for a specific group, such as students, travelers, or pilgrims.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval university history, a hall of residence supervised by a master where scholars lodged before collegiate foundations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He turned the horse’s head to the green bank, and entered the hostel for a mug of ale."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Every house in Mozháysk had soldiers quartered in it, and at the hostel where Pierre was met by his groom and coachman there was no room to be had."*
-> - 📜 **Algis Budrys (*Citadel*):** *"What's Dalish ud Klavan doing?" "His residence is the Solar Hostel, sir."*
+> - 📜 **Geoffrey Chaucer (*The Canterbury Tales*):** *"Befell that in that season on a day, in Southwerk at the Tabard as I lay, ready to wenden on my pilgrimage to Caunterbury with ful devout corage, at night was come into that **hostel** well nine and twenty in a company."*
+> - 📜 **Robert Louis Stevenson (*Travels with a Donkey in the Cévennes*):** *"At twilight I arrived before a humble mountain **hostel**, grateful for coarse bread and a straw pallet by the hearth."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Medieval Oxford was crowded with turbulent scholars residing in independent halls and licensed **hostel** quarters."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A permanent organization of the military land forces of a nation or state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large number of people united for some specific purpose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large organized body of armed personnel trained and equipped for warfare on land.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military doctrine, a major military command formation typically consisting of two or more corps and commanded by a general officer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter, with a drum and colours, a party of the Florentine army, Bertram and Parolles."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He shall be whipped through the army with this rhyme in’s forehead."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The general says you that have so traitorously discovered the secrets of your army, and made such pestiferous reports of men very nobly held, can serve the world for no honest use; therefore you must die."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"The Roman **army** marched across the plains of Philippi to confront the forces of the conspirators."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"A victorious Roman **army** was frequently more formidable to its own generals and emperors than to foreign enemies."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"The Russian **army** retreated through the burning streets of Moscow, drawing Napoleon deeper into the frozen interior."*

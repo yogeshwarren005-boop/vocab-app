@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a rebellious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a rebellious manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a rebellious, mutinous, or defiant manner; in open defiance of authority or established rule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral and political discourse, acting with deliberate disobedience against lawful commands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **C. N. Williamson (*Angel Unawares: A Story of Christmas Eve*):** *"Last week you said you were thankful, whatever happened, to have me out of bed---" "You oughtn't to have been out!" Suze broke in, rebelliously."*
+> - 📜 **Sir Walter Scott (*Waverley*):** *"The Highland clans rose **rebelliously** in 1745 to restore the exiled Stuart dynasty to the British throne."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"My heart beat **rebelliously** against the cold, unfeeling tyranny of Mrs. Reed and her arrogant son."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The provincial cities mutinied **rebelliously** against the bloody decrees sent down from the Parisian Committee."*

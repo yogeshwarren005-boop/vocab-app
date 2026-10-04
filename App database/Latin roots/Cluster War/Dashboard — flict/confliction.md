@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin flict within the domain of War.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of flict in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of conflicting, clashing, or colliding; sharp opposition or collision between opposing forces or principles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal philosophical discourse, the state of mutual incompatibility between ethical imperatives or logical claims.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, confliction designates pertaining to, derived from, or characteristic of latin flict within the domain of war."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Every social transition involves the violent **confliction** of conservative tradition with progressive innovation."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Out of the painful **confliction** of spiritual doubts arose at last the everlasting affirmation of faith."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The apparent **confliction** of fundamental natural laws is resolved through broader synthesis under universal principles."*

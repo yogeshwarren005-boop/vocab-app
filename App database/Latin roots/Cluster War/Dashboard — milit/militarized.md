@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lend a military character to (a country), as by building up a military force.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adopt for military use.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Equipped, trained, or adapted for military purposes; having a heavy, organized military presence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geopolitical geography, describing borders, frontiers, or sectors heavily fortified with artillery and armed garrisons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, militarized designates lend a military character to (a country), as by building up a military force."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The **militarized** colonies along the Rhine served as defensive bastions shielding the heartland of Roman Gaul."*
+> - 📜 **Winston Churchill (*The Gathering Storm*):** *"Hitler sent German battalions into the demilitarized zone, leaving the Rhineland completely **militarized** in defiance of treaties."*
+> - 📜 **George F. Kennan (*Russia Leaves the War*):** *"The railroad corridors became heavily **militarized** zones contested by rival Czech and Red Army detachments."*

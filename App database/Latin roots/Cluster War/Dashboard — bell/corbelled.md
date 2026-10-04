@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a corbel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a corbel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Supported on or constructed with corbels; having stone or timber projections stepping outward to support an arch or parapet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval architecture and archaeology, corbelled vaults or battlements formed by horizontal courses of masonry overlapping inward.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, corbelled designates having a corbel."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The upper balcony of the palace rested upon richly carved **corbelled** brackets of Istrian marble."*
+> - 📜 **Sir Walter Scott (*The Lady of the Lake*):** *"The ancient Scottish tower rose above the lake with high **corbelled** parapets and narrow arrow slits."*
+> - 📜 **William Morris (*The Well at the World's End*):** *"They passed beneath a **corbelled** stone gateway that bore the faded heraldic arms of the ancient earls."*

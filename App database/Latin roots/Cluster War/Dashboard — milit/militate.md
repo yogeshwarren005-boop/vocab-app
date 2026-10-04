@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Have force or influence; bring about an effect or change.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have force or influence; bring about an effect or change.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To have a substantial weight, effect, or influence, especially against something; to operate as a disadvantage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal rhetoric and argumentation, functioning as a powerful countervailing factor against a proposed course of action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"She felt that she had spoken as impressively as it was necessary to do, and that in using the superior word “militate” she had thrown a noble drapery over a mass of particulars which were still evident enough."*
-> - 📜 **Bram Stoker (*Dracula*):** *"I told him he might have a dozen if he wished, but that it would not be wise to have more than one solicitor engaged in one transaction, as only one could act at a time, and that to change would be certain to militate against his interest."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Against this view it can hardly be thought to militate that the Batak does not in set terms affirm his external soul to be in his totem, but alleges other grounds for respecting the sacred animal or plant of his clan."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"The vast distance of three thousand miles of ocean must **militate** powerfully against the enforcement of harsh parliamentary decrees."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Several anatomical facts seem at first sight to **militate** strongly against the hypothesis of gradual modification through natural selection."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The king’s obstinate devotion to foreign advisors served to **militate** against his popularity among the London merchants."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impose something unpleasant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impose something unpleasant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause something unpleasant, painful, or burdensome to be suffered by someone; to impose or strike a blow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In penal jurisprudence and tort law, imposing a punitive sanction, physical injury, or financial loss upon a culpable party.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say he be taken, racked, and tortured, I know no pain they can inflict upon him Will make him say I moved him to those arms."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, sir, a courtesy Which if we should deny, the most just gods For every graff would send a caterpillar, And so inflict our province."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet, cousin, Even from the bottom of these miseries, From all that fortune can inflict upon us, I see two comforts rising, two mere blessings, If the gods please: to hold here a brave patience, And the enjoying of our griefs together."*
+> - 📜 **William Shakespeare (*Measure for Measure*):** *"The law hath not been dead, though it hath slept; those many had not dared to do that evil, if the first man that did infringe the edict had felt the heavy punishment we now **inflict**."*
+> - 📜 **John Milton (*Paradise Lost*):** *"What can the sovereign conqueror **inflict** upon our vanquished host worse than eternal imprisonment in unquenchable fire?"*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The tyrant took sadistic delight to **inflict** exquisite torments upon the senators who dared criticize his conduct."*

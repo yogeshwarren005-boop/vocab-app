@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove offensive capability from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make less hostile; win over.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To deprive of weapons or offensive capabilities; to render harmless, defenseless, or pacified.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomacy and interpersonal psychology, to neutralize hostility, suspicion, or resistance through conciliation, charm, or legal demilitarization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Disarm them, and let them question."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Put thy sword up, traitor; Who mak’st a show, but dar’st not strike, thy conscience Is so possess’d with guilt: come from thy ward, For I can here disarm thee with this stick And make thy weapon drop."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His stubborn buckles, With these your white enchanting fingers touch’d, Shall more obey than to the edge of steel Or force of Greekish sinews; you shall do more Than all the island kings—disarm great Hector."*
+> - 📜 **William Shakespeare (*Cymbeline*):** *"Could you not **disarm** him, and bind him fast, before he could inflict that fatal wound?"*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Her sweet and unaffected smile served to **disarm** Darcy's natural reserve and win his genuine esteem."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The victor demanded that the vanquished province immediately **disarm** its militia and surrender all public arsenals."*

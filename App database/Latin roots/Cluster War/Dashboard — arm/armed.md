@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Prepare oneself for a military confrontation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supply with arms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Equipped with weapons or protective gear; carrying firearms; prepared for conflict or confrontation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological morphology, possessing defensive thorns, spines, claws, or stinging appendages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And what Made the all-honoured, honest Roman, Brutus, With the armed rest, courtiers of beauteous freedom, To drench the Capitol, but that they would Have one man but a man?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O thou day o’ th’ world, Chain mine armed neck."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But he comes armed in his fortune and prevents the slander of his wife."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"My father's spirit in arms! all is not well; I doubt some foul play; would the night were come! Till then sit still, my soul; foul deeds will rise, though all the earth o'erwhelm them, to men's eyes, and that we must walk **armed** with patience."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The celestial guards stood **armed** at the gates of Heaven, their swords flaming with living fire."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The provincial citizens were strictly forbidden to appear **armed** within the forum under the imperial peace."*

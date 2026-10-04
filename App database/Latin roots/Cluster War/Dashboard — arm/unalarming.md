@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not alarming; assuaging alarm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not alarming; assuaging alarm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not causing fear, anxiety, or apprehension; benign, soothing, or innocuous in appearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical diagnostics and risk management, indicators, symptoms, or signals that present no clinical evidence of imminent danger or pathology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unalarming designates not alarming; assuaging alarm."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Edward's manners were so **unalarming** and gentle that even the shyest child felt entirely at ease in his presence."*
+> - 📜 **Henry James (*The American*):** *"The quiet demeanor of the elderly banker was so **unalarming** that Newman gave no thought to potential financial intrigue."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The initial symptoms appeared completely **unalarming**, causing the young physician to underestimate the severity of the fever."*

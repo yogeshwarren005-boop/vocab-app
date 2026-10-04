@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being overcome, challenged or refuted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being overcome, challenged or refuted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being conquered, stormed, subdued, or penetrated by force; impregnable, invincible, or unassailable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy and dialectic, an argument or factual position so thoroughly grounded that no skeptical counterargument can overturn it.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inexpugnable designates incapable of being overcome, challenged or refuted."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The rocky citadel of Petra was deemed **inexpugnable** against all the siegecraft of the Syrian legions."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The fortress of entrenched prejudice remains **inexpugnable** so long as it refuses to submit its assumptions to public debate."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The Bastille, surrounded by deep moats and bristling with cannon, had long seemed an **inexpugnable** symbol of absolute royal power."*

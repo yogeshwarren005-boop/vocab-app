@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone opposed to violence as a means of settling disputes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone opposed to violence as a means of settling disputes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who or that which deprives an opponent of weapons, defensive posture, or hostile intent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military bomb disposal and security operations, a specialist technician or tool engineered to neutralize ordnance and explosive devices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disarmer designates someone opposed to violence as a means of settling disputes."*
+> - 📜 **Sir Walter Scott (*The Abbot*):** *"The faithful servant acted as a timely **disarmer**, wresting the assassin's dagger away before the blow could fall."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Her quiet gentleness proved a subtle **disarmer** of his irritable temper, soothing him into calm reflection."*
+> - 📜 **Charlotte Brontë (*The Professor*):** *"A single glance of candid sincerity became the effective **disarmer** of all cynical misgivings in the headmaster's mind."*

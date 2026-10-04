@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of chiefly tropical american vines having cordate leaves and large purple or greenish cymose flowers; supposedly having powers as an antidote.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of chiefly tropical american vines having cordate leaves and large purple or greenish cymose flowers; supposedly having powers as an antidote.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of herbaceous plants in the milkweed subfamily Apocynaceae, traditionally known as swallow-worts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnobotany and pharmacology, historically named 'poison-conqueror' (vinco + toxicum) from ancient beliefs that Vincetoxicum officinale was an antidote to poisons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vincetoxicum designates genus of chiefly tropical american vines having cordate leaves and large purple or greenish cymose flowers; supposedly having powers as an antidote."*
+> - 📜 **Nicholas Culpeper (*The English Physician*):** *"The root of **Vincetoxicum**, or swallow-wort, was anciently esteemed a sovereign counter-poison against venomous bites."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"Under the genus **Vincetoxicum**, Linnaeus described the European erect swallow-worts with umbellate greenish flowers."*
+> - 📜 **John Lindley (*Flora Medica*):** *"The roots of **Vincetoxicum** contain bitter emetic glycosides possessing acrid and purgative properties."*

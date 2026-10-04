@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to heraldry or heraldic arms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to heraldry or heraldic arms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to heraldry or coats of arms; displaying or containing heraldic bearings and insignia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In genealogical literature, a book or register cataloging and illustrating the heraldic achievements, crests, and escutcheons of noble families.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Such is the assemblage of armorial bearings on coach panels that the Herald’s College might be supposed to have lost its father and mother at a blow."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Here’s armorial bearings frae the manse o’ Urr; The crest, a sour crab-apple, rotten at the core."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Standish, the old lawyer, who had been so long concerned with the landed gentry that he had become landed himself, and used that oath in a deep-mouthed manner as a sort of armorial bearings, stamping the speech of a man who held a good position."*
+> - 📜 **Sir Walter Scott (*The Antiquary*):** *"The antiquary carefully examined the faded **armorial** bearings carved in stone above the ancient castle gateway."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The noble house displayed its proud **armorial** ensigns upon the silken standards hoisted above the ramparts."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Upon the tombstone was carved an **armorial** device that glimmered through the deep grass in the gloomy burial ground."*

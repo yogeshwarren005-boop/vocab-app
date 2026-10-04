@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being defended.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being defended.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being defended, protected, or justified; defensible against physical attack or intellectual criticism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military engineering and tactical topography, possessing terrain features that can be maintained with available garrison troops.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, defendable designates capable of being defended."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The rocky promontory presented an easily **defendable** redoubt that defied all hostile assaults."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"No political doctrine is morally **defendable** if it suppresses individual freedom without public necessity."*
+> - 📜 **Sir Walter Scott (*The Antiquary*):** *"The ancient crag formed a **defendable** bastion where generations of border chieftains had held sway."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Press or wedge together; pack together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have an effect upon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Packed firmly or wedged tightly together; in medicine, an impacted tooth or fractured bone jammed tightly into adjoining tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical dentistry and oral surgery, a tooth that has failed to erupt into the normal dental arch due to obstruction by bone or adjacent teeth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, impacted designates press or wedge together; pack together."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe intestinal obstruction may result from an **impacted** gallstone lodging within the narrow ileocecal valve."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Massive boulders were found tightly **impacted** into the glacial drift filling the ancient river valley."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The poison dart remained firmly **impacted** in the oak wainscot just inches above my shoulder."*

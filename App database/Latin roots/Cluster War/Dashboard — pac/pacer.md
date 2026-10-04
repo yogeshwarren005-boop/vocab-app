@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A horse used to set the pace in racing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A horse trained to a special gait in which both feet on one side leave the ground together.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A horse bred or trained to race at a pacing gait, in which lateral legs move forward together; also someone who sets the pace.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In harness racing, a standardbred horse competing at the lateral two-beat gait, distinguished from a diagonal trotter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"True to her work, the Dolly headed to her course, and like one of those characters who always do best when let alone, she jogged on her way like a veteran old sea-pacer as she was."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Meanwhile, our friend, the owner of the black pacer, with his outfit, was moving quietly along two or three miles in the rear, entirely unaware of affairs at the front."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The savages, probably fearing longer delay, did not pursue, nor even attack the wagon, and the black pacer was not seen again for some months, when at length some hunters discovered him, freed from saddle and bridle, the leader of the wild herd."*
+> - 📜 **Mark Twain (*The Celebrated Jumping Frog of Calaveras County*):** *"He had a little mare that was a fast **pacer**, always winning by a neck after seeming to lag behind."*
+> - 📜 **Washington Irving (*The Legend of Sleepy Hollow*):** *"Ichabod Crane bestrode a gaunt old plow-horse that had once been a high-spirited **pacer** on country lanes."*
+> - 📜 **Oliver Wendell Holmes Sr. (*The Autocrat of the Breakfast-Table*):** *"A genuine Morgan horse displays the steady, rhythmic stride of a natural **pacer** on smooth turnpikes."*

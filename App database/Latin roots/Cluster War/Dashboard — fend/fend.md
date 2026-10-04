@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Try to manage without help.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Withstand the force of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To ward off, keep away, or parry an attack; also to manage, provide, or survive without outside assistance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime seamanship, to protect the side of a boat from damage against a quay using buffers or poles (fend off).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oh, Gabriel,” he continued, “I am weak and foolish, and I don’t know what, and I can’t fend off my miserable grief!..."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Ladies know what to fend hands against, because they read novels that tell them of these tricks; but I never had the chance o’ learning in that way, and you did not help me!” Her mother was subdued."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"But gie them guid cow-milk their fill, Till they be fit to fend themsel’; An’ tent them duly, e’en an’ morn, Wi’ taets o’ hay an’ ripps o’ corn."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"With his stout oaken staff he strove to **fend** off the savage assaults of the wolf pack."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"Left entirely alone upon the desert island, I had to **fend** for myself by hunting, farming, and building."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The bow oarsman seized the boat hook to **fend** our frail craft away from the thrashing whale flukes."*

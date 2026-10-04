@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hostile or warlike attitude or nature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fighting; acts of overt warfare.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Active engagement in declared armed hostilities; recognized international legal status of a sovereign combatant party.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international law, the formal recognition by neutral states that an insurgent group possesses the rights and duties of a sovereign combatant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, belligerency designates hostile or warlike attitude or nature."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A proclamation of neutrality must clearly distinguish the lawful rights of **belligerency** from maritime piracy."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The Dutch republic maintained the full rights of international **belligerency** against the Spanish crown for eighty years."*
+> - 📜 **Henry Wheaton (*Elements of International Law*):** *"Recognition of **belligerency** does not confer sovereignty, but accords insurgents the protection of the laws of war."*

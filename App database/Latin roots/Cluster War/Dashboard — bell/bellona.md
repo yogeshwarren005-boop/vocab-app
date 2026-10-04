@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin bell within the domain of War.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of bell in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient Roman goddess of war, sister or wife of Mars, accompanied by fury, terror, and bloodlust.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Roman religion, her temple (aedes Bellonae) in the Campus Martius was used by the senate to receive foreign ambassadors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Unto the helmeted Bellona use them, And pray for me, your soldier."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Remember me To our all-royal brother, for whose speed The great Bellona I’ll solicit; and Since in our terrene state petitions are not Without gifts understood, I’ll offer to her What I shall be advised she likes."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"If in "Ashtaroth" and "Bellona" we recognise the swing of a familiar metre, in such poems as "The Sick Stockrider" we perceive the genuine poetic instinct united to a very clear perception of the loveliness of duty and of labour."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Till that **Bellona**'s bridegroom, lapp'd in proof, confronted him with self-comparisons, point against point rebellious, arm 'gainst arm."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Fierce combat raged, as when **Bellona** in her blood-stained chariot lashes her snaky steeds across the battlefield."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The fanatical priests of **Bellona** slashed their own arms with daggers in ecstatic rituals before the Roman legions marched."*

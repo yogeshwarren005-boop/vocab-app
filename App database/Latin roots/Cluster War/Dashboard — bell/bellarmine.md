@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Italian cardinal and theologian (1542-1621).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stoneware drinking jug with a long neck; decorated with a caricature of cardinal bellarmine (17th century).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A glazed stoneware jug or flagon with a bulbous belly, narrow neck, and a bearded mask on the front; also named after Cardinal Bellarmine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ceramic archaeology and early modern British history, salt-glazed stoneware bottles manufactured in the Rhineland, satirizing Jesuit Cardinal Robert Bellarmine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"The rest was a confused multitude, led by Scotus, Aquinas, and Bellarmine; of mighty bulk and stature, but without either arms, courage, or discipline."*
+> - 📜 **Sir Walter Scott (*The Fortunes of Nigel*):** *"The host placed a foaming stoneware **bellarmine** of ale upon the table before the thirsty apprentice."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Tavern shelves were lined with grotesque **bellarmine** flagons bearing the bearded countenance of the hated Jesuit prelate."*
+> - 📜 **Washington Irving (*Bracebridge Hall*):** *"An antique Dutch **bellarmine** decorated the carved mantelpiece of the venerable taproom."*

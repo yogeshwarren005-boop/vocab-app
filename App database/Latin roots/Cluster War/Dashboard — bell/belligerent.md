@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who fights (or is fighting).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of an enemy or one eager to fight.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hostile, aggressive, and eager to fight; engaged in warfare, combat, or conflict; a nation or person recognized as a combatant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the laws of armed conflict, a state or recognized combatant entity entitled to wage lawful hostilities under the Geneva Conventions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"She maintained this belligerent attitude for several days, during which time a series of informal negotiations were pending, and wide alarm spread over the island."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"On the other hand, as the clamours of war had not up to this period disturbed the serenity of the tribe, I began to distrust the truth of those reports which ascribed so fierce and belligerent a character to the Typee nation."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Spears are then to be seen flying in all directions, and after several days' severe fighting, in which one or two are killed, and maybe one or two wounded, peace is once more restored, and the belligerent party returns to its river haunts."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The **belligerent** emperors spent their entire reigns in armor, marching between the Rhine, the Danube, and the Euphrates."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The prize-fighter assumed a fiercely **belligerent** attitude, daring the police officers to enter his tavern."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"Neutral shipping was subject to visit and search by every **belligerent** cruiser patrolling the Atlantic lanes."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Equip with armor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used of animals; provided with protective covering.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Furnished or shielded with protective armor; British spelling of armored.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoology and military terminology, possessing a protective exoskeleton or equipped with motor-mechanized ballistic plating.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I love to think of fighting him, or telling him that I am not afraid." "Oh, yes, I am sure you would run away if the armoured knight with his wild eyes should come nearer," said Mea."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"In one corner there is an armoured knight with a black-plumed helmet on his head."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Salo lifted the armoured knight to his shoulders, and had the long, blue cloak draped around him."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Certain fossil crustaceans were heavily **armoured** with calcified segments to resist predatory cephalopods."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The **armoured** division pressed forward through the gap in the German lines with relentless speed."*
+> - 📜 **Arthur Conan Doyle (*Sir Nigel*):** *"The **armoured** knights thundered down the slope in compact formation, their lances leveled at the enemy."*

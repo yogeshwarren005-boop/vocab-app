@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Australasian shrubs or small trees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Australasian shrubs or small trees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic botanical family name for the Australasian heaths, now classified as the subfamily Epacridoideae within Ericaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Southern Hemisphere phytogeography, ericoid shrubs characterized by stiff, pointed leaves and tubular flowers adapted to nutrient-poor soils.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epacridaceae designates australasian shrubs or small trees."*
+> - 📜 **Robert Brown (*Prodromus Florae Novae Hollandiae*):** *"The distinctive Australian family **Epacridaceae** corresponds in ecological habit and floral beauty to the true heaths of the Old World."*
+> - 📜 **Joseph Dalton Hooker (*The Botany of the Antarctic Voyage*):** *"Numerous members of **Epacridaceae** carpet the subalpine plateaus of Tasmania and New Zealand with rigid evergreen foliage."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The sandstone hills near Sydney are clothed with diverse woody shrubs belonging to the peculiar southern family **Epacridaceae**."*

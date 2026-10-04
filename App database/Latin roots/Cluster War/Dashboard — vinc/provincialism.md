@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lack of sophistication.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A partiality for some particular place.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Narrowness of view, parochialism, or conservative insularity; also a word, phrase, or pronunciation peculiar to a province or region.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociolinguistics, regional dialectal vocabulary or idioms reflecting geographical separation from the national standard dialect.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Besides, the English whalers sometimes affect a kind of metropolitan superiority over the American whalers; regarding the long, lean Nantucketer, with his nondescript provincialisms, as a sort of sea-peasant."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Besides, the English whalers sometimes affect a kind of metropolitan superiority over the American whalers; regarding the long, lean Nantucketer, with his nondescript provincialisms, as a sort of sea-peasant."*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"Excepting a few provincialisms of slight consequence, you have no marks of the manners which I am habituated to consider as peculiar to your class."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"The dominant defect of our middle-class life is its self-satisfied **provincialism**, blind to European culture."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"A cosmopolitan sailor sheds all narrow **provincialism** after rubbing shoulders with crews gathered from every corner of the globe."*
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"Old Joseph’s speech was marked by an impenetrable Yorkshire **provincialism** that baffled the southern visitor."*

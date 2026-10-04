@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a peaceable manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a peaceable manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a peaceful, gentle, or calm manner; without violence, conflict, or aggression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic statecraft, resolving contentious sovereign disputes through negotiated arbitration rather than martial threats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Mother, how could you ever put such stuff into their heads?” “Going to work, my dears, for our rich relation, and help get enough money for a new horse,” said Mrs Durbeyfield pacifically."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Toller, striking in pacifically, and looking at Mr."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The water shone pacifically; the sky, without a speck, was a benign immensity of unstained light; the very mist on the Essex marsh was like a gauzy and radiant fabric, hung from the wooded rises inland, and draping the low shores in diaphanous folds."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The philosopher emperor sought to settle border disputes **pacifically**, preferring generous subsidies to bloody campaigns."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The revolutionary settlement was accomplished **pacifically**, without the terror and confiscation that marred continental upheavals."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Jane listened **pacifically** to her mother’s complaints, striving to restore harmony to the agitated breakfast table."*

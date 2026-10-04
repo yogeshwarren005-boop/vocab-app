@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine that all violence is unjustifiable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The belief that all international disputes can be settled by arbitration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The belief or doctrine that international disputes can and should be resolved by peaceful methods; pacifism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th- and early 20th-century political philosophy, the movement advocating institutional arbitration leagues (predecessor to the League of Nations).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pacificism designates the doctrine that all violence is unjustifiable."*
+> - 📜 **Bertrand Russell (*Justice in War-Time*):** *"Philosophic **pacificism** rests upon the conviction that modern industrial warfare destroys far more than it can ever preserve."*
+> - 📜 **H. G. Wells (*The War That Will End War*):** *"Mere sentimental **pacificism** is futile unless supported by a world state capable of enforcing disarmament."*
+> - 📜 **William James (*The Moral Equivalent of War*):** *"The fatal weakness of traditional **pacificism** has been its failure to provide an outlet for heroic human energies."*

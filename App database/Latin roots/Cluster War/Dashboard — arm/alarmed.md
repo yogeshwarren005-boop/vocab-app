@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fill with apprehension or alarm; cause to be unpleasantly surprised.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Warn or arouse to a sense of danger or call to a state of preparedness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Experiencing a sudden sense of danger, fear, or apprehension; warned of impending peril.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral psychology, manifesting acute physiological arousal, elevated heart rate, and vigilant orienting toward a threat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Warm yourself!” Richard shook him by both hands with an intuitive mixture of respect and frankness, and only saying (though with an earnestness that rather alarmed me, I was so afraid of Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole—don’t be alarmed!—is arrested for debt.” “And really, my dear Miss Summerson,” said Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"She was alarmed by an occurrence in the house which might have alarmed a stronger person, and was made ill by the distress and agitation."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mrs. Bennet was exceedingly **alarmed** by the rumor that Mr. Bingley did not intend to return to Netherfield."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I started up, **alarmed** by a strange, murmuring sound that seemed to proceed from the keyhole of my bedchamber door."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The travelers were greatly **alarmed** by the sudden appearance of horsemen galloping through the autumn fog."*

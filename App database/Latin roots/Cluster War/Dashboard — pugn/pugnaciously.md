@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a pugnacious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a pugnacious manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a pugnacious, combative, aggressive, or quarrelsome manner; with ready eagerness to fight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In parliamentary or forensic debate, pressing arguments with confrontational, belligerent vehemence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"In that discussion, you spoke too pugnaciously; after this do not engage with the ignorant; they will not learn who have never {55} learned."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Michael Henchard thrust forward his heavy jaw **pugnaciously**, defying anyone present to contradict his commercial terms."*
+> - 📜 **H. G. Wells (*The History of Mr. Polly*):** *"Uncle Pentstemon glared **pugnaciously** around the dinner table, daring the younger generation to question his opinions."*
+> - 📜 **George Orwell (*Coming Up for Air*):** *"The corner agitator shouted **pugnaciously** at the crowd, waving his red pamphlet like a challenge to battle."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to bracelets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to bracelets.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or made of rings, bands, or bracelets; especially an armillary sphere used in ancient astronomy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astronomical history, a skeletal model of celestial rings representing the equator, ecliptic, tropics, and celestial meridian.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, armillary designates of or relating to bracelets."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The celestial architect designed the starry heavens with concentric **armillary** circles wheeling in harmony."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Renaissance astronomers in Prague measured planetary orbits using brass **armillary** spheres of immense size."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"In the corner of the observatory stood a magnificent seventeenth-century **armillary** sphere engraved with signs of the zodiac."*

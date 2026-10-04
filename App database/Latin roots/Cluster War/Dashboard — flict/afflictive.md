@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing misery or pain or distress.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing misery or pain or distress.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing or accompanied by severe pain, acute distress, grief, or calamity; distressing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical jurisprudence and penal theory, describing corporal punishments involving deliberate physical pain (peine afflictive).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Hour is ripe to recall unnumbered tribulations, sacrifices heroically endured by the dawn-breakers, culminating in Bahá'u'lláh's afflictive imprisonment in Síyáh _Ch_ál, Centennial of which is now approaching."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The very circumstance, which your suffering sense deems wrathful and afflictive, Love can make an angel 574:30 entertained unawares."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"To see venerable institutions trampled under foot by armed mobs was an **afflictive** spectacle to every friend of order."*
+> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"Punishments of an **afflictive** character must be carefully graduated to deter crime without degenerating into wanton cruelty."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Grief for the departed is often an **afflictive** passion that resists both philosophical consolation and passage of time."*

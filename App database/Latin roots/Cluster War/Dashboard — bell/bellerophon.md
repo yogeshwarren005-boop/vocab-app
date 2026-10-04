@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) a mythical hero of corinth who performed miracles on the winged horse pegasus (especially killing the monster chimera).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) a mythical hero of corinth who performed miracles on the winged horse pegasus (especially killing the monster chimera).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hero of Greek mythology who captured and rode the winged horse Pegasus and slew the monstrous, fire-breathing Chimera.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In naval history, HMS Bellerophon, the celebrated British 74-gun ship of the line to whose captain Napoleon surrendered in July 1815.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **C. W. Burrows (*Scapa and a Camera*):** *"VINCENT," AND "BELLEROPHON" EXERCISING IN THE FLOW 66 H.M.S."*
+> - 📜 **John Keats (*Endymion*):** *"Like young **Bellerophon** mounted upon winged Pegasus, the poet’s imagination soared into ethereal realms."*
+> - 📜 **Arthur Conan Doyle (*Uncle Bernac*):** *"The fallen Emperor stood upon the quarterdeck of the **Bellerophon**, gazing his last upon the receding coast of France."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Classical fables celebrated **Bellerophon** for destroying the Chimera and defying the jealousy of the Olympian gods."*

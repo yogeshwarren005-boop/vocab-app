@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Daisy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Daisy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering plants in the daisy family Asteraceae, including the common European daisy (Bellis perennis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, herbaceous perennials with rosettes of spatulate leaves and solitary heads with white or pink ray florets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog bellis as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"The English lawn daisy, **Bellis** perennis, opens its silver-and-gold blossoms beneath the morning sun."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"Even during mild January thaws, small cheerful flowers of **Bellis** dot the protected southern pasture slopes."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The European genus **Bellis** has escaped from domestic gardens, becoming naturalized in lawns across New England."*

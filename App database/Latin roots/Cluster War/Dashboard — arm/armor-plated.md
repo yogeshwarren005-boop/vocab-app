@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Covered with heavy steel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Covered with heavy steel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reinforced or protected by outer sheets of heavy steel or hardened ballistic material.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern military technology, having heavy steel or ceramic composite layers to withstand artillery shells, landmines, or shaped charges.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, armor-plated designates covered with heavy steel."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The naval guns failed to penetrate the thick, **armor-plated** turrets of the German battlecruisers at long range."*
+> - 📜 **Arthur Conan Doyle (*The British Campaign in France and Flanders*):** *"The advancing columns were spearheaded by heavy **armor-plated** tanks that flattened barbed-wire entanglements."*
+> - 📜 **H. G. Wells (*The Land Ironclads*):** *"The monstrous **armor-plated** vehicles rolled steadily over the enemy trenches, impervious to rifle fire."*

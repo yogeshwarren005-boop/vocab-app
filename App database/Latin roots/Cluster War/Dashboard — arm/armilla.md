@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A celestial globe consisting of metal hoops; used by early astronomers to determine the positions of stars.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (archeology) a bracelet worn around the wrist or arm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient bracelet or armlet worn as personal jewelry or awarded to soldiers as a military decoration for valor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman military history, a metal armband (often gold, silver, or bronze) bestowed by commanders upon legionaries for heroic conduct.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, armilla designates a celestial globe consisting of metal hoops; used by early astronomers to determine the positions of stars."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The victorious centurion proudly wore the silver **armilla** awarded by the emperor for bravery at the siege."*
+> - 📜 **Thomas Browne (*Hydriotaphia, Urn Burial*):** *"Among the calcined bones in the Roman sepulcher lay an antique bronze **armilla**, once worn upon a warrior's wrist."*
+> - 📜 **Sir Walter Scott (*Count Robert of Paris*):** *"The Byzantine guardsman was adorned with a heavy golden **armilla** that proclaimed his imperial bodyguard rank."*

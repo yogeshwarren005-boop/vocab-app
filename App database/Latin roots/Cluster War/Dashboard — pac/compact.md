@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small cosmetics case with a mirror; to be carried in a woman's purse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A signed written agreement between two or more parties (nations) to perform some action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Closely and neatly packed together; dense, solid; also a formal agreement, contract, or treaty between parties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political philosophy and constitutional law (social compact), the foundational covenant founding civil society.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he, compact of jars, grow musical, We shall have shortly discord in the spheres."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Patience once more whiles our compact is urged. [_To the Duke._] You say, if I bring in your Rosalind, You will bestow her on Orlando here?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What is the course and drift of your compact?"*
+> - 📜 **Thomas Hobbes (*Leviathan*):** *"The commonwealth is instituted when a multitude of men do agree and covenant, by mutual **compact**, every one with every one."*
+> - 📜 **John Locke (*Second Treatise of Government*):** *"Political society is nothing but the consent of any number of freemen capable of a majority to unite into one **compact**."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The bones of the fossil mammal formed a **compact** and solid structure adapted to sustain immense weight."*

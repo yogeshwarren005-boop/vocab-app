@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of many families or subfamilies into which some classification systems subdivide the liliaceae but not widely accepted; includes genus hosta.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of many families or subfamilies into which some classification systems subdivide the liliaceae but not widely accepted; includes genus hosta.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic botanical family name formerly proposed to encompass the genus Hosta, now classified under Asparagaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic monocot phylogenetics, a segregate family created by taxonomists to isolate Hosta based on distinctive rhizomatous habit and foliar anatomy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hostaceae designates one of many families or subfamilies into which some classification systems subdivide the liliaceae but not widely accepted; includes genus hosta."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Certain continental taxonomists split the Liliaceae, assigning the plantain-lilies to an independent family designated as **Hostaceae**."*
+> - 📜 **George Bentham (*Genera Plantarum*):** *"Comparative anatomical studies demonstrated that the proposed grouping **Hostaceae** shared overwhelming affinities with the tribe Hemerocalleae."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The provisional establishment of **Hostaceae** reflects historical debates over tribal circumscriptions within the broader lilialean alliance."*

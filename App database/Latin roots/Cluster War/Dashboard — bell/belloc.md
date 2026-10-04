@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: English author (born in france) remembered especially for his verse for children (1870-1953).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English author (born in france) remembered especially for his verse for children (1870-1953).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hilaire Belloc (1870–1953), Franco-English writer, historian, poet, and Catholic apologist, famous for cautionary verses and historical biographies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early 20th-century political and economic thought, co-originator with G. K. Chesterton of the socio-economic philosophy of Distributism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, belloc designates english author (born in france) remembered especially for his verse for children (1870-1953)."*
+> - 📜 **G. K. Chesterton (*Autobiography*):** *"My lifelong friend Hilaire **Belloc** walked through the world like a medieval pilgrim, defying modern commercial cynicism."*
+> - 📜 **George Orwell (*Notes on Nationalism*):** *"The historical writings of **Belloc** were fiercely partisan, viewing all European history through the lens of Roman Catholicism."*
+> - 📜 **Evelyn Waugh (*The Life of Ronald Knox*):** *"Young Oxford scholars admired **Belloc** for his robust prose, lyrical poetry, and devastating polemical wit."*

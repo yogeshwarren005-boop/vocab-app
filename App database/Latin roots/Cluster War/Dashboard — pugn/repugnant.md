@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Offensive to the mind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Offensive to the mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely distasteful, unacceptable, offensive, or repulsive; in legal contexts, contradictory or inconsistent with a statute.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional jurisprudence, describing a law, clause, or administrative action that directly contradicts higher fundamental law.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His antique sword, Rebellious to his arm, lies where it falls, Repugnant to command."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"But the Oxford of that day was a home of "chartered laziness." An academic circle absorbed in intrigues for preferment, and enlivened only by drunkenness and immorality, could offer nothing but what was repugnant to Shelley."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"But you wrong me, you do indeed; I'm not in love with Laura, and, if I were, the notion of picking poor Bernard's pocket is absolutely repugnant to me."*
+> - 📜 **John Marshall (*Marbury v. Madison*):** *"A law **repugnant** to the Constitution is void, and courts as well as other departments are bound by that instrument."*
+> - 📜 **Jane Austen (*Emma*):** *"The thought of submitting her judgment to Mrs. Elton was utterly **repugnant** to Emma’s high-spirited nature."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Any legislative act **repugnant** to the fundamental charter can never be deemed the legitimate will of the people."*

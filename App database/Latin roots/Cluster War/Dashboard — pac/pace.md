@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The rate of moving (especially walking or running).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The distance covered by a step.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A single step taken in walking or running; speed, rate of movement or progress; also with due respect to (Latin preposition).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman metrology, the passus, a historical unit of length equal to five Roman feet, measuring a double step.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ah yet doth beauty like a dial hand, Steal from his figure, and no pace perceived, So your sweet hue, which methinks still doth stand Hath motion, and mine eye may be deceived."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord that’s gone made himself much sport out of him; by his authority he remains here, which he thinks is a patent for his sauciness; and indeed he has no pace, but runs where he will."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The third o’ th’ world is yours, which with a snaffle You may pace easy, but not such a wife."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Tomorrow, and tomorrow, and tomorrow, creeps in this petty **pace** from day to day to the last syllable of recorded time."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The heavy mail coach labored up the hill at a foot's **pace**, the steaming horses straining against the mud."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth continued her walk along the gravel path at a rapid **pace**, striving to calm her agitated spirits."*

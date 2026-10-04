@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not offending.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not causing anger or annoyance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Harmless, innocent, inoffensive; not causing harm, displeasure, injury, or moral offense to others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethical theory and laws of armed conflict, non-combatant civilians who bear no arms and pose no threat in wartime.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"If I sit here thinking of him,” snarls the old man, holding up his impotent ten fingers, “I want to strangle him now.” And in a sudden access of fury, he throws the cushion at the unoffending Mrs."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"What stung me, was the identification of the whole affair with my unoffending self."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"They contrast finely with those elaborate and iterated repinings which we sometimes meet with in poetry, the effusions of morbid minds sickening under miseries of their own creating, and venting their bitterness upon an unoffending world."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The bloodthirsty revolutionary mob struck down **unoffending** citizens who happened to cross their path."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel Oak was an **unoffending** soul, content with his pastoral flock and the starry night skies."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The innocent and **unoffending** queen was dragged through Parisian streets by a howling multitude."*

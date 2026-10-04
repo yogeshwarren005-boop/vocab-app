@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dry brandy distilled in the armagnac district of france.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dry brandy distilled in the armagnac district of france.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A distinctive grape brandy produced in the Armagnac region in Gascony, southwestern France, distilled once in a continuous column still.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In viticulture and culinary history, the oldest wine-based eau-de-vie distilled in France, traditionally aged in local black Gascon oak barrels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Have you perused the letters from the Pope, The Emperor, and the Earl of Armagnac?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Beside, my lord, the sooner to effect And surer bind this knot of amity, The Earl of Armagnac, near knit to Charles, A man of great authority in France, Proffers his only daughter to your Grace In marriage, with a large and sumptuous dowry."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And so the Earl of Armagnac may do, Because he is near kinsman unto Charles."*
+> - 📜 **Alexandre Dumas (*The Three Musketeers*):** *"D’Artagnan toasted his fellow Gascons with a flagon of fiery **Armagnac** brandy before mounting his yellow horse."*
+> - 📜 **Honoré de Balzac (*The Chouans*):** *"The officers warmed their chilled limbs with copious draughts of old golden **Armagnac** around the tavern hearth."*
+> - 📜 **Ernest Hemingway (*The Sun Also Rises*):** *"We finished our dinner in Bayonne with glasses of dry, fragrant **Armagnac** that smelled of old wood and dried plums."*

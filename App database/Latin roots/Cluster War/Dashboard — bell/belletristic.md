@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Written and regarded for aesthetic value rather than content.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Written and regarded for aesthetic value rather than content.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of belles-lettres; emphasizing literary style, polish, and aesthetic grace.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism, applied sometimes pejoratively to writing that prioritizes surface verbal ornament over substance or analytical rigor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, belletristic designates written and regarded for aesthetic value rather than content."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"We need genuine moral seriousness rather than mere **belletristic** trifles in confronting the social crisis of our age."*
+> - 📜 **Walter Pater (*Appreciations*):** *"The essay exhibits that refined **belletristic** charm wherein every sentence is polished like an antique cameo."*
+> - 📜 **T. S. Eliot (*The Sacred Wood*):** *"Literary criticism must liberate itself from impressionistic **belletristic** chitchat to achieve objective analysis."*

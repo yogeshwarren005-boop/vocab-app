@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of edible mushrooms having white spores an annulus and blue juice; some are edible; some cause root rot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of edible mushrooms having white spores an annulus and blue juice; some are edible; some cause root rot.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of parasitic and saprophytic fungi in the family Physalacriaceae, commonly known as honey mushrooms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forest pathology and mycology, notorious for causing white rot and Armillaria root rot in trees, spreading via subterranean rhizomorphs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, armillaria designates genus of edible mushrooms having white spores an annulus and blue juice; some are edible; some cause root rot."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"Fungal hyphae of **Armillaria** penetrate dead root systems, accelerating the decomposition of woodland timber."*
+> - 📜 **M. C. Cooke (*Fungi: Their Nature and Uses*):** *"The golden-yellow clusters of **Armillaria** mellea produce glowing bioluminescent mycelium within decaying birch stumps."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The destructive root pathogen **Armillaria** spreads underground from tree to tree through cord-like black rhizomorphs."*

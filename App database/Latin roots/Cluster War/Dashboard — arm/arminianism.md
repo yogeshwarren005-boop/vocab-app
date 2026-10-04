@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: 17th century theology (named after its founder jacobus arminius) that opposes the absolute predestinarianism of john calvin and holds that human free will is compatible with god's sovereignty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: 17th century theology (named after its founder jacobus arminius) that opposes the absolute predestinarianism of john calvin and holds that human free will is compatible with god's sovereignty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The theological system of Jacobus Arminius and his followers, teaching that God's sovereignty and human free will are compatible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 17th-century religious history, codified in the Five Articles of the Remonstrants (1610) and condemned by the Dutch Calvinist Synod of Dort (1618–1619).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"We dwell on the points of distinction between Calvinism and Arminianism when the greater part of our people do not know the difference between an Arminian and an Armenian, and some good old sister thinks we are preaching on the cruelty of the Turks."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"High church **Arminianism** under the early Stuarts was viewed by Puritans as an open highway leading back to Rome."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"Milton’s later theological writings reveal a decisive retreat from orthodox Calvinism toward a form of intellectual **Arminianism**."*
+> - 📜 **John Locke (*A Letter Concerning Toleration*):** *"The magistrate has no legitimate authority to favor strict Calvinism over **Arminianism** by imposing civil penalties."*

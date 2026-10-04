@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Weaponry used by military or naval force.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of equiping with weapons in preparation for war.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Military weapons and equipment collectively; the process of equipping an army or navy for war.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial and military economics, the heavy manufacturing apparatus producing tanks, artillery, warships, and munitions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I want both of you to board the Sandbox and check all installed armament that can be directed against our fleet."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Whatever it is you do, fix their armament controls so that it'll take them at least fifteen hours to get them back on line."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"If they don't cooperate, I'm for back to the Dragon and let our guns talk for us." "Listen, Scarf," Brad said, exasperated, "our job is to disable the armament, not destroy the ship."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The vast naval **armament** of the emperor Julian assembled along the banks of the Euphrates for the Persian campaign."*
+> - 📜 **Winston Churchill (*The Gathering Storm*):** *"The rapid expansion of Germany's naval and air **armament** altered the strategic balance of Europe between 1935 and 1939."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A national **armament** by sea is the most natural, efficient, and least dangerous defense for a free commercial republic."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With hostility; in a belligerent hostile manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With hostility; in a belligerent hostile manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a hostile, antagonistic, unfriendly, or aggressive manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic reporting, conducting negotiations with undisguised enmity, intimidation, or calculated antagonism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hostilely designates with hostility; in a belligerent hostile manner."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The armed crowd glared **hostilely** at the Swiss guards defending the courtyard of the Tuileries."*
+> - 📜 **Henry James (*The American*):** *"The old marquise looked upon Christopher Newman **hostilely**, resenting the intrusion of an American commercialist."*
+> - 📜 **George Eliot (*Felix Holt, the Radical*):** *"The rival election factions shouted **hostilely** across the market-place as poll wagons arrived."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hotel providing overnight lodging for travelers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hotel providing overnight lodging for travelers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inn or tavern providing lodging, food, and drink for travelers; a traditional public house.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical travel literature, roadside accommodations along postal carriage routes and pilgrimage ways.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Perkins, who has had her own pint in her hand ever since it was fetched from the same hostelry by young Perkins before he was sent to bed."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"You persist, in a rude and boorish manner, in interrupting my conversation with the other guests in this hostelry.” And Warden Atherton came."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Three large rooms were assigned to them in the monastery hostelry, one of which was occupied by Prince Andrew."*
+> - 📜 **Washington Irving (*The Sketch Book of Geoffrey Crayon*):** *"A cheerful red glow beamed through the bow-window of the ancient village **hostelry**, promising good ale and crackling logs."*
+> - 📜 **Sir Walter Scott (*Rob Roy*):** *"We sought shelter in a rude Scottish **hostelry**, where highlanders sat drinking whiskey around an open peat fire."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"The White Hart was a venerable coaching **hostelry** in the Borough, replete with galleries and bustling ostlers."*

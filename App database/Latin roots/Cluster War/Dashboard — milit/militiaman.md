@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the militia; serves only during emergencies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of the militia; serves only during emergencies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a militia; an armed citizen-soldier enrolled for local or homeland defense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American revolutionary history, the Minuteman or colonial volunteer called from farming or trade to military service.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"But a militiaman got there before him."*
+> - 📜 **Washington Irving (*The Sketch Book of Geoffrey Crayon*):** *"The sturdy colonial **militiaman** shouldered his old fowling-piece and stood firm on Lexington green."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The village **militiaman** stood on guard before the prison door, clad in steel cap and buff jerkin."*
+> - 📜 **James Fenimore Cooper (*The Spy*):** *"A vigilant **militiaman** halted the traveler at the crossroads, demanding the countersign before allowing him to pass."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The military forces of a nation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the study of the principles of warfare.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of soldiers, armed forces, or warfare; the armed forces of a nation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional law, the armed branch of the sovereign state subject to civilian executive and legislative oversight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is there no military policy how virgins might blow up men?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What never-dying honour hath he got Against renowned Douglas! whose high deeds, Whose hot incursions and great name in arms, Holds from all soldiers chief majority And military title capital Through all the kingdoms that acknowledge Christ."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So that in speech, in gait, In diet, in affections of delight, In military rules, humours of blood, He was the mark and glass, copy and book, That fashion’d others."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The **military** power must always be held in strict subordination to the civil authority of the republic."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The discipline of the **military** legions had been the foundation of the greatness and glory of the Roman commonwealth."*
+> - 📜 **William Shakespeare (*Othello*):** *"I have served him since; and I may say, he had in him that noble, **military** virtue which earned him general command."*

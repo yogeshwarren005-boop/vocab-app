@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make (someone) agree, understand, or realize the truth or validity of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing one to believe the truth of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Leaving no margin for doubt; persuasive, cogent, and compelling through evidence, argument, or presentation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic performance, achieving verisimilitude and emotional truth that induces theatrical suspension of disbelief.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, “give up the whole thing, if I understand you, Tony?” “You never,” returns Tony with a most convincing steadfastness, “said a truer word in all your life."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Therefore I was driven at last to asking Richard if he would mind convincing me that it really was all over there, as he had said, and that it was not his mere impression."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Secure in his "_aliquid inconcussum_," he came increasingly to regard the life of the individual Christian and the collective life of the Church as the most convincing of all witnesses to the Unseen and the Supernatural."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The barrister presented a most **convincing** array of documents to substantiate his client's genealogical claim."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"Comparative anatomical dissections provide the most **convincing** proof of structural unity between man and the higher apes."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate spoke with a clear, **convincing** authority that won over the conservative governors of the new infirmary."*

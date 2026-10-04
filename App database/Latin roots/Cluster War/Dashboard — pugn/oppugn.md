@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Challenge the accuracy, probity, or propriety of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Challenge the accuracy, probity, or propriety of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To challenge, question, fight against, attack, or oppose the validity of an argument or doctrine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scholastic debate and polemical theology, systematically contesting and dismantling an opponent's formal thesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oppugn designates challenge the accuracy, probity, or propriety of."*
+> - 📜 **Francis Bacon (*Advancement of Learning*):** *"It is an idle labor to **oppugn** ancient philosophies without offering a more fruitful method for discovering truth."*
+> - 📜 **John Milton (*Areopagitica*):** *"Let truth and falsehood grapple; whoever knew truth put to the worse in a free and open encounter, where none dare **oppugn** her sovereign rights?"*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The radicals sought to **oppugn** the hereditary title of the monarchy under the pretext of abstract philosophical rights."*

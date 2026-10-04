@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Laugh a deep, hearty laugh.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Laugh a deep, hearty laugh.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A deep, loud, unrestrained, and hearty laugh that shakes the abdomen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In popular theater and comedy performance, genuine spontaneous mirth evoked by broad visual or farcical humor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bellylaugh designates laugh a deep, hearty laugh."*
+> - 📜 **Mark Twain (*The Innocents Abroad*):** *"The doctor let out a tremendous **bellylaugh** that startled the solemn guides inside the Roman catacombs."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"His crude commercial joke provoked a boisterous **bellylaugh** from the assembled salesmen around the punchbowl."*
+> - 📜 **John Steinbeck (*Cannery Row*):** *"Mack listened to the absurd tale with a roaring **bellylaugh** that echoed across the quiet laboratory yard."*

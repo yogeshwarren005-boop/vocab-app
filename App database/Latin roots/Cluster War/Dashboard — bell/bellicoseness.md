@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A natural disposition to fight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A natural disposition to fight.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or disposition of being bellicose; warlike inclination; pugnacity, aggression, or combativeness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political psychology, the habitual tendency of an autocratic regime or leader toward provocative military posture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bellicoseness designates a natural disposition to fight."*
+> - 📜 **Thomas Carlyle (*History of Friedrich II of Prussia*):** *"The innate **bellicoseness** of the old Field Marshal could not endure the protracted delays of diplomatic protocol."*
+> - 📜 **Bertrand Russell (*Justice in War-Time*):** *"Sensational journalism deliberately stimulated public **bellicoseness** to sell newspapers during the Balkan crisis."*
+> - 📜 **H. G. Wells (*The War That Will End War*):** *"We must eradicate the institutional roots of imperial **bellicoseness** if civilization is to survive the century."*

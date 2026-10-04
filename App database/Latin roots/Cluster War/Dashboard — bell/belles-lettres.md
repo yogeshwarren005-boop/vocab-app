@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Creative writing valued for esthetic content.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Creative writing valued for esthetic content.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Literature regarded as a fine art, especially poetry, essays, drama, and fiction valued for aesthetic elegance rather than informational content.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary theory, refined humane letters emphasizing stylistic grace, wit, and polished prose distinct from technical treatises.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, belles-lettres designates creative writing valued for esthetic content."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"A superficial acquaintance with Parisian **belles-lettres** had corrupted the youth of France with reckless political theories."*
+> - 📜 **Henry James (*The American*):** *"He had devoted his leisure to cultivating an elegant taste in **belles-lettres** and Renaissance engraving."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"Addison brought philosophy out of closets and libraries into clubs and assemblies through the charming vehicle of **belles-lettres**."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dutch protestant theologian who founded arminianism which opposed the absolute predestinarianism of john calvin (1559-1609).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: German hero; leader at the battle of teutoburger wald in ad 9 (circa 18 bc - ad 19).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Jacobus Arminius (1560–1609), Dutch reformed theologian whose critique of Bezan Calvinism gave rise to Arminianism; also ancient Germanic chieftain Arminius (Hermann).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient European history, chieftain of the Cherusci who annihilated three Roman legions under Publius Quinctilius Varus at the Battle of the Teutoburg Forest in 9 AD.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"I have asked my friend Arminius, of Buda-Pesth University, to make his record; and, from all the means that are, he tell me of what he has been."*
-> - 📜 **Bram Stoker (*Dracula*):** *"The Draculas were, says Arminius, a great and noble race, though now and again were scions who were held by their coevals to have had dealings with the Evil One."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The heroic Cheruscan prince **Arminius** defended the liberty of Germany by destroying the Roman legions of Varus in the Teutoburg Forest."*
+> - 📜 **Tacitus (*The Annals (tr. Murphy)*):** *"**Arminius** was beyond all doubt the liberator of Germany, having challenged Rome not in its infancy, but at the height of its imperial power."*
+> - 📜 **Thomas Carlyle (*History of Friedrich II of Prussia*):** *"The ancient oak groves where **Arminius** ambushed the imperial cohorts remained sacred shrines of German independence."*

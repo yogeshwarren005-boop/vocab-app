@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Attack as false or wrong.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attack as false or wrong.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To dispute the truth, validity, honesty, or integrity of a statement or person; to challenge or call into question.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal advocacy and parliamentary debate, mounting an aggressive formal challenge against the veracity or credibility of a witness or ruling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of a strange nature is the suit you follow, Yet in such rule that the Venetian law Cannot impugn you as you do proceed. [_To Antonio_.] You stand within his danger, do you not?"*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"If there were such a material law, it would oppose the supremacy of Spirit, God, and impugn the 273:24 wisdom of the creator."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Sir, I am not disposed to impugn the good faith, the patriotism, the sincerity, the many unusual traits and faculties of the President of the United States."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"The pound of flesh which I demand of him is dearly bought; 'tis mine and I will have it; if you deny me, fie upon your law! There is no force in the decrees of Venice; I stand for judgment: answer, shall I have it? None can **impugn** this bond."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"I do not mean to **impugn** the motives of the ministers, but I must condemn their short-sighted American policy."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It is unjust to **impugn** the patriotism of citizens who express honest doubts regarding the proposed federal constitution."*

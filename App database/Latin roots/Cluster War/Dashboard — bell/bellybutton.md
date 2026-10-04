@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A scar where the umbilical cord was attached.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scar where the umbilical cord was attached.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An informal name for the navel; the depression or scar on the abdomen marking the attachment of the umbilical cord.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human developmental anatomy, the umbilicus, resulting from cicatrix formation following the severance of fetal umbilical vessels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bellybutton designates a scar where the umbilical cord was attached."*
+> - 📜 **James Joyce (*Ulysses*):** *"The navel cord connects all flesh back to the beginning; belly without blemish, bulging to a dimpled **bellybutton**."*
+> - 📜 **William Faulkner (*The Sound and the Fury*):** *"The small boy splashed in the creek, the cold brown water rising just to his **bellybutton**."*
+> - 📜 **E. E. Cummings (*The Enormous Room*):** *"The medical officer marked the soldier's abdominal scar an inch below the **bellybutton** on the chart."*

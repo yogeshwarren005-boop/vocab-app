@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a convincing manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a convincing manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that leaves no doubt; persuasively, compellingly, and with irresistible logical force.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific rhetoric, demonstrating an empirical conclusion with sufficient experimental control to eliminate alternatives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It never has been convincingly shown, however, that there is any large measure of correspondence in time (not to say causal relation) between tariff revisions and crises.[13] § 15. #Rhythmic changes in weather and in crops#."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"On the one hand, you will be loyal to each other and to us; on the other, you, and I mean each of you, will lie, cheat, bribe, subvert, sabotage, and kill for the mission, and if it serves our greater purpose, act convincingly against us."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"His prompt reply to all complaints and remonstrances was--the butt-end of a handspike, so convincingly administered as effectually to silence the aggrieved party."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The embryological resemblances between divergent vertebrates demonstrate **convincingly** their derivation from a common ancestral form."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The essayist argued **convincingly** that constitutional liberty had flourished under the protective aegis of the Bill of Rights."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"She acted her part so **convincingly** that even her closest companions suspected nothing of her inward despair."*

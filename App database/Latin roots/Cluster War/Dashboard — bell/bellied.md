@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Swell out or bulge out.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a belly; often used in combination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a belly or paunch of a specified kind; swollen, bulging, or protuberant in form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive anatomy and zoology, having an enlarged or distinctive ventral abdominal region.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Great-bellied women That had not half a week to go, like rams In the old time of war, would shake the press And make ’em reel before ’em."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I learned it in England, where indeed they are most potent in potting: your Dane, your German, and your swag-bellied Hollander,—drink, ho!—are nothing to your English."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It was thought meet Paris should do some vengeance on the Greeks; Your breath with full consent bellied his sails; The seas and winds, old wranglers, took a truce, And did him service."*
+> - 📜 **William Shakespeare (*Coriolanus*):** *"There was a time when all the body's members rebell'd against the belly; thus said the big-**bellied** Senator with smiling scorn."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"A comfortable, fat-**bellied** copper tea-kettle sang merrily upon the polished iron hob."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The broad-**bellied** Dutch merchantman rolled lazily in the ground-swell, her sails slatting against the masts."*

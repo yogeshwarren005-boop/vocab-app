@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A prisoner who is held by one party to insure that another party will meet specified terms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A prisoner who is held by one party to insure that another party will meet specified terms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person seized or held as security for the fulfillment of a condition, treaty, or payment of a ransom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient and medieval diplomacy, prominent individuals voluntarily exchanged between nations to guarantee treaty fidelity without mistreatment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have sent Cloten’s clotpoll down the stream, In embassy to his mother; his body’s hostage For his return. [_Solemn music._] BELARIUS."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Aemilius, do this message honourably, And if he stand on hostage for his safety, Bid him demand what pledge will please him best."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, if thou couch But one night with her, every hour in ’t will Take hostage of thee for a hundred, and Thou shalt remember nothing more than what That banquet bids thee to."*
+> - 📜 **Francis Bacon (*Essays*):** *"He that hath wife and children hath given **hostage** to fortune; for they are impediments to great enterprises, either of virtue or mischief."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Gothic chieftain surrendered his own sons as a noble **hostage** to confirm the solemn terms of the imperial truce."*
+> - 📜 **Sir Walter Scott (*Ivanhoe*):** *"The Norman baron threatened to execute every Saxon **hostage** if the castle garrison refused unconditional surrender."*

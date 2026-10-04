@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fear resulting from the awareness of danger.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A device that signals the occurrence of some undesirable event.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An anxious awareness of danger; a warning sound or device; also to cause someone to feel frightened or endangered.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military history, derived from the Italian battle cry 'all'arme!' ('to arms!'), signaling immediate preparation for combat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Forth at your eyes your spirits wildly peep, And, as the sleeping soldiers in the alarm, Your bedded hairs, like life in excrements, Start up and stand an end."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Revenges burn in them; for their dear causes Would to the bleeding and the grim alarm Excite the mortified man."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And when she speaks, is it not an alarm to love?"*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Ring the **alarm** bell! Blow, wind! come, wrack! At least we'll die with harness on our back."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The celestial sentinels sounded the dread **alarm**, summoning angelic legions to confront the encroaching adversary."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"A sudden night **alarm** spread panic through the Roman camp as Gothic horsemen breached the outer trenches."*

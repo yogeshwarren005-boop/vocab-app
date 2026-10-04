@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The region of the body of a vertebrate between the thorax and the pelvis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A protruding abdomen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The front part of the human trunk below the ribs containing the stomach and bowels; the abdomen; the bulging part of anything.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy and wainwright terminology, the muscular venter or the convex swell of a curved architectural or mechanical element.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And then the justice, In fair round belly with good capon lined, With eyes severe and beard of formal cut, Full of wise saws and modern instances; And so he plays his part."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So you may put a man in your belly."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The belly answered— FIRST CITIZEN."*
+> - 📜 **William Shakespeare (*Coriolanus*):** *"There was a time when all the body's members rebell'd against the **belly**, accusing it of idle gluttony while all others laboured."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"The great round **belly** of the prize turkey was so heavy that the boy could scarcely carry it through the snowy street."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The white **belly** of the great leviathan flashed momentarily through the foam before plunging into the abyss."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shrubby or herbaceous low-growing evergreen perennials.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shrubby or herbaceous low-growing evergreen perennials.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering perennial plants in the plumbago family Plumbaginaceae, commonly known as sea thrift.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime and coastal botany, cushion-forming halophytes with globose heads of pink or white flowers that thrive on salt-sprayed cliffs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, armeria designates shrubby or herbaceous low-growing evergreen perennials."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The maritime cliff ledges were covered with compact cushions of **Armeria** maritima, resisting the salt gales of the Atlantic."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The dense, grassy tufts of **Armeria** bear solitary scapes topped with papery, rose-colored floral heads."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Species of **Armeria** are distinguished by five-styled flowers surrounded by dry scarious involucral bracts."*

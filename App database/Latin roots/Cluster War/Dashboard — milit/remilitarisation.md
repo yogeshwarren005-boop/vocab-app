@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of militarizing again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of militarizing again.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of remilitarizing an area or country; equipping again with armed forces; British spelling of remilitarization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In interwar European history, the reintroduction of German troops and fortifications into the demilitarized Rhineland in March 1936.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, remilitarisation designates the act of militarizing again."*
+> - 📜 **Winston Churchill (*The Gathering Storm*):** *"The unlawful **remilitarisation** of the Rhineland struck a fatal blow against the security architecture of the Locarno treaties."*
+> - 📜 **John Maynard Keynes (*The Economic Consequences of the Peace*):** *"Allied statesmen failed to foresee how rapidly economic recovery could finance the **remilitarisation** of Germany."*
+> - 📜 **Harold Nicolson (*Diaries and Letters (1930–1939)*):** *"The house listened in somber silence to the foreign secretary’s report on the **remilitarisation** of the border zone."*

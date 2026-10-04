@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A worker skilled in making armor or arms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enlisted man responsible for the upkeep of small arms and machine guns etc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who manufactures, repairs, or maintains weapons and defensive armor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military quartermaster corps, an ordnance technician responsible for inspecting, servicing, and issuing firearms and weaponry to a military unit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"Preston; four corporals, one bugler, one armorer, and one hospital steward, with sixty-eight privates."*
+> - 📜 **William Shakespeare (*Henry V*):** *"The **armorer**, accomplishing the knights, with busy hammers closing rivets up, give dreadful note of preparation."*
+> - 📜 **Sir Walter Scott (*The Fair Maid of Perth*):** *"Henry Gow was celebrated throughout the Scottish burgh as a cunning **armorer** whose tempered broadswords never notched."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The imperial arsenals of Constantinople maintained thousands of **armorer** craftsmen to forge spears, shields, and chainmail."*

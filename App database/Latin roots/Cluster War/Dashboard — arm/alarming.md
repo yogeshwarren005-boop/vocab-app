@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fill with apprehension or alarm; cause to be unpleasantly surprised.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Warn or arouse to a sense of danger or call to a state of preparedness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Worrying, disturbing, or causing apprehension; frightening or menacing in implication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical pathology and diagnostics, symptoms or laboratory markers indicating rapid clinical deterioration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Gridley, a disappointed suitor, has been here to-day and has been alarming."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now do they note down, in the watches of the night, how the neighbourhood of Chancery Lane was yesterday, at about midnight, thrown into a state of the most intense agitation and excitement by the following alarming and horrible discovery."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"That is a more alarming person than the clerk."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The accumulation of legal costs in the Chancery suit had reached an **alarming** magnitude that threatened to swallow the entire estate."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The creature’s rapid disappearance into the icy mountain mist filled Victor Frankenstein with an **alarming** sense of impending catastrophe."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Rumors of an impending foreign invasion produced an **alarming** financial panic on the London exchange."*

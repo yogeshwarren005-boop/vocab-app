@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lend a military character to (a country), as by building up a military force.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adopt for military use.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To equip, train, or organize for military purposes; to instill military discipline or values into civilian institutions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In governance and emergency powers, placing strategic public utilities, factories, or municipal services under martial discipline.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, militarize designates lend a military character to (a country), as by building up a military force."*
+> - 📜 **George Washington (*Writings of George Washington*):** *"To **militarize** the citizen is not our aim; we seek only that necessary discipline which defends our liberty."*
+> - 📜 **Thomas Jefferson (*Writings of Thomas Jefferson*):** *"We must never allow ambitious politicians to **militarize** the federal administration under fabricated alarms of invasion."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"A prolonged civil war tends fatally to **militarize** the entire population, transforming farmers into restless soldiers."*

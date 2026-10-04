@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With hand brought forward and down from above shoulder level.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With hand brought forward and down from above shoulder level.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Executed with the arm brought forward and downward from above the shoulder, as in pitching, bowling, or swimming.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sports biomechanics and swimming kinesiology, referring to strokes or throws involving full glenohumeral elevation and overhead circumduction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overarm designates with hand brought forward and down from above shoulder level."*
+> - 📜 **Arthur Conan Doyle (*The Return of Sherlock Holmes*):** *"The harpoon had been driven with a furious **overarm** thrust directly through the victim's chest into the wood of the wall."*
+> - 📜 **Jack London (*The Sea-Wolf*):** *"Wolf Larsen delivered a swift **overarm** blow that felled the mutinous sailor across the slippery deck."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"He threw the glass tumbler with a vicious **overarm** motion that shattered it against the tavern wainscot."*

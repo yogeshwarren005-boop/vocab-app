@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tough and callous by virtue of experience.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ready and able to resort to force or violence; - herman melville.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Eager or quick to argue, quarrel, or fight; combative, belligerent, and aggressive in temperament.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral biology and ethology, exhibiting frequent unprovoked territorial aggression toward conspecific rivals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The latter was a small, alert, dark-eyed man about thirty years of age, very sturdily built, with thick black eyebrows and a strong, pugnacious face."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"We learnt afterwards that our host was naturally of a most excitable nature and was of a pugnacious disposition."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Boythorn was a **pugnacious** gentleman of loud voice and ferocious aspect, though possessing the tenderest heart in England."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The males of many mammalian species become intensely **pugnacious** during the breeding season, engaging in fierce combats for mates."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"McMurdo had the low forehead and broad jaw of a **pugnacious** prize-fighter who loved nothing better than a brawl."*

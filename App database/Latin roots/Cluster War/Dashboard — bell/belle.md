@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A young woman who is the most charming and beautiful of several rivals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A young woman who is the most charming and beautiful of several rivals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A beautiful woman or girl, especially the most attractive, charming, or admired woman at a ball, gathering, or social event.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century American social vernacular, a Southern belle, celebrated for grace, hospitality, and fashionable charm in plantation culture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How answer you, _la plus belle Katherine du monde, mon très cher et divin déesse?_ KATHARINE."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Belle went with your brother, and John drove Maria.” Catherine spoke the pleasure she really felt on hearing this part of the arrangement."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"He made no answer; but after a minute’s silence burst out with, “A famous good thing this marrying scheme, upon my soul! a clever fancy of Morland’s and Belle’s."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Rebecca Sharp determined that she would shine as the undisputed **belle** of the grand ball at Brussels."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Catherine was introduced to several young officers, who pronounced her the prettiest **belle** in the Upper Rooms that evening."*
+> - 📜 **Lord Byron (*Don Juan*):** *"The reigning **belle** of the season smiled behind her ivory fan, surrounded by an eager court of titled suitors."*

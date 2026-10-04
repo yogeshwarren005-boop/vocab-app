@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Horseradish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Horseradish.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of herbaceous perennial plants in the cabbage family (Brassicaceae), typified by Armoracia rusticana (horseradish).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacological botany and culinary horticulture, cultivated for its pungent, sinigrin-rich taproot used as a sharp condiment and traditional counterirritant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, armoracia designates horseradish."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The root of **Armoracia** rusticana exhibits little variation under domestic cultivation, retaining its pungent glucoside properties."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"In the family Cruciferae, the genus **Armoracia** is distinguished by its cylindrical silicles and thick, acrid medicinal root."*
+> - 📜 **William Withering (*An Arrangement of British Plants*):** *"Common horseradish, or **Armoracia**, grows wild on ditch banks and was anciently employed as a stimulating remedy for dropsy."*

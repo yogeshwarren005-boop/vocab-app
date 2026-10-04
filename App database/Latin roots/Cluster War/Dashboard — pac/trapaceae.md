@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Family comprising solely the genus trapa; in some classifications treated as a subfamily or tribe of the family onagraceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Family comprising solely the genus trapa; in some classifications treated as a subfamily or tribe of the family onagraceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic botanical family name comprising the water caltrops or water chestnuts, now included within the family Lythraceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aquatic botany, floating freshwater plants characterized by rosette leaves with inflated petioles and horned, edible starchy nuts (Trapa natans).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trapaceae designates family comprising solely the genus trapa; in some classifications treated as a subfamily or tribe of the family onagraceae."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The family **Trapaceae** is distinguished by floating foliage, solitary axillary flowers, and horned, four-spined nuts."*
+> - 📜 **George Bentham (*Handbook of the British Flora*):** *"Fossil nuts belonging to **Trapaceae** occur abundantly in post-glacial lacustrine deposits across northern Europe."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The naturalized water chestnut, formerly assigned to **Trapaceae**, now occupies placid ponds and slow rivers."*

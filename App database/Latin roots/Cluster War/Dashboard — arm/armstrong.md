@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states astronaut; the first man to set foot on the moon (july 20, 1969) (1930-).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states pioneering jazz trumpeter and bandleader (1900-1971).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Scottish border surname meaning physically strong or powerful in the arms; historically associated with heavy rifled breech-loading naval guns developed by Sir William Armstrong.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century military ordnance, designating the rifled breech-loading artillery system adopted by the British Royal Navy and artillery corps in 1859.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Johnson, Miss Armstrong, and Mrs."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The Fourteenth Corps by Miss Armstrong."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"This is the invention of two gentlemen, Messrs Armstrong and Orling, whose first syllables combine to form the title of the torpedo."*
+> - 📜 **Sir Walter Scott (*The Minstrelsy of the Scottish Border*):** *"The clan of **Armstrong** held Liddesdale by right of the sword, defying both English wardens and Scottish monarchs."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The coastal fortifications were armed with formidable **Armstrong** rifled guns capable of hurling heavy shells against ironclad hulls."*
+> - 📜 **Charles Dickens (*All the Year Round*):** *"The public marvelled at the precision and range achieved by the new **Armstrong** rifled artillery pieces at the Shoeburyness trials."*

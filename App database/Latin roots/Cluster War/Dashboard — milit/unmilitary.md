@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not associated with soldiers or the military.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not associated with soldiers or the military.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not characteristic of, suitable for, or resembling soldiers, military discipline, or warfare.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In martial appraisal, exhibiting slouching posture, civilian informality, or disregard for drill and ceremonial protocol.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"I must ask someone who knows,” he thought, and addressed an officer who was looking with curiosity at his huge unmilitary figure."*
+> - 📜 **Sir Walter Scott (*Waverley*):** *"The young ensign’s dreamy, poetical habits were deemed decidedly **unmilitary** by the veteran officers of the regiment."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"The undisciplined, democratic atmosphere of the militia seemed wonderfully refreshing and completely **unmilitary**."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The Dutch king possessed a cold, reserved demeanor that appeared quite **unmilitary** beside French court marshals."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Militarize anew.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Militarize anew.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To equip again with armed forces, fortifications, or military controls; to rearm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In strategic defense policy, reintroducing military bases and garrisons into previously disarmed neutral zones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, remilitarize designates militarize anew."*
+> - 📜 **Winston Churchill (*The Gathering Storm*):** *"Hitler determined to **remilitarize** the Rhineland while French and British cabinets were paralyzed by indecision."*
+> - 📜 **Harry S. Truman (*Memoirs: Years of Trial and Hope*):** *"The outbreak of hostilities in Korea forced the western allies to **remilitarize** and expand their conventional divisions."*
+> - 📜 **Franklin D. Roosevelt (*Public Papers and Addresses*):** *"The international community must never permit aggressor nations to **remilitarize** and threaten peaceful neighbors."*

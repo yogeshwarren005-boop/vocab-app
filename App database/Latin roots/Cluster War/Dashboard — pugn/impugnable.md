@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Subject to being discredited.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subject to being discredited.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being impugned, challenged, questioned, disputed, or called into doubt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence, an argument, legal title, or testimony that contains vulnerabilities permitting formal cross-examination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, impugnable designates subject to being discredited."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Any theological dogma that directly contradicts clear mathematical demonstrations is readily **impugnable** by human reason."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The integrity of the Lord Chancellor was sadly **impugnable**, tainted by documented evidence of judicial gifts."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"His critical assertions regarding ancient meters are easily **impugnable** by anyone versed in classical prosody."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to the military.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to the military.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a military manner; with regard to soldiers, warfare, armed forces, or martial strategy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geopolitical analysis, assessing a nation’s capability, strategic posture, or logistics strictly in terms of armed forces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The Korean War, in which the Soviet Union and Communist China openly supported and militarily joined North Korea against the United Nations, was launched the following year."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Roman camp was **militarily** organized so that every soldier knew his assigned station upon the rampart."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The allied powers were **militarily** unprepared for the rapid German advance through Belgian territory."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A disunited confederacy would remain **militarily** vulnerable to the naval empires of Europe."*

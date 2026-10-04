@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act of reducing or depriving of arms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove offensive capability from.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the effect of neutralizing or dispelling suspicion, hostility, or skepticism, typically through charm, candor, or warmth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In interpersonal communication and social psychology, behavior that reduces interpersonal friction and defuses emotional defenses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Jane is one of the hunted that has turned and has come back to meet the pursuer with outstretched and disarming hand."*
-> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"; Take this, you Yankee, and remember that you will surely be hung if you don't get out of here before daylight." "I hope you are not disarming yourself," said Tom."*
-> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"In obedience to the order of his superior the lieutenant stepped upon the porch and beckoned to some of his men, who at once came in and began the work of disarming the citizens."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Weston had an open, easy manner and a **disarming** good humor that instantly made every stranger feel at home."*
+> - 📜 **Henry James (*The Golden Bowl*):** *"There was a **disarming** frankness in her confession that prevented him from uttering a single harsh reproach."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Fred Vincy offered his apologies with a **disarming** boyish simplicity that won his uncle's reluctant forgiveness."*

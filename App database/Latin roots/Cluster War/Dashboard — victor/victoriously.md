@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a victorious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a victorious manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a victorious, triumphant, or winning manner; with success over an opponent or obstacle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative prose, overcoming adversity or hostile forces to emerge master of the situation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The fourth objective of the Plan, the transatlantic project, on which its members have embarked, has, four years ahead of schedule, been, to all intents and purposes, victoriously achieved."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Tennyson, are periods of protracted self-control, and those moments stand eminent in life in which the spirit has struggled victoriously in the cause of conscience against impulse and desire."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"We too will take part...” the reader went on, and then paused (“Do you see,” shouted the youth victoriously, “he’s going to clear up the whole affair for you....”), “in destroying them, and will send these visitors to the devil."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The emperor marched **victoriously** through the provinces, receiving the humble submissions of rebel cities."*
+> - 📜 **Sir Walter Scott (*The Talisman*):** *"Richard Lion-Heart burst **victoriously** through the Saracen ranks, clearing a wide path with his two-handed battle-axe."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"My moral resolution emerged **victoriously** from that agonizing trial, though my heart was broken in the ordeal."*

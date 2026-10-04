@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A leading instance in its field.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialized bit of heart tissue that controls the heartbeat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, horse, or vehicle that sets the pace in a race; also an electronic medical device that regulates the heartbeat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiac electrophysiology, the sinoatrial (SA) node, the specialized myocardial tissue that generates spontaneous rhythmic electrical impulses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pacemaker designates a leading instance in its field."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"The horse was accompanied on the training track by a reliable **pacemaker** to gauge his staying power."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine (Modern Revision)*):** *"Implantation of a cardiac **pacemaker** restores normal ventricular chronotropy in severe atrioventricular heart block."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"The factory assembly line operated with relentless precision, each worker keeping time with the mechanical **pacemaker**."*

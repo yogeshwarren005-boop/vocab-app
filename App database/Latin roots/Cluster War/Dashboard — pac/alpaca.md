@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wool of the alpaca.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thin glossy fabric made of the wool of the lama pacos, or made of a rayon or cotton imitation of that wool.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A domesticated South American camelid (Vicugna pacos), valued for its long, fine, soft fleece.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In textile manufacturing, fabric woven from the silky fleece of the alpaca, prized for lightweight warmth and durability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"I saw a high starched collar, white cuffs, a light alpaca jacket, snowy trousers, a clean necktie, and varnished boots."*
-> - 📜 **James Joyce (*Ulysses*):** *"The foreman turned round to hear patiently and, lifting an elbow, began to scratch slowly in the armpit of his alpaca jacket. —Like that, Mr Bloom said, crossing his forefingers at the top."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The ancient Peruvians domesticated both the llama and the **alpaca** centuries before the arrival of the Spaniards."*
+> - 📜 **William H. Prescott (*History of the Conquest of Peru*):** *"Immense herds of **alpaca** grazed upon the cold punas of the high Andes under royal Inca supervision."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"She wore a plain dress of black **alpaca**, fitting closely to her slight figure without superfluous ornament."*

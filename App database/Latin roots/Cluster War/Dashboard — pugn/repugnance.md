@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intense aversion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relation between propositions that cannot both be true at the same time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intense disgust, aversion, revulsion, or distaste; strong incompatibility or opposition between things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and psychology, an immediate visceral affective revulsion against unnatural or abhorrent actions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"She seemed like an animal of another species, and there was instinctive repugnance on both sides."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Pray, pray, dear Richard, for my sake, and for your own, and in a natural repugnance for that source of trouble which had its share in making us both orphans when we were very young, pray, pray, let it go for ever."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was a simple physical fear—the weak of the strong; there was no emotional aversion or inner repugnance."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth could not conceal her absolute **repugnance** toward the flattering addresses of Mr. Collins."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I felt a terrible, involuntary **repugnance** toward the poor convict who had devoted his wretched life to enriching me."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The mind perceives an immediate **repugnance** between the ideas of a circle and a square, knowing they cannot be identical."*

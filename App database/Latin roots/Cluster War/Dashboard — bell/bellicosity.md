@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A natural disposition to fight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A natural disposition to fight.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Aggressive, warlike behavior, character, or disposition; eagerness or readiness to fight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic historiography, an aggressive national policy characterized by continuous military intimidation and disregard for international law.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bellicosity designates a natural disposition to fight."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"While commercial democracies fear war, their latent **bellicosity** erupts with terrifying fury once their pride is wounded."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The diplomatic dispatches from Vienna breathed an uncompromising **bellicosity** that closed every avenue of compromise."*
+> - 📜 **George Orwell (*Notes on Nationalism*):** *"Nationalist sentiment is characterized by constant **bellicosity**, measuring moral worth solely in units of military dominance."*

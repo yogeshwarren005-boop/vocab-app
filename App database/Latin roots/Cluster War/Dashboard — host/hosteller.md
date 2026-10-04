@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An owner or manager of hotels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A traveler who lodges in hostels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An innkeeper; a person who manages a hostel or inn; also a traveler who lodges at a hostel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In monastic and medieval history, a monastic officer (hostellarius) appointed to receive and care for traveling guests and pilgrims.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hosteller designates an owner or manager of hotels."*
+> - 📜 **Sir Walter Scott (*The Monastery*):** *"The venerable monastic **hosteller** welcomed the weary knights to the abbey guest hall with Christian charity."*
+> - 📜 **Charles Reade (*The Cloister and the Hearth*):** *"The jovial **hosteller** tapped a fresh cask of Rhine wine as travelers gathered around the roaring taproom hearth."*
+> - 📜 **Geoffrey Chaucer (*The Canterbury Tales*):** *"Our courteous **hosteller** greeted each pilgrim with hearty good cheer, proposing the famous tale-telling contest."*

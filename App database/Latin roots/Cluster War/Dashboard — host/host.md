@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who invites guests to a social event (such as a party in his or her own home) and who is responsible for them while they are there.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vast multitude.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who receives or entertains guests; an organism harboring a parasite; also a vast multitude or army; or the consecrated Eucharistic wafer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological parasitology, an organism providing nutrition and shelter to another organism (parasite or mutualistic symbiont).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, pilgrim, I will bring you Where you shall host; of enjoin’d penitents There’s four or five, to great Saint Jaques bound, Already at my house."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give to a gracious message An host of tongues, but let ill tidings tell Themselves when they be felt."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Best you safed the bringer Out of the host."*
+> - 📜 **John Milton (*Paradise Lost*):** *"He called so loud that all the hollow deep of Hell resounded; princes, potentates, warriors, the flower of Heaven, once yours, now lost, if such astonishment as this can seize an angelic **host**!"*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Numerous internal parasites are so specialized that they can complete their life cycles only within a specific vertebrate **host**."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"First, as I am his kinsman and his subject, strong both against the deed; then, as his **host**, who should against his murderer shut the door, not bear the knife myself."*

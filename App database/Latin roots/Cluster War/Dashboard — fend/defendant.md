@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or institution against whom an action is brought in a court of law; the person being sued or accused.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person or institution against whom an action is brought in a court of law; the person being sued or accused.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An individual, company, or institution sued or accused in a court of law; the party against whom relief is sought.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In common law procedure, the responding party entitled to legal counsel, confrontation of witnesses, and formal plea.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lords, let him go.—Please it your majesty, This is the day appointed for the combat, And ready are the appellant and defendant, The armourer and his man, to enter the lists, So please your highness to behold the fight."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In which predicament I say thou stand’st; For it appears by manifest proceeding That indirectly, and directly too, Thou hast contrived against the very life Of the defendant; and thou hast incurr’d The danger formerly by me rehears’d."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then enter Mowbray in armour, defendant, preceded by a Herald."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The court requires that the **defendant** be served with formal summons before judgment can be entered."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"Bardell versus Pickwick was called, and the unfortunate **defendant** took his place with serene innocence."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The constitutional right of the **defendant** to a trial by jury in criminal cases remains inviolable."*

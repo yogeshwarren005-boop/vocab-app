@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a pacifistic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a pacifistic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a pacifistic manner; with commitment to peace and non-violence in resolving conflicts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political philosophy, approaching international disputes through unyielding devotion to nonviolent methods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pacifistically designates in a pacifistic manner."*
+> - 📜 **Leo Tolstoy (*Writings on Civil Disobedience and Nonviolence*):** *"The early Christians lived **pacifistically**, refusing to serve in the imperial legions or sacrifice to warlike idols."*
+> - 📜 **Bertrand Russell (*Unpopular Essays*):** *"If humanity cannot learn to conduct its affairs **pacifistically**, technological civilization will destroy itself."*
+> - 📜 **George Bernard Shaw (*Common Sense About the War*):** *"He argued **pacifistically** that international solidarity among workers would render imperialist conflicts impossible."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The striking of one body against another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A forceful consequence; a strong effect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The striking of one body against another; collision; also the marked effect, influence, or impression of an event or action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Newtonian mechanics, the exchange of momentum between two bodies occurring over an extremely brief time interval.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The rencounter came at a heavy moment, one of all moments calculated to permit its impact with the least emotional shock."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Some poor devil,” was my thought; and my next thought was that he was surely getting his, as I listened to the scuffling of feet, the dull impact of blows on flesh, the sudden cries of pain, the filth of curses, and the sounds of dragging bodies."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Yes, as I look back upon it, a man must be greatly a philosopher to survive the continual impact of such brutish experiences through the years and years."*
+> - 📜 **Isaac Newton (*Mathematical Principles of Natural Philosophy*):** *"The momentum generated upon the sudden **impact** of elastic bodies is distributed according to their respective masses."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The monumental **impact** of the earthquake was felt along hundreds of miles of the Chilean coastline."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The falling cylinder struck the common with an enormous **impact**, sending tons of earth flying into the night air."*

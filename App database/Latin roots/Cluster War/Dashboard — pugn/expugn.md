@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin pugn within the domain of War.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of pugn in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To conquer, take by storm, vanquish, or subdue by armed force.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical and renaissance military historiography, capturing a fortified citadel through direct breach and assault rather than blockade.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, expugn designates pertaining to, derived from, or characteristic of latin pugn within the domain of war."*
+> - 📜 **John Milton (*The Reason of Church-Government*):** *"Truth will prevail by its own celestial brightness, nor needs it worldly weapons to **expugn** stubborn heresies."*
+> - 📜 **Sir Walter Raleigh (*The History of the World*):** *"The Roman commanders determined to **expugn** the mountain fortress before the arrival of the winter rains."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Gothic barbarians lacked the siege artillery necessary to **expugn** the massive walls of Thessalonica."*

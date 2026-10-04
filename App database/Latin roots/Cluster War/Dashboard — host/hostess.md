@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman host.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman innkeeper.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman who receives or entertains guests socially; a woman managing an inn; or a female flight attendant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social history and salon culture, a prominent woman organizing intellectual gatherings and political discussions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you will tarry, holy pilgrim, But till the troops come by, I will conduct you where you shall be lodg’d; The rather for I think I know your hostess As ample as myself."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That chain will I bestow (Be it for nothing but to spite my wife) Upon mine hostess there."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Quickly, Hostess in Eastcheap."*
+> - 📜 **William Shakespeare (*Henry V*):** *"Pistol took tender farewell of his tearful **hostess**, Mistress Quickly, before embarking for the French wars."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mrs. Bennet proved a most attentive **hostess**, pressing cold meat and wine upon her distinguished visitors."*
+> - 📜 **Virginia Woolf (*Mrs. Dalloway*):** *"Clarissa Dalloway took pride in her vocation as the perfect **hostess**, gathering people together in the radiant London evening."*

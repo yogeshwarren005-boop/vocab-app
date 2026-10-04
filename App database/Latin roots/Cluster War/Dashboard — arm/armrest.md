@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A support for the arm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A support for the arm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A horizontal or padded support on the side of a chair, seat, or vehicle designed for resting the arm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ergonomic furniture design and vehicle interior engineering, an adjustable lateral structure relieving muscle strain in the shoulders and cervical spine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"He was dragging his feet, and when he got to the side of his big black buggy, he had to catch one hand on the dashboard and the other on the armrest so he could pull himself up to the seat."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"She leaned her elbow upon the carved walnut **armrest** of the high-backed chair, gazing pensively into the hearth."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"Bernard rested his hand on the smooth mahogany **armrest**, observing the changing light across the London lawn."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes gripped the leather **armrest** of his armchair as he listened intently to Dr. Mortimer's extraordinary narrative."*

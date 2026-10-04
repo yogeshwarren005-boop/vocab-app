@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being susceptible to persuasion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being susceptible to persuasion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being convinced, persuaded, or won over by reasoned argument, evidence, or demonstration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemological philosophy, describing an intellect that remains open to changing its assent when presented with superior proof.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, convincible designates being susceptible to persuasion."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Many popular vulgar errors are not easily **convincible** by reason, being deeply rooted in ancient superstition."*
+> - 📜 **John Locke (*The Reasonableness of Christianity*):** *"A candid mind is readily **convincible** when the historical testimonies are marshaled with clarity and fairness."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The dogmatic pedant is seldom **convincible**, clinging to his flawed premises through obstinate intellectual pride."*

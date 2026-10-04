@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an alarming manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an alarming manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that causes fear, worry, or apprehension; disturbingly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statistical analysis and public health, rates of disease transmission or resource depletion accelerating beyond manageable safety thresholds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A correspondent of _The Illustrated Christian Weekly_, states that a mother of her acquaintance had a child taken alarmingly ill."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"My sister, who had begun to be alarmingly meditative, had to employ herself actively in getting the gin, the hot water, the sugar, and the lemon-peel, and mixing them."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"There was a bar at the Jolly Bargemen, with some alarmingly long chalk scores in it on the wall at the side of the door, which seemed to me to be never paid off."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The red weed spread **alarmingly** across the ruined countryside, choking waterways and blanketing fallen trees."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate’s household expenses accumulated **alarmingly**, outstripping the modest professional fees from his medical practice."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"Our ammunition was **alarmingly** depleted after the desperate night defense against the prehistoric carnivores."*

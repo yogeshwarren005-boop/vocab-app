@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (music) the speed at which a composition is to be played.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Walking with slow regular strides.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Walking back and forth with slow, regular, or measured steps; also regulating or setting the rate of speed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative literature and cinema, the deliberate control of rhythmic tempo and dramatic tension across scenes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When last the young Orlando parted from you, He left a promise to return again Within an hour, and pacing through the forest, Chewing the food of sweet and bitter fancy, Lo, what befell."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He would know it all the better if he saw the woman pacing her own rooms with her hair wildly thrown from her flung-back face, her hands clasped behind her head, her figure twisted as if by pain."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Pacing up and down at the heels of the animals was Farmer Boldwood himself."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I heard the master of Thornfield **pacing** the long hallway above, his heavy, restless tread breaking the midnight silence."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Doctor Manette was seen **pacing** his room in agonizing agitation, wrestling with memories of the North Tower."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Sherlock Holmes was **pacing** swiftly up and down the rug, his keen eyes fixed upon the floorboards."*

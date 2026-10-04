@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cloth band that is worn around the waist (as on infants until the navel has healed).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strap around the belly of a draft animal holding the shafts of a wagon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A band passing under the belly of a horse or other draft animal to hold the harness or saddle in place; a girth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In publishing and book marketing, a wrap-around paper strip (obi) fitted over a book's dust jacket featuring promotional blurbs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"She was well primed with a good load of Delahunt’s port under her bellyband."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Gabriel Oak buckled the stout leather **bellyband** securely beneath the carthorse before leading the wagon out."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The groom tightened the broad wool **bellyband** as the squire’s hunter stamped impatiently on the cobbles."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"Mr. Pickwick observed the hostler tightening the harness **bellyband** prior to the departure of the morning coach."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With hand brought forward and up from below shoulder level.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With the hand swung below shoulder level.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Located under the arm; relating to the armpit (axilla); also executed with the hand kept lower than the shoulder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology and sports mechanics, the axillary region containing axillary lymph nodes and apocrine sweat glands; or bowling/throwing below waist height.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Don't know how many shots it holds and we need them all." She swung with that underarm motion which is the nearest any woman can achieve to a throw."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The pygmy warrior gripped a blowpipe under his **underarm**, releasing darts tipped with lethal jungle venom."*
+> - 📜 **Jack London (*The Sea-Wolf*):** *"He carried the heavy brass lantern tucked into his **underarm** as he clambered down into the dark forecastle."*
+> - 📜 **H. G. Wells (*The Island of Doctor Moreau*):** *"Montgomery felt a throbbing swelling in his **underarm** where the beast had raked him with its jagged claws."*

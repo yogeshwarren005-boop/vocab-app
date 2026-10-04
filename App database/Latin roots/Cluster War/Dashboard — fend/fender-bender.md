@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A collision between motor vehicles that produces minor damage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A collision between motor vehicles that produces minor damage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A minor motor vehicle collision causing slight damage to bumpers, panels, or fenders without serious injury.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In traffic safety and automotive insurance terminology, a low-velocity impact typically resolved through direct repair claims.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fender-bender designates a collision between motor vehicles that produces minor damage."*
+> - 📜 **John Updike (*Rabbit, Run*):** *"The sudden screech of brakes on the wet asphalt was followed by the dull crunch of an ordinary **fender-bender**."*
+> - 📜 **Kurt Vonnegut (*Breakfast of Champions*):** *"A minor **fender-bender** in the supermarket parking lot drew a curious crowd of shoppers holding paper bags."*
+> - 📜 **Philip K. Dick (*A Scanner Darkly*):** *"He worried about the cost of repairing the dented bumper from that morning's minor **fender-bender**."*

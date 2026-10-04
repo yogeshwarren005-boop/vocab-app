@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arm again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arm anew.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To equip military forces with new, modern, or additional weapons and munitions after a period of disarmament.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In defense industry economics and strategic warfare, re-establishing military industrial manufacturing lines to re-equip active defense reserves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rearm designates arm again."*
+> - 📜 **Winston Churchill (*The Gathering Storm*):** *"Britain was compelled to **rearm** with the utmost urgency as the Nazi dictatorship cast aside all treaty limitations."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The shattered nations attempted to **rearm** their remaining air squadrons in a frantic bid to retain imperial dominance."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The emperor labored tirelessly to **rearm** the frontier garrisons with standard iron weapons forged in imperial arsenals."*

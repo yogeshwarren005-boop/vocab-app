@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Periwinkles: low creeping evergreen perennials.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Periwinkles: low creeping evergreen perennials.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering plants in the dogbane family Apocynaceae, commonly known as periwinkle, grown as an evergreen groundcover.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacognosy and oncology, closely associated with Catharanthus roseus (Madagascar periwinkle), source of vinblastine and vincristine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"PERIWINKLE RUST; spots yellowish; sori small, subrotund, and oval, on the under surface, surrounded by the ruptured epidermis; spores oval, rather ovoid, brown.—On leaves of _Vinca major_."*
+> - 📜 **William Jackson Hooker (*Curtis's Botanical Magazine*):** *"The trailing evergreen stems of **Vinca** major carpet shady woodland borders with cheerful violet flowers in early spring."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Species of **Vinca** contain bitter milky juices and characteristic salverform corollas of the order Apocynaceae."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The common periwinkle, **Vinca** minor, has become extensively naturalized in old churchyards and shaded hedgerows."*

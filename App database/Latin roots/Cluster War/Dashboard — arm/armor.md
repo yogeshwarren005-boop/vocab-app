@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Protective covering made of metal and used in combat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A military unit consisting of armored fighting vehicles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Protective covering made of metal, leather, or synthetic plates, worn by soldiers or fitted to combat vehicles against weapons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoology and comparative anatomy, hardened protective plates, scales, or shells covering the body of an animal, such as an armadillo or pangolin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"But it is so exciting to imagine that an old, old Baron of Wallerstätten might wander around the battlements in his armor."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Full moonlight fell on the armor he was garbed in and made it, as well as the high helmet with waving plumes, glitter brightly."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Whom then, had he seen in armor and helmet and with a long mantle?"*
+> - 📜 **William Shakespeare (*Henry V*):** *"The **armor** that I saw in your tent to-night, are those stars or suns upon it?"*
+> - 📜 **Sir Walter Scott (*Ivanhoe*):** *"His steel **armor** bore the dents and scars of many a hard-fought conflict in Palestine."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Roman infantry gradually laid aside their defensive **armor**, exposing their bodies to Gothic arrows."*

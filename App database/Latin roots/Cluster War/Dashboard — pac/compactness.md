@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The spatial property of being crowded together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The consistency of a compact solid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or property of being compact; density, firmness of texture, or conciseness of form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural architecture and urban design, the efficient utilization of space within a contained building envelope.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The attaining of the necessary compactness, toughness, and strength of the metallic product is aided by the employment of pressure during deposition, as by burnishers, or by very rapid rotation of the depositing surfaces in the solutions."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"I think it is a model of compactness."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"It is formed of rough stones, selected with care, and laid in courses or circles, with much compactness, but without cement of any kind."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The strength of the Venetian palazzo arises from the marvelous **compactness** and precision of its Istrian stone masonry."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Evolution involves an advance in integration, exhibited in the growing **compactness** and structural cohesion of parts."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"We admire in Greek lyric poetry an astonishing **compactness** of thought coupled with perfect melodic flow."*

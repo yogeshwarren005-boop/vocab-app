@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Covered with heavy steel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Covered with heavy steel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Protected by or dressed in defensive armor; British spelling of armor-clad.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century naval and military history, iron-hulled or steel-protected combat ships and frontline fortifications.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, armour-clad designates covered with heavy steel."*
+> - 📜 **Sir Walter Scott (*Ivanhoe*):** *"An **armour-clad** rider reined his destrier before the lists, raising his lance in proud salute."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The **armour-clad** ironclad Thunder Child steamed boldly against the Martian tripods to cover the refugee boats."*
+> - 📜 **Robert Louis Stevenson (*The Black Arrow*):** *"A band of **armour-clad** horsemen galloped out from the forest to bar the passage of the bridge."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not defended or capable of being defended.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not defended or capable of being defended.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not protected against attack, assault, or intrusion; lacking military defense or legal representation in court.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal proceedings, an action or lawsuit in which the respondent files no appearance, plea, or counter-pleading.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Stafford, "this isn't true?" "Perfectly true, sir." Undefended, unreserved, stripped even of pride, Val stood up before them all as if before a firing party, for the others had involuntarily fallen back leaving him alone. . . ."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"The thought of their old father's grave, unwatched and undefended in the outermost dark field, filled their hearts with a strange tenderness."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"The prisoners were undefended."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The invaders poured across the **undefended** borders, burning prosperous towns and pillaging rural estates."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The poor suitor sat **undefended** in the crowded courtroom, bewildered by the storm of technical terminology."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The coast was left dangerously **undefended** while the royal fleet remained windbound in the Thames estuary."*

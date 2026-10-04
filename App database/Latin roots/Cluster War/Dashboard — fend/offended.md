@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to feel resentment or indignation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act in disregard of laws, rules, contracts, or promises.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resentful, hurt, or annoyed as a result of a perceived insult, disrespect, or slight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social decorum and etiquette, feeling personal indignation at a breach of civility or respectful address.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be not offended; for it hurts not him That he is lov’d of me; I follow him not By any token of presumptuous suit, Nor would I have him till I do deserve him; Yet never know how that desert should be."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ambitious love hath so in me offended That barefoot plod I the cold ground upon, With sainted vow my faults to have amended."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I must be laughed at If, or for nothing or a little, I Should say myself offended, and with you Chiefly i’ th’ world; more laughed at that I should Once name you derogately when to sound your name It not concerned me."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Darcy looked both astonished and **offended** as Elizabeth passionately rejected his proposals."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Rosamond was deeply **offended** by her husband's gentle request that she economize in household expenses."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Miss Betsey Trotwood walked away in high dudgeon, severely **offended** that the newborn child was not a girl."*

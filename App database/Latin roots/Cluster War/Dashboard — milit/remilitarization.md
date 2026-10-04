@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of militarizing again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of militarizing again.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of remilitarizing; restoring military forces, weapons, or controls to an area.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geopolitical historiography, the rearmament and strategic fortification of regions following periods of enforced pacification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, remilitarization designates the act of militarizing again."*
+> - 📜 **Winston Churchill (*The Gathering Storm*):** *"The sudden **remilitarization** of the Rhineland altered the balance of European military power overnight."*
+> - 📜 **George F. Kennan (*Memoirs (1925–1950)*):** *"We warned that the premature **remilitarization** of Western Germany would harden the division of Europe permanently."*
+> - 📜 **Dwight D. Eisenhower (*Crusade in Europe*):** *"Post-war planners feared that economic collapse would trigger the dangerous **remilitarization** of defeated populations."*

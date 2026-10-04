@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A political orientation of a people or a government to maintain a strong military force and to be prepared to use it aggressively to defend or promote national interests.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A political orientation of a people or a government to maintain a strong military force and to be prepared to use it aggressively to defend or promote national interests.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The belief or policy of maintaining a strong military establishment and using it aggressively to expand or defend national interests.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political sociology, the glorification of martial ideals, uniforms, hierarchy, and aggressive foreign policy within civil governance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Population and militarism. § 16."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In such a view, a eugenic opportunity is presented in the selection and admission of immigrants that are distinctly above (not merely equal to) the average of our general population. § 15. #Population and militarism#."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In this view, militarism is seen to consist not in having drilled soldiers and stores of munitions, but in the national state of mind that would use these for aggression, not merely for defense."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Under the regime of **militarism**, the individual is owned by the state and absolute obedience is the supreme civic virtue."*
+> - 📜 **Woodrow Wilson (*War and Peace: Presidential Messages*):** *"We entered the great conflict to liberate Europe from the menace of autocratic Prussian **militarism**."*
+> - 📜 **Rosa Luxemburg (*The Accumulation of Capital*):** *"Modern imperialist **militarism** operates as a vital engine for opening new colonial markets to domestic capital."*

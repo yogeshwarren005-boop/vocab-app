@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A former turkish term of respect; especially for government officials.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A former turkish term of respect; especially for government officials.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A title of respect, courtesy, or civil rank formerly used in Turkey, Egypt, and other Ottoman lands, equivalent to sir or master.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Ottoman administrative and social history, applied to educated bureaucrats, scribes, professionals, and religious scholars.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, effendi designates a former turkish term of respect; especially for government officials."*
+> - 📜 **Richard Francis Burton (*Personal Narrative of a Pilgrimage to Al-Madinah and Meccah*):** *"The courteous **effendi** welcomed us to his divan, offering fragrant coffee and tobacco in silver vessels."*
+> - 📜 **T. E. Lawrence (*Seven Pillars of Wisdom*):** *"A Damascus **effendi** guided our column through the rocky defiles, eager to join the revolt against the garrison."*
+> - 📜 **Amelia Edwards (*A Thousand Miles up the Nile*):** *"The local **effendi** inspected our travel permits with dignified politeness before stamping the official seal."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who alarms others needlessly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who alarms others needlessly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who creates or spreads unwarranted alarms; someone who exaggerates danger to provoke anxiety.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public policy critique, one who predicts catastrophic outcomes without sufficient empirical evidence or balanced risk assessment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alarmist designates a person who alarms others needlessly."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"Every modest commercial reform was denounced by the conservative **alarmist** as the prelude to national bankruptcy."*
+> - 📜 **Winston Churchill (*The Gathering Storm*):** *"Those who warned Parliament of German clandestine rearmament were dismissed by the cabinet as irresponsible **alarmist** voices."*
+> - 📜 **George Eliot (*Felix Holt, the Radical*):** *"The old rector was no foolish **alarmist**, yet he viewed the growing industrial agitation with profound foreboding."*

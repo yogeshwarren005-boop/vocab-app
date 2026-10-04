@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hollow device made of metal that makes a ringing sound when struck.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A push button at an outer door that gives a ringing or buzzing signal when pushed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hollow, typically cup-shaped metal instrument that emits a ringing musical tone when struck by an internal clapper or external hammer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In campanology and liturgical practice, used to mark canonical hours, warn of danger, or signal church assemblies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fill our bowls once more Let’s mock the midnight bell."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"True is it that we have seen better days, And have with holy bell been knolled to church, And sat at good men’s feasts, and wiped our eyes Of drops that sacred pity hath engendered."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The capon burns, the pig falls from the spit; The clock hath strucken twelve upon the bell; My mistress made it one upon my cheek."*
+> - 📜 **John Donne (*Devotions upon Emergent Occasions*):** *"Any man's death diminishes me, because I am involved in mankind; and therefore never send to know for whom the **bell** tolls; it tolls for thee."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"I go, and it is done; the **bell** invites me; hear it not, Duncan, for it is a knell that summons thee to heaven or to hell."*
+> - 📜 **Edgar Allan Poe (*The Bells*):** *"Hear the mellow wedding **bell**, golden bells! What a world of happiness their harmony foretells!"*

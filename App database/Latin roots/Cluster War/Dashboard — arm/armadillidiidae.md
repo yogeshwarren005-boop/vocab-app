@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pill bugs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pill bugs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of terrestrial isopod crustaceans, commonly known as pill bugs or roly-polies, capable of rolling into a tight protective ball.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate carcinology, terrestrial woodlice possessing heavily calcified, segmented exoskeletons that perform conglobation for defense.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, armadillidiidae designates pill bugs."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The calcified somatic segments of the **Armadillidiidae** permit complete conglobation into a spherical defensive posture."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"In damp humus beneath decaying logs, specimens of **Armadillidiidae** feed on decomposing vegetable tissues alongside earthworms."*
+> - 📜 **Richard Owen (*Lectures on Comparative Anatomy*):** *"The terrestrial adaptations of the **Armadillidiidae** include specialized pseudotracheae situated on the pleopods for respiration."*

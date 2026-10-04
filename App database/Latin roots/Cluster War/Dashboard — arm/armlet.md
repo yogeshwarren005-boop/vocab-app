@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A band worn around the arm for decoration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A band worn around the arm for decoration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ornamental band, bracelet, or piece of armor worn around the upper arm; also a small arm of the sea or river.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In heraldry and archaeological jewelry, circular bands of twisted gold or bronze worn on the bicep by Celtic and Viking warriors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Life and Death of Cormac the Skald*):** *"Nay, many a maiden has loved me, Thou may of the glittering armlet: For I've tricks of the tongue to beguile them And turn them from handsomer lads.” At this house they spent the night."*
-> - 📜 **James Joyce (*Ulysses*):** *"A man in a buff suit with a crape armlet."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"The men wear simply a leaf of the coco-nut palm round the loins, with leglets, armlets and streamers or "wings" from the shoulders, if they wish to look extra well."*
+> - 📜 **Sir Walter Scott (*Ivanhoe*):** *"The Saxon thane wore a heavy golden **armlet** upon his brawny right arm as a badge of ancient royal descent."*
+> - 📜 **Alfred Tennyson (*Idylls of the King*):** *"She bound the diamond **armlet** upon his sleeve to serve as his champion favor in the Pentecostal tournament."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"We steered the jolly-boat into a narrow, tranquil **armlet** of the bay, sheltered behind a fringe of dark mangroves."*

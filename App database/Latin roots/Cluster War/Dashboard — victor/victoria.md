@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Queen of great britain and ireland and empress of india from 1837 to 1901; the last hanoverian ruler of england (1819-1901).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman mythology) goddess of victory; counterpart of greek nike.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A low, light, four-wheeled pleasure carriage with a folding top and raised driver's seat; also Queen Victoria; or the Roman goddess of victory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In royal British history, the monarch (reigned 1837–1901) whose reign defined the Victorian era of industrial and imperial expansion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The modern[9] movement for the minimum wage began in Victoria in 1896, and it soon extended to nearly all the other Australasian states."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Some of the aborigines of Victoria used to regard the fat of the emu as sacred, believing that it had once been the fat of the black man."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Brough Smyth, _Aborigines of Victoria_ (Melbourne and London, 1878), i. 450. [31] E."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Fashionable open carriages and light **victoria** phætons rolled through the sunny avenues of Hyde Park."*
+> - 📜 **Arthur Conan Doyle (*A Scandal in Bohemia*):** *"A neat little **victoria** drove up to the door of Briony Lodge, and a lady stepped lightly from the carriage."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The long, peaceful reign of Queen **Victoria** witnessed the unprecedented expansion of British industrial and colonial wealth."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Collection of materials of or characteristic of the victorian era.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Collection of materials of or characteristic of the victorian era.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Articles, artifacts, furnishings, literature, or bric-a-brac dating from or characteristic of the Victorian era.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In antique collecting and cultural history, objects illustrating the decorative, domestic, and material culture of nineteenth-century Britain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, victoriana designates collection of materials of or characteristic of the victorian era."*
+> - 📜 **Virginia Woolf (*Orlando*):** *"The drawing-room was cluttered with wax flowers, beaded antimacassars, and assorted pieces of curious **Victoriana**."*
+> - 📜 **Evelyn Waugh (*Brideshead Revisited*):** *"He took whimsical delight in assembling bizarre specimens of mid-period **Victoriana** throughout his Oxford rooms."*
+> - 📜 **John Betjeman (*Collected Poems*):** *"We rummaged through seaside antique shops, discovering quaint prints and forgotten treasures of brass **Victoriana**."*

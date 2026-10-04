@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a compact manner or state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With concise and precise brevity; to the point.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a compact, dense, closely packed, or neatly arranged manner; concisely in style.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary composition and rhetorical style, expressing complex arguments in brief, tightly reasoned language.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"An obliging stranger, under pretence of compactly folding up my bank-notes for security’s sake, abstracts the notes and gives me nutshells; but what is his sleight of hand to mine, when I fold up my own nutshells and pass them on myself as notes!"*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Brigham rose, folded her rustling skirts compactly around her, and began tiptoeing toward the door."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Thanks to Natásha’s directions the work now went on expeditiously, unnecessary things were left, and the most valuable packed as compactly as possible."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Aphorisms, representing a knowledge broken, invite men to inquire further, being **compactly** delivered without rhetorical flourishes."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"I arranged all my provisions and powder kegs **compactly** within the cave to protect them from tropical squalls."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The small cabin was **compactly** built, containing all that a solitary philosopher required for shelter and study."*

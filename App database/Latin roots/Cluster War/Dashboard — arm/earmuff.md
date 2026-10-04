@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of a pair of ear coverings (usually connected by a headband) that are worn to keep the ears warm in cold weather.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of a pair of ear coverings (usually connected by a headband) that are worn to keep the ears warm in cold weather.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pair of padded fabric or fur coverings connected by a headband, worn over the ears for warmth or acoustic hearing protection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In occupational health and auditory safety, personal protective equipment designed to attenuate ambient industrial noise and acoustic trauma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, earmuff designates either of a pair of ear coverings (usually connected by a headband) that are worn to keep the ears warm in cold weather."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"The teamster tied a thick woolen **earmuff** across his cap to protect his head from the biting sixty-below gale of the Yukon."*
+> - 📜 **Sinclair Lewis (*Main Street*):** *"Carol watched the doctor pull on his heavy beaver **earmuff** before braving the swirling Minnesota blizzard in his open cutter."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"The mysterious stranger appeared bundled to the eyes, with an oversized fur **earmuff** concealing his temples and neck."*

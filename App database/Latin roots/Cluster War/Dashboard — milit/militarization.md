@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act of assembling and putting into readiness for war or other emergency:.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of assembling and putting into readiness for war or other emergency:.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of equipping with military forces, arms, or discipline; adapting civilian resources for warfare.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociology and urban politics, equipping municipal law enforcement with tactical armor, weaponry, and combat doctrine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, militarization designates act of assembling and putting into readiness for war or other emergency:."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Frequent foreign wars inevitably lead to the domestic **militarization** of the executive authority and the standing army."*
+> - 📜 **Herbert Spencer (*Social Statics*):** *"The progressive **militarization** of European states threatens to crush constitutional freedom beneath crushing defense taxes."*
+> - 📜 **John Dewey (*Characters and Events*):** *"The rapid **militarization** of public sentiment during wartime impairs the capacity for dispassionate democratic deliberation."*

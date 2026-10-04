@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the armadillidiidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the armadillidiidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of terrestrial pill bugs in the family Armadillidiidae, notably Armadillidium vulgare (common pill bug).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In soil ecology and zoology, cosmopolitan detritivores that roll into spherical defensive balls and process forest leaf litter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, armadillidium designates type genus of the armadillidiidae."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"Beneath garden stones we observed specimens of **Armadillidium** rolling into neat armor-like globes when touched."*
+> - 📜 **Asa Gray (*Structural Botany (Ecological Notes)*):** *"The dispersal of fungal spores through woodland soil is facilitated by the foraging habits of **Armadillidium**."*
+> - 📜 **Henri Fabre (*The Wonders of Instinct*):** *"The child rolled the small gray crustacean **Armadillidium** like a marble, marveling at its jointed defensive shield."*

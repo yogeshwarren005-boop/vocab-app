@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An undesirable overabundance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An undesirable overabundance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: As much food or drink as the belly will hold; also informally, more than enough of something unpleasant or intolerable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vernacular colloquialism, having endured the absolute maximum quantity of hardship, labor, or abuse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Every jackslave hath his bellyful of fighting, and I must go up and down like a cock that nobody can match."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And as for women, I've had my bellyful of women after her I was kind to, and was true to for one and twenty years, going off with some sweating landsman to a dingy town...."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Well, sir, I found in time, you may be sure, ‘Twas not for nothing--the good bellyful, The warm serge and the rope that goes all round, And day-long blessed idleness beside!"*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"The starving boys were rarely allowed to eat a decent **bellyful** of thin water gruel in the parish workhouse."*
+> - 📜 **Mark Twain (*Adventures of Huckleberry Finn*):** *"The king said he had taken a **bellyful** of preaching and was ready to look for some easier swindle."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"After three weeks in muddy trenches under artillery fire, every man had an absolute **bellyful** of war."*

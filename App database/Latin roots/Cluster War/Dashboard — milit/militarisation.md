@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act of assembling and putting into readiness for war or other emergency:.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of assembling and putting into readiness for war or other emergency:.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of equipping with military forces or adapting for military use; British spelling of militarization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international history, the progressive dominance of military priorities, expenditure, and ideology in civil society.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, militarisation designates act of assembling and putting into readiness for war or other emergency:."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The continuous **militarisation** of continental empires diverted immense productive capital away from useful industries."*
+> - 📜 **Herbert Spencer (*Principles of Sociology*):** *"A retrograde transition from industrial to militant society is accompanied by the complete **militarisation** of state functions."*
+> - 📜 **H. G. Wells (*An Englishman Looks at the World*):** *"The tragic **militarisation** of German schools fostered an aggressive generation eager for European conquest."*

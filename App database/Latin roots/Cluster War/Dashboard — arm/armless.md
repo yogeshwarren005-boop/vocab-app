@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no arms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no arms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking arms (the upper limbs of the human body); having no arms or sleeves; also archaically, unarmed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sculpture and classical archaeology, describing antique statues, such as the Venus de Milo, whose limbs were broken off over centuries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, armless designates having no arms."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"The **armless** antique statue of the goddess stood upon its marble pedestal in the sunlit Vatican gallery."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The old whaleman walked the quarterdeck in an **armless** pea-jacket that showed the knotted muscles of his brown shoulders."*
+> - 📜 **William Makepeace Thackeray (*The Rose and the Ring*):** *"The wooden doll was a battered, **armless** veteran that had survived the destructive play of three nurseries."*

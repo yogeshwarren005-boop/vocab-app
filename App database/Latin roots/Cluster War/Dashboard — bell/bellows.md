@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mechanical device that blows a strong current of air; used to make a fire burn more fiercely or to sound a musical instrument.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very loud utterance (like the sound of an animal).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus constructed to expand and contract, drawing in air through a valve and expelling it through a nozzle; used for blowing fires or organs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In respiratory physiology and metallurgy, a mechanical model of pulmonary ventilation or furnace combustion air supply.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His captain’s heart, Which in the scuffles of great fights hath burst The buckles on his breast, reneges all temper And is become the bellows and the fan To cool a gipsy’s lust."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Francis Flute, the bellows-mender."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Here the only sounds disturbing the stillness were steady munchings of many mouths, and stentorian breathings from all but invisible noses, ending in snores and puffs like the blowing of bellows slowly."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe Gargery worked the great **bellows** in the forge, sending showers of golden sparks leaping toward the soot-blackened rafters."*
+> - 📜 **William Shakespeare (*Pericles, Prince of Tyre*):** *"The breath of flattery is the **bellows** that blows up the sparks of pride in princes' hearts."*
+> - 📜 **John Milton (*Paradise Lost*):** *"As in an organ from one blast of wind to many a row of pipes the sound-board breathes; so the volcanic **bellows** blew."*

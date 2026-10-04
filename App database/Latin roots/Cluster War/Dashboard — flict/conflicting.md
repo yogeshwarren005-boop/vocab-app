@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be in conflict.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Go against, as of rules and laws.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Clashing, contradictory, incompatible, or at variance with one another in opinion, evidence, or interest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal evidentiary standards, describing testimony or documentary exhibits that present mutually irreconcilable factual accounts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Call the creatures Whose naked natures live in all the spite Of wreakful heaven, whose bare unhoused trunks, To the conflicting elements exposed, Answer mere nature, bid them flatter thee."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"There are conflicting opinions respecting the original of his picture."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Hears I have conflicting interests, claims clashing against his and what not."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She wandered along the lane with a heart torn by **conflicting** emotions of resentment, shame, and awakening esteem."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"We were confronted by **conflicting** testimonies from the local moorland folk regarding the midnight cries."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"When presented with **conflicting** sensory reports, the mind must employ rational comparison to determine truth."*

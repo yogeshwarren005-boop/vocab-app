@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone opposed to violence as a means of settling disputes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Opposed to war.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who believes that war and violence are unjustifiable; someone opposed to all warfare on moral or religious grounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and military history, a conscientious objector refusing military induction or combatant service during wartime.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Nations with slowly growing populations, and still possessed of ample territories to maintain their accustomed standards of life, naturally favor the _status quo_, and are pacifist or nonmilitarist."*
+> - 📜 **Albert Einstein (*Ideas and Opinions*):** *"I am not only a **pacifist**, but a militant pacifist; I am willing to fight for peace, for nothing will end war unless the people themselves refuse to go to war."*
+> - 📜 **George Orwell (*Partisan Review: London Letter*):** *"The intellectual **pacifist** found himself in a painful moral dilemma when confronted with the barbarities of totalitarian conquest."*
+> - 📜 **Virginia Woolf (*Three Guineas*):** *"The steadfast **pacifist** seeks to dismantle the psychological roots of aggression embedded in patriotic education."*

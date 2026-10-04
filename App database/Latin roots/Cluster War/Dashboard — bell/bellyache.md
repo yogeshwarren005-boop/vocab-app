@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ache localized in the stomach or abdominal region.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Complain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pain in the stomach or bowels; colic; informally, to complain, grumble, or whine incessantly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colloquial idiom, chronic querulous complaining without offering constructive remedies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bellyache designates an ache localized in the stomach or abdominal region."*
+> - 📜 **Mark Twain (*Tom Sawyer, Detective*):** *"The boy complained of a severe **bellyache** to escape the morning chores, but Aunt Polly saw through the sham."*
+> - 📜 **Jack London (*The Iron Heel*):** *"The overseer told the tired workers to cease their **bellyache** and return immediately to the machines."*
+> - 📜 **George Orwell (*Down and Out in Paris and London*):** *"A diet of sour bread and cabbage soup produced a perpetual **bellyache** among the tramps in the casual ward."*

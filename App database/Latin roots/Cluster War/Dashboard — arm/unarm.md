@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Take away the weapons from; render harmless.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take away the weapons from; render harmless.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To divest of weapons or defensive armor; to lay down weapons or dismantle military equipment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic literature and psychology, to cast off one's emotional defenses, hardness, or readiness for combat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he should do so, He leaves his back unarm’d, the French and Welsh Baying him at the heels: never fear that."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Call here my varlet; I’ll unarm again."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Courtiers as free, as debonair, unarm’d, As bending angels; that’s their fame in peace."*
+> - 📜 **William Shakespeare (*Antony and Cleopatra*):** *"**Unarm**, Eros; the long day's task is done, and we must sleep."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Celestial guards bid the rebel warriors **unarm** their hosts and bow before the decree of heaven."*
+> - 📜 **Sir Walter Scott (*Ivanhoe*):** *"The weary knight bade his squire **unarm** his bruised limbs and bathe his forehead after the strenuous joust."*

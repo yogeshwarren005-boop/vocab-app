@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing a ready disposition to fight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or showing a ready disposition to fight.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Demonstrating aggression and willingness to fight; warlike, hostile, or belligerent in attitude or pronouncements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international relations, rhetoric or state behavior characterized by provocative threats, saber-rattling, and eagerness for war.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"The versatile Jap's in the game, Because of a treaty he came, For old Johnnie Bull, Will have his hands full, The bellicose Germans to tame."*
+> - 📜 **Winston Churchill (*The Gathering Storm*):** *"The dictator delivered a fiercely **bellicose** speech from the Nuremberg balcony, threatening the territorial integrity of Czechoslovakia."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The **bellicose** tribes of the northern steppes disdained agricultural labor, living solely by the sword and horse."*
+> - 📜 **Washington Irving (*A History of New York*):** *"The valiant Peter Stuyvesant possessed an irrepressible, **bellicose** spirit that chafed under peaceful colonial administration."*

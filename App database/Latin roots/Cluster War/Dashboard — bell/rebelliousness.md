@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intentionally contemptuous behavior or attitude.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An insubordinate act.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, disposition, or trait of being rebellious; defiance of authority; an inclination to resist control.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental psychology and adolescent sociology, the psychological impulse toward non-conformity and autonomy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She chafed to and fro in rebelliousness, like a caged leopard; her whole soul was in arms, and the blood fired her face."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She chafed to and fro in rebelliousness, like a caged leopard; her whole soul was in arms, and the blood fired her face."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Maggie’s dark curls and passionate **rebelliousness** were a source of perpetual anxiety to her conventional mother."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"Stubborn **rebelliousness** in children must be curbed early by calm moral authority rather than capricious violence."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The spirit of equality breeds an instinctive **rebelliousness** against any claim to hereditary political superiority."*

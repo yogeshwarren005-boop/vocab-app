@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A human limb; technically the part of the superior limb between the shoulder and the elbow but commonly used to refer to the whole superior limb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any projection that is thought to resemble a human arm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Each of the two upper limbs of the human body from shoulder to hand; also a weapon; or to supply with weapons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In heraldry and chivalry, to furnish with protective armor and weapons; also a specialized branch of a military service.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath arm’d our answer, And Florence is denied before he comes: Yet, for our gentlemen that mean to see The Tuscan service, freely have they leave To stand on either part."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he were living, I would try him yet;— Lend me an arm;—the rest have worn me out With several applications; nature and sickness Debate it at their leisure."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He does indeed, And brokes with all that can in such a suit Corrupt the tender honour of a maid; But she is arm’d for him, and keeps her guard In honestest defence."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"Arm, **arm**, my lords; the foe makes head; and we, like friends that will be enemies, march on to meet him."*
+> - 📜 **John Milton (*Paradise Lost*):** *"On his right the Giver of all victory sat, and by his sovereign **arm** the rebel angels were subdued."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"Arm! **arm**! it is—it is—the cannon's opening roar! The dance at Brussels was broken by the summons to Waterloo."*

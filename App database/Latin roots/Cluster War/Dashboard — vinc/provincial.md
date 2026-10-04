@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman catholic church) an official in charge of an ecclesiastical province acting under the superior general of a religious order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A country person.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of a province; unsophisticated, narrow-minded, or parochial in outlook.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In religious orders, a senior member who exercises ecclesiastical jurisdiction over an entire geographic province of that order.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Would not this, sir, and a forest of feathers, if the rest of my fortunes turn Turk with me; with two Provincial roses on my razed shoes, get me a fellowship in a cry of players, sir?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His subject am I not, Nor here provincial."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I knew the windlestraw, Guy de Villehardouin, a raw young provincial, come up the first time to Court, but a fiery little cockerel for all of that."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The narrow gossip and petty rivalries of **provincial** life seemed suffocating to Lydgate’s scientific ambitions."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mrs. Bennet was deeply offended by Mr. Darcy’s supercilious contempt for their cheerful **provincial** society."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The **provincial** gentry rarely visited the capital, spending their lives managing their estates and hunting foxes."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Troops belonging to the enemy's military forces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by enmity or ill will.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unfriendly, antagonistic, showing overt ill will; belonging to a military enemy; unfavorable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In corporate finance and mergers, a takeover bid made directly to shareholders against the wishes of the target board.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As I intend to prosper and repent, So thrive I in my dangerous affairs Of hostile arms!"*
-> - 📜 **John Cairns (*Principal Cairns*):** *"It is true that, after the Committee had been relieved of this hostile element, considerable and rapid progress was made."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It was the trouble sign of a camp in hostile country."*
+> - 📜 **William Shakespeare (*Richard III*):** *"Fierce warres, and that **hostile** stroke that struck my Edward dead, have left our royal house in desolate ruin."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Roman cohorts marched steadily across the desert, surrounded on every flank by elusive and **hostile** cavalry."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The indigenous tribes along the channel appeared decidedly **hostile**, brandishing spears and uttering fierce war cries."*

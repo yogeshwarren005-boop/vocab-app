@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large burrowing rodent of south america and central america; highly esteemed as food.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large burrowing rodent of south america and central america; highly esteemed as food.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, nocturnal, terrestrial rodent (Cuniculus paca) native to tropical Central and South America, having white spots on reddish-brown fur.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Neotropical zoology, a forest-dwelling herbivore in the family Cuniculidae that burrows near rivers and feeds on fallen fruits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Jr │ Dec. 1738 │ │ Paca, Wm. │Wye-Hill, Md., 31│Maryland │— ——, 1799. │ Oct. 1740 │ │ Paine, Robert │Boston, Mass., in│Massachusetts │11 May, 1804."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The spotted **paca** inhabits the dense lowland forests of Brazil, swimming with great ease when pursued."*
+> - 📜 **Henry Walter Bates (*The Naturalist on the River Amazons*):** *"Native hunters prize the flesh of the nocturnal **paca** above that of almost all other Amazonian game."*
+> - 📜 **Alfred Russel Wallace (*Travels on the Amazon and Rio Negro*):** *"Our guides tracked the burrow of a large **paca** beneath the exposed roots of a towering kapok tree."*

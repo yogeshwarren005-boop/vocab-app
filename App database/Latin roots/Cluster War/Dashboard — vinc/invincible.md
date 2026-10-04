@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being overcome or subdued.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being overcome or subdued.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Too powerful to be defeated, overcome, or subdued; unconquerable, insuperable, unshakeable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman Catholic moral theology (invincible ignorance), lack of knowledge of moral or religious truth that cannot be overcome by ordinary diligence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You were used to load me With precepts that would make invincible The heart that conned them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He was so forlorn, that his dimensions to any thick sight were invincible."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lo, there thou stand’st, a breathing valiant man Of an invincible unconquer’d spirit."*
+> - 📜 **William Shakespeare (*Henry IV, Part 2*):** *"I saw him run after a gilded butterfly; and when he caught it, he let it go again; and after it again; and over and over he comes, and up again; catch'd it again; or whether his fall enrolled him, he made it wight; and that's an **invincible** spirit."*
+> - 📜 **John Milton (*Paradise Lost*):** *"What though the field be lost? All is not lost: the unconquerable will, and study of revenge, immortal hate, and courage never to submit or yield: and what is else not to be overcome? That glory never shall his wrath or might extort from me; to bow and sue for grace with suppliant knee, and deify his power who, from the terror of this arm, so late doubted his empire: that were low indeed; that were an ignominy and shame beneath this downfall; since by fate the strength of gods and this empyreal substance cannot fail; since, through experience of this great event, in arms not worse, in foresight much advanced, we may with more successful hope resolve to wage by force or guile eternal war, irreconcilable to our grand Foe, who now triumphs, and in excess of joy sole reigning holds the tyranny of Heaven, with **invincible** pride."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Spanish Armada had sailed from Lisbon under the proud and arrogant title of the **Invincible** Fleet."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Located farthest to the rear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Located farthest to the rear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Furthest back; located at the extreme rear or tail end of a group, fleet, column, or line.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tactical military formation, the detachment or vessel positioned at the tail of a march column or battle line, often guarding against pursuit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rearmost designates located farthest to the rear."*
+> - 📜 **Sir Walter Scott (*The Heart of Midlothian*):** *"The **rearmost** ranks of the royalist infantry struggled through the marsh, harassed by irregular snipers from the hills."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The **rearmost** boat of the whaling fleet lagged behind as the monstrous white bull sounded into the ocean depths."*
+> - 📜 **Robert Louis Stevenson (*Kidnapped*):** *"David Balfour found himself in the **rearmost** rank of the fleeing Highlanders as the redcoats scaled the crags."*

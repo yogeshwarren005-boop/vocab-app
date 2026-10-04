@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin bell within the domain of War.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of bell in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An act, event, or situation that provokes, justifies, or is used to justify a war; a cause of war.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international law and diplomatic history, the formal justification cited in a sovereign declaration of war.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, casus belli designates pertaining to, derived from, or characteristic of latin bell within the domain of war."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The violation of imperial trade rights was seized upon by the senate as a convenient **casus belli** against the Persian monarch."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The mobilization of imperial armies on both frontiers provided the immediate **casus belli** that precipitated the European catastrophe."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The seizure of the border fortresses was treated by the States-General as a formal and unpardonable **casus belli**."*

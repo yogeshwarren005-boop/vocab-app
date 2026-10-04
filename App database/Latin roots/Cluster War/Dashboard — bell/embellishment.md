@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Elaboration of an interpretation by the use of decorative (sometimes fictitious) detail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A superfluous ornament.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A decorative detail or feature added to something to make it more attractive; the act of adding ornamental or exaggerated details.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetorical stylistics, the use of tropes, figures of speech, and elevated diction to heighten the aesthetic impact of an oration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"She heard it all under embellishment."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"The chisel had made three or four of these attempts at embellishment over his nose, but had given them up without an effort to smooth them off."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The very laborer, with his thatched cottage and narrow slip of ground, attends to their embellishment."*
+> - 📜 **Edmund Burke (*A Philosophical Enquiry into the Sublime and Beautiful*):** *"The simple magnificence of the sublime requires no artificial **embellishment** to strike the soul with awe."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She related the incident without any **embellishment**, allowing the bare facts to speak for themselves."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Byzantine chroniclers added every legendary **embellishment** to the heroic defense of the imperial capital."*

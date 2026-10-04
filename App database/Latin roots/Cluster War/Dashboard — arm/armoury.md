@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A collection of resources.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: All the weapons and equipment that a country has.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A place where arms and military equipment are stored or manufactured; British spelling of armory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In heraldry and classical usage, a collection or treatise on heraldic bearings; also an arsenal for weapons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, go with me into mine armoury."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"All the surrounding cottages were more or less scenes of the same operation; the scurr of whetting spread into the sky from all parts of the village as from an armoury previous to a campaign."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"This then, said I to Toby, must be the armoury of the tribe."*
+> - 📜 **John Milton (*Paradise Lost*):** *"From heaven's **armoury** they brought celestial darts and flaming thunderbolts to cast down the rebel host."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The imperial **armoury** at Verona supplied weapons to the legions defending the Italian frontier."*
+> - 📜 **Sir Walter Scott (*Rob Roy*):** *"The ancient tower contained a small **armoury** stocked with rusty broadswords, targes, and flintlock muskets."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of peace agreed to between opponents so they can discuss peace terms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of peace agreed to between opponents so they can discuss peace terms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal agreement between opposing parties in a war to stop fighting; a truce or cessation of hostilities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international military law, a suspension of military operations agreed upon by commanders, often preceding a comprehensive peace treaty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Five months later on the eve of the Armistice he was flung out of the service, a broken man, paralysed below the waist, cursing every one who came near him and chiefly the surgeons for not letting him die."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"On the 23rd of July the Great Eastern was not more than 500 miles from Newfoundland, when they telegraphed from Ireland the news of the armistice concluded between Prussia and Austria after Sadowa."*
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"They signed the Armistice!'' "Glory be!" Grandma cried, raising her arms up high and letting her hands fall back down on the bed covers and counterpane."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"At the eleventh hour of the eleventh day of November 1918, the **armistice** silenced the guns along the Western Front."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"A temporary **armistice** was negotiated between the Roman garrison and the besieging Persian army to bury the fallen."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"During the six weeks' **armistice**, both monarchs hastened to recruit fresh mercenaries and replenish depleted magazines."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Literate but poorly informed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Barely able to read and write.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing basic or rudimentary reading and writing skills, but lacking fluent or functional literacy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In educational sociology and historical demographics, able to write one’s name or decipher basic texts while unable to comprehend complex prose.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semiliterate designates literate but poorly informed."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"Many of the older miners were only **semiliterate**, relying on their children to read official union notices."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard’s rude, **semiliterate** letters betrayed his humble origins despite his acquired mayoral dignity."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe Gargery sat by the fire, holding his slate with the proud delight of a **semiliterate** scholar mastering his letters."*

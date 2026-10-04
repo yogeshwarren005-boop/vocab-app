@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking a prominent belly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking a prominent belly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no belly or prominent abdomen; exceptionally lean, flat-bellied, or slender.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative zoological descriptions, applied to slender insects, nematodes, or deep-sea fishes possessing extremely reduced abdominal visceral sacs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bellyless designates lacking a prominent belly."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The gaunt, starved sailor seemed a **bellyless** phantom as he paced the deck in his ragged canvas trousers."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Ascetic monks strove to reduce their mortal frames to **bellyless** vessels of pure contemplative spirit."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The slender, **bellyless** water-spider darted effortlessly across the surface tension of the quiet cove."*

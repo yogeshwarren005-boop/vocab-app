@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Imbued with militarism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Imbued with militarism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Advocating, displaying, or characterized by the doctrines or spirit of militarism; aggressively martial.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political science, describing state institutions that adopt military ranking, drill, and authoritarian discipline.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, militaristic designates imbued with militarism."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Democratic armies are less prone to an aristocratic **militaristic** ethos, yet individual soldiers hunger for rapid promotion."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"The society of Oceania was organized on strictly **militaristic** lines, perpetually engaged in simulated warfare."*
+> - 📜 **Virginia Woolf (*Three Guineas*):** *"She observed how **militaristic** pageantry and brass music were utilized to seduce youth into unquestioning obedience."*

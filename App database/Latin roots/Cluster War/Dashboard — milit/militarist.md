@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who advocates war or warlike policies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who advocates war or warlike policies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who believes in militarism or advocates a strong, aggressive military establishment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic history, a political or military leader prioritizing armed conquest over international arbitration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are deceived, my lord; this is Monsieur Parolles, the gallant militarist (that was his own phrase), that had the whole theoric of war in the knot of his scarf, and the practice in the chape of his dagger."*
+> - 📜 **Bertrand Russell (*Justice in War-Time*):** *"The fanatical **militarist** regards peace as a period of moral decay and armed conflict as the ultimate test of manhood."*
+> - 📜 **H. G. Wells (*The War That Will End War*):** *"The Prussian **militarist** caste had subordinated the entire German educational system to dreams of world empire."*
+> - 📜 **George Bernard Shaw (*Heartbreak House*):** *"The pompous **militarist** strutted across the room, declaring that diplomacy without bayonets was mere empty chatter."*

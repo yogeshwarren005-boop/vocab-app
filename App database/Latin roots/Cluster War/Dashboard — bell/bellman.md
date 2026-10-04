@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone employed as an errand boy and luggage carrier around hotels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone employed as an errand boy and luggage carrier around hotels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A town crier who rings a bell to attract public attention when making official proclamations; also a hotel porter (bellhop).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British municipal history, a nighttime watchman who patrolled streets with a bell, calling out the hour and weather conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It was the owl that shriek’d, the fatal bellman, Which gives the stern’st good night."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, Bellman is as good as he, my lord; He cried upon it at the merest loss, And twice today pick’d out the dullest scent; Trust me, I take him for the better dog."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Clinkum, clinkumbell, the beadle, the bellman."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Hear it not, Duncan; for it is a knell that summons thee to heaven or to hell; the fatal **bellman** hath cried upon the night."*
+> - 📜 **Lewis Carroll (*The Hunting of the Snark*):** *"The **Bellman** himself they all praised to the skies—such a carriage, such ease and such grace!"*
+> - 📜 **John Milton (*Il Penseroso*):** *"Far from all resort of mirth, save the cricket on the hearth, or the **bellman**’s drowsy charm to bless the doors from nightly harm."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of arming again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of arming again.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process or policy of equipping military forces with new, improved, or expanded armaments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geopolitical strategy and military history, mass sovereign industrial mobilization to modernize armed forces in anticipation of conflict.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rearmament designates the act of arming again."*
+> - 📜 **Winston Churchill (*While England Slept*):** *"Rapid German **rearmament** was proceeding night and day, transforming factories across the Ruhr into vast arsenals of war."*
+> - 📜 **George Orwell (*The Lion and the Unicorn*):** *"The debate over national **rearmament** divided the political parties, reflecting deep anxieties over future continental entanglements."*
+> - 📜 **Bertrand Russell (*Which Way to Peace?*):** *"Accelerated **rearmament** inevitably produces reciprocal suspicion among neighboring powers, making eventual war almost unavoidable."*

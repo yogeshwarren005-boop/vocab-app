@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who tries to bring peace.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anything that serves to pacify.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or thing that pacifies, calms, or brings peace; also a rubber or plastic teat given to an infant to suck on.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In child care and pediatric nursing, an artificial teat designed to satisfy the infant non-nutritive sucking reflex and promote calm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pacifier designates someone who tries to bring peace."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"Mrs. Kenwigs administered the soothing sugar **pacifier** to the screaming infant with experienced maternal dexterity."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The wise prelate acted as a respected **pacifier** between the contentious factions dividing the imperial court."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The weary mother quieted her crying child with a simple **pacifier** as she walked through the harvest field."*

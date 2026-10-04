@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resisting control or authority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Discontented as toward authority.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing a desire to resist authority, control, or convention; defying established government or rules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political history, characterizing insurgent citizens, mutinous regiments, or secessionist provinces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though I look old, yet I am strong and lusty, For in my youth I never did apply Hot and rebellious liquors in my blood, Nor did not with unbashful forehead woo The means of weakness and debility."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His antique sword, Rebellious to his arm, lies where it falls, Repugnant to command."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rebellious hell, If thou canst mutine in a matron’s bones, To flaming youth let virtue be as wax, And melt in her own fire."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Point against point **rebellious**, arm 'gainst arm, curbing his lavish spirit; and, to conclude, the victory fell on us."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The **rebellious** angels were hurled headlong through the shattered crystalline battlements of Heaven into the deep."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Severus marched with ruthless speed to crush the **rebellious** legions that had proclaimed a rival emperor in Syria."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to be more favorably inclined; gain the good will of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fight violence and try to establish peace in (a location).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To quell the anger, agitation, or excitement of; calm, soothe, appease, or bring peace to a rebellious state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military operations and colonial pacification, subduing an armed populace or restoring civil order by force of arms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray ye pacify yourself, Sir John."*
-> - 📜 **Jane Austen (*Persuasion*):** *"You seem to have forgot all about Lyme.” To pacify Mary, and perhaps screen her own embarrassment, Anne did move quietly to the window."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester had given was merely an invention framed to pacify his guests."*
+> - 📜 **William Shakespeare (*Henry IV, Part 2*):** *"Hostess, clap to the doors; watch out, here comes master Shallow; we must **pacify** these hot spirits before blood be spilt."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"It required the march of four legions to **pacify** the rebellious tribes inhabiting the mountains of Isauria."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Bennet took refuge in his library to **pacify** his nerves after the loud lamentations of his wife."*

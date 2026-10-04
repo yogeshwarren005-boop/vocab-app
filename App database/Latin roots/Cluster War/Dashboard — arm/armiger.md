@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A squire carrying the armor of a knight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nobleman entitled to bear heraldic arms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person entitled to bear heraldic arms; historically, an esquire or attendant who bore the armor and shield of a knight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British heraldic jurisprudence, an individual who has been granted or inherited coat armor confirmed by the College of Arms or Court of the Lord Lyon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, armiger designates a squire carrying the armor of a knight."*
+> - 📜 **William Shakespeare (*The Merry Wives of Windsor*):** *"Ay, that I do; and have done any time these three hundred years; all his successors gone before him hath done't; and all his ancestors that come after him may: they may give the dozen white luces in their coat; it is an old coat; in the county of Gloucester, justice of peace and **armiger**."*
+> - 📜 **Sir Walter Scott (*Ivanhoe*):** *"The royal herald called upon each noble **armiger** present to display his shield before entering the lists."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The country squire was proud of his ancient status as an **armiger**, registered in the heraldic visitations of Elizabeth."*

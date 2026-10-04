@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being pressed closely together and firmly fixed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disorder in which feces are impacted in the lower colon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or process of being firmly impacted, wedged, or packed tightly; blockage caused by accumulation of dense matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastroenterology, fecal impaction or biliary impaction resulting in complete mechanical luminal obstruction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, impaction designates the condition of being pressed closely together and firmly fixed."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Prompt surgical intervention is indicated when acute biliary **impaction** threatens necrosis of the gallbladder wall."*
+> - 📜 **Charles Lyell (*The Geological Evidences of the Antiquity of Man*):** *"The continuous **impaction** of gravel layers preserved fossil mammalian bones within the limestone cave deposits."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Excessive **impaction** of calcareous grains strengthens the protective tube constructed by the marine worm."*

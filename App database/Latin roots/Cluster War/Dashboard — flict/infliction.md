@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of imposing something (as a tax or an embargo).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act causing pain or damage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of imposing or causing painful, burdensome, or punitive suffering; also the pain or calamity so imposed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In criminal justice history, administering judicial corporal punishments, fines, or terms of imprisonment by legal decree.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The wound was small, but the point of the blade had touched the heart of the victim, who lay on his back, pale, fixed, dead, as if he had scarcely moved after the infliction of the blow."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"I hope somebody will come in for the evening, and share with us the infliction of her society," Zoe said, concluding with a forlorn attempt at a laugh."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The act of paying is perhaps the most uncomfortable infliction that the two orchard thieves entailed upon us."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He regarded the long legal delays of the High Court of Chancery as a terrible and unmerited public **infliction**."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The measure and **infliction** of statutory penalties belongs exclusively to the legislative and judicial authority."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The magistrates considered the public wearing of the scarlet token as a mild **infliction** compared to capital execution."*

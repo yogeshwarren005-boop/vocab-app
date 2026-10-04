@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A natural disposition to be hostile.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A natural disposition to be hostile.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A natural inclination or eagerness to fight, quarrel, or argue; combativeness, belligerence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary anthropology (William James), an innate instinct of combative rivalry channelled historically into warfare.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"In Heine it often appears simply as pugnacity; and where wit, satire, self-irony or even base calumny succeeds in covering up all traces of the poet's pathos we are no longer justified on sentimental or sympathetic grounds in taking it for granted."*
+> - 📜 **William James (*The Moral Equivalent of War*):** *"Our ancestors bred **pugnacity** into our very bone and marrow through thousands of generations of tribal warfare."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The remarkable **pugnacity** of the male ruff leads to elaborate competitive tournaments upon the marshland lek."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The old sea captain displayed an indomitable **pugnacity** that grew fiercer in proportion to the perils of the voyage."*

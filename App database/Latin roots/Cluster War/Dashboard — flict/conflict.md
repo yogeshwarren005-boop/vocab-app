@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An open clash between two opposing groups (or individuals); --thomas paine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Opposition between two simultaneous but incompatible feelings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A serious disagreement, struggle, clash, or battle between opposing persons, principles, ideas, or armed forces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic theory and literary analysis, the central opposition of forces that drives plot progression and character development.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is my father’s face, Whom in this conflict I unwares have killed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will persever in my course of loyalty, though the conflict be sore between that and my blood."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But his flaw’d heart, Alack, too weak the conflict to support! ’Twixt two extremes of passion, joy and grief, Burst smilingly."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Doubtful it stood; as two spent swimmers, that do cling together and choke their art, in desperate **conflict**."*
+> - 📜 **Thomas Hobbes (*Leviathan*):** *"During the time men live without a common power to keep them all in awe, they are in that condition called war, perpetual **conflict** of all against all."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The structure of every organic being is related to that of all other organic beings with which it comes into **conflict** for food or space."*

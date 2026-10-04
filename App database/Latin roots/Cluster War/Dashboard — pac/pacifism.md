@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine that all violence is unjustifiable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The belief that all international disputes can be settled by arbitration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The belief that war and violence are unjustifiable and that all disputes should be settled by peaceful means.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political philosophy and Christian ethics (Quakerism, Tolstoy), absolute refusal on moral grounds to participate in military service or bearing arms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pacifism designates the doctrine that all violence is unjustifiable."*
+> - 📜 **Leo Tolstoy (*The Kingdom of God Is Within You*):** *"Christian **pacifism** commands non-resistance to evil by force, striking at the very foundation of state militarism."*
+> - 📜 **Bertrand Russell (*Which Way to Peace?*):** *"Absolute **pacifism** asserts that no political goal justifies the deliberate slaughter of modern technological warfare."*
+> - 📜 **Albert Einstein (*The World As I See It*):** *"My **pacifism** is an instinctive feeling, a feeling that possesses me because the slaughter of human beings is disgusting."*

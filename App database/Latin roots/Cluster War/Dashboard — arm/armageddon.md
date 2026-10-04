@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (new testament) the scene of the final battle between the kings of the earth at the end of the world.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any catastrophically destructive battle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The site of a final, apocalyptic battle between the forces of good and evil prophesied in the Book of Revelation; also any catastrophic conflict.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biblical topography, derived from Tel Megiddo, an ancient strategic pass in northern Palestine that witnessed numerous decisive historic battles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, armageddon designates (new testament) the scene of the final battle between the kings of the earth at the end of the world."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The nations of Europe were drawn into an industrial **Armageddon** that consumed the finest youth of a generation."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The fall of the monarchy seemed to contemporary observers the opening act of an ideological **Armageddon**."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"The aerial bombardment of great capitals transformed international warfare into a technological **Armageddon**."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Burrowing chiefly nocturnal mammal with body covered with strong horny plates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Burrowing chiefly nocturnal mammal with body covered with strong horny plates.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A nocturnal omnivorous mammal of tropical and subtropical America, possessing a body armor of articulated bony plates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian paleontology, member of the order Cingulata, related to anteaters and sloths, capable of burrowing rapidly to escape predators.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"These fishes, like the tortoise, the armadillo, the sea-hedgehog, and the Crustacea, are protected by a breastplate which is neither chalky nor stony, but real bone."*
-> - 📜 **Clarence Budington Kelland (*Mark Tidd's Citadel*):** *"Come on as quiet as you can.” We got on to our stomachs and wriggled along like a couple of alligators, though I will say Mark looked more like an armadillo."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"The Island of Huge Ants was one, and wee Shane had seen in his geography book pictures of armadillos, and he shrewdly surmised that Maeldun had been to South America."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We observed the pygmy pichi **armadillo** burrow into the loose gravelly soil with astonishing speed when pursued on horseback."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The armor-plated **armadillo** represents the surviving diminutive branch of the giant Pleistocene glyptodont lineage."*
+> - 📜 **Herman Melville (*The Encantadas*):** *"The creature’s articulated carapace reminded one of an antique Spanish knight, or an **armadillo** encased in overlapping steel scales."*

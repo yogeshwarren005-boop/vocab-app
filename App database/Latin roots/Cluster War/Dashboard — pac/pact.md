@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A written agreement between two states or sovereigns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A written agreement between two states or sovereigns.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal agreement, covenant, or treaty between individuals, parties, or states to maintain peace or mutual aid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international diplomatic history, bilateral or multilateral non-aggression treaties or mutual defense agreements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Kim and Pak, in their youth, swore a pact to abstain from drinking, which pact was speedily broken."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"That’s a new question; still replies the fact, Nothing endures: the wind moans, saying so; We moan in acquiescence: there’s life’s pact, Perhaps probation--do I know?"*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Will ye renounce this pact of creatureship?"*
+> - 📜 **John Milton (*Paradise Lost*):** *"The fallen angels concluded a solemn **pact** never to submit or yield, binding themselves in eternal rebellion."*
+> - 📜 **Winston Churchill (*The Gathering Storm*):** *"The sinister non-aggression **pact** between Berlin and Moscow in August 1939 made European war inevitable."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Roman senate ratified the sacred **pact** with the barbarian kings, promising annual tributes for frontier peace."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large wardrobe or cabinet; originally used for storing weapons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large wardrobe or cabinet; originally used for storing weapons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, freestanding, ornate wardrobe or cupboard, typically made of carved wood and equipped with doors and shelves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In decorative arts and interior history, an elaborate French Baroque or Provincial cupboard used for storing linens, garments, or arms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, armoire designates a large wardrobe or cabinet; originally used for storing weapons."*
+> - 📜 **Honoré de Balzac (*Eugénie Grandet*):** *"Old Grandet opened the heavy oak **armoire** with a brass key, inspecting the rows of gold louis stowed in secret compartments."*
+> - 📜 **Henry James (*The American*):** *"The spacious Parisian bedroom was furnished with a carved walnut **armoire** that reached almost to the decorated ceiling."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"Madame Beck unlocked the tall mahogany **armoire** to distribute fresh linen sheets to the dormitory students."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not directly at war.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not directly at war.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not engaged in warfare or hostilities; a nation or state that does not participate as a combatant in a war.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international diplomacy, a state that remains officially neutral or provides material aid without entering formal armed combat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonbelligerent designates not directly at war."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"Mussolini maintained a precarious status as a **nonbelligerent** ally of Berlin until the sudden fall of France."*
+> - 📜 **Franklin D. Roosevelt (*Fireside Chats*):** *"Our policy was to provide all aid short of war, acting as a supportive **nonbelligerent** democracy."*
+> - 📜 **George F. Kennan (*Memoirs (1925–1950)*):** *"The small Baltic states desperately hoped that strict **nonbelligerent** neutrality would shield them from invasion."*

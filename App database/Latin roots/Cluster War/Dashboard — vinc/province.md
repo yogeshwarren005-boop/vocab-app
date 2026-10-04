@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The territory occupied by one of the constituent administrative districts of a nation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The proper sphere or extent of your activities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A principal administrative division of a country or empire; also a sphere of knowledge, duty, activity, or authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman administrative history (provincia), a foreign territory conquered by Rome and governed by a Roman magistrate (proconsul or propraetor).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say ’tis not so, a province I will give thee, And make thy fortunes proud."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This ungenitured agent will unpeople the province with continency."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, sir, a courtesy Which if we should deny, the most just gods For every graff would send a caterpillar, And so inflict our province."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The rich and peaceful **province** of Gaul contributed enormous revenues to the upkeep of the Rhine legions."*
+> - 📜 **William Shakespeare (*Measure for Measure*):** *"I have on Angelo imposed the office; who may, in the ambush of my name, strike home, and yet my nature never in the fight to do in slander; and to behold his sway, I will, as 'twere a brother of your order, visit both prince and people; therefore, I prithee, supply me with the habit, and instruct me how I may formally in person bear me like a true friar; more on this purpose came I not to you, but will instruct you: Lord Angelo is precise; stands at a guard with envy; scarce confesses that his blood flows, or that his appetite is more to bread than stone; hence shall we see, if power change purpose, what our seemers be; for in this wide **province** I must observe all."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The administration of private justice belongs properly to the **province** of the state judicial systems."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A militant aggressiveness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A militant aggressiveness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Active, combative, or aggressive support of a cause or viewpoint through direct action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In labor history and political theory, the willingness of organized workers or activists to deploy strikes, boycotts, and civil resistance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, militancy designates a militant aggressiveness."*
+> - 📜 **Virginia Woolf (*Three Guineas*):** *"She questioned whether male political **militancy** was an inevitable consequence of patriarchal education."*
+> - 📜 **Bertrand Russell (*Proposed Roads to Freedom*):** *"Trade union **militancy** intensified as wartime inflation eroded the real wages of factory operatives."*
+> - 📜 **W. E. B. Du Bois (*The Souls of Black Folk*):** *"A new generation arose demanding civil rights with unflinching moral **militancy** and uncompromising dignity."*

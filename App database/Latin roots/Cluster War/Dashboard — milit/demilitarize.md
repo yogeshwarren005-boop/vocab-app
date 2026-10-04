@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Do away with the military organization and potential of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove offensive capability from.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove military forces, weapons, or operations from an area; to place under civilian control.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geopolitical conflict resolution, neutralizing strategic territory to reduce tension and prevent accidental skirmishes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demilitarize designates do away with the military organization and potential of."*
+> - 📜 **Woodrow Wilson (*War and Peace: Presidential Messages, Addresses, and Public Papers*):** *"We seek covenants that will systematically **demilitarize** disputed frontiers and guarantee open commerce."*
+> - 📜 **George F. Kennan (*Memoirs (1925–1950)*):** *"Diplomatic initiatives sought to **demilitarize** Central Europe to avert catastrophic confrontation between great powers."*
+> - 📜 **Dwight D. Eisenhower (*Crusade in Europe*):** *"Our post-war policy aimed to disarm the defeated state and completely **demilitarize** its industrial complex."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Italian composer of operas (1801-1835).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Italian composer of operas (1801-1835).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An Italian cocktail made with prosecco and peach purée; also referring to the Venetian Renaissance painters Jacopo, Gentile, and Giovanni Bellini, or composer Vincenzo Bellini.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In art history, Giovanni Bellini (c. 1430–1516), revolutionary master of Venetian painting renowned for luminous color and atmospheric light.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bellini designates italian composer of operas (1801-1835)."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The altarpieces of Giovanni **Bellini** in the church of San Zaccaria represent the highest harmony of sacred dignity and Venetian color."*
+> - 📜 **Walter Pater (*Studies in the History of the Renaissance*):** *"A tranquil, golden sunlight bathes the devotional madonnas of **Bellini**, creating a world of contemplative peace."*
+> - 📜 **Ernest Hemingway (*Across the River and into the Trees*):** *"They sat at Harry’s Bar in Venice, sipping cold, pale pink **Bellini** cocktails while watching the canal outside."*

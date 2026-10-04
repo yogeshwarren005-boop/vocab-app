@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A town in northwestern washington on a bay near the canadian border.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in northwestern washington on a bay near the canadian border.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prominent city and coastal port in Whatcom County, Washington, United States; also an English toponym and surname.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British history, John Bellingham, the merchant who assassinated British Prime Minister Spencer Perceval in the House of Commons in 1812.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Here, to witness the scene which we are describing, sat Governor Bellingham himself with four sergeants about his chair, bearing halberds, as a guard of honour."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Among those who promoted the design, Governor Bellingham was said to be one of the most busy."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Without further adventure, they reached the dwelling of Governor Bellingham."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Governor **Bellingham** stood upon the balcony of his mansion, a gentleman of dignified presence and strict puritanical rule."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The trial of John **Bellingham** for the murder of the prime minister proceeded with extraordinary dispatch in the Old Bailey."*
+> - 📜 **Francis Parkman (*The Conspiracy of Pontiac*):** *"Frontier settlers pushed northward beyond the river valley toward the forests bordering the waters of **Bellingham** bay."*

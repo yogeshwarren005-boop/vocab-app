@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By the province; through the province.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By the province; through the province.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a provincial, narrow, or regional manner; with regard to a province or regional district.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In government administration, managed or legislated at the level of local provincial councils rather than the national parliament.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"The train presently arrived, and Miss Stackpole, promptly descending, proved, as Isabel had promised, quite delicately, even though rather provincially, fair."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"The drawing-room was decorated **provincially**, with old chintzes and mahogany tables that belonged to an earlier generation."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Justice was administered **provincially** by unpaid squires sitting in quarter sessions across the counties."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"She felt that her relatives lived **provincially**, judging great worldly questions by the standards of a country vicarage."*

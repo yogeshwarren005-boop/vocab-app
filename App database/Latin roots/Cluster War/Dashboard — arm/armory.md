@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A collection of resources.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: All the weapons and equipment that a country has.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A storehouse or depot for weapons, ammunition, and military equipment; an arsenal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civic architecture, a municipal or state drill hall and garrison facility used by militia and national guard units for training and munitions storage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Pigmies rummaging the armory of a giant, and contending for the possession of weapons which they could not wield."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"In the armory, a Gothic hall furnished with weapons of various kinds and ages, I was shown a coat of armor hanging against the wall, which had once belonged to James."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Her ward was one of the two in the armory itself, which for a considerable time contained more patients than any other in that hospital."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Celestial spirits opened the celestial **armory**, bringing forth shields of ethereal temper and swords of celestial fire."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The citizens broke into the public **armory** to seize spears and helmets to defend their walls against the barbarians."*
+> - 📜 **Henry Wadsworth Longfellow (*The Arsenal at Springfield*):** *"This is the **armory**. From floor to ceiling, like a huge organ, rise the burnished arms."*

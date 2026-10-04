@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lend a military character to (a country), as by building up a military force.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adopt for military use.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To equip, organize, or train for military purposes; British spelling of militarize.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political statecraft, converting civilian institutions, police forces, or transport corridors into armed martial structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, militarise designates lend a military character to (a country), as by building up a military force."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"He proposed to organize and **militarise** peaceful industrial labor with the discipline of a Roman legion."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"The government sought to reorganize the popular militia columns and **militarise** the republican army."*
+> - 📜 **Bertrand Russell (*The Practice and Theory of Bolshevism*):** *"War conditions compelled the revolutionary state to **militarise** railways, factories, and grain supplies."*

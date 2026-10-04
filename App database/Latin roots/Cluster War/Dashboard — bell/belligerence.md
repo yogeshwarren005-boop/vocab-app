@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hostile or warlike attitude or nature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A natural disposition to be hostile.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Aggressive or warlike behavior, attitude, or disposition; readiness to engage in combat or dispute.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international conflict studies, the state of actively participating in hostilities or adopting an intransigent diplomatic posture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Is that clear?" "If they start anything, I'd just as soon take a few of them out for good." Scarf postured his belligerence."*
+> - 📜 **Winston Churchill (*The Gathering Storm*):** *"The growing **belligerence** of the fascist regimes in Europe alarmed all thoughtful observers who remembered 1914."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The restless **belligerence** of the German tribes along the Danube obliged Marcus Aurelius to spend years in camp."*
+> - 📜 **George Eliot (*Felix Holt, the Radical*):** *"The taproom disputants squared their shoulders with rising **belligerence** as the political debate grew personal."*

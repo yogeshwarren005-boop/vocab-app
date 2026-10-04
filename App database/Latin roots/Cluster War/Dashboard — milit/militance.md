@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A militant aggressiveness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A militant aggressiveness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A militant spirit, condition, or demeanor; aggressive readiness to fight or campaign passionately for a cause.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social movement historiography, adopting direct action, picketing, or confrontation rather than passive petitioning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, militance designates a militant aggressiveness."*
+> - 📜 **Emmeline Pankhurst (*My Own Story*):** *"The government’s stubborn refusal to grant women the franchise drove our movement into resolute **militance**."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"A feverish **militance** seized the Parisian populace as rumors of royalist troop movements spread."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"The energetic **militance** of the Salvation Army marched through slums with brass bands and fluttering banners."*

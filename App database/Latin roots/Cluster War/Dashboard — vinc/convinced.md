@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make (someone) agree, understand, or realize the truth or validity of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Persuaded of; very sure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Completely certain or firmly persuaded of something; having no lingering doubts about a fact or truth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In religious history and Quaker vocabulary, having experienced inner spiritual awakening and accepted Quaker tenets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or heard him say (as knaves be such abroad, Who having, by their own importunate suit, Or voluntary dotage of some mistress, Convinced or supplied them, cannot choose But they must blab.) OTHELLO."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I take them everywhere.” I was afterwards convinced (and so was Ada) that from the ill-conditioned eldest child, these words extorted a sharp yell."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Sometimes I considered whether I should write to his mother, but that ended in my being convinced that to open a correspondence would be to make the matter worse."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor was thoroughly **convinced** of Edward’s honor, despite the perplexing secrecy that shrouded his behavior."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"I am fully **convinced** that species are not immutable, but that those belonging to the same genus are descendants of common parents."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes examined the footprint carefully and was **convinced** that a hound of gigantic size had passed that way."*

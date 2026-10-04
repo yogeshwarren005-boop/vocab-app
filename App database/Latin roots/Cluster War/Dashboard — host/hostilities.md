@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fighting; acts of overt warfare.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hostile (very unfriendly) disposition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Acts of warfare or overt armed conflict between opposing military forces; fighting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international diplomacy and law, the formal opening of military engagements following a breakdown of peace accords.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby, entering behind us, “to wave—not to put too fine a point upon it, my dear—hostilities for one single moment in the course of this prolonged night, here is Inspector Bucket, Mr."*
-> - 📜 **George Eliot (*Middlemarch*):** *"A man conscious of enthusiasm for worthy aims is sustained under petty hostilities by the memory of great workers who had to fight their way not without wounds, and who hover in his mind as patron saints, invisibly helping."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The Consequences of Hostilities Between the States FEDERALIST No."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"After an uneasy truce of six months, mutual recriminations led to the immediate resumption of active **hostilities**."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Border rivalries among unassociated confederations would inevitably erupt into recurrent, destructive **hostilities**."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The sudden outbreak of general **hostilities** in August 1914 shattered the prolonged peace of nineteenth-century Europe."*

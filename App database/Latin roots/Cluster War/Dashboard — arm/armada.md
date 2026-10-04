@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large fleet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large fleet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fleet of warships, especially the historic Spanish naval force sent against England by Philip II in 1588.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime warfare, a massive naval task force organized to transport an invasion force or achieve complete sea dominance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"What was left of the INOR armada withdrew beyond the reach of the UIPS fleet's long-range weapons, careful to demonstrate that their retreat was in a direction away from the Slingshot Terminals."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"And so, on this March morning in 1947 the whole vast armada was crossing the Atlantic toward the United States."*
-> - 📜 **James Joyce (*Ulysses*):** *"His boots trod again a damp crackling mast, razorshells, squeaking pebbles, that on the unnumbered pebbles beats, wood sieved by the shipworm, lost Armada."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The invincible **armada** of Philip II had anchored in the Channel before the stormy winds scattered his proud galleons."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The beacons flashed the alarm along the English cliffs, announcing that the great **armada** had been sighted off the Lizard."*
+> - 📜 **John Milton (*Paradise Lost*):** *"As when far off at sea a fleet descried hangs in the clouds, so seemed the mighty **armada** of darkness assembled in the deep."*

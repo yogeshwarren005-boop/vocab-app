@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A militant reformer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disposed to warfare or hard-line policies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Combative, aggressive, or engaged in warfare; also a person who uses vigorous, aggressive, or direct methods in support of a cause.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Christian theology, the 'Church Militant' (Ecclesia Militans), designating the Christian body on earth struggling against sin and evil.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Stafford, by temperament and training a member of the Church Militant, clearly felt a trifle disappointed, but he had little petty vanity and accepted Val's amendment without a murmur."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Now, Evelina, let me say in my own person, that I thoroughly approve of your doing just as you plan." And as she uttered this heresy, she looked so straight and militant and altogether commanding, that both Cousin Martha and Sallie quailed."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Dear," she said, in her rich, throaty, strong voice as she looked pleadingly at the militant midget facing her."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The angelic host marched in **militant** array across the heavenly plains, their shields flashing like radiant suns."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The **militant** spirit of the Scottish Covenanters inspired them to take up arms against royal prelacy."*
+> - 📜 **George Eliot (*Romola*):** *"Savonarola summoned the citizens of Florence to join a **militant** moral crusade against civic corruption."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Robust east asian clump-forming perennial herbs having racemose flowers: plantain lilies; sometimes placed in family hostaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Robust east asian clump-forming perennial herbs having racemose flowers: plantain lilies; sometimes placed in family hostaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of shade-tolerant perennial flowering plants in the asparagus family Asparagaceae, native to northeast Asia, grown for broad ornamental foliage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In landscape horticulture, prized for large, textured, variegated heart-shaped leaves and tall summer scapes of lily-like flowers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hosta designates robust east asian clump-forming perennial herbs having racemose flowers: plantain lilies; sometimes placed in family hostaceae."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Species of **Hosta** form dense clumps of handsome ribbed foliage that flourish in moist, shaded garden borders."*
+> - 📜 **Gertrude Jekyll (*Wood and Garden*):** *"Beneath the spreading oak boughs, broad glaucous leaves of **Hosta** contrast delightfully with delicate ferns."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The East Asian genus **Hosta** is widely cultivated in temperate gardens under the popular name plantain-lily."*

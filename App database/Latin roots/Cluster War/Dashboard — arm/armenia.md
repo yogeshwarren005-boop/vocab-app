@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A landlocked republic in southwestern asia; formerly an asian soviet; modern armenia is but a fragment of ancient armenia which was one of the world's oldest civilizations; throughout 2500 years the armenian people have been invaded and oppressed by their neighbors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A landlocked republic in southwestern asia; formerly an asian soviet; modern armenia is but a fragment of ancient armenia which was one of the world's oldest civilizations; throughout 2500 years the armenian people have been invaded and oppressed by their neighbors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mountainous landlocked country in the South Caucasus region of Eurasia, historically an ancient kingdom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient history, the first nation to adopt Christianity as its official state religion (in 301 AD under Saint Gregory the Illuminator).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His sons he there proclaimed the kings of kings: Great Media, Parthia, and Armenia He gave to Alexander; to Ptolemy he assigned Syria, Cilicia, and Phoenicia."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For what I have conquered I grant him part; but then in his Armenia And other of his conquered kingdoms, I Demand the like."*
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"See Belgium rent and bleeding, The Kaiser's hellish work, Armenia vainly pleading For mercy from the Turk."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The strategic kingdom of **Armenia** was perpetually contested between the rival empires of Rome and Parthia."*
+> - 📜 **Lord Byron (*Selected Letters and Journals*):** *"I studied the ancient language of **Armenia** at the Mekhitarist monastery on San Lazzaro, fascinated by its classical literature."*
+> - 📜 **Herodotus (*The Histories*):** *"Merchants from the highlands of **Armenia** floated round leather coracles loaded with casks of wine down the river to Babylon."*

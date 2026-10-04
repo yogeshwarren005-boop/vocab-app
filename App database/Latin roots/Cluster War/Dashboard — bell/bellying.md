@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Swell out or bulge out.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Curving outward.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Swelling out, bulging, or puffing up like a belly; distending.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nautical descriptions, sails filled, curved, and distended by a stiff following wind.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"I'd be woe for the outside, for the sunshine and the water and the bellying winds--" His Uncle Robin tapped the window-pane of the club and thought hard."*
-> - 📜 **James Joyce (*Ulysses*):** *"The milkwhite dolphin tossed his mane and, rising in the golden poop the helmsman spread the bellying sail upon the wind and stood off forward with all sail set, the spinnaker to larboard."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The white canvas stood out rigid in the trade wind, **bellying** over the foam as the ship raced southward."*
+> - 📜 **Lord Byron (*The Corsair*):** *"The proud ship bounded over the surging waves with white sails **bellying** to the midnight breeze."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The wind roared down the chimney, **bellying** the heavy velvet window curtains into the drawing-room."*

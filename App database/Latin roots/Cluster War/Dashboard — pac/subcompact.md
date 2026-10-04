@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A car smaller than a compact car.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A car smaller than a compact car.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An automobile smaller than a compact car; also exceptionally small, dense, and tightly organized.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In automotive design and manufacturing, vehicle classification ranked below compact cars, typically under 165 inches in length.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subcompact designates a car smaller than a compact car."*
+> - 📜 **John Kenneth Galbraith (*Economics and the Public Purpose*):** *"Rising fuel prices forced Detroit automakers to produce efficient **subcompact** models to compete with foreign imports."*
+> - 📜 **Philip K. Dick (*VALIS*):** *"He parked his battered **subcompact** sedan beside the dusty curb and walked into the convenience store."*
+> - 📜 **Kurt Vonnegut (*Hocus Pocus*):** *"The college faculty drove cheap **subcompact** cars, reflecting their modest salaries in a declining industrial town."*

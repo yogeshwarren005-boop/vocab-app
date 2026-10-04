@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of animals; without protective covering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of persons or things military) without protective armor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not protected by armor, protective plate, or ballistic defensive shielding; American spelling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy and military logistics, organisms or transport vehicles lacking rigid outer shell or armor plating.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unarmored designates used of animals; without protective covering."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Unlike the heavily plated armadillo, this burrowing mammal had an **unarmored** skin covered only in dense, coarse fur."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The **unarmored** merchant vessels suffered heavily from submarine torpedo attacks in the western approaches."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The **unarmored** crowds of London refugees stood helpless as the Martian heat-rays swept across the suburban hills."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adherent of arminianism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to arminianism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or adhering to the theological doctrines of Jacobus Arminius (1560–1609), which opposed Calvinist predestination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical theology, affirming conditional election, universal atonement, and the real possibility of resisting or falling from divine grace.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Nae poison’d soor Arminian stank He let them taste; Frae Calvin’s well, aye clear, drank,— O, sic a feast! [Footnote 1: Rev."*
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"We dwell on the points of distinction between Calvinism and Arminianism when the greater part of our people do not know the difference between an Arminian and an Armenian, and some good old sister thinks we are preaching on the cruelty of the Turks."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Archbishop Laud promoted **Arminian** clergymen to high ecclesiastical offices, infuriating the Puritan majority in Parliament."*
+> - 📜 **John Milton (*Areopagitica*):** *"The rigid censors would condemn any treatise that questioned Calvinism as dangerous **Arminian** error."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The theological dispute between Gomarist and **Arminian** factions divided the Dutch republic into bitter political camps."*

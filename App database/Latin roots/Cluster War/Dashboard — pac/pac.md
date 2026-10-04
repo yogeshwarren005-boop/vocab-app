@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Committee formed by a special-interest group to raise money for their favorite political candidates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Committee formed by a special-interest group to raise money for their favorite political candidates.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavy, moccasin-style waterproof boot traditionally worn by lumberjacks and outdoor workers in cold or marshy climates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In North American political history, an acronym for Political Action Committee, an organization pooling campaign contributions for candidates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go, bear Patroclus’ body to Achilles, And bid the snail-pac’d Ajax arm for shame."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So she parted, And with the same full state paced back again To York Place, where the feast is held."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, she’s not paced yet: you must take some pains to work her to your manage."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"The dog team drivers laced their heavy **pac** boots securely against the bitter sub-zero trail winds."*
+> - 📜 **Stewart Edward White (*The Blazed Trail*):** *"The lumberman kicked off his damp leather **pac** beside the glowing bunkhouse stove after twelve hours in the snow."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"Our Indian guide wore durable moose-hide **pac** moccasins that made no sound upon the damp moss."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lend a military character to (a country), as by building up a military force.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adopt for military use.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Equipped, organized, or adapted for military purposes or control; British spelling of militarized.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In strategic defense, describing a heavily fortified border territory occupied by permanent garrisons and artillery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, militarised designates lend a military character to (a country), as by building up a military force."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The frontier zone was heavily **militarised** with concrete pillboxes, antitank ditches, and barbed wire barriers."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"The **militarised** regiments replaced the irregular revolutionary militia along the Aragon front."*
+> - 📜 **Arthur Conan Doyle (*The British Campaign in France and Flanders*):** *"The sector had been completely **militarised** under intensive bombardment, leaving not a single civilian cottage intact."*

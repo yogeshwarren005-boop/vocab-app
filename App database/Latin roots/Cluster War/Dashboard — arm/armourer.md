@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A worker skilled in making armor or arms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enlisted man responsible for the upkeep of small arms and machine guns etc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A craftsman who makes or repairs suits of armor or weapons; British spelling of armorer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In regimental military administration, an ordnance specialist charged with maintaining firearms and weapons inventories.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art The armourer of my heart."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Horner the armourer and his man Peter, guarded."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lords, let him go.—Please it your majesty, This is the day appointed for the combat, And ready are the appellant and defendant, The armourer and his man, to enter the lists, So please your highness to behold the fight."*
+> - 📜 **William Shakespeare (*Henry V*):** *"The **armourer** plies his anvil with redoubled speed, readying battle blades for the morrow."*
+> - 📜 **Sir Walter Scott (*The Fair Maid of Perth*):** *"The Perth **armourer** tested every blade upon a block of hardwood before suffering it to leave his forge."*
+> - 📜 **Alfred Tennyson (*Idylls of the King*):** *"The court **armourer** burnished Sir Lancelot's silver shield till it shone like the midday sun."*

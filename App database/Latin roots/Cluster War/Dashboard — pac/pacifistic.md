@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Opposed to war.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Opposed to war.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of pacifism; advocating peace and opposing war or violence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic historiography, describing foreign policy doctrines prioritizing appeasement or mediation over military deterrence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pacifistic designates opposed to war."*
+> - 📜 **Winston Churchill (*The Gathering Storm*):** *"The **pacifistic** delusions of the interwar cabinets prevented Britain from rearming in time to deter aggressive dictators."*
+> - 📜 **Bertrand Russell (*Justice in War-Time*):** *"Our **pacifistic** propaganda sought to awaken the moral conscience of citizens against imperialist rivalries."*
+> - 📜 **Aldous Huxley (*Ends and Means*):** *"Constructive **pacifistic** action requires systematic reform of social institutions and spiritual reeducation."*

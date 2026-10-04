@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Financially ruined.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Financially ruined.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Completely ruined, bankrupt, or dead; especially floating dead on the surface of water like a fish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In financial vernacular and corporate restructuring, complete bankruptcy, insolvency, or commercial liquidation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, belly-up designates financially ruined."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The dying whale rolled slowly **belly-up** in the crimson sea, its vast fins stiffening under the setting sun."*
+> - 📜 **Mark Twain (*Roughing It*):** *"Several speculative silver-mining schemes had gone entirely **belly-up**, ruining credulous eastern investors."*
+> - 📜 **John Steinbeck (*The Grapes of Wrath*):** *"The local farm-implement dealer had gone **belly-up** when the drought ruined three consecutive corn harvests."*

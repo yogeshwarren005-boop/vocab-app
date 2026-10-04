@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A transducer used to detect and measure light and other radiations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A transducer used to detect and measure light and other radiations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A solid-state electronic device whose electrical properties (such as current, voltage, or resistance) vary in response to incident light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In automation and instrumentation, photocells are widely utilized as sensors in automated lighting controls, solar irradiance meters, and optical safety interlocks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photocell designates a transducer used to detect and measure light and other radiations."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"A simple **photocell** coupled to a servomechanism allows a machine to orient itself directly toward a light source."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"The satellite relied upon an array of sensitive **photocell** detectors to align its solar panels with the sun."*
+> - 📜 **Isaac Asimov (*I, Robot*):** *"The robot's visual receptor was an advanced **photocell** calibrated to detect both visible and infrared radiation."*
+

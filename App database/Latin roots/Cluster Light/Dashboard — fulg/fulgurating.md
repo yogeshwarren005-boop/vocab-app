@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sharp and piercing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sharp and piercing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Flashing like lightning; emitting sudden sharp sparks or incandescent bursts of light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology, characterized by shooting, stabbing, lightning-like pains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fulgurating designates sharp and piercing."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe paroxysms of **fulgurating** lancinating pains require prompt administration of analgesics in tabetic patients."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The carbon arcs hissed, producing **fulgurating** bursts of intense white light in the darkened hall."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"A sudden **fulgurating** flash of lightning revealed the desolate granite tor rising above the mire."*

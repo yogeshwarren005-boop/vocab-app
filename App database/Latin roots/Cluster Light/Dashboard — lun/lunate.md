@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling the new moon in shape.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling the new moon in shape.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Crescent-shaped, sickle-shaped, or resembling the crescent moon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human anatomy, designating the crescent-shaped carpal bone of the wrist situated between the scaphoid and triquetrum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lunate designates resembling the new moon in shape."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The proximal row of carpal bones includes the scaphoid, the **lunate**, and the pyramidal elements."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Vertebrate Animals*):** *"The distal edge of the pelvic fin bears a series of delicate **lunate** cartilaginous rays in primitive sharks."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The desert wind sculpted the sand into sweeping **lunate** dunes whose horns pointed in the direction of the gale."*

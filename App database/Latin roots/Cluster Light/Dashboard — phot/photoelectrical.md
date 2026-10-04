@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to photoelectricity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to photoelectricity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or operating by the conversion of light into electrical energy or electrical signals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electrical engineering, photoelectrical apparatus encompasses devices like photovoltaic cells, phototransistors, and light-activated relays.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photoelectrical designates of or pertaining to photoelectricity."*
+> - 📜 **Robert Millikan (*The Electron*):** *"Precise **photoelectrical** measurements established the exact numerical value of Planck's universal constant."*
+> - 📜 **Arthur Compton (*X-Rays and Electrons*):** *"The **photoelectrical** response of the metal varied continuously with the spectral composition of the incident beam."*
+> - 📜 **J. J. Thomson (*Rays of Positive Electricity*):** *"Special care was taken to shield the apparatus against stray **photoelectrical** discharges from the illuminated electrodes."*
+

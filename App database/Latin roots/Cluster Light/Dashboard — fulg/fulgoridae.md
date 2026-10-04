@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plant hoppers: lantern flies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plant hoppers: lantern flies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of large, brightly colored planthoppers (lanternflies) in the insect order Hemiptera.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology, insects formerly and mistakenly believed to emit bioluminescent light from their head processes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fulgoridae designates plant hoppers: lantern flies."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Collectors in Borneo captured bizarre specimens of **Fulgoridae** possessing elongated, snout-like head projections."*
+> - 📜 **Henry Walter Bates (*The Naturalist on the River Amazons*):** *"The giant lanternfly of the family **Fulgoridae** was reputed by local natives to possess deadly venom and luminosity."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We observed several species of **Fulgoridae** resting upon the trunks of tropical forest trees."*

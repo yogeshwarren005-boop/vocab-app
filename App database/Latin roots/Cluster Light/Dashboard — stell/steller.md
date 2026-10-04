@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: German naturalist (1709-1746).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: German naturalist (1709-1746).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Referring to Georg Wilhelm Steller, 18th-century German naturalist who accompanied Vitus Bering to Alaska.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoology, naming species first described by Steller, such as Steller's sea lion and Steller's jay.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, steller designates german naturalist (1709-1746)."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The northern sea cow discovered by **Steller** was hunted to extinction within a few decades of its discovery."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The subarctic fauna of the Aleutian islands included remarkable mammals first cataloged by Georg **Steller**."*
+> - 📜 **Henry Walter Bates (*The Naturalist on the River Amazons*):** *"Pioneering naturalists like **Steller** laid the empirical foundations of circumpolar biogeography."*

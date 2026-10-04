@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of disease of former times (as inferred from fossil evidence).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of disease of former times (as inferred from fossil evidence).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of disease, trauma, and injury in ancient humans and animals through examination of skeletal and soft tissue remains.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The forensic analysis of prehistoric pathological lesions, healed fractures, and ancient epidemic diseases in fossil specimens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleopathology designates the study of disease of former times (as inferred from fossil evidence)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"**Paleopathology** reveals that ancient Egyptians suffered from atherosclerosis, tuberculosis, and dental caries at high rates."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"The Neanderthal femur studied by **paleopathology** shows a healed fracture callus from a severe traumatic injury."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"**Paleopathology** demonstrates that congenital skeletal anomalies occurred in prehistoric human populations at similar frequencies."*

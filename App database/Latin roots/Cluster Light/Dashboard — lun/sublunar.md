@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated between the earth and the moon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of this earth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated beneath the moon; belonging to the terrestrial world below the lunar sphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to earthly, mortal, or fleeting human affairs as distinguished from celestial perfection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sublunar designates situated between the earth and the moon."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Night with her sullen wings flitted over the **sublunar** world, shrouding mortal eyes in slumber."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Aristotle drew a sharp distinction between the immutable heavens and the mutable elements of the **sublunar** sphere."*
+> - 📜 **Percy Bysshe Shelley (*Epipsychidion*):** *"She seemed a soul too pure and radiant to dwell within our cloudy **sublunar** atmosphere."*

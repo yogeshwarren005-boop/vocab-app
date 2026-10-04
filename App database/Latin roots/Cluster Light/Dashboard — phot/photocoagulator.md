@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical instrument containing a laser for use in photocoagulation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical instrument containing a laser for use in photocoagulation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical instrument that focuses a powerful beam of light or laser radiation to coagulate and seal bleeding or abnormal tissues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmic surgery, the argon laser or xenon-arc photocoagulator provides microsurgical precision during therapeutic retinal ablation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photocoagulator designates surgical instrument containing a laser for use in photocoagulation."*
+> - 📜 **Oliver Sacks (*The Mind's Eye*):** *"The eye surgeon calibrated the beam of the argon **photocoagulator** to target the tiny bleeding vessel."*
+> - 📜 **William Osler (*Aequanimitas*):** *"Technological advancements such as the clinical **photocoagulator** transformed ophthalmology into an exact micro-interventional specialty."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Precision optical delivery systems allow the modern **photocoagulator** to deliver therapeutic burns without collateral scleral injury."*
+

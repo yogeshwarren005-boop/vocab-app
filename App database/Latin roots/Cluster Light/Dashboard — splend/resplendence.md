@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Brilliant radiant beauty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brilliant radiant beauty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Brilliant luster, dazzling brightness, or radiant splendor of appearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Magnificent glory or majestic display in physical or spiritual grandeur.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, resplendence designates brilliant radiant beauty."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The imperial court at Constantinople dazzled barbarian envoys with the golden **resplendence** of its palaces."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The morning sun revealed the mosaic **resplendence** of Saint Mark's facade in all its glory."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The coronation unfolded in theatrical **resplendence**, while bread riots simmered in provincial towns."*

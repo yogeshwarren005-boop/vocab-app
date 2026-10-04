@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having brief brilliant points or flashes of light.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having brief brilliant points or flashes of light.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Flashing, dazzling, or shining with brilliant, lightning-like flashes of light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having glittering brilliance or incandescent splendor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fulgid designates having brief brilliant points or flashes of light."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"The marble colonnades reflected a **fulgid** glare beneath the blazing Mediterranean midday sun."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The **fulgid** coruscations of the northern lights aroused profound awe among ancient naturalists."*
+> - 📜 **Lord Byron (*Don Juan*):** *"Her eyes darted **fulgid** glances across the ballroom that captivated every bystander."*

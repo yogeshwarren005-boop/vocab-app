@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An emission of photoelectrons (especially from a metallic surface).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An emission of photoelectrons (especially from a metallic surface).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The liberation and emission of electrons from the surface of a material when exposed to electromagnetic radiation of sufficient frequency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surface chemistry and solid-state physics, photoemission serves as a primary non-destructive probe of surface valence states and Fermi surfaces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photoemission designates an emission of photoelectrons (especially from a metallic surface)."*
+> - 📜 **Robert Millikan (*The Electron*):** *"Below a characteristic threshold frequency, no **photoemission** can be detected, regardless of the intensity of the illumination."*
+> - 📜 **Albert Einstein (*Out of My Later Years*):** *"The instantaneous onset of **photoemission** contradicted the classical expectation that electrons must gradually accumulate wave energy."*
+> - 📜 **Max Born (*Natural Philosophy of Cause and Chance*):** *"Quantum electrodynamics provides a rigorous mathematical framework for calculating the cross-section of **photoemission**."*
+

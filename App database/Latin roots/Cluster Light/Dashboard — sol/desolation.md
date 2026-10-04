@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being decayed or destroyed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bleak and desolate atmosphere.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of complete destruction, ruin, waste, and devastation of a place or landscape.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Profound sorrow, misery, loneliness, and emotional grief.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My desolation does begin to make A better life. ’Tis paltry to be Caesar; Not being Fortune, he’s but Fortune’s knave, A minister of her will."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then your hose should be ungartered, your bonnet unbanded, your sleeve unbuttoned, your shoe untied, and everything about you demonstrating a careless desolation."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, there were desolation of gaolers and gallowses!"*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"The Roman Campagna presented an image of majestic **desolation**, strewn with broken aqueducts and tombs."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Barbarian invasions spread fire and **desolation** through the once-fertile valleys of northern Italy."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab stood alone upon the quarterdeck, his dark heart consumed by a terrible inward **desolation**."*

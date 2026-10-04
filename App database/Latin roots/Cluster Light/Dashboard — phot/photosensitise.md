@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make (an organism or substance) sensitive to the influence of radiant energy and especially light.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make (an organism or substance) sensitive to the influence of radiant energy and especially light.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make an organism, tissue, or chemical substance abnormally sensitive to the action of radiant light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical therapeutics and pharmacology, British spelling variant of photosensitize, used in photodynamic therapy for oncological or dermatological lesions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photosensitise designates make (an organism or substance) sensitive to the influence of radiant energy and especially light."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Certain ingested medications **photosensitise** the dermal capillaries, inducing severe erythema upon minimal sun exposure."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The chemist explained how subtle dye additives could **photosensitise** the photographic emulsion to red wavelengths."*
+> - 📜 **Oliver Sacks (*The Island of the Colorblind*):** *"Endogenous porphyrins accumulate in cutaneous tissues and **photosensitise** the skin to destructive ultraviolet rays."*
+

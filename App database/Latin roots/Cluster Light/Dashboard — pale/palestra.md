@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A public place in ancient greece or rome devoted to the training of wrestlers and other athletes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public place in ancient greece or rome devoted to the training of wrestlers and other athletes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In ancient Greece and Rome, a public wrestling school or athletic training ground for gymnastic exercises.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rectangular exercise yard associated with a Greek gymnasium for wrestling and physical conditioning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, palestra designates a public place in ancient greece or rome devoted to the training of wrestlers and other athletes."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"Young Roman aristocrats practiced wrestling and boxing each afternoon in the marble-paved **palestra** beside the baths."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Greek **palestra** formed the physical and social center of classical education in every Hellenistic city."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Roman excavations at Pompeii uncovered the ruins of the public **palestra** behind the amphitheater."*

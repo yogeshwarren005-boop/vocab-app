@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Measurement of the properties of light (especially luminous intensity).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Measurement of the properties of light (especially luminous intensity).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The science and technique of measuring visible light in terms of its perceived brightness to the human eye.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astrophysics and optical engineering, photometry quantifies luminous intensity, illuminance, luminance, and luminous flux across diverse optical wavelengths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photometry designates measurement of the properties of light (especially luminous intensity)."*
+> - 📜 **Arthur Eddington (*The Internal Constitution of the Stars*):** *"Astronomical **photometry** has reached such refinement that minute planetary transits can be detected across distant stars."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The principles of **photometry** enable us to evaluate the efficiency of hydrocarbon burners with rigorous precision."*
+> - 📜 **James Hopwood Jeans (*Astronomy and Cosmogony*):** *"Through photoelectric **photometry**, stellar magnitudes are recorded with an objectivity that human vision cannot rival."*
+

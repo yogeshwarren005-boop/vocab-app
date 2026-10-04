@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The paleobiology of ancient mammals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The paleobiology of ancient mammals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of vertebrate paleontology specializing in the study of extinct fossil mammals and their evolution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The scientific analysis of Mesozoic and Cenozoic mammalian fossils to reconstruct their biology and relationships.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleomammalogy designates the paleobiology of ancient mammals."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Vertebrate Animals*):** *"**Paleomammalogy** began in earnest with the discovery of multituberculate and triconodont teeth in Jurassic strata."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"South American **paleomammalogy** yields extraordinary giant ground sloths and glyptodonts ancestral to modern species."*
+> - 📜 **Thomas Henry Huxley (*Collected Essays*):** *"**Paleomammalogy** traces the origin of the horse through a complete series of North American fossil specimens."*

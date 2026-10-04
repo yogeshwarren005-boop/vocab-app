@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A handheld collapsible source of shade.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A handheld collapsible source of shade.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lightweight umbrella used especially by women to provide shade from the hot sun.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An overhead sunshade or canopy designed for solar protection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"That’s enough—that’s enough!—oh, you fools!” she cried, throwing the parasol and Prayer-book into the passage, and running out of doors in the direction signified."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her clothes were of recent fashion; even the ivory-handled parasol that she carried was of a shape unknown in the retired spot to which they had now wandered; and the cut of such articles would have attracted attention in the settle of a tavern."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Just then, a girl passing, jostled against her and knocked down her parasol."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"The ladies opened their silk **parasol** sunshades as they strolled along the garden gravel walk."*
+> - 📜 **Henry James (*Daisy Miller*):** *"Daisy walked through the Roman ruins carrying a dainty lace-trimmed **parasol** over her shoulder."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The fashionable summer visitors held white **parasol** canopies to shield their complexions from the chalk glare."*

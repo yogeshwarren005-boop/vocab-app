@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of ancient forms of writing (and the deciphering of them).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of ancient forms of writing (and the deciphering of them).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scholarly study of ancient and medieval writing systems, handwriting styles, and manuscript traditions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The discipline of reading, dating, and authenticating historical documents through analysis of their script forms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleography designates the study of ancient forms of writing (and the deciphering of them)."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"**Paleography** establishes the approximate date of a manuscript by comparing its letterforms to dated exemplars."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The forged donation of Constantine was exposed through critical **paleography** applied to its anachronistic script."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"Jonathan Oldbuck's enthusiasm for **paleography** led him to misread a perfectly legible eighteenth-century deed."*

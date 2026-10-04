@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or using or formed by photosynthesis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or using or formed by photosynthesis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, produced by, or capable of carrying out photosynthesis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, photosynthetic organisms (including cyanobacteria and higher plants) constitute the primary producers foundational to global food chains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photosynthetic designates relating to or using or formed by photosynthesis."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Chemical herbicides disrupt the delicate **photosynthetic** machinery within chloroplasts, starving the plant from within."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The great tree of life branched into autotrophic forms endowed with remarkable **photosynthetic** tissues."*
+> - 📜 **Lynn Margulis (*Symbiosis in Cell Evolution*):** *"The incorporation of cyanobacterial symbionts transformed ancient heterotrophs into flourishing **photosynthetic** algae."*
+

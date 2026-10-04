@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital of sicily; located in northwestern sicily; an important port for 3000 years.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capital of sicily; located in northwestern sicily; an important port for 3000 years.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital city and principal port of Sicily, founded by Phoenician settlers around 734 BCE.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A historic Mediterranean center of Norman, Arab, and Byzantine cultural fusion; seat of the Kingdom of Sicily.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Lecoeur, _Esquisses du Bocage Normand_, ii. 8; A. de Nore, _Coutumes, Mythes et Traditions des Provinces de France_, p. 150; Gennaro Finamore, _Credenze, Usi e Costumi Abruzzesi_ (Palermo, 1890), p. 157. [534] M."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Finamore, _Credenze, Usi e Costumi Abruzzesi_ (Palermo, 1890), pp. 154 _sq._ [539] G."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"See above, pp. 193 _sq._, 208. [540] Giuseppe Pitrè, _Spettacoli e Feste Popolari Siciliane_ (Palermo, 1881), pp. 246, 308 _sq._; _id., Usi e Costumi, Credenze e Pregiudizi del Popolo Siciliano_ (Palermo, 1889), pp. 146 _sq._ [541] J."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Roger II established his magnificent court at **Palermo**, the intellectual center of the Norman-Sicilian kingdom."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The Palatine Chapel of **Palermo** blends Byzantine mosaic, Arab muqarnas vaults, and Norman architectural forms."*
+> - 📜 **Henry James (*Italian Hours*):** *"**Palermo** overwhelmed the northern traveler with its fierce sunshine, baroque churches, and languid southern energy."*

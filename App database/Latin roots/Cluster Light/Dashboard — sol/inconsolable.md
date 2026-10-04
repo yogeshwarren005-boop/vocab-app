@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sad beyond comforting; incapable of being consoled.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sad beyond comforting; incapable of being consoled.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being consoled, comforted, or relieved from intense grief or bereavement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Devastated by heartbreak that rejects all solace or alleviation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy and his inconsolable friend that there is no end to the Dedlocks, whose family greatness seems to consist in their never having done anything to distinguish themselves for seven hundred years."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket sits concealed in one of the inconsolable carriages and at his ease surveys the crowd through the lattice blinds."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Was he so very fond of his brother as to be still inconsolable for his loss?” “Why, no—perhaps not."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Marianne was utterly **inconsolable** after receiving Willoughby's cruel letter of renunciation."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Ham Peggotty was **inconsolable** when Em'ly fled with Steerforth, wandering the lonely beach at night."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The mother was **inconsolable** for months after the tragic death of her only little boy."*

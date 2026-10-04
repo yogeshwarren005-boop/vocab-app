@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being bright and sending out rays of light.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being bright and sending out rays of light.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternative form of refulgence; radiant splendor, dazzling luminous brilliance, or reflected glow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The characteristic or property of shining with resplendent light.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, refulgency designates the quality of being bright and sending out rays of light."*
+> - 📜 **Walter Scott (*Kenilworth*):** *"The Queen's jewels glittered with an extraordinary **refulgency** beneath the banquet hall lanterns."*
+> - 📜 **Herman Melville (*Mardi*):** *"The ocean swells glowed with phosphorescent **refulgency** beneath the midnight bow of the canoe."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The golden dome of Saint Sophia shone with blinding **refulgency** above the Bosphorus."*

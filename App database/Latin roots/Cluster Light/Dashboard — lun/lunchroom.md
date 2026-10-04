@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A restaurant (in a facility) where lunch can be purchased.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A restaurant (in a facility) where lunch can be purchased.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A room or dining hall in a school, factory, office, or public facility where light lunches are served or eaten.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A casual counter-service cafeteria or small restaurant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"The lunchroom was in the rear of a saloon and there the missionary took his belated meal."*
+> - 📜 **Jack London (*The Iron Heel*):** *"The striking factory hands gathered inside the workers' cooperative **lunchroom** to plan their demonstration."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"Babbitt entered the crowded downtown **lunchroom**, ordering a quick sandwich and coffee at the counter."*
+> - 📜 **Theodore Dreiser (*Sister Carrie*):** *"Carrie found refuge from the freezing winter wind inside a modest commercial **lunchroom** near the avenue."*

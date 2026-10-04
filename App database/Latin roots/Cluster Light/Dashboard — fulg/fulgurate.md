@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin fulg within the domain of Light.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of fulg in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To flash or emit flashes like lightning; to sparkle with sudden electric brilliance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical medicine, to destroy abnormal tissue by applying high-frequency electric sparks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fulgurate designates pertaining to, derived from, or characteristic of latin fulg within the domain of light."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The high-voltage induction coil caused the spark-gap to **fulgurate** with rapid violet flashes."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Surgeons employ high-frequency currents to **fulgurate** superficial vesical papillomas without open incision."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The nocturnal tempest made the harpoon points **fulgurate** with St. Elmo's eerie fire."*

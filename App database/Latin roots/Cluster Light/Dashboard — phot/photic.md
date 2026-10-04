@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or caused by light.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or caused by light.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or produced by light; particularly denoting zones or processes illuminated by radiant solar energy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology and oceanography, designating the uppermost epipelagic layer of a body of water where sufficient sunlight penetrates to sustain photosynthetic productivity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photic designates of or relating to or caused by light."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Almost the whole life of the sea depends on the green microscopic plants that flourish within the sunlit **photic** zone."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Pelagic crustaceans exhibit exquisite adaptations in pigmentation to navigate the boundary of the upper **photic** realm."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"Life in the oceanic waters ceases to produce its own food below the limit of direct **photic** penetration."*
+

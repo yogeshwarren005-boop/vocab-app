@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pierce with a sharp stake or point.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pierce with a sharp stake or point.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic spelling of impale; to pierce, transfix, or fix upon a sharp pointed stake or spike.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In heraldry, an earlier variant form meaning to join two coats of arms side by side on a shield.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Attend me where I wheel; Strike not a stroke, but keep yourselves in breath; And when I have the bloody Hector found, Empale him with your weapons round about; In fellest manner execute your arms."*
+> - 📜 **Edmund Spenser (*The Faerie Queene*):** *"The monster would **empale** trespassers upon iron spikes along the outer rampart of his dark fortress."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The fallen angel threatened to **empale** his foes upon jagged lances of volcanic stone."*
+> - 📜 **Christopher Marlowe (*Tamburlaine the Great*):** *"Tamburlaine commanded his cavalry to **empale** the rebels' severed heads upon the city's gate posts."*

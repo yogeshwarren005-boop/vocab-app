@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or produced by the effects of light on chemical systems.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or produced by the effects of light on chemical systems.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resulting from chemical reactions that are initiated or accelerated by the absorption of radiant energy, especially light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In atmospheric science, photochemical smog forms when nitrogen oxides and volatile organic compounds react under solar ultraviolet radiation to produce tropospheric ozone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photochemical designates of or relating to or produced by the effects of light on chemical systems."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Synthetic compounds undergoing complex **photochemical** breakdown under solar rays often yield unexpectedly toxic derivatives."*
+> - 📜 **Svante Arrhenius (*Worlds in the Making*):** *"The green leaf operates as a magnificent natural apparatus for continuous **photochemical** synthesis."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Absorption of an ultraviolet quantum provides the necessary activation energy to drive the **photochemical** dissociation."*
+

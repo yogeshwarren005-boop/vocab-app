@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A midday meal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take the midday meal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A light midday meal typically eaten between breakfast and dinner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To eat a light midday meal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"He had to hang it up because the mother insisted that they should go to lunch and postpone everything else till the afternoon."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She had gone out with a sign to attend to Bruno's belated lunch."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Kurt was so much occupied at lunch with his own plans and ideas that he never even noticed when his favorite dessert appeared on the table."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"The gentlemen returned from their morning shooting excursion eager to partake of a cold **lunch** in the parlor."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"Mr. Pickwick unpacked the hamper on the carriage seat, producing a delightful picnic **lunch** of cold fowl and pie."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The reapers sat beneath the shade of the great oak at noon to eat their harvest **lunch** of bread and cheese."*

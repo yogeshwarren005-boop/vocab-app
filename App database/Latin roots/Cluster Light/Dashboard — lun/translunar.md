@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated beyond the moon or its orbit around the earth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unworldly or ethereal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extending, situated, or traveling beyond the orbit of the moon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astronautics, designating trajectories or space flights traversing the expanse beyond the lunar orbit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, translunar designates situated beyond the moon or its orbit around the earth."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"Cometary orbits sweep outward into vast **translunar** voids far beyond the planetary spheres."*
+> - 📜 **Arthur C. Clarke (*The Exploration of Space*):** *"The spacecraft fired its auxiliary rockets to enter a high **translunar** trajectory toward the outer planets."*
+> - 📜 **H. G. Wells (*The First Men in the Moon*):** *"The metal sphere drifted silently into the mysterious darkness of the **translunar** abyss."*

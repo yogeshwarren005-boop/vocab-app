@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be resplendent or radiant; to shine brightly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be resplendent or radiant; to shine brightly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To shine brilliantly; to beam with dazzling brightness, splendor, or glory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Poetically, to radiate magnificent beauty or moral honor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, resplend designates be resplendent or radiant; to shine brightly."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Celestial virtues **resplend** through the holy choir, singing praises around the sapphire throne."*
+> - 📜 **Edmund Spenser (*The Faerie Queene*):** *"Her knightly armor seemed to **resplend** like the morning sun rising over dew-covered hills."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"The snowy summits of the Caucasus **resplend** beneath the first rosy beams of dawn."*

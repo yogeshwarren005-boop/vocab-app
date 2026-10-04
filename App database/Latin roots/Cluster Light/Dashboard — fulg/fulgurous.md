@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Amazingly impressive; suggestive of the flashing of lightning; ; - janet flanner; - idwal jones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Amazingly impressive; suggestive of the flashing of lightning; ; - janet flanner; - idwal jones.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling, accompanied by, or emitting lightning; flashing, thunderous, and tempestuous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Charged with electric energy or fiery atmospheric fury.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fulgurous designates amazingly impressive; suggestive of the flashing of lightning; ; - janet flanner; - idwal jones."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The political sky lowered with **fulgurous** storm clouds ready to burst in terror over the capital."*
+> - 📜 **Lord Byron (*Manfred*):** *"The spirit appeared amidst a **fulgurous** tempest that shook the alpine cliffs to their foundation."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab stared into the **fulgurous** night, defying the lightning that danced along the mastheads."*

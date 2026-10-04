@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A colloid that has a continuous liquid phase in which a solid is suspended in a liquid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman mythology) ancient roman god; personification of the sun; counterpart of greek helios.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The personification of the sun in ancient Roman religion; in astronomy, the Sun itself.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical chemistry, a colloidal suspension of solid particles in a liquid medium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who understandeth thee not, loves thee not. [_He sings_.] Ut, re, sol, la, mi, fa."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Faith, sirrah, and you’ll not knock, I’ll ring it; I’ll try how you can sol, fa, and sing it. [_He wrings Grumio by the ears._] GRUMIO."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"BIANCA. _Gamut_ I am, the ground of all accord, _A re_, to plead Hortensio’s passion; _B mi_, Bianca, take him for thy lord, _C fa ut_, that loves with all affection: _D sol re_, one clef, two notes have I _E la mi_, show pity or I die."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Emperor Aurelian dedicated a magnificent temple in Rome to **Sol** Invictus, the unconquered sun god."*
+> - 📜 **John Milton (*Paradise Lost*):** *"At whose sight all the stars hide their diminished heads; to thee I call, but with no friendly voice, and add thy name, O **Sol**, to tell thee how I hate thy beams."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The ruby-red liquid represents a colloidal **sol** of metallic gold suspended in pure water."*

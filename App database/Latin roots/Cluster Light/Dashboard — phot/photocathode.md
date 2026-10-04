@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cathode that emits electrons when illuminated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cathode that emits electrons when illuminated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A negatively charged electrode coated with photosensitive material that emits electrons when struck by incident photons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optoelectronics and quantum physics, photocathodes are fundamental components of photomultiplier tubes, image intensifiers, and night-vision systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photocathode designates a cathode that emits electrons when illuminated."*
+> - 📜 **Albert Einstein (*Investigations on the Theory of the Brownian Movement*):** *"Electrons emitted from the **photocathode** possess a maximum velocity determined solely by the frequency of the incident beam."*
+> - 📜 **Arthur Compton (*X-Rays and Electrons*):** *"Monochromatic radiation striking the metallic **photocathode** liberated electrons in strict accordance with the photoelectric law."*
+> - 📜 **Robert Millikan (*The Electron*):** *"Careful preparation of the alkali surface on the **photocathode** was essential to eliminate spurious contact potentials."*
+

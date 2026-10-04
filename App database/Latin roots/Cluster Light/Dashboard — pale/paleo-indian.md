@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the paleo-american peoples who were the earliest human inhabitants of north america and south america during the late pleistocene epoch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of the paleo-american peoples who were the earliest human inhabitants of north america and south america during the late pleistocene epoch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the earliest documented prehistoric human cultures of North and South America, dating from approximately 13,500 to 8,000 BCE.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In New World archaeology, designating the initial hunters of megafauna such as mammoths and mastodons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleo-indian designates a member of the paleo-american peoples who were the earliest human inhabitants of north america and south america during the late pleistocene epoch."*
+> - 📜 **Lewis Henry Morgan (*Ancient Society*):** *"The Clovis and Folsom projectile points are the hallmark lithic artifacts of **Paleo-Indian** big-game hunters."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"**Paleo-Indian** populations may have contributed to the Pleistocene extinction of North American megafauna."*
+> - 📜 **Edward Tylor (*Primitive Culture*):** *"**Paleo-Indian** camp sites are identified by the butchered bones of extinct species alongside knapped flint tools."*

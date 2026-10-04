@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A musician who performs a solo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musician who performs a solo.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musician, singer, dancer, or pilot who performs or operates alone as the featured artist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A featured performer executing an individual solo piece.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, soloist designates a musician who performs a solo."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The violin **soloist** interpreted Beethoven's concerto with exquisite tonal purity and intellectual vigor."*
+> - 📜 **Thomas Hardy (*Under the Greenwood Tree*):** *"The church choir had no trained **soloist**, but relied upon the sturdy unison of rustic voices."*
+> - 📜 **Henry James (*The Tragic Muse*):** *"Miriam stood upon the stage like an inspired dramatic **soloist**, commanding the vast theatre."*

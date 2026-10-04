@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A wooden strip forming part of a fence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Turn pale, as if in fear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking intensity of color; light, faint, or wan in complexion due to illness, fear, or poor health.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pointed wooden stake forming part of a fence; or a bounded area within a particular jurisdiction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What was’t That moved pale Cassius to conspire?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I speak but brotherly of him, but should I anatomize him to thee as he is, I must blush and weep, and thou must look pale and wonder."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For, by this heaven, now at our sorrows pale, Say what thou canst, I’ll go along with thee."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"How is't, my noble lord? What is't that would make you **pale**d and trembling so, my lord?"*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Jane Eyre grew **pale** and rigid when she heard Bertha Mason's wild laughter from the locked attic."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Tess turned **pale** as marble when she read the terrible note slipped beneath the door."*

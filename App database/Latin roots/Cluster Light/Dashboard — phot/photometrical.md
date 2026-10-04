@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to photometry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to photometry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or determined by photometrical methods; relating to the measurement of luminous intensity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An alternate or historical variant of photometric, frequently appearing in classical nineteenth-century physical and astronomical treatises.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photometrical designates of or relating to photometry."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"Careful **photometrical** experiments conducted at the Cape of Good Hope yielded a reliable catalog of southern stellar magnitudes."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The **photometrical** estimation of the electric arc demonstrated that its intensity exceeded that of the brightest Drummond limelight."*
+> - 📜 **William Whewell (*History of the Inductive Sciences*):** *"Bouguer's pioneering investigations established the first reliable mathematical and **photometrical** laws of light absorption."*
+

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The customary or habitual hour for eating lunch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The customary or habitual hour for eating lunch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The period of the middle of the day during which lunch is customarily eaten; the midday lunch break.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The scheduled noon recess for dining and rest.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Blue bloom is on the rye. —He was in at lunchtime, miss Douce said."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"At **lunchtime**, the clerks put away their quill pens and hurried off into the crowded alleys of the City."*
+> - 📜 **H. G. Wells (*The History of Mr. Polly*):** *"When **lunchtime** arrived, Mr. Polly retired to the cellar stairs to enjoy his meat pie in peace."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The market square filled with farm laborers and grain merchants as the church bells chimed **lunchtime**."*

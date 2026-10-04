@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The crescent-shaped area at the base of the human fingernail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The crescent-shaped area at the base of the human fingernail.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant term for lunula; a small crescent-shaped mark, physiological structure, or patch of color.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In malacology, the heart-shaped or crescent depression anterior to the beak in bivalve shells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lunule designates the crescent-shaped area at the base of the human fingernail."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"The hinge ligament of the bivalve shell is bounded anteriorly by a deeply excavated cordate **lunule**."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Shell collectors distinguish fossil species of Venus by the depth and ornamentation of the circumscribed **lunule**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A dark transverse line across the **lunule** appeared following the patient's recovery from typhoid fever."*

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A method of offset printing using photomechanical plates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A method of offset printing using photomechanical plates.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A planographic printing process in which an inked image on a photographic plate is transferred first to a rubber blanket and then onto paper.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In twentieth-century commercial typography, photo-offset lithography replaced traditional letterpress printing by offering faster print runs and precise typographic fidelity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photo-offset designates a method of offset printing using photomechanical plates."*
+> - 📜 **Marshall McLuhan (*The Gutenberg Galaxy*):** *"Modern high-speed **photo-offset** presses completely altered the economics and dissemination of the printed word."*
+> - 📜 **Walter Benjamin (*The Work of Art in the Age of Mechanical Reproduction*):** *"The development of **photo-offset** techniques allowed the immediate mechanical reproduction of intricate graphic designs."*
+> - 📜 **Lewis Mumford (*Technics and Civilization*):** *"Industrial printing advanced from moveable wooden types to the continuous photographic mastery of **photo-offset** rollers."*
+

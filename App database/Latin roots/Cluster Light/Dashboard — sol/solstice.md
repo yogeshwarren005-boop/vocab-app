@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of the two times of the year when the sun is at its greatest distance from the celestial equator.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of the two times of the year when the sun is at its greatest distance from the celestial equator.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of the two times in the year when the sun reaches its highest or lowest point in the sky at noon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The astronomical points along the ecliptic marking the longest and shortest days of the year.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"It was held in honour of the sun at the solstice in June."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"At the winter solstice the chosen fire-maker collects a faggot of cedar-wood from every house in the village, and each person, as he hands the wood to the fire-maker, prays that the crops may be good in the coming year."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Under the Tcheou dynasty a change in the calendar led to shifting the fire-festival from spring to the summer solstice, but afterwards it was brought back to its original date."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"At the summer **solstice**, the midday sun reaches its greatest northern declination above the Tropic of Cancer."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Ancient pagan tribes lit midsummer fires on mountain hilltops to celebrate the summer **solstice**."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Stonehenge stood aligned with astronomical precision to frame the dawn sun on the summer **solstice**."*

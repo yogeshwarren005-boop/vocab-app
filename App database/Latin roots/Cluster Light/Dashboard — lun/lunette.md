@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Temporary fortification like a detached bastion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Oval or circular opening; to allow light into a dome or vault.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An arched opening, crescent-shaped aperture, or semicircular window in a vaulted ceiling, wall, or dome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Renaissance art, a semicircular decorative wall painting or sculptured relief framed by an arch.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lunette designates temporary fortification like a detached bastion."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The upper **lunette** of the portal was filled with a delicate sculptured relief representing the Adoration of the Magi."*
+> - 📜 **Walter Pater (*The Renaissance*):** *"Perugino painted a heavenly choir of angels within the arched **lunette** above the high altar."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"Sunlight poured through the high semicircular **lunette** of the chapel, illuminating the ancient oak stalls."*

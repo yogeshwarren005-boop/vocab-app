@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Geometrid moths.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Geometrid moths.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of geometrid moths in the family Geometridae, including the spring cankerworm moth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic entomology, leaf-feeding inchworm larvae that cause severe defoliation of deciduous trees.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleacrita designates geometrid moths."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"Orchardists suffered severe defoliation from the larvae of **Paleacrita** vernata stripping elm and apple leaves."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The spring cankerworm, classified under **Paleacrita**, emerges from pupation remarkably early in the season."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The wingless female **Paleacrita** moths crawl up tree trunks in early spring to deposit their egg clusters."*

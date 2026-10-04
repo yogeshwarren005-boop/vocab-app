@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to photometry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to photometry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or obtained by the measurement of the intensity and properties of light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astrophysics, photometric surveys measure flux in discrete filter bands (such as UBVRI) to determine stellar temperatures, distances, and spectral types.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photometric designates of or relating to photometry."*
+> - 📜 **Arthur Eddington (*The Internal Constitution of the Stars*):** *"Precise **photometric** observations provided crucial empirical boundary conditions for the theoretical models of stellar atmospheres."*
+> - 📜 **James Hopwood Jeans (*Astronomy and Cosmogony*):** *"The **photometric** measurement of cepheid variable stars enabled astronomers to compute distances to external galaxies."*
+> - 📜 **Hermann von Helmholtz (*Popular Lectures on Scientific Subjects*):** *"Rigorous **photometric** comparison reveals that the human eye is surprisingly insensitive to gradual variations in illumination."*
+

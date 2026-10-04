@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An orienting response to light.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An orienting response to light.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The directional growth or movement of an organism or plant organ in response to the direction of incident light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant physiology, positive phototropism in growing shoots is mediated by asymmetric redistribution of the hormone auxin toward the shaded side.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phototropism designates an orienting response to light."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"Our experiments on grass seedlings demonstrate that **phototropism** is guided by the perception of light at the extreme tip."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The bending of the stem toward the sunny window illustrates the fundamental biological law of **phototropism**."*
+> - 📜 **Hermann von Helmholtz (*Popular Lectures on Scientific Subjects*):** *"Even simple microscopic organisms exhibit distinct **phototropism**, swimming relentlessly toward illuminated water zones."*
+

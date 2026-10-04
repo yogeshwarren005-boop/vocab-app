@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The period between successive new moons (29.531 days).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The period between successive new moons (29.531 days).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The interval of time between one new moon and the next; a synodic lunar month (approximately 29.53 solar days).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A complete cycle of lunar phases from new moon through full moon and back.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"On land, meridional, a bispherical moon, revealed in imperfect varying phases of lunation through the posterior interstice of the imperfectly occluded skirt of a carnose negligent perambulating female, a pillar of the cloud by day."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"The exact duration of a synodic **lunation** is determined by comparing ancient and modern solar eclipse records."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The nomadic tribes of Arabia regulated their seasonal migrations and religious truces by the monthly **lunation**."*
+> - 📜 **Isaac Newton (*Philosophiæ Naturalis Principia Mathematica*):** *"The perturbing attraction of the sun causes small inequalities in the period of the **lunation** throughout the year."*

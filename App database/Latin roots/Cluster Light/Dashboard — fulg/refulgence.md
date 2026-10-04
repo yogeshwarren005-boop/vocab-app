@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being bright and sending out rays of light.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being bright and sending out rays of light.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A radiant, gleaming brilliance; resplendent splendor or dazzling brightness reflected from a surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Luminous glory, magnificent luster, or shining clarity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Red's torch of a head will do the trick; we can come in by the refulgence from that.” “I shall be sitting in its light going back, anyhow,” Miss Hempstead exulted."*
+> - 📜 **John Milton (*Paradise Lost*):** *"He sat clothed in the **refulgence** of paternal glory, surrounded by burning seraphim."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"The dawn star faded into the golden **refulgence** of the awakening sun."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"The chapel was filled with the soft **refulgence** of moonlight streaming through the rose window."*

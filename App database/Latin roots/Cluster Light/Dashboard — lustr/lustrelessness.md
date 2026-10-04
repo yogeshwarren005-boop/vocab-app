@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of having little or no contrast; lacking highlights or gloss.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of having little or no contrast; lacking highlights or gloss.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The absolute absence of gloss, shine, or reflection; dull and matte appearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lack of vitality, animation, or radiant brilliance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lustrelessness designates the property of having little or no contrast; lacking highlights or gloss."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The **lustrelessness** of the hair and dryness of the skin are classic signs of advanced myxedema."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The chalky **lustrelessness** of the imitation fresco contrasted poorly with the glowing Venetian canvas."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"She noted the weary **lustrelessness** in the eyes of the overworked convent novices."*

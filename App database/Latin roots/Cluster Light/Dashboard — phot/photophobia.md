@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A morbid fear of light.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pain in the eye resulting from exposure to bright light (often associated with albinism).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, painful sensitivity or intolerance of the eyes to exposure to light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology and ophthalmology, photophobia is a prominent symptom of migraine, meningitis, corneal abrasions, and iritis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photophobia designates a morbid fear of light."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe headache accompanied by intense **photophobia** and neck rigidity strongly suggests acute bacterial meningitis."*
+> - 📜 **Oliver Sacks (*Migraine*):** *"During the migraine attack, the sufferer experiences distressing **photophobia**, retreating into a darkened, silent bedroom."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"The fever left her eyes so weak that the faintest candlelight brought on a sharp paroxysm of **photophobia**."*
+

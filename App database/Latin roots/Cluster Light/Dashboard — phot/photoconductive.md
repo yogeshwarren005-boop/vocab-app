@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to photoconductivity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to photoconductivity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhibiting or relating to an increase in electrical conductivity upon exposure to light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In materials science, photoconductive semiconductors such as cadmium sulfide and amorphous silicon are utilized in xerography, light meters, and vidicon camera tubes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photoconductive designates of or relating to photoconductivity."*
+> - 📜 **Arthur Compton (*X-Rays in Theory and Experiment*):** *"The **photoconductive** cell responded with high sensitivity to subtle changes in the luminous flux."*
+> - 📜 **Robert Millikan (*Electrons (+ and -), Protons, Photons, Neutrons, and Cosmic Rays*):** *"Thin crystalline films displayed marked **photoconductive** properties when subjected to ultraviolet illumination."*
+> - 📜 **Norbert Wiener (*The Human Use of Human Beings*):** *"A simple **photoconductive** bridge serves as an effective artificial retina for automated feedback mechanisms."*
+

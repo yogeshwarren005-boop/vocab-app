@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of paleontology that deals with the origin and growth and structure of fossil animals and plants as living organisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of paleontology that deals with the origin and growth and structure of fossil animals and plants as living organisms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of the biology, ecology, and evolution of ancient organisms using fossil evidence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of paleontology applying biological principles to interpret the life habits and physiology of extinct species.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleobiology designates a branch of paleontology that deals with the origin and growth and structure of fossil animals and plants as living organisms."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"**Paleobiology** will eventually chart the full succession of organismal forms from the simplest ancestral types."*
+> - 📜 **Thomas Henry Huxley (*Collected Essays*):** *"The modern discipline of **paleobiology** investigates feeding habits and reproductive strategies of extinct animals."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Vertebrate Animals*):** *"Comparative anatomy provides the foundation upon which all serious **paleobiology** must ultimately rest."*

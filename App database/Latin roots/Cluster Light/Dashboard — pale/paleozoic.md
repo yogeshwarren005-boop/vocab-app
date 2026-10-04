@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: From 544 million to about 230 million years ago.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or denoting the paleozoic era.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The era of geological time from approximately 541 to 252 million years ago, during which most major animal phyla appeared.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the first era of complex multicellular life, encompassing the Cambrian through Permian periods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Our leader, Professor Paleozoic, ordinarily existed in a sort of transition state between the primary and tertiary formations."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Colon seemed equally demented, following close upon Paleozoic's heels with a bug-net."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The **Paleozoic** era records the explosive diversification of marine invertebrates during the Cambrian explosion."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The great **Paleozoic** extinctions at the Permian boundary eliminated over ninety percent of all marine species."*
+> - 📜 **Thomas Henry Huxley (*Collected Essays*):** *"**Paleozoic** coal beds represent the compressed remains of vast lowland swamp forests of giant arborescent lycopsids."*

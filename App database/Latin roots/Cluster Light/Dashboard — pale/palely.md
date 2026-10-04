@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner lacking interest or vitality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a pale manner; without physical or emotional color.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a pale, wan, or faint manner; with pallid or blanched coloration or a weak, colorless aspect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without vivid color, bright radiance, or strong visual effect; feebly or colorlessly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The fire glows brightly on the panelled wall and palely on the window-glass, where, through the cold reflection of the blaze, the colder landscape shudders in the wind and a grey mist creeps along, the only traveller besides the waste of clouds."*
-> - 📜 **James Joyce (*Ulysses*):** *"O’Molloy, smiling palely, took up the gage. —My dear Myles, he said, flinging his cigarette aside, you put a false construction on my words."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Amelia took the news very palely and calmly."*
+> - 📜 **John Keats (*La Belle Dame sans Merci*):** *"I met a lady in the meads, full beautiful, a faery's child; her hair was long, her foot was light, and her eyes were wild; and I saw **palely** loitering spirits on the cold hillside."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"A thin winter sun shone **palely** through the frozen mist above the silent waste of Egdon Heath."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"The gas-lamps burned **palely** in the fog as Lucy hurried through the deserted foreign streets."*

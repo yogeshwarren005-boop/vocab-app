@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of fossil plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of fossil plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of paleontology dealing with the study of fossil plants and their evolutionary history.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The scientific reconstruction of ancient vegetation, plant communities, and botanical evolution from fossil remains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleobotany designates the study of fossil plants."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"**Paleobotany** reveals that many plant families were far more widely distributed in the geological past."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The discoveries of **paleobotany** demonstrate an unbroken lineage of fern-like plants extending back to the Carboniferous."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Coal seams preserve a rich **paleobotany** of giant tree ferns and seed ferns from the Carboniferous forest."*

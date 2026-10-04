@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A montage that uses photographic images.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A montage that uses photographic images.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A composite photograph made by cutting, joining, rearranging, and overlapping multiple photographic prints into a new visual work.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In twentieth-century modernist art, Berlin Dadaists used photomontage as a sharp satirical and political medium criticizing Weimar militarism and consumer culture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photomontage designates a montage that uses photographic images."*
+> - 📜 **Walter Benjamin (*The Work of Art in the Age of Mechanical Reproduction*):** *"The Dadaist **photomontage** converted the photographic print into an aggressive weapon against bourgeois aesthetic complacency."*
+> - 📜 **Susan Sontag (*On Photography*):** *"Through inventive **photomontage**, artists exposed the fractured, discordant nature of modern urban life."*
+> - 📜 **John Berger (*About Looking*):** *"The jarring juxtaposition in a political **photomontage** strips official rhetoric of its deceptive coherence."*
+

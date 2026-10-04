@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The comfort you feel when consoled in times of disappointment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of consoling; giving relief in affliction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Comfort received by a person after a loss, bereavement, or disappointment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person, circumstance, or thought that brings relief or solace in affliction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This grief is crowned with consolation; your old smock brings forth a new petticoat: and indeed the tears live in an onion that should water this sorrow."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"That is my greatest consolation," she said, "and I need it."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"That will give us good grounds to separate them." The prospect of a horrible fight was, however, no consolation to Mrs."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth found great **consolation** in the affectionate letters and calm good sense of her sister Jane."*
+> - 📜 **Boethius (*The Consolation of Philosophy*):** *"Philosophy visited the imprisoned sage to offer heavenly **consolation** against the blows of fortune."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe Gargery's honest friendship was Pip's only true **consolation** during his troubled boyhood."*

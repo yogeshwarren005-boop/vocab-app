@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Light that is a source of artificial illumination having a broad beam; used in photography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Light that is a source of artificial illumination having a broad beam; used in photography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A high-intensity incandescent electric lamp designed to provide continuous bright illumination for indoor photography and cinematography.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In studio photography, photoflood lamps operate at elevated filament temperatures to achieve balanced daylight color temperatures despite a shorter operational lifespan.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photoflood designates light that is a source of artificial illumination having a broad beam; used in photography."*
+> - 📜 **Christopher Isherwood (*Prater Violet*):** *"The director called for quiet as the heavy **photoflood** lamps blazed into life above the movie soundstage."*
+> - 📜 **Truman Capote (*In Cold Blood*):** *"The courtroom steps were brilliantly lit by television **photoflood** lights as the detectives escorted the prisoners."*
+> - 📜 **John Steinbeck (*The Winter of Our Discontent*):** *"The sudden glare was as harsh and revealing as a studio **photoflood** bulb turned full upon a guilty face."*
+

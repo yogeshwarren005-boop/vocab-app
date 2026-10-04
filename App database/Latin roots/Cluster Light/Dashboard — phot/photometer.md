@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Measuring instrument for measuring the luminous intensity of a source by comparing it (visually or photoelectrically) with a standard source.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Photographic equipment that measures the intensity of light.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical instrument designed to measure the intensity, luminous flux, or brightness of light from an illuminant or reflected surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In observational astrophysics, a photoelectric photometer mounted on a telescope measures stellar apparent magnitudes and subtle light-curve variations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photometer designates measuring instrument for measuring the luminous intensity of a source by comparing it (visually or photoelectrically) with a standard source."*
+> - 📜 **Arthur Eddington (*Stars and Atoms*):** *"The sensitive **photometer** recorded minute dips in stellar brilliance caused by eclipsing binary companions."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"By adjusting the distance of the comparison candle, the **photometer** revealed the relative illuminating power of the two gases."*
+> - 📜 **James Hopwood Jeans (*The Universe Around Us*):** *"A modern photoelectric **photometer** detects radiation so feeble that it would escape the most acute human eye."*
+

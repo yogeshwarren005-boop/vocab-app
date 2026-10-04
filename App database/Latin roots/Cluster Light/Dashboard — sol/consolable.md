@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to be consoled.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to be consoled.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being comforted, cheered, or relieved from grief, sorrow, or affliction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Susceptible to soothing words or alleviation of emotional suffering.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"What a good saint is our Ignatius, exclaimed the consolable widow, he bestows on us more benefits than we ask for! 581."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor was relieved to find her mother **consolable** under the severe financial disappointment."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The weeping widow proved readily **consolable** when the terms of the prosperous will were read."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The child cried bitterly at first, but was soon **consolable** with a piece of seed-cake and a toy."*

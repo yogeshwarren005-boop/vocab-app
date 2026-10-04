@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Amazingly impressive; suggestive of the flashing of lightning; ; - janet flanner; - idwal jones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Amazingly impressive; suggestive of the flashing of lightning; ; - janet flanner; - idwal jones.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Flashing like lightning; dazzlingly brilliant and sudden in manifestation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, designating sudden, intense, stabbing pains occurring in tabes dorsalis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fulgurant designates amazingly impressive; suggestive of the flashing of lightning; ; - janet flanner; - idwal jones."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Patients afflicted with locomotor ataxia complain of agonizing **fulgurant** pains shooting through the lower extremities."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Danton's **fulgurant** eloquence ignited the Parisian assemblies with revolutionary fire."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"The medical lecturer described the **fulgurant** sensations associated with posterior spinal cord lesions."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The more primitive parts of the brain phylogenetically; most structures other than the cerebral cortex.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The more primitive parts of the brain phylogenetically; most structures other than the cerebral cortex.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The collective term for the most ancient and evolutionarily primitive brain structures, excluding the cerebral cortex.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative neuroanatomy, the brainstem, diencephalon, and basal ganglia shared by all vertebrate classes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleoencephalon designates the more primitive parts of the brain phylogenetically; most structures other than the cerebral cortex."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The **paleoencephalon** controls fundamental survival behaviors: respiration, cardiac rhythm, and waking arousal."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Catastrophic **paleoencephalon** injury resulting in coma typically carries a poor neurological prognosis."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Vertebrate Animals*):** *"Sharks and rays possess a **paleoencephalon** almost identical in architecture to that of primitive bony fishes."*

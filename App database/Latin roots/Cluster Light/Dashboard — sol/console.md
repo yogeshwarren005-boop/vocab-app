@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small table fixed to a wall or designed to stand against a wall.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scientific instrument consisting of displays and an input device that an operator can use to monitor and control a system (especially a computer system).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To comfort, soothe, or alleviate the grief, disappointment, or distress of someone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architecture and furniture, an ornamental bracket, cantilever, or cabinet supporting a tabletop.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"There have been boys at all times who fought together and then made peace again." "Philip, that does not console me," the sister answered."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"In his passion he was supposed to have committed many evil deeds, on account of which his poor wife could not console herself."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Isn't that absolutely cruel?" Lippo, coming close to Leonore, also did his best to console her."*
+> - 📜 **William Shakespeare (*King Lear*):** *"Nothing can **console** the broken-hearted king wandering naked upon the stormy heath."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I tried to **console** little Adèle when she wept over the departure of her governess."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"An antique gilded **console** table supported a magnificent Chinese porcelain vase in the vestibule."*

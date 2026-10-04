@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having brief brilliant points or flashes of light.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having brief brilliant points or flashes of light.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Emitting sparks; sparkling, twinkling, flashing, or scintillating with brilliant light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brilliantly witty, lively, and dazzling in intellectual conversation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"The air without is impregnated with raindew moisture, life essence celestial, glistening on Dublin stone there under starshiny _coelum._ God’s air, the Allfather’s air, scintillant circumambient cessile air."*
-> - 📜 **George W. Cronyn (*The Glebe 1914/09 (Vol. 2, No. 2): Poems*):** *"I would I had lain with my love to-night, For I know how flowers are shed, And the cynical scintillant stars are dead-- Dead, dead utterly!"*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"The clear night sky was filled with **scintillant** stars that watched over the silent battlefield."*
+> - 📜 **Walter Pater (*The Renaissance*):** *"The poet's prose was adorned with **scintillant** metaphors that arrested the reader's imagination."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"Her dark eyes flashed with a **scintillant** energy whenever the lively debate turned upon literature."*

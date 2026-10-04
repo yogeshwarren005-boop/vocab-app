@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or associated with the moon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or associated with the moon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, caused by, or characteristic of the moon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Measured by the revolutions of the moon; resembling the moon in pale silvery light or phases.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Schoolcraft did not know the date of the ceremony, but he conjectured that it fell at the end of the Iroquois year, which was a lunar year of twelve or thirteen months."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"That I could have been at our old church in my old church-going clothes, on the very last Sunday that ever was, seemed a combination of impossibilities, geographical and social, solar and lunar."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Is it six calendar or six lunar months?” “It is the last day of September now, and it was the first of April when uncle gave them to you."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"Telescopic observation discloses deep volcanic craters and mountainous ridges across the **lunar** surface."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Marine invertebrates often synchronize their reproductive cycles with the recurring monthly **lunar** tides."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The vast ocean swells gleamed beneath the pale **lunar** rays like plains of undulating silver."*

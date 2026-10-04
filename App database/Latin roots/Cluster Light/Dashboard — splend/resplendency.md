@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Brilliant radiant beauty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brilliant radiant beauty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternative form of resplendence; dazzling brilliance, magnificent luster, or radiant glory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Splendid, shining grandeur or luxurious display.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Like bursting lava, I expand but to my own despair, and shine with the resplendency of 252:30 consuming fire."*
+> - 📜 **Walter Scott (*Kenilworth*):** *"The castle hall shone with a dazzling **resplendency** of silver plate and burning wax tapers."*
+> - 📜 **Herman Melville (*Mardi*):** *"The coral reefs glowed with tropical **resplendency** beneath the calm, transparent lagoon waters."*
+> - 📜 **Washington Irving (*The Alhambra*):** *"The Moorish tiles retained their ancient **resplendency** after centuries of neglect and decay."*

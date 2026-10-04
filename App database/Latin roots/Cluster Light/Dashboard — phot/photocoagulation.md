@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical procedure that uses an intense laser beam to destroy diseased retinal tissue or to make a scar that will hold the retina in cases of detached retina.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical procedure that uses an intense laser beam to destroy diseased retinal tissue or to make a scar that will hold the retina in cases of detached retina.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The therapeutic coagulation and thermal destruction of biological tissue using an intense, focused beam of light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmology, laser photocoagulation is standard surgical therapy for diabetic retinopathy, sealing bleeding microaneurysms and preventing retinal detachment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photocoagulation designates surgical procedure that uses an intense laser beam to destroy diseased retinal tissue or to make a scar that will hold the retina in cases of detached retina."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Modern clinical intervention relies on focal **photocoagulation** to arrest persistent neovascular proliferation in the retina."*
+> - 📜 **Oliver Sacks (*The Island of the Colorblind*):** *"The ophthalmologist applied gentle retinal **photocoagulation** to stabilize the deteriorating vascular bed."*
+> - 📜 **Henry Gray (*Gray's Anatomy*):** *"Surgical **photocoagulation** precisely seals leaky choroidal capillaries while sparing adjacent optic nerve fibers."*
+

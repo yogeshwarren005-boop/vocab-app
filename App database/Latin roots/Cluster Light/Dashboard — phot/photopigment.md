@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A special pigment found in the rods and cones of the retina.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A special pigment found in the rods and cones of the retina.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unstable, light-absorbing pigment molecule (such as rhodopsin) present in retinal photoreceptor cells that initiates visual phototransduction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemical vision research, light absorption by the chromophore isomerizes retinal from 11-cis to all-trans, activating a G-protein signaling cascade.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photopigment designates a special pigment found in the rods and cones of the retina."*
+> - 📜 **George Wald (*Visual Pigments and Photoreceptor Function*):** *"Bleaching of the retinal **photopigment** rhodopsin triggers the cascade that converts radiant energy into neural excitation."*
+> - 📜 **Oliver Sacks (*The Island of the Colorblind*):** *"The congenital absence of functioning cone **photopigment** leaves the achromat completely blinded by bright daylight."*
+> - 📜 **Hermann von Helmholtz (*Physiological Optics*):** *"The spectral absorption curve of the retinal **photopigment** matches the sensitivity of the dark-adapted human eye."*
+

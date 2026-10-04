@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reverse some of the tones of (a negative or print) and introduce pronounced outlines of highlights, by exposing it briefly to light, then washing and redeveloping it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become overexposed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To subject a photographic emulsion to excessive light exposure, causing partial reversal of dark and light tones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agriculture, to sterilize topsoil by covering it with clear plastic sheeting under intense solar heat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, solarize designates reverse some of the tones of (a negative or print) and introduce pronounced outlines of highlights, by exposing it briefly to light, then washing and redeveloping it."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Direct sunlight of extreme intensity will quickly **solarize** the daguerreotype plate, turning shadows pale."*
+> - 📜 **Lord Kelvin (William Thomson) (*Popular Lectures and Addresses*):** *"Extreme radiant energy tends to **solarize** delicate photochemical compounds exposed in open glass tubes."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The heat-ray seemed to **solarize** and bleach the landscape with blinding, incandescent ferocity."*

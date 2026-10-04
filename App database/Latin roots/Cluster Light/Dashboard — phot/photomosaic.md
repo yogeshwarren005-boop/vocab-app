@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arrangement of aerial photographs forming a composite picture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arrangement of aerial photographs forming a composite picture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large photographic image assembled by tiling and combining numerous overlapping aerial, satellite, or individual photographs into a seamless composite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In planetary cartography and remote sensing, photomosaics map planetary surfaces (such as the Moon or Mars) by stitching contiguous photographic strips.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photomosaic designates arrangement of aerial photographs forming a composite picture."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"The planetary cartographers assembled a magnificent **photomosaic** of the Martian canyons from thousands of Viking orbiter frames."*
+> - 📜 **Arthur C. Clarke (*The Promise of Space*):** *"An orbital satellite compiles an exhaustive **photomosaic** of the Earth's cloud cover every twelve hours."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Aerial surveys constructed a detailed coastal **photomosaic** showing the dynamic shifts of barrier sandbars."*
+

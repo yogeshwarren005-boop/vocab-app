@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In solitude.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In solitude.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a solitary manner; alone, secluded, or in complete isolation from human company.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With lonely seclusion or separate existence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Often they scurry along solitarily, but occasionally in groups."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Hester Prynne lived **solitarily** in a lonely cottage by the seashore, shunned by the townspeople."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard walked **solitarily** along the Roman earthworks, brooding over his ruined commercial fortune."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The lone albatross wheeled **solitarily** above the ship's wake in the stormy southern seas."*

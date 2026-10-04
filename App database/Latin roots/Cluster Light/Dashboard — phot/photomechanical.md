@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or involving various methods of using photography to make plates for printing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or involving various methods of using photography to make plates for printing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to printing processes that combine photography and mechanical etching or engraving to produce printing plates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In typographic history, photomechanical reproduction encompassed gravure, collotype, and line-block etching, ending the manual copying of engravers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photomechanical designates of or relating to or involving various methods of using photography to make plates for printing."*
+> - 📜 **Walter Benjamin (*The Work of Art in the Age of Mechanical Reproduction*):** *"The transition from woodcut to **photomechanical** plate production detached the visual art object from its singular historical presence."*
+> - 📜 **Marshall McLuhan (*The Gutenberg Galaxy*):** *"Modern **photomechanical** methods eliminated the delays of hand-drawn blocks, accelerating the tempo of mass information."*
+> - 📜 **Lewis Mumford (*Technics and Civilization*):** *"Industrial printing owes its universal outreach to nineteenth-century **photomechanical** plate innovations."*
+

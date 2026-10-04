@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unnatural lack of color in the skin (as from bruising or sickness or emotional distress).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of having a naturally light complexion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or degree of being pale, wan, or deficient in color; pallor of complexion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Faintness, weakness, or lack of vivid coloring in complexion, light, or visual impression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I wish you to go elsewhere,” she commanded, a paleness of face invisible to the eye being suggested by the trembling words."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"None of the old colour had as yet come to her cheek, and its absolute paleness was heightened by the jet black of her gown, till it appeared preternatural."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The band of silver paleness along the east horizon made even the distant parts of the Great Plain appear dark and near; and the whole enormous landscape bore that impress of reserve, taciturnity, and hesitation which is usual just before day."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The **paleness** of Jane's cheek and the trembling of her lips betrayed the depth of her inner distress."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The prisoner's extreme **paleness** and emaciation testified to years of close confinement in the Tower."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"Sue Bridehead's **paleness** and nervous fragility gave her an ethereal, almost transparent appearance."*

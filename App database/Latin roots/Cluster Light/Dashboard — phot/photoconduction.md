@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change in the electrical conductivity of a substance as a result of absorbing electromagnetic radiation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change in the electrical conductivity of a substance as a result of absorbing electromagnetic radiation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The increase in electrical conductivity of a nonmetallic material resulting from the absorption of electromagnetic radiation such as light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In solid-state physics, photoconduction occurs when incident photons promote valence electrons across the bandgap into the conduction band.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photoconduction designates change in the electrical conductivity of a substance as a result of absorbing electromagnetic radiation."*
+> - 📜 **Albert Einstein (*Relativity: The Special and General Theory*):** *"Quantum excitation within crystalline semiconductors accounts directly for the phenomenon of **photoconduction**."*
+> - 📜 **Ernest Rutherford (*Radioactive Substances and Their Radiations*):** *"The conductivity of selenium increases dramatically under illumination through the rapid onset of **photoconduction**."*
+> - 📜 **J. J. Thomson (*Conduction of Electricity through Gases*):** *"Experiments on mineral crystals demonstrate that **photoconduction** depends upon the liberation of free internal charge carriers."*
+

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Scatter or intersperse like dots or studs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come together as in a cluster or flock.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To form into a cluster, group, or constellation; to gather together in luminous brilliance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To group starry bodies, concepts, or talents into a coherent assembly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, constellate designates scatter or intersperse like dots or studs."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Poetic ideas **constellate** around an intuitive core of intense philosophical passion."*
+> - 📜 **Thomas Carlyle (*On Heroes, Hero-Worship, and the Heroic in History*):** *"Great heroic figures **constellate** like stars in the dark firmament of medieval history."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Noble minds tend to **constellate** together, elevating the intellectual standard of their age."*

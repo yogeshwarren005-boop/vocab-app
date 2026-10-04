@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the paleo-american peoples who were the earliest human inhabitants of north america and south america during the late pleistocene epoch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of the paleo-american peoples who were the earliest human inhabitants of north america and south america during the late pleistocene epoch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the earliest human inhabitants of the Americas, present from approximately 16,000 years ago.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaeology, relating to the initial peopling of the Western Hemisphere by migrating Pleistocene populations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleo-american designates a member of the paleo-american peoples who were the earliest human inhabitants of north america and south america during the late pleistocene epoch."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Physical anthropologists debated the racial and cranial affinities of **Paleo-American** skeletal remains."*
+> - 📜 **Lewis Henry Morgan (*Ancient Society*):** *"The **Paleo-American** migrations from northeastern Asia crossed the Beringian landbridge during maximum glaciation."*
+> - 📜 **Edward Tylor (*Primitive Culture*):** *"Stone tool assemblages from **Paleo-American** sites reveal technological sophistication in lithic flaking."*

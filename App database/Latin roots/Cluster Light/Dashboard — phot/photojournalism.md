@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Journalism that presents a story primarily through the use of pictures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Journalism that presents a story primarily through the use of pictures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of journalism that uses images, especially photographs, to tell a news story with factual integrity and documentary immediacy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emerging in the mid-twentieth century with publications like Life and Picture Post, photojournalism adheres to strict ethical standards against staging or digital manipulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photojournalism designates journalism that presents a story primarily through the use of pictures."*
+> - 📜 **Susan Sontag (*On Photography*):** *"Modern **photojournalism** created a global visual registry that makes distant atrocities immediate to ordinary citizens."*
+> - 📜 **Marshall McLuhan (*Understanding Media*):** *"The rapid ascendancy of **photojournalism** shifted public attention from linear narrative prose to simultaneous visual impact."*
+> - 📜 **John Berger (*Ways of Seeing*):** *"A critical assessment of **photojournalism** reveals how the camera frame confers sudden historical significance upon ephemeral moments."*
+

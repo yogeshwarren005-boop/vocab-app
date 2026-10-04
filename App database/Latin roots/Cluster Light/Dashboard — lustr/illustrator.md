@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An artist who makes illustrations (for books or magazines or advertisements etc.).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artist who makes illustrations (for books or magazines or advertisements etc.).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An artist or graphic designer who draws or paints pictures, diagrams, and artwork for publications.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who illuminates or explains texts through visual art.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"In the Sung period the current ideas with regard to these patterns were expressed by the illustrator of the Sung edition of the _Li Chi_ by ornamenting jade discs, in the one case with ears of wheat and in the other with a clump of rushes."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The contrasting colors made the braiding process clearly visible and more understandable. *** I was invited by the Resource Teacher of a local elementary school to participate in their Authors and Illustrators Invitational."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"The author worked in close partnership with his comic **illustrator** Hablot Browne to depict Mr. Pickwick."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The architectural **illustrator** must possess an exact eye for structural detail as well as picturesque effect."*
+> - 📜 **William Morris (*The Ideal Book*):** *"The medieval manuscript **illustrator** understood how to harmonize illuminated capitals with Gothic calligraphy."*

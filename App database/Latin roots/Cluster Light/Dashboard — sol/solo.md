@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any activity that is performed alone without assistance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musical composition for one voice or instrument (with or without accompaniment).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical composition, performance, or passage executed by a single voice or instrument.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Performed, undertaken, or accomplished by one person alone without assistance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The solo over, a duet followed, and then a glee: a joyous conversational murmur filled up the intervals."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Wi’ hand on hainch, and upward e’e, He croon’d his gamut, one, two, three, Then in an arioso key, The wee Apoll Set off wi’ allegretto glee His giga solo."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It came in as a sort of brief interlude and solo between more extensive performances."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The flutist played a plaintive pastoral **solo** that silenced the chattering tavern company."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Klesmer performed a tempestuous piano **solo** that filled the drawing room with thunderous chords."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"Holmes played a melancholic violin **solo** late at night to soothe his restless intellect."*

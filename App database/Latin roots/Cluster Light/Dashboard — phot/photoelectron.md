@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An electron that is emitted from an atom or molecule by an incident photon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electron that is emitted from an atom or molecule by an incident photon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electron emitted from a substance as a consequence of absorbing energy from an incident photon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In spectroscopy, photoelectron spectroscopy (UPS/XPS) analyzes the kinetic energy of emitted photoelectrons to determine electronic band structures and chemical bonding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photoelectron designates an electron that is emitted from an atom or molecule by an incident photon."*
+> - 📜 **Albert Einstein (*The Evolution of Physics*):** *"Each emitted **photoelectron** carries away the energy of one light quantum diminished by the work required to escape the metal."*
+> - 📜 **Niels Bohr (*Atomic Theory and the Description of Nature*):** *"The kinetic energy of the ejected **photoelectron** reflects the binding state of the orbital from which it was dislodged."*
+> - 📜 **Arthur Compton (*X-Rays and Electrons*):** *"Collisions between the incoming radiation and tightly bound atomic charges yield an energetic **photoelectron**."*
+

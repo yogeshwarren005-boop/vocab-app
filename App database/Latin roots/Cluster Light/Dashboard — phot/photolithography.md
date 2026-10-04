@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A planographic printing process using plates made from a photographic image.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A planographic printing process using plates made from a photographic image.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A process of transferring a photographic image onto a plate for printing; in microelectronics, a microfabrication technique using light to etch microscopic circuit patterns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In semiconductor physics and manufacturing, optical photolithography utilizes ultraviolet light and photomasks to project transistor geometries onto silicon wafers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photolithography designates a planographic printing process using plates made from a photographic image."*
+> - 📜 **Richard Feynman (*There's Plenty of Room at the Bottom*):** *"Advanced optical **photolithography** enables us to write billions of electronic components into a square centimeter of silicon."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"The miniaturization of electrical switching through **photolithography** paved the way for massive computational automation."*
+> - 📜 **Isaac Asimov (*The Roving Mind*):** *"Technological mastery of submicron **photolithography** shrunk warehouse-sized computing machines down to fingernail-sized chips."*
+

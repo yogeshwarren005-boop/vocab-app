@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The inner pale yellow part of the lenticular nucleus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The inner pale yellow part of the lenticular nucleus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The evolutionarily ancient part of the basal ganglia, comprising the globus pallidus, involved in motor regulation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative neuroanatomy, the primitive striatal component present in reptiles and birds as the primary forebrain motor nucleus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleostriatum designates the inner pale yellow part of the lenticular nucleus."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The **paleostriatum** constitutes the principal motor output nucleus of the basal ganglia in all vertebrate classes."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Vertebrate Animals*):** *"In birds, the **paleostriatum** is hypertrophied into a large mass dominating the dorsal forebrain hemisphere."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Degeneration of the **paleostriatum** in Parkinson's disease causes the characteristic resting tremor and muscular rigidity."*

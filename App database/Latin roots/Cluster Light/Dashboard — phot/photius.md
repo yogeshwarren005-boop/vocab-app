@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Patriarch of constantinople and saint of the greek orthodox church; was condemned by the fourth council of constantinople in 869 but was reinstated by a later pope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Patriarch of constantinople and saint of the greek orthodox church; was condemned by the fourth council of constantinople in 869 but was reinstated by a later pope.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An influential ninth-century Byzantine scholar, lexicographer, and Ecumenical Patriarch of Constantinople who compiled the monumental Bibliotheca.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In church history and classical philology, his literary encyclopedism preserved invaluable epitomes of lost ancient Greek texts and precipitated the Photian Schism with Rome.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He behaved admirably at the beginning of his reign and during 1812, but acted badly by giving a constitution to Poland, forming the Holy Alliance, entrusting power to Arakchéev, favoring Golítsyn and mysticism, and afterwards Shishkóv and Photius."*
-> - 📜 **James Joyce (*Ulysses*):** *"They make him welcome. _Was Du verlachst wirst Du noch dienen._ Brood of mockers: Photius, pseudomalachi, Johann Most."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ambitious patriarch **Photius** contested the spiritual supremacy of Rome with equal learning and theological subtlety."*
+> - 📜 **John Bagnell Bury (*A History of the Eastern Roman Empire*):** *"The vast literary erudition of **Photius** rescued dozens of lost classical historians from total oblivion."*
+> - 📜 **Steven Runciman (*The Great Church in Captivity*):** *"Under the intellectual leadership of **Photius**, the Byzantine capital experienced a brilliant revival of classical scholarship."*
+

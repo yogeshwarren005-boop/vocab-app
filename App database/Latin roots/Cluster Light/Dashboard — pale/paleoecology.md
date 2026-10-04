@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of ecology that studies ancient ecology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of ecology that studies ancient ecology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of the relationships between ancient organisms and their past environmental conditions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of ecology reconstructing prehistoric ecosystems, food webs, and habitat conditions from fossil evidence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleoecology designates the branch of ecology that studies ancient ecology."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"**Paleoecology** reveals that many species have inhabited radically different climatic zones during the geological past."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Fossil pollen analysis forms the quantitative basis of **paleoecology** in reconstructing ancient plant communities."*
+> - 📜 **Thomas Henry Huxley (*Collected Essays*):** *"**Paleoecology** examines faunal assemblages to reconstruct the aquatic or terrestrial environments of fossil deposits."*

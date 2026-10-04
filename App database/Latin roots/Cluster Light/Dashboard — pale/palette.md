@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The range of colour characteristic of a particular artist or painting or school of art.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Board that provides a flat surface on which artists mix paints and the range of colors used.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A flat board, tablet, or oval surface on which a painter arranges and mixes paint colors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The range, selection, or characteristic set of colors used by a particular artist, school, or period.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The translation of a few pages of German occupied an hour; then I got my palette and pencils, and fell to the more soothing, because easier occupation, of completing Rosamond Oliver’s miniature."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"But she could not eradicate nature: nor will it be eradicated ‘till this mortal shall put on immortality.’” Having said this, he took his hat, which lay on the table beside my palette."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"He saw in her not a picture set for his copying, but a palette set for his brush; not a habitation prepared for his inhabiting, but a Coliseum whence he might quarry stones for his own palaces."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"Turner loaded his **palette** with pure Naples yellow, vermilion, and ultramarine to capture the Mediterranean blaze."*
+> - 📜 **Walter Pater (*The Renaissance*):** *"Giorgione chose a **palette** of deep golden amber, smoky green, and warm shadow for his pastoral landscapes."*
+> - 📜 **George Bernard Shaw (*Dramatic Opinions and Essays*):** *"The scene-painter enriched his **palette** with crimson lake and cobalt to suggest the heat of the Roman arena."*

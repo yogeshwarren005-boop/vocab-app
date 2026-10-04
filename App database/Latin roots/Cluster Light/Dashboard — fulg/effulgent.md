@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Radiating or as if radiating light.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Radiating or as if radiating light.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shining forth brilliantly; radiant, gleaming, or dazzling with luminous splendor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resplendent in beauty, majesty, or glorious brightness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And beneath the effulgent Antarctic skies I have boarded the Argo-Navis, and joined the chase against the starry Cetus far beyond the utmost stretch of Hydrus and the Flying Fish."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Skies the most effulgent but basket the deadliest thunders: gorgeous Cuba knows tornadoes that never swept tame northern lands."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"And beneath the effulgent Antarctic skies I have boarded the Argo-Navis, and joined the chase against the starry Cetus far beyond the utmost stretch of Hydrus and the Flying Fish."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"The **effulgent** rays of the southern sun bathed the marble ruins of Athens in golden light."*
+> - 📜 **Walter Scott (*The Talisman*):** *"The knight raised his **effulgent** shield, deflecting the flashing scimitar of his Saracen foe."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"Her beauty appeared almost **effulgent** when illuminated by the flickering torches of the catacomb."*

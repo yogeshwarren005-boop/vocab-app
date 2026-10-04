@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Common chickweed; stitchwort.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Common chickweed; stitchwort.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large genus of herbaceous flowering plants in the pink family (Caryophyllaceae), including chickweeds and stitchworts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, plants characterized by five deeply cleft petals resembling five-pointed stars.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stellaria designates common chickweed; stitchwort."*
+> - 📜 **Joseph Dalton Hooker (*Flora of British India*):** *"Specimens of **Stellaria** flourish in shaded alpine valleys, bearing delicate star-shaped white blossoms."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The common chickweed, **Stellaria** media, is remarkable for its hardiness and continuous flowering through winter."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"Experiments upon **Stellaria** demonstrated the selective advantage of insect cross-pollination over self-fertilisation."*

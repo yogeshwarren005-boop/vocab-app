@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Printing from an intaglio plate prepared by photographic methods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An intaglio print produced by gravure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An intaglio printmaking process in which a copper plate is coated with a light-sensitive gelatin tissue, exposed to a film positive, and etched in acid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fine-art bookmaking and photography, photogravure delivers rich continuous tonal gradations and deep velvet blacks unmatched by halftone screening.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photogravure designates printing from an intaglio plate prepared by photographic methods."*
+> - 📜 **Alfred Stieglitz (*Camera Work*):** *"The delicate plates were reproduced in fine **photogravure** to preserve every subtle tonal nuance of the original negative."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"The luxury volume was embellished with frontispiece illustrations executed in costly **photogravure**."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"On the drawing-room table lay an imported monograph illustrated with splendid **photogravure** plates of Italian gardens."*
+

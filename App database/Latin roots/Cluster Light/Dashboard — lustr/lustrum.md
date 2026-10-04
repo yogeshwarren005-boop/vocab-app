@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A period of five years.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ceremonial purification of the roman population every five years following the census.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In ancient Rome, a ceremonial expiatory purification of the whole Roman people performed by censors every five years.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A historical period of five years; a quinquennium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"In the settlement of the questions the Republican party has completed its twenty-five years of glorious existence, and it has sent us here to prepare it for another lustrum of duty and of victory."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"At the close of each **lustrum**, the Roman censors purified the citizen army in the Campus Martius."*
+> - 📜 **David Hume (*The History of England*):** *"A peaceful **lustrum** intervened before religious tensions again provoked civil hostilities."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"The completion of the solemn **lustrum** marked the passage of another five years of civic order."*

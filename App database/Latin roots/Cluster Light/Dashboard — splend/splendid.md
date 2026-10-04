@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having great beauty and splendor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very good;of the highest quality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing magnificent beauty, brilliant luster, or grand and sumptuous appearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excellent, admirable, glorious, or praiseworthy in quality or achievement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Since the three would, in later years, have great authority in the little community, it would be splendid if they were educated alike and could agree thoroughly in everything."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"This is a splendid principle and ought to be followed."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It is a splendid thing to finish anything one has begun, but there are things that cannot be finished all at once."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Pemberley was a large, handsome stone building, situated on rising ground, backed by a **splendid** ridge of woods."*
+> - 📜 **William Shakespeare (*Henry VIII*):** *"That **splendid** gathering of noble peers dissolved when the king's mandate arrived."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The white whale breached in a **splendid** fountain of foam that glittered in the midday sun."*

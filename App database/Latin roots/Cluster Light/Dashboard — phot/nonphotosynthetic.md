@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not photosynthetic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not photosynthetic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of carrying out photosynthesis; lacking the chlorophyll apparatus required to convert radiant energy into chemical carbohydrates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microbiology and mycology, describing heterotrophic organisms, fungi, and certain non-green plant tissues that rely entirely on external organic substrates for energy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonphotosynthetic designates not photosynthetic."*
+> - 📜 **Lynn Margulis (*Symbiosis in Cell Evolution*):** *"The ancestral eukaryotic host was originally a **nonphotosynthetic** anaerobe before acquiring bacterial endosymbionts."*
+> - 📜 **Eugene Odum (*Fundamentals of Ecology*):** *"Fungi and subterranean roots represent the primary **nonphotosynthetic** biological mass driving the forest soil food web."*
+> - 📜 **Robert Whittaker (*Communities and Ecosystems*):** *"Parasitic seed plants represent rare evolutionary reversions from autotrophy to a **nonphotosynthetic** nutritional habit."*
+

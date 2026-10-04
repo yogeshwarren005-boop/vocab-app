@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of (especially prehistoric) antiquities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of (especially prehistoric) antiquities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The general study of ancient things, antiquities, prehistoric remains, and relics of past ages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An older comprehensive term for the study of geological and archaeological vestiges of past civilizations and epochs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleology designates the study of (especially prehistoric) antiquities."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"Monkbarns prided himself on his comprehensive **paleology**, embracing Roman coins, Celtic urns, and medieval manuscripts alike."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"True **paleology** requires not merely excavation but the imaginative reconstruction of vanished social worlds."*
+> - 📜 **Edward Tylor (*Primitive Culture*):** *"**Paleology** was transformed by the geological discoveries that extended the antiquity of the human race dramatically."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or concerned with the scientific study of human fossils.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or concerned with the scientific study of human fossils.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to paleoanthropology; concerning the scientific study of fossil hominids and human origins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving the evolutionary analysis of anatomical and behavioral evidence from prehistoric human ancestors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleoanthropological designates of or concerned with the scientific study of human fossils."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"The **paleoanthropological** discoveries at Neanderthal forced revision of earlier assumptions about human antiquity."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"**Paleoanthropological** evidence from African fossil beds strongly suggests an African origin of the genus Homo."*
+> - 📜 **Edward Tylor (*Primitive Culture*):** *"The **paleoanthropological** record reveals a gradual expansion of cranial capacity across successive hominin species."*

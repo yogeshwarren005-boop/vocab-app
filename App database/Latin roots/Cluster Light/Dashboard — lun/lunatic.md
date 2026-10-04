@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An insane person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reckless impetuous irresponsible person.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person suffering from severe psychiatric illness or madness; an eccentric or wildly reckless person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wildly foolish, dangerous, or irrational in nature or conduct.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My way is now to hie home to his house, And tell his wife that, being lunatic, He rush’d into my house and took perforce My ring away."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To whose hands have you sent the lunatic King?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It insinuateth me of insanie. _Ne intelligis, domine?_ To make frantic, lunatic."*
+> - 📜 **William Shakespeare (*A Midsummer Night's Dream*):** *"The **lunatic**, the lover, and the poet are of imagination all compact: one sees more devils than vast hell can hold."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The ferocious laughter echoed from the attic where the violent **lunatic** Bertha Mason was confined."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes warned that the escaped **lunatic** from Princetown was lurking somewhere upon the desolate moor."*

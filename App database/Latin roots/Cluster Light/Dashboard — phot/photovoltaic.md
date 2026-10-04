@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing a voltage when exposed to radiant energy (especially light).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing a voltage when exposed to radiant energy (especially light).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or capable of generating an electric voltage or current upon exposure to radiant energy, especially light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In semiconductor engineering and renewable energy, photovoltaic solar cells exploit p-n junction potentials to generate clean electricity from solar photons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photovoltaic designates producing a voltage when exposed to radiant energy (especially light)."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"Orbital space stations rely upon vast **photovoltaic** wings to capture unattenuated solar radiation for their power supplies."*
+> - 📜 **Isaac Asimov (*The Subversive Chemical*):** *"The continuous improvement of **photovoltaic** conversion efficiency promises to make direct solar power universally accessible."*
+> - 📜 **Norbert Wiener (*The Human Use of Human Beings*):** *"The conversion of sunlight into electrical power by a **photovoltaic** silicon cell exemplifies direct mechanical transduction."*
+

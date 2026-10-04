@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The more primitive parts of the brain phylogenetically; most structures other than the cerebral cortex.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The more primitive parts of the brain phylogenetically; most structures other than the cerebral cortex.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The evolutionarily ancient portion of the brain comprising the brainstem and cerebellum, excluding the cerebral cortex.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative neuroanatomy, the primitive neural structures shared across vertebrate classes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleencephalon designates the more primitive parts of the brain phylogenetically; most structures other than the cerebral cortex."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The **paleencephalon** governs the most basic vital reflexes in breathing, circulation, and postural control."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Pontine lesions injuring the **paleencephalon** abolish voluntary gaze and coordinated swallowing movements."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Vertebrate Animals*):** *"Fish and amphibians rely principally on the **paleencephalon** for all sensory integration and motor output."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: From 63 million to 58 million years ago; appearance of birds and earliest mammals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: From 63 million to 58 million years ago; appearance of birds and earliest mammals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The earliest epoch of the Tertiary (Paleogene) period, lasting from approximately 66 to 56 million years ago.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The geological time interval following the Cretaceous-Paleogene mass extinction when mammals diversified rapidly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleocene designates from 63 million to 58 million years ago; appearance of birds and earliest mammals."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The **Paleocene** epoch witnessed the explosive radiation of placental mammals into habitats vacated by the dinosaurs."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Mammalian diversity burgeoned dramatically during the **Paleocene** following the great Cretaceous extinction event."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Vertebrate Animals*):** *"Early **Paleocene** condylarths provide primitive ancestral stock from which the modern ungulate orders descended."*

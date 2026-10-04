@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who practices photometry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who practices photometry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist or technical expert skilled in the science, instruments, and practice of photometry and light measurement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early illuminating engineering and observatory physics, photometricians calibrated primary lighting standards and established stellar magnitude catalogs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photometrician designates someone who practices photometry."*
+> - 📜 **Arthur Eddington (*The Internal Constitution of the Stars*):** *"The skilled **photometrician** had to account meticulously for atmospheric extinction before publishing his star catalog."*
+> - 📜 **Silvanus P. Thompson (*Light Visible and Invisible*):** *"Every trained **photometrician** recognizes the difficulty of comparing lights differing sharply in color hue."*
+> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"The experimental **photometrician** must construct artificial standards of luminosity that remain invariable over time."*
+

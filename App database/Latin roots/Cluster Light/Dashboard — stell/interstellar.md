@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Between or among stars.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Between or among stars.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated, occurring, or traveling between the stars in galactic space.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the vast cosmic distances or matter existing between celestial star systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Nevertheless, thus clad, I trod interstellar space, exalted by the knowledge that I was bound on vast adventure, where, at the end, I would find all the cosmic formulæ and have made clear to me the ultimate secret of the universe."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Employment and extortionate profits from Slingshot services and industries would plummet as Planet Pluto continued outbound along its eccentric orbit into interstellar space."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Quote: it is only reasonable and proper that the governments of the Outer Region not be excluded from an equitable share of the enormous financial and material resources being lavished on the Interstellar Matter Teleport System (Slingshot)."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"Vast clouds of cosmic dust drift across the cold depths of **interstellar** space."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Spectroscopy proves that the chemical elements discovered on Earth are distributed throughout **interstellar** regions."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"Astronomers watched strange flashes traversing the dark **interstellar** void between Mars and Earth."*

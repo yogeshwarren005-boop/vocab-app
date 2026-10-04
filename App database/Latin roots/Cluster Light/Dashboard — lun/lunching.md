@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of eating lunch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take the midday meal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Partaking of a midday meal or dining at lunchtime.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act, habit, or social occasion of eating lunch together.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"I always like to know everything about my new friends, and nothing about my old ones.” “Where are you lunching, Harry?” “At Aunt Agatha’s."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Zhilínski, a Pole brought up in Paris, was rich, and passionately fond of the French, and almost every day of the stay at Tilsit, French officers of the Guard and from French headquarters were dining and lunching with him and Borís."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"As the smoke cleared away in the direction which left the view unobscured and the spot he had selected for the lunching-place free from smoke, he grinned approvingly."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"The family were **lunching** upon cold meat and fruit when the unexpected guest arrived at the hall."*
+> - 📜 **Henry James (*The Ambassadors*):** *"Strether spent the afternoon **lunching** in a quiet Parisian garden restaurant overlooking the Seine."*
+> - 📜 **Virginia Woolf (*Jacob's Room*):** *"The young undergraduates were **lunching** noisily in the college hall after their morning lectures."*

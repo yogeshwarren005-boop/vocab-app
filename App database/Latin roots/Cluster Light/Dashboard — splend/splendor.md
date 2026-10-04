@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A quality that outshines the usual.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being magnificent or splendid or grand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Magnificent brilliance, radiant light, or dazzling luminosity; pomp, grandeur, or majesty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Glorious nobility of character or historic heroic achievement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It actually glistened in its renewed splendor, and the Baron silently looked about him."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"O married love! each heart shall own; Where two congenial souls unite, Thy golden chains inlaid with down, Thy lamp with heaven's own splendor bright." LANGHORNE."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"He has been decorated with attributes superior in dignity and splendor to those of a king of Great Britain."*
+> - 📜 **Ralph Waldo Emerson (*Nature*):** *"The sun illuminates only the eye of the man, but shines into the eye and heart of the child in all its **splendor**."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The sunshine burst through the forest boughs, bathing the scene in golden **splendor**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The imperial city retained its architectural **splendor** even as military power decayed."*

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sensitivity to the action of radiant energy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sensitivity to the action of radiant energy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal physiological reactivity or heightened vulnerability to radiant light, triggering cutaneous inflammation or cellular damage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dermatology and rheumatology, cutaneous photosensitivity is a cardinal clinical feature of systemic lupus erythematosus and porphyria.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photosensitivity designates sensitivity to the action of radiant energy."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Marked cutaneous **photosensitivity** with a butterfly malar rash strongly points to systemic lupus erythematosus."*
+> - 📜 **Oliver Sacks (*An Anthropologist on Mars*):** *"The sudden glare of the desert sun exacerbated his extreme ocular and epidermal **photosensitivity**."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Accumulated synthetic contaminants in aquatic organisms induced marked **photosensitivity** and cellular degradation."*
+

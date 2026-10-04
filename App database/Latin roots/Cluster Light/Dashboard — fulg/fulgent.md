@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shining intensely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shining intensely.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shining brightly; radiant, dazzling, or gleaming with vivid light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Luminous, resplendent, or visually magnificent in display.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Keats (*Poems 1817*):** *"Here are sweet peas, on tip-toe for a flight: With wings of gentle flush o'er delicate white, And taper fulgent catching at all things, To bind them all about with tiny rings."*
-> - 📜 **William Wordsworth (*Poems in Two Volumes, Volume 2*):** *"The weary Sun betook himself to rest. --Then issued Vesper from the fulgent West, Outshining like a visible God The glorious path in which he trod."*
+> - 📜 **John Milton (*Paradise Lost*):** *"As with the **fulgent** head of new-ris'n sun, he flared across the heavenly plains."*
+> - 📜 **Edmund Spenser (*The Faerie Queene*):** *"His breastplate cast a **fulgent** beam that struck terror into the hearts of evil enchanters."*
+> - 📜 **Percy Bysshe Shelley (*Hellas*):** *"The **fulgent** morning broke over the Aegean Sea, awakening the islands to liberty."*

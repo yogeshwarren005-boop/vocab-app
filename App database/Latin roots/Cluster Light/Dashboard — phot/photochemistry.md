@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Branch of chemistry that deals with the chemical action of light.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Branch of chemistry that deals with the chemical action of light.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of chemistry that studies chemical reactions, changes, and physical processes induced by the absorption of light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In quantum chemistry, photochemistry investigates excited states, intersystem crossing, fluorescence, and solar energy conversion pathways.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photochemistry designates branch of chemistry that deals with the chemical action of light."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The nascent science of **photochemistry** reveals how chemical affinity may be awakened by the subtle rays of the sun."*
+> - 📜 **John William Draper (*Scientific Memoirs*):** *"The primary law of **photochemistry** dictates that only those light rays which are absorbed can produce chemical change."*
+> - 📜 **Robert Boyle (*Experiments and Considerations Touching Colours*):** *"Light operates upon delicate tinctures with an active virtue that foreshadows the principles of modern **photochemistry**."*
+

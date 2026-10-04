@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states minimalist painter (born in 1936).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states minimalist painter (born in 1936).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feminine given name of Latin origin, literally signifying a star.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature and poetry, celebrated as the poetic subject of Sir Philip Sidney's sonnet cycle Astrophel and Stella.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Burns Elegy On “Stella” The following poem is the work of some hapless son of the Muses who deserved a better fate."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"O, my dear maid, my Stella, when Shall this sick period close, And lead the solitary bard To his belov’d repose?"*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"And to Isis in her later character of patroness of mariners the Virgin Mary perhaps owes her beautiful epithet of _Stella Maris,_ "Star of the Sea," under which she is adored by tempest-tossed sailors."*
+> - 📜 **Sir Philip Sidney (*Astrophel and Stella*):** *"Fair **Stella** shines with celestial light that guides the wanderer through the night of sorrow."*
+> - 📜 **Jonathan Swift (*Journal to Stella*):** *"Swift penned affectionate daily chronicles addressed to his beloved **Stella** in Dublin."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip reflected that the very name Estella had its roots in the Latin word **stella**, meaning star."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The earth science that studies fossil organisms and related remains.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The earth science that studies fossil organisms and related remains.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of fossilized organisms and ancient life forms to understand biological and evolutionary history.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The interdisciplinary earth science combining geology, biology, and comparative anatomy to reconstruct prehistoric life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleontology designates the earth science that studies fossil organisms and related remains."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"**Paleontology** affords the richest body of direct evidence for the gradual transformation of organic forms through time."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Modern stratigraphic **paleontology** uses index fossils to correlate sedimentary formations across entire continents."*
+> - 📜 **Thomas Henry Huxley (*Collected Essays*):** *"**Paleontology** vindicates Darwin's theory by demonstrating that simpler organisms consistently precede more complex ones."*

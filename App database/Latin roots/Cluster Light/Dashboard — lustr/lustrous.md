@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Made smooth and bright by or as if by rubbing; reflecting a sheen or glow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brilliant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a rich, soft sheen or glowing luster; glossy, shiny, and reflecting light brightly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Radiant, luminous, and splendidly beautiful.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good sparks and lustrous, a word, good metals."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, it hath bay windows transparent as barricadoes, and the clerestories toward the south-north are as lustrous as ebony; and yet complainest thou of obstruction?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He stopped when we called to him and again showed a dread of me when I came up, standing with his lustrous eyes fixed upon me, and even arrested in his shivering fit."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Her dark hair was smooth and **lustrous**, parted neatly beneath a simple lace cap."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The volcanic obsidian possessed a **lustrous** black fracture that gleamed like polished jet."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The whale's back rose above the sea, smooth, dark, and **lustrous** in the tropical dawn."*

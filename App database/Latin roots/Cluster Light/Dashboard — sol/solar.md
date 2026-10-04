@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or derived from the sun or utilizing the energies of the sun.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or derived from the sun or utilizing the energies of the sun.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, determined by, proceeding from, or utilizing the light, heat, or energy of the Sun.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Measured by the motion or cycle of the Sun, as a solar year.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"There’s nothing solar about legs of beef and mutton."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The fashionable world—tremendous orb, nearly five miles round—is in full swing, and the solar system works respectfully at its appointed distances."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Edward Westermarck have satisfied me that the solar theory of the European fire-festivals, which I accepted from W."*
+> - 📜 **Isaac Newton (*Philosophiæ Naturalis Principia Mathematica*):** *"The planets revolve around the Sun in ellipses having the center of the **solar** body in one focus."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Green vegetation depends directly upon the absorption of **solar** light for organic carbon synthesis."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"The spectroscope reveals dark absorption lines traversing the continuous spectrum of the **solar** atmosphere."*

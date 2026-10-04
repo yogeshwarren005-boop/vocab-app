@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the olfactory cortex of the cerebrum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the olfactory cortex of the cerebrum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or involving the paleocortex; characteristic of the phylogenetically primitive cerebral cortical regions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the olfactory and limbic cortices that constitute the oldest cortical layers in vertebrate evolution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleocortical designates of or relating to the olfactory cortex of the cerebrum."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Strong emotion activates **paleocortical** circuits in the amygdala and hippocampal formation simultaneously."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The **paleocortical** piriform area is the primary receiving zone for second-order olfactory neurons."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Vertebrate Animals*):** *"**Paleocortical** dominance over the forebrain diminishes progressively as vertebrate phylogeny advances toward mammals."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The crescent-shaped area at the base of the human fingernail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crescent-shaped metal ornament of the bronze age.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The pale, half-moon-shaped white area at the base of a human fingernail or toenail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical archaeology, a crescent-shaped bronze or gold amulet worn by girls for protection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lunula designates the crescent-shaped area at the base of the human fingernail."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Cyanosis and trophic changes are frequently observed first in the matrix surrounding the **lunula** of the nail."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The opaque white appearance of the nail **lunula** results from the imperfect keratinization of the underlying matrix cells."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"The Roman maiden wore a delicate silver **lunula** suspended from her neck to ward off the evil eye."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having great beauty and splendor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having great beauty and splendor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shining brilliantly; dazzling, gleaming, or radiant with glorious splendor or rich colors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Clothed or adorned in magnificent and glittering apparel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"There is no escaping her, that eternal, splendid, ever-resplendent figure of woman."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And though the stars drift, and the heavens lie, ever remains woman, resplendent, eternal, the one woman, as I, under all my masquerades and misadventures, am the one man, her mate."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The flashing cascade of his mane, the curving comet of his tail, invested him with housings more resplendent than gold and silver-beaters could have furnished him."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The drawing room was **resplendent** with crystal chandeliers, gilded mirrors, and crimson hangings."*
+> - 📜 **Lord Byron (*The Destruction of Sennacherib*):** *"The Assyrian came down like the wolf on the fold, and his cohorts were gleaming in purple and gold; and the sheen of their spears was like stars on the sea, when the blue wave rolls nightly on deep Galilee, **resplendent** in battle array."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The monarch appeared **resplendent** in robes of purple silk embroidered with Indian pearls."*

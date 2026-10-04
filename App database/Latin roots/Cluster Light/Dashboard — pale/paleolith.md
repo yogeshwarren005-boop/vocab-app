@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stone tool from the paleolithic age.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stone tool from the paleolithic age.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A stone tool or implement chipped from flint or similar rock by prehistoric human craftsmen of the Old Stone Age.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A worked stone artifact from the Paleolithic period, used as a cutting, chopping, or scraping implement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleolith designates a stone tool from the paleolithic age."*
+> - 📜 **Edward Tylor (*Primitive Culture*):** *"The river gravels of the Somme yielded a wealth of hand-axe **paleolith**s associated with extinct Pleistocene mammals."*
+> - 📜 **Lewis Henry Morgan (*Ancient Society*):** *"Each **paleolith** shaped by the blow of a hammerstone represents a deliberate technological choice by its maker."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"Crude Acheulean **paleolith**s demonstrate that early Homo erectus fashioned tools of remarkably consistent form."*

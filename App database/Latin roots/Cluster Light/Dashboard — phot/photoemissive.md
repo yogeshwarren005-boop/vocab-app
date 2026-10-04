@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to photoemission.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to photoemission.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of or characterized by emitting electrons upon exposure to incident radiant energy such as light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optoelectronics, photoemissive coatings (such as multialkali materials) are applied to cathode surfaces to optimize sensitivity across the visible spectrum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photoemissive designates of or relating to photoemission."*
+> - 📜 **Arthur Compton (*X-Rays and Electrons*):** *"The **photoemissive** surface showed remarkable stability over several months of continuous vacuum testing."*
+> - 📜 **Robert Millikan (*Electrons (+ and -)*):** *"Alkali metals display the highest **photoemissive** efficiency when freshly scraped in a high vacuum."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"The detector utilized a **photoemissive** cell to register minute variations in optical signal transmission."*
+

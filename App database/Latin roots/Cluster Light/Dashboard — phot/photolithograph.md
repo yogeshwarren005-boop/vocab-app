@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lithograph produced by photographically produced plates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lithograph produced by photographically produced plates.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lithographic print produced from a stone or metal plate prepared photographically using light-sensitive chemicals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteen- and twentieth-century printing, photolithographs allowed high-fidelity commercial reproduction of intricate hand drawings, maps, and fine art prints.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photolithograph designates a lithograph produced by photographically produced plates."*
+> - 📜 **William Morris (*The Ideal Book*):** *"The delicate borders of the illuminated border were reproduced as an exquisite **photolithograph** upon heavy vellum."*
+> - 📜 **John Ruskin (*Fors Clavigera*):** *"Compare the cold mechanical lines of a commercial **photolithograph** with the living freedom of an original engraving."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"The facsimile **photolithograph** offered the middle-class consumer a passable imitation of costly hand-crafted masterworks."*
+

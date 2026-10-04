@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of social isolation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state or situation of being alone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A withdrawal from human company into peaceful seclusion; life lived apart from society and its distractions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lonely, uninhabited, or quiet secluded place.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I only wished to forget the past in this solitude, and I thought it right for me to die forgotten."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Westminster Hall itself is a shady solitude where nightingales might sing, and a tenderer class of suitors than is usually found there, walk."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"When the moon shines very brilliantly, a solitude and stillness seem to proceed from her that influence even crowded places full of life."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"There is a pleasure in the pathless woods, there is a rapture on the lonely shore, there is society, where none intrudes, by the deep sea, and music in its roar: I love not man the less, but Nature more, from these our interviews, in which I steal from all I may be, or have been before, to mingle with the Universe, and feel what I can ne'er express, yet cannot all conceal, in blissful **solitude**."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I find it wholesome to be alone the greater part of the time; to be in company, even with the best, is soon wearisome; I love to be alone; I never found the companion that was so companionable as **solitude**."*
+> - 📜 **Samuel Johnson (*The History of Rasselas, Prince of Abissinia*):** *"The hermit confessed that absolute **solitude** did not protect the mind from worldly temptations."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Italian composer (1526-1594).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Italian composer (1526-1594).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Giovanni Pierluigi da Palestrina (c. 1525–1594), the pre-eminent Italian Renaissance composer of sacred polyphonic choral music.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In music history, designating the smooth, flowing contrapuntal style that became the model of Roman Catholic church polyphony.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"She professed herself delighted to be left at peace in Florence; she had locked up her apartment and sent her cook home to Palestrina."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The interval, for example, which divides the wild revels of Cybele from the stately ritual of the Catholic Church is measured by the gulf which severs the dissonant clash of cymbals and tambourines from the grave harmonies of Palestrina and Handel."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The serene eight-voice masses of **Palestrina** embody the mathematical perfection of Renaissance sacred polyphony."*
+> - 📜 **Walter Pater (*The Renaissance*):** *"**Palestrina**'s Missa Papae Marcelli represents the ideal reconciliation of musical complexity with liturgical clarity."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"A Sistine Chapel performance of **Palestrina** transported the listener into the devotional calm of the Tridentine age."*

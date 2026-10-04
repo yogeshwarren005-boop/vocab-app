@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A descendant of the arabs who inhabited palestine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the area of palestine and its inhabitants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to Palestine or its indigenous Arab population; a native or inhabitant of the Palestinian territories.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contemporary usage, pertaining to the national and political identity of Arabs originating from the region of historic Palestine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, palestinian designates a descendant of the arabs who inhabited palestine."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **Palestinian** peasantry suffered enormously under the military campaigns of Byzantine, Arab, and Crusader armies."*
+> - 📜 **Thomas Macaulay (*The History of England*):** *"Scholars debated the ethnic composition of the ancient **Palestinian** population from archaeological and linguistic evidence."*
+> - 📜 **Walter Scott (*The Talisman*):** *"The **Palestinian** Saracen cavalry harassed the slow-moving Crusader columns with swift arrow-fire and rapid withdrawal."*

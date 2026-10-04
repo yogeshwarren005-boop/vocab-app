@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an illustrious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an illustrious manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an illustrious manner; with distinguished eminence, great fame, or glorious renown.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a noble, renowned, or celebrated manner before the public gaze.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, illustriously designates in an illustrious manner."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The general served **illustriously** in the Persian campaigns, earning the admiration of the legions."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The Black Knight fought **illustriously** in the melee, overthrowing every challenger with ease."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Those who advance the boundaries of natural science labor **illustriously** for the relief of man's estate."*

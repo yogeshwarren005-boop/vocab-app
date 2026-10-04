@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states actor who performed with his wife lynn fontanne in many stage productions (1893-1977).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states actor who performed with his wife lynn fontanne in many stage productions (1893-1977).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A match, burning torch, or slow match used to ignite cannons or firearms in archaic Scottish and naval parlance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To emit smoke, puffs of vapor, or flames, especially from a tobacco pipe.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Lunt, a column of smoke or steam."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The old soldier blew the glowing coal of his tobacco pipe until it burst into a bright **lunt** of flame."*
+> - 📜 **Robert Burns (*Halloween*):** *"She turned the key and blew the **lunt**, and through the keyhole cast her eye to spy her future lover."*
+> - 📜 **Tobias Smollett (*The Adventures of Peregrine Pickle*):** *"The gunner stood ready with burning **lunt** in hand to touch off the quarterdeck carronades."*

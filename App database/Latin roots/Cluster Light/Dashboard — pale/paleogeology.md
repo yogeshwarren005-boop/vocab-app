@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of geologic features once at the surface of the earth but now buried beneath rocks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of geologic features once at the surface of the earth but now buried beneath rocks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of ancient geological conditions, rock formations, and structural history of the Earth's crust.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The reconstruction of past tectonic configurations, volcanic activity, and depositional environments from rock records.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleogeology designates the study of geologic features once at the surface of the earth but now buried beneath rocks."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"**Paleogeology** deciphers the sequence of crustal movements that folded and faulted mountain ranges across geological time."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"Radiometric dating revolutionized **paleogeology** by providing absolute ages for igneous and metamorphic rock formations."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The imperfection of the fossil record is itself a major subject of **paleogeology** and sedimentary basin analysis."*

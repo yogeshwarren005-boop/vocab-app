@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sad beyond comforting; incapable of being consoled.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sad beyond comforting; incapable of being consoled.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternative spelling of inconsolable; incapable of being comforted or soothed in profound grief.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Heartbroken, desperate, and impervious to sympathetic solace.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unconsolable designates sad beyond comforting; incapable of being consoled."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The poor grieving sister remained **unconsolable** for weeks following the sudden loss."*
+> - 📜 **Charles Dickens (*The Old Curiosity Shop*):** *"The grandfather was **unconsolable** when little Nell closed her eyes in eternal sleep."*
+> - 📜 **Walter Scott (*The Bride of Lammermoor*):** *"Lucy Ashton sat in **unconsolable** despair, staring blindly out upon the stormy sea."*

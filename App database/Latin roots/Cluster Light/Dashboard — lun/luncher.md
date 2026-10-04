@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is eating lunch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who is eating lunch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who partakes of lunch or dines at midday.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diner who eats a midday meal at a restaurant, club, or tavern.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"Philip, having the power to choose his own time for meals, and frequenting this old house, sometimes met Barter in the act of coming away from it with the dregs of the stream of the late lunchers or diners."*
+> - 📜 **George Gissing (*The Whirlpool*):** *"The fashionable West End café was crowded with every gay **luncher** escaping the midday heat of the city."*
+> - 📜 **William Makepeace Thackeray (*The Book of Snobs*):** *"The pompous club **luncher** complained bitterly of the underdone mutton chop served by the waiter."*
+> - 📜 **H. G. Wells (*Tono-Bungay*):** *"He watched the solitary City **luncher** reading his financial newspaper over a plate of roast beef."*

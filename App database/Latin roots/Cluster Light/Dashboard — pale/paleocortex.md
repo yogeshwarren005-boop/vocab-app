@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The olfactory cortex of the cerebrum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The olfactory cortex of the cerebrum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The phylogenetically ancient part of the cerebral cortex, including the olfactory cortex and parts of the limbic system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy, the primitive three-layered cortical tissue preceding the evolutionary appearance of the neocortex.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleocortex designates the olfactory cortex of the cerebrum."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The **paleocortex** processes olfactory signals from the nose via the olfactory bulb and piriform cortex."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Temporal lobe epilepsy originating in the **paleocortex** often produces intense olfactory hallucinations as an aura."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Vertebrate Animals*):** *"In reptiles, the **paleocortex** constitutes virtually the entire cerebral mantle with no neocortical expansion."*

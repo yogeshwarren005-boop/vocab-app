@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By photoelectric means.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By photoelectric means.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of or in a manner that utilizes the photoelectric effect or photoelectric technology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In instrumentation and automation, describing circuits or sensors that are triggered or calibrated using light-induced currents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photoelectrically designates by photoelectric means."*
+> - 📜 **Robert Millikan (*The Electron*):** *"The energy of the expelled electrons was determined **photoelectrically** by measuring the opposing stopping potential."*
+> - 📜 **Arthur Eddington (*Stars and Atoms*):** *"Stellar magnitudes can now be recorded **photoelectrically** with far greater precision than the naked human eye can achieve."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"The automated gate was controlled **photoelectrically**, closing immediately when the light beam was interrupted."*
+

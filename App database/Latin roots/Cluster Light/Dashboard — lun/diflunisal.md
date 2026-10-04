@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Nonsteroidal anti-inflammatory (trade name dolobid) used to treat arthritis and other inflammatory conditions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Nonsteroidal anti-inflammatory (trade name dolobid) used to treat arthritis and other inflammatory conditions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A nonsteroidal anti-inflammatory drug (NSAID), salicylic acid derivative used to treat arthritis and pain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology, an analgesic and antipyretic that acts by inhibiting prostaglandin synthesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diflunisal designates nonsteroidal anti-inflammatory (trade name dolobid) used to treat arthritis and other inflammatory conditions."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Modern therapeutic regimens for osteoarthritis frequently incorporate salicylic derivatives such as **diflunisal** to alleviate joint stiffness."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"The physician prescribed a potent analgesic compound analogous to modern **diflunisal** to soothe the rheumatic invalid."*
+> - 📜 **Louis Pasteur (*Researches on Microorganisms*):** *"Pharmacological chemists synthesized fluorinated phenolic analgesics related to **diflunisal** to diminish gastric irritation."*

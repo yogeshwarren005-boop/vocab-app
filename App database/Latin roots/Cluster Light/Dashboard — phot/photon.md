@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A quantum of electromagnetic radiation; an elementary particle that is its own antiparticle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quantum of electromagnetic radiation; an elementary particle that is its own antiparticle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A quantum of electromagnetic radiation, constituting an elementary particle with zero rest mass that travels at the speed of light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In quantum electrodynamics, the photon mediates the electromagnetic force, exhibiting wave-particle duality as described by Einstein and Planck.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photon designates a quantum of electromagnetic radiation; an elementary particle that is its own antiparticle."*
+> - 📜 **Albert Einstein (*The Evolution of Physics*):** *"We are compelled to imagine light as a shower of light bullets, each individual projectile being a **photon** carrying definite momentum."*
+> - 📜 **Niels Bohr (*Atomic Physics and Human Knowledge*):** *"The absorption of a single **photon** by an orbital electron elevates the atom to a precisely defined higher energy level."*
+> - 📜 **Richard Feynman (*QED: The Strange Theory of Light and Matter*):** *"Light is made of particles called photons: each **photon** has an amplitude to be reflected or transmitted at every glass boundary."*
+

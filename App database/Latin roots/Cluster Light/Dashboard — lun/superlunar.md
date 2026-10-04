@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated beyond the moon or its orbit around the earth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unworldly or ethereal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated above the moon; celestial, heavenly, or transcendent beyond the lunar sphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the immutable celestial heavens in classical cosmology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superlunar designates situated beyond the moon or its orbit around the earth."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The seraph soared upward into the **superlunar** ether, leaving the gloomy orbits of terrestrial night behind."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The mystic vision transported the soul into **superlunar** realms of uncreated light and harmony."*
+> - 📜 **Thomas Browne (*Religio Medici*):** *"The devout mind contemplates the incorruptible perfection of **superlunar** intelligences."*

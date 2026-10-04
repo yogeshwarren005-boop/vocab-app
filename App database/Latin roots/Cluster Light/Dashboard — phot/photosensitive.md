@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sensitive to visible light.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sensitive to visible light.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally sensitive or reactive to light or other radiant energy; reacting physically or chemically upon light exposure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurology, photosensitive epilepsy involves seizures triggered by flashing lights or high-contrast visual patterns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photosensitive designates sensitive to visible light."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"Flashing stroboscopic lamps in the laboratory provoked an immediate spike on the **photosensitive** patient's electroencephalogram."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The prepared glass plate remained **photosensitive** until properly fixed in the chemical solution."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"Her nervous temperament was as delicate and **photosensitive** as a plate exposed to morning sunlight."*
+

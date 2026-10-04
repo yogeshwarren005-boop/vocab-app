@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By photometric means.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By photometric means.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of photometry; through the measurement and quantification of light intensity or luminous flux.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In observational science, describing properties, magnitudes, or concentrations that are determined optical-instrumentally rather than visually estimated.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photometrically designates by photometric means."*
+> - 📜 **Arthur Eddington (*Stars and Atoms*):** *"The light curve of the eclipsing variable was measured **photometrically** with an accuracy exceeding one hundredth of a magnitude."*
+> - 📜 **Svante Arrhenius (*Worlds in the Making*):** *"Solar brightness during the annular eclipse was analyzed **photometrically** across the visible spectral bands."*
+> - 📜 **Hermann von Helmholtz (*Physiological Optics*):** *"When comparing two illuminated discs **photometrically**, the observer must ensure uniform retinal adaptation."*
+

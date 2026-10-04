@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put a new sole on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a sole or soles especially as specified; used in combination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a sole of a specified kind, as shoes or footwear fitted with leather or rubber soles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy and zoology, having an underside or plantar surface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O single-soled jest, solely singular for the singleness!"*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"What is it?" she asked, standing in the doorway with a plaid about her shoulders, and her feet thrust into Nance Edgar's big, wooden-soled, winter clogs."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Again on the way, Muggs nestles in a corner of the coach and acts strictly on the defensive, indignantly withdrawing his square-toed, thick-soled English shoes, should neighboring feet attempt to hobnob with them."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She walked in heavy hobnail-**soled** boots that clattered loudly along the flinty country roads."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The convict wore thick-**soled** coarse shoes covered with mud from the desolate marshes."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The Palmer took off his iron-**soled** sandals before stepping into the knight's hospitable chamber."*

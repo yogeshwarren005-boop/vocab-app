@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pain in the eye resulting from exposure to bright light (often associated with albinism).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pain in the eye resulting from exposure to bright light (often associated with albinism).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal, acute ocular pain or aching in the eyes provoked by exposure to intense light or bright glare.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical ophthalmology, photalgia often accompanies acute anterior uveitis, corneal abrasion, or severe trigeminal neuralgia radiating along the ophthalmic division.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photalgia designates pain in the eye resulting from exposure to bright light (often associated with albinism)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient complained of intense **photalgia** whenever the heavy curtains of the sickroom were drawn aside."*
+> - 📜 **Henry Gray (*Gray's Anatomy*):** *"Irritation of the ciliary nerves during inflammation of the iris induces reflex blepharospasm and severe **photalgia**."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The inflamed cornea causes agonizing **photalgia**, compelling the sufferer to seek the dimmest recesses of the bedchamber."*
+

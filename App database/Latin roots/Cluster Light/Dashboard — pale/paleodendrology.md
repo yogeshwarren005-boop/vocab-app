@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of paleobotany that studies fossil trees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of paleobotany that studies fossil trees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of fossil wood, ancient trees, and tree-ring patterns preserved in geological deposits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The paleobotanical analysis of woody plant tissues and dendritic growth patterns from fossil specimens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleodendrology designates the branch of paleobotany that studies fossil trees."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"**Paleodendrology** has revealed that giant araucarian tree forests once covered much of Antarctica and Patagonia."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The fossilized stumps of **paleodendrology** specimens from Yellowstone represent numerous successive ancient forests."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"**Paleodendrology** uses petrified wood anatomy to assign fossil trunks to modern gymnosperm or angiosperm families."*

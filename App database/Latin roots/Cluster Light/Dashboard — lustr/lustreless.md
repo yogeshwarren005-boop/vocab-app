@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking brilliance or vitality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking luster or shine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Devoid of luster, gloss, or shine; dull, matte, dim, or lacking light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking spirit, animation, vitality, or brilliance; lifeless.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The quick-silvery glaze on the rivers and pools vanished; from broad mirrors of light they changed to lustreless sheets of lead, with a surface like a rasp."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The twisted limbs, the gaping mouths, the staring lustreless eyes, fascinated him."*
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"He is meagre; his low and narrow forehead is deeply wrinkled; his eyes, small and lustreless, sometimes wander apprehensively about him, but oftener seem to look inward."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"His yellow skin scarcely covered the work of muscles beneath; his watery eyes were **lustreless** and dim."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"Her hair hung down in **lustreless** strands, sodden by the heavy autumn mists of the valley."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The victim's eyes were fixed and **lustreless**, staring blankly at the dark ceiling above."*

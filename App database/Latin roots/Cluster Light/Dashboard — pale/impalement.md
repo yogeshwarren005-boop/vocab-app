@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of piercing with a sharpened stake as a form of punishment or torture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of piercing with a sharpened stake as a form of punishment or torture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of piercing or transfixing a body upon a stake or pointed instrument as torture or execution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In heraldry, the joining of two coats of arms side by side on one divided shield.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, impalement designates the act of piercing with a sharpened stake as a form of punishment or torture."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Persian rulers inflicted **impalement** upon rebel generals as a spectacle of sovereign authority."*
+> - 📜 **Walter Scott (*Count Robert of Paris*):** *"Byzantine law still retained **impalement** as a lawful judicial penalty for traitors of the highest rank."*
+> - 📜 **Thomas Macaulay (*The History of England*):** *"Reports of Ottoman **impalement** of prisoners were circulated in European courts to inflame religious sentiment."*

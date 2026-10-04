@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give off.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reflect brightly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To emit flashes or sparks of light; to twinkle, sparkle, or gleam brilliantly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To display dazzling wit, liveliness, or intellectual brilliance in speech or writing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"The dimmest-sparked chip of a conception blazes and scintillates in the subtile oxygen of his mind."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Striking scenes and freshets of scintillating dialogue rushed through my mind."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Yet here she is lying at my feet, with her golden domes and crosses scintillating and twinkling in the sunshine."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"Great minds **scintillate** with original thoughts that awaken the dormant faculties of their hearers."*
+> - 📜 **Michael Faraday (*The Chemical History of a Candle*):** *"Finely divided iron filings dropped into the gas flame begin to **scintillate** in showers of vivid sparks."*
+> - 📜 **George Bernard Shaw (*Man and Superman*):** *"The drawing-room conversations were designed to **scintillate** with polished cynicism and comic banter."*

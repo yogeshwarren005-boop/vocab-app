@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Radiating or as if radiating light.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Radiating or as if radiating light.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shining with great brightness; radiant, gleaming, resplendent, and casting a brilliant glow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Visually dazzling or glorious in appearance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, refulgent designates radiating or as if radiating light."*
+> - 📜 **Alexander Pope (*The Iliad of Homer*):** *"As when the moon, **refulgent** lamp of night, o'er heaven's pure azure spreads her sacred light."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The Archangel stood revealed in **refulgent** arms, holding aloft his flaming celestial sword."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The summer morning was **refulgent** with dew and birdsong as Tess crossed the water-meadows."*

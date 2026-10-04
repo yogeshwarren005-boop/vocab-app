@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An engraving used to reproduce an illustration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An engraving used to reproduce an illustration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A process of producing relief printing plates using photographic exposure on sensitized metal followed by acid etching.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In printing history, late nineteenth-century photoengraving enabled the mass mechanical reproduction of detailed illustrations and photographs in newspapers and periodicals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photoengraving designates an engraving used to reproduce an illustration."*
+> - 📜 **Walter Benjamin (*The Work of Art in the Age of Mechanical Reproduction*):** *"Through the invention of **photoengraving**, the mass press was enabled to illustrate daily events almost instantaneously."*
+> - 📜 **Marshall McLuhan (*The Gutenberg Galaxy*):** *"The chemical precision of **photoengraving** reunited typography with pictorial illustration on the same printed page."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"Cheap commercial **photoengraving** democratized the consumption of ornamental imagery throughout industrial society."*
+

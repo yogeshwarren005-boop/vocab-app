@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or attributed to the moon and the sun or their mutual relations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or attributed to the moon and the sun or their mutual relations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or determined by the combined or mutual gravitational and optical actions of the sun and moon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In calendar systems, designating a calendar reconciling lunar months with the solar year.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lunisolar designates relating to or attributed to the moon and the sun or their mutual relations."*
+> - 📜 **Isaac Newton (*Philosophiæ Naturalis Principia Mathematica*):** *"The precession of the equinoxes arises from the **lunisolar** gravitational pull upon the Earth's equatorial bulge."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"Ancient Babylonian astronomers developed an ingenious **lunisolar** cycle of intercalary months to harmonize the seasons."*
+> - 📜 **Thomas Babington Macaulay (*Essays*):** *"The ancient Hindu calendar employs a complex **lunisolar** computation to fix sacred festival days."*

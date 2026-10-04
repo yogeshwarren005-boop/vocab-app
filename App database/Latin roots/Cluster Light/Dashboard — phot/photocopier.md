@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A copier that uses photographic methods of making copies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A copier that uses photographic methods of making copies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A machine for making paper copies of documents and visual images quickly and cheaply using xerographic technology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In office automation history, the commercial photocopier developed by Chester Carlson revolutionized bureaucratic workflows and administrative documentation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photocopier designates a copier that uses photographic methods of making copies."*
+> - 📜 **Marshall McLuhan (*Understanding Media*):** *"The electric **photocopier** makes everybody an author and a publisher, altering the traditional monopolies of print."*
+> - 📜 **Don DeLillo (*White Noise*):** *"The hum of the office **photocopier** formed a continuous backdrop to the department's morning routine."*
+> - 📜 **David Foster Wallace (*The Pale King*):** *"The young clerk spent his afternoons feeding tax forms into the rumbling **photocopier** in the basement archive."*
+

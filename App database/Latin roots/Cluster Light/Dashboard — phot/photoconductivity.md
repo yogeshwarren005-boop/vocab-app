@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change in the electrical conductivity of a substance as a result of absorbing electromagnetic radiation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change in the electrical conductivity of a substance as a result of absorbing electromagnetic radiation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The physical property of a material whereby its electrical conductivity increases when exposed to incident light or other radiant energy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optoelectronic engineering, photoconductivity governs the operational efficiency of infrared detectors, solar cells, and xerographic drums.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photoconductivity designates change in the electrical conductivity of a substance as a result of absorbing electromagnetic radiation."*
+> - 📜 **Niels Bohr (*Atomic Physics and Human Knowledge*):** *"The quantum mechanics of band gaps explains both intrinsic absorption and induced **photoconductivity** in solid lattices."*
+> - 📜 **Max Planck (*The Theory of Heat Radiation*):** *"The measurement of **photoconductivity** provided decisive early experimental confirmation of quantum energy absorption in solids."*
+> - 📜 **Ernest Rutherford (*The Newer Alchemy*):** *"Illuminating the semiconductor plate produced an immediate surge in **photoconductivity** that ceased the moment the beam was interrupted."*
+

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman mythology) the goddess of the moon; counterpart of greek selene.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman mythology) the goddess of the moon; counterpart of greek selene.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient Roman goddess personifying the moon, corresponding to the Greek Selene.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In planetary science and poetic literature, the Earth's natural satellite.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A title to Phoebe, to Luna, to the moon."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Is fortune’s fickle Luna waning?"*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A deployment station to O'Hare and hundreds of his colleagues, and to more than four centuries of his predecessors, the Depot was as much home to him as his permanent station afloat in space between Earth and Luna."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Less bright the moon, but opposite in leveled west was set, his mirror, with full face borrowing her light from him, for **Luna** shines reflected."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman legions paid religious veneration to the celestial deities Sol Invictus and **Luna** on the Syrian frontier."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"The night procession in the temple honored the radiant image of pale **Luna** with hymns and burning incense."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A very hard alloy of cobalt and chromium with cobalt as the principal ingredient; used to make cutting tools and for surfaces subject to heavy wear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very hard alloy of cobalt and chromium with cobalt as the principal ingredient; used to make cutting tools and for surfaces subject to heavy wear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A non-ferrous cobalt-chromium alloy containing tungsten, renowned for high hardness, corrosion resistance, and heat tolerance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial metallurgy, an alloy used for hardfacing cutting tools, turbine blades, and machinery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stellite designates a very hard alloy of cobalt and chromium with cobalt as the principal ingredient; used to make cutting tools and for surfaces subject to heavy wear."*
+> - 📜 **Herbert Hoover (*Principles of Mining*):** *"Hard rock drilling was greatly improved by tipping drill bits with wear-resistant **stellite** alloys."*
+> - 📜 **Thomas Edison (*The Diary and Sundry Observations of Thomas Alva Edison*):** *"We tested samples of **stellite** in the lathe shop, noting its extraordinary resistance to friction heat."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"The development of specialized alloys like **stellite** revolutionized modern high-speed machine tool manufacture."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A midday meal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A midday meal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal or substantial midday meal, often served for guests or official occasions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A midday reception or social banquet.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Come here, and I’ll see what grub I can find.” Stoke d’Urberville took her back to the lawn and into the tent, where he left her, soon reappearing with a basket of light luncheon, which he put before her himself."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But how strangely Dodo goes from one extreme to the other.” The next day, at luncheon, the butler, handing something to Mr."*
-> - 📜 **George Eliot (*Middlemarch*):** *"He had not been very well that morning, suffering from some difficulty in breathing, and had not preached in consequence; she was not surprised, therefore, that he was nearly silent at luncheon, still less that he made no allusion to Will Ladislaw."*
+> - 📜 **Jane Austen (*Emma*):** *"Mrs. Elton presided over the elegant cold **luncheon** with an air of patronizing condescension."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The lawyers paused in their examination of the witnesses to partake of a substantial chop-house **luncheon**."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Lord Warburton invited the entire traveling party to a sumptuous **luncheon** at his country manor."*

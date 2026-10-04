@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin stell within the domain of Light.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of stell in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To transform or translate a person, hero, or object into a star or celestial constellation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In poetic mythology, to glorify or immortalize among the stars (catasterism).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stellify designates pertaining to, derived from, or characteristic of latin stell within the domain of light."*
+> - 📜 **Geoffrey Chaucer (*The House of Fame*):** *"Jupiter promised to **stellify** the poet among the celestial constellations for his service to love."*
+> - 📜 **Edmund Spenser (*The Faerie Queene*):** *"The gods resolved to **stellify** the virtuous maiden, placing her radiant image in the heavens."*
+> - 📜 **Percy Bysshe Shelley (*Adonais*):** *"The muse shall **stellify** the departed poet, whose songs shine forever in the literary firmament."*

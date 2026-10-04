@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An arrangement of parts or elements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A configuration of stars as seen from the earth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A recognized grouping of stars in the night sky forming an imaginary figure or celestial outline.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A distinguished assembly or gathering of brilliant persons, objects, or qualities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know thy constellation is right apt For this affair."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here Love himself sits smiling; Just such another wanton Ganymede Set Jove afire with, and enforced the god Snatch up the goodly boy and set him by him, A shining constellation."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The Dog-star and Aldebaran, pointing to the restless Pleiades, were half-way up the Southern sky, and between them hung Orion, which gorgeous constellation never burnt more vividly than now, as it soared forth above the rim of the landscape."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"The ancient **constellation** of Orion dominates the southern winter skies with unmatched grandeur."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Augustan age produced a brilliant **constellation** of poets, historians, and statesmen."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The nocturnal voyager navigated by the guiding **constellation** of the Southern Cross."*

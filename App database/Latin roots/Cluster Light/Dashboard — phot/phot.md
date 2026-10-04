@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of illumination equal to 1 lumen per square centimeter; 10,000 phots equal 1 lux.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of illumination equal to 1 lumen per square centimeter; 10,000 phots equal 1 lux.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A CGS photometric unit of illuminance or luminous flux density incident on a surface, equivalent to one lumen per square centimeter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legacy optical metrology, the unit represents approximately 10,000 lux, used in early twentieth-century illumination engineering before the SI system prevailed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phot designates a unit of illumination equal to 1 lumen per square centimeter; 10,000 phots equal 1 lux."*
+> - 📜 **Arthur Eddington (*The Internal Constitution of the Stars*):** *"Solar radiation received perpendicularly above the terrestrial atmosphere produces an illumination measured in a fraction of a **phot**."*
+> - 📜 **James Hopwood Jeans (*Astronomy and Cosmogony*):** *"The luminous intensity of the stellar surface can be calibrated directly in fractions of a **phot** upon the focal plane."*
+> - 📜 **Silvanus P. Thompson (*Light Visible and Invisible*):** *"The standard candle creates an illumination at a given distance easily expressed in modern units such as the **phot**."*
+

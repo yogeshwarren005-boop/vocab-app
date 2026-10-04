@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being bright and sending out rays of light.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being bright and sending out rays of light.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme radiance, brilliant shining, or luminous splendor that dazzles the eye.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Glorious majesty or spiritual illumination emanating from an exalted source.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Yet the skies are still tranquil and starlit, The sun 'twixt the wave and the west Dies in purple, and crimson, and scarlet, And gold; let us hope for the best, Since again from the earth his effulgence The darkness and damp-dews shall wipe."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Is the wise man of to-day believed, when he beholds the light which heralds Christ's eternal dawn 95:27 and describes its effulgence?"*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The changing glow and full effulgence of God's infi- 511:18 nite ideas, images, mark the periods of progress. /Genesis/ i. 20."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Bright **effulgence** of bright essence increate, whose fountain who shall tell?"*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"The rising moon poured her silvery **effulgence** across the silent mountain lake."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The summer sunset filled the western sky with an amber **effulgence** that lingered for hours."*

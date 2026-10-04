@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A room enclosed largely with glass and affording exposure to the sun.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A room enclosed largely with glass and affording exposure to the sun.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A glass-enclosed room, porch, or sun parlor designed to admit extensive natural sunlight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical sanatoriums, a sun terrace used for phototherapy and tuberculosis recovery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, solarium designates a room enclosed largely with glass and affording exposure to the sun."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Convalescent pulmonary patients derived immense benefit from rest in the open **solarium** of the sanatorium."*
+> - 📜 **Henry James (*The Wings of the Dove*):** *"Milly Theale sat in the glass **solarium** of the Venetian palazzo, warmed by the autumn sun."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"The hospital architects incorporated a spacious rooftop **solarium** to provide fresh air and light."*

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to photoelectricity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to photoelectricity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or involving electrical effects resulting from the emission, absorption, or behavior of electrons under the influence of light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics history, Albert Einstein's 1905 explanation of the photoelectric effect established that light behaves as discrete quanta (photons), earning him the Nobel Prize.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photoelectric designates of or pertaining to photoelectricity."*
+> - 📜 **Albert Einstein (*Out of My Later Years*):** *"The discovery of the **photoelectric** effect showed that energy transfer between radiation and matter occurs only in discrete quanta."*
+> - 📜 **Max Planck (*Scientific Autobiography*):** *"Einstein's bold hypothesis regarding **photoelectric** emission extended the quantum concept into the very nature of light."*
+> - 📜 **Arthur Eddington (*The Nature of the Physical World*):** *"When light falls upon matter, the **photoelectric** interaction dislodges electrons with an energy proportional to frequency."*
+

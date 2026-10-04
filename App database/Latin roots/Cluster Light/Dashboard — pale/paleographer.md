@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An archeologist skilled in paleography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An archeologist skilled in paleography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scholar who studies and deciphers ancient and medieval manuscripts, inscriptions, and historical handwriting systems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert who analyzes the evolution of script forms to date, authenticate, and interpret historical documents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleographer designates an archeologist skilled in paleography."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"A skilled **paleographer** deciphered the faded monastic charter from the obscure Caroline minuscule script."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **paleographer** identified the Syriac colophon as a seventh-century addition to the Greek manuscript."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Venetian archives employed a permanent **paleographer** to read and transcribe the legal records of the Doge."*

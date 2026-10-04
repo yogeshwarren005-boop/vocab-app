@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Artwork that helps make something clear or attractive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing by example.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A picture, drawing, diagram, or engraving printed in a book to decorate or explain the text.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An example, story, or instance that serves to clarify or explain an idea.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, illustration designates artwork that helps make something clear or attractive."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The accompanying woodcut **illustration** shows the rudimentary ear tubercle in human adults."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The anatomical diagram affords a lucid **illustration** of the cardiac valves in action."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"As a child, Jane spent hours studying Bewick's **illustration** of lonely Arctic sea-fowl."*

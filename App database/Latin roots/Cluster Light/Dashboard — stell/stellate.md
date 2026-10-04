@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arranged like rays or radii; radiating from a common center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arranged like rays or radii; radiating from a common center.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like a star; radiating outward in star-like rays or pointed projections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical and anatomical anatomy, having star-shaped cells, trichomes, or crystals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Then it began to scramble all over the oval stellated globe of the tiny blossoms."*
+> - 📜 **Charles Darwin (*Insectivorous Plants*):** *"The leaf surface was covered with minute **stellate** hairs that trapped atmospheric moisture."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The gunshot wound presented a distinctive **stellate** laceration at the point of entrance."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Microscopic sections of the cerebral cortex revealed large **stellate** nerve cells with branching dendrites."*

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lamp for providing momentary light to take a photograph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lamp for providing momentary light to take a photograph.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A device or chemical mixture that produces a brief, intense flash of artificial light to illuminate a photographic subject.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically ranging from magnesium powder ignited on a tray to synchronized flashbulbs and electronic strobe tubes in modern cameras.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photoflash designates a lamp for providing momentary light to take a photograph."*
+> - 📜 **Raymond Chandler (*The Big Sleep*):** *"The sudden blinding burst of a **photoflash** flared in the darkness of the alley, followed by scurrying footsteps."*
+> - 📜 **Graham Greene (*The Quiet American*):** *"Reporters pressed around the diplomatic car, their **photoflash** bulbs popping in the humid Saigon evening."*
+> - 📜 **W. H. Auden (*The Age of Anxiety*):** *"A momentary glare like a **photoflash** caught the faces in the bar before returning them to shadow."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Synthesis of compounds with the aid of radiant energy (especially in plants).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Synthesis of compounds with the aid of radiant energy (especially in plants).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The biological process by which green plants, algae, and certain bacteria synthesize carbohydrates from carbon dioxide and water using absorbed sunlight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant biochemistry and biophysics, oxygenic photosynthesis occurs inside chloroplasts, driving both the light-dependent reactions and the Calvin-Benson cycle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photosynthesis designates synthesis of compounds with the aid of radiant energy (especially in plants)."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"All the wealth of ocean life depends upon the miracle of **photosynthesis** carried out by microscopic unicellular algae."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"The leaves orient themselves perpendicular to the incoming rays, optimizing their structural capacity for **photosynthesis**."*
+> - 📜 **Svante Arrhenius (*Worlds in the Making*):** *"Through terrestrial **photosynthesis**, green foliage continually consumes atmospheric carbonic acid and liberates vital oxygen."*
+

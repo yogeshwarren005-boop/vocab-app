@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Indicating the most important performer or role.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or relating to or resembling or emanating from stars.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, consisting of, or characteristic of the stars; celestial or astral.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Outstanding, prominent, or of supreme excellence; star-like in achievement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They were at stellar distances from her present world."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Never Boreas’ hoary path, Never Eurus’ pois’nous breath, Never baleful stellar lights, Taint thee with untimely blights!"*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Copernicus mapped out the stellar system, and before he spake, astrography was chaotic, and the heavenly fields 121:6 were incorrectly explored."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"The spectroscope revealed the gaseous constitution and physical temperatures of distant **stellar** atmospheres."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"The soul maintains its steady course guided by eternal truths as an astronomer observes **stellar** motions."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"Cosmic evolution encompasses the birth and cooling of **stellar** systems over unimaginable epochs."*

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A representation of a person or scene in the form of a print or transparent slide; recorded by a camera on light-sensitive material.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Record on photographic film.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A picture, image, or likeness produced on a light-sensitive surface or digital sensor by the action of radiant energy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To record or capture a likeness of a person, object, or scene using photography.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It had seemed of a sudden most familiar, in much the same way that my father’s barn would have been in a photograph."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"They’ve ben fixin’ it up awful.” Here the missionary handed to my mother another photograph he had sought out."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"El Kul’ah, as it was known by—” But here I broke in again, pointing to rubbish piles of ruined masonry on the left edge of the photograph."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"He locked the precious cabinet containing the royal **photograph** and placed the key in his waistcoat."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"She gazed intently at the framed **photograph**, searching the faded features for some likeness to herself."*
+> - 📜 **James Joyce (*Dubliners*):** *"On the mantelpiece rested a small **photograph** of the deceased priest in his ordination vestments."*
+

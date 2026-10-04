@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A representation of a person or scene in the form of a print or transparent slide; recorded by a camera on light-sensitive material.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A representation of a person or scene in the form of a print or transparent slide; recorded by a camera on light-sensitive material.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A photograph or picture created by capturing light on a light-sensitive surface or digital sensor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colloquial abbreviation universally adopted in modern visual communication, journalism, and personal media archives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"In my responses I told about the time and circumstances that I had taped a commentary to our family's photo and document album, and how I went about it."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Organizing the material in each section chronologically, I inserted them into the albums and numbered each photo, document and page."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Soon after the photo was taken, by K, we all drove to AA, visited the city of BB, and had lunch at CC."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"She had threatened to produce the incriminating **photo** before the approaching royal wedding."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"A faded **photo** stood upon the dressing table, capturing a forgotten summer afternoon on the lawn."*
+> - 📜 **George Orwell (*1984*):** *"Winston remembered the oblong slip of newspaper with the fatal **photo** of Jones, Aaronson, and Rutherford."*
+

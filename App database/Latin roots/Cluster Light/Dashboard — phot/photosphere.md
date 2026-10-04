@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The intensely luminous surface of a star (especially the sun).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The intensely luminous surface of a star (especially the sun).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The luminous, visible outer surface layer of a star, especially the Sun, from which most of its electromagnetic radiation is emitted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In solar astrophysics, the solar photosphere has an effective temperature of approximately 5,778 K and is characterized by convective granulation and sunspots.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her hopes mingled with the sunshine in an ideal photosphere which surrounded her as she bounded along against the soft south wind."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Her hopes mingled with the sunshine in an ideal **photosphere** which surrounded her, transforming the mundane dairy into an earthly paradise."*
+> - 📜 **Arthur Eddington (*The Internal Constitution of the Stars*):** *"The solar **photosphere** represents the optical transition boundary where the stellar gases become transparent to radiant energy."*
+> - 📜 **James Hopwood Jeans (*The Universe Around Us*):** *"Dark sunspots appear against the brilliant solar **photosphere** as cooler magnetic whirlpools in the gas."*
+

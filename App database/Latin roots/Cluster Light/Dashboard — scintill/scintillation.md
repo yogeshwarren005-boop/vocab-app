@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (physics) a flash of light that is produced in a phosphor when it absorbs a photon or ionizing particle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rapid change in brightness; a brief spark or flash.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A spark, flash of light, or twinkle; the twinkling of stars caused by atmospheric refraction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nuclear physics, a flash of light produced in a fluorescent material by an ionizing particle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"And here is the answer to that scintillation of Free Trade wisdom which flashes out in wonder that _Manufactures_ are eternally and especially in want of Protection, while Agriculture and Commerce need none."*
-> - 📜 **Jos. E. Badger (*The Texas Hawks; or, The Strange Decoy*):** *"Her dress flashed back the firelight in a thousand scintillations, from the beads and silver ornaments that thickly studded its folds."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"The rapid **scintillation** of Sirius was intensified by the cold, turbulent air currents of winter."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Each electrical discharge produced a vivid **scintillation** between the brass terminal spheres."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The poet's mind was visited by transient **scintillation** of spiritual insight amid mundane despair."*

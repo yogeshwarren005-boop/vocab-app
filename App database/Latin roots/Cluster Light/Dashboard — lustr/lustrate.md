@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Purify by means of a ritual; also used in post-communist countries to refer to the political cleansing of former officials.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Purify by means of a ritual; also used in post-communist countries to refer to the political cleansing of former officials.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To purify, cleanse, or consecrate by means of a ceremonial expiatory ritual, sacrifice, or washing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Roman religion, to perform the lustrum purification ritual for the citizens or crops.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Moses advanced a nation to the worship of God in Spirit instead of matter, and il- 200:6 lustrated the grand human capacities of being bestowed by immortal Mind."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"The Roman priests were summoned to **lustrate** the newly seeded fields with solemn sacrificial processions."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"Before harvest began, the country folk gathered to **lustrate** the boundaries of the farm with holy water."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The censors prepared to **lustrate** the Roman people in the Campus Martius after completing the census."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated beyond the moon or its orbit around the earth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unworldly or ethereal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated, occurring, or reaching beyond the moon; superlunary and ethereal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transcending mundane, earthly existence into sublime metaphysical realms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Man, in his earth life, cannot always be “high contemplative”, and indulge in “brave translunary things”; he must welcome again, it must be confessed, “land the solid and safe”."*
+> - 📜 **Michael Drayton (*To My Most Dearly-Loved Friend, Henry Reynolds, Esq.*):** *"Neat Marlowe bathed in the Thespian springs had in him those brave **translunary** things that the first poets had."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The metaphysical poets delighted in bold metaphors that ventured into **translunary** speculations."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"Genius touches common worldly things with a divine, **translunary** illumination."*

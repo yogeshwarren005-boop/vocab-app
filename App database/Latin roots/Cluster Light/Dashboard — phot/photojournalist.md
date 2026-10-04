@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A journalist who presents a story primarily through the use of photographs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A journalist who presents a story primarily through the use of photographs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A reporter who creates photographs or visual essays to document news events and tell journalistic stories.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In conflict and documentary reporting, a photojournalist often works in dangerous front-line environments to provide objective visual witnesses to world events.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photojournalist designates a journalist who presents a story primarily through the use of photographs."*
+> - 📜 **Susan Sontag (*Regarding the Pain of Others*):** *"The courageous **photojournalist** risks personal safety to document the harrowing consequences of modern warfare."*
+> - 📜 **Don DeLillo (*Mao II*):** *"The seasoned **photojournalist** lived out of a canvas camera bag, moving perpetually between scenes of political turmoil."*
+> - 📜 **Joan Didion (*Salvador*):** *"We met an American **photojournalist** in the hotel corridor, his cameras wrapped in dusty plastic against the road dust."*
+

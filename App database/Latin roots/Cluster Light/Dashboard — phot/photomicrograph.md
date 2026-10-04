@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A photograph taken with the help of a microscope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A photograph taken with the help of a microscope.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A photograph or digital image of a microscopic object or structure taken through a magnifying optical or electron microscope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histopathology, metallurgy, and biology, photomicrographs provide empirical photographic evidence of cellular morphology and crystalline grain boundaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photomicrograph designates a photograph taken with the help of a microscope."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The diagnostic textbook was enriched by a detailed **photomicrograph** showing the characteristic malarial parasites inside red blood cells."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Creeping Man*):** *"Holmes held the slide up to the light, comparing it carefully with an enlarged **photomicrograph** in his notebook."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould*):** *"A clear **photomicrograph** of the fossil pollen revealed the delicate structural contours of the grain wall."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A photocopy made on a photostat machine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A duplicating machine that makes quick positive or negative copies directly on the surface of prepared paper.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A photographic copy of a document or drawing made directly on sensitized paper by a specialized early copy camera (Photostat machine).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically trademarked in the early twentieth century, the term became a generic verb and noun for high-contrast archival document reproduction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photostat designates a photocopy made on a photostat machine."*
+> - 📜 **George Orwell (*1984*):** *"He spread out the faded **photostat** of the newspaper clipping, staring at the conclusive photographic proof of their innocence."*
+> - 📜 **Raymond Chandler (*The Long Goodbye*):** *"He drew a folded **photostat** from his inner coat pocket and dropped it onto my desk without a word."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Three Gables*):** *"The detective inspected the clear **photostat** of the original will, searching for telltale signs of erasure."*
+

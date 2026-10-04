@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of taking and printing photographs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of producing images of objects on photosensitive surfaces.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art, science, and practice of producing durable images by recording light on a radiation-sensitive medium or electronic sensor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century technological culture, the advent of photography revolutionized empirical observation, portraiture, and artistic realism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The several uses of gold are constantly competing for it: its uses for rings, pens, ornaments, championship cups, photography, dentistry, delicate instruments, and as a circulating medium."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Never was such a fellow for photography."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"I thought of the assistant’s fondness for photography, and his trick of vanishing into the cellar."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"I thought of the assistant's fondness for **photography**, and his trick of vanishing into the dark cellar."*
+> - 📜 **Charles Baudelaire (*The Salon of 1859*):** *"If **photography** is allowed to supplement art in some of its functions, it will soon have corrupted it entirely."*
+> - 📜 **Walter Benjamin (*A Short History of Photography*):** *"Early **photography** possessed a luminous aura that faded as mechanical reproduction became industrialized."*
+

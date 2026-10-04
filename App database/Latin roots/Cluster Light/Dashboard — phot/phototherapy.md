@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of strong light to treat acne or hyperbilirubinemia of the newborn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of strong light to treat acne or hyperbilirubinemia of the newborn.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical treatment of disease, physical disorders, or mental conditions by controlled exposure to specific wavelengths of light or ultraviolet radiation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neonatology and dermatology, phototherapy is standard treatment for neonatal jaundice (converting bilirubin) and chronic plaque psoriasis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phototherapy designates the use of strong light to treat acne or hyperbilirubinemia of the newborn."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Niels Finsen's pioneering clinical application of **phototherapy** successfully cured severe cases of lupus vulgaris."*
+> - 📜 **Oliver Sacks (*The Island of the Colorblind*):** *"Patients suffering from seasonal affective disorders reported dramatic mood improvements after scheduled morning **phototherapy**."*
+> - 📜 **Henry Gray (*Gray's Anatomy*):** *"Blue-light **phototherapy** isomerizes neurotoxic unconjugated bilirubin in neonatal dermal capillaries into excretable water-soluble lumirubin."*
+

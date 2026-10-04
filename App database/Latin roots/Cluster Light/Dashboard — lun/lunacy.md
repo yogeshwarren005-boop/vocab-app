@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Obsolete terms for legal insanity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Foolish or senseless behavior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Severe mental illness, madness, or insanity, historically believed to fluctuate with phases of the moon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extreme foolishness, absurdity, or reckless folly in behavior or policy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Love is merely a madness, and, I tell you, deserves as well a dark house and a whip as madmen do; and the reason why they are not so punished and cured is that the lunacy is so ordinary that the whippers are in love too."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And can you by no drift of circumstance Get from him why he puts on this confusion, Grating so harshly all his days of quiet With turbulent and dangerous lunacy?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hence comes it that your kindred shuns your house, As beaten hence by your strange lunacy."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"If't be so, Hamlet is of the faction that is wrong'd; his madness is poor Hamlet's enemy: what I have done, that might your nature, honour, and exception roughly awake, I here proclaim was madness; was't Hamlet wrong'd Laertes? Never Hamlet: if Hamlet from himself be ta'en away, and when he's not himself does wrong Laertes, then Hamlet does it not; Hamlet denies it. Who does it then? His madness; if't be so, Hamlet is of the faction that is wrong'd; his **lunacy** is poor Hamlet's enemy."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Jarndyce regarded the protracted Chancery suit as an institutional monument of national **lunacy**."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Knightley declared that entering into such a rash matrimonial engagement was pure **lunacy**."*

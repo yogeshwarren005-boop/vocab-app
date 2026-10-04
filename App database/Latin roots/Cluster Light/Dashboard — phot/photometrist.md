@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who practices photometry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who practices photometry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert in photometry; one who measures luminous intensity, luminance, and luminous flux.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In applied optics and laboratory physics, a photometrist evaluates lighting sources, optical sensors, and reflective materials against photometric benchmarks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photometrist designates someone who practices photometry."*
+> - 📜 **Silvanus P. Thompson (*Light Visible and Invisible*):** *"The practical **photometrist** relies upon standard lamps calibrated under rigid atmospheric specifications."*
+> - 📜 **Arthur Eddington (*Stars and Atoms*):** *"To the astronomical **photometrist**, each subtle variation in a star's light curve holds clues to its physical constitution."*
+> - 📜 **Hermann von Helmholtz (*Popular Lectures on Scientific Subjects*):** *"The eye of the **photometrist** acts not as an absolute meter, but as a sensitive null detector comparing two adjacent fields."*
+

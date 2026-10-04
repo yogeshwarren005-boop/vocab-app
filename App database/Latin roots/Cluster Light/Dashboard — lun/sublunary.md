@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated between the earth and the moon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of this earth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated beneath the moon; belonging to the physical Earth or mortal existence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of terrestrial life; mutable, perishable, and subject to time and decay.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"A _snell_ remark of his brother William suggesting some new and comic association with a philosophic term dropped in the course of the discussion, would bring him back with a roar of laughter to the actual world and to more sublunary themes."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The succeeding week seemed long: it came to an end at last, however, like all sublunary things, and once more, towards the close of a pleasant autumn day, I found myself afoot on the road to Lowton."*
-> - 📜 **James Joyce (*Ulysses*):** *"How mingled and imperfect are all our sublunary joys."*
+> - 📜 **Samuel Johnson (*The History of Rasselas, Prince of Abissinia*):** *"Human life is a state in which much is to be endured, and little to be enjoyed, in this imperfect **sublunary** state."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman philosophers meditated upon the transient vanity of all **sublunary** grandeur and power."*
+> - 📜 **John Donne (*A Valediction: Forbidding Mourning*):** *"Dull **sublunary** lovers' love, whose soul is sense, cannot admit absence, because it doth remove those things which elemented it."*

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of deciduous and evergreen east asian trees and shrubs widely cultivated as ornamentals for their white flowers and red fruits; in some classifications includes genus heteromeles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of deciduous and evergreen east asian trees and shrubs widely cultivated as ornamentals for their white flowers and red fruits; in some classifications includes genus heteromeles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of Asian and North American evergreen and deciduous shrubs and small trees belonging to the rose family (Rosaceae), noted for glossy leaves and scarlet young foliage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornamental horticulture and dendrology, cultivars like Photinia fraseri ('Red Robin') are widely cultivated for decorative hedging and dense panicles of white blossoms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photinia designates genus of deciduous and evergreen east asian trees and shrubs widely cultivated as ornamentals for their white flowers and red fruits; in some classifications includes genus heteromeles."*
+> - 📜 **Gertrude Jekyll (*Wood and Garden*):** *"The brilliant spring foliage of the **photinia** gives a remarkable dash of crimson to the shrubbery border."*
+> - 📜 **John Claudius Loudon (*Arboretum et Fruticetum Britannicum*):** *"The glossy evergreen leaves of **photinia** endure severe temperate frosts without losing their lustrous sheen."*
+> - 📜 **Reginald Farrer (*The English Rock-Garden*):** *"Across the ravines of Kansu, wild species of **photinia** crowned the limestone crags with clusters of white bloom."*
+

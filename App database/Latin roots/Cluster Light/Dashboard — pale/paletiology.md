@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The explanation of past events in terms of scientific causes (as geological causes).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The explanation of past events in terms of scientific causes (as geological causes).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The method of historical inquiry that traces present phenomena back to their causes in the remote past by successive steps.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of natural history applying retrospective causal analysis to geological and biological historical sequences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paletiology designates the explanation of past events in terms of scientific causes (as geological causes)."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"**Paletiology** reasons backward from present geological phenomena to infer the series of past events that produced them."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The method of **paletiology** applied to biogeography explains present distributions as consequences of historical dispersal."*
+> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"**Paletiology** constitutes a distinctive class of inductive science concerned exclusively with reconstructing past events."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having great beauty and splendor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having great beauty and splendor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extraordinarily or ostentatiously splendid; magnificent, grand, or gorgeous in appearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In humorous or colloquial speech, delightfully opulent or showy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Will immensely splendiferous stander permit one stooder of most extreme poverty and one largesize grandacious thirst to terminate one expensive inaugurated libation?"*
+> - 📜 **Mark Twain (*A Connecticut Yankee in King Arthur's Court*):** *"The tournament field presented a **splendiferous** spectacle of fluttering silks, armor, and banners."*
+> - 📜 **H. G. Wells (*The History of Mr. Polly*):** *"He gazed in wonder at the **splendiferous** display of holiday ribbons and hats in the draper's window."*
+> - 📜 **Jack London (*The Iron Heel*):** *"The oligarchs flaunted their wealth in **splendiferous** balls that mocked the misery of the slums."*

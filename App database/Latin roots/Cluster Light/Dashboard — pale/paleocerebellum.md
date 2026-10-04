@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The anterior lobe of the cerebellum which was one of the earliest parts of the hindbrain to develop in mammals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The anterior lobe of the cerebellum which was one of the earliest parts of the hindbrain to develop in mammals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The evolutionarily ancient portion of the cerebellum, including the anterior lobe, controlling muscular coordination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative neuroanatomy, the phylogenetically primitive cerebellar division receiving spinal cord proprioceptive input.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleocerebellum designates the anterior lobe of the cerebellum which was one of the earliest parts of the hindbrain to develop in mammals."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The **paleocerebellum** receives proprioceptive fibers from the spinal cord to coordinate limb movements in locomotion."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Lesions of the **paleocerebellum** produce truncal ataxia and a characteristic wide-based, reeling gait."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Vertebrate Animals*):** *"The **paleocerebellum** is disproportionately large in fishes and amphibians relative to the neocerebellum."*

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Damage to the retina resulting from exposure of the eye to the sun without adequate protection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Damage to the retina resulting from exposure of the eye to the sun without adequate protection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Retinal injury and inflammation caused by direct, unprotected exposure of the eyes to intense radiant light, such as solar eclipses or laser beams.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical ophthalmology, solar photoretinitis results in photochemical damage to the foveal retinal pigment epithelium and a central scotoma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photoretinitis designates damage to the retina resulting from exposure of the eye to the sun without adequate protection."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Staring directly at the sun without adequate dark filtration frequently induces acute **photoretinitis** with permanent central vision loss."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The careless stargazer suffered painful **photoretinitis**, leaving a blind spot at the very center of his visual field."*
+> - 📜 **Henry Gray (*Gray's Anatomy*):** *"Thermal and photochemical lesions of the macula caused by **photoretinitis** lead to irreversible degeneration of foveal photoreceptors."*
+

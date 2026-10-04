@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By photographic means.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By photographic means.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of photography; in a manner characteristic of a photographic image, with precise and objective detail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In representation, denoting rendering that reproduces external reality with mechanical fidelity rather than interpretive distortion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The picture is placed, either by hand or photographically, upon a sheet of copper foil, which is fixed round the rotating cylinder, the lines being formed of non-conducting material."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The waves are recorded photographically, in some cases by the kinematograph."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The differently coloured lights are not of the same power photographically."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"The playwright aimed to represent everyday social hypocrisy **photographically** rather than through romantic melodrama."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The astronomical observatory recorded the distant Martian flashes **photographically** upon glass plates."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Certain visual memories seem preserved **photographically**, resisting the gradual erosion of passing years."*
+

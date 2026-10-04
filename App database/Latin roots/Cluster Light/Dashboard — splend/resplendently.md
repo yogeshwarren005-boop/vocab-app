@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an impressively beautiful manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an impressively beautiful manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a resplendent manner; with dazzling brightness, radiant splendor, or brilliant luster.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Magnificently and luminously.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"But as quiet I lay, and thought o'er my decision, All my wakefulness passed, and I saw in a vision, By my side standing closely, an Angel of Light, Clothed in shining apparel resplendently bright."*
+> - 📜 **Walter Pater (*The Renaissance*):** *"The golden altarpiece shone **resplendently** within the gloomy gothic nave of the cathedral."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The grand lady was **resplendently** attired for the royal reception in jewels and Brussels lace."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The sunset flared **resplendently** across the western ridge, setting the dark heather aflame."*

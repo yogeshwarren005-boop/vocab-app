@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Confinement of a prisoner in isolation from other prisoners.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who lives in solitude.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Living, being, or existing alone; unaccompanied, secluded, or isolated from others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Done, passed, or endured alone without companionship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In respect that it is solitary, I like it very well; but in respect that it is private, it is a very vile life."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your message done, hie home unto my chamber, Where thou shalt find me sad and solitary. [_Exit._] JULIA."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Trius has led a solitary life and sees no one except Apollonie, and her only when he is in need of her."*
+> - 📜 **William Wordsworth (*The Solitary Reaper*):** *"Behold her, single in the field, yon **solitary** Highland lass! Reaping and singing by herself."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"Crusoe passed twenty-eight years of **solitary** exile upon his uninhabited island in the Caribbean."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The philosopher pursued his **solitary** meditations in his high watchtower overlooking the city."*

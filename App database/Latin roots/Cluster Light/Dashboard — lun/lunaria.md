@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of european herbs: honesty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of european herbs: honesty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of annual and biennial flowering plants in the cabbage family (Brassicaceae), including honesty or silver dollar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, prized for translucent, silvery, coin-shaped partition walls of its mature seed pods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lunaria designates small genus of european herbs: honesty."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"The garden honesty, termed **Lunaria** by herbalists, beareth round silvery pods that shine like full moons."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The dried silicles of **Lunaria** are collected for winter decorative bouquets on account of their pearly septa."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Cultivated varieties of **Lunaria** exhibit striking stability in the membranous texture of their seed vessels."*

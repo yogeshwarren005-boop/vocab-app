@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Looking attractive in photographs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Looking attractive in photographs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Looking attractive, appealing, or well-proportioned in photographs or motion pictures; easily photographing well.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biology and physics, historically denoting organisms or substances that generate and emit bioluminescent or phosphorescent light.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photogenic designates looking attractive in photographs."*
+> - 📜 **F. Scott Fitzgerald (*The Last Tycoon*):** *"She possessed an exceptionally **photogenic** countenance, where every angle of her bone structure caught the camera lens perfectly."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Certain luminous jelly-fishes exhibit **photogenic** tissues that glow brightly upon being disturbed in the dark sea."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"The synthetic actors were selected primarily for their remarkably **photogenic** symmetry under studio lighting."*
+

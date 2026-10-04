@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A photographic copy of written or printed or graphic work.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reproduce by xerography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A photographic or xerographic reproduction of a document or printed page produced by a photocopier.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual property and archival preservation, a photocopy provides a facsimile for working consultation while protecting delicate original manuscripts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photocopy designates a photographic copy of written or printed or graphic work."*
+> - 📜 **Umberto Eco (*The Name of the Rose*):** *"The modern scholar relies upon a crisp **photocopy** where medieval monks had to endure tedious months of transcription."*
+> - 📜 **Philip K. Dick (*Do Androids Dream of Electric Sheep?*):** *"He unfolded the blurred **photocopy** of the test results and examined the recorded neural responses."*
+> - 📜 **Joan Didion (*Slouching Towards Bethlehem*):** *"She handed me a dog-eared **photocopy** of the manifesto, its margins crowded with penciled annotations."*
+

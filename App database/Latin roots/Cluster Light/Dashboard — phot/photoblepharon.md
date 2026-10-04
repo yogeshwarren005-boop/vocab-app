@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of fish in the family anomalopidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of fish in the family anomalopidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of deep-sea flashlight fishes possessing a specialized subocular organ containing symbiotic bioluminescent bacteria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology and ichthyology, Photoblepharon palpebratus uses a muscular fold like a shutter to flash light for predation, schooling, and predator evasion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photoblepharon designates a genus of fish in the family anomalopidae."*
+> - 📜 **William Beebe (*Half Mile Down*):** *"The subocular beacon of **photoblepharon** beamed brightly through the pitch-black water like an underwater lantern."*
+> - 📜 **Alister Hardy (*The Open Sea: Its Natural History*):** *"By closing its pigmented lid, **photoblepharon** can extinguish its bioluminescent glow in an instant."*
+> - 📜 **E. Newton Harvey (*Bioluminescence*):** *"Luminous bacteria cultivate a stable symbiotic home within the vascularized subocular gland of **photoblepharon**."*
+

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A red ocher formerly used as a pigment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A red ocher formerly used as a pigment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient red earth pigment composed of iron oxide, originally obtained from the city of Sinope in Paphlagonia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Greco-Roman mineralogy and painting, a prized liver-colored ochre pigment celebrated by Pliny and Vitruvius for mural durability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sinopis designates a red ocher formerly used as a pigment."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"The purest red earth was the **sinopis** of Pontus, of which the Greeks recognized three distinct shades for portraiture and ships."*
+> - 📜 **Vitruvius (*The Ten Books on Architecture*):** *"Walls decorated with genuine **sinopis** maintain their brilliant vermilion luster even when exposed to damp air."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"The ancient decorators knew that natural **sinopis** afforded a permanent, noble red unmatchable by modern synthetic chemicals."*

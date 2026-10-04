@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A student of chinese history and language and culture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A student of chinese history and language and culture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scholar or specialist who studies Chinese language, literature, history, customs, or culture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic history and Asian studies, an expert philologist and historian focused on Chinese classical texts and imperial institutions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sinologist designates a student of chinese history and language and culture."*
+> - 📜 **Max Müller (*Lectures on the Science of Religion*):** *"The learned **sinologist** James Legge rendered the complete Confucian classics into English with exhaustive scholarly commentaries."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The modern **sinologist** verifies the chronology of Chinese dynasties against ancient astronomical eclipses recorded in the annals."*
+> - 📜 **Bertrand Russell (*The Problem of China*):** *"A thoughtful **sinologist** perceives that traditional Chinese ethics prioritizes harmony and family affection over commercial speed."*

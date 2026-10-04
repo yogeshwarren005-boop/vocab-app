@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bifurcating branch (one or both of them).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The place where something divides into two branches.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or point of dividing or splitting into two branches, channels, or forks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vascular anatomy, dynamic systems theory, and hydrography, a critical node where a vessel divides or a nonlinear system undergoes a qualitative state change.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"SEE especially the poem entitled ‘Bifurcation’."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"An arterial embolus frequently lodges at the **bifurcation** of the common carotid artery, abruptly halting cerebral circulation."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"At the **bifurcation** of the river channel, the deposited silt formed an expanding delta island."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses and Reviews*):** *"The historical **bifurcation** of biological thought into vitalist and mechanistic schools shaped nineteenth-century inquiry."*

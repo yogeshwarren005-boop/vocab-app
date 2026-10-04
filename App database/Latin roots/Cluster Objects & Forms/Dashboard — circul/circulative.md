@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to circulation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to circulation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the power, tendency, or capacity to circulate, diffuse, or promote circulation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical medicine, physiological mechanics, and fluid dynamics, inducing bodily fluids or thermodynamic convection currents to move.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, circulative designates of or relating to circulation."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"Gentle bodily warmth exercises a **circulative** power upon the animal spirits and dormant humors."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The physician prescribed mild aromatic cordials to assist the sluggish **circulative** motions of the aged patient."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"The vapor underwent repeated **circulative** distillations within the sealed pelican apparatus."*

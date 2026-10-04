@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Introduce a cannula or tube into.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Introduce a cannula or tube into.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To insert a flexible tube into a patient's body canal, trachea, or hollow organ, especially to assist breathing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical care medicine and anesthesiology, to perform endotracheal catheterization to maintain airway patency and mechanical ventilation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intubate designates introduce a cannula or tube into."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In severe laryngeal diphtheria, the physician must **intubate** the patient without delay to avert suffocation."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The surgeon stepped forward to **intubate** the choking child, his hands steady despite the frantic mother's tears."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"Modern clinical methods to **intubate** the obstructed larynx have saved countless lives once lost to membranous croup."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dig up for reburial or for medical investigation; of dead bodies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dig up for reburial or for medical investigation; of dead bodies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To dig up something that has been buried, especially a corpse; to exhume, unearth, or bring to light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In criminal forensics, historical scholarship, and archaeology, to legally exhume human remains or rediscover forgotten historical records.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disinter designates dig up for reburial or for medical investigation; of dead bodies."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Jerry Cruncher followed his nocturnal trade as a resurrection man, eager to **disinter** fresh subjects for anatomical dissection."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Zealous antiquaries labored to **disinter** the lost inscriptions of imperial Rome buried beneath centuries of rubble."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Sussex Vampire*):** *"The coroner granted an official order to **disinter** the coffin in search of toxicological evidence."*

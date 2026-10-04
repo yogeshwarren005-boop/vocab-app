@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make unwilling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make unwilling.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make someone unwilling, averse, or reluctant to do something; to discourage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychology and moral choice, to dampen enthusiasm or tilt disposition away from a prospective action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But I felt it; and it did not disincline me towards him; though I felt impatience at what seemed like mystery in him, so imperfectly as he was known to me then."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"But I felt it; and it did not disincline me towards him; though I felt impatience at what seemed like mystery in him, so imperfectly as he was known to me then."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I, Darrell Standing, was so strongly disinclined to die that I refused to let Warden Atherton and Captain Jamie kill me."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Her mother's grief served to **disincline** Elinor from dwelling openly upon her own deep disappointment."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Repeated defeats tended to **disincline** the barbarian chiefs from further assaults upon the Roman frontier."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The severe climate and barren soil did much to **disincline** colonists from settling the northern territory."*

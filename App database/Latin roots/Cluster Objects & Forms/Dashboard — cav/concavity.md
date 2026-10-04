@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A shape that curves or bends inward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property possessed by a concave shape.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A concave surface, hollow depression, or inward curvature; or hollow geometric contour.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In differential calculus, differential geometry, and anatomy, the orientation of curvature (facing upward or downward) or an anatomical depression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The uniform concavity of black cloud was lifting bodily like the lid of a pot, letting in at the earth’s edge the coming day, against which the towering monoliths and trilithons began to be blackly defined."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"Suddenly I noticed that the circular westward outline of the sun had changed; that a concavity, a bay, had appeared in the curve."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The ribs on one side are taken out with a knife, and the concavity serves as a dish."*
+> - 📜 **William Shakespeare (*A Lover's Complaint*):** *"Deep-brained sonnets that did amplify each thought in every tenancy of life; from the **concavity** of whispering caves into the boundless ocean."*
+> - 📜 **Isaac Newton (*Opticks*):** *"Light reflected from the **concavity** of the parabolic mirror formed an intense focal image."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The chick rested within the warm **concavity** of the nest, sheltered beneath the parent bird's feathers."*

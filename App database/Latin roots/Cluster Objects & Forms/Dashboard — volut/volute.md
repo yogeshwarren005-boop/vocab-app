@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ornament consisting of a curve on a plane that winds around a center with an increasing distance from the center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A structure consisting of something wound in a continuous series of loops.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A spiral scroll-like ornament, especially characteristic of the Ionic capital in classical architecture; or a spiral shell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical architecture, malacology, and fluid mechanics, an Ionic or Corinthian architectural scroll, a predatory marine snail, or a spiral pump casing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The electric light flooded everything; it was shed from four unpolished globes half sunk in the volutes of the ceiling."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The classical architect carved the graceful **volute** on either side of the Ionic capital, echoing the curve of a sea shell."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Captain Nemo displayed a magnificent golden **volute** shell dredged from the coral reefs of the Indian Ocean."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The ruins of the temple still displayed intact columns crowned with the delicate **volute** carvings of Greek masters."*

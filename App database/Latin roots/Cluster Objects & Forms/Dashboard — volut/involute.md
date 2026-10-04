@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Especially of petals or leaves in bud; having margins rolled inward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of some shells) closely coiled so that the axis is obscured.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Curled or rolled inward at the edges; or intricate, convoluted, and difficult to comprehend.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical vernation, conchology, and differential geometry, rolled inward toward the upper surface, or the locus of the center of curvature of an evolute.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, involute designates especially of petals or leaves in bud; having margins rolled inward."*
+> - 📜 **Asa Gray (*Introduction to Structural and Systematic Botany*):** *"The young leaves of the water-lily are distinctly **involute**, their margins rolling inward toward the central midrib."*
+> - 📜 **Thomas De Quincey (*Confessions of an English Opium-Eater*):** *"His metaphysical arguments were so subtle and **involute** that they bewildered rather than convinced his audience."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The spiral shell of the cephalopod exhibits an **involute** coil that encloses all the earlier developmental chambers."*

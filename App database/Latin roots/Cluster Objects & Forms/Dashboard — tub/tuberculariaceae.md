@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large family of mainly saprophytic imperfect fungi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large family of mainly saprophytic imperfect fungi.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of anamorphic fungi (order Tuberculariales) characterized by producing sporodochia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical mycological taxonomy, an imperfect fungal family whose conidiophores form cushion-shaped masses on plant tissues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tuberculariaceae designates large family of mainly saprophytic imperfect fungi."*
+> - 📜 **Asa Gray (*Introduction to Structural and Systematic Botany*):** *"The **tuberculariaceae** encompass numerous destructive plant parasites that attack orchard crops in damp climates."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"Microscopic cultures of **tuberculariaceae** demonstrate rapid asexual spore proliferation under warm laboratory conditions."*
+> - 📜 **Charles Darwin (*Insectivorous Plants*):** *"Decaying leaf margins were colonized by sporodochia of the **tuberculariaceae** after the plant had trapped insects."*

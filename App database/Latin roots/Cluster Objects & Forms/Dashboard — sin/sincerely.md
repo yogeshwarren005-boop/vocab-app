@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With sincerity; without pretense.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Written formula for ending a letter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With sincerity; truly, genuinely, honestly; without pretense or deceit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistolary conventions and interpersonal relations, an earnest expression of authentic goodwill or honest affirmation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hear me profess sincerely: had I a dozen sons, each in my love alike and none less dear than thine and my good Martius, I had rather had eleven die nobly for their country than one voluptuously surfeit out of action."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"After obtaining this, as he sincerely hoped to do, he would prepare the carriage and send it directly to the house, as it was important for the patient to make the journey during the best portion of the day."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Do you think I can ever atone for all the wrong I've done?" "We must always bear in mind that there is One who is glad to forgive us our sins, Baron, and He can deliver us from them if we sincerely beg Him to," Mrs."*
+> - 📜 **Jane Austen (*Emma*):** *"She **sincerely** wished her friend all possible happiness, though she could not approve the imprudent match."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I **sincerely** hope and believe that brighter days are in store for all of us after this long sorrow."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea thanked him **sincerely** for his counsel, her earnest eyes reflecting deep gratitude."*

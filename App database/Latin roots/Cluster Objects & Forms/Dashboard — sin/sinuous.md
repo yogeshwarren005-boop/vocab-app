@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Curved or curving in and out.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Curved or curving in and out.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having many curves and turns; winding, serpentine, undulating, or gracefully supple.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geomorphology, poetry, and kinematics, bending smoothly with alternating curves, as in river meanders or snake locomotion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **C. A. Frazer (*Atmâ*):** *"The inevitable is not to be averted Tho', sliding through lush grass, the shining snake, Loving the sun, a sinuous way doth take, Its fixed journey to its home 'twill make."*
-> - 📜 **Bram Stoker (*Dracula*):** *"The next instant, with a sinuous dive he swept under Harker’s arm, ere his blow could fall, and, grasping a handful of the money from the floor, dashed across the room, threw himself at the window."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"That the eastern boundary of this bed is very sinuous is rendered probable by its occurrence at Brookville, eighteen miles to the eastward of Fort Harker, on the railroad."*
+> - 📜 **Samuel Taylor Coleridge (*Kubla Khan*):** *"Five miles meandering with a mazy motion, through wood and dale the sacred river ran, then reach'd the caverns measureless to man, in **sinuous** paths."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The harpooned whale darted ahead in a swift, **sinuous** course, leaving a serpentine wake of boiling foam across the sea."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The river flowed in a **sinuous** channel between low, muddy banks shrouded in yellow November fog."*

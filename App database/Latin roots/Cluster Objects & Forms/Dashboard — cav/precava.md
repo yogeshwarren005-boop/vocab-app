@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Receives blood from the head and arms and chest and empties into the right atrium of the heart; formed from the azygos and both brachiocephalic veins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Receives blood from the head and arms and chest and empties into the right atrium of the heart; formed from the azygos and both brachiocephalic veins.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The superior vena cava (in humans) or anterior vena cava (in quadrupeds), returning blood from the head and forelimbs to the heart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate morphology, the systemic vein returning deoxygenated blood from the cranial and thoracic regions to the right atrium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, precava designates receives blood from the head and arms and chest and empties into the right atrium of the heart; formed from the azygos and both brachiocephalic veins."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"In many birds and reptiles, paired veins represent the **precava**, entering the sinus venosus separately."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The right **precava** receives blood from the internal jugular and subclavian trunks before opening into the heart."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Aneurysms of the ascending aorta frequently compress the **precava**, causing cyanosis and venous engorgement of the face."*

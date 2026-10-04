@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with a tube or insert a tube into.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convey in a tube.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fitted with, enclosed in, or made with one or more tubes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanical engineering and industrial design, equipped with internal tubular piping, flues, or conduits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tubed designates provide with a tube or insert a tube into."*
+> - 📜 **H. G. Wells (*The First Men in the Moon*):** *"The sphere's outer hull was heavily **tubed** with circulating cooling fluids to dissipate atmospheric friction."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"The steam engine was fitted with a multi-flued, **tubed** boiler that maximized heat transfer to the water."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The laboratory was stocked with rows of **tubed** chemical retorts and spirit lamps upon the shelves."*

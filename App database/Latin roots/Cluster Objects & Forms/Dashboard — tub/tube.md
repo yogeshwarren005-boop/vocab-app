@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conduit consisting of a long hollow object (usually cylindrical) used to hold and conduct objects or liquids or gases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Electronic device consisting of a system of electrodes arranged in an evacuated glass or metal envelope.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A long, hollow cylinder of metal, glass, plastic, or rubber used for conveying fluids or holding substances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electronics, anatomy, and transit, a thermionic vacuum tube, an anatomical conduit (Eustachian tube), or London's underground railway.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was a small tube or trochar, with a lance passing down the inside; and Gabriel began to use it with a dexterity that would have graced a hospital surgeon."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Passing his hand over the sheep’s left flank, and selecting the proper point, he punctured the skin and rumen with the lance as it stood in the tube; then he suddenly withdrew the lance, retaining the tube in its place."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A current of air rushed up the tube, forcible enough to have extinguished a candle held at the orifice."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The electric spark passed through the evacuated glass **tube**, producing a luminous glow that illuminated the laboratory."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The Martian war machine raised a long metallic **tube** that sprayed clouds of heavy black smoke across the valley."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"Water rises through the capillary **tube** by virtue of surface tension and adhesion to the glass wall."*

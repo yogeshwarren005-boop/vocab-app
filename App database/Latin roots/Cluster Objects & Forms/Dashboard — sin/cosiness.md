@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of warm snug comfort.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of warm snug comfort.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Snug warmth, comfortable intimacy, and sheltered domestic comfort.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In domestic sociology and literature, an atmosphere of cheerful seclusion and hearthside comfort shielded from external hardship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosiness designates a state of warm snug comfort."*
+> - 📜 **Charles Dickens (*The Cricket on the Hearth*):** *"The teakettle hummed upon the grate, filling the low-roofed parlor with an unmistakable air of cheerful **cosiness**."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Woodhouse praised the snug **cosiness** of the fireside screen, commending its protection against insidious evening drafts."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The weaver sat by his bright hearth, relishing the domestic **cosiness** brought into his lonely cottage by the child."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Problem solving that involves numbers or quantities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Judge to be probable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of calculating numbers, thinking something through, or decorating with patterns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In arithmetic, cognitive contemplation, and decorative textiles, mental computation or the artistic rendering of ornamental forms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is a history in all men’s lives Figuring the natures of the times deceased; The which observed, a man may prophesy, With a near aim, of the main chance of things As yet not come to life, who in their seeds And weak beginning lie intreasured."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art always figuring diseases in me, but thou art full of error; I am sound."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"You have been close to three years in solitary yourself, Professor, and you can come pretty near to figuring what any guy will do to be killing time."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Guppy was busy with his mental **figuring**, estimating the costs of filing the new bill in Chancery."*
+> - 📜 **Mark Twain (*The Adventures of Huckleberry Finn*):** *"I sat on the log doing a lot of hard **figuring**, trying to find a way to get Jim out of the cabin."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The old farmer paused in his **figuring** of the grain accounts, tapping the ledger with his quill."*

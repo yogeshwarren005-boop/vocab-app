@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plastic containing resins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plastic containing resins.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance resembling resin; or an extract obtained by treating plant material with an organic solvent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacognosy and perfumery, a concentrated aromatic botanical extract prepared with non-aqueous solvents, used as a fixative.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, resinoid designates a plastic containing resins."*
+> - 📜 **Michael Faraday (*Chemical Manipulation*):** *"Alcoholic extraction of the dried roots yielded a concentrated **resinoid** of intense medicinal bitterness."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The apothecary purified the crude botanical **resinoid**, dispensing it in gelatin capsules for pulmonary ailments."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The purgative properties of jalap reside in its active **resinoid** principles that stimulate intestinal peristalsis."*

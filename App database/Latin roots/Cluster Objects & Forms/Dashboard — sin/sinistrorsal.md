@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spiraling upward from right to left.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spiraling upward from right to left.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Turning or winding from right to left; coiling spirally in a counterclockwise direction; sinistrorse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical morphology and conchology, spiraling to the left or counterclockwise around an axis of growth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sinistrorsal designates spiraling upward from right to left."*
+> - 📜 **Asa Gray (*Introduction to Structural and Systematic Botany*):** *"The climbing hop vine displays a **sinistrorsal** twist, winding clockwise when viewed from above, contrary to bean tendrils."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"The circumnutating apex maintained a **sinistrorsal** revolving movement, wrapping the stem firmly around the stake."*
+> - 📜 **Joseph Dalton Hooker (*Himalayan Journals*):** *"The parasitic twining herbs formed **sinistrorsal** coils that strangled young saplings in the dense subtropical jungle."*

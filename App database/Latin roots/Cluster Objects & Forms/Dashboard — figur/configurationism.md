@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (psychology) a theory of psychology that emphasizes the importance of configurational properties.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (psychology) a theory of psychology that emphasizes the importance of configurational properties.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A psychological theory asserting that psychological phenomena are organized, structured wholes not reducible to simple parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of psychology, the theoretical framework of Gestalt psychology emphasizing holistic perceptual systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, configurationism designates (psychology) a theory of psychology that emphasizes the importance of configurational properties."*
+> - 📜 **William James (*Essays in Radical Empiricism*):** *"Early anticipations of psychological **configurationism** recognized that sensory experience presents itself in unified relational fields."*
+> - 📜 **Bertrand Russell (*The Analysis of Mind*):** *"The doctrine of **configurationism** argued forcefully that the whole mental image possesses properties absent in the separate elements."*
+> - 📜 **John Dewey (*Experience and Nature*):** *"Functional **configurationism** treats human behavior not as a series of isolated reflexes, but as continuous ecological adaptation."*

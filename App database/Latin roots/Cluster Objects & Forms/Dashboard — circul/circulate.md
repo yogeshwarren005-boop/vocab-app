@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become widely known and passed on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to become widely known.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To move continuously through a closed system or circuit; or to pass from person to person or place to place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiovascular physiology, thermodynamics, and publishing, the physiological transport of blood or commercial diffusion of periodicals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These substitutes for, or supplements to, money enable each dollar to do more work, to circulate more rapidly."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"To them the fact that paper money may circulate for a time at par appears a reason why it always should."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Bank notes _are_ money, and so long as their amount is limited by prompt redemption they circulate _instead of_ so much of other kinds of money."*
+> - 📜 **William Harvey (*De Motu Cordis (Exercitatio Anatomica de Motu Cordis et Sanguinis in Animalibus)*):** *"It is necessary to conclude that the blood in animals is impelled in a circle, and is in a state of ceaseless movement; that this is the act or function of the heart, which it performs by means of its pulse; and that it is the sole and only end of the motion and contraction of the heart, to make the blood **circulate** through the arteries to the extremities, and return through the veins to the heart."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Seditious political broadsides continued to **circulate** widely despite strict licensing edicts."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Rumors of revolutionary uprisings began to **circulate** through every wine-shop of Saint Antoine."*

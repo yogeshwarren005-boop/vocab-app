@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Throughout the world.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Throughout the world.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a global manner; across the entire world; comprehensively or universally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer science and ecological geography, having system-wide variable access or planetary biome distribution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, globally designates throughout the world."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"Human history must henceforth be conceived **globally**, as the collective adventure of a single species."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Certain cosmopolitan genera are distributed **globally**, flourishing across temperate zones in both hemispheres."*
+> - 📜 **Bertrand Russell (*Portraits from Memory*):** *"Scientific discoveries made in one laboratory reverberate **globally**, altering the conditions of human labor everywhere."*

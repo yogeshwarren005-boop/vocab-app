@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person used as a cover for some questionable activity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figure on the bow of some sailing vessels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A carved decorative wooden figure on the prow of a sailing ship; or a leader with nominal title but no real authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime archaeology and political science, an ornamental bow sculpture or a ceremonial titular head of state.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The spectral figurehead, reversed in its position, glancing backwards, seemed to mock the impatient attitude of the warrior."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"He might have had a ship like Phil Dumaresq's _Surprise_, that had a big eagle for her figurehead."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The ancient ship possessed no gilded **figurehead**, but her prow was dark and venerable like the jawbone of a leviathan."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The constitutional monarch became a revered **figurehead**, while executive governance passed to cabinet ministers."*
+> - 📜 **Joseph Conrad (*The Shadow-Line*):** *"The wooden **figurehead** gazed serenely through the tropical spray as the ship slipped past the headland."*

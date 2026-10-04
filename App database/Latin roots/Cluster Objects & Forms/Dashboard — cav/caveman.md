@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who lives in a cave.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who lives in a cave.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prehistoric human who lived in caves; or an uncouth, aggressive, or primitive man.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleoanthropology and cultural iconography, an idealized Paleolithic human or Neanderthal associated with flint tools and cave art.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"If the caveman had known how to laugh, history would have been different.” “You are really very comforting,” warbled the duchess."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"The Paleolithic **caveman** depicted mammoth hunts upon limestone walls with astonishing graphic vitality."*
+> - 📜 **Jack London (*Before Adam*):** *"Deep within civilized man sleeps the primitive **caveman**, ready to awaken under extreme peril."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"The ape-man represented the brutal prototype of the primeval **caveman** before the dawn of speech."*

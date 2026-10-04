@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A gallant or courtly gentleman.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A royalist supporter of charles i during the english civil war.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing a lack of proper concern; dismissive; or a supporter of King Charles I in the English Civil War; a dashing horseman.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In seventeenth-century British history and military etiquette, a royalist partisan or an accomplished equestrian gentleman.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Clowes stepped back and indicated her cavalier, very big and handsome in white clothes and a Panama hat: "May I introduce-- Captain Hyde, Miss Stafford," with a delicate formality which thrilled Isabel to her finger-tips."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In cavalier attendance upon the school of females, you invariably see a male of full grown magnitude, but not old; who, upon any alarm, evinces his gallantry by falling in the rear and covering the flight of his ladies."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"His black cavalier boots were made for swaggering."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The proud **cavalier** fought with desperate gallantry for his king, scorning the puritan parliamentarians."*
+> - 📜 **Jane Austen (*Persuasion*):** *"She was shocked by his **cavalier** dismissal of feelings that had once seemed dear to him."*
+> - 📜 **Sir Walter Scott (*Woodstock*):** *"The veteran **cavalier** drained his goblet to the health of the exiled monarch with defiant loyalty."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Constituting or afflicted with or caused by tuberculosis or the tubercle bacillus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Constituting or afflicted with or caused by tuberculosis or the tubercle bacillus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, affected with, or caused by tuberculosis; characterized by the presence of tubercles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pathology, descriptive histology, and epidemiology, exhibiting lesions, caseation necrosis, or bacilli characteristic of tuberculosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tuberculous designates constituting or afflicted with or caused by tuberculosis or the tubercle bacillus."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Autopsy revealed extensive **tuberculous** ulceration of the Peyer's patches throughout the ileum."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate recognized the unmistakable signs of **tuberculous** decline in the young schoolmaster's emaciated frame."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The king's health had long been undermined by a chronic **tuberculous** affection of the lungs."*

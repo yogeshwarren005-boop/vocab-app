@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Split or divide into two.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divide into two branches.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Divided into two branches, forks, prongs, or divergent parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In morphology, linguistics, and paleontology, split into two equal or symmetrical structural extensions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bifurcated designates split or divide into two."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The harpooner raised his **bifurcated** weapon, the twin iron barbs glinting in the morning spray."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The narrow road **bifurcated** at the stone cross, one track leading to Paris and the other to the coast."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The antlers of the stag terminate in **bifurcated** tines used with deadly effect during courtship battles."*

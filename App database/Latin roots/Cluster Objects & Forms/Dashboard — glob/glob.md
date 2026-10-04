@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A compact mass.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compact mass.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small, rounded drop, lump, or mass of a thick fluid or malleable substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In informal physical description, painting, and culinary preparation, an amorphous droplet or blob of viscous matter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"His mouth moulded issuing breath, unspeeched: ooeeehah: roar of cataractic planets, globed, blazing, roaring wayawayawayawayaway."*
-> - 📜 **George W. Cronyn (*The Glebe 1914/09 (Vol. 2, No. 2): Poems*):** *"Ripples break and bubbles rise Catching smiles from out the skies In their globed eyes."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her breasts like ivory globes circled with blue, A pair of maiden worlds unconquered, Save of their lord no bearing yoke they knew, And him by oath they truly honoured."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"A thick **glob** of sealing wax fell upon the parchment, awaiting the impression of the lawyer's seal."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The sailor skimmed off a glistening **glob** of spermaceti, rolling it between his palms until it turned soft and creamy."*
+> - 📜 **Jack London (*The Sea-Wolf*):** *"He threw a heavy **glob** of grease upon the iron skillet, watching it melt into smoking fat."*

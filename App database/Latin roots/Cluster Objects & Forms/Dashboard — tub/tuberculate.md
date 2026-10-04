@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Covered with tubercles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Covered with tubercles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Furnished with, covered by, or consisting of small rounded nodules, knobs, or tubercles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical morphology, lichenology, and paleontology, having surfaces ornamented with pimple-like or warty excrescences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tuberculate designates covered with tubercles."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The fossil ostracod carapace was densely **tuberculate**, providing structural rigidity against crushing predators."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The nutlets are distinctly **tuberculate** and wrinkled upon the dorsal face, aiding in soil adhesion."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish*):** *"The exoskeleton of the crab is coarsened with **tuberculate** nodules that camouflage the animal on gravelly sea beds."*

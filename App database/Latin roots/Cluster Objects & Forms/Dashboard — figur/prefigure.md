@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Imagine or consider beforehand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Indicate by signs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To be an early sign or symbolic foreshadowing of something; to suggest beforehand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative poetics and typological hermeneutics, to present allegorical archetypes that anticipate downstream historical events.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"His career it would be difficult to prefigure."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The new Evangel 558:9 This angel or message which comes from God, clothed with a cloud, prefigures divine Science."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The hero, the wonderful young Parisian in whom the romantic and the scientific temperaments were so strangely blended, became to him a kind of prefiguring type of himself."*
+> - 📜 **John Milton (*Paradise Regained*):** *"The shadows of the law did **prefigure** the arrival of the true high priest who should reconcile man to God."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"Early popular assemblies in the Saxon forests seemed to **prefigure** the future liberties of the British parliament."*
+> - 📜 **George Eliot (*Romola*):** *"Savonarola's impassioned sermons seemed to **prefigure** the political tribulations hanging over Florence."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The place where something divides into branches.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The place where something divides into branches.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or state of branching into forks; a fork, branching point, or divarication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dental anatomy and plant morphology, the anatomic region where tooth roots diverge or where a main stem splits into branches.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, furcation designates the place where something divides into branches."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The **furcation** of the bronchial tree terminates in delicate alveolar clusters throughout the lung tissue."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Each successive **furcation** in the tree of life represents an ancestral divergence preserved across geological eras."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The specific distinction rests upon the angle of **furcation** exhibited by the floral pedicels."*

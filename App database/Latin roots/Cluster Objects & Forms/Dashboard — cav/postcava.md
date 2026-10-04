@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Receives blood from lower limbs and abdominal organs and empties into the posterior part of the right atrium of the heart; formed from the union of the two iliac veins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Receives blood from lower limbs and abdominal organs and empties into the posterior part of the right atrium of the heart; formed from the union of the two iliac veins.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The inferior vena cava (in humans) or posterior vena cava (in quadrupeds), returning deoxygenated blood to the heart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative vertebrate anatomy, the principal systemic vein draining the lower body and abdominal viscera into the right atrium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, postcava designates receives blood from lower limbs and abdominal organs and empties into the posterior part of the right atrium of the heart; formed from the union of the two iliac veins."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The renal veins empty directly into the **postcava**, which ascends through the diaphragm to enter the sinus venosus."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"In mammalian development, the **postcava** arises from a complex transformation of the embryonic cardinal veins."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Thrombosis of the **postcava** produces massive collateral circulation visible upon the abdominal wall."*

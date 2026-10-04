@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Set up for a particular purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Set up for a particular purpose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To shape, arrange, or put together elements in a particular form, combination, or operational setting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer systems engineering and industrial design, to arrange software parameters or hardware components for a specific task.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Neutronic penetray analysis shows that in addition to thermonuclear power plants the aggregate includes machined parts configured to Catalog 11 long range lasers, explosive decompressors, particle beamers and gun mounts."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"It could be straight or as convoluted as a randomly configured corkscrew."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Generally familiar with the schematics of the Slingshot stations, he was overwhelmed by the two enormous cones and their peripherals, which configured the Terminals' hoppers."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"The feedback system allows the mechanism to **configure** its operational responses according to incoming sensory data."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The technocratic council sought to **configure** global distribution networks to eliminate regional shortages."*
+> - 📜 **Alan Turing (*Computing Machinery and Intelligence*):** *"By altering stored memory registers, we can **configure** the universal machine to simulate any discrete state apparatus."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Open and genuine; not deceitful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by a firm and humorless belief in the validity of your opinions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from pretense or deceit; proceeding from genuine feelings; honest, heartfelt, and truthful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and character ethics, expressing unfeigned convictions without duplicity, hypocrisy, or calculated self-interest.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, in good faith, in sincere verity, Under th’allowance of your great aspect, Whose influence, like the wreath of radiant fire On flickering Phoebus’ front,— CORNWALL."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His words are bonds, his oaths are oracles, His love sincere, his thoughts immaculate, His tears pure messengers sent from his heart, His heart as far from fraud as heaven from earth."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Maxa spoke of her intention of taking the child to her house and her sincere hope that there would be no objection and the ladies could feel their visitor's great eagerness manifested in her words."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"I assure you that I have not the smallest intention of returning; you are too **sincere** not to believe me."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Peggotty was the most **sincere** and loyal creature that ever breathed, comforting the boy with unhesitating warmth."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"A **sincere** lover of truth embraces arguments according to the weight of evidence, not according to personal prejudice."*

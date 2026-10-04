@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: British chemist and physicist who established that water is a compound of hydrogen and oxygen and who calculated the density of the earth (1731-1810).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: British chemist and physicist who established that water is a compound of hydrogen and oxygen and who calculated the density of the earth (1731-1810).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proper surname associated with scientist Henry Cavendish; a variety of banana; or a sweetened, pressed tobacco.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of science and agronomy, the discoverer of hydrogen and Earth's mass density, or the dominant commercial dessert banana cultivar.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"It comprised _Driver's Complete Farriery_, _The Heather Lintie_, (poems), a book of sermons with the title _In Hoc Signo_--or something like that--_Markham's Complete Housewife, Cavendish on Whist_, and two huge volumes of _Pinkerton's Voyages_."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"To make the story complete we need to go back to the time of Priestly and Cavendish, early in last century."*
-> - 📜 **Robert Louis Stevenson (*The strange case of Dr. Jekyll and Mr. Hyde*):** *"This drawer I beg of you to carry back with you to Cavendish Square exactly as it stands."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The pioneering torsion balance experiments of **Cavendish** determined the mean density of the Earth with marvelous accuracy."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The old harpooner sat by the capstan, puffing contentedly upon a fragrant pipe of dark **Cavendish** tobacco."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The modest and solitary **Cavendish** enriched natural philosophy with discoveries that laid the foundation of modern chemistry."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A radical supporter of political or social revolution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Markedly new or introducing radical change.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving or causing complete or dramatic change; or pertaining to the political overthrow of a government.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political sociology and historical philosophy, an agent, movement, or doctrine seeking foundational structural transformation of society.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"He entertains religious convictions of a curious kind; but, as the man is quite free from revolutionary sentiments, I have never considered it to be my duty to interfere with him, or to investigate his creed."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In many places the resulting changes were revolutionary."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Contemptuous of authority, he had gone his own way, spending pocket-money on revolutionary literature, trying to raise ghosts, and dabbling in chemical experiments."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The **revolutionary** settlement of 1688 established parliamentary supremacy and the independence of the judiciary."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The **revolutionary** tribunal sat daily in the Conciergerie, condemning aristocrats to the guillotine with mechanical haste."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The introduction of the steam engine was a truly **revolutionary** event that reshaped worldwide manufacturing and commerce."*

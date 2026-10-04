@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of digging.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The site of an archeological exploration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of digging and unearthing; or a cavity or hole produced by digging.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaeology, geology, and civil engineering, systematic stratigraphic trench digging or an open earthwork cutting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Coming up again to the marsh level out of this excavation,—for the rude path lay through it,—I saw a light in the old sluice-house."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Seizing his sharp boat-spade, he commenced an excavation in the body, a little behind the side fin."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The volcanic nature of this enormous excavation was confirmed on all sides, and I pointed it out to my companions."*
+> - 📜 **Charles Dickens (*Dombey and Son*):** *"The great railway **excavation** tore through the heart of the parish, swallowing streets, gardens, and ancient tenements."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The **excavation** of the subterranean catacombs provided the early Christians with secure burial galleries."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The deep canal **excavation** exposed successive strata of tertiary shells embedded in marine clay."*

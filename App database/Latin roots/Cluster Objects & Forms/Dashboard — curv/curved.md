@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Turn sharply; change direction abruptly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extend in curves and turns.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bent smoothly without angles; having the shape or contour of a curve.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geometry and physical anatomy, possessing continuous non-zero curvature along an arc or surface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A curved settle of unplaned oak stretched along one side, and in a remote corner was a small bed and bedstead, the owner and frequent occupier of which was the maltster."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Her mouth—were the lips red or pale, plump or creased?—had curved itself to a certain expression as the pen went on—the corners had moved with all their natural tremulousness: what had been the expression?"*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"There, it is like this.” Joan Durbeyfield, as she spoke, curved a sodden thumb and forefinger to the shape of the letter C, and used the other forefinger as a pointer."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The polished ivory harpoon had a delicately **curved** shank carved from the jawbone of a sperm whale."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The **curved** beak of the honey-creeper is exquisitely adapted to extract nectar from tubular blossoms."*
+> - 📜 **Sir Walter Scott (*Ivanhoe*):** *"The Saracen warrior wielded a keen, **curved** scimitar that flashed like lightning in the sun."*

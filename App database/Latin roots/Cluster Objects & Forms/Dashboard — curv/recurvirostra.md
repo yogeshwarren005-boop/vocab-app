@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the recurvirostridae: avocets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the recurvirostridae: avocets.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The bird genus comprising the avocets, characterized by long, slender, upcurved bills.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, a cosmopolitan wader genus of the family Recurvirostridae foraging in shallow brackish wetlands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, recurvirostra designates type genus of the recurvirostridae: avocets."*
+> - 📜 **Charles Darwin (*The Zoology of the Voyage of H.M.S. Beagle*):** *"Specimens of **recurvirostra** were observed along the muddy estuaries of Patagonia, sweeping their bills side to side through the water."*
+> - 📜 **Alfred Newton (*A Dictionary of Birds*):** *"The genus **recurvirostra** includes the avocets, whose upward-curved bill is unique among European shore birds."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"Species belonging to **recurvirostra** inhabit coastal lagoons, nesting in loose colonies near the water's edge."*

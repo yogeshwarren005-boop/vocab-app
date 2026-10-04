@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pilot whales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pilot whales.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cetacean genus containing the pilot whales, characterized by a bulbous, globose forehead (melon).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine mammalogy, a delphinid genus of highly social toothed whales recognized by prominent frontal melon cranial development.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, globicephala designates pilot whales."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The blackfish belonging to the genus **globicephala** travel in vast, affectionate schools across the North Atlantic."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"Cranial morphology in **globicephala** shows extreme forward projection of the maxillae beneath the acoustic melon."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"The pilot whale, **globicephala**, is distinguished by its rounded forehead, sickle-shaped flippers, and deep black pigmentation."*

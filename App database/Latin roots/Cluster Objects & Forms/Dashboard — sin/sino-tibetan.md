@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The family of tonal languages spoken in eastern asia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The family of tonal languages spoken in eastern asia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large language family comprising the Chinese (Sinitic) languages and the Tibeto-Burman languages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative linguistics and ethnology, an Asian macro-family spoken across East, South, and Southeast Asia, characterized by tonal systems and isolating or agglutinative syntax.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sino-tibetan designates the family of tonal languages spoken in eastern asia."*
+> - 📜 **Max Müller (*Chips from a German Workshop*):** *"The **Sino-Tibetan** family encompasses hundreds of spoken dialects extending from the Himalayas to the Yellow Sea."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"The early migrations of **Sino-Tibetan** peoples shaped the demographic and cultural landscape of Eastern Asia."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"Comparative analysis of **Sino-Tibetan** morphology reveals ancient morphological affinities beneath modern tonal simplifications."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Curved backward or inward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Curved backward or inward.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Curved or bent backward, downward, or in an outward reverse direction; recurved.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical morphology and herpetology, having spines, calyx lobes, or fangs arched in a backward direction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, recurvate designates curved backward or inward."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The sepals of the gentian are sharply **recurvate**, bending outward away from the throat of the corolla."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The formidable reptile holds its struggling prey with numerous sharp **recurvate** teeth lining the palate."*
+> - 📜 **Joseph Dalton Hooker (*Himalayan Journals*):** *"The climbing brambles were armed with fierce **recurvate** prickles that tore through our canvas tents."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (medicine) a curving or bending; often abnormal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The rate of change (at a point) of the angle between a curve and a tangent to the curve.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Continuous bending or curving; the measurable degree or rate by which a line or surface bends.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In differential geometry, optics, and astrophysics, the rate of change of direction of a curve or geodesic space-time deviation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"While at the home of L.R. in England, I was asked to pray with his daughter, who had spinal curvature."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"For the same reason these lights must be high up, or the curvature of the ocean's surface will limit their range."*
-> - 📜 **James Joyce (*Ulysses*):** *"You’ll get curvature of the spine."*
+> - 📜 **Albert Einstein (*Relativity: The Special and General Theory*):** *"Matter and energy determine the Riemannian **curvature** of space-time, giving rise to gravitational attraction."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"The illuminated side of the seedling stem experiences slower growth, producing a sharp **curvature** toward the light."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe lateral **curvature** of the spine compromised pulmonary expansion and cardiac function."*

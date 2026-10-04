@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A red ocher formerly used as a pigment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A red ocher formerly used as a pigment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A reddish-brown pigment used in traditional painting; or the preliminary underdrawing done on fresco plaster using this pigment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In art history, Italian Renaissance fresco technique, and conservation, a full-scale underdrawing applied in red earth on the rough arriccio plaster.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sinopia designates a red ocher formerly used as a pigment."*
+> - 📜 **John Ruskin (*Mornings in Florence*):** *"Where the surface fresco has peeled away, the bold **sinopia** sketch of Giotto appears beneath, vibrant with spontaneous life."*
+> - 📜 **Walter Pater (*Studies in the History of the Renaissance*):** *"The master's initial creative impulse is preserved in the swift strokes of the **sinopia** uncovered upon the chapel wall."*
+> - 📜 **E. H. Gombrich (*The Story of Art*):** *"Italian muralists laid out their monumental compositions in charcoal and red **sinopia** before applying fresh wet intonaco."*

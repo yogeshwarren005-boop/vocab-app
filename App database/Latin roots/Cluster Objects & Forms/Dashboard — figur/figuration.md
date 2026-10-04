@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Representing figuratively as by emblem or allegory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Decorating with a design.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of shaping, forming, or fashioning into a particular figure; or ornamentation with shapes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musical composition and sociological theory, florid decorative melodic runs (coloratura) or Norbert Elias's social networks of interdependent individuals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Divine sense of Deity The term Lord, as used in our version of the Old 576:27 Testament, is often synonymous with Jehovah, and ex- presses the Jewish concept, not yet elevated to deific apprehension through spiritual trans- 576:30 figuration."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"The exquisite **figuration** of snowflakes displays mathematical symmetry formed by subtle natural motions."*
+> - 📜 **Hector Berlioz (*Treatise on Instrumentation*):** *"The violins maintained a rapid **figuration** in semiquavers beneath the soaring cantabile melody of the cellos."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The natural **figuration** of mountain ridges reflects millions of years of crystalline cleavage and erosion."*

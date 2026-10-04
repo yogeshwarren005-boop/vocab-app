@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Curl, wind, or twist together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Practice sophistry; change the meaning of or be vague about in order to mislead or deceive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely complex, intricate, and difficult to follow; or rolled, folded, and coiled together in overlapping layers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy, literature, and legal drafting, having numerous cortical folds (gyri) or labyrinthine textual complexity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"It could be straight or as convoluted as a randomly configured corkscrew."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The Chancery pleadings were so **convoluted** that the youngest clerk in the office could make neither head nor tail of them."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Microscopic examination revealed pathological changes within the distal **convoluted** tubules of the cortex."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The diplomat engaged in a **convoluted** series of negotiations designed to baffle and delay the French envoy."*

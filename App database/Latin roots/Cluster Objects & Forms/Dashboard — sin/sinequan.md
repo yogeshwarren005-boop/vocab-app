@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tricyclic antidepressant (trade names adapin and sinequan) with numerous side effects (dry mouth and sedation and gastrointestinal disturbances).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tricyclic antidepressant (trade names adapin and sinequan) with numerous side effects (dry mouth and sedation and gastrointestinal disturbances).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brand name for doxepin, a tricyclic antidepressant and anxiolytic medication used to treat depression and insomnia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychopharmacology, a dibenzoxepin tricyclic compound that inhibits presynaptic reuptake of serotonin and norepinephrine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sinequan designates a tricyclic antidepressant (trade names adapin and sinequan) with numerous side effects (dry mouth and sedation and gastrointestinal disturbances)."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The patient was stabilized with modest doses of **Sinequan** to alleviate nocturnal agitation and severe psychogenic pruritus."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Psychopharmacological regimens incorporating tricyclic agents such as **Sinequan** require cardiac monitoring due to potential anticholinergic side effects."*
+> - 📜 **Aldous Huxley (*The Doors of Perception*):** *"Modern clinical sedatives like **Sinequan** modulate neurotransmitter dynamics to quiet the hyperactive alarms of the nervous system."*

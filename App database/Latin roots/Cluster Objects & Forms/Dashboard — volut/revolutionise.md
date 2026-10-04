@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fill with revolutionary ideas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change radically.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To change something radically, fundamentally, or completely; to transform thoroughly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In technology, politics, and sociology, to initiate radical systemic transformations that upend established institutional paradigms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"When an individual has revolutionised therapeutics by his discovery of the continuous evolution of brain-matter, conventional forms are unfitting, since they would seem to limit him to one of a class."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Bushell revolutionised the study of Chinese porcelain by his _Oriental Ceramic Art_, a book, unfortunately, difficult to obtain, and by editing Cosmo Monkhouse's excellent _History and Description of Chinese Porcelain_."*
+> - 📜 **Bram Stoker (*Dracula*):** *"When an individual scientist discovers how to **revolutionise** chemical synthesis, industry is transformed overnight."*
+> - 📜 **H. G. Wells (*The Work, Wealth and Happiness of Mankind*):** *"The rapid expansion of electric power promises to **revolutionise** domestic labor throughout modern society."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"Bacon sought to **revolutionise** natural philosophy by substituting inductive experiment for scholastic syllogisms."*

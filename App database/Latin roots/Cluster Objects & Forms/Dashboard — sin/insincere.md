@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking sincerity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking sincerity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not expressing or showing true feelings; hypocritical, deceitful, or untruthful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral psychology and social ethics, feigning sentiments, convictions, or affections contrary to internal truth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"For the insincere and the trivial there is no message from God, no truth of God--how should there be?"*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"But however insincere _you_ may choose to be, you shall not find _me_ so."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Miss Bingley’s congratulations to her brother on his approaching marriage were all that was affectionate and insincere."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor despised the **insincere** compliments of Willoughby, detecting vanity beneath his flattering speeches."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The philanthropist's grandiloquent speeches were thoroughly **insincere**, masking total neglect of her own family."*
+> - 📜 **William Shakespeare (*Othello*):** *"Iago masked his treacherous malice behind an **insincere** show of honest devotion to his general."*

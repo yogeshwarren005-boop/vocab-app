@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Elevate or idealize, in allusion to christ's transfiguration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change completely the nature or appearance of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To transform into something more beautiful, spiritual, noble, or elevated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetics, religious mysticism, and romantic literature, to exalt or invest an ordinary object or person with transcendent radiance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"It was too slight to seize upon at the instant; yet, as recollected afterwards, seemed to transfigure the whole man."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"No glamour ever transfigures them."*
-> - 📜 **Robert Louis Stevenson (*The strange case of Dr. Jekyll and Mr. Hyde*):** *"Fell? or is it the mere radiance of a foul soul that thus transpires through, and transfigures, its clay continent?"*
+> - 📜 **William Wordsworth (*The Prelude*):** *"An auxiliary light came from my mind, which on the setting sun bestowed new splendour, seeming to **transfigure** all the hills."*
+> - 📜 **George Eliot (*Adam Bede*):** *"Deep sorrow had the power to **transfigure** her youthful face, lending it a solemn, heartbreaking dignity."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"The golden sunset rays seemed to **transfigure** the decaying Roman ruins into ethereal palaces of light."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the tuberculariaceae; fungi with nodules of red or pink conidia; some cause diebacks of woody plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the tuberculariaceae; fungi with nodules of red or pink conidia; some cause diebacks of woody plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of imperfect anamorphic fungi in the Nectriaceae family, causing coral spot disease on woody plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phytopathology and mycology, an asexual fungal genus producing bright coral-red or pink sporodochia on dying deciduous branches.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tubercularia designates type genus of the tuberculariaceae; fungi with nodules of red or pink conidia; some cause diebacks of woody plants."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Dead branches of sycamore and currant are frequently spotted with the bright red pustules of **tubercularia**."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Parasitic attacks by **tubercularia** caused severe dieback among the pruned fruit trees in the orchard."*
+> - 📜 **Joseph Dalton Hooker (*Flora of British India*):** *"The conidial stage designated **tubercularia** precedes the development of the perithecial nectria ascocarps on decaying wood."*

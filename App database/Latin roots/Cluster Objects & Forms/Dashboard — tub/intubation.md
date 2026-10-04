@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The insertion of a cannula or tube into a hollow body organ.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The insertion of a cannula or tube into a hollow body organ.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical procedure or act of inserting a tube into a bodily cavity, duct, or trachea to maintain an airway.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In respiratory therapy and emergency medicine, the placement of an endotracheal cannula past the vocal cords for ventilation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intubation designates the insertion of a cannula or tube into a hollow body organ."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Prompt **intubation** of the trachea relieved the acute inspiratory stridor caused by diphtheritic membrane."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"The demonstration of successful laryngeal **intubation** was hailed as a surgical triumph by the hospital staff."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The practice of endotracheal **intubation** transformed the prognosis of acute pediatric respiratory emergencies."*

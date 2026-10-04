@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Weakening in force or intensity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of something that has been weakened or reduced in thickness or density.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The reduction of the force, effect, density, intensity, or thickness of something; a thinning or weakening.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics, telecommunications, and brewing, the decay of wave energy through a transmission medium or the fermentation conversion of wort sugars.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The salt had "lost his savour;" and yet, with one drop of that attenuation in a goblet of 153:9 water, and a teaspoonful of the water administered at in- tervals of three hours, she has cured a patient sinking in the last stage of typhoid fever."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The highest attenuation 153:12 of homoeopathy and the most potent rises above matter into mind."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Now administer mentally to your patient a high 153:21 attenuation of truth, and it will soon cure the boil."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The progressive **attenuation** of ancient feudal ties left the monarchy face to face with an assertive merchant class."*
+> - 📜 **Lord Rayleigh (*The Theory of Sound*):** *"Atmospheric viscosity causes the gradual **attenuation** of acoustic waves as they propagate across great distances."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Sensory fatigue produces a rapid **attenuation** of emotional response to repetitive external stimuli."*

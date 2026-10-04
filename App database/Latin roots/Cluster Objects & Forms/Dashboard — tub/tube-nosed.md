@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a tubular nose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a tubular nose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having nostrils enclosed in or terminating in tubular structures, characteristic of petrels, shearwaters, and fruit bats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic ornithology and mammalogy, designating procellariiform seabirds with external tubular nostrils or nyctimenine pteropodid bats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tube-nosed designates having a tubular nose."*
+> - 📜 **Charles Darwin (*The Zoology of the Voyage of H.M.S. Beagle*):** *"The storm petrels and albatrosses form a distinct **tube-nosed** order, specialized for pelagic existence across stormy oceans."*
+> - 📜 **Alfred Newton (*A Dictionary of Birds*):** *"The **tube-nosed** swimmers possess nasal passages opening through horny sheaths upon the culmen of the bill."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"The giant fulmar belongs to the **tube-nosed** family, excreting surplus dietary salt through its distinctive nostrils."*

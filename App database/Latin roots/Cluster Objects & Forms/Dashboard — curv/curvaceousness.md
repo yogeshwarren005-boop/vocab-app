@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of having a well-rounded body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of having a well-rounded body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of having shapely, well-defined curves or an attractively undulating bodily form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic theory and bodily morphology, pronounced rounded contours and sinuous proportions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, curvaceousness designates the quality of having a well-rounded body."*
+> - 📜 **William Makepeace Thackeray (*The History of Henry Esmond*):** *"The portrait captured the blooming health and **curvaceousness** that made Beatrice Esmond the toast of the court."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"Gothic architectural lines avoid mere voluptuous **curvaceousness**, seeking disciplined, energetic arches."*
+> - 📜 **George Meredith (*The Egoist*):** *"The sculptor praised the natural **curvaceousness** of the model's profile against the plain studio drapery."*

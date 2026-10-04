@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make or become angular.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having angles or an angular shape.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make angular or form into angles; or shaped with distinct corners or angles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical morphology and entomology, possessing sharp, distinct corners, longitudinal ribs, or elbow-like projections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, angulate designates make or become angular."*
+> - 📜 **Asa Gray (*Introduction to Structural and Systematic Botany*):** *"The stems of many labiate herbs are distinctly **angulate**, presenting four prominent longitudinal ridges."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Certain cultivated varieties produce **angulate** seeds rather than the rounded forms of the wild parent stock."*
+> - 📜 **Joseph Dalton Hooker (*The Botany of the Antarctic Voyage*):** *"The calyx lobes are sharply **angulate** at the base, clasping the developing capsule tightly."*

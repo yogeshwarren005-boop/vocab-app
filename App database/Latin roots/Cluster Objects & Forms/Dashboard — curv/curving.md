@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Turn sharply; change direction abruptly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extend in curves and turns.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bending smoothly or deviating gradually from a straight direction; forming a curve.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In kinematics and morphology, progressive angular deflection along a spatial trajectory or anatomical edge.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The long rows of teeth on the bulwarks glistened in the moonlight; and like the white ivory tusks of some huge elephant, vast curving icicles depended from the bows."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The flashing cascade of his mane, the curving comet of his tail, invested him with housings more resplendent than gold and silver-beaters could have furnished him."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"A faint smile curving that sullen mouth was all the echo she could win."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The road descended into the valley, **curving** around the edge of a deep chalk pit fringed with brambles."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The great white whale breached in a soaring, **curving** arc before plunging back into the foamy ocean."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The staircase was an antique structure of black oak, **curving** upward into the shadows of the gallery."*

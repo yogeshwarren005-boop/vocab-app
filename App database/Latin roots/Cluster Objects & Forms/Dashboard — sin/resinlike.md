@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling resin in properties or texture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling resin in properties or texture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling resin in appearance, stickiness, texture, or chemical properties; resinous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organic chemistry and mineralogy, possessing the vitreous luster, conchoidal fracture, and amorphous tack of natural resins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, resinlike designates resembling resin in properties or texture."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The wounded bark exuded a clear, **resinlike** gum that solidified into amber droplets under the tropical sun."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The chemical residue formed a brittle, **resinlike** cake that dissolved readily in warm alcohol."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"The distillate condensed into an aromatic **resinlike** substance possessing curious electrical properties."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of eutheria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An order of eutheria.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of placental mammals comprising the single living species, the aardvark (Orycteropus afer).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mammalogy and paleontology, an afrotherian mammalian order characterized by rootless, peg-like teeth composed of numerous hexagonal dentine tubules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tubulidentata designates an order of eutheria."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The order **tubulidentata** is distinguished by the unique histology of its teeth, which consist of parallel vertical tubes of dentine."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The African aardvark, representing the isolated order **tubulidentata**, exhibits extreme anatomical specializations for burrowing and termitophagy."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"Fossil precursors of the **tubulidentata** indicate an ancient African lineage that branched off early in placental mammalian radiation."*

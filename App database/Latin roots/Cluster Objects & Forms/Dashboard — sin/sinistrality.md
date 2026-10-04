@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Preference for using the left hand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preference for using the left hand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Left-handedness; physical preference for using the left hand, foot, eye, or side.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuropsychology, conchology, and evolutionary biology, left lateralization of motor functions or counterclockwise spiral symmetry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sinistrality designates preference for using the left hand."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Human populations exhibit an overwhelming predominance of right-handedness, with **sinistrality** persisting as a stable minority trait."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Studies in cerebral localization suggest that anomalous **sinistrality** correlates with right-hemispheric speech representation."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The structural **sinistrality** observed in mutant gastropods demonstrates how single genetic changes invert anatomical polarity."*

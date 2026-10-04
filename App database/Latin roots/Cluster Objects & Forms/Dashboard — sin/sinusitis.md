@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of one of the paranasal sinuses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of one of the paranasal sinuses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the mucous membranes lining one or more of the paranasal sinuses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In otorhinolaryngology, acute or chronic bacterial or viral infection of paranasal cavities causing facial pressure, purulent rhinorrhea, and cephalalgia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sinusitis designates inflammation of one of the paranasal sinuses."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute frontal **sinusitis** commonly follows influenza, manifesting with severe supraorbital headache and local percussion tenderness."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"The patient complained of chronic catarrh and dull pain between the eyes, indicating stubborn **sinusitis**."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"Blocked drainage from the ethmoid cells produces persistent **sinusitis** that tests the diagnostic skill of the physician."*

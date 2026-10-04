@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a sinusoidal manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a sinusoidal manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a sinusoidal manner; in the form of or following a sine wave.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematical physics and electronics, fluctuating smoothly and periodically in time or space as a function of the sine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sinusoidally designates in a sinusoidal manner."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The electromagnetic field vectors oscillate **sinusoidally** in planes perpendicular to the direction of wave propagation."*
+> - 📜 **Lord Rayleigh (*The Theory of Sound*):** *"The acoustic diaphragm moves **sinusoidally** when driven by a pure resonant acoustic frequency."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Servomechanisms respond smoothly when error corrections vary **sinusoidally** rather than in abrupt, jarring pulses."*

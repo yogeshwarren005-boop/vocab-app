@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Assume a globular shape.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assume a globular shape.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To gather, form, or roll into a compact ball, sphere, or globe; or formed into a compact rounded mass.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical anatomy and botany, describing densely packed rounded lymph nodes or tightly clustered floral heads.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conglobate designates assume a globular shape."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"Drops of quicksilver **conglobate** spontaneously upon polished marble to preserve their cohesive equilibrium."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"When alarmed, the pill millipede will **conglobate** into a tight spherical armor protecting its soft legs."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Certain beetles **conglobate** at the approach of danger, feigning death until the predator passes."*

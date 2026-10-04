@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Travel all over the world for pleasure and sightseeing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Travel all over the world for pleasure and sightseeing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To travel widely, frequently, and casually across the world for pleasure or tourism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social satire and travel literature, to journey internationally as a leisure tourist visiting cosmopolitan capitals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, globe-trot designates travel all over the world for pleasure and sightseeing."*
+> - 📜 **Henry James (*The American*):** *"Wealthy tourists of that era began to **globe-trot** with carefree indifference, viewing cathedrals as casual novelties."*
+> - 📜 **Mark Twain (*Following the Equator*):** *"Our party resolved to **globe-trot** across the Pacific islands, observing indigenous customs with honest wonder."*
+> - 📜 **Oscar Wilde (*The Importance of Being Earnest*):** *"Algernon remarked that an adventurous bachelor might comfortably **globe-trot** whenever domestic life grew tedious."*

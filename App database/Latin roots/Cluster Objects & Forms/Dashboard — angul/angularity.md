@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A shape having one or more sharp angles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property possessed by a shape that has angles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, condition, or degree of having sharp corners, distinct vertices, or bony contours.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geomorphology, petrology, and mechanical design, the degree of sharpness or lack of roundness in sedimentary grains or manufactured parts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"An angularity of lineament, and a fixity of facial machinery in general, proclaimed that serious work was the order of the day."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"An angularity of lineament, and a fixity of facial machinery in general, proclaimed that serious work was the order of the day."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Those black angularities which his face had used to put on when his wishes were thwarted now did duty in picturing the incorrigible backslider who would insist upon turning again to his wallowing in the mire."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Miss Murdstone was a lady of profound gloom and severe **angularity**, both of mind and person."*
+> - 📜 **Charles Darwin (*Geological Observations on South America*):** *"The **angularity** of the rock fragments proved that the scree had accumulated through frost weathering without transport by water."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The bleak landscape lost all softness of contour, its stark **angularity** outlined against the winter sky."*

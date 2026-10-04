@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (anatomy) a natural hollow or sinus within the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (anatomy) a natural hollow or sinus within the body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An anatomical cavity, hollow space, or chamber within an organ, bone, or organism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate anatomy, descriptive embryology, and neurosurgery, a hollow space such as cavum tympani, cavum oris, or cavum septum pellucidum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cavum designates (anatomy) a natural hollow or sinus within the body."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The middle ear chamber, or **cavum** tympani, connects with the pharynx through the Eustachian tube."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The **cavum** cranii in primitive fishes is largely filled with gelatinous arachnoid tissue around the brain."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Inflammatory exudates within the **cavum** pleurae must be evacuated promptly to avoid empyema."*

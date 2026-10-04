@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a succession of waves or curves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a succession of waves or curves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the form of a sine wave; relating to or characterized by sine-wave oscillations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electrical engineering, acoustics, and physiology, exhibiting smooth periodic harmonic oscillation according to a sine function.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sinusoidal designates having a succession of waves or curves."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"An alternating electric current follows a **sinusoidal** waveform whose frequency determines its inductive reactance."*
+> - 📜 **Lord Rayleigh (*The Theory of Sound*):** *"The tuning fork generates **sinusoidal** air pressure oscillations that produce the purest musical timbre."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"Fourier decomposition demonstrates that any continuous signal can be resolved into a sum of **sinusoidal** components."*

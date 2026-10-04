@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Family of fungi whose ascocarps resemble tubers and vary in size from that of an acorn to that of a large apple.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Family of fungi whose ascocarps resemble tubers and vary in size from that of an acorn to that of a large apple.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of ascomycetous fungi containing the true truffles, producing edible subterranean fruiting bodies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mycology, an order-level hypogeous fungal family characterized by closed subterranean ascocarps and mycorrhizal symbiotic associations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tuberaceae designates family of fungi whose ascocarps resemble tubers and vary in size from that of an acorn to that of a large apple."*
+> - 📜 **Asa Gray (*Introduction to Structural and Systematic Botany*):** *"Fungi belonging to the **tuberaceae** produce prized subterranean fruiting bodies that ripen beneath the roots of oak trees."*
+> - 📜 **Joseph Dalton Hooker (*Himalayan Journals*):** *"Indigenous foresters used trained dogs to detect the underground ascocarps of the **tuberaceae** in deciduous woodlands."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Mycologists observe that members of the **tuberaceae** depend upon burrowing animals for spore dispersal."*

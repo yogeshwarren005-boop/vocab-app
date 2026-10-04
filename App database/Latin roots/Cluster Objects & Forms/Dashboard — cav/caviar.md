@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Salted roe of sturgeon or other large fish; usually served as an hors d'oeuvre.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Salted roe of sturgeon or other large fish; usually served as an hors d'oeuvre.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The pickled roe of sturgeon or other large fish, eaten as a luxury delicacy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastronomy and figurative idioms, a luxury delicacy or something too refined for vulgar or unappreciative tastes (caviare to the general).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*The Elder Brother*):** *"There's a Fishmongers boy with Caviar Sir, Anchoves and Potargo, to make ye drink. _Cha_."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"The play, I remember, pleased not the million; 'twas **caviar** to the general: but it was an excellent play, well digested in the scenes."*
+> - 📜 **Anton Chekhov (*The Cherry Orchard*):** *"The guests lingered by the buffet, sampling fresh black **caviar** and fine Crimean wines."*
+> - 📜 **Leo Tolstoy (*Anna Karenina*):** *"Oblonsky ordered fresh Astrakhan **caviar** with hot buttered toast to begin the lavish dinner."*

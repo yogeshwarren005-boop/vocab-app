@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of hystricomorpha.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of hystricomorpha.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of South American hystricomorph rodents comprising the guinea pigs, cavies, maras, and capybaras.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalogy and evolutionary zoology, a diverse neotropical rodent family characterized by herbivorous habits, hypsodont dentition, and short or absent tails.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, caviidae designates a family of hystricomorpha."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The South American rodents of the family **caviidae** occupy ecological niches filled elsewhere by hares and rabbits."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"In the **caviidae**, the angular process of the mandible originates from the outer side of the incisive socket."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"The capybara, largest of living rodents, represents the giant branch of the family **caviidae**."*

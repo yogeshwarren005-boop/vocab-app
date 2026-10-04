@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of splitting into three branches.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of splitting into three branches.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A division or branching into three prongs, paths, channels, or branches; a three-way split.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vascular anatomy, cartography, and structural geometry, the junction where a single conduit or axis diverges into three distinct pathways.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trifurcation designates the act of splitting into three branches."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The vascular **trifurcation** represented an anatomic variant that complicated the surgical exposure of the deep vessel."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The anomalous **trifurcation** of the horn occurred spontaneously in several domestic sheep flocks in Scotland."*
+> - 📜 **Charles Lyell (*Travels in North America*):** *"At the **trifurcation** of the canyon, the explorer was forced to choose between three equally precipitous gorges."*

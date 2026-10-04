@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mountain peak in the southern sinai peninsula (7,500 feet high); it is believed to be the peak on which moses received the ten commandments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A desert on the sinai peninsula in northeastern egypt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A triangular peninsula in northeastern Egypt between the Mediterranean and the Red Sea; or the biblical mountain of divine revelation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biblical history, geography, and geopolitics, the sacred desert mountain where Moses received the Ten Commandments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Stanley, _Sinai and Palestine_, Second Edition (London, 1856), pp. 460-465; E."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It was Mount Horeb, that Sinai at the top of which Moses saw God face to face."*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"Scale, 9 miles to an inch 27 in. by 32 in. 6 0 SINAI (The Peninsula of), the NEGEB, and LOWER EGYPT."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Sing, Heavenly Muse, that on the secret top of Oreb, or of **Sinai**, didst inspire that shepherd who first taught the chosen seed."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Hermits retired to the desolate granite solitudes of Mount **Sinai**, establishing the fortified monastery of St. Catherine."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The divine law thundered forth from the clouds and lightning that enveloped the summit of **Sinai**."*

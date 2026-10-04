@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from sin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from sin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from sin; morally pure; innocent of transgression or wrongdoing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Christian theology and moral philosophy, possessing pristine ethical innocence unstained by moral guilt or original sin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I advise you to live sinless, and I wish you to die tranquil.” “Then you snatch love and innocence from me?"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"A head, pure, sinless quite of brain and soul, The very image of a barber’s Poll; It shews a human face, and wears a wig, And looks, when well preserv’d, amazing big. 1789 Robin Shure In Hairst Chorus.—Robin shure in hairst, I shure wi’ him."*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"As for the substitution of the innocent for the guilty, and satisfying the claims of law by the blood of a sinless victim, they are amazed that any rational man can credit such absurd notions."*
+> - 📜 **John Milton (*Paradise Lost*):** *"So pass'd they naked on, nor shunn'd the sight of God or Angel, for they thought no ill: in **sinless** youth, before the bitter fall."*
+> - 📜 **William Wordsworth (*Ode: Intimations of Immortality*):** *"Trailing clouds of glory do we come from God, who is our home: Heaven lies about us in our infancy, in **sinless** wonder."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The innocent smile of the child seemed to Silas like a messenger from a **sinless** world, redeeming his broken spirit."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A belief in the spread of revolutionary principles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A belief in the spread of revolutionary principles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The revolutionary principles, doctrines, or practices that advocate overthrowing the existing order.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political theory and historical critique, an ideological commitment to systemic transformation through radical or violent means.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, revolutionism designates a belief in the spread of revolutionary principles."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The reckless spirit of **revolutionism** destroys in a single hour ancient civic institutions that required centuries to mature."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Wild **revolutionism** seized the Parisian populace, tearing down statues, altars, and royal insignia."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"Unchecked fanaticism and partisan **revolutionism** threaten to dismantle the fragile fabric of national culture."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a circular manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a circular manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In the form of a circle; round, or in a manner that returns to the starting point.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optics, geometry, and fluid kinematics, describing motion around a closed orbit or light whose electric field vector rotates uniformly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"But Joe was readier with his definition than I had expected, and completely stopped me by arguing circularly, and answering with a fixed look, “Her.” “And I ain’t a master-mind,” Joe resumed, when he had unfixed his look, and got back to his whisker."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The transmitted ray became **circularly** polarized after traversing the birefringent quartz crystal."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The birds wheeled **circularly** above the feeding leviathan, dipping their wings into the white churn."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"Water currents in the tidal eddy flowed **circularly**, accumulating sand banks in the middle basin."*

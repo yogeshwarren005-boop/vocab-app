@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A warning against certain acts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) a formal notice filed with a court or officer to suspend a proceeding until filer is given a hearing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A warning or proviso of specific stipulations, conditions, or limitations; a cautionary note.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil jurisprudence, a formal notice or writ entered in court to suspend proceedings pending clarification of claims (e.g. caveat emptor).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"It is nought, it is nought, saith the buyer, but, after he is gone his way, then he boasteth." And the seller has all the variants of caveat emptor ready to retort."*
+> - 📜 **Sir William Blackstone (*Commentaries on the Laws of England*):** *"The heir entered a formal **caveat** against the probate of the disputed will in the ecclesiastical court."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"We must enter this **caveat**, that natural philosophy is not to be corrupted by theological conceits."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The ancient commercial rule of **caveat** emptor placed the burden of product inspection squarely upon the buyer."*

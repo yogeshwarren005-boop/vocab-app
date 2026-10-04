@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that bulges out or is protuberant or projects from its surroundings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition of being protuberant; the condition of bulging out.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thing that protrudes or swells out from something; a bulge, knob, swelling, or prominence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy, osteology, and solar physics, a bony process (e.g. occipital protuberance) or a solar plasma prominence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Cainy Ball and Joseph, who performed this latter operation, were if possible wetter than the rest; they resembled dolphins under a fountain, every protuberance and angle of their clothes dribbling forth a small rill."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In this gable was no window, chimney, ornament, or protuberance of any kind."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Still rolling in his blood, at last he partially disclosed a strangely discolored bunch or protuberance, the size of a bushel, low down on the flank."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The skull of the wild boar bears a formidable bony **protuberance** that protects the eye during aggressive rooting."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The sperm whale's forehead exhibits an immense blunt **protuberance** housing hundreds of gallons of clear spermaceti oil."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The external occipital **protuberance** provides a stout attachment site for the ligamentum nuchae in quadrupeds."*

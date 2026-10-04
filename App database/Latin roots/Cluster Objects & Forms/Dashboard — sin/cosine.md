@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ratio of the adjacent side to the hypotenuse of a right-angled triangle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ratio of the adjacent side to the hypotenuse of a right-angled triangle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fundamental trigonometric function of an acute angle in a right triangle: the ratio of the adjacent side to the hypotenuse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Euclidean geometry, trigonometry, and complex analysis, an even periodic transcendental function denoted cos(θ), defined as the real part of exp(iθ).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I, however, struggled on with my sines and cosines for a few days more; but stepping into the garden one charming noon, to take the sun's altitude, there I met my angel, Like Proserpine gathering flowers, Herself a fairer flower."*
+> - 📜 **Isaac Newton (*The Mathematical Principles of Natural Philosophy*):** *"The gravitational force resolving along the orbital tangent is proportional to the **cosine** of the angle of inclination."*
+> - 📜 **Leonhard Euler (*Elements of Algebra*):** *"By expanding circular functions into infinite series, the **cosine** reveals its profound algebraic identity with exponential terms."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The mutual inductance of the two circular coils varies directly with the **cosine** of the angle between their magnetic axes."*

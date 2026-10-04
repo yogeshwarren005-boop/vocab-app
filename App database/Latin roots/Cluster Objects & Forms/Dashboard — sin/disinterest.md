@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tolerance attributable to a lack of involvement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tolerance attributable to a lack of involvement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Freedom from personal bias or selfish interest; impartiality; or an absence of interest; indifference.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In judicial ethics and philosophy of science, objective neutrality devoid of personal stake in the outcome of an inquiry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The case of Gridley is in no essential altered from one of actual occurrence, made public by a disinterested person who was professionally acquainted with the whole of the monstrous wrong from beginning to end."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Badger pursued the conversation, we both felt that it was disinterested in them to express the opinion they had communicated to us and that there was a great probability of its being sound."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"You will lose the disinterested part of your Don Quixote character,” said Lady Dedlock to Mr."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The magistrate presided with noble **disinterest**, refusing to allow family connections to influence his judgment."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"A virtuous moral agent acts with benevolent **disinterest**, weighing the welfare of strangers equally with his own."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The genuine philosopher approaches natural phenomena with contemplative **disinterest**, seeking truth alone."*

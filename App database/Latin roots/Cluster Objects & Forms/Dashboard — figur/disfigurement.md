@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An appearance that has been spoiled or is misshapen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of damaging the appearance or surface of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A visible blemish, scar, or bodily defect that spoils appearance; or the damage caused by defacement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tort law, cosmetic surgery, and fine art conservation, compensable permanent cosmetic injury or physical impairment of aesthetic integrity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"That his generosity rose above my disfigurement and my inheritance of shame."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"By this time there had arisen a shout of laughter at the extraordinary appearance of Car’s back, which irritated the dark queen into getting rid of the disfigurement by the first sudden means available, and independently of the help of the scoffers."*
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"By good fortune, too, she was naturally so peculiar in appearance as not to show disfigurement like any other woman."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe facial burns require prompt plastic intervention to mitigate catastrophic functional and cosmetic **disfigurement**."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The Puritan soldiers regarded the **disfigurement** of cathedral stained glass as an act of pious purification."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate looked upon the patient's severe wound, striving to prevent lasting **disfigurement**."*

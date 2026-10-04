@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bend inwards.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to curve inward.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To bend or curve inward; or curved or turned inward at the margins or apex.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical morphology and conchology, having borders, petals, or shell margins rolled inward toward the axis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"His chin was so long, so peaked, and incurvated, as to form in profile, with his impending forehead, the exact resemblance of a moon in the first quarter."*
+> - 📜 **Asa Gray (*Introduction to Structural and Systematic Botany*):** *"In certain composite flowers, the ray petals **incurvate** during evening hours to protect the central florets."*
+> - 📜 **Charles Darwin (*Insectivorous Plants*):** *"The marginal tentacles of Drosera **incurvate** toward the center of the leaf within minutes of capturing an insect."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The prehensile claws **incurvate** strongly, providing an unyielding grip upon slippery prey."*

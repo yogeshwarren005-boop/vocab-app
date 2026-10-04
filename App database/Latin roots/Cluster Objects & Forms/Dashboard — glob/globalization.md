@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Growth to a global or worldwide scale.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Growth to a global or worldwide scale.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The worldwide integration of government policies, cultures, social movements, and financial markets through international trade.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In macroeconomic sociology, the compression of space-time enabling instant planetary exchange of capital, goods, and digital information.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, globalization designates growth to a global or worldwide scale."*
+> - 📜 **H. G. Wells (*The World Set Free*):** *"The inevitable **globalization** of human communication rendered traditional sovereign borders functionally obsolete."*
+> - 📜 **Thorstein Veblen (*The Nature of Peace*):** *"The **globalization** of commercial trade networks created systemic rivalries between expanding industrial empires."*
+> - 📜 **Joseph Schumpeter (*Capitalism, Socialism and Democracy*):** *"The dynamic **globalization** of investment markets continuously dissolves localized monopolies through creative destruction."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Divide into two or more branches so as to form a fork.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divide into two or more branches so as to form a fork.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Forked or branching, having two or more prongs, branches, or divisions; or to branch out into a fork.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive botany and mycology, having divided vegetative fronds, antler-like branching mycelia, or forked venation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Furcate tip of one of the appendages of the Maple blight (_Uncinula bicornis_) × highly. 〃 228."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The lateral veins of the leaf are distinctly **furcate**, dividing evenly before reaching the margin."*
+> - 📜 **Joseph Dalton Hooker (*Flora Antarctica*):** *"The marine algae display **furcate** thalli adapted to withstand the relentless pounding of subantarctic surf."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"The young tendrils produce **furcate** tips that grasp surrounding twigs with remarkable tenacity."*

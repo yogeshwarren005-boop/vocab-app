@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small tube.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small tube.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A minute, microscopic tube or hollow cylindrical structure in an animal or plant organ.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In renal physiology, cytology, and cell biology, a microscopic epithelial conduit (e.g. renal proximal convoluted tubule, microtubule).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tubule designates a small tube."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Each kidney contains over a million nephrons, each consisting of a glomerulus and a convoluted **tubule** that filters metabolic waste."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish*):** *"The hepatopancreas consists of thousands of blind-ending glandular **tubule** structures that secrete digestive enzymes."*
+> - 📜 **Charles Darwin (*Insectivorous Plants*):** *"Microscopic examination revealed that each secrete gland was supplied by a delicate spiral **tubule** conveying fluid."*

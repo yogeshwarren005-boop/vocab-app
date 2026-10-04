@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having resin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having resin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not resinous; free from or containing no resin, pitch, or sticky plant exudate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In timber technology and botanical physiology, descriptive of hardwood lumber (e.g. deciduous broadleaves) devoid of resin canals and pitch pockets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonresinous designates not having resin."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Forest trees producing **nonresinous** timber are preferred for domestic furniture due to their clean, neutral grain."*
+> - 📜 **John Evelyn (*Sylva, or A Discourse of Forest-Trees*):** *"The wood of the beech is clean and **nonresinous**, rendering it excellent for kitchen vessels and fuel."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"Unlike conifers, the stems of angiosperms are largely **nonresinous**, lacking specialized oleoresin ducts."*

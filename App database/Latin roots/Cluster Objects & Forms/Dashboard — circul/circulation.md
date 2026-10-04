@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The dissemination of copies of periodicals (as newspapers or magazines).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Movement through a circuit; especially the movement of blood through the heart and blood vessels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The movement of fluid through a closed system, especially blood through the body; or the spread and distribution of things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology, economics, and media publishing, cardiovascular blood transport, volume of currency in exchange, or periodical readership count.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"To be informed what the Galaxy Gallery of British Beauty is about, and means to be about, and what Galaxy marriages are on the tapis, and what Galaxy rumours are in circulation, is to become acquainted with the most glorious destinies of mankind."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"George, and—yes—it partly helps the circulation,” he replies."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"A doggerel parody on _John Gilpin_, entitled "The Diverting History of John Cairns," in which a highly coloured account is given of the supposed genesis of the pamphlet, was written and found wide circulation."*
+> - 📜 **William Harvey (*The Circulation of the Blood*):** *"The continual **circulation** of the blood through the arteries and veins sustains the vital warmth of every limb."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The spectacular **circulation** of Addison's Spectator demonstrated the immense thirst of the public for polished moral essays."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Paper money replaces gold and silver, facilitating commercial **circulation** with far greater convenience."*

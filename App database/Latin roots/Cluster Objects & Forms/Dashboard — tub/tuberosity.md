@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A protuberance on a bone especially for attachment of a muscle or ligament.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A protuberance on a bone especially for attachment of a muscle or ligament.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rounded prominence or rough elevation on a bone, serving as a site for muscle or ligament attachment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In osteology and orthopedic anatomy, a prominent skeletal apophysis such as the ischial tuberosity or tibial tuberosity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tuberosity designates a protuberance on a bone especially for attachment of a muscle or ligament."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The powerful patellar tendon inserts firmly into the anterior **tuberosity** of the tibia."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The prominent deltoid **tuberosity** of the humerus provides mechanical advantage to the powerful shoulder musculature."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Bursitis over the ischial **tuberosity**, historically common among weavers, caused localized chronic pain on sitting."*

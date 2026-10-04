@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Short-tailed rough-haired south american rodent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Short-tailed rough-haired south american rodent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any South American rodent of the family Caviidae, especially the wild guinea pig.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoology and pet husbandry, a small stout rodent of the genus Cavia or related genera, characterized by herbivorous habits and absence of external tail.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cavy designates short-tailed rough-haired south american rodent."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The Patagonian **cavy** is an animal of considerable size, resembling in its habits and gait a European hare."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The dentition of the wild **cavy** consists of rooted molars that wear into sharp grinding ridges."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"The wild **cavy** burrows in sandy scrubland, emerging at dusk to feed on coarse grasses."*

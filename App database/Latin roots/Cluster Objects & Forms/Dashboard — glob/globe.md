@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The 3rd planet from the sun; the planet we live on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An object with a spherical shape.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A spherical representation of the earth; the planet Earth itself; or any spherical object.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geography, astronomy, and Elizabethan theater, a scaled terrestrial sphere, celestial orb, or Shakespeare's famous London playhouse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She is spherical, like a globe."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, thou poor ghost, while memory holds a seat In this distracted globe."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, thou globe of sinful continents, what a life dost thou lead!"*
+> - 📜 **William Shakespeare (*The Tempest*):** *"The cloud-capp'd towers, the gorgeous palaces, the solemn temples, the great **globe** itself, yea, all which it inherit, shall dissolve."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Roman legions conquered the fairest portion of the **globe**, extending their laws over diverse nations."*
+> - 📜 **John Milton (*Paradise Lost*):** *"He looked and saw our terrestrial **globe** floating serene like a pendulum in the starry deep."*

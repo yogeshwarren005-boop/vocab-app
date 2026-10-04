@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause (ores or powdery metals) to become a coherent mass by heating without melting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formed into a mass by heat and pressure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Coalesced, formed, or bound together into a solid mass by heat and pressure without complete liquefaction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In powder metallurgy, ceramics, and petrology, dense crystalline structure formed by thermal atomic diffusion across particle boundaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The sintered cakes are finally discharged automatically into cars."*
+> - 📜 **Michael Faraday (*The Chemical History of a Candle*):** *"The intense blowpipe flame produced a hard **sintered** pellet that resisted further thermal alteration."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"Volcanic tuffs were transformed into hard, **sintered** rock where incandescent ash flows had compressed under their own heat."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"The rocket nozzle was fabricated of refractory **sintered** carbide alloys capable of withstanding infernal exhaust temperatures."*

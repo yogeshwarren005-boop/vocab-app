@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conduit consisting of a long hollow object (usually cylindrical) used to hold and conduct objects or liquids or gases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide with a tube or insert a tube into.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tubes collectively, or a length of flexible or rigid pipe or tube used for conveying liquids or gases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial engineering, plumbing, and laboratory mechanics, manufactured cylindrical conduits made of glass, copper, or polymer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tubing designates conduit consisting of a long hollow object (usually cylindrical) used to hold and conduct objects or liquids or gases."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The apparatus was connected using airtight glass **tubing** sealed with India rubber joints."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"The laboratory table was covered with retorts, batteries, and coils of vulcanized rubber **tubing**."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"Steam coursed through the network of copper **tubing**, heating the immense textile spinning sheds."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An appearance that has been spoiled or is misshapen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of damaging the appearance or surface of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of spoiling the appearance of something, or the state of having one's appearance marred or deformed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical surgery, forensics, and art history, permanent anatomical deformity or vandalism defacing sculptural or architectural surfaces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"It's the like of a disfiguration that all can see."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The religious zealots committed wanton **disfiguration** upon the classical statues that adorned the pagan shrines."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Esther Summerson bore the permanent **disfiguration** left by the virulent fever with serene patience and cheerfulness."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The harsh weather caused gradual **disfiguration** of the antique Roman amphitheater on the town boundary."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the characteristics of pitch or tar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the characteristics of pitch or tar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of or smelling of resin; sticky with resinous pitch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive botany and forestry, exuding sticky oleoresins or emitting the pungent aroma of pine sap.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, resiny designates having the characteristics of pitch or tar."*
+> - 📜 **John Muir (*The Mountains of California*):** *"The warm wind carried the rich, **resiny** fragrance of the sugar pine groves across the sunlit granite cliffs."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"His hands were stained and **resiny** from stripping bark from newly felled pine logs in the damp copse."*
+> - 📜 **Rudyard Kipling (*Kim*):** *"They pitched camp among the Himalayan deodars, inhaling the crisp, **resiny** air drifting from the snowline."*

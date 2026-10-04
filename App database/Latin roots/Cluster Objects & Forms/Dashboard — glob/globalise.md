@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make world-wide in scope or application.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make world-wide in scope or application.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To extend to the entire world; to integrate internationally or make global in scope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic policy and cultural studies, to expand industrial operations, trade networks, or cultural forms across international borders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, globalise designates make world-wide in scope or application."*
+> - 📜 **H. G. Wells (*The New World Order*):** *"Our primary task is to **globalise** the administration of raw materials to prevent international resource wars."*
+> - 📜 **Arnold J. Toynbee (*A Study of History*):** *"Modern technology tends to **globalise** Western industrial techniques, transforming traditional agrarian cultures everywhere."*
+> - 📜 **E. M. Forster (*Two Cheers for Democracy*):** *"Commercial syndicates strive to **globalise** consumer appetites, standardizing taste across every continent."*

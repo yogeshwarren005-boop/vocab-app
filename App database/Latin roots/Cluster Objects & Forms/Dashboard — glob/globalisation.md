@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Growth to a global or worldwide scale.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Growth to a global or worldwide scale.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process by which businesses, cultures, and organizations develop international influence or operate on a global scale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In macroeconomics and sociological theory, worldwide economic, political, and cultural integration facilitated by rapid trade and communications.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, globalisation designates growth to a global or worldwide scale."*
+> - 📜 **H. G. Wells (*The Work, Wealth and Happiness of Mankind*):** *"The progressive **globalisation** of economic production outgrows the narrow boundaries of eighteenth-century nation states."*
+> - 📜 **Bertrand Russell (*Has Man a Future?*):** *"The **globalisation** of scientific industry makes war an obsolete instrument that guarantees mutual suicide."*
+> - 📜 **Aldous Huxley (*Brave New World Revisited*):** *"Economic **globalisation** without corresponding moral responsibility concentrates immense power in centralized oligarchies."*

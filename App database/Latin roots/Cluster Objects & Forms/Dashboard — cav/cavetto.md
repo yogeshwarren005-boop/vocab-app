@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A concave molding shaped like a quarter circle in cross section.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A concave molding shaped like a quarter circle in cross section.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A concave architectural molding with a cross section that is approximately a quarter of a circle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical architecture, order design, and furniture crafting, an internal concave quarter-round molding used in cornices and entablatures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cavetto designates a concave molding shaped like a quarter circle in cross section."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The cornice terminated in a bold **cavetto** that cast a deep, protective shadow over the sculptured frieze."*
+> - 📜 **Walter Pater (*Studies in the History of the Renaissance*):** *"The classical tomb featured a refined **cavetto** molding framing the Latin commemorative epitaph."*
+> - 📜 **Francis Bacon (*Essays: Of Building*):** *"Let the entablature display sober proportions, with crisp fillets and an elegant **cavetto** above the architrave."*

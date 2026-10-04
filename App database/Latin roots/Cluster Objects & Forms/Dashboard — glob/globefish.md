@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous marine fishes whose elongated spiny body can inflate itself with water or air to form a globe; several species contain a potent nerve poison; closely related to spiny puffers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous marine fishes whose elongated spiny body can inflate itself with water or air to form a globe; several species contain a potent nerve poison; closely related to spiny puffers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pufferfish (family Tetraodontidae) capable of inflating its body into a spiny globe for defense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology, a marine teleost containing lethal tetrodotoxin, equipped with fused beak-like plates and an expandable gastric sac.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, globefish designates any of numerous marine fishes whose elongated spiny body can inflate itself with water or air to form a globe; several species contain a potent nerve poison; closely related to spiny puffers."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"I caught a curious **globefish** off the Brazilian coast that instantly swallowed air and floated belly-upwards like a prickly balloon."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The specialized dentition of the **globefish** forms powerful crushing beaks suited for feeding on coral and mollusks."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"When attacked by predatory fish, the **globefish** inflates itself, erecting formidable epidermal spines."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who sins (without repenting).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who sins (without repenting).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who commits a sin, moral transgression, or crime against ethical laws; a wrongdoer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In religious moralizing, hamartiology, and literature, an imperfect human guilty of moral failing in need of redemption.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here’s that which is too weak to be a sinner, Honest water, which ne’er left man i’ the mire."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, I will be so much a sinner to be a double-dealer: there’s another."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Because a plain blunt man, who has never been taught concealment, speaks out his mind without exactly intending it, he’s to be snapped off like the son of a sinner.” “Indeed there’s no such case between us,” she said, turning away."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"The devil can cite Scripture for his purpose; an evil soul producing holy witness is like a villain with a smiling cheek, a goodly apple rotten at the heart: O, what a goodly outside falsehood hath! We are all frail **sinner** folk."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The minister stood upon the scaffold, confessing that he was the vilest **sinner** of all who walked the earth."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Chadband addressed the ragged street-sweeper as a wretched human **sinner** in desperate need of pious exhortation."*

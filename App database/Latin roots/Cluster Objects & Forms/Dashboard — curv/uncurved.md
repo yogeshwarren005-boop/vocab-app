@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no curves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no curves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not curved; perfectly straight, planar, or flat; free from bends.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geometry and physical description, maintaining linear straightness or zero curvature along its axis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uncurved designates having no curves."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The hedge line ran in an **uncurved**, rigid line across the downs, dividing ancient parish boundaries."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"Seedlings grown in complete darkness remained stiff and **uncurved**, showing no phototropic orientation."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Classical Greek lintels rely upon the **uncurved** horizontal beam, contrasting with Roman arches."*

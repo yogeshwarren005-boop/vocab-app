@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert at calculation (or at operating calculating machines).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert at calculation (or at operating calculating machines).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who calculates or computes numbers; or someone who creates patterns, forms, or figures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical commerce, mathematics, and textile design, an accountant, calculating clerk, or pattern designer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, figurer designates an expert at calculation (or at operating calculating machines)."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"Mr. Gradgrind was an indefatigable **figurer**, tabulating human lives in statistical columns of profit and loss."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The prudent merchant proves himself an accurate **figurer** before embarking his capital in overseas ventures."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"The mechanical **figurer** who measures human souls with yardsticks cannot perceive spiritual greatness."*

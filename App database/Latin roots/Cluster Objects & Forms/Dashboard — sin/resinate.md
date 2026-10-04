@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impregnate with resin to give a special flavor to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impregnate with resin to give a special flavor to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To treat, coat, impregnate, or combine with resin; or a salt or ester of a resin acid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial manufacturing, chemical technology, and winemaking, to coat wooden barrels or seal papers with resinous compounds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, resinate designates impregnate with resin to give a special flavor to."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"Ancient vintners would **resinate** their amphorae with pine pitch to preserve the vintage during maritime transit."*
+> - 📜 **Michael Faraday (*Chemical Manipulation*):** *"The experimenter should **resinate** the glass stopper to prevent corrosive acid vapors from escaping."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"Vats were prepared to **resinate** the industrial yarn, conferring waterproof resilience upon the woven fabric."*

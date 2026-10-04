@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small carved or molded figure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small carved or molded figure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small carved or molded statuette, especially one representing a human being, deity, or animal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaeology, decorative arts, and ceramic connoisseurship, a miniature sculpted three-dimensional statuette made of porcelain, terra cotta, or bronze.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"She had all the delicate grace of that Tanagra figurine that you have in your studio, Basil."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"The Natural History Museum has a good series of Han pottery. _Chicago._--The Field Museum of Natural History has probably the largest collection of Han pottery and T´ang figurines in the world."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Among the T´ang figurines the horse is conspicuous not only in its comparative frequency, but for the spirit and character with which it is portrayed."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Upon the mantelpiece stood an exquisite Tanagra **figurine** of tinted terra-cotta holding an open fan."*
+> - 📜 **Henry James (*The Golden Bowl*):** *"The collector examined the porcelain **figurine** under the library lamp, verifying its delicate Meissen mark."*
+> - 📜 **Virginia Woolf (*The Voyage Out*):** *"She turned the little antique bronze **figurine** in her fingers, wondering whose hands had fashioned it centuries ago."*

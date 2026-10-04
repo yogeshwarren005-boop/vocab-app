@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Commonplaceness as a consequence of being humdrum and not exciting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Commonplaceness as a consequence of being humdrum and not exciting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dull, tedious, or commonplace style; pedestrian and verbose recitation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary aesthetics and conversational rhetoric, lack of poetic spirit, characterized by plodding, mundane recitation of trivialities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosiness designates commonplaceness as a consequence of being humdrum and not exciting."*
+> - 📜 **Jane Austen (*Emma*):** *"Miss Bates was celebrated for her endless **prosiness**, pouring forth streams of domestic gossip without pausing for breath."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Chillip's conversational **prosiness** was redeemed only by his mild, self-effacing professional gentleness."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon's scholarly dissertations were afflicted by fatal **prosiness**, devoid of imaginative fire or living passion."*

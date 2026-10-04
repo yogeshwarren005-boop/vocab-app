@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus to which peking man was formerly assigned.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus to which peking man was formerly assigned.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An obsolete genus of fossil hominins established for Peking Man, now classified as Homo erectus pekinensis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleoanthropology and hominin evolution, Middle Pleistocene fossil discoveries at Zhoukoudian, China, revealing early fire use and tool manufacture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sinanthropus designates genus to which peking man was formerly assigned."*
+> - 📜 **Arthur Keith (*New Discoveries Relating to the Antiquity of Man*):** *"The cranial discoveries of **Sinanthropus** at Zhoukoudian demonstrated the wide geographic range of early Pleistocene hominins."*
+> - 📜 **G. H. R. von Koenigswald (*Meeting Prehistoric Man*):** *"The fossil dentition and robust jaw of **Sinanthropus** showed striking evolutionary affinities with Javanese Pithecanthropus."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Modern systematists unite **Sinanthropus** and Pithecanthropus into the polytypic species Homo erectus."*

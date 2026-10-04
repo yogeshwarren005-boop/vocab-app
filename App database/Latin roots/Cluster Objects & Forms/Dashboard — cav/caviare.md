@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Salted roe of sturgeon or other large fish; usually served as an hors d'oeuvre.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Salted roe of sturgeon or other large fish; usually served as an hors d'oeuvre.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic or alternative spelling of caviar; the salted roe of sturgeon, prized as a delicacy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In culinary history and Shakespearean literature, the salted eggs of sturgeons, celebrated as the classic culinary emblem of refined aesthetic taste.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I heard thee speak me a speech once, but it was never acted, or if it was, not above once, for the play, I remember, pleased not the million, ’twas caviare to the general."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"For the play, I remember, pleased not the million; 'twas **caviare** to the general: but it was—as I received it, and others, whose judgements in such matters cried in the top of mine—an excellent play."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"The sideboard groaned under jars of Russian **caviare**, smoked salmon, and bottles of prime champagne."*
+> - 📜 **W. H. Auden (*The Dyer's Hand*):** *"Difficult poetry will always remain **caviare** to the general, demanding solitary, contemplative attention."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small globe or ball.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small globe or ball.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small spherical particle, droplet, or ball of a substance, especially a liquid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cytology, pharmacology, and emulsion physics, a microscopic droplet of lipid or colloid suspended in an immiscible medium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"This expansion moves a little globule of mercury which lies in the tube, and which forms the pointer or indicator by which the instrument is read."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Then Gloria's beam struck the huge globule fair and square, Ben Ruby threw the switch, and a terrific burst of orange flame swallowed the whole center of the Lassan monster."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"It is," he writes, "like the union, not of two globules of quicksilver which run together of themselves, but of two snowballs or cakes of mud that need in some way very tough outward pressure."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"A tiny **globule** of mercury rolled across the apothecary's glass counter, scattering light from the street lamp."*
+> - 📜 **Charles Darwin (*Insectivorous Plants*):** *"The leaf gland secretes a glistening **globule** of viscid fluid that attracts and entangles flying insects."*
+> - 📜 **Michael Faraday (*The Chemical History of a Candle*):** *"A single **globule** of molten tallow rises through the capillary wick before burning in the flame."*

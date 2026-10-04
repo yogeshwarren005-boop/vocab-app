@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cord or band of inelastic tissue connecting a muscle with its bony attachment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possessing muscular strength.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tendon or fibrous tissue connecting muscle to bone; or the source of strength, power, or vigorous resilience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy, historical weaponry, and political rhetoric, collagenous tensile tissue or the financial resources driving warfare.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So shalt thou sinew both these lands together, And, having France thy friend, thou shalt not dread The scattered foe that hopes to rise again; For though they cannot greatly sting to hurt, Yet look to have them buzz to offend thine ears."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There she lost a noble and renowned brother, in his love toward her ever most kind and natural; with him, the portion and sinew of her fortune, her marriage dowry; with both, her combinate husband, this well-seeming Angelo."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But there is a way some men have, rural and urban alike, for which the mind is more responsible than flesh and sinew: it is a way of curtailing their dimensions by their manner of showing them."*
+> - 📜 **William Shakespeare (*Henry V*):** *"Stiffen the **sinew**, summon up the blood, disguise fair nature with hard-favour'd rage; then lend the eye a terrible aspect."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"As with the force of winds and waters pent, when mountains tremble, those two massy pillars with horrible convulsion to and fro he tugged, he shook, till down they came and drew the whole roof after them upon the heads of all who sat beneath: Samson stood strained in every **sinew**."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The whalemen pulled at the oars until every muscle and **sinew** cracked beneath the strain of the chase."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a concave way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a concave way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a concave manner; with an inward curve or hollowed shape.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive anatomy and geometric drafting, curving inward toward the central axis or interior plane.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, concavely designates in a concave way."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish*):** *"The abdominal pleura curve **concavely** on their inner aspects to shelter the attached swimming appendages."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The petal arches **concavely** over the sensitive stigma, sheltering the nectar gland from heavy rain."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The limestone stratum bent **concavely** beneath the valley floor, forming an artesian synclinal basin."*

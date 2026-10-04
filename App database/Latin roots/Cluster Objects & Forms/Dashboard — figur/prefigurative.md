@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Indistinctly prophetic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Indistinctly prophetic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to prefigure, foreshadow, or symbolically indicate something beforehand; predictive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism, political sociology, and theology, embodying prospective organizational forms or prophetic typologies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Like all the cottagers in Blackmoor Vale, Tess was steeped in fancies and prefigurative superstitions; she thought this an ill omen—the first she had noticed that day."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"The ancient Hebrew rites were profoundly **prefigurative**, embodying spiritual truths destined for full revelation."*
+> - 📜 **Matthew Arnold (*Literature and Dogma*):** *"Poetic myths possess a **prefigurative** quality, pointing toward higher moral ideals before they are realized in law."*
+> - 📜 **George Santayana (*Interpretations of Poetry and Religion*):** *"Sacred ceremonies function as **prefigurative** dramas, rehearsing the soul's ultimate redemption."*

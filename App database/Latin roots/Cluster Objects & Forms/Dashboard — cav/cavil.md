@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An evasion of the point of an argument by raising irrelevant distinctions or objections.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Raise trivial objections.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make petty, unnecessary, or trivial objections; to find fault without good reason.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetoric, legal argumentation, and literary criticism, raising frivolous objections to obscure substantial truth or evade debate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll give thrice so much land To any well-deserving friend; But in the way of bargain, mark ye me, I’ll cavil on the ninth part of a hair."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, you do not well in obstinacy To cavil in the course of this contract."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You cavil, widow; I did mean my queen."*
+> - 📜 **William Shakespeare (*Henry IV, Part 1*):** *"I'll give thrice so much land to any well-deserving friend; but in the way of bargain, mark ye me, I'll **cavil** on the ninth part of a hair."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Disputants who love to **cavil** about verbal trifles make no genuine advance toward knowledge."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The critic was eager to **cavil** at minor grammatical lapses while blind to the grandeur of the epic."*

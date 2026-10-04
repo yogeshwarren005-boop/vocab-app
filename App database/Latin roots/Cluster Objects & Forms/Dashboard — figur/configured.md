@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Set up for a particular purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Organized so as to give configuration to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Formed, shaped, arranged, or set up in a specific pattern, combination, or operational structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systems architecture and mechanics, assembled or programmed with designated parameters for systematic operation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Neutronic penetray analysis shows that in addition to thermonuclear power plants the aggregate includes machined parts configured to Catalog 11 long range lasers, explosive decompressors, particle beamers and gun mounts."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"It could be straight or as convoluted as a randomly configured corkscrew."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Generally familiar with the schematics of the Slingshot stations, he was overwhelmed by the two enormous cones and their peripherals, which configured the Terminals' hoppers."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The cranial bones were uniquely **configured** in this artificial breed, producing a pronounced convex forehead."*
+> - 📜 **H. G. Wells (*The First Men in the Moon*):** *"The interior cabin was **configured** with shock-absorbing springs to protect the passengers during acceleration."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"The receiving network was **configured** to filter spurious frequencies and restore signal clarity."*

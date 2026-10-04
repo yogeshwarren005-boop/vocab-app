@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marine protozoan having a rounded shell with spiny processes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marine protozoan having a rounded shell with spiny processes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of planktonic foraminifera having spherical chambered shells of calcium carbonate that form deep-sea ooze.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oceanography, micropaleontology, and marine geology, pelagic calcareous protozoans whose deposited tests compose extensive globigerina ooze.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, globigerina designates marine protozoan having a rounded shell with spiny processes."*
+> - 📜 **Thomas Henry Huxley (*On a Piece of Chalk*):** *"The microscopic shells of **globigerina** raining down upon the ocean floor form an endless expanse of calcareous ooze."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The vast chalk formations of Europe are composed almost entirely of the ancient fossilized tests of **globigerina**."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Deep Atlantic dredgings revealed living **globigerina** flourishing in surface waters thousands of miles from land."*

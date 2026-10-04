@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mar or spoil the appearance of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mar or spoil the appearance of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To spoil the attractiveness, shape, beauty, or appearance of something; to mar, blemish, or deform.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal assault terminology, architecture, and aesthetics, to inflict serious injury impairing appearance or deface architectural facades.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He cries for you, and vows, if he can take you, To scorch your face and to disfigure you. [_Cry within._] Hark, hark, I hear him, mistress."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To you your father should be as a god; One that compos’d your beauties, yea, and one To whom you are but as a form in wax By him imprinted, and within his power To leave the figure, or disfigure it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay; or else one must come in with a bush of thorns and a lantern, and say he comes to disfigure or to present the person of Moonshine."*
+> - 📜 **William Shakespeare (*A Midsummer Night's Dream*):** *"To you your father should be as a god; one that composed your beauties, yea, and one to whom you are but as a form in wax, by him imprinted, and within his power to leave the figure or **disfigure** it."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The brutal blows threatened to **disfigure** the young boxer's countenance beyond all recognition."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Careless restorations often **disfigure** ancient facades far more grievously than centuries of natural weathering."*

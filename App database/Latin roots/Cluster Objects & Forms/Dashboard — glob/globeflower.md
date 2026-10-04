@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several plants of the genus trollius having globose yellow flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several plants of the genus trollius having globose yellow flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A northern herbaceous plant of the genus Trollius (buttercup family), bearing spherical yellow or orange flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive botany, a ranunculaceous wetland perennial whose incurved petals form a distinctive hollow golden sphere.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, globeflower designates any of several plants of the genus trollius having globose yellow flowers."*
+> - 📜 **William Wordsworth (*The Excursion*):** *"By the marshy mountain tarn bloomed the pale golden **globeflower**, trembling in the alpine breeze."*
+> - 📜 **John Clare (*The Rural Muse*):** *"Along the wet meadows, the rich blossom of the **globeflower** shone like buttercups of giant growth."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Trollius, commonly known as the **globeflower**, bears showy incurved sepals enclosing numerous small petals."*

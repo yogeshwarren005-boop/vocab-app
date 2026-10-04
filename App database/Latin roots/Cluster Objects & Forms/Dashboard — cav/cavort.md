@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Play boisterously.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Play boisterously.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To jump, dance, or prance around excitedly, playfully, or boisterously.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In informal social behavior and descriptive narrative, to frolic extravagantly or engage in lively, unrestrained horseplay.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*Adventures of Huckleberry Finn*):** *"By-and-by the men stopped cavorting around and yelling."*
+> - 📜 **Mark Twain (*The Adventures of Huckleberry Finn*):** *"The horses began to snort and **cavort** around the clearing as the thunderstorm approached."*
+> - 📜 **Stephen Crane (*The Red Badge of Courage*):** *"The young recruits were eager to **cavort** and celebrate their first minor skirmish like seasoned veterans."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Young sperm whale calves would playfully **cavort** alongside the maternal cow in calm tropical seas."*

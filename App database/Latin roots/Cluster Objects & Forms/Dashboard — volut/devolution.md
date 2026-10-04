@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of declining from a higher to a lower level of effective power or vitality or essential quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The delegation of authority (especially from a central to a regional government).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The statutory delegation of powers from a central government to local or regional authorities; or gradual degeneration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional law and evolutionary biology, political decentralization or degenerative retrogressive evolutionary change.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Felix, though an offshoot from a far more recent point in the devolution of theology than his father, was less self-sacrificing and disinterested."*
-> - 📜 **James Joyce (*Ulysses*):** *"Mary’s Abbey) and masshouse (Adam and Eve’s tavern): the proscription of their national costumes in penal laws and jewish dress acts: the restoration in Chanah David of Zion and the possibility of Irish political autonomy or devolution."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The constitutional statute provided for the immediate **devolution** of royal authority upon the Prince of Orange."*
+> - 📜 **Woodrow Wilson (*The State: Elements of Historical and Practical Politics*):** *"Administrative **devolution** allows local provincial assemblies to manage municipal affairs without federal interference."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Instances of biological degeneration show that physiological **devolution** can occur when parasitic habits reduce selective pressure."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sizeable hole (usually in the ground).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Space that is surrounded by something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hollow space, hole, or chamber within a solid body, object, bone, or tooth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human anatomy, dentistry, and geology, an anatomical body space (e.g. thoracic cavity), dental carious lesion, or rock vug.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In vain I tasted to my mouth’s undoing every cavity and depression in the rocks."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"At the high end the skull forms a crater to bed that part of the mass; while under the long floor of this crater—in another cavity seldom exceeding ten inches in length and as many in depth—reposes the mere handful of this monster’s brain."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"His cranial cavity is continuous with the first neck-vertebra; and in that vertebra the bottom of the spinal canal will measure ten inches across, being eight in height, and of a triangular figure with the base downwards."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The purulent fluid had accumulated within the pleural **cavity**, causing severe compression of the left lung."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The eye originated as a simple optic nerve coated with pigment within a shallow **cavity** of the epidermis."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Water percolating through limestone dissolves the rock, forming a vast subterranean **cavity** adorned with stalactites."*

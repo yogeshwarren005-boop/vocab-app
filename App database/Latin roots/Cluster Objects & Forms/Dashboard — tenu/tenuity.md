@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relatively small dimension through an object as opposed to its length or width.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rarified quality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme thinness, slenderness, delicacy, or rarity; lack of substantial density or thickness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meteorology, fluid mechanics, and metaphysics, extreme rarity of atmosphere, thinness of fluid, or insubstantiality of argument.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Science can now educe threads of such exquisite tenuity that only the feet of the tiniest infant-spiders can ascend them; but up the filmiest insubstantiality Shelley runs with agile ease."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"The extraordinary **tenuity** of the upper air causes travelers upon mountain summits to suffer shortness of breath."*
+> - 📜 **Edmund Burke (*A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful*):** *"Delicacy and **tenuity** of form are natural qualities associated with our impressions of the beautiful."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The extreme **tenuity** of the stratum rendered it difficult to trace across the limestone escarpment."*

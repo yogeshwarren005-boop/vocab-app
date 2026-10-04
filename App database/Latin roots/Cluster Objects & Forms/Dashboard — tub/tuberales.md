@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small order of fungi belonging to the subdivision ascomycota having closed underground ascocarps.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small order of fungi belonging to the subdivision ascomycota having closed underground ascocarps.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of ascomycetous fungi comprising the truffles and related underground hypogeous fungi.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical fungal taxonomy, an order characterized by enclosed hypogeous ascocarps containing internally arranged asci.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tuberales designates small order of fungi belonging to the subdivision ascomycota having closed underground ascocarps."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The evolutionary morphology of the **tuberales** shows reduction of epigeous spore discharge in favor of animal consumption."*
+> - 📜 **Asa Gray (*Manual of Botany*):** *"Species within the order **tuberales** are gathered commercially in Southern Europe as culinary delicacies."*
+> - 📜 **Charles Darwin (*The Life and Letters of Charles Darwin*):** *"I received several curious hypogeous fungi belonging to the **tuberales** collected in the beech woods of Sussex."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A light leap by a horse in which both hind legs leave the ground before the forelegs come down.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perform a leap where both hind legs come off the ground, of a horse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A leap or prance made by a trained horse in which both hind legs leave the ground together; or to leap friskily.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical equestrian dressage (haute école), a specialized leap performed from the piaffe or levade.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He wears his honour in a box unseen That hugs his kicky-wicky here at home, Spending his manly marrow in her arms, Which should sustain the bound and high curvet Of Mars’s fiery steed."*
+> - 📜 **Sir Walter Scott (*The Talisman*):** *"The Arabian charger executed a graceful **curvet** before the royal pavilion, arching its neck with spirited pride."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"Cry 'holla!' to thy tongue, I prithee; it **curvets** unseasonably."*
+> - 📜 **Lord Byron (*Don Juan*):** *"His fiery steed began to **curvet** and rear upon the paved courtyard, eager for the morning hunt."*

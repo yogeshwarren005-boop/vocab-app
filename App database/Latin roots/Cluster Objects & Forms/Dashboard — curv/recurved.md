@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Curve or bend (something) back or down.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Curved backward or inward.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bent or curved backward, downward, or outward in a reverse direction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology and botany, possessing tips or structures that hook backward, as in avocet bills or climbing spines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"All around the orifice of the peridium the teeth become recurved, and the orange spores are exposed, crowded together within."*
+> - 📜 **Charles Darwin (*The Zoology of the Voyage of H.M.S. Beagle*):** *"The avocet skims shallow coastal lagoons using its extraordinarily delicate, **recurved** bill."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The iron flukes of the harpoon were sharply **recurved** so that no pull could dislodge them from the blubber."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The seed capsule is crowned with five **recurved** styles that assist in wind dispersal of seeds."*

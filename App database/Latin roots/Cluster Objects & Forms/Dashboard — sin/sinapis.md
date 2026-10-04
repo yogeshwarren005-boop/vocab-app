@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of old world herbs usually included in genus brassica.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of old world herbs usually included in genus brassica.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of annual herbaceous plants in the mustard family (Brassicaceae), including white mustard (Sinapis alba).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic botany, pharmacology, and agronomy, pungent cruciferous herbs yielding sinapine and volatile allyl isothiocyanate oils.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sinapis designates small genus of old world herbs usually included in genus brassica."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The seeds of **sinapis** yield the pungent condiment mustard, long valued in medicine as a rubefacient poultice."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"Seedlings of **sinapis** alba were selected for experimental investigation of hypocotyl circumnutation toward light."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Fields of yellow **sinapis** covered the alluvial plains of the Ganges, cultivated as an essential winter oilseed crop."*

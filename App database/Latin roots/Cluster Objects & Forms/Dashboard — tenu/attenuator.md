@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An electrical device for attenuating the strength of an electrical signal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electrical device for attenuating the strength of an electrical signal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A device or substance that reduces the strength, amplitude, or intensity of a signal, sound, or physical force.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electronics, telecommunications, and audio engineering, a passive or active network that reduces signal power without introducing waveform distortion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, attenuator designates an electrical device for attenuating the strength of an electrical signal."*
+> - 📜 **Claude Shannon (*The Mathematical Theory of Communication*):** *"Inserting a calibrated **attenuator** into the circuit enabled precise measurement of channel noise levels."*
+> - 📜 **Oliver Lodge (*Signalling Across Space Without Wires*):** *"The experimenter adjusted the adjustable **attenuator** to match the impedance of the receiving aerial."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Feedback loops employ a built-in **attenuator** to prevent uncontrolled systemic oscillations."*

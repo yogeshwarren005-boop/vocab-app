@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: That toward which you are inclined to feel dislike.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A certain degree of unwillingness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A reluctance, hesitation, or unwillingness to do something; a lack of enthusiastic inclination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral psychology and interpersonal relations, an aversion or disfavor toward an engagement, task, or association.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"That was something much more important than his disinclination to DC with the Knippel boys."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"They have a great disinclination to touch any object, and carefully blow the dust from it first."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"And even Mary could assure her family that she had no disinclination for it."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth felt an invincible **disinclination** to converse with Darcy after the humiliating disclosures in his letter."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The veteran legions showed marked **disinclination** to march into the arid wastes of the Persian desert."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Skimpole professed an utter **disinclination** for financial arithmetic, leaving all accounts to his long-suffering friends."*

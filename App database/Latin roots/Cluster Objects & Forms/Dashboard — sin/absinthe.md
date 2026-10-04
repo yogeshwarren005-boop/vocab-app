@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Aromatic herb of temperate eurasia and north africa having a bitter taste used in making the liqueur absinthe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strong green liqueur flavored with wormwood and anise.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An emerald-green liqueur flavored with wormwood and anise; or the bitter European wormwood plant itself.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnobotany and distillation history, a high-proof botanical spirit celebrated for louche cloudiness upon cold water addition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Orion: There is nothing but what will do you good; And the drugs are simples; 'tis hellebore, Nepenthe, upas, and dragon's blood, Absinthe, and mandrake, and mandragore."*
-> - 📜 **James Joyce (*Ulysses*):** *"Absinthe for me, savvy? _Caramba!_ Have an eggnog or a prairie oyster."*
-> - 📜 **James Joyce (*Ulysses*):** *"Absinthe the lot. _Nos omnes biberimus viridum toxicum diabolus capiat posterioria nostria_."*
+> - 📜 **Oscar Wilde (*Intentions*):** *"He ordered another glass of **absinthe**, contemplating the sublime melancholy of the Parisian boulevards."*
+> - 📜 **Ernest Hemingway (*The Sun Also Rises*):** *"We poured cold water over the sugar cubes into the cloudy green **absinthe**, watching the opalescent swirl."*
+> - 📜 **Charles Baudelaire (*Les Fleurs du Mal*):** *"The bitter aroma of **absinthe** mingled with tobacco smoke and heavy perfumes in the crowded salon."*

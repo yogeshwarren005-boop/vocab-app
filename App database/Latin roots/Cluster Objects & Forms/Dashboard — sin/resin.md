@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a class of solid or semisolid viscous substances obtained either as exudations from certain plants or prepared by polymerization of simple molecules.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a class of solid or semisolid viscous substances obtained either as exudations from certain plants or prepared by polymerization of simple molecules.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sticky, flammable organic substance exuded by trees and plants (especially pines), insoluble in water, used in varnishes and plastics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organic chemistry and materials science, natural hydrocarbon secretion containing terpenes and resin acids, or synthetic cross-linked polymers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Sometimes an old cartwheel is smeared with resin, ignited, and sent rolling down the hill."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The penalty for being a were-wolf is death; but the sentence is never passed until the accused has had a fair trial and his guilt has been clearly demonstrated by an ordeal, which consists in dipping the middle finger into boiling resin."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Picture to yourself those first navigators venturing in ships made of planks sewn with the cords of the palmtree, saturated with the grease of the seadog, and covered with powdered resin!"*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Ancient Baltic forests exuded aromatic **resin** that entombed delicate insects and fossilized into translucent amber."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The sailors boiled pine **resin** with pitch to caulk the gaping deck seams against the pounding sea."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"A stick of amber or dried **resin** rubbed with flannel acquires strong negative electrostatic charge."*

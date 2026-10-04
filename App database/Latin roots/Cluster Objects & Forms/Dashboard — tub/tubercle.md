@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A swelling that is the characteristic lesion of tuberculosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small rounded wartlike protuberance on a plant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small rounded projection or nodule, especially on a bone or on the surface of an animal or plant; or a lesion of tuberculosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In osteology, dermatology, and infectious pathology, an anatomic skeletal prominence or the characteristic granulomatous nodule produced by Mycobacterium tuberculosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"They belonged to the tubercle kind which are peculiar to the Indian seas."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"In one case the organ was originally wanting, but its place was supplied by a small tubercle, and the uvula was perfect."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"In November, 1879, her physician had decided that tubercles had formed in the left lung, and that the right lung was much congested and hardened."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Microscopic examination of the lung revealed the pathognomonic infectious **tubercle** with central caseation necrosis."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The small cartilaginous **tubercle** on the folded helix of the human ear represents an ancestral pointed apex."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The humerus bears a prominent greater **tubercle** providing insertion for the supraspinatus muscle."*

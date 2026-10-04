@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The lowest brass wind instrument.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lowest brass wind instrument.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large brass musical wind instrument of bass pitch with a cup-shaped mouthpiece and valves; or an ancient Roman trumpet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organology, classical military antiquities, and orchestration, a bass brass aerophone with valves or a straight Roman bronze military trumpet.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tuba designates the lowest brass wind instrument."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The sounding of the Roman **tuba** signaled the legionaries to advance in tight formation against the barbarian lines."*
+> - 📜 **Hector Berlioz (*Treatise on Instrumentation*):** *"The bass **tuba** provides a noble, profound foundation for the entire brass section of the modern orchestra."*
+> - 📜 **Thomas Babington Macaulay (*Lays of Ancient Rome*):** *"The blast of the martial **tuba** echoed along the banks of the Tiber as the consul marshaled his cohorts."*

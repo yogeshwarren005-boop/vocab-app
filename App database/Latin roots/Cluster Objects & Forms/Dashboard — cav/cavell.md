@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: English nurse who remained in brussels after the german occupation in order to help allied prisoners escape; was caught and executed by the germans (1865-1915).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English nurse who remained in brussels after the german occupation in order to help allied prisoners escape; was caught and executed by the germans (1865-1915).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proper surname, famously associated with Edith Cavell, British nurse celebrated for humanitarian heroism during World War I.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern historical biography and medical ethics, the heroic Red Cross nurse executed in 1915 for aiding allied soldiers escaping occupied Belgium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"For deeds by love inspired The Kaiser's vengeance fell On form so frail and tired, Heroic Nurse Cavell."*
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"What though the Prussian kultur Now threatened her with death; She met the screaming vulture In simple, quiet faith, "I am an English woman, I love my country well, But must not hate a foeman," Said kindly Nurse Cavell."*
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"She faced the guns with even, Calm, fearless, English eyes, And then, her foes forgiven, Made willing sacrifice; Thus, at the midnight hour, In Prussian prison cell, Crushed by a tyrant's power, Died Christlike Nurse Cavell."*
+> - 📜 **Arthur Conan Doyle (*A Visit to the Three Fronts*):** *"The tragic execution of Nurse **Cavell** stirred profound moral indignation throughout the civilized world."*
+> - 📜 **G. K. Chesterton (*The Barbarism of Berlin*):** *"The dying words of Edith **Cavell**, declaring that patriotism is not enough, will endure as an immortal moral legacy."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The sacrifice of Edith **Cavell** became a rallying symbol of selfless compassion amid the horrors of total war."*

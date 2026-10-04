@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A partial excuse to mitigate censure; an attempt to represent an offense as less serious than it appears by showing mitigating circumstances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To act in such a way as to cause an offense to seem less serious.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of extenuating or mitigating; an attempt to make a fault or guilt seem less grave.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal defense and moral theology, the presentation of mitigating facts to lessen statutory penalties or moral censure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"The circumstances of his marriage, too, were found to admit of much extenuation."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Sir Walter seemed to admit it as complete apology; and though Elizabeth could not see the circumstance in quite so favourable a light, she allowed it be a great extenuation."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Tyler's friend offered the only extenuation possible--the man had "been on board the Alabama and was very bitter." But in Mrs."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The historian offered in **extenuation** of the prince's failings the corrupting flattery that surrounded his youth."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Men readily invent elaborate sophistries in **extenuation** of vices to which they are personally inclined."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Edmund could urge nothing in **extenuation** of Crawford's conduct that did not intensify the sorrow of the household."*

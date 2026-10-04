@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a figurative sense.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a figurative sense.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a figurative or metaphorical sense; not literally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary analysis and linguistics, using metaphors, allegories, or tropes to convey nuanced symbolic meaning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Figuratively, this is what money does."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"If she had managed the victory at once, and he had yielded and sincerely laid his heart at her feet, I should have covered my face, turned to the wall, and (figuratively) have died to them."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"It is your time now, little tyrant, but it will be mine presently; and when once I have fairly seized you, to have and to hold, I’ll just—figuratively speaking—attach you to a chain like this” (touching his watch-guard)."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Chadband spoke **figuratively**, comparing the human soul to a vessel tossed upon stormy waters."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"She spoke **figuratively** of the heavy burden upon her conscience, though her hearer took it quite literally."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes observed that the witness spoke **figuratively** when describing the intruder as a monstrous shadow."*

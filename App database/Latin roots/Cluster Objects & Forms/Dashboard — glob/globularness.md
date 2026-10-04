@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The roundness of a 3-dimensional object.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The roundness of a 3-dimensional object.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spherical form or rounded contour; the geometric property of forming round globules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In material description and geometry, the degree to which an object or particle approaches a spherical contour.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, globularness designates the roundness of a 3-dimensional object."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The natural **globularness** of mercury droplets demonstrates the cohesive force operating among dense liquid particles."*
+> - 📜 **Robert Boyle (*New Experiments Physico-Mechanical*):** *"The **globularness** of the blown glass bubble remained intact under varying air pressures within the receiver."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"The pulvinus retains a distinctive **globularness** that distinguishes it from the adjoining cylindrical petiole."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having resin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having resin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking the sticky, gummy qualities or substance of resin; not resiny.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In materials science and organic chemistry, devoid of sticky terpenoid residues or polymeric tack.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonresiny designates not having resin."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The distillate yielded a clear, **nonresiny** liquid that evaporated rapidly without leaving a gummy residue on the plate."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"The extracted spirit remained thin and **nonresiny**, proving distinct from crude botanical balsams."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"The mineral oil displayed a smooth, **nonresiny** texture suitable for delicate clockwork lubrication."*

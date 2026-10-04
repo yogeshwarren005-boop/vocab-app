@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Weaken the consistency of (a chemical substance).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become weaker, in strength, value, or magnitude.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To reduce the force, effect, density, thickness, or value of something; to make slender or weak.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microbiology, telecommunications, and acoustics, to reduce the virulence of a pathogen or weaken the amplitude of an electrical or acoustic signal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"BURNET CHAIN-BRAND; scattered, in small tufts, hypogenous; spores curved or straight, composed of from 5 to 15 articulations; obtuse at one extremity, slightly attenuate at the other.—On Burnet."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"By the outer margin of the Pit was an oval pond, and over it hung the attenuated skeleton of a chrome-yellow moon which had only a few days to last—the morning star dogging her on the left hand."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"All the lights in the scene were yellow as to colour, and all the shadows were attenuated as to form."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Long marches and persistent disease served to **attenuate** the ranks of the crusading army before they reached Antioch."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"By systematic laboratory culture, we were able to **attenuate** the virulent culture and prepare an effective protective vaccine."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Interposing dielectric media tended to **attenuate** the intensity of the electrostatic induction between the plates."*

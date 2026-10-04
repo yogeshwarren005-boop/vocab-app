@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of protoctists.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of protoctists.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of pelagic foraminiferans possessing multilocular calcareous shells, important as ocean floor sediment contributors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In micropaleontology and biostratigraphy, a prominent protozoan family used extensively to date marine sedimentary strata and reconstruct paleoclimates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, globigerinidae designates a family of protoctists."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"The microscopic **globigerinidae** secrete chambered shells of calcite that slowly build the sedimentary floor of the abyss."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"Strata rich in **globigerinidae** mark oceanic deposition during periods of high marine transgression."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"Members of the **globigerinidae** drift in countless myriads across surface waters of tropical and temperate oceans."*

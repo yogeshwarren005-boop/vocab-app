@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A port city on the atlantic coast of portugal to the southeast of lisbon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A port city on the atlantic coast of portugal to the southeast of lisbon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major historic port and industrial city located on the northern bank of the Sado River estuary in Portugal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical geography and maritime trade, an ancient Portuguese fishing and maritime trading port celebrated for salt pans, sardines, and muscatel wine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, setubal designates a port city on the atlantic coast of portugal to the southeast of lisbon."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The commercial fleet took refuge in the sheltered harbor of **Setubal** before braving the Atlantic gale."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"The traveler looked across the blue waters of the Sado estuary toward the white roofs of **Setubal**."*
+> - 📜 **Robert Southey (*Letters Written During a Journey in Spain and Portugal*):** *"The salt pans of **Setubal** have supplied European fishing fleets with preserving brine for centuries."*

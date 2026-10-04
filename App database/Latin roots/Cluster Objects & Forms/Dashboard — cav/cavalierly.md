@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a proud and domineering manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a proud and domineering manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a haughty, casual, offhand, or disdainful manner; dismissively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In interpersonal manners and social commentary, treating serious obligations with aristocratic indifference or nonchalance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Stennis, who took the matter cavalierly enough, immediately turning on his heel and going off in the direction of his weaving-room, which had an additional entrance from the front."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He brushed aside the clerk's humble petition **cavalierly**, stepping into his carriage without another glance."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Rosamond treated her husband's urgent financial warnings **cavalierly**, confident in her aristocratic connections."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Osmond treated conventional social courtesies **cavalierly**, affecting a detached disdain for public opinion."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having curves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having curves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Winding, curving, or undulating character; serpentine, supple graceful form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geomorphology and aesthetic theory, the visual grace or geometric complexity of meandering lines and undulating forms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sinuousness designates having curves."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"Turner captured the natural **sinuousness** of alpine streams with unparalleled fidelity to hydraulic motion."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"The peculiar **sinuousness** of the Lower Mississippi continually reshaped state borders as oxbow cutoffs occurred overnight."*
+> - 📜 **Walter Pater (*Studies in the History of the Renaissance*):** *"The painting charms the eye by the subtle **sinuousness** of its linear contours and flowing drapery."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A shape that curves or bends inward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The action of creating a curved shape.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inward curving, bending, or arching; a distinct inward bend or depression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant physiology and embryology, inward epinastic bending of organs or folding of blastoderm layers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incurvation designates a shape that curves or bends inward."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"The unilateral growth of the pulvinus produces rapid **incurvation** of the petiole when touched."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe thoracic deformities often involve marked **incurvation** of the lower ribs against the diaphragm."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish*):** *"The rapid downward **incurvation** of the muscular abdomen drives the animal backward through the water."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Divide into three.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divide into three.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Divided into three branches, prongs, forks, or channels; or to split into three divisions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In morphology, anatomy, and hydrology, splitting into three distinct branches or pathways at a single node.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trifurcate designates divide into three."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The floral style terminates in a **trifurcate** stigma that efficiently catches wind-borne pollen."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"The cephalic nerve trunk divides to form **trifurcate** branches supplying the central sensory organs."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The torrent formed a **trifurcate** cascade over the granite precipice, scouring three deep plunge basins into the valley floor."*

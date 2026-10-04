@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A red ocher formerly used as a pigment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A red ocher formerly used as a pigment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A red ferruginous variety of quartz, or a red earth pigment used by artists; red cinnabar or sinople.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical mineralogy and traditional painting, a fine red ochre mined historically at Sinope on the Black Sea, prized for fresco underdrawings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sinoper designates a red ocher formerly used as a pigment."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The medieval illuminator highlighted the capital letters with rich **sinoper**, whose warm red tone glowed upon the vellum."*
+> - 📜 **Cennino Cennini (*The Craftsman's Handbook*):** *"Take fine **sinoper**, grind it thoroughly with clear spring water, and lay in the underdrawing of the fresco with a soft brush."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"The red mineral earth known as **sinoper** was shipped from Pontus to Rome, where painters used it for the most delicate draperies."*

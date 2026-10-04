@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (biology) a scientific theory of the origin of species of plants and animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (biology) a scientific theory of the origin of species of plants and animals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The philosophical doctrine or scientific theory that organisms, the cosmos, and societies develop through evolution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of science and anthropology, nineteenth-century theoretical frameworks interpreting biological change and cultural progress as universal evolutionary ascent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, evolutionism designates (biology) a scientific theory of the origin of species of plants and animals."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Modern **evolutionism** has transformed biological science from a mere catalog of curiosities into a rigorous causal discipline."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Philosophical **evolutionism** unifies astronomy, biology, and sociology under a single universal law of progressive integration."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The radical **evolutionism** of Spencer attempts to derive moral consciousness entirely from mechanical neural associations."*

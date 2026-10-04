@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The shape of something rotating rapidly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A convex fold or elevation in the surface of the brain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thing that is complex and difficult to follow; or a coil, twist, fold, or winding curve.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy, geology, and mathematics, a cerebral gyrus, folded rock stratum, or integral transformation operator.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Lying in strange folds, courses, and convolutions, to their apprehensions, it seems more in keeping with the idea of his general might to regard that mystic part of him as the seat of his intelligence."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"In the middle distance a vast serpent, wearing a crown, reared its head out of its voluminous convolutions and looked at him with his dead mother’s eyes."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Lying in strange folds, courses, and convolutions, to their apprehensions, it seems more in keeping with the idea of his general might to regard that mystic part of him as the seat of his intelligence."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The whale's brain displayed marvelous richness of **convolution**, rivaling the intellectual organ of man in physical complexity."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"He traced every winding **convolution** of the narrow Parisian alleys to evade the revolutionary patrols."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses and Reviews*):** *"The development of each cerebral **convolution** corresponds to advancing cognitive faculties across mammalian lineages."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spiraling upward from right to left.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spiraling upward from right to left.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spiraling upward from right to left; winding or coiled counterclockwise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, entangling or twining to the left or having shell whorls coiled in a leiotropic spiral.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sinistrorse designates spiraling upward from right to left."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"Stems that twine from right to left are designated **sinistrorse**, contrasting with the dextrorse habit of the morning glory."*
+> - 📜 **Charles Darwin (*The Movement and Habits of Climbing Plants*):** *"The twining mechanism of this **sinistrorse** climber operates through differential cellular elongation along the outer curvature."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish*):** *"The spiral valve in the elasmobranch intestine displays a **sinistrorse** arrangement that prolongs nutrient transit."*

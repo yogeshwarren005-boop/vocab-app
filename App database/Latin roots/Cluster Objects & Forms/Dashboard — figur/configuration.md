@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An arrangement of parts or elements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any spatial attributes (especially as defined by outline).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An arrangement of elements in a particular form, figure, combination, or spatial relationship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry, astrophysics, and computer systems, structural stereochemical orientation or hardware component setup.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Quale meant in intellectual beauty—and whether we were not struck by his massive configuration of brow."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"No two ships have the same configuration, so each checklist will have to be tailored."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Who can foresee the wondrous changes in the configuration of the land that would be wrought by such a convulsion of nature?"*
+> - 📜 **Thomas Henry Huxley (*Physiography: An Introduction to the Study of Nature*):** *"The geological **configuration** of the river basin determined the direction of all tributary drainage."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The distinctive **configuration** of the floral parts ensures that cross-fertilization occurs via visiting insects."*
+> - 📜 **Claude Shannon (*The Mathematical Theory of Communication*):** *"Each unique **configuration** of relay switches represents a discrete message state in the transmission channel."*

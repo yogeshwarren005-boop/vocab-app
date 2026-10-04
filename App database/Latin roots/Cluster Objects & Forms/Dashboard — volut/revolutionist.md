@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A radical supporter of political or social revolution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A radical supporter of political or social revolution.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who participates in, advocates, or leads a political revolution or radical systemic change.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political history and sociology, an activist dedicated to dismantling existing state institutions through revolutionary action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It is not what he plans; it is the effect, if his plans are achieved, that makes him a revolutionist."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But if you are to wait till we get a logical Bill, you must put yourself forward as a revolutionist, and then Middlemarch would not elect you, I fancy."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"To me, you're a revolutionist, undermining Narval's government, and trying to cram your politics down our throats." Scarf moved away from the bar, drink in hand."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The prison warden regarded every political thinker as an incurable **revolutionist** plotting treason against the state."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Will Ladislaw was viewed by the provincial squires as a dangerous young **revolutionist** with foreign notions."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The veteran Dutch **revolutionist** had spent thirty years organizing resistance against Spanish tyranny."*

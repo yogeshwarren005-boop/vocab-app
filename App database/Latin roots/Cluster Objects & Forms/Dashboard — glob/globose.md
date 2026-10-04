@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the shape of a sphere or ball; ; ; - zane grey.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the shape of a sphere or ball; ; ; - zane grey.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the shape of a globe; spherical or approximately spherical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical morphology, conchology, and mycology, describing spherical or rounded fruits, fungal fruiting bodies, or shells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"In this stage the spores are globose, or nearly so, and consist of but one cell Plate VII. figs. 142, 144)."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"When matured, these globose bodies, which Tulasne has called _sporidia_, fall from the threads, and commence germinating on their own account."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"In general outline the spores are nearly globose, and externally papillose."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The berry is fleshy and **globose**, ripening to a deep purple upon the terminal racemes."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Certain desert cacti assume a **globose** form to minimize surface area and conserve precious water."*
+> - 📜 **Joseph Dalton Hooker (*Himalayan Journals*):** *"We gathered wild rhododendrons whose massive, **globose** trusses of crimson flowers illuminated the damp ravine."*

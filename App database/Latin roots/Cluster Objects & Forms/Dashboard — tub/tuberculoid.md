@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling tuberculosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling tuberculosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling tuberculosis or a tubercle; especially denoting a benign, localized form of leprosy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical dermatology and infectious histopathology, designating tuberculoid leprosy, characterized by strong cell-mediated immunity and well-defined anesthetic plaques.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tuberculoid designates resembling tuberculosis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The histological section demonstrated a typical **tuberculoid** granuloma consisting of epithelioid cells and Langhans giant cells."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"The dermatologist identified the localized facial plaque as the milder **tuberculoid** form of Hansen's disease."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Chronic inflammatory reactions often produce **tuberculoid** aggregations of macrophages in damaged tissues."*

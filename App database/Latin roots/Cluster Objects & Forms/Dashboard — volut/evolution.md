@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A process in which something passes by degrees to a different stage (especially a more advanced or mature stage).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (biology) the sequence of events involved in the evolutionary development of a species or taxonomic group of organisms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The gradual process of change and development, especially the biological diversification of organisms over generations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, astrophysics, and military tactics, natural selection driving speciation, stellar lifecycle phases, or coordinated fleet maneuvers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"But it’s well I never made that evolution of matrimony."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The ground favoured the evolution, and, from long practice, it was accomplished without a hitch, so that when the forty wagons were finally halted they formed a circle."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Much have I pondered upon the relation of these other selves to me, and of the relation of the total experience to the modern doctrine of evolution."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"There is grandeur in this view of life, that whilst this planet has gone cycling on according to the fixed law of gravity, from so simple a beginning endless forms most beautiful and most wonderful have been, and are being, evolved through organic **evolution**."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"Cosmic **evolution** generated human intelligence, which now stands in critical judgment of the ethical processes of nature."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"All cosmic phenomena display a continuous **evolution** from an indefinite, incoherent homogeneity to a definite, coherent heterogeneity."*

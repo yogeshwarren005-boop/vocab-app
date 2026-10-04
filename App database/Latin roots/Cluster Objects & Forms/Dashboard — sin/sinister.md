@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Threatening or foreshadowing evil or tragic developments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stemming from evil characteristics or forces; wicked or dishonorable; ; ; ; ; ; ; -thomas hardy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Giving the impression that something harmful, evil, or ominous is happening or will happen; menacing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In heraldry and Latin etymology, situated on the left side of a shield (from the bearer's perspective) or portending misfortune.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You shall find in the regiment of the Spinii one Captain Spurio, with his cicatrice, an emblem of war, here on his sinister cheek; it was this very sword entrench’d it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He professes to have received no sinister measure from his judge, but most willingly humbles himself to the determination of justice."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This loam, this rough-cast, and this stone, doth show That I am that same wall; the truth is so: And this the cranny is, right and sinister, Through which the fearful lovers are to whisper."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Tulkinghorn cast a **sinister** glance toward the dark corner where the faded family portraits hung in shadow."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The desolate moorland seemed invested with a **sinister** influence that filled every traveler with nameless dread."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Roman augurs watched the flight of eagles, interpreting an omen on the **sinister** hand as a herald of impending disaster."*

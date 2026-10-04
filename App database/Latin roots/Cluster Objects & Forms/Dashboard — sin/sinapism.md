@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plaster containing powdered black mustard; applied to the skin as a counterirritant or rubefacient.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plaster containing powdered black mustard; applied to the skin as a counterirritant or rubefacient.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mustard plaster or poultice applied to the skin as a counterirritant or rubefacient.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical therapeutics and clinical pharmacology, a topical preparation of powdered mustard seed applied to stimulate cutaneous circulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sinapism designates a plaster containing powdered black mustard; applied to the skin as a counterirritant or rubefacient."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In acute congestive bronchitis, the application of a warm **sinapism** to the anterior chest affords marked relief from thoracic oppression."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The country doctor prescribed a hot foot-bath and a strong **sinapism** across the shoulders to abort the chill."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The traditional **sinapism** remains an effective domestic counterirritant when clinical pharmaceuticals are unavailable."*

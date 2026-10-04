@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or following a curved line.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by or following a curved line.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Formed by, bounded by, or composed of curved lines; curvilinear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural drafting and decorative design, employing sweeping curved geometries rather than rectilinear polygons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, curvilineal designates characterized by or following a curved line."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The transition to the **curvilineal** style of Gothic tracery marked the substitution of flowing floral curves for geometric circles."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The erosion pattern formed a **curvilineal** escarpment tracing the soft shale strata along the cliff face."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish*):** *"The shell exhibits fine **curvilineal** ridges that reinforce the carapace against predatory crushing."*

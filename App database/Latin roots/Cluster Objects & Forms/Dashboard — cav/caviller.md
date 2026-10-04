@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disputant who quibbles; someone who raises annoying petty objections.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disputant who quibbles; someone who raises annoying petty objections.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who cavils; one who habitually finds petty fault or raises trivial objections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British orthography and classical literature, a pedantic critic or vexatious legal disputant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Jane, I don’t like cavillers or questioners; besides, there is something truly forbidding in a child taking up her elders in that manner."*
+> - 📜 **Alexander Pope (*An Essay on Criticism*):** *"The shallow **caviller** condemns what he cannot understand, mistaking fault-finding for refined judgment."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"To the mechanical **caviller**, the universe is merely a dead steam-engine grinding out blind casualties."*
+> - 📜 **Sir Walter Scott (*The Antiquary*):** *"Oldbuck silenced the skeptical **caviller** by producing an indisputable Roman coin found in the trench."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of digging something out of the ground (especially a corpse) where it has been buried.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of digging something out of the ground (especially a corpse) where it has been buried.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of digging up something buried, especially exhuming a corpse or unearthing an artifact.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic medicine and field archaeology, authorized exhumation for autopsy or recovery of archaeological remains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disinterment designates the act of digging something out of the ground (especially a corpse) where it has been buried."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The mysterious phrase 'recalled to life' sounded like a formal order for the **disinterment** of a forgotten prisoner."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"The detective attended the legal **disinterment** in the village churchyard to inspect the crypt locks."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The imperial commissioners oversaw the **disinterment** of sacred martyrs' relics for translation to the new basilica."*

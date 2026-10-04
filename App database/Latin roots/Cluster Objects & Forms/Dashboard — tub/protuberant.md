@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Curving outward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Curving outward.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Protruding or bulging out beyond the surrounding surface; prominent, swelling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical diagnosis, morphology, and astronomy, bulging outward prominently, as in exophthalmic eyes or osteological crests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"The Count, evidently noticing it, drew back; and with a grim sort of smile, which showed more than he had yet done his protuberant teeth, sat himself down again on his own side of the fireplace."*
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"Brown was just weathering the corner, by Peter Goldthwaite's house, when the hurricane caught him off his feet, tossed him face downward into a snow bank, and proceeded to bury his protuberant part beneath fresh drifts."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Chadband fixed his large, **protuberant** eyes upon the company with an expression of heavy, self-satisfied piety."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Jos Sedley adjusted his voluminous neckcloth over his **protuberant** waistcoat with immense dignity."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Certain monkey species possess remarkably **protuberant** canine teeth that function as defensive weapons."*

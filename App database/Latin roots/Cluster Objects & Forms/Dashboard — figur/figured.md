@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Judge to be probable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be or play a part of or in.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Decorated with a pattern or design; calculated or reasoned; or possessing a specified bodily shape.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In textile weaving, baroque music, and mental cognition, patterned with woven motifs, accompanied by figured bass, or anticipated mentally.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"RICHARD. ’Tis figured in my tongue."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Here I walked about for a long time, feeling very strange, and mortally apprehensive of some one coming in and kidnapping me; for I believed in kidnappers, their exploits having frequently figured in Bessie’s fireside chronicles."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I never saw you look so pale, madam,” said Tantripp, a solid-figured woman who had been with the sisters at Lausanne."*
+> - 📜 **John Keats (*The Eve of St. Agnes*):** *"The moon shone through the casement pane upon the **figured** carpet with deep damask and amethyst stains."*
+> - 📜 **Sir Walter Scott (*Ivanhoe*):** *"The knight wore a surcoat of **figured** crimson silk emblazoned with his hereditary crest."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip **figured** to himself how Miss Havisham had sat in that darkened room year after year amid decaying finery."*

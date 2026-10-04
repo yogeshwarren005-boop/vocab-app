@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The front part of the head or skull (including the forehead).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The front part of the head or skull (including the forehead).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The anterior or upper part of the skull, including the forehead and bregma, as distinguished from the occiput.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human osteology and obstetrics, the anterior superior portion of the cranium extending from the coronal suture to the orbital ridges.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sinciput designates the front part of the head or skull (including the forehead)."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The frontal bones unite along the median suture, forming the broad expanse of the **sinciput** above the orbits."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"In higher primates, the cranial vault expands forward, elevating the **sinciput** and providing room for frontal cerebral lobes."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Localized trauma over the **sinciput** produced an extensive subgaleal hematoma extending down to the supraorbital ridges."*

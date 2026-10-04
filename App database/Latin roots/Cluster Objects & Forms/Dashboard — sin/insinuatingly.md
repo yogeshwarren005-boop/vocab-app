@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an insinuating manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an insinuating manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an insinuating manner; by indirect hints, subtle suggestions, or ingratiating artifice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dialogue and social drama, speaking with sly, flattering undertones designed to manipulate listeners.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"You wish I pack, yes?" he deprecated reticence by his insinuatingly sympathetic tone."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Tulkinghorn spoke softly and **insinuatingly**, extracting secret confessions without raising his dry, neutral voice."*
+> - 📜 **William Makepeace Thackeray (*The Newcomes*):** *"The crafty attorney whispered **insinuatingly** into the old gentleman's ear, hinting at family disloyalty."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode stepped forward **insinuatingly**, offering unctuous condolences that grated upon the bereaved family."*

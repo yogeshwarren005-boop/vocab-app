@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a sinuous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a sinuous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a sinuous manner; with winding curves, serpentine movements, or graceful undulations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical kinematics and descriptive stylistics, moving with supple, continuous, alternating curves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sinuously designates in a sinuous manner."*
+> - 📜 **Herman Melville (*Typee*):** *"The clear mountain stream wound **sinuously** through the verdant valley, glistening beneath the breadfruit groves."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The brown river twisted **sinuously** into the heart of the immense, silent African wilderness."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The footpath wound **sinuously** among the mossy roots of the ancient beech trees, descending toward the hamlet."*

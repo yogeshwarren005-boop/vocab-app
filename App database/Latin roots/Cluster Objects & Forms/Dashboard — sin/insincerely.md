@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without sincerity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without sincerity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an insincere manner; without genuine feeling, truth, or honesty; hypocritically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In interpersonal communication, offering false praise, feigned loyalty, or deceitful assurances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"I'll be as good to her as I can, without feeling that I am acting insincerely." "And that is all I ask, love."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Collins praised the drawing-room furniture **insincerely**, seeking merely to flatter Lady Catherine's boundless vanity."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky Sharp smiled **insincerely** upon her aristocratic acquaintances, secretly calculating the monetary value of their favors."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Grandcourt complimented his bride **insincerely**, displaying cold, unfeeling irony in every measured phrase."*

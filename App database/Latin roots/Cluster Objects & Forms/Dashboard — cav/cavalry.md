@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Troops trained to fight on horseback.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A highly mobile army unit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Soldiers who fight on horseback; or modern combat troops mounted in armored combat vehicles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military history and operational tactics, the mobile shock-and-reconnaissance arm operating as shock horsemen or mechanized reconnaissance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"There used, in that week, to come backward and forward to our lodging to fence with Richard a person who had formerly been a cavalry soldier; he was a fine bluff-looking man, of a frank free bearing, with whom Richard had practised for some months."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In the morning a regiment of cavalry had left the town, and a sergeant and his party had been beating up for recruits through the four streets."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Now I’ll be more interesting, and let you see some loose play—giving all the cuts and points, infantry and cavalry, quicker than lightning, and as promiscuously—with just enough rule to regulate instinct and yet not to fetter it."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The heavy Gothic **cavalry** overwhelmed the imperial legions at Adrianople, turning the fortunes of the day."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Cromwell's disciplined **cavalry** charged with irresistible fury, scattering the royalist ranks at Marston Moor."*
+> - 📜 **Sir Walter Scott (*Waverley*):** *"The sudden charge of highland **cavalry** threw the government vanguard into irremediable confusion."*

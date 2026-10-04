@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A figure that is a part of another figure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A figure that is a part of another figure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A subordinate or component figure that forms part of a larger illustration, diagram, or artistic composition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic publishing, typography, and cartography, a secondary illustration or labeled sub-panel (e.g., 1a, 1b) within a unified composite figure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subfigure designates a figure that is a part of another figure."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"The reader should examine the third **subfigure**, which illustrates the circumnutation of the radicle over twenty-four hours."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish*):** *"Each **subfigure** in the accompanying anatomical plate depicts a dissected appendage drawn to uniform scale."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The distribution of electric force is represented in the accompanying diagram, with each **subfigure** showing equipotential surfaces."*

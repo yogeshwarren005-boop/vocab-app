@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pitted with cell-like cavities (as a honeycomb).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pitted with cell-like cavities (as a honeycomb).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or containing cavities, hollows, internal chambers, or porous pockets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In materials science, geomorphology, and pathology, characterized by hollow vesicular vacuoles, vugs, or cellular lacunae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cavitied designates pitted with cell-like cavities (as a honeycomb)."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The volcanic lava cooled into a porous, **cavitied** pumice filled with gas bubbles."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Necrotic tissue breakdown left the lung extensively **cavitied** with chronic abscesses."*
+> - 📜 **Charles Darwin (*Geological Observations on Volcanic Islands*):** *"The weathered basalt presented a deeply **cavitied** surface resembling honeycombed limestone."*

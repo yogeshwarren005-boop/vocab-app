@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no curves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no curves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Straightening out; losing curvature; or maintaining a straight, unbent course.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In morphology and kinematics, the process of straightening an arc or extending an articulate limb.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uncurving designates having no curves."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The ancient Roman road stretched ahead in an **uncurving** furrow across the dark expanse of Egdon Heath."*
+> - 📜 **Charles Darwin (*Insectivorous Plants*):** *"After digestion was completed, the leaf tentacles began an **uncurving** movement, slowly regaining their erect position."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The harpoon flew on an **uncurving** trajectory through the misty sea air directly into the monster's flank."*

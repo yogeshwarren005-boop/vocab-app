@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characterized by configuration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characterized by configuration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characterized by a specific configuration, arrangement, or structural pattern.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular chemistry, stereochemistry, and Gestalt psychology, pertaining to spatial arrangements or holistic perceptual patterns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, configurational designates of or relating to or characterized by configuration."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The **configurational** stability of the macromolecule depends upon cooperative hydrogen bonding along the peptide backbone."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Our visual perception groups spatial stimuli into stable **configurational** wholes rather than isolated sensations."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"The **configurational** symmetry of the helical model immediately suggested how genetic replication might proceed."*

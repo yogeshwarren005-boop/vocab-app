@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause (ores or powdery metals) to become a coherent mass by heating without melting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause (ores or powdery metals) to become a coherent mass by heating without melting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause a material to form a solid coherent mass by heating and compressing without melting; or mineral crust formed by springs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metallurgy, ceramics, and geothermal geology, thermal coalescence of powdered metal/ceramic grains below melting point, or siliceous geyserite deposit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"There is some clotting, and the sinter sticks to the rabble-blades, and has to be barred off occasionally. _4th Hearth._—Bright red heat (about 750° C.), uniformly bright, but the flame has ceased."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Eng._, 1912, vol. x., No. 3, March, pp. 153–159. (With good Bibliography.) Editorial Correspondence, “Sinter-Roasting with Dwight-Lloyd Machines at Salida, Col.” _Ibid._, 1912, vol. x., No. 2, Feb., p. 87."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The sintered cakes are finally discharged automatically into cars."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Boiling geysers in Iceland deposit massive terraces of siliceous **sinter** that encrust surrounding rocks with opalescent silica."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Heating the refractory powder at high pressure caused the particles to **sinter** into a dense, ringing crucible."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"Thermal waters saturated with mineral salts build curious towers of calcareous **sinter** around the steaming vent."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to circulation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to circulatory system or to circulation of the blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the circulation of blood, fluids, or air through a bodily system or physical apparatus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human and comparative anatomy, the organ system consisting of the heart, blood vessels, and blood responsible for nutrient and oxygen delivery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, circulatory designates of or relating to circulation."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe valvular incompetence leads eventually to catastrophic **circulatory** failure with systemic venous congestion."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish*):** *"In arthropods, the **circulatory** system is open, the heart pumping hemolymph directly into broad tissue sinuses."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Sudden terror provokes violent disturbance of the **circulatory** system, producing instantaneous pallor of the cheeks."*

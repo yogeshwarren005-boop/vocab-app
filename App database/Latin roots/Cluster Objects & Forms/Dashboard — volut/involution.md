@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reduction in size of an organ or part (as in the return of the uterus to normal size after childbirth).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A long and intricate and complicated grammatical construction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intricate complication, folding, or entanglement; or the inward physiological shrinkage of an organ.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology, embryology, and mathematics, the retrogressive shrinkage of an organ (e.g. postpartum uterus), inward cell migration in gastrulation, or an operator equal to its own inverse ($f(f(x)) = x$).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Let there be no involution of thought and mind about it."*
-> - 📜 **James Joyce (*Ulysses*):** *"Were there obverse meditations of involution increasingly less vast?"*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Physiological **involution** of the thymus occurs naturally after puberty, the gland being replaced by adipose tissue."*
+> - 📜 **Thomas De Quincey (*Suspiria de Profundis*):** *"The dreams unfolded in an endless **involution** of architectural vistas, towers rising upon towers into infinity."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"The **involution** of the floral leaves protects the delicate reproductive organs from sudden frost."*

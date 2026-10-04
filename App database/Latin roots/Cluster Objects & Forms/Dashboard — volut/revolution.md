@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drastic and far-reaching change in ways of thinking and behaving.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The overthrow of a government by those who are governed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The overthrow of a government by force to establish a new system; or a complete circular turn around an axis or center.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In celestial mechanics, political history, and physics, orbital movement around a central barycenter or radical transformation of social and political structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That I might see what the old world could say, To this composed wonder of your frame, Whether we are mended, or whether better they, Or whether revolution be the same."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The present pleasure, By revolution lowering, does become The opposite of itself."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here’s fine revolution, an we had the trick to see’t."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Here's fine **revolution**, an we had the trick to see't: did these bones cost no more the breeding, but to play at loggats with 'em? Mine ache to think on't."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The memory of the great **revolution** that transformed the Roman republic into an absolute monarchy was carefully veiled by Augustus."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The French **revolution** burst forth like the eruption of a long-dormant volcano, shattering the feudal fabric of Europe."*

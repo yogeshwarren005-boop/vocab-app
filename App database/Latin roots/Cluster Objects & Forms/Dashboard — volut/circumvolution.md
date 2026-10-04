@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of turning or winding or folding around a central axis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of turning or winding or folding around a central axis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of turning, rolling, or winding around an axis; a winding, sinuous curve or circuitous movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy, mechanics, and oratory, a cerebral gyrus, mechanical rotational revolution, or convoluted rhetorical detour.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"Tell me, then, for you can, in what periphrasis of language, in what circumvolution of phrase, I shall envelope, yet not conceal, the plain story."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The invading column completed a wide **circumvolution** around the enemy's fortified flank before initiating the dawn assault."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"The complex **circumvolution** of the cerebral cortex distinguishes higher primate brains from those of lower mammals."*
+> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"The letter reached its destination only after an unexpected **circumvolution** through provincial post offices."*

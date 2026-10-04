@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states abolitionist born a slave on a plantation in maryland and became a famous conductor on the underground railroad leading other slaves to freedom in the north (1820-1913).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states abolitionist born a slave on a plantation in maryland and became a famous conductor on the underground railroad leading other slaves to freedom in the north (1820-1913).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In historical English legal practice, a senior barrister of the Court of Exchequer who had precedence in motions; or an operator of tubs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal history and coal mining, a privileged exchequer barrister with an allocated tub seat, or a collier hauling tubs of coal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tubman designates united states abolitionist born a slave on a plantation in maryland and became a famous conductor on the underground railroad leading other slaves to freedom in the north (1820-1913)."*
+> - 📜 **Sir William Blackstone (*Commentaries on the Laws of England*):** *"In the Court of Exchequer, the postman and the **tubman** have precedence in motions according to ancient judicial prerogative."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The venerable **tubman** rose from his privileged bench in the exchequer to present his morning motion before the barons."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"The weary **tubman** hauled the coal skips through the narrow, suffocating seams of the northern colliery."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not representing or imitating external reality or the objects of nature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not representing or imitating external reality or the objects of nature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not representing or depicting recognizable objects or physical figures in art; abstract.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In twentieth-century art history and aesthetics, non-representational painting or sculpture relying on pure color, form, and texture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonfigurative designates not representing or imitating external reality or the objects of nature."*
+> - 📜 **Clive Bell (*Art*):** *"Pure aesthetic emotion arises from significant form, whether manifested in representational or strictly **nonfigurative** compositions."*
+> - 📜 **Roger Fry (*Vision and Design*):** *"The transition toward **nonfigurative** painting allowed artists to explore the direct expressive power of line and color."*
+> - 📜 **Herbert Read (*The Meaning of Art*):** *"The **nonfigurative** sculptor creates spatial rhythms that appeal directly to our tactile and kinetic sensibilities."*

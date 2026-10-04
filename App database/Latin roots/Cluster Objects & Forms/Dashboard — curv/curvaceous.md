@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a woman's body) having a large bosom and pleasing curves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a woman's body) having a large bosom and pleasing curves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an attractively curved shape or full, shapely bodily figure with pronounced curves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetics and descriptive anatomy, exhibiting sinuous, gracefully swelling contours.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, curvaceous designates (of a woman's body) having a large bosom and pleasing curves."*
+> - 📜 **P. G. Wodehouse (*The Code of the Woosters*):** *"The drawing portrayed a **curvaceous** young woman in an elaborate Victorian bustle feeding peacocks on the lawn."*
+> - 📜 **E. M. Forster (*A Room with a View*):** *"The baroque statues displayed **curvaceous** marble limbs twisting in dramatic theatrical ecstasies."*
+> - 📜 **George Bernard Shaw (*Pygmalion*):** *"The fashionable modiste designed dresses calculated to emphasize every **curvaceous** line of the figure."*

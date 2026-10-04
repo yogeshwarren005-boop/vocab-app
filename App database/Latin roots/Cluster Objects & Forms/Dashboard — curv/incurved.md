@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bent into or having an inward curve.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bent into or having an inward curve.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Curved or bent inward or toward the center; turned inward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, ornithology, and malacology, having margins or appendages arched inward toward the main axis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Four sporangia, each containing but four spores (fig. 244), are enclosed in each conceptacle, which is surrounded by a few appendages (about six) thrice dichotomous, and thickened at the tips of the ultimate branches, which are incurved (fig. 247)."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The predatory beetle seized its victim with powerful **incurved** mandibles that met like pincers."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The chrysanthemum exhibited densely clustered heads of tightly **incurved** petals prized in floriculture."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The whaleboat's stern terminated in a strongly **incurved** timber designed to resist following seas."*

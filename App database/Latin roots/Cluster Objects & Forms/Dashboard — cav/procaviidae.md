@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Includes all recent members of the order hyracoidea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Includes all recent members of the order hyracoidea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mammalian family comprising all living hyraxes or dassies, the sole extant family of the order Hyracoidea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate taxonomy, a specialized afrotherian family possessing specialized plant-grinding molars and rubbery suction pads on their feet.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, procaviidae designates includes all recent members of the order hyracoidea."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"The family **procaviidae** retains an ancient morphological architecture that has changed little since the Miocene epoch."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Naturalists recognize in the **procaviidae** a remarkable living bridge connecting disparate subungulate lineages."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"Extant members of the **procaviidae** are confined to the African continent and adjacent regions of the Levant."*

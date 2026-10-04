@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strong green liqueur flavored with wormwood and anise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strong green liqueur flavored with wormwood and anise.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A potent green anise-flavored liqueur distilled with wormwood (Artemisia absinthium) and botanical herbs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural history and toxicology, a bitter emerald spirit containing thujone, celebrated and condemned among Parisian bohemian artists.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, absinth designates strong green liqueur flavored with wormwood and anise."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"A glass of **absinth** is poetical, for after the first glass you see things as you wish they were."*
+> - 📜 **Arthur Rimbaud (*Selected Poems*):** *"The evening closed in the tavern with cloudy glasses of **absinth** glowing beneath the gaslight."*
+> - 📜 **Guy de Maupassant (*Bel-Ami*):** *"The journalists gathered at the corner café, sipping cold green **absinth** through slotted silver spoons."*

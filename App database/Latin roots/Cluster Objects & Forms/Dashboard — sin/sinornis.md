@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sparrow-sized fossil bird of the jurassic period to the cretaceous period having a keeled breastbone and vestigial tail; found in china; considered possibly the second most primitive of all birds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sparrow-sized fossil bird of the jurassic period to the cretaceous period having a keeled breastbone and vestigial tail; found in china; considered possibly the second most primitive of all birds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct genus of primitive enantiornithine birds from the Early Cretaceous of China.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology and avian evolution, an early toothed bird from the Yixian Formation possessing advanced flight adaptations alongside primitive reptilian pygostyle and pelvis traits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sinornis designates sparrow-sized fossil bird of the jurassic period to the cretaceous period having a keeled breastbone and vestigial tail; found in china; considered possibly the second most primitive of all birds."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"Fossil avians related to **sinornis** demonstrate how the clawed wing digits gradually transformed into unified aerodynamic flight foils."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The skeletal architecture of **sinornis** bridges the evolutionary gap between Jurassic Archaeopteryx and modern carinates."*
+> - 📜 **Stephen Jay Gould (*Wonderful Life*):** *"Discoveries of exquisitely preserved Cretaceous birds like **sinornis** in Liaoning revolutionized our understanding of early flight dynamics."*

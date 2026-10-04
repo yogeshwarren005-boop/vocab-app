@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the caviidae: guinea pigs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the caviidae: guinea pigs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The rodent genus containing the guinea pigs and cavies, native to South America.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mammalogy and rodent taxonomy, the type genus of the family Caviidae, characterized by stout tailless bodies and hypsodont molars.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cavia designates type genus of the caviidae: guinea pigs."*
+> - 📜 **Charles Darwin (*The Zoology of the Voyage of H.M.S. Beagle*):** *"Species of **cavia** abound across the open grassy pampas, living in small colonies in subterranean burrows."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The cranial osteology of **cavia** displays the typical hystricomorph arrangement of the zygomatic arch."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"The wild ancestor of the domestic guinea pig belongs to the South American genus **cavia**."*

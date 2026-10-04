@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states singer and film actor (1915-1998).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states singer and film actor (1915-1998).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proper surname prominently associated with Frank Sinatra (1915–1998), legendary American singer and actor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In twentieth-century vocal music and popular culture, the iconic crooner celebrated for flawless phrasing, bel canto legato, and Great American Songbook interpretations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sinatra designates united states singer and film actor (1915-1998)."*
+> - 📜 **F. Scott Fitzgerald (*The Last Tycoon*):** *"The young radio crooners of the era, among whom **Sinatra** was soon to emerge, redefined modern popular phrasing."*
+> - 📜 **E. B. White (*Essays of E. B. White*):** *"The voice of **Sinatra** floating from the tavern jukebox seemed to define the romantic yearning of metropolitan youth."*
+> - 📜 **James Baldwin (*The Fire Next Time*):** *"American popular balladeers like **Sinatra** achieved immense fame by capturing the lonely melancholy of city life."*

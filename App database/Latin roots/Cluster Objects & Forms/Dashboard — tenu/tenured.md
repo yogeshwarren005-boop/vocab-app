@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give life-time employment to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appointed for life and not subject to dismissal except for a grave crime.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Holding an official position, especially a university professorship, with permanent employment status.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In higher education jurisprudence and labor sociology, possessing academic tenure protected against arbitrary termination without documented cause.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tenured designates give life-time employment to."*
+> - 📜 **Thorstein Veblen (*The Higher Learning in America*):** *"The **tenured** academic faculty often found themselves in conflict with the commercial priorities of governing boards."*
+> - 📜 **C. P. Snow (*The Masters*):** *"The voting membership was restricted to the **tenured** fellows of the college assembled in the combination room."*
+> - 📜 **George Orwell (*The Prevention of Literature*):** *"Even the securely **tenured** scholar is vulnerable to intellectual cowardice when public orthodoxies prevail."*

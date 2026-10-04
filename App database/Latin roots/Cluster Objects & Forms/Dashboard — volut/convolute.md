@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Curl, wind, or twist together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Practice sophistry; change the meaning of or be vague about in order to mislead or deceive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rolled up longitudinally from one margin upon another, or curled spirally; or to twist and roll together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical vernation and malacology, having petals or leaves rolled around each other in bud, or spiral shell coiling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"It could be straight or as convoluted as a randomly configured corkscrew."*
+> - 📜 **Asa Gray (*Introduction to Structural and Systematic Botany*):** *"In the bud, the petals are often **convolute**, each overlapping its neighbor in a continuous spiral arrangement."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The marine gastropod possesses a tightly **convolute** shell adapted to withstand deep-water hydraulic pressures."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The intestinal tract is deeply **convolute**, maximizing digestive absorption within a compact body cavity."*

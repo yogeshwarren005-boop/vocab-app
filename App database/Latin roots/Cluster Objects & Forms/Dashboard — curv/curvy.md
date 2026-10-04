@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having curves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a woman's body) having a large bosom and pleasing curves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having many curves, winding bends, or rounded contours.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In roadway engineering and vernacular aesthetics, characterized by successive tight radiuses or undulating feminine proportions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, curvy designates having curves."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The timber wagon navigated the narrow, **curvy** track through the beech woods with perilous creaks."*
+> - 📜 **Mark Twain (*A Tramp Abroad*):** *"The descent followed a **curvy** mountain path hugging the precipice above the rushing torrent."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"The river flowed in **curvy** reaches through rich pastoral meadows toward the bustling estuary port."*

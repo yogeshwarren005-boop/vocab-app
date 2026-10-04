@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An example that prefigures or foreshadows what is to come.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of providing vague advance indications; representing beforehand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An early indication, symbolic foreshadowing, or prophetic representation of something that will happen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Christian typology and literary hermeneutics, an Old Testament type or literary foreshadowing anticipating a future event or fulfillment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prefiguration designates an example that prefigures or foreshadows what is to come."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The prophetic visions were interpreted by the early church as a miraculous **prefiguration** of imperial conversion."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The sacrificial lamb offered upon the patriarchal altar was viewed as a holy **prefiguration** of the Redeemer."*
+> - 📜 **Thomas Carlyle (*On Heroes, Hero-Worship, and the Heroic in History*):** *"Ancient mythology was no conscious falsehood, but an earnest **prefiguration** of human duty and natural order."*

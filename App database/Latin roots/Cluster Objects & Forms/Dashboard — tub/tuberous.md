@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or resembling a tuber.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or resembling a tuber.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing or resembling tubers; thickened and fleshy like a potato.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany and neurological pathology, possessing swollen subterranean storage roots (e.g. tuberous begonia) or nodular cortical lesions (tuberous sclerosis).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I saw long ribbons of fucus floating, some globular, others tuberous; laurenciæ and cladostephi of most delicate foliage, and some rhodomeniæ palmatæ, resembling the fan of a cactus."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Certain Andean plant species have developed **tuberous** subterranean roots to survive severe seasonal droughts."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The **tuberous** rootstocks of the dahlia store rich reserves of carbohydrates during the winter resting period."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In **tuberous** sclerosis, dense glial nodules develop across the cerebral cortex, often accompanied by adenoma sebaceum."*

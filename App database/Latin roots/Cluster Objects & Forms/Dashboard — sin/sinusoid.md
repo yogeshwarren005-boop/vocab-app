@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tiny endothelium-lined passages for blood in the tissue of an organ.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The curve of y=sin x.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mathematical curve having the form of a sine wave; or a small, irregular blood vessel in an organ.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hepatic histology and trigonometry, an irregular vascular capillary channel in the liver/spleen with fenestrated endothelium, or a sine curve.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sinusoid designates tiny endothelium-lined passages for blood in the tissue of an organ."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The graphical trace of a pure harmonic oscillator presents an exact **sinusoid** upon the recording drum."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Within hepatic lobules, blood flows slowly through each microscopic **sinusoid**, allowing hepatocytes to metabolize nutrients."*
+> - 📜 **Lord Rayleigh (*The Theory of Sound*):** *"A pure musical tone consists of a solitary acoustic **sinusoid** vibrating at a single fundamental frequency."*

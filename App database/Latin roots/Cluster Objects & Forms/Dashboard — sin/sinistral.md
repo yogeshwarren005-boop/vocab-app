@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or on the left.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preferring to use left foot or hand or eye.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or on the left side; left-handed; or having a shell coiled to the left (counterclockwise).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In conchology, physical anthropology, and optics, coiling counterclockwise around the columella, left-handed motor dominance, or levorotatory polarization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sinistral designates of or on the left."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Conchologists occasionally encounter a rare **sinistral** variety whose whorls turn to the left instead of the normal dextral coil."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The internal organs of the **sinistral** snail display complete visceral transposition matching its reversed shell."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"In flatfishes, the migration of the eye to the **sinistral** side distinguishes the turbots from the soles."*

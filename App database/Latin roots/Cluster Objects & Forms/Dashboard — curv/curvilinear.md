@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or following a curved line.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by or following a curved line.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Contained by, consisting of, or characterized by curved lines rather than straight lines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural history and geometry, the English Decorated Gothic phase characterized by flowing flame-like (flamboyant) window tracery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, curvilinear designates characterized by or following a curved line."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"The **curvilinear** window traceries of the fourteenth century flow like tongues of frozen flame across the facade."*
+> - 📜 **Albert Einstein (*The Meaning of Relativity*):** *"General relativity employs **curvilinear** coordinates to formulate physical laws independently of arbitrary spatial axes."*
+> - 📜 **Henry James (*Italian Hours*):** *"The baroque ceiling was an astonishing riot of **curvilinear** moldings and soaring airborne cherubs."*

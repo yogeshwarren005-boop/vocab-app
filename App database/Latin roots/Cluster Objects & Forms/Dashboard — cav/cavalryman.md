@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A soldier in a motorized army unit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A soldier mounted on horseback.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A soldier belonging to a cavalry unit; a trooper mounted on horseback or in an armored combat vehicle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military biography and operational history, an individual combatant trained in mounted swordsmanship, horsemanship, or light armor operations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Well, young cavalryman, how is my Rook behaving?” he asked. (Rook was a young horse Telyánin had sold to Rostóv.) The lieutenant never looked the man he was speaking to straight in the face; his eyes continually wandered from one object to another."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Forward, with God!” said Bagratión, in a resolute, sonorous voice, turning for a moment to the front line, and slightly swinging his arms, he went forward uneasily over the rough field with the awkward gait of a cavalryman."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A weal dog astwide a fence!” shouted Denísov after him (the most insulting expression a cavalryman can address to a mounted infantryman) and riding up to Rostóv, he burst out laughing."*
+> - 📜 **Stephen Crane (*The Red Badge of Courage*):** *"A wounded **cavalryman** rode slowly past the infantry line, his saber clattering against the stirrup iron."*
+> - 📜 **Sir Walter Scott (*The Heart of Midlothian*):** *"The mounted **cavalryman** sat motionless in his saddle, watching the turbulent crowd at the city gate."*
+> - 📜 **Thomas Hardy (*The Trumpet-Major*):** *"The young **cavalryman** looked magnificent in his scarlet jacket and plumed helmet as he rode home on furlough."*

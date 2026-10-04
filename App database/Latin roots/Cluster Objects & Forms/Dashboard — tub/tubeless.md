@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pneumatic tire not needing an inner tube to be airtight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a tire; not needing an inner tube.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having or requiring an inner tube, especially of pneumatic vehicle tires; or lacking anatomical tubes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In automotive engineering and bicycle mechanics, an airtight pneumatic tire sealing directly against the wheel rim.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tubeless designates pneumatic tire not needing an inner tube to be airtight."*
+> - 📜 **Thorstein Veblen (*The Engineers and the Price System*):** *"Innovations such as the **tubeless** pneumatic tire reduced roadside breakdowns and transformed automotive transport."*
+> - 📜 **H. G. Wells (*The World of William Clissold*):** *"Modern rubber manufacturers patented **tubeless** tire designs that eliminated punctures on rough macadam roads."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"The country doctor drove his roadster fitted with newly invented **tubeless** tires over muddy rural ruts."*

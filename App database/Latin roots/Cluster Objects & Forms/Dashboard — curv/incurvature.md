@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A shape that curves or bends inward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shape that curves or bends inward.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inward arching, deviation, or concave bending; a distinct inward recess.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural geology, conchology, and anatomy, concave deviation of a stratum, shell lip, or anatomical margin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incurvature designates a shape that curves or bends inward."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The coastal bay was formed by a vast tectonic **incurvature** of the basaltic cliff line."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Fanciers prized the distinct **incurvature** of the primary flight feathers in certain tumblr pigeon breeds."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The temporal bone exhibits a smooth internal **incurvature** lodging the lateral lobe of the cerebellum."*

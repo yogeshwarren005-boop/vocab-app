@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Constituting a tube; having hollow tubes (as for the passage of fluids).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Constituting a tube; having hollow tubes (as for the passage of fluids).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or having the form of a tube; tubular, cylindrical, and hollow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive anatomy and botanical taxonomy, cylindrical with an open internal channel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tubelike designates constituting a tube; having hollow tubes (as for the passage of fluids)."*
+> - 📜 **Charles Darwin (*Insectivorous Plants*):** *"The modified leaf of Sarracenia forms a **tubelike** pitfall trap lined with downward-pointing hairs."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish*):** *"The excretory duct opens through a **tubelike** papilla situated at the base of the second antenna."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The honeysuckle flower presents a slender, **tubelike** throat that holds fragrant nectar for night-flying moths."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the procaviidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the procaviidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The genus of mammals comprising the rock hyraxes, small herbivorous quadrupeds native to Africa and the Middle East.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mammalogy, the type genus of the order Hyracoidea, having morphological affinities with elephants and sirenians.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, procavia designates type genus of the procaviidae."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"Osteological analysis places **procavia** in profound structural proximity to primitive ungulates despite its rodent-like habitus."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The rock hyrax, **procavia**, displays anomalous skeletal traits that puzzled early comparative anatomists."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"Colonies of **procavia** sun themselves upon rocky precipices, retreating into narrow crevices at the eagle's cry."*

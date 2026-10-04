@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Curving inward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Curving inward.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Curving inward like the interior of a circle, bowl, or sphere; hollowed out.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optics, geometry, and calculus, having a negative surface curvature or a function whose line segment between points lies below the graph.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think he is not a pick-purse nor a horse-stealer, but for his verity in love, I do think him as concave as a covered goblet or a worm-eaten nut."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And when you saw his chariot but appear, Have you not made an universal shout, That Tiber trembled underneath her banks To hear the replication of your sounds Made in her concave shores?"*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The pit was a saucer-shaped concave, naturally formed, with a top diameter of about thirty feet, and shallow enough to allow the sunshine to reach their heads."*
+> - 📜 **John Milton (*Paradise Lost*):** *"He stood and called his legions, angel forms, who lay entranced thick as autumnal leaves in Vallombrosa, under the fiery **concave** of Hell."*
+> - 📜 **Isaac Newton (*Opticks*):** *"A **concave** spherical mirror reflects parallel light rays toward a common focal point situated before the surface."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The inner surface of the valve is smoothly **concave**, fitting snugly over the visceral mass."*

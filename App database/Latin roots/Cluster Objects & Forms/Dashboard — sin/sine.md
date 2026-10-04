@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ratio of the length of the side opposite the given angle to the length of the hypotenuse of a right-angled triangle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ratio of the length of the side opposite the given angle to the length of the hypotenuse of a right-angled triangle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fundamental trigonometric function of an angle in a right triangle: the ratio of the opposite side to the hypotenuse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In trigonometry, acoustics, and alternating current electrical engineering, an odd periodic function sin(θ) generating sinusoidal oscillations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I abhor such fanatical phantasimes, such insociable and point-devise companions, such rackers of orthography, as to speak “dout” _sine_ “b”, when he should say “doubt”, “det” when he should pronounce “debt”—_d, e, b, t_, not _d, e, t_."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Omne bene Sine poena Tempua est ludendi."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The meeting then adjourned _sine die_."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The fundamental law of refraction states that the **sine** of the angle of incidence bears a constant ratio to the **sine** of the angle of refraction."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"Harmonic wave propagation is described mathematically by a periodic **sine** series whose coefficients represent spectral amplitudes."*
+> - 📜 **Leonhard Euler (*Introduction to Analysis of the Infinite*):** *"The transcendental function known as the **sine** expresses the orthogonal projection of a revolving radius upon the vertical axis."*

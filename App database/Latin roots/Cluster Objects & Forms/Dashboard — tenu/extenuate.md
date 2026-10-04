@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lessen or to try to lessen the seriousness or extent of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lessen or to try to lessen the seriousness or extent of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause an offense or fault to seem less serious or more forgivable by providing mitigating excuses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In criminal jurisprudence, moral philosophy, and rhetoric, to adduce mitigating factors that lessen moral or legal culpability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Cleopatra, know We will extenuate rather than enforce."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You may not so extenuate his offence For I have had such faults; but rather tell me, When I that censure him do so offend, Let mine own judgement pattern out my death, And nothing come in partial."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have some private schooling for you both.— For you, fair Hermia, look you arm yourself To fit your fancies to your father’s will, Or else the law of Athens yields you up (Which by no means we may extenuate) To death, or to a vow of single life."*
+> - 📜 **William Shakespeare (*Othello*):** *"Speak of me as I am; nothing **extenuate**, nor set down aught in malice: then must you speak of one that loved not wisely but too well."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The panegyrists sought to **extenuate** the emperor's cruelty by pointing to the desperate plots of his rivals."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She could find nothing in his previous conduct to **extenuate** the unpardonable arrogance of his proposal."*

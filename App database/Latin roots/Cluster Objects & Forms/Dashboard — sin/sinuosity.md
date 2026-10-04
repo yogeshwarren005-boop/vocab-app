@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having curves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having curves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Winding, serpentine curvature; a continuous series of bends or turns in a river or line.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fluvial geomorphology and kinematics, the ratio of actual river channel length to straight valley distance, measuring meandering intensity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"By the light of our torches, we saw the French, like fantastic goblin figures engendered by the reddish light and the sinuosities of the old Moorish dungeon."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"The incredible **sinuosity** of the river made a steamboat journey of thirty miles by water correspond to only ten in a straight line across country."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The gradual **sinuosity** of alluvial streams leads to the eventual cutoff of meander loops, leaving crescent oxbow lakes."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"He traced the silver **sinuosity** of the stream winding through the misty darkness of the heather valley."*

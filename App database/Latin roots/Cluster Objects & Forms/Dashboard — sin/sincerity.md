@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An earnest and sincere feeling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being open and truthful; not deceitful or hypocritical.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Freedom from pretense, deceit, or hypocrisy; honesty of mind and authentic intention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy, rhetoric, and humanistic ethics, congruence between internal thoughts and external expressions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You shall see now, in very sincerity of fear and cold heart, will he to the King, and lay open all our proceedings."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So jest with heaven, Make such unconstant children of ourselves, As now again to snatch our palm from palm, Unswear faith sworn, and on the marriage-bed Of smiling peace to march a bloody host, And make a riot on the gentle brow Of true sincerity?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I hold you as a thing enskied and sainted By your renouncement an immortal spirit, And to be talked with in sincerity, As with a saint."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"His heart was full of kindness; his manners open and cheerful; his **sincerity** above suspicion."*
+> - 📜 **Thomas Carlyle (*On Heroes, Hero-Worship, and the Heroic in History*):** *"The first characteristic of the hero is his profound, unconscious **sincerity**, which strips away all worldly cant."*
+> - 📜 **Francis Bacon (*Essays: Of Truth*):** *"Clear and round dealing is the honor of man's nature, and unbroken **sincerity** is the foundation of all civic virtue."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property possessed by a concave shape.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property possessed by a concave shape.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inward hollow curvature or arched depression; the geometric property of being hollowed inward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optics and morphological measurement, the degree of inward hollowing or negative curvature of a surface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, concaveness designates the property possessed by a concave shape."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The refractive power of the lens increases with the depth of its **concaveness** on either face."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"The **concaveness** of acoustic shells concentrates faint whispers and reflects them across the vault."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The architect exploited the graceful **concaveness** of the apsidal vault to reflect morning light upon the altar."*

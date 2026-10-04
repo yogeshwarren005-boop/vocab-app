@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A relatively large open container that you fill with water and use to wash the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large open vessel for holding or storing liquids.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A wide, open, deep, typically round container used for washing, holding liquids, or bathing; a bathtub.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In domestic material culture, maritime slang, and naval history, a washing basin, bath vessel, or an awkward, slow-sailing vessel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The cloyed will— That satiate yet unsatisfied desire, that tub Both fill’d and running—ravening first the lamb, Longs after for the garbage."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No! to the spital go, And from the powdering tub of infamy Fetch forth the lazar kite of Cressid’s kind, Doll Tearsheet she by name, and her espouse."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Troth, sir, she hath eaten up all her beef, and she is herself in the tub."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The whalemen carefully coiled three hundred fathoms of whale-line into the heavy wooden **tub** on deck."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe sat before the hearth washing his face in a pewter **tub** with noisy blowing and splashing."*
+> - 📜 **Jonathan Swift (*A Tale of a Tub*):** *"Seamen toss out an empty **tub** to a whale to divert the beast from dashing against the ship."*

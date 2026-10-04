@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The precise measurement of angles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making angulate (having corners).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formation or presence of angles; an angular bend, position, or structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orthopedic surgery, geology, and mechanical engineering, an abnormal deviation or structural divergence of bones, strata, or joints from a straight axis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, angulation designates the precise measurement of angles."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Radiographic examination demonstrated marked **angulation** at the fracture site, necessitating manual reduction."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The sudden **angulation** of the sedimentary beds indicated lateral compression caused by tectonic displacement."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The pelvic girdle exhibits pronounced **angulation** to support the weight of the bipedal trunk."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Recover through digging.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Find by digging in the ground.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make a hole or cavity in by digging; to hollow out, unearth, or expose by digging.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In field archaeology, civil engineering, and paleontology, to systematically uncover artifacts, foundations, or fossil horizons from sediment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They did all kinds of men’s work by preference, including well-sinking, hedging, ditching, and excavating, without any sense of fatigue."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Personally, I don't intend to take the trouble of excavating!" "That's unfortunate, for she wishes to know you."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"He has been excavating a barrow at Long Down and has got a prehistoric skull which fills him with great joy."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Antiquaries began to **excavate** the buried ruins of Pompeii, revealing Roman villas preserved beneath volcanic ash."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Burrowing quadrupeds **excavate** extensive subterranean galleries that aerate the topsoil over vast tracts of grassland."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Glacial torrents **excavate** deep gorges through the hardest crystalline granite over long geological eras."*

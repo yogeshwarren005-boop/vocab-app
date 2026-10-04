@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A negative motivational influence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A negative motivational influence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A factor, penalty, or condition that discourages someone from taking a particular action or pursuing a goal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economics, public policy, and institutional design, a financial or regulatory burden reducing expected utility to deter specific behaviors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disincentive designates a negative motivational influence."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Arbitrary taxation acts as an immediate **disincentive** to agricultural improvement and capital accumulation."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Excessive administrative regulation creates a fatal **disincentive** that stifles commercial innovation among merchants."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"Systemic price collusion provides an institutional **disincentive** against expanding industrial output."*

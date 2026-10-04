@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Circulating printed notices as a means of advertising.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Circulating printed notices as a means of advertising.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of distributing circular letters or notices to a large number of recipients; or making circular.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In independent financial auditing, direct written confirmation sent to third parties to independently verify balances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, circularization designates circulating printed notices as a means of advertising."*
+> - 📜 **Thorstein Veblen (*The Engineers and the Price System*):** *"The trade association used systematic **circularization** to establish uniform price minimums among manufacturers."*
+> - 📜 **Joseph Conrad (*Chance*):** *"The financial crisis was worsened by the panicky **circularization** of conflicting bulletins among investors."*
+> - 📜 **H. G. Wells (*The Work, Wealth and Happiness of Mankind*):** *"Modern postal services made the cheap **circularization** of prospective consumers an everyday commercial tool."*

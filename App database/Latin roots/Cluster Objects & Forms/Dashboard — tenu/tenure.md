@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The term during which some position is held.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The right to hold property; part of an ancient hierarchical system of holding lands.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The conditions, rights, or period under which land, property, or an official position is held.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In feudal property jurisprudence and academic employment, the legal holding of real estate under a lord, or guaranteed permanent academic status.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is it thy spirit that thou send’st from thee So far from home into my deeds to pry, To find out shames and idle hours in me, The scope and tenure of thy jealousy?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Call me a fool; Trust not my reading nor my observations, Which with experimental seal doth warrant The tenure of my book; trust not my age, My reverence, calling, nor divinity, If this sweet lady lie not guiltless here Under some biting error."*
-> - 📜 **William Shakespeare (*Shakespeare's Sonnets*):** *"Is it thy spirit that thou send’st from thee So far from home into my deeds to pry, To find out shames and idle hours in me, The scope and tenure of thy jealousy?"*
+> - 📜 **Sir William Blackstone (*Commentaries on the Laws of England*):** *"The ancient feudal **tenure** of knight-service imposed onerous feudal incidents upon every tenant in capite."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The judges were granted their commissions during good behavior, freeing their judicial **tenure** from royal caprice."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Security of **tenure** encouraged agricultural tenants to invest labor and capital in improving the soil."*

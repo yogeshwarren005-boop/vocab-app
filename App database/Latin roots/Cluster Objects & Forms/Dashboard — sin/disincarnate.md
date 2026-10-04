@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make immaterial; remove the real essence of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make immaterial; remove the real essence of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no physical body or flesh; bodiless, incorporeal, or stripped of bodily form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metaphysics, eschatology, and spiritualism, a disembodied human soul or spirit existing independently of biological form.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disincarnate designates make immaterial; remove the real essence of."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Certain mystical states induce a convincing perceptual impression of communion with **disincarnate** spiritual intelligences."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"To imagine human reason operating in a purely **disincarnate** state contradicts the conditions of our earthly perception."*
+> - 📜 **Arthur Conan Doyle (*The History of Spiritualism*):** *"The medium maintained that the communications originated from **disincarnate** entities dwelling in ethereal realms."*

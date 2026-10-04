@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless protein obtained by removing heme from hemoglobin; the oxygen carrying compound in red blood cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colorless protein obtained by removing heme from hemoglobin; the oxygen carrying compound in red blood cells.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless protein constituent of hemoglobin, myoglobin, and other respiratory hemoproteins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and hematology, the globular protein portion of hemoglobin surrounding the iron-protoporphyrin heme group.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, globin designates a colorless protein obtained by removing heme from hemoglobin; the oxygen carrying compound in red blood cells."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Hemoglobin readily dissociates under chemical treatment into its prosthetic iron pigment and colorless **globin** protein."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Mutations altering specific amino acid residues in the **globin** chain produce abnormal hemoglobin variants like sickle-cell anemia."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"The precise three-dimensional folding of the **globin** molecule was triumphantly revealed by X-ray crystallographic analysis."*

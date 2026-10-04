@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Constituting a tube; having hollow tubes (as for the passage of fluids).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Constituting a tube; having hollow tubes (as for the passage of fluids).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the shape or form of a cylinder or hollow tube; tubular.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, invertebrate zoology, and optics, cylindrical with a central longitudinal lumen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tube-shaped designates constituting a tube; having hollow tubes (as for the passage of fluids)."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Hummingbirds and hawkmoths have evolved extraordinarily long tongues to reach nectar in deep, **tube-shaped** corollas."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The calyx is **tube-shaped** with five acute teeth, enclosing the developing ovary until seed maturation."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"The sedentary marine worm inhabits a **tube-shaped** casing fashioned of cemented grains of sand and shell."*

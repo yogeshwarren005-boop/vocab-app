@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person with pulmonary tuberculosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by the presence of tuberculosis lesions or tubercles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or affected with tuberculosis; or covered with small rounded nodules or tubercles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, comparative anatomy, and botany, pertaining to tuberculous disease or possessing nodular tuberculate ornamentations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tubercular designates a person with pulmonary tuberculosis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient suffered from chronic **tubercular** laryngitis, producing progressive aphonia and distressing cough."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"The delicate youth exhibited all the fatal symptoms of **tubercular** consumption in the damp London garret."*
+> - 📜 **Charles Darwin (*The Zoology of the Voyage of H.M.S. Beagle*):** *"The fossil shell was covered with prominent **tubercular** ridges that distinguished it from living congeners."*

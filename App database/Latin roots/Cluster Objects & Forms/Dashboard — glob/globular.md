@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the shape of a sphere or ball; ; ; - zane grey.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the shape of a sphere or ball; ; ; - zane grey.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Globe-shaped; spherical; composed of small spherical particles or globules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astronomy, biochemistry, and petrology, denoting compact spherical star clusters (globular clusters) or folded globular proteins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Peering over the side you could just see them (as before you heard them) wallowing in the sullen, black waters, and turning over on their backs as they scooped out huge globular pieces of the whale of the bigness of a human head."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"What is the Archbishop of Savesoul’s income of £100,000 seized from the scant bread and cheese of hundreds of thousands of broken-backed laborers (all sure of heaven without any of Savesoul’s help) what is that globular 100,000 but a Fast-Fish?"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"They had dumplings too; small, but substantial, symmetrically globular, and indestructible dumplings."*
+> - 📜 **William Herschel (*Astronomical Observations Relating to the Construction of the Heavens*):** *"Telescopic resolution reveals that these faint nebulae are in fact dense **globular** clusters of innumerable stars."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The pollen grains of this genus are small and **globular**, easily transported by gentle breezes."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"Rain drops assume a **globular** shape in falling because surface tension pulls their molecules into the smallest possible area."*

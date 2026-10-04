@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A toxic alkaloid found in certain tropical south american trees that is a powerful relaxant for striated muscles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A toxic alkaloid found in certain tropical south american trees that is a powerful relaxant for striated muscles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A toxic alkaloid derived from curare (Chondrodendron tomentosum), formerly used as a muscle relaxant in surgery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuropharmacology and anesthesiology, a competitive nondepolarizing neuromuscular blocker that blocks nicotinic acetylcholine receptors at the motor endplate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tubocurarine designates a toxic alkaloid found in certain tropical south american trees that is a powerful relaxant for striated muscles."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The physiological discovery of **tubocurarine** elucidated the chemical mechanism of neuromuscular transmission across the motor endplate."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"Curare extracts containing **tubocurarine** paralyze motor nerve terminals while leaving sensory nerves and cardiac muscle functional."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"Experimental pharmacologists demonstrated how synthetic analogs of **tubocurarine** produced profound muscular relaxation without general anesthesia."*

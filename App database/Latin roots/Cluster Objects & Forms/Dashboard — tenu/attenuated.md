@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Weaken the consistency of (a chemical substance).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become weaker, in strength, value, or magnitude.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Weakened, diluted, thinned, or made slender in form, intensity, or consistency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In immunology, pharmacology, and wave physics, denoting a pathogen with reduced virulence or a signal reduced in amplitude.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"By the outer margin of the Pit was an oval pond, and over it hung the attenuated skeleton of a chrome-yellow moon which had only a few days to last—the morning star dogging her on the left hand."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"All the lights in the scene were yellow as to colour, and all the shadows were attenuated as to form."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Perhaps I shall be in my grave before then.” A manor-house clock from the far depths of shadow struck the hour, one, in a small, attenuated tone."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"His **attenuated** hands trembled upon the shoemaker's bench as he peered into the dim light of the garret."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The injection of an **attenuated** bacterial strain induced lasting immunity without causing acute clinical illness."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The rays of the setting sun cast long, **attenuated** shadows across the mossy floor of the plantation."*

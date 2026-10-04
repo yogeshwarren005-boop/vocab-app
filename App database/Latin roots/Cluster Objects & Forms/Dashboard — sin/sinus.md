@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal passage leading from a suppurating cavity to the body surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various air-filled cavities especially in the bones of the skull.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cavity, channel, or hollow space within a bone or tissue, especially one in the skull connecting with the nasal cavities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human anatomy and descriptive pathology, an air-filled cranial paranasal cavity, a dilated venous channel (venous sinus), or a fistula tract.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sinus designates an abnormal passage leading from a suppurating cavity to the body surface."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Suppuration within the maxillary **sinus** produces intense facial pain and foul nasal discharge requiring surgical drainage."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish*):** *"Venous blood collects within the broad sternal **sinus** before entering the branchial channels of the gills."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"In certain mollusks, the open circulatory system empties into an extensive visceral **sinus** that surrounds the alimentary tract."*

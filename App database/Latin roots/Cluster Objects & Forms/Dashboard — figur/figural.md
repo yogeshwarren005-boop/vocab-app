@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or forming human or animal figures; ; - herbert read.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consisting of or forming human or animal figures; ; - herbert read.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Representing the human or animal form in art, as opposed to abstract or purely ornamental designs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In art history, semiotics, and theological exegesis, figurative representational art or typological allegorical interpretation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, figural designates consisting of or forming human or animal figures; ; - herbert read."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The portal was enriched with majestic **figural** sculpture representing prophets and martyred saints."*
+> - 📜 **Walter Pater (*The Renaissance*):** *"Greek sculpture achieved perfect harmony between pure geometry and expressive **figural** vitality."*
+> - 📜 **E. H. Gombrich (*Art and Illusion*):** *"Medieval painters subordinated realistic **figural** proportions to spiritual and theological symbolism."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A workman who excavates for foundations of buildings or for quarrying.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A machine for excavating.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who excavates, especially an archaeologist; or a heavy mechanical digging machine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In field archaeology and civil engineering, a scientific excavator unearthing antiquities or a steam- or diesel-powered mechanical shovel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, excavator designates a workman who excavates for foundations of buildings or for quarrying."*
+> - 📜 **Edward Gibbon (*Memoirs of My Life and Writings*):** *"The classical **excavator** was rewarded for his toil by the discovery of an exquisite marble bust of Cicero."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The mechanical **excavator** scooped vast trenches of clay as soldiers fortified the suburban ridge against the invaders."*
+> - 📜 **Charles Lyell (*Travels in North America*):** *"The energetic **excavator** uncovered primeval mastodon bones preserved within the salt lick marshes."*

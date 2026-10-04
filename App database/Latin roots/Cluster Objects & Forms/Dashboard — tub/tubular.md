@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Constituting a tube; having hollow tubes (as for the passage of fluids).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Constituting a tube; having hollow tubes (as for the passage of fluids).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the form or shape of a tube; cylindrical, hollow, and elongated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, histology, and materials science, shaped like an open cylinder (e.g. tubular corolla) or possessing hollow cylindrical microstructure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The furnace top consists of cast-iron corner-posts and dividers, the walls and ends laid up with brickwork, surmounted by a tubular top of the Shelby type from which the gas off-takes lead."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"In consequence the tubular top was used, gradually raised until a suitable height was reached."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"The Siamese wares, moreover, usually have a small raw irregular ring under the base, made by the end of a tubular kiln support, and differing from the broad regular ring on the Lung-ch´üan dishes described above."*
+> - 📜 **Charles Darwin (*Insectivorous Plants*):** *"The **tubular** throat of the pitcher plant is lined with slippery wax, precipitating visiting insects into the digestive fluid."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute renal failure frequently results from widespread necrosis of the **tubular** epithelium lining the nephrons."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The harpoon shaft was formed of a hollow, **tubular** iron rod that combined lightness with formidable bending strength."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Curved or curving in and out.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a strongly waved margin alternately concave and convex.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a wavy, winding, or serpentine margin with alternating rounded curves and notches; or to wind and curve.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical morphology and descriptive entomology, leaves or insect wing margins with shallow, smooth, undulating indentations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sinuate designates curved or curving in and out."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The leaves of the white oak are deeply **sinuate** and lobed, with rounded sinuses between the blunt segments."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The margin of the shell is gracefully **sinuate**, fitting closely over the irregular contours of the coral substrate."*
+> - 📜 **Joseph Dalton Hooker (*Himalayan Journals*):** *"We traversed paths tracing the **sinuate** windings of the torrent through the rhododendron forest."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a curvaceous way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a curvaceous way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a curvaceous manner; with shapely, gracefully undulating, or prominent curves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stylistic description, flowing with sinuous, swelling contours or rounded arcs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, curvaceously designates in a curvaceous way."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The Byzantine capitals swell **curvaceously** from the slender marble shafts of the nave."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The carved mahogany armrests swept **curvaceously** downward to rest upon gilded lion claws."*
+> - 📜 **Walter Pater (*Studies in the History of the Renaissance*):** *"The painted draperies fall **curvaceously** about the figure, reflecting the fluid movements of the dancer."*

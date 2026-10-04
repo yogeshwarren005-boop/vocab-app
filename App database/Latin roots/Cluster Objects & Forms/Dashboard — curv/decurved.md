@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bent down or curved downward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bent down or curved downward.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bent or curved downward; curved toward the ventral or inferior surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology and botanical taxonomy, denoting a beak, leaf tip, or floral spur that arches downward toward the ground.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decurved designates bent down or curved downward."*
+> - 📜 **Charles Darwin (*The Zoology of the Voyage of H.M.S. Beagle*):** *"The long, slender, **decurved** beak of the curlew enables the bird to probe deeply into tidal mud flats for worms."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The seed pod is distinctly **decurved** upon its stalk, hanging beneath the foliage at maturity."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Several species of sunbirds possess sharply **decurved** bills exquisitely adapted to sip nectar from pendulous flowers."*

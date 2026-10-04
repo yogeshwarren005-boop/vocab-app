@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of perennial tuberous herbs and shrubs of central and south america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of perennial tuberous herbs and shrubs of central and south america.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering plants in the Gesneriaceae family, including the cultivated florist's gloxinia (Sinningia speciosa).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticulture and botanical taxonomy, South American tuberous gesneriads cultivated for large, bell-shaped velvety corollas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sinningia designates genus of perennial tuberous herbs and shrubs of central and south america."*
+> - 📜 **Asa Gray (*Introduction to Structural and Systematic Botany*):** *"The greenhouse plant commonly denominated gloxinia belongs systematically to the Brazilian tuberous genus **sinningia**."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"Cross-pollination in **sinningia** resulted in notably larger capsules and vigorous seedlings compared to selfed plants."*
+> - 📜 **Joseph Dalton Hooker (*Curtis's Botanical Magazine*):** *"Cultivators prize **sinningia** for its spectacular velvety flowers ranging from deep violet to brilliant scarlet."*

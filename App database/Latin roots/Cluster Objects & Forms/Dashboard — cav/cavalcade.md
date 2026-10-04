@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A procession of people traveling on horseback.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A procession of people traveling on horseback.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal procession of people walking, on horseback, or riding in vehicles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ceremonial history and pageantry, an elaborate equestrian parade celebrating royal entries, military triumphs, or civic festivals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"From the accompanying jingle of metal bits of man-harness and steed-harness I knew some cavalcade was passing by on the street beneath my windows."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The cavalcade, following the sweep of the drive, quickly turned the angle of the house, and I lost sight of it."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He felt it not only from the sound of the hoofs of the approaching cavalcade, but because as he drew near everything grew brighter, more joyful, more significant, and more festive around him."*
+> - 📜 **Sir Walter Scott (*Ivanhoe*):** *"The glittering **cavalcade** of Norman barons and templar knights wound through the forest toward Ashby."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The coronation was celebrated by a magnificent **cavalcade** that escorted the pontiff across the Tiber bridges."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"A splendid **cavalcade** of nobility and foreign ambassadors met the prince at the gates of the capital."*

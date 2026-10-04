@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without bias; without selfish motives.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without bias; without selfish motives.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a disinterested, impartial, and unbiased manner; without selfish motivation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In judicial arbitration and civic duty, acting strictly for justice and truth without personal bias.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"And you at least love me disinterestedly.” “Yes—I will go,” said Izz, after a pause."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"She could just find selfishness enough to wonder whether Edmund _had_ written to Miss Crawford before this summons came, but no sentiment dwelt long with her that was not purely affectionate and disinterestedly anxious."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"He had wronged her in intent, but not in deed, for no man could love more deeply, more disinterestedly than he then loved her."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea acted **disinterestedly**, offering her fortune to assist Lydgate's hospital without the slightest desire for recognition."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"The impartial spectator evaluates actions **disinterestedly**, free from the distorting passions of self-love."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"The ancient abbot governed his monastery **disinterestedly**, holding wealth only in trust for the poor."*

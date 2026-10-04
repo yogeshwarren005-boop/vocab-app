@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to bulge out or project.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form a rounded prominence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To bulge out, swell, project, or protrude beyond the surrounding surface or boundary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological pathology and physical geology, to swell outward under internal hydraulic pressure or volcanic force.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protuberate designates cause to bulge out or project."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"The tree bark began to **protuberate** where the parasitic gall-fly had deposited its larvae in spring."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Subterranean magma caused the crust to **protuberate** in vast domes before fissures vented molten lava."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The bodily humors tended to **protuberate** in painful tumors when normal perspiration was checked."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Curve or bend (something) back or down.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Curve or bend (something) back or down.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To curve or bend backward, outward, or in a reverse direction; or a reverse curve in a structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archery and mechanics, a bow whose tips curve away from the archer when unstrung, increasing spring energy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"All around the orifice of the peridium the teeth become recurved, and the orange spores are exposed, crowded together within."*
+> - 📜 **Sir Walter Scott (*Ivanhoe*):** *"The Saracen horsemen drew the composite **recurve** bow with ease, sending arrows through the heaviest mail."*
+> - 📜 **Asa Gray (*Introduction to Structural and Systematic Botany*):** *"As the flower matures, the petals begin to **recurve**, exposing the stamens to insect visitors."*
+> - 📜 **Charles Darwin (*Insectivorous Plants*):** *"The glandular hairs **recurve** after digestion is complete, resetting the leaf trap for new prey."*

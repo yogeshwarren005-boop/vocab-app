@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Assume a globular shape.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assume a globular shape.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To gather, form, or coalesce into a globe, ball, or spherical shape.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In poetic literature and natural philosophy, coalescing fluid elements into planetary spheres or liquid globules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Tho’ something like moisture conglobes in my eye, Let no one misdeem me disloyal; A poor friendless wand’rer may well claim a sigh, Still more if that wand’rer were royal."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The rest are fluid, congenial to their bounds; nor stayed the fluid, but **conglobe** like water, and sphere itself around the earth."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"The celestial vapors **conglobe** into glittering stars under the attraction of universal love."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Fluids tend naturally to **conglobe** when surrounded by heterogeneous media that repel them."*

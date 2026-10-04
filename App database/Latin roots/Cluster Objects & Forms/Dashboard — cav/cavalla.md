@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large mackerel with long pointed snout; important food and game fish of the eastern atlantic coast southward to brazil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large mackerel with long pointed snout; important food and game fish of the eastern atlantic coast southward to brazil.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large marine game and food fish of the jack family (Carangidae), also known as the crevalle jack.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tropical marine ichthyology, a predatory pelagic carangid fish inhabiting coastal reefs and estuaries across the Atlantic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cavalla designates large mackerel with long pointed snout; important food and game fish of the eastern atlantic coast southward to brazil."*
+> - 📜 **Herman Melville (*Omoo*):** *"The native fishermen speared several lively **cavalla** that darted through the translucent coral shallows."*
+> - 📜 **Charles Darwin (*The Zoology of the Voyage of H.M.S. Beagle*):** *"Shoals of the swift carangid **cavalla** were observed chasing small fry along the Brazilian coast."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"The predatory habits of **cavalla** make them fierce fighters when taken on hook and line in tropical waters."*

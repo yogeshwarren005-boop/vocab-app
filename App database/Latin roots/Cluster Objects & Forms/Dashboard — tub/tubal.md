@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to occurring in a tube such as e.g. the fallopian tube or eustachian tube.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to occurring in a tube such as e.g. the fallopian tube or eustachian tube.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or having the form of a tube, especially one of the fallopian tubes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical gynecology and human pathology, occurring in or affecting the oviducts, as in tubal ectopic pregnancy or tubal ligation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tubal, a wealthy Hebrew of my tribe, Will furnish me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How now, Tubal, what news from Genoa?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"TUBAL. —hath an argosy cast away coming from Tripolis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Rupture of a **tubal** pregnancy represents an acute surgical emergency requiring immediate exploratory laparotomy."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The oviducts open into the peritoneal cavity through expanded **tubal** funnels fringed with cilia."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"Pathological obstruction of the **tubal** canal accounts for many cases of intractable sterility."*

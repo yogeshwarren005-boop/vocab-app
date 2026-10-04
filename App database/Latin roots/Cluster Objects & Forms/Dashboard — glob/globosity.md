@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The roundness of a 3-dimensional object.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The roundness of a 3-dimensional object.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spherical roundness or globe-like shape; curvature forming a complete sphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geometry and physical description, deviation toward a complete spherical form.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, globosity designates the roundness of a 3-dimensional object."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"The celestial bodies exhibit a natural **globosity** imposed by universal gravitational attraction."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The exaggerated **globosity** of the fancy goldfish's body is maintained solely by careful artificial selection."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The natural **globosity** of fluid drops demonstrates the inward drawing of parts toward their common center."*

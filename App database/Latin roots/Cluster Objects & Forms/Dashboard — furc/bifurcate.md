@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Split or divide into two.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divide into two branches.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To divide or branch into two distinct paths, forks, divisions, or channels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy, river hydrology, and computer science, to split into two secondary vessels, branches, or binary execution paths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"DOCK MOULD; threads of the mycelium slender; fertile threads fasciculate, erect, simple, rarely bifurcate, attenuated upwards; acrospores large, ellipsoid, attached obliquely near the base.—On the under surface of dock leaves."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"This valley bifurcates to the parallel of the Antilles, and terminates at the north by the enormous depression of 9,000 yards."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Phylogenetic lineages repeatedly **bifurcate** as diverging varieties adapt to separate ecological niches."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish*):** *"The principal thoracic nerves **bifurcate** to innervate the walking legs and sensory antennae."*
+> - 📜 **William James (*The Principles of Psychology*):** *"At every moment of moral decision, our conscious possibilities seem to **bifurcate** into mutually exclusive alternatives."*

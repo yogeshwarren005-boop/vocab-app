@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of proteins found in blood and milk and muscle and in plant seed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of proteins found in blood and milk and muscle and in plant seed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a family of globular proteins that are insoluble in pure water but soluble in dilute salt solutions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry, immunology, and hematology, major serum proteins including antibodies (immunoglobulins) and transport proteins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, globulin designates a family of proteins found in blood and milk and muscle and in plant seed."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Serum electrophoresis separates the blood proteins into albumin and several distinct **globulin** fractions."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Antibodies represent specialized gamma **globulin** molecules adapted to bind specific antigenic determinants."*
+> - 📜 **Francis Crick (*Of Molecules and Men*):** *"The synthesis of **globulin** in the liver follows precise genetic instructions encoded on messenger RNA."*

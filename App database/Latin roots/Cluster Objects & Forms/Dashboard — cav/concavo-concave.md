@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Concave on both sides.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concave on both sides.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Concave on both opposite sides or surfaces; biconcave.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical optics and lens design, an optical lens bounded by two inwardly curving spherical surfaces, producing divergent refraction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, concavo-concave designates concave on both sides."*
+> - 📜 **Isaac Newton (*Opticks*):** *"A **concavo-concave** glass lens diverges parallel rays of light, causing them to appear to emanate from a virtual focus."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"Microscopic examination of fish vertebrae reveals a series of **concavo-concave** articulating centra."*
+> - 📜 **William Herschel (*Astronomical Observations*):** *"The optical bench was equipped with a **concavo-concave** corrective element to neutralize chromatic aberration."*

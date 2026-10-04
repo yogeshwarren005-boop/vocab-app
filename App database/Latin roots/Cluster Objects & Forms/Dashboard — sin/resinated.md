@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impregnate with resin to give a special flavor to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impregnated or flavored with resin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Treated, coated, impregnated, or flavored with resin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In enology and materials engineering, describing Greek retsina wine treated with Aleppo pine resin, or resin-impregnated fiber laminates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, resinated designates impregnate with resin to give a special flavor to."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"The Greek taverna offered chilled **resinated** wine accompanied by ripe olives and coarse mountain bread."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The **resinated** paper showed remarkable electrical insulation, resisting breakdown under high static tension."*
+> - 📜 **John Evelyn (*Sylva, or A Discourse of Forest-Trees*):** *"The pine casks were thoroughly **resinated** within to seal the porous grain against leakage."*

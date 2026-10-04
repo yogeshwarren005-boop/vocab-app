@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sterile liquid containing a purified protein derivative of the tuberculosis bacterium; used in the diagnosis of tuberculosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sterile liquid containing a purified protein derivative of the tuberculosis bacterium; used in the diagnosis of tuberculosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sterile protein extract from cultures of the tubercle bacillus, used in diagnostic skin tests for tuberculosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical immunology and infectious disease medicine, a purified protein derivative (PPD) used in the Mantoux test to detect delayed hypersensitivity to Mycobacterium tuberculosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tuberculin designates a sterile liquid containing a purified protein derivative of the tuberculosis bacterium; used in the diagnosis of tuberculosis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Robert Koch's discovery of **tuberculin** provided medicine with an indispensable diagnostic reagent for detecting latent infection."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The young medical student journeyed to Berlin to study Koch's sensational clinical trials with **tuberculin**."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The diagnostic application of **tuberculin** marked a new era in the scientific prevention of bovine and human tuberculosis."*

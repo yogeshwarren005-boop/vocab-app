@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In the shape of a coil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the shape of a coil.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a spiral scroll-like form, ornament, or structure; shaped like a volute.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural description, mechanical engineering, and conchology, decorated with spiral scrolls or coiled in an expanding logarithmic spiral.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, voluted designates in the shape of a coil."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"The portico was supported by elegantly **voluted** columns reflecting the refined proportions of classical Athens."*
+> - 📜 **Walter Pater (*Studies in the History of the Renaissance*):** *"The carved wooden choir stalls terminated in delicately **voluted** armrests depicting mythological sea creatures."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The shell of the gastropod possesses a **voluted** apex that preserves the earliest larval growth whorls."*

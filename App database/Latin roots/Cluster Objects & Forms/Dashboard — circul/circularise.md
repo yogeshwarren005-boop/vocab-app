@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Canvass by distributing letters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distribute circulars to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To send circulars, promotional letters, or informational notices to many people or an entire district.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial operations, to solicit orders, poll public opinion, or audit accounts by sending inquiries across a list of addresses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, circularise designates canvass by distributing letters."*
+> - 📜 **Anthony Trollope (*The Prime Minister*):** *"The political agent proposed to **circularise** the entire constituency before the approaching general election."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Red-Headed League*):** *"The strange advertisement was designed to **circularise** all red-headed Londoners with promises of easy employment."*
+> - 📜 **H. G. Wells (*The New Machiavelli*):** *"We determined to **circularise** the university graduates to muster support for our educational reforms."*

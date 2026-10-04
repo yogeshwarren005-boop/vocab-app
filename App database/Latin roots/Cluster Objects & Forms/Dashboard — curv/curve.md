@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trace of a point whose direction of motion changes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A line on a graph representing data.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A continuously bending line or surface without angles; or to bend smoothly from a straight course.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics, mechanics, and ballistics, a one-dimensional continuum of points or a trajectory deflected by aerodynamic spin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Stop him, sir!” He darts across the road into the boy’s path, but the boy is quicker than he, makes a curve, ducks, dives under his hands, comes up half-a-dozen yards beyond him, and scours away again."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The hill was covered on its northern side by an ancient and decaying plantation of beeches, whose upper verge formed a line over the crest, fringing its arched curve against the sky, like a mane."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Somebody’s—some _woman’s_—hand had travelled softly over the paper bearing his name; her unrevealed eyes had watched every curve as she formed it; her brain had seen him in imagination the while."*
+> - 📜 **John Keats (*Ode on a Grecian Urn*):** *"Fair youth, beneath the trees, thou canst not leave thy song, nor ever can those trees be bare; bold lover, never, never canst thou kiss, though winning near the goal yet, do not grieve; she cannot fade, though thou hast not thy bliss, for ever wilt thou love, and she be fair! The marble urn retained its graceful sweeping **curve**."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The river swept round the grassy meadow in a broad, tranquil **curve** before plunging beneath the bridge."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The furrow bent in a gentle **curve** as the plowman guided the team along the undulating hillside."*

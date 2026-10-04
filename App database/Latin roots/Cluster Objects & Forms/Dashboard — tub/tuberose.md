@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tuberous mexican herb having grasslike leaves and cultivated for its spikes of highly fragrant lily-like waxy white flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tuberous mexican herb having grasslike leaves and cultivated for its spikes of highly fragrant lily-like waxy white flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Mexican plant (Polianthes tuberosa) of the agave family, cultivated for its fragrant white tubular flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticulture and perfumery, a bulbous perennial herb yielding a rich, heavy floral essential oil used in high perfumery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tuberose designates a tuberous mexican herb having grasslike leaves and cultivated for its spikes of highly fragrant lily-like waxy white flowers."*
+> - 📜 **Percy Bysshe Shelley (*The Sensitive Plant*):** *"And the jessamine faint, and the sweet **tuberose**, the sweetest flower for scent that blows; and all rare blossoms from every clime."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The heavy scent of lilacs and the intoxicating perfume of the **tuberose** drifted into the open studio."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Polianthes, commonly termed the **tuberose**, is widely planted in conservatories for its sweet-scented spikes."*

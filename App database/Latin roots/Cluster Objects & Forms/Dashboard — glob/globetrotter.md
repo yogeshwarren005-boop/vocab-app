@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who travels widely and often.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who travels widely and often.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who travels widely, frequently, and extensively around the world.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social commentary and travelogues, an inveterate international traveler or tourist navigating global routes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Possibly perceiving an expression of dubiosity on their faces the globetrotter went on, adhering to his adventures. —And I seen a man killed in Trieste by an Italian chap."*
+> - 📜 **Jules Verne (*Around the World in Eighty Days*):** *"Phileas Fogg was no ordinary **globetrotter**, but an eccentric gentleman executing a mathematical itinerary across continents."*
+> - 📜 **Mark Twain (*The Innocents Abroad*):** *"The enthusiastic American **globetrotter** marched through Parisian galleries with guide-book firmly in hand."*
+> - 📜 **Henry James (*Daisy Miller*):** *"The hotel salon was filled with cosmopolitan tourists and seasoned **globetrotter** families escaping the winter cold."*

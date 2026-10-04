@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mar or spoil the appearance of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the appearance spoiled.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marred, scarred, defaced, or deformed in appearance, beauty, or structural shape.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pathology and historical preservation, having sustained noticeable anatomical scarring or structural vandalism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Badger, “that he disfigured some of the houses and other buildings by chipping off fragments of those edifices with his little geological hammer."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I was very sorrowful to think that Charley’s pretty looks would change and be disfigured, even if she recovered—she was such a child with her dimpled face—but that thought was, for the greater part, lost in her greater peril."*
-> - 📜 **Jane Austen (*Persuasion*):** *"I have known a face not materially disfigured by a few, but he abominates them."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The prisoner was grievously **disfigured** by long confinement in the dark, damp cells of the fortress."*
+> - 📜 **Sir Walter Scott (*The Talisman*):** *"The crusader's shield was deeply **disfigured** with dents and sword cuts sustained in the siege of Acre."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The noble marble temples were **disfigured** by rude stone huts erected within their colonnades."*

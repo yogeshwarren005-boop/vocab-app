@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rounded spherical form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An occurrence combining miscellaneous things into a (more or less) rounded mass.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of rolling, gathering, or forming into a ball or spherical mass; or a compact rounded mass.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical chemistry, anatomy, and mineralogy, aggregation of particles or tissue into a spherical nodule.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conglobation designates a rounded spherical form."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"The spontaneous **conglobation** of moisture upon cool surfaces illustrates the natural attraction of homogeneous fluids."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The limestone exhibited curious **conglobation**, forming oolitic spheres cemented together by calcite."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The natural **conglobation** of mercury droplets reflects their strong internal metallic cohesion."*

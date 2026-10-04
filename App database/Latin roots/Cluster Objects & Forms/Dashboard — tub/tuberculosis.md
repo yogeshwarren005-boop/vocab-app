@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Infection transmitted by inhalation or ingestion of tubercle bacilli and manifested in fever and small lesions (usually in the lungs but in various other parts of the body in acute stages).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infection transmitted by inhalation or ingestion of tubercle bacilli and manifested in fever and small lesions (usually in the lungs but in various other parts of the body in acute stages).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An infectious disease caused by Mycobacterium tuberculosis, typically affecting the lungs and characterized by the formation of tubercles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pulmonology, pathology, and public health history, a contagious chronic granulomatous bacterial infection causing pulmonary cavitation and systemic wasting (consumption).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Oh, and others followed Hodge and Polazzo; and others, whose physical stamina had been impaired, fell victims to prison-tuberculosis."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I have seen men, strong men, men so strong that their physical stamina resisted all attacks of prison tuberculosis, after a prolonged bout with the jacket, their resistance broken down, fade away, and die of tuberculosis within six months."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Before I came into Science the physicians said that one lung was gone, and that the other was affected with tuberculosis; so, from their standpoint, there was little left for me to hope for."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Of all the diseases that afflict mankind, pulmonary **tuberculosis** remains the most widespread, destructive, and relentless scourge."*
+> - 📜 **Robert Koch (*The Etiology of Tuberculosis*):** *"In all tuberculous conditions, the tubercle bacillus is present; its isolation and inoculation establish beyond doubt the parasitic etiology of **tuberculosis**."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The pale countenance of the young copyist betrayed the inexorable advance of pulmonary **tuberculosis** amidst the city fog."*

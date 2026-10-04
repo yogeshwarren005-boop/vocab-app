@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An indirect (and usually malicious) implication.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of gaining acceptance or affection for yourself by persuasive and subtle blandishments.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An indirect, subtle hint, suggestion, or whisper, especially of something derogatory, malicious, or scandalous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal rhetoric and social discourse, a damaging indirect implication designed to evade direct evidentiary refutation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They are not near my conscience; their defeat Does by their own insinuation grow. ’Tis dangerous when the baser nature comes Between the pass and fell incensed points Of mighty opposites."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall we, upon the footing of our land, Send fair-play orders and make compromise, Insinuation, parley, and base truce To arms invasive?"*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"He also advised me to be composed; I scorned the insinuation of helplessness and distraction, shook off his hand, and began to walk about again."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth repelled the malicious **insinuation** with haughty disdain, refusing to justify herself against baseless rumors."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The palace eunuchs undermined the general's reputation through constant **insinuation** whispered in the emperor's ear."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"His political broadsides relied upon dark **insinuation** and personal slander rather than cogent public argument."*

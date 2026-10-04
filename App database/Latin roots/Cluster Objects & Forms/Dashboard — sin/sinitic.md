@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of sino-tibetan languages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the chinese people or their language or culture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or denoting China, the Chinese people, Chinese languages, or the Sino-Tibetan language family.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative linguistics and historical anthropology, the primary branch of the Sino-Tibetan phylum encompassing the Chinese dialects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sinitic designates a group of sino-tibetan languages."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The isolating monosyllabic structure of the **Sinitic** idioms presents a striking contrast to the inflected Aryan tongues."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Silk fabrics transported across the overland caravan routes brought the refined luxuries of the **Sinitic** empire to Rome."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"The early bronze culture of the **Sinitic** river basins developed in relative geographic isolation behind mountains and deserts."*

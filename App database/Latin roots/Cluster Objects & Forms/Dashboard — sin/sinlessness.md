@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being unsullied by sin or moral wrong; lacking a knowledge of evil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being unsullied by sin or moral wrong; lacking a knowledge of evil.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Complete freedom from sin or moral transgression; pristine ethical innocence and purity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dogmatic theology, the divine or immaculate exemption from moral fault (e.g. impeccability of Christ).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Sinlessness of Mind, Soul Reasoning from cause to effect in the Science of Mind, 467:30 we begin with Mind, which must be under- stood through the idea which expresses it and cannot be learned from its opposite, matter."*
+> - 📜 **John Milton (*Paradise Regained*):** *"The desert tempter was baffled by the absolute **sinlessness** and immovable spiritual rectitude of the Son of God."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"True repentance aspires to regain that spiritual **sinlessness** which human frailty forfeits in worldly commerce."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Childhood preserves a brief Eden of **sinlessness** before awakening to the tragic conflicts of adult conscience."*

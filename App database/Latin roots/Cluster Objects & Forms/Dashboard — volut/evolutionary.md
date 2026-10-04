@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or produced by evolution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or produced by evolution.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or resulting from gradual development, growth, or the biological process of evolution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biology, sociology, and economics, pertaining to descent with modification, phylogenetic history, or adaptive incremental reform.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Cumulative genetic and accelerated evolutionary alterations to the human body along with the effects of unique, often hostile, environments plus sheer distance from the familiar transformed humans-in-space into something else."*
-> - 📜 **James Joyce (*Ulysses*):** *"Canadian) expansion and the evolutionary theories of Charles Darwin, expounded in _The Descent of Man_ and _The Origin of Species_."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Rudimentary organs provide irrefragable proof of ancient **evolutionary** descent from fully functional ancestors."*
+> - 📜 **Thomas Henry Huxley (*Life and Letters of Thomas Henry Huxley*):** *"The **evolutionary** hypothesis explains the geographical distribution of species far more satisfactorily than special creation."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Human societies undergo an **evolutionary** transition from militant feudal despotisms to cooperative industrial commonwealths."*

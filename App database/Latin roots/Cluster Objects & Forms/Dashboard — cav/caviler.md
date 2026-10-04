@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disputant who quibbles; someone who raises annoying petty objections.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disputant who quibbles; someone who raises annoying petty objections.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who raises trivial, petty, or frivolous objections; a faultfinder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical debate and polemical discourse, a contentious disputant who persistently haggles over insignificant points.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, caviler designates a disputant who quibbles; someone who raises annoying petty objections."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The chronic **caviler** destroys conversation by disputing every harmless assertion advanced by his companions."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Truth easily disarms the objections of the honest inquirer, but leaves the vain **caviler** unsatisfied."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The theological **caviler** sought to find heretical subtleties in the most orthodox declarations of the council."*

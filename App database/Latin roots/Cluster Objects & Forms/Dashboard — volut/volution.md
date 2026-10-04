@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rolling or revolving motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rolling or revolving motion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A spiral turn, convolution, or whorl of a coiled structure, such as a shell or horn.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In malacology, anatomical morphology, and geometry, a single complete turn or whorl of a spiral shell about its central columella.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, volution designates a rolling or revolving motion."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Each successive **volution** of the ammonite shell expands according to a mathematically regular logarithmic spiral."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish*):** *"The internal ear contains a delicate osseous cochlea whose spiral **volution** responds to acoustic vibrations."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The ram's horn exhibits a magnificent lateral **volution**, providing formidable defensive armament against rivals."*

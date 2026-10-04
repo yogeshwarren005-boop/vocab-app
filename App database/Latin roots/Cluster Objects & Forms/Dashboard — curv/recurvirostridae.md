@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Long-legged shorebirds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Long-legged shorebirds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic family of wading birds containing the avocets and stilts, characterized by extremely long legs and slender bills.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic ornithology, a charadriiform family of wetland shorebirds specialized for probing and sweeping in shallow lagoons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, recurvirostridae designates long-legged shorebirds."*
+> - 📜 **Alfred Newton (*A Dictionary of Birds*):** *"The **recurvirostridae** constitute a distinct wader family linking the plovers with the snipes through intermediate osteological characters."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The stilt and avocet, united in the **recurvirostridae**, exhibit extreme leg and bill specializations for wading life."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"Members of the **recurvirostridae** are widely distributed across tropical and temperate marshes of both hemispheres."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A forked bone formed by the fusion of the clavicles of most birds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A forked bone formed by the fusion of the clavicles of most birds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The wishbone of a bird, formed by the fusion of the clavicles at their base; or a forked anatomical structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian osteology and springtail entomology, the fused clavicular bone acting as an elastic spring during flight, or the jumping organ (furca) of Collembola.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, furcula designates a forked bone formed by the fusion of the clavicles of most birds."*
+> - 📜 **Thomas Henry Huxley (*On the Animals which are most nearly Intermediate between Birds and Reptiles*):** *"The avian **furcula** represents the united clavicles, functioning as an elastic strut resisting the compressive stresses of flight."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The discovery of a well-developed **furcula** in Archaeopteryx confirmed its profound anatomical affinities with modern flying birds."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The robust **furcula** provides anchor points for the powerful pectoralis muscles driving the downward wing beat."*

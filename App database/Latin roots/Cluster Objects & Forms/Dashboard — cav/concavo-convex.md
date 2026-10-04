@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Concave on one side and convex on the other with the concavity being greater than the convexity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concave on one side and convex on the other with the concavity being greater than the convexity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Concave on one side and convex on the other; curved inward on one surface and outward on the opposite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmic optics and botanical morphology, a meniscus lens whose divergent concave face exceeds or balances the convergent convex face.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, concavo-convex designates concave on one side and convex on the other with the concavity being greater than the convexity."*
+> - 📜 **Isaac Newton (*Opticks*):** *"A **concavo-convex** glass, commonly denominated a meniscus, alters the convergence of passing rays according to the difference of its radii."*
+> - 📜 **Asa Gray (*Introduction to Structural and Systematic Botany*):** *"The bract is distinctly **concavo-convex**, arching protectively over the young flower bud."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The protective scale presents a **concavo-convex** shield adapted to the cylindrical contour of the body."*

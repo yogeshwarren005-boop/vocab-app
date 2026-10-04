@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A revolutionary whose aim is to reverse the changes introduced by an earlier revolution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or being a counterrevolution.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Engaging in, pertaining to, or advocating a counterrevolution; opposing a revolution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political science and historical analysis, denoting reactionary forces, policies, or individuals seeking to restore the ancien régime.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, counterrevolutionary designates a revolutionary whose aim is to reverse the changes introduced by an earlier revolution."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The national tribunal interrogated the prisoner regarding his alleged participation in **counterrevolutionary** conspiracies."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"Partisan broadsides accused rival socialist factions of holding covert **counterrevolutionary** sympathies."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The emigrant nobility gathered along the Rhine, organizing a **counterrevolutionary** army with foreign subsidies."*

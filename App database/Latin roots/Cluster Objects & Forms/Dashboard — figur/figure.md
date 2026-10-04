@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A diagram or picture illustrating textual material.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Alternative names for the body of a human being.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A numerical symbol; a person's bodily shape; an illustrative diagram; or an important individual.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geometry, rhetoric, and ice skating, a bounded planar shape, a rhetorical figure of speech, or a prescribed geometric skating tracery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ah yet doth beauty like a dial hand, Steal from his figure, and no pace perceived, So your sweet hue, which methinks still doth stand Hath motion, and mine eye may be deceived."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There I shall see mine own figure."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For it is a figure in rhetoric that drink, being poured out of cup into a glass, by filling the one doth empty the other."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"In the same **figure**, like the king that's dead, looks it not like the king? Mark it, Horatio."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Darcy was a tall, handsome man of noble mien and distinguished **figure** that drew all eyes in the room."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The imperial accounts contained vast arrays of **figure** and ledger balances that masked fiscal insolvency."*

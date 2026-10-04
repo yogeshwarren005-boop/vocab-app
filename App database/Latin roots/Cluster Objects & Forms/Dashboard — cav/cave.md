@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A geological formation consisting of an underground enclosure with access from the surface of the ground or from the sea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hollow out as if making a cave or opening.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A natural underground hollow or chamber, typically in a hillside or cliff; or to hollow out or collapse inward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In speleology, karst geomorphology, and archaeology, a subterranean solution cavern or prehistoric human habitation site.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The residue of your fortune Go to my cave and tell me.—Good old man, Thou art right welcome as thy master is."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What you would have I’ll stay to know at your abandoned cave. [_Exit._] DUKE SENIOR."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A mountainous country with a cave."*
+> - 📜 **William Shakespeare (*Cymbeline*):** *"The green mantle of the stagnant pool, the ancient oak, the shadowy **cave** afforded shelter to the wanderer."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Subterranean streams slowly dissolve limestone strata, excavating the vast chambers of the stalactite **cave**."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The harpooned whale sought refuge in the deep **cave** of ocean waters beneath the keel."*

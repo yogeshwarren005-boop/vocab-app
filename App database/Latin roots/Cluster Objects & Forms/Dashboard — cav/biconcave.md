@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Concave on both sides.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concave on both sides.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Concave or hollowed out on both sides or opposite surfaces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hematology, optics, and comparative osteology, describing erythrocyte morphology, optical lenses, or amphicoelous fish vertebrae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biconcave designates concave on both sides."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Human erythrocytes present a distinctive **biconcave** disk shape optimized for rapid gas diffusion across capillaries."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish*):** *"The optical instrument employed a **biconcave** lens to disperse the incoming rays across the field."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The primitive teleost vertebra is strictly **biconcave**, retaining a continuous remnant of the embryonic notochord."*

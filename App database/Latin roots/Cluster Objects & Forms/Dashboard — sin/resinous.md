@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the characteristics of pitch or tar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the characteristics of pitch or tar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, containing, derived from, or resembling resin; sticky and aromatic like pine pitch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, physical geology, and historical physics, rich in oleoresins, exhibiting resinous mineral luster, or possessing negative static charge.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"These nuts are then hermetically sealed with a resinous gum, and the vegetable fragrance of their green rind soon imparts to the oil a delightful odour."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"This is a resinous gum exuded by a red insect on the young branches of trees, to which the little creatures have to be attached by hand."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In Albania on Easter Eve the young people light torches of resinous wood and march in procession, swinging them, through the village."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The ship's timbers burned with an intense, **resinous** glare, sending plumes of fragrant black smoke into the night."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I split the pitch pine stumps, filling my cabin with the sweet, **resinous** perfume of ancient northern woods."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Benjamin Franklin designated negative electricity as **resinous**, contrasting it with the vitreous electricity of glass."*

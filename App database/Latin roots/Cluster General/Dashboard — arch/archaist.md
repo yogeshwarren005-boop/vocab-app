@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who archaizes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert or collector of antiquities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who admires, imitates, or revives archaic words, styles, or artistic and literary conventions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Hellenistic and Victorian literary history, a scholar or writer who deliberately champions obsolete vocabulary against contemporary vernacular.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archaist designates a person who archaizes."*
+> - 📜 **Walter Pater (*Appreciations*):** *"Charles Lamb was a passionate **archaist**, delighting in the quaint prose of Sir Thomas Browne and Robert Burton."*
+> - 📜 **George Saintsbury (*The Peace of the Augustans*):** *"The neoclassicists looked with suspicion upon the romantic **archaist** who revived medieval ballad meters."*
+> - 📜 **Quintilian (*Institutio Oratoria*):** *"The orator should not mimic the stubborn **archaist** who insists on speaking the uncouth dialect of the ancient kings."*

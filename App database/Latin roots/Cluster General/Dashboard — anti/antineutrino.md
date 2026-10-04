@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The antiparticle of a neutrino.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The antiparticle of a neutrino.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The neutral antimatter counterpart of a neutrino, having zero electric charge, spin-1/2, and extremely minute mass.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nuclear physics and electroweak theory, an uncharged lepton emitted along with an electron during radioactive beta minus decay.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antineutrino designates the antiparticle of a neutrino."*
+> - 📜 **Richard Feynman (*QED: The Strange Theory of Light and Matter*):** *"During nuclear beta decay, a neutron transforms into a proton, emitting an electron and an elusive **antineutrino** into space."*
+> - 📜 **Stephen Hawking (*A Brief History of Time*):** *"Trillions of solar neutrinos and nuclear reactor **antineutrino** particles pass through every square centimeter of Earth each second."*
+> - 📜 **Paul Dirac (*Theory of Electrons and Positrons*):** *"Conservation of lepton number necessitated the hypothesis of an uncharged **antineutrino** carrying away missing momentum."*

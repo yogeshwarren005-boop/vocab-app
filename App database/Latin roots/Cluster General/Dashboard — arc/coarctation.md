@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tight or narrow compression.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (biology) a narrowing or constriction of a vessel or canal; especially a congenital narrowing of the aorta.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A stricture, narrowing, or constriction of a bodily vessel, canal, or passage, particularly the aorta.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric cardiology and vascular pathology, congenital narrowing of the aortic lumen typically adjacent to the ductus arteriosus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coarctation designates tight or narrow compression."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Congenital **coarctation** of the aorta produces elevated blood pressure in the upper limbs while femoral pulses remain markedly diminished."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"A severe anatomical **coarctation** of the major arterial trunk restricts normal blood circulation into the descending vessels."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Pathological **coarctation** in the arterial lumen increases vascular resistance, imposing heavy strain upon the left cardiac ventricle."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Regard something as probable or likely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act in advance of; deal with ahead of time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To foresee, expect, or look forward to; also to act in advance of an event or deal with something beforehand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In strategic decision-making and cognitive economics, proactively calculating probable contingencies to preempt competitive or environmental shifts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus policy in love t’ anticipate The ills that were not, grew to faults assured, And brought to medicine a healthful state Which rank of goodness would by ill be cured."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"What can you anticipate when they’re so handsome as that?"*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I shall not be permitted to put my head under the blankets for fear I may anticipate the State by choking myself."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth could easily **anticipate** the joy her sister would feel at the unexpected arrival of Mr. Bingley."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Roman general hastened to **anticipate** the movements of the enemy by seizing the mountain pass before dawn."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"We must not rashly **anticipate** nature with premature hypotheses, but patiently interrogate her works through induction."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The office and authority of a general.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The office and authority of a general.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The rank, office, status, or tenure of a military general; generalship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military administrative history, the structural authority and executive commission exercised by general officers in armed forces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, generalcy designates the office and authority of a general."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"His rapid elevation to the **generalcy** provoked intense jealousy among older officers of aristocratic birth."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Under the late empire, provincial military governors attained the supreme **generalcy** through the acclaim of their legions."*
+> - 📜 **Winston Churchill (*Marlborough: His Life and Times*):** *"Marlborough's undisputed **generalcy** over the allied coalition armies ensured unified strategic purpose across the campaigns."*

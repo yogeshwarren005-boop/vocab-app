@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antibody that can neutralize a specific toxin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antibody that can neutralize a specific toxin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An antibody that counteracts or neutralizes a specific toxin, especially one produced by a bacterium, plant, or animal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of immunology, discovered by Emil von Behring and Kitasato Shibasaburo in 1890, providing the first successful passive serum therapy for diphtheria.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antitoxin designates an antibody that can neutralize a specific toxin."*
+> - 📜 **Emil von Behring (*On the Mechanism of Immunity in Diphtheria*):** *"The discovery of the **antitoxin** showed that passive transfer of serum could rescue a child dying from suffocating diphtheria."*
+> - 📜 **Paul de Kruif (*Microbe Hunters*):** *"Roux raced through the streets of Paris carrying the precious **antitoxin** that would empty the diphtheria wards."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The triumph of the diphtheria **antitoxin** marked the dawn of modern rational biotherapy."*

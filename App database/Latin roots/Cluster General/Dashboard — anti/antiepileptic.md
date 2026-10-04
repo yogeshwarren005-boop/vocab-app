@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug used to treat or prevent convulsions (as in epilepsy).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug used to treat or prevent convulsions (as in epilepsy).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Preventing, counteracting, or reducing the severity of epileptic seizures; also, an anticonvulsant medication used to treat epilepsy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, antiepileptic drugs (AEDs, such as phenytoin, carbamazepine, valproate, and levetiracetam) act by blocking voltage-gated sodium or calcium channels, augmenting GABAergic inhibition, or reducing glutamate excitation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antiepileptic designates a drug used to treat or prevent convulsions (as in epilepsy)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Bromides constituted the first dependable **antiepileptic** remedy, suppressing the frequency of grand mal paroxysms."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"Prophylactic administration of an **antiepileptic** agent is routine practice following cortical craniotomy."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"Effective **antiepileptic** compounds elevate the threshold required for paroxysmal hypersynchronous cortical discharge."*

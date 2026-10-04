@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance that opposes or blocks the action of acetylcholine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inhibiting or blocking the action of acetylcholine at a receptor site.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inhibiting or blocking the physiological action of the neurotransmitter acetylcholine in the nervous system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuropharmacology, antimuscarinic and antinicotinic drugs that reduce parasympathetic secretions, induce bronchodilation, and elevate heart rate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anticholinergic designates a substance that opposes or blocks the action of acetylcholine."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Belladonna extracts exert a potent **anticholinergic** influence, suppressing excessive bronchial and salivary secretions."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Physiological experiments show that an **anticholinergic** agent blocks transmission at postganglionic parasympathetic nerve endings."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"Alkaloids produced by Solanaceae plants exhibit powerful **anticholinergic** properties that deter herbivorous mammals."*

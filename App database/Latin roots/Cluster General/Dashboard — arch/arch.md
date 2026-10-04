@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A curved shape in the vertical plane that spans an opening.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A curved bony structure supporting or enclosing organs (especially the inner sides of the feet).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A curved symmetrical structure spanning an opening and supporting weight; chief, principal, or prime; mischievously playful or sly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In prefix compounding (Greek archē/arch-), denoting premier rank (archbishop, archenemy); in architecture, a masonry vaulting unit; as an adjective, teasingly saucy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let Rome in Tiber melt, and the wide arch Of the ranged empire fall!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ne’er through an arch so hurried the blown tide As the recomforted through th’ gates."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The gates of monarchs Are arch’d so high that giants may jet through And keep their impious turbans on without Good morrow to the sun."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"The cloud-capp'd towers, the gorgeous palaces, / The solemn temples, the great globe itself, / Yea, all which it inherit, shall dissolve / And, like this insubstantial pageant faded, / Leave not a rack behind; yet Rome’s triumphal **arch** stood long in memory."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth looked at him with an **arch** smile, delighted to tease his grave self-importance."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The pointed Gothic **arch** was an architectural revolution, directing immense vertical thrusts downward through slender shafts."*

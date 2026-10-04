@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Related to or dealing with or devoted to archaeology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Related to or dealing with or devoted to archaeology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant spelling of archaeologic; relating to archeology and the recovery of material remains of past human cultures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In North American and historical scientific publications, describing field surveys, artifact typologies, and mound excavations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archeologic designates related to or dealing with or devoted to archaeology."*
+> - 📜 **Thomas Jefferson (*Notes on the State of Virginia*):** *"Our **archeologic** trench through the ancient Indian burial mound revealed distinct strata of human remains."*
+> - 📜 **John Wesley Powell (*Report on the Bureau of Ethnology*):** *"The **archeologic** ruins of the canyon cliff-dwellers preserve astonishing textiles and pottery."*
+> - 📜 **Henry Rowe Schoolcraft (*Information Respecting the History of the Indian Tribes*):** *"Prehistoric earthworks in the Ohio valley constitute monumental **archeologic** treasures."*

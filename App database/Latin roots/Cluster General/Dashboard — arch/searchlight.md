@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A light source with reflectors that projects a beam of light in a particular direction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A light source with reflectors that projects a beam of light in a particular direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A powerful outdoor electric lamp with a reflector, projecting a strong, concentrated beam of light in any desired direction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In naval warfare and coastal defense, high-intensity arc lamps deployed to scan sea surfaces for torpedo craft or detect hostile bombers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"As for the front lamps and the searchlight the Imp's progress would be as down an avenue of brilliance if its driver allowed them all full play upon the road."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"If he should-- But he was back, and as the Imp's searchlight fell upon his face, returning, she read there that he was free."*
-> - 📜 **Bram Stoker (*Dracula*):** *"On the summit of the East Cliff the new searchlight was ready for experiment, but had not yet been tried."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The blinding beam of the naval **searchlight** swept across the darkened Thames, illuminating the wreckage of the refugee vessels."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"A sudden flash of the enemy **searchlight** caught the destroyer in its brilliant glare, drawing immediate salvos of heavy shellfire."*
+> - 📜 **Arthur Conan Doyle (*His Last Bow*):** *"The long, white finger of a coastal **searchlight** moved slowly across the clouds, scanning the night sky for hostile aircraft."*

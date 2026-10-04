@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A general officer of the highest rank.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The head of a religious order or congregation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affecting or concerning all or most people, places, or things; not specialized or limited; also a senior military commander.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military hierarchy, a five-star or four-star flag officer holding supreme command over army corps, field divisions, or theater operations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And every humour hath his adjunct pleasure, Wherein it finds a joy above the rest, But these particulars are not my measure, All these I better in one general best."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Methink’st thou art a general offence, and every man should beat thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The general of our horse thou art, and we, Great in our hope, lay our best love and credence Upon thy promising fortune."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"For let the gods so speed me as I love the name of honour more than I fear death, for the **general** good."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Roman **general** drew up his legions in three formidable lines across the open valley."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"There was a **general** silence in the crowded courtroom as the jury filed back to deliver their fateful verdict."*

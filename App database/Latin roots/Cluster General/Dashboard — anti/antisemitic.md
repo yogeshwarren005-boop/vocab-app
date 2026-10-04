@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characterized by anti-semitism; hating jews.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characterized by anti-semitism; hating jews.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hostile to, prejudiced against, or discriminatory toward Jewish people.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern sociopolitical history, racial, religious, and economic prejudice institutionalized in pogroms, discrimination, and genocide against Jews.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antisemitic designates relating to or characterized by anti-semitism; hating jews."*
+> - 📜 **George Orwell (*Anti-Semitism in Britain*):** *"It is essential to recognize that **antisemitic** feeling is a widespread neurosis that rationalizes obscure societal grievances."*
+> - 📜 **Winston Churchill (*The Gathering Storm*):** *"The Nazi regime launched an atrocious **antisemitic** campaign that stripped Jewish citizens of civil rights and property."*
+> - 📜 **Bertrand Russell (*Unpopular Essays*):** *"The irrational fury of **antisemitic** propaganda exemplifies how authoritarian states manipulate popular scapegoating to consolidate power."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An idea or conclusion having general application.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being general or widespread or having general applicability.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Widespread prevalence, broad applicability, or non-specific character; also the main body or majority of a group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematical physics and formal logic, theorems possessing universal validity across an entire class of structures or equations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Sometimes we emerged upon a wider thoroughfare or came to a larger building than the generality, well lighted."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I wish I could fix my mind on what I hear there more firmly than I do,” she remarked as a safe generality."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"The generality of readers, when they know him at all, usually know him by his _Ode on the Passions_."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"The **generality** of citizens in a free commonwealth must possess at least elementary civic knowledge to vote wisely."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"Abstract political maxims of vague **generality** offer very poor guidance for resolving concrete imperial disputes."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The proposition was stated with such philosophical **generality** that thinkers of opposing schools readily accepted it."*

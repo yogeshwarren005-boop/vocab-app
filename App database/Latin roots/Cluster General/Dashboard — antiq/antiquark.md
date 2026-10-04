@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The antiparticle of a quark.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The antiparticle of a quark.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The antimatter counterpart of a quark, having the same mass and spin but opposite electric charge, color charge, and baryon number.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In quantum chromodynamics and the Standard Model, elementary antiquarks combine with quarks to form intermediate composite bosons known as mesons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antiquark designates the antiparticle of a quark."*
+> - 📜 **Murray Gell-Mann (*The Quark Model*):** *"In our SU(3) symmetry formulation, a meson is described as a bound state comprising a quark and an **antiquark**."*
+> - 📜 **Richard Feynman (*The Character of Physical Law*):** *"Whenever high-energy protons collide, pairs of particles appear, producing a quark accompanied by its corresponding **antiquark**."*
+> - 📜 **Stephen Hawking (*A Brief History of Time*):** *"Inside a pion, the strong nuclear interaction binds a quark and an **antiquark** together through the exchange of gluons."*

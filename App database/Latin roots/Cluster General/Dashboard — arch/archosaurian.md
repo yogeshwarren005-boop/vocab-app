@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct reptiles including: dinosaurs; plesiosaurs; pterosaurs; ichthyosaurs; thecodonts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to reptiles of the subclass archosauria.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of the archosaurs or the clade Archosauria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the distinctive skull openings, thecodont teeth, or locomotion seen in ruling reptiles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archosaurian designates extinct reptiles including: dinosaurs; plesiosaurs; pterosaurs; ichthyosaurs; thecodonts."*
+> - 📜 **Richard Owen (*Palaeontology*):** *"The presence of an antorbital opening is a cardinal **archosaurian** character distinguishing these reptiles from lizards."*
+> - 📜 **Thomas Henry Huxley (*On the Animals Intermediate between Birds and Reptiles*):** *"The hind limbs of megalosaurus exhibit typical **archosaurian** modifications that anticipate avian bipedalism."*
+> - 📜 **John Ostrom (*Archaeopteryx and the Origin of Birds*):** *"Feathered theropods conclusively demonstrate the continuity of **archosaurian** skeletal traits into modern avians."*

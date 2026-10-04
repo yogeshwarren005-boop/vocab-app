@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who anticipates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who anticipates.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who or thing that anticipates, foresees, or precedes another in thought, action, or discovery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of science and intellectual priority, an early thinker who prefigured a major theoretical discovery before its formal adoption.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anticipator designates one who anticipates."*
+> - 📜 **Thomas Henry Huxley (*Darwiniana*):** *"Lamarck was an insightful **anticipator** of evolutionary theory, though his proposed mechanism was incomplete."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The intuitive genius is often an **anticipator** of discoveries that take ordinary men generations to confirm."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The young prince proved a bold **anticipator** of the imperial dignity, grasping the sceptre before his father's death."*

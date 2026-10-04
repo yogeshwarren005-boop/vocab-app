@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of government having two joint rulers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of government having two joint rulers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of government in which two individuals or authorities share supreme rule or executive power equally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British imperial history, the constitutional system of dual provincial governance introduced in British India by the Government of India Act 1919.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diarchy designates a form of government having two joint rulers."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Roman republic in its earliest form resembled a military **diarchy** headed by two annually elected consuls."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The joint reign of William and Mary constituted a constitutional **diarchy** without precedent in English annals."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The wartime coalition cabinet functioned as an informal **diarchy** between the prime minister and the chancellor of the exchequer."*

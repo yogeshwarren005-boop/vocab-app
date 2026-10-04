@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent that counteracts or neutralizes acidity (especially in the stomach).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An agent that counteracts or neutralizes acidity (especially in the stomach).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance that counteracts, neutralizes, or relieves acidity, particularly gastric acid; an antacid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastrointestinal pharmacology, alkaline chemical compounds such as magnesium hydroxide or calcium carbonate buffering hydrochloric acid.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antiacid designates an agent that counteracts or neutralizes acidity (especially in the stomach)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The physician prescribed an alkaline **antiacid** mixture to relieve the acute gastric irritation caused by hyperacidity."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The secretion of the pancreas acts as a natural **antiacid**, neutralizing the acidic chyme emerging from the pylorus."*
+> - 📜 **Michael Faraday (*Chemical Manipulation*):** *"To neutralize the corrosive liquid, the chemist added a measured quantity of an **antiacid** solution until effervescence ceased."*

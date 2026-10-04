@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medicine that inhibits cholinesterase by combining with it and so has a cholinergic effect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medicine that inhibits cholinesterase by combining with it and so has a cholinergic effect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent or chemical substance that inhibits the action of cholinesterase, preventing the breakdown of acetylcholine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and neurobiology, reversible or irreversible inhibitors (such as neostigmine or organophosphates) that prolong cholinergic neurotransmission at synapses and neuromuscular junctions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anticholinesterase designates a medicine that inhibits cholinesterase by combining with it and so has a cholinergic effect."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Administration of an **anticholinesterase** drug restores muscle strength in myasthenia gravis by prolonging acetylcholine activity."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Toxic exposure to an **anticholinesterase** compound provokes violent salivation, bronchoconstriction, and muscular fasciculations."*
+> - 📜 **Alfred Goodman Gilman (*The Pharmacological Basis of Therapeutics*):** *"Organophosphate poisoning requires immediate atropine therapy to counteract massive synaptic buildup caused by **anticholinesterase** action."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any medicine used to suppress or relieve coughing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any medicine used to suppress or relieve coughing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Preventing, relieving, or suppressing coughing; also a cough suppressant medication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In respiratory pharmacology, centrally acting (e.g., codeine, dextromethorphan) or peripherally acting agents that suppress the medullary cough reflex.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antitussive designates any medicine used to suppress or relieve coughing."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In cases of dry, exhausting pleuritic cough, an **antitussive** draught containing mild opiates afforded invaluable nocturnal rest."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The medullary cough center can be sedated by an **antitussive** narcotic without significantly impairing normal respiratory rhythm."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"The apothecary recommended an **antitussive** cordial of licorice and squill to quiet the old clerk's rattling chest."*

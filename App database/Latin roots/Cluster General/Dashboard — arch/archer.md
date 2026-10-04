@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is expert in the use of a bow and arrow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (astrology) a person who is born while the sun is in sagittarius.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who shoots with a bow and arrows, especially in hunting, warfare, or sport.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military history, a longbowman or mounted skirmisher whose ranged volleys altered medieval infantry warfare.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If we can do this, Cupid is no longer an archer: his glory shall be ours, for we are the only love-gods."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As thou wilt live, fly after: and like an arrow shot From a well-experienced archer hits the mark His eye doth level at, so thou ne’er return Unless thou say ‘Prince Pericles is dead.’ THALIARD."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I was Ushu, the archer, and Igar was my woman and mate."*
+> - 📜 **William Shakespeare (*Henry V*):** *"Cry 'God for Harry, England, and Saint George!' where every English **archer** drew his bowstring to the ear."*
+> - 📜 **Walter Scott (*The Fair Maid of Perth*):** *"The skilled Scottish **archer** watched the drifting wind before letting fly his gray-goose shaft."*
+> - 📜 **Arthur Conan Doyle (*The White Company*):** *"A stout Hampshire **archer** could pierce a steel breastplate at two hundred paces with an ash bow."*

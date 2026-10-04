@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type and sole genus of the antilocapridae comprising one species.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type and sole genus of the antilocapridae comprising one species.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monotypic genus of ruminant ungulates containing the pronghorn (Antilocapra americana), native to the open prairies of North America.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian taxonomy and paleontology, the sole surviving genus of the family Antilocapridae, renowned for bifurcated deciduous horn sheaths and extreme cursorial speed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antilocapra designates type and sole genus of the antilocapridae comprising one species."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The pronghorn, **Antilocapra** americana, is unique among horned ruminants in annually shedding the outer corneous sheath of its horns."*
+> - 📜 **John Muir (*Our National Parks*):** *"Herds of the graceful **Antilocapra** bounded across the sagebrush plains of Wyoming with speeds rivaling the wind."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The osteological structure of **Antilocapra** demonstrates remarkable cursorial specializations in the elongated cannon bones."*

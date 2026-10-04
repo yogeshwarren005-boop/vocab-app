@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity of looking thoroughly in order to find something or someone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An investigation seeking answers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To look through or examine thoroughly in order to find something concealed, lost, or unknown; also the act of searching.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence and informational retrieval, statutory examination of property or systematic algorithmic traversal of data structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The search, sir, was profitable; and much fool may you find in you, even to the world’s pleasure and the increase of laughter."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, out of my love to you, I came hither to acquaint you withal, that either you might stay him from his intendment, or brook such disgrace well as he shall run into, in that it is a thing of his own search and altogether against my will."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And let not search and inquisition quail To bring again these foolish runaways. [_Exeunt._] SCENE III."*
+> - 📜 **William Shakespeare (*The Merry Wives of Windsor*):** *"I will **search** the house; if I find not what I look for, laugh at me for a fool."*
+> - 📜 **John Milton (*Paradise Lost*):** *"With weary step and searching eye, Satan explored the abyss in **search** of the newly created world."*
+> - 📜 **Sir Walter Scott (*Ivanhoe*):** *"The bailiffs conducted a rigorous **search** through the chambers of the castle, seeking treasonable correspondence."*

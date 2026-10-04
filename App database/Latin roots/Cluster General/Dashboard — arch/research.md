@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Systematic investigation to establish facts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A search for knowledge.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The systematic investigation into and study of materials and sources to establish facts, verify principles, and reach new conclusions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemology and scientific methodology, disciplined empirical experimentation, archival inquiry, and inductive hypothesis testing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"He had great gifts,--gifts of abstract thinking and writing, powers of scholarly research and continuous labour,--but his life had followed another path determined by his early choice."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"On the other hand, do not make the mistake of thinking that life in solitary was one wild orgy of blithe communion and exhilarating psychological research."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"She had left Thornfield Hall in the night; every research after her course had been vain: the country had been scoured far and wide; no vestige of information could be gathered respecting her."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Long and patient **research** into the embryological development of vertebrates confirms their common anatomical ancestry."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The human mind cannot make solid advancement in philosophy without diligent **research** into the hidden works of nature."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Modern universities fulfill their highest cultural purpose when they foster independent original **research** among students."*

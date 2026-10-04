@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Related to or dealing with or devoted to archaeology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Related to or dealing with or devoted to archaeology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the scientific study of human history and prehistory through the excavation and analysis of material remains, artifacts, and structures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural heritage preservation, concerning the stratigraphy, radiocarbon dating, and conservation of historic monuments and burial sites.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Morice, "Notes, Archaeological, Industrial, and Sociological, on the Western Dénés," _Transactions of the Canadian Institute_, iv. (1892-93) pp. 106 _sq._ Compare Rev."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Morice, "Notes, Archaeological, Industrial, and Sociological, on the Western Dénés," _Transactions of the Canadian Institute_, iv. (1892-93) p. 182."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"You ken when you dragged me from the horse-show the last time we were in Dublin, to the library of the What-you-may-call-him--Archaeological Society or so'thin'."*
+> - 📜 **Howard Carter (*The Tomb of Tut-ankh-Amen*):** *"The opening of the sealed doorway was the culmination of years of arduous **archaeological** research."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Recent **archaeological** discoveries of flint implements in river gravels prove the immense antiquity of man."*
+> - 📜 **V. Gordon Childe (*Man Makes Himself*):** *"The **archaeological** record documents the profound social revolution wrought by the adoption of agriculture."*

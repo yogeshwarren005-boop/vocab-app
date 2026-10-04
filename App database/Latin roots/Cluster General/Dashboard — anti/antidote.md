@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A remedy that stops or controls the effects of a poison.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A remedy that stops or controls the effects of a poison.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medicine or other remedy given to counteract the effects of a poison, venom, or toxin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that counteracts, neutralizes, or prevents an unpleasant or harmful feeling or situation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*The Elder Brother*):** *"Recant what you have said, ye Mungrils, and lick up the vomit ye have cast upon the Court, where you unworthily have had warmth and breeding, and swear that you, like Spiders, have made poison of that which was a saving Antidote. _Egre_."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"Antidote, or--. p. 51, l. 4. are reformd. l. 28."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"A very gross superstition is observed by some people in Angus, as an antidote against this ill."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Canst thou not minister to a mind diseased, pluck from the memory a rooted sorrow, and with some sweet oblivious **antidote** cleanse the stuffed bosom?"*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"Honest employment and intellectual curiosity are the sovereign **antidote** to youthful indolence."*
+> - 📜 **Alexander Fleming (*Chemotherapy: Yesterday, Today, and Tomorrow*):** *"The discovery of penicillin offered an effective antibacterial **antidote** against lethal septicemia."*

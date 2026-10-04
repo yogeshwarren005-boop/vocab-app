@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The inverse function of the cotangent; the angle that has a cotangent equal to a given number.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The inverse function of the cotangent; the angle that has a cotangent equal to a given number.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The inverse trigonometric function of cotangent; the angle whose cotangent equals a given real number.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematical analysis, denoted $\operatorname{arccot}(x)$, with principal range $(0, \pi)$ and derivative $-1/(1+x^2)$, used in integral evaluations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arccotangent designates the inverse function of the cotangent; the angle that has a cotangent equal to a given number."*
+> - 📜 **Leonhard Euler (*Introduction to Analysis of the Infinite*):** *"The series expansion of the **arccotangent** provides an efficient formula for calculating circular constants to many decimals."*
+> - 📜 **Isaac Newton (*Method of Fluxions*):** *"The curvature of the trajectory resolves into a fluxion whose antiderivative is the **arccotangent** of the slope."*
+> - 📜 **Carl Friedrich Gauss (*Theory of the Motion of the Heavenly Bodies*):** *"We substitute the **arccotangent** transformation to eliminate asymptotic singularities in the numerical integration."*

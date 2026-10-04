@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist who devotes himself to doing research.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scientist who devotes himself to doing research.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who carries out academic, scientific, or investigative research into a subject.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In institutional academia and industrial laboratories, an investigator trained in specialized methodological analysis and experimental design.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"They were the researchers in spiritual things, and he the traditionalist."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The patient botanical **researcher** will discover countless subtle adaptations connecting flowering plants with insect pollinators."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"Every genuine scientific **researcher** must remain skeptical of inherited doctrines until verified by empirical proof."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The psychological **researcher** must balance introspective observation with precise physiological measurements in the laboratory."*

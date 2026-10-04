@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An elderly man.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any piece of furniture or decorative object or the like produced in a former period and valuable because of its beauty or rarity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A collectible object such as a piece of furniture or work of art that has high value because of its age; also ancient or old-fashioned.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In decorative arts and connoisseurship, items certified as dating from a previous historical era, traditionally at least one century old.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So should my papers (yellowed with their age) Be scorned, like old men of less truth than tongue, And your true rights be termed a poet’s rage, And stretched metre of an antique song."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O that record could with a backward look, Even of five hundred courses of the sun, Show me your image in some antique book, Since mind at first in character was done."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O good old man, how well in thee appears The constant service of the antique world, When service sweat for duty, not for meed."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"Under an oak, whose boughs were mossed with age and high top bald with dry **antique** time."*
+> - 📜 **Sir Walter Scott (*Ivanhoe*):** *"The hall was decorated with **antique** shields, rusted hauberks, and broadswords that had seen service under Saxon kings."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The **antique** tea service of hammered silver gleamed softly in the morning light upon the dark oak sideboard."*

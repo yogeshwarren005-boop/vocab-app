@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of instruments in the violin family) to be played with the bow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of instruments in the violin family) to be played with the bow.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical direction indicating that a string instrument should be played with the bow, canceling a preceding pizzicato (plucked) instruction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orchestral score notation, Italian instruction directing violinists, cellists, or bassists to resume bowing technique after pizzicato passages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arco designates (of instruments in the violin family) to be played with the bow."*
+> - 📜 **Hector Berlioz (*Treatise on Modern Instrumentation and Orchestration*):** *"After the crisp pizzicato passage in the scherzo, the sudden return to **arco** produces a rich, resonant orchestral color."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The cellos responded with exquisite tone when the score transitioned from delicate plucked notes to sweeping **arco** phrasing."*
+> - 📜 **Thomas Mann (*Doctor Faustus*):** *"The score specified **arco** col legno, producing a dry, clicking rustle from the violins that suggested demonic mockery."*

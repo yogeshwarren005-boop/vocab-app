@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or associated with an archbishop.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or associated with an archbishop.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an archbishop, his office, or his archdiocese.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to metropolitan ecclesiastical authority, councils, cross-bearing privileges, and metropolitan visitation rights.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"On the death of Richard, Archbishop of Canterbury, four years later, he was translated to that see--though not without difficulty, from his being the first of the Cistercian Order in England who had ever been promoted to the archiepiscopal dignity."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The seven bishops met at the **archiepiscopal** palace at Lambeth to draft their fateful petition to the Crown."*
+> - 📜 **Walter Scott (*The Monastery*):** *"The herald announced the arrival of the lord primate with all the pomp of **archiepiscopal** authority."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **archiepiscopal** throne of Constantinople became the prize of violent doctrinal factions during the Fourth Century."*

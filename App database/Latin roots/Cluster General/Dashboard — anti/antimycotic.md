@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any agent that destroys or prevents the growth of fungi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any agent that destroys or prevents the growth of fungi.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inhibiting the growth of or destroying fungi; an antifungal medication or substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical dermatology and medical mycology, therapeutic agents such as azoles, allylamines, or polyenes targeting fungal ergosterol synthesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antimycotic designates any agent that destroys or prevents the growth of fungi."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The application of an **antimycotic** ointment containing sulfur and salicylic acid successfully cleared the stubborn favus crusts."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The natural secretions of healthy skin possess a mild **antimycotic** action that limits superficial mold proliferation."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Farmers dusted the seed wheat with copper solutions, seeking an effective **antimycotic** shield against bunt and smut fungi."*

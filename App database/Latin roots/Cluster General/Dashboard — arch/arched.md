@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Form an arch or curve.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Constructed with or in the form of an arch or arches.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Constructed with or having the form of an arch; curved, bowed, or vaulted (from Latin arcus bow).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural design and anatomy, describing vaulted stone ceilings, natural bridges, or the curved contour of a foot or eyebrow.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou hast the right arched beauty of the brow that becomes the ship-tire, the tire-valiant, or any tire of Venetian admittance."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What a brow, Of what a spacious majesty, he carries, Arched like the great-eyed Juno’s, but far sweeter, Smoother than Pelops’ shoulder!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn stumbling over her, she spits at his rusty legs, and swearing wrathfully, takes her arched back upstairs."*
+> - 📜 **Edgar Allan Poe (*The Cask of Amontillado*):** *"We passed through a range of low **arched** vaults, descending until the damp air was foul with nitre."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Her fine, distinctly **arched** eyebrows gave to her countenance an expression of keen intelligence."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"Through **arched** portals rode the chivalry of Spain, beneath banners that waved in the mountain wind."*

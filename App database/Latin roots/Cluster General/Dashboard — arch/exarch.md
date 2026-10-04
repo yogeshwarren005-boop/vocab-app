@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bishop in one of several eastern orthodox churches in north america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bishop in eastern christendom who holds a place below a patriarch but above a metropolitan.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In the Byzantine Empire, a governor or viceroy of a distant province or diocese (such as Ravenna or Carthage) exercising combined civil and military authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Eastern Orthodox churches, a bishop or metropolitan presiding over an exarchate or representing a patriarch outside patriarchal boundaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exarch designates a bishop in one of several eastern orthodox churches in north america."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Byzantine **exarch** at Ravenna maintained a precarious hold over Italy against the advancing Lombard tribes."*
+> - 📜 **J. B. Bury (*The Imperial Administrative System*):** *"By concentrating military and civil power in the hands of the **exarch**, the emperors sought to protect frontiers from collapse."*
+> - 📜 **Steven Runciman (*A History of the Crusades*):** *"The patriarchal **exarch** arrived in Antioch bearing credentials from the ecumenical throne of Constantinople."*

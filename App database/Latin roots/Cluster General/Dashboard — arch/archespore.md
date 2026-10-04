@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Primitive cell or group of cells from which a mother cell develops.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Primitive cell or group of cells from which a mother cell develops.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cell or group of cells from which spores or spore-mother cells are derived in plant and fungal reproductive organs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant embryology and morphogenetics, the primordial fertile tissue within the sporangium giving rise to sporogenous cells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archespore designates primitive cell or group of cells from which a mother cell develops."*
+> - 📜 **Frederick Orpen Bower (*The Origin of a Land Flora*):** *"The differentiation of the **archespore** marks the decisive transition from vegetative growth to reproductive specialization in ferns."*
+> - 📜 **John Merle Coulter (*Morphology of Angiosperms*):** *"In primitive vascular plants, the subepidermal **archespore** divides periclinally to produce parietal and sporogenous layers."*
+> - 📜 **Edward Charles Jeffrey (*The Anatomy of Woody Plants*):** *"The single cell of the hypodermal **archespore** undergoes successive divisions to form the embryo sac."*

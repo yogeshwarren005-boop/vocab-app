@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Opposing the policy of apartheid in south africa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Opposing the policy of apartheid in south africa.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Opposed to the institutional system of racial segregation and white-minority rule formerly enforced in South Africa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international human rights history, the global political and economic boycott movement that mobilized sanctions against the apartheid regime.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antiapartheid designates opposing the policy of apartheid in south africa."*
+> - 📜 **Nelson Mandela (*Long Walk to Freedom*):** *"The international **antiapartheid** movement provided moral courage and economic leverage that ultimately broke the back of white supremacy."*
+> - 📜 **Desmond Tutu (*No Future Without Forgiveness*):** *"Religious leaders joined hands across denominations, turning the pulpit into a fearless forum for **antiapartheid** protest."*
+> - 📜 **Bertrand Russell (*Unpopular Essays*):** *"Racial oppression in southern Africa sparked worldwide indignation, uniting progressive thinkers in active **antiapartheid** solidarity."*

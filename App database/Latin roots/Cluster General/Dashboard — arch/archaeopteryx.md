@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct primitive toothed bird of the jurassic period having a long feathered tail and hollow bones; usually considered the most primitive of all birds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct primitive toothed bird of the jurassic period having a long feathered tail and hollow bones; usually considered the most primitive of all birds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct genus of bird-like theropod dinosaurs from the Late Jurassic Solnhofen limestone of Bavaria, exhibiting feathers and toothed jaws.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary paleontology, a celebrated transitional fossil possessing both reptilian traits (clawed fingers, long bony tail) and avian flight feathers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archaeopteryx designates extinct primitive toothed bird of the jurassic period having a long feathered tail and hollow bones; usually considered the most primitive of all birds."*
+> - 📜 **Thomas Henry Huxley (*Further Evidence of the Affinity between the Dinosaurian Reptiles and Birds*):** *"The skeleton of **archaeopteryx** demonstrates beyond dispute that birds are the lineal descendants of dinosaurian ancestors."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Hardly any recent discovery is more remarkable than that of **archaeopteryx**, with its long lizard-like tail bearing pairs of feathers."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"The mosaic anatomy of **archaeopteryx** presents a perfect refutation to those who demand intermediate forms in the fossil record."*

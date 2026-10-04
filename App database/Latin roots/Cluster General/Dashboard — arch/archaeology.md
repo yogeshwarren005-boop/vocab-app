@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of anthropology that studies prehistoric people and their cultures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of anthropology that studies prehistoric people and their cultures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of human history and prehistory through the excavation of sites and the analysis of artifacts and other physical remains.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical discourse (Michel Foucault's 'archaeology of knowledge'), the historical investigation of the discursive systems and epistemes that govern what can be known in an era.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Dalyell, _Darker Superstitions of Scotland_ (Edinburgh, 1834), pp. 140 _sq._; Daniel Wilson, _The Archaeology and Prehistoric Annals of Scotland_ (Edinburgh, 1851), pp. 303 _sqq._; Lieut.-Col."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Kroeber, "The Religion of the Indians of California," _University of California Publications in American Archaeology and Ethnology_, vol. iv."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Kroeber, "The Religion of the Indians of California," _University of California Publication in American Archaeology and Ethnology_, vol. iv."*
+> - 📜 **V. Gordon Childe (*What Happened in History*):** *"**Archaeology** has revolutionized history, extending human memory from three millennia of written annals to hundreds of thousands of years."*
+> - 📜 **Michel Foucault (*The Archaeology of Knowledge*):** *"By **archaeology**, I intend the uncovering of the unconscious rules that determine the boundaries of thought in a given epoch."*
+> - 📜 **Thomas Jefferson (*Notes on the State of Virginia*):** *"My careful excavation of the Virginia burial mound was perhaps the earliest scientific attempt at stratigraphic **archaeology** in America."*

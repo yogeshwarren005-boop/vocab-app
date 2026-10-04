@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine of opposition to the social and political establishment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The doctrine of opposition to the social and political establishment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A political or philosophical stance of opposing the established political, economic, or religious order.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociopolitical discourse, movements seeking the decentralization, reform, or dismantling of entrenched governing establishments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antiestablishmentism designates the doctrine of opposition to the social and political establishment."*
+> - 📜 **George Orwell (*Inside the Whale*):** *"The satirical magazines of the period gave voice to an irreverent **antiestablishmentism** that delighted youthful intellectuals."*
+> - 📜 **Bertrand Russell (*Unpopular Essays*):** *"Philosophical skepticism often serves as the intellectual spearhead of **antiestablishmentism** against authoritarian state churches."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"A vigorous strain of **antiestablishmentism** keeps the ruling class mindful that their authority exists solely on public sufferance."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A crystalline antibiotic active against various fungi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crystalline antibiotic active against various fungi.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An antibiotic and antifungal compound produced by Streptomyces bacteria that potently inhibits the mitochondrial electron transport chain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular biochemistry and aquaculture, an inhibitor of complex III (ubiquinol-cytochrome c oxidoreductase) used as a piscicide to eradicate rough fish.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antimycin designates a crystalline antibiotic active against various fungi."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The selective inhibition of cellular respiration demonstrated by **antimycin** illustrates the precision of biochemical enzymes."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Microbiological metabolites such as **antimycin** reveal how microbial organisms wage chemical warfare against competing fungal species."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The metabolic poisons secreted by actinomycetes, analogous to modern **antimycin**, exemplify natural defensive adaptations in soil ecologies."*

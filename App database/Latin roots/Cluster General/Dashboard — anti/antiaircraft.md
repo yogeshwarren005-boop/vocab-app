@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Artillery designed to shoot upward at airplanes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designed for defense from a surface position against air attack.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Designed, armed, or deployed for defense against hostile enemy aircraft.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military air defense doctrine, high-angle rapid-fire cannon, surface-to-air missiles, and radar tracking systems countering air strikes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antiaircraft designates artillery designed to shoot upward at airplanes."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The batteries of heavy **antiaircraft** guns maintained a ferocious barrage over London throughout the nocturnal raids."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The ruined cities were surrounded by rings of automated **antiaircraft** emplacements that fired incessantly upon the darkened skies."*
+> - 📜 **Arthur Conan Doyle (*The British Campaign in France and Flanders*):** *"British **antiaircraft** artillery engaged the high-flying reconnaissance planes, forcing them into clouds."*

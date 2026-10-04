@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The science of architecture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The science of architecture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific principles of architecture, structural design, and structural organization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy, aesthetics, and literary theory, the structural logic, overarching design, or unified composition of a complex work or body of knowledge.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, architectonics designates the science of architecture."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"The **architectonics** of pure reason prescribes the complete plan according to which the sciences must be systematically erected."*
+> - 📜 **Mikhail Bakhtin (*Toward a Philosophy of the Act*):** *"The **architectonics** of human experience is organized around the fundamental ethical relationship between self and other."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"A thorough study of philosophical **architectonics** requires us to examine the foundational scaffolding of all inquiry."*

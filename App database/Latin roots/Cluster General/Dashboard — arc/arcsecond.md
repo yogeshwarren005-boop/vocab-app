@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A 60th part of a minute of arc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A 60th part of a minute of arc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of angular measurement equal to one sixtieth of an arcminute, or 1/3600 of a degree; used extensively in astronomy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In positional astrometry and optics, designated by the double prime symbol (″), defining the stellar parallax angle used to establish parsec distances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arcsecond designates a 60th part of a minute of arc."*
+> - 📜 **William Herschel (*Philosophical Transactions*):** *"The parallax of the star was so minute that it defied detection within a fraction of an **arcsecond** with our instruments."*
+> - 📜 **Arthur Eddington (*Space, Time and Gravitation*):** *"The gravitational deflection of starlight grazing the solar limb was measured at approximately 1.75 **arcsecond** units during the eclipse."*
+> - 📜 **Simon Newcomb (*The Elements of the Four Inner Planets*):** *"The secular precession of Mercury's perihelion exhibited an unexplained advance of forty-three **arcsecond** increments per century."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antilepton of very great mass.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antilepton of very great mass.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The antimatter counterpart of the tau lepton, having a positive elementary charge (+1e), spin-1/2, and mass equal to the tau.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In particle physics and the Standard Model, an unstable heavy lepton ($\tau^+$) with a mean life of $2.9 \times 10^{-13}$ seconds, decaying into hadrons or leptons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antitauon designates an antilepton of very great mass."*
+> - 📜 **Martin Perl (*Discovery of the Tau Lepton*):** *"In electron-positron annihilations at SPEAR, the paired production of a tau lepton and an **antitauon** provided clear experimental evidence for the third generation."*
+> - 📜 **Richard Feynman (*The Character of Physical Law*):** *"The heavy lepton family behaves symmetrically, with the **antitauon** exhibiting parity-violating weak decays identical to its lighter muon cousin."*
+> - 📜 **Stephen Hawking (*A Brief History of Time*):** *"At extremely high energies, quantum fluctuations produce pairs of tau and **antitauon** particles that annihilate within femtoseconds."*

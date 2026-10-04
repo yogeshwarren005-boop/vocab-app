@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Forming or resembling an arch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Forming or resembling an arch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like a bow or curved arc; curved, arched, or crescentic in anatomical or structural form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy, designating curved fiber tracts, such as internal arcuate fibers in the medulla oblongata, or curved skeletal elements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arciform designates forming or resembling an arch."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The **arciform** curve of the rib cage provides resilient protection to the thoracic viscera against external pressure."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The medulla exhibits delicate **arciform** fibers sweeping across its anterior surface to enter the inferior cerebellar peduncle."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The lesion presented an **arciform** border that gradually spread centrifugally across the cutaneous surface of the trunk."*

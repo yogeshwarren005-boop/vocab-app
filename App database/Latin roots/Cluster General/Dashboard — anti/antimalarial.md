@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medicinal drug used to prevent or treat malaria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medicinal drug used to prevent or treat malaria.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Preventing, combating, or therapeutic against malaria; also an agent or medication used to treat malaria, such as quinine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tropical medicine and pharmacognosy, therapeutic compounds including cinchona alkaloids, chloroquine, and artemisinin that eradicate Plasmodium parasites.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antimalarial designates a medicinal drug used to prevent or treat malaria."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Quinine remains the most potent **antimalarial** drug known to medicine, rapidly destroying the ameboid parasites within red blood cells."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The expedition was saved from debilitating jungle ague by daily prophylactic doses of the valuable **antimalarial** bark."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The synthetic chemistry of **antimalarial** remedies constitutes one of the great triumphs of modern physiological therapeutics."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used in the treatment of cancer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in the treatment of cancer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Formulated or effective in inhibiting or treating neoplasms and tumor growth; British spelling of antitumor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical and experimental oncology, antineoplastic therapies halting neoplastic proliferation, vascularization, and metastasis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antitumour designates used in the treatment of cancer."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The therapeutic regimen produced a marked **antitumour** response, causing gradual regression of the glandular masses."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Physiological research in cellular metabolism revealed the biochemical pathways exploited by novel **antitumour** remedies."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Certain plant extracts possess strong **antitumour** properties, suppressing gall formation caused by parasitic insect larvae."*

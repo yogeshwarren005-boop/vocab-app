@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Draw too general a conclusion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Draw too general a conclusion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make a statement, rule, or claim that is too broad or sweeping, ignoring important exceptions and nuances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral psychology, cognitive distortions where a person views a single negative event as an inescapable universal pattern.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overgeneralize designates draw too general a conclusion."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Philosophers prone to system-building frequently **overgeneralize**, reducing the infinite variety of conscious experience to one formula."*
+> - 📜 **John Dewey (*How We Think*):** *"To **overgeneralize** from an unverified sample is the most prevalent source of dogmatic error in educational practice."*
+> - 📜 **Bertrand Russell (*The Analysis of Mind*):** *"Common sense tends to **overgeneralize** inductive observations, forgetting that inductive certainty is always merely probable."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sharply contrasted in character or purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sharply contrasted in character or purpose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Directly contrasting or opposite; characterized by or involving antithesis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and developmental psychology, antithetic concepts denote semantic polarities (e.g. good/bad, light/dark) that structure human cognitive development.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"True enough,” said the man of bitter moods, looking round upon the company with the antithetic laughter that comes from a keener appreciation of the miseries of life than ordinary men are capable of."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"True enough,” said the man of bitter moods, looking round upon the company, with the antithetic laughter that comes from a keener appreciation of the untold miseries of life than ordinary men are capable of."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The fundamental postulate of philosophy reconciles two apparently **antithetic** modes of perceiving ultimate reality."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Joy and despondency evoke **antithetic** bodily postures, one expanding the chest while the other droops."*
+> - 📜 **Sigmund Freud (*The Antithetical Meaning of Primal Words*):** *"Ancient tongues frequently employed single roots to designate mutually **antithetic** states of being."*

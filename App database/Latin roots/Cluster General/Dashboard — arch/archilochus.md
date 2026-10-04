@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of trochilidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of trochilidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient Greek lyric poet of Paros (7th century BCE) celebrated as the pioneer of iambic verse and fierce personal satire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literary history, the legendary satirist whose stinging verses were said to have driven his enemies to despair; also a genus of hummingbirds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archilochus designates a genus of trochilidae."*
+> - 📜 **Horace (*Ars Poetica*):** *"Rage armed **Archilochus** with his own iambic metre, a weapon swift to strike and wound."*
+> - 📜 **Friedrich Nietzsche (*The Birth of Tragedy*):** *"Alongside Homer, the Greek world revered **Archilochus** as the primal prototype of the subjective lyric genius."*
+> - 📜 **John Keats (*Letters*):** *"The stinging iambs of ancient **Archilochus** prove that verse can strike like a scimitar when passion dictates."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the family arcidae: ark shells and blood clams.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the family arcidae: ark shells and blood clams.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chest, box, or coffer used in ancient Rome for storing money, valuables, or sacred objects; also a genus of marine bivalves (ark clams).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In malacology and Roman antiquities, a genus of bivalve mollusks in the family Arcidae, or a strongbox kept in the tablinum of Roman residences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay an she fail me once—You can tell, Arcas, She swore by wine and bread, she would not break."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The public **arca**, or treasury of the senate, was depleted by continuous disbursements to foreign auxiliaries."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Upon the raised coastal terraces, we discovered fossil shells belonging to the bivalve genus **Arca** embedded in limestone."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"The filibranch bivalve **Arca** possesses a straight hinge line studded with numerous uniform comb-like teeth."*

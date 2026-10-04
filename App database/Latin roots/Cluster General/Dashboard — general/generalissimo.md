@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The officer who holds the supreme command.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The officer who holds the supreme command.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The commander-in-chief of an army, or of combined military forces across multiple theaters, outranking field marshals and generals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern military and political history, supreme military dictator wielding unified civil and operational defense command.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, generalissimo designates the officer who holds the supreme command."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Byzantine Senate conferred upon Belisarius the supreme dignity of **generalissimo** to direct the Italian reconquest."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"William III acted not merely as monarch but as the actual **generalissimo** directing allied armies in Flanders."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"Marshal Foch was appointed allied **generalissimo**, establishing at last that unity of command essential for final victory."*

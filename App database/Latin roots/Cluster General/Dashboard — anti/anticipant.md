@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who anticipates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by eager anticipation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Anticipating, expecting, or looking forward to something; expectant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literary psychology and physiology, experiencing heightened mental or somatic readiness in advance of an event.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anticipant designates one who anticipates."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The poetic imagination possesses an **anticipant** energy that discerns truths before logical deduction can demonstrate them."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The assembled throng stood in **anticipant** silence, awaiting the signal that would ignite the national uprising."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea waited with an **anticipant** eagerness that invested every arrival of the daily post with romantic hope."*

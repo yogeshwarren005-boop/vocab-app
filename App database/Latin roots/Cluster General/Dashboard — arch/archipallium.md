@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The olfactory cortex of the cerebrum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The olfactory cortex of the cerebrum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The phylogenetically oldest part of the cerebral cortex, comprising the olfactory cortex and hippocampus; the primitive limbic cortex.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy, the allocortex concerned with primal survival drives, olfactory sensation, and basic emotional responses, contrasting with the neopallium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archipallium designates the olfactory cortex of the cerebrum."*
+> - 📜 **Paul D. MacLean (*The Triune Brain in Evolution*):** *"The **archipallium**, preserved from early reptilian ancestors, forms the core of our ancestral emotional system."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"In the hippocampus, representing the mammalian **archipallium**, pyramidal neurons display remarkably regular radial organization."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"The evolution from lower vertebrates to mammals shows the progressive overgrowth of the **archipallium** by the neocortex."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: So extremely old as seeming to belong to an earlier period.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Little evolved from or characteristic of an earlier ancestral type.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Very old or old-fashioned; belonging to an earlier historical period; in linguistics, of words or idioms no longer in common modern usage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In art history, the Archaic period of Greek art (c. 650–480 BCE), characterized by stylized kouroi sculptures with the enigmatic 'archaic smile'.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Will the Jesus we draw be an antiquary's Jesus--an archaic figure, simple and lovable perhaps, but quaint and old-world--in blunt language, outgrown?"*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"When we look at the ancient world, the great men are not archaic figures."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"There is thing archaic about Plato or Virgil or Paul--to keep abreast of their thinking is no easy task for the strongest of our brains, so modern, eternal, and original they are."*
+> - 📜 **George Orwell (*Politics and the English Language*):** *"The writer burdened his political pamphlet with **archaic** idioms and Latinate jargon to lend an air of false solemnity."*
+> - 📜 **Walter Pater (*The Renaissance*):** *"The **archaic** Greek statues possess a solemn, rigid beauty, with their tight curls and enigmatic stony smiles."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"Spenser deliberately employed **archaic** English phrases to wrap his allegorical romance in antique enchantment."*

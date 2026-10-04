@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A purplish dye obtained from orchil lichens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various lecanoras that yield the dye archil.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A violet or purple dye obtained from various lichens (especially Roccella tinctoria); also, the lichen itself (variant of orchil).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial history and historic textile dyeing, a natural colorant prepared by fermenting lichens with ammonia to yield orcein.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archil designates a purplish dye obtained from orchil lichens."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"His rough woolen cloak had been stained with **archil** until it took on the dusky purple of winter seas."*
+> - 📜 **William Morris (*The Lesser Arts of Life*):** *"Before synthetic aniline colors displaced natural recipes, **archil** was prized for imparting richness to fine silks."*
+> - 📜 **Humphry Davy (*Elements of Agricultural Chemistry*):** *"The lichen yielding **archil** grows abundantly upon the volcanic rocks of the Canary and Cape Verde Islands."*

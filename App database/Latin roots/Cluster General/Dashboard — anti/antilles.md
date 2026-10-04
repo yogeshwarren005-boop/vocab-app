@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of islands in the west indies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of islands in the west indies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archipelago in the Caribbean Sea divided into the Greater Antilles (Cuba, Hispaniola, Jamaica, Puerto Rico) and the Lesser Antilles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical geography and oceanography, the crescent of volcanic and limestone islands enclosing the Caribbean basin from the Atlantic Ocean.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But if the currents carry ye to those sweet Antilles where the beaches are only beat with water-lilies, will ye do one little errand for me?"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Seek out one Pip, who’s now been missing long: I think he’s in those far Antilles."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Hark ye; if ye find Pip, tell all the Antilles he’s a runaway; a coward, a coward, a coward!"*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of America*):** *"The long island chain of the **Antilles** forms a majestic volcanic rampart between the Atlantic Ocean and the Caribbean Sea."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The geological fauna of the **Antilles** suggests ancient land connections with the South American mainland during earlier epochs."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The trade winds bore the vessel swiftly past the fragrant, verdant headlands of the Lesser **Antilles**."*

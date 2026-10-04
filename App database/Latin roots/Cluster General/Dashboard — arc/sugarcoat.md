@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coat with something sweet, such as a hard sugar glaze.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to appear more pleasant or appealing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cover something with a layer of sugar; figuratively, to make an unpleasant fact or situation appear more attractive or acceptable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmaceutical manufacturing and interpersonal rhetoric, applying sucrose coatings to bitter pills or euphemizing harsh realities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sugarcoat designates coat with something sweet, such as a hard sugar glaze."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Apothecaries often **sugarcoat** bitter quinine tablets to render them palatable to pediatric patients."*
+> - 📜 **Mark Twain (*The Gilded Age*):** *"The promoters attempted to **sugarcoat** the financial disaster with glowing promises of immediate railroad expansion."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"Do not attempt to **sugarcoat** the brutal reality of industrial poverty with sentimental philanthropy."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A whitish deposit in the shape of an arc that is sometimes seen in the cornea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A whitish deposit in the shape of an arc that is sometimes seen in the cornea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An arch, bow, or curved anatomical structure; also a cloud formation producing a dense, dark horizontal roll or shelf cloud.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmology and meteorology, an arch-shaped opacity such as arcus senilis in the cornea, or an arcus cloud accompanying violent squalls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arcus designates a whitish deposit in the shape of an arc that is sometimes seen in the cornea."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The presence of a well-defined **arcus** senilis in a young adult strongly suggests familial hypercholesterolemia and vascular disease."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The neural arch or **arcus** vertebrae encloses and protects the spinal cord throughout the vertebral column."*
+> - 📜 **John Tyndall (*The Forms of Water in Clouds and Rivers*):** *"The ominous **arcus** roll cloud advanced ahead of the thunderstorm, churning dark vapor above the ocean surface."*

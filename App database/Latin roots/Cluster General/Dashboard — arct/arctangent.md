@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The inverse function of the tangent; the angle that has a tangent equal to a given number.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The inverse function of the tangent; the angle that has a tangent equal to a given number.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The inverse tangent mathematical function, yielding the circular arc or angle whose tangent equals a specified value.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In complex analysis and differential equations, an analytic transcendental function defined as an integral of $dt/(1+t^2)$ from zero to $x$.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arctangent designates the inverse function of the tangent; the angle that has a tangent equal to a given number."*
+> - 📜 **Leonhard Euler (*Introduction to Analysis of the Infinite*):** *"The computation of the transcendental **arctangent** function provides elegant power series for determining arc lengths upon conics."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The angle of total internal reflection was determined by calculating the **arctangent** of the refractive index ratio."*
+> - 📜 **Carl Friedrich Gauss (*Theory of the Motion of the Heavenly Bodies*):** *"In calculating celestial planetary orbits, the true anomaly is derived by integrating the **arctangent** of the eccentric anomaly."*

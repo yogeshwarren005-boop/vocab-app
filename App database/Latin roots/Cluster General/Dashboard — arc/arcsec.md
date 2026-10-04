@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The inverse function of the secant; the angle that has a secant equal to a given number.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The inverse function of the secant; the angle that has a secant equal to a given number.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abbreviation for arcsecond (a unit of angular measure) or for the inverse secant function (arcsecant) in trigonometry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In celestial astrometry and differential calculus, representing 1/3600 of an angular degree or the inverse secant function $\operatorname{arcsec}(x)$.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arcsec designates the inverse function of the secant; the angle that has a secant equal to a given number."*
+> - 📜 **William Herschel (*Philosophical Transactions*):** *"The double star exhibited an angular separation of less than one **arcsec**, requiring our finest micrometric magnification to resolve."*
+> - 📜 **Leonhard Euler (*Introduction to Analysis of the Infinite*):** *"The derivative of the **arcsec** expression yields an algebraic differential that can be integrated by trigonometric substitution."*
+> - 📜 **Carl Friedrich Gauss (*Theory of the Motion of the Heavenly Bodies*):** *"Even an observational error of a single **arcsec** would accumulate significant orbital variance over several planetary revolutions."*

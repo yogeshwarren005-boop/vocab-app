@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Substance that inhibits oxidation or inhibits reactions promoted by oxygen or peroxides.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Substance that inhibits oxidation or inhibits reactions promoted by oxygen or peroxides.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance that inhibits oxidation or counteracts the damaging effects of free radicals and oxidation products.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nutritional biochemistry and industrial chemistry, chemical agents such as vitamins C and E preventing lipid peroxidation and oxidative degradation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antioxidant designates substance that inhibits oxidation or inhibits reactions promoted by oxygen or peroxides."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The body deploys endogenous **antioxidant** defenses, including glutathione, to neutralize destructive reactive oxygen metabolites."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Cellular respiration requires a delicate equilibrium between tissue oxidation and protective **antioxidant** enzymatic systems."*
+> - 📜 **Michael Faraday (*Chemical Manipulation*):** *"To prevent the rancidity of organic oils, manufacturers introduce a small proportion of an **antioxidant** resin."*

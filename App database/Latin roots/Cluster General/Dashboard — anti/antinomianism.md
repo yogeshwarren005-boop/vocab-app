@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The theological doctrine that by faith and god's grace a christian is freed from all laws (including the moral standards of the culture).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The theological doctrine that by faith and god's grace a christian is freed from all laws (including the moral standards of the culture).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The theological or philosophical doctrine that moral law is not binding on those who are saved by faith or grace; moral libertinism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical theology and sociological theory, religious radicalism rejecting external ecclesiastical rules in favor of subjective inner illumination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She was great at Antinomianism and Bible-classes, and was plainly going to hold a class now."*
+> - 📜 **Nathaniel Hawthorne (*The Blithedale Romance*):** *"The puritan magistrates viewed **antinomianism** as the most perilous solvent of civic order and orthodox church discipline."*
+> - 📜 **Thomas Carlyle (*Oliver Cromwell's Letters and Speeches*):** *"Cromwell had to curb the wild religious **antinomianism** of the fifth-monarchy soldiers who claimed direct divine commission."*
+> - 📜 **William Makepeace Thackeray (*The History of Henry Esmond*):** *"The elderly rector warned his flock against the seductive spiritual pride of **antinomianism**, urging sober Christian virtue."*

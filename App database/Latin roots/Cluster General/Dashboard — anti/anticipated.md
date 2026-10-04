@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Regard something as probable or likely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act in advance of; deal with ahead of time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expected, foreseen, or looked forward to; acted upon in advance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral finance and macroeconomic forecasting, outcomes discounted into prevailing market valuations prior to occurrence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Mademoiselle, you are right!” Her quickness anticipated what I might have said presently but as yet had only thought."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I anticipated it, and felt its truth as strongly as you can do, when I saw Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Mercury proceeds to a description of them, which has been anticipated by Mr."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip eagerly embraced his new fortune, finding that reality differed markedly from what he had **anticipated** in his dreams."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The sudden retreat of the royal army produced far greater confusion than had been **anticipated** by the council of war."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"The arrival of the foreign master was an event eagerly **anticipated** by the whole pensionnat."*

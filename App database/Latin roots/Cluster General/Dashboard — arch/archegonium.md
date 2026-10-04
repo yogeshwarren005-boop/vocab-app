@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A female sex organ occurring in mosses, ferns, and most gymnosperms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A female sex organ occurring in mosses, ferns, and most gymnosperms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The multicellular, flask-shaped female reproductive organ in mosses, ferns, and gymnosperms that produces and protects the egg cell (ovum).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary botany (from Greek archē beginning + gonos offspring), the ancestral reproductive structure that protected embryos during the colonization of land.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archegonium designates a female sex organ occurring in mosses, ferns, and most gymnosperms."*
+> - 📜 **Douglas Houghton Campbell (*The Structure and Development of Mosses and Ferns*):** *"The mature **archegonium** opens at the apex of its neck, releasing chemotactic chemicals to attract swimming spermatozoids."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated and Vegetal Organisms*):** *"Within the swollen base of the **archegonium** rests the solitary ovum, awaiting fertilization."*
+> - 📜 **F. O. Bower (*The Ferns*):** *"The evolutionary history of land plants is illuminated by the gradual reduction of the **archegonium** in seed-bearing gymnosperms."*

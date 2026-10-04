@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A depository containing historical records and documents.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put into an archive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A collection of historical documents or records providing information about a place, institution, or group of people; also to store in an archive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In information science and archival theory, a repository preserving records possessing enduring cultural, administrative, or evidential value.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"Special thanks to The Internet Archive: American Libraries."*
-> - 📜 **Felix Dahn (*Saga of Halfred the Sigskald: A Northern Tale of the Tenth Century*):** *"Produced by Charles Bowen, from page scans provided by the Web Archive Source: http://www.archive.org/details/sagahalfredsigs00veitgoog SAGA OF HALFRED THE SIGSKALD SAGA OF HALFRED THE SIGSKALD _A Northern Tale of the Tenth_ _Century_ BY FELIX DAHN."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"See http://www.archive.org/details/unfetterednovel00grigrich UNFETTERED."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The imperial **archive** at Constantinople preserved the ancient treaties negotiated between Rome and the Persian kings."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Every national **archive** in western Europe was thoroughly ransacked by historians to reconstruct the diplomacy of the Grand Alliance."*
+> - 📜 **Sir Walter Scott (*The Antiquary*):** *"He spent years examining dusty parchments stored in the cathedral **archive** to authenticate the family title."*

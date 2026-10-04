@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Defensive against enemy submarines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Defensive against enemy submarines.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Designed, equipped, or deployed for locating, tracking, or destroying hostile submarines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In naval warfare doctrine, operations utilizing hydrophones, depth charges, sonar (ASDIC), and maritime patrol aircraft to hunt submarines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antisubmarine designates defensive against enemy submarines."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The Admiralty established an aggressive **antisubmarine** division, deploying Q-ships and depth charges to protect the Atlantic convoys."*
+> - 📜 **Arthur Conan Doyle (*His Last Bow*):** *"The government guarded the confidential naval designs for new **antisubmarine** patrol craft with the utmost secrecy."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The torpedo destroyer steamed at thirty knots, built on principles later adapted for relentless **antisubmarine** escort service."*

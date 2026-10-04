@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ark shells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ark shells.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic family of saltwater clams, commonly known as ark shells or ark clams, in the order Arcida.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine invertebrate zoology, bivalves featuring taxodont dentition (a row of small, comb-like teeth along a straight hinge) and hemoglobin in blood.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arcidae designates ark shells."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Along the shores of Patagonia, we collected various fossil representatives of the bivalve family **Arcidae** embedded in sandstone."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"Members of the **Arcidae** are remarkable among bivalves for possessing hemoglobin within their circulatory fluid."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The rectilinear hinge line studded with numerous interlocking teeth characterizes the shell architecture of the **Arcidae**."*

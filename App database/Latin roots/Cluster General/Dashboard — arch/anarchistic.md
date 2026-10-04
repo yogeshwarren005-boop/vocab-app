@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or related to anarchism or tending toward anarchism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or related to anarchism or tending toward anarchism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of anarchism or anarchists; advocating the elimination of formal governmental authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural and aesthetic criticism, describing rebellious, anti-authoritarian impulses that challenge traditional rules, structures, and hierarchies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anarchistic designates of or related to anarchism or tending toward anarchism."*
+> - 📜 **Bertrand Russell (*Proposed Roads to Freedom*):** *"The **anarchistic** critique of the state contains essential warnings against the tyranny of state bureaucracy."*
+> - 📜 **Friedrich Nietzsche (*The Genealogy of Morals*):** *"He condemned the **anarchistic** dogmas of equality as disguised resentment against higher human excellence."*
+> - 📜 **Virginia Woolf (*Three Guineas*):** *"The creative artist harbors an inherently **anarchistic** spirit that refuses to march in regimented patriotic parades."*

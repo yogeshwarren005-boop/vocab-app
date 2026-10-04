@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expectation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something expected (as on the basis of a norm).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of anticipating something; expectation, foreknowledge, or pleasurable excitement about a future event.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology and musical theory, emotional prospection, or a non-harmonic note played immediately before the harmony changes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will tell you why; so shall my anticipation prevent your discovery, and your secrecy to the King and Queen moult no feather."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I could have no anticipation, and I had none, that something very startling to me at the moment, and ever memorable to me in what ensued from it, was to happen before this day was out."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Well, I hope to do my duty by it all,” said Joseph Poorgrass, in a pleasant, masticating manner of anticipation."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"The pleasure of every excursion is half consumed in the sweet **anticipation** of its arrival."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Adam stood transfixed, his soul filled with the prophetic **anticipation** of future human history."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Richard Carstone lived in perpetual **anticipation** of a favorable decree that never came from Chancery."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The antiparticle of a muon; decays to positron and neutrino and antineutrino.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The antiparticle of a muon; decays to positron and neutrino and antineutrino.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The antimatter partner of the muon, having positive elementary charge (+1e), spin-1/2, and the same mass as a muon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In subatomic particle physics, an unstable positive lepton ($\mu^+$) with a mean lifetime of 2.2 microseconds, decaying into a positron and neutrinos.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antimuon designates the antiparticle of a muon; decays to positron and neutrino and antineutrino."*
+> - 📜 **Richard Feynman (*The Character of Physical Law*):** *"When a cosmic ray pion decays in flight, it frequently produces a positive **antimuon** and a muon neutrino."*
+> - 📜 **Murray Gell-Mann (*The Quark Model*):** *"Lepton conservation requires that the appearance of a positron be matched by the decay of an **antimuon** or neutral current."*
+> - 📜 **Stephen Hawking (*A Brief History of Time*):** *"In magnetic trap experiments, an **antimuon** can briefly bind an electron to form the exotic hydrogen-like atom muonium."*

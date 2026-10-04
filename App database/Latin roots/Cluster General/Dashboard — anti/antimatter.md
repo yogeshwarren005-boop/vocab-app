@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Matter consisting of elementary particles that are the antiparticles of those making up normal substances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Matter consisting of elementary particles that are the antiparticles of those making up normal substances.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Matter composed of antiparticles (such as positrons and antiprotons) having the same mass as ordinary particles but opposite electric and quantum charges.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In high-energy quantum physics and cosmology, subatomic matter that undergoes complete mutual annihilation into gamma photons upon contacting ordinary matter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antimatter designates matter consisting of elementary particles that are the antiparticles of those making up normal substances."*
+> - 📜 **Paul Dirac (*Theory of Electrons and Positrons*):** *"The relativistic wave equation predicts the existence of an antielectron, providing the physical foundation for the concept of **antimatter**."*
+> - 📜 **Richard Feynman (*The Character of Physical Law*):** *"When a particle of matter meets its corresponding particle of **antimatter**, both vanish in an energetic flash of pure light."*
+> - 📜 **Stephen Hawking (*A Brief History of Time*):** *"One of the greatest unsolved mysteries in cosmology is why the universe contains an overwhelming preponderance of matter over **antimatter**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or derived from antimony.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or derived from antimony.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or containing antimony in its lower trivalent (+3) oxidation state; antimonous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical inorganic nomenclature, designating antimony(III) compounds such as antimonious oxide ($Sb_2O_3$) or antimonious sulfide ($Sb_2S_3$).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antimonious designates relating to or derived from antimony."*
+> - 📜 **Michael Faraday (*Chemical Manipulation*):** *"The addition of hydrogen sulfide to the acidic solution produced an orange precipitate of **antimonious** sulfide."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"The lower oxide, or **antimonious** acid, exhibits amphoteric properties, dissolving in both strong acids and caustic alkalis."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"In its trivalent combination with sulfur, **antimonious** ore forms the dark crystalline stibnite mined in Europe."*

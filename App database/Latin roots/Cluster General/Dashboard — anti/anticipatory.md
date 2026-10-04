@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In anticipation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anticipation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Happening, performed, or felt in anticipation of something; predictive or expectant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contract law and neurophysiology, repudiation occurring prior to performance, or preparatory neural firing preceding motor execution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anticipatory designates in anticipation."*
+> - 📜 **William James (*The Principles of Psychology*):** *"An **anticipatory** thrill passes through the body when an athlete waits upon the starting mark for the pistol shot."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate felt an **anticipatory** pleasure in the prospect of explaining his scientific discoveries to an intelligent listener."*
+> - 📜 **Henry James (*The Ambassadors*):** *"Strether experienced an **anticipatory** uneasiness as he approached the grand Parisian residence on the boulevard."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an anticoagulant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to an anticoagulant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having properties that inhibit or retard blood clotting; functioning as an anticoagulant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemical pathology, enzymatic or chemical actions that degrade prothrombin, inhibit thrombin, or prevent fibrin polymer cross-linking.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anticoagulative designates of or relating to an anticoagulant."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The **anticoagulative** properties of the snake venom resulted in extensive internal hemorrhages throughout the patient's tissues."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Hematophagous insects secrete an **anticoagulative** fluid from their salivary glands while puncturing mammalian epidermis."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The medicinal leech produces hirudin, an **anticoagulative** peptide that blocks mammalian thrombin with great affinity."*

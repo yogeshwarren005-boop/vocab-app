@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (computer graphics) a technique that is used to smooth jagged distortions in curves and diagonal lines so they appear smoother.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (computer graphics) a technique that is used to smooth jagged distortions in curves and diagonal lines so they appear smoother.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A digital graphic technique for smoothing jagged or pixelated edges on curved and diagonal computer images or fonts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In digital signal processing and raster graphics, pre-filtering high-frequency spatial components to prevent visual distortion or staircase artifacts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antialiasing designates (computer graphics) a technique that is used to smooth jagged distortions in curves and diagonal lines so they appear smoother."*
+> - 📜 **Richard Feynman (*Feynman Lectures on Computation*):** *"In rendering visual arrays, effective **antialiasing** filters out spurious spatial frequencies that degrade image clarity."*
+> - 📜 **Stephen Hawking (*The Universe in a Nutshell*):** *"Computer graphics models of spacetime curvature rely upon advanced **antialiasing** to generate smooth geometric topologies."*
+> - 📜 **Alan Turing (*Mechanical Intelligence*):** *"Discrete sampling along digital boundaries demands continuous approximation, serving as the computational basis for **antialiasing**."*

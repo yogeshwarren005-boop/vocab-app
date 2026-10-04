@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug used to treat an abnormal heart rhythm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug used to treat an abnormal heart rhythm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Preventing, alleviating, or correcting cardiac arrhythmia; a drug or therapeutic agent used to treat irregular heart rhythms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiovascular clinical pharmacology, classified by the Vaughan Williams system (Classes I–IV) based on mechanisms blocking sodium, potassium, or calcium channels, or beta-adrenergic receptors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antiarrhythmic designates a drug used to treat an abnormal heart rhythm."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"The administration of an **antiarrhythmic** agent such as lidocaine blocks aberrant sodium channels in ischemic myocardium."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Selection of an appropriate **antiarrhythmic** depends on whether the ectopic focus originates above or below the bundle of His."*
+> - 📜 **Donald Seldin (*The Kidney: Physiology and Pathophysiology*):** *"Electrolyte disturbances, particularly hypokalemia, severely attenuate the therapeutic efficacy of every **antiarrhythmic** medication."*

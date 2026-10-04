@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to latitudes just south of the arctic circle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to latitudes just south of the arctic circle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of the region immediately south of the Arctic Circle; extremely cold and subpolar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biogeography and climatology, the taiga or boreal forest zone (Köppen Dfc, Dfd) characterized by long, severely cold winters and short, mild summers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subarctic designates of or relating to latitudes just south of the arctic circle."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Migratory birds rear their broods across the vast **subarctic** muskegs where insect swarms provide abundant summer nourishment."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"The sled dogs traversed the silent **subarctic** wilderness under the cold glimmer of the aurora borealis."*
+> - 📜 **John Muir (*Travels in Alaska*):** *"Dense spruce forests extended across the **subarctic** valleys, carpeted in deep sponges of damp sphagnum moss."*

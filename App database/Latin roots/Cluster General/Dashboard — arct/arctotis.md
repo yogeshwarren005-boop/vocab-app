@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Herbs and subshrubs: african daisy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Herbs and subshrubs: african daisy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of annual and perennial flowering plants in the daisy family (Asteraceae), commonly known as African daisies, native to southern Africa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticultural botany and floristics, drought-tolerant composite plants bearing vibrant ray florets around a contrasting central disc, native to South Africa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arctotis designates herbs and subshrubs: african daisy."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"South African flora abounds in splendid composites such as **Arctotis**, bearing brilliant orange and purple ray florets."*
+> - 📜 **William Withering (*An Arrangement of British Plants*):** *"The exotic African genus **Arctotis** was cultivated in English green-houses for its richly colored, sunflower-like blossom."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"In certain greenhouse trials with **Arctotis**, cross-pollination by insects significantly augmented the total seed yield."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Blackbucks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Blackbucks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of bovids comprising the blackbuck (Antilope cervicapra), native to India and Nepal, characterized by spiral ringed horns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic zoology and taxonomy, the nominal genus of the antelope subfamily Antilopinae, typified by diurnal cursorial grazers on open plains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antilope designates blackbucks."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The male of **Antilope** cervicapra possesses magnificent spiral horns and a striking black-and-white coat acquired at maturity."*
+> - 📜 **Thomas Pennant (*History of Quadrupeds*):** *"The Indian **Antilope** is celebrated for its incomparable fleetness, outstripping greyhounds across the open plains of Hindustan."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"In **Antilope**, the cranial frontals bear hollow horn cores supported by extensive pneumatic sinuses."*

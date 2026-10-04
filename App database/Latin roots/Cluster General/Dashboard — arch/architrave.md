@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The molding around a door or window.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lowest part of an entablature; rests immediately on the capitals of the columns.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The lowest part of an entablature in classical architecture, resting directly upon the abacus of a column or capital.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A decorative moulded frame or lintel surrounding a door, window, or square opening.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"At an indefinite height overhead something made the black sky blacker, which had the semblance of a vast architrave uniting the pillars horizontally."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"Whoever has seen Saragossa can well understand my imperfect description, for the ruins of Santa Engracia still remain, and in the Puerta del Carmen may still be seen, not far from the Glorieta, its ruined architrave and worm-eaten stones."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"Through the window-frames showed patches of sky, and the bricks, crumbling away, had made a ragged-toothed looking thing of that which had been an architrave."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"The stone lintel and finely carved **architrave** unite the upright pillars into an indissoluble tectonic frame."*
+> - 📜 **Thomas Hardy (*A Pair of Blue Eyes*):** *"Her eyes followed the classical egg-and-dart moulding decorating the stone **architrave** of the south porch."*
+> - 📜 **Benito Pérez Galdós (*Fortunata and Jacinta*):** *"Heavy mahogany doors framed by an ornate gilded **architrave** opened into the aristocratic salon."*

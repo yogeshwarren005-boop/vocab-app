@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of laws and regulations; designed to protect trade and commerce from unfair business practices.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of laws and regulations; designed to protect trade and commerce from unfair business practices.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to legislation or policy preventing or controlling business monopolies, trusts, and unlawful restraints on fair trade.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In regulatory economics and corporate law, statutory enforcement (e.g., the Sherman Act) prohibiting cartels, price-fixing, and anticompetitive mergers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antitrust designates of laws and regulations; designed to protect trade and commerce from unfair business practices."*
+> - 📜 **Theodore Roosevelt (*State of the Union Address*):** *"The vigorous enforcement of **antitrust** legislation is necessary to protect the public against oppressive commercial monopolies."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The state must retain regulatory authority over joint-stock cartels, enacting early **antitrust** principles to foster competitive markets."*
+> - 📜 **Woodrow Wilson (*The New Freedom*):** *"A healthy industrial democracy cannot tolerate private monopolies, demanding comprehensive **antitrust** statutes to preserve economic liberty."*

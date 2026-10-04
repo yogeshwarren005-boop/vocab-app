@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be central or dominant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form an arch over.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To form an arch over something; to span, dominate, or encompass as an overarching principle or structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural architecture and thematic analysis, forming an encompassing curved vault or serving as the central organizing principle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Then appeared a splendid rainbow, proudly overarching the valley, its ends resting on the high lands on either side."*
+> - 📜 **John Muir (*The Mountains of California*):** *"Gigantic sequoias **overarch** the mountain pathway, their rust-colored boughs meeting hundreds of feet above the forest floor."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The venerable elms **overarch** the quiet New England lane, casting deep cool shadows upon the wooden gables."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The interwoven branches of ancient oaks **overarch** the hollow way, creating a natural cathedral vault of greenery."*

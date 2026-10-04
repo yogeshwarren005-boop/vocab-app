@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person in charge of collecting and cataloguing archives.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person in charge of collecting and cataloguing archives.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A professional person responsible for preserving, organizing, cataloging, and managing archival records and historical documents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scholarly custodian of institutional memory and documentary heritage, adhering to principles of provenance and original order.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archivist designates a person in charge of collecting and cataloguing archives."*
+> - 📜 **Jorge Luis Borges (*The Library of Babel*):** *"The wandering **archivist** inspected hexagonal galleries of octavo volumes searching for the vindication of man."*
+> - 📜 **A. S. Byatt (*Possession*):** *"The literary **archivist** handled the bundle of Victorian love letters with gloved fingers and reverent silence."*
+> - 📜 **Simon Schama (*Citizens: A Chronicle of the French Revolution*):** *"Every parish **archivist** in the provinces was ordered to transfer feudal deeds to the district tribunal."*

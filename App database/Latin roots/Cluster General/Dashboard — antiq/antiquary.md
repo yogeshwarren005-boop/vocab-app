@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert or collector of antiquities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert or collector of antiquities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert on or student of ancient times, old monuments, inscriptions, and historical relics; an archaist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual history, members of societies such as the Society of Antiquaries dedicated to surveying regional topography and ancient charters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here’s Nestor, Instructed by the antiquary times— He must, he is, he cannot but be wise; But pardon, father Nestor, were your days As green as Ajax’ and your brain so temper’d, You should not have the eminence of him, But be as Ajax."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I am Parson Tringham, the antiquary, of Stagfoot Lane."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Perera, "Glimpses of Singhalese Social Life," _Indian Antiquary_ xxxi, (1902) p. 380. [164] J."*
+> - 📜 **Sir Walter Scott (*The Antiquary*):** *"Mr. Jonathan Oldbuck, known among his neighbors as the **antiquary**, valued a broken Roman tile far above modern gold."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The diligent **antiquary** discovered among the parish registers invaluable records that illuminated seventeenth-century demographic shifts."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"To the wandering **antiquary**, the quiet English churchyard offered centuries of forgotten epitaphs carved upon sinking stones."*

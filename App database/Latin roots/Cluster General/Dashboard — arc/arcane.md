@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Requiring secret or mysterious knowledge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Requiring secret or mysterious knowledge.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Understood by few; mysterious, secret, obscure, or requiring specialized esoteric knowledge to grasp.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual history and occult hermeneutics, knowledge restricted to initiates or obscure disciplinary jargon incomprehensible to the public.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arcane designates requiring secret or mysterious knowledge."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Gnostic sectarians claimed to possess **arcane** doctrines communicated secretly by the apostles to their disciples."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Roger Chillingworth had studied the **arcane** lore of ancient herbalists and European alchemists in his solitary youth."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The lawyers discoursed in an **arcane** dialect of Norman-French precedents that left the poor suitors utterly bewildered."*

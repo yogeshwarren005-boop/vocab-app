@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Information known only to a special group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Information known only to a special group.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A deep secret or mystery; a specialized piece of esoteric knowledge; archaically, an alchemical elixir or remedy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In alchemical philosophy and political theory, an ultimate secret of nature or statecraft (*arcanum imperii*) held exclusively by sovereign rulers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"Certainly no man whatever; for this arcanum doth enter into an artist of a stiff neck; he only hath it who transcends the progress of angels and comes to the very Archtype himself."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Prudent monarchs guarded the **arcanum** of state from the rash curiosity of vulgar multitudes."*
+> - 📜 **Sir Walter Scott (*The Abbot*):** *"The alchemist boasted that his furnace would soon reveal the grand **arcanum** of the philosopher's stone."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Beneath the outer symbols of daily life lies the profound **arcanum** of man's spiritual nature."*

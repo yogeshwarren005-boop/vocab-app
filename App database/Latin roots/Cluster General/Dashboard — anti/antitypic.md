@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an antitype.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to an antitype.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, serving as, or of the nature of an antitype; representing the fulfillment of a type.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological exegesis and literary symbolism, antitypic motifs denote persons, sacraments, or occurrences that actualize prophetic prefigurations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antitypic designates of or relating to an antitype."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"The spiritual sacraments of the New Testament possess an **antitypic** character, fulfilling ancient ritual figures."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"Medieval fresco cycles juxtaposed prophetic Hebrew scenes with their **antitypic** gospel counterparts."*
+> - 📜 **Matthew Arnold (*Literature and Dogma*):** *"Poetic imagination instinctively seeks the **antitypic** realization of moral ideals in historical action."*

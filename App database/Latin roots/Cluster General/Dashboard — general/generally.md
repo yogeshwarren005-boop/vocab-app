@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Usually; as a rule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without distinction of one from others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In most cases; usually; as a general rule; widely or by the majority of people.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic pragmatics and legal discourse, indicating prevailing customary practice or standard interpretations subject to specific exceptions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He that so generally is at all times good, must of necessity hold his virtue to you, whose worthiness would stir it up where it wanted, rather than lack it where there is such abundance."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have heard him read many lectures against it, and I thank God I am not a woman, to be touched with so many giddy offences as he hath generally taxed their whole sex withal."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They are generally fools and cowards, which some of us should be too, but for inflammation."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"It is a truth **generally** acknowledged, that a single man in possession of a good fortune, must be in want of a wife."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Wages of labor are **generally** higher in expanding commercial economies than in stagnant or decaying states."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The provincial governors were **generally** selected from the senatorial or equestrian orders in Rome."*

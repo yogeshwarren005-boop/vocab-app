@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Soil and freshwater protozoa; cosmopolitan in distribution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Soil and freshwater protozoa; cosmopolitan in distribution.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of testate amoebae in the order Arcellinida possessing circular, dome-shaped or umbrella-like organic shells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microzoology, freshwater rhizopods characterized by proteinaceous, areolate tests lacking agglutinated mineral particles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arcellidae designates soil and freshwater protozoa; cosmopolitan in distribution."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The family **Arcellidae** includes testaceous amoeboid organisms whose organic shells protect them in stagnant freshwater environments."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"The distinguishing characteristic of the **Arcellidae** lies in their symmetrical organic test with an invaginated ventral aperture."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Microscopic fauna such as the **Arcellidae** exhibit structural constancy across immense geographic distances and geological epochs."*

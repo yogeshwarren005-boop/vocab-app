@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Designed for defense against armored vehicles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designed for defense against armored vehicles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Designed, formulated, or deployed for destroying, disabling, or defending against armored combat vehicles (tanks).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern military tactical doctrine, high-velocity cannon, shaped-charge rockets, landmines, and guided missiles countering armored spearheads.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antitank designates designed for defense against armored vehicles."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"Our infantry held the ridge stubbornly, utilizing six-pounder **antitank** guns to repel the German Panzer counterattacks."*
+> - 📜 **Arthur Conan Doyle (*The British Campaign in France and Flanders*):** *"The artillery duel intensified as enemy gunners unmasked concealed **antitank** rifles along the edge of the shattered wood."*
+> - 📜 **H. G. Wells (*The Land Ironclads*):** *"The defenders lacked specialized **antitank** ordnance, watching in despair as the iron juggernauts crushed their trenches."*

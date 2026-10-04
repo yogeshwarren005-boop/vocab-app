@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing antimony.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing antimony.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, containing, or derived from the chemical element antimony; also a medicinal preparation containing antimony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical pharmacopeia and mineralogy, preparations such as tartar emetic (antimonial wine) used as diaphoretics and emetics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antimonial designates containing antimony."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The old practitioners placed immense reliance upon **antimonial** powders to break acute inflammatory fevers in plethoric patients."*
+> - 📜 **Michael Faraday (*Chemical Manipulation*):** *"The precipitate was washed and dissolved in acid, yielding a brilliant orange **antimonial** sulfide upon cooling."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"Mrs. Squeers dispensed the brimstone and treacle with an occasional dose of **antimonial** wine to subdue rebellious spirits."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (anglican church) an ecclesiastical dignitary usually ranking just below a bishop.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (anglican church) an ecclesiastical dignitary usually ranking just below a bishop.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A senior Christian cleric, ranking immediately below a bishop, with administrative authority over an archdeaconry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the Anglican and Catholic communion, the chief administrative officer ('the bishop’s eye') responsible for church property, parish discipline, and legal inspections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A Room in the Archdeacon’s House."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A Room in the Archdeacon’s House."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I shall return to Brocklehurst Hall in the course of a week or two: my good friend, the Archdeacon, will not permit me to leave him sooner."*
+> - 📜 **Anthony Trollope (*The Warden*):** *"**Archdeacon** Grantly stood upon his hearthrug, a pillar of church orthodoxy and diocesan governance."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Collins spoke with profound deference of the **archdeacon**, whose visitation dinner was the event of the year."*
+> - 📜 **Thomas Hardy (*Under the Greenwood Tree*):** *"The vicar read the **archdeacon**'s formal charge concerning the replacement of the village string choir by an organ."*

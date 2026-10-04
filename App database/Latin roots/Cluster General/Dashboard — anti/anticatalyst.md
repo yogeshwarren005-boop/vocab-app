@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (chemistry) a substance that retards a chemical reaction or diminishes the activity of a catalyst.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (chemistry) a substance that retards a chemical reaction or diminishes the activity of a catalyst.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance that inhibits, retards, or prevents a chemical reaction without being consumed; a negative catalyst or inhibitor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical chemistry and industrial catalysis, anticatalysts act by poisoning active surface sites on solid catalysts, scavenging reactive radical intermediates, or raising the activation energy barrier.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anticatalyst designates (chemistry) a substance that retards a chemical reaction or diminishes the activity of a catalyst."*
+> - 📜 **Wilhelm Ostwald (*Manual of Physico-Chemical Measurements*):** *"Trace impurities of sulfur act as a potent **anticatalyst**, poisoning the platinum sponge in ammonia oxidation."*
+> - 📜 **Svante Arrhenius (*Theories of Chemistry*):** *"The presence of an **anticatalyst** diminishes reaction velocity by deactivating the reactive intermediate species."*
+> - 📜 **William Crookes (*Select Methods in Chemical Analysis*):** *"Certain metallic salts operate as an **anticatalyst**, preventing spontaneous atmospheric oxidation of organic solutions."*

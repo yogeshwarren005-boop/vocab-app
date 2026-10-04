@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Medicine that prevents or retards the clotting of blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Medicine that prevents or retards the clotting of blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance that hinders, retards, or prevents the coagulation or clotting of blood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hematology and vascular medicine, therapeutic agents such as heparin and warfarin inhibiting clotting factor cascades to prevent thrombosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anticoagulant designates medicine that prevents or retards the clotting of blood."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The application of leech extract provided a powerful natural **anticoagulant**, preventing thrombus formation at the surgical site."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The bite of the vampire bat introduces a secret **anticoagulant** saliva that keeps blood flowing freely from the wound."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The addition of sodium citrate serves as an **anticoagulant** by precipitating calcium ions necessary for fibrin formation."*

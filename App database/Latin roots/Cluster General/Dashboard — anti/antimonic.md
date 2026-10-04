@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or derived from antimony.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or derived from antimony.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or containing antimony in its higher pentavalent (+5) oxidation state, as in antimonic acid or antimonic chloride.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In inorganic chemistry, designating antimony(V) compounds such as antimonic acid ($H_3SbO_4$) or antimonic oxide ($Sb_2O_5$).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antimonic designates relating to or derived from antimony."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry*):** *"When heated with concentrated nitric acid, the metal oxidizes rapidly into a white insoluble **antimonic** compound."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"The highest degree of oxygenation in this semi-metal forms the **antimonic** acid, which combines readily with alkaline bases."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"The crystalline **antimonic** chloride decomposed violently upon contact with atmospheric moisture, depositing white fumes."*

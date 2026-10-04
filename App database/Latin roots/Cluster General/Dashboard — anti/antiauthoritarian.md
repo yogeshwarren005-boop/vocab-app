@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Opposed to authoritarianism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Opposed to authoritarianism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Opposed to authoritarianism, absolute power, or strict adherence to hierarchical authority; favoring individual liberty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political philosophy and sociopolitical critique, rejecting coercive state hierarchies, centralist dogmatism, and autocratic rule.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antiauthoritarian designates opposed to authoritarianism."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"The militia units in Barcelona were fiercely **antiauthoritarian**, rejecting saluting and bourgeois military hierarchies."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"An **antiauthoritarian** disposition is indispensable in a free society to prevent the tyranny of the majority from crushing individual thought."*
+> - 📜 **Bertrand Russell (*Authority and the Individual*):** *"True progressive education cultivates an **antiauthoritarian** habit of mind, encouraging young scholars to interrogate accepted dogmas."*

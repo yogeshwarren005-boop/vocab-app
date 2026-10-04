@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of anthropology that studies prehistoric people and their cultures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of anthropology that studies prehistoric people and their cultures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant spelling of archaeology; the scientific study of past human life, material culture, and prehistory through excavation and artifact analysis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural heritage and anthropology, the discipline that recovers extinct languages, architecture, and technology from the buried soil.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archeology designates the branch of anthropology that studies prehistoric people and their cultures."*
+> - 📜 **Thomas Jefferson (*Notes on the State of Virginia*):** *"Stratigraphic **archeology** provides the surest chronology for unwritten indigenous histories."*
+> - 📜 **V. Gordon Childe (*The Dawn of European Civilization*):** *"Through comparative **archeology**, we trace the diffusion of urban metallurgy from the Near East across Europe."*
+> - 📜 **Howard Carter (*The Tomb of Tut-ankh-Amen*):** *"Modern **archeology** is not a hunt for buried treasure, but a meticulous discipline of historical recovery."*

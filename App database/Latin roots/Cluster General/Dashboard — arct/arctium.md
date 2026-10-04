@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Burdock.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Burdock.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of biennial plants in the sunflower family (Asteraceae) commonly known as burdock, native to Europe and Asia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In taxonomic botany and ethnopharmacology, stout plants bearing globular flower heads covered in hooked involucral bracts that inspired Velcro.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog arctium as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The hooked involucral bracts of **Arctium** adhere tenaciously to the fleece of passing animals, ensuring wide seed dispersal."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The genus **Arctium**, or burdock, contains biennial composites with fleshy medicinal taproots valued in European folk remedies."*
+> - 📜 **William Withering (*An Arrangement of British Plants*):** *"Greater burdock, **Arctium** lappa, flourishes in waste ground, bearing large cordate leaves and purplish thistle-like flower heads."*

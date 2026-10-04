@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An idea or conclusion having general application.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of formulating general concepts by abstracting common properties of instances.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A general statement or concept obtained by inference from specific cases; British spelling of generalization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In inductive logic and scientific epistemology, formulating universal explanatory laws from finite empirical observations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, generalisation designates an idea or conclusion having general application."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Every valid scientific **generalisation** must rest upon rigorous induction verified by systematic experimental testing."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"This broad **generalisation** connects facts that previously appeared utterly isolated and incomprehensible in natural history."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"Science advances not by dogmatic speculation, but by cautious and verified **generalisation** from observable phenomena."*

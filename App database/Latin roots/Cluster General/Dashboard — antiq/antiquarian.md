@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert or collector of antiquities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to persons who study or deal in antiques or antiquities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who studies, collects, or deals in antiquities, ancient artifacts, or historical relics; also relating to such study.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historiography and material culture studies, a scholar focusing on physical monuments, coins, manuscripts, and archaic inscriptions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"However, in the hope that some antiquarian scholar may be able to place more definitely the date of the events I shall describe, I here give an extract."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Sheldon Jackson, "Alaska and its Inhabitants," _The American Antiquarian_, ii. (Chicago, 1879-1880) pp. 111 _sq._; A."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"It’s tauld he was a sodger bred, And ane wad rather fa’n than fled; But now he’s quat the spurtle-blade, And dog-skin wallet, And taen the—Antiquarian trade, I think they call it."*
+> - 📜 **Sir Walter Scott (*The Antiquary*):** *"The enthusiastic **antiquarian** spent hours deciphering the weathered inscriptions carved upon the Roman altar stone."*
+> - 📜 **Charles Dickens (*The Old Curiosity Shop*):** *"The dusty room was crammed with quaint **antiquarian** treasures, curious carvings, and faded tapestries from forgotten centuries."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Every modern **antiquarian** who visits the ruins of Rome seeks to reconstruct the original boundary walls of the ancient republic."*

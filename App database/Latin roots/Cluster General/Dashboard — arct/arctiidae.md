@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tiger moths.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tiger moths.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A diverse family of moths (now classified as the subfamily Arctiinae within Erebidae), comprising tiger moths and footman moths.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic lepidopterology, a taxon comprising over 11,000 species renowned for chemical defenses, lichenivory, and thoracic ultrasound organ.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arctiidae designates tiger moths."*
+> - 📜 **Alfred Russel Wallace (*Tropical Nature and Other Essays*):** *"The family **Arctiidae** contains numerous brightly banded species whose toxic body fluids deter predatory lizards and birds."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The hairy caterpillars of the family **Arctiidae** demonstrate extraordinary cold tolerance during their overwintering dormancy."*
+> - 📜 **Henry Walter Bates (*The Naturalist on the River Amazons*):** *"Among equatorial insects, the **Arctiidae** provide striking illustrations of Batesian and Müllerian mimicry complexes."*

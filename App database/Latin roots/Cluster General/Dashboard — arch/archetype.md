@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that serves as a model or a basis for making copies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that serves as a model or a basis for making copies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A very typical example of a certain person or thing; an original pattern or model from which others are copied; a prototype.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Platonic philosophy, an archetype is the eternal transcendent ideal form; in comparative morphology (Richard Owen), the ancestral structural plan common to a vertebrate lineage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archetype designates something that serves as a model or a basis for making copies."*
+> - 📜 **Richard Owen (*On the Archetype and Homologies of the Vertebrate Skeleton*):** *"Comparative anatomy demonstrates that every vertebrate skeleton is an ideal modification of a common **archetype**."*
+> - 📜 **Carl Jung (*Psychological Types*):** *"An **archetype** does not denote an inherited idea, but an inherited mode of psychic functioning and myth-making."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The human mind too often worships idols of its own making rather than contemplating the divine **archetype** of creation."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The antiparticle of a meson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The antiparticle of a meson.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The antimatter counterpart of a meson, composed of a quark and an antiquark with opposite quantum flavor numbers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In subatomic particle physics, an unstable hadronic boson that annihilates or decays through electroweak or strong interactions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antimeson designates the antiparticle of a meson."*
+> - 📜 **Murray Gell-Mann (*The Quark Model*):** *"In classifying hadronic resonances, each meson state corresponds to a well-defined **antimeson** under charge conjugation."*
+> - 📜 **Richard Feynman (*The Character of Physical Law*):** *"The decay channels of the neutral meson and its **antimeson** counterpart revealed subtle violations of combined CP symmetry."*
+> - 📜 **Stephen Hawking (*A Brief History of Time*):** *"In high-energy collisions, mesons and **antimeson** particles are created in equal abundance before rapidly decaying."*

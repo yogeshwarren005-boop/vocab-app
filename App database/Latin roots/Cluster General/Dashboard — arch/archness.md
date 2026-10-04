@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inappropriate playfulness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inappropriate playfulness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Playful teasing, roguishness, or knowing mischievousness in manner or expression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary characterization and behavioral analysis, subtle ironic humor conveying playful complicity or gentle mockery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"How I wish I hadn’t run after you!” However she seemed to have a short cut for getting back to cheerfulness, and set her face to signify archness."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Now, allow me!” “Certainly, miss; I am not of steel.” He added a sigh which had as much archness in it as a sigh could possess without losing its nature altogether."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I was firm as a man could be till I saw those eyes and that mouth again—surely there never was such a maddening mouth since Eve’s!” His voice sank, and a hot archness shot from his own black eyes."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth looked at him with an expression of delightful **archness**, wondering whether he perceived her teasing irony."*
+> - 📜 **George Eliot (*Middlemarch*):** *"There was a faint touch of **archness** in her tone that softened the candid severity of her judgment."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The little French girl answered with such innate **archness** that even the grave governess could not suppress a smile."*

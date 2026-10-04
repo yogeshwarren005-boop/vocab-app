@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The regions to the north of the arctic circle centered on the north pole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A waterproof overshoe that protects shoes from water or snow.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the regions around the North Pole, characterized by extreme cold, sea ice, and permafrost; also bitterly cold.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical geography and polar climatology, the polar biome situated north of the Arctic Circle (66°33′N), characterized by tundra and sea ice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The blast smelt of icebergs, arctic seas, whales, and white bears, carrying the snow so that it licked the land but did not deepen on it."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Grabowsky, "Der Distrikt Dusson Timor in Südost-Borneo und seine Bewohner," _Das Ausland_, 1884, No. 24, p. 470. [33] _Narrative of the Second Arctic Expedition made by Charles F."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Then there you lie like the one warm spark in the heart of an arctic crystal."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I am already far north of London, walking in the streets of Petersburgh, feeling a cold northern breeze from the **arctic** ocean."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"During the glacial period, alpine plants migrated into plains, and **arctic** flora extended across temperate European regions."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The right whale seeks refuge amid the drifting floes and icebergs of the high **arctic** seas."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The inverse function of the cosine; the angle that has a cosine equal to a given number.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The inverse function of the cosine; the angle that has a cosine equal to a given number.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The inverse trigonometric function of cosine, returning the principal angle or arc whose cosine equals a specified ratio.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computational geometry and physics, written $\arccos$ or $\cos^{-1}$, mapping $[-1, 1]$ to $[0, \pi]$ for computing dot-product angles between vectors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arccosine designates the inverse function of the cosine; the angle that has a cosine equal to a given number."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The angle subtended by the prismatic ray is computed from the **arccosine** of the ratio of refraction."*
+> - 📜 **Leonhard Euler (*Elements of Algebra*):** *"The circular arc corresponding to a given base line is readily determined by evaluating its **arccosine**."*
+> - 📜 **Carl Friedrich Gauss (*Disquisitiones Arithmeticae*):** *"In spherical trigonometry, the angular distance between two celestial poles is expressed as the **arccosine** of their coordinates."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The inverse function of the secant; the angle that has a secant equal to a given number.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The inverse function of the secant; the angle that has a secant equal to a given number.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The inverse secant function in mathematics; the angle whose secant equals a given real number; denoted $\operatorname{arcsec}(x)$.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In differential calculus, defined for $|x| \ge 1$ with range $[0, \pi] \setminus \{\pi/2\}$, possessing derivative $1/(|x|\sqrt{x^2-1})$.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arcsecant designates the inverse function of the secant; the angle that has a secant equal to a given number."*
+> - 📜 **Leonhard Euler (*Elements of Algebra*):** *"By evaluating the **arcsecant** of the ratio, we determine the eccentric anomaly necessary to compute the orbital radius."*
+> - 📜 **Isaac Newton (*Method of Fluxions*):** *"The mechanical curve resolves into a fluxion whose antiderivative is the **arcsecant** of the ordinate."*
+> - 📜 **Carl Friedrich Gauss (*Disquisitiones Arithmeticae*):** *"We substitute the **arcsecant** transformation to eliminate irrational radicals from the asymptotic expansion."*

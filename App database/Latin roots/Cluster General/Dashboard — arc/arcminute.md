@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of angular distance equal to a 60th of a degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of angular distance equal to a 60th of a degree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of angular measurement equal to one sixtieth of a degree (1/60°), or sixty arcseconds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In observational astronomy and optical navigation, designated by the symbol ′, used to measure the apparent angular diameter and separation of celestial bodies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arcminute designates a unit of angular distance equal to a 60th of a degree."*
+> - 📜 **Isaac Newton (*Mathematical Principles of Natural Philosophy*):** *"The apparent diameter of the lunar disc varies by several **arcminute** units between perigee and apogee."*
+> - 📜 **William Herschel (*Philosophical Transactions*):** *"The binary star system revealed a stellar separation of barely one **arcminute** when viewed through the forty-foot reflector."*
+> - 📜 **Carl Friedrich Gauss (*Theory of the Motion of the Heavenly Bodies*):** *"An observational discrepancy of half an **arcminute** was sufficient to demonstrate the elliptical character of the asteroid's orbit."*

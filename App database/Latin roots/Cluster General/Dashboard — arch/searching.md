@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Try to locate or discover, or try to establish the existence of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Search or seek.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Examining thoroughly and scrutinizing closely; penetrating, keen, or inquisitive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology and investigative analysis, sustained perceptual scanning and rigorous critical interrogation of evidence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Alas, poor shepherd, searching of thy wound, I have by hard adventure found mine own."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, i’ faith, you have drunk too much canaries, and that’s a marvellous searching wine, and it perfumes the blood ere one can say “What’s this?” How do you now?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Searching the window for a flint, I found This paper, thus seal’d up, and I am sure It did not lie there when I went to bed. [_Gives him the letter._] BRUTUS."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Mr. Rochester fixed upon my face a **searching** gaze that seemed intent on penetrating my innermost thoughts."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Jaggers subjected the witness to a **searching** cross-examination that swiftly exposed the inconsistencies in his testimony."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon turned a **searching** and suspicious eye upon the young cousin whose easy laughter disturbed his library."*

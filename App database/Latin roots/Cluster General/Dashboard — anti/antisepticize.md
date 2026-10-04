@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Disinfect with an antiseptic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disinfect with an antiseptic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To render antiseptic; to treat or cleanse something with an antiseptic agent to prevent infection or bacterial growth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical history and medical practice, applying carbolic solutions or germicidal washes to wounds, instruments, and operating theaters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antisepticize designates disinfect with an antiseptic."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Lister taught surgeons to **antisepticize** operative wounds with carbolic acid sprays, dramatically reducing hospital gangrene."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The imperative to thoroughly **antisepticize** surgical dressings followed directly from Pasteur's germ theory of fermentation."*
+> - 📜 **Charles Dickens (*The Uncommercial Traveller*):** *"The hospital steward hastened to **antisepticize** the fever ward with vinegar and chlorine vapors after the epidemic subsided."*

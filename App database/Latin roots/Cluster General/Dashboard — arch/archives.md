@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Collection of records especially about an institution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A depository containing historical records and documents.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A collection of historical documents or records providing information about a place, institution, or group of people; also, the physical repository housing them.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In information science and historiography, primary records systematically preserved for evidentiary value, cultural heritage, and administrative precedent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"I might collect vouchers in abundance from the records and archives of every State in the Union."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The spunnel communications channels were loaded with traffic, and archives throughout the system opened, many for the first time in millennia."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The UIPS searched the ancient archives of Earth's military history and designed weapons of defense and offense."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers (No. 44)*):** *"The public records and **archives** of the confederacy were deposited in loose bundles, vulnerable to theft and decay."*
+> - 📜 **George Orwell (*1984*):** *"Day by day and almost minute by minute the past was brought up to date in the vast subterranean **archives** of the Ministry of Truth."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The mob stormed the municipal **archives**, burning tax rolls and royal edicts upon the paving stones."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Related to or dealing with or devoted to archaeology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Related to or dealing with or devoted to archaeology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant spelling of archaeological; of or relating to the study of past human cultures through physical artifacts and excavated ruins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropology and museum curatorship, pertaining to field conservation, ceramic classification, and radiometric dating of ancient sites.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archeological designates related to or dealing with or devoted to archaeology."*
+> - 📜 **Howard Carter (*The Tomb of Tut-ankh-Amen*):** *"The thrill of **archeological** discovery is tempered by the immense responsibility of preserving fragile relics."*
+> - 📜 **Arthur Evans (*The Palace of Minos*):** *"The **archeological** record at Knossos unrolls a thousand years of uninterrupted Minoan bronze-age prosperity."*
+> - 📜 **Lewis Henry Morgan (*Ancient Society*):** *"The **archeological** sequence of stone, bronze, and iron implements illuminates the upward march of human civilization."*

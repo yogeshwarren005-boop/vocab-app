@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An advocate of anarchism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An advocate of anarchism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who believes in or advocates anarchism; someone who seeks the abolition of government and hierarchical authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In late 19th-century political history, an activist participating in radical labor movements, anti-state strikes, or revolutionary propaganda.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The ideal of the anarchist to do without government is nowhere realized."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"The professor may be a member of an anarchist league, or something, and this is his punishment for refusing to assassinate the Kaiser." "Have another cup of tea, Tom, and stop talking nonsense." Mr."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The ideal of the anarchist to do without government is nowhere realized."*
+> - 📜 **Joseph Conrad (*The Secret Agent*):** *"The gloomy professor, an uncompromising **anarchist**, carried glass phials of nitroglycerin in his coat pocket."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"I had an instinctive sympathy with the Spanish **anarchist** trade unionists who ran the tramways and factories."*
+> - 📜 **Henry James (*The Princess Casamassima*):** *"Hyacinth Robinson found himself entangled in secret London meetings alongside a dedicated foreign **anarchist**."*

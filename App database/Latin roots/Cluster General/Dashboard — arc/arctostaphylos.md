@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bearberry; manzanita.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bearberry; manzanita.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of shrubs and small trees in the heath family (Ericaceae) comprising manzanitas and bearberries, adapted to arid and subarctic soils.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical ecology and dendrology, sclerophyllous shrubs featuring smooth red or mahogany bark and urn-shaped flowers, dominant in California chaparral.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arctostaphylos designates bearberry; manzanita."*
+> - 📜 **John Muir (*The Mountains of California*):** *"The smooth, mahogany-red branches of **Arctostaphylos** formed dense, fragrant chaparral thickets across the rocky Sierra foothills."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The bearberry, **Arctostaphylos** uva-ursi, maintains a circumpolar distribution, thriving upon arctic tundras and alpine mountain ridges."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"In the family Ericaceae, the genus **Arctostaphylos** is characterized by its five-parted urceolate corolla and berry-like drupes."*

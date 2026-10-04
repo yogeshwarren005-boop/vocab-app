@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of mustelidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of mustelidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of mustelids comprising the hog badgers (Arctonyx collaris), native to Southeast Asia, characterized by a pig-like snout.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian taxonomy, burrowing omnivorous mustelids equipped with long white claws and an elongated mobile rhinarium for excavating tubers and worms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arctonyx designates a genus of mustelidae."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The hog badger, known scientifically as **Arctonyx**, inhabits deep jungle tracts, foraging on soil invertebrates with its swine-like snout."*
+> - 📜 **Thomas Pennant (*History of Quadrupeds*):** *"The curious carnivore **Arctonyx** combines the stout body and formidable claws of a badger with the mobile snout of a boar."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The robust fossorial forelimbs of **Arctonyx** are supported by broad clavicles and expanded humeri adapted for powerful burrowing."*

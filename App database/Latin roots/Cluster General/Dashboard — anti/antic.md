@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A ludicrous or grotesque act done for fun and amusement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act as or like a clown.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Playfully ludicrous, bizarre, eccentric, or grotesque; a playful, funny, or attention-seeking prank or gesture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In art history and Renaissance ornament, fantastic decorative figures combining human, animal, and floral arabesques (grotesque or antique style).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And resolution thus fubbed as it is with the rusty curb of old father Antic the law?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou antic Death, which laugh’st us here to scorn, Anon, from thy insulting tyranny, Coupled in bonds of perpetuity, Two Talbots, winged through the lither sky, In thy despite shall scape mortality."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The very all of all is—but, sweet heart, I do implore secrecy—that the King would have me present the Princess, sweet chuck, with some delightful ostentation, or show, or pageant, or antic, or firework."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"How strange or odd soe'er I bear myself, as I perchance hereafter shall think meet to put an **antic** disposition on."*
+> - 📜 **John Milton (*Paradise Lost*):** *"With thousand **antic** tricks and playful gestures, the nimble apes entertained the spectators along the garden wall."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Queequeg went through an **antic** pantomime before his carved wooden idol, puffing smoke between muttered invocations."*

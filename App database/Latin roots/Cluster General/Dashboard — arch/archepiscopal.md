@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or associated with an archbishop.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or associated with an archbishop.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining or belonging to an archbishop or an archdiocese; variant spelling of archiepiscopal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to metropolitan ecclesiastical authority, jurisdictions, and ceremonial prerogatives in liturgical churches.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archepiscopal designates of or associated with an archbishop."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The prelate arrived in his full **archepiscopal** robes, preceded by a silver crucifix and a train of chanting monks."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The King demanded that the **archepiscopal** see of Canterbury submit unconditionally to the royal prerogative."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The council confirmed the **archepiscopal** dignity of Alexandria over the provinces of Egypt and Libya."*

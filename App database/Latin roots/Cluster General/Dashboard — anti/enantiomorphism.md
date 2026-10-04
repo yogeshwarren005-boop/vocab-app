@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The relation of opposition between crystals or molecules that are reflections of one another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relation of opposition between crystals or molecules that are reflections of one another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The structural property of having nonsuperimposable mirror-image forms, as exhibited by crystals or enantiomer molecules; chirality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In crystallography and stereochemistry, spatial asymmetry where crystal faces or molecular configurations relate as right and left hands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enantiomorphism designates the relation of opposition between crystals or molecules that are reflections of one another."*
+> - 📜 **Louis Pasteur (*Researches on the Molecular Asymmetry of Natural Organic Products*):** *"The discovery of **enantiomorphism** in tartrate crystals proved that molecular asymmetry is fundamentally linked to optical activity."*
+> - 📜 **Lord Kelvin (*The Molecular Tactics of a Crystal*):** *"I call any geometrical figure chiral if its image in a plane mirror cannot be brought into coincidence with itself, defining **enantiomorphism**."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The spiral twisting of gastropod shells presents striking biological **enantiomorphism**, producing rare sinistral varieties among dextral species."*

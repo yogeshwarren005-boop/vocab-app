@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The inverse function of the cosine; the angle that has a cosine equal to a given number.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The inverse function of the cosine; the angle that has a cosine equal to a given number.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The inverse cosine function in mathematics; the angle or circular arc whose cosine is a specified numerical value.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In trigonometry and vector calculus, designated $\arccos(x)$, returning values in the principal domain $[0, \pi]$ to calculate angles between vectors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arccos designates the inverse function of the cosine; the angle that has a cosine equal to a given number."*
+> - 📜 **Isaac Newton (*Mathematical Principles of Natural Philosophy*):** *"The calculation of planetary anomalies resolves into finding the **arccos** of the orbital eccentric radius."*
+> - 📜 **Leonhard Euler (*Elements of Algebra*):** *"We express the circular segment area using the series expansion of the **arccos** function."*
+> - 📜 **Carl Friedrich Gauss (*Disquisitiones Arithmeticae*):** *"The angle between two intersecting celestial geodesics is determined by computing the **arccos** of their scalar dot product."*

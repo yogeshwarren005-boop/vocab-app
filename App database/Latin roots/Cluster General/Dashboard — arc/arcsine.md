@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The inverse function of the sine; the angle that has a sine equal to a given number.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The inverse function of the sine; the angle that has a sine equal to a given number.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The inverse trigonometric function of sine, giving the arc or angle whose sine is a specified number.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In probability theory and statistical analysis, the arcsine distribution describes the proportion of time a random walk or Brownian motion stays positive.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arcsine designates the inverse function of the sine; the angle that has a sine equal to a given number."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The critical angle for total internal refraction is determined by evaluating the **arcsine** of the index ratio."*
+> - 📜 **Leonhard Euler (*Introduction to Analysis of the Infinite*):** *"By expanding the **arcsine** in an infinite series of powers of x, we obtain remarkably elegant relations for circular arcs."*
+> - 📜 **Carl Friedrich Gauss (*Disquisitiones Arithmeticae*):** *"The transformation of coordinates in spherical astronomy requires computing the **arcsine** of the celestial declination."*

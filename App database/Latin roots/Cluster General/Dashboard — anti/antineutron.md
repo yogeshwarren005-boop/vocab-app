@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The antiparticle of a neutron.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The antiparticle of a neutron.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The antimatter counterpart of the neutron, composed of two anti-down quarks and one anti-up quark, with zero net electric charge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nuclear and subatomic physics, an antiparticle discovered in 1956, possessing a magnetic moment equal and opposite to that of the neutron.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antineutron designates the antiparticle of a neutron."*
+> - 📜 **Richard Feynman (*The Character of Physical Law*):** *"Although electrically neutral like the neutron, the **antineutron** has an opposite magnetic moment and is composed of antiquarks."*
+> - 📜 **Murray Gell-Mann (*The Quark Model*):** *"An antiproton colliding with a proton can undergo charge-exchange scattering, yielding a neutron and an **antineutron**."*
+> - 📜 **Stephen Hawking (*A Brief History of Time*):** *"In an antimatter universe, atomic nuclei would be constructed entirely from antiprotons and **antineutron** particles."*

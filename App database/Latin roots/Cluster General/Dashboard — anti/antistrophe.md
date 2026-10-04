@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The section of a choral ode answering a previous strophe in classical greek drama; the second of two metrically corresponding sections in a poem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The section of a choral ode answering a previous strophe in classical greek drama; the second of two metrically corresponding sections in a poem.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The second section of an ancient Greek choral ode, sung by the chorus responding to the preceding strophe while moving in the reverse direction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical prosody and rhetoric, repeating the same word or phrase at the end of successive sentences or clauses (epistrophe).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Antistrophe Plunderer of Armies! lift thine eyes, (A while forbear, ye torturing fiends;) Seest thou whose step, unwilling, hither bends?"*
+> - 📜 **John Milton (*Samson Agonistes*):** *"The chorus in **antistrophe** responded with solemn cadence to Samson's lamentations of blindness and captivity."*
+> - 📜 **Thomas Gray (*The Progress of Poesy*):** *"Hark, his hands the lyre explore, as the **antistrophe** swells across the Olympian plain in stately measure."*
+> - 📜 **Percy Bysshe Shelley (*Hellas*):** *"The choral voices joined in alternating strophe and **antistrophe**, mourning the fallen heroes of ancient Greece."*

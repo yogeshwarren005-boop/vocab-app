@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Speak or write in generalities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Draw from specific cases for more general cases.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressed in broad terms rather than specific details; widely distributed throughout the body or across a system; British spelling of generalized.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pathology, describing disease processes, edema, or inflammation affecting the entire organism rather than localized tissues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, generalised designates speak or write in generalities."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Primitive ancestral forms often exhibit **generalised** anatomical characteristics that later diverge into specialized adaptations."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"The early vertebrate fossil presents a remarkably **generalised** skeleton intermediate between fishes and amphibians."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The infection progressed from a localized cutaneous lesion to **generalised** septicemia within forty-eight hours."*

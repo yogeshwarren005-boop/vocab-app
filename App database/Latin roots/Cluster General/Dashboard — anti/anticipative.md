@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by eager anticipation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by eager anticipation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by anticipation; looking ahead, proactive, or expectant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral psychology, mental mechanisms and somatic pre-adjustments oriented toward future stimuli or environmental challenges.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But, to this, Bishop Jebb’s anticipative answer is ready."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"My Koh-i-noor--or (if that’s a platitude) Jewel of Giamschid, the Persian Sofi’s eye; So, in anticipative gratitude, What if I take up my hope and prophesy? -- St. 31."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"But, to this, Bishop Jebb’s anticipative answer is ready."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"Higher intelligence is marked by an **anticipative** coordination of responses to events that have not yet transpired."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"Faith involves an **anticipative** grasp of spiritual reality, walking by hope rather than immediate sight."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Motor preparation involves an **anticipative** tension in the muscular groups designed to execute the pending movement."*

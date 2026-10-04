@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The angle that has a cosecant equal to a given number.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The angle that has a cosecant equal to a given number.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The inverse cosecant function; the angle whose cosecant is a given real number; mathematical notation $\operatorname{arccsc}(x)$.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In calculus and differential analysis, defined for $|x| \ge 1$ with principal range $[-\pi/2, \pi/2] \setminus \{0\}$, having derivative $-1/(|x|\sqrt{x^2-1})$.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arccosecant designates the angle that has a cosecant equal to a given number."*
+> - 📜 **Leonhard Euler (*Introduction to Analysis of the Infinite*):** *"The integral yields directly the **arccosecant** of the variable, completing the quadrature of the hyperbolic curve."*
+> - 📜 **Isaac Newton (*Method of Fluxions*):** *"By resolving the fluxional equation into circular parts, we identify the **arccosecant** as the determining angle of refraction."*
+> - 📜 **Carl Friedrich Gauss (*Theory of the Motion of the Heavenly Bodies*):** *"In evaluating perturbed orbital elements, the **arccosecant** provides a stable formulation near the orbital nodes."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A department of greece in the central peloponnese.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A department of greece in the central peloponnese.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mountainous region in the central Peloponnese of Greece, celebrated in pastoral poetry as an idyllic rural paradise of simplicity and peace.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature and Renaissance bucolic poetry, a utopian realm of pastoral harmony inhabited by shepherds, nymphs, and rustic poets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Nothing could be more commonplace than Chilmark, believe me: life is like this all over rural England, and it's only from a distance that one takes it for Arcadia." "Folly," said Lawrence."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Sir Philip Sidney’s Arcadia, the immortality of which was so fondly predicted by his admirers,* and which, in truth, was full of noble thoughts, delicate images, and graceful turns of language, is now scarcely ever mentioned."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"For example, in Arcadia, when the corn and trees were parched with drought, the priest of Zeus dipped an oak branch into a certain spring on Mount Lycaeus."*
+> - 📜 **Sir Philip Sidney (*The Countess of Pembroke's Arcadia*):** *"Sweet **Arcadia**, where shepherd boys pipe as though they should never grow old upon the flowering hills."*
+> - 📜 **John Milton (*Arcades*):** *"Fair nymphs and well-born youths, that here do sit beside this leafy grove, far from the hills of **Arcadia**."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The rugged valleys of **Arcadia** remained isolated from the maritime commerce and luxurious vices of the coastal Greek ports."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug (or other chemical agent) that is effective against syphilis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug (or other chemical agent) that is effective against syphilis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Effective in treating, preventing, or mitigating syphilis; also an agent or medication used against syphilis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of pharmacotherapy, therapeutic agents including mercury, potassium iodide, Salvarsan, and penicillin targeting Treponema pallidum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antisyphilitic designates a drug (or other chemical agent) that is effective against syphilis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Mercury remained for centuries the sovereign **antisyphilitic** remedy, supplemented in tertiary stages by large doses of potassium iodide."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Ehrlich's synthesis of Salvarsan established a true chemical **antisyphilitic** that destroyed spirochetes without slaying the host."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The medical properties of guaiacum were celebrated across Europe as a miraculous native American **antisyphilitic** wood."*

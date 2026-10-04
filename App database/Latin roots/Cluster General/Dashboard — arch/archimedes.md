@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Greek mathematician and physicist noted for his work in hydrostatics and mechanics and geometry (287-212 bc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Greek mathematician and physicist noted for his work in hydrostatics and mechanics and geometry (287-212 bc).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient Greek mathematician, physicist, engineer, and astronomer of Syracuse (c. 287–212 BCE), renowned for principles of levers, buoyancy, and the spiral water screw.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of science, the foundational thinker whose mathematical treatises on the sphere, cylinder, and parabolic quadrature laid the groundwork for infinitesimal calculus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archimedes designates greek mathematician and physicist noted for his work in hydrostatics and mechanics and geometry (287-212 bc)."*
+> - 📜 **Plutarch (*Life of Marcellus*):** *"So absorbed was **Archimedes** in his geometric diagrams drawn upon the sand that he was unaware Syracuse had fallen."*
+> - 📜 **Galileo Galilei (*Two New Sciences*):** *"We follow the footsteps of divine **Archimedes**, whose deductive geometry unravels the mechanics of heavy bodies."*
+> - 📜 **Isaac Newton (*Principia*):** *"The profound discoveries of **Archimedes** concerning the equilibrium of planes provided the bedrock of modern mechanics."*

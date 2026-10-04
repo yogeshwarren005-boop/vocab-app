@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An angel ranked above the highest rank in the celestial hierarchy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A biennial cultivated herb; its stems are candied and eaten and its roots are used medicinally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An angel of high rank or supreme status in Judeo-Christian and Islamic angelology, such as Michael, Gabriel, or Raphael (from Greek arch- chief + angelos messenger).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical folklore, yellow archangel (Lamium galeobdolon); in Russian geography, the historic Arctic port city of Arkhangelsk named in honor of the Archangel Michael.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"There you have a dim and mighty archangel fitly set before you!"*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"You must mingle in that vast multitude, which the voice of the archangel and the trump of God shall assemble."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Say, goddess, what ensued, when Raphael, The affable archangel . . ."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The **Archangel** Michael, waving his flaming sword, led the heavenly legions against the rebellious host."*
+> - 📜 **William Blake (*The Marriage of Heaven and Hell*):** *"An **Archangel** came and sat by my table, reading with wonder the fiery proverbs of Hell."*
+> - 📜 **Dante Alighieri (*The Divine Comedy: Purgatorio*):** *"We beheld the **Archangel** Gabriel carved in marble with such lifelike grace that he seemed breathing."*

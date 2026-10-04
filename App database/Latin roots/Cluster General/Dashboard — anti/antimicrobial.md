@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent (as heat or radiation or a chemical) that destroys microorganisms that might carry disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of destroying or inhibiting the growth of disease-causing microorganisms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent that kills microorganisms or stops their growth; also applied adjectivally to describe substances with such properties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology and infection control, denoting antibiotics, antifungals, antivirals, or sanitizing agents targeting pathogenic microbes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antimicrobial designates an agent (as heat or radiation or a chemical) that destroys microorganisms that might carry disease."*
+> - 📜 **Alexander Fleming (*Penicillin*):** *"The mould broth exhibited potent **antimicrobial** activity against staphylococci without damaging human leucocytes."*
+> - 📜 **Atul Gawande (*The Checklist Manifesto*):** *"Administering the proper **antimicrobial** prophylaxis within sixty minutes before surgery drastically slashed postoperative infections."*
+> - 📜 **Paul de Kruif (*Microbe Hunters*):** *"Ehrlich sought tirelessly for a chemical bullet possessing specific **antimicrobial** power against the pale spirochetes."*

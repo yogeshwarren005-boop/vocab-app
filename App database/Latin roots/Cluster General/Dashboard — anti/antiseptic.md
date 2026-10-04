@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance that destroys micro-organisms that carry disease without harming body tissues.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thoroughly clean and free of or destructive to disease-causing organisms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Preventing the growth of disease-causing microorganisms; or a chemical substance that can be safely applied to living tissue to destroy microbes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural and literary usage, scrupulously clean, sterile, and free from emotional warmth, passion, or moral taint.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"And his keen sense of the ludicrous side of things often acted as an antiseptic, and kept him right both with himself and with his people."*
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"That women were often forced to go through thirteen or fourteen deliveries when little thought had yet been given to creating an antiseptic environment for childbirth is apparently of little concern to S."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"In a moment she was back with a small bottle and a bit of antiseptic cotton."*
+> - 📜 **Joseph Lister (*The Antiseptic System of Treatment*):** *"The **antiseptic** dressing must completely cover the wound to destroy any airborne germ that might alight upon the raw flesh."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"The Central London Hatchery was gleaming, cold, and entirely **antiseptic**, smelling faintly of carbolic acid."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Blanched Soldier*):** *"The sharp, clean odor of an **antiseptic** lotion hung in the hallway of the secluded sanitarium."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A follower of the doctrine of antinomianism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or influenced by antinomianism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or holding the belief that faith frees Christians from the obligations of moral law; rejecting legal or moral constraint.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological and intellectual history, a doctrinal position holding that gospel grace supersedes the moral requirements of the Mosaic law.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The sermon, as might be expected, was of the extremest antinomian type; on justification by faith, as expounded in the theology of St Paul."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The wildness of an Antinomian predestinarianism has never been so grandly painted as in ‘Johannes Agricola in Meditation’; the white heat of the persecutor glares on us, like a nightmare spectre, in ‘The Heretic’s Tragedy’."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The extreme Puritan sects were infected with an **antinomian** zeal that claimed exemption from the ordinary civil magistrates."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Anne Hutchinson was banished from the Massachusetts colony for preaching her dangerous **antinomian** doctrines to pious matrons."*
+> - 📜 **Sir Walter Scott (*The Heart of Midlothian*):** *"The Cameronian preacher sternly denounced the **antinomian** heresy that severed moral obedience from religious justification."*

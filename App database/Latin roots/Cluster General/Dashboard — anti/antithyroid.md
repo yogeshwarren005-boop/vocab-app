@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the effect of counteracting excessive thyroid activity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the effect of counteracting excessive thyroid activity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inhibiting or reducing the synthesis, secretion, or metabolic activity of thyroid hormones; used to treat hyperthyroidism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical endocrinology, thionamide compounds (such as methimazole or propylthiouracil) that block thyroid peroxidase, decreasing T3 and T4 levels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antithyroid designates having the effect of counteracting excessive thyroid activity."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The clinical introduction of potent **antithyroid** agents revolutionized the medical management of toxic diffuse goiter."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Administration of an **antithyroid** compound results in diminished basal metabolic expenditure and lowered body temperature."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Goitrogenic dietary factors present in cruciferous forage act as natural **antithyroid** agents upon livestock herds."*

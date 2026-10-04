@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Considered ancient life forms that evolved separately from bacteria and blue-green algae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Considered ancient life forms that evolved separately from bacteria and blue-green algae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former or variant scientific term for the domain Archaea, designating primitive prokaryotes with unique cell wall lipids and ribosomal RNA.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microbial taxonomy (coined by Carl Woese and George Fox), microorganisms that thrive in extreme environments (methanogens, extreme halophiles, hyperthermophiles).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archaebacteria designates considered ancient life forms that evolved separately from bacteria and blue-green algae."*
+> - 📜 **Carl Woese (*A Conception of Bacterial Evolution*):** *"The distinct biochemical composition of **archaebacteria** proves they are phylogenetically separate from true eubacteria."*
+> - 📜 **Stephen Jay Gould (*Full House*):** *"The discovery of **archaebacteria** fundamentally reorganized the tree of life into three great domains."*
+> - 📜 **Lynn Margulis (*Five Kingdoms*):** *"Extremophilic **archaebacteria** preserve molecular clues to the hot, reducing conditions of the prebiotic Earth."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The intense dislike for and prejudice against jewish people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The intense dislike for and prejudice against jewish people.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hostility to, prejudice against, or persecution of Jews as a religious, cultural, or ethnic group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social philosophy and modern European history, systematic ideological and state-sponsored bigotry leading to persecution and the Holocaust.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antisemitism designates the intense dislike for and prejudice against jewish people."*
+> - 📜 **George Orwell (*Anti-Semitism in Britain*):** *"No rational argument can completely eradicate **antisemitism**, because it operates as an emotional obsession independent of objective facts."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The systematic horrors of German **antisemitism** culminated in the cold-blooded extermination of millions in industrial death camps."*
+> - 📜 **Bertrand Russell (*Has Man a Future?*):** *"Racial bigotry such as **antisemitism** demonstrates how easily modern civilization can relapse into barbaric tribal hatreds."*

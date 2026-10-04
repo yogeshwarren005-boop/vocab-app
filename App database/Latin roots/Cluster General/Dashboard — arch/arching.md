@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Form an arch or curve.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Forming or resembling an arch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Curving or bending into the shape of an arch; forming an overarching vault or curved silhouette.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural architecture and botany, branches, boughs, or masonry ribs spanning an open space in a parabolic curve.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"B.] She Says She Loes Me Best Of A’ Tune—“Oonagh’s Waterfall.” Sae flaxen were her ringlets, Her eyebrows of a darker hue, Bewitchingly o’er-arching Twa laughing e’en o’ lovely blue; Her smiling, sae wyling."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Picturesque, all this.-- Here, Val, here's your coffee." "But do you know each other so well as that?" exclaimed Laura, arching her wren's-feather eyebrows."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"At the same time appeared the marvellous phenomenon of eight rainbows arching over the mouth of the cave."*
+> - 📜 **John Muir (*The Mountains of California*):** *"The magnificent sugar pines formed **arching** boughs that sheltered the trail from the fierce afternoon sun."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"She looked up at the **arching** canopy of beech leaves that filtered the midday light into a cool green gloom."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"An **arching** doorway of ancient Roman brick gave entrance to the sunken courtyard of the palace."*

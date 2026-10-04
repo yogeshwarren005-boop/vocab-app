@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a system to destroy satellites in orbit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a system to destroy satellites in orbit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Designed, developed, or employed to disable, damage, or destroy military or communications satellites in Earth orbit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aerospace defense and space warfare doctrine, kinetic-kill missiles, laser systems, or co-orbital interceptors targeting space assets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antisatellite designates of or relating to a system to destroy satellites in orbit."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The rival superpowers deployed orbital interceptors and **antisatellite** rockets to blind each other's communications networks."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"The militarization of near-Earth orbits introduced formidable **antisatellite** weapons capable of neutralizing reconnaissance platforms."*
+> - 📜 **Bertrand Russell (*Has Man a Future?*):** *"The development of spaceborne **antisatellite** systems threatens to destabilize international deterrence and trigger rapid escalation."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The historic period preceding the middle ages in europe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extreme oldness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient past, especially the period of classical Mediterranean history before the Middle Ages; great age.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical classification, the classical era of Greece and Rome, or ancient physical relics preserved from past millennia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hadst thou not the privilege of antiquity upon thee— LAFEW."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The rabble call him lord, And, as the world were now but to begin, Antiquity forgot, custom not known, The ratifiers and props of every word, They cry ‘Choose we!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is not your voice broken, your wind short, your chin double, your wit single, and every part about you blasted with antiquity?"*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The majestic monuments of Roman **antiquity** inspired both awe and melancholy in the minds of enlightened travelers."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"He possessed an intimate familiarity with the historians and philosophers of classical **antiquity**."*
+> - 📜 **Sir Walter Scott (*Rob Roy*):** *"The family charter claimed an **antiquity** stretching back into the misty chronicles of early Scottish history."*

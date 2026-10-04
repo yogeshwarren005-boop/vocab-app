@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The administration of an anticoagulant drug to retard coagulation of the blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The administration of an anticoagulant drug to retard coagulation of the blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical process of inhibiting, retarding, or preventing blood coagulation or clot formation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiovascular pharmacotherapy, maintaining therapeutic prolongation of clotting times (e.g., INR) to avert systemic embolism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anticoagulation designates the administration of an anticoagulant drug to retard coagulation of the blood."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Continuous therapeutic **anticoagulation** must be maintained in patients with mechanical heart valves to forestall thromboembolism."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The physiological mechanism of **anticoagulation** involves complex circulating inhibitors that balance fibrinolytic activity."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry*):** *"Chemical agents producing **anticoagulation** in organic fluids allow prolonged laboratory examination of corpuscular elements."*

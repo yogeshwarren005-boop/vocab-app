@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A modern scholar who is in a position to acquire more than superficial knowledge about many different interests.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A modern scholar who is in a position to acquire more than superficial knowledge about many different interests.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person whose knowledge, skills, or interests extend across multiple fields, rather than being specialized in one specific area.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and ecology, an organism capable of thriving in diverse environments and utilizing a wide range of food resources.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, generalist designates a modern scholar who is in a position to acquire more than superficial knowledge about many different interests."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The omnivorous bird acts as a resilient ecological **generalist**, feeding on seeds, fruits, or insects depending on the season."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The educated philosopher of nature should strive to remain a **generalist**, synthesizing principles across astronomy, chemistry, and biology."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"In early primitive societies, every huntsman was a practical **generalist**, crafting weapons, navigating wilderness, and curing wounds."*

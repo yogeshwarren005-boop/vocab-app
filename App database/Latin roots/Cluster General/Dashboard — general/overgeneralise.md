@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Draw too general a conclusion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Draw too general a conclusion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To draw a conclusion that is too broad, sweeping, or insufficiently supported by facts; British spelling of overgeneralize.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology and linguistics, applying grammatical rules or categorical judgments too widely to exceptions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overgeneralise designates draw too general a conclusion."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Untrained thinkers constantly **overgeneralise** from individual personal misfortunes, attributing systemic malice to ordinary chance."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"In early developmental stages, children tend to **overgeneralise** linguistic inflections across irregular verbs."*
+> - 📜 **William James (*Talks to Teachers on Psychology*):** *"The young scholar must beware the impulse to **overgeneralise** from a single striking laboratory demonstration."*

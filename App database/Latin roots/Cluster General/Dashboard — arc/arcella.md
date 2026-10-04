@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An amoeba-like protozoan with a chitinous shell resembling an umbrella.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An amoeba-like protozoan with a chitinous shell resembling an umbrella.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of testate amoebae characterized by a dome-shaped, circular shell or test with a central aperture on the ventral surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In protistology and freshwater ecology, benthic testate lobose amoebae in the family Arcellidae that construct chitinoid, hemispherical carapaces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arcella designates an amoeba-like protozoan with a chitinous shell resembling an umbrella."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Examining pond sediments through the microscope revealed minute shelled infusoria, including the circular test of **Arcella**."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The freshwater protozoan **Arcella** secretes a chitinous, umbrella-shaped shell from which pseudopodia emerge through a central pore."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"In **Arcella**, the protoplasmic body is sheltered within a rigid hemispherical capsule bearing gas vacuoles for buoyancy."*

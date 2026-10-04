@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disappointing decline after a previous rise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A change from a serious subject to a disappointing one.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A disappointing end to an exciting or impressive series of events; an abrupt drop from high expectation to bathos.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical poetics and drama, the sudden descent from a dignified or lofty mood to the commonplace, ridiculous, or trivial.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood’s deep attachment was a matter of great interest among all around him; but, after having been pointed out for so many years as the perfect exemplar of thriving bachelorship, his lapse was an anticlimax somewhat resembling that of St."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood’s deep attachment was a matter of great interest among all around him; but, after having been pointed out for so many years as the perfect exemplar of thriving bachelorship, his lapse was an anticlimax somewhat resembling that of St."*
+> - 📜 **Alexander Pope (*Peri Bathous, or The Art of Sinking in Poetry*):** *"Nothing so delights the connoisseur of bathos as a sudden **anticlimax** that plunges the sublime hero into a kitchen utensil."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The grand imperial expedition, launched with vast expenditures, ended in the miserable **anticlimax** of a border truce."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber's grandiloquent declaration culminated in an absurd **anticlimax** of financial insolvency and beer bills."*

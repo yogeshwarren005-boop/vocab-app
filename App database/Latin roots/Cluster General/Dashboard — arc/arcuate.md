@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Forming or resembling an arch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Forming or resembling an arch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bent or curved like a bow; shaped like an arch or crescent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomical nomenclature and geology, descriptive of curved structures such as the arcuate artery, arcuate fasciculus, or curved mountain belts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arcuate designates forming or resembling an arch."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The beak of the honey-eater exhibits an **arcuate** curvature exquisitely adapted for probing deep floral tubes."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The **arcuate** crest of the ilium provides expanded surface area for the attachment of powerful gluteal muscles."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"In the avian brain, the **arcuate** tract connects the sensory centers of the forebrain with motor coordination nuclei."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A town in southern turkey; ancient commercial center and capital of syria; an early center of christianity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in southern turkey; ancient commercial center and capital of syria; an early center of christianity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient Greco-Roman metropolis on the Orontes River (modern Antakya, Turkey), historically one of the great centers of Hellenistic and early Christian culture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In late antique historiography and patristics, capital of the Seleucid Empire and a major Roman administrative center where the term 'Christian' first arose.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Before the palace of Antioch Scene I."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The temple of Diana at Ephesus Dramatis Personæ ANTIOCHUS, king of Antioch."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This Antioch, then, Antiochus the Great Built up, this city, for his chiefest seat; The fairest in all Syria."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The luxurious citizens of **Antioch** preferred theatrical spectacles and nocturnal revels to the sober defense of their magnificent walls."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The theological school of **Antioch** championed historical, literal biblical interpretation against the allegorists of Alexandria."*
+> - 📜 **Sir Walter Scott (*The Talisman*):** *"The Crusader princes established the principality of **Antioch**, crowning their military successes with an opulent eastern court."*

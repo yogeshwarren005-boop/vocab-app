@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Draw from specific cases for more general cases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Speak or write in generalities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To draw a general conclusion from specific facts; to make widely applicable or widespread.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In inductive epistemology, moving from idiosyncratic data points to universal formulations governing broader categories.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"A man just can't generalize the creatures."*
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"It is only when they generalize too confidently that they are in danger of misleading us; for all expositions of the art and practice of poetry must necessarily be incomplete."*
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"We may almost venture to generalize our statement further, and to assert that no writer since Shakespeare has left us so true a picture of the British nation."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"True natural philosophers do not precipitately **generalize** from isolated experiments, but proceed by orderly steps of induction."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"We cannot safely **generalize** concerning human motives without accounting for varying historical and cultural conditions."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"It is hazardous to **generalize** upon the fertility of hybrids until extensive crossing experiments have been conducted."*

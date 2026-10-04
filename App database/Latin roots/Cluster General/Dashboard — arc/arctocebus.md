@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of lorisidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of lorisidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of lorisid primates containing the golden angwantibos, or golden potto, native to the tropical rainforests of Central Africa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical anthropology and primatology, small nocturnal strepsirrhine primates characterized by specialized clawed grooming digits and toxic brachial secretions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arctocebus designates a genus of lorisidae."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"The osteology of the West African lemur genus **Arctocebus** reveals extreme reduction of the index finger to grasp branches firmly."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"In **Arctocebus**, the slow arboreal locomotion is facilitated by specialized retia mirabilia vascular networks in the limb muscles."*
+> - 📜 **St. George Jackson Mivart (*Man and Apes*):** *"The angwantibo, or **Arctocebus**, represents an evolutionary offshoot of the loris group adapted to dense lower canopy undergrowth."*

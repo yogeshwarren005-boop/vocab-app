@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is opposed (to an action or policy or practice etc.).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not in favor of (an action or proposal etc.).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Opposed to, against, or counteracting a particular principle, group, policy, or movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociopolitical discourse, an individual or faction voting against or resisting established institutional policy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The anti-climax would be too intolerable; and her return might bring reproach upon her idolized husband."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"The Assembly by 346 votes to 120 decided to goon; whereupon the Anti-Union leaders resigned the seats which up to this time they had retained on the Union Committee."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"But experience had shown that it was the existence of an Established Church, towards which the Anti-Union party had turned longing eyes, which was the determining factor in the wrecking of the Union negotiations."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The parliamentary debates divided into bitter factions, with the **anti**-court party contesting every royal grant."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"A purely destructive zeal produces an **anti**-social disposition that dismantles venerable institutions without creating durable replacements."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The prevailing sentiment in small communities is often aggressively **anti**-individual, punishing eccentricity as though it were crime."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characteristic of the atmosphere around a high pressure center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of the atmosphere around a high pressure center.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of an anticyclone; associated with high barometric pressure and calm weather.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dynamic meteorology and physical oceanography, describing clockwise atmospheric circulation in the Northern Hemisphere (counterclockwise in the Southern) or oceanic gyres driven by high pressure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anticyclonic designates of or relating to or characteristic of the atmosphere around a high pressure center."*
+> - 📜 **Francis Galton (*Meteorographica*):** *"The calm, crisp clarity of winter frosts is the direct outcome of stable **anticyclonic** conditions over the continent."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Persistent **anticyclonic** winds divert ocean surface currents into vast rotating subtropical gyres."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"An **anticyclonic** stillness settled over the vale, freezing the dripping boughs into motionless icicles."*

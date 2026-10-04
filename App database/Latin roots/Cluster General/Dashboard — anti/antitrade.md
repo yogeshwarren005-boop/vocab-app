@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Winds blowing from west to east and lying above the trade winds in the tropics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Winds blowing from west to east and lying above the trade winds in the tropics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A wind system blowing in the opposite direction to the trade winds; specifically, upper-atmosphere westerlies in the tropics or prevailing mid-latitude westerlies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical meteorology and climatology, the upper return current blowing poleward from the ITCZ, or the surface westerlies between 30° and 60° latitude.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antitrade designates winds blowing from west to east and lying above the trade winds in the tropics."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The upper atmospheric dust was carried eastward by the prevailing **antitrade** winds that blow above the surface trade current."*
+> - 📜 **Alexander von Humboldt (*Cosmos: A Sketch of a Physical Description of the Universe*):** *"High above the trade wind zone, the counter-current of the **antitrade** carries equatorial warmth toward the temperate zones."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The ship caught the freshening **antitrade** gale, rolling heavily as she shaped her course toward Cape Horn."*

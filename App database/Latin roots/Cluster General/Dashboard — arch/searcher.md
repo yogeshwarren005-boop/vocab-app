@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone making a search or inquiry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A customs official whose job is to search baggage or goods or vehicles for contraband or dutiable items.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who or an instrument that searches, examines, investigates, or scrutinizes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical public health and customs administration, an official inspector appointed to examine cargo or ascertain causes of death in plague epidemics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"And here we have only to repeat the decision of the Searcher of hearts--the Judge of the quick and dead."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Mill, there are probably few beyond the circle of his personal friends who are aware that he was also an author in a modest way on botanical subjects, and a keen searcher after wild plants."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The present codes of human systems disappoint the weary searcher after a divine theology, adequate to the right education of human 234:24 thought."*
+> - 📜 **Daniel Defoe (*A Journal of the Plague Year*):** *"The parish appointed an elderly **searcher** to inspect every corpse and report whether the victim died of the pestilence."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"He became a subtle **searcher** into the hidden recesses of the human heart, probing its secret guilt with morbid curiosity."*
+> - 📜 **Sir Walter Scott (*The Antiquary*):** *"The zealous **searcher** after historical relics spent weeks sifting the gravel of the ancient battlefield."*

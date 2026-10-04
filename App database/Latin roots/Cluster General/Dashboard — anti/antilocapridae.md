@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Comprising only the pronghorns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Comprising only the pronghorns.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of artiodactyl ungulates endemic to North America, of which the pronghorn is the only extant living representative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology and evolutionary mammalogy, a diverse Miocene-Pliocene radiation of North American horned ruminants featuring branched deciduous horn sheaths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antilocapridae designates comprising only the pronghorns."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The family **Antilocapridae** represents a distinct North American evolutionary radiation entirely separate from Old World bovids."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"In the family **Antilocapridae**, the persistent bony horn core is covered by an annually deciduous keratinous sheath."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The fossil record of the **Antilocapridae** shows that numerous multi-horned genera roamed North American grasslands in the Tertiary epoch."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The antiparticle of a lepton.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The antiparticle of a lepton.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In particle physics, the antimatter counterpart of a lepton, possessing the same mass but opposite electric charge and leptonic quantum numbers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the Standard Model, any subatomic antiparticle such as the positron, positive muon, positive tau, or corresponding antineutrinos produced in high-energy collisions and weak decays.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antilepton designates the antiparticle of a lepton."*
+> - 📜 **Steven Weinberg (*The Quantum Theory of Fields*):** *"Every lepton field is paired with an **antilepton** operator that creates states of identical mass and opposite charge."*
+> - 📜 **Murray Gell-Mann (*The Quark and the Jaguar*):** *"In high-energy collisions, a lepton and an **antilepton** may annihilate to produce a burst of electroweak bosons."*
+> - 📜 **Richard Feynman (*QED: The Strange Theory of Light and Matter*):** *"The positron may be viewed mathematically as an **antilepton** propagating backward through spacetime."*

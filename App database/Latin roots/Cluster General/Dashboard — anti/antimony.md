@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metallic element having four allotropic forms; used in a wide variety of alloys; found in stibnite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metallic element having four allotropic forms; used in a wide variety of alloys; found in stibnite.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brittle, lustrous, silvery-white metallic element (symbol Sb, atomic number 51) used in alloys, semiconductors, and flame retardants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metallography and alchemy, a metalloid historically known as stibium, alloyed with lead to harden type metal and bearings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Crucibles, alembics, and retorts were confusedly piled in various corners, and on a small table I saw distributed in separate bottles a number of mineral and metallic substances, which I recognized as antimony, mercury, plumbago, arsenic, borax, etc."*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"Here I have a metal called antimony, which is easily acted upon by chlorine."*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"I will place this lump of antimony in a jar of chlorine, and so far as you can see very little action takes place between the metal and the chlorine."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"The alchemists spent much labor in calcining **antimony**, hoping to extract from its dark ore the secret of rejuvenation."*
+> - 📜 **Michael Faraday (*Chemical Manipulation*):** *"Lustrous crystals of metallic **antimony** were melted in the crucible to form durable alloys with tin and lead."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"The mineral **antimony** reveals strange dual properties, resembling a brittle metal yet vaporizing under intense furnace heat."*

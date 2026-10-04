@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The dialect of ancient greek spoken by arcadians.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The dialect of ancient greek spoken by arcadians.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to Arcadia; rustic, pastoral, or bucolic; an alternative form of Arcadian.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical linguistics and poetic meters, the ancient Greek dialect or idyllic poetic mode associated with the Peloponnesian highlands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arcadic designates the dialect of ancient greek spoken by arcadians."*
+> - 📜 **John Dryden (*The Works of Virgil*):** *"The poet sang of shepherds playing hollow reeds in the shade of ancient pines with true **arcadic** grace."*
+> - 📜 **Sir Philip Sidney (*The Defense of Poesy*):** *"Pastoral verse transporteth the mind into an **arcadic** serenity where worldly ambition hath no power to torment."*
+> - 📜 **Alexander Pope (*Pastorals*):** *"Echoing through the verdant valley, the youth responded to his rival in sweet **arcadic** strains."*

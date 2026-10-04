@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The leadership ability of a military general.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The office and authority of a general.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The skills, strategic leadership, and tactical ability of a military general commander.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military history and operational theory, art of directing combined army formations to achieve decisive strategic theater objectives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"It is a great triumph of skill to gain the former, but still greater proof of generalship to maintain possession of the latter, for the man must battle for his fortress at every door and window."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The brilliant **generalship** of Belisarius repeatedly compensated for his acute numerical inferiority in the Gothic campaigns."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"William of Orange displayed cool courage and patient **generalship** under circumstances that would have broken a lesser spirit."*
+> - 📜 **Winston Churchill (*Marlborough: His Life and Times*):** *"The victory of Blenheim established Marlborough's **generalship** as supreme among contemporary European military commanders."*

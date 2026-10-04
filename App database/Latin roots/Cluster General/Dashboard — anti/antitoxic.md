@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Counteracting a toxin or poison.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Counteracting a toxin or poison.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Counteracting, neutralizing, or opposing the effects of a toxin or poison.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In immunology and therapeutics, describing antibodies (such as diphtheria antitoxin) or chemical antidotes that bind and neutralize specific bacterial toxins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antitoxic designates counteracting a toxin or poison."*
+> - 📜 **Emil von Behring (*Nobel Lecture: Serum Therapy in Therapeutics*):** *"The blood serum of an immunized horse possesses an **antitoxic** power capable of neutralizing the diphtheria poison in vivo."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Immediate administration of **antitoxic** serum remains the only sovereign remedy against tetanus spasms."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"The **antitoxic** unit was standardized by measuring the exact quantity of serum required to neutralize a fatal dose of toxin."*

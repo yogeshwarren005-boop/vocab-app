@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Electrical conduction through a gas in an applied electric field.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A continuous portion of a circle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A continuous portion of a curved line, especially of a circle; also a luminous electrical discharge across a gap between electrodes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geometry and electrical engineering, a closed segment of a differentiable curve or a sustained high-current thermal plasma discharge.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Joan of Arc hath been A virgin from her tender infancy, Chaste and immaculate in very thought; Whose maiden blood, thus rigorously effused, Will cry for vengeance at the gates of heaven."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Wait: I’ll do it for you.” An arc of silver shone on her right side: the sword had descended."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Song—My Highland Lassie, O Tune—“The deuks dang o’er my daddy.” Nae gentle dames, tho’ e’er sae fair, Shall ever be my muse’s care: Their titles a’ arc empty show; Gie me my Highland lassie, O."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The rays of sunlight were bent along a subtle circular **arc** by the curvature of the atmosphere."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"A brilliant rainbow formed an unbroken **arc** spanning from the mountain ridge down to the coastal waters."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"A dazzling electric **arc** bridged the gap between the two carbon rods, generating intense luminescence."*

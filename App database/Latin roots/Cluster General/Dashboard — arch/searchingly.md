@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a searching manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a searching manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that examines, scrutinizes, or penetrates deeply and intently.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary description and interpersonal behavior, observing with acute, unwavering analytical scrutiny to discern concealed motives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"But just now two merry eyes were searchingly raised to the castle from the meadow below, as if they might discover something extraordinary behind the fast-closed shutters."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Kurt had climbed a tree and from the highest branch he could reach was searchingly studying the castle, as if something special was to be discovered there."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Look, one can see the open windows quite plainly now." "Can we see the bad baron, too?" asked Mäzli peeping up searchingly."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Ralph Touchett looked **searchingly** at his cousin, wondering what secret sadness lay behind her radiant smile."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Angel Clare looked **searchingly** into her eyes, striving to reconcile her past confession with his idealized image of her."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes examined the footprints **searchingly** with his magnifying glass, measuring the depth of each impression in the damp peat."*

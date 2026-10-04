@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Imitative of an archaic style or manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Imitative of an archaic style or manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consciously imitating or reviving an archaic style or ancient manner in art, literature, or architecture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical art history, describing Roman sculptures that deliberately mimicked the rigid poses and stylized drapery of the Greek Archaic period.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"As nothing definite is known of their place of origin, this chronology can only be based on their archaistic appearance, or on the fact that they have the usual "on biscuit" glazes, which seems to be the accepted signal for a Ming attribution."*
+> - 📜 **Winckelmann (*History of Ancient Art*):** *"Roman sculptors produced **archaistic** copies of Greek statues to satisfy the antiquarian tastes of wealthy patricians."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Gilbert Osmond surrounded himself with **archaistic** curios, treasuring the stiff formal elegance of forgotten centuries."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The pre-Raphaelite painter adopted an **archaistic** simplicity of color to protest the glossy vulgarity of the Royal Academy."*

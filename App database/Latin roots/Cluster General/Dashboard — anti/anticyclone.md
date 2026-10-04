@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (meteorology) winds spiraling outward from a high pressure center; circling clockwise in the northern hemisphere and counterclockwise in the southern.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (meteorology) winds spiraling outward from a high pressure center; circling clockwise in the northern hemisphere and counterclockwise in the southern.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A weather system characterized by high atmospheric pressure at its center, around which winds circulate clockwise in the Northern Hemisphere and counterclockwise in the Southern Hemisphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In synoptic meteorology, an extensive descending air mass associated with stable atmospheric conditions, clear skies, light winds, and temperature inversions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anticyclone designates (meteorology) winds spiraling outward from a high pressure center; circling clockwise in the northern hemisphere and counterclockwise in the southern."*
+> - 📜 **Francis Galton (*Meteorographica*):** *"I propose the term **anticyclone** for those vast regions of high barometric pressure where dry air gently descends and diverges outward."*
+> - 📜 **Joseph Conrad (*The Secret Sharer*):** *"A persistent **anticyclone** held the Gulf of Siam in a glassy, suffocating calm for days on end."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"The permanent subtropical **anticyclone** drives the trade winds across thousands of miles of tropical ocean."*

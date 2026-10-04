@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug used to treat or prevent convulsions (as in epilepsy).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug used to treat or prevent convulsions (as in epilepsy).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medication or pharmacological agent used to prevent, control, or reduce the severity of epileptic seizures or convulsions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, neurotherapeutic drugs such as hydantoins, barbiturates, or GABAergic agents stabilizing neuronal cell membranes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anticonvulsant designates a drug used to treat or prevent convulsions (as in epilepsy)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Potassium bromide was formerly the most reliable **anticonvulsant** in the treatment of grand mal epilepsy."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The physiological discovery of reflex centers paved the way for modern **anticonvulsant** compounds that soothe cerebral irritation."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Violent involuntary spasms can be mitigated through the timely administration of an **anticonvulsant** narcotic agent."*

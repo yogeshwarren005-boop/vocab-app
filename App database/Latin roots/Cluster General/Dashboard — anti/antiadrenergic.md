@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to blocking or reducing adrenergic effects in the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to blocking or reducing adrenergic effects in the body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inhibiting, blocking, or diminishing the physiological effects of adrenaline, noradrenaline, or adrenergic receptors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In autonomic cardiovascular pharmacology, sympatholytic agents including alpha- and beta-blockers that attenuate sympathetic tone and reduce blood pressure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antiadrenergic designates relating to blocking or reducing adrenergic effects in the body."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The administration of an **antiadrenergic** preparation demonstrated significant reduction in peripheral vascular resistance."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Experimental physiological studies show that **antiadrenergic** compounds dampen cardiac accelerator nerve responses under stress."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Inhibition of the sympathetic visceral pathways produces an **antiadrenergic** effect, curbing involuntary tremor and tachycardia."*

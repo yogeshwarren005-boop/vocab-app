@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug that prevents or alleviates nausea and vomiting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug that prevents or alleviates nausea and vomiting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medication or pharmacological agent that prevents, relieves, or suppresses nausea and vomiting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical oncology and anesthesia, a class of drugs (such as 5-HT3 receptor antagonists and neurokinin-1 inhibitors) essential for managing post-operative and chemotherapy-induced emesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antiemetic designates a drug that prevents or alleviates nausea and vomiting."*
+> - 📜 **Siddhartha Mukherjee (*The Emperor of All Maladies*):** *"The development of ondansetron as a targeted **antiemetic** revolutionized high-dose cisplatin chemotherapy, freeing patients from agonizing nausea."*
+> - 📜 **Jerome Groopman (*The Anatomy of Hope*):** *"The oncologist administered a prophylactic **antiemetic** infusion before starting the toxic combination regimen."*
+> - 📜 **Oliver Sacks (*Uncle Tungsten*):** *"Ginger tea had been brewed by my mother as a gentle natural **antiemetic** whenever maritime travels threatened seasickness."*

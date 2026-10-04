@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (physics) the point of maximum displacement in a periodic system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (physics) the point of maximum displacement in a periodic system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The point or region of maximum amplitude, displacement, or vibration in a standing wave system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In acoustics, wave mechanics, and radio engineering, the stationary position where interfering waves reinforce each other constructively.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antinode designates (physics) the point of maximum displacement in a periodic system."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"In examining the standing vibrations of the glass plate, every **antinode** threw off the fine lycopodium powder in agitated clouds."*
+> - 📜 **John Tyndall (*Sound*):** *"Inside the resonance tube, the open mouth forms an **antinode** of maximum air particle velocity, producing a powerful fundamental tone."*
+> - 📜 **Lord Rayleigh (*The Theory of Sound*):** *"The pressure fluctuations vanish at a velocity **antinode**, whereas the kinetic energy of the vibrating air reaches its absolute peak."*

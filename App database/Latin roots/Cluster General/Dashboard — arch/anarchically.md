@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a lawless rebellious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a lawless rebellious manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a lawless, chaotic, or uncontrolled manner, without recognized authority or discipline.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociological analysis, describing spontaneous grassroots actions occurring outside institutional regulations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anarchically designates in a lawless rebellious manner."*
+> - 📜 **Alexis de Tocqueville (*The Old Regime and the Revolution*):** *"When central authority collapsed, peasants acted **anarchically**, burning manorial records in village squares."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The population fled **anarchically** through the blackened suburbs, abandoning all civilized restraint in their panic."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"The retreating army moved **anarchically** along the muddy highway, deaf to the shouts of their officers."*

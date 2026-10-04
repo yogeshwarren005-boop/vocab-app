@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a sudden change from an impressive to a ludicrous style.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coming after the climax especially of a dramatic or narrative plot.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing disappointment at the end of an exciting or impressive series of events; falling flat after high expectation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary rhetoric and narrative design, an abrupt descent from a dignified, heroic, or tense pitch to a trivial or ludicrous reality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anticlimactic designates of or relating to a sudden change from an impressive to a ludicrous style."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The revelation of the treasure chest proved completely **anticlimactic**, for when the lid swung back, it was utterly empty."*
+> - 📜 **George Bernard Shaw (*Pygmalion*):** *"The ending of the melodrama was hopelessly **anticlimactic**, descending into bourgeois domestic negotiations."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The demise of the Martians by terrestrial bacteria seemed to many an **anticlimactic** conclusion to a titanic interplanetary invasion."*

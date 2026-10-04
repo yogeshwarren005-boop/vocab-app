@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fur seals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fur seals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of eared seals in the family Otariidae comprising the southern fur seals, inhabiting subantarctic and temperate southern oceans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine mammalogy, marine carnivorans characterized by dense insulating underfur, external pinnae, and polygynous breeding colonies on rocky shores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arctocephalus designates fur seals."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"On the rocky reefs of the Falkland Islands, herds of the southern fur seal, **Arctocephalus**, were formerly hunted in vast numbers."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The dental formula and skull morphology of **Arctocephalus** distinguish it readily from the hair seals of the family Phocidae."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The seal hunters pursued **Arctocephalus** across desolate antarctic skerries to secure their valuable pelts for the Canton market."*

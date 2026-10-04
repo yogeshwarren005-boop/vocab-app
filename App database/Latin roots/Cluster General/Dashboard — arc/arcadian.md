@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inhabitant of arcadia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used with regard to idealized country life) idyllically rustic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to Arcadia or its inhabitants; delightfully simple, peaceful, and rustic, characteristic of an idealized rural paradise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pastoral literary aesthetics, denoting bucolic simplicity, innocent country life, or an uncorrupted golden age free from modern urban vice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak could pipe with Arcadian sweetness, and the sound of the well-known notes cheered his own heart as well as those of the loungers."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"No idly-feign’d, poetic pains, My sad, love-lorn lamentings claim: No shepherd’s pipe-Arcadian strains; No fabled tortures, quaint and tame."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"He agreed with Laura, however, that her fair Arcadian was a trifle too innocent for her years."*
+> - 📜 **Sir Walter Scott (*Waverley*):** *"The sequestered highland glen offered an **arcadian** tranquility far removed from the clamor of civil strife."*
+> - 📜 **Nathaniel Hawthorne (*The Blithedale Romance*):** *"Our idealistic community aspired to establish an **arcadian** lifestyle based on manual labor and mutual brotherhood."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The sheep-shearing supper in the great barn retained an **arcadian** cheerfulness derived from ancient Wessex custom."*

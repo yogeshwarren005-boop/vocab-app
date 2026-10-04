@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Binturongs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Binturongs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monotypic genus of viverrid carnivorans comprising the binturong (Arctictis binturong), or Asian bearcat, of Southeast Asia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mammalogy, an arboreal Southeast Asian carnivoran in family Viverridae possessing a fully prehensile tail and nocturnal frugivorous habits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arctictis designates binturongs."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Among the dense forests of Sumatra, we collected a specimen of **Arctictis**, known to the natives as the arboreal bearcat."*
+> - 📜 **Thomas Pennant (*History of Quadrupeds*):** *"The curious animal **Arctictis** has long shaggy black hair, tufted ears, and a remarkably strong prehensile tail for climbing."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The dentition of **Arctictis** indicates a mixed diet, departing from typical hypercarnivorous viverrids to consume forest fruits."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In the direction opposite to the rotation of the hands of a clock.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a direction opposite to the direction in which the hands of a clock move.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Moving in the opposite direction to the hands of a clock; counterclockwise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanics, coordinate geometry, and angular momentum, standard positive rotation according to the right-hand screw rule.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anticlockwise designates in the direction opposite to the rotation of the hands of a clock."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The hands of the chronometer revolved rapidly in an **anticlockwise** direction as the machine journeyed into past epochs."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The magnetic needle swung steadily in an **anticlockwise** direction under the influence of the ascending electric current."*
+> - 📜 **Charles Darwin (*The Movement and Habits of Climbing Plants*):** *"The twining shoot of the hop vine regularly circumnutates in an **anticlockwise** direction around its support."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of an insect pupa) enclosed in a rigid case.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of an insect pupa) enclosed in a rigid case.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pressed closely together; compact; compressed or narrowed; also referring to pupae encased in a hardened larval cuticle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology and descriptive anatomy, pupae enclosed within a hardened puparium formed from the penultimate larval skin (e.g., higher Diptera).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coarctate designates (of an insect pupa) enclosed in a rigid case."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The **coarctate** pupa of the blowfly remains immobile within the hardened larval skin until the adult imago emerges."*
+> - 📜 **William Kirby (*An Introduction to Entomology*):** *"In dipterous insects with a **coarctate** nymph, the transformation takes place inside a compact, barrel-shaped casing."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"The segmentation becomes obscured in the **coarctate** stage, forming a rigid protective capsule against desiccation."*

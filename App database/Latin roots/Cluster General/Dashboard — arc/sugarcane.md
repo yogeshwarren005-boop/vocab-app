@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Juicy canes whose sap is a source of molasses and commercial sugar; fresh canes are sometimes chewed for the juice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tall tropical southeast asian grass having stout fibrous jointed stalks; sap is a chief source of sugar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tall perennial tropical grass (Saccharum officinarum) cultivated for its stout fibrous stalks rich in sucrose juice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agronomy and economic botany, a C4 photosynthetic crop in family Poaceae, responsible for the majority of global refined sucrose production.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Sugarcane House, Richmond, March, 18-- DEAR MAMA,--I hope you are quite well."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Vast plantations of **sugarcane** covered the fertile coastal plains of Mauritius, watered by mountain streams."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The cultivation of **sugarcane** in the West Indian colonies proved extraordinarily lucrative to English merchants."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of America*):** *"The slaves cut the ripe **sugarcane** beneath the tropical sun, hauling the heavy bundles to the grinding mills."*

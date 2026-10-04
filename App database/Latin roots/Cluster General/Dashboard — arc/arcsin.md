@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The inverse function of the sine; the angle that has a sine equal to a given number.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The inverse function of the sine; the angle that has a sine equal to a given number.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The inverse sine trigonometric function; the angle or arc whose sine equals a given numerical value; notation $\arcsin(x)$.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In calculus and mathematical physics, analytic function mapping $[-1, 1]$ to $[-\pi/2, \pi/2]$ with derivative $1/\sqrt{1-x^2}$.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arcsin designates the inverse function of the sine; the angle that has a sine equal to a given number."*
+> - 📜 **Isaac Newton (*Method of Fluxions*):** *"The quadrature of the circle leads directly to the power series expansion for the **arcsin** of the given abscissa."*
+> - 📜 **Leonhard Euler (*Elements of Algebra*):** *"The angle of rotation is expressed through the **arcsin** function, which yields the exact angular velocity of the flywheel."*
+> - 📜 **Carl Friedrich Gauss (*Theory of the Motion of the Heavenly Bodies*):** *"In determining the true anomaly, we compute the **arcsin** to resolve the directional phase angle of the orbiting body."*

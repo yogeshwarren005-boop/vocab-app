@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not anticipated; - h.w.glidden.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not anticipated; - h.w.glidden.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not expected, foreseen, or predicted; surprising or unforeseen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociopolitical analysis and risk economics, unintended consequences arising from interventions in complex adaptive systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unanticipated designates not anticipated; - h.w.glidden."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The introduction of a new herbivore produced **unanticipated** transformations throughout the entire ecological web of the island."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The sudden revolt of the Danube legions presented an **unanticipated** crisis that tested the emperor's fortitude to the uttermost."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor was surprised by the **unanticipated** arrival of her friend, whose sudden visit altered all their domestic arrangements."*

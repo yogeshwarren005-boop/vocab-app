@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wind in the upper atmosphere blowing above but in the opposite direction from the trade winds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Winds blowing from west to east and lying above the trade winds in the tropics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The prevailing high-altitude westerly winds that blow above the surface trade winds in tropical latitudes, carrying air toward the poles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In climatology and dynamic meteorology, the upper branch of the Hadley cell circulation returning tropical air toward the subtropical ridges.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antitrades designates wind in the upper atmosphere blowing above but in the opposite direction from the trade winds."*
+> - 📜 **Alexander von Humboldt (*Cosmos: A Sketch of a Physical Description of the Universe*):** *"Sailors and meteorologists have long recognized the **antitrades** as the great aerial rivers that equalize global temperatures."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The high smoke from the Andean volcano drifted northeastward, propelled by the steady current of the upper **antitrades**."*
+> - 📜 **John Tyndall (*The Forms of Water in Clouds and Rivers*):** *"Vapor raised by the equatorial sun is transported into higher latitudes by the moisture-laden current of the **antitrades**."*

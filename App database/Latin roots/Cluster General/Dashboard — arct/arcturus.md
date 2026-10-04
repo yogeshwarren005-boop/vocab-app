@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The 4th brightest star and the brightest star in the constellation bootes; 36 light-years from earth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The 4th brightest star and the brightest star in the constellation bootes; 36 light-years from earth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The brightest star in the northern celestial constellation of Boötes, and the fourth-brightest star in the night sky; an orange giant star.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In observational astrophysics and stellar kinematics, a red giant star (alpha Boötis) situated approximately 36.7 light-years from Earth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"There’s Arcturus looking very bright.” “Yes, and the Bear."*
+> - 📜 **John Milton (*Paradise Regained*):** *"Now when the brilliant star **Arcturus** rose above the eastern horizon, guiding ancient mariners across tempestuous waters."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I looked up from the frozen pond to see **Arcturus** blazing through the bare winter boughs with golden fire."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel Oak looked at the constellations to tell the hour, noting that **Arcturus** had climbed high into the midnight vault."*

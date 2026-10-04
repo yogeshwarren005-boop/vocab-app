@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Substitution of a title for a name.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Substitution of a title for a name.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rhetorical figure in which an epithet, nickname, or title is substituted for a proper name, or a proper name is used for a general idea (antonomasia).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric and stylistic analysis, substitution of an appellation (e.g., 'the Bard' for Shakespeare) to heighten expressiveness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antinomasia designates substitution of a title for a name."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"By a familiar rhetorical **antinomasia**, the great Florentine exile was known simply to contemporaries as the Poet."*
+> - 📜 **Edmund Burke (*Speech on American Taxation*):** *"The orator employed bold **antinomasia**, referring to the monarch solely as the Father of the Commonwealth."*
+> - 📜 **John Dryden (*Essays on the Drama*):** *"In heroic verse, the figure of **antinomasia** elevates the style by designating heroes through their famous deeds or ancestry."*

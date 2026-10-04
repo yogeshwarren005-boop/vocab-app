@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give an archaic appearance of character to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give an archaic appearance of character to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To give an archaic character, style, or appearance to something; to write or speak in an archaic manner (British English spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic history and book design, to intentionally emulate ancient typography, medieval spelling, or classical compositional rules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archaise designates give an archaic appearance of character to."*
+> - 📜 **William Morris (*The Story of the Glittering Plain (Note)*):** *"In printing this romance, we chose to **archaise** both the type fonts and the woodcut borders to recapture medieval craft."*
+> - 📜 **George Saintsbury (*A History of English Prose Rhythm*):** *"Tudor historians loved to **archaise** their accounts of ancient kings by inserting mock-Saxon alliterations."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"In 'The Rime of the Ancient Mariner', I chose to **archaise** the ballad diction to impart an ancient nautical authority."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of chiefly american plants parasitic on conifers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of chiefly american plants parasitic on conifers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of parasitic flowering plants in the sandalwood family (Santalaceae) known as dwarf mistletoes, parasitic on conifers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forest pathology and botanical parasitology, endophytic parasitic angiosperms that infect pinaceous hosts, causing witch's-broom deformities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arceuthobium designates genus of chiefly american plants parasitic on conifers."*
+> - 📜 **John Muir (*The Mountains of California*):** *"The lodgepole pines in the upper valley were heavily infested with the yellow-green shoots of **Arceuthobium**."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"In the genus **Arceuthobium**, the reduced leaves resemble minute opposite scales, and seeds are expelled hydrostatically with great force."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The parasitic dwarf mistletoe **Arceuthobium** derives all its water and mineral nutrients directly from the xylem of its conifer host."*

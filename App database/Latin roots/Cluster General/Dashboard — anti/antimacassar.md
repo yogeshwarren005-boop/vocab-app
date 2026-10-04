@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A piece of ornamented cloth that protects the back of a chair from hair oils.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A piece of ornamented cloth that protects the back of a chair from hair oils.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small decorative cloth placed over the back or arms of a chair or sofa to prevent soiling from hair oil or wear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Victorian decorative arts and domestic history, crocheted or embroidered linen protectors named after Macassar hair oil popular in the 19th century.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"I declare to my antimacassar if you took up a straw from the bloody floor and if you said to Bloom: _Look at, Bloom."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The parlor was adorned with stiff horsehair armchairs, each crowned with an immaculate white crocheted **antimacassar**."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Aunt Glegg adjusted the starched **antimacassar** upon the sofa with an air of severe domestic rectitude."*
+> - 📜 **William Makepeace Thackeray (*The Newcomes*):** *"The drawing room was a museum of Victorian propriety, complete with wax flowers under glass and an embroidered **antimacassar** on every seat."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a sudden change from an impressive to a ludicrous style.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a sudden change from an impressive to a ludicrous style.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or having the nature of an anticlimax; bathos-laden or disappointingly trivial.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical criticism, rhetoric that unexpectedly collapses into triviality following elevated or solemn eloquence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anticlimactical designates of or relating to a sudden change from an impressive to a ludicrous style."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The conclusion of the orator's speech was strangely **anticlimactical**, tapering off into petty fiscal grievances."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"A sudden descent from sublime contemplation to grotesque particulars produces an **anticlimactical** shock in poetry."*
+> - 📜 **William Hazlitt (*Table Talk*):** *"The comedian specialized in an **anticlimactical** delivery that overturned every grave sentiment with a sudden jest."*

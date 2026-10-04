@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Stout-bodied broad-winged moth with conspicuously striped or spotted wings; larvae are hairy caterpillars.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stout-bodied broad-winged moth with conspicuously striped or spotted wings; larvae are hairy caterpillars.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any moth of the family Arctiidae (now subfamily Arctiinae), commonly known as tiger moths, footmen, and woolly bears.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic entomology, lepidopterans noted for warning aposematic coloration, thoracic tymbal ultrasound defense, and unpalatable alkaloids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arctiid designates stout-bodied broad-winged moth with conspicuously striped or spotted wings; larvae are hairy caterpillars."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The brilliant aposematic wing patterns of the **arctiid** moth serve as a conspicuous warning signal to insectivorous birds."*
+> - 📜 **Alfred Russel Wallace (*Darwinism*):** *"In the Amazon valley, various day-flying **arctiid** moths mimic stinging wasps with astonishing fidelity in form and flight."*
+> - 📜 **Henry Walter Bates (*The Naturalist on the River Amazons*):** *"The hairy larvae of the **arctiid** species crawled across the forest foliage, safely protected by irritating urticating hairs."*

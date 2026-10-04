@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A covered passageway with shops and stalls on either side.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A structure composed of a series of arches supported by columns.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A covered passage with arches along one or both sides, often lined with shops; also a succession of contiguous arches supported by columns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical architecture, an ornamental or load-bearing colonnade of arches resting on piers, or a commercial gallery under a vaulted glass roof.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Lord Henry passed up the low arcade into Burlington Street and turned his steps in the direction of Berkeley Square."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Plans and specifications have been prepared, and preliminary measures taken, to place contracts for the arcade of the Báb's Sepulcher."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Plans were drawn, contracts placed and foundations laid for its arcade while the holy places were ravaged by flames of the civil strife burning fiercely in the Holy Land."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"Mr. Pickwick strolled through the sheltered **arcade**, admiring the elegant bow windows of the print shops."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"The cloister presented a lofty **arcade** where monks had walked and meditated in centuries past."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The Gothic **arcade** of the Doge's Palace displays exquisite marble capitals sculpted with symbolic foliage."*

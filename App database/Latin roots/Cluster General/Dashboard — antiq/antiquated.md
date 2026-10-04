@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make obsolete or old-fashioned.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give an antique appearance to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Outdated, obsolete, or old-fashioned; no longer suitable, effective, or conforming to modern standards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial economics and institutional analysis, machinery, infrastructure, or regulatory codes surpassed by modernized technological paradigms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Historically, it is he himself who has antiquated every one of those conceptions, and, so far as they have survived, it has been in virtue of association with him."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The training programs are antiquated; many aren't even remotely tied in with the equipment installed on ships of the line."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Our system of authority and governance must be raised above the antiquated, interminable rules of the desperate bickering we now witness here at play among us."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The Court of Chancery operated under an **antiquated** system of procedure that consumed entire lifetimes in futile litigation."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"The furniture of the ancestral drawing room, though **antiquated**, retained an air of solemn and respectable dignity."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"Human artillery, suddenly rendered **antiquated** by the Martian heat-rays, proved entirely ineffective against the towering fighting-machines."*

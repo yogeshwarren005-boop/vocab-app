@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sudden outburst of anger.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A characteristic (habitual or relatively temporary) state of feeling.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person's state of mind seen in terms of their being angry, calm, or unreasonable; or to moderate something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metallurgy, to treat steel or glass by heating and cooling to achieve desired hardness and elasticity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His captain’s heart, Which in the scuffles of great fights hath burst The buckles on his breast, reneges all temper And is become the bellows and the fan To cool a gipsy’s lust."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You keep a constant temper. [_They exit._] [_The Guard and Menenius remain._] FIRST WATCH."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But not every man patient after the noble temper of your lordship."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His captain's heart reneges all **temper** and is become the bellows and the fan to cool a gypsy's lust."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"George was walking on behind me with a **temper** as mild as milk."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"There is no ethical creed which does not **temper** the rigidity of its laws by giving a certain latitude for accommodation to circumstances."*
+

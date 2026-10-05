@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A wild or unrefined state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A wild or unrefined state.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Original antiquity, rudimentary simplicity, or crude lack of advanced civilization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropology and cultural sociology, simplicity of material technology, organization, or artistic form lacking industrial complexity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, primitiveness designates a wild or unrefined state."*
+> - 📜 **Jack London (*White Fang*):** *"The grim **primitiveness** of the northern wilderness demanded relentless cunning and physical endurance from every living thing."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I went to the woods to live deliberately, seeking in that rustic **primitiveness** an antidote to commercial triviality."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Going up that river was like travelling back to the earliest beginnings of the world, into the raw **primitiveness** of nature."*

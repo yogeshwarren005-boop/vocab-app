@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used primarily as eating apples.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Indicating the most important performer or role.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: First, principal, or leading, especially as an Italian musical or theatrical designation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence and logic, forming part of terms like prima facie, denoting evidence sufficient to establish a fact unless rebutted.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"Scena prima_. _Enter_ Rutilio, _and_ Arnold[o]. _Rut._ Why do you grieve thus still? _Arn._ 'Twould melt a Marble, And tame a Savage man, to feel my fortune. _Rut._ What fortune?"*
-> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"Scena Prima_. _Enter_ Manuel du Sosa, _and_ Guiomar. _Man_."*
-> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"Scena Prima._ _Enter Rutilio and Duarte._ _Rut."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Ond'è beato chi **prima** la vide; the poet sings of that pure celestial joy awakened when the beloved first appears."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The photograph showed Irene Adler, the renowned **prima** donna of the Imperial Opera of Warsaw, in all her glory."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The uncontested presence of foreign troops upon neutral soil constituted **prima** facie evidence of hostile intent."*

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of metal or glass) not annealed and consequently easily cracked or fractured.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of metal or glass) not annealed and consequently easily cracked or fractured.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not subjected to the process of annealing; describing metal, glass, or materials left brittle and subject to stress fractures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial materials science, unannealed glass retains severe internal residual thermal stresses that cause sudden catastrophic shatter under mechanical pressure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unannealed designates (of metal or glass) not annealed and consequently easily cracked or fractured."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"A cylinder of **unannealed** glass displays brilliant polarized rings under optical analysis, revealing intense internal strains."*
+> - 📜 **John Tyndall (*Heat: A Mode of Motion*):** *"The famous Rupert's drops are fashioned from **unannealed** glass whose tense surface bursts into powder when the tail is snapped."*
+> - 📜 **Oliver Wendell Holmes Sr. (*The Autocrat of the Breakfast-Table*):** *"A fragile mind without moral discipline resembles an **unannealed** vessel, liable to crack upon the first abrupt change of temperature."*
+

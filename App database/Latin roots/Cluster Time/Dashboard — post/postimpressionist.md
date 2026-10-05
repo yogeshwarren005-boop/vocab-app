@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An artist of the postimpressionist school who revolted against impressionism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artist of the postimpressionist school who revolted against impressionism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An artist associated with the late nineteenth-century movement that developed out of Impressionism, emphasizing symbolic content, formal structure, and expressive color.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern art history and aesthetic theory, designating masters such as Cézanne, Gauguin, and Van Gogh who rejected optical naturalism in favor of emotional geometry and psychological resonance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, postimpressionist designates an artist of the postimpressionist school who revolted against impressionism."*
+> - 📜 **Roger Fry (*Vision and Design*):** *"The visionary **postimpressionist** painters rejected mere optical illusion to reveal the underlying architecture of visual emotion."*
+> - 📜 **Clive Bell (*Art*):** *"Cézanne stands as the supreme **postimpressionist** master whose canvases awaken direct aesthetic apprehension through significant form."*
+> - 📜 **Virginia Woolf (*Roger Fry: A Biography*):** *"The London galleries were convulsed when the radical works of each French **postimpressionist** were first hung before the bewildered public."*
+

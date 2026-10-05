@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Originality by virtue of being refreshingly novel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Originality by virtue of being new and surprising.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Freshness, originality, or striking unfamiliarity; an intriguing innovation or curious decorative item.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology and aesthetics, the perceptual stimulus of unfamiliarity that captivates attention and evokes aesthetic curiosity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I may truly say, it is a novelty to the world."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Novelty is only in request, and as it is as dangerous to be aged in any kind of course as it is virtuous to be constant in any undertaking."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How novelty may move, and parts with person, Alas, a kind of godly jealousy, Which, I beseech you, call a virtuous sin, Makes me afear’d."*
+> - 📜 **William Shakespeare (*Measure for Measure*):** *"This **novelty** is only in request; and it is as dangerous to be aged in any kind of course, as it is virtuous to be constant in any undertaking."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The sudden arrival of the flamboyant sergeant had the **novelty** of an exotic bird alighting in a quiet English orchard."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"The attraction of mere **novelty** soon decays, leaving behind only that admiration which genuine excellence can command."*

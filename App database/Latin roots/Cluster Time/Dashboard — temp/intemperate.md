@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of weather or climate) not mild; subject to extremes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive in behavior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing a lack of self-control; given to excessive consumption, fiery passions, or severe weather.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In climatology and historical geography, an intemperate climate characterized by violent extremes of heat or cold.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He would not, but by gift of my chaste body To his concupiscible intemperate lust, Release my brother; and after much debatement, My sisterly remorse confutes mine honour, And I did yield to him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will write against it: You seem to me as Dian in her orb, As chaste as is the bud ere it be blown; But you are more intemperate in your blood Than Venus, or those pamper’d animals That rage in savage sensuality."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That intemperate surfeit of her eye hath distempered the other senses."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He would not, but by gift of my chaste body to his concupiscible **intemperate** lust, release my brother."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Who is that **intemperate** and brutal man whom we would redeem?"*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"**Intemperate** habits are so highly destructive, that the expectation of life of the intemperate, at the age of thirty, is only thirteen years."*
+

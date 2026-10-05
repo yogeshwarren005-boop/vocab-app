@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Place of worship consisting of an edifice for the worship of a deity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The flat area on either side of the forehead.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A building devoted to the worship of a god or gods; or the flat anatomical region on each side of the forehead.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cranial osteology, the temporal fossa located superior to the zygomatic arch and anterior to the ear.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A man may, if he were of a fearful heart, stagger in this attempt, for here we have no temple but the wood, no assembly but horn-beasts."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The noble sister of Publicola, The moon of Rome, chaste as the icicle That’s curdied by the frost from purest snow And hangs on Dian’s temple!—Dear Valeria."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ladies, you deserve To have a temple built you."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A man may, if he were of a fearful heart, stagger in this attempt, for here we have no **temple** but the wood, no assembly but horn-beasts."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"Over against this **temple**, on the other side of the great highway, at twenty feet distance, there was a turret at least five feet high."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"He leaves all his deliverance to God, contenting himself with this, that spite of all his pains and pangs, he will still look towards His holy **temple**."*
+

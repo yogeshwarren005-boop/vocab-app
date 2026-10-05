@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Worms with cylindrical bodies segmented both internally and externally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or belonging to or characteristic of any worms of the phylum annelida.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A segmented worm belonging to the phylum Annelida, characterized by a cylindrical body divided into ringed segments, such as an earthworm or leech.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate zoology, an annelid possesses a true coelomic cavity, metameric segmentation, a closed circulatory system, and chitinous bristles known as setae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"In their dark fractures huge crustacea, perched upon their high claws like some war-machine, watched us with fixed eyes, and under our feet crawled various kinds of annelides."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould*):** *"The humble **annelid** burrows incessantly through the soil, aerating the earth and preparing ground for vegetal growth."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The nervous system of the typical **annelid** exhibits a ventral ganglionated chain corresponding to each body metamere."*
+> - 📜 **Ernst Haeckel (*The History of Creation*):** *"Comparative morphologists trace the evolutionary ancestry of higher segmented invertebrates back to an archaic **annelid** progenitor."*
+

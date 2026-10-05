@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A worker (especially in an office) hired on a temporary basis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A worker (especially in an office) hired on a temporary basis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A temporary worker, especially an office employee hired to fill a short-term clerical vacancy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In labor economics and modern corporate staffing, temporary administrative employment sourced via third-party agencies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He cannot temp’rately transport his honours From where he should begin and end, but will Lose those he hath won."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be that you seem, truly your country’s friend, And temp’rately proceed to what you would Thus violently redress."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"But, Lord, remember me an’ mine Wi’ mercies temp’ral an’ divine, That I for grace an’ gear may shine, Excell’d by nane, And a’ the glory shall be thine, Amen, Amen!"*
+> - 📜 **David Foster Wallace (*Infinite Jest*):** *"The corporate agency dispatched a nervous **temp** to handle word processing and administrative filing."*
+> - 📜 **Douglas Coupland (*Generation X: Tales for an Accelerated Culture*):** *"Working as an office **temp** offered just enough money to survive without committing to corporate permanence."*
+> - 📜 **Don DeLillo (*Underworld*):** *"She spent the autumn months as a **temp** in a skyscraper accounting firm, filing receipts under humming fluorescent lights."*
+

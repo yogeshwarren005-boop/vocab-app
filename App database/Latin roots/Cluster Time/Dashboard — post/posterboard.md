@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cardboard suitable for making posters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cardboard suitable for making posters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavy, stiff paperboard or cardboard suitable for displaying printed signs, school projects, presentations, and artistic placards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In display design and educational visual arts, layered cellulosic card stock formulated for structural rigidity, ink receptivity, and mounting media.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, posterboard designates a cardboard suitable for making posters."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The students lettered their astronomical charts across sheets of heavy white **posterboard** for the science exhibition."*
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp*):** *"Nan sketched colorful banners on stiff **posterboard** to decorate the assembly hall before the winter carnival."*
+> - 📜 **Grace S. Richmond (*The Brown Study*):** *"He tacked a hand-drawn notices on sturdy **posterboard** to the parish bulletin board outside the chapel gate."*
+

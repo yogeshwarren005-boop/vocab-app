@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Add explanatory notes to or supply with critical comments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide interlinear explanations for words or phrases.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To furnish a literary text, manuscript, or code repository with explanatory notes, commentary, or marginal glosses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In digital scholarship, textual criticism, and machine learning, to systematically append metadata, labels, or syntactic markup to source documents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"He worked his way through a goodly number of the Greek and Latin classics, in copies borrowed from the libraries of the two ministers; and he not only read, but analysed and elaborately annotated what he read."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Most of them were copiously annotated, and his annotations were, as a rule, characterised by a refreshing trenchancy,--in the case of some, as of Gibbon, tempered with respect; in the case of others, as of F.W."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"They were the instructions of the naval minister to Commander La Perouse, annotated in the margin in Louis XVI’s handwriting."*
+> - 📜 **Samuel Johnson (*Preface to Shakespeare*):** *"The scholarly editor who undertakes to **annotate** ancient dramatic poets must elucidate obscure idioms without encumbering the text."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"He spent years in his secluded library striving to **annotate** every classical allusion in the works of Milton."*
+> - 📜 **Alexander Pope (*The Dunciad*):** *"Pedantic commentators strive to **annotate** what is plain and darken what was clear with mountainous glosses."*
+

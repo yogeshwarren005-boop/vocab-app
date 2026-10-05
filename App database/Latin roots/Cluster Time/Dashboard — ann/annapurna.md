@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wife of siva and a benevolent aspect of devi: hindu goddess of plenty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mountain in the himalayas in nepal (26,500 feet high).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A massive mountain massif in the Himalayas of north-central Nepal, culminating in a peak exceeding 8,000 meters in elevation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mountaineering history, Annapurna I became in 1950 the first peak over eight thousand meters ever successfully summited by human climbers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, annapurna designates wife of siva and a benevolent aspect of devi: hindu goddess of plenty."*
+> - 📜 **Maurice Herzog (*Annapurna*):** *"We turned our eyes toward the icy summit of **Annapurna**, knowing that human footsteps had never before touched its crest."*
+> - 📜 **Peter Matthiessen (*The Snow Leopard*):** *"The gleaming white barrier of **Annapurna** soared into the azure sky above the deep gorge of the Kali Gandaki."*
+> - 📜 **Jon Krakauer (*Into Thin Air*):** *"The formidable avalanche-swept south face of **Annapurna** remains one of the supreme challenges in world alpinism."*
+

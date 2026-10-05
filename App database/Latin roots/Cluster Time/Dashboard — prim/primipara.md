@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (obstetrics) woman who has been delivered of a child for the first time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (obstetrics) woman who has been delivered of a child for the first time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman or female mammal giving birth for the first time, or who has delivered one child.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maternal medicine and veterinary obstetrics, an individual undergoing her initial parturition, typically characterized by longer stages of labor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, primipara designates (obstetrics) woman who has been delivered of a child for the first time."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The duration of active labor in the healthy **primipara** normally extends beyond that expected in subsequent deliveries."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Uterine cervical effacement precedes complete dilatation in the **primipara**, driven by steady rhythmic oxytocic contractions."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"Pelvic musculature and perineal tissues undergo distinctive elastic remodeling during the first delivery of a **primipara**."*

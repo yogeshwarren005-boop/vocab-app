@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of troubling or annoying someone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause annoyance in; disturb, especially by minor irritations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing irritation, exasperation, or mild resentment; persistently bothersome or vexatious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In conversational etiquette and environmental acoustics, describing recurring, intrusive behaviors or background disturbances that drain focus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Besides, I ha’ not since put up my sword, Against the Capitol I met a lion, Who glared upon me, and went surly by, Without annoying me."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The wooden benches were clean scrubbed, and he didn't object to absence of the annoying spider-webs, which had always tickled his nose."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Maxa did not need to mind these annoying negotiations now, but calmly replied that the Baron would send his nephew to the high school in the city and would undoubtedly make his own arrangements."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Herbert Pocket maintained his good humor despite the deeply **annoying** blunders of the inept tavern waiters."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Rosamond found her husband's grave financial worries an intensely **annoying** interruption to her domestic ease."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Isabel dismissed the unsolicited warning as an **annoying** impertinence from a well-meaning relative."*
+

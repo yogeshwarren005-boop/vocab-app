@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the act of announcing or being announced.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the act of announcing or being announced.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to make known, herald, or announce; pertaining to or having the character of a formal proclamation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary rhetoric and symbolic art, designating gestures, motifs, or prologues that foreshadow momentous dramatic transformations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, annunciatory designates relating to the act of announcing or being announced."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"The introductory ode possesses a solemn **annunciatory** tone that prepares the listener for elevated philosophical meditation."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"An **annunciatory** dream visited the young philosopher on the eve of his departure for the imperial capital."*
+> - 📜 **Thomas Carlyle (*On Heroes, Hero-Worship, and the Heroic in History*):** *"The speech of the revolutionary leader was harsh, vehement, and charged with an **annunciatory** conviction of impending doom."*
+

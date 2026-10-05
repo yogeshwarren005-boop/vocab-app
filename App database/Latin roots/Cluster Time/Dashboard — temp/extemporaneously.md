@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without prior preparation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without prior preparation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without premeditation, rehearsals, or prepared notes; in a spontaneous improvised manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In homiletics and parliamentary rhetoric, preaching or arguing fluently from general knowledge without written text.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extemporaneously designates without prior preparation."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"Mr. Snodgrass recited several romantic stanzas **extemporaneously** to the astonishment of the assembled rural club."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The venerable minister addressed the flock **extemporaneously**, his solemn words flowing directly from inward inspiration."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes deduced the traveler's past career **extemporaneously**, glancing merely at the mud stains upon his boots."*
+

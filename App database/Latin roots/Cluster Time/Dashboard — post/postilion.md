@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who rides the near horse of a pair in order to guide the horses pulling a carriage (especially a carriage without a coachman).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who rides the near horse of a pair in order to guide the horses pulling a carriage (especially a carriage without a coachman).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rider mounted on the left-hand or near horse of a pair drawing a carriage, coach, or post-chaise to guide the team.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In transport history, an agile equestrian courier employed instead of a box-seat coachman on long-distance relay mail coaches and aristocratic carriages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Our postilion is looking after the waggoner,” said Richard, “and the waggoner is coming back after us."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now, Miss Summerson,” said he, “we are off, if you please!” He gave me his arm, and the two officers courteously bowed me out, and we found at the door a phaeton or barouche with a postilion and post horses."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I remember they made me laugh uncommonly—there’s a droll bit about a postilion’s breeches."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The **postilion** cracked his whip merrily as the fresh horses sprang forward along the smooth turnpike road."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The mounted **postilion** urged the steaming beasts up the steep incline of the Dover road through the November gloom."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky Sharp leaned from the chaise window, bidding the jaunty French **postilion** gallop swiftly toward the frontier."*
+

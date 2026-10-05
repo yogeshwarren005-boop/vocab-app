@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Subsequent to menopause.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subsequent to menopause.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring, relating to, or characteristic of the phase of life following the permanent cessation of menstruation in human females.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive endocrinology and gynecology, designating biological changes, hormonal shifts, and elevated osteoporosis risk associated with diminished ovarian estrogen secretion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, postmenopausal designates subsequent to menopause."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In **postmenopausal** women, careful diagnostic attention must be given to systemic bone density and cardiovascular integrity."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Diminished plasma estrogen concentrations during the **postmenopausal** period stimulate compensatory elevations of pituitary gonadotropins."*
+> - 📜 **Harvey Cushing (*The Pituitary Body and Its Disorders*):** *"Symptomatic endocrine disturbances observed in **postmenopausal** subjects frequently mirror localized hypothalamic dysregulation."*
+

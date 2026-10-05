@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of adding notes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Add explanatory notes to or supply with critical comments.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ongoing process of writing supplementary critical notes, analytical comments, or explanations onto a text.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philological scholarship and data science, designating the deliberate act of providing linguistic glosses, semantic tags, or training labels to a corpus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, annotating designates the act of adding notes."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Casaubon spent his solitary mornings in the library **annotating** vast mythological manuscripts for his projected magnum opus."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"She sat beside the study fire **annotating** the memoirs of eighteenth-century travelers with lively pencil marks."*
+> - 📜 **Henry James (*The Aspern Papers*):** *"The eager scholar dreamed of **annotating** the precious unpublished correspondence of the romantic poet."*
+

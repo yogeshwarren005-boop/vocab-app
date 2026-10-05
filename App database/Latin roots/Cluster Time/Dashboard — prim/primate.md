@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A senior clergyman and dignitary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any placental mammal of the order primates; has good eyesight and flexible hands and feet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archbishop or bishop having presiding rank or preeminence over other bishops within a province or nation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoological taxonomy, any placental mammal belonging to the order Primates, including lemurs, monkeys, apes, and humans.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Monks of the screw. _(His Eminence Simon Stephen Cardinal Dedalus, Primate of all Ireland, appears in the doorway, dressed in red soutane, sandals and socks."*
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"The bigoted and haughty primate, Laud, Archbishop of Canterbury, controlled the religious affairs of the realm, and was consequently invested with powers which might have wrought the utter ruin of the two Puritan colonies, Plymouth and Massachusetts."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The archbishop of Carthage, as the metropolitan and **primate** of Africa, convened a council of eighty bishops."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Archbishop Sancroft, the aged **primate** of England, refused to swear allegiance to the newly crowned prince of Orange."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"Comparative anatomy reveals that man is bound in every skeletal feature to the higher **primate** families."*

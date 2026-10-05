@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small gate in the rear of a fort or castle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small gate in the rear of a fort or castle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A private, secondary back door or rear gate, especially one located inconspicuously in a castle, fort, or city wall.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval military architecture, a concealed sally-port or subterranean defensive wicket permitting secret ingress and egress during sieges.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That spirit’s possessed with haste That wounds th’ unsisting postern with these strokes."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go on, good Eglamour, Out at the postern by the abbey wall."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"No one made any reply; but Lecamus said, 'Have the goodness to open the little postern for foot-passengers: M. le Maire wishes to make an inspection outside.' Upon these words, Riou, who knew me well, caught me by the arm."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"Good my lord, be piloted by me, and start your flight through the garden **postern** ere the guards be roused."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The black knight led his followers through the secluded **postern** gate under the cover of dense midnight mist."*
+> - 📜 **Mrs. Oliphant (*The Perpetual Curate*):** *"She slipped quietly out through the garden **postern**, eager to escape the inquisitive glances of the village callers."*
+

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Convert into the form or the style of a novel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert into the form or the style of a novel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert, adapt, or transform a dramatic work, factual event, or screenplay into a written prose novel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative literature and media studies, to expand a dramatic scenario into an extended prose narrative with descriptive psychological interiority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, novelise designates convert into the form or the style of a novel."*
+> - 📜 **George Bernard Shaw (*Our Theatres in the Nineties*):** *"An author who attempts to **novelise** a crisp theatrical farce usually dilutes its scenic vigor in excessive narrative description."*
+> - 📜 **Henry James (*Notes on Novelists*):** *"He sought to **novelise** the diplomatic memoirs of the French embassy, turning dry dispatches into lively romantic intrigue."*
+> - 📜 **Arnold Bennett (*The Author's Craft*):** *"Publishers frequently commissioned clever young writers to **novelise** successful stage productions for the railway bookstalls."*

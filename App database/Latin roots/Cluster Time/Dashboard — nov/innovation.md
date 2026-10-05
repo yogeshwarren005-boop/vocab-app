@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A creation (a new device or process) resulting from study and experimentation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The creation of something in the mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The introduction of something new; a newly developed method, idea, custom, or device.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In technological history and macroeconomic development, the commercialization or widespread adoption of inventions that disrupts existing market paradigms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think their inhibition comes by the means of the late innovation."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have drunk but one cup tonight, and that was craftily qualified too, and behold, what innovation it makes here: I am unfortunate in the infirmity, and dare not task my weakness with any more."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Absolute nonsense!” “The innovation, if not wrong as an innovation, will be wrong as an expense.” “Yes, the expense of such an undertaking would be prodigious!"*
+> - 📜 **William Shakespeare (*Henry IV, Part 1*):** *"To face the garment of rebellion with some fine colour that may please the eye of fickle changelings and poor discontents, which gape and rub the elbow at the news of hurlyburly **innovation**."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Every slight structural **innovation** that confers an adaptive advantage in the struggle for life tends to be preserved across generations."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"New opinions are always suspected, and usually opposed, without any other reason but because they are an **innovation** not already common."*

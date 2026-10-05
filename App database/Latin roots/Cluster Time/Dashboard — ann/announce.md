@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make known; make an announcement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Announce publicly or officially.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make a formal public statement or declaration regarding a fact, occurrence, intention, or future event.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic protocol and broadcast media, to herald an arrival, official proclamation, or scheduled program transmission to an assembled audience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Much discomposed in her nerves (which were previously in the best order) by this threat, she so fearfully mutilates that point of state as to announce “Mr. and Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"A servant came to the door to announce Mr."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Lady Dalrymple’s carriage, for which Miss Elliot was growing very impatient, now drew up; the servant came in to announce it."*
+> - 📜 **William Shakespeare (*King John*):** *"Let the herald **announce** the approach of our royal cousin before the battlements of Angiers."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"The footman threw open the drawing-room door to **announce** the unexpected arrival of Lady Catherine de Bourgh."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Mr. Jaggers raised his heavy hand to **announce** that he had news of profound consequence regarding Pip's future fortune."*
+

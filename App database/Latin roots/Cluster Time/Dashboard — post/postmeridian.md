@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: After noon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: After noon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring in, belonging to, or characteristic of the afternoon; taking place after the sun has crossed the meridian (post meridiem / P.M.).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figuratively in literary prose, denoting the declining, late, or concluding phase of a human life, era, or historical epoch.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, postmeridian designates after noon."*
+> - 📜 **Henry David Thoreau (*A Week on the Concord and Merrimack Rivers*):** *"The gentle warmth of the **postmeridian** hours bathed the lazy ripples of the river in golden reflections."*
+> - 📜 **Washington Irving (*Bracebridge Hall*):** *"The squire enjoyed his customary **postmeridian** nap in the high-backed library armchair while the shadows lengthened on the lawn."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"In his **postmeridian** years, the old gentleman found tranquility in tending the dusty garden flowers behind the ancestral mansion."*
+

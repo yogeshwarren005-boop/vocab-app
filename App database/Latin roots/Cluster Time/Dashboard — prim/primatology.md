@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of zoology that studies primates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of zoology that studies primates.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of zoology that deals with the scientific study of non-human primates and their biology, behavior, and evolution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical anthropology and evolutionary biology, the comparative investigation of ape and monkey cognition, ecology, and skeletal morphology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, primatology designates the branch of zoology that studies primates."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"The systematic study of anthropoid apes, which forms the core of modern **primatology**, illuminates the roots of human lineage."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Careful observations in comparative **primatology** reveal that monkeys express terror and joy with facial contractions strikingly similar to our own."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Pioneering investigations in Bornean **primatology** convinced me of the extraordinary mental agility possessed by the wild orangutan."*

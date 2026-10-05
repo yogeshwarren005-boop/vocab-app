@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like a ring.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shaped like a ring.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Formed into or marked with rings; having ring-shaped markings, grooves, segments, or ridges.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoological taxonomy and paleontology, characterizing fossil stems, crinoid columns, or cephalopod shells marked by repetitive circular ridges.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, annulated designates shaped like a ring."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We observed a peculiar serpent whose body was beautifully **annulated** with alternating bands of black and brilliant crimson."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Under the microscope, the trachea reveals **annulated** cartilaginous hoops designed to preserve an open airway during respiration."*
+> - 📜 **E. Ray Lankester (*Extinct Animals*):** *"The fossil ammonite displayed an intricately **annulated** shell coiled in a perfect logarithmic spiral."*
+

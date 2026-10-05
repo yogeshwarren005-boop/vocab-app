@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being current or of the present.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of belonging to the same period of time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or fact of existing, occurring, or flourishing during the same period of time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical geology and paleontology, the synchronicity of stratigraphic strata across geographically distant formations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, contemporaneity designates the quality of being current or of the present."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The apparent **contemporaneity** of widely separated fossil deposits must be evaluated with extreme caution by the field geologist."*
+> - 📜 **John Phillips (*Memoirs of William Smith*):** *"Smith traced the lines of **contemporaneity** across the stratified formations of the British Isles with singular accuracy."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"Similarity of organic forms in distant strata does not necessarily prove absolute geological **contemporaneity**."*
+

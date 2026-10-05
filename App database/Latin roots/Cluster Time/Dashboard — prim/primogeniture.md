@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Right of inheritance belongs exclusively to the eldest son.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Right of inheritance belongs exclusively to the eldest son.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The legal right or customary prerogative of inheritance belonging exclusively to the eldest child.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In feudal law and property jurisprudence, the customary rule by which the entire landed estate descended undivided to the eldest legitimate male heir.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In countries where hereditary aristocracies exist, primogeniture is in some cases required by law, in others so strongly favored by public opinion that it is practically always followed."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"In countries where hereditary aristocracies exist, primogeniture is in some cases required by law, in others so strongly favored by public opinion that it is practically always followed."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Is Richard’s title of primogeniture more decidedly certain than that of Duke Robert of Normandy, the Conqueror’s eldest son?"*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"**Primogeniture** with entailed estates is a more direct evil, though it may formerly have been a great advantage by the creation of wealth."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The feudal law of **primogeniture** disinherited younger sons, forcing them to seek fortune in foreign crusades."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The right of **primogeniture** hindered the division of great baronial estates and prevented the improvement of agriculture."*

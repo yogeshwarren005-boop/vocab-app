@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (latin) year.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (latin) year.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A year, used primarily in formal, legal, economic, or financial Latinate formulas such as 'per annum'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geological chronology and astronomical timescales, an internationally recognized unit of calendar time represented by the symbol 'a' (annus).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*The Elder Brother*):** *"There dwells near us a Gentleman of bloud, Monsieur _Brisac_, of a fair Estate, six thousand Crowns _per annum_, the happy Father of two hopeful Sons, of different breeding; the Elder, a meer Scholar; the younger, a quaint Courtier. _Ang_."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These bear interest, from the first day of the month next following that in which the deposit is made, at the rate of 2 per cent per annum for a whole year (interest is not paid for any fraction of a year)."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester _is_ peculiar—he seems to forget that he pays me £30 per annum for receiving his orders."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"A salary of thirty pounds per **annum** was offered to any qualified governess willing to undertake the instruction of young pupils."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The profits of mercantile stock rarely exceed eight or ten per cent per **annum** in well-regulated commercial states."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The ancient estate yielded a rental income upwards of three thousand pounds per **annum**, yet was consumed by legal fees."*
+

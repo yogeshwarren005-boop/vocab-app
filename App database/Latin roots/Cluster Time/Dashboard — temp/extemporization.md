@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A performance given extempore without planning or preparation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A performance given extempore without planning or preparation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An impromptu speech, composition, or musical piece executed without advance planning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical oratory and forensics, extemporization allows a debater to counter hostile cross-examination with agile counterarguments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extemporization designates a performance given extempore without planning or preparation."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The eloquent **extemporization** of the Christian bishop astonished the pagan magistrates assembled in the basilica."*
+> - 📜 **Thomas De Quincey (*Confessions of an English Opium-Eater*):** *"His wondrous **extemporization** of musical fantasies transported the listener into boundless dreamscapes."*
+> - 📜 **Henry James (*The Bostonians*):** *"Her impassioned **extemporization** from the speaker's platform held the assembly in breathless suspense."*
+

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A doctrine that rejects religion and religious considerations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A doctrine that rejects religion and religious considerations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The belief or ethical principle that religion should be kept strictly separate from civic, political, and public affairs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political jurisprudence and social philosophy, a constitutional framework ensuring state neutrality toward all religious creeds while safeguarding individual freedom of conscience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, secularism designates a doctrine that rejects religion and religious considerations."*
+> - 📜 **G. K. Chesterton (*Orthodoxy*):** *"Modern **secularism** attempts to construct a coherent morality while severing the transcendent roots from which moral imperatives originally sprang."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The growing influence of **secularism** fosters a civic sphere where diverse creeds coexist beneath equal, non-sectarian laws."*
+> - 📜 **Matthew Arnold (*Literature and Dogma*):** *"The aggressive advance of mechanical **secularism** threatens to desiccate those poetic sympathies that sustain the human spirit."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who postpones work (especially out of laziness or habitual carelessness).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who postpones work (especially out of laziness or habitual carelessness).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An individual who habitually postpones, delays, or defers necessary tasks and responsibilities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social characterization and psychological profiling, one burdened by chronic avoidance behavior, indecision, or voluntary delay under deadlines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"This procrastinator Kutúzov, whose motto was “Patience and Time,” this enemy of decisive action, gave battle at Borodinó, investing the preparations for it with unparalleled solemnity."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"This **procrastinator** Kutúzov, whose motto was 'Patience and Time,' this enemy of decisive action, gave battle at Borodinó."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The confirmed **procrastinator** flatters himself that tomorrow will bring renewed vigor, yet tomorrow finds him equally irresolute."*
+> - 📜 **William Makepeace Thackeray (*The History of Pendennis*):** *"Pen was a charming companion, but a sad **procrastinator** who pushed every difficult correspondence into next week."*

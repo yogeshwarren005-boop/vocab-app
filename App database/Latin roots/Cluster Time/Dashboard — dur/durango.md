@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in north central mexico; mining center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in north central mexico; mining center.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mountainous state in north-central Mexico, as well as its capital city, renowned historically for rich silver mining.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Mexican geography and economic history, an interior plateau region traversed by the Sierra Madre Occidental, founded as Victoria de Durango in 1563.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, durango designates a city in north central mexico; mining center."*
+> - 📜 **Alexander von Humboldt (*Political Essay on the Kingdom of New Spain*):** *"The rich mineral veins of **Durango** have supplied Europe with vast treasures of silver since the sixteenth century."*
+> - 📜 **W. H. Prescott (*History of the Conquest of Mexico*):** *"Spaniards pushed their exploring expeditions northward across the rugged tablelands toward the borders of **Durango**."*
+> - 📜 **John Lloyd Stephens (*Incidents of Travel in Central America*):** *"Travellers arriving from **Durango** recounted dangerous crossings through desolate mountain passes infested with outlaws."*

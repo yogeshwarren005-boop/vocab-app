@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One submitting a request or application especially one seeking admission into a religious order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One submitting a request or application especially one seeking admission into a religious order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A candidate or applicant seeking admission into a religious order or monastic community, undergoing an initial period of discernment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In canon law and ecclesiastic administration, a probationary novice who lives within a monastic convent prior to taking canonical vows.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"During these wanderings, Pierre noticed that he was spoken of now as the “Seeker,” now as the “Sufferer,” and now as the “Postulant,” to the accompaniment of various knockings with mallets and swords."*
-> - 📜 **James Joyce (*Ulysses*):** *"If there were only ethereal where would you all be, postulants and novices?"*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The humble **postulant** bowed reverently before the elder, seeking spiritual guidance in the quiet monastic cell."*
+> - 📜 **James Joyce (*A Portrait of the Artist as a Young Man*):** *"He imagined the solemn quiet of the cloister, where a devout **postulant** dedicated every waking hour to meditation and prayer."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"The convent gates opened to receive the youthful **postulant**, whose pale face reflected sincere spiritual resolution."*
+

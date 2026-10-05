@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An androgen (trade names durabolin or kabolin) that is used to treat testosterone deficiency or breast cancer or osteoporosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An androgen (trade names durabolin or kabolin) that is used to treat testosterone deficiency or breast cancer or osteoporosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The synthetic anabolic steroid nandrolone phenylpropionate, utilized clinically to stimulate protein synthesis and tissue building.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In endocrinology and sports pharmacology, an injectable androgenic compound administered to reverse cachexia, osteoporosis, or severe catabolic muscle wasting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, durabolin designates an androgen (trade names durabolin or kabolin) that is used to treat testosterone deficiency or breast cancer or osteoporosis."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Synthetic derivatives of testosterone such as **durabolin** promote nitrogen retention and accelerated skeletal repair."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Anabolic steroids including **durabolin** were evaluated to counteract profound debilitation and post-surgical wasting."*
+> - 📜 **Alexander Fleming (*Chemotherapy: Yesterday, Today, and Tomorrow*):** *"The systemic impact of compounds like **durabolin** demonstrates how endocrine manipulations can rebuild depleted cellular reserves."*

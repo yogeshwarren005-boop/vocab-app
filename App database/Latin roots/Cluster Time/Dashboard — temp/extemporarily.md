@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without prior preparation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without prior preparation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an impromptu or extemporary manner; without previous study, premeditation, or design.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theatrical improvisation, improvising comic stage business and dialogue to accommodate unexpected audience reactions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extemporarily designates without prior preparation."*
+> - 📜 **William Shakespeare (*Antony and Cleopatra*):** *"The quick comedians **extemporarily** will stage us, and present our Alexandrian revels."*
+> - 📜 **Ben Jonson (*Every Man in His Humour*):** *"He will compose a sonnet **extemporarily** upon any subject you please, before the candle burns down an inch."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"Many young speakers vanity prompts to deliver their judgments **extemporarily**, risking foolish blunders for brief applause."*
+

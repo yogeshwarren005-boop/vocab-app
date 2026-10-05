@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to adnexa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to adnexa.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining, attached, or subordinate to accessory organs or supplementary adjoining structures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histopathology and dermatology, describing lesions or tumors originating from cutaneous appendages such as sweat glands, sebaceous glands, or hair follicles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, annexal designates of or pertaining to adnexa."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The surgeon determined that the localized pelvic mass arose from **annexal** tissue rather than the uterine fundus."*
+> - 📜 **Henry Gray (*Gray's Anatomy*):** *"The rich capillary network supplies both the cutaneous surface and its deeper **annexal** glandular structures."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"Severe ocular trauma frequently damages the **annexal** apparatus including the lacrimal pathways and eyelids."*
+

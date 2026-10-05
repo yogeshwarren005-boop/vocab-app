@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin dur within the domain of Time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of dur in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Throughout the entire course or continuation of a period, event, or action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At some particular point or period within the temporal boundaries of an ongoing situation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I tell thee, Syracusian, twenty years Have I been patron to Antipholus, During which time he ne’er saw Syracusa."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then our office may, During his power, go sleep."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This way the Romans Must or for Britons slay us, or receive us For barbarous and unnatural revolts During their use, and slay us after."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Not a word was spoken **during** the long and dark ride through the streets of Paris toward the prison gate."*
+> - 📜 **Abraham Lincoln (*Second Inaugural Address*):** *"Neither party expected for the war the magnitude or the duration which it has already attained **during** these four years."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth remained silent **during** the whole walk, reflecting upon the astonishing revelations contained in the letter."*

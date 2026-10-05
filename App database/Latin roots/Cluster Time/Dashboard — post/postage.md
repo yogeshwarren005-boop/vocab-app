@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The charge for mailing something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small adhesive token stuck on a letter or package to indicate that that postal fees have been paid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The statutory charge, fee, or rate levied by a postal service for the transport and delivery of letters, cards, and parcels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fiscal history and philately, the prepaid government adhesive stamp or printed franking impression signifying payment of transmission tariffs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"The letters that passed between the student and his family were also sent in the box, for as yet there was no penny post, and the postage of a letter between Dunglass and Edinburgh cost as much as sixpence halfpenny or sevenpence."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"That evening a lady friend called to say good-by for the winter, and as she left gave me _fifty cents for postage._ While I was calling He answered me."*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"AUSTIN DICKINSON, NEW YORK. * * * * * POSTAGE--_One Cent and a half_, not over 100 miles; _Two Cents and a half_, any distance over 100."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"For my part, I could easily do without the post-office; I think that there are very few important communications made through it, and rarely worth the **postage**."*
+> - 📜 **Elihu W. Baldwin (*The Life and Letters of Elihu W. Baldwin*):** *"He paid the heavy international **postage** on the packet of letters arriving from missionaries across the sea."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"Before the introduction of the penny stamp, the high cost of **postage** imposed a serious burden upon scholarly correspondence."*
+

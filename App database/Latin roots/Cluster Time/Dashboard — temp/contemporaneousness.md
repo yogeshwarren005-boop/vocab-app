@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being current or of the present.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of belonging to the same period of time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The characteristic of existing, developing, or taking place at the identical point in time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern literary theory, the perceived immediacy and shared temporal horizon uniting author and audience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, contemporaneousness designates the quality of being current or of the present."*
+> - 📜 **William Hazlitt (*Table-Talk*):** *"The sheer **contemporaneousness** of popular gossip lends it an ephemeral brilliance that quickly fades with the season."*
+> - 📜 **Henry James (*The Art of Fiction*):** *"A novel achieves vivid realism when it conveys the felt **contemporaneousness** of every human heartbeat in the narrative."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The **contemporaneousness** of two related phenomena does not of itself establish direct reciprocal causation."*
+

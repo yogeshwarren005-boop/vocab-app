@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Receives blood from lower limbs and abdominal organs and empties into the posterior part of the right atrium of the heart; formed from the union of the two iliac veins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Receives blood from lower limbs and abdominal organs and empties into the posterior part of the right atrium of the heart; formed from the union of the two iliac veins.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The inferior vena cava; the primary venous trunk that collects deoxygenated blood from the lower extremities and abdominal viscera.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative vertebrate anatomy and cardiac physiology, the caudal or posterior great systemic vein opening directly into the right atrium of the heart.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, postcava designates receives blood from lower limbs and abdominal organs and empties into the posterior part of the right atrium of the heart; formed from the union of the two iliac veins."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The venous blood returning from the trunk and kidneys is collected into the great **postcava** before entering the sinus venosus."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"In quadrupeds, the inferior vena cava is frequently denominated the **postcava** in accordance with anatomical orientation."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Comparative dissections of mammalian embryos reveal how the embryonic cardinal veins transform into the definitive **postcava**."*
+

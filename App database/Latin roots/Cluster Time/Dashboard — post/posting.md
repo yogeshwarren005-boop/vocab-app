@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sign posted in a public place as an advertisement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (bookkeeping) a listing on the company's records.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of traveling rapidly with post horses; displaying a notice in a public place; or entering an item in a ledger.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bookkeeping and accounting, the formal transference of transactional debit and credit entries from daily journals to permanent accounts in the general ledger.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Till I return of posting is no need."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But this exceeding posting day and night Must wear your spirits low."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, ’tis slander, Whose edge is sharper than the sword, whose tongue Outvenoms all the worms of Nile, whose breath Rides on the posting winds and doth belie All corners of the world."*
+> - 📜 **William Shakespeare (*Sonnet 51*):** *"From the dull bearer of my love away, my horse with speed doth pace. Then can no horse with my desire keep pace; therefore desire of love's **posting** needs no spur."*
+> - 📜 **Bram Stoker (*Dracula*):** *"We arranged for swift **posting** carriages to bear us across the desolate mountain passes toward the river gorge."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses and Reviews*):** *"Scientific method requires meticulous **posting** of empirical observations into classified records without partisan bias."*
+

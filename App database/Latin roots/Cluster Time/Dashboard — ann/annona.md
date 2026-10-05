@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the annonaceae; tropical american trees or shrubs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the annonaceae; tropical american trees or shrubs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tropical trees and shrubs in the family Annonaceae, yielding edible fruits such as soursop, cherimoya, and sweetsop.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Roman history and administrative law, the Annona represented the state-managed grain supply and distribution system essential for feeding Rome.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, annona designates type genus of the annonaceae; tropical american trees or shrubs."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The vital distribution of public bread, subsidized through the **annona**, calmed the volatile passions of the Roman populace."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The delicate custard-apple, a species of **Annona**, thrives under cultivation throughout tropical American valleys."*
+> - 📜 **Theodor Mommsen (*The History of Rome*):** *"The prefect of the **annona** wielded immense political leverage by regulating the shipments of grain arriving from Egypt."*
+

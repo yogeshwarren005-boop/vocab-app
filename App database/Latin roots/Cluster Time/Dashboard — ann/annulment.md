@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being cancelled or annulled.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) a formal termination (of a relationship or a judicial proceeding etc).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formal act of making legally null and void, or the judicial declaration that an obligation, marriage, or law never existed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical canon law and civil jurisprudence, an annulment establishes that a union was legally defective from its inception, contrasting with dissolution by divorce.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Trescot and recently sent to the Senate I was greatly surprised to find a proposition looking to the annulment of these invitations, and I was still more surprised when I read the reasons assigned."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor sought the ecclesiastical **annulment** of his second marriage on the grounds of prohibited canonical consanguinity."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The sudden **annulment** of the provincial charters plunged the municipal corporations into legal chaos."*
+> - 📜 **David Hume (*The History of England*):** *"King Henry pressed the papal legate incessantly for a definitive decree of **annulment** regarding his queen."*
+

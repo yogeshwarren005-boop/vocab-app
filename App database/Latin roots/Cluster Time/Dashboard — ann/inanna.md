@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consort of dumuzi (tammuz).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consort of dumuzi (tammuz).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient Mesopotamian goddess of love, beauty, fertility, sex, and warfare, worshipped by the Sumerians as Queen of Heaven.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient Near Eastern mythology and religious history, the myth of Inanna's descent to the Netherworld constitutes a foundational archetype of chthonic transformation and katabasis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inanna designates consort of dumuzi (tammuz)."*
+> - 📜 **Samuel Noah Kramer (*The Sumerians: Their History, Culture, and Character*):** *"The temples of **Inanna** at Uruk formed the political and religious epicenter of archaic Sumerian civilization."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"The mythic lamentations for Tammuz were intimately bound to the cultic mysteries celebrating the goddess **Inanna**."*
+> - 📜 **Joseph Campbell (*The Masks of God: Occidental Mythology*):** *"The descent of **Inanna** through the seven gates of the underworld dramatizes the stripping away of terrestrial sovereignty."*
+

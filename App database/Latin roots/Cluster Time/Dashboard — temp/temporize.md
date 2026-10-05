@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Draw out a discussion or process in order to gain time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Draw out a discussion or process in order to gain time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To avoid making a firm decision or committing oneself in order to gain time; or to trim.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In crisis diplomacy, temporizing through procedural delay to allow de-escalation of border tensions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Dauphin is too wilful-opposite, And will not temporize with my entreaties; He flatly says he’ll not lay down his arms."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, you will temporize with the hours."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I could temporize with my affections Or brew it to a weak and colder palate, The like allayment could I give my grief."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All's well, and might have been much better if he could have **temporized**."*
+> - 📜 **Francis Bacon (*Essays*):** *"In dangerous affairs, it is sometimes wise to **temporize**, provided delay does not embolden the adversary."*
+> - 📜 **Samuel Samuel Daniel (*The Civil Wars*):** *"They might their grievance inwardly complain, but outwardly they needs must **temporize**."*
+

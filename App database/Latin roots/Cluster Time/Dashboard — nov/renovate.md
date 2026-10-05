@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Restore to a previous or better condition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make brighter and prettier.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To restore to a good state of repair; to refresh, renew, or revitalize an aging structure or condition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architecture and historic preservation, to rehabilitate an existing building by repairing degraded elements while retaining its structural integrity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"It revived her, but could not renovate her courage."*
-> - 📜 **Baron George Gordon Byron Byron (*Childe Harold's Pilgrimage*):** *"A thousand years scarce serve to form a state; An hour may lay it in the dust: and when Can man its shattered splendour renovate, Recall its virtues back, and vanquish Time and Fate?"*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"She insisted on much cleaning and renovating, and on the day of the arrival robbed the green-houses and conservatories for the adornment of the house, the table, and her own person."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"Nature will not be staled; she knows how to **renovate** her worn materials and clothe ancient rocks in fresh springtime verdure."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"They determined to **renovate** the dilapidated dairy house, whitewashing the stone walls and repairing the thatched roof before winter."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"An earnest attempt to **renovate** the gloomy mansion only revealed how deeply the stains of ancestral sorrow had penetrated its timber."*

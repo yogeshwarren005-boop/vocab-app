@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the period following the millennium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the period following the millennium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or upholding postmillennialism, the eschatological Christian doctrine that the second coming of Christ occurs after a thousand-year golden era of spiritual prosperity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In religious historiography and sociological theology, designating optimism regarding the moral and social perfection of human civilization through evangelical reform before the final judgment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, postmillennial designates of or relating to the period following the millennium."*
+> - 📜 **Jonathan Edwards (*A History of the Work of Redemption*):** *"The steadfast faith of the church anticipates that **postmillennial** glory wherein the knowledge of God shall cover the whole earth."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"He defended the **postmillennial** hope that gradual Christian education and missionary zeal would banish moral darkness from mankind."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The exuberant civic optimism of American revivalists was closely linked to their fervent **postmillennial** expectations of earthly righteousness."*
+

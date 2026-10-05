@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of vietnam.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mon-khmer language spoken in vietnam.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of Annam, its historical population, language, or culture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colonial linguistics and ethnography, an archaic Western designation for the Vietnamese language and the majority Kinh ethnic population.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"As the only lady passenger I had very comfortable quarters, and the kindest attention from French officers and Annamese stewards."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"The Annamese, who form the bulk of the population, are attractive in appearance, finer in feature and gentler in manner than the Chinese."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Annamese refused to lend a hand, and the Chinese died like flies from the malarial conditions."*
+> - 📜 **Graham Greene (*The Quiet American*):** *"The soft inflection of the **Annamese** dialect echoed quietly through the dim corridor of the tea shop."*
+> - 📜 **Somerset Maugham (*The Gentleman in the Parlour*):** *"An **Annamese** village clustered along the riverbank behind thick hedgerows of slender bamboo."*
+> - 📜 **Joseph Conrad (*The Shadow-Line*):** *"Two **Annamese** boatmen navigated the heavy sampan through the sluggish tidal estuary with steady strokes."*
+

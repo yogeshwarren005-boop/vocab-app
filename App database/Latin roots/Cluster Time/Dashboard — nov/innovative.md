@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ahead of the times.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or producing something like nothing done or experienced or created before.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Featuring new, original, and creative methods or ideas; characterized by inventive forward-looking thought.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In product engineering and strategic design, possessing the capacity to conceive novel solutions and effectively execute unprecedented concepts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, innovative designates ahead of the times."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Genius can only breathe freely in an atmosphere of freedom, where **innovative** minds are not stifled by customary conformity."*
+> - 📜 **William James (*The Will to Believe and Other Essays in Popular Philosophy*):** *"The individual of **innovative** intelligence reframes ancient dogmas into living, pragmatic hypotheses suitable for human action."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Scientific method rewards the **innovative** investigator who dares to test cherished hypotheses against unsparing empirical facts."*

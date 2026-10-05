@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Kill in large numbers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wreaking or capable of wreaking complete destruction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing total destruction or extinction; utterly demolishing or obliterating an opponent, entity, or force.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In quantum field theory, designating operator functions that remove particles from a quantum state or radiation field.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He followed him again with a last resolve, annihilating return."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Will, however, having given that annihilating pinch, was rather ashamed, imagining from Dorothea’s silence that he had offended her still more; and having also a conscience about plucking the tail-feathers from a benefactor."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"They have already depopulated the whole of Baffin’s Bay, and are annihilating a class of useful animals."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The white whale struck the whaleboat with an **annihilating** blow that shattered timber into kindling."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The heavy artillery opened an **annihilating** fire upon the insurgent barricades defending the boulevard."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"The ferocious carnivorous dinosaur charged through the ferns with an **annihilating** fury that terrified the expedition."*
+

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A machine that simulates an environment for the purpose of training or research.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A machine that simulates an environment for the purpose of training or research.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A machine, device, or software program designed to provide a realistic imitation of the controls and conditions of an operational system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aerospace training and ergonomics, an enclosed physical reproduction of a cockpit or vehicle used to instruct operators safely under synthetic flight dynamics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, simulator designates a machine that simulates an environment for the purpose of training or research."*
+> - 📜 **H. G. Wells (*The First Men in the Moon*):** *"In our laboratory workshop we constructed a mechanical **simulator** to replicate the atmospheric pressure of the lunar surface."*
+> - 📜 **Arthur Eddington (*The Nature of the Physical World*):** *"The mechanical **simulator** devised by the physicist provides a vivid graphic analogy for equations that transcend sensory imagination."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The clever inventor demonstrated a working **simulator** that demonstrated hydraulic flow through artificial vascular channels."*

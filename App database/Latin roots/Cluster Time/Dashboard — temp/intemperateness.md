@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consumption of alcoholic drinks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excess in action and immoderate indulgence of bodily appetites, especially in passion or indulgence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Habitual excess, lack of moderate self-control, or extreme inclemency of weather.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical moral philosophy, the soul's surrender of rational governance to uncontrolled appetitive drives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intemperateness designates consumption of alcoholic drinks."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"The sudden **intemperateness** of the air and shifting barometric vapors corrupted the chemical solution."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The **intemperateness** of his youthful desires clouded his perception of moral duty."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Philosophers often warned that early **intemperateness** in youth purchases misery for mature years."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring or done after death.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring or done after death.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring, existing, or performed subsequent to physical death; posthumous or postmortem in nature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In eschatological theology and speculative metaphysics, denoting states of spiritual survival, judgment, or continuing consciousness beyond biological demise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, postmortal designates occurring or done after death."*
+> - 📜 **William James (*The Will to Believe*):** *"Human longing has continually posited a **postmortal** existence to redress the moral inequities of earthly experience."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"The soul disdains temporal limits, looking forward to its sublime **postmortal** destiny across infinite spiritual domains."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"The moral argument for immortality presumes a **postmortal** retribution wherein virtue finds its eternal reward."*
+

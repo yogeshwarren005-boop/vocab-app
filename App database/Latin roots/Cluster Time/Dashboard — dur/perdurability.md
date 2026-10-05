@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being extremely durable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being extremely durable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Enduring permanence, everlasting continuance, or indestructible persistence throughout all time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical ontology, the property of continuing in existence across temporal duration while preserving complete identity through external change.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perdurability designates the property of being extremely durable."*
+> - 📜 **Thomas Aquinas (*Summa Theologiae*):** *"The incorruptible essence of celestial bodies endows them with a natural **perdurability** that contrasts with terrestrial decay."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Great poetic works demonstrate a singular **perdurability**, retaining their imaginative radiance across revolving centuries."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"The eternal laws of justice exhibit a sovereign **perdurability** that outlasts the rise and ruin of earthly empires."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a prissy manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a prissy manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a stiffly neat, precise, formal, or demure manner; with affected propriety.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Speaking, dressing, or conducting oneself with excessive, rigid adherence to conventional decorum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"It is only make-believe, isn’t it, that I am their father?” “Oh yes,” Wendy said primly."*
-> - 📜 **Effie Afton (*Eventide*):** *"Then Miss Martha Pinkerton comes primly on, with Mrs."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I fought down an inclination to laugh, _hoped_ that I conquered an inclination to blush, and said primly:-- "My dears, you must not be exacting."*
+> - 📜 **G. K. Chesterton (*The Wisdom of Father Brown*):** *"All this red roll of impieties came from his thin, genteel lips rather **primly** than otherwise, as he sat sipping the tea."*
+> - 📜 **J. M. Barrie (*Peter and Wendy*):** *"Mrs. Darling closed her lips **primly**, determined to keep the mysterious little boy out of her neat nursery."*
+> - 📜 **Louisa May Alcott (*Little Women*):** *"Meg folded her hands **primly** in her lap and reminded her sisters that young ladies must behave with proper reserve."*

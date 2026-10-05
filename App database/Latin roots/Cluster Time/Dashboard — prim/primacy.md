@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being first in importance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being first in importance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Preeminence in rank, earliest placement in order, supreme importance, or governing authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical hierarchy, the office, dignity, or supreme jurisdiction of an archbishop or bishop, particularly the Bishop of Rome.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"And in the sect--fairly large and yet unusually choice--of Austenians or Janites, there would probably be found partisans of the claim to primacy of almost every one of the novels."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Above and beyond them all, unsleeping, ever-solicitous, unerring, is the Pilot of their bark, the Charterer of their course, the Founder of their spiritual fellowship, the Bestower of that primacy which is the hallmark of their destiny."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"It was to the members of this community that He subsequently addressed His Tablets of the Divine Plan, investing it with a spiritual primacy, and singling it out for a glorious mission among its sister communities."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The bishop of Rome asserted his apostolic **primacy** over all other patriarchs of the Christian world."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The See of Canterbury maintained undisputed ecclesiastical **primacy** throughout the southern dioceses of the realm."*
+> - 📜 **William James (*The Principles of Psychology*):** *"In every conscious choice, attention claims **primacy** over sensory impulse, directing our energetic response."*

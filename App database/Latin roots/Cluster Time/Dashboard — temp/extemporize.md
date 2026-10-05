@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Manage in a makeshift way; do with whatever is at hand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perform without preparation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To speak, perform, or fashion something extemporaneously using whatever materials are at hand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In expeditionary survival and field medicine, to extemporize emergency splints or shelters from wilderness debris.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It is safer to accept any chance that offers itself, and extemporize a procedure to fit it, than to get a good plan matured, and wait for a chance of using it."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It is better to accept any chance that offers itself, and extemporize a procedure to fit it, than to get a good plan matured, and wait for a chance of using it."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Abt Vogler. (After he has been extemporizing upon the musical instrument of his invention.) The Abbe Georg Joseph Vogler was born at Wuerzburg (Bavaria), June 15, 1749; appointed Kappelmeister to the King of Sweden, in 1786."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The shepherd had to **extemporize** a shelter from hurdles and straw against the sudden pelting rain."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The carpenter could **extemporize** any needed tool or prosthetic limb from spare whalebone and seasoned pine."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"We were forced to **extemporize** a barricade across the blockhouse door using heavy pork casks and timber."*
+

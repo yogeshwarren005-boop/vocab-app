@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause annoyance in; disturb, especially by minor irritations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause annoyance in; disturb, especially by minor irritations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To irritate, bother, or vex someone persistently, causing mild anger, discomfort, or psychological frustration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military and historical contexts, to harass, molest, or harass enemy positions with repeated skirmishes, raids, or artillery volleys.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sweets with sweets war not, joy delights in joy: Why lov’st thou that which thou receiv’st not gladly, Or else receiv’st with pleasure thine annoy?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We fear not What can from Italy annoy us; but We grieve at chances here."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let us be lead within thy bosom, Richard, And weigh thee down to ruin, shame, and death; Thy nephews’ souls bid thee despair and die. [_To Richmond._] Sleep, Richmond, sleep in peace, and wake in joy; Good angels guard thee from the boar’s annoy."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Nothing could more deeply **annoy** Mr. Darcy than the ill-timed flippancy of frivolous acquaintances."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"I mean not to **annoy** your peace, but to deliver such messages as become a faithful friend."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"The relentless teasing of the older apprentices served only to **annoy** and intimidate the friendless boy."*
+

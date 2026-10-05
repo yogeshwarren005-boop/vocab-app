@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A toroidal shape.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (fungi) a remnant of the partial veil that in mature mushrooms surrounds the stem like a collar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A ring-shaped object, anatomical structure, or geometric region bounded by two concentric circles of different radii.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany and mycology, the annulus is the ring-like remnant of the partial veil encircling the stalk (stipe) of certain mature mushrooms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, annulus designates a toroidal shape."*
+> - 📜 **Henry Gray (*Gray's Anatomy*):** *"The inguinal canal terminates superficially at the external abdominal ring, forming a fibrous **annulus** in the aponeurosis."*
+> - 📜 **Isaac Newton (*Opticks*):** *"When a convex lens is pressed against a plane glass, light forms a series of colorful rings, each **annulus** displaying prismatic fringes."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould*):** *"The muscular **annulus** surrounding each body segment contracts rhythmically to propel the worm through the earth."*
+

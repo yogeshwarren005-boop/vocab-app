@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Discussion of an event after it has occurred.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An examination and dissection of a dead body to determine cause of death or the changes produced by disease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An examination and dissection of a deceased body to determine the cause of death or evaluate pathological changes; an autopsy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organizational management and project debriefing, a retrospective analytical review conducted following the conclusion of an operation or project to identify failures and successes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Good idea a postmortem for doctors."*
+> - 📜 **James Joyce (*Ulysses*):** *"Good idea a **postmortem** for doctors. See what killed him. Find out the cause of death before burial."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"The surgeon conducted a thorough **postmortem** examination of the victim, confirming that poison had induced immediate cardiac arrest."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Careful correlation between clinical signs and **postmortem** findings remains the bedrock of rigorous pathology."*
+

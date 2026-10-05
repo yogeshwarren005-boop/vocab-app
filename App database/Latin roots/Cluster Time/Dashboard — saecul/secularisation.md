@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity of changing something (art or education or society or morality etc.) so it is no longer under the control or influence of religion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transfer of property from ecclesiastical to civil possession.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The gradual historical transformation of a society from close religious identification to non-religious institutions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political philosophy and British sociology, the institutional transfer of civic administration, education, and legal authority from church control to civil governance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, secularisation designates the activity of changing something (art or education or society or morality etc.) so it is no longer under the control or influence of religion."*
+> - 📜 **Max Weber (*The Protestant Ethic and the Spirit of Capitalism*):** *"The steady **secularisation** of daily life dissolved the ascetic religious impulses that originally accompanied early capitalism."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The gradual **secularisation** of civil magistracies marked the boundary between ancient priestly dominion and modern polity."*
+> - 📜 **John Stuart Mill (*Essays on Some Unsettled Questions of Political Economy*):** *"The ongoing **secularisation** of national universities permitted scientific research to proceed unfettered by clerical dogmas."*

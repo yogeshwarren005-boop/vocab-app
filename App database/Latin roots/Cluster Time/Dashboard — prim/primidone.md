@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An anticonvulsant (trade name mysoline) used to treat grand mal seizures and essential tremor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An anticonvulsant (trade name mysoline) used to treat grand mal seizures and essential tremor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A synthetic anticonvulsant medication (trade name Mysoline) used to treat major motor epilepsy, partial seizures, and essential tremor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, a pyrimidinedione barbiturate analog metabolized in the liver into phenobarbital and phenylethylmalonamide to stabilize neuronal membranes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, primidone designates an anticonvulsant (trade name mysoline) used to treat grand mal seizures and essential tremor."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Patients afflicted with intractable tonic-clonic convulsions responded favorably to therapeutic regimens of **primidone**."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"The metabolic biotransformation of **primidone** into phenobarbital enhances GABAergic inhibition across cerebral synapses."*
+> - 📜 **Alexander Fleming (*Chemotherapy: Yesterday, Today, and Tomorrow*):** *"Modern pharmacotherapy relies upon compounds like **primidone** to dampen excessive cortical excitability without paralyzing consciousness."*

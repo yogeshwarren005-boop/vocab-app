@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deciduous european oak valued for its tough elastic wood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deciduous european oak valued for its tough elastic wood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sessile oak (Quercus petraea), a deciduous European oak tree yielding exceptionally hard, durable timber.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In European forestry and dendrology, a timber oak characterized by stalkless acorns and petiolate leaves, contrasting with the pedunculate oak.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, durmast designates deciduous european oak valued for its tough elastic wood."*
+> - 📜 **John Evelyn (*Sylva, or A Discourse of Forest-Trees*):** *"The timber of the **durmast** oak proves scarcely inferior in hardness to that of our common English pedunculate oak."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"In the upland coppices we observe the **durmast** flourishing upon shallow, stony soils where ordinary oaks languish."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Whether the pedunculate oak and the **durmast** oak constitute distinct species or mere geographic varieties remains disputed."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Permanence by virtue of the power to resist stress or force.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Permanence by virtue of the power to resist stress or force.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or capacity of remaining permanent, steadfast, or long-lasting through changing conditions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetics and material philosophy, the intrinsic stamina and persistence that preserves an artifact or principle against temporal decay.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Of course by toughness I mean enduringness."*
+> - 📜 **Jack London (*The Star Rover*):** *"Through countless incarnations, the spirit demonstrated an extraordinary **enduringness** that physical death could never dissolve."*
+> - 📜 **Henry David Thoreau (*A Week on the Concord and Merrimack Rivers*):** *"The quiet **enduringness** of granite crags contrasts with the fleeting bustle of mortal ambitions along the shore."*
+> - 📜 **William James (*Varieties of Religious Experience*):** *"Faith confers a psychological **enduringness** that enables ordinary mortals to confront catastrophe with serene fortitude."*

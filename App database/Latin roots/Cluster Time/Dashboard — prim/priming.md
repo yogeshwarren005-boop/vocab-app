@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making something ready.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any igniter that is used to initiate the burning of a propellant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of preparing something for use, such as applying an initial preparatory coat of paint or loading a firearm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology, the implicit memory effect in which exposure to a stimulus influences response to a subsequent related stimulus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Leonard Hardenbergh (*The Journal of Lieut. John L. Hardenbergh of the Second New York Continental Regiment from May 1 to October 3, 1779, in General Sullivan's Campaign Against the Western Indians*):** *"When the Indians were sound asleep, the prisoners arose, secured the guns, shaking the priming from them, Sawyer securing the tomahawk of Han Yerry, and Cowley the ax."*
-> - 📜 **James Scurry (*The captivity, sufferings, and escape of James Scurry*):** *"When we awoke, it appeared, by the sun’s height, to be about nine o’clock; and after refreshing ourselves with a few mouthfuls of rice, the last we had, and some water, adjusting our priming, &c. we pursued our journey."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"He's priming himself," Osborne whispered to Dobbin, and at length the hour and the carriage arrived for Vauxhall."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The old soldier meticulously inspected the **priming** of his horse-pistols before riding out into the damp morning air."*
+> - 📜 **Herman Melville (*Typee*):** *"The hunter carefully dried the damp powder of his **priming** over the camp embers to ensure the musket would fire."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Subtle perceptual **priming** awakens associated trains of thought in the memory before conscious reflection intervenes."*

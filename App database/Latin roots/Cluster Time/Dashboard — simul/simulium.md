@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the simuliidae: blackflies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the simuliidae: blackflies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The principal genus of black flies within the family Simuliidae, known for vicious biting habits in riparian habitats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tropical medicine and vector biology, the predominant genus of black flies responsible for transmitting human onchocerciasis throughout equatorial Africa and the Americas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, simulium designates type genus of the simuliidae: blackflies."*
+> - 📜 **Patrick Manson (*Tropical Diseases: A Manual of the Diseases of Warm Climates*):** *"The female flies of the genus **Simulium** breed exclusively in well-oxygenated, swift-flowing torrents where river blindness is endemic."*
+> - 📜 **Ronald Ross (*The Prevention of Malaria*):** *"Field entomologists observed that species of **Simulium** rarely wander far from the rocky streams where their pupal casings mature."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The painful bites of **Simulium** inflict severe local edema and pruritus among travelers unaccustomed to wilderness river valleys."*

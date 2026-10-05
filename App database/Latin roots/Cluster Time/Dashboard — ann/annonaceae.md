@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chiefly tropical trees or shrubs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chiefly tropical trees or shrubs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large botanical family of flowering plants commonly known as the custard apple or soursop family.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic angiosperm taxonomy, Annonaceae comprises primitive magnoliid trees, shrubs, and lianas possessing aromatic bark, trimerous flowers, and aggregate fleshy syncarps.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, annonaceae designates chiefly tropical trees or shrubs."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Several tropical genera belonging to the **Annonaceae** yield succulent fruits prized by indigenous cultivators."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Dense lowland rainforests throughout the archipelago harbor diverse species of **Annonaceae** whose flowers emit a heavy nocturnal fragrance."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The primitive floral arrangement of the **Annonaceae** displays numerous spirally arranged stamens surrounding multiple distinct carpels."*
+

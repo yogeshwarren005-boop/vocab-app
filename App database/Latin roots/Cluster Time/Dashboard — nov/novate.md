@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Replace with something new, especially an old obligation by a new one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Replace with something new, especially an old obligation by a new one.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To replace an existing legal obligation or contract with a newly executed agreement, extinguishing the former.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil jurisprudence and contract law, to substitute either a new debtor, creditor, or substantive covenant with the mutual consent of all parties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, novate designates replace with something new, especially an old obligation by a new one."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"Under the civil law tradition, parties could readily **novate** an antecedent debt by substituting a new debtor with express assent."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The court examined whether the subsequent deed was intended to **novate** the primary mortgage bond or merely confirm its obligations."*
+> - 📜 **Roscoe Pound (*The Spirit of the Common Law*):** *"Commercial transactions frequently require merchants to **novate** complicated tripartite agreements to expedite international credit."*

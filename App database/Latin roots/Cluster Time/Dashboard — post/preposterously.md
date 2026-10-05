@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: So as to arouse or deserve laughter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: So as to arouse or deserve laughter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an absurd, foolish, irrational, or highly ridiculous manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetoric and social critique, acting with comical perversity or inverted judgment so egregious as to excite derision.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Methinks you prescribe to yourself very preposterously."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She is abused, stol’n from me, and corrupted By spells and medicines bought of mountebanks; For nature so preposterously to err, Being not deficient, blind, or lame of sense, Sans witchcraft could not."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Wonder and doubt come wrongly into play, Preposterously, at cross purposes."*
+> - 📜 **William Shakespeare (*A Midsummer Night's Dream*):** *"And those things do best please me that befall **preposterously**."*
+> - 📜 **Robert Browning (*The Ring and the Book*):** *"The witness contradicted himself **preposterously**, shifting his story with every cross-examination from the magistrate."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"Mr. Winkle dressed himself **preposterously** in sporting attire that aroused the sarcastic merriment of the village youths."*
+

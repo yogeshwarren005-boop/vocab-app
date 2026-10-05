@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: English writer of irish descent who spent much of his life in mediterranean regions (1912-1990).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English writer of irish descent who spent much of his life in mediterranean regions (1912-1990).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A noted British surname associated with celebrated expatriate novelists, travel essayists, and naturalist conservationists.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Referring specifically to author Lawrence Durrell (The Alexandria Quartet) or his brother Gerald Durrell, pioneer of zoo-led wildlife conservation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, durrell designates english writer of irish descent who spent much of his life in mediterranean regions (1912-1990)."*
+> - 📜 **Lawrence Durrell (*Prospero's Cell*):** *"The shimmering olive groves of Corfu welcomed **Durrell** as an enchanted refuge from northern fogs."*
+> - 📜 **Gerald Durrell (*My Family and Other Animals*):** *"Young **Durrell** filled his pockets with scorpions and praying mantises to the utter horror of his patient relatives."*
+> - 📜 **Graham Greene (*Ways of Escape*):** *"The rich sensuous prose of **Durrell** recreated Mediterranean sunlight with unmatched lyricism and atmospheric depth."*

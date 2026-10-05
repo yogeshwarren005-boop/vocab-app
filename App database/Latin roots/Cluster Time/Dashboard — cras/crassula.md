@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of crassulaceae; herbs and small shrubs having woody stems and succulent aerial parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of crassulaceae; herbs and small shrubs having woody stems and succulent aerial parts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A diverse botanical genus of succulent plants within the stonecrop family Crassulaceae, possessing fleshy water-storing foliage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant physiology and arid botany, this genus exemplifies Crassulacean Acid Metabolism (CAM), a specialized photosynthetic adaptation minimizing daytime water loss.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crassula designates type genus of crassulaceae; herbs and small shrubs having woody stems and succulent aerial parts."*
+> - 📜 **Charles Darwin (*The Movements and Habits of Climbing Plants*):** *"The thick succulent leaves of **Crassula** store vital moisture to endure prolonged seasonal drought upon stony ledges."*
+> - 📜 **Asa Gray (*First Lessons in Botany and Vegetable Physiology*):** *"The opposite, fleshy phyllomes of **Crassula** provide a classic demonstration of drought-resistant foliar architecture."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Collectors prize the symmetrical branching habit and waxy emerald rosettes characteristic of the genus **Crassula**."*

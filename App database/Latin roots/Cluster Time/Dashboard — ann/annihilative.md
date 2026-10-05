@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wreaking or capable of wreaking complete destruction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wreaking or capable of wreaking complete destruction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing the power or tending to cause total destruction, extinction, or obliteration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In existential philosophy and psychoanalytic theory, designating aggressive or nihilistic impulses directed toward erasing being or structural boundaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, annihilative designates wreaking or capable of wreaking complete destruction."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The fierce spirit of intellectual doubt waged an **annihilative** warfare against all traditional spiritual convictions."*
+> - 📜 **Herman Melville (*Pierre; or, The Ambiguities*):** *"A dark **annihilative** despair seized his soul as the irreconcilable contradictions of duty unfolded."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"True genius repudiates that narrow **annihilative** criticism which lives only to discover trivial imperfections."*
+

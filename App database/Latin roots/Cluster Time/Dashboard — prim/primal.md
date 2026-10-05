@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving as an essential component.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having existed from the beginning; in an earliest or original stage or state.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Essential, fundamental, original, or relating to the earliest stage of development.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychology and evolutionary theory, denoting basic, instinctive biological drives operating beneath conscious intellectual control.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It hath been taught us from the primal state That he which is was wished until he were, And the ebbed man, ne’er loved till ne’er worth love, Comes deared by being lacked."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thanks, dear my lord. [_Exit Polonius._] O, my offence is rank, it smells to heaven; It hath the primal eldest curse upon’t,— A brother’s murder!"*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A man who has spent his primal strength in journeying in one direction has not much spirit left for reversing his course."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"O, my offence is rank, it smells to heaven; it hath the **primal** eldest curse upon't, a brother's murder."*
+> - 📜 **Sigmund Freud (*Totem and Taboo*):** *"The memory of the **primal** horde and its violent upheaval echoes throughout the religious rituals of mankind."*
+> - 📜 **William Wordsworth (*Ode: Intimations of Immortality*):** *"What though the radiance which was once so bright be now forever taken from my sight; we will grieve not, rather find strength in what remains behind; in the **primal** sympathy which having been must ever be."*

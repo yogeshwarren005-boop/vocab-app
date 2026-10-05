@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal public statement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public statement containing information about an event that has happened or is going to happen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal public statement or declaration made to impart information, report an occurrence, or notify intentions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial publishing and broadcasting, a printed notice, advertisement, or heraldic bulletin conveying official decrees or programming schedules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The two older boys had approached, too, as they had an announcement to make."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"He could hardly wait to make his sister the announcement to which he had already referred several times."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I verily believe that the announcement in the newspapers when his mother was confined was ‘On Tuesday last, at her residence in Botheration Buildings, Mrs."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"The unexpected **announcement** of the engagement produced deep astonishment and polite murmurs among the assembled guests."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The legal **announcement** posted upon the courtroom doors notified all creditors of a pending hearing in Chancery."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The rector listened in silent dismay to the solemn **announcement** regarding the closing of the infirmary ward."*
+

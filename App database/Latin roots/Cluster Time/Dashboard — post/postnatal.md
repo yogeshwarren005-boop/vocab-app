@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring immediately after birth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring immediately after birth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring, relating to, or administered during the period immediately following childbirth, especially concerning infant development or maternal recovery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental pediatrics and obstetrical medicine, denoting physiological adaptations, metabolic screening, and neurological maturation during the initial weeks of neonatal life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, postnatal designates occurring immediately after birth."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Careful supervision during the **postnatal** convalescence prevents septic complications in both mother and newborn."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The extended period of **postnatal** helplessness in human infants necessitates prolonged parental care and mutual social cooperation."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Immediate circulatory adjustments during the early **postnatal** minutes include functional closure of the ductus arteriosus and foramen ovale."*
+

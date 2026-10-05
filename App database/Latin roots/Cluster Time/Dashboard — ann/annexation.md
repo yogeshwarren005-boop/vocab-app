@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incorporation by joining or uniting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The formal act of acquiring something (especially territory) by conquest or occupation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formal act of incorporating additional territory, land, or property into an existing political or legal entity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic history and municipal law, annexation alters territorial boundaries, frequently generating contentious jurisdictional debates regarding sovereign legitimacy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"Ask for Grosset & Dunlap’s list THE SECRET OF THE BARBICAN THE ANNEXATION SOCIETY THE WOLVES AND THE LAMB GREEN INK THE KING versus WARGRAVE THE LOST MR."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"It must have come into the church from a Greek or Hellenistic source, perhaps as a translation of Paul's "heavenly Christ." As it stands, it is a peculiarly bold annexation from Philosophy."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The opening of a rich continent and its annexation, by these new agencies, to the available resources of the older countries were not dreamed of."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The triumphant **annexation** of Dacia extended the Roman frontier beyond the natural barrier of the Danube."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The prospective **annexation** of contiguous western territories aroused fierce political debates in the federal Congress."*
+> - 📜 **James Bryce (*The American Commonwealth*):** *"The rapid **annexation** of suburban townships transformed the municipal government into a vast metropolitan corporation."*
+

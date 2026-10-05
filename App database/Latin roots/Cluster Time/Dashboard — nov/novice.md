@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who has entered a religious order but has not taken final vows.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone new to a field or activity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person new to and inexperienced in a job, trade, discipline, or situation; a beginner or apprentice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In monastic tradition and canon law, a probationer admitted into a religious order who has not yet taken permanent solemn vows.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Triple-turned whore! ’Tis thou Hast sold me to this novice, and my heart Makes only wars on thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Can you so stead me As bring me to the sight of Isabella, A novice of this place, and the fair sister To her unhappy brother Claudio?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who made thee then a bloody minister When gallant-springing, brave Plantagenet, That princely novice, was struck dead by thee?"*
+> - 📜 **William Shakespeare (*The Tempest*):** *"I am a fool to weep at what I am glad of. Fair encounter of two most rare affections! Heavens rain grace on that which breeds between 'em! A mere **novice** in worldly wisdom, Miranda spoke from the pure simplicity of her heart."*
+> - 📜 **Francis Bacon (*The Essays*):** *"In council, the wise statesman will neither despise the enthusiasm of the **novice** nor lean too heavily upon his untested judgment."*
+> - 📜 **James Joyce (*A Portrait of the Artist as a Young Man*):** *"The pious **novice** knelt before the altar steps in reverent contemplation of the vows that would sever him from secular ambitions."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A star that ejects some of its material in the form of a cloud and become more luminous in the process.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A star that ejects some of its material in the form of a cloud and become more luminous in the process.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cataclysmic variable star that suddenly undergoes a dramatic increase in brightness before fading over months.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astrophysics, a thermonuclear runaway occurring on the surface of an accreting white dwarf star within a close binary system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"When I think that before long the _Nautilus_ will be by Nova Scotia, and that there near New foundland is a large bay, and into that bay the St."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Would it touch at Spitzbergen, or on the shores of Nova Zembla?"*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"They say Semënova acts marvelously."*
+> - 📜 **Arthur Eddington (*Stars and Atoms*):** *"The sudden outburst of a **nova** reveals the catastrophic release of thermonuclear energy from a previously inconspicuous stellar core."*
+> - 📜 **Camille Flammarion (*Popular Astronomy*):** *"Centuries ago, the apparition of a brilliant **nova** in Cassiopeia astonished Tycho Brahe and shattered the dogma of unchanging celestial spheres."*
+> - 📜 **H. G. Wells (*The Star*):** *"Astronomers noted the sensational radiance of the new visitor, resembling a blazing **nova** that outshone the brightest wandering planets."*

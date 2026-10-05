@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By temperament.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By temperament.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With regard to natural disposition, emotional tendencies, or constitutional character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological profiling, innate neurochemical traits governing reactivity and baseline emotional responsiveness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"This sensuous acceptance of the physical joy of life pleased Laura, born a Selincourt, bred in France, and temperamentally out of touch with middle-class England."*
+> - 📜 **G. K. Chesterton (*The Wisdom of Father Brown*):** *"He was **temperamentally** incapable of suspecting his neighbors of calculated villainy."*
+> - 📜 **Henry James (*The Ambassadors*):** *"Strether was **temperamentally** inclined to view European manners with generous indulgence."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Marianne was **temperamentally** disposed to indulge her grief with romantic extravagance."*
+

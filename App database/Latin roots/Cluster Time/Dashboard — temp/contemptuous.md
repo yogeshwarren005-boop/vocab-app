@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing extreme contempt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressing extreme contempt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing, feeling, or expressing deep hatred, scorn, or arrogant disrespect toward others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In interpersonal communication, facial micro-expressions such as unilateral lip curl that signal perceived superiority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Contemptuous base-born callet as she is, She vaunted ’mongst her minions t’ other day The very train of her worst wearing gown Was better worth than all my father’s lands Till Suffolk gave two dukedoms for his daughter."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"In face, watchful behind a blind; habitually not uncensorious and contemptuous perhaps."*
-> - 📜 **Jane Austen (*Persuasion*):** *"But, I assure you, I have never been in the house above twice in my life.” She received no other answer, than an artificial, assenting smile, followed by a contemptuous glance, as he turned away, which Anne perfectly knew the meaning of."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"**Contemptuous** base-born callet as she is, she vaunted 'mongst her minions t'other day the very train of her worst wearing gown was better worth than all my father's lands."*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"When the sands are all dry, he is gay as a lark, and will talk in **contemptuous** tones of the Shark."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Featherstone handed back the letter to him with a **contemptuous** gesture, saying you don't suppose I believe a thing because Bulstrode writes it out fine."*
+

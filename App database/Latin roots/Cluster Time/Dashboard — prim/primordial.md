@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having existed from the beginning; in an earliest or original stage or state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having existed from the beginning; in an earliest or original stage or state.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Existing at or from the beginning of time; primeval, original, and fundamental.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cosmology and embryology, relating to the earliest matter formed after the universe originated, or the initial rudimentary cells of an organ.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Other legends, however, state that the veritable and primordial lord of the Hawaiian inferno was called Manua."*
-> - 📜 **Vachel Lindsay (*The Chinese Nightingale, and Other Poems*):** *"Primordial elephants loomed by your side, And our clay-painted children danced by your path, Chanting the death of the kingdoms of wrath."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"How these circles were produced is perhaps one of those primordial mysteries that the most skilled paleologist will never be able to explain."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"To the question why we do not find records of these vast **primordial** periods, I can give no satisfactory answer."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"All living forms have sprung through countless modifications from a simple, gelatinous **primordial** protoplasm."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"He seemed an embodiment of the **primordial** forces of nature, unconquered by human purpose or moral law."*

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to postmodernism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to postmodernism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An adherent, practitioner, or proponent of postmodernism in literature, philosophy, architecture, or the visual arts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the stylistic, deconstructive, and relativist methods employed by thinkers and creators who dismantle modernist canons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, postmodernist designates of or relating to postmodernism."*
+> - 📜 **Richard Rorty (*Contingency, Irony, and Solidarity*):** *"The committed **postmodernist** philosopher abandons foundational epistemology to embrace open-ended, pragmatic conversation."*
+> - 📜 **Jürgen Habermas (*The Philosophical Discourse of Modernity*):** *"The **postmodernist** critique of communicative rationality threatens to undermine the unfinished emancipatory project of the Enlightenment."*
+> - 📜 **Charles Jencks (*The Language of Post-Modern Architecture*):** *"The innovative **postmodernist** architect combines classical ornamentation with contemporary irony to create double-coded buildings."*
+

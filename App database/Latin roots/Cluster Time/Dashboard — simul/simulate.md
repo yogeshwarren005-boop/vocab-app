@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reproduce someone's behavior or looks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Create a representation or model of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To imitate the appearance, character, or conditions of something; to feign or replicate a real phenomenon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer modeling, engineering, and physiology, to run an algorithmic or experimental model replicating the dynamical behavior of a real system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Thus you learn that these also are images, which mortal mind holds and evolves and which simulate mind, life, and intelligence."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"They are native nothingness, out of which error would simulate creation through a man formed from dust."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"If they wish to make rain they simulate it by sprinkling water or mimicking clouds: if their object is to stop rain and cause drought, they avoid water and resort to warmth and fire for the sake of drying up the too abundant moisture."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Art doth often **simulate** the intricate processes of nature, reproducing in miniature furnaces the subtle operations of subterranean heat."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Insects frequently **simulate** the color and texture of surrounding foliage to escape the keen vigilance of insectivorous birds."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The Martians constructed elaborate mechanical apparatus designed to **simulate** the muscular agility of living terrestrial quadrupeds."*

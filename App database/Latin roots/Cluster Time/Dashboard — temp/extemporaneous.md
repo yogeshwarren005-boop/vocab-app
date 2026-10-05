@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With little or no preparation or forethought.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With little or no preparation or forethought.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spoken, performed, composed, or executed on the spur of the moment without prior preparation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In competitive forensics and public debate, delivery where arguments are outlined in advance but delivered without a script.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Extemporaneous Effusion On being appointed to an Excise division."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"Your own gift you can present every moment with the cumulative force of a whole life's cultivation; but of the adopted talent of another, you have only an **extemporaneous**, half possession."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"His **extemporaneous** eloquence in the House of Commons swayed votes that weeks of private lobbying could not shake."*
+> - 📜 **Mark Twain (*Autobiography*):** *"It usually takes me more than three weeks to prepare a good **extemporaneous** speech that sounds genuinely spontaneous."*
+

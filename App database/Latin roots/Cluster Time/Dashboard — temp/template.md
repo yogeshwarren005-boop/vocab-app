@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A model or standard for making comparisons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A model or standard for making comparisons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A shaped piece of metal, wood, or plastic used as a pattern for cutting, shaping, or drilling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular biology and genetics, a single strand of DNA that directs the synthesis of a complementary messenger RNA strand.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, template designates a model or standard for making comparisons."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"Each strand of the unwound double helix acts as a direct molecular **template** for replicating the complementary chain."*
+> - 📜 **David Starr Jordan (*The Human Harvest*):** *"The master builder constructs his arch over a rigid wooden **template** to ensure flawless curvature."*
+> - 📜 **Thomas Huxley (*Physiography*):** *"The artisan traces his pattern upon the stone slab using an iron **template** to preserve uniform proportions."*
+

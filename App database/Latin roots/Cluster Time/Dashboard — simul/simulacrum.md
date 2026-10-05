@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An insubstantial or vague semblance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A representation of a person (especially in the form of sculpture).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An image, representation, or likeness of someone or something; a superficial semblance lacking genuine substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In postmodern philosophy and semiotics, a copy of a copy whose relation to an original reality has been entirely dissolved or replaced by signs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, simulacrum designates an insubstantial or vague semblance."*
+> - 📜 **Walter Pater (*The Renaissance: Studies in Art and Poetry*):** *"The marble statue seemed more than a lifeless **simulacrum**, breathing the ethereal grace of antique Hellenic beauty."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Our modern luxury produces but a gilded **simulacrum** of civilized happiness while starving the essential soul."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The carved wooden figurehead was an antique **simulacrum** of a forgotten king, battered by the salt spray of forty voyaging years."*

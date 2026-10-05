@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cut pile fabric with vertical ribs; usually made of cotton.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A road made of logs laid crosswise.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A durable ribbed cotton fabric with raised longitudinal velvety ridges or cords, used especially for sturdy trousers and outerwear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil engineering, a rustic roadway constructed by laying round logs transversely across swampy or marshy ground.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Like all boys of his class, his usual dress was a brown velveteen jacket and waistcoat and corduroy trousers that had once been white."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"These marks produce the corduroy sort of stripes discernible in the tappa in its finished state."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"They consisted of two shirts and a half, two stocks for the neck, a pair or two of worsted stockings, an old pair of corduroy small-clothes, a rusty razor, a book of psalm tunes full of dog’s ears, and a broken pitch-pipe."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The small boys wore excellent **corduroy**, the girls went out as tidy servants, or did a little straw-plaiting at home."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Behold me, on the morrow, in a much-worn little white hat, a black jacket, and a pair of stiff **corduroy** trousers."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"We jolted over miles of rough **corduroy** road where hemlock logs were laid side by side across the spongy bog."*

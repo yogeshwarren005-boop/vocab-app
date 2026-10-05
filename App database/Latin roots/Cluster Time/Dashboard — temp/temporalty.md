@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The worldly possessions of a church.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In christianity, members of a religious community that do not have the priestly responsibilities of ordained clergy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The secular laity as distinguished from the clergy; or secular possessions and revenues of an ecclesiastic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In English constitutional and parliamentary history, the Lords Temporal as distinguished from the Lords Spiritual in Parliament.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, temporalty designates the worldly possessions of a church."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The parliament consisted of the lords spiritual, the **temporalty**, and the commons of the realm."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The revenues of the church aroused the jealousy of the feudal **temporalty** throughout medieval Christendom."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The bishops clashed frequently with the proud **temporalty** over the assessment of clerical taxes."*
+

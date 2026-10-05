@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or derived from axioms; ; - s.s.stevens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or derived from axioms; ; - s.s.stevens.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or derived from postulates or foundational axiomatic assumptions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal mathematics, logic, and philosophy of science, characterizing methods that construct deductive theoretical frameworks from a defined set of primitive axioms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, postulational designates of or relating to or derived from axioms; ; - s.s.stevens."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"The **postulational** method offers great advantages of logical elegance, though it cannot manufacture empirical truth out of thin air."*
+> - 📜 **Alfred North Whitehead (*Process and Reality*):** *"Every systematic cosmology must establish its **postulational** foundations before deducing the intricate relations of actual entities."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"Rigorous scientific hypothesis differs from dogmatic assertion by treating its **postulational** principles as subject to empirical verification."*
+

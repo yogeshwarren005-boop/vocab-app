@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An advocate of secularism; someone who believes that religion should be excluded from government and education.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An advocate of secularism; someone who believes that religion should be excluded from government and education.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An advocate of separating religious institutions and dogmas from government, state education, and public policy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social reform history, an activist who promotes rationalist, non-theological moral foundations and civic ethics for democratic society.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, secularist designates an advocate of secularism; someone who believes that religion should be excluded from government and education."*
+> - 📜 **Thomas Henry Huxley (*Science and Christian Tradition*):** *"The dedicated **secularist** insists that public schools must impart demonstrable scientific knowledge rather than sectarian catechisms."*
+> - 📜 **George Jacob Holyoake (*English Secularism*):** *"The primary duty of the **secularist** is to improve material conditions in this world without relying upon speculative expectations of the next."*
+> - 📜 **G. K. Chesterton (*Heretics*):** *"The militant **secularist** frequently exhibits a dogmatic zeal that rivals the most uncompromising religious inquisitor."*

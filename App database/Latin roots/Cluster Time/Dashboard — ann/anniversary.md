@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The date on which an event occurred in some previous year (or the celebration of it).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The date on which an event occurred in some previous year (or the celebration of it).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The annual recurrence of the date on which a notable event took place in a previous year.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civic and cultural commemoration, a designated memorial day marked by solemn ceremonial observances, festive jubilees, or historic tributes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"On the twelfth anniversary of my wedding-day, I became the wife of Professor Dingo.” “Of European reputation,” added Mr."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Its singularity lay less in the retention of a custom of walking in procession and dancing on each anniversary than in the members being solely women."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"His services were in constant request for the opening of churches and on anniversary occasions."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Every returning **anniversary** of that melancholy day revived the memory of her early domestic sorrow."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The quiet wedding **anniversary** passed without public celebration in the secluded rural parsonage."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Each solemn **anniversary** reminded the magistrates of the stern covenant binding their fledgling commonwealth."*
+

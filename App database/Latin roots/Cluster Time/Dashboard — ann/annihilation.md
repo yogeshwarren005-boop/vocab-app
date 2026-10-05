@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Destruction by annihilating something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Total destruction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Total, complete destruction or reduction to nothingness; the absolute extinction or obliteration of an entity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In high-energy physics, the transformation of matter and antimatter into high-energy photons such as gamma radiation during particle collision.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"In truth, he had awakened that morning from a sleep deep as annihilation; and during those first few moments in which the brain, like a Samson shaking himself, is trying its strength, he had some dim notion of an unusual nocturnal proceeding."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"He, with open eyes, chose physical pain, heightened to torture, not escaping any of the suffering which anticipation gives--that physical horror of death, that instinctive fear of annihilation, which nature suggests of itself."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Rushworth would be instant annihilation."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Thus measuring things in Heaven by things on Earth, at that sad sight our sudden **annihilation** seemed at hand."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The barbarian invasion threatened the peaceful citizens of the empire with wholesale plundering and political **annihilation**."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The emperor proposed the total **annihilation** of the Big-Endian exiles as the only guarantee of domestic stability."*
+

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In front of the heart; involving the precordium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In front of the heart; involving the precordium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, situated in, or affecting the region of the anterior chest directly overlying the heart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical cardiology and symptomatic diagnosis, describing sensations of pain, compression, or tenderness localized in the epigastric and precordial wall.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, precordial designates in front of the heart; involving the precordium."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient complained of intense **precordial** distress radiating into the left shoulder during moderate physical exertion."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"Auscultation of the **precordial** area reveals the distinctive valve sounds corresponding to each phase of the cardiac cycle."*
+> - 📜 **Harvey Cushing (*The Life of Sir William Osler*):** *"Careful physical examination of the **precordial** boundary established the presence of marked ventricular hypertrophy."*

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With little or no preparation or forethought.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without prior preparation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Carried out, spoken, or composed without preparation; impromptu or on the spur of the moment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical musical performance, improvising a cadenza or accompaniment over a figured bass line.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall we have a play extempore?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O villain, thou stolest a cup of sack eighteen years ago, and wert taken with the manner, and ever since thou hast blushed extempore."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You may do it extempore, for it is nothing but roaring."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O villain, thou stolest a cup of sack eighteen years ago, and wert taken with the manner, and ever since thou hast blushed **extempore**."*
+> - 📜 **Samuel Pepys (*The Diary of Samuel Pepys*):** *"The parson preached an **extempore** sermon of an hour long, which pleased the congregation exceedingly well."*
+> - 📜 **Jonathan Swift (*A Tale of a Tub*):** *"The enthusiastic preacher poured forth his **extempore** meditations with uncommon zeal and vehement gestures."*
+

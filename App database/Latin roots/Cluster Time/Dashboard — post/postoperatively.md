@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: After the operation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: After the operation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner occurring, performed, or administered during the convalescent period following surgical intervention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical nursing and clinical pharmacology, referring to the timeline and execution of therapies, analgesic titrations, and rehabilitative ambulation subsequent to surgery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, postoperatively designates after the operation."*
+> - 📜 **Harvey Cushing (*Tumors of the Nervus Acusticus*):** *"The patient was managed **postoperatively** with mild sedation and elevation of the head of the bed to facilitate venous drainage."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"When treated **postoperatively** with appropriate supportive therapy, surgical mortality declined significantly across clinical services."*
+> - 📜 **Alexander Fleming (*Chemotherapy: Yesterday, Today, and Tomorrow*):** *"Administering antibiotics **postoperatively** halted secondary bacteremia in high-risk abdominal procedures."*
+

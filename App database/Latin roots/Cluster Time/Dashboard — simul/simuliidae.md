@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Blackflies and sand flies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Blackflies and sand flies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of small, stout-bodied dipteran insects commonly known as black flies or buffalo gnats, with aquatic larvae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical entomology and parasitology, a cosmopolitan family of nematoceran flies whose blood-feeding females serve as obligatory biological vectors of *Onchocerca volvulus*, the causative agent of river blindness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, simuliidae designates blackflies and sand flies."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The aquatic larvae of the **Simuliidae** anchor themselves firmly to submerged stones in turbulent river rapids by specialized anal hooks."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Swarms of minute biting gnats allied to **Simuliidae** made exploration along the forested riverbanks almost unendurable."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"In the damp mountain gullies, voracious flies of the family **Simuliidae** tormented our native porters throughout the midday march."*

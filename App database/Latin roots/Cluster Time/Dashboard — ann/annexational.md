@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to annexation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to annexation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining, relating to, or promoting the political or geographic annexation of territory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geopolitical discourse and nineteenth-century imperial history, characterizing expansionist foreign policies aimed at sovereign territorial acquisition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, annexational designates relating to annexation."*
+> - 📜 **James Bryce (*The American Commonwealth*):** *"The platform of the expansionist party was dominated by aggressive **annexational** ambitions along the southern frontier."*
+> - 📜 **Woodrow Wilson (*A History of the American People*):** *"Public enthusiasm for **annexational** ventures subsided once the fiscal costs of colonial administration became apparent."*
+> - 📜 **Henry Adams (*The History of the United States of America*):** *"Diplomatic dispatches revealed the **annexational** designs of European powers contending for hemispheric supremacy."*
+

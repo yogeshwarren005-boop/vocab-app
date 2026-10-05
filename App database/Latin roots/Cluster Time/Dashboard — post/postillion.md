@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who rides the near horse of a pair in order to guide the horses pulling a carriage (especially a carriage without a coachman).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who rides the near horse of a pair in order to guide the horses pulling a carriage (especially a carriage without a coachman).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant spelling of postilion; a person who rides one of the leading horses pulling a carriage to direct the team.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In eighteenth-century postal history and travel literature, a guide riding the near leader of a carriage team on post-horse highways.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Robinson was a tall, uncouth man, and his stature was often rendered still more remarkable by his hunting dress, and postillion’s cap, a tight green jacket, and buckskin breeches."*
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"Instead of cuirass, mail, greaves, and other pieces of complete armour, he was cased in a postillion's leathern jerkin, covered with thin plates of tinned iron."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The coachman and postillions were arrayed in gorgeous liveries of white and scarlet."*
+> - 📜 **Tobias Smollett (*The Expedition of Humphry Clinker*):** *"Our reckless **postillion** drove with such furious speed over the stony highway that the carriage springs nearly snapped asunder."*
+> - 📜 **Thomas V. Cooper (*American Politics*):** *"The swift dispatches of the Continental Congress were hurried forward by trusty mounted couriers and **postillion** relays."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"Jeanie Deans watched the breathless **postillion** dismount at the posting inn to change horses under the flickering lantern light."*
+

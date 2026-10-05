@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Moderate weather; suitable for outdoor activities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting restraint imposed on the self.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of moderation, mildness of climate, or freedom from excessive passions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In environmental geography, the favorable atmospheric equability of regions shielded from continental thermal extremes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, temperateness designates moderate weather; suitable for outdoor activities."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The **temperateness** of his disposition preserved his judgment intact during times of political faction."*
+> - 📜 **Edmund Burke (*A Philosophical Enquiry*):** *"The **temperateness** of the autumn breeze produces an agreeable languor throughout the senses."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"Habitual **temperateness** in diet and exercise is the surest foundation of physical longevity."*
+

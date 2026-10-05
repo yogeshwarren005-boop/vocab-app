@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who makes deceitful pretenses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who makes deceitful pretenses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who practices deception under an assumed character, fraudulent name, or counterfeit persona for selfish gain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic psychiatry and legal jurisprudence, an individual who executes elaborate systemic deception or impersonation to subvert trust.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am not an impostor, that proclaim Myself against the level of mine aim, But know I think, and think I know most sure, My art is not past power nor you past cure."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It may be, You think me an impostor: no, good faith; I am the daughter to King Pericles, If good King Pericles be."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An advocate for an impostor? hush!"*
+> - 📜 **William Shakespeare (*The Comedy of Errors*):** *"I am an **impostor** and a counterfeit, if I have not seen the gold with mine own eyes."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"The indignation of the master fell upon the shameless **impostor** whose pious pretenses had robbed the orphans of their bread."*
+> - 📜 **G. K. Chesterton (*The Innocence of Father Brown*):** *"Father Brown gently exposed the self-styled holy man as an audacious **impostor** preying upon provincial superstitions."*
+

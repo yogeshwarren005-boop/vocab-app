@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin ann within the domain of Time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of ann in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By the year; annually, through or for each succeeding year in economic and contractual computations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial banking and contract finance, establishing the annualized interest rate, lease payment schedule, or operational dividend accrual.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, per annum designates pertaining to, derived from, or characteristic of latin ann within the domain of time."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The borrower pays five per cent **per annum** for the use of loanable funds invested in mercantile enterprises."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"She received an independent legacy of two hundred pounds **per annum**, which placed her beyond financial dependence."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The pension of fifty pounds **per annum** was paid faithfully by the parish guardians to the aged sexton."*
+

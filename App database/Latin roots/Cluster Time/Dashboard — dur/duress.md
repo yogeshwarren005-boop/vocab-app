@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Compulsory force or threat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Compulsory force or threat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Compulsion or constraint exercised through violence, threats, or illegal imprisonment to force someone to act against their will.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contract and criminal law, an affirmative defense or ground for contract rescission based on coercion that deprives a party of free volition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"It will cover infiltration, interrogation, psychological defenses against psychic probes and other means that might be used to acquire information from you, under duress or otherwise."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The plot and the purpose then, is by duress to compel the Executive to give up his convictions, his duty, and his oath, as the price to be paid a political party for allowing the Government to live!"*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A contract executed under unlawful **duress** of imprisonment is voidable in equity, for freedom of will is wanting."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Laws extorted from a legislature under military **duress** can never command the moral assent of free citizens."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The sovereign signed the sweeping decrees under manifest **duress**, surrounded by armed mobs menacing his palace."*

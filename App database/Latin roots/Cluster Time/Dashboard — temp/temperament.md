@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Your usual mood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive emotionalism or irritability and excitability (especially when displayed openly).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person's or animal's nature, especially as it permanently affects their behavior and mood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In keyboard tuning and musical acoustics, equal temperament divides the octave into twelve logarithmically equal semitones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Anne, judging from her own temperament, would have deemed such a domestic hurricane a bad restorative of the nerves, which Louisa’s illness must have so greatly shaken."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Such high contentment with such a slight initial performance as that of having started towards a means of independent living was a part of the Durbeyfield temperament."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"He was of a grave, quiet, and somewhat anxious temperament, almost morbidly scrupulous where matters of conscience and responsibility were concerned."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Such high contentment with such a slight initial performance was a part of the Durbeyfield **temperament**."*
+> - 📜 **George Eliot (*Middlemarch*):** *"They have usually a fine **temperament** and much tolerance towards the smaller errors of men."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"To admit such intrusions into his own delicate and finely adjusted **temperament** was to introduce a distracting factor into his mental results."*
+

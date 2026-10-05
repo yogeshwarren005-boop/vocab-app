@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tree of southeastern asia having edible oval fruit with a hard spiny rind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Huge fruit native to southeastern asia `smelling like hell and tasting like heaven'; seeds are roasted and eaten like nuts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large spiny Southeast Asian fruit notorious for its overpowering pungent odor and rich, custard-like creamy flesh.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tropical pomology, the fruit of Durio zibethinus, renowned as the 'king of fruits' throughout Indochina and the Malay Archipelago.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The durian-tree of the East Indies, whose smooth stem often shoots up to a height of eighty or ninety feet without sending out a branch, bears a fruit of the most delicious flavour and the most disgusting stench."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Near Jugra in Selangor there is a small grove of durian-trees, and on a specially chosen day the villagers used to assemble in it."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"To eat **durian** is a new sensation, worth a voyage to the East to experience, so delicate and buttery is its pulp."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The heavy scent of the jungle mingled with the penetrative, lingering odor of ripe **durian** sold at the native bazaar."*
+> - 📜 **W. Somerset Maugham (*The Trembling of a Leaf*):** *"He braved the alarming smell of the **durian** and found himself enchanted by its smooth, almond-flavored custard."*

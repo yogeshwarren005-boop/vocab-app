@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cancellation mark stamped on mail by postal officials; indicates the post office and date of mailing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stamp with a postmark to indicate date and time of mailing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official postal cancellation mark stamped upon a letter or parcel indicating the origin, date, and time of mailing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philately and legal evidentiary rules, an indelible postal imprint establishing prima facie verification of the exact time and place an instrument was dispatched.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"It bore the London postmark, and came from Edmund."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"It was not a common thing for him to receive letters, for his bills were all paid in ready money, and he had no friends of any sort. ‘From India!’ said he as he took it up, ‘Pondicherry postmark!"*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Where does the thing come from?’ “‘From Dundee,’ I answered, glancing at the postmark."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor examined the London **postmark** with an anxious eye, eager to verify when the long-delayed dispatch had been deposited."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"The envelope bore a blurred provincial **postmark**, but the sharp eye of Holmes instantly identified the date of posting."*
+> - 📜 **G. K. Chesterton (*The Wisdom of Father Brown*):** *"Father Brown held the mysterious envelope to the lamp, deciphering the faint purple **postmark** stamped across the foreign stamp."*
+

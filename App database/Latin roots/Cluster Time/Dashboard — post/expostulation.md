@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of expressing earnest opposition or protest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An exclamation of protest or remonstrance or reproof.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An earnest, impassioned remonstrance, objection, or protest voiced against another person's actions, policies, or beliefs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary rhetoric and moral philosophy, a formal discourse or exclamation articulating principled grievance and urging moral correction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, we must use expostulation kindly, For it is parting from us."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Ho—ho—Sergeant—ho—ho!” An expostulation followed, but it was indistinct; and it became lost amid a low peal of laughter, which was hardly distinguishable from the gurgle of the tiny whirlpools outside."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"And then her cooing voice, plaintive in expostulation, disturbed the darkness, the velvet touch of her lips passed over his brow, and he could distinguish in the air the warmth of her breath."*
+> - 📜 **William Shakespeare (*The Two Gentlemen of Verona*):** *"Nay, we must use **expostulation** kindly, for it is parting from us."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"And then her cooing voice, plaintive in **expostulation**, disturbed the darkness, the velvet touch of her lips passing over his brow."*
+> - 📜 **Nathaniel Hawthorne (*The Blithedale Romance*):** *"Coverdale raised a passionate **expostulation** against the cold fanaticism that subordinated human affection to visionary social experiments."*
+

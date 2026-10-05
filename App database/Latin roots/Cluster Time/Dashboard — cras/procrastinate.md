@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Postpone doing what one should be doing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Postpone or delay needlessly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To defer action, put off decisions, or postpone necessary tasks habitually from day to day.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral psychology and practical ethics, to delay essential undertakings despite anticipating negative consequences from avoidance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hopeless and helpless doth Egeon wend, But to procrastinate his lifeless end. [_Exeunt._] SCENE II."*
-> - 📜 **George Eliot (*Middlemarch*):** *"He wished me not to procrastinate.” “I called to tell you not to go any further, Mr."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The hope of a still further increase afforded an inducement to those who were disposed to serve to procrastinate their enlistment, and disinclined them from engaging for any considerable periods."*
+> - 📜 **William Shakespeare (*The Comedy of Errors*):** *"Hopeless and helpless doth Egeon wend, But to **procrastinate** his lifeless end."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I wished, as it were, to **procrastinate** all that related to my feelings of affection until the great object should be completed."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He wished me not to **procrastinate**; I called to tell you not to go any further in the matter."*

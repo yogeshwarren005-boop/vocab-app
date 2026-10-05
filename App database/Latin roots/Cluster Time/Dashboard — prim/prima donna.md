@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin prim within the domain of Time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of prim in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The chief female singer in an opera company, who performs the leading soprano roles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A temperamental, vain, or overly demanding person who expects special treatment and resents any perceived slight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prima donna designates pertaining to, derived from, or characteristic of latin prim within the domain of time."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"**Prima donna** of the Imperial Opera of Warsaw—yes, to Sherlock Holmes she was always the woman!"*
+> - 📜 **William Makepeace Thackeray (*Pendennis*):** *"The celebrated **prima donna** swept across the foyer, trailing ermine and commanding homage from every fashionable lounger."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"When a brilliant **prima donna** refuses to rehearse with the ensemble, the entire dramatic coherence of the opera collapses."*

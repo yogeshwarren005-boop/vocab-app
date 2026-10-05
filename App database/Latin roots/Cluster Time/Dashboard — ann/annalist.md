@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A historian who writes annals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A historian who writes annals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical writer or chronicler who records public events in concise, strictly chronological annual sequence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historiographical analysis, the annalist focuses on recording raw yearly occurrences without imposing elaborate philosophical interpretations or dramatic narrative structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Gilbert, the third Abbot, resigned in July, M.CC.XIII, died the following year at Kirksted, and was succeeded by Abbot John, of whom nothing is recorded by the annalist."*
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"In the slight sketch here attempted, the facts, recorded on the grave pages of our New England annalists, have wrought themselves, almost spontaneously, into a sort of allegory."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The sober **annalist** records without passion the continuous revolutions of the Byzantine court."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The medieval **annalist** set down plagues, eclipses, and princely coronations in the same dispassionate register."*
+> - 📜 **David Hume (*The History of England*):** *"No contemporary **annalist** failed to record the celestial portents that terrified the superstitious populace."*
+

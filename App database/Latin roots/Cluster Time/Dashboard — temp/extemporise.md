@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perform without preparation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perform without preparation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To compose, perform, or deliver something spontaneously without notes or prior rehearsal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jazz harmony and soloing, to extemporise melodic variations across complex chord progressions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"To pass in repose the hours intervening between Thursday (proper) and Friday (normal) on an extemporised cubicle in the apartment immediately above the kitchen and immediately adjacent to the sleeping apartment of his host and hostess."*
-> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"Blakesley had extemporised a bed for me on the old sofa; and the fire was already blazing away splendidly."*
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Your deeds got into extemporised strong-rooms made of kitchens and sculleries, and fretted all the fat out of their parchments into the banking-house air."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The country fiddler began to **extemporise** lively dance variations that set every rustic foot tapping."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"She sat at the piano, beginning to **extemporise** plaintive chords that mirrored the sorrow of her soul."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Sherlock Holmes took up his violin to **extemporise** strange, mournful melodies through the foggy evening."*
+

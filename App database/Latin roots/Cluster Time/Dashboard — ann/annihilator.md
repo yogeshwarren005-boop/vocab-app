@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A total destroyer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A total destroyer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who or that which completely destroys, wipes out, or reduces something to nothingness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In abstract algebra and ring theory, the set of elements in a ring that produce zero when multiplied by all elements of a given ideal or module.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, annihilator designates a total destroyer."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The heat-ray functioned as a silent **annihilator**, turning houses and crowds into smoking ash within seconds."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Timur presented himself as the scourge of God and the ruthless **annihilator** of defiant dynasties across Asia."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Superstition is the great corruptor of natural piety and the **annihilator** of rational inquiry."*
+

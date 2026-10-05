@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the dura mater.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the dura mater.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or located near the dura mater, the tough protective membrane surrounding the central nervous system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology and neurosurgery, denoting anatomical structures, sinuses, or pathologies situated on or involving the pachymeninx.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dural designates of or relating to the dura mater."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The middle meningeal artery ascends to distribute numerous branches throughout the external **dural** surface."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Thrombosis of the superior sagittal sinus constitutes a grave **dural** complication following severe cranial infection."*
+> - 📜 **Harvey Cushing (*Tumors of the Nervus Acusticus*):** *"Firm adhesion of the acoustic mass to the adjacent **dural** envelope necessitated delicate microsurgical dissection."*

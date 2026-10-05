@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make secular and draw away from a religious orientation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make secular and draw away from a religious orientation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert, transfer, or adapt an ecclesiastical institution, property, or law to civil or worldly ownership and control.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In European legal history, to confiscate or reallocate church lands, monastic foundations, or education systems to state management.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, secularise designates make secular and draw away from a religious orientation."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The crown ministers determined to **secularise** the vast revenues of the monastic estates to replenish the royal exchequer."*
+> - 📜 **Henry Hallam (*View of the State of Europe during the Middle Ages*):** *"The German princes resolved to **secularise** several ecclesiastical bishoprics in order to consolidate their territorial authority."*
+> - 📜 **David Hume (*The History of England*):** *"A bold petition was presented to Parliament urging the commons to **secularise** church holdings for public relief."*

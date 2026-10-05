@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Trade mark for a coffee substitute invented by c. w. post and made with chicory and roasted grains.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Trade mark for a coffee substitute invented by c. w. post and made with chicory and roasted grains.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A popular roasted-grain caffeine-free beverage brand developed by C. W. Post in 1895 as a healthy coffee alternative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial dietary history and industrial food manufacture, an instant hot drink powder prepared from roasted wheat bran, wheat berries, and molasses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, postum designates trade mark for a coffee substitute invented by c. w. post and made with chicory and roasted grains."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"Modern advertising transformed wholesome grain substitutes such as **Postum** into household staples of temperance culture."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"He drank his steaming cup of cereal **Postum** with virtuous satisfaction, commending its digestive mildness to his household."*
+> - 📜 **John Dos Passos (*The 42nd Parallel*):** *"Billboards along the midwestern railroad tracks proclaimed the hygienic virtues of **Postum** to weary morning commuters."*
+

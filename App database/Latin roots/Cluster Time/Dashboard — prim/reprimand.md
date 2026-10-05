@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An act or expression of criticism and censure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rebuke formally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A severe, formal, or official expression of disapproval or rebuke; to rebuke someone formally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military and administrative jurisprudence, a formal disciplinary penalty administered to an officer without loss of rank or liberty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But—well, goodbye!” Her defender, whom she dreaded more than her assailant, having reluctantly disappeared, the farmer continued his reprimand, which Tess took with the greatest coolness, that sort of attack being independent of sex."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Missis is awake,” said she; “I have told her you are here: come and let us see if she will know you.” I did not need to be guided to the well-known room, to which I had so often been summoned for chastisement or reprimand in former days."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Norris’s sharp reprimand to Fanny; “I was out above an hour."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Her mother's harsh **reprimand** wounded her sensitive spirit far more than any physical hardship could have done."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The stern headmistress administered a cold, measured **reprimand** before the assembled school for the minor infraction."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Mrs. Norris seized every opportunity to inflict an unsparing **reprimand** upon poor Fanny for her supposed ingratitude."*

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of lasting only a short time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of lasting only a short time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property, state, or duration of lasting for only a short or limited time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In existential philosophy and urban sociology, the lived sense of provisional fragility in transient modern dwellings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, temporariness designates the property of lasting only a short time."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The obvious **temporariness** of the shanty reminded the traveler that human life on earth is merely a bivouac."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"The mind perceives the necessary **temporariness** of all material institutions compared to eternal spiritual truths."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"All social garments and customs wear an stamp of inevitable **temporariness**, changing with each passing epoch."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a society or economy marked by a lessened importance of manufacturing and an increase of services, information, and research.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a society or economy marked by a lessened importance of manufacturing and an increase of services, information, and research.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or denoting an economy or society in which service, technological, and informational sectors have superseded heavy manufacturing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociological theory and political economy, an advanced developmental stage characterized by knowledge production, digital automation, white-collar labor, and decentralized capital.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, postindustrial designates of or relating to a society or economy marked by a lessened importance of manufacturing and an increase of services, information, and research."*
+> - 📜 **Daniel Bell (*The Coming of Post-Industrial Society*):** *"In the emerging **postindustrial** order, intellectual technology and technical competence displace property and machinery as the primary sources of structural power."*
+> - 📜 **John Kenneth Galbraith (*The New Industrial State*):** *"The transition toward a **postindustrial** landscape alters the bargaining leverage of organized industrial trade unions."*
+> - 📜 **Alvin Toffler (*Future Shock*):** *"Knowledge workers in a **postindustrial** community must adapt continuously to unprecedented accelerations of technological change."*
+

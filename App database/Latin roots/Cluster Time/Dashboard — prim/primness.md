@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive or affected modesty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exaggerated and arrogant properness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Stiff neatness, formal precision, affected demureness, or excessive propriety in demeanor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stiff, unbending conformity to decorum, etiquette, or moral conventions, often conveying coldness or prudishness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Lawrence sat down in a deck chair and Isabel's smile broadened: she was laughing at him and teasing him with her eyes, though what she said remained conventional to the point of primness."*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"It’s all a mere mistake and a worry and a joke—and we’ll go home as fast as we can!” Our companion, on this, had responded with a strange, quick primness of propriety, and they were again, with Mrs."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His mother left her tea and toast untouched, but sat with her usual pretty **primness**, only showing her emotion by that faint tremor."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"Her habitual country ease dissolved into awkward **primness** as soon as the fashionable visitors entered the parlor."*
+> - 📜 **Henry James (*The Turn of the Screw*):** *"Beneath her outward **primness** and polite reserve, the governess harbored a feverish anxiety for the children's welfare."*

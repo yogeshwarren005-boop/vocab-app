@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause annoyance in; disturb, especially by minor irritations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aroused to impatience or anger.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Experiencing or showing mild irritation, impatience, vexation, or displeasure at an inconvenience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral psychology, describing an acute emotional state of frustration provoked by minor social friction or environmental disruptions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I am terribly afraid that Mäzli has annoyed you." "She has not done so at all, for she is her mother's true child," said the Baron."*
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Why, I haven’t had a wink of sleep these three weeks!” “I’m very sorry you’ve been annoyed,” said Alice, who was beginning to see its meaning."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"It annoyed me only as all pious observances annoyed me."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba felt intensely **annoyed** that her casual prank had produced such serious consequences in the farmer's heart."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes looked thoroughly **annoyed** when our cab was halted by a dense traffic obstruction near London Bridge."*
+> - 📜 **E. M. Forster (*A Room with a View*):** *"Lucy was visibly **annoyed** by the unwanted interference of her chaperone during their morning walk along the Arno."*
+

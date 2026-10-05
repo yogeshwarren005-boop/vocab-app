@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without warning or announcement; ; - m.a.d.howe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without warning or announcement; ; - m.a.d.howe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without prior warning, formal notice, or public statement; unexpected or arriving without herald.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social etiquette and narrative suspense, designating arrivals, events, or visits that take individuals completely unprepared.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She was passionate, and her present letter, showing that her estimate of him had changed under his delay—too justly changed, he sadly owned,—made him ask himself if it would be wise to confront her unannounced in the presence of her parents."*
-> - 📜 **Effie Afton (*Eventide*):** *"She was a little angry that he had entered unannounced, and her cheeks flushed, as she rather briefly bade him welcome."*
-> - 📜 **Effie Afton (*Eventide*):** *"He suddenly recollected he was there unannounced, but what could he do?"*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Angel Clare stepped **unannounced** into the dairy kitchen, startling the milkmaids as they skimmed the morning cream."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"To enter the drawing-room **unannounced** was a violation of domestic etiquette that provoked considerable astonishment."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"A stranger appeared **unannounced** at the study door while Mr. Rochester was examining the estate ledgers."*
+

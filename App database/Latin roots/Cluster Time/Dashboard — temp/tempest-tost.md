@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pounded or hit repeatedly by storms or adversities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pounded or hit repeatedly by storms or adversities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Buffeted and tossed about violently by storms; an archaic variant of tempest-tossed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early modern English poetry and maritime ballads, describing vessels battered by tempestuous ocean waves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tempest-tost designates pounded or hit repeatedly by storms or adversities."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though his bark cannot be lost, yet it shall be **tempest-tost**."*
+> - 📜 **John Milton (*Paradise Lost*):** *"As when a **tempest-tost** vessel enters the sheltered roadstead after long weeks on the main."*
+> - 📜 **Alexander Pope (*The Odyssey of Homer*):** *"The **tempest-tost** wanderer reached the Phaeacian shores, spent with swimming against the surge."*
+

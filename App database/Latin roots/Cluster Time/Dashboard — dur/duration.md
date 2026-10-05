@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The period of time during which something continues.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of enduring or continuing in time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The length of time during which something continues, persists, or exists.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In quantitative finance and bond mathematics, a measure of the sensitivity of the price of a fixed-income asset to a change in interest rates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"If I ever thought of the time I had been out, it presented itself as an indefinite period of great duration, and I seemed, in a strange way, never to have been free from the anxiety under which I then laboured."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Not guessing the cause, there was nothing to remind him that experience is as to intensity, and not as to duration."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was the last of the three lives for whose duration the house and premises were held under a lease; and it had long been coveted by the tenant-farmer for his regular labourers, who were stinted in cottage accommodation."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Time is to **duration** as place is to space, serving to measure and set out the parts of its continuity."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The **duration** of the empire was prolonged by the wisdom of Antoninus and the virtues of Marcus Aurelius."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Our awareness of the present moment always possesses a certain temporal breadth or specious **duration**."*

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hold back to a later time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hold back to a later time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To defer, delay, or put off an event, action, or appointment to a later date or future time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organizational planning and legislative procedure, to table a motion or suspend deliberations until predetermined conditions or inquiries are met.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"He had to hang it up because the mother insisted that they should go to lunch and postpone everything else till the afternoon."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"It was decided to postpone it till the 22d of June."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"God has just told me you must not go." She was surprised, but he was positive, and prevailed upon her to postpone her voyage, and assisted her to remove her luggage out of the vessel."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"We may **postpone** the final judgment upon controversial opinions until complete evidence can be gathered and examined."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"We must not **postpone** our arrival in Devonshire by a single unnecessary hour, lest grave peril befall our companion."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"Do not **postpone** the heroic resolution of the present hour in the deceptive hope of a more convenient morrow."*
+

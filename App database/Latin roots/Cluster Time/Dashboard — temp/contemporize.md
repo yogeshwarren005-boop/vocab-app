@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Happen at the same time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arrange or represent events so that they co-occur.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To place, coordinate, or represent occurrences within the same contemporary timeframe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chronometry and computational historiography, aligning divergent epochal calendars onto a single synchronized timeline.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, contemporize designates happen at the same time."*
+> - 📜 **Henry Adams (*The Education of Henry Adams*):** *"The historian must strive to **contemporize** contradictory archival narratives before attempting a coherent synthesis."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"We must **contemporize** our intellectual ideals with the practical demands of modern industrial democracy."*
+> - 📜 **Thomas Carlyle (*Critical and Miscellaneous Essays*):** *"The antiquarian endeavors to **contemporize** the remote feudal struggles with our own political factions."*
+

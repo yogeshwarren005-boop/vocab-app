@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person of nearly the same age as another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of the present.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to, occurring in, or characteristic of the present time or a shared historical era.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In art criticism and architecture, creative practice produced after the mid-twentieth century breaking with historicist forms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Old Mr Clare was a clergyman of a type which, within the last twenty years, has well nigh dropped out of contemporary life."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Yet,” I reflected, “she has been young once; her youth would be contemporary with her master’s: Mrs."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Conybeare, an Oxford scholar avowedly not in allegiance to the Christian Church, has characterized some of the reconstructions made by contemporary anti-Christian writers as more miraculous than the history they are trying to correct."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Old Mr Clare was a clergyman of a type which, within the last twenty years, has well nigh dropped out of **contemporary** life."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The hall furniture comprised a piece of carving by a **contemporary** of Gibbons."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"This pile of chivalry, which seems so fair to those who look at the **contemporary** facts for science or entertainment, is not equally pleasant to all spectators."*
+

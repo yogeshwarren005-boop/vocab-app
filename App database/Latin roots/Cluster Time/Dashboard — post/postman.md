@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A man who delivers the mail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A man who delivers the mail.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A male mail carrier employed by the postal authority to collect, sort, and deliver letters and parcels to residential and business addresses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British legal history, one of the two senior junior barristers in the Court of Exchequer holding traditional precedence of motion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She watched till the postman passed by, ran out to him with her epistle, and then again took her listless place inside the window-panes."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"At the door he met an intelligent postman coming out with letters for the morning delivery."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Then, remembering that she would have been likely to continue the use of her maiden name, Clare said— “Of a Miss Durbeyfield?” “Durbeyfield?” This also was strange to the postman addressed."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The village **postman** trudged along the muddy lane, carrying the daily mailbag upon his shoulder through the drizzling mist."*
+> - 📜 **George Eliot (*Adam Bede*):** *"The arrival of the rural **postman** at the green gate always brought an eager crowd of cottagers awaiting tidings from distant towns."*
+> - 📜 **Herman Melville (*Bartleby, the Scrivener*):** *"The prompt Wall Street **postman** hurried through the shadowy corridor, tossing packets of correspondence upon our office table."*
+

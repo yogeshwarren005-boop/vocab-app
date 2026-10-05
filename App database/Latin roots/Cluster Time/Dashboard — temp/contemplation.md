@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A long and thoughtful observation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A calm, lengthy, intent consideration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of looking thoughtfully at something for a long time; deep reflective thought.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In monastic mysticism, a quiet affective communion with the divine beyond reasoned discursive meditation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And did you leave him in this contemplation?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In lieu whereof, I pray you, bear me hence From forth the noise and rumour of the field, Where I may think the remnant of my thoughts In peace, and part this body and my soul With contemplation and devout desires."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How now, brother Edmund, what serious contemplation are you in?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And did you leave him in this **contemplation**?"*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"When the waggon had passed on, Gabriel withdrew from his point of espial, and descending into the road, followed the vehicle to the turnpike-gate, where the object of his **contemplation** now halted for the payment of toll."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Meditation and water are wedded for ever in solemn **contemplation**."*
+

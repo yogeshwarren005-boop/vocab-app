@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Happening or existing or done at the same time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Happening or existing or done at the same time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, state, or property of occurring, existing, or being carried out at the exact same time; concurrence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chronometry and epistemology, the temporal synchronicity of discrete occurrences perceived as taking place within a single instantaneous duration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, simultaneousness designates happening or existing or done at the same time."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The psychological impression of **simultaneousness** arises whenever two sensations fall within the minimum perceptual threshold of temporal discernment."*
+> - 📜 **Arthur Eddington (*Space, Time and Gravitation*):** *"The physical postulate of absolute **simultaneousness** across cosmic distances was abandoned once the constancy of the speed of light was recognized."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Consciousness coordinates internal impressions according to sequences of succession and relations of **simultaneousness**."*

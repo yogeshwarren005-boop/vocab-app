@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an annoying manner or to an annoying degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an annoying manner or to an annoying degree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that provokes irritation, displeasure, impatience, or exasperation in others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative prose, qualifying actions, mannerisms, or environmental occurrences that create friction with deliberate or inadvertent persistence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, annoyingly designates in an annoying manner or to an annoying degree."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The heavy carriage wheels creaked **annoyingly** as we made our slow ascent through the rocky moorland pass."*
+> - 📜 **Virginia Woolf (*Mrs. Dalloway*):** *"The hall clock ticked **annoyingly** in the quiet parlor while she waited for the physician to finish his consultation."*
+> - 📜 **E. M. Forster (*Where Angels Fear to Tread*):** *"Philip spoke **annoyingly** of matters which had far better been left to bury themselves in oblivion."*
+

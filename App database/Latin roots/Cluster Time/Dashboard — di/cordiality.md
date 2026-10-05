@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cordial disposition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cordial disposition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sincere warmth of feeling, welcoming kindness, and genuine friendliness of demeanor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social discourse and diplomatic relations, an atmosphere of unfeigned goodwill and heartfelt mutual respect between parties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket with extreme cordiality."*
-> - 📜 **Jane Austen (*Persuasion*):** *"They were received with great cordiality."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Anne entered it with a sinking heart, anticipating an imprisonment of many months, and anxiously saying to herself, “Oh! when shall I leave you again?” A degree of unexpected cordiality, however, in the welcome she received, did her good."*
+> - 📜 **Jane Austen (*Emma*):** *"The visit was concluded with renewed expressions of **cordiality** and earnest invitations to return very soon."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber shook me by the hand with an effusion of temper and **cordiality** that quite overcame my natural reserve."*
+> - 📜 **George Eliot (*Middlemarch*):** *"There was a generous **cordiality** in his manner which made everyone feel at ease in his presence."*

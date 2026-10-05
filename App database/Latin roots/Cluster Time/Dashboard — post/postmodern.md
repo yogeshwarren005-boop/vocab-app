@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to postmodernism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to postmodernism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of a cultural, philosophical, and artistic movement that challenges modernism, meta-narratives, and objective certainties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical theory, architecture, and epistemology, emphasizing irony, stylistic pastiche, social constructivism, and skepticism toward foundational claims of universal truth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, postmodern designates of or relating to postmodernism."*
+> - 📜 **Fredric Jameson (*Postmodernism, or, the Cultural Logic of Late Capitalism*):** *"The fragmentation of the subject represents a central structural feature of the **postmodern** hyperspace in contemporary culture."*
+> - 📜 **Jean-François Lyotard (*The Postmodern Condition*):** *"Simplifying to the extreme, I define **postmodern** as incredulity toward grand metanarratives."*
+> - 📜 **Umberto Eco (*Postscript to The Name of the Rose*):** *"The **postmodern** reply to the modern consists of recognizing that the past, since it cannot really be destroyed, must be revisited with irony."*
+

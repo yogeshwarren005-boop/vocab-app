@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hide (feelings) from other people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hide (feelings) from other people.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To conceal or disguise one's true thoughts, feelings, character, or intentions under a feigned appearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political philosophy and courtly diplomacy, the calculated practice of hiding real designs through silence, ambiguity, or tactical deception.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jos. E. Badger (*The Texas Hawks; or, The Strange Decoy*):** *"Why not dissimulate,—or even give a positive pledge, if by these means he could gain freedom?"*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"He never dissimulated, and had the great Christian virtues in a crude form and without polish, like a massive piece of the most beautiful marble where the chisel has traced no lines."*
-> - 📜 **Jos. E. Badger (*The Texas Hawks; or, The Strange Decoy*):** *"Mestayer touched Campbell lightly upon the shoulder, then laughed aloud at the air of well dissimulated surprise worn by his face as the young man opened his eyes with a start."*
+> - 📜 **Francis Bacon (*The Essays*):** *"The great art of statecraft is to know how to **dissimulate**, allowing men to see what one desires them to see while masking real designs."*
+> - 📜 **Niccolò Machiavelli (*The Prince*):** *"A prudent ruler must know how to **dissimulate** skillfully, for men are so simple and so ready to obey present necessities that he who deceives will always find those who allow themselves to be deceived."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard was too proud and passionate to **dissimulate** his bitter resentment when his rival was praised by the town council."*

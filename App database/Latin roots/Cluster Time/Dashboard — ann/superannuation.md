@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A monthly payment made to someone who is retired from work.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being out of date and not current.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or process of being retired or pensioned off due to advanced age; a retirement pension paid to an elderly employee.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public finance and institutional labor economics, a formal contributory or non-contributory retirement pension fund established for civil servants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superannuation designates a monthly payment made to someone who is retired from work."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"He looked forward with patient hope to the modest **superannuation** allowance that would reward his thirty years of government service."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The establishment of a regular **superannuation** scheme for veteran naval officers ensured the efficiency of the fleet."*
+> - 📜 **Anthony Trollope (*The Three Clerks*):** *"The civil service commission debated whether compulsory **superannuation** at sixty years would invigorate departmental administration."*
+

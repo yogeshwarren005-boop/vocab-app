@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of wild storminess.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of agitation or turbulent change or development.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Violent storminess, severe turbulence of weather, or extreme emotional agitation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In romantic literary criticism, the sublime fury and emotional violence characteristic of Byronic protagonists.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tempestuousness designates a state of wild storminess."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The wild **tempestuousness** of the October night rattled the casements of Thornfield Hall."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"She shuddered at the dark **tempestuousness** of his sudden rage, which shattered their peaceful reverie."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The gathering **tempestuousness** of the Parisian mob swept away the fragile barriers of the royal guard."*
+

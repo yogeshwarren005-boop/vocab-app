@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Declare invalid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cancel officially.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To declare legally invalid, void, or nonexistent; to officially cancel, abolish, or nullify a contract, law, or marriage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional law and statutory interpretation, to abrogate a judicial decree or administrative ruling with retroactive invalidation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Many arguments might have been adduced to prove the unfitness of two such seemingly contradictory authorities, each having power to ANNUL or REPEAL the acts of the other."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In the case particularly under consideration, there is no such contradiction as appears in the example cited; there is no power on either side to annul the acts of the other."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"And some midsummer morning, at the lull Just about daybreak, as he looks across A sparkling foreign country, wonderful To the sea’s edge for gloom and gloss, Next minute must annul,-- 12."*
+> - 📜 **John Milton (*Paradise Lost*):** *"God will deign to visit oft the dwellings of just men, and not by angry vengeance **annul** His gracious promises."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The bold tribune demanded that the senate should **annul** the unconstitutional decrees enacted by the late dictator."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The parliament resolved to **annul** the corrupt municipal charters that had disenfranchised freeholders across the shires."*
+

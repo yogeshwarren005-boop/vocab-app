@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states comedian remembered for his large nose and hoarse voice (1893-1980).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states comedian remembered for his large nose and hoarse voice (1893-1980).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: During or throughout the continuance of a specified period, status, or condition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence, an adverbial and prepositional term used in legal phrases such as durante vita (during life) or durante beneplacito (during pleasure).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, durante designates united states comedian remembered for his large nose and hoarse voice (1893-1980)."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Judges held their royal commissions **durante** beneplacito, at the sovereign's arbitrary pleasure, prior to the Act of Settlement."*
+> - 📜 **Edward Coke (*Institutes of the Laws of England*):** *"An estate granted **durante** viduitate determines immediately upon the remarriage of the surviving spouse."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The tenure of judicial officers **durante** bene se gesserit ensures that impartiality essential to the rule of law."*

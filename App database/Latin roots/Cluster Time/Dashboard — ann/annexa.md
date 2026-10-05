@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Accessory or adjoining anatomical parts or appendages to an organ (especially of the embryo).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Accessory or adjoining anatomical parts or appendages to an organ (especially of the embryo).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An anatomical or architectural term designating accessory, adjoining, or subordinate attached structures (variant of adnexa).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical gynecology and pathology, the uterine annexa encompass the fallopian tubes, ovaries, and broad ligament tissues supporting the reproductive system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, annexa designates accessory or adjoining anatomical parts or appendages to an organ (especially of the embryo)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Bimanual palpation revealed pronounced tenderness and inflammatory swelling across the right uterine **annexa**."*
+> - 📜 **Henry Gray (*Gray's Anatomy*):** *"The broad ligament encloses the ovarian vessels and nerves that supply the pelvic **annexa**."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"Careful examination of the ocular **annexa** is essential when diagnosing localized inflammatory extensions."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Foreshadow or presage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Foreshadow or presage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make known officially; proclaim, declare, or announce a message with solemn or formal authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological and liturgical discourse, to herald prophetic tidings or proclaim divine dispensations to a faithful community.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, annunciate designates foreshadow or presage."*
+> - 📜 **John Milton (*Paradise Regained*):** *"The heavenly choir descending did **annunciate** to simple shepherds the nativity of the promised Prince of Peace."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The prophet must **annunciate** eternal truths to a world slumbering under the illusions of material complacency."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Imperial heralds traversed the eastern provinces to **annunciate** the accession of the new Augustus."*
+

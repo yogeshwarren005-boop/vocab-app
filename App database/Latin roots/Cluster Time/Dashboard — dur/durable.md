@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Existing for a long time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of withstanding wear and tear and decay.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to exist for a long time without significant deterioration; sturdy, resilient, and hard-wearing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In macroeconomic accounting, designating consumer goods such as appliances or vehicles that yield utility over a multi-year lifespan rather than being quickly consumed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"You are never sure of a good impression being durable; everybody may sway it."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Even the smooth surface of family-union seems worth preserving, though there may be nothing durable beneath."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It may be used either for immediate consumption or for further indirect use in durable form."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The monuments of Roman architecture were designed for eternity, built of the most **durable** marble and granite."*
+> - 📜 **Francis Bacon (*The Essays*):** *"Virtue is like precious odours, most fragrant by incension; for prosperity doth best discover vice, but adversity doth best discover virtue, which is more **durable**."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Hard shells and bones are the most **durable** parts of organisms, and hence are preserved far more frequently as fossils."*

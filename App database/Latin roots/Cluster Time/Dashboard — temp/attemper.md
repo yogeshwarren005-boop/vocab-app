@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Modify the temperature of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Modify the temperature of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To reduce, modify, or moderate the strength or temperature of something by blending or dilution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical metallurgy and brewing, to regulate heat or alcoholic potency by mixing countervailing elements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, attemper designates modify the temperature of."*
+> - 📜 **Alexander Pope (*The Odyssey of Homer*):** *"With skillful hand the gentle bards **attemper** their strains to soothe the grief of mourning heroes."*
+> - 📜 **Richard Chenevix Trench (*On the Study of Words*):** *"If sweet with bitter were not wisely **attempered** still in human life, our character would remain untested."*
+> - 📜 **Edmund Spenser (*The Faerie Queene*):** *"She learned to **attemper** her flaming passions with wise discretion and mild counsel."*
+

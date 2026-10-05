@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A short novel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short novel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brief or compact work of prose fiction, longer than a short story but significantly shorter than a full novel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative poetics and publishing, a light novella typically between seven thousand and twenty thousand words, often featuring romance or melodrama.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, novelette designates a short novel."*
+> - 📜 **Henry James (*The Art of Fiction*):** *"The delicate proportion of the **novelette** permits an exquisite unity of impression that diffuse romances rarely achieve."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"She turned the pages of the sentimental **novelette**, smiling at the predictable tribulations of its tearful heroine."*
+> - 📜 **George Gissing (*New Grub Street*):** *"He earned a meager livelihood by grinding out an occasional sensational **novelette** for popular weekly periodicals."*

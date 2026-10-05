@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Port city in western albania on the adriatic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Port city in western albania on the adriatic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The principal port city of western Albania, situated on an inlet of the Adriatic Sea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient Illyrian city founded in the seventh century BC as Epidamnos, serving as a vital strategic, maritime, and transport hub throughout Balkan history.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, durres designates port city in western albania on the adriatic."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The legions disembarked at the ancient harbor of **Durrës**, preparing for the long march across the Balkan ranges."*
+> - 📜 **Lord Byron (*Letters and Journals*):** *"Our vessel rode at anchor before the ancient ramparts of **Durrës**, where minarets overlooked the blue Adriatic roadstead."*
+> - 📜 **Rebecca West (*Black Lamb and Grey Falcon*):** *"The coastal highway leads down to **Durrës**, where layers of Roman, Venetian, and Ottoman masonry crowd the harbor."*

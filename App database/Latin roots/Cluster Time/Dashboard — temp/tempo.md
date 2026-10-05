@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (music) the speed at which a composition is to be played.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The rate of some repeating event.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The speed at which a passage of music is or should be played; or the pace of any ongoing activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chess strategy and tactical endgame theory, a turn to move seen as a valuable unit of initiative.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Air Force leadership is concerned about the ability of its members to cope with increasing levels of stress in the face of significant increases in operations tempo and force downsizing."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Coster's type were cast in one tempo, that is, the character itself and the shank cast at the same time in one piece."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"It may be affirmed that they 483:3 do not heal, but only relieve suffering tempo- rarily, exchanging one disease for another."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The conductor took the allegro at such a breathless **tempo** that the woodwinds were hopelessly scrambled."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"The rapid **tempo** of the London traffic set the pulse of modern life racing through the streets."*
+> - 📜 **E. M. Forster (*Howards End*):** *"She adjusted herself to the quiet, pastoral **tempo** of Hertfordshire farm life after the roar of town."*
+

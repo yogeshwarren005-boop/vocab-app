@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Indulging excessively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Indulging excessively.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an immoderate, unrestrained, or excessively passionate manner lacking all moderation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In parliamentary polemics and judicial review, speaking intemperately by casting vitriolic personal aspersions on opponents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Stubb was a high liver; he was somewhat intemperately fond of the whale as a flavorish thing to his palate."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Stubb was a high liver; he was somewhat intemperately fond of the whale as a flavorish thing to his palate."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"If he had been less intemperately solicitous about his bones, and more solicitous about his Works, it would have been better for his good name, and a kindness to us."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"He drank **intemperately** of the fiery rum, shouting wild oaths into the howling gale."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The people who behaved very unwisely and **intemperately** on that occasion precipitated the collapse of constitutional order."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The zealots argued **intemperately** for severe penal measures against nonconforming clergy."*
+

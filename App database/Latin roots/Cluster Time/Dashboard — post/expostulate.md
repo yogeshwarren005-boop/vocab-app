@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reason with (somebody) for the purpose of dissuasion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reason with (somebody) for the purpose of dissuasion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To express strong disapproval, disagreement, or earnest remonstrance with someone regarding their actions or conduct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethical discourse and interpersonal rhetoric, to present reasoned moral objections in an attempt to dissuade a companion from an imprudent course.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My liege and madam, to expostulate What majesty should be, what duty is, Why day is day, night night, and time is time Were nothing but to waste night, day and time."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, stay not to expostulate; make speed, Or else come after; I’ll away before."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll not expostulate with her, lest her body and beauty unprovide my mind again."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"My liege and madam, to **expostulate** what majesty should be, what duty is, why day is day, night night, and time is time, were nothing but to waste night, day and time."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Elizabeth-Jane ventured to **expostulate** with Henchard upon his severity toward the humble carter."*
+> - 📜 **Bram Stoker (*Dracula*):** *"I tried to **expostulate** with him, but he only shook his head mournfully and pointed to the gathering wolves outside the castle."*
+

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being put up with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being put up with.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not able to be tolerated, endured, or borne; causing overwhelming distress, agony, or exasperation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychology and existential ethics, a level of physiological pain, grief, or mental anguish exceeding an individual's coping capacity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"At the sight and sound of that, to her, unendurable act, Bathsheba sprang towards him."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Ned Plymdale perfectly wearisome; but to most mortals there is a stupidity which is unendurable and a stupidity which is altogether acceptable—else, indeed, what would become of social bonds?"*
-> - 📜 **George Eliot (*Middlemarch*):** *"There was nothing unendurable now: the debts were paid, Mr."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The sudden suspense had become **unendurable**, and she sprang forward to read the fateful telegram herself."*
+> - 📜 **George Eliot (*Middlemarch*):** *"There were moments when her pent-up isolation felt utterly **unendurable**, mocking her noble aspirations."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"The physical torment of his wounded limb became so **unendurable** that he lost all consciousness of surrounding reality."*

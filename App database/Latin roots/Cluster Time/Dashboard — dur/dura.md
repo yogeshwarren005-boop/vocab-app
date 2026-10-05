@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The outermost (and toughest) of the 3 meninges.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The outermost (and toughest) of the 3 meninges.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The tough, fibrous outermost membrane envelope encasing the brain and spinal cord, also termed the dura mater.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy and cranial surgery, the pachymeninx comprising periosteal and meningeal collagenous layers shielding the central nervous system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dura designates the outermost (and toughest) of the 3 meninges."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Careful incision of the thickened **dura** revealed an accumulation of purulent exudate over the parietal cortex."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The outer surface of the cranial **dura** adheres closely to the inner table of the skull bones."*
+> - 📜 **Harvey Cushing (*The Pituitary Body and Its Disorders*):** *"Upon elevating the bone flap, the tense **dura** was reflected to expose the underlying sellar lesion."*

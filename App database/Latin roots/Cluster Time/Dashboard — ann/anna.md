@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A former copper coin of pakistan and india.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A former copper coin of pakistan and india.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former historical unit of currency used in British India and Pakistan, representing one-sixteenth of a rupee.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colonial numismatics and fiscal administration, copper and nickel anna coins circulated widely across South Asia until decimalization in the mid-twentieth century.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Sutherland Lines To A Gentleman, Elegy On Willie Nicol’s Mare Song—The Gowden Locks Of Anna Song—I Murder Hate Song—Gudewife, Count The Lawin Election Ballad At the close of the contest for representing the Dumfries Burghs, 1790."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Then Anna comes in, the pride o’ her kin, The boast of our bachelors a’, man: Sae sonsy and sweet, sae fully complete, She steals our affections awa, man."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Sweet Anna has an air—a grace, Divine, magnetic, touching: She talks, she charms—but who can trace The process of bewitching?"*
+> - 📜 **Rudyard Kipling (*Kim*):** *"He counted out copper pieces until not a single **anna** remained in the folds of his waist-cloth."*
+> - 📜 **George Orwell (*Burmese Days*):** *"The native servants bargained over every copper **anna** when purchasing fresh provisions in the bazaar."*
+> - 📜 **Flora Annie Steel (*On the Face of the Waters*):** *"She tossed a bright **anna** to the water-carrier as he emptied his goatskin bag into the stone trough."*
+

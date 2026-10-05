@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: At the same instant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At the same instant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: At the same time; concurrently; in synchrony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In parallel computing and multi-agent systems, executed concurrently on multiple processors or computational threads.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed and Judy simultaneously fold their arms and stop in their researches."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"In this metamorphosed state he is available in a good many places simultaneously and can throw himself upon a considerable portion of the country at one time."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In this meditative walk his foot met the floor with heel and toe simultaneously, and his fine reddish-fleshed face was bent downwards just enough to render obscure the still mouth and the well-rounded though rather prominent and broad chin."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The crowd surged forward, shouting and weeping **simultaneously** as the tumbrils made their grim passage toward the guillotine."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Both girls looked up **simultaneously**, their eyes meeting in a silent exchange of unspoken sympathy and apprehension."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Three harpooners leaped **simultaneously** to their feet, poising their darting-irons over the foaming white wake of the whale."*

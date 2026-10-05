@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring in the same period of time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of the same period.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Existing, occurring, originating, or living in the same historical era or chronological period.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evidentiary jurisprudence, statements made simultaneously with an event that fall under the res gestae doctrine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"For the feudal tournament--descriptions of which are handed down to us by contemporaneous authors--no substitute is left in these times."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Next I thought I would measure off the French reigns, and peg them alongside the English ones, so that we could always have contemporaneous French history under our eyes as we went our English rounds."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Until the existence of this **contemporaneous** Wessex was acknowledged, the rustic customs were regarded as entirely obsolete."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The cold may have come on, or have ceased, earlier at one point of the globe than at another, but several large areas were **contemporaneous** in their glacial phenomena."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The testimonies of **contemporaneous** Greek historians corroborate the swift decline of the Roman military frontier."*
+

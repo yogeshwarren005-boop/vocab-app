@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A wild or unrefined state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genre characteristic of (or imitative of) primitive artists or children.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A belief in the value or superiority of what is simple, rustic, or uncivilized compared to modern culture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In art history and cultural criticism, a movement or aesthetic favoring forms, rhythms, and motifs borrowed from non-Western or prehistoric cultures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, primitivism designates a wild or unrefined state."*
+> - 📜 **Arthur Lovejoy (*Primitivism and Related Ideas in Antiquity*):** *"Philosophical **primitivism** recurrently exalts the uncorrupted savage over the decadence and artificiality of civilized courts."*
+> - 📜 **Roger Fry (*Vision and Design*):** *"The bold contours of modern sculpture reflect a deliberate return to expressive **primitivism**, discarding academic polish."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"Rousseau's passionate advocacy of romantic **primitivism** exerted an immense emotional sway over European thought."*

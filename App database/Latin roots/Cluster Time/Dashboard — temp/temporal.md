@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The semantic role of the noun phrase that designates the time of the state or action denoted by the verb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not eternal; - f.d.roosevelt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to worldly as opposed to spiritual affairs; or of or relating to time as measured sequentially.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cranial anatomy, pertaining to the temporal bone, temporal lobes of the cerebral cortex, or temples of the skull.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So children temporal fathers do appease; Gods are more full of mercy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is this an hour for temporal affairs, ha?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Much better She ne’er had known pomp; though’t be temporal, Yet if that quarrel, Fortune, do divorce It from the bearer, ’tis a sufferance panging As soul and body’s severing."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So children **temporal** fathers do appease; gods are more full of mercy."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He was anxious to acquire a knowledge of his wife's **temporal** affairs before deciding which to do."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Never raising any superstructure until we found a better reason for it than our **temporal** necessities even."*
+

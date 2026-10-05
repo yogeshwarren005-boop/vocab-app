@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Very long lasting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very long lasting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely durable, everlasting, enduring, or permanent; imperishable over long periods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval theology and Renaissance literature, having unending continuity or incorruptible strength against physical destruction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have professed me thy friend, and I confess me knit to thy deserving with cables of perdurable toughness; I could never better stead thee than now."*
+> - 📜 **William Shakespeare (*Othello*):** *"I have professed me thy friend, and I confess me knit to thy deserving with cables of **perdurable** toughness."*
+> - 📜 **Geoffrey Chaucer (*The Canterbury Tales*):** *"The bliss of heaven is perpetual and **perdurable**, where no sorrow nor adversity can ever enter."*
+> - 📜 **Thomas Browne (*Hydriotaphia, Urn Burial*):** *"Pyramids, arches, and obelisks were erected in the vain hope of establishing a **perdurable** memory upon earth."*

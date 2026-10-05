@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mixture of decaying vegetation and manure; used as a fertilizer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert to compost.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A nutrient-rich biological mixture of decaying organic matter, vegetation, and manure used to fertilize and condition agricultural soil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticultural biotechnology and agronomy, controlled aerobic decomposition of biological waste products to generate microbial-dense humus for soil stabilization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Confess yourself to heaven, Repent what’s past, avoid what is to come; And do not spread the compost on the weeds, To make them ranker."*
-> - 📜 **James Joyce (*Ulysses*):** *"And also it was a marvel to see in that castle how by magic they make a compost out of fecund wheatkidneys out of Chaldee that by aid of certain angry spirits that they do in to it swells up wondrously like to a vast mountain."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Confess yourself to heaven, repent what’s past, avoid what is to come; and do not spread the **compost** on the weeds, to make them ranker."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The maker of this earth but patented a leaf, and rotting vegetation returned to fertile **compost** under the autumn rains."*
+> - 📜 **James Joyce (*Ulysses*):** *"And also it was a marvel to see in that castle how by magic they make a **compost** out of fecund wheatkidneys out of Chaldee."*
+

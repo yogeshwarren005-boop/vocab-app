@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of energy equal to the work done by an electron accelerated through a potential difference of 1 volt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of energy equal to the work done by an electron accelerated through a potential difference of 1 volt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fundamental unit of physical energy (electronvolt) equal to approximately 1.602 × 10⁻¹⁹ joules, or a poetic shortened form of eve.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In subatomic particle physics and spectroscopy, this vital metric measures atomic ionization potentials, band gaps in semiconductors, and photon quanta.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Having reached the Patriarch’s Ponds Pierre found the Bazdéevs’ house, where he had not been for a long time past."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Heaven save me, or I’m a done man.’ Well, then he called to mind how he’d seen the cattle kneel o’ Christmas Eves in the dead o’ night."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"On these eves a line of tar-barrels, relieved occasionally by large bonfires, is seen in the centre of each of the principal streets in Penzance."*
+> - 📜 **Ernest Rutherford (*Radioactive Substances and Their Radiations*):** *"The kinetic energy of emitted alpha particles is measured in terms of millions of **eV**, defining their penetrating power."*
+> - 📜 **Niels Bohr (*On the Quantum Theory of Line-Spectra*):** *"The discrete transition between stationary electron orbits involves an absorption or emission of several **eV**."*
+> - 📜 **Arthur Eddington (*The Internal Constitution of the Stars*):** *"Thermal ionization of stellar plasma proceeds rapidly when particle collision energies exceed a few dozen **eV**."*

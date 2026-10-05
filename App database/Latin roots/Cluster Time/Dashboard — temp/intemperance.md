@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being intemperate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consumption of alcoholic drinks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of moderation, balance, or self-restraint; excessive indulgence in appetites or passions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the nineteenth-century temperance movement, habitual abuse of ardent spirits regarded as the root of moral decay.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This in the name of God I promise here, The which if He be pleased I shall perform, I do beseech your Majesty may salve The long-grown wounds of my intemperance."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Boundless intemperance In nature is a tyranny; it hath been Th’ untimely emptying of the happy throne, And fall of many kings."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"He had done so largely as an experiment--to see whether his influence would thereby be strengthened with those in his own congregation and beyond it whom he wished to reclaim from intemperance."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This in the name of God I promise here, that I shall perform, and beseech your Majesty may salve the long-grown wounds of my **intemperance**."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Raffles proved more unmanageable, his chronic state of mental restlessness, the growing effect of habitual **intemperance**, quickly shaking off every impression."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"We have found out fine names to cover our sensuality withal, but no gifts can raise **intemperance**."*
+

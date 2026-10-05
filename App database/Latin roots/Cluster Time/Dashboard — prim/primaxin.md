@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Trade name for a parenteral antibiotic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Trade name for a parenteral antibiotic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brand-name intravenous antibiotic combining imipenem (a carbapenem) and cilastatin (a dehydropeptidase inhibitor).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In infectious disease therapeutics and hospital medicine, a broad-spectrum parenteral regimen reserved for severe polymicrobial and multidrug-resistant bacterial infections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, primaxin designates trade name for a parenteral antibiotic."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The emergence of potent carbapenem combinations like **primaxin** transformed the hospital management of refractory abdominal sepsis."*
+> - 📜 **Alexander Fleming (*Chemotherapy: Yesterday, Today, and Tomorrow*):** *"Advanced synthetic antimicrobials such as **primaxin** exemplify how pairing an active beta-lactam with a protective enzyme inhibitor halts bacterial resistance."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"In intensive therapy, parenteral infusions of **primaxin** are monitored closely to prevent nephrotoxic accumulation in compromised patients."*

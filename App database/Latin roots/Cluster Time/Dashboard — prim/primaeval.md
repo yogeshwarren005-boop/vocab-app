@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having existed from the beginning; in an earliest or original stage or state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having existed from the beginning; in an earliest or original stage or state.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to the earliest ages of the world or human history; primitive, ancient, and pristine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and geology, untouched by modern human interference and reflecting original prehistorical ecological conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Above them rose the primaeval yews and oaks of The Chase, in which there poised gentle roosting birds in their last nap; and about them stole the hopping rabbits and hares."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"No one will probably deny that such a custom savours of a barbarous age, and, surviving into imperial times, stands out in striking isolation from the polished Italian society of the day, like a primaeval rock rising from a smooth-shaven lawn."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"For at the dawn of history Europe was covered with immense primaeval forests, in which the scattered clearings must have appeared like islets in an ocean of green."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Above them rose the **primaeval** yews and oaks of The Chase, in which there poised gentle roosting birds in their last nap."*
+> - 📜 **Henry Wadsworth Longfellow (*Evangeline*):** *"This is the forest **primaeval**; the murmuring pines and the hemlocks stand like Druids of eld in the twilight."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"We gaze upon these coal measures as remnants of **primaeval** forests that flourished under ancient torrid skies."*

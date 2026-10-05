@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who writes novels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who writes novels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A literary writer or author who specializes in composing works of long fictional prose narrative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary theory, an imaginative chronicler who investigates subjective consciousness and social structures through fictitious plot construction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I became neither Bible scholar nor novelist."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"NOTE TO THE THIRD EDITION I avail myself of the opportunity which a third edition of “Jane Eyre” affords me, of again addressing a word to the Public, to explain that my claim to the title of novelist rests on this one work alone."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Thomas Love Peacock, scholar, novelist, and poet, and, in spite of his mellow worldliness, one of Shelley's most admired friends, had published a wittily perverse and paradoxical article, not without much good sense, on 'The Four Ages of Poetry'."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"The serious **novelist** paints the manners and morals of an age with a brush dipped in the passions of living humanity."*
+> - 📜 **G. K. Chesterton (*The Victorian Age in Literature*):** *"Every great Victorian **novelist** was something of a moral crusader, using fiction as a battering ram against civic complacency."*
+> - 📜 **Henry David Thoreau (*A Week on the Concord and Merrimack Rivers*):** *"We read the famous **novelist** for an idle hour, but turn to the ancient poets when our spirits thirst for enduring truth."*

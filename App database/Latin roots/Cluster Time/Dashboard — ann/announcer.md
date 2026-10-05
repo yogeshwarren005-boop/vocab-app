@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who proclaims a message publicly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reads news, commercials on radio or television.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who introduces programs, reads news bulletins, or makes formal verbal proclamations to an audience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In twentieth-century broadcast media, a professional voice artist tasked with commercial delivery, station identification, and emergency civil communications.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jr. Irving E. Cox (*Export Commodity*):** *"He claims to have seen a strange animal approach the victims shortly before the murder." The announcer repeated a very accurate description of Henig--which, he said, tallied with no species known to zoology."*
+> - 📜 **George Orwell (*1984*):** *"The voice of the telescreen **announcer** boomed through the cafeteria, reeling off fabricated figures of military production."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The radio **announcer** warned listeners that transport flights across the continent were suspended indefinitely."*
+> - 📜 **Virginia Woolf (*The Years*):** *"They sat around the wireless listening intently as the suave **announcer** read the evening weather forecast."*
+

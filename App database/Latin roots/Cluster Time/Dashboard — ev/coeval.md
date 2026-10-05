@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person of nearly the same age as another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of the same period.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Existing at the same time, of equal age, or contemporaneous in origin and duration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical geology and civilizational anthropology, describing formations, institutions, or epochs that share synchronous chronological development.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The church was surrounded by yew trees, which seemed almost coeval with itself."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Adjoining it was a low snug parsonage which seemed coeval with the church."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"The three spent at the university were coeval with the second and last three spent by the little Stratford lad at Stratford school supposedly, and perhapsedly, and maybe, and by inference—with nothing to infer from."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The wild apple trees standing in abandoned pastures appear **coeval** with the primitive granite boulders beside them."*
+> - 📜 **Bram Stoker (*The Jewel of Seven Stars*):** *"The archaic carved inscriptions were deemed **coeval** with the earliest dynasties that ruled the banks of the Nile."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The rise of imperial authority was almost **coeval** with the decay of republican civic virtues in Rome."*

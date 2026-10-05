@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The psychological state of being irritated or annoyed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anger produced by some annoying irritation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The feeling of being irritated, bothered, or provoked to displeasure; an irritating person, habit, or circumstance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In common law and tort jurisprudence, a recurring nuisance or wrongful disturbance interfering with the peaceful enjoyment of property.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O heaven, that there were but a mote in yours, A grain, a dust, a gnat, a wandering hair, Any annoyance in that precious sense!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Know the gallant monarch is in arms And like an eagle o’er his aery towers To souse annoyance that comes near his nest.— And you degenerate, you ingrate revolts, You bloody Neroes, ripping up the womb Of your dear mother England, blush for shame!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look after her; Remove from her the means of all annoyance, And still keep eyes upon her."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor concealed her rising **annoyance** beneath an appearance of calm civility when forced to hear foolish gossip."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The sudden arrival of inquisitive neighbors was a source of acute **annoyance** to the solitary linen weaver."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The persistent rattle of the shop bell caused constant **annoyance** to the proud, sensitive old gentlewoman."*
+

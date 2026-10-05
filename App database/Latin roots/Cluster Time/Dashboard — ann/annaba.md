@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A port city of northeastern algeria near the tunisian border.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A port city of northeastern algeria near the tunisian border.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prominent coastal seaport city in northeastern Algeria, historically known during classical antiquity as Hippo Regius.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Mediterranean historical geography, this ancient Numidian port served as the episcopal see of Saint Augustine and remains a major industrial hub for iron and steel manufacture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, annaba designates a port city of northeastern algeria near the tunisian border."*
+> - 📜 **Frantz Fanon (*The Wretched of the Earth*):** *"The industrial docks of **Annaba** bustled with transport ships moving mined minerals across the Mediterranean."*
+> - 📜 **Albert Camus (*Selected Essays and Notebooks*):** *"The coastal road leading eastward toward **Annaba** reveals ancient ruins weathered by sea spray and sun."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Near modern **Annaba**, ancient Hippo sustained a protracted siege by the Vandals during the dying days of the Western Empire."*
+

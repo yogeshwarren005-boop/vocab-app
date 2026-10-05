@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Duration of service.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being long-lived.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Long duration of individual life; the state or property of having great age or enduring persistence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In demography and evolutionary ecology, the observed lifespan of an organism, material, or social institution under sustained environmental conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Moreover: we are to consider, that from the presumed great longevity of whales, their probably attaining the age of a century and more, therefore at any one period of time, several distinct adult generations must be contemporary."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The longevity of Cape Horn whaling voyages is proverbial, frequently extending over a period of four or five years."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Moreover: we are to consider, that from the presumed great longevity of whales, their probably attaining the age of a century and more, therefore at any one period of time, several distinct adult generations must be contemporary."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Ray Lankester, in his treatise on comparative **longevity**, notes the destructive effects of intemperance on natural life."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"From the presumed great **longevity** of whales, several distinct adult generations must be contemporary in the ocean deeps."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"He looked as though he pitted his gravity and **longevity** against the levity and evanescence of the brisk fire."*

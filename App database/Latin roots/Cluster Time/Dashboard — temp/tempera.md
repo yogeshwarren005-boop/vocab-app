@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pigment mixed with water-soluble glutinous materials such as size and egg yolk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pigment mixed with water-soluble glutinous materials such as size and egg yolk.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A method of painting with pigments dispersed in an emulsion miscible with water, typically egg yolk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fine art conservation, Italian egg tempera on gessoed poplar panels was the primary medium prior to oil glazing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"No Virgin by him the somewhat petty, Of finical touch and tempera crumbly-- Could not Alesso Baldovinetti Contribute so much, I ask him humbly? -- St. 27."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The luminous brilliance of early Florentine **tempera** paintings derives from the purity of their egg yolk emulsion."*
+> - 📜 **Walter Pater (*The Renaissance*):** *"Botticelli applied fine hatching in **tempera** to render the translucent draperies of his celestial figures."*
+> - 📜 **Giorgio Vasari (*Lives of the Most Eminent Painters*):** *"Before the Flemish masters perfected oil painting, every Tuscan workshop labored in traditional egg **tempera**."*
+

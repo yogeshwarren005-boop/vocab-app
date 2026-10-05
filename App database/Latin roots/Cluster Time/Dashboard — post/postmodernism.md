@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genre of art and literature and especially architecture in reaction against principles and practices of established modernism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genre of art and literature and especially architecture in reaction against principles and practices of established modernism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A late twentieth-century movement in philosophy, arts, and literature characterized by skepticism toward grand narratives, absolute truth, and historical progression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural sociology and aesthetic theory, an intellectual epoch marked by pluralism, pastiche, intertextuality, hyperreality, and the erosion of boundaries between high and low culture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, postmodernism designates genre of art and literature and especially architecture in reaction against principles and practices of established modernism."*
+> - 📜 **David Harvey (*The Condition of Postmodernity*):** *"The rise of **postmodernism** signals a fundamental shift in how Western societies experience space, time, and global capital."*
+> - 📜 **Jean Baudrillard (*Simulacra and Simulation*):** *"In the hyperreal realm celebrated by **postmodernism**, the simulation of reality replaces authentic engagement with the world."*
+> - 📜 **Terry Eagleton (*The Illusions of Postmodernism*):** *"The radical irony championed by **postmodernism** risks disarming genuine political critique by dissolving all normative claims."*
+

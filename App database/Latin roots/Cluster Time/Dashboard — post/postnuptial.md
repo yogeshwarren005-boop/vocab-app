@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to events after a marriage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to events after a marriage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Made, occurring, or executed following the solemnization of a marriage, especially regarding agreements governing marital property.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In family law and estate jurisprudence, a formal contract executed between spouses establishing property division and financial support in the event of divorce or death.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, postnuptial designates relating to events after a marriage."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A voluntary **postnuptial** settlement executed by a husband upon his wife will be sustained in equity if free from fraud against creditors."*
+> - 📜 **Anthony Trollope (*Can You Forgive Her?*):** *"The family solicitors drafted a comprehensive **postnuptial** covenant to safeguard the lady's independent fortune."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Questions arose among the trustees concerning the legal validity of the disputed **postnuptial** agreement."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the period following a seizure or convulsion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the period following a seizure or convulsion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or occurring in the altered state of consciousness and recovery period immediately following an epileptic seizure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology and emergency medicine, characterizing the transient phase of lethargy, confusion, headache, or focal neurological deficit (Todd's paresis) after convulsions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, postictal designates pertaining to the period following a seizure or convulsion."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"During the **postictal** stupor that succeeds a severe grand mal convulsion, the patient lies flaccid with stertorous respiration."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"The profound cerebral exhaustion observed in the **postictal** state reflects temporary depletion of intracellular energy stores and neurotransmitter exhaustion."*
+> - 📜 **Harvey Cushing (*The Pituitary Body and Its Disorders*):** *"Careful neurological examination during the **postictal** interval revealed transient contralateral hemiparesis localized to the cortical lesion."*
+

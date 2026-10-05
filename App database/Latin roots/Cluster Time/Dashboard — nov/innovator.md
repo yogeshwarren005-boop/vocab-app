@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who helps to open up a new line of research or technology or art.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who helps to open up a new line of research or technology or art.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who introduces new ideas, methods, techniques, or inventions into an established sphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual and social history, a pioneer who challenges prevailing orthodoxy to establish original systems of thought or production.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go call the people; [_Exit Aedile._] in whose name myself Attach thee as a traitorous innovator, A foe to th’ public weal."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The ideal poet is thin instead of obese, and he is a reckless innovator who lays claim to any measure of the divine afflatus without possessing either a pale face, thin form, or a garret."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Regarding themselves as Middlemarch institutions, they were ready to combine against all innovators, and against non-professionals given to interference."*
+> - 📜 **Francis Bacon (*The Essays*):** *"As the births of living creatures at first are ill-shapen, so are all innovations, the births of time; yet he that will not apply new remedies must expect new evils; for time is the greatest **innovator**."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate was regarded by the older practitioners as a dangerous **innovator** whose French methods threatened professional serenity."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"The bold **innovator** who projects grand schemes of civic reform must often confront the stubborn inertia of customary prejudice."*

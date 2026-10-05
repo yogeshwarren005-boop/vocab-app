@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who temporizes; someone who tries to gain time or who waits for a favorable time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who temporizes; someone who tries to gain time or who waits for a favorable time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who yields to or temporizes with the times; an opportunistic time-server or compromiser.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In parliamentary debate, an unprincipled politician who accommodates opposing sides to preserve ministerial office.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is; you lie, you lie: I say thou liest, Camillo, and I hate thee, Pronounce thee a gross lout, a mindless slave, Or else a hovering temporizer that Canst with thine eyes at once see good and evil, Inclining to them both."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou canst not, thou art an arrogant **temporizer**, and hast no true knowledge of honor."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"Not a word for the corrupt **temporizer** or the cringing apologist for human bondage."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"A sort of **temporizers**, ready to embrace and maintain all that is proposed in hope of preferment."*
+

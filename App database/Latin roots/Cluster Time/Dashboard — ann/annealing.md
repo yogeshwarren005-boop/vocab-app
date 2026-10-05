@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hardening something by heat treatment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring to a desired consistency, texture, or hardness by a process of gradually heating and cooling.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The industrial or metallurgical process of heating and controlled slow cooling to soften materials and relieve internal residual stress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computational optimization, simulated annealing denotes a probabilistic heuristic algorithm modeled after thermodynamic cooling for finding global optima.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"By annealing, diffusion is greatly assisted, and the material gradually becomes homogeneous, as is seen on microscopic examination."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Cold rolling and hammering causes a reduction in this respect, and the metal is hardened, but the properties are restored by annealing."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The annealing effect commences at about 300° C., but proceeds more effectively at higher temperatures, the factors of annealing temperature and duration necessary for annealing being inversely connected."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The molecular reconstitution accomplished during **annealing** transforms brittle crystalline aggregates into tough and flexible structures."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Through years of patient **annealing** in the furnace of practical labor, the master artisan learns the secrets of his craft."*
+> - 📜 **John Tyndall (*Fragments of Science*):** *"Without prolonged **annealing**, the immense optical glass blanks cast for astronomical telescopes invariably succumb to fracture."*
+

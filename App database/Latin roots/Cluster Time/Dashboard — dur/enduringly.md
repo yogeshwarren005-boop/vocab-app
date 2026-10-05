@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an enduring manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an enduring manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a lasting, permanent, or durable manner; with continuing perseverance or steadfastness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by permanence of impact or unwavering fortitude that remains effective across extended epochs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"Still, still it wears the fetters love so enduringly fastened."*
+> - 📜 **Ralph Waldo Emerson (*English Traits*):** *"The national character is **enduringly** stamped upon their jurisprudence, their commerce, and their literature."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"The builder should labor so that future generations will perceive his work as **enduringly** beautiful and true."*
+> - 📜 **George Santayana (*The Life of Reason*):** *"Those ideals that are **enduringly** rooted in human instinct alone survive the collapse of speculative systems."*

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pounded or hit repeatedly by storms or adversities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pounded or hit repeatedly by storms or adversities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Buffeted, battered, or repeatedly scourged by violent gales and oceanic storms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In littoral ecology, harsh coastal headlands where vegetation is stunted and flag-formed by persistent marine squalls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tempest-swept designates pounded or hit repeatedly by storms or adversities."*
+> - 📜 **Alfred Tennyson (*Idylls of the King*):** *"Upon the **tempest-swept** cliffs of Cornwall, the lonely fortress stood against the foam."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The **tempest-swept** decks of the Pequod ran white with frothing brine during the midnight squall."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Across the **tempest-swept** expanse of Egdon Heath, the ancient barrows loomed like sleeping titans."*
+

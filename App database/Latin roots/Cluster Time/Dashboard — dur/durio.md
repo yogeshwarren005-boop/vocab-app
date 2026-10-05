@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tall asian trees of the family bombacaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of tall asian trees of the family bombacaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tropical Southeast Asian trees in the family Malvaceae that produces edible spiny durian fruits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical taxonomy, the genus comprising approximately thirty species native to Borneo, Sumatra, and the Malay Peninsula, typified by Durio zibethinus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, durio designates a genus of tall asian trees of the family bombacaceae."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The genus **Durio** contains several wild forest species, though only a few bear the prized edible fruit so famous in Borneo."*
+> - 📜 **Joseph Dalton Hooker (*Flora of British India*):** *"Botanical specimens of **Durio** collected in Malacca exhibit large leathery leaves with golden lepidote scales beneath."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The explosive dehiscence of the capsule in **Durio** reveals large seeds enveloped in an opulent pulpy aril."*

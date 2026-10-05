@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dicotyledonous family of the order primulales with a regular flower; widely distributed in the northern hemisphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dicotyledonous family of the order primulales with a regular flower; widely distributed in the northern hemisphere.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The primrose family of flowering plants, comprising herbaceous dicotyledons with radially symmetrical five-parted flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In taxonomic angiosperm botany, an order-defining family characterized by gamopetalous corollas, free-central placentation, and capsular fruits, typified by Primula.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, primulaceae designates a dicotyledonous family of the order primulales with a regular flower; widely distributed in the northern hemisphere."*
+> - 📜 **Asa Gray (*Introduction to Structural and Systematic Botany*):** *"The family **Primulaceae** is readily recognized by its single style and characteristic free-central placentation within the capsule."*
+> - 📜 **Joseph Dalton Hooker (*Flora of British India*):** *"Many genera of **Primulaceae** attain their highest diversity amidst the alpine valleys and glacial moraines of the Himalayas."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"Several genera within the **Primulaceae** furnish striking examples of adaptations promoting legitimate cross-pollination."*

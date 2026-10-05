@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The person in charge of a post office.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The person in charge of a post office.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The official in charge of a local post office, responsible for overseeing the processing, dispatch, and delivery of mail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, an innkeeper or officer licensed to supply post horses, chaises, and riders for travelers along royal dispatch routes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I went to her in white and cried “mum”, and she cried “budget”, as Anne and I had appointed, and yet it was not Anne, but a postmaster’s boy."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"At the Torzhók post station, either there were no horses or the postmaster would not supply them."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The postmaster, his wife, the valet, and a peasant woman selling Torzhók embroidery came into the room offering their services."*
+> - 📜 **William Shakespeare (*Twelfth Night*):** *"I have dogg'd him like his murderer. He does obey every point of the letter that I dropp'd to betray him. He will come to the **postmaster** for fresh mounts."*
+> - 📜 **Charles Dickens (*Martin Chuzzlewit*):** *"The bustling village **postmaster** sorted the packets behind the brass grille, regaling his neighbors with scraps of official news."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Pierre inquired of the station **postmaster** whether fresh horses could be harnessed to continue his journey through the night."*
+

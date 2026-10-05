@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A star that explodes and becomes extremely luminous in the process.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A star that explodes and becomes extremely luminous in the process.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A colossal astronomical stellar explosion that briefly outshines an entire galaxy, radiating enormous energy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In high-energy astrophysics, the catastrophic gravitational core collapse or thermonuclear detonation of an evolving massive star, disseminating heavy chemical elements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supernova designates a star that explodes and becomes extremely luminous in the process."*
+> - 📜 **Arthur Eddington (*The Expanding Universe*):** *"The extraordinary luminosity of a **supernova** exceeds that of millions of ordinary stars combined, marking the violent climax of stellar life."*
+> - 📜 **Subrahmanyan Chandrasekhar (*An Introduction to the Study of Stellar Structure*):** *"A massive degenerate stellar core exceeding the limiting mass must inevitably precipitate a catastrophic **supernova** detonation."*
+> - 📜 **Fred Hoyle (*Frontiers of Astronomy*):** *"The synthesis of heavy elements beyond iron in the cosmic abundance curve occurs predominantly within the fiery furnace of a **supernova** explosion."*

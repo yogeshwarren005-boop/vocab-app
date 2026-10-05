@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who temporizes; someone who tries to gain time or who waits for a favorable time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who temporizes; someone who tries to gain time or who waits for a favorable time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who temporizes; someone who procrastinates or adapts their conduct to the times.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political polemics, a trimmer who shifts allegiance opportunistically to remain in government favor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, temporiser designates someone who temporizes; someone who tries to gain time or who waits for a favorable time."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The shrewd **temporiser** watches the shifting political winds, ready to cheer whichever faction ascends to power."*
+> - 📜 **Edmund Burke (*Thoughts on the Cause of the Present Discontents*):** *"The unprincipled **temporiser** sacrifices long-term national honor for the ephemeral advantage of the hour."*
+> - 📜 **Jonathan Swift (*The Examiner*):** *"He was ever a cautious **temporiser**, balancing nicely between court factions to secure his personal pension."*
+

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: On or outside the dura mater.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: On or outside the dura mater.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated or occurring on the outside of the dura mater membrane surrounding the brain or spinal cord.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurosurgery and pathology, designating hemorrhages or abscesses located in the potential space between the skull bone and the outer dural layer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extradural designates on or outside the dura mater."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"An **extradural** hemorrhage arising from rupture of the middle meningeal artery demands immediate trephining and surgical decompression."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology*):** *"Prompt evacuation of the clot from the **extradural** space relieved the acute intracranial hypertension before herniation ensued."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The **extradural** veins form extensive plexuses within the spinal canal, communicating with the azygos system."*

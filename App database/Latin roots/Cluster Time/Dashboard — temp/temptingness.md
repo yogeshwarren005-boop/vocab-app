@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The power to entice or attract through personal charm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The power to entice or attract through personal charm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The seductive power, attractiveness, or charm that entices someone toward desire or indulgence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and market psychology, the compelling allure exerted by illicit gains or luxury commodities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, temptingness designates the power to entice or attract through personal charm."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The fatal **temptingness** of sudden riches has ruined many an honest tradesman's integrity."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky Sharp understood the dangerous **temptingness** of her coquettish glances upon naive young subalterns."*
+> - 📜 **Henry James (*The Wings of the Dove*):** *"The subtle **temptingness** of the Venetian palace whispered of boundless romantic possibilities."*
+

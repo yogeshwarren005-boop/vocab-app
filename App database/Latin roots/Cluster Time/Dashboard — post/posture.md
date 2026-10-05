@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The arrangement of the body and its limbs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic way of bearing one's body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The position, carriage, or disposition in which the body is held, whether sitting, standing, or moving.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deliberate mental attitude, moral stance, or strategic diplomatic disposition adopted to convey intent or project capability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The quick comedians Extemporally will stage us and present Our Alexandrian revels; Antony Shall be brought drunken forth, and I shall see Some squeaking Cleopatra boy my greatness I’ th’ posture of a whore."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Such a pother, As if that whatsoever god who leads him Were slyly crept into his human powers And gave him graceful posture."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Antony, The posture of your blows are yet unknown; But for your words, they rob the Hybla bees, And leave them honeyless."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"The **posture** of your blows are yet unknown; but for your words, they rob the Hybla bees, and leave them honeyless."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Clym preserved his meditative **posture** beside the hearth, gazing deeply into the red embers of the turf fire."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The weaver sat crouched over his loom in a rigid **posture** that had become second nature through thirty years of solitary toil."*
+

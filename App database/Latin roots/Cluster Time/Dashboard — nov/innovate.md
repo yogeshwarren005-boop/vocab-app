@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring something new to an environment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring something new to an environment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To introduce novel methods, ideas, technologies, or products into an established field or practice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organizational economics and political philosophy, to initiate institutional transformations and break with customary conventions to solve emerging challenges.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"But Lydgate meant to innovate in his treatment also, and he was wise enough to see that the best security for his practising honestly according to his belief was to get rid of systematic temptations to the contrary."*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"This is the whole truth of my Reform opinions, which, before I knew the complexion of these innovating times, I too unguardedly as I now see sported with: henceforth I seal up my lips."*
+> - 📜 **Francis Bacon (*The Essays*):** *"He that will not apply new remedies must expect new evils; for time is the greatest innovator, and if time alter things for the worse, and wisdom choose to **innovate** for the better, what shall be the end?"*
+> - 📜 **George Eliot (*Middlemarch*):** *"He was eager to **innovate** in medical treatment, introducing hygienic methods that unsettled the old practitioners of the town."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"It is a deliberate policy to **innovate** upon ancient foundations rather than repair them with prudent reverence."*

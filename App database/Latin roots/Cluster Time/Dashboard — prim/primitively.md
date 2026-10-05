@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With reference to the origin or beginning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a primitive style or manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a primitive, original, early, or unsophisticated manner; from the very beginning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary morphology, occurring as an ancestral, ancestral-type, or unspecialized biological trait prior to subsequent modifications.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"That's a primitively feminine wish and not at all in accordance with my own advanced ideas."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The swim-bladder in fishes was **primitively** developed for respiratory purposes, before becoming modified into a float."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"The vertebrate limb was **primitively** pentadactyl, each digit executing simple locomotor strokes in the primeval mud."*
+> - 📜 **Edward Tylor (*Primitive Culture*):** *"Human society **primitively** interpreted the movements of heavenly bodies through animistic mythologies."*

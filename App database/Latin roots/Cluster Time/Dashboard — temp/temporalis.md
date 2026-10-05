@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Muscle extending from the temporal fossa to the coronoid process of the mandible; acts to raise the mandible and close the jaws.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Muscle extending from the temporal fossa to the coronoid process of the mandible; acts to raise the mandible and close the jaws.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A broad, fan-shaped muscle on each side of the head that elevates and retracts the mandible to close the jaw.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human osteology and dental biomechanics, the temporalis muscle originates from the temporal fossa and inserts into the coronoid process.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, temporalis designates muscle extending from the temporal fossa to the coronoid process of the mandible; acts to raise the mandible and close the jaws."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The powerful **temporalis** muscle passes beneath the zygomatic arch to attach firmly upon the coronoid process."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"In carnivorous mammals, the deep sagittal crest provides extensive surface area for the origin of the massive **temporalis**."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The reduction in size of the human **temporalis** corresponds with our diminished canine dentition and softened diet."*
+

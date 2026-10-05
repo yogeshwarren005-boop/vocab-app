@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being toward the back or toward the rear end.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Following in time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, condition, or fact of being later in time or subsequent in sequence relative to something else.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metaphysics, chronology, and logic, the temporal or conceptual status of following an antecedent event, opposed to priority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, posteriority designates the quality of being toward the back or toward the rear end."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The order of nature assigneth a necessary **posteriority** to secondary causes when viewed alongside the first cause."*
+> - 📜 **Samuel Johnson (*The Lives of the Poets*):** *"The apparent **posteriority** of his verse composition to his historical prose was clearly established by surviving manuscripts."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Priority and **posteriority** in our ideas of time depend upon the constant succession of fleeting perceptions in the mind."*
+

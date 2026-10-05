@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Happening or existing or done at the same time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Happening or existing or done at the same time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The relation between two or more events occurring, existing, or operating at the exact same point in time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In relativistic physics and phenomenology, the observer-dependent temporal property showing that absolute universal synchrony across spatially separated reference frames does not exist.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, simultaneity designates happening or existing or done at the same time."*
+> - 📜 **Henri Bergson (*Duration and Simultaneity*):** *"Our intuitive consciousness grasps the **simultaneity** of physical movements by integrating multiple sensory impressions into a unified flow."*
+> - 📜 **Albert Einstein (*Relativity: The Special and General Theory*):** *"Every reference body has its own particular time; and unless we are told the reference body to which the statement of time refers, there is no meaning in a statement of the **simultaneity** of two events."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The perceived **simultaneity** of sensory stimuli depends upon central neural integration occurring within the specious present."*

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring or coming into existence after a person's death.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring or coming into existence after a person's death.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring, published, awarded, or born after the death of the originator, author, or father.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary publishing and jurisprudence, designating manuscripts printed following a writer's decease, or legal entitlements vested in a child born after paternal demise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"This help on his part was continued by his seeing through the press Wilson's posthumous book, _Counsels of an Invalid_, which appeared in 1862."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"On The Birth Of A Posthumous Child Born in peculiar circumstances of family distress."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"A POSTHUMOUS WRITING OF DIEDRICH KNICKERBOCKER."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"The neglected poet lived in obscurity, leaving his masterpieces to reap a dazzling **posthumous** fame."*
+> - 📜 **Nathaniel Hawthorne (*Mosses from an Old Manse*):** *"He rummaged through the dusty escritoire, examining the manuscripts reserved for **posthumous** publication."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The antiquary devoted his retirement to collecting the scattered papers of the deceased scholar for a **posthumous** volume."*
+

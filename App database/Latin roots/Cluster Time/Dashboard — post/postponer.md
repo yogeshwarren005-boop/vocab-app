@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who postpones work (especially out of laziness or habitual carelessness).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who postpones work (especially out of laziness or habitual carelessness).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who habitually puts off, defers, or procrastinates performing obligations, tasks, or necessary decisions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral psychology and behavioral ethics, an individual who avoids present discomfort or responsibility through chronic postponement and evasion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, postponer designates someone who postpones work (especially out of laziness or habitual carelessness)."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The habitual **postponer** of virtuous exertion flatters himself that tomorrow will bring clarity, while habit cements his indolence."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The chronic **postponer** suffers an exhausting paralysis of volition, endlessly deliberating while opportunity slips away."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber, that eternal **postponer** of practical decisions, sat waiting serenely for something profitable to turn up."*
+

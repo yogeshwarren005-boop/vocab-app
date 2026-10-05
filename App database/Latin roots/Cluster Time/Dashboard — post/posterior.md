@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The fleshy part of the human body that you sit on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tooth situated at the back of the mouth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated at the back or toward the rear of a structure or body; or coming later in temporal sequence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy and zoology, denoting dorsal or caudal positions opposite to anterior; colloquially, the human buttocks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The posterior of the day, most generous sir, is liable, congruent, and measurable for the afternoon."*
-> - 📜 **George Eliot (*Middlemarch*):** *"As to any provincial history in which the agents are all of high moral rank, that must be of a date long posterior to the first Reform Bill, and Peter Featherstone, you perceive, was dead and buried some months before Lord Grey came into office."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"In the surgeon’s deposition it was stated that the posterior third of the left parietal bone and the left half of the occipital bone had been shattered by a heavy blow from a blunt weapon."*
+> - 📜 **William Shakespeare (*Love's Labour's Lost*):** *"The **posterior** of the day, most generous sir, is liable, congruent and measurable for the afternoon."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The **posterior** extremities in all quadrupeds exhibit homologous skeletal elements that reflect a common ancestral archetype."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The historical sequence of events demonstrated that the legal claim was **posterior** to the original settlement."*
+

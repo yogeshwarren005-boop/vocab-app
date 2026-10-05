@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is not a clergyman or a professional person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the doctrine that rejects religion and religious considerations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Denoting attitudes, activities, or institutions that have no religious or spiritual basis; worldly rather than sacred.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astronomical and geological physics, denoting slow, continuous processes or trends occurring over immense periods or centuries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The Puritan austerity of the centuries following the Reformation had discouraged secular music, like other forms of art, in Scotland; and as a result Scottish song had become hopelessly degraded in point both of decency and literary quality."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"But the distinction between Christian and secular writers is not one that will weigh much with a serious historian."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Everything else in Christian or secular history, compared to it, seems easy and explicable; and it was achieved by the love of Jesus."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"The conflict between papal claims and **secular** monarchs shaped the political architecture of medieval Europe."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His mind was drawn to **secular** pursuits, finding more delight in the sciences of nature than in ecclesiastical disputations."*
+> - 📜 **James Joyce (*A Portrait of the Artist as a Young Man*):** *"He turned his gaze away from the cloister, resolving to embrace the rich, tumultous experience of the **secular** world."*

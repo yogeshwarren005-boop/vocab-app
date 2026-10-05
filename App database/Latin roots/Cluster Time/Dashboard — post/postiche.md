@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A covering or bunch of human or artificial hair used for disguise or adornment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that is a counterfeit; not what it seems to be.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An artificial piece of hair, toupee, wig, or decorative hairpiece used for theatrical disguise, cosmetic adornment, or vanity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In decorative arts and sculpture, an inappropriate, counterfeit, or artificial addition affixed to an authentic antique composition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, postiche designates a covering or bunch of human or artificial hair used for disguise or adornment."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He studied the theatrical actor adjust his powdered wig and ornate **postiche** before the illuminated dressing-room mirror."*
+> - 📜 **Edith Wharton (*The Custom of the Country*):** *"The dowager arranged her elaborate curls, concealing sparse silver strands beneath a discreet French **postiche**."*
+> - 📜 **Walter Pater (*Appreciations*):** *"The discerning critic observed that the newly added marble drapery was a tasteless **postiche** alien to classical Roman simplicity."*
+

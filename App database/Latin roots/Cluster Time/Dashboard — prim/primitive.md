@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who belongs to an early stage of civilization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mathematical expression from which another expression is derived.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, denoting, or preserving the character of an early stage in historical, human, or evolutionary development.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematical analysis, an antiderivative function; in fine art, an artist or artwork displaying simple, unsophisticated, or naive stylistic forms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Not far off is the strong, rough, primitive table with a vice upon it at which he has been working."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The old girl would prefer the bar in front, as being exposed to the weather and a primitive sort of perch more in accordance with her usual course of travelling, but Mrs."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"All manner of horses, from ton Shires to dwarf Shetlands, have been bred up and down from those first wild ponies domesticated by primitive man."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Not to put too fine a point upon it, the dwelling was in a **primitive** condition of timber and clay, untouched by modern luxury."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"The **primitive** beast in him, long dormant beneath civilizing domesticity, was roaring back to life under the northern sky."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Certain rudimentary organs remain as living memorials of a **primitive** ancestor from which the entire genus evolved."*

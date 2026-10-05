@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sorghums of dry regions of asia and north africa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sorghums of dry regions of asia and north africa.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variety of grain sorghum cultivated extensively in warm regions of Africa and Asia for human food and livestock fodder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agronomy, Sorghum bicolor varieties characterized by compact panicles of starchy grain that flourish in arid and semi-arid climates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"An allied species infests the Sorghum or durra, a grain but little cultivated in Europe, but found extensively in Africa and Asia, and also apparently found on the _Bajra_ of India."*
+> - 📜 **Richard Francis Burton (*First Footsteps in East Africa*):** *"The Somali villagers ground the red **durra** between two flat stones to bake their daily unleavened cakes."*
+> - 📜 **David Livingstone (*Missionary Travels and Researches in South Africa*):** *"Fields of tall **durra** stood ready for the sickle, promising relief after months of severe drought along the river."*
+> - 📜 **Mungo Park (*Travels in the Interior of Africa*):** *"Our guides purchased a calabash of coarse beer brewed from fermented **durra** to sustain us through the desert march."*

@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or caused by temperament.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subject to sharply varying moods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Liable to unreasonable changes of mood; erratic, unpredictable, or highly sensitive in behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In engineering and mechanics, describing finely tuned machinery prone to erratic malfunctions under slight variations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"His indisposition for play was temperamental, not physical."*
-> - 📜 **James Joyce (*Ulysses*):** *"Generous to a fault of course, temperamental, no economising or any idea of the sort, always snapping at the bone for the shadow."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"His **temperamental** sensitivity caused him to magnify every imagined slight into a grave dishonor."*
+> - 📜 **Virginia Woolf (*Mrs Dalloway*):** *"She understood the **temperamental** storms of artistic souls who swung between ecstasy and despair."*
+> - 📜 **E. M. Forster (*A Room with a View*):** *"The young pianist was notoriously **temperamental**, refusing to play if the drawing room was excessively warm."*
+

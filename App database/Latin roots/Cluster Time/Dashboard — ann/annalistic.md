@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to annals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to annals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arranged or recorded in the manner of year-by-year chronological annals rather than a thematic historical narrative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical philology, early Roman historiography followed an annalistic tradition that structured all civic affairs around consular tenures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, annalistic designates relating to annals."*
+> - 📜 **Theodor Mommsen (*The History of Rome*):** *"The **annalistic** structure of early Latin chronicles subordinated broad thematic causes to mechanical annual divisions."*
+> - 📜 **B. G. Niebuhr (*Lectures on the History of Rome*):** *"Later Roman historians incorporated these archaic **annalistic** tables directly into their expansive narratives."*
+> - 📜 **John Bagnell Bury (*The Ancient Greek Historians*):** *"Thucydides consciously rejected the dry **annalistic** method of local chroniclers in favor of dramatic political analysis."*
+

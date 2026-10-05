@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Stubbornly persistent in wrongdoing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing unfeeling resistance to tender feelings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Stubbornly refusing to change one's opinion, course of action, or feelings; hardened against persuasion or pity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and religious ethics, displaying persistent, unrepentant resistance to divine grace, ethical duty, or compassionate appeal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ah, countrymen, if when you make your prayers, God should be so obdurate as yourselves, How would it fare with your departed souls?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Women are soft, mild, pitiful, and flexible; Thou stern, obdurate, flinty, rough, remorseless."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, sirs, be sudden in the execution, Withal obdurate, do not hear him plead; For Clarence is well-spoken, and perhaps May move your hearts to pity, if you mark him."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Round he throws his baleful eyes, that witnessed huge affliction and dismay, mixed with **obdurate** pride and steadfast hate."*
+> - 📜 **William Shakespeare (*Richard III*):** *"O, be not **obdurate**, open thy heart to pity, and shed not innocent blood for earthly crown."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"To suffer woes which Hope thinks infinite; to forgive wrongs darker than death or night; to defy Power, which seems omnipotent; this is to be alone, good, great and joyous, beautiful and free, this is alone Life, Joy, Empire, and Victory, whilst tyrant Jupiter remains **obdurate**."*

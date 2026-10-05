@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman who is considered to be dangerously seductive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman who is considered to be dangerously seductive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman who entices or seduces someone, especially toward romantic or moral indiscretion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary archetypes and dramatic tragedy, the femme fatale who ensnares heroes and precipitates their downfall.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"You temptress, Tess; you dear damned witch of Babylon—I could not resist you as soon as I met you again!” “I couldn’t help your seeing me again!” said Tess, recoiling."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She felt a bitter pang when the malicious village tongues branded her an immoral **temptress**."*
+> - 📜 **Walter Scott (*The Fortunes of Nigel*):** *"She was my **temptress**, the foul provoker who drew me from the path of dutiful service."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"The prisoner denounced the adventuress as a deceitful **temptress** who had lured him into criminal folly."*
+

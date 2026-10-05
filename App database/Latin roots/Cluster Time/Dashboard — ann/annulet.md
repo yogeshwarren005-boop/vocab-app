@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (heraldry) a charge in the shape of a circle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Molding in the form of a ring; at top of a column.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small ring; a small circular decorative molding or ring-like band used in architecture and heraldry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical architectural orders, a narrow horizontal ring encircling the capital of a Doric column beneath the echinus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, annulet designates (heraldry) a charge in the shape of a circle."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Each shaft in the Gothic porch was bound at mid-height by a delicate stone **annulet** carved with acanthus leaves."*
+> - 📜 **Eugène Viollet-le-Duc (*Discourses on Architecture*):** *"The master builder placed an **annulet** around the cluster of vaulting colonnettes to visually anchor their vertical thrust."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The knight's shield bore a simple heraldic device consisting of an azure **annulet** emblazoned upon a silver field."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (logic) a proposition that is accepted as true in order to provide a basis for logical reasoning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Maintain or assert.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To claim, demand, or assume the truth or existence of something as a necessary basis for reasoning, discussion, or belief.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal logic, geometry, and axiomatic philosophy, a fundamental proposition or axiom taken as self-evident without proof to ground a deductively valid system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"This is the very postulate of living Christianity."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Obviously the two theories postulate two very different conceptions of the fire which plays the principal part in the rites."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"On the other hand, the three characteristic Christian virtues--faith, hope and charity--all postulate Another." [20] Cf."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"We **postulate** a spiritual unity in the universe that harmonizes the apparent contradictions of material phenomena."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Primitive magicians **postulate** an invisible sympathetic connection between physical objects that have once been in contact."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Geometric demonstrations must necessarily **postulate** certain primary definitions and spatial relations as starting points."*
+

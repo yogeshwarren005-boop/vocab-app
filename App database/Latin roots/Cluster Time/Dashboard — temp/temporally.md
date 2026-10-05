@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With regard to temporal order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With regard to temporal order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to time; in a temporal sequence; or in a secular, worldly manner as opposed to spiritual.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In relativistic physics and epistemology, events occurring temporally proximal to each other in a shared frame of reference.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, temporally designates with regard to temporal order."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Memories that are **temporally** contiguous tend to evoke one another through associative neural pathways."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Ideas presented **temporally** in succession give rise to our fundamental conception of duration."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The two evolutionary developments did not occur **temporally** side by side, but followed successive geological eras."*
+

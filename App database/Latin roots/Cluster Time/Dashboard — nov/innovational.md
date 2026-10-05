@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being or producing something like nothing done or experienced or created before.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or producing something like nothing done or experienced or created before.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, fostering, or characteristic of new methods, transformative ideas, or technical innovation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contemporary industrial economics, describing processes, policies, or organizational cultures that generate novel intellectual property and technical advancements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, innovational designates being or producing something like nothing done or experienced or created before."*
+> - 📜 **Joseph Schumpeter (*The Theory of Economic Development*):** *"The **innovational** impulse of energetic entrepreneurs disturbs the circular flow of static markets, driving economic expansion."*
+> - 📜 **Alfred Marshall (*Industry and Trade*):** *"Progressive manufacturing firms invest continuously in **innovational** designs to maintain their competitive advantage in global commerce."*
+> - 📜 **Thorstein Veblen (*The Place of Science in Modern Civilisation*):** *"Technological evolution is propelled by cumulative **innovational** adaptations arising from industrial workshop experience."*

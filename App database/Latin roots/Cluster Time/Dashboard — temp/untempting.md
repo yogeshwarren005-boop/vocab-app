@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not tempting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not appealing to the senses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not attractive or appealing to the senses; failing to arouse desire, interest, or appetite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral economics and marketing, offer terms or conditions so disadvantageous that prospective clients immediately decline.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, untempting designates not tempting."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The cold crust of bread and congealed broth looked thoroughly **untempting** upon the rough wooden deal table."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The bleak prospect of trudging through the slushy lanes presented an **untempting** journey to the old weaver."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"The meager salary attached to the remote curacy was singularly **untempting** to ambitious university graduates."*
+

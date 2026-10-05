@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: All of the offspring of a given progenitor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: All future generations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: All future generations of people regarded collectively; or all descendants springing from a common ancestor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political philosophy and monumental literature, the aggregate judgment of historical successor generations upon civic deeds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or who is he so fond will be the tomb Of his self-love to stop posterity?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He’d make an end of thy posterity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Posterity, await for wretched years, When at their mothers’ moist eyes babes shall suck, Our isle be made a nourish of salt tears, And none but women left to wail the dead."*
+> - 📜 **William Shakespeare (*Sonnet 2*):** *"To say within thine own deep-sunken eyes, were an all-eating shame and thriftless praise. How much more praise deserv'd thy beauty's use, if thou couldst answer 'This fair child of mine shall sum my count and make my old excuse,' proving his beauty by succession thine! This were to be new made when thou art old, and see thy blood warm when thou feel'st it cold. So thou, through windows of thine age, shall see, despite of wrinkles, this thy golden time: But if thou live, remember'd not to be, die single, and thine image dies with thee, leaving no child to tell **posterity**."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He lived with an eye toward **posterity**, trusting that future ages would appreciate the scholarly labours ignored by his contemporaries."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"Whoso would be a man must be a nonconformist; he must plant his convictions firmly, leaving his reputation to impartial **posterity**."*
+

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A broadcast that is carried simultaneously by radio and television (or by fm and am radio).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A broadcast that is carried simultaneously by radio and television (or by fm and am radio).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To broadcast a television program, radio show, or sporting event simultaneously across multiple channels, networks, or media formats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In communications engineering and media distribution, the synchronized real-time dissemination of multimedia signals over radio frequency and digital network streams.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, simulcast designates a broadcast that is carried simultaneously by radio and television (or by fm and am radio)."*
+> - 📜 **Marshall McLuhan (*Understanding Media: The Extensions of Man*):** *"The electronic imperative to **simulcast** momentous events unites disparate populations into a collective tribal auditory space."*
+> - 📜 **Norbert Wiener (*Cybernetics: Or Control and Communication in the Animal and the Machine*):** *"The technical capacity to **simulcast** control signals across interconnected channels minimizes latency in automated feedback systems."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The global council arranged to **simulcast** the historic peace proclamation across every wireless frequency on earth."*

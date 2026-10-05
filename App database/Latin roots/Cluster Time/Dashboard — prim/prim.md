@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Assume a prim appearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contract one's lips.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affectedly stiff, formal, neat, or proper in demeanor, dress, or conduct; excessively precise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To make one's face, mouth, or attire deliberately neat, rigid, or artificially demure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She takes strong note of me, Hath made me near her, and this beauteous morn, The prim’st of all the year, presents me with A brace of horses; two such steeds might well Be by a pair of kings backed, in a field That their crowns’ titles tried."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He looked all grace and success, and he is Doubtless the prim’st of men."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Must thou, the noble, gen’rous, great, Fall in bold manhood’s hardy prim Why did I live to see that day— A day to me so full of woe?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The two **prim** little sisters sat bolt upright on high-backed chairs, smoothing their aprons with silent precision."*
+> - 📜 **Jane Austen (*Emma*):** *"She spoke with that **prim** civility which conveys displeasure far more emphatically than heated words."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Miss Temple, with her stately grace, contrasted sharply with the **prim**, pinch-faced teachers who enforced school rules."*

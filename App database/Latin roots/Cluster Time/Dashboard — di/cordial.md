@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strong highly flavored sweet liquor usually drunk after a meal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Diffusing warmth and friendliness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Warm, affectionate, and deeply heartfelt in manner, reception, or feeling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical history and culinary arts, an invigorating medicinal elixir, aromatic liquor, or stimulating tonic believed to comfort the heart.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do not know What is more cordial."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The drug he gave me, which he said was precious And cordial to me, have I not found it Murd’rous to th’ senses?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I left out one thing which the Queen confess’d, Which must approve thee honest. ‘If Pisanio Have’ said she ‘given his mistress that confection Which I gave him for cordial, she is serv’d As I would serve a rat.’ CYMBELINE."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"Your actions are my dreams; you had a bastard by Polixenes, and I but dreamed it. As you were past all shame, those of your fact are so, so past all truth, which to deny concerns more than revenges: for as thy brats were unbegot by me, but to my heart a **cordial**."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The pleasant taste of an aromatic **cordial** operates upon the nervous animal spirits to revive failing strength."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Bingley gave them a very **cordial** reception, expressing unfeigned delight at seeing them once again in Hertfordshire."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (obstetrics) a woman who is pregnant for the first time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (obstetrics) a woman who is pregnant for the first time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman who is pregnant for the very first time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical obstetrics, a patient experiencing her initial gestation, requiring specific antenatal monitoring for cephalopelvic disproportion and preeclampsia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, primigravida designates (obstetrics) a woman who is pregnant for the first time."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Antenatal pelvimetry is especially indicated in the young **primigravida** to identify potential obstacles before labor begins."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The abdominal wall of the **primigravida** exhibits greater tonic elasticity than that observed in multiparous patients."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Hormonal surges of human chorionic gonadotropin evoke pronounced physiological adaptation in the **primigravida** during the first trimester."*

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that seduces or has the quality to seduce.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The desire to have or do something that you know you should avoid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The desire to do something, especially something wrong or unwise; or an attractive thing enticing one to act.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ascetical theology, spiritual trials permitted by providence to purify human fidelity and test moral perseverance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For I am that way going to temptation, Where prayers cross."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Most dangerous Is that temptation that doth goad us on To sin in loving virtue."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, for fear of the worst, I pray thee set a deep glass of Rhenish wine on the contrary casket, for if the devil be within and that temptation without, I know he will choose it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Those pretty wrongs that liberty commits, when I am sometime absent from thy heart, thy beauty, and thy years full well befits, for still **temptation** follows where thou art."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba paused, as if about to refuse a reply, but the **temptation** to say yes was irresistible."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"It may be objected, that many who are capable of the higher pleasures, occasionally, under the influence of **temptation**, postpone them to the lower."*
+

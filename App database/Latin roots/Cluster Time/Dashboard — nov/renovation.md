@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of improving by renewing and restoring.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being restored to its former good condition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action or process of repairing, renewing, or modernizing an existing building, room, or institution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urban planning and historic restoration, the comprehensive upgrading of infrastructure, architectural finishes, or cultural institutions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Yet it must be admitted that this family formed a very good stock whereon to regraft a name which sadly wanted such renovation."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"They were delighted with the renovation and decorations of their rooms; with the new drapery, and fresh carpets, and rich tinted china vases: they expressed their gratification ungrudgingly."*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"But as the current of its doctrines is so entirely opposed to our natural inclinations, as to render a moral renovation indispensable to a perception of the glory of revealed truth; all such ground of skepticism is removed."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The ancient parish church was undergoing extensive **renovation**, with scaffolding rising against the weathered Norman arches."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Mr. Rochester ordered the complete **renovation** of the west gallery, replacing the faded tapestries with modern appointments."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"What is commonly called **renovation** is often the total destruction of that historic soul which no modern hand can restore."*

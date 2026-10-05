@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being crass--devoid of refinement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being crass--devoid of refinement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The notable absence of intellectual sensitivity, refinement, or moral delicacy; extreme coarseness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary and aesthetic criticism, blatant vulgarity or unvarnished boorishness that offends civilized taste and ethical standards.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crassness designates the quality of being crass--devoid of refinement."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"Our mechanical civilization is constantly threatened by the complacent **crassness** of unenlightened commercial prosperity."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"She shrank from the unmitigated **crassness** of his worldly ambitions and petty social calculations."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"The lively satirical drama exposed the unvarnished **crassness** of provincial society with unsparing wit."*

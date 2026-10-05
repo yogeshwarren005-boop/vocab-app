@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like a ring.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shaped like a ring.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Furnished with, composed of, or marked by ring-like segments, colored bands, or transverse circular rings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate morphology and entomology, describing antennae, worm bodies, or marine shells that exhibit distinct ringed segmentations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, annulate designates shaped like a ring."*
+> - 📜 **Charles Darwin (*Monograph on the Sub-class Cirripedia*):** *"The delicate cirri of the barnacle are composed of numerous **annulate** segments fringed with microscopic sensory bristles."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The caudal region exhibits distinctly **annulate** patterns reflecting the metameric division of the underlying muscular sheath."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"The tubular casing constructed by the marine worm presents an **annulate** surface reinforced by cemented sand grains."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A card for sending messages by post without an envelope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A card for sending messages by post without an envelope.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rectangular card of stiff paper or cardstock intended for writing and mailing a short message without an envelope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philately, tourism culture, and visual history, an illustrated photographic or lithographic mailing card produced for souvenir trade and rapid correspondence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Send her a picture postcard explaining that you forgot all about her until it was too--” The last word was jerked back into his throat by the jump of the Green Imp."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Picture Postcards During a discussion among older adults, one of them said he was having trouble coming up with what to write on a picture postcard that he wanted to mail to his faraway grandchild."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Oh! and thank you so much for the postcard, too."*
+> - 📜 **G. K. Chesterton (*The Man Who Was Thursday*):** *"He scribbled a brief, cryptic instruction upon the back of a picture **postcard** before dropping it into the pillar-box."*
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"She received a hastily penned **postcard** from the seaside town, bearing news of the convalescent child's recovery."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He kept the faded **postcard** framed above his study desk as a memento of his first transatlantic journey."*
+

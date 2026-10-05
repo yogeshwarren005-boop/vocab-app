@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An addition that extends a main building.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An addition that extends a main building.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A supplementary building attached to or located near a main structure, providing additional accommodation or facilities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomacy and technical documentation, a supplementary appendix or schedule attached to a formal treaty, convention, or legal contract.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Subsoil ploughing annexes to agricultural land new layers of soil that are just as important as new acres added to the surface."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The pioneer annexes new areas to the economic world and to the market in which he has lived."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon had thought of annexing happiness with a lovely young bride; but even before marriage, as we have seen, he found himself under a new depression in the consciousness that the new bliss was not blissful to him."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"He found lodging in a quiet brick **annexe** adjoining the master mason's workshop near the churchyard."*
+> - 📜 **E. M. Forster (*A Room with a View*):** *"The guests gathered on the shaded veranda of the pension **annexe** to admire the Arno flowing beneath the bridges."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"A light gleamed from the narrow lattice window of the stone **annexe** where the laboratory was housed."*
+

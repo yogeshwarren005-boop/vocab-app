@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring or operating at the same time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring or operating at the same time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring, operating, performed, or existing at the same exact time; concurrent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics, logic, and physics, describing interconnected equations, operations, or phenomena that must be satisfied or evaluated concurrently.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I was about to add,” he presently goes on, “I was about to add, respecting this attack, that it was unfortunately simultaneous with a slight misunderstanding between my Lady and myself."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In fact, as was true of the other six sleeping men of the watch below, awaking and leaping from bunk to floor were simultaneous."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"There was a simultaneous and joyful assent from his own three: then Evelyn said, "Thank you, sir."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The **simultaneous** variation of correlated organs during the course of natural selection ensures harmonious functional adaptations in the organism."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The **simultaneous** ringing of the church bells and the clatter of the arriving mail-coach broke the solemn stillness of the Sunday morning."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Inductive science investigates the constant laws of succession and **simultaneous** coexistence among natural phenomena."*

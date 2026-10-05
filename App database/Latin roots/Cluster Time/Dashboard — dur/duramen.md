@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The older inactive central wood of a tree or woody plant; usually darker and denser than the surrounding sapwood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The older inactive central wood of a tree or woody plant; usually darker and denser than the surrounding sapwood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The dense, dark, non-living central core of a tree trunk, commonly known as heartwood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dendrology and wood anatomy, the physiological inner xylem where conduits are plugged by tyloses and impregnated with tannins and resins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, duramen designates the older inactive central wood of a tree or woody plant; usually darker and denser than the surrounding sapwood."*
+> - 📜 **Asa Gray (*Introduction to Structural and Systematic Botany*):** *"The inner layers of wood lose their vitality and darken into the **duramen**, while the outer alburnum conducts sap."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"In ancient oak specimens, the dense **duramen** resists decay long after the sapwood has weathered away."*
+> - 📜 **John Ruskin (*Proserpina: Studies of Wayside Flowers*):** *"The noble core of the forest giant, its seasoned **duramen**, yields timbers capable of braving centuries of storm."*

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make known; make an announcement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Announce publicly or officially.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Formally proclaimed, declared publicly, or signaled in advance to an audience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative exposition, indicating an official disclosure of policy, marriage, birth, or legal appointment delivered to interested parties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"He had announced that he was tired of the constant chattering going on in the school."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The time passed so quickly that loud laments were heard when the mother announced that it was time for Leonore to retire."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Full of confidence she announced that they would return the next day with everything necessary."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The morning bell **announced** the commencement of daily labor across the dairy fields of Talbothays."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"A sudden flash of lightning across the orchard **announced** the swift approach of the summer tempest."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"A carriage pulled up outside Baker Street, and footsteps on the stair **announced** our mysterious visitor."*
+

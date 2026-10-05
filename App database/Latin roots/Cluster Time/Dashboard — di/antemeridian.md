@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Before noon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Before noon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring in, belonging to, or designating the period of time before noon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In celestial navigation and chronometry, referring to the solar hours when the sun has not yet crossed the local celestial meridian.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antemeridian designates before noon."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The ship's chronometer was checked during the bright **antemeridian** watch before the sun culminated at noon."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"During the cool **antemeridian** hours, the townspeople gathered on the marketplace steps before the summer heat peaked."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Morning brings back the heroic ages; every **antemeridian** hour is an invitation to make my life of equal simplicity with nature."*

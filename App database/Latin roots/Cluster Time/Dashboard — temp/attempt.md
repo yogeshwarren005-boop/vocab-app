@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Earnest and conscientious activity intended to do or accomplish something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of attacking.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make an effort to achieve, perform, or accomplish something difficult or perilous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In criminal jurisprudence, an overt act performed with specific intent to commit a crime beyond mere preparation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll stay at home, And pray God’s blessing into thy attempt."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know not what the success will be, my lord, but the attempt I vow."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We pray you for your own sake to embrace your own safety and give over this attempt."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I'll stay at home, and pray God's blessing into thy **attempt**."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak cast his eyes down the field in a way implying that it was useless to **attempt** argument."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"Yet they seldom **attempt** to make out a list of the a priori principles which are to serve as the premises."*
+

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Originality by virtue of introducing new ideas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Originality by virtue of introducing new ideas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The inherent quality, capacity, or tendency to introduce creative novelties and inventive solutions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organizational sociology, the measurable propensity of an institution, team, or culture to adopt and assimilate pioneering practices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, innovativeness designates originality by virtue of introducing new ideas."*
+> - 📜 **Thorstein Veblen (*The Instinct of Workmanship*):** *"Human craftsmanship displays an innate **innovativeness** that continually refines mechanical implements across prehistoric eras."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Social advancement correlates with the degree of intellectual **innovativeness** tolerated by the governing civil authority."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"Democratic education must cultivate an alert **innovativeness** rather than passive acquiescence in traditional routines."*

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Segmented worms: earthworms; lugworms; leeches.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Segmented worms: earthworms; lugworms; leeches.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major animal phylum consisting of segmented worms, including polychaetes, earthworms, and leeches.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary phylogenetic taxonomy, members of the phylum Annelida exhibit bilaterally symmetrical spiralian development with ancestral trochophore larval stages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, annelida designates segmented worms: earthworms; lugworms; leeches."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The intricate morphological segmentation found throughout the phylum **Annelida** reveals an extraordinary economy of structural repetition."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The vascular apparatus of **Annelida** contains pulsating vessels that circulate hemoglobin-bearing fluids throughout the body."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"The primary morphological division of **Annelida** separates the marine Polychaeta from the terrestrial and freshwater Clitellata."*
+

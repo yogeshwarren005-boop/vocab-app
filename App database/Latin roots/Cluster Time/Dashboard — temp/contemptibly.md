@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner deserving contempt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner deserving contempt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that excites or thoroughly deserves scorn, disdain, or mean reprobation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral critique, acting with such petty malice or cowardice as to degrade personal dignity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He liked saying “Bathsheba” as a private enjoyment instead of whistling; turned over his taste to black hair, though he had sworn by brown ever since he was a boy, isolated himself till the space he filled in the public eye was contemptibly small."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The disturbance was as the first floating weed to Columbus—the contemptibly little suggesting possibilities of the infinitely great."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Many of these practices were baldly dishonest, many of them were contemptibly mean."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He isolated himself till the space he filled in the public eye was **contemptibly** small."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Sometimes he was **contemptibly** childish."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"In common life we esteem but meanly and **contemptibly** a fellow who anoints his hair, and palpably smells of that anointing."*
+

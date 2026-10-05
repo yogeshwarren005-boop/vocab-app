@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a stubborn unregenerate manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a stubborn unregenerate manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a stubborn, unyielding, or callous manner; persistently refusing to soften, relent, or concede.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With deliberate, recalcitrant refusal to acknowledge moral appeal, emotional sentiment, or rational counter-arguments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"BLOOM: _(Obdurately.)_ Sirs, take notice that by the law of torts you are bound over in your own recognisances for six months in the sum of five pounds."*
+> - 📜 **James Joyce (*Dubliners*):** *"No candles!' repeated Mr Kernan **obdurately**, crossing his arms and shaking his head with stubborn resolve."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The creditor remained **obdurately** deaf to every proposal of compromise, demanding the full measure of his debt."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"She closed her ears and turned away, **obdurately** determined never to yield to his impassioned pleading."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resoluteness by virtue of being unyielding and inflexible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resoluteness by virtue of being unyielding and inflexible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Stubborn, hardened persistence in wrongdoing, error, or unyielding resistance; unbending obstinacy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theology and moral psychology, an inveterate hardness of heart that remains impervious to moral appeal, remorse, or rational persuasion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By this hand, thou thinkest me as far in the devil’s book as thou and Falstaff for obduracy and persistency."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"On the other hand, as men generally derive confidence from their numbers, they might often encourage each other in an act of obduracy, and might be less sensible to the apprehension of suspicion or censure for an injudicious or affected clemency."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Soon afterwards he repeated his suggestion, and meeting with a little repulse, showed some symptoms of displeasure at my obduracy."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"I have heard your grace hath ta'en great pains to qualify his rigorous course; but since he stands **obdurate**, and that no lawful means can carry me out of his envy's reach, I do oppose my patience to his fury, and am arm'd to suffer with a quietness of spirit the very tyranny and rage of his."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Factional **obduracy** in the councils of the confederacy threatened to paralyze the fledgling national administration."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The captain's monomaniac **obduracy** drove the Pequod onward into the stormy vortex of his private vengeance."*

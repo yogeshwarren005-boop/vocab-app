@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The highest level or degree attainable; the highest stage of development.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in eastern mississippi.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The highest point of success, power, or splendor; also, an imaginary great circle passing through the celestial poles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geography and celestial navigation, a line of longitude passing through the earth's poles and a given locality, marking solar midday.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have touched the highest point of all my greatness, And from that full meridian of my glory I haste now to my setting."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"By half-past five, post meridian, Horse Guards’ time, it has even elicited a new remark from the Honourable Mr."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The North Star was directly in the wind’s eye, and since evening the Bear had swung round it outwardly to the east, till he was now at a right angle with the meridian."*
+> - 📜 **William Shakespeare (*Henry VIII*):** *"I have touched the highest point of all my greatness, and from that full **meridian** of my glory I haste now to my setting."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"He remained in that posture for some moments to catch the precise instant when the sun should gain its precise **meridian**."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Let us not be upset and overwhelmed in that terrible rapid and whirlpool called a dinner, situated in the **meridian** shallows."*

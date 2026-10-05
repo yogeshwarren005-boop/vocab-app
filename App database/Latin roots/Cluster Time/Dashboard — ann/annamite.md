@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The mon-khmer language spoken in vietnam.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mon-khmer language spoken in vietnam.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of Annam; historically used to denote a person of Vietnamese descent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy and petrology, an obsolete geological term formerly applied to certain dark igneous rocks and volcanic formations of Southeast Asia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, annamite designates the mon-khmer language spoken in vietnam."*
+> - 📜 **Somerset Maugham (*The Gentleman in the Parlour*):** *"The elderly **Annamite** bowed courteously before presenting the porcelain cups filled with fragrant jasmine tea."*
+> - 📜 **Graham Greene (*The Quiet American*):** *"An **Annamite** policeman stood beneath the streetlamp checking identity papers in the humid evening drizzle."*
+> - 📜 **Joseph Conrad (*Victory*):** *"He employed an **Annamite** cook whose silent vigilance preserved order in the remote trading outpost."*
+

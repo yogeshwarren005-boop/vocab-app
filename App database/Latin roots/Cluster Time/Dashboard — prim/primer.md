@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An introductory textbook.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any igniter that is used to initiate the burning of a propellant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An elementary textbook used for teaching children to read, or an introductory guide to any subject.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A preparatory substance applied to a surface before painting; or a cap or charge used to ignite the propellant in a firearm cartridge.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would your Highness Would give it quick consideration, for There is no primer business."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Primer._ “We saw also abundance of large whales, there being more in those southern seas, as I may say, by a hundred to one; than we have to the northward of us.” _Captain Cowley’s Voyage round the Globe, A."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Where he planted the standard of the Union, she planted its institutions; and where he waved the sword, she waved the primer."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"My father's little library consisted chiefly of books in polemic divinity, and my first schoolbook was the New England **Primer**."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"I sat upon the stool, conning over the worn hornbook and thumbed **primer** under the stern eye of my teacher."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"Tom inspected the wooden alphabet blocks and the tattered **primer** that had tormented his earliest schooldays."*

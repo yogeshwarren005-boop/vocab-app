@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The worldly possessions of a church.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The worldly possessions of a church.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of existing within or having some relationship with time; or a church's worldly property and secular revenues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phenomenological ontology, temporality constitutes the subjective experience and internal flow of past, present, and projected future.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"According to Pope Nicholas’ taxation, the spiritualities of this monastery amounted in 1291 to the annual sum of £6. 4s. 4d.; the temporalities to £47. 17s. 2d.; making a total of £54. 1s. 6d."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"The resemblance between such a Tulchan and a Bishop named to transmit the temporalities of a benefice to some powerful patron, is easily understood.] 62 (return) [ Bannatyne’s Journal.]"*
+> - 📜 **Thomas Aquinas (*Summa Theologiae*):** *"Eternal existence transcends the fleeting bounds of mortal **temporality** and worldly succession."*
+> - 📜 **Thomas More (*Utopia*):** *"The disputes between the spiritual hierarchy and the secular **temporality** provoked serious civil discord."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Man's earthly existence is bound to fragile **temporality**, while divine wisdom endures uncorrupted."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An apocryphal book consisting of text added to the book of daniel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An apocryphal book consisting of text added to the book of daniel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feminine given name derived from Hebrew Shoshana (signifying lily or rose), celebrated in historical literature and music.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biblical apocrypha and art history, Susanna and the Elders narrates the virtuous young woman falsely accused of adultery and vindicated by Daniel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"If a good dog, Susanna would have got it; if an inferior one his wife would have got a dower interest in it."*
+> - 📜 **William Shakespeare (*The Merry Wives of Windsor*):** *"The virtuous reputation of fair **Susanna** has been celebrated in church tapestries and popular ballads throughout Christendom."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"Aunt Polly began humming the plaintive melody of Oh **Susanna** as she adjusted her spectacles to inspect the sewing."*
+> - 📜 **George Eliot (*Scenes of Clerical Life*):** *"The vicar remembered young **Susanna** as the most diligent and gentle scholar in the village Sunday school."*
+

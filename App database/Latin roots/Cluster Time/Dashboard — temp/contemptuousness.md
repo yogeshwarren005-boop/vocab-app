@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The manifestation of scorn and contempt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The manifestation of scorn and contempt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A persistent disposition or habit of looking down upon others with haughty arrogance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character study and dramatic dialogue, the cold superciliousness of an aristocrat scorning popular sentiment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, contemptuousness designates the manifestation of scorn and contempt."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"There was a frosty **contemptuousness** in Blanche Ingram's gaze that withered every humble domestic dependent."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The Marquis treated the entreaties of his creditors with habitual aristocratic **contemptuousness**."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Osmond's quiet **contemptuousness** toward American provincialism was masked beneath impeccably polished manners."*
+

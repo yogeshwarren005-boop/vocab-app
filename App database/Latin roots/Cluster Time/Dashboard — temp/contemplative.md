@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person devoted to the contemplative life.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deeply or seriously thoughtful.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing, involving, or given to prolonged and serious meditation or reflective thought.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical classification, designating religious orders whose primary vocation is prayer, silence, and enclosure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Navarre shall be the wonder of the world; Our court shall be a little academe, Still and contemplative in living art."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Malvolio’s coming down this walk; he has been yonder i’ the sun practising behaviour to his own shadow this half hour: observe him, for the love of mockery; for I know this letter will make a contemplative idiot of him."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby, law-stationer of Cook’s Court, Cursitor Street, is sensible of the influence not only in his mind as a sympathetic and contemplative man, but also in his business as a law-stationer aforesaid."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That fools should be so deep-**contemplative**, and I did laugh sans intermission an hour by his dial."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Nevertheless, though the novel was intended to be neither didactic nor aggressive, in the **contemplative** parts it was oftener charged with impressions than with convictions."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Cadwallader's errand could not be despatched in the presence of grooms, so she asked to be taken into the conservatory close by, and on coming to a **contemplative** stand, she spoke."*
+

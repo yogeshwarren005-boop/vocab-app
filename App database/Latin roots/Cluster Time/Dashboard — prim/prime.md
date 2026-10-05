@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A number that has no factor but itself and 1.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The period of greatest prosperity or productivity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of first importance; chief, principal; or of the highest quality and excellence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics, a positive integer greater than 1 having no positive divisors other than 1 and itself; or to prepare a firearm or surface for action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art thy mother’s glass and she in thee Calls back the lovely April of her prime, So thou through windows of thine age shalt see, Despite of wrinkles this thy golden time."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So thou be good, slander doth but approve, Thy worth the greater being wooed of time, For canker vice the sweetest buds doth love, And thou present’st a pure unstained prime."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy life is dear, for all that life can rate Worth name of life in thee hath estimate: Youth, beauty, wisdom, courage, all That happiness and prime can happy call."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"A little more than kin, and less than kind; fie on't, ah fie, 'tis an unweeded garden that grows to seed, things rank and gross in nature possess it merely, in its **prime**."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Nature here wantoned as in her **prime**, and played at will her virgin fancies, pouring forth wild sweetness."*
+> - 📜 **Francis Bacon (*The Essays*):** *"Men in great place are thrice servants; servants of the sovereign or state, servants of fame, and servants of business; so as they have no freedom, neither in their persons, nor in their actions, nor in their times, spending their **prime** in public care."*

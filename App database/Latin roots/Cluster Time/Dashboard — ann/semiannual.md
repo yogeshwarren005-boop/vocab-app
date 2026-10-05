@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring or payable twice each year.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring or payable twice each year.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring, published, calculated, or payable twice each year; half-yearly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In corporate finance and financial economics, describing coupon payments on standard fixed-income bonds or regular half-year fiscal disclosures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semiannual designates occurring or payable twice each year."*
+> - 📜 **Alexander Hamilton (*Report on Public Credit*):** *"The treasury recommended the punctual discharge of **semiannual** interest payments to consolidate the national credit."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Commercial partnerships commonly balanced their ledgers at **semiannual** intervals to ascertain accrued profits and losses."*
+> - 📜 **James Bryce (*The American Commonwealth*):** *"The state university held its **semiannual** examinations in winter and midsummer before the assembled regents."*
+

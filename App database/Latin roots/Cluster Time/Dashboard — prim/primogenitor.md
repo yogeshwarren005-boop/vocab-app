@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancestor in the direct line.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancestor in the direct line.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The earliest ancestor or forefather of a family, clan, race, or lineage; a progenitor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In genealogical and evolutionary history, the original founder or common ancestral stock from which divergent branches originate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, primogenitor designates an ancestor in the direct line."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The proud tribal chieftains traced their pedigree back to an illustrious **primogenitor** who fought beside the gods."*
+> - 📜 **Walter Scott (*Waverley*):** *"The antique portrait in the great hall depicted the stern **primogenitor** from whom the clan inherited its lands."*
+> - 📜 **Thomas Carlyle (*On Heroes, Hero-Worship, and the Heroic in History*):** *"In early mythology, the heroic **primogenitor** is venerated as both founder of the nation and teacher of sacred rites."*

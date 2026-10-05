@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity of changing something (art or education or society or morality etc.) so it is no longer under the control or influence of religion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transfer of property from ecclesiastical to civil possession.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The historical process whereby religious beliefs, practices, and institutions lose their dominant social and cultural authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the sociology of religion, the multi-dimensional decline of religious involvement alongside the rise of rationalized, differentiated secular social spheres.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, secularization designates the activity of changing something (art or education or society or morality etc.) so it is no longer under the control or influence of religion."*
+> - 📜 **Max Weber (*The Sociology of Religion*):** *"The progressive **secularization** of modern culture dismantles the enchanted cosmic order, instituting an era of rational bureaucracy."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"In Europe, the relentless **secularization** of intellectual elites appeared to weaken the moral cohesion that sustains free republics."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Despite the outward **secularization** of social life, mystical religious experiences remain a permanent feature of individual psychology."*

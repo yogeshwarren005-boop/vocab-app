@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: For a limited time only; not permanently.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: For a limited time only; not permanently.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: For a limited period of time only; not permanently or enduringly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contract law, provisional relief or interlocutory injunctions granted temporarily pending full adjudication.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But the details of his aspect were temporarily thrust aside by the discovery that he was one whom she had seen before."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"How you surprise us!” “She is at her mother’s—temporarily."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Reason had had nothing to do with his whimsical conversion, which was perhaps the mere freak of a careless man in search of a new sensation, and temporarily impressed by his mother’s death."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She had dreaded him, winced before him, then, **temporarily** blinded by his ardent manners, had been stirred to confused surrender awhile."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"No one supposes that the fertility of these animals or plants has been suddenly and **temporarily** increased in any sensible degree."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Fred had a hundred and thirty-five pounds towards meeting the bill, so that the deficit **temporarily** thrown on Mr. Garth was small."*
+

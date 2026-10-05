@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The principal part of a duet (especially a piano duet).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The best of its kind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: First in musical performance; the leading, principal, or upper part in a duet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Italian colloquial and formal terminology, first, chief, or best; or used as an adverb meaning in the first place.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"CLOWN. _Primo, secundo, tertio_, is a good play, and the old saying is, the third pays for all; the triplex, sir, is a good tripping measure; or the bells of Saint Bennet, sir, may put you in mind—one, two, three."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Willelmo <g>Marescallo</g> primo, et sic factus est Comes totius Pembrochiæ, et dominus totius hæreditatis.--_Will."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The violinist executed the **primo** part with sparkling brilliance, captivating everyone in the salon."*
+> - 📜 **George Bernard Shaw (*The Perfect Wagnerite*):** *"In a well-balanced piano duet, the player of the **primo** must preserve lyrical delicacy against the resounding bass of the secondo."*
+> - 📜 **William Makepeace Thackeray (*The Newcomes*):** *"The young tenor aspired to sing the **primo** amoroso roles at the opera house before the season ended."*

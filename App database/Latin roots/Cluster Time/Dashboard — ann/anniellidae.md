@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Legless lizards.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Legless lizards.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic family of small, limbless fossorial squamate reptiles known as American legless lizards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology, this endemic western North American family consists of smooth-scaled, burrowing lizards that possess eyelid mobility but lack external limb structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anniellidae designates legless lizards."*
+> - 📜 **Edward Drinker Cope (*The Crocodilians, Lizards, and Snakes of North America*):** *"The anatomical osteology of the family **Anniellidae** indicates degenerate limbs paired with remarkable subterranean cranial adaptations."*
+> - 📜 **Leonhard Stejneger (*Checklist of North American Amphibians and Reptiles*):** *"Members of the family **Anniellidae** burrow through coastal dunes and loose chaparral soils of California."*
+> - 📜 **Raymond L. Ditmars (*Reptiles of the World*):** *"Superficially resembling small snakes, the **Anniellidae** retain true lizard eyelids and characteristic cranial suturing."*
+

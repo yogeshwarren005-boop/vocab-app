@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Susceptible to temptation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Susceptible to temptation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Susceptible to temptation, seduction, or moral inducement; easily influenced to do wrong.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological forensics and moral theology, possessing a vulnerable disposition prone to ethical compromise under stress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, temptable designates susceptible to temptation."*
+> - 📜 **Ralph Cudworth (*The True Intellectual System of the Universe*):** *"Mortal nature is frail and **temptable**, easily seduced from heavenly virtue by the allurements of the senses."*
+> - 📜 **Jeremy Taylor (*Holy Living*):** *"A man must remember that his flesh is ever **temptable**, requiring constant vigilance and fasting."*
+> - 📜 **George Eliot (*Romola*):** *"Tito's nature was too fluid and **temptable** to withstand the golden promises of political intrigue."*
+

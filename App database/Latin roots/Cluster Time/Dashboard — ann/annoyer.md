@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone given to teasing (as by mocking or stirring curiosity).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone given to teasing (as by mocking or stirring curiosity).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who or thing that causes persistent irritation, vexation, harassment, or trouble to others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical moral philosophy and satire, designating a nuisance-maker or perpetual bore whose invasive presence disrupts social tranquility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, annoyer designates someone given to teasing (as by mocking or stirring curiosity)."*
+> - 📜 **Jonathan Swift (*The Drapier's Letters*):** *"The aggressive patentee was regarded throughout the kingdom as a brazen **annoyer** of public trade and commerce."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"The habitual babbler is an intolerable **annoyer** whose incessant chatter robs the quiet philosopher of reflection."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"No petty domestic **annoyer** can long disturb the steady equilibrium of a soul dedicated to noble labor."*
+

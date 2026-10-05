@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Happen at the same time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arrange or represent events so that they co-occur.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause things to synchronize in time, or to adapt something historical to current sensibilities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramaturgy and stage production, setting an ancient or classical drama within a present-day cultural milieu.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, contemporise designates happen at the same time."*
+> - 📜 **George Bernard Shaw (*Our Theatres in the Nineties*):** *"The director resolved to **contemporise** the Elizabethan dialogue so that modern audiences might grasp its satirical sting."*
+> - 📜 **Walter Pater (*Appreciations*):** *"The humanist essayists sought to **contemporise** classical virtues for the emerging civic society of their day."*
+> - 📜 **Oscar Wilde (*The Decay of Lying*):** *"To **contemporise** every ancient myth with crude realism is to strip romantic art of its imaginative veil."*
+

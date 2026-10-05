@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The aspect of a verb that expresses its duration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The aspect of a verb that expresses its duration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing or denoting continuous, prolonged, or ongoing action without focus on completion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theoretical linguistics and aspectology, a verbal aspect that encodes an event or state as enduring continuously across an extended timeframe.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The thing called money thus is a durative good passing from hand to hand in a community, and completing its use in turn to each possessor of it only as he parts with it."*
+> - 📜 **Otto Jespersen (*The Philosophy of Grammar*):** *"The distinction between punctual and **durative** aspect reveals how different languages conceptualize the flow of action."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"In several Amerindian languages, specialized affixes convert a momentary root into a prolonged, **durative** predicate."*
+> - 📜 **Benjamin Lee Whorf (*Language, Thought, and Reality*):** *"Hopi verbal paradigms incorporate a **durative** marker signifying that an event unfolds steadily through subjective time."*

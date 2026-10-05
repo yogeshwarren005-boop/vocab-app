@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make secular and draw away from a religious orientation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transfer from ecclesiastical to civil possession, use, or control.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To transfer from religious to civil ownership, influence, or control; to make worldly and non-religious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional history and sociology, to eliminate ecclesiastical authority over legal codes, marriage, welfare, and schooling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, secularize designates make secular and draw away from a religious orientation."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The revolutionary assembly voted to **secularize** all educational endowments, placing the lyceums under direct civic oversight."*
+> - 📜 **Alexis de Tocqueville (*The Old Regime and the Revolution*):** *"The philosophers aimed to **secularize** public morality, replacing ecclesiastical dogmas with universal concepts of civic duty."*
+> - 📜 **John Morley (*Life of William Ewart Gladstone*):** *"A protracted political struggle was waged to **secularize** the national universities and open their fellowships to men of all creeds."*

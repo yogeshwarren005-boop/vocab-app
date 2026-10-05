@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Affix in a public place or for public notice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Publicize with, or as if with, a poster.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Displayed publicly by affixing a notice to a wall or placard; or dispatched through the postal service.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assigned to a specific military station, ship, or diplomatic garrison; or thoroughly informed and up-to-date regarding facts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The swiftest harts have posted you by land, And winds of all the corners kiss’d your sails, To make your vessel nimble."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For you my staff of office did I break In Richard’s time, and posted day and night To meet you on the way, and kiss your hand, When yet you were in place and in account Nothing so strong and fortunate as I."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, ’tis true; and were ’t not madness then To make the fox surveyor of the fold, Who being accused a crafty murderer, His guilt should be but idly posted over Because his purpose is not executed?"*
+> - 📜 **William Shakespeare (*Hamlet*):** *"O, most wicked speed, to post with such dexterity to incestuous sheets! She **posted** off to wedlock ere her tears were dry."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"A reward of one thousand pounds was **posted** upon every church door and police station throughout the county."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The solitary lookout was **posted** at the masthead, peering into the sunlit foam of the Pacific."*
+

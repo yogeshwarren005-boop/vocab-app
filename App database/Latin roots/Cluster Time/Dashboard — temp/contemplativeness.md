@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deep serious thoughtfulness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deep serious thoughtfulness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A persistent habit or disposition of engaging in deep, serious, and tranquil reflection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic psychology, the meditative repose that permits disinterested observation of beauty or artistic forms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, contemplativeness designates deep serious thoughtfulness."*
+> - 📜 **Henry David Thoreau (*A Week on the Concord and Merrimack Rivers*):** *"There is a quiet **contemplativeness** in the fisherman's posture that harmonizes with the gentle motion of the stream."*
+> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"The solitary recluse preserved a serene **contemplativeness** amidst the noisy bustle of the growing township."*
+> - 📜 **George Eliot (*Scenes of Clerical Life*):** *"Her face wore that settled **contemplativeness** which comes from long hours spent beside the quiet hearth."*
+

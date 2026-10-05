@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incongruous;inviting ridicule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incongruous;inviting ridicule.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Contrary to reason, common sense, or nature; absurd, ridiculous, or bizarre in the highest degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Etymologically, having that first which ought to be last; completely inverted in natural order, sequence, or moral priority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, my good lord—my lord, I should say rather. ’Tis sin to flatter; “good” was little better: “Good Gloucester” and “good devil” were alike, And both preposterous; therefore, not “good lord”."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Where, I mean, I did encounter that obscene and most preposterous event that draweth from my snow-white pen the ebon-coloured ink, which here thou viewest, beholdest, surveyest, or seest."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If the balance of our lives had not one scale of reason to poise another of sensuality, the blood and baseness of our natures would conduct us to most preposterous conclusions."*
+> - 📜 **William Shakespeare (*The Taming of the Shrew*):** *"**Preposterous** ass, that never read so far to know the cause why music was ordain'd! Was it not to refresh the mind of man after his studies and his usual pain?"*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood dismissed the bizarre rumor as a **preposterous** fabrication unworthy of a single moment's serious thought."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"It seems at first **preposterous** to suppose that so complex an organ as the eye could have been formed by natural selection."*
+

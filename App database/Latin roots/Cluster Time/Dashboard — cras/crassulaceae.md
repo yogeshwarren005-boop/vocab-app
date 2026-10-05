@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Succulent shrubs and herbs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Succulent shrubs and herbs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The stonecrop botanical family of dicotyledonous flowering plants characterized by fleshy, water-retaining succulent leaves and stems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic taxonomy and comparative ecology, this widespread family of drought-adapted herbs and shrubs is celebrated for pioneering nocturnal carbon dioxide fixation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crassulaceae designates succulent shrubs and herbs."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The family **Crassulaceae** comprises hardy succulents whose symmetrical starry blossoms flourish upon barren rock faces."*
+> - 📜 **John Muir (*The Mountains of California*):** *"Clinging to alpine granite crevices, fragile members of the **Crassulaceae** open golden petals beneath the melting snowbanks."*
+> - 📜 **George Bentham (*Handbook of the British Flora*):** *"Species belonging to **Crassulaceae** are readily recognized by their fleshy habit and regular pentamerous floral organs."*

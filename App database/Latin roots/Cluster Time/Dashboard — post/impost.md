@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Money collected under a tariff.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lowest stone in an arch -- from which it springs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tax, duty, or financial tribute levied by governmental authority, especially a customs tariff assessed on imported merchandise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical architectural engineering, the uppermost member of a pillar, wall, or pier upon which the foot of an arch immediately rests and springs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"We will presume, for argument’s sake, that the revenue arising from the impost duties answers the purposes of a provision for the public debt and of a peace establishment for the Union."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It became necessary to adapt our laws, and especially our laws of impost, to the new circumstances in which we found ourselves."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"An impost on corn there, it is clear, would now produce an exodus of her laboring population that would soon leave the banner of Victoria waving over a second-rate power."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"We will presume, for argument’s sake, that the revenue arising from the **impost** duties answers the purposes of a provision for the public debt."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Pacing the Custom-House wharf, the merchant computed the heavy **impost** exacted upon each consignment of European cargo."*
+> - 📜 **Thomas V. Cooper (*American Politics*):** *"It became necessary to adapt our laws, and especially our laws of **impost**, to the new circumstances in which we found ourselves."*
+

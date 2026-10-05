@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: All the people living at the same time or of approximately the same age.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person of nearly the same age as another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Persons living, creating, or flourishing at the same historical period as one another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociology and generational cohorts, peer groups subject to the same transformative socio-political events.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"But Cairns, in addition to gaining academic distinctions, seems to have impressed his contemporaries in a quite exceptional degree with a sense of his power and promise."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"A Galilean peasant, dressed in the garb of his day and place, his mind fitted out with the current ideas of his contemporaries, elevated, it may be, but not essentially changed?"*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Nor did he, like some of his contemporaries and some modern people, exaggerate the place of pain in human experience."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her straw bonnet, which our **contemporaries** might look at with conjectural curiosity as at an obsolete form of basket, fell a little backward."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"Next to his reserve and the faultless propriety of his conduct, his **contemporaries** at college seemed most impressed by the great maturity of his mind."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"He is not fed, sheltered, clothed, warmed, like his **contemporaries**."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Twice a year.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Twice a year.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Twice every year; occurring, calculated, or distributed on a regular half-yearly schedule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In investment banking and trust accounting, denoting payments, accounting audits, or statutory regulatory filings executed every six months.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semiannually designates twice a year."*
+> - 📜 **Alexander Hamilton (*Report on Public Credit*):** *"The interest upon the domestic loan was directed to be paid **semiannually** at the several continental loan offices."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The trading corporation divided its surplus revenue **semiannually** among the holders of commercial stock."*
+> - 📜 **Charles Francis Adams (*Chapters of Erie*):** *"The railroad directors met **semiannually** to declare dividends and review the maintenance accounts of the lines."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring to a desired consistency, texture, or hardness by a process of gradually heating and cooling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Harden by reheating and cooling in oil.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having been adjusted, hardened, or moderated by blending, heat treatment, or experience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metallurgy, steel subjected to controlled reheating after quenching to increase toughness while reducing brittleness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So wouldst thou, if the truth of thy love to me were so righteously tempered as mine is to thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Never durst poet touch a pen to write Until his ink were tempered with Love’s sighs."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am sorry one so learned and so wise As you, Lord Angelo, have still appeared, Should slip so grossly, both in the heat of blood And lack of tempered judgement afterward."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So wouldst thou, if the truth of thy love to me were so righteously **tempered** as mine is to thee."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak belonged to the even-**tempered** order of humanity, and felt the secret fusion of himself in Bathsheba to be burning with a finer flame."*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Maybe it's always pepper that makes people hot-**tempered**, she went on, very much pleased at having found out a new kind of rule."*
+

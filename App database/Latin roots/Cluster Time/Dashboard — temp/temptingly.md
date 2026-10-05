@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a tempting seductive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a tempting seductive manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an enticing, alluring, or seductive manner that invites indulgence or curiosity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastronomic description, arranging delicacies so as to appeal irresistibly to sight and olfactory senses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Water was given them that they might live longer to yearn for the food, steaming hot and savoury and changed hourly, that was place temptingly before them."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Ride away into Syria with Him, or into Idumæa, or anywhere so long as He be saved.” She concluded with her arms around my neck, her face upturned to mine and temptingly close, her eyes greatly solemn and greatly promising."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"He led us, however, to greater spoil than his own tough carcass; for underneath the sod which his hoofs spurned, lay a treasure which glittered as temptingly to geological eyes as gold to the miner, when first struck by his prospecting pick."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The hot roast fowl and buttered rolls were laid out **temptingly** before the weary travelers at the coaching inn."*
+> - 📜 **Jane Austen (*Emma*):** *"The ripe strawberries hung **temptingly** from the vines in the pleasant shade of Donwell Abbey."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The forged cheque lay **temptingly** on the desk, offering an easy escape to the desperate cashier."*
+

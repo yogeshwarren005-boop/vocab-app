@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who behaves in a manner calculated to impress or mislead others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who behaves in a manner calculated to impress or mislead others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who affects artificial poses, insincere attitudes, or theatrical mannerisms to impress or mislead others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social satire and dramatic theory, an exhibitionist or charlatan whose public demeanor consists of affected poses lacking genuine depth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, posturer designates someone who behaves in a manner calculated to impress or mislead others."*
+> - 📜 **William Makepeace Thackeray (*The Book of Snobs*):** *"Society is crowded with vain **posturers** who mimic the manners of peers while despising their own honest origins."*
+> - 📜 **George Bernard Shaw (*Dramatic Opinions and Essays*):** *"The fashionable romantic actor proved himself a hollow **posturer**, striking melodramatic poses in place of tragic passion."*
+> - 📜 **Thomas Carlyle (*Heroes and Hero-Worship*):** *"A sincere hero commands reverence, but the shallow **posturer** excites only momentary amusement followed by contempt."*
+

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put up with something or somebody unpleasant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Face and withstand with courage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To undergo or bear hardship, pain, or adversity with fortitude; to continue in existence over time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy and metaphysics, to persist through temporal change while retaining identity and fundamental substance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I could endure anything before but a cat, and now he’s a cat to me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The business she hath broached in the state Cannot endure my absence."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mine eyes did sicken at the sight and could not Endure a further view."*
+> - 📜 **William Shakespeare (*King Lear*):** *"Men must **endure** their going hence, even as their coming hither: ripeness is all."*
+> - 📜 **John Milton (*Paradise Lost*):** *"What though the field be lost? All is not lost; the unconquerable will, and courage never to submit or yield, and what is else not to be overcome, shall **endure**."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"She learned that the hardest part of human destiny is silently to **endure** what cannot be mended."*

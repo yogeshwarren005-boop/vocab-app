@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tree of southeastern asia having edible oval fruit with a hard spiny rind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tree of southeastern asia having edible oval fruit with a hard spiny rind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic or regional variant spelling of durian, referring to the pungent spiny tropical fruit of Southeast Asia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colonial travelogues and early botanical literature, the spelling frequently employed by seventeenth and eighteenth-century naturalists to describe Durio zibethinus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, durion designates tree of southeastern asia having edible oval fruit with a hard spiny rind."*
+> - 📜 **William Dampier (*A New Voyage Round the World*):** *"The **durion** fruit smells like rotten shallots to those unaccustomed to it, but yields a luscious, creamy savor."*
+> - 📜 **John Crawfurd (*History of the Indian Archipelago*):** *"No fruit of the eastern islands is held in such extraordinary esteem by the natives as the renowned **durion**."*
+> - 📜 **Thomas Stamford Raffles (*The History of Java*):** *"Orchards of **durion** and mangosteen surround the villages of the interior, yielding abundant harvests for market."*

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With restraint.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without extravagance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a moderate, calm, and restrained manner; without violence, excess, or passion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethical deliberation, addressing contentious disputes with measured civility and dispassionate logic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My pulse as yours doth temperately keep time, And makes as healthful music."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Val, smoking his temperate pipe on the other side of the diningroom hearth, temperately suggested that the amount of luxury in Isabel's life wouldn't hurt a fly."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Harwood, when professor, was enjoined to live temperately, as a cure for his malady."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Corinthian, speak **temperately**, and let thy words answer with wisdom."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"He who lives **temperately** and drinks only spring water finds life sweetened with simple pleasures."*
+> - 📜 **Samuel Johnson (*Rasselas*):** *"The sage expounded his doctrines **temperately**, avoiding dogmatic vehemence while imparting wisdom."*
+

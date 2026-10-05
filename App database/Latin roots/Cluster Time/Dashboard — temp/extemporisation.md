@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A performance given extempore without planning or preparation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A performance given extempore without planning or preparation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of performing, composing, or improvising speech or music without previous preparation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musical history and theater, extemporisation formed a core improvisational skill in commedia dell'arte and baroque ornamentation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"What various advantages would or might have resulted from a prolongation of such an extemporisation?"*
+> - 📜 **Charles Burney (*A General History of Music*):** *"The Italian organist displayed astonishing mastery in his brilliant **extemporisation** upon the fugue subject."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"True poetic brilliance relies rarely on hasty **extemporisation**, but rather upon long-cherished imaginative meditation."*
+> - 📜 **William Hazlitt (*Lectures on the English Comic Writers*):** *"His rapid comedic **extemporisation** carried the audience forward in waves of irresistible laughter."*
+

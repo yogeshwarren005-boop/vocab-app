@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of avoiding excesses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abstaining from excess.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abstinence from alcoholic drink; or moderation and voluntary self-restraint in action and thought.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical cardinal virtue ethics, sophrosyne or temperance regulates bodily passions under the direction of reason.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For I am sure, Though you can guess what temperance should be, You know not what it is."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Being once chafed, he cannot Be reined again to temperance; then he speaks What’s in his heart; and that is there which looks With us to break his neck."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nor do not saw the air too much with your hand, thus, but use all gently; for in the very torrent, tempest, and, as I may say, whirlwind of passion, you must acquire and beget a temperance that may give it smoothness."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For I am sure, though you can guess what **temperance** should be, you know not what it is."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"**Temperance** Miller—oh, here's another, Soberness—both women I suppose?"*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"The **temperance** of the hero proceeds from the same wish to do no dishonor to the worthiness he has."*
+

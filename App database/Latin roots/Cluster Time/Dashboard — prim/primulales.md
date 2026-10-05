@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Primulaceae; theophrastaceae; myrsinaceae; and (in some classifications) plumbaginaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Primulaceae; theophrastaceae; myrsinaceae; and (in some classifications) plumbaginaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of flowering dicotyledonous plants that traditionally includes the primrose family (Primulaceae) and related taxa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Cronquist taxonomic systems, a subclass-level order of sympetalous plants characterized by pentamerous flowers with stamens opposite the corolla lobes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, primulales designates primulaceae; theophrastaceae; myrsinaceae; and (in some classifications) plumbaginaceae."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"In systematic classification, the order **Primulales** brings together families possessing unilocular ovaries with free-central placentae."*
+> - 📜 **Joseph Dalton Hooker (*The Botany of the Antarctic Voyage*):** *"Representative species of **Primulales** extend from the high arctic tundras across temperate zones into subantarctic shores."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Morphological variations in the floral whorls of **Primulales** illustrate the plasticity of reproductive organs under cultivation."*

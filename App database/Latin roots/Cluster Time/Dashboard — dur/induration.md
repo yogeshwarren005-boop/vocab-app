@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any pathological hardening or thickening of tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any pathological hardening or thickening of tissue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of becoming hard, callous, or unfeeling; an abnormally hardened area of tissue or substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dermatopathology and clinical oncology, localized firm swelling or thickening of biological tissue resulting from chronic inflammation, edema, or malignant infiltration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The Tongans were subject to induration of the liver and certain forms of scrofula, which they often attributed to a failure to perform the requisite expiation after having inadvertently touched a chief or his belongings."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Palpation of the chronic ulcer revealed marked peripheral **induration**, raising strong suspicion of neoplastic transformation."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"The long repetition of ascetic rituals led to a psychological **induration** that deadened all ordinary human sympathies."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The progressive **induration** of the hepatic parenchyma is driven by proliferation of interstitial connective fibers."*

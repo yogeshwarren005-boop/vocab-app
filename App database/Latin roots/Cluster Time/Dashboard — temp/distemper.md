@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various infectious viral diseases of animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An angry and disagreeable mood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A disordered physical or mental state; a contagious viral disease affecting domestic animals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical painting and interior decor, a water-based paint using animal glue or casein as an adhesive binder.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you are sick at sea Or stomach-qualm’d at land, a dram of this Will drive away distemper."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thyself do grace to them, and bring them in. [_Exit Polonius._] He tells me, my sweet queen, that he hath found The head and source of all your son’s distemper."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good my lord, what is your cause of distemper?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you are sick at sea or stomach-qualmed at land, a dram of this will drive away **distemper**."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"She attended her sickbed; her watchful attentions triumphed over the malignity of the **distemper**."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Thus Eve with countenance blithe her story told; but in her cheek **distemper** flushing glowed."*
+

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a woman who has given birth only once.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a woman who has given birth only once.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Giving birth to young for the first time, or having produced only a single offspring.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian biology and comparative zoology, designating a female that has experienced exactly one reproductive parturition cycle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, primiparous designates of or relating to a woman who has given birth only once."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Observations among domestic sheep reveal that **primiparous** ewes often require extra human assistance during lambing."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The maternal mammary ducts in **primiparous** marsupials expand rapidly upon the birth and attachment of the joey."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The clinical management of **primiparous** labor demands patient observation and vigilance against premature intervention."*

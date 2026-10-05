@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The presiding bishop of the episcopal church of scotland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A portable paraffin cooking stove; used by campers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: First or chief among equals, especially as the presiding bishop of the Scottish Episcopal Church.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A portable pressurized-paraffin camping stove (trademark Primus) widely used by mountaineers and polar explorers; or Latin for first.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*The Elder Brother*):** *"Read here and wonder;_ Fletcher _writ the Play._ _ACTUS PRIMUS."*
-> - 📜 **Poul Anderson (*The Valor of Cappen Varra*):** *"Well, see you, sweet lady, Primus and Secundus were my own thoughts, and who is to disprove them?"*
+> - 📜 **Ernest Shackleton (*South*):** *"The hiss of our small **Primus** stove inside the tent brought welcome warmth as the blizzard raged outside."*
+> - 📜 **Robert Falcon Scott (*Scott's Last Expedition*):** *"We cooked our daily ration of pemmican over the **Primus**, carefully husbanding every drop of paraffin in the extreme cold."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The senior senator acted as **primus** inter pares, presiding over the deliberations of the venerable assembly."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of deceiving.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of deceiving.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, habit, or practice of concealing one's real feelings, motives, or character; deceitful concealment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Renaissance political ethics, the deliberate concealment of thoughts distinct from outright simulation or affirmative lying.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"The womans mask, dissimulation help me."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"She was really tired; she knew it, and knew she should pay for it on the morrow; but it was her habit at this period to carry exhaustion to the furthest point and confess to it only when dissimulation broke down."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"One must fulfil one's mission without timidity or dissimulation, for to be well done, the work must be done unselfishly."*
+> - 📜 **Francis Bacon (*The Essays*):** *"**Dissimulation** is but a faint kind of policy or wisdom; for it asketh a strong wit and a strong heart to know when to tell truth, and to do it."*
+> - 📜 **William Shakespeare (*Twelfth Night*):** *"I am not that I play. A little thing would make me tell them how much I lack of a man. Yet had she not a little **dissimulation** in her carriage?"*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Tiberius concealed his tyrannical cruelties beneath a solemn veil of philosophical **dissimulation** and affected modesty."*

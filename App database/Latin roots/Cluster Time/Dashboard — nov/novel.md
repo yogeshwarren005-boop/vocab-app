@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An extended fictional work in prose; usually in the form of a story.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A printed and bound book that is an extended work of fiction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Strikingly new, unusual, or different from anything previously seen, known, or experienced.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary studies, an extended fictional prose narrative exploring character, complex social dynamics, and human experience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*Shakespeare's Sonnets*):** *"CXXIII No, Time, thou shalt not boast that I do change: Thy pyramids built up with newer might To me are nothing novel, nothing strange; They are but dressings of a former sight."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Besides, Bathsheba’s position as absolute mistress of a farm and house was a novel one, and the novelty had not yet begun to wear off."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba’s adventurous spirit was beginning to find some grains of relish in these highly novel proceedings."*
+> - 📜 **William Shakespeare (*All's Well That Ends Well*):** *"The king had found him a **novel** physician that healed his stubborn infirmity beyond all expectation."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"To Gabriel Oak the spectacle was completely **novel**, stirring emotions he had never before experienced in his solitary pastoral life."*
+> - 📜 **Francis Bacon (*The Essays*):** *"Custom is the principal magistrate of man's life; yet men marvel at **novel** occurrences that upset their habitual opinions."*

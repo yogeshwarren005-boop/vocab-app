@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous short-stemmed plants of the genus primula having tufted basal leaves and showy flowers clustered in umbels or heads.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous short-stemmed plants of the genus primula having tufted basal leaves and showy flowers clustered in umbels or heads.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of herbaceous flowering plants in the family Primulaceae, commonly known as primroses or cowslips.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant genetics and botany, the classic experimental model in which Charles Darwin demonstrated heterostyly and reciprocal floral forms (pin and thrum).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, primula designates any of numerous short-stemmed plants of the genus primula having tufted basal leaves and showy flowers clustered in umbels or heads."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"The dimorphic structure in the genus **Primula** ensures that cross-fertilization occurs between distinct individual plants."*
+> - 📜 **Joseph Dalton Hooker (*Himalayan Journals*):** *"Alpine meadows at fourteen thousand feet were carpeted with brilliant violet clumps of dwarf **Primula**."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The delicate wild **Primula** thrives in damp calcareous crevices along the northern Great Lakes."*

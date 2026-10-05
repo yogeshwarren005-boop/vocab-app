@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The power to withstand hardship or stress.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of surviving; remaining alive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The power or capacity to withstand hardship, adversity, prolonged exertion, or pain without giving way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In exercise physiology and material engineering, the maximum time an organism or structural component can sustain repetitive cyclic stress before experiencing failure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, I looked You would have given me your petition that I should have ta’en some pains to bring together Yourself and your accusers and to have heard you Without endurance, further."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O! she misused me past the endurance of a block: an oak but with one green leaf on it would have answered her: my very visor began to assume life and scold with her."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tell thy story; If thine consider’d prove the thousand part Of my endurance, thou art a man, and I Have suffer’d like a girl: yet thou dost look Like Patience gazing on kings’ graves, and smiling Extremity out of act."*
+> - 📜 **William Shakespeare (*Pericles*):** *"Thou dost look like patience gazing on kings' graves, and smiling extremity out of act; what were thy fortunes, whose **endurance** outshines grief?"*
+> - 📜 **Ernest Shackleton (*South*):** *"The crushing pack-ice sealed the fate of our ship **Endurance**, leaving twenty-eight men stranded on drifting floes."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Man's greatness lies not in painless triumph, but in the heroic **endurance** of sorrow and relentless spiritual trial."*

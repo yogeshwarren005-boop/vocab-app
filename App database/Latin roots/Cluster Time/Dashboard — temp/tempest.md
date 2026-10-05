@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A violent commotion or disturbance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (literary) a violent wind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A violent, windy storm accompanied by rain, hail, or snow; or an emotional tumult.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meteorological history, severe maritime squalls capable of foundering sailing vessels and altering coastlines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nor do not saw the air too much with your hand, thus, but use all gently; for in the very torrent, tempest, and, as I may say, whirlwind of passion, you must acquire and beget a temperance that may give it smoothness."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The southern wind Doth play the trumpet to his purposes, And by his hollow whistling in the leaves Foretells a tempest and a blust’ring day."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fie! what man of good temper would endure this tempest of exclamation?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In the very torrent, **tempest**, and whirlwind of passion, you must acquire and beget a temperance that may give it smoothness."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Like a steady ship doth strongly part the raging waves and keeps her course aright; ne aught for **tempest** doth from it depart."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"She was a curious woman, whose dresses always looked as if they had been designed in a rage and put on in a **tempest**."*
+

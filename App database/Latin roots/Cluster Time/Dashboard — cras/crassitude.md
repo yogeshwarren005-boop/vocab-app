@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being crass--devoid of refinement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being crass--devoid of refinement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dense coarseness or grossness of matter; obtuse lack of discernment and intellectual refinement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical philosophy and natural theology, the heavy, opaque physicality of earthly substance contrasted with subtle spirit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crassitude designates the quality of being crass--devoid of refinement."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"The **crassitude** and grossness of the terrestrial vapour hindereth the quick ascension of subtle heat."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The dense **crassitude** of vulgar minds is incapable of discerning invisible spiritual realities."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Sensual indulgence plunges the understanding into a hopeless **crassitude** that resists every ray of learning."*

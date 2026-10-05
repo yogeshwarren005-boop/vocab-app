@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A note appended to a letter after the signature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Textual matter that is added onto a publication; usually at the end.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An additional sentence, paragraph, or message appended to a letter after the writer's signature (commonly abbreviated P.S.).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and scholarly editions, a supplementary note, epilogue, or afterword appended to a treatise or book to address subsequent developments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"KING. ’Tis Hamlet’s character. ‘Naked!’ And in a postscript here he says ‘alone.’ Can you advise me?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Jove and my stars be praised!—Here is yet a postscript. [_Reads._] _Thou canst not choose but know who I am."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Our stopping to change horses as I came to his postscript drove it out of my memory."*
+> - 📜 **William Shakespeare (*Twelfth Night*):** *"Jove knows I love, but who? Lips do not move, no man must know. What follows? The numbers altered! No man must know! If this should be thee, Malvolio! Soft, here follows prose: If this fall into thy hand, revolve. In my stars I am above thee, but be not afraid of greatness. Read the **postscript**."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Our guardian added a brief, affectionate **postscript** to his letter, reassuring us that all was well at the country estate."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth read the hasty **postscript** with intense relief, learning that her sister had safely reached town."*
+

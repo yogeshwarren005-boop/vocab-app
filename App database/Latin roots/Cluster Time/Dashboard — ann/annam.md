@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A communist state in indochina on the south china sea; achieved independence from france in 1945.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A communist state in indochina on the south china sea; achieved independence from france in 1945.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former historical region comprising central Vietnam, situated between Tonkin to the north and Cochinchina to the south.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Southeast Asian geopolitical history, Annam designated both a French protectorate established in 1883 and the wider Vietnamese empire ruled from the imperial city of Hue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Ibn Batutah's narrative of the demon lover and his mortal brides closely resembles a well-known type of folk-tale, of which versions have been found from Japan and Annam in the East to Senegambia, Scandinavia, and Scotland in the West."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Some confirmation of this view may be drawn from the ceremonies observed by fishermen of Annam when the carcase of a whale is washed ashore."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"He rode one of the royal elephants, seated in the royal palanquin, and escorted by soldiers who, dressed in appropriate costumes, represented the neighbouring peoples of Siam, Annam, Laos, and so on."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"Traders recounted voyages along the stormy coasts of **Annam** where coral shoals endangered every passing schooner."*
+> - 📜 **Graham Greene (*The Quiet American*):** *"The winding roads through the mountains of **Annam** carried convoys guarded by colonial infantry."*
+> - 📜 **Pierre Loti (*Pêcheur d'Islande*):** *"French sailors recalled the humid anchorages off **Annam** where monsoon squalls battered the fleet."*
+

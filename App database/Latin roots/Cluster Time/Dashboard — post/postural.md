@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or involving posture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or involving posture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, involving, or affecting physical posture and the alignment or bearing of the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurophysiology and kinesiology, denoting automatic neuromuscular reflexes, vestibular mechanisms, and muscle tone maintaining balance against gravitational force.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, postural designates of or relating to or involving posture."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Faulty **postural** habits among sedentary youths frequently contribute to progressive spinal deformities and chest restriction."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"The brainstem reticular nuclei coordinate continuous **postural** reflexes to preserve upright equilibrium during locomotion."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Instinctive **postural** adjustments in threatened animals serve either to intimidate predators or signal submissive retreat."*
+

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being a prime number.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being a prime number.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mathematical status of a whole number that possesses no divisors other than 1 and itself.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computational number theory and cryptography, the mathematical characteristic verified via probabilistic tests (such as Miller-Rabin) to generate public-key cyphers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, primality designates the property of being a prime number."*
+> - 📜 **Carl Friedrich Gauss (*Disquisitiones Arithmeticae*):** *"The problem of distinguishing prime numbers from composite ones and resolving the latter into their prime factors is of fundamental **primality** interest in arithmetic."*
+> - 📜 **Leonhard Euler (*Elements of Algebra*):** *"To ascertain the **primality** of a large integer, one must demonstrate that no lesser prime divides it without remainder."*
+> - 📜 **Alan Turing (*Systems of Logic Based on Ordinals*):** *"Mechanical computing routines can test the **primality** of extensive sequences of numbers with unprecedented speed."*

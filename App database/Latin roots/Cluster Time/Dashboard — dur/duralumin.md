@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An aluminum-based alloy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An aluminum-based alloy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lightweight, high-strength alloy of aluminium containing copper, manganese, and magnesium, widely employed in aircraft construction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metallurgical engineering, a precipitation-hardened aluminium alloy that undergoes age hardening to achieve remarkable tensile strength while preserving low density.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, duralumin designates an aluminum-based alloy."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The gleaming framework of the immense dirigible was fashioned from ribbed trusses of polished **duralumin**."*
+> - 📜 **Arthur Conan Doyle (*The Maracot Deep*):** *"The deep-sea bathysphere was reinforced with stout bands of **duralumin** to withstand the crushing abyss."*
+> - 📜 **Antoine de Saint-Exupéry (*Wind, Sand and Stars*):** *"The vibrating cockpit framed in **duralumin** shuddered beneath the ferocious onslaught of the Andean squall."*

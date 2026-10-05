@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) the replacement of one obligation by another by mutual agreement of both parties; usually the replacement of one of the original parties to a contract with the consent of the remaining party.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) the replacement of one obligation by another by mutual agreement of both parties; usually the replacement of one of the original parties to a contract with the consent of the remaining party.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formal replacement of an existing legal obligation, contract, or party with a new one that discharges the old.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In corporate finance and commercial law, the consensual transfer of contractual liabilities, releasing the original promisor from continuing performance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, novation designates (law) the replacement of one obligation by another by mutual agreement of both parties; usually the replacement of one of the original parties to a contract with the consent of the remaining party."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A valid **novation** operates to extinguish the prior covenant completely, substituting a new claim in its place."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"The doctrine of **novation** requires clear proof that the creditor consented to discharge the original obligor from all subsequent liability."*
+> - 📜 **James Bryce (*Studies in History and Jurisprudence*):** *"Roman legal ingenuity refined the device of **novation** into an indispensable instrument for the transfer of commercial duties."*

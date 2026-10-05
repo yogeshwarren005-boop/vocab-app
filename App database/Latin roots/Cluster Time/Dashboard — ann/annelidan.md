@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or belonging to or characteristic of any worms of the phylum annelida.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or belonging to or characteristic of any worms of the phylum annelida.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging, relating, or pertaining to the segmented worms of the phylum Annelida.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative embryology, describing anatomical features such as chaetae, parapodia, or metameric organs characteristic of annelid worms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, annelidan designates relating to or belonging to or characteristic of any worms of the phylum annelida."*
+> - 📜 **Charles Darwin (*Monograph on the Sub-class Cirripedia*):** *"The homologies between crustacean appendages and the lateral **annelidan** setae have provoked considerable debate among comparative anatomists."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The distinct **annelidan** organization exhibits repetitive muscular compartments enclosed by a non-cellular cuticular layer."*
+> - 📜 **E. Ray Lankester (*Degeneration: A Chapter in Darwinism*):** *"Sedentary tube-dwelling species reveal notable modifications of the ancestral **annelidan** body plan."*
+

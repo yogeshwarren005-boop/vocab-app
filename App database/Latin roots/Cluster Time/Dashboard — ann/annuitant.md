@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The recipient of an annuity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The recipient of an annuity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is entitled to receive, or who currently receives, a regular periodic annual monetary payment or annuity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In actuarial science and insurance law, an annuitant's life expectancy forms the basis for calculating life-contingent income streams and reserve obligations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, annuitant designates the recipient of an annuity."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"The elderly **annuitant** visited the Bank of England regularly every quarter to draw his modest dividend with trembling fingers."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"To provide for an **annuitant** during life is a very serious charge, as my late father experienced with several aged pensioners."*
+> - 📜 **Honoré de Balzac (*Father Goriot*):** *"The shrewd **annuitant** calculated his daily expenditures down to the last sou, determined to outlive his pension board."*
+

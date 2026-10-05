@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of imitating the behavior of some situation or some process by means of something suitably analogous (especially for the purpose of study or personnel training).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (computer science) the technique of representing the real world by a computer program.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The imitation of the operation of a real-world process or system over time; the act of feigning or pretending.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific computing and behavioral modeling, the execution of mathematical models on digital processors to analyze system trajectories under varying constraints.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"MALVOLIO. ‘M.O.A.I.’ This simulation is not as the former: and yet, to crush this a little, it would bow to me, for every one of these letters are in my name."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The tank cleared to the United Inner Planetary System's standard simulation."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The same principle of make-believe, so dear to children, has led other peoples to employ a simulation of birth as a form of adoption, and even as a mode of restoring a supposed dead person to life."*
+> - 📜 **Francis Bacon (*The Essays*):** *"There be three degrees of this hiding and veiling of a man's self: the first, closeness, reservation, and secrecy; the second, dissimulation in the negative; and the third, **simulation** in the affirmative, when a man industriously and expressly feigns and pretends to be that he is not."*
+> - 📜 **William Shakespeare (*Twelfth Night*):** *"M, O, A, I, doth sway my life. Nay, but first, let me see, let me see, let me see. What dish o' poison has she dressed him! And with what wing the staniel cheques at it! I may command where I adore. Why, she may command me: I serve her; she is my lady. Why, this is evident to any formal capacity; there is no **simulation** in this."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Certain harmless snakes achieve protective advantage through the uncanny **simulation** of the vivid warning bands of venomous vipers."*

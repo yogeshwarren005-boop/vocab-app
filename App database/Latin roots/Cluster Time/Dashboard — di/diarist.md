@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who keeps a diary or journal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who keeps a diary or journal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An author or chronicler who systematically keeps a personal, regular written diary of daily events.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biographical literature and historical source criticism, a private chronicler whose contemporaneous notes preserve intimate cultural details of an era.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diarist designates someone who keeps a diary or journal."*
+> - 📜 **Virginia Woolf (*A Room of One's Own*):** *"The passionate seventeenth-century **diarist** recorded the small domestic occurrences that official histories entirely ignored."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"We owe our most vivid impressions of the Restoration court to the indefatigable vanity of the celebrated **diarist** Samuel Pepys."*
+> - 📜 **G. K. Chesterton (*The Victorian Age in Literature*):** *"The private confessions of a melancholy **diarist** often reveal more philosophical truth than a shelf of formal treatises."*

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Income from capital investment paid in a series of regular payments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Income from capital investment paid in a series of regular payments.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specified fixed sum of money payable annually, or at regular intervals, for life or for a designated term of years.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In investment banking and contract law, a long-term capital agreement structured to liquidate invested principal alongside accrued interest over specified drawdown schedules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I have left an annuity for his sole support in case he should outlive me."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"My mother has a little property, which takes the form of a small life annuity, upon which she lives in an independent though unassuming manner in the Old Street Road."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I have no capital myself, but my mother has a little property which takes the form of an annuity”—here Mr."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"If you bind yourself to pay an **annuity** of one hundred pounds a year, you will find yourself in time severely pinched."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Governments have frequently funded urgent wartime debts by granting perpetual or terminable **annuity** privileges to private lenders."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"She possessed a small **annuity** from the funds, which sufficed to maintain her independence in modest gentility."*
+

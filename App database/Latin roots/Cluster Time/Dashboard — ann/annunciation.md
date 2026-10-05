@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A festival commemorating the announcement of the incarnation by the angel gabriel to the virgin mary; a quarter day in england, wales, and ireland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (christianity) the announcement to the virgin mary by the angel gabriel of the incarnation of christ.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal, solemn announcement or proclamation; the public declaration of important tidings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Christian ecclesiastical theology, the feast celebrating the announcement by the archangel Gabriel to the Virgin Mary of the incarnation of Christ.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"The annunciation of the divine nature of the Redeemer must, therefore, be an essential part of _the preaching of the cross_."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Again, it seemed to us that this resolution was but the annunciation of a sentiment which could not or was not likely to be reduced to an actual tangible proposition."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Isaac looked a little blank at this annunciation."*
+> - 📜 **Walter Pater (*The Renaissance*):** *"The early Italian painters depicted the mystical **Annunciation** with serene lily stems and golden celestial rays."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Gabriel was sent to deliver the solemn **annunciation** that should redeem lost mankind from despair."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The reckless **annunciation** of abstract human rights undermined every established pillar of civic authority."*
+

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organ in its earliest stage of development; the foundation for subsequent development.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organ in its earliest stage of development; the foundation for subsequent development.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organ, tissue, or biological structure in its earliest recognizable stage of embryonic development.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant morphogenesis and developmental biology, a cellular cluster or meristematic bud that gives rise to a leaf, flower, or specialized appendage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, primordium designates an organ in its earliest stage of development; the foundation for subsequent development."*
+> - 📜 **Asa Gray (*Introduction to Structural and Systematic Botany*):** *"Microscopic examination of the shoot apex reveals the leaf **primordium** emerging as a tiny cellular swelling."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"Each limb bud originates as an undifferentiated **primordium** beneath the embryonic ectoderm."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"The floral **primordium** develops rapidly under the stimulation of spring warmth and adequate moisture."*

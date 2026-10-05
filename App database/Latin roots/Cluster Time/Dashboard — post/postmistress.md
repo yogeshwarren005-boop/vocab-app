@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman postmaster.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman postmaster.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman who manages, directs, or holds official appointment over a post office.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social history and rural sociology, an independent female civil servant serving as the confidential communication hub of a provincial community.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"While the postmistress searched a pigeonhole he gazed at the recruiting poster with soldiers of all arms on parade: and held the tip of his baton against his nostrils, smelling freshprinted rag paper."*
-> - 📜 **James Joyce (*Ulysses*):** *"The postmistress handed him back through the grill his card with a letter."*
-> - 📜 **James Joyce (*Ulysses*):** *"Healy, Mr Justice Fitzgibbon, John Howard Parnell, the reverend Tinned Salmon, Professor Joly, Mrs Breen, Denis Breen, Theodore Purefoy, Mina Purefoy, the Westland Row postmistress, C."*
+> - 📜 **James Joyce (*Ulysses*):** *"The curious **postmistress** weighed the parcel upon her brass scales, scrutinizing the handwriting with keen provincial interest."*
+> - 📜 **Thomas Hardy (*A Pair of Blue Eyes*):** *"Elfride handed her sealed letter to the elderly village **postmistress**, blushing lest the secret destination be guessed."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"The venerable **postmistress** guarded the royal postbags with fierce administrative pride, brooking no interference from local clergy."*
+

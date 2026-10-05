@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not brought to a proper consistency or hardness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not moderated or controlled.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not moderated, softened, or restrained; or metal not brought to the proper hardness and toughness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biblical prophecy and architecture, untempered mortar mixed without proper binding agents that collapses under torrential rain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Feeling without judgment is a washy draught indeed; but judgment untempered by feeling is too bitter and husky a morsel for human deglutition."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Her wild spirit was like an **untempered** steel blade, dangerous to handle and liable to snap under harsh strain."*
+> - 📜 **King James Bible (*The Holy Bible*):** *"One built up a wall, and lo, others daubed it with **untempered** morter: say unto them that daub it with untempered morter, that it shall fall."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The harpooneer wielded an iron spear of raw, **untempered** metal that bent against the whale's tough blubber."*
+

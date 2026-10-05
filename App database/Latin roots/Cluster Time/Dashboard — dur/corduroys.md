@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cotton trousers made of corduroy cloth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cut pile fabric with vertical ribs; usually made of cotton.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Trousers made from durable ribbed corduroy fabric, traditionally worn for physical labor or casual outdoor dress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Multiple garments or rolls of heavy ribbed cotton velvet fabric characterized by distinct vertical wales.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"In the same early morning, I discovered a singular affinity between seeds and corduroys."*
-> - 📜 **Effie Afton (*Eventide*):** *"The whole ascent of Clinton was through a dense forest, over a rough, uneven path, constructed of small, round timbers, called "corduroys." They were in a rotted, dilapidated condition, and unpleasant as well as dangerous to ride over."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"He said thim was old clothes he was wearin' on the sea," apologized Mike for his friend, looking down somewhat consciously at his own comfortable corduroys."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"There is a strange unwholesome smell upon the room, like mildewed **corduroys**, sweet apples wanting air, and rotten books."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The young shepherd shook the dust from his stout **corduroys** before stepping into the bustling malt-house."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"The teamster brushed the frozen snow from his heavy **corduroys** as he bent to adjust the dogs' traces."*

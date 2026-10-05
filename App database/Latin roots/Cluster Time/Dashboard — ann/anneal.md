@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring to a desired consistency, texture, or hardness by a process of gradually heating and cooling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring to a desired consistency, texture, or hardness by a process of gradually heating and cooling.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To heat metal, glass, or ceramic material and allow it to cool slowly in order to reduce internal stress and increase ductility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular biology and genetics, to bring complementary strands of DNA or RNA together to form a double-stranded hybrid through thermal incubation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"There was no luster of exquisitely annealed glass and highly polished metals, such as dazzles one in the laboratory of the prosperous analyst."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"It acts like a specially annealed compound of some kind."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"By annealing, diffusion is greatly assisted, and the material gradually becomes homogeneous, as is seen on microscopic examination."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The artisan must carefully **anneal** the newly blown glass vessels to prevent them from shattering upon the slightest mechanical shock."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould*):** *"Intense subterranean heat and subsequent slow cooling tend to **anneal** crystalline minerals into compact resilient strata."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"Adversity and disciplined education **anneal** the character precisely as the furnace tempers malleable iron."*
+

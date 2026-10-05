@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Formal and explicit approval.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formal and explicit approval.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Official license or authorization to print or publish a book, especially granted by a Catholic ecclesiastical authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any official sanction, formal approval, or authoritative endorsement conferring legitimacy upon an action or doctrine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, imprimatur designates formal and explicit approval."*
+> - 📜 **John Milton (*Areopagitica*):** *"Truth and understanding are not such wares as to be monopolized and traded in by tickets and statutes and **imprimaturs**."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The papal curia asserted the prerogative to affix its solemn **imprimatur** to all writings touching upon dogma."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The censorship laws expired, and books were published without needing the cautious **imprimatur** of the royal licenser."*

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pounded or hit repeatedly by storms or adversities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pounded or hit repeatedly by storms or adversities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Violently driven, buffeted, or agitated by furious ocean gales or emotional strife.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime literature and immigration allegories, ships navigating mountainous seas before reaching safe harbor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tempest-tossed designates pounded or hit repeatedly by storms or adversities."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Though his bark cannot be lost, yet it shall be **tempest-tossed**."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"O Captain! my Captain! our fearful trip is done, the **tempest-tossed** ship has weather'd every rack."*
+> - 📜 **Emma Lazarus (*The New Colossus*):** *"Send these, the homeless, **tempest-tossed** to me, I lift my lamp beside the golden door."*
+

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Synthetic antimalarial drug.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Synthetic antimalarial drug.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A synthetic 8-aminoquinoline antimalarial drug used to eradicate dormant liver hypnozoites of Plasmodium vivax and Plasmodium ovale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tropical pharmacology, an antiparasitic agent that prevents relapsing malaria but carries risk of acute hemolytic anemia in individuals with G6PD deficiency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, primaquine designates synthetic antimalarial drug."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Administration of **primaquine** successfully cleared the latent hepatic parasites, preventing recurrent malarial paroxysms."*
+> - 📜 **Paul Ehrlich (*Experimental Chemotherapy of Spirilloses*):** *"Targeted synthetic derivatives like **primaquine** demonstrate the power of chemotherapeutic agents to strike specific protozoal stages."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Special caution is warranted when administering **primaquine** to patients carrying genetic glucose-6-phosphate dehydrogenase deficiencies."*

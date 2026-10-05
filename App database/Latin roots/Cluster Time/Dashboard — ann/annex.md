@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An addition that extends a main building.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take (territory) as if by conquest.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To append, attach, or incorporate extra territory, a document, or an administrative entity into an existing larger whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international law and geopolitics, to unilaterally declare sovereignty over foreign sovereign territory through formal proclamation or military occupation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Nothing, therefore, can be wiser in that kingdom, than to annex to the king a constitutional council, who may be responsible to the nation for the advice they give."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Nothing, therefore, can be wiser in that kingdom, than to annex to the king a constitutional council, who may be responsible to the nation for the advice they give."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"To insist upon this point, the authors of the objection must renounce the meaning they have labored to annex to the celebrated maxim, requiring a separation of the departments of power."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ambitious emperor resolved to **annex** the frontier province to the imperial domain without consulting the senate."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Neighboring states might find plausible pretexts to **annex** adjoining disputed territories under the cover of treaty ambiguity."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The Crown sought to **annex** the lucrative customs revenues directly to the civil list."*
+

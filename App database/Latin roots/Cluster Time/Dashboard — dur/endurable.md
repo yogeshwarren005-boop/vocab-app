@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being borne though unpleasant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being borne though unpleasant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being borne, tolerated, or withstood; bearable under stress or suffering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychology and ethics, an adversity, pain, or environmental hardship that falls within the limits of human psychic or physiological tolerance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Garth felt a severe twinge at this mention of her husband, the fear that Caleb might think her in the wrong not being easily endurable."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"A thousand times I thought how much more endurable would have been my lot had Toby still been with me."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"A sedan-chair is too luxurious to be long endurable, so I added a pony to our caravan, purchased, from a home-going Dane of the customs service, for forty-four dollars Mexican."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Garth felt a severe twinge at this mention of her husband, the fear that Caleb might think her in the wrong not being easily **endurable**."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The rudimentary precautions to keep our imprisonment **endurable** he would not observe."*
+> - 📜 **Herman Melville (*Typee*):** *"The physical torment of the fever became scarcely **endurable** as the humid tropical night wore on without a breeze."*

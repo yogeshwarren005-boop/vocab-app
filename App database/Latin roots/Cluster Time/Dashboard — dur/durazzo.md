@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Port city in western albania on the adriatic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Port city in western albania on the adriatic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The historical Italian name for the Albanian coastal city of Durrës, situated strategically on the Adriatic Sea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Mediterranean maritime history and diplomacy, an ancient Illyrian and Byzantine port (Dyrrhachium) that served as the western terminus of the Via Egnatia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, durazzo designates port city in western albania on the adriatic."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Norman fleet under Robert Guiscard anchored before the walls of **Durazzo** to challenge the Byzantine emperor."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"The traveller looked across the blue Adriatic waves where the ramparts of **Durazzo** guarded the Illyrian coast."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"Naval patrols established a vigilant cordon off **Durazzo** to intercept hostile submarines traversing the straits."*

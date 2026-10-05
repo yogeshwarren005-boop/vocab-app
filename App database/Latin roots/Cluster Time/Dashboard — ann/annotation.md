@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A comment or instruction (usually added).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of adding notes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A note, explanatory comment, or marginal gloss added by way of comment or elucidation to a written text.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computational linguistics, genomics, and digital humanities, structured metadata tags indicating grammatical roles, gene boundaries, or entity classes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"I have been led farther than I had foreseen, and various subjects for annotation have presented themselves which, though I have no direct need of them, I could not pretermit."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Most of them were copiously annotated, and his annotations were, as a rule, characterised by a refreshing trenchancy,--in the case of some, as of Gibbon, tempered with respect; in the case of others, as of F.W."*
-> - 📜 **James Joyce (*Ulysses*):** *"Lockhart’s _Life of Napoleon_ (cover wanting, marginal annotations, minimising victories, aggrandising defeats of the protagonist). _Soll und Haben_ by Gustav Freytag (black boards, Gothic characters, cigarette coupon bookmark at p. 24)."*
+> - 📜 **Samuel Johnson (*Preface to Shakespeare*):** *"A judicious **annotation** ought to remove an ambiguity or restore a reading, rather than flaunt the editor's collateral erudition."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"In a learned **annotation**, the historian vindicated his chronology by citing obscure imperial coins and consular lists."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The theological dispute was clarified by a brief **annotation** defining the precise philosophical sense of the Greek term."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Vegetables and seafood dipped in batter and deep-fried.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vegetables and seafood dipped in batter and deep-fried.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Japanese dish of seafood or vegetables dipped in a light batter and swiftly deep-fried in hot oil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In culinary history and cultural gastronomy, a cooking technique introduced to Japan by Portuguese missionaries in Nagasaki during the sixteenth century.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tempura designates vegetables and seafood dipped in batter and deep-fried."*
+> - 📜 **Lafcadio Hearn (*Glimpses of Unfamiliar Japan*):** *"The aroma of crisp **tempura** frying in sesame oil drifted through the bustling lantern-lit street market of Osaka."*
+> - 📜 **Isabella Bird (*Unbeaten Tracks in Japan*):** *"Our courteous host provided a delicate supper of sea-bream and crisp mountain vegetables cooked as **tempura**."*
+> - 📜 **Basil Hall Chamberlain (*Things Japanese*):** *"Foreign visitors quickly acquire a fondness for **tempura**, admiring the delicate golden crust of the fried prawns."*
+

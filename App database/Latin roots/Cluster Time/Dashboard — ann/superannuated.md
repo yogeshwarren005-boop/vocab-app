@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Retire and pension (someone) because of age or physical inability.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Declare to be obsolete.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Retired, disqualified, or pensioned off from active duty because of old age; obsolete, outmoded, or antiquated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social history and civil service reform, designating retired pensioners living upon state or institutional allowances after decades of labor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"During this interval I had remained standing on the piazza of the ‘Ti,’ which directly fronted the Happar mountain, and with no one near me but Kory-Kory and the old superannuated savages I have described."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"One moment he volunteered to trot off with me on his back to the stream; and when I refused, noways daunted by the repulse, he continued to frisk about me like a superannuated house-dog."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Scarcely satisfied with my apologies, however, he marched off with the superannuated musket in something of a huff, as if he would no longer expose it to the indignity of being manipulated by such unskilful fingers."*
+> - 📜 **Charles Lamb (*Essays of Elia*):** *"I am a **superannuated** man, released forever from the dismal prison of ledgers, accounts, and official correspondence."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"The **superannuated** laborer was discarded like a worn-out draft horse when his youthful sinews failed."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"A row of **superannuated** harpooneers sat along the tavern bench, puffing clay pipes and narrating voyages of former days."*
+

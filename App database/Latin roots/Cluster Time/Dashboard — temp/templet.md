@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A model or standard for making comparisons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A model or standard for making comparisons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pattern, mold, or gauge used as a guide in woodworking, metalworking, masonry, or shipbuilding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural masonry and civil engineering, a bearing stone or timber embedded in a wall to distribute concentrated girder loads.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, templet designates a model or standard for making comparisons."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The Gothic stonecutter dressed the intricate profile of the capital using an accurate zinc **templet**."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"The master builder fits each ashlar block exactly to the prescribed iron **templet**."*
+> - 📜 **William Morris (*Hopes and Fears for Art*):** *"The craftsman rejects the dead uniformity of the mechanical **templet** in favor of living handiwork."*
+

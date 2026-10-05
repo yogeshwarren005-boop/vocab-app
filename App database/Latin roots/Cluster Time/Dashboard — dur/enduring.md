@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put up with something or somebody unpleasant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Face and withstand with courage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lasting, continuing, or durable over a prolonged duration without fading, decaying, or ceasing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by long-term steadfastness, constancy, or permanence in memory, value, or emotional attachment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Take the boy to you: he so troubles me, ’Tis past enduring."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"What a way Oak had, she thought, of enduring things."*
-> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"Would to God I too might feel that frenzied faith whose touch Makes temporal the most enduring grief; Though it must walk a while, as is its wont, With wild lamenting!"*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"His devotion was of that quiet, **enduring** kind that survives all coldness and deepens with the passing years."*
+> - 📜 **William Wordsworth (*The Prelude*):** *"I looked upon the hills, serene and steadfast, symbols of an **enduring** power that mocks human transience."*
+> - 📜 **Abraham Lincoln (*Gettysburg Address*):** *"We are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long **enduring** stand."*

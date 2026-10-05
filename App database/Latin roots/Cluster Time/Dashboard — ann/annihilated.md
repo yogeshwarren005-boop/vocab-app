@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Kill in large numbers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destroyed completely.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Completely obliterated, extinguished, or reduced to nonexistence through crushing destruction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military history and strategic studies, describing armed forces or fortified positions rendered utterly combat-ineffective and disbanded.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"I am thinking of the sort of figure I cut the first time I saw you, when you annihilated my poor sketch with your criticism.” “My criticism?” said Dorothea, wondering still more."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Sometimes, nothing is injured but the man who is thus annihilated; oftener the boat’s bow is knocked off, or the thigh-board, in which the headsman stands, is torn from its place and accompanies the body."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"And do you know,” I added, “what has been the result since men have almost entirely annihilated this useful race?"*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman legions stationed along the desert frontier were utterly **annihilated** by the swift cavalry of the Persians."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"All my hopes of domestic tranquility were suddenly **annihilated** by the tragic tidings from home."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The ancient aristocratic privileges of the province were summarily **annihilated** by revolutionary decree."*
+

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Virginia oysters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Virginia oysters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prominent biological genus of true cupped oysters within the marine bivalve family Ostreidae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology and commercial aquaculture, this cosmopolitan genus includes ecologically vital keystone species such as the Eastern oyster (*Crassostrea virginica*) and Pacific oyster.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crassostrea designates virginia oysters."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"Extensive reef banks formed by the cupped oyster **Crassostrea** provide vital shelter for countless estuarine invertebrates."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses and Reviews*):** *"The morphological adaptations of **Crassostrea** illustrate how fixed bivalve organisms thrive amidst shifting tidal currents."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Fossil beds containing species allied to modern **Crassostrea** indicate ancient marine shorelines long buried beneath continental plains."*

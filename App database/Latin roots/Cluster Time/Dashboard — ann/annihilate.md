@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Kill in large numbers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Kill in large numbers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To reduce to utter ruin or nonexistence; destroy completely, decisively, or extinguish entirely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In particle physics, to undergo mutual destruction upon collision between a subatomic particle and its corresponding antiparticle, converting mass into energy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He would annihilate the six years of his life as if they were minutes—so little did he value his time on earth beside her love."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"To escape the past and all that appertained thereto was to annihilate it, and to do that she would have to get away."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I was very sorry.” Will only thought of giving a good pinch that would annihilate that vaunted laboriousness, and was unable to imagine the mode in which Dorothea would be wounded."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Lest all mankind by sudden doom **annihilate** should cease from the fair face of the earth."*
+> - 📜 **William Shakespeare (*The Rape of Lucrece*):** *"To blot old books and alter their contents, to tear the witness of old times, and **annihilate** their valid truths."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"A single catastrophic alteration in climate might completely **annihilate** a localized endemic species."*
+

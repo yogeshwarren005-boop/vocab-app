@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like a ring.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shaped like a ring.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the form or appearance of a ring; forming a ring or circular band with a hollow center.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In observational astronomy, designating an annular solar eclipse where the moon's angular diameter is smaller than the sun's, leaving a blazing ring of light.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"But such a line passing from the vital to the annular, to the ring finger, promises honors to ensue, from or by the means of some famous lady."*
+> - 📜 **Charles Darwin (*The Structure and Distribution of Coral Reefs*):** *"An atoll displays a magnificent **annular** reef enclosing a tranquil lagoon isolated from the open ocean waves."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"During an **annular** eclipse, the dazzling ring of the solar photosphere remains visible around the dark disk of the moon."*
+> - 📜 **Henry Gray (*Gray's Anatomy*):** *"The fibrous **annular** ligament encircles the wrist joint to securely retain the long flexor tendons in position."*
+

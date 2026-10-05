@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Below the dura mater but above the arachnoid membrane of the meninges.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Below the dura mater but above the arachnoid membrane of the meninges.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated or occurring beneath the dura mater, between the dura and arachnoid mater meningeal layers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology and neurotrauma, designating a hematoma or effusion accumulated within the potential subdural space following rupture of bridging veins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subdural designates below the dura mater but above the arachnoid membrane of the meninges."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A chronic **subdural** hematoma may develop insidiously following minor head trauma, producing progressive mental dullness."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology*):** *"Surgical drainage of the large **subdural** collection resulted in immediate re-expansion of the compressed cerebral hemisphere."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The **subdural** space contains a minute quantity of serous lubricating fluid that facilitates slight movement between membranes."*

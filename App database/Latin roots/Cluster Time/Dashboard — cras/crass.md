@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of persons) so unrefined as to be lacking in discrimination and sensibility.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of persons) so unrefined as to be lacking in discrimination and sensibility.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking discrimination, refinement, or moral sensibility; grossly coarse and unrefined.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual and social critique, describing boorish insensitivity, unthinking materialism, or egregious vulgarity in judgment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"There were many crass minds in Middlemarch whose reflective scales could only weigh things in the lump; and they had a strong suspicion that since Mr."*
+> - 📜 **George Eliot (*Middlemarch*):** *"There were many **crass** minds in Middlemarch whose reflective scales could only weigh things in the lump."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"A missing counterpart wandered independently about the earth waiting in **crass** obtuseness till the late time came."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"Does the fact look **crass** and material, threatening to degrade thy theory of spirit?"*

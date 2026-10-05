@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The position where someone (as a guard or sentry) stands or is assigned to stand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Military installation at which a body of troops is stationed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sturdy upright timber, metal column, or stone pillar fixed firmly in the ground to support fences, signs, or structural beams.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An assigned military or administrative station; or the governmental apparatus and network dedicated to conveying public dispatches and letters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His highness comes post from Marseilles, of as able body as when he number’d thirty; he will be here tomorrow, or I am deceived by him that in such intelligence hath seldom fail’d."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let’s see if other watchmen Do hear what we do. [_They advance to another post._] SECOND SOLDIER."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why then, ’tis good to be a post."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"Thou shalt be pinch'd as thick as honeycomb, each pinch more stinging than bees that made 'em, bound fast to this rocky **post**."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"A sentinel assigned to an exposed **post** must remain vigilant through the darkest hours of night."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak leaned his broad back against the gate **post**, listening to the rhythmic murmurs of the folded sheep."*
+

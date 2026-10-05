@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of weather or climate) free from extremes; mild; or characteristic of such weather or climate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not extreme in behavior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing moderation or self-restraint; or having a mild climate without extremes of temperature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical geography, the temperate zones lying between the tropics and the polar circles characterized by four distinct seasons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, you men of Harfleur, Take pity of your town and of your people, Whiles yet my soldiers are in my command, Whiles yet the cool and temperate wind of grace O’erblows the filthy and contagious clouds Of heady murder, spoil, and villainy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So hot a speed with such advice dispos’d, Such temperate order in so fierce a cause, Doth want example."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who can be wise, amaz’d, temperate, and furious, Loyal and neutral, in a moment?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whiles yet the cool and **temperate** wind of grace o'erblows the filthy and contagious clouds of heady murder, spoil, and villainy."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Full of this dim and **temperate** bliss, he went on to fling the ewe over upon her other side."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Species from an arctic or even from a **temperate** region cannot endure a tropical climate, or conversely."*
+

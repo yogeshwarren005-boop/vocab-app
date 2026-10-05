@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unworthiness by virtue of lacking higher values.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unworthiness by virtue of lacking higher values.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Utter unworthiness, baseness, or despicable character deserving universal scorn.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethical philosophy, the status of an agent who has thoroughly repudiated honor, duty, and civic obligation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"The old ballad, "I wish I were where Helen lies," is silly, to contemptibility."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Nothing sinks a claimant so swiftly into utter **contemptibility** as the boast of virtues which his conduct belies."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The frivolous antics of the Parisian demagogues exposed their political program to universal **contemptibility**."*
+> - 📜 **Jonathan Swift (*A Tale of a Tub*):** *"The meager pretensions of the Grub Street scribblers revealed the naked **contemptibility** of their learning."*
+

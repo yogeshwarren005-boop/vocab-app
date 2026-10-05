@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: After death.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: After death.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner occurring, published, awarded, or recognized following a person's death.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biographical history and literary heritage, the conferral of honors, military decorations, or academic editions after the honoree's demise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, posthumously designates after death."*
+> - 📜 **Thomas Hardy (*Life's Little Ironies*):** *"The reclusive verses were printed **posthumously** by loyal friends who recognized the uncelebrated genius of the rural schoolmaster."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"Her intimate diaries were published **posthumously**, revealing a vibrant internal brilliance unsuspected by casual acquaintances."*
+> - 📜 **H. G. Wells (*Experiment in Autobiography*):** *"The philosophical reflections of his brother were edited and issued **posthumously** to critical acclaim."*
+

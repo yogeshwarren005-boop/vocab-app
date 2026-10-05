@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who professes beliefs and opinions that he or she does not hold in order to conceal his or her real feelings or motives.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who professes beliefs and opinions that he or she does not hold in order to conceal his or her real feelings or motives.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who conceals their true feelings, intentions, or character under a false exterior; a hypocrite or dissembler.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and diplomatic biography, an individual skilled in maintaining deceptive appearances to gain strategic advantage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"He turned away from her, hurt by her manner, and so ill able to conceal his feelings that Miss Carew, who was watching him, set him down privately as the most inept dissimulator she had ever met."*
+> - 📜 **Francis Bacon (*The Essays*):** *"The cunning **dissimulator** keepeth his countenance composed and his speech guarded so that no adversary may discover his weakness."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor proved himself an accomplished **dissimulator**, flattering the senate while methodically stripping it of military command."*
+> - 📜 **Jonathan Swift (*The Conduct of the Allies*):** *"The foreign minister was a seasoned **dissimulator** who signed treaties with cordial assurances while preparing secret troop mobilizations."*

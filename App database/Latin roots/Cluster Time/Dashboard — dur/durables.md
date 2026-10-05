@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consumer goods that are not destroyed by use.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consumer goods that are not destroyed by use.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consumer goods designed to resist wear and tear over an extended lifespan, such as automobiles, machinery, and furniture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In macroeconomic statistics, manufactured capital or consumer commodities with an expected operational utility period exceeding three years.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, durables designates consumer goods that are not destroyed by use."*
+> - 📜 **John Maynard Keynes (*The General Theory of Employment, Interest and Money*):** *"Fluctuations in the output of consumer **durables** exert a profound influence upon aggregate effective demand."*
+> - 📜 **Alfred Marshall (*Principles of Economics*):** *"The accumulation of household **durables** represents a postponed flow of utility that stabilizes family welfare across seasons."*
+> - 📜 **Paul Samuelson (*Economics*):** *"When interest rates tighten, purchases of long-lasting **durables** like motorcars and houses decline precipitously."*

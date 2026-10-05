@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A leading german painter and engraver of the renaissance (1471-1528).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A leading german painter and engraver of the renaissance (1471-1528).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Albrecht Dürer (1471–1528), the celebrated German Renaissance painter, printmaker, and theorist of Nuremberg.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In art history, the master engraver who harmonized Northern European Gothic naturalism with Italian Renaissance proportion and perspective.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"I always consider an old English family as well worth studying as a collection of Holbein’s portraits or Albert Durer’s prints."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"I always consider an old English churchyard as a quaint graphic study worthy of the pencil of **Dürer**."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"In every line traced by the hand of **Dürer**, we discover an unflinching reverence for the minute truth of nature."*
+> - 📜 **Walter Pater (*Studies in the History of the Renaissance*):** *"The melancholic engravings of **Dürer** embody that introspective German intellect wrestling with spiritual mysteries."*

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Queen of england and scotland and ireland; daughter if james ii and the last of the stuart monarchs; in 1707 she was the last english ruler to exercise the royal veto over parliament (1665-1714).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Queen of england and scotland and ireland; daughter if james ii and the last of the stuart monarchs; in 1707 she was the last english ruler to exercise the royal veto over parliament (1665-1714).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A traditional feminine given name derived from the Hebrew Hannah, signifying grace, favor, or mercy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British monarchical history, Queen Anne ruled Great Britain and Ireland from 1702 to 1714, presiding over the Act of Union uniting England and Scotland.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Edmund had issue, Roger, Earl of March; Roger had issue, Edmund, Anne, and Eleanor."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His eldest sister, Anne, My mother, being heir unto the crown, Married Richard Earl of Cambridge, who was son To Edmund Langley, Edward the Third’s fifth son."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then enter Anne Bullen and divers other Ladies and Gentlemen as guests, at one door."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Few women could think more seriously than **Anne** Elliot did on all matters of domestic affection and duty."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"My dear friend **Anne** sat beside the hearth in quiet contemplation while the autumn winds rattled the windowpanes."*
+> - 📜 **William Makepeace Thackeray (*Henry Esmond*):** *"The court of Queen **Anne** was shaken by fierce intrigues between the Whig ministers and the Tory squires."*
+

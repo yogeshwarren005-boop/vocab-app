@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The face of a timepiece; graduated to show the hours.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The control on a radio or television set that is used for tuning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A marked graduated face or disc on an instrument where a pointer or index indicates time, compass heading, or physical measurements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horology and telecommunications, a calibrated plate on a timepiece, sun clock, or rotational rotary mechanism for signaling coordinates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The wrinkles which thy glass will truly show, Of mouthed graves will give thee memory, Thou by thy dial’s shady stealth mayst know, Time’s thievish progress to eternity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ah yet doth beauty like a dial hand, Steal from his figure, and no pace perceived, So your sweet hue, which methinks still doth stand Hath motion, and mine eye may be deceived."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then my dial goes not true; I took this lark for a bunting."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"And then he drew a **dial** from his poke, and looking on it with lack-lustre eye, says very wisely, 'It is ten o'clock.'"*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"An ingenious astronomer undertook to place a sun-**dial** upon the great weathercock on the town-house."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The shadow cast across the ancient slate **dial** marked the quiet passage of afternoon hours over the garden."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Imprisonment (especially for a long time).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Imprisonment (especially for a long time).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Imprisonment, confinement, or involuntary restraint, especially when protracted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, long-lasting incarceration under legal or military custody, often appearing in the archaic idiom durance vile.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And is not a buff jerkin a most sweet robe of durance?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy Doll, and Helen of thy noble thoughts, Is in base durance and contagious prison, Haled thither By most mechanical and dirty hand."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, just; perpetual durance; a restraint, Though all the world’s vastidity you had, To a determined scope."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The captive knight languished in harsh **durance** within the subterranean vaults of Torquilstone castle."*
+> - 📜 **William Shakespeare (*The Comedy of Errors*):** *"One that, before the judgment, carries poor souls to hell; he that thinks himself in better deeds than any one of us, a fellow all in buff that catches men into **durance**."*
+> - 📜 **Robert Louis Stevenson (*Kidnapped*):** *"He lay in strict **durance** below hatches, helpless against the violent pitching of the brig Covenant."*

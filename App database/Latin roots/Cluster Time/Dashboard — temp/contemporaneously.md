@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: During the same period of time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: During the same period of time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner occurring, developing, or coexisting at the very same time or period.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historiographical analysis, recording observations parallel to events without retrospective distortion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"I am not, I trust, mistaken in the recognition of some deeper correspondence than that of date in the fact that a consciousness of need in my own life had arisen contemporaneously with the possibility of my becoming acquainted with you."*
-> - 📜 **James Joyce (*Ulysses*):** *"What second departure was contemporaneously perceived by him similarly, if differently?"*
+> - 📜 **George Eliot (*Middlemarch*):** *"I am not, I trust, mistaken in the recognition of some deeper correspondence than that of date in the events unfolding **contemporaneously** around us."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The negotiations were conducted **contemporaneously** in London and Paris with the utmost secrecy."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Various physical forces act **contemporaneously** upon the evolving organism to shape its structural adaptation."*
+

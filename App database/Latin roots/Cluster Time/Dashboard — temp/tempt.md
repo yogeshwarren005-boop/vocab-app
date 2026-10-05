@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dispose or incline or entice to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provoke someone to do something through (often false or exaggerated) promises or persuasion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To entice or attempt to entice someone to do something, often something unwise or immoral.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical theology, an enticement that tests moral resolve or provokes divine retribution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tempt him not so too far; I wish, forbear."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ah, Luciana, did he tempt thee so?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With what persuasion did he tempt thy love?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"**Tempt** him not so too far; I wish, forbear."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Put your hand upon that stone hand, and swear that you will never **tempt** me by your charms or ways."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The mistletoe may metaphorically be said to struggle with other fruit-bearing plants, in order to **tempt** birds to devour and thus disseminate its seeds."*
+

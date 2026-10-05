@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reports of the work of a society or learned body etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chronological account of events in successive years.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chronological record of historical events recorded year by year; historical records or archives in general.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scholarly publishing, a prestigious periodic serial containing the historical transactions or research proceedings of an academic society.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you have writ your annals true, ’tis there, That like an eagle in a dovecote, I Fluttered your Volscians in Corioles, Alone I did it."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tears came into the eyes of Retty Priddle, the pretty red-haired youngest—the last bud of the Paridelles, so important in the county annals."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Dalyell, _Darker Superstitions of Scotland_ (Edinburgh, 1834), pp. 140 _sq._; Daniel Wilson, _The Archaeology and Prehistoric Annals of Scotland_ (Edinburgh, 1851), pp. 303 _sqq._; Lieut.-Col."*
+> - 📜 **William Shakespeare (*Coriolanus*):** *"If you have writ your **annals** true, ’tis there, that like an eagle in a dovecote, I fluttered your Volscians in Corioles."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Tears came into the eyes of Retty Priddle, the pretty red-haired youngest—the last bud of the Paridelles, so important in the county **annals**."*
+> - 📜 **Thomas Gray (*Elegy Written in a Country Churchyard*):** *"Let not Ambition mock their useful toil, their homely joys, and destiny obscure; nor Grandeur hear with a disdainful smile, the short and simple **annals** of the poor."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A worker (especially in an office) hired on a temporary basis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not permanent; not lasting; - james thurber.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lasting for only a limited period of time; not permanent, enduring, or perpetual.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil engineering, temporary works such as falsework, formwork, and shoring used during construction phases.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know him for a man divine and holy, Not scurvy, nor a temporary meddler, As he’s reported by this gentleman; And, on my trust, a man that never yet Did, as he vouches, misreport your Grace."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce then withdrawing into the temporary growlery, Miss Jellyby opened a conversation with her usual abruptness."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But I had left some silk downstairs in a work-table drawer in the temporary growlery, and coming to a stop for want of it, I took my candle and went softly down to get it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know him for a man divine and holy, not scurvy, nor a **temporary** meddler, as he's reported by this gentleman."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Her wayward sentiment that evening concerning Fanny's **temporary** resting-place had been the result of a strange complication of impulses in Bathsheba's bosom."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"When it means anything better than this, it means that which is expedient for some immediate object, some **temporary** purpose."*
+

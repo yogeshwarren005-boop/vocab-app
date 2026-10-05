@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become fixed or established.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make hard or harder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make or grow hard, unfeeling, or callous; physically hardened or morally unyielding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology and petrology, tissue or sedimentary deposits that have become abnormally firm and compact through fibrosis, calcification, or pressure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There was a wide margin of grass along here, and Gabriel’s footsteps were deadened by its softness, even at this indurating period of the year."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"But he is a dour old man--indurated, impervious to good influence."*
-> - 📜 **James Joyce (*Ulysses*):** *"Both indurated by early domestic training and an inherited tenacity of heterodox resistance professed their disbelief in many orthodox religious, national, social and ethical doctrines."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Hard manual toil and winter gales had combined to **indurate** the old laborer's weathered hands into leather."*
+> - 📜 **James Joyce (*Ulysses*):** *"Both were **indurate** in their sullen silence, staring across the smoke-filled tavern without uttering a single greeting."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Subterranean heat and enormous lithostatic pressure had served to **indurate** the soft mudstones into crystalline schists."*

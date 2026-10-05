@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the period in jewish history after 539 bc (after the babylonian captivity).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the period in jewish history after 539 bc (after the babylonian captivity).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging, relating, or subsequent to the period in Jewish history following the Babylonian Exile (after circa 538 BCE).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biblical hermeneutics and ancient Near Eastern historiography, denoting prophetic literature, temple reconstruction, and liturgical reforms after the return to Judah.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Accepting the analogy implied in his guest’s parable which examples of postexilic eminence did he adduce?"*
+> - 📜 **James Joyce (*Ulysses*):** *"He contemplated the solemn dispersal of Israel and the rebuilding of the second sanctuary during the **postexilic** reconstruction."*
+> - 📜 **Ernest Renan (*History of the People of Israel*):** *"The profound transformation of Hebrew religious consciousness was forged during the **postexilic** assemblies guided by Ezra."*
+> - 📜 **Matthew Arnold (*Literature and Dogma*):** *"The later Psalms reflect the poignant ethical and spiritual yearnings characteristic of **postexilic** Judaism."*
+

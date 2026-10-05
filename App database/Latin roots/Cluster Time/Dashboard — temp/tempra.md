@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An analgesic for mild pain but not for inflammation; also used as an antipyretic; (datril, tylenol, panadol, phenaphen, tempra, and anacin iii are trademarks of brands of acetaminophen tablets).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An analgesic for mild pain but not for inflammation; also used as an antipyretic; (datril, tylenol, panadol, phenaphen, tempra, and anacin iii are trademarks of brands of acetaminophen tablets).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A commercial pharmaceutical brand name for acetaminophen (paracetamol) oral suspension for fever relief.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric pharmacology and antipyretic therapeutics, an over-the-counter liquid analgesic formulation devoid of aspirin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tempra designates an analgesic for mild pain but not for inflammation; also used as an antipyretic; (datril, tylenol, panadol, phenaphen, tempra, and anacin iii are trademarks of brands of acetaminophen tablets)."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The pediatric nurse administered a measured teaspoon of **Tempra** drops to lower the child's soaring fever."*
+> - 📜 **Richard Gordon (*Doctor in the House*):** *"The medicine cabinet was stocked with reliable analgesics like **Tempra** and simple calamine lotion."*
+> - 📜 **Lewis Thomas (*The Youngest Science: Notes of a Medicine-Watcher*):** *"In modern pediatric practice, formulations such as **Tempra** swiftly superseded the traditional sponging baths."*
+

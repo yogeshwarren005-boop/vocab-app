@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The office of primate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The office of primate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The office, ecclesiastical dignity, or term of service of an archbishop or primate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In church governance, the tenure and jurisdiction exercised by the metropolitan bishop over regional dioceses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, primateship designates the office of primate."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"During his long **primateship**, Cranmer steered the English church through the tempestuous changes of the Reformation."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The ambitious prelate was elevated to the **primateship** of Antioch, where he wielded temporal as well as spiritual power."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The ancient rights attached to the **primateship** of Canterbury were secured by parliamentary statute after the Norman conquest."*

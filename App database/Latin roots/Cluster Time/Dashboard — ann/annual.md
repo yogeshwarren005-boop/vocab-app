@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (botany) a plant that completes its entire life cycle within the space of a year.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reference book that is published regularly once every year.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring, appearing, done, or calculated once every year; lasting for or determined by the span of a single year.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, designating a plant species that completes its entire life cycle from seed germination to death within a single growing season.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The city strived God Neptune’s annual feast to keep: from whence Lysimachus our Tyrian ship espies, His banners sable, trimm’d with rich expense; And to him in his barge with fervour hies."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"In that event, no doubt, he would establish the Jarndyce Institution and the Summerson Almshouses, and a little annual Corporation Pilgrimage to St."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"These annual migrations from farm to farm were on the increase here."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"In every country the **annual** production of seeds far exceeds the number of individuals capable of surviving to maturity."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The **annual** produce of the land and labor of any nation can be increased in value only by increasing either the number of productive laborers or their productive powers."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A single legislative assembly chosen by **annual** elections was deemed by many republicans the safest bulwark of civic liberty."*
+

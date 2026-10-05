@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hardening something by heat treatment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring to a desired consistency, texture, or hardness by a process of gradually heating and cooling.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of moderating, softening, or toughening a material or human attitude.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chocolate manufacturing, controlled crystallization of cocoa butter polymorphs to ensure a glossy sheen and crisp snap.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have him already tempering between my finger and my thumb, and shortly will I seal with him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But passion lends them power, time means, to meet, Tempering extremities with extreme sweet. [_Exit._] SCENE I."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Brooke; “meeting people half-way—tempering your ideas—saying, ‘Well now, there’s something in that,’ and so on."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have him already **tempering** between my finger and my thumb, and shortly will I seal with him."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Brooke spoke of meeting people half-way, **tempering** your ideas, and saying well now there's something in that."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"As the blacksmith was about giving the barbs their final heat, prior to **tempering** them, he cried to Ahab to place the water-cask near."*
+

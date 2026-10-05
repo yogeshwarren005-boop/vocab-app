@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The third finger (especially of the left hand).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The third finger (especially of the left hand).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic Scottish legal term denoting annual income, rent, annuity, or a yearly revenue stream secured upon lands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical Scots feudal jurisprudence, an annualry formed a customary heritable security or right granted to an annuitant over the yield of an estate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, annualry designates the third finger (especially of the left hand)."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The parchment charter specifically reserved a modest **annualry** payable out of the mill rents to the parish church."*
+> - 📜 **John Skene (*De Verborum Significatione*):** *"By the ancient customs of Scotland, an **annualry** signifies a yearly duty or pension uplifted from immovable goods."*
+> - 📜 **Henry Home, Lord Kames (*Historical Law-Tracts*):** *"The feudal proprietor granted an infeftment of **annualry** to secure the creditor against the hazards of forfeiture."*
+

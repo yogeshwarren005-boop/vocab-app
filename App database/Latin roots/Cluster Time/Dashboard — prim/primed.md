@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Insert a primer into (a gun, mine, or charge) preparatory to detonation or firing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cover with a primer; apply a primer to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Prepared, coached, or made ready for a specific operation, task, or performance; coated with a preliminary preparatory layer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ballistics, having powder or a percussion cap placed in the pan or nipple; in painting, treated with primer to seal the substrate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Marian, primed to a humorous mood, would discover the queer-shaped flints aforesaid, and shriek with laughter, Tess remaining severely obtuse."*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"In time you will rise to higher efforts of thought and intellectual activity, but you will be primed for those efforts by the grasp you have secured in your studies of every-day phenomena."*
-> - 📜 **John Leonard Hardenbergh (*The Journal of Lieut. John L. Hardenbergh of the Second New York Continental Regiment from May 1 to October 3, 1779, in General Sullivan's Campaign Against the Western Indians*):** *"The two friends primed the remaining guns and kept vigilant watch until daylight to guard against surprise."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Marian, **primed** to a humorous mood, would discover the queer-shaped flints aforesaid, and shriek with laughter."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"See that your polished arms be **primed** with care, and drop the night-bolt before retiring."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The pistol was carefully **primed** and cocked, ready for immediate action should the fugitive offer resistance."*

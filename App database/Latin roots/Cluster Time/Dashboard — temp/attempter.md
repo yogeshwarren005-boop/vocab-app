@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who tries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who tries.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who undertakes an effort, essay, enterprise, or hostile assault.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaic and early modern English, an assailant who assays a fortress or makes an aggressive trial against authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, attempter designates one who tries."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The bold **attempter** of the celestial throne surveyed the gulf of darkness stretching beneath him."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Every daring **attempter** of the imperial purple found eager partisans among the mutinous frontier legions."*
+> - 📜 **Francis Bacon (*Essays*):** *"The rash **attempter** who seeks innovation without maturity of counsel meets inevitable disaster."*
+

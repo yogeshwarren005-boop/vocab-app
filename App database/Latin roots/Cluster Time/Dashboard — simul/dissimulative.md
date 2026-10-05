@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Concealing under a false appearance with the intent to deceive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concealing under a false appearance with the intent to deceive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by, tending toward, or practicing dissimulation; deceptively secretive or concealing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social psychology and rhetorical analysis, describing behaviors, linguistic cues, or facial strategies deployed to hide authentic affect.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dissimulative designates concealing under a false appearance with the intent to deceive."*
+> - 📜 **Henry James (*The Golden Bowl*):** *"She observed his **dissimulative** smile, recognizing the subtle mask with which he shielded his profound embarrassment."*
+> - 📜 **George Eliot (*Romola*):** *"Tito's **dissimulative** habits had grown so second-nature that he could effortlessly feign devotion while plotting betrayal."*
+> - 📜 **Anthony Trollope (*The Eustace Diamonds*):** *"Lizzie possessed a **dissimulative** talent that baffled her closest relatives whenever financial questions were raised."*

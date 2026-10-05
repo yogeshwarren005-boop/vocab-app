@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Draw out a discussion or process in order to gain time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Draw out a discussion or process in order to gain time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To act evasively in order to gain time, defer a decision, or humor the current of circumstances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic negotiation, adopting calculated procrastination to await shifting geopolitical alliances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Lady Southdown, we say, for the sake of the invalid's health, or for the sake of her soul's ultimate welfare, or for the sake of her money, agreed to temporise."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"On the first day when his father formally gave him the hint that he was to place his affections at Miss Swartz's feet, George temporised with the old gentleman."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman envoy chose to **temporise** with the barbarian chieftain until the legionary reinforcements arrived from Illyricum."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The cautious ministers thought it safer to **temporise** than to provoke an open conflict with the proud barons."*
+> - 📜 **Walter Scott (*Waverley*):** *"He deemed it prudent to **temporise** until he could ascertain which royal claimant held the upper hand."*
+

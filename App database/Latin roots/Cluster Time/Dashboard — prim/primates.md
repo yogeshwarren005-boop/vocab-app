@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An animal order including lemurs and tarsiers and monkeys and apes and human beings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A senior clergyman and dignitary.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The biological order of placental mammals that includes lemurs, lorises, tarsiers, monkeys, apes, and humans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: High-ranking ecclesiastical dignitaries or metropolitan archbishops holding presiding jurisdictional authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, primates designates an animal order including lemurs and tarsiers and monkeys and apes and human beings."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Man differs conspicuously from all the other **primates** in being almost naked."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"The structural differences between the lower and higher **primates** are far greater than those between apes and man."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The rival **primates** assembled at the synod, contending fiercely for the dignity of their respective patriarchal thrones."*

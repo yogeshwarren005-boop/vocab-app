@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dispose or incline or entice to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provoke someone to do something through (often false or exaggerated) promises or persuasion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Appealing or attractive, especially in a way that creates an urge to possess, consume, or indulge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In consumer psychology and culinary arts, visual presentation crafted to stimulate visceral appetite and purchase desire.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am much too venturous In tempting of your patience, but am boldened Under your promised pardon."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O how ripe in show Thy lips, those kissing cherries, tempting grow!"*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"No, we won’t toss money on a Sunday, that would be tempting the devil indeed.” “Toss this hymn-book; there can’t be no sinfulness in that, miss.” “Very well."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay me, but yet thou mightst my seat forbear, thine by thy beauty **tempting** her to thee, thine by thy beauty being false to me."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"No, we won't toss money on a Sunday, that would be **tempting** the devil indeed."*
+> - 📜 **George Eliot (*Middlemarch*):** *"All the light I can command must be concentrated on this particular web, and not dispersed over that **tempting** range of relevancies called the universe."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pretending to be another person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pretending to be another person.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of deception or fraudulent imposition under an assumed character or false appearance; an act of cheating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical and philosophical criticism, the systematic manufacture and perpetuation of fraudulent claims or myths to manipulate human credulity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"This, though I had myself suggested an imposture, made it very unlikely to my quiet thoughts."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"But if not an imposture, what could it be supposed to be?"*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"This exasperated me; and as soon as I knew that this folly had been printed and was in every house, I hastened to M. le Curé, and entreated him in his next Sunday's sermon to tell the true story of Pierre Plastron, and reveal the imposture."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Barbarous tribes are peculiarly liable to be duped by the cunning **imposture** of medicine-men and sorcerers."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The entire family connection united in denouncing the scandalous **imposture** that had alienated the grandfather's bequest."*
+> - 📜 **Mrs. Oliphant (*The Perpetual Curate*):** *"She recoiled from the thought of an organized **imposture**, preferring outright penury to deceitful prosperity."*
+

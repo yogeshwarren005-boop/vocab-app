@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make an effort or attempt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enter upon an activity or enterprise.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having been tried or undertaken, often unsuccessfully or without full fruition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal indictments, qualifying a substantive criminal charge where execution fell short of completion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are to know That prosperously I have attempted, and With bloody passage led your wars even to The gates of Rome."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And how can that be true love which is falsely attempted?"*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Kathy did not hinder her and, to show her gratitude, attempted to start a little conversation."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are to know that prosperously I have **attempted**, and with bloody passage led your wars even to the gates of Rome."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"As the crook had absorbed most of Gabriel's money, he **attempted**, and carried out, an exchange of his overcoat for a shepherd's regulation smock-frock."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"It constituted the entire idea among the Hebrews, up to the birth of Christianity, as might be expected in the case of a people whose laws **attempted** to embrace all subjects on which precepts were required."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of respect accompanied by a feeling of intense dislike.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A manner that is generally disrespectful and contemptuous.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The feeling that a person or a thing is beneath consideration, worthless, or deserving scorn.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In procedural jurisprudence, willful disobedience to or open disrespect for the lawful authority of a court or legislature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, what place make you special, when you put off that with such contempt?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is not well, rash and unbridled boy, To fly the favours of so good a king, To pluck his indignation on thy head By the misprizing of a maid too virtuous For the contempt of empire."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How ill agrees it with your gravity To counterfeit thus grossly with your slave, Abetting him to thwart me in my mood; Be it my wrong, you are from me exempt, But wrong not that wrong with a more contempt."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, what place make you special, when you put off that with such **contempt**?"*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In those earlier days she had always nourished a secret **contempt** for girls who were the slaves of the first good-looking young fellow."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"No one of those who profess the most sublime **contempt** for the consequences of actions as an element in their morality attaches more importance to the distinction than I do."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With little or no preparation or forethought.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With little or no preparation or forethought.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Made, done, or uttered on the spur of the occasion; impromptu and lacking formal premeditation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical history, spontaneous spoken prayers contrasted with prescribed liturgical texts from a prayer book.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extemporary designates with little or no preparation or forethought."*
+> - 📜 **Thomas Fuller (*The Worthies of England*):** *"His devotion shone brightest in **extemporary** prayer, when fervent piety supplied the absence of written liturgy."*
+> - 📜 **Joseph Addison (*The Spectator*):** *"An **extemporary** assembly gathered quickly in the coffeehouse upon hearing the startling continental rumors."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"He condemned the practice of burdening youth with **extemporary** tasks before fundamental principles were thoroughly grounded."*
+

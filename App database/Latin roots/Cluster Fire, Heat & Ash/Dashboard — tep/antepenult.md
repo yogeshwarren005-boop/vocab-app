@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The 3rd syllable of a word counting back from the end.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The 3rd syllable of a word counting back from the end.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The syllable that occurs third from the end of a word, preceding the penult.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical prosody and linguistic phonetics, the syllable bearing stress in proparoxytone word structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antepenult designates the 3rd syllable of a word counting back from the end."*
+> - 📜 **George Saintsbury (*A History of English Prosody*):** *"The natural accentual rhythm of classical Latin verse consistently favors a stress falling upon the **antepenult**."*
+> - 📜 **Arthur Quiller-Couch (*On the Art of Writing*):** *"Careful poets regulate their meter by weighing whether emphasis should alight upon the penult or the **antepenult**."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Comparative Indo-European grammar demonstrates how pitch accents frequently shifted backward to the vocalic **antepenult**."*

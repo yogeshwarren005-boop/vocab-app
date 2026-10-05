@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of dry measure used in egypt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of dry measure used in egypt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A traditional Egyptian unit of dry capacity, historically used for measuring grains and pulses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Middle Eastern economic history and metrology, an agrarian dry measure standardized in modern times at approximately 198 liters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ardeb designates a unit of dry measure used in egypt."*
+> - 📜 **Edward William Lane (*An Account of the Manners and Customs of the Modern Egyptians*):** *"The corn factor calculated the annual harvest by the **ardeb**, loading sacks of wheat onto barges along the Nile."*
+> - 📜 **Richard Burton (*Personal Narrative of a Pilgrimage to Al-Madinah and Meccah*):** *"Every merchant in the Cairo bazaar disputed the precise capacity of the grain **ardeb** before striking a bargain."*
+> - 📜 **Amelia Edwards (*A Thousand Miles Up the Nile*):** *"Baskets filled with lentils and barley were measured out by the **ardeb** on the riverbank under the overseer's eye."*

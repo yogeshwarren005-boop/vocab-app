@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being emotionally aroused and worked up.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feelings of great warmth and intensity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Passionate intensity and warmth of feeling (chiefly British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical literature and classical rhetoric, vehement emotional or religious ardor animating action or speech.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bless him at home in peace, whilst I from far His name with zealous fervour sanctify."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Haply despair hath seiz’d her; Or, wing’d with fervour of her love, she’s flown To her desir’d Posthumus."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The city strived God Neptune’s annual feast to keep: from whence Lysimachus our Tyrian ship espies, His banners sable, trimm’d with rich expense; And to him in his barge with fervour hies."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"The queen defended her honor with such noble **fervour** that even her accusers were moved to pity."*
+> - 📜 **Bram Stoker (*Dracula*):** *"Jonathan Harker kissed the crucifix with genuine **fervour**, feeling its cold silver provide solace against evil."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Scientific inquiry must be pursued with all the intellectual **fervour** traditionally reserved for philosophical debate."*

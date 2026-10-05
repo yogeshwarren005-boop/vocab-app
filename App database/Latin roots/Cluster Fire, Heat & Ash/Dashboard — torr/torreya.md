@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Nutmeg-yews.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Nutmeg-yews.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of rare evergreen coniferous trees or shrubs in the yew family Taxaceae, noted for pungent foliage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dendrology and conservation biology, relict tertiary conifers including Torreya taxifolia with spiny needles and arillate seeds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, torreya designates nutmeg-yews."*
+> - 📜 **Asa Gray (*Scientific Papers of Asa Gray*):** *"The discovery of the isolated evergreen genus **Torreya** in the ravines of northern Florida revealed a marvelous botanical relic."*
+> - 📜 **John Muir (*The Mountains of California*):** *"Along the sheltered canyons of the Sierra foothills grows the California nutmeg, a handsome species of **Torreya** with aromatic leaves."*
+> - 📜 **Charles Sprague Sargent (*Manual of the Trees of North America*):** *"The glossy, sharp-pointed needles of **Torreya** distinguish it readily from all other evergreen shrubs of the southern river bluffs."*

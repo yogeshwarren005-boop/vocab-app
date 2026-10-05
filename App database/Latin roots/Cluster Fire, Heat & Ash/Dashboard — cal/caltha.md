@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of caltha.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of caltha.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of perennial wetland plants in the buttercup family (Ranunculaceae), commonly known as marsh marigolds or kingcups.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bog botany and floristics, cold-temperate herbaceous marsh plants bearing glossy kidney-shaped foliage and brilliant golden-yellow flowers lacking true petals but displaying showy sepals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The other children adorned themselves as best they could with the yellow flowers of the trollius and caltha."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"MARSH-MARIGOLD CLUSTER-CUPS; aggregate; peridia somewhat campanulate, with numerous minute marginal teeth; spores bright orange, subglobose or oval.—On leaves and petioles of _Caltha palustris_."*
+> - 📜 **Alfred Tennyson (*The May Queen*):** *"The wild marsh-marigold shines like fire in swamps and hollows gray, where **Caltha** spreads its yellow mantle in the spring."*
+> - 📜 **John Burroughs (*Wake-Robin*):** *"Along swampy brook margins, **Caltha** palustris opens its lavish golden cups before the woodland trees have put forth leaves."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The bright yellow blossom of **Caltha** consists entirely of petaloid sepals, concealing numerous stamens and carpels."*

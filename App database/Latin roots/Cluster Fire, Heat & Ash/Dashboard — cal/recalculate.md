@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Calculate anew.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Calculate anew.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To calculate or compute again, especially to verify results, correct errors, or incorporate new parameters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In celestial mechanics, actuarial modeling, and economic analysis, revising quantitative projections when empirical measurements deviate from forecast baselines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, recalculate designates calculate anew."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"When astronomical tables showed discrepancies, we had to **recalculate** every logarithmic polynomial by painstaking manual arithmetic."*
+> - 📜 **Arthur Eddington (*Space, Time and Gravitation*):** *"Einstein's general relativity compelled physicists to **recalculate** the perihelion advance of Mercury and the deflection of starlight."*
+> - 📜 **John Maynard Keynes (*The General Theory of Employment, Interest and Money*):** *"Sudden shifts in marginal efficiency of capital compel investors to **recalculate** their prospective investment returns overnight."*

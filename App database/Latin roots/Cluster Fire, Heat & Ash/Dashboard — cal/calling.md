@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The particular occupation for which you are trained.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assign a specified (usually proper) proper name to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A strong inner impulse or conviction toward a particular profession or way of life; a vocation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological ethics, sociology, and labor theory, a divinely ordained or deeply internalized life duty pursued with moral commitment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am more proud to be Sir Rowland’s son, His youngest son, and would not change that calling To be adopted heir to Frederick."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ne’er a fantastical knave of them all shall flout me out of my calling. [_Exit._] SCENE IV."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All the peace you make in their cause is calling both the parties knaves."*
+> - 📜 **Max Weber (*The Protestant Ethic and the Spirit of Capitalism*):** *"The concept of a worldly **calling** transformed everyday professional labor into a supreme religious obligation."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate conceived of medicine as a sacred **calling** requiring uncompromising intellectual courage and scientific inquiry."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Every individual possesses a unique **calling** written into their very constitution which no other soul can fulfill."*

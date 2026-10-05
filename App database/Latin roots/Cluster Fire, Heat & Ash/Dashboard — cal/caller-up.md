@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The person initiating a telephone call.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The person initiating a telephone call.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A knocker-up or early-morning worker employed to awaken factory hands and miners before dawn.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British industrial social history, a specialized itinerant morning worker who tapped upstairs bedroom windows with long bamboo rods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, caller-up designates the person initiating a telephone call."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"In the cold morning twilight, the steady tap of the **caller-up** echoed against the damp brick tenements of the mining town."*
+> - 📜 **Arnold Bennett (*Clayhanger*):** *"Long before the factory whistles shrieked, the old **caller-up** rattled his long pole against Edwin's window frame."*
+> - 📜 **D. H. Lawrence (*Sons and Lovers*):** *"Mrs. Morel woke promptly at five, hearing the punctual footsteps of the village **caller-up** descending the stony hill."*

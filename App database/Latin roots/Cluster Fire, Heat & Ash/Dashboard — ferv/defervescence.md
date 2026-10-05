@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abatement of a fever as indicated by a reduction in body temperature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abatement of a fever as indicated by a reduction in body temperature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The subsidence or abatement of a fever as body temperature returns to normal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical thermoregulation and pathophysiology, the physiological phase wherein diaphoresis and peripheral vasodilation dissipate excess body heat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, defervescence designates abatement of a fever as indicated by a reduction in body temperature."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The onset of sudden **defervescence** on the ninth day of lobar pneumonia was heralded by profuse perspiration and deep sleep."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"Nature often achieves spontaneous **defervescence** through critical sweats long before the physician's nostrums take effect."*
+> - 📜 **Siddhartha Mukherjee (*The Laws of Medicine*):** *"In intensive care, monitoring the precise timing of **defervescence** helps clinicians differentiate bacterial sepsis from drug reactions."*

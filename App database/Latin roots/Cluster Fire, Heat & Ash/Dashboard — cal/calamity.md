@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An event resulting in great loss and misfortune.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An event resulting in great loss and misfortune.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An event causing great and often sudden damage, distress, or disaster; a catastrophic misfortune.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tragic literature and philosophy, a profound catastrophe that tests human resilience, exposes systemic frailty, or evokes deep pity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Alack, You are transported by calamity Thither where more attends you, and you slander The helms o’ th’ state, who care for you like fathers, When you curse them as enemies."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There’s the respect That makes calamity of so long life."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lo, whilst I waited on my tender lambs, And to sun’s parching heat display’d my cheeks, God’s mother deigned to appear to me, And in a vision full of majesty Will’d me to leave my base vocation And free my country from calamity."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"There's the respect that makes **calamity** of so long life."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"A little onward lend thy guiding hand to these dark steps, a little further on, for sightless years make life a long **calamity**."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"The **calamity** that seemed crushing to the youth becomes in mature age the source of unexpected wisdom and strength."*

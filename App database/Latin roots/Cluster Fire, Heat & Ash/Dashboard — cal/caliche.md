@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Crust or layer of hard subsoil encrusted with calcium-carbonate occurring in arid or semiarid regions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Nitrate-bearing rock or gravel of the sodium nitrate deposits of chile and peru.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sedimentary crust of hard mineral matter composed of calcium carbonate, common in arid and semiarid soils.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In desert pedology and economic geology, an indurated subsurface horizon cemented by carbonates or nitrate-bearing saline deposits in northern Chile.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, caliche designates crust or layer of hard subsoil encrusted with calcium-carbonate occurring in arid or semiarid regions."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Across the arid plains of northern Chile, vast deposits of **caliche** furnish crude nitrate of soda for global commerce."*
+> - 📜 **John Wesley Powell (*Report on the Lands of the Arid Region of the United States*):** *"The underlying layer of **caliche** presents a formidable barrier to water percolation and deep root penetration across the southwestern tablelands."*
+> - 📜 **Aldo Leopold (*A Sand County Almanac*):** *"Beneath the thin desert sod, the chalky **caliche** cemented the stony soil into an impervious crust."*

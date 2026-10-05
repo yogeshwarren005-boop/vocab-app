@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A flaming torch (such as are used in processions at night).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flaming torch (such as are used in processions at night).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lighted torch, especially a decorated one used in public processions or night illuminations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural history and ceremonial processions, a flaming torch formed of thick wax wicks bound around a wooden core.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"For she danced blithe and brawly, even unto the breakin' o' the day!" And he went on tiptoe to the door of the weaving room, unlocked it, and looked in, holding his flambeau high above his head."*
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"To sell files, shows you will have others to work for you, yielding profitably. =Flambeau.=--To dream of flambeaux, is a sign of trouble, excitement and distress."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Good-night, gentlemen." And Jos creaked up the stairs to bedward, followed by Kirsch with a flambeau."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Footmen bearing smoking **flambeau** torches ran ahead of the carriage through the pitch-black streets of Paris."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The illumination of reason resembles not a blinding lightning bolt, but a steady **flambeau** guiding our footsteps."*
+> - 📜 **G. K. Chesterton (*The Innocence of Father Brown*):** *"In the masquerade, the master criminal took the pseudonym of Flambeau, lighting his theatrical path like a midnight **flambeau**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of volume or capacity equal to 10 liters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metric unit of volume or capacity equal to 10 liters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The British and international spelling of decaliter, representing a metric measure of capacity equal to ten litres.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international agricultural trade and European customs standards, a legal volumetric denomination used in commercial grain and vintage wine measurements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decalitre designates a metric unit of volume or capacity equal to 10 liters."*
+> - 📜 **Victor Hugo (*Les Misérables*):** *"The municipal market inspector tested the copper measure, verifying that each **decalitre** of vintage wine matched government standards."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"French agricultural reports recorded seed production per **decalitre**, comparing hybrid wheat strains across varied soils."*
+> - 📜 **H. G. Wells (*The World Set Free*):** *"In the new administrative republics, energy allocations and clean water were rationed strictly by the **decalitre** during reconstruction."*

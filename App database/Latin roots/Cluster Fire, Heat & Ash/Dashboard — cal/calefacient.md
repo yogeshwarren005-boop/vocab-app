@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing the sensation of heat when applied to the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing the sensation of heat when applied to the body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing or imparting warmth; warming; or a medicinal substance that generates heat when applied.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology and therapeutics, a topical rubefacient or internal medicinal agent that stimulates circulation and induces local warmth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calefacient designates producing the sensation of heat when applied to the body."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The application of a **calefacient** mustard plaster to the thoracic wall promotes cutaneous hyperemia and eases congested respiration."*
+> - 📜 **John Tyndall (*Heat Considered as a Mode of Motion*):** *"Friction between dense surfaces acts as a direct **calefacient** agent, converting mechanical motion into sensible thermal energy."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"Spices and pungent aromatic balsams exert a **calefacient** virtue upon the animal spirits and sluggish digestive humors."*

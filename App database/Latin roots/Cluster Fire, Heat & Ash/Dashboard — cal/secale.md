@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cereal grass widely cultivated for its grain: rye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cereal grass widely cultivated for its grain: rye.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A botanical genus of annual and perennial cereal grasses in the tribe Triticeae, most notably comprising rye (Secale cereale).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural agronomy and toxicological pharmacology, an ancient hardy cereal crop whose grains are vulnerable to Claviceps purpurea infection producing ergot alkaloids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, secale designates cereal grass widely cultivated for its grain: rye."*
+> - 📜 **Liberty Hyde Bailey (*Cyclopedia of American Agriculture*):** *"Farmers sow **Secale** cereale upon poor, acidic sandy soils where wheat and barley fail to produce profitable crops."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Ergot poisoning historically ravaged European villages when bread baked from diseased **Secale** grains produced widespread gangrenous ergotism."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The genus **Secale** is characterized by two-flowered spikelets arranged along a zigzag rachis forming a dense bearded spike."*

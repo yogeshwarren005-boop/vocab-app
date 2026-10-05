@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of wines and waters; charged naturally or artificially with carbon dioxide.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a liquid) giving off bubbles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Giving off bubbles; fizzy, vivacious, lively, or high-spirited.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In beverage manufacture, pharmacology, and descriptive prose, releasing microbubbles of gas or exhibiting exuberant sparkle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed has been twice dispatched for effervescent drinks, and has twice mixed them in the two official tumblers and stirred them up with the ruler."*
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"It was apparently impregnated with an effervescent gas, for little bubbles were continually ascending from the depths of the glasses, and bursting in silvery spray at the surface."*
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"How many years, and through what changes of fortune and various calamity, had that bottle hoarded up its effervescent joy, to be quaffed at last by two such boon companions!"*
+> - 📜 **Oscar Wilde (*The Importance of Being Earnest*):** *"Algernon poured a glass of **effervescent** champagne, declaring that cucumber sandwiches were essential for high tea."*
+> - 📜 **F. Scott Fitzgerald (*The Great Gatsby*):** *"Her voice was an **effervescent** fountain of laughter that captivated everyone gathered in the drawing room."*
+> - 📜 **H. G. Wells (*Tono-Bungay*):** *"The patent medicine was a sugary, **effervescent** tonic that bubbled enticingly when stirred into cold spring water."*

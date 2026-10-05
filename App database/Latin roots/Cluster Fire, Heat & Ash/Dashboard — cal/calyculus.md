@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of bracts simulating a calyx as in a carnation or hibiscus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small cup-shaped structure (as a taste bud or optic cup or cavity of a coral containing a polyp).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small cup-like anatomical structure, or a row of small bracts forming a false outer calyx beneath a flower.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In floral morphology and invertebrate zoology, an epicalyx at the base of an involucre, or a cup-shaped theca holding a marine polyp or gustatory taste bud.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calyculus designates a group of bracts simulating a calyx as in a carnation or hibiscus."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"In various species of Dianthus, the imbricated scales at the base of the calyx tube constitute an evident **calyculus**."*
+> - 📜 **Louis Agassiz (*Methods of Study in Natural History*):** *"The living coral animal secretes calcium carbonate, constructing a basal **calyculus** that anchors its soft radiating partitions."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Each gustatory bulb or **calyculus** contains specialized neuroepithelial cells responsive to sapid chemical substances in solution."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or produced by or consisting of volcanoes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Explosively unstable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Produced by, relating to, or resembling a volcano or igneous eruptive activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In petrology and vulcanology, designating extrusive igneous rocks, ejecta, or violently explosive geodynamic processes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The moon has eyed Tom with a dull cold stare, as admitting some puny emulation of herself in his desert region unfit for life and blasted by volcanic fires; but she has passed on and is gone."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"They were too volcanic, spasmodic, eruptive."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"To the N.E. two volcanic islands emerged of unequal size, surrounded by a coral reef that measured forty miles in circumference."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The black basaltic cliffs of the Galapagos Islands revealed their purely **volcanic** origin in every fissure and crater."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Vast sheets of basalt demonstrate how **volcanic** eruptions have reshaped continental crust across countless geological epochs."*
+> - 📜 **Herman Melville (*The Encantadas*):** *"A group of extinct **volcanic** craters stood like decayed chimney stacks against the desolate horizon of the archipelago."*

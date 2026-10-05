@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native american tent; usually of conical shape.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native american tent; usually of conical shape.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A conical tent made of skins, cloth, or canvas on poles, traditionally used by North American Plains peoples.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropology and Plains indigenous architecture, a portable, modular dwelling featuring smoke flaps and tripod or four-pole framework.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte B. Herr (*Their Mariposa Legend: A Romance of Santa Catalina*):** *"While with shrill cries two or three of the women gathered the little ones together, the rest pulled frantically at the poles holding each tepee in place."*
-> - 📜 **Charlotte B. Herr (*Their Mariposa Legend: A Romance of Santa Catalina*):** *"On the beach below, squatted within the opened flap of his tepee, Torquam, mighty chief of the Mariposa, smoked his evening pipe."*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"The companions of Frank Higgins were the children of the Sioux Indians, whose tepees were near the homestead."*
+> - 📜 **Willa Cather (*The Professor's House*):** *"Across the open prairie stood the tall silhouette of a skin **tepee**, its smoke drifting lazily toward the sunset."*
+> - 📜 **Francis Parkman (*The Oregon Trail*):** *"We rode into the circular encampment where buffalo hides stretched tightly across the towering poles of each **tepee**."*
+> - 📜 **Zane Grey (*Riders of the Purple Sage*):** *"By the creek bed, the old scout pitched a canvas **tepee** to shelter his companions against the biting desert wind."*

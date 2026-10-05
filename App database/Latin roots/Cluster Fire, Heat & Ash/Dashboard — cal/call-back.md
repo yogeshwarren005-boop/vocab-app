@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A return call.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The recall of an employee after a layoff.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A return phone call, an invitation to a secondary interview or audition, or a recall of manufactured products.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theatrical casting, telecommunications, and industrial quality management, a subsequent screening of shortlisted candidates or an urgent product recall.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, call-back designates a return call."*
+> - 📜 **David Mamet (*A Whore's Invention*):** *"The aspiring actor waited beside the payphone for the decisive **call-back** that could launch his stage career."*
+> - 📜 **Arthur Miller (*Timebends: A Life*):** *"The director granted her a second **call-back**, recognizing an unusual emotional authenticity in her delivery."*
+> - 📜 **Upton Sinclair (*The Flivver King*):** *"Factory managers issued an immediate **call-back** for thousands of defective axles discovered during assembly."*

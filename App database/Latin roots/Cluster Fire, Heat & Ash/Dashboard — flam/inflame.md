@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause inflammation in.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Catch fire.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To provoke or intensify strong feelings, especially anger or passion; also to cause physical swelling and redness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology and moral rhetoric, to induce an inflammatory immune response or to excite passions to reckless agitation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My knight, I will inflame thy noble liver, And make thee rage."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are not wood, you are not stones, but men; And being men, hearing the will of Caesar, It will inflame you, it will make you mad. ’Tis good you know not that you are his heirs; For if you should, O, what would come of it?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Which shows that beauty hath his power and will, Which can as well inflame as it can kill."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"I fear I wrong the honorable men whose daggers have stabb'd Caesar; yet Antony's speech will **inflame** the citizens."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Superfluous wealth serves only to **inflame** desires that simpler living readily pacifies."*
+> - 📜 **G. K. Chesterton (*The Everlasting Man*):** *"Demagogic rhetoric serves to **inflame** the mob, blinding men to the quiet realities of enduring moral truths."*

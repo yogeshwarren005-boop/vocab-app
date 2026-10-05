@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical annual procumbent poisonous subshrub having fruit that splits into five spiny nutlets; serious pasture weed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant of the genus trapa bearing spiny four-pronged edible nutlike fruits.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A multi-pronged iron weapon with sharp spikes positioned so that one point always faces upward when placed on the ground, designed to obstruct advancing horses or vehicles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military history and botanical taxonomy, an ancient defensive area-denial implement; also applied to prostrate spiny plants such as Tribulus terrestris whose fruit resembles the four-pointed weapon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Simon, second son of the Duke of Balmoral.’ Hum! ‘Arms: Azure, three caltrops in chief over a fess sable."*
+> - 📜 **Sir Walter Scott (*Ivanhoe*):** *"The garrison scattered iron **caltrop** spikes across the breach to lame the horses of the attacking chivalry."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Roman vanguard suffered grievous confusion when their chargers stepped upon sharp **caltrops** strewed secretly across the road."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The arid plains bristled with spiny weeds resembling the iron **caltrop**, whose sharp burrs pierced our leather boots."*

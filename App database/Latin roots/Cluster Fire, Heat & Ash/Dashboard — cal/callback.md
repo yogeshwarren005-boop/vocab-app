@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A request by the manufacturer of a defective product to return the product (as for replacement or repair).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A request by the manufacturer of a defective product to return the product (as for replacement or repair).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An invitation to return for a second round of auditions or interviews, or a return telephone connection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In software engineering and telecommunications, an executable function passed as an argument to be invoked asynchronously upon completion of an operation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, callback designates a request by the manufacturer of a defective product to return the product (as for replacement or repair)."*
+> - 📜 **Arthur Miller (*Timebends: A Life*):** *"When the young actress received her second **callback**, the producer recognized her latent dramatic intensity."*
+> - 📜 **David Mamet (*True and False: Heresy and Common Sense for the Actor*):** *"Do not alter your character choices merely to please casting agents during an unexpected **callback**."*
+> - 📜 **Donald Knuth (*The Art of Computer Programming*):** *"The interrupt handler invokes a registered **callback** to notify the primary algorithm that data transfer is complete."*

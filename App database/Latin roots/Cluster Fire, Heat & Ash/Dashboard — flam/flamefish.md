@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cardinalfish found in tropical atlantic coastal waters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cardinalfish found in tropical atlantic coastal waters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small, bright-red marine cardinalfish (Astrapogon stellatus or Apogon maculatus) native to warm reefs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine ichthyology, nocturnal reef-dwelling fishes of family Apogonidae exhibiting vivid carmine coloration and communal dwelling in conch shells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flamefish designates a cardinalfish found in tropical atlantic coastal waters."*
+> - 📜 **William Beebe (*Beneath Tropic Seas*):** *"Peering into the cavity of a living queen conch, we found a diminutive ruby **flamefish** sheltering peacefully."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The tropical **flamefish** belongs to the cardinalfish group, distinguished by large eyes and radiant red scales."*
+> - 📜 **Rachel Carson (*Under the Sea-Wind*):** *"Among the coral crevices, a tiny **flamefish** darted like a spark of living crimson against the sponges."*

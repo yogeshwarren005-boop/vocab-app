@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of scolopacidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of scolopacidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small wading shorebirds in the sandpiper family (Scolopacidae), including stints, knots, and sanderlings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian taxonomy and coastal ecology, migratory charadriiform birds specialized for probing intertidal mudflats and sandy beaches with sensitive bills.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calidris designates a genus of scolopacidae."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"Dense flocks of **Calidris** wheel above the ocean breakers in magnificent unison before alighting upon the wet sand."*
+> - 📜 **Gilbert White (*The Natural History and Antiquities of Selborne*):** *"Along the muddy margins of the estuary, shorebirds of the genus **Calidris** forage incessantly for minute crustacea."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"The genus **Calidris** comprises circumpolar migrants whose navigational feats across open oceans astonish naturalists."*

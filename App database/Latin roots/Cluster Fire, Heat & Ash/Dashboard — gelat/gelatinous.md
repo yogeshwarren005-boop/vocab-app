@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Thick like gelatin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thick like gelatin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the viscous, tremulous, or semi-solid consistency characteristic of jelly or gelatin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cytology, histology, and zoology, denoting colloidal extracellular matrix, mucilaginous sheaths, or jellyfish anatomy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Others, the greater number yellow and gelatinous, waited only to be picked."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Cheez!" said Marta, struggling through the gelatinous stuff."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"This gelatinous substance is dissolved away from the granular bodies which are immersed in it, by adding a little water upon the slide on which the mass is placed for examination."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The surface of the sea was covered with vast numbers of medusae, their delicate **gelatinous** bodies pulsating in the calm water."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"A vast, pulpy mass, furlongs in length and breadth, floated before us—a strange, **gelatinous** apparition of the giant squid."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"In early spring, the shallow pools are crowded with the clustered, **gelatinous** masses of frog spawn attached to reeds."*

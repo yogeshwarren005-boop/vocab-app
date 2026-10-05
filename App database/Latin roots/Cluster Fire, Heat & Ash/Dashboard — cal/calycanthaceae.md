@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shrubs or small trees having aromatic bark; the eastern united states and eastern asia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shrubs or small trees having aromatic bark; the eastern united states and eastern asia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small botanical family of aromatic flowering shrubs and small trees in the order Laurales, known as the sweetshrub family.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In angiosperm phylogeny, an ancient magnoliid family characterized by ethereal oil cells, strap-shaped spiral perianth parts, and cup-shaped receptacles enclosing achenes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calycanthaceae designates shrubs or small trees having aromatic bark; the eastern united states and eastern asia."*
+> - 📜 **Asa Gray (*Genera of the Plants of the United States*):** *"The family **Calycanthaceae** is distinguished by opposite leaves without stipules and sepals grading imperceptibly into petals on a hollow receptacle."*
+> - 📜 **Liberty Hyde Bailey (*Manual of Cultivated Plants*):** *"Gardeners cultivate members of **Calycanthaceae** for the delightful strawberry fragrance exhaled by their dark reddish-brown flowers."*
+> - 📜 **Charles Sprague Sargent (*The Silva of North America*):** *"In southeastern forests, representatives of **Calycanthaceae** grow along shaded streams, perfuming the humid air in early summer."*

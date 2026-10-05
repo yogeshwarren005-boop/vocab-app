@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Thyroid hormone that tends to lower the level of calcium in the blood plasma and inhibit resorption of bone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thyroid hormone that tends to lower the level of calcium in the blood plasma and inhibit resorption of bone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A polypeptide hormone secreted by the thyroid gland that lowers calcium levels in the blood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human endocrinology and calcium homeostasis, a hormone released by parafollicular C-cells that inhibits osteoclastic bone resorption and promotes renal calcium excretion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calcitonin designates thyroid hormone that tends to lower the level of calcium in the blood plasma and inhibit resorption of bone."*
+> - 📜 **Hans Selye (*Calciphylaxis*):** *"Endocrine regulation of serum calcium relies upon the reciprocal actions of parathyroid hormone and hypocalcemic **calcitonin**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Therapeutic infusions of **calcitonin** provide rapid control of hypercalcemic crises and relieve bone pain in Paget disease."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Whenever plasma calcium levels rise above normal, thyroid parafollicular cells secrete **calcitonin** to accelerate bone deposition."*

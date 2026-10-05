@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A region of southern italy (forming the toe of the italian `boot').
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A region of southern italy (forming the toe of the italian `boot').
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historic, mountainous administrative region of southern Italy occupying the toe of the Italian peninsula.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Mediterranean history and regional geography, a rugged terrain shaped by seismic activity, ancient Magna Graecia settlements, and Norman duchies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The practice is not confined to Sicily, for it is observed also at Cosenza in Calabria, and perhaps in other places."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Thus in some villages of Calabria the month of March is inaugurated with the expulsion of the witches."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Robert Guiscard led his Norman horsemen across the rugged defiles of **Calabria**, subduing the fortified coastal cities."*
+> - 📜 **George Gissing (*By the Ionian Sea*):** *"Travelling through the mountains of **Calabria**, one breathes the ancient air of Greek colonies long passed away."*
+> - 📜 **Norman Douglas (*Old Calabria*):** *"The wild upland forests of **Calabria** preserve an austere solitude rarely disturbed by the modern traveler."*

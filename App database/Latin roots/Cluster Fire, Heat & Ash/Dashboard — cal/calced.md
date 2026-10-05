@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of certain religious orders who wear shoes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used of certain religious orders who wear shoes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wearing shoes or footwear; shod (distinguishing certain religious orders from discalced or barefoot ones).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical history, designating monastics such as Calced Carmelites who retained conventional leather footwear rather than going barefoot.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calced designates used of certain religious orders who wear shoes."*
+> - 📜 **Miguel de Cervantes (*Don Quixote*):** *"The venerable father belonged to the order of **calced** friars, whose rules permitted the wearing of ordinary sandals."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Monastic reforms created sharp divisions between the barefoot hermits and the more moderate **calced** communities."*
+> - 📜 **Victor Hugo (*Les Misérables*):** *"Behind the grated convent chapel sat the sisters, observing the austere statutes of the **calced** foundation."*

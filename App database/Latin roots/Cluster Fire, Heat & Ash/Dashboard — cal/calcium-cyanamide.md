@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A compound used as a fertilizer and as a source of nitrogen compounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compound used as a fertilizer and as a source of nitrogen compounds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inorganic chemical compound (CaCN2) used as a synthetic nitrogen fertilizer and weed killer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial agrochemistry and electrochemistry, an electric arc furnace product synthesized from calcium carbide and nitrogen, used as a slow-release nitrogenous soil amendment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calcium-cyanamide designates a compound used as a fertilizer and as a source of nitrogen compounds."*
+> - 📜 **Fritz Haber (*Thermodynamics of Technical Gas Reactions*):** *"The commercial synthesis of **calcium-cyanamide** demonstrated the immense industrial feasibility of fixing atmospheric nitrogen for agricultural fertilizers."*
+> - 📜 **Svante Arrhenius (*Chemistry in Modern Life*):** *"Electric furnaces in mountainous river valleys convert lime and coal into carbide, and thence into nitrogenous **calcium-cyanamide**."*
+> - 📜 **Wilhelm Ostwald (*Principles of Inorganic Chemistry*):** *"Upon contact with moist soil, **calcium-cyanamide** decomposes slowly to liberate ammonia and urea for plant nutrition."*

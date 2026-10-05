@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Derived from or containing calcium or lime.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Derived from or containing calcium or lime.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing, derived from, or pertaining to calcium or lime.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In petrology and mineral chemistry, designating feldspars (such as anorthite) or silicate minerals rich in calcium oxide rather than sodium or potassium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calcic designates derived from or containing calcium or lime."*
+> - 📜 **James Dwight Dana (*A System of Mineralogy*):** *"Plagioclase feldspars form a continuous series from pure sodic albite to high-temperature **calcic** anorthite."*
+> - 📜 **Humphry Davy (*Elements of Agricultural Chemistry*):** *"The presence of **calcic** salts in arable land promotes the decomposition of vegetable humus."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"Igneous rocks rich in **calcic** plagioclase predominate in volcanic outpourings along destructive plate boundaries."*

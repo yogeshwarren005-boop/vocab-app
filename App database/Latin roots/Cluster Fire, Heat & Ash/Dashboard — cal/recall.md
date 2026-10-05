@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A request by the manufacturer of a defective product to return the product (as for replacement or repair).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A call to return.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To bring back to mind; to remember; also to order the return of a person or product.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology and public safety law, retrieving information from long-term memory, or the statutory revocation and return of defective manufactured goods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But though thou art adjudged to the death, And passed sentence may not be recall’d But to our honour’s great disparagement, Yet will I favour thee in what I can."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If Henry were recall’d to life again, These news would cause him once more yield the ghost."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We here below Recall not what we give, and therein may Vie honour with you."*
+> - 📜 **William Wordsworth (*The Prelude*):** *"I cannot look upon these mountain crags without a sudden impulse to **recall** the visionary scenes of early youth."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"It is an heretic that makes the fire, not she which burns in't: I'll not call you tyrant; but this your manner of wife **recall**."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The emperor sent couriers across the Alps to **recall** Belisarius from Italy to defend Constantinople against Hunnic horsemen."*

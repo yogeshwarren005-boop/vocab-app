@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to cause inflammation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to cause inflammation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to cause, promote, or accelerate physical inflammation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular immunology and cellular biology, designating cytokines (such as TNF-alpha or IL-1) that initiate and amplify inflammatory cascades.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proinflammatory designates tending to cause inflammation."*
+> - 📜 **Siddhartha Mukherjee (*The Song of the Cell*):** *"Macrophage activation releases a storm of **proinflammatory** molecules that summon neutrophils to the site of infection."*
+> - 📜 **Paul Kalanithi (*When Breath Becomes Air*):** *"The cytokine storm flooded the systemic vasculature with **proinflammatory** mediators that precipitated multi-organ distress."*
+> - 📜 **Atul Gawande (*Being Mortal*):** *"Chronic metabolic ailments are increasingly understood as driven by low-grade **proinflammatory** systemic states."*

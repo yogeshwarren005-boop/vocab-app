@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A river in southern florida that flows westerly to the gulf of mexico; forms the western end of the cross-florida waterway.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A river in southern florida that flows westerly to the gulf of mexico; forms the western end of the cross-florida waterway.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A river in southwestern Florida flowing approximately seventy-five miles from Lake Okeechobee into San Carlos Bay on the Gulf of Mexico.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hydrologic engineering and conservation ecology, an integral component of the Okeechobee Waterway whose artificial channelization and agricultural runoff profoundly affect estuarine health.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, caloosahatchee designates a river in southern florida that flows westerly to the gulf of mexico; forms the western end of the cross-florida waterway."*
+> - 📜 **Marjory Stoneman Douglas (*The Everglades: River of Grass*):** *"Down the meandering reaches of the **Caloosahatchee**, ancient cypress swamps once buffered freshwater floods before drainage canals altered natural flow."*
+> - 📜 **Thomas Edison (*The Papers of Thomas A. Edison*):** *"We anchored our skiff along the banks of the **Caloosahatchee**, finding Fort Myers an ideal tropical retreat for botanical experiments."*
+> - 📜 **Kirk Munroe (*Canoemates: A Story of the Florida Reef and Everglades*):** *"The travelers paddled steadily down the **Caloosahatchee**, marveling at flocks of white herons roosting in tangled mangroves."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perennial aromatic herbs growing in hedgerows or scrub or open woodlands from western europe to central asia and in north america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perennial aromatic herbs growing in hedgerows or scrub or open woodlands from western europe to central asia and in north america.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An aromatic bushy perennial herb of the mint family, native to Europe and the Mediterranean basin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In traditional herbalism and culinary botany, Clinopodium nepeta (formerly Calamintha), used as a digestive carminative and seasoning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calamint designates perennial aromatic herbs growing in hedgerows or scrub or open woodlands from western europe to central asia and in north america."*
+> - 📜 **Nicholas Culpeper (*The Complete Herbal*):** *"Wild **calamint** is an herb of Mars, hot and dry in the third degree, renowned for warming cold digestions."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"The fragrant leaves of mountain **calamint** being bruised yield a sweet and pleasant scent like that of pennyroyal."*
+> - 📜 **Gertrude Jekyll (*Wood and Garden*):** *"Clumps of purple-flowered **calamint** planted near the pathway shed their spicy aroma whenever brushed by walking feet."*

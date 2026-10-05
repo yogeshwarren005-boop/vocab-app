@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not sparkling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not effervescent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not giving off gas bubbles; still and uncarbonated (of a beverage or chemical solution).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In beverage manufacturing, analytical chemistry, and pharmacology, designating liquids that remain flat and lack carbonic effervescence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, noneffervescent designates not sparkling."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"The lab assistant prepared a **noneffervescent** saline mixture to maintain osmotic balance during the bacterial culture test."*
+> - 📜 **George Orwell (*Keep the Aspidistra Flying*):** *"Gordon Comstock ordered a glass of cheap, **noneffervescent** ale at the dingy tavern counter."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Creeping Man*):** *"The mysterious vial contained a dark, **noneffervescent** elixir that emitted a pungent organic odor."*

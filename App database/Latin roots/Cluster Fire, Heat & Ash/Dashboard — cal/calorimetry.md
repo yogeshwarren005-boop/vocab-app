@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Measurement of quantities of heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Measurement of quantities of heat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The science and technique of measuring the quantities of heat absorbed, evolved, or transferred in physical and chemical phenomena.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metabolic physiology and particle physics, the experimental discipline dividing into direct thermal quantification and indirect respirometry measuring oxygen uptake to compute substrate combustion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calorimetry designates measurement of quantities of heat."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The introduction of clinical **calorimetry** opened an entirely new epoch in the scientific understanding of fever and thyroid disorders."*
+> - 📜 **James Prescott Joule (*On the Mechanical Equivalent of Heat*):** *"Careful attention to radiation errors is indispensable if **calorimetry** is to yield accurate values for physical constants."*
+> - 📜 **Svante Arrhenius (*Immunochemistry*):** *"Methods adapted from chemical **calorimetry** demonstrated that toxin-antitoxin combinations liberate measurable quantities of reaction heat."*

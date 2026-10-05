@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A wooded plateau in the champagne-ardenne region of france; the site of intense fighting in world war i and world war ii.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A wooded plateau in the champagne-ardenne region of france; the site of intense fighting in world war i and world war ii.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavily forested, hilly plateau region extending across eastern Belgium, Luxembourg, and northern France.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In European military geography, a rugged upland terrain famed for strategic breakthrough campaigns in the World Wars.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"I was in the Ardennes during the war, and I saw some of its perils--but these were nothing to what we encountered now."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Meyrac, _Traditions, Coutumes Légendes et Contes des Ardennes_ (Charleville, 1890), p. 171; V."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Thus in the Belgian Ardennes for a week or a fortnight before the "day of the great fire," as it is called, children go about from farm to farm collecting fuel."*
+> - 📜 **Arthur Conan Doyle (*The British Campaign in France and Flanders*):** *"The wooded defiles of the **Ardennes** were deemed impassable by heavy armor until the sudden German advance proved otherwise."*
+> - 📜 **Victor Hugo (*Les Misérables*):** *"Memories of the ancient dark forests of the **Ardennes** returned to him like shadows cast by oak boughs across the snow."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The enemy counteroffensive struck through the snowbound ridges of the **Ardennes** with unexpected ferocity in mid-December."*

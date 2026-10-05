@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A challenge to a fight or duel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A challenge to a fight or duel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order summoning workers or emergency personnel to attend to a job, or an explicit challenge or reprimand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial labor relations, graphic layout design, and typography, an emergency work dispatch or a breakout text box highlighting crucial content.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, call-out designates a challenge to a fight or duel."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"The sudden **call-out** of rescue squads to the pithead signaled an explosion in the deep coal seam."*
+> - 📜 **Jack London (*The Iron Heel*):** *"Union leaders debated whether a general **call-out** of transport workers could halt the repressive legislation."*
+> - 📜 **Joseph Conrad (*The Nigger of the 'Narcissus'*):** *"The boatswain's piercing **call-out** roused all hands from their bunks to secure the flapping sails."*

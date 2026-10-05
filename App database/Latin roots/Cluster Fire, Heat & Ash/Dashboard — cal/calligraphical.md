@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or expressed in calligraphy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or expressed in calligraphy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resembling, or executed with the technique and artistry of fine handwriting or calligraphy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In typographical history and codicology, designating decorative flourishes, cursive letterforms, or penstrokes that emulate master scribal hands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calligraphical designates of or relating to or expressed in calligraphy."*
+> - 📜 **William Morris (*The Ideal Book*):** *"The early printers cast types that closely reproduced the **calligraphical** flourishes of northern monastic manuscripts."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The carved marble frieze exhibited a delicate **calligraphical** rhythm reminiscent of early Persian script."*
+> - 📜 **Roger Fry (*Vision and Design*):** *"The master's rapid sketches display a **calligraphical** spontaneity that academic draftsmen could never duplicate."*

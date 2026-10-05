@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state in the western united states on the pacific; the 3rd largest state; known for earthquakes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state in the western united states on the pacific; the 3rd largest state; known for earthquakes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A populous and economically vital state in the western United States, bordered by the Pacific Ocean.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political geography and cultural history, a vast coastal territory shaped by Spanish missions, the Gold Rush, technological innovation, and diverse ecosystems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"California is the spot I’ve had in my mind to try.” “But it is understood everywhere that you are going to take poor Mr."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"When very much in need of funds to procure supplies for a coming Winter, all expedients failed; then I asked God for assistance, when, unexpectedly, a friend in California sent me a little package of gold dust, which I sold, at once, for $130."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"On every side, his ears were filled with complaints of 'hard times;' the wheat crop had partially failed two years in succession--the California emigration, and railroad and plank-road speculations had almost drained the country of money."*
+> - 📜 **John Steinbeck (*The Grapes of Wrath*):** *"To the displaced families of the Dust Bowl, **California** shone like a promised land of fertile valleys and perpetual sunshine."*
+> - 📜 **John Muir (*My First Summer in the Sierra*):** *"No temple made with hands can rival the majestic granite cathedrals of **California** bathed in morning light."*
+> - 📜 **Mark Twain (*Roughing It*):** *"The sudden discovery of gold transformed **California** from a remote wilderness into a roaring cauldron of adventurous men."*

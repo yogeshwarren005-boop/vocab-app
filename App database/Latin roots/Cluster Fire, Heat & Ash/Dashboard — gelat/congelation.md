@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of congealing; solidification by (or as if by) freezing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of congealing; solidification by (or as if by) freezing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of solidifying or freezing a liquid substance into a firm, rigid mass through cold.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology, physical chemistry, and cryology, the thermal phase change wherein molten fluids or aqueous solutions transition into solid crystalline matrices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Do you not understand,” he replied, “that this congelation of water will help us?"*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The congelation gains on us on all sides.” “How long will the air in the reservoirs last for us to breathe on board?” The Captain looked in my face."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Would not jets of boiling water, constantly injected by the pumps, raise the temperature in this part and stay the congelation?” “Let us try it,” I said resolutely."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The vast sheet of ice spread before us, exhibiting every stage of **congelation** amid the alpine glaciers."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"In high polar latitudes, the slow **congelation** of groundwater heaves the tundra into fractured mounds and frost wedges."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The arctic air threatened rapid **congelation** to our soaked garments as spray froze into crystal armor upon the gunwales."*

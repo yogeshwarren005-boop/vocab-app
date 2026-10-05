@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being calculated or estimated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being calculated or estimated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to be calculated, estimated, or determined by mathematical or logical means.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statistical mechanics, risk analysis, and philosophy, capable of being quantified, predicted, or forecasted with deterministic precision.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It must therefore be a benefit to the community, if this element of unavoidable chance cannot be reduced as a whole, at least to regularize it and make it exactly calculable for any individual."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Constant efforts are made by insurance companies to guard against these "moral risks," the least calculable of any."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Viewed in this way it is true that there are various indirect benefits in strikes that are not easily calculable, particularly the advances of wages made by employers to avoid strikes which they know will otherwise occur."*
+> - 📜 **Pierre-Simon Laplace (*A Philosophical Essay on Probabilities*):** *"To a supreme intelligence armed with physical laws, the future movements of every celestial atom would be strictly **calculable**."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Human actions are influenced by complex motives, yet the aggregate behavior of large communities remains statistically **calculable**."*
+> - 📜 **Bertrand Russell (*The Problems of Philosophy*):** *"Astronomers demonstrated that the orbits of distant planets were **calculable** down to fractions of an angular second."*

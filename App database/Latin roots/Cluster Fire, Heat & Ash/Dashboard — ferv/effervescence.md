@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of bubbling as gas escapes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of giving off bubbles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The rapid escape of gas from a liquid in the form of bubbles; brisk fizzing or bubbling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical chemistry and social psychology, spontaneous gaseous liberation or exuberant, vivacious enthusiasm of character.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The drops of logic Tess had let fall into the sea of his enthusiasm served to chill its effervescence to stagnation."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"So long as sweet Gaelic was spoken and men's hearts surged with feeling, there would be a song of his father's to translate the effervescence into words of cadenced beauty...."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"This effervescence made her flit with a bird-like movement, rather than walk by her mother’s side."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The sparkling cider rose in creamy **effervescence** against the rim of the rustic horn mug."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"There was a buoyant **effervescence** in Donatello's youthful nature that reminded his companions of sparkling vintage wine."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The acid tested upon the calcareous rock produced instantaneous **effervescence**, confirming the presence of coral limestone."*

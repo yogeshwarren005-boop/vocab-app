@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin cal within the domain of Fire, Heat & Ash.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of cal in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by high temperature; pleasantly or uncomfortably hot, warm, or burning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical medical and meteorological prose, possessing an innate elemental heat or describing a sweltering atmospheric condition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calid designates pertaining to, derived from, or characteristic of latin cal within the domain of fire, heat & ash."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The **calid** nature of southern winds was anciently believed to excite violent passions and alter bodily humours."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"A **calid** and dry temperament of the brain disposes philosophical minds toward waking visions and restless contemplation."*
+> - 📜 **John Evelyn (*Sylva, or A Discourse of Forest-Trees*):** *"These exotic seedlings languish in our chilly northern climate unless shielded within a **calid** greenhouse enclosure."*

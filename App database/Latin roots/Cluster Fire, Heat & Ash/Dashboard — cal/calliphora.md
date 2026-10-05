@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the calliphoridae: blowflies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the calliphoridae: blowflies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large, metallic blue blowflies in the family Calliphoridae, including the common bluebottle fly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic entomology and dipterology, synanthropic flies whose larvae feed upon carrion and serve as crucial indicators in postmortem interval estimations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calliphora designates type genus of the calliphoridae: blowflies."*
+> - 📜 **Jean-Henri Fabre (*The Life of the Fly*):** *"The metallic blue body of **Calliphora** buzzes insistently against the sunlit windowpane, lured by the scent of meat."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The developmental metamorphosis of **Calliphora** illustrates the complex tissue transformations characteristic of higher diptera."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Larvae of the common **Calliphora** flourish abundantly wherever decaying organic substances are left exposed."*

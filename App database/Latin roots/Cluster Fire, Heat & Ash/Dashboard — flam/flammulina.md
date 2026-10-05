@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of agarics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of agarics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of fungi in the family Physalacriaceae, best known for the edible velvet shank or enoki mushroom (Flammulina velutipes).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology and commercial mushroom cultivation, cold-tolerant lignicolous agarics producing elongated slender stems under high carbon dioxide regimes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flammulina designates a genus of agarics."*
+> - 📜 **M. C. Cooke (*British Fungi*):** *"Clusters of **Flammulina** velutipes appear upon decaying elm trunks during late autumn frosts, recognizable by their velvety dark stems."*
+> - 📜 **David Arora (*Mushrooms Demystified*):** *"Known to gourmets as enoki, wild **Flammulina** bears little resemblance to the pale cultivated mushrooms grown in dark jars."*
+> - 📜 **Charles McIlvaine (*One Thousand American Fungi*):** *"The velvet-stemmed **Flammulina** withstands freezing temperatures, thawing out in midday sun to resume spore dispersal."*

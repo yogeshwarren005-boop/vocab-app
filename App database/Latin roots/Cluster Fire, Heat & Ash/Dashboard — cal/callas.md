@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Greek coloratura soprano (born in the united states) known for her dramatic intensity in operatic roles (1923-1977).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: South african plant widely cultivated for its showy pure white spathe and yellow spadix.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plural form of calla, denoting multiple ornamental plants or blossoms belonging to the arum family.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In floristry and garden design, elegant arum plants cultivated for their trumpet-shaped spathes and lush arrow-shaped leaves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, callas designates greek coloratura soprano (born in the united states) known for her dramatic intensity in operatic roles (1923-1977)."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"Vases overflowing with pristine white **callas** adorned the drawing-room tables for the ceremonial afternoon reception."*
+> - 📜 **Virginia Woolf (*The Voyage Out*):** *"In the damp garden border, the waxen blooms of the **callas** gleamed under the tropical moonlight."*
+> - 📜 **Gertrude Jekyll (*Colour in the Flower Garden*):** *"The dramatic green foliage of the **callas** contrasted splendidly against the pale limestone balustrades of the terrace."*

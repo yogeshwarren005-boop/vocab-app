@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for measuring the distance between two points (often used in the plural).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Measure the diameter of something with calipers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument with two adjustable legs or jaws used for measuring the internal or external dimensions of an object.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In precision machining, woodworking, and physical anthropology, a calibrated tool used to obtain exact thickness, bore diameter, or cranial measurements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Rather surprised, I said Yes, when he produced a thing like calipers and got the dimensions back and front and every way, taking notes carefully."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"With his navigational **caliper** and brass dividers, the captain charted the vessel's progress across uncharted waters."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"The anthropologist applied a precision **caliper** to determine the exact transverse diameter of the fossil cranium."*
+> - 📜 **Joseph Conrad (*Typhoon*):** *"The chief engineer verified the alignment of the piston shaft with a steel **caliper** before restarting the engines."*

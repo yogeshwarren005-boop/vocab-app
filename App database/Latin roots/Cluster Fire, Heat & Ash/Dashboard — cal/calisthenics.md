@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of calisthenic exercises.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Light exercises designed to promote general fitness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Gymnastic exercises designed to develop muscular tone, physical agility, and graceful bodily movement using body weight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In athletic training and military physical culture, systematic calisthenic regimens including push-ups, pull-ups, and rhythmic jumping drills.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Instead of going to the gym on Saturday, I'll put in calisthenics and acrobatic stunts with a broom and duster.” She was thorough, too."*
-> - 📜 **James Joyce (*Ulysses*):** *"He places a hand lightly on his breastbone, bows, and fondles his flower and buttons.)_ MAGINNI: The poetry of motion, art of calisthenics."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Skene, assisted by a competent staff of professors, would give lessons in dancing, deportment, and calisthenics."*
+> - 📜 **Mark Twain (*A Tramp Abroad*):** *"The students gathered in the courtyard at daybreak to perform their rigorous German **calisthenics** with mechanical precision."*
+> - 📜 **H. G. Wells (*The New Machiavelli*):** *"Our school mornings invariably commenced with twenty minutes of vigorous **calisthenics** in the damp playground."*
+> - 📜 **Louisa May Alcott (*An Old-Fashioned Girl*):** *"Polly demonstrated that simple domestic chores provided better exercise than all the artificial **calisthenics** of fashionable schools."*

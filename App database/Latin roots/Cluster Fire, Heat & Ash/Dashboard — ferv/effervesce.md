@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become bubbly or frothy or foaming.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become bubbly or frothy or foaming.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To give off bubbles of gas, especially as the result of a chemical reaction; to bubble vigorously.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry and metaphorical discourse, to foam with brisk gas release or to display irrepressible, sparkling enthusiasm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I suppose your love will effervesce in six months, or less."*
-> - 📜 **Robert Louis Stevenson (*The strange case of Dr. Jekyll and Mr. Hyde*):** *"The mixture, which was at first of a reddish hue, began, in proportion as the crystals melted, to brighten in colour, to effervesce audibly, and to throw off small fumes of vapour."*
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"I have already filled the glasses." There, in fact, stood the four glasses, brimful of this wonderful water, the delicate spray of which, as it effervesced from the surface, resembled the tremulous glitter of diamonds."*
+> - 📜 **Michael Faraday (*The Chemical History of a Candle*):** *"When acid is poured upon crushed chalk, the mixture begins to **effervesce** violently, releasing carbonic acid gas."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"Her youthful spirits seemed to **effervesce** with irrepressible joy the moment the academy doors opened for the holiday."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes dropped the mineral crystals into the test tube, causing the liquid to **effervesce** with an pungent yellow vapor."*

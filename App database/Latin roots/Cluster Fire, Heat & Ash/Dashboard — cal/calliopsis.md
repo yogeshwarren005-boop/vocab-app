@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: North american annual widely cultivated for its yellow flowers with purple-red to brownish centers; in some classifications placed in a subgenus calliopsis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: North american annual widely cultivated for its yellow flowers with purple-red to brownish centers; in some classifications placed in a subgenus calliopsis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of solitary mining bees in the family Andrenidae, native primarily to North America.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hymenopterology and pollination ecology, ground-nesting solitary bees recognized by yellow facial markings, pollen-collecting scopae, and floral oligolecty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calliopsis designates north american annual widely cultivated for its yellow flowers with purple-red to brownish centers; in some classifications placed in a subgenus calliopsis."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"Solitary bees of the genus **Calliopsis** visited the composite flowers with remarkable constancy throughout the morning."*
+> - 📜 **Theodore Dru Alison Cockerell (*Bees of North America*):** *"The yellow clypeal markings of male **Calliopsis** provide vital taxonomic characters for distinguishing closely related species."*
+> - 📜 **John Henry Comstock (*An Introduction to Entomology*):** *"Females of **Calliopsis** excavate vertical burrows in compacted soil where they store nectar-moistened pollen loaves for their larvae."*

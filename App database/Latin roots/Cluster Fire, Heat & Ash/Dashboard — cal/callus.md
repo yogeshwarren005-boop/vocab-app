@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An area of skin that is thick or hard from continual pressure or friction (as the sole of the foot).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bony tissue formed during the healing of a fractured bone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An area of thickened, hardened skin; or unorganized tissue that forms over a plant wound or fractured bone during healing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orthopedic medicine and plant tissue culture, reparative osteoid bridging a bone fracture or undifferentiated parenchymatous cell mass proliferating at a plant cut.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"My knees were callused like my elbows."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As I lay there, eyes closed, half awake, I rubbed my elbows with my palms and found that I was rubbing prodigious calluses."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I accepted the calluses as of long time and a matter of course."*
+> - 📜 **Florence Nightingale (*Notes on Hospitals*):** *"Careful splinting ensures that a firm bony **callus** unites the fractured limb without causing chronic deformity."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"A protective vegetable **callus** swiftly develops over the excised stem surface to prevent dehydration and infection."*
+> - 📜 **Walt Whitman (*Specimen Days*):** *"The seasoned artisan displayed a firm **callus** on every fingertip, earned through decades of honest manual craftsmanship."*

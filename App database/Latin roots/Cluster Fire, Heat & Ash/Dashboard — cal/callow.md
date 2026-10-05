@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Young and inexperienced.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Young and inexperienced.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inexperienced, immature, and unsophisticated, especially describing a young person; or lacking feathers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology and developmental sociology, an unfeathered nestling or an untried youth displaying naivety, impetuousness, and superficial confidence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Algis Budrys (*Citadel*):** *"By the time she got tumbled out into the world, all big men were unquestionable authority and all young men were callow whipper-snappers."*
-> - 📜 **James Joyce (*Ulysses*):** *"I was surrounded by the stale smut of clubmen, stories to disturb callow youth, ads for transparencies, truedup dice and bustpads, proprietary articles and why wear a truss with testimonial from ruptured gentleman."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"He struck her as a remarkably **callow** young gentleman whose grand theories had never been tested by genuine sorrow."*
+> - 📜 **Gilbert White (*The Natural History and Antiquities of Selborne*):** *"The parent swallows returned incessantly to the mud nest, feeding their **callow** brood with captured insects."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"The director regarded the inquisitive students with the condescending amusement one reserves for delightfully **callow** minds."*

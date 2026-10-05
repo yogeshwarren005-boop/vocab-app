@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause inflammation in.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Catch fire.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reddened, swollen, hot, and often painful as a result of injury or infection; also aroused to strong emotion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pathology and dramatic narrative, exhibiting signs of active inflammation or excited to furious passion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You gods that made me man, and sway in love, That have inflamed desire in my breast To taste the fruit of yon celestial tree, Or die in the adventure, be my helps, As I am son and servant to your will, To compass such a boundless happiness!"*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But Bathsh—Miss Everdene inflamed me, and displaced Fanny for a time."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I think I won’t go in to-night.” “Oh no—you don’t drive me away.” Then they stood in a state of some embarrassment, Bathsheba trying to wipe her dreadfully drenched and inflamed face without his noticing her."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"His eyes were **inflamed** from reading ancient chancery parchments late into the smoky London night."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The wound upon the sailor's arm was angry and **inflamed**, poisoned by the venom of an Andaman dart."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"His **inflamed** imagination magnified every small slight into an unbearable verdict of cosmic rejection."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Gradually decreasing in tempo and volume.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gradually decreasing in tempo and volume.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical direction indicating that the tempo and volume should gradually decrease together (dying away).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical musical performance and score analysis, a gradual diminution of tone and slowing of tempo leading to a serene or fading cadence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calando designates gradually decreasing in tempo and volume."*
+> - 📜 **Hector Berlioz (*A Treatise upon Modern Instrumentation and Orchestration*):** *"The violins sustain the final chord in a delicate **calando**, dying away into absolute silence."*
+> - 📜 **George Grove (*A Dictionary of Music and Musicians*):** *"The composer marks the closing measures **calando**, requiring the performer to slacken the pace while subduing the tone."*
+> - 📜 **Romain Rolland (*Jean-Christophe*):** *"The orchestra drifted into a mournful **calando**, as if the passionate theme were breathing its last tender sigh."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavy rain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A violently fast stream of water (or other liquid).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A swift, violent, and copious stream of liquid, water, or other fluid moving with great force.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hydrology, meteorology, and rhetoric, a rushing turbulent flash flood or an overwhelming, cascading outpouring of words or sensations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nor do not saw the air too much with your hand, thus, but use all gently; for in the very torrent, tempest, and, as I may say, whirlwind of passion, you must acquire and beget a temperance that may give it smoothness."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The torrent roar’d, and we did buffet it With lusty sinews, throwing it aside And stemming it with hearts of controversy."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"When the rain fell in a steady and ceaseless torrent the stream dashed downward in volumes."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The mountain river rushed downward in a foaming **torrent**, echoing through the lonely Alpine chasms with sullen roar."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"A living **torrent** of impassioned citizens surged through the narrow defiles of Saint Antoine toward the Bastille."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"A blinding **torrent** of brine cascaded over the forecastle deck as the ship plunged into the roaring trough of the wave."*

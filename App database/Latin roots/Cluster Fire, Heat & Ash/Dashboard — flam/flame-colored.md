@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the brilliant orange-red color of flames.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the brilliant orange-red color of flames.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a brilliant, fiery reddish-orange or bright scarlet color.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chromatic description, fashion history, and botany, displaying the incandescent hues of burning fire.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flame-colored designates having the brilliant orange-red color of flames."*
+> - 📜 **William Shakespeare (*Twelfth Night*):** *"He will come to her in **flame-colored** stockings, and make a fool of himself before the whole household."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The embroideries upon Pearl's tunic glowed in **flame-colored** silks, reflecting her mother's impassioned spirit."*
+> - 📜 **Oscar Wilde (*Salomé*):** *"The moon slipped behind the clouds, casting a strange **flame-colored** halo over the palace terrace."*

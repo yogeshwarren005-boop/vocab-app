@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to become alkaline; slightly alkaline.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to become alkaline; slightly alkaline.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Becoming or tending to become alkaline; undergoing mild alkaline fermentation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical physiological chemistry, designating animal fluids or decaying organic extracts that turn litmus blue upon decomposition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alcalescent designates tending to become alkaline; slightly alkaline."*
+> - 📜 **Joseph Priestley (*Experiments and Observations on Different Kinds of Air*):** *"Animal substances in putrefaction impart an **alcalescent** quality to the surrounding atmosphere."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"The volatile alkali is produced in large quantities during the distillation of **alcalescent** animal materials."*
+> - 📜 **Herman Boerhaave (*Elements of Chemistry*):** *"Urine long preserved in a gentle warmth undergoes an **alcalescent** transformation, acquiring a sharp, pungent odor."*

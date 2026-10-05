@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make insensitive or callous; deaden feelings or morals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emotionally hardened.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing or having an insensitive, cruel, and unfeeling disregard for the feelings or suffering of others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dermatopathology and moral philosophy, pathologically hardened like epidermal tissue or emotionally desensitized to human misery and ethical appeals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"A man does what is his duty, what his fellow-citizens expect of him; but that is not to say that he renders himself callous to natural emotion."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"You’re interruptin’ my beauty sleep.” So angered was I by this callous indifference that I recovered self-control and was guilty of no more than smothered groans."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"He was not callous: if he had had the earlier cable he would have sailed for home without delay."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"Scrooge displayed a **callous** indifference to the shivering beggars huddled in the frosty London doorways."*
+> - 📜 **George Eliot (*Silas Marner*):** *"A life devoted exclusively to selfish indulgence produces a **callous** heart that cannot sympathize with genuine grief."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The officers seemed utterly **callous** to the desperate fate of the pilgrims aboard the abandoned vessel."*

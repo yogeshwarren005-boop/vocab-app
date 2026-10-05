@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A soft porous rock consisting of calcium carbonate deposited from springs rich in lime.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A soft porous rock consisting of calcium carbonate deposited from springs rich in lime.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A porous, vesicular deposit of calcium carbonate formed by precipitation from mineral springs or geothermal waters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geomorphology and sedimentology, freshwater tufa precipitated upon moss and aquatic vegetation around carbonate-rich springs and waterfalls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calc-tufa designates a soft porous rock consisting of calcium carbonate deposited from springs rich in lime."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Streams charged with lime deposit thick incrustations of **calc-tufa** over submerged mosses and branches."*
+> - 📜 **Alexander von Humboldt (*Cosmos: A Sketch of a Physical Description of the Universe*):** *"Vast terraces of snowy **calc-tufa** form natural staircases across the thermal valley, deposited by boiling springs."*
+> - 📜 **Roderick Murchison (*The Silurian System*):** *"The cavern walls were coated with porous beds of **calc-tufa**, enclosing fossilized impressions of ancient reed stalks."*

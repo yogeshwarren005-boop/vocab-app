@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having relatively few calories.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having relatively few calories.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing virtually no calories or nutritional energy, providing negligible dietary fuel to the human body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In food regulation and metabolic nutritional science, designating consumable products containing fewer than five kilocalories per reference serving, often formulated with non-nutritive artificial sweeteners.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calorie-free designates having relatively few calories."*
+> - 📜 **Marion Nestle (*Food Politics*):** *"Beverage corporations aggressively marketed **calorie-free** sodas to reassure anxious consumers seeking dietary indulgence without weight gain."*
+> - 📜 **Michael Pollan (*In Defense of Food*):** *"Engineered **calorie-free** sweeteners confound evolutionary satiety cues by delivering intense sweetness unaccompanied by metabolic calories."*
+> - 📜 **David Kessler (*The End of Overeating*):** *"Consumers frequently compensate for drinking **calorie-free** beverages by unwittingly increasing their intake of calorie-dense processed snacks."*

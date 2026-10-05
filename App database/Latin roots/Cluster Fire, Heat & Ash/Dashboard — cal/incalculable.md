@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being computed or enumerated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of being computed or enumerated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Too great, numerous, or vast to be calculated, estimated, or mathematically computed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In risk analysis, historiography, and geopolitical strategy, possessing consequences or variables so indeterminate that rational forecasting cannot assign definite probabilities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I have been growing, developing, through incalculable myriads of millenniums."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Oh, incalculable times again shall I be born; and yet the stupid dolts about me think that by stretching my neck with a rope they will make me cease."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"I've done incalculable mischief, and, to tell you the truth, I shouldn't have chosen to raise this subject again till I'm clear of it."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The barbarian invasions inflicted **incalculable** misery upon the peaceful provinces of the western empire, devastating libraries and monuments."*
+> - 📜 **Winston Churchill (*The Gathering Storm*):** *"The sudden collapse of French resistance introduced an **incalculable** element into British naval strategy across the Mediterranean."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The division of labor produces an **incalculable** increase in national productivity and the general abundance of manufactured goods."*

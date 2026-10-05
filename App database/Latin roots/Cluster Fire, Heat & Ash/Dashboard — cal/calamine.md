@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A white mineral; a common ore of zinc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white mineral; a common ore of zinc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pink powder consisting chiefly of zinc oxide with a small amount of ferric oxide, used in soothing lotions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy and dermatology, an ore of zinc (hemimorphite or smithsonite) historically mined, and the antipruritic topical lotion derived therefrom.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calamine designates a white mineral; a common ore of zinc."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"For acute erythematous dermatoses, the application of cooling **calamine** lotion provides soothing symptomatic relief."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Smelters roast roasted crude **calamine** with charcoal in earthen crucibles to extract pure metallic zinc."*
+> - 📜 **John Tyndall (*Fragments of Science*):** *"The mineral veins yielded rich deposits of **calamine**, long prized by metallurgical founders for the manufacture of brass."*

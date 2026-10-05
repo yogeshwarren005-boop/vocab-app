@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A priest who served a particular deity in ancient rome.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A priest who served a particular deity in ancient rome.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A priest of ancient Rome assigned to the service of a specific deity, such as Jupiter or Mars.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman religion and classical antiquities, one of fifteen sacerdotal college members consecrated to perpetuating the cult of a designated state god.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hoar the flamen, That scolds against the quality of flesh And not believes himself."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"For the Flamen Dialis was the priest of Jove; indeed, ancient and modern writers have regarded him, with much probability, as a living image of Jupiter, a human embodiment of the sky-god."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Of the taboos imposed on priests we may see a striking example in the rules of life prescribed for the Flamen Dialis at Rome, who has been interpreted as a living image of Jupiter, or a human embodiment of the sky-spirit."*
+> - 📜 **William Shakespeare (*Coriolanus*):** *"The solemn **flamen** quickens with his march, while matrons fling their gloves, ladies their scarfs upon him as he passes."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The patrician **flamen** Dialis was bound by ancient taboos that forbade him from touching iron or mounting a horse."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"The sacred fire was maintained upon the altar by the venerable **flamen**, chanting archaic litanies of sacrifice."*

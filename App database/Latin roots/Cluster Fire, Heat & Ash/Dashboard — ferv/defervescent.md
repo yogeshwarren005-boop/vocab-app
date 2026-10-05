@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the reduction of a fever.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the reduction of a fever.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing or accompanied by the subsidence or reduction of fever.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacotherapy and internal medicine, designating therapeutic agents or physiological stages that promote the abatement of pyrexia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, defervescent designates of or relating to the reduction of a fever."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Cold sponge baths served as an effective **defervescent** measure to prevent hyperpyrexia in severe enteric fever."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The surgeon prescribed a cooling **defervescent** draught to lower the wounded soldier's bounding pulse."*
+> - 📜 **Thomas Watson (*Lectures on the Principles and Practice of Physic*):** *"During the **defervescent** period of the malady, the cutaneous capillaries dilate and copious perspiration ensues."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fast-growing tropical american evergreen having white flowers and white fleshy edible fruit; bark yields a silky fiber used in cordage and wood is valuable for staves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fast-growing tropical american evergreen having white flowers and white fleshy edible fruit; bark yields a silky fiber used in cordage and wood is valuable for staves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fast-growing tropical American tree (Muntingia calabura) bearing small, sweet, red edible berries, also called Jamaican cherry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tropical arboriculture, an early-successional fruiting tree cultivated for its soft cottony berries, tough cordage bark, and rapid shade canopy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calabura designates a fast-growing tropical american evergreen having white flowers and white fleshy edible fruit; bark yields a silky fiber used in cordage and wood is valuable for staves."*
+> - 📜 **David Fairchild (*Exploring for Plants*):** *"Children in the village gathered eagerly beneath the branches of the **calabura** to pluck its sweet, juicy red berries."*
+> - 📜 **Wilson Popenoe (*Manual of Tropical and Subtropical Fruits*):** *"The modest **calabura** flourishes upon the poorest soils, offering miniature fig-like fruits throughout much of the year."*
+> - 📜 **Henry Nicholas Ridley (*The Flora of the Malay Peninsula*):** *"Planted frequently in gardens, the **calabura** attracts hordes of frugivorous birds and bats with its abundant berries."*

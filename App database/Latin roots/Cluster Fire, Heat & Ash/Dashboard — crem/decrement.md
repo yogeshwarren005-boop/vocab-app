@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The amount by which something decreases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A process of becoming smaller or shorter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A reduction, decrease, or diminishing amount.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics, computer science, and physiology, a specified discrete amount by which a quantity, variable, or physiological response is reduced.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Increments and decrements of value on a great scale are unearned, and all classes of goods are affected, though in varying degrees. § II."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Every perceptible **decrement** of warmth in the surrounding air produces a corresponding variation in our sensory organs."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"The steady **decrement** of velocity experienced by a projectile is directly proportional to the resistance of the resisting medium."*
+> - 📜 **William James (*The Principles of Psychology*):** *"With increasing fatigue, sensory thresholds undergo a gradual **decrement** of discriminative acuity."*

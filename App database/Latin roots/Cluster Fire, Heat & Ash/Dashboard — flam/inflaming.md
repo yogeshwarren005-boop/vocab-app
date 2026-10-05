@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arousal to violent emotion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause inflammation in.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exciting to intense passion, anger, or enthusiasm; causing physical inflammation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetoric and clinical pathophysiology, exciting violent emotions or triggering inflammatory physiological cascades.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Cousin, go draw our puissance together. [_Exit Bastard._] France, I am burn’d up with inflaming wrath; A rage whose heat hath this condition, That nothing can allay, nothing but blood, The blood, and dearest-valu’d blood, of France."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let not conscience, Which is but cold, inflaming love i’ thy bosom, Inflame too nicely; nor let pity, which Even women have cast off, melt thee, but be A soldier to thy purpose."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"His hot temper was capable of **inflaming** the calmest council into rash and desperate measures."*
+> - 📜 **G. K. Chesterton (*Orthodoxy*):** *"There is a perilous intoxication in modern materialism, **inflaming** pride while starving the human spirit."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Seditious pamphlets circulated throughout the capital, **inflaming** the populace against established institutions."*

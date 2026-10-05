@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving to heat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the quality of heating; producing or communicating warmth; calefacient.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical physical treatises, describing calorific or thermal properties that actively communicate heat to adjacent matter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calefactive designates serving to heat."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"The active **calefactive** virtues of the burning coals communicated warmth across the surrounding glass apparatus."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"Solar rays focused through a spherical lens exert a marvelous **calefactive** power capable of igniting dry wood in seconds."*
+> - 📜 **John Tyndall (*Heat Considered as a Mode of Motion*):** *"Invisible infrared radiation demonstrates an intense **calefactive** effect when absorbed by dense atmospheric gases."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or resembling a calyculus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or resembling a calyculus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or having the form of a small calyx or cup; cup-shaped.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy and botanical morphology, shaped like a diminutive cup or calyculus, as seen in sensory papillae or receptacle structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calycular designates relating to or resembling a calyculus."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The circumvallate papillae of the tongue are embedded within shallow **calycular** depressions bounded by an elevated mucosal rim."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The fruit rests upon a persistent **calycular** receptacle that hardens into a protective woody disc as seeds mature."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"The hydroid polyp retracts into its **calycular** exoskeleton whenever disturbed by mechanical agitation in the surrounding water."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a calyculus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a calyculus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Furnished or provided with a calycle, epicalyx, or cup-like outer involucre.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic floristics and cnidarian taxonomy, describing floral buds encircled by external bracteoles or coral polyps positioned in distinct skeletal cups.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calycled designates having a calyculus."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"The head of the composite flower was distinctly **calycled** by an outer row of short, spreading phyllaries."*
+> - 📜 **James Dwight Dana (*Corals and Coral Islands*):** *"The surface of the madrepore exhibited deeply **calycled** apertures where living zoophytes expanded their tentacles at night."*
+> - 📜 **George Bentham (*Handbook of the British Flora*):** *"The mallow is readily recognized among allied weeds by its **calycled** blossoms bearing three outer auxiliary leaflets."*

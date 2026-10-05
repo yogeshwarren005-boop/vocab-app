@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extreme heat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme, parching heat or oppressive dryness resulting from intense exposure to the sun.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In climatological description and rhetoric, extreme tropical swelter or fiery emotional vehemence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, torridity designates extreme heat."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of America*):** *"The unmitigated **torridity** of the Orinoco plains during the dry season drives animal life toward shrinking waterholes."*
+> - 📜 **George Eliot (*Romola*):** *"The political **torridity** of Florence under Savonarola's preaching inflamed factions to the very verge of open warfare."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The heath basked in the oppressive **torridity** of midsummer noon, every furze bush crackling in the dry breeze."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by intense emotion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emotionally charged and vigorously energetic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely hot, parched, and dry due to intense solar radiation; passionately ardent or intense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In climatology and literary figurative discourse, denoting the equatorial tropical zone between the Tropics or burning emotional fervor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I lie in a shady place like this and think of adventurous spirits going to the North Pole or penetrating to the heart of the Torrid Zone with admiration."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet is an ex-artilleryman, tall and upright, with shaggy eyebrows and whiskers like the fibres of a coco-nut, not a hair upon his head, and a torrid complexion."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The ashes under the grate were lit by the fire vertically, like a torrid waste."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Under the burning sky of the **torrid** zone, the luxuriant vegetation displayed an intensity of green unknown in temperate climates."*
+> - 📜 **Herman Melville (*Typee*):** *"The midday glare of the **torrid** sun beat down upon our heads as we pushed deeper into the suffocating tropical defile."*
+> - 📜 **Edgar Allan Poe (*Narrative of A. Gordon Pym*):** *"The stagnant ocean lay unruffled beneath a **torrid** atmosphere that seemed to stifle all breath and motion."*

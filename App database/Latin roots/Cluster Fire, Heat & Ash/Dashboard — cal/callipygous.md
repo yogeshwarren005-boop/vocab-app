@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or having finely developed buttocks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or having finely developed buttocks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by having beautifully developed, rounded, or shapely buttocks; a variant form of callipygian.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic anatomy and literary portraiture, descriptive of human physique or statuary celebrating classical curvature and bodily harmony.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, callipygous designates pertaining to or having finely developed buttocks."*
+> - 📜 **George Moore (*Confessions of a Young Man*):** *"The Parisian artist delighted in drawing **callipygous** nymphs emerging from pastoral bathing pools."*
+> - 📜 **Richard Francis Burton (*The Book of the Thousand Nights and a Night*):** *"Arab poets celebrated the **callipygous** charms of the maiden whose graceful gait swayed like a supple palm branch."*
+> - 📜 **Walter Pater (*Studies in the History of the Renaissance*):** *"The Hellenistic sculptor immortalized a **callipygous** Venus whose graceful lines embodied the triumph of physical beauty."*

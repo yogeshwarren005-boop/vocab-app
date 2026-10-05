@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having calypters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a calyptra.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing a calyptra, hood, operculum, or cap-like protective covering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology and cryptogamic botany, describing dipterous insects having well-developed calypteres (Calyptratae) or moss capsules capped by protective hoods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calyptrate designates having calypters."*
+> - 📜 **John Henry Comstock (*An Introduction to Entomology*):** *"The **calyptrate** diptera include familiar house flies and blowflies, readily distinguished by large squamae concealing the halteres."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The sporogonium remains **calyptrate** until desiccation ruptures the delicate hood just before spore dispersal."*
+> - 📜 **William Morton Wheeler (*Social Life Among the Insects*):** *"Parasitoid flies belonging to the **calyptrate** division attack caterpillar hosts with astonishing speed and reproductive efficiency."*

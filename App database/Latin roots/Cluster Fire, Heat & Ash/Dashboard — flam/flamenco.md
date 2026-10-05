@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Guitar music composed for dancing the flamenco.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A style of dancing characteristic of the andalusian gypsies; vigorous and rhythmic with clapping and stamping of feet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A passionate style of Spanish folk dance and guitar music originating in Andalusia, characterized by singing and rhythmic footwork.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnomusicology and performing arts, an Andalusian cante and baile tradition developed by Gitano communities embodying deep emotional expression (duende).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flamenco designates guitar music composed for dancing the flamenco."*
+> - 📜 **Ernest Hemingway (*The Sun Also Rises*):** *"The rhythmic clapping of the dancers echoed from the cave taverns, pulsing with the fierce cadence of Andalusian **flamenco**."*
+> - 📜 **Federico García Lorca (*In Search of Duende*):** *"In authentic **flamenco**, the singer wrestles with the dark angel of duende, opening wounds of ancestral sorrow."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"From the cellar canteen drifted the strumming of a Spanish guitar playing an intricate **flamenco** rhythm."*

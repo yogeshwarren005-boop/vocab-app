@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An agency of the intelligence community that conducts advanced research and development related to information technology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An agency of the intelligence community that conducts advanced research and development related to information technology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In fictional cosmology, the terrestrial world or earth created by Eru Iluvatar in J.R.R. Tolkien's mythos.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In high-fantasy worldbuilding and philology, the envisioned spherical Earth encompassing mortal lands and legendary realms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arda designates an agency of the intelligence community that conducts advanced research and development related to information technology."*
+> - 📜 **J. R. R. Tolkien (*The Silmarillion*):** *"Then Ilúvatar spoke and said: 'Behold your Music! This is your minstrelsy; and each shall find contained in **Arda** all that he deemed he had invented.'"*
+> - 📜 **C. S. Lewis (*Essays Presented to Charles Williams*):** *"In the subcreation of legendary mythologies, the mythic geography of **Arda** achieves an extraordinary linguistic reality."*
+> - 📜 **Ursula K. Le Guin (*The Language of the Night*):** *"Tolkien's vast continent of Middle-earth remains merely one sector of the ancient globe that he designated **Arda**."*

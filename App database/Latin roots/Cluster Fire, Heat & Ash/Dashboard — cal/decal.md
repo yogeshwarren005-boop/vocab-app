@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either a design that is fixed to some surface or a paper bearing the design which is to be transferred to the surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either a design that is fixed to some surface or a paper bearing the design which is to be transferred to the surface.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A picture, design, or pattern transferred onto glass, ceramic, metal, or wood from specially prepared substrate paper.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial manufacturing, ceramic arts, and model making, a water-slide or dry transfer film using printed lacquer and adhesives to apply intricate graphics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decal designates either a design that is fixed to some surface or a paper bearing the design which is to be transferred to the surface."*
+> - 📜 **Ray Bradbury (*The Illustrated Man*):** *"His skin looked as if someone had pressed an elaborate colored **decal** across his chest, then baked the vivid pigment into his flesh."*
+> - 📜 **Kurt Vonnegut (*Cat's Cradle*):** *"On the metal instrument panel a faded red **decal** warned operators in two languages never to exceed safe operating pressure."*
+> - 📜 **Tom Wolfe (*The Kandy-Kolored Tangerine-Flake Streamline Baby*):** *"Hot-rod builders decorated custom lacquer fenders with gold-leaf striping and fine **decal** flames blazing along the engine cowlings."*

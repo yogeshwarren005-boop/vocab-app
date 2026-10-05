@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Water starworts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Water starworts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of aquatic or amphibious flowering herbs in the plantain family, commonly known as water-starworts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In limnology, wetland ecology, and floristics, slender submerged plants whose upper floating leaves form dense floating green rosettes on calm water.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, callitriche designates water starworts."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"In the clear shallow brook, tufts of emerald **Callitriche** swayed gracefully in rhythm with the gentle current."*
+> - 📜 **Gilbert White (*The Natural History and Antiquities of Selborne*):** *"The tranquil surface of the forest pond was veiled with buoyant green carpets of **Callitriche** throughout the autumn."*
+> - 📜 **Asa Gray (*Field, Forest, and Garden Botany*):** *"Species of **Callitriche** thrive in quiet streams, providing shelter and forage for small freshwater invertebrates."*

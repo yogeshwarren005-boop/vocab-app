@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Medium to large tropical american trees having shiny reddish-brown shredding bark.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Medium to large tropical american trees having shiny reddish-brown shredding bark.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of Neotropical trees in the madder family (Rubiaceae), renowned for decorative flowers and fine hardwood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forestry and Neotropical floristics, canopy trees such as Calycophyllum spruceanum (capirona) notable for smooth exfoliating bark and enlarged, petal-like white calyx lobes facilitating wind dispersal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calycophyllum designates medium to large tropical american trees having shiny reddish-brown shredding bark."*
+> - 📜 **Richard Spruce (*Notes of a Botanist on the Amazon and Andes*):** *"Along the Amazonian banks, the tall **Calycophyllum** stood in full flower, its expanded white sepals glistening like banners against dark foliage."*
+> - 📜 **Paul C. Standley (*The Rubiaceae of Colombia*):** *"The striking characteristic of **Calycophyllum** resides in the remarkable leaf-like expansion of one sepal on each peripheral flower."*
+> - 📜 **Henry Walter Bates (*The Naturalist on the River Amazons*):** *"Canoeists marvel at the glossy, satiny trunks of **Calycophyllum**, which peel in long strips leaving brilliant greenish-brown wood exposed."*

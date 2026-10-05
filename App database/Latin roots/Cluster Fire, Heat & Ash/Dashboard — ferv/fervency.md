@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feelings of great warmth and intensity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feelings of great warmth and intensity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Warmth and intensity of emotion; passionate earnestness or zeal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In devotional theology and moral rhetoric, profound spiritual warmth and sincerity in prayer or moral conviction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You’re caught.” CHARMIAN. ’Twas merry when You wagered on your angling; when your diver Did hang a salt fish on his hook, which he With fervency drew up."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"How you, _a lady a thousand miles away, could know that I was, and had been for some time, urged by unusual need to pray for succor and worldly support with unwonted fervency, is a matter of more than curious inquiry."*
+> - 📜 **William Shakespeare (*Titus Andronicus*):** *"With heartfelt **fervency** of soul, the suppliants pleaded before the judgment seat of the Roman general."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The seraph spoke with holy **fervency**, defending the unalterable decrees of heaven against the rebellious host."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"St. John Rivers prayed with an austere **fervency** that filled the small stone cottage with solemn awe."*

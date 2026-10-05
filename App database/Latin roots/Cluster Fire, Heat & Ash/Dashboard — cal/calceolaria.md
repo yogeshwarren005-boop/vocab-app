@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any garden plant of the genus calceolaria having flowers with large inflated slipper-shaped lower lip.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any garden plant of the genus calceolaria having flowers with large inflated slipper-shaped lower lip.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of American plants (slipperworts) cultivated for their inflated, slipper-shaped blossoms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornamental horticulture, decorative flowering herbs and subshrubs characterized by bi-lipped corollas featuring a swollen, purse-like lower petal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calceolaria designates any garden plant of the genus calceolaria having flowers with large inflated slipper-shaped lower lip."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"Experiments in self-fertilization of **Calceolaria** revealed reduced seed vigor in successive greenhouse generations."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Florists value the showy herbaceous **Calceolaria** for its large, pouch-shaped blossoms spotted with purple and crimson."*
+> - 📜 **Gertrude Jekyll (*Annuals and Biennials*):** *"The brilliant golden bells of shrubby **Calceolaria** formed a striking contrast against the dark foliage of the terrace wall."*

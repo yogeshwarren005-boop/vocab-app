@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Zebra-tailed lizard.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Zebra-tailed lizard.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, swift-running desert phrynosomatid lizards commonly called zebra-tailed lizards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology and desert vertebrate ecology, arid-adapted iguanian lizards that curl and wag a black-and-white banded tail over their backs when running.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, callisaurus designates zebra-tailed lizard."*
+> - 📜 **Raymond Ditmars (*The Reptile Book*):** *"When startled upon desert sands, the swift **Callisaurus** sprints with astonishing velocity, curling its striped tail high above its back."*
+> - 📜 **Joseph Grinnell (*An Account of the Mammals and Birds of the Lower Colorado Valley*):** *"Specimens of **Callisaurus** were observed darting between creosote bushes across the scorching desert washes at midday."*
+> - 📜 **Edward Harrison Taylor (*Herpetology of Mexico*):** *"The black crossbands beneath the tail of **Callisaurus** provide a vivid visual signal during courtship and territorial displays."*

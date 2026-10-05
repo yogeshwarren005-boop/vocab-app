@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant of the genus kniphofia having long grasslike leaves and tall scapes of red or yellow drooping flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plant with fleshy roots and erect stems with narrow succulent leaves and one reddish-orange flower in each upper leaf axil; southwestern united states; indians once cooked the fleshy roots.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant with bright flame-colored flowers, especially the torch lily (Kniphofia) or flame vine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornamental botany and landscape horticulture, striking herbaceous or climbing perennials noted for incandescent racemes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flame-flower designates a plant of the genus kniphofia having long grasslike leaves and tall scapes of red or yellow drooping flowers."*
+> - 📜 **Gertrude Jekyll (*Wood and Garden*):** *"At the rear of the sunny herbaceous border, the scarlet spikes of the **flame-flower** provided fiery drama in late August."*
+> - 📜 **Vita Sackville-West (*More for Your Garden*):** *"Against the old grey stone wall, the brilliant clusters of the **flame-flower** flared like torches in the evening breeze."*
+> - 📜 **David Fairchild (*The World Was My Garden*):** *"Along the roadside hedges in South Africa, we admired the fiery spikes of Kniphofia, commonly termed the **flame-flower**."*

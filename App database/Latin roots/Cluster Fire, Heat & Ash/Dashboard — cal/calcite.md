@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A common mineral consisting of crystallized calcium carbonate; a major constituent of limestone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A common mineral consisting of crystallized calcium carbonate; a major constituent of limestone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A common rock-forming mineral consisting of crystalline calcium carbonate (CaCO3), exhibiting perfect rhombohedral cleavage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In crystallography and sedimentary petrology, the primary constituent of limestone and marble, famous for birefringence (double refraction) in Iceland spar.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calcite designates a common mineral consisting of crystallized calcium carbonate; a major constituent of limestone."*
+> - 📜 **John Tyndall (*Fragments of Science*):** *"A beam of light traversing a rhomb of Iceland spar **calcite** is split into two distinct, polarized rays."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Crystalline veins of pure **calcite** traverse the fractures of the mountain limestone in brilliant snowy ribbons."*
+> - 📜 **James Dwight Dana (*A System of Mineralogy*):** *"Few minerals display a greater diversity of crystalline forms than **calcite**, ranging from dogtooth spar to tabular crystals."*

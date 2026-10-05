@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Heat-generating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Heat-generating.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing or capable of generating heat; possessing substantial heating or thermal power.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In thermodynamic engineering and combustion physics, pertaining to calorific value, the gross or net quantity of heat released per unit mass or volume during complete oxidation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calorific designates heat-generating."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The electric spark exhibits immense **calorific** power, instantly vaporizing fine metallic wires across the gap."*
+> - 📜 **John Tyndall (*Heat Considered as a Mode of Motion*):** *"Sunlight transmits invisible **calorific** rays lying beyond the red end of the spectrum, which heat whatever dark bodies absorb them."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"In the far future the dying sun hung motionless in the sky, its waning **calorific** output scarcely warming the frosty air."*

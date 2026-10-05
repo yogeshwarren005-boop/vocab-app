@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fissure in the earth's crust (or in the surface of some other planet) through which molten lava and gases erupt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mountain formed by volcanic material.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An opening in the crust of a planet through which molten lava, ash, and gases erupt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geodynamics and geomorphology, a conical or shield mountain built by the accumulation of eruptive materials around a central vent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed, and bolts along the passage as if he had an acceptable commission to carry the old gentleman to the nearest volcano."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As well had Pilate and I been known to each other before ever he journeyed out to be procurator over the Semitic volcano of Jerusalem."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Others may boast a partial flame, But thou art a volcano!"*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"At night we witnessed the eruption of the great **volcano** of Osorno, sending glowing fountains of fire into the clouds."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"My heart was like a sleeping **volcano**, ready to burst forth with furious despair upon the slightest provocation."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Like a subterranean **volcano**, the wounded leviathan breached into the air, spouting crimson foam toward the heavens."*

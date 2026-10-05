@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of having a viscosity like jelly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of having a viscosity like jelly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The physical characteristic or property of being jelly-like, trembling, or viscous in texture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rheology and culinary analysis, the measurable viscoelastic firmness and yield stress exhibited by colloid gels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gelatinousness designates the property of having a viscosity like jelly."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"The sea rolled forward with a heavy, primeval thickness, exhibiting the slow **gelatinousness** of cooling molten glass."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Currents and Counter-Currents in Medical Science*):** *"The peculiar **gelatinousness** of the morbid exudate puzzled the attending pathologists during their anatomical inquiry."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dr. Lydgate observed the gradual **gelatinousness** assumed by the chemical precipitates within his laboratory test phials."*

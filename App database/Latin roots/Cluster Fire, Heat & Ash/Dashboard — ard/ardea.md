@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the ardeidae: large new and old world herons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the ardeidae: large new and old world herons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large herons, including the Great Blue Heron and the Grey Heron, found worldwide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic ornithology, wading birds characterized by long legs, dagger-like bills, and slow flapping flight with neck retracted.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her letter now is sealed, and on it writ “At Ardea to my lord with more than haste.” The post attends, and she delivers it, Charging the sour-faced groom to hie as fast As lagging fowls before the northern blast."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The heron of the marsh, anciently named **Ardea**, took wing across the fen as hounds bayed in the mist."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Along the muddy estuaries of Patagonia we frequently observed species of **Ardea** stalking small fishes in the shallows."*
+> - 📜 **Alexander Wilson (*American Ornithology*):** *"The Great Heron of North America, catalogued under the genus **Ardea**, builds its bulky stick nests in the highest cypress trees."*

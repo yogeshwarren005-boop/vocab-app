@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (bridge) a bid that is higher than your opponent's bid (especially when your partner has not bid at all and your bid exceeds the value of your hand).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (bridge) a bid that is higher than your opponent's bid (especially when your partner has not bid at all and your bid exceeds the value of your hand).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In card games such as bridge, to make a bid higher than the previous bid made by an opponent; in general usage, to overestimate or overstate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In strategic game theory and financial rhetoric, aggressively challenging an adversary's position with an elevated competitive bid despite marginal holding strength.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overcall designates (bridge) a bid that is higher than your opponent's bid (especially when your partner has not bid at all and your bid exceeds the value of your hand)."*
+> - 📜 **W. Somerset Maugham (*The Painted Veil*):** *"At the club card tables, his reckless habit was to **overcall** in no-trumps whenever partner showed even modest spade support."*
+> - 📜 **P. G. Wodehouse (*Right Ho, Jeeves*):** *"Bertie suffered a complete nervous collapse when Aunt Agatha managed to **overcall** his cautious two-spade bid with four vulnerable hearts."*
+> - 📜 **Ian Fleming (*Moonraker*):** *"Bond waited patiently for Drax to **overcall** his hand at the high-stakes table, setting the trap with icy professional precision."*

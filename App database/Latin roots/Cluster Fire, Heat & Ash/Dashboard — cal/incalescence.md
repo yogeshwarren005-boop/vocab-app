@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being warming.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being warming.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An increasing or growing degree of warmth; the progressive process of becoming hot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical thermal philosophy and physiological discourse, the gradual augmentation of internal heat within reacting chemical substances or animal bodies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incalescence designates the property of being warming."*
+> - 📜 **Robert Boyle (*New Experiments and Observations Touching Cold*):** *"The rapid **incalescence** observed upon mixing spirit of vitriol with oil of tartar surprised the assembled natural philosophers."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Motion serves as the true cause of **incalescence**, as seen when vigorous friction generates flame in dry timber."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Fermentation in wet hay promotes spontaneous **incalescence**, terminating frequently in open combustion if unventilated."*

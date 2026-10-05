@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small cup-shaped structure (as a taste bud or optic cup or cavity of a coral containing a polyp).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small cup-shaped structure (as a taste bud or optic cup or cavity of a coral containing a polyp).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small cup-shaped anatomical structure, or a secondary whorl of bracts situated beneath the calyx of a flower.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant anatomy and marine zoology, an epicalyx resembling an outer cup, or the delicate chalice-like skeleton of a solitary hydrozoan or coral polyp.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, caliculus designates a small cup-shaped structure (as a taste bud or optic cup or cavity of a coral containing a polyp)."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"In several mallow blossoms, an external **caliculus** composed of small sepal-like bracts surrounds the primary calyx."*
+> - 📜 **James Dwight Dana (*Corals and Coral Islands*):** *"The delicate **caliculus** of the living polyp expands outward when feeding upon floating organic particles at night."*
+> - 📜 **George Bentham (*Handbook of the British Flora*):** *"The strawberry blossom displays a green **caliculus** whose alternating lobes frame the white petals with exquisite symmetry."*

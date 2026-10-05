@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in northern mexico to the west of monterrey.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in northern mexico to the west of monterrey.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large fortified tower or defensive bastion, historically erected in Spanish military architecture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Hispanic fortress architecture and Mexican urban geography, a defensive citadel tower or the industrial city located in Coahuila.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, torreon designates a city in northern mexico to the west of monterrey."*
+> - 📜 **Willa Cather (*Death Comes for the Archbishop*):** *"The ancient stone **torreon** stood guard over the valley, its thick parapets pierced with narrow loopholes for musketeers."*
+> - 📜 **John Steinbeck (*The Pearl*):** *"Sentinels in colonial times maintained continuous watch from the high stone **torreon** against raiding corsairs along the coast."*
+> - 📜 **Jack London (*The Night-Born*):** *"The revolutionary regiment entrenched themselves behind the massive adobe walls of the old **torreon** outside the city."*

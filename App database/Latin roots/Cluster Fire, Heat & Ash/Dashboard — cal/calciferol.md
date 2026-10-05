@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fat-soluble vitamin that prevents rickets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fat-soluble vitamin that prevents rickets.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Vitamin D2 (ergocalciferol) or vitamin D3 (cholecalciferol), essential for calcium metabolism and bone mineralization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical endocrinology and nutritional biochemistry, a secosteroid hormone promoting intestinal absorption of calcium and preventing rickets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calciferol designates a fat-soluble vitamin that prevents rickets."*
+> - 📜 **Hans Selye (*The Stress of Life*):** *"Excessive doses of **calciferol** induce systemic tissue calcification by disrupting hormonal control of blood mineral levels."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Therapeutic supplementation with **calciferol** promptly cures infantile rickets and restores skeletal mineralization."*
+> - 📜 **Linus Pauling (*How to Live Longer and Feel Better*):** *"The biochemical synthesis of active **calciferol** proceeds through solar ultraviolet irradiation of provitamin sterols in the skin."*

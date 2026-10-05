@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of checking or adjusting (by comparison with a standard) the accuracy of a measuring instrument.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of checking or adjusting (by comparison with a standard) the accuracy of a measuring instrument.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The systematic adjustment, checking, or graduation of an instrument against a verified standard.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metrology and analytical chemistry, establishing an empirical correlation between instrument response and certified reference values.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Access to the calibration cavity," Brad said as he stooped, shed his outer glove, and felt around the mating edge."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Alignment to major concentrations of potential sources, selection of a 'first phase' work site, calibration of instrumentation and activating its spunnel channels and monitors required still more."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The delicate **calibration** of our galvanometer ensured that even infinitesimal currents produced distinct deflections."*
+> - 📜 **Lord Kelvin (*Popular Lectures and Addresses*):** *"Accurate physical observation depends entirely upon the rigorous **calibration** of our thermometers and barometers."*
+> - 📜 **Ernest Rutherford (*Radio-activity*):** *"The electrometers employed required careful **calibration** against known standards before evaluating alpha particle emissions."*

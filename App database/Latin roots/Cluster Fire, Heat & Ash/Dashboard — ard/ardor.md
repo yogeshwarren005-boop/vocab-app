@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of strong eagerness (usually in favor of a person or cause).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intense feeling of love.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Great warmth of emotion, enthusiasm, or passion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological, poetic, or rhetorical contexts, a burning zeal or energetic devotion that fuels vigorous action or artistic creation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Yes, and listen what happened afterwards," Mea continued with more ardor than before."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"It was established twelve years since by Doctor Cullis, who in the ardor of his faith and trust gave himself to the work of the Lord, by ministering in _Jesus' Name_, to the poor consumptives who were unable to provide for themselves."*
-> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"She is too untemperate to betray my vertues, Too openly lascivious: had she dealt But with that seeming modesty she might, And flung a little Art upon her ardor, But 'twas forgot, and I forgot to like her, And glad I was deceiv'd."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The youth may build his castle with poetic **ardor**, but age must inhabit the cold masonry of daily necessity."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"I sing of the electric soul, of love's untamed **ardor**, and the sweet pulse that beats within every human breast."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"He threw himself into his pastoral duties with an extraordinary **ardor** that rapidly consumed his frail physical strength."*

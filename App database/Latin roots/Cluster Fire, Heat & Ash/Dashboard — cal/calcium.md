@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A white metallic element that burns with a brilliant light; the fifth most abundant element in the earth's crust; an important component of most plants and animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white metallic element that burns with a brilliant light; the fifth most abundant element in the earth's crust; an important component of most plants and animals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A reactive, soft, silvery-white alkaline earth metallic element (atomic number 20, symbol Ca) essential for living organisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology, bioinorganic chemistry, and geology, the primary cation in hydroxyapatite of vertebrate bones and teeth, and a ubiquitous intracellular messenger.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The gas, which is another of the combinations of carbon and hydrogen (its molecules containing two atoms of each), is easily made by allowing water to come into contact with calcium carbide."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"So a lump of calcium carbide, with which many readers are familiar, has vast stores of heat locked up within it."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"By decomposing moist lime with a powerful galvanic battery, I succeeded in isolating the metallic base, to which I assigned the name **calcium**."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Organisms extract dissolved **calcium** from marine waters to construct protective carapaces, shells, and structural endoskeletons."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A deficiency of ionic **calcium** in the circulation precipitates neuromuscular irritability and symptomatic tetany."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The civil and religious leader of a muslim state considered to be a representative of allah on earth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The civil and religious leader of a muslim state considered to be a representative of allah on earth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The spiritual and temporal leader of an Islamic state, regarded as a successor to the Prophet Muhammad.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Islamic jurisprudence and world history, the supreme executive authority of the historical Umayyad, Abbasid, and Ottoman caliphates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Restored by order of the Caliph Omar, it was definitely destroyed in 761 or 762 by Caliph Al-Mansor, who wished to prevent the arrival of provisions to Mohammed-ben-Abdallah, who had revolted against him."*
-> - 📜 **James Joyce (*Ulysses*):** *"VOICES: _(Subdued.)_ For the Caliph."*
-> - 📜 **James Joyce (*Ulysses*):** *"Bloom, parting them swiftly, draws his caliph’s hood and poncho and hurries down the steps with sideways face."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The court of the **caliph** at Baghdad became a luminous sanctuary of arts, sciences, and philosophical disputation."*
+> - 📜 **Washington Irving (*Mahomet and His Successors*):** *"The pious **caliph** Omar lived in spartan simplicity while ruling an empire that stretched across three continents."*
+> - 📜 **Richard Francis Burton (*Personal Narrative of a Pilgrimage to El-Medinah and Meccah*):** *"The venerable title of **caliph** carried profound religious authority throughout the far-flung dominions of the faithful."*

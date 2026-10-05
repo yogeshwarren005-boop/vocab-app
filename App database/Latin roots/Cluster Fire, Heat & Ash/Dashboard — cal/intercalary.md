@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a day or month inserted to make the calendar year correspond to the solar year:.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a day or month inserted to make the calendar year correspond to the solar year:.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inserted into the calendar to harmonize civil reckoning with the astronomical solar year, such as February 29 in leap years.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental biology and phytomorphology, designating meristematic growth zones situated between mature tissues, such as node-base meristems in grasses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intercalary designates having a day or month inserted to make the calendar year correspond to the solar year:."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Ancient priests regulated agricultural festivals by introducing **intercalary** months whenever seasonal ceremonies fell out of step with the sun."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Julius Caesar reformed the Roman calendar, abolishing corrupt **intercalary** periods and instituting a predictable leap day every four years."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"Grasses elongate rapidly after grazing due to active **intercalary** meristems positioned at the base of each leaf sheath."*

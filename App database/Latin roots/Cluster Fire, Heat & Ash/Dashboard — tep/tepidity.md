@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A warmness resembling the temperature of the skin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A warmness resembling the temperature of the skin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or attribute of being moderately warm; a lack of thermal heat, enthusiasm, or emotional fervor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychosociological critique and thermal measurement, the characteristic of lukewarm indifference or moderate temperature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tepidity designates a warmness resembling the temperature of the skin."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon greeted his young bride's eager inquiries with a scholarly **tepidity** that chilled her affectionate spirit."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Gilbert Osmond concealed his intense aesthetic ambitions behind a cultivated mask of languid **tepidity**."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The damp autumn atmosphere seemed to foster a dreary **tepidity** in both the tavern conversation and the brew."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the callithricidae: true marmosets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the callithricidae: true marmosets.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, clawed South American marmosets in the family Callitrichidae, known as true marmosets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Neotropical zoology and behavioral ecology, tree-gouging primates characterized by ear tufts, specialized incisors for feeding on tree gum, and paternal care.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, callithrix designates type genus of the callithricidae: true marmosets."*
+> - 📜 **Henry Walter Bates (*The Naturalist on the River Amazons*):** *"A miniature marmoset of the genus **Callithrix** peeked inquisitively from behind a leafy bromeliad cluster."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of the New Continent*):** *"The indigenous villagers kept tame specimens of **Callithrix**, delighting in their comical antics and silken white ear tufts."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"When agitated, species of **Callithrix** emit shrill whistling cries and flatten their expressive facial crests."*

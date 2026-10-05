@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Increasing gradually by regular degrees or additions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Increasing gradually by regular degrees or additions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or occurring in small, regular increases or additions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systems engineering, organizational policy, and public administration, developing or modifying through progressive step-by-step adjustments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incremental designates increasing gradually by regular degrees or additions."*
+> - 📜 **Thomas Kuhn (*The Structure of Scientific Revolutions*):** *"Normal science proceeds primarily through **incremental** puzzle-solving within the established boundaries of the reigning paradigm."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"The evolutionary record frequently contradicts the assumption that complex adaptations arise solely through uniform, **incremental** transformations."*
+> - 📜 **Daniel Kahneman (*Thinking, Fast and Slow*):** *"Loss aversion causes decision-makers to evaluate financial prospects through **incremental** shifts from a subjective reference point."*

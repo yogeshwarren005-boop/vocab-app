@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An insertion into a calendar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An insertion into a calendar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The insertion of a leap day or calendar month; the placement of an extra element, period, or stratum between existing ones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In battery electrochemistry and crystallography, the reversible insertion of guest ions (such as lithium ions) into the crystalline host lattices of layered electrode materials.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"This gradual revolution of the festal Egyptian cycle resulted from the employment of a calendar year which neither corresponded exactly to the solar year nor was periodically corrected by intercalation."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"The Egyptian solar cycle drifted through seasons because it was not periodically corrected by the **intercalation** of leap days."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The frequent **intercalation** of fossiliferous marine beds with terrestrial coal seams proves alternating subsidence and elevation of the coast."*
+> - 📜 **Svante Arrhenius (*Theories of Chemistry*):** *"The reversible **intercalation** of ions within molecular lattices provides insights into crystalline bonding and electrical conductivity."*

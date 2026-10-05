@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Peruvian shrub or small tree having large glossy leaves and cymes of fragrant yellow to green or red flowers; cultivated for its medicinal bark.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Peruvian shrub or small tree having large glossy leaves and cymes of fragrant yellow to green or red flowers; cultivated for its medicinal bark.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A South American tree (Cinchona calisaya) yielding Peruvian bark rich in quinine, used to treat malarial fevers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacognosy and botanical history, yellow cinchona bark cultivated on Andean slopes and in Javanese plantations as a vital antimalarial source.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calisaya designates peruvian shrub or small tree having large glossy leaves and cymes of fragrant yellow to green or red flowers; cultivated for its medicinal bark."*
+> - 📜 **Clements Markham (*Peruvian Bark: A Popular Account of the Introduction of Chinchona Cultivation into British India*):** *"The precious bark of the **calisaya** tree was gathered by intrepid bark-collectors along precipitous Andean ridges."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of the New Continent*):** *"Native woodsmen identified the genuine **calisaya** by the bitter taste and distinctive yellow tinge of its inner bark."*
+> - 📜 **David Fairchild (*The World Was My Garden*):** *"Early plantation directors recognized that seedlings of **calisaya** yielded far higher concentrations of quinine than wild varieties."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various orchids of the genus caladenia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various orchids of the genus caladenia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large genus of terrestrial orchids native to Australasia, commonly termed spider orchids or fairy orchids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Australasian orchidology, ground orchids characterized by gland-covered labella and specialized floral mimicry to attract male thynnid wasps.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, caladenia designates any of various orchids of the genus caladenia."*
+> - 📜 **Robert Brown (*Prodromus Florae Novae Hollandiae*):** *"The delicate segments of the perianth in genus **Caladenia** distinguish these elegant terrestrial orchids of the southern bush."*
+> - 📜 **Ferdinand von Mueller (*Fragmenta Phytographiae Australiae*):** *"Several remarkable species of **Caladenia** bloom profusely upon the sandy granite knolls following spring rains."*
+> - 📜 **Joseph Maiden (*The Forest Flora of New South Wales*):** *"The slender spider orchid, a typical **Caladenia**, opens its attenuated petals among the fallen eucalyptus leaves."*

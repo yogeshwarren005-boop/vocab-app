@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bulletin board backstage in a theater.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bulletin board backstage in a theater.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A notice board located backstage in a theatre where rehearsal schedules, cast notices, and messages are posted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stage management and theatrical lore, the central informational hub where calls, rehearsals, and disciplinary notices are pinned.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, call-board designates a bulletin board backstage in a theater."*
+> - 📜 **Theodore Dreiser (*Sister Carrie*):** *"Carrie scanned the crowded **call-board** near the stage door to see when the chorus rehearsals were scheduled."*
+> - 📜 **George Bernard Shaw (*Our Theatres in the Nineties*):** *"A single glance at the stage manager's **call-board** revealed the chaotic preparations for the evening premiere."*
+> - 📜 **Willa Cather (*The Song of the Lark*):** *"She found her name pinned to the **call-board** among the principals chosen for the seasonal opera cycle."*

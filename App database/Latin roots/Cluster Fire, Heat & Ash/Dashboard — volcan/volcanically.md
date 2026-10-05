@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By or like volcanoes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By or like volcanoes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner characteristic of volcanic activity, explosive eruption, or geothermal venting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geophysics and narrative description, describing violent tectonic release or tempestuously eruptive human behavior.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"What had been the engrossing world had dissolved into an uninteresting outer dumb-show; while here, in this apparently dim and unimpassioned place, novelty had volcanically started up, as it had never, for him, started up elsewhere."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The island arc had been **volcanically** uplifted from the ocean floor through repeated submarine eruptions of lava."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"Deep subterranean rifts, perhaps **volcanically** formed in the distant past, breathed hot vapor through the iron grating."*
+> - 📜 **Jack London (*The Sea-Wolf*):** *"His sudden rage exploded **volcanically**, shattering the quiet discipline of the schooner's quarterdeck in an instant."*

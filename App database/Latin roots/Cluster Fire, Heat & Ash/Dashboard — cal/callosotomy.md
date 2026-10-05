@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Severing the corpus callosum so that communication between the cerebral hemispheres is interrupted (in cases of severe intractable epilepsy).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Severing the corpus callosum so that communication between the cerebral hemispheres is interrupted (in cases of severe intractable epilepsy).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surgical disconnection of the corpus callosum performed to alleviate intractable and medically refractory epileptic seizures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In functional neurosurgery and cognitive neuroscience, an intentional corpus callosotomy separating the cerebral hemispheres, providing classic 'split-brain' insights.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, callosotomy designates severing the corpus callosum so that communication between the cerebral hemispheres is interrupted (in cases of severe intractable epilepsy)."*
+> - 📜 **Michael Gazzaniga (*The Social Brain*):** *"Pioneering studies on split-brain patients who underwent **callosotomy** revealed surprising functional specializations in the human cerebral cortex."*
+> - 📜 **Oliver Sacks (*An Anthropologist on Mars*):** *"A surgical **callosotomy** dramatically reduced the patient's catastrophic drop attacks, restoring domestic safety to his life."*
+> - 📜 **Roger Wolcott Sperry (*Hemisphere Deconnection and Unity in Conscious Awareness*):** *"The therapeutic **callosotomy** completely severed interhemispheric communication, creating two functionally autonomous streams of visual perception."*

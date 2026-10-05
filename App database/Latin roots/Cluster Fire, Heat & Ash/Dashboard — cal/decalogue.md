@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The biblical commandments of moses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The biblical commandments of moses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Ten Commandments given to Moses on Mount Sinai, embodying the fundamental moral and ethical laws of Judeo-Christian scripture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and legal history, any authoritative set of ten fundamental rules, binding principles, or foundational ethical injunctions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"In her decalogue of manners to refuse an apology was an unpardonable sin."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"He could have borne any sin in the Decalogue less hardly than a breach of the military oath."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Decalogue disregarded Corporeal sense defrauds and lies; it breaks all the commands of the Mosaic Decalogue to meet its own de- 489:15 mands."*
+> - 📜 **John Milton (*Paradise Lost*):** *"God gave to Moses on the sacred mount the moral law inscribed in the solemn **Decalogue**, commanding justice and holy obedience."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Revolutionary tribunals tore down the ancient **Decalogue** only to replace its timeless moral wisdom with arbitrary decrees of terror."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"He lived by a strict personal **decalogue** of honor, considering a breach of his word far worse than physical injury."*

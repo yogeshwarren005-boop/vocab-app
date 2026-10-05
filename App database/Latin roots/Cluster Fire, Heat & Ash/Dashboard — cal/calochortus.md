@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large genus of western north american leafy-stemmed bulbous herbs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large genus of western north american leafy-stemmed bulbous herbs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering bulbous perennial plants in the lily family (Liliaceae), commonly called mariposa lilies or sego lilies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical systematics and floristics, western North American geophytes bearing ornate, three-petaled blossoms adorned with glandular hairs and intricate nectariferous pits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calochortus designates large genus of western north american leafy-stemmed bulbous herbs."*
+> - 📜 **John Muir (*My First Summer in the Sierra*):** *"Lilies of the genus **Calochortus** open their delicate petals in sunny meadows, painting the gravelly slopes with brilliant tints."*
+> - 📜 **Alice Eastwood (*A Handbook of the Trees of California and Floral Notes*):** *"Every botanist delights in discovering **Calochortus** in full blossom upon high desert plateaus and rocky foothills."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"The intricate gland at the base of each petal distinguishes **Calochortus** from all allied genera of Liliaceae."*

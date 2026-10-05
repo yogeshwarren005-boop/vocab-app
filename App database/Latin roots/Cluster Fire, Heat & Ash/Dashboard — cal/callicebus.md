@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Titis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Titis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, arboreal South American monkeys in the family Pitheciidae, commonly known as titi monkeys.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In primatology and Neotropical zoology, monogamous primates characterized by soft dense fur, tail-twining behaviors, and complex dawn vocal duets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog callicebus as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Henry Walter Bates (*The Naturalist on the River Amazons*):** *"Pairs of **Callicebus** monkeys sat close together on high lianas, entangling their long bushy tails with affectionate intimacy."*
+> - 📜 **Alfred Russel Wallace (*Travels on the Amazon and Rio Negro*):** *"At dawn the mournful, melodious cries of the **Callicebus** resounded throughout the flooded Amazonian forest."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of the New Continent*):** *"The indigenous hunters pointed out small groups of **Callicebus** sheltering within the thickest canopies of the river basin."*

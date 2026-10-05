@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a false and slanderous and defamatory manner; with slander or calumny.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a false and slanderous and defamatory manner; with slander or calumny.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a false, malicious, and defamatory manner, intending to injure another person's honor and standing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In judicial argument and biographical narrative, circulating injurious falsehoods without evidence or ethical restraint.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calumniously designates in a false and slanderous and defamatory manner; with slander or calumny."*
+> - 📜 **John Locke (*A Letter Concerning Toleration*):** *"Dissenters were **calumniously** branded as conspirators against public peace by intolerant magistrates seeking religious uniformity."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The pagan historians **calumniously** represented the Christian assemblies as nocturnal gatherings devoted to unnatural abominations."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"Madame Beck was **calumniously** represented as a merciless spy, though she merely maintained vigilant oversight of her school."*

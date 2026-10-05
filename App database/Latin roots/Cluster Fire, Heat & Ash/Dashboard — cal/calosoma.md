@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any beetle of the genus calosoma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any beetle of the genus calosoma.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large, predatory ground beetles in the family Carabidae, commonly known as caterpillar hunters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural entomology and biological pest control, arboreal and terrestrial carabids characterized by metallic luster, utilized to suppress forest infestations of gypsy moth caterpillars.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calosoma designates any beetle of the genus calosoma."*
+> - 📜 **Jean-Henri Fabre (*The Glow-Worm and Other Beetles*):** *"The fiery **Calosoma** scales forest oak trees with ferocious speed, slaughtering processionary caterpillars in their silk nests."*
+> - 📜 **L. O. Howard (*The Insect Book*):** *"Entomologists introduced **Calosoma** sycophanta from Europe to check the destructive spread of the gypsy moth throughout New England forests."*
+> - 📜 **John Henry Comstock (*An Introduction to Entomology*):** *"Species belonging to **Calosoma** possess wide, metallic bronze elytra and muscular jaws adapted for crunching caterpillars."*

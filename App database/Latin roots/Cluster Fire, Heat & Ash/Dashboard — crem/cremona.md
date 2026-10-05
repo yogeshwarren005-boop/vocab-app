@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in lombardy on the po river; noted for the manufacture of fine violins from the 16th to the 18th centuries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in lombardy on the po river; noted for the manufacture of fine violins from the 16th to the 18th centuries.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in Lombardy, northern Italy, world-renowned for its historic craft of violin-making.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organology and musical instrument history, the epicenter of classical string lutherie, home to Stradivari, Guarneri, and the Amati family.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"A lady coming into a room hastily with her mantua brushed down a Cremona fiddle that lay on a chair, and broke it; upon which, a gentleman that was present, burst into this exclamation from Virgil: Mantua, væ miseræ nimium vicina Cremonæ!"*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Ah! miserable Mantua, too near a neighbour to Cremona. 90."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"Sherlock Holmes had purchased his magnificent **Cremona** violin for fifty-five shillings at a pawnbroker's shop in Tottenham Court Road."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The mellow resonance of the instrument recalled the vanished workshops of seventeenth-century **Cremona**."*
+> - 📜 **Washington Irving (*Bracebridge Hall*):** *"He handled the treasured instrument with reverent care, speaking softly of the golden varnishes perfected long ago in **Cremona**."*

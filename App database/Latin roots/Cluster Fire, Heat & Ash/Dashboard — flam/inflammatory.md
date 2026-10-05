@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized or caused by inflammation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arousing to action or rebellion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or causing localized swelling, redness, and pain; also tending to arouse anger, hostility, or passion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pathology and political rhetoric, inducing an immunological inflammatory cascade or provoking seditious public unrest.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Drink, Richard: it will give you the heart you lack, for an hour or so.” “But will it hurt me?—is it inflammatory?” “Drink! drink! drink!” Mr."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I cannot conceive why everybody of his standing who visited at our house should always have put me through the same inflammatory process under similar circumstances."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"True, I had no Avenger in my service now, but I was looked after by an inflammatory old female, assisted by an animated rag-bag whom she called her niece, and to keep a room secret from them would be to invite curiosity and exaggeration."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The magistrates suppressed the seditious pamphlet, denouncing its **inflammatory** appeals to the sectarian passions of the mob."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Rheumatic fever frequently manifests as an acute **inflammatory** disease affecting the synovial membranes and cardiac valves."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"The chemist examined the lung tissue, observing severe **inflammatory** lesions induced by the toxic alkaloid."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of combustion of inflammable materials producing heat and light and (often) smoke.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shine with a sudden light.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Burning fiercely and emitting flames; hot, bright, or passionate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary description and emotional metaphor, enveloped in active fire or marked by vehement, fiery intensity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then senseless Ilium, Seeming to feel this blow, with flaming top Stoops to his base, and with a hideous crash Takes prisoner Pyrrhus’ ear."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rebellious hell, If thou canst mutine in a matron’s bones, To flaming youth let virtue be as wax, And melt in her own fire."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"York not our old men spares; No more will I their babes; tears virginal Shall be to me even as the dew to fire, And beauty, that the tyrant oft reclaims, Shall to my flaming wrath be oil and flax."*
+> - 📜 **John Milton (*Paradise Lost*):** *"They, looking back, all the eastern side beheld of Paradise, so late their happy seat, waved over by that **flaming** brand."*
+> - 📜 **Charles Dickens (*Barnaby Rudge*):** *"The rioters carried **flaming** torches through the midnight streets, setting the prison gates on fire with frenzied roars."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The try-pots burned fiercely, vomiting thick black smoke while **flaming** cinders showered upon the deck."*

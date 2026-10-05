@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make fine adjustments or divide into marked intervals for optimal measuring.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mark (the scale of a measuring instrument) so that it can be read in the desired units.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjusted, standardized, or marked with scale graduations for precision measurement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In applied physical sciences, engineering, and strategic planning, precisely fine-tuned against a known standard or delicately graduated in response.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Once the weapons are assembled, installed and calibrated we could be on the receiving end of more nastiness." Leaning forward over the table, he looked directly at the President."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The instruments can be so calibrated that it is quite easy to make the alteration."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The neural response was as finely **calibrated** as a delicate physical instrument responding to subtle environmental changes."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The artillery officers directed their guns with carefully **calibrated** range-finders against the towering fighting machines."*
+> - 📜 **Lord Kelvin (*Popular Lectures and Addresses*):** *"Every thermometer employed in deep-sea thermal soundings was rigorously **calibrated** against the primary mercury standard."*

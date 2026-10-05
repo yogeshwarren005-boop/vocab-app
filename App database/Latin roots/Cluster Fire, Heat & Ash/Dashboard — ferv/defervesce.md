@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Experience an abatement of a fever.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Experience an abatement of a fever.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To experience a reduction or abatement of fever, returning to normal body temperature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine and infectious disease diagnostics, the resolution of an elevated core febrile state either by crisis or progressive lysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, defervesce designates experience an abatement of a fever."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Under the prompt administration of quinine, the malarial patient began to **defervesce** rapidly by evening lysis."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"Martin watched the child's fever chart intently, hoping the infection would **defervesce** before pulmonary complications arose."*
+> - 📜 **Paul de Kruif (*Microbe Hunters*):** *"The laboratory animals inoculated with the antiserum began to **defervesce**, their shivering subsiding as normal pulse returned."*

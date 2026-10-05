@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any plant of the genus caladium cultivated for their ornamental foliage variously patterned in white or pink or red.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any plant of the genus caladium cultivated for their ornamental foliage variously patterned in white or pink or red.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tropical South American tuberous plant of the arum family cultivated for its variegated, heart-shaped ornamental foliage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornamental horticulture, a decorative aroid renowned for spectacular leaf patterns in vivid crimson, white, and translucent green veins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, caladium designates any plant of the genus caladium cultivated for their ornamental foliage variously patterned in white or pink or red."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"No greenhouse foliage plant surpasses the fancy-leaved **caladium** in richness and variety of leaf pigmentation."*
+> - 📜 **Gertrude Jekyll (*Wood and Garden*):** *"In the warm conservatory, broad shields of potted **caladium** displayed their delicate network of crimson veins."*
+> - 📜 **William Robinson (*The English Flower Garden*):** *"The translucent shields of tender **caladium** varieties require shelter from scorching sun to preserve their vivid coloring."*

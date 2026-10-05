@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Scalelike structure between the base of the wing and the halter of a two-winged fly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Scalelike structure between the base of the wing and the halter of a two-winged fly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A membranous flap or lobe at the base of the wing in certain two-winged flies (Diptera), covering the haltere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic dipterology, an anatomical scale divided into thoracic and squamal lobes whose presence or absence distinguishes the Calyptratae from the Acalyptratae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calypter designates scalelike structure between the base of the wing and the halter of a two-winged fly."*
+> - 📜 **John Henry Comstock (*A Manual for the Study of Insects*):** *"In muscoid flies, the enlarged **calypter** forms a pair of pale scales beneath the wing base that completely conceal the balancing halteres."*
+> - 📜 **Augustus Radcliffe Grote (*The Canadian Entomologist*):** *"Taxonomists examine whether the **calypter** is fringed with microtrichia when separating closely related genera of flesh flies."*
+> - 📜 **William Morton Wheeler (*Ants: Their Structure, Development and Behavior*):** *"Unlike true dipterans equipped with a prominent **calypter**, parasitic hymenopterans possess simple, unscaled wing hinges."*

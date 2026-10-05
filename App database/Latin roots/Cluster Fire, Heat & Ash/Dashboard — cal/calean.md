@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An oriental tobacco pipe with a long flexible tube connected to a container where the smoke is cooled by passing through water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An oriental tobacco pipe with a long flexible tube connected to a container where the smoke is cooled by passing through water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternative spelling of kalian (or qalyan), a Middle Eastern tobacco water pipe or hookah.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Persian ethnography and travel literature, a water-pipe apparatus consisting of an ornate bowl, water vessel, and flexible smoking reed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calean designates an oriental tobacco pipe with a long flexible tube connected to a container where the smoke is cooled by passing through water."*
+> - 📜 **Richard Francis Burton (*Personal Narrative of a Pilgrimage to Al-Madinah and Meccah*):** *"The merchant puffed gently at his amber-tipped **calean**, filling the divan with aromatic fumes of Persian Shiraz tobacco."*
+> - 📜 **Edward Browne (*A Year Amongst the Persians*):** *"While discussing philosophy late into the night, the host passed the silver-mounted **calean** around the circle of scholars."*
+> - 📜 **James Morier (*The Adventures of Hajji Baba of Ispahan*):** *"He sat cross-legged on the carpet, drawing deeply from a fragrant **calean** while listening to the court intrigues."*

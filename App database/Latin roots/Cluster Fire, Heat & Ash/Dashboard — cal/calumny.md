@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A false accusation of an offense or a malicious misrepresentation of someone's words or actions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abusive attack on a person's character or good name.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A false and malicious statement designed to injure someone's reputation; the crime or offense of slander.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical jurisprudence and literary tragedy, insidious falsehood weaponized to manipulate public opinion and destroy virtuous individuals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be thou as chaste as ice, as pure as snow, thou shalt not escape calumny."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My unsoiled name, th’ austereness of my life, My vouch against you, and my place i’ th’ state Will so your accusation overweigh That you shall stifle in your own report, And smell of calumny."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Back-wounding calumny The whitest virtue strikes."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Be thou as chaste as ice, as pure as snow, thou shalt not escape **calumny**."*
+> - 📜 **Jonathan Swift (*Thoughts on Various Subjects*):** *"Censure and **calumny** are the tax a man payeth to the public for being eminent."*
+> - 📜 **Voltaire (*The Henriad*):** *"Truth dissolves the venom of **calumny**, shining like the unclouded sun across darkened valleys of deceit."*

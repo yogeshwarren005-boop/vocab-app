@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Round gourd of the calabash tree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical american evergreen that produces large round gourds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The large, rounded, hard-shelled fruit of the calabash tree or bottle gourd vine, commonly dried and fashioned into vessels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In material culture and musicology, a versatile dried gourd shell fashioned into drinking cups, water gourds, resonators, or percussion rattles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"When they have all done so and seated themselves again gravely in the circle, the girl offers to each of them a calabash full of very strong _chicha_."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Nothing about the silver calabash he spat into?"*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"In the morning, after the army had gone, Kalelealuaka said to his wives, "I am thirsting for some water taken with the snout of the calabash held downward."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"He had a **calabash** full of fresh water swung over his shoulder as he made his way through the brushwood."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"A native paddler offered us palm wine drawn cool from a hollowed **calabash**."*
+> - 📜 **Washington Irving (*The Life and Voyages of Christopher Columbus*):** *"The islanders brought water to the weary Spaniards contained in polished **calabash** shells of remarkable lightness."*

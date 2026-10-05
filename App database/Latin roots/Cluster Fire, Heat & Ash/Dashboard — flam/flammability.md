@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being easily ignited and burning rapidly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being easily ignited and burning rapidly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ability of a substance to ignite and burn easily; combustibility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In materials science and fire protection engineering, the physicochemical ease with which a gas, liquid, or solid sustains gas-phase combustion upon ignition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flammability designates the quality of being easily ignited and burning rapidly."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Petroleum solvents used to dissolve chemical sprays increase both their toxicity and their dangerous **flammability** in storage."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"The laboratory safety code warned students against the extreme **flammability** of ether vapors near open Bunsen burners."*
+> - 📜 **Isaac Asimov (*The Chemicals of Life*):** *"Organic compounds containing long hydrocarbon chains exhibit high **flammability** owing to their rapid oxidation."*

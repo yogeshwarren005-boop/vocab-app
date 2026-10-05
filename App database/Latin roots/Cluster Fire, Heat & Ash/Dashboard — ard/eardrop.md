@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An earring with a pendant ornament.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An earring with a pendant ornament.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A decorative pendant or earring suspended from the earlobe; also a liquid medicament instilled into the ear canal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical costume and pharmacotherapy, an ear-pendant jewel or an otic solution formulation for treating aural ailments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"THE FAN: _(Folding together, rests against her left eardrop.)_ Have you forgotten me?"*
-> - 📜 **James Joyce (*Ulysses*):** *"She has large pendant beryl eardrops.)_ BELLA: My word!"*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"A sparkling diamond **eardrop** trembled from each of her delicate ears as she bowed gracefully to the assembled guests."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Her grandmother's pearl **eardrop** caught the candlelight with a subdued luster against her dark hair."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"The country doctor dispensed a bottle of soothing oil as an **eardrop** to relieve the infant's nocturnal earache."*

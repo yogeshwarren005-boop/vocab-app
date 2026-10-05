@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a calyculus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a calyculus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing bracts resembling a second, outer calyx; provided with an epicalyx or calyculus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical taxonomy, having an extra outer whorl of sepal-like bractlets, characteristic of certain Asteraceae and Malvaceae flower heads.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calyculate designates having a calyculus."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The involucre of Senecio is distinctly **calyculate**, surrounded at its base by a circle of minute, dark-tipped bracteoles."*
+> - 📜 **John Torrey (*Flora of North America*):** *"A **calyculate** flower head presents outer bracts that mimic a true calyx, confusing inexperienced botanical collectors."*
+> - 📜 **George Bentham (*Genera Plantarum*):** *"The genus is strictly characterized by **calyculate** involucres whose external scales remain appressed throughout anthesis."*

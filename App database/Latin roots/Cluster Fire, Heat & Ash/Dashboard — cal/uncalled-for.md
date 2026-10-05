@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not required or requested.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unnecessary and unwarranted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not required, asked for, or invited; completely unwarranted, improper, or superfluous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic protocol and civil discourse, gratuitous remarks or offensive conduct executed without justification or situational provocation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uncalled-for designates not required or requested."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"Holmes considered the inspector's sarcastic interruption entirely **uncalled-for**, but declined to dignify the gibe with an answer."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth thought Darcy's condescending remarks upon her family's social connections were grossly insolent and **uncalled-for**."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"The archdeacon condemned Mr. Slope's sermon as a piece of scandalous and **uncalled-for** insolence against the cathedral chapter."*

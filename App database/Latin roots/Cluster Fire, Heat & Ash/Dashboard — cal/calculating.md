@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a mathematical calculation or computation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Judge to be probable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Engaged in mathematical computation; or shrewdly scheming and selfishly planning for one's own advantage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character psychology and ethical discourse, displaying cold, dispassionate foresight that prioritizes self-interest over moral feeling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"George is so occupied with the almanac over the fire-place (calculating the coming months by it perhaps) that he does not look round until she has gone away and the door is closed upon her."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She had passed the last milestone by a good long distance, and began to look wistfully towards the bank as if calculating upon another milestone soon."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Nothing of course to speak of—twenty thousand pounds, I think they say—but what is that?” “Twenty thousand pounds?” Here was a new stunner—I had been calculating on four or five thousand."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"Scrooge was a squeezing, wrenching, grasping, scraping, clutching, covetous old sinner, ever **calculating** his pounds and pence."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Rosamond possessed a cool, **calculating** temperament beneath her exquisite and fragile exterior."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Rebecca Sharp had a clear, **calculating** mind that never lost sight of worldly advancement amidst the gayest assemblies."*

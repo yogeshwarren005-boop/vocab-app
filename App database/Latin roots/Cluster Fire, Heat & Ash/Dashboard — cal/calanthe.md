@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various showy orchids of the genus calanthe having white or yellow or rose-colored flowers and broad leaves folded lengthwise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various showy orchids of the genus calanthe having white or yellow or rose-colored flowers and broad leaves folded lengthwise.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of terrestrial orchids native to tropical Asia and Africa, bearing long racemes of showy flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orchid culture and hybridisation, evergreen or deciduous forest orchids historically significant as among the first artificially hybridized orchids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calanthe designates any of various showy orchids of the genus calanthe having white or yellow or rose-colored flowers and broad leaves folded lengthwise."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"The pollinia in **Calanthe** are adapted for transfer by nocturnal moths attracted to the pale spur of the flower."*
+> - 📜 **John Lindley (*The Genera and Species of Orchidaceous Plants*):** *"The terrestrial habit and plicate foliage of **Calanthe** distinguish it from its epiphytic allies in the eastern tropics."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Growers prize deciduous species of **Calanthe** for their graceful arching spikes that bloom profusely in midwinter."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a callous way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a callous way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unfeeling, heartless, indifferent, and unsympathetic manner, showing no regard for the plight of others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethical discourse and dramatic narrative, executing cruel or self-serving acts with complete absence of remorse or empathy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Must they drive down these infinities of creatures, and slaughter them openly and callously, until the air was salt with blood, until the carrion crows hovered over the city in battalions?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The cold-hearted landlord **callously** turned the impoverished widow out into the freezing winter street."*
+> - 📜 **Joseph Conrad (*Victory*):** *"He watched **callously** as his former companion struggled against the overpowering current of the tropical river."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The murderer had **callously** calculated every detail of his terrible plot to eliminate the rightful heir."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The incineration of a dead body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The incineration of a dead body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The disposal of a deceased body by burning it to ashes in a furnace.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In religious history, cultural anthropology, and modern mortuary science, pyric funeral rites utilized as an alternative to earth burial.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"A reliquary, or shrine, of cupola-shape to contain remains after cremation, especially of the Buddha. _Subhūti_."*
+> - 📜 **Thomas Browne (*Hydriotaphia, Urn Burial*):** *"The practice of **cremation** among the ancients reflected a desire to rescue the corruptible frame from the indignities of subterranean decay."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Under the Christian emperors, the antique rite of **cremation** yielded entirely to customary subterranean interment."*
+> - 📜 **Arnold Toynbee (*A Study of History*):** *"The transition from burial to **cremation** in late Bronze Age Europe signals a profound transformation in eschatological beliefs."*

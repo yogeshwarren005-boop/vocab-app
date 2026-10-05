@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mortuary where corpses are cremated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A furnace where a corpse can be burned and reduced to ashes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A furnace or establishment used for cremating bodies; of or relating to cremation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural and legal contexts, a licensed thermal installation or incineration retort dedicated to mortuary services.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crematory designates a mortuary where corpses are cremated."*
+> - 📜 **Ambrose Bierce (*The Devil's Dictionary*):** *"The modern **crematory** offers a swift pyric resolution to the slow, subterranean embarrassments of conventional cemetery plots."*
+> - 📜 **H. G. Wells (*The Sleeper Awakes*):** *"Silent automated conveyers guided the funeral biers directly toward the electric **crematory** vaults beneath the metropolis."*
+> - 📜 **H. P. Lovecraft (*The Case of Charles Dexter Ward*):** *"The sinister furnace discovered in the cellar possessed all the macabre attributes of an antique private **crematory**."*

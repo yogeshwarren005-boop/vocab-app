@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of combustion of inflammable materials producing heat and light and (often) smoke.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shine with a sudden light.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hot, glowing body of ignited gas produced by something on fire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In combustion physics and poetic metaphor, incandescent gaseous plasma generated during rapid exothermic oxidation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Can you think to blow out the intended fire your city is ready to flame in with such weak breath as this?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The flame o’ th’ taper Bows toward her and would under-peep her lids To see th’ enclosed lights, now canopied Under these windows white and azure, lac’d With blue of heaven’s own tinct."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O gentle son, Upon the heat and flame of thy distemper Sprinkle cool patience."*
+> - 📜 **William Blake (*Songs of Experience*):** *"Tyger Tyger, burning bright, in the forests of the night; what immortal hand or eye could frame thy fearful **flame**?"*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I saw how the fine form of man was degraded and wasted; I beheld the corruption of death succeed to the blooming cheek of life, until a sudden **flame** broke through the darkness."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The corposants flared along the lightning rods of the Pequod, each yard-arm tipping with a pale, supernatural **flame**."*

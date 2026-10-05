@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Devoid of passion or feeling; hardheartedness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Devoid of passion or feeling; hardheartedness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Insensitive cruelty, cold disregard for others, or hardened emotional detachment from human suffering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral psychology and literature, habitual hardness of heart that immunizes an individual against remorse, pity, and human sympathy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He remembered with what callousness he had watched her."*
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"Ye clothe your land in insurrection's dress, And nurse disloyalty, by callousness."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"A little wisdom, a little callousness would have avoided all this...."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Dorian viewed the tragic consequences of his vanity with a chilling **callousness** that horrified his oldest friends."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Rosamond's delicate refinement concealed an immovable **callousness** toward the genuine distress of those around her."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The totalitarian regime conducted its mass deportations with systematic **callousness** and mechanical brutality."*

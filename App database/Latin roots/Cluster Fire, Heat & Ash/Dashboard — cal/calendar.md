@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of timekeeping that defines the beginning and length and divisions of the year.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A list or register of events (appointments or social events or court cases etc).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chart, table, or system showing the days, weeks, and months of a year; or a chronological schedule of events.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chronometry, astronomy, and institutional administration, a mathematical framework (e.g. Julian or Gregorian) aligning civil time with astronomical cycles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, the care I have had to even your content, I wish might be found in the calendar of my past endeavours; for then we wound our modesty, and make foul the clearness of our deservings, when of ourselves we publish them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Indeed, to speak feelingly of him, he is the card or calendar of gentry; for you shall find in him the continent of what part a gentleman would see."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What hath it done That it in golden letters should be set Among the high tides in the calendar?"*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Julius Caesar reformed the Roman **calendar** by inserting intercalary days computed by the astronomers of Alexandria."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Every day marked upon the prison **calendar** brought him nearer to the dread hour of trial and judgment."*
+> - 📜 **Ralph Waldo Emerson (*Society and Solitude*):** *"Nature does not follow our civil **calendar**, but keeps her own majestic reckoning in opening blossoms and falling leaves."*

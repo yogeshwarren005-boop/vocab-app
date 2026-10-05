@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Calamint.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Calamint.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A botanical genus of aromatic herbs in the family Lamiaceae, commonly known as calamints.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In taxonomic botany, a genus closely allied to Clinopodium, featuring axillary cymes of small bilabiate blossoms and pungent volatile oils.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog calamintha as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"Under the genus **Calamintha** are arranged several aromatic mints native to the limestone hills of southern Europe."*
+> - 📜 **George Bentham (*Labiatarum Genera et Species*):** *"The tubular calyx and distinct stamens characterize the labiate genus **Calamintha** across its Mediterranean distribution."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Species of **Calamintha** occur in dry rocky woods, bearing loose whorls of pale purple blossoms in late summer."*

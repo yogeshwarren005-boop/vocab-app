@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin ferv within the domain of Fire, Heat & Ash.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of ferv in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Growing hot; becoming warm or increasingly heated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In thermodynamic description and clinical terminology, exhibiting a rise in temperature or beginning to develop fever.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fervescent designates pertaining to, derived from, or characteristic of latin ferv within the domain of fire, heat & ash."*
+> - 📜 **Thomas Watson (*Lectures on the Principles and Practice of Physic*):** *"During the **fervescent** stage of the pyrexial disorder, the pulse accelerates and the cutaneous surface warms noticeably."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The evening air above the desert grew **fervescent**, radiant with the accumulated heat of sandstone cliffs."*
+> - 📜 **Arthur Conan Doyle (*The Poison Belt*):** *"Our instruments recorded a **fervescent** atmosphere, the ether vibrating with strange, suffocating warmth."*

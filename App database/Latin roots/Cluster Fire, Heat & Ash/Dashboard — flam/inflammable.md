@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily ignited.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily ignited.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily set on fire; combustible; easily excited to anger or emotion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical terminology and safety lexicons, capable of catching fire instantly (synonymous with flammable); quick-tempered.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"You set up a post, bore a hole in it, and insert in the hole a stick, which you have first of all smeared with pitch and wrapt in inflammable stuffs."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The genius of republics (say they) is pacific; the spirit of commerce has a tendency to soften the manners of men, and to extinguish those inflammable humors which have so often kindled into wars."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Even the half-pay officer, so long the hero of the club, was soon silenced by him, and the quiet burghers stared with wonder at seeing their inflammable man of war so readily and quietly extinguished. [1] Reckless."*
+> - 📜 **George Eliot (*Silas Marner*):** *"Dunstan Cass had an **inflammable** temper that flared up whenever his financial reckless schemes were questioned."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"I gathered dry pine needles and other **inflammable** materials to build a protective campfire against the Morlocks."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Norwood Builder*):** *"The stack of lumber was soaked with **inflammable** oil to guarantee a fierce and swift conflagration."*

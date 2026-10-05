@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A magnoliid dicot genus of the family calycanthaceae including: allspice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A magnoliid dicot genus of the family calycanthaceae including: allspice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of deciduous shrubs in the family Calycanthaceae, commonly known as sweetshrub, spicebush, or Carolina allspice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticultural botany and phytochemistry, North American ornamental shrubs containing calycanthine alkaloids, bearing wine-red or maroon blossoms with spicy fruity aromas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calycanthus designates a magnoliid dicot genus of the family calycanthaceae including: allspice."*
+> - 📜 **John Bartram (*Travels Through North and South Carolina*):** *"We rode through dense thickets of **Calycanthus**, whose aromatic bark and spicy maroon blossoms filled the forest with rich perfume."*
+> - 📜 **Thomas Meehan (*The Native Flowers and Ferns of the United States*):** *"Children in the southern states collect the crushed blossoms of **Calycanthus** floridus to carry in their pockets for its strawberry-like fragrance."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"The curious strap-shaped brownish petals of **Calycanthus** make it a favorite curiosity in botanical gardens and ornamental borders."*

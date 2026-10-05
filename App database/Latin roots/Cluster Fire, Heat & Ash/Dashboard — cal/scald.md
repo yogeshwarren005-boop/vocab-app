@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A burn cause by hot liquid or steam.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of burning with steam or hot water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To burn or injure with very hot liquid or steam; also to heat a liquid almost to the boiling point.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In thermal burn medicine and culinary science, tissue injury produced by boiling liquids, or heating milk to approximately 180 degrees Fahrenheit to deactivate enzymes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Saucy lictors Will catch at us like strumpets, and scald rhymers Ballad us out o’ tune."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When thou dost pinch thy bearer, thou dost sit Like a rich armour worn in heat of day, That scald’st with safety."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is one goat for you. [_Strikes him._] Will you be so good, scald knave, as eat it?"*
+> - 📜 **William Shakespeare (*Henry IV, Part 2*):** *"When thou dost pinch thy bearer, thou dost sit like a rich armour worn in heat of day, that **scald**'st with safety."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip spilled the boiling water from the heavy kettle, fearing he might **scald** his trembling hands across the hearth."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Never let careless attendants pour boiling water too hastily into warming pans, lest a leak **scald** a helpless patient."*

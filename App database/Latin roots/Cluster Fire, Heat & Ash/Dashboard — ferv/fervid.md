@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by intense emotion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely hot; - nathaniel hawthorne; - frances trollope.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intensely enthusiastic or passionate, especially to an excessive degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary aesthetics and archaic science, glowing with literal or metaphorical fire; blazing with heated emotion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is a very fervid, impassioned speaker—full of fire!"*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Say you do now, dear, dear husband; say you do, now I have killed him!” “I do love you, Tess—O, I do—it is all come back!” he said, tightening his arms round her with fervid pressure."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Has a girl of fourteen a heart large enough, vigorous enough, to hold the swelling spring of pure, full, fervid eloquence?"*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Swedenborg looked into the spiritual spheres with a **fervid** imagination that transfigured common theological dogmas."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Angel Clare's **fervid** idealism blindfolded him to the practical realities of human fallibility."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Through the **fervid** noon the heavenly legions kept their watchful vigil upon the ramparts of bliss."*

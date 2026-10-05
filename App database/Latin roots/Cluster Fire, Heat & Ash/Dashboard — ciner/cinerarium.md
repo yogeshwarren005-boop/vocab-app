@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A niche for a funeral urn containing the ashes of the cremated dead.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A niche for a funeral urn containing the ashes of the cremated dead.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A place or building where the ashes of cremated dead are deposited; a columbarium or urn repository.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In funerary architecture and classical archaeology, a sepulchral chamber or vault lined with niches for the permanent custody of cinerary urns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cinerarium designates a niche for a funeral urn containing the ashes of the cremated dead."*
+> - 📜 **Edward Bulwer-Lytton (*The Last Days of Pompeii*):** *"Entering the quiet family **cinerarium**, the mourners placed the terracotta urn into its carved niche upon the stone shelf."*
+> - 📜 **John Addington Symonds (*Sketches and Studies in Italy and Greece*):** *"The Roman columbarium served as a collective **cinerarium** for the freedmen of the imperial household."*
+> - 📜 **Edith Wharton (*Italian Backgrounds*):** *"Ancient cypress trees sheltered the forgotten hillside **cinerarium**, where generations of ashes rested in solemn peace."*

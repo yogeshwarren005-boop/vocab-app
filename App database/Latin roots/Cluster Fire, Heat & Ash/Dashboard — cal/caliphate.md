@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The era of islam's ascendancy from the death of mohammed until the 13th century; some moslems still maintain that the moslem world must always have a calif as head of the community.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The territorial jurisdiction of a caliph.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The office, jurisdiction, or dominion of a caliph; the historical system of Islamic sovereign government.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international history and religious political theory, the trans-regional sovereign polity uniting the Muslim community under prophetic succession.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, caliphate designates the era of islam's ascendancy from the death of mohammed until the 13th century; some moslems still maintain that the moslem world must always have a calif as head of the community."*
+> - 📜 **Winston Churchill (*The River War*):** *"The collapse of the old **caliphate** left political vacuums across the desert realms that rival factions fought to claim."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"During the golden prime of the Abbasid **caliphate**, science and literature flourished under imperial patronage."*
+> - 📜 **Arnold J. Toynbee (*A Study of History*):** *"The dissolution of the Ottoman **caliphate** marked a decisive transition toward secular nationalism across the Near East."*

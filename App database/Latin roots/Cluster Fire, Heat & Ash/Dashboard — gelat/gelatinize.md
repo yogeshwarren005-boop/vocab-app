@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coat with gelatin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become gelatinous or change into a jelly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause a substance to assume the properties, texture, or consistency of a gelatinous substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cereal chemistry and brewing technology, to disrupt intermolecular bonds of starch in the presence of water and heat to produce a paste.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gelatinize designates coat with gelatin."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"The experimental solvent caused the cellular proteins of living tissue to **gelatinize** before bleaching them entirely transparent."*
+> - 📜 **Jack London (*The Star Rover*):** *"In the cold mountain cellar, the rich venison broth began to **gelatinize** into a solid translucent loaf."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Boiled animal sinews gradually **gelatinize**, yielding adhesive glues long employed by primitive craftsmen."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme effortfulness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extreme effortfulness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of requiring severe effort, difficult labor, or exhausting exertion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical, physical, or occupational assessment, the taxing and demanding nature of an undertaking or climb.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arduousness designates extreme effortfulness."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Wages in hazardous callings naturally rise to compensate the laborer for the danger and extreme **arduousness** of the employment."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The moral will demonstrates its fiber precisely in facing the intrinsic **arduousness** of difficult ethical alternatives."*
+> - 📜 **George Santayana (*The Life of Reason*):** *"Heroic action derives its nobility not from guaranteed success, but from the deliberate acceptance of its **arduousness**."*

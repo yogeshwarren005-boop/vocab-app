@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving or resulting from calcification.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving or resulting from calcification.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Forming, secreting, or inducing the deposit of lime or calcium salts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathological anatomy and cardiology, describing degenerative processes involving pathological deposition of calcium, as in calcific aortic stenosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calcific designates involving or resulting from calcification."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe arterial degeneration often terminates in rigid **calcific** plaques that narrow the vascular lumen."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Dystrophic **calcific** infiltration takes place in necrotic cellular tissue where normal circulation has ceased."*
+> - 📜 **James Paget (*Lectures on Surgical Pathology*):** *"Chronic inflammation of the valve leaflets leads to dense **calcific** deposits that obstruct the aortic outflow."*

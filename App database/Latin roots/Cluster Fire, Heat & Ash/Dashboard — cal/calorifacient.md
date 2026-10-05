@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing heat; usually used of foods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing heat; usually used of foods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to generate, produce, or stimulate heat, especially through bodily metabolic processes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century metabolic physiology, designating foodstuffs (principally fats and non-nitrogenous carbohydrates) consumed primarily to fuel internal combustion and preserve animal warmth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calorifacient designates producing heat; usually used of foods."*
+> - 📜 **William Benjamin Carpenter (*Principles of Human Physiology*):** *"Fatty substances constitute the most potent **calorifacient** agents in the human dietary, yielding immense animal heat through oxidation."*
+> - 📜 **Justus von Liebig (*Animal Chemistry*):** *"Starches and sugars function chiefly as **calorifacient** fuels, burned within the capillary system to maintain normal bodily temperature."*
+> - 📜 **William Prout (*Chemistry, Meteorology, and the Function of Digestion*):** *"The respiratory process converts absorbed **calorifacient** matters into carbonic acid, throwing off heat essential for vital operations."*

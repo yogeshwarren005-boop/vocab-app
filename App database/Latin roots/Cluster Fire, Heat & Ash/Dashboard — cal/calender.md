@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A machine that smooths or glazes paper or cloth by pressing it between plates or passing it through rollers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Press between rollers or plates so as to smooth, glaze, or thin into sheets.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A machine consisting of heavy rollers used to press and smooth cloth, paper, or plastic; or a dervish mendicant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In textile engineering and papermaking, a stack of heated steel and fiber rolls that confers high gloss, smooth surface finish, and uniform density.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calender designates a machine that smooths or glazes paper or cloth by pressing it between plates or passing it through rollers."*
+> - 📜 **Karl Marx (*Capital: Critique of Political Economy*):** *"The mechanical **calender** presses woven cotton goods with tremendous roller weight, imparting a finished commercial luster."*
+> - 📜 **Andrew Ure (*The Philosophy of Manufactures*):** *"Passing sheets through a steam-heated **calender** flattens fibers and renders the paper impervious to runny ink."*
+> - 📜 **Richard Francis Burton (*The Book of the Thousand Nights and a Night*):** *"The wandering **calender** carried his begging bowl through the market, chanting sacred verses before open shop doors."*

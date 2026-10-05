@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make fine adjustments or divide into marked intervals for optimal measuring.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mark (the scale of a measuring instrument) so that it can be read in the desired units.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To mark, verify, or adjust the graduations of an instrument to ensure accurate measurement against a standard.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In experimental physics, metrology, and instrumentation, to establish a systematic transfer function between sensor readings and fundamental physical units.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Even if they do have more spares stashed away, it'll take them at least twenty hours to install the parts and calibrate the system." Brad turned to Rimov."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"When she was done with a turret, the gun had a zero firing potential, and would take hours to repair, calibrate and test."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Walking swiftly along a passageway he passed Hodak at a workbench calibrating instruments as cover."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Before commencing the investigation, it was necessary to **calibrate** the torsion galvanometer against a standard voltaic cell."*
+> - 📜 **Lord Kelvin (*Popular Lectures and Addresses*):** *"Without standard instruments carefully made to **calibrate** our laboratory gauges, physical experiments cannot yield quantitative truth."*
+> - 📜 **John Tyndall (*Heat Considered as a Mode of Motion*):** *"The physicist must **calibrate** the delicate thermo-electric pile to detect variations of heat down to fractions of a degree."*

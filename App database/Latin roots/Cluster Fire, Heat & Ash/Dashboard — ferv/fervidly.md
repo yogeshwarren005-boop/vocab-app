@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With passionate fervor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With passionate fervor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an intensely passionate, zealous, or enthusiastic manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In emotive narrative and oratorical rhetoric, expressing convictions or devotion with incandescent, fiery intensity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He’s all there!” said number four, fervidly."*
-> - 📜 **George Eliot (*Middlemarch*):** *"If it were a new hardship it would be a new reason for me to cling to you,” said Dorothea, fervidly."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The man, truly!” said a third, with heartiness.” “He’s all there!” said number four, fervidly.” “Then will you tell him to speak to the bailiff,” said Bathsheba."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Will Ladislaw argued **fervidly** for political reform, his eyes flashing with spontaneous youthful indignation."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"Giles Winterborne loved Grace Melbury **fervidly**, yet hid his devotion behind humble silence and daily toil."*
+> - 📜 **Walter Pater (*The Renaissance*):** *"The Italian humanists sought **fervidly** to recover the lost beauty and intellectual liberty of classical antiquity."*

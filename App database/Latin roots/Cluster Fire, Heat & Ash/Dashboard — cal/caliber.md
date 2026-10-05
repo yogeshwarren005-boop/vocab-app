@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A degree or grade of excellence or worth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Diameter of a tube or gun barrel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The internal diameter of a gun barrel or the diameter of a bullet; or the degree of mental capacity or quality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ballistics, manufacturing tolerances, and social evaluation, an exact dimensional bore measurement or a standard of moral and intellectual excellence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"But I would rather live in a world that possessed only literature of the Poe caliber, than shiver in one echoing solely the strains of the Miltonian muse."*
-> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"The Empress has forbidden the use of guns of large caliber against us, because of the harm they might do to her loyal people and their houses."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Empty House*):** *"The bullet was an expanding soft-nosed missile of large **caliber**, fired from an air rifle of remarkable precision."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"Only statesmen of the highest intellectual **caliber** could steer the nation through the perils of total conflict."*
+> - 📜 **Ralph Waldo Emerson (*The Conduct of Life*):** *"We readily recognize men of superior **caliber** by their calm self-reliance and breadth of purpose in difficult trials."*

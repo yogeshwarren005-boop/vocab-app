@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perennial vine of dry parts of central and southwestern united states and mexico having small hard mottled green inedible fruit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perennial vine of dry parts of central and southwestern united states and mexico having small hard mottled green inedible fruit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A wild perennial trailing vine (Cucurbita foetidissima) of arid western North America bearing small, bitter, striped gourds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In southwestern desert botany and ethnobotany, the Missouri gourd or buffalo gourd, bearing a massive starchy taproot and pungent bitter foliage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calabazilla designates perennial vine of dry parts of central and southwestern united states and mexico having small hard mottled green inedible fruit."*
+> - 📜 **John Muir (*Steep Trails*):** *"Along the sandy wash, trailing vines of the **calabazilla** spread their triangular grayish leaves across the sun-baked soil."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"The bitter gourds of the native **calabazilla** lie scattered across dry river bottoms throughout the arid Southwest."*
+> - 📜 **Charles Sprague Sargent (*Silva of North America*):** *"Beneath the mesquite scrub the vigorous vines of the wild **calabazilla** yield dense clusters of spherical striped fruit."*

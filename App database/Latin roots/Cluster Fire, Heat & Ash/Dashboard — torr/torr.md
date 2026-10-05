@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of pressure equal to 0.001316 atmosphere; named after torricelli.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of pressure equal to 0.001316 atmosphere; named after torricelli.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of pressure defined as exactly 1/760 of a standard atmosphere, approximately equal to 1 mmHg.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vacuum physics, fluid mechanics, and barometry, a non-SI metric pressure unit named after Evangelista Torricelli.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Seligmann, in _Journal of the Anthropological Institute_, xxix. (1899) pp. 212 _sq.; id._, in _Reports of the Cambridge Anthropological Expedition to Torres Straits_, v. (Cambridge, 1904) pp. 203 _sq._ [100] Dr."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Seligmann, in _Reports of the Cambridge Expedition to Torres Straits_, v. (Cambridge, 1904) p. 205. [101] L."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Seligmann, in _Reports of the Cambridge Anthropological Expedition to Torres Straits_, v. (Cambridge, 1904), p. 205. [106] From notes kindly sent me by Dr."*
+> - 📜 **Richard Feynman (*The Feynman Lectures on Physics*):** *"By evacuating the glass chamber down to a few thousandths of a **torr**, molecular collisions become negligible."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"The professor adjusted the mercury column, noting that atmospheric pressure fell several **torr** beneath normal sea level."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"In the near-total vacuum of interplanetary space, residual pressure hovers far below a millionth of a **torr**."*

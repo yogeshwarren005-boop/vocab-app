@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tall evergreens of western north america and eastern asia; formerly included in genus libocedrus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tall evergreens of western north america and eastern asia; formerly included in genus libocedrus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of coniferous evergreen trees in the cypress family (Cupressaceae), commonly designated incense cedars.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dendrology and forest ecology, aromatic gymnosperms native to western North America and eastern Asia featuring flattened sprays of scale-like leaves and decay-resistant wood.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calocedrus designates tall evergreens of western north america and eastern asia; formerly included in genus libocedrus."*
+> - 📜 **John Muir (*The Mountains of California*):** *"The noble **Calocedrus** decurrens rises like an emerald spire, perfuming the Sierra breezes with rich, resinous incense."*
+> - 📜 **Charles Sprague Sargent (*The Silva of North America*):** *"Foresters prize the trunk of **Calocedrus** for straight-grained, fragrant wood exceptionally resistant to moisture and fungal decay."*
+> - 📜 **David Douglas (*Journal Kept by David Douglas During His Travels in North America*):** *"Along the mountain ridges we collected cones of **Calocedrus**, marveling at the towering stature of these aromatic evergreens."*

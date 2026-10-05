@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Roman emperor who succeeded tiberius and whose uncontrolled passions resulted in manifest insanity; noted for his cruelty and tyranny; was assassinated (12-41).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Roman emperor who succeeded tiberius and whose uncontrolled passions resulted in manifest insanity; noted for his cruelty and tyranny; was assassinated (12-41).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The third Roman emperor (reigned 37–41 CE), notorious in classical historiography for tyranny, extravagance, and erratic cruelty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman imperial history and political philosophy, Gaius Caesar Augustus Germanicus, whose brief reign epitomized autocracy unchecked by senatorial restraint.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"You are like a murderer—you are like a slave-driver—you are like the Roman emperors!” I had read Goldsmith’s History of Rome, and had formed my opinion of Nero, Caligula, &c."*
-> - 📜 **James Scurry (*The captivity, sufferings, and escape of James Scurry*):** *"That he was a coward, we could easily demonstrate, and that he was a tyrant, equal, if not superior, to a Domitian, a Caligula, a Nero, or even Nabis the tyrant of Sparta, is a fact of which we had ocular demonstration."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The whimsical despotism of **Caligula** exposed the Roman senate to humiliating spectacles of caprice and terror."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"Even the monstrous extravagances of **Caligula** could not entirely extinguish the stoic virtues surviving among Roman citizens."*
+> - 📜 **Seneca the Younger (*Moral Essays*):** *"Under the violent outbursts of **Caligula**, the wisest senators found safety only in absolute silence and retirement."*

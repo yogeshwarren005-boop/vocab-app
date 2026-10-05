@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Blowflies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Blowflies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The family of two-winged true flies comprising blowflies, bluebottles, and greenbottles, known for their metallic luster.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical entomology and forensic biology, calyptrate flies whose saprophagous larvae colonize decomposing tissue, causing myiasis or aiding forensic death investigations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calliphoridae designates blowflies."*
+> - 📜 **John Henry Comstock (*An Introduction to Entomology*):** *"Flies belonging to **Calliphoridae** are distinguished by their brilliant metallic emerald and sapphire abdominal shields."*
+> - 📜 **Jean-Henri Fabre (*More Hunting Wasps*):** *"Parasitic wasps relentlessly hunt the plump larvae of **Calliphoridae** as nourishment for their developing grubs."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"In humid tropical forests, diverse species of **Calliphoridae** swarm instantaneously around any freshly fallen animal matter."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dragonets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dragonets.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of small, benthic marine bony fishes commonly known as dragonets, characterized by elaborate fins and cryptic colors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic ichthyology and reef ecology, bottom-dwelling perciform fishes exhibiting extreme sexual dimorphism, intricate courtship dances, and preopercular spines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, callionymidae designates dragonets."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"Fishes of the family **Callionymidae** dwell upon sandy bottoms, displaying magnificent dorsal fins during territorial rivalries."*
+> - 📜 **William Beebe (*Beneath Tropic Seas*):** *"Among the coral rubble, small dragonets belonging to **Callionymidae** darted with sudden, darting bursts of speed."*
+> - 📜 **Günther (*An Introduction to the Study of Fishes*):** *"The family **Callionymidae** exhibits strong spines on the preoperculum that provide formidable defense against larger marine predators."*

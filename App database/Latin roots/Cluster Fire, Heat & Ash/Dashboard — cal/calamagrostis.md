@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reed grass.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reed grass.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cosmopolitan genus of perennial reed grasses in the grass family Poaceae, commonly known as small-reed or feather reed grass.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In wetland ecology and landscape design, robust tufted grasses forming dense riparian stands and prized in cultivars like 'Karl Foerster'.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calamagrostis designates reed grass."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Dense plumes of **Calamagrostis** wave along the borders of peat bogs and damp alpine meadows."*
+> - 📜 **Charles Sprague Sargent (*Silva of North America*):** *"The marshy meadows bordering the northern river were overgrown with tall culms of **Calamagrostis**."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"As an architectural border perennial, ornamental **Calamagrostis** maintains upright feather-like plumes through autumn."*

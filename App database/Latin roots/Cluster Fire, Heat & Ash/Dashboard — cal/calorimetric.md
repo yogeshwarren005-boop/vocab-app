@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the measurement of heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the measurement of heat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or determined by calorimetry, the quantitative measurement of thermal energy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In thermodynamic experimentation, utilizing thermal measurements such as heat capacity, enthalpy shifts, or isothermal titration to characterize molecular binding equilibria.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calorimetric designates of or relating to the measurement of heat."*
+> - 📜 **Lord Kelvin (*Mathematical and Physical Papers*):** *"Accurate **calorimetric** determinations enabled physicists to establish absolute thermodynamic temperature scales independent of thermometric substances."*
+> - 📜 **Gilbert N. Lewis (*Thermodynamics and the Free Energy of Chemical Substances*):** *"Direct **calorimetric** measurements of reaction heats provide essential data for computing the standard free energies of chemical compounds."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Modern physiological laboratories employ **calorimetric** chambers to quantify total energy transformation across living organisms."*

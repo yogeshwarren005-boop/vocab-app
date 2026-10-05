@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being warming.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being warming.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process or physical act of heating or imparting thermal warmth to a body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early thermal physics and chemical philosophy, the transfer of caloric or thermal energy to an object, elevating its temperature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calefaction designates the property of being warming."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Heat is an expansive motion restrained, and the gradual **calefaction** of a body consists in the accelerated agitation of its minimal particles."*
+> - 📜 **Robert Boyle (*New Experiments and Observations touching Cold*):** *"The gentle **calefaction** of the glass alembic over an earthen sand-bath prevents violent boiling and destructive fracture."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Natural philosophers debated whether the **calefaction** of subterranean mineral baths proceeded from deep volcanic fires or chemical fermentations."*

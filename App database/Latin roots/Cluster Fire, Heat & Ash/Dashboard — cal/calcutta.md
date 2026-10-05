@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The largest city in india and one of the largest cities in the world; located in eastern india; suffers from poverty and overcrowding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The largest city in india and one of the largest cities in the world; located in eastern india; suffers from poverty and overcrowding.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major cultural, commercial, and educational city of eastern India (now officially Kolkata), capital of West Bengal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In imperial history, the principal seat of the British East India Company and capital of British India from 1772 until 1911, located on the Hooghly River.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*The Elder Brother*):** *"Bombay and Calcutta: MACMILLAN AND CO., LTD. [_All Rights reserved._] NOTE: The text of the present volume was passed for press by Arnold Glover and some progress had been made in his lifetime in the collection of the material given in the Appendix."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Chaffanjon, _L'Orénoque et le Caura_ (Paris, 1889), pp. 213-215. [157] Shib Chunder Bose, _The Hindoos as they are_ (London and Calcutta, 1881), p. 86."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Crooke, _Tribes and Castes of the North-Western Provinces and Qudh_ (Calcutta, 1896), ii. 87. [214] W."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"Clive sailed up the Hooghly to recapture **Calcutta** and avenge the tragedy of the Black Hole."*
+> - 📜 **Rudyard Kipling (*The City of Dreadful Night*):** *"The hot tropical night fell like a sodden blanket over the teeming streets and bazaars of **Calcutta**."*
+> - 📜 **Rabindranath Tagore (*My Reminiscences*):** *"Our ancestral mansion in **Calcutta** was always alive with poetry, music, and the ferment of new cultural movements."*

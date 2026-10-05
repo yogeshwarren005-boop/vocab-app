@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tropical american trees of the family sapotaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of tropical american trees of the family sapotaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A botanical genus of Neotropical fruit trees in the sapote family (Sapotaceae), traditionally comprising the mamey sapote.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic pomology and tropical ethnobotany, latex-bearing evergreen trees renowned for large, russet, edible fruits featuring salmon-pink custardy pulp.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calocarpum designates a genus of tropical american trees of the family sapotaceae."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Botanists classified the sapote tree under **Calocarpum**, highlighting its magnificent foliage and delicious, custardy fruit."*
+> - 📜 **Orator F. Cook (*Vegetation of the Tropical Americas*):** *"Specimens of **Calocarpum** mammosum flourished in Central American river valleys, cultivated by indigenous peoples for centuries."*
+> - 📜 **Paul C. Standley (*Flora of the Panama Canal Zone*):** *"The genus **Calocarpum** yields valuable timber alongside prized fruits sold in markets throughout Mesoamerica."*

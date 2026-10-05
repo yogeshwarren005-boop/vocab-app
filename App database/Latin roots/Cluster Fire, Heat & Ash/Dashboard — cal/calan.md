@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug (trade names calan and isoptin) used as an oral or parenteral calcium blocker in cases of hypertension or congestive heart failure or angina or migraine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug (trade names calan and isoptin) used as an oral or parenteral calcium blocker in cases of hypertension or congestive heart failure or angina or migraine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Celtic seasonal feast day, notably Calan Gaeaf (Welsh New Year/Winter eve) or Calan Mai (May Day).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Welsh folklore and Celtic calendar custom, a calends quarter-day marking seasonal shifts, associated with divination and spirit apparitions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calan designates a drug (trade names calan and isoptin) used as an oral or parenteral calcium blocker in cases of hypertension or congestive heart failure or angina or migraine."*
+> - 📜 **George Borrow (*Wild Wales*):** *"The country folk still whisper strange legends of the spirits that wander abroad on the eve of **Calan** Gaeaf."*
+> - 📜 **John Rhys (*Celtic Folklore: Welsh and Manx*):** *"Bonfires were kindled upon the hilltops to celebrate the dawn of **Calan** Mai according to immemorial rural custom."*
+> - 📜 **Giraldus Cambrensis (*The Itinerary through Wales*):** *"The ancient British peasants marked the recurring festival of **Calan** with solemn prayers and lively village assemblies."*

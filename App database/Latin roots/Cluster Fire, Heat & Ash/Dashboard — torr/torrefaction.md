@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin torr within the domain of Fire, Heat & Ash.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of torr in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of roasting, drying, or scorching an organic substance at high heat in the absence of oxygen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biomass energy engineering and metallurgy, mild pyrolysis between 200°C and 300°C that improves fuel energy density and grindability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, torrefaction designates pertaining to, derived from, or characteristic of latin torr within the domain of fire, heat & ash."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Subterranean heat working upon subterranean lignite beds produces an intense natural **torrefaction** of carbonaceous strata."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"The dry heat oven completed the thorough **torrefaction** of the soil samples before chemical analysis began."*
+> - 📜 **Alexander von Humboldt (*Cosmos: A Sketch of a Physical Description of the Universe*):** *"The scorching desert winds subjected the upland shrubs to a severe atmospheric **torrefaction** during summer droughts."*

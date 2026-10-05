@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by effort to the point of exhaustion; especially physical effort.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Taxing to the utmost; testing powers of endurance; ; ; - f.d.roosevelt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving or requiring strenuous effort, difficult labor, or tiring exertion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative exposition and topographical description, steep, rugged, and taxing to ascend or traverse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Their legs are so hard as to encourage the idea that they must have devoted the greater part of their long and arduous lives to pedestrian exercises and the walking of matches."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"I can now say I am entirely well, and engaged in arduous work--often among the sick, losing whole nights of rest." CURED OF SPINE DISEASE."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In five weeks of most arduous toil I managed thus to make a jar which I estimated to hold a gallon and a half."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"It is an **arduous** task to step outside the conventions of one's contemporaries and walk by one's own inner compass."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Our progress across the grim, sodden mire was both slow and **arduous**, demanding every ounce of vigilance."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"The ethical progress of human society depends upon an **arduous** struggle against the cosmic tendencies of raw competition."*

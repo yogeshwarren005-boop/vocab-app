@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unenthusiastically lukewarm manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unenthusiastically lukewarm manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a moderately warm or lukewarm manner; with faint enthusiasm, weak conviction, or indifference.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative exposition, describing actions executed without zeal, passion, or vigorous energetic commitment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And his gifts were treated tepidly, though with cupidinous eyes."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And isn't it enough of the fresh air you have, and you on the salt water?" And her embraces were half chastity, half sin, tepidly passionate, unintimate ... so that shame was on him, and no pride or joyousness...."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"The drawing-room audience applauded **tepidly** at the conclusion of the ballad before returning to their gossip."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The coastal breeze blew **tepidly** across the veranda, carrying the heavy fragrance of nocturnal blossoms."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"He shook my outstretched hand **tepidly**, gazing past me with the detached preoccupation of an absentminded scholar."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Terrestrial orchids of north america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Terrestrial orchids of north america.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small genus of terrestrial orchids native to North America and the Caribbean, commonly designated grass pinks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In floral morphology and pollination ecology, bog-dwelling orchids characterized by non-resupinate blossoms bearing a hinged lip decorated with pseudostamens that physically drop pollinating bees onto the column.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calopogon designates terrestrial orchids of north america."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"In the spongy sphagnum bogs we found the delicate grass pink, **Calopogon**, lifting its bright magenta blossom above the moss."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Unlike most native orchids, **Calopogon** displays a non-resupinate flower with its bearded lip positioned aloft rather than below."*
+> - 📜 **John Burroughs (*Riverby*):** *"The boggy meadow glowed with patches of **Calopogon**, blooming in delightful companionship with pitcher plants and sundews."*

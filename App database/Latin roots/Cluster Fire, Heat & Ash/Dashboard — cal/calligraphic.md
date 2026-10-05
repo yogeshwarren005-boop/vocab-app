@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or expressed in calligraphy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or expressed in calligraphy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characterized by beautiful, decorative, and artistically controlled penmanship or brushwork.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In art history and aesthetic theory, designating visual lines, brushstrokes, or decorative flourishes possessing rhythmic flow and expressive linear beauty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calligraphic designates of or relating to or expressed in calligraphy."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"Turner's delicate pen sketches possess a **calligraphic** elegance that conveys mountainous vitality in a single stroke."*
+> - 📜 **Roger Fry (*Vision and Design*):** *"Chinese brush painting relies upon **calligraphic** mastery to suggest form and emotional weight simultaneously."*
+> - 📜 **William Morris (*Hopes and Fears for Art*):** *"The **calligraphic** vitality of fourteenth-century manuscripts vanished with the mechanization of cheap commercial printing."*

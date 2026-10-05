@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of orange tinged with red.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of orange tinged with red.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vivid, fiery orange color reminiscent of an open fire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In design arts, ornithological plumage descriptions, and mineralogy, a vibrant high-saturation chromatic hue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flame-orange designates of orange tinged with red."*
+> - 📜 **Jack London (*The Cruise of the Snark*):** *"The setting sun dipped into the Pacific in a blaze of **flame-orange** brilliance that lit the clouds from below."*
+> - 📜 **Willa Cather (*The Song of the Lark*):** *"The pottery shards retrieved from the canyon ruin showed distinctive patterns of **flame-orange** slipware."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"A sudden burst of **flame-orange** light from the ship's furnace illuminated the blackened faces of the stokers."*

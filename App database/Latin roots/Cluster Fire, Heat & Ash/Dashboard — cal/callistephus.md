@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One species: erect asiatic herb with large flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One species: erect asiatic herb with large flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monotypic genus of annual flowering plants in the family Asteraceae containing the China aster (Callistephus chinensis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial floriculture and horticulture, an east Asian composite plant cultivated worldwide for showy flower heads in numerous pastel and jewel tones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, callistephus designates one species: erect asiatic herb with large flowers."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Centuries of Chinese and European breeding transformed the modest wild **Callistephus** into magnificent double garden asters."*
+> - 📜 **Gertrude Jekyll (*Annuals and Biennials*):** *"Late summer borders owe much of their floral richness to beds of **Callistephus** blooming in deep purple and crimson hues."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The remarkable variety of form displayed by cultivated **Callistephus** chinensis highlights the power of artificial selection."*

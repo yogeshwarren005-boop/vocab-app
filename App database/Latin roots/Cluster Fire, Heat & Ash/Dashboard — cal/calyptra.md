@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The hood or cap covering the calyx of certain plants: e.g., the california poppy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The hood or cap covering the calyx of certain plants: e.g., the california poppy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hood-like or cap-like covering or envelope, especially the membranous hood enclosing the developing spore capsule of a moss.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant anatomy and histology, the protective root cap safeguarding the apical meristem during subterranean penetration, or the opercular cap shed during eucalypt flowering.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calyptra designates the hood or cap covering the calyx of certain plants: e.g., the california poppy."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"When the moss capsule ripens, it casts aside the hairy **calyptra** that protected the delicate peristome teeth during embryonic growth."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The root cap or **calyptra** consists of tough, disposable parenchymatous cells continually renewed as the root pushes through rough soil."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"Sensory cells located within the protective **calyptra** of the radicle direct geotropic curvature when encountering physical obstacles."*

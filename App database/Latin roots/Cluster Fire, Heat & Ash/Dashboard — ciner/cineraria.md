@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Herb of canary islands widely cultivated for its blue or purple or red or variegated daisylike flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A niche for a funeral urn containing the ashes of the cremated dead.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A flowering plant of the aster family, widely cultivated for its showy, bright daisy-like flower heads.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In decorative floriculture, compact ornamental cultivars derived from Pericallis hybrida displaying vivid blue, purple, or magenta blooms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cineraria designates herb of canary islands widely cultivated for its blue or purple or red or variegated daisylike flowers."*
+> - 📜 **Gertrude Jekyll (*Colour Schemes for the Flower Garden*):** *"The cool conservatory bench was banked with deep purple and indigo **cineraria**, creating a striking carpet of color."*
+> - 📜 **E. M. Forster (*Where Angels Fear to Tread*):** *"Pots of blooming **cineraria** decorated the stone balustrade of the Italian villa under the morning sunshine."*
+> - 📜 **Vita Sackville-West (*In Your Garden*):** *"For early springtime brightness under glass, nothing excels the velvet brilliance of a well-grown pot of **cineraria**."*

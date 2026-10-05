@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to calisthenics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to calisthenics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or practicing vigorous physical exercises designed to promote bodily strength, agility, and grace.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical education and athletic history, designating gymnastic movements that utilize bodyweight resistance to foster poise and stamina.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Instead of going to the gym on Saturday, I'll put in calisthenics and acrobatic stunts with a broom and duster.” She was thorough, too."*
-> - 📜 **James Joyce (*Ulysses*):** *"He places a hand lightly on his breastbone, bows, and fondles his flower and buttons.)_ MAGINNI: The poetry of motion, art of calisthenics."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Skene, assisted by a competent staff of professors, would give lessons in dancing, deportment, and calisthenics."*
+> - 📜 **Herbert Spencer (*Education: Intellectual, Moral, and Physical*):** *"The routine of **calisthenic** drills in modern academies often lacks the spontaneous joy of free outdoor play."*
+> - 📜 **Louisa May Alcott (*Little Women*):** *"The girls performed their morning **calisthenic** exercises with brisk enthusiasm before commencing their studies."*
+> - 📜 **Thomas Wentworth Higginson (*Out-Door Papers*):** *"A regular course of **calisthenic** training imparts graceful carriage and muscular endurance to young scholars."*

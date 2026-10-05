@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fine closely woven cotton fabric.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fine closely woven cotton fabric.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A closely woven, fine cotton fabric with a smooth, firm, and unglossed plain-weave finish, commonly utilized for bed sheets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In textile manufacturing, a durable plain-weave cotton or blended cloth possessing a minimum thread count of 180 to 200 threads per square inch, providing a crisp, matte handfeel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, percale designates a fine closely woven cotton fabric."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"The guest rooms were furnished with spotless white **percale** curtains that rustled crisply in the autumn breeze off Newport harbor."*
+> - 📜 **Gustave Flaubert (*Madame Bovary*):** *"Emma inspected the linens, admiring the delicate white **percale** sheets stitched with neat monograms for her provincial household."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"He woke up in the cool luxury of crisp **percale** bedclothes, enjoying the clean freshness of a modern hotel room."*

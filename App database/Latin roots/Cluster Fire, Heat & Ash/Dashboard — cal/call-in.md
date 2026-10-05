@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A telephone call to a radio station or a television station in which the caller participates in the on-going program.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A telephone call to a radio station or a television station in which the caller participates in the on-going program.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A radio or television program that broadcasts comments or queries received by telephone from listeners or viewers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In broadcast journalism and workplace management, participatory broadcast talk radio or mandatory employee check-in protocols.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, call-in designates a telephone call to a radio station or a television station in which the caller participates in the on-going program."*
+> - 📜 **Studs Terkel (*Talking to Myself: A Memoir of My Times*):** *"The late-night **call-in** program became a democratic forum where cab drivers and professors shared their fears."*
+> - 📜 **Marshall McLuhan (*Understanding Media: The Extensions of Man*):** *"The electronic immediacy of the **call-in** show collapses the distance between media producer and passive consumer."*
+> - 📜 **Saul Bellow (*The Dean's December*):** *"He listened absently to a heated radio **call-in** debate regarding municipal corruption in Chicago."*

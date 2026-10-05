@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring or existing before birth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring or existing before birth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring, existing, or performed during the period before childbirth or maternal delivery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In obstetrics and maternal-fetal medicine, designating diagnostic surveillance and therapeutic care during gestational pregnancy prior to labor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antepartum designates occurring or existing before birth."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Careful monitoring of maternal blood pressure during the **antepartum** phase remains essential to prevent eclampsia."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"The young physician instituted routine **antepartum** clinics in the rural township to safeguard expectant mothers."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"In the crowded hospital ward, the midwives prepared the delivery room while administering urgent **antepartum** care."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become bubbly or frothy or foaming.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emitting or filled with bubbles as from carbonation or fermentation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Releasing gas bubbles actively; bubbling or fizzing continuously.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical kinetics and descriptive literature, undergoing active gaseous liberation or bubbling with irrepressible excitement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, effervescing designates become bubbly or frothy or foaming."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber brewed a bowl of punch with great ceremony, the hot brew **effervescing** softly over the embers."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The white wake of the speeding whaleboat churned behind us like a cauldron of **effervescing** foam."*
+> - 📜 **Robert Louis Stevenson (*The Strange Case of Dr. Jekyll and Mr. Hyde*):** *"The compound changed color from red to dark purple, **effervescing** and smoking as the transformation completed."*

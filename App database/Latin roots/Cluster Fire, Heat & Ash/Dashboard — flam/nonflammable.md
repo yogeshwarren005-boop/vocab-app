@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible to ignite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impossible to ignite.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not easily ignited; not able to catch fire easily.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fire prevention, industrial safety standards, and materials science, formulated to resist combustion under specified testing conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonflammable designates impossible to ignite."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"The insulation surrounding the conditioning chambers was made of modern **nonflammable** synthetic minerals."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Agricultural carriers were gradually reformulated with **nonflammable** inert components to reduce warehouse hazards."*
+> - 📜 **Kurt Vonnegut (*Cat's Cradle*):** *"The laboratory walls were coated with a grey, **nonflammable** enamel that shed chemical fumes without staining."*

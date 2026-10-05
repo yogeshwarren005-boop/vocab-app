@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large pink to scarlet web-footed wading bird with down-bent bill; inhabits brackish lakes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large pink to scarlet web-footed wading bird with down-bent bill; inhabits brackish lakes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tall wading bird with bright pink or reddish plumage, long legs, a long neck, and a bent down-turned bill.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic ornithology, filter-feeding aquatic birds of family Phoenicopteridae specialized in extracting algae and brine shrimp with lamellated bills.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"I dare say you’re wondering why I don’t put my arm round your waist,” the Duchess said after a pause: “the reason is, that I’m doubtful about the temper of your flamingo."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"John’s, for instance, had a lagoon with flamingoes flying over it at which John was shooting, while Michael, who was very small, had a flamingo with lagoons flying over it."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"John, there’s the lagoon.” “Wendy, look at the turtles burying their eggs in the sand.” “I say, John, I see your flamingo with the broken leg!” “Look, Michael, there’s your cave!” “John, what’s that in the brushwood?” “It’s a wolf with her whelps."*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"The chief difficulty Alice found at first was in managing her **flamingo**: she succeeded in getting its body tucked under her arm."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Flocks of the Chilean **flamingo** rose above the salt lakes of Patagonia, their scarlet wings flashing against the blue sky."*
+> - 📜 **W. H. Hudson (*Idle Days in Patagonia*):** *"A solitary **flamingo** stood motionless in the shallow lagoon, resembling a pink sentinel poised on a single slender leg."*

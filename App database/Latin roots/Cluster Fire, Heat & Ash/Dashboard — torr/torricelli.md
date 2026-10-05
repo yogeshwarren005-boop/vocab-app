@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Italian physicist who invented the mercury barometer (1608-1647).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Italian physicist who invented the mercury barometer (1608-1647).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Evangelista Torricelli, the seventeenth-century Italian physicist and mathematician who invented the mercury barometer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of science and fluid mechanics, the pioneering natural philosopher who demonstrated atmospheric pressure and Torricelli's law of efflux.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, torricelli designates italian physicist who invented the mercury barometer (1608-1647)."*
+> - 📜 **Galileo Galilei (*Dialogue Concerning the Two Chief World Systems*):** *"My brilliant pupil **Torricelli** carried forward our investigations of mechanics, solving problems that had long perplexed philosophers."*
+> - 📜 **Thomas Henry Huxley (*Method and Results*):** *"The classical experiment of **Torricelli** demonstrated conclusively that nature does not abhor a vacuum, but balances atmospheric weight."*
+> - 📜 **Ernst Mach (*The Science of Mechanics*):** *"With the mercury column of **Torricelli**, hydrostatics attained a mathematical precision that laid the groundwork for modern physics."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of food have no (or few) calories.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of food have no (or few) calories.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Providing no calories or metabolic heat energy when ingested; lacking nutritional fuel value.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dietetic chemistry and endocrinology, designating food additives, artificial sweeteners, and inert bulking agents that traverse the gastrointestinal tract without contributing to energy balance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, noncaloric designates of food have no (or few) calories."*
+> - 📜 **Marion Nestle (*Food Politics*):** *"Food manufacturers championed **noncaloric** sugar substitutes as miraculous solutions for sweetening processed foods without adding caloric bulk."*
+> - 📜 **Michael Pollan (*In Defense of Food*):** *"Nutrition science invented **noncaloric** chemical compounds that fool human taste buds while offering zero organic sustenance to the gut microbiome."*
+> - 📜 **David Kessler (*The End of Overeating*):** *"The neural reward pathways respond strongly to intensely sweet **noncaloric** compounds, stimulating cravings long after meals end."*

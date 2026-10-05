@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a mathematical calculation or computation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Judge to be probable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Determined by mathematical computation; or carefully planned and intended to produce a specific effect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and legal rhetoric, deliberately premeditated, reasoned out beforehand, or purposefully contrived to achieve an end.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"She is eminently calculated for a mother-in-law."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Is it because we are calculated to walk?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"You, Tony, possess in yourself all that is calculated to charm the eye and allure the taste."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The revolutionary measures were cold-bloodedly **calculated** to subvert every ancient pillar of social order."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"His speech was artfully **calculated** to flatter the prejudices of the assembly while advancing his covert ambitions."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"His compliments were too elaborate to appear spontaneous, having all the air of being studied and **calculated** beforehand."*

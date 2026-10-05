@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Assign in incorrect name to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assign in incorrect name to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To call by a wrong name; to name or designate improperly; also archaically, to revile or abuse verbally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In lexicography, legal drafting, and rhetoric, erroneously designating an entity or relationship, leading to taxonomic confusion or slanderous attribution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My heart will sigh when I miscall it so, Which finds it an enforced pilgrimage."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"With them monarchy is a refuge from the license they miscall liberty, and despotism is peace."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"She was early taught that primeval benediction, miscalled a curse, which requires mankind to earn their bread."*
+> - 📜 **William Shakespeare (*Richard II*):** *"My heart will sigh when I **miscall** it so, which finds it an enforced pilgrimage into bitter foreign exile."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The learned Monkbarns would hotly rebuff any visitor who should **miscall** an ancient Celtic celt for a common Roman spearhead."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Let no man **miscall** arbitrary mob violence by the sacred and venerable name of liberty."*

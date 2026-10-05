@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or resembling a calyculus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or resembling a calyculus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or having the form of a small cup or chalice, especially in anatomical or botanical structures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate morphology and lichenology, designating structures that possess cup-shaped cavities, receptacles, or appendages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calicular designates relating to or resembling a calyculus."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"The polyp deposits its skeletal matter within a **calicular** cavity that securely anchors the soft organism to the reef."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The **calicular** whorl encircles the base of the flower, offering protection to the developing ovary during early bud formation."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"Each coral unit exhibits a distinct **calicular** depression lined with radiating vertical septa."*

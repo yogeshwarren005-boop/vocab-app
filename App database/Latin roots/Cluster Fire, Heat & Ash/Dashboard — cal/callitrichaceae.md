@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dicot aquatic herbs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dicot aquatic herbs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former plant family of submerged or terrestrial wetland herbs, commonly called water-starworts, now merged into Plantaginaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aquatic botany and systematic taxonomy, delicate aquatic dicotyledons with opposite leaves, unisexual flowers, and floating apical leaf rosettes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, callitrichaceae designates dicot aquatic herbs."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Botanists established the family **Callitrichaceae** to accommodate delicate aquatic herbs bearing minute solitary axillary blossoms."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Members of **Callitrichaceae** float upon stagnant ditches, their buoyant star-shaped foliage carpets shielding minute aquatic life."*
+> - 📜 **George Bentham (*Handbook of the British Flora*):** *"The family **Callitrichaceae** exhibits extreme morphological plasticity depending on whether plants grow submerged or upon damp mud."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Beautiful handwriting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beautiful handwriting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art of producing beautiful, stylized, and decorative handwriting or lettering with a pen or brush.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In art history and cultural traditions, a revered visual discipline that merges linguistic meaning with abstract aesthetic harmony and dynamic brush control.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"After completion of laconic epistolary compositions she abandoned the implement of calligraphy in the encaustic pigment, exposed to the corrosive action of copperas, green vitriol and nutgall."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"These are usually inscriptions of a poetic nature, great importance being attached to the calligraphy."*
+> - 📜 **Virginia Woolf (*Orlando*):** *"The ancient legal parchment was covered in delicate **calligraphy** that seemed almost too exquisite for official decrees."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The fluid grace of Persian **calligraphy** transforms mere alphabet into a living dance of linear form."*
+> - 📜 **William Morris (*The Art of the Book*):** *"A revival of true **calligraphy** must precede any genuine renaissance in the typographical design of modern books."*

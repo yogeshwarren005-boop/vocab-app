@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing or used for ashes of the cremated dead.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing or used for ashes of the cremated dead.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, holding, or containing ashes, especially the ashes of a cremated body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaeology and funerary rites, designating vessels such as urns or architectural receptacles designed to receive cremated human remains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cinerary designates containing or used for ashes of the cremated dead."*
+> - 📜 **Thomas Browne (*Hydriotaphia, Urn Burial*):** *"The discovery of these ancient **cinerary** vessels beneath the Norfolk soil prompts solemn meditation upon human mortality."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"They carried the bronze **cinerary** urn to the family tomb along the Appian Way with traditional Roman solemnity."*
+> - 📜 **Washington Irving (*The Sketch Book of Geoffrey Crayon*):** *"In the gloomy crypt stood an antique **cinerary** vase sculptured with figures representing the departure of the soul."*

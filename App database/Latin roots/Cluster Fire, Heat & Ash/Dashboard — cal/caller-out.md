@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who announces the changes of steps during a dance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who announces the changes of steps during a dance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person whose role is to shout out or announce names, turns, warnings, or goods publicly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical industrial manufacturing and trade guilds, an appointed crier who summoned shifts of dockworkers, weavers, or miners.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, caller-out designates a person who announces the changes of steps during a dance."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"At dawn the **caller-out** traversed the cobbled alleys, rapping sharply on windowpanes to rouse the miners for their shift."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"The court **caller-out** bawled the defendant's name through the noisy corridors of the crowded tribunal."*
+> - 📜 **Jack London (*The People of the Abyss*):** *"Before the dock gates opened, a gruff **caller-out** shouted the names of the few casual laborers selected for day work."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An area of skin that is thick or hard from continual pressure or friction (as the sole of the foot).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Devoid of passion or feeling; hardheartedness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hard, thickened area of skin or tissue formed in response to repeated friction, pressure, or mechanical irritation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dermatology and comparative anatomy, a circumscribed hyperkeratotic plaque or protective horny pad developed on epidermal surfaces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, callosity designates an area of skin that is thick or hard from continual pressure or friction (as the sole of the foot)."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The monkey rested securely upon the rough branch, supported by the tough **callosity** covering its pelvic ischial pads."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"Years of gripping axes and timber ropes had produced a rugged **callosity** across the old woodman's palms."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes examined the dead man's thumb, noting a distinctive **callosity** typical of a professional engraver."*

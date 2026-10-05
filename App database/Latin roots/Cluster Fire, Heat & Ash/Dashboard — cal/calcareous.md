@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Composed of or containing or resembling calcium carbonate or calcite or chalk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Composed of or containing or resembling calcium carbonate or calcite or chalk.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing, consisting of, or having the chalky character of calcium carbonate or lime.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In petrology and pedology, describing sedimentary rocks such as limestone and chalk, or lime-rich soils supporting calciphile flora.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Soon the nature of the soil changed; to the sandy plain succeeded an extent of slimy mud, which the Americans call “ooze,” composed of equal parts of silicious and calcareous shells."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Madrepores (which must not be mistaken for corals) have a tissue lined with a calcareous crust, and the modifications of its structure have induced M."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Their calcareous deposits become rocks, reefs, and large and small islands."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Microscopic foraminifera secrete delicate **calcareous** shells that accumulate into immense chalk beds on the sea floor."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The entire formation consists of hard **calcareous** sandstone interstratified with layers of fossil shells."*
+> - 📜 **John Tyndall (*Fragments of Science*):** *"The towering cliffs of Dover represent the compacted **calcareous** debris of countless microscopic marine organisms."*

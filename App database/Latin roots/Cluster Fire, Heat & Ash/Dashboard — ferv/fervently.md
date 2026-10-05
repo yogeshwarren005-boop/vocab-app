@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With passionate fervor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With passionate fervor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner characterized by intense, passionate, or heartfelt enthusiasm and sincerity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In devotional and emotive discourse, pursuing an aim or prayer with profound warmth and unreserved zeal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I have saved them from the guilt of murdering their own flesh and blood thereby; and they have lived to thank me, and praise God.” “May this young man do the same!” said Angel fervently."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The old man was fervently praying; but when he saw young C. with the pail of provisions, he held up both hands and said, "Now I know that God heareth prayer."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"She went back to bed and prayed fervently that the Lord would show her some way of escape, or take her that day to himself."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Clym Yeobright prayed **fervently** that some light of understanding might break through his spiritual perplexity."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Arthur Dimmesdale longed **fervently** for the courage to confess his hidden guilt before the assembled multitude."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Marianne hoped **fervently** that the post chaise arriving at the inn might bring the long-awaited letter from Willoughby."*

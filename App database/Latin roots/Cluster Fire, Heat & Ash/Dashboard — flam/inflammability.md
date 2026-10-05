@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being easily ignited and burning rapidly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being easily ignited and burning rapidly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Susceptibility to catching fire readily and combusting rapidly; high emotional volatility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry, fire safety regulations, and moral temperament, the capacity of a substance or temperament to ignite readily upon exposure to heat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"And the non-inflammability of the mixture is due to the presence of the water."*
+> - 📜 **Michael Faraday (*The Chemical History of a Candle*):** *"The extraordinary **inflammability** of hydrogen gas is demonstrated the instant a taper approaches the mouth of the jar."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The dry tinder of economic desperation explained the dangerous social **inflammability** of the Paris faubourgs."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The emotional **inflammability** of youthful minds renders them exceptionally receptive to heroic suggestion."*

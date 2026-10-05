@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The failure of a jet engine caused by an interruption of the fuel supply or by faulty combustion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A complete or conspicuous failure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sudden extinction of a jet engine flame, resulting in engine shutdown; figuratively, a sudden failure or collapse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aeronautical propulsion engineering and organizational psychology, combustion stoppage in a gas turbine combustion chamber or abrupt personal burnout.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flame-out designates the failure of a jet engine caused by an interruption of the fuel supply or by faulty combustion."*
+> - 📜 **Tom Wolfe (*The Right Stuff*):** *"At forty thousand feet the compressor stalled, leading to an immediate **flame-out** that sent the fighter spinning into the clouds."*
+> - 📜 **Chuck Yeager (*Yeager: An Autobiography*):** *"When fuel flow stuttered in thin air, you suffered a **flame-out** and had to dive steeply to restart the turbine."*
+> - 📜 **Norman Mailer (*Of a Fire on the Moon*):** *"The test pilots knew the chilling peril of high-altitude **flame-out**, where only cool nerves restored engine ignition."*

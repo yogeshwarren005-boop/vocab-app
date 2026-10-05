@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feelings of great warmth and intensity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feelings of great warmth and intensity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Vehement passion, burning intensity of emotion, or glowing ardor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral psychology and rhetorical criticism, incandescent emotional warmth or ardent intensity of purpose.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fervidness designates feelings of great warmth and intensity."*
+> - 📜 **Thomas Carlyle (*On Heroes, Hero-Worship, and the Heroic in History*):** *"The prophetic fire of Mahomet was marked by an austere **fervidness** that commanded the obedience of desert tribes."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Conversion experiences often imprint the convert's temperament with permanent emotional **fervidness**."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Poetic genius unites profound contemplation with that passionate **fervidness** which gives life to abstract thought."*

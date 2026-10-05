@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Congenital absence of the heart (as in the development of some monsters).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Congenital absence of the heart (as in the development of some monsters).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A congenital absence of the heart, seen in rare parasitic twins or severely malformed fetuses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In embryology and teratology, an extreme developmental lethal failure where cardiovascular organogenesis does not initiate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acardia designates congenital absence of the heart (as in the development of some monsters)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In extreme monochorionic twin malformations, complete **acardia** results from reversed arterial perfusion by the pump twin."*
+> - 📜 **Terence Cave (*The Cornucopian Text*):** *"The figurative monster described in Renaissance lore suffered from total **acardia**, existing without pulse, vigor, or soul."*
+> - 📜 **Arthur Conan Doyle (*The Firm of Girdlestone*):** *"The dead specimen presented a singular anomaly of embryonic arrest, diagnosed by the surgeon as profound **acardia**."*

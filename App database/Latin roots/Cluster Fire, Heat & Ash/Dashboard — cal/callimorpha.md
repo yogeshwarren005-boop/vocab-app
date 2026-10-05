@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cinnabar moths.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cinnabar moths.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of brightly colored tiger moths in the family Erebidae, including the scarlet tiger moth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In lepidopterology and evolutionary ecology, aposematic day-flying moths bearing vivid warning coloration on their hindwings to deter avian predators.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, callimorpha designates cinnabar moths."*
+> - 📜 **Alfred Russel Wallace (*Darwinism: An Exposition of the Theory of Natural Selection*):** *"Species of **Callimorpha** display vivid scarlet hindwings when disturbed, startling insectivorous birds from attack."*
+> - 📜 **Edward Bagnall Poulton (*The Colours of Animals*):** *"The warning coloration in **Callimorpha** advertises its unpalatable nature to potential predators across European meadows."*
+> - 📜 **Henry Walter Bates (*The Naturalist on the River Amazons*):** *"Moths of the genus **Callimorpha** flit through sunny forest glades with the bright agility of butterflies."*

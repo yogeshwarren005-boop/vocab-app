@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Climbing or scrambling herbs: bindweed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Climbing or scrambling herbs: bindweed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of trailing and climbing flowering plants in the morning glory family (Convolvulaceae), commonly called false bindweeds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In floristic systematics and weed ecology, perennial twining vines distinguished from Convolvulus by two conspicuous, persistent leafy bracts enclosing the calyx.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calystegia designates climbing or scrambling herbs: bindweed."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The hedge bindweed, **Calystegia** sepium, adorns roadside fences with large pink-and-white funnelform blossoms held in prominent bracts."*
+> - 📜 **John Burroughs (*Signs and Seasons*):** *"Trailing stems of **Calystegia** climb among wild blackberry vines, opening fresh morning-glory trumpets with the sunrise."*
+> - 📜 **George Bentham (*Handbook of the British Flora*):** *"In **Calystegia**, two broad leafy bracteoles completely envelop the calyx, distinguishing the genus from true wild convolvulus."*

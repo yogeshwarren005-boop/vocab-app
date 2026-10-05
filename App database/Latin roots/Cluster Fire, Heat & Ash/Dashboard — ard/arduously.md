@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an arduous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an arduous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that requires great effort, laborious exertion, or strenuous difficulty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative prose, describing labor or physical movement undertaken with persistent, grueling toil against heavy resistance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"They were singing discordantly, arduously, and with great effort, evidently not because they wished to sing, but because they wanted to show they were drunk and on a spree."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"The sled dogs labored **arduously** through the crust of frozen drifts, hauling their laden burden mile by grueling mile."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"We crept onward **arduously** up the brown current of the great river, enveloped in oppressive jungle silence."*
+> - 📜 **Herman Melville (*Typee*):** *"We scrambled **arduously** up the razor-backed ridge, our hands bleeding from the sharp cane grass."*

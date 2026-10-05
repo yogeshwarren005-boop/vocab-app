@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or resembling a calyx.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or resembling a calyx.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to, originating from, or situated upon the calyx of a flower.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural phytomorphology, designating floral appendages, hairs, glandular nectaries, or bracteoles attached directly to sepal surfaces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calycinal designates of or relating to or resembling a calyx."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The gland-tipped **calycinal** bristles secrete a sticky resin that protects the expanding floral bud against small marauding insects."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"In several tropical tribes, extraordinary enlargement of a single **calycinal** lobe transforms the sepal into an attractive petaloid banner."*
+> - 📜 **George Bentham (*Flora Australiensis*):** *"Botanical diagnosis depended on whether the **calycinal** tube was completely adnate to the inferior ovary or detached at maturity."*

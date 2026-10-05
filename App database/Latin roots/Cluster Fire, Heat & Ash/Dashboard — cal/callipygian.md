@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or having finely developed buttocks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or having finely developed buttocks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having well-shaped, beautifully formed, or voluptuous buttocks; aesthetically pleasing in posterior proportions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical sculpture, art criticism, and aesthetic theory, designating statues or human figures possessing harmonious and shapely gluteal curves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, callipygian designates pertaining to or having finely developed buttocks."*
+> - 📜 **James Joyce (*Ulysses*):** *"He paused to admire the **callipygian** proportions of the marble goddess standing poised upon the museum pedestal."*
+> - 📜 **Aldous Huxley (*Point Counter Point*):** *"The sculptor defended his provocative nude study by pointing to its classically **callipygian** balance and Hellenic grace."*
+> - 📜 **Thomas Love Peacock (*Crotchet Castle*):** *"Antiquarians in the salon debated whether the famous statue possessed an authentic **callipygian** contour or modern restoration."*

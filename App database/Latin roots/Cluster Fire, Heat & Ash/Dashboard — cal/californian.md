@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or resident of california.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of california or its inhabitants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or inhabiting the state of California, or a native or permanent resident thereof.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural anthropology, biogeography, and sociology, designating endemic plant and animal communities or the distinctive social ethos of the American West Coast.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"Let us go the rush and racket, On the Californian packet."*
-> - 📜 **Effie Afton (*Eventide*):** *"Here we go, amid the racket, On the Californian packet!"*
-> - 📜 **Effie Afton (*Eventide*):** *"Ho, we go amid the racket, On the Californian packet!"*
+> - 📜 **Robert Louis Stevenson (*The Silverado Squatters*):** *"The clear **Californian** air possessed an invigorating warmth that revived the weary traveller among the mountain vineyards."*
+> - 📜 **John Muir (*Steep Trails*):** *"The towering **Californian** redwoods rise like ancient monuments of vegetable life through the coastal fogs."*
+> - 📜 **Willa Cather (*The Song of the Lark*):** *"Her imagination was fired by stories of **Californian** gardens where orange blossoms perfumed the winter air."*

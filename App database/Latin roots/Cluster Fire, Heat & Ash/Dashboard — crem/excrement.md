@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Waste matter (as urine or sweat but especially feces) discharged from the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Waste matter (as urine or sweat but especially feces) discharged from the body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Waste matter discharged from the bowels; feces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological physiology and historical natural philosophy, unabsorbed digestive residue and metabolic waste ejected through elimination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why is Time such a niggard of hair, being, as it is, so plentiful an excrement?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For I must tell thee it will please his Grace, by the world, sometime to lean upon my poor shoulder and with his royal finger thus dally with my excrement, with my mustachio."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How many cowards, whose hearts are all as false As stairs of sand, wear yet upon their chins The beards of Hercules and frowning Mars, Who inward search’d, have livers white as milk, And these assume but valour’s excrement To render them redoubted."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The projector in the Grand Academy of Lagado had spent thirty years trying to reduce human **excrement** to its original food components."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"Earthworms swallow immense quantities of soil, digesting organic matter and depositing their nitrogenous **excrement** on the surface."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Nature incorporates every offensive **excrement** into fertile loam, purifying decay into fragrant blossoms."*

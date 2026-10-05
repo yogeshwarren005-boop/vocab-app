@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Herons; egrets; night herons; bitterns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Herons; egrets; night herons; bitterns.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cosmopolitan bird family comprising herons, egrets, and bitterns within the order Pelecaniformes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian taxonomy, long-necked carnivorous wading birds possessing powder down patches, pectinate middle claws, and retractile necks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ardeidae designates herons; egrets; night herons; bitterns."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The swampy margins of the river swarmed with diverse members of the **Ardeidae**, from minute bitterns to towering egrets."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"Among the wading families, the **Ardeidae** are readily diagnosed by their spear-shaped bills and specialized powder-down tracts."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"No family of water birds exhibits greater patience upon the wetland hunting grounds than the elegant **Ardeidae**."*

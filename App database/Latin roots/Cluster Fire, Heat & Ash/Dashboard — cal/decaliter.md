@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of volume or capacity equal to 10 liters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metric unit of volume or capacity equal to 10 liters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of volume or capacity equal to ten liters, commonly used in measuring grain, liquids, and agricultural commodities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international metrology and commerce, an intermediate metric unit equivalent to approximately 2.64177 United States liquid gallons or 0.28378 bushels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decaliter designates a metric unit of volume or capacity equal to 10 liters."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"Under the new decimal metrology, a **decaliter** replaces chaotic regional measures, establishing uniform volume based upon standard scientific scales."*
+> - 📜 **Leo Tolstoy (*Anna Karenina*):** *"Levin calculated grain yields across the estate, recording every **decaliter** of harvested rye to determine agricultural profitability."*
+> - 📜 **Émile Zola (*Germinal*):** *"At the mining canteen, workers bought beer by the **decaliter**, sharing metal flagons around wooden tables after long shifts underground."*

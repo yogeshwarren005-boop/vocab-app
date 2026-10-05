@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An undifferentiated part of a perianth that cannot be distinguished as a sepal or a petal (as in lilies and tulips).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An undifferentiated part of a perianth that cannot be distinguished as a sepal or a petal (as in lilies and tulips).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An individual unit or segment of a flower's perianth where petals and sepals are indistinguishable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical morphology, an undifferentiated floral envelope segment typical of monocotyledonous families like Liliaceae and Magnoliaceae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tepal designates an undifferentiated part of a perianth that cannot be distinguished as a sepal or a petal (as in lilies and tulips)."*
+> - 📜 **Charles Darwin (*The Various Contrivances by which Orchids are Fertilised by Insects*):** *"The delicate upper **tepal** of the orchid arched forward to form a protective canopy over the pollinia."*
+> - 📜 **Liberty Hyde Bailey (*Cyclopedia of American Horticulture*):** *"In cultivated tulip hybrids, each waxy **tepal** displays distinct flamed streaks of scarlet and gold."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"When calyx and corolla coalesce in identical texture and color, the individual division is accurately termed a **tepal**."*

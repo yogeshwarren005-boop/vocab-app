@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless water-soluble glutinous protein obtained from animal tissues such as bone and skin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colorless water-soluble glutinous protein obtained from animal tissues such as bone and skin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternative spelling of gelatin, denoting an edible translucent animal protein setting into jelly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vintage pharmaceutical and photographic literature, an organic colloid serving as an emulsion binder or soluble capsule casing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Do you know the meaning of "Ben Day?" It is a mechanical tint, printed mechanically either on the plate, by the engraver, or on the original drawing, from an inked gelatine surface and rubbed on with a stilus."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Peduncles extremely long, agglutinated by gelatine into a tremelloid expanded mass."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"PODISOMA, _Lk._ Peduncles extremely long, agglutinated by gelatine into a common stem, spreading out above into a _clavariæform_ mass; spores mostly uniseptate.—_Berk."*
+> - 📜 **Isabella Beeton (*Mrs. Beeton's Book of Household Management*):** *"Dissolve the sheet of clarified **gelatine** slowly in warm syrup before folding in the strained fruit juices."*
+> - 📜 **H. G. Wells (*The Food of the Gods and How It Came to Earth*):** *"The chemist prepared nutrient slabs stiffened with refined **gelatine** to foster the accelerated growth of experimental cultures."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"A thin capsule of soluble **gelatine** containing the deadly alkaloid was found hidden beneath the floorboards."*

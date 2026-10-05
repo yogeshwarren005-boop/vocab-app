@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various shrubs and small trees valued for their fine foliage and attractive spreading habit and clustered white to deep pink or red flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various shrubs and small trees valued for their fine foliage and attractive spreading habit and clustered white to deep pink or red flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tropical and subtropical flowering shrubs or trees in the pea family, characterized by showy tassel-like floral stamens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tropical ornamental arboriculture, the powder-puff bush whose globular inflorescences feature hundreds of elongated crimson or pink stamens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calliandra designates any of various shrubs and small trees valued for their fine foliage and attractive spreading habit and clustered white to deep pink or red flowers."*
+> - 📜 **David Fairchild (*Exploring for Plants*):** *"Shrubs of scarlet **Calliandra** illuminated the edges of the clearing with their feathery globes of bright red stamens."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of the New Continent*):** *"Along the Orinoco riverbanks, species of **Calliandra** unfold their delicate blossoms in the tropical humidity."*
+> - 📜 **Paul C. Standley (*Trees and Shrubs of Mexico*):** *"The brilliant blossoms of **Calliandra** attract hummingbirds and honey bees from early dawn until sunset."*

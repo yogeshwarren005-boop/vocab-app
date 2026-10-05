@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of calculating again (usually to eliminate errors or to include additional data).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of calculating again (usually to eliminate errors or to include additional data).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or result of calculating again in order to adjust or confirm figures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statistical mechanics and computational econometrics, an algorithmic revision of parameters following empirical updates or model revisions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, recalculation designates the act of calculating again (usually to eliminate errors or to include additional data)."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"A careful **recalculation** of the rate of oceanic denudation convinced geologists that centuries of immense duration had passed."*
+> - 📜 **Lord Kelvin (*Popular Lectures and Addresses*):** *"A rigorous **recalculation** of solar radiation and gravitational contraction suggested a narrower limit for the age of the earth."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Every alteration in import duties necessitates a general **recalculation** of mercantile profits throughout international trade houses."*

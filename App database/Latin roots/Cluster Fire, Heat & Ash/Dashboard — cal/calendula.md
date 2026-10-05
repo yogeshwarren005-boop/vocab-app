@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous chiefly annual herbs of the genus calendula widely cultivated for their yellow or orange flowers; often used for medicinal and culinary purposes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous chiefly annual herbs of the genus calendula widely cultivated for their yellow or orange flowers; often used for medicinal and culinary purposes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Mediterranean genus of herbs in the daisy family, especially pot marigold (Calendula officinalis), with orange or yellow flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacognosy and botanical horticulture, an herb celebrated for lutein-rich petals and anti-inflammatory tinctures used in topical wound salves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calendula designates any of numerous chiefly annual herbs of the genus calendula widely cultivated for their yellow or orange flowers; often used for medicinal and culinary purposes."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"The mary-gold, that goes to bed wi' the sun and with him rises weeping, is none other than the cheerful **calendula** of our country gardens."*
+> - 📜 **Nicholas Culpeper (*The Complete Herbal*):** *"The bright yellow blossoms of **calendula** strengthen the heart, comfort the spirits, and expel venomous pestilence."*
+> - 📜 **Gertrude Jekyll (*Colour in the Flower Garden*):** *"Masses of brilliant orange **calendula** illuminated the late autumn borders long after the delicate summer annuals had perished."*

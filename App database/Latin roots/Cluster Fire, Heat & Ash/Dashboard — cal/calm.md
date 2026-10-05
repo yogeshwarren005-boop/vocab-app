@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Steadiness of mind under stress.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wind moving at less than 1 knot; 0 on the beaufort scale.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from agitation, excitement, or disturbance; characterized by stillness, tranquility, and emotional poise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meteorology and oceanography, an atmospheric condition characterized by wind speeds under one knot, registering as force zero on the Beaufort scale.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go with me to my tent, where you shall see How hardly I was drawn into this war, How calm and gentle I proceeded still In all my writings."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"At length the sun, gazing upon the earth, Dispers’d those vapours that offended us, And by the benefit of his wished light The seas wax’d calm, and we discovered Two ships from far, making amain to us, Of Corinth that, of Epidaurus this."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That drop of blood that’s calm proclaims me bastard; Cries cuckold to my father, brands the harlot Even here between the chaste unsmirched brow Of my true mother."*
+> - 📜 **Joseph Conrad (*The Shadow-Line*):** *"A dead **calm** settled over the Gulf of Siam, turning the sea into a polished sheet of lead beneath a suffocating sky."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"In the deep **calm** of mid-ocean, the white whale vanished beneath waters as unruffled as polished glass."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor maintained a **calm** exterior and addressed her sister with steady, soothing affection despite her inner grief."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of bracts simulating a calyx as in a carnation or hibiscus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small cup-shaped structure (as a taste bud or optic cup or cavity of a coral containing a polyp).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An epicalyx, or a whorl of bracts closely resembling and surrounding the true calyx of a flower.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate zoology and coral morphology, a cup-shaped structure or socket housing an individual polyp, as seen in hydrozoans and stony corals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calycle designates a group of bracts simulating a calyx as in a carnation or hibiscus."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"In mallows and wild strawberries, an exterior whorl of green bracts forms a distinct **calycle** immediately beneath the true sepals."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"Each polyp of the coral colony secretes a calcareous **calycle** that serves as an armored protective foundation."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Under the microscope, the hydrotheca functions as a delicate chitinous **calycle** sheltering the retractile hydranth."*

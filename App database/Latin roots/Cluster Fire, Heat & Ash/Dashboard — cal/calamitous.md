@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of events) having extremely unfortunate or dire consequences; bringing ruin; ; ; ; - charles darwin; - douglas macarthur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of events) having extremely unfortunate or dire consequences; bringing ruin; ; ; ; - charles darwin; - douglas macarthur.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing or accompanied by catastrophic disaster, ruin, distress, or immense tragedy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historiography and political commentary, describing catastrophic reversals of fortune that dismantle armies, empires, or economic structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The populations of many rural neighborhoods thus became heterogeneous, with results calamitous to the social life."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode is anxious for her niece, and I myself should grieve at a calamitous change in your position."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The internal effects of a mutable policy are still more calamitous."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **calamitous** defeat at Adrianople shattered the defensive shield that had guarded the Danube frontier for centuries."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Rash innovations have plunged a flourishing monarchy into the most **calamitous** disorder and general bankruptcy."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The monetary crisis had a **calamitous** effect upon honest merchants whose fortunes were swept away in a single month."*

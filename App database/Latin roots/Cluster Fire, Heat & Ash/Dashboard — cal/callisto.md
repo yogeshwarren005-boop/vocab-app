@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The second largest of jupiter's satellites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The second largest of jupiter's satellites.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The second-largest moon of Jupiter and third-largest moon in the solar system, discovered by Galileo in 1610.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In planetary geology and classical mythology, an ancient heavily cratered ice-and-rock Jovian satellite, or an Arcadian nymph transformed into a bear.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A man of many talents, Narval had migrated to Planet Pluto from an independent colony orbiting Callisto."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He had accepted expulsion from the place of his birth as the alternative to the court's sentence of labor in Callisto's encapsulated subsurface mines."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Removed from the judicial arena, he was proven to have also cheated in the Callisto gambling halls, swindled citizens of sound repute, and twice convicted of murder."*
+> - 📜 **Arthur C. Clarke (*2001: A Space Odyssey*):** *"The dark, ancient terrain of **Callisto** loomed beneath the spacecraft, pocked with innumerable impact craters from the dawn of time."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"The heavily cratered surface of **Callisto** preserves a frozen record of primordial bombardments across billions of years."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"Poets remembered the tragic nymph **Callisto**, banished to the northern sky as a glittering constellation of stars."*

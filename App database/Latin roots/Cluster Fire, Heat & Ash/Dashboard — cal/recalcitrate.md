@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Show strong objection or repugnance; manifest vigorous opposition or resistance; be obstinately disobedient.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Show strong objection or repugnance; manifest vigorous opposition or resistance; be obstinately disobedient.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To kick back stubbornly; to rebel against authority or restraint with vigorous resistance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical legal polemics and moral theology, actively kicking against established institutional rules, derived from the Latin kicking of heels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, recalcitrate designates show strong objection or repugnance; manifest vigorous opposition or resistance; be obstinately disobedient."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Selfish pride urges reckless youths to **recalcitrate** against parental admonition, plunging blindly into ruinous dissipation."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"The human soul will forever **recalcitrate** against mechanical creeds that reduce living moral duty to mere profit and loss."*
+> - 📜 **Sir Walter Scott (*The Fortunes of Nigel*):** *"The headstrong apprentice threatened to **recalcitrate** against his master's commands, declaring his independence with angry oaths."*

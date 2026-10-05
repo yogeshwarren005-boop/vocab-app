@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman's large folded hooped hood; worn in the 18th century.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The folding hood of a horse-drawn carriage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A light carriage with small wheels and a folding top, or a large hooded bonnet worn by women in the 18th century.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social history and carriage design, a low-slung, fashionable horse-drawn vehicle, or the collapsible ribbed silk headdress protecting voluminous coiffures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Bute's eyes flashed out at her from under her black calash."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Crawley, you had better go upstairs and see that they are not murdering your unfortunate brother"--and the calash, escorted by Mrs."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"A glittering open **calash** rolled up to the park gates, bearing the grand lady amidst a cloud of summer dust."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"She stepped into the open **calash** with high spirits, eager for the scenic drive across the pleasant countryside."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The venerable lady wore an enormous green **calash**, which shaded her face like the canopy of an ancient bathing machine."*

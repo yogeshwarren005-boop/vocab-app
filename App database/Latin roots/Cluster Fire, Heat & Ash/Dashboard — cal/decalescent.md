@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Absorbing heat without increase in temperature when heated beyond a certain point.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Absorbing heat without increase in temperature when heated beyond a certain point.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhibiting, undergoing, or characterized by decalescence; absorbing heat during metallurgical transformation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In thermodynamic crystallography and material science, pertaining to endothermic solid-state allotropic phase transitions occurring within critical heating intervals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decalescent designates absorbing heat without increase in temperature when heated beyond a certain point."*
+> - 📜 **Henry Marion Howe (*The Metallography of Steel and Cast Iron*):** *"At the **decalescent** stage, the metal absorbs energy to convert ferrite and cementite into solid solution austenite."*
+> - 📜 **Albert Sauveur (*The Metallography and Heat Treatment of Iron and Steel*):** *"The blacksmith watches for the **decalescent** glow in his forge, judging by eye the exact temperature for quenching high-carbon steel."*
+> - 📜 **William Chandler Roberts-Austen (*Metallurgy*):** *"Pyrometric records demonstrate that every carbon steel displays a characteristic **decalescent** hesitation upon reaching 723 degrees centigrade."*

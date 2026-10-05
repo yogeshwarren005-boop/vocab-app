@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fur seals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fur seals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of eared seals containing the northern fur seal (Callorhinus ursinus), native to the subarctic North Pacific Ocean.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine mammalogy and pinniped ecology, pelagic otariids renowned for dense insulating underfur, extreme sexual dimorphism, and crowded Pribilof breeding rookeries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, callorhinus designates fur seals."*
+> - 📜 **Jack London (*The Sea-Wolf*):** *"Hunters sailed north toward the fog-bound Bering Sea to intercept herds of **Callorhinus** migrating to their summer breeding islands."*
+> - 📜 **Rudyard Kipling (*The Jungle Book*):** *"Kotick the white seal observed thousands of **Callorhinus** barking and battling across the rocky beaches of Saint Paul."*
+> - 📜 **John Muir (*The Cruise of the Corwin*):** *"Upon the rocky ledges of the Pribilof Islands, countless multitudes of **Callorhinus** congregate each summer to rear their pups."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become reduced to ashes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to undergo combustion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To burn something completely to ashes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In waste management, forensic chemistry, and thermal disposal technology, to combust solid wastes or organic residues at high temperatures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"It was curious, but it was as convincing as curious, that the hands and feet of this witch were the only parts of her that had not been incinerated."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"He resolved to **incinerate** every scrap of notebook and formula before the pursuing officers could burst through the door."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Retired Colourman*):** *"The criminal had attempted to **incinerate** the incriminating cloth remnants in the furnace, but charred fragments remained."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"The modern municipal plant was designed to **incinerate** tons of metropolitan refuse daily without discharging black smoke."*

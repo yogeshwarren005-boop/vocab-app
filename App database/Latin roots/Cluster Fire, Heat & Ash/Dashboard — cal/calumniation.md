@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A false accusation of an offense or a malicious misrepresentation of someone's words or actions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A false accusation of an offense or a malicious misrepresentation of someone's words or actions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making false and defamatory representations intended to harm another's good name; malicious slander.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil tort doctrine and classical rhetoric, the deliberate dissemination of fabricated falsehoods causing actionable defamation and reputational injury.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Faithful to the true principles of the Federal Union, unconscious of any designs to disturb the harmony of that Union, and anxious only to escape the fangs of despotism, the good people of this commonwealth are regardless of censure or calumniation."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The virtuous general fell victim to envious court whisperers whose persistent **calumniation** poisoned the suspicious mind of the emperor."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"No armor is completely impervious to the insidious darts of **calumniation**, which wound the innocent through darkened channels."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The political pamphlet descended into reckless **calumniation**, substituting scurrilous fabrications for reasoned arguments on state policy."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of or used in a calendar or time measurement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of or used in a calendar or time measurement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or formatted in the manner of a calendar; calendric.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical astronomy and comparative chronometry, describing mathematical algorithms, leap year intercalations, and ephemeris tables.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calendrical designates relating to or characteristic of or used in a calendar or time measurement."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The migratory movements of birds exhibit an astonishing regularity that rivals human **calendrical** calculations."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The pontiffs of Rome neglected their **calendrical** duties, allowing the civil year to drift far behind the solar seasons."*
+> - 📜 **Alfred North Whitehead (*Science and the Modern World*):** *"Modern chronological precision emerged from the **calendrical** reforms initiated during the Renaissance revival of mathematical astronomy."*

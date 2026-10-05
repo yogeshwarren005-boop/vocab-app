@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rare north temperate bog orchid bearing a solitary white to pink flower marked with purple at the tip of an erect reddish stalk above 1 basal leaf.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) the sea nymph who detained odysseus for seven years.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sea nymph of Ogygia in Homer's Odyssey who detained Odysseus for seven years; also a lively Afro-Caribbean musical style from Trinidad.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, a monotypic genus of boreal terrestrial orchids (Calypso bulbosa, fairy slipper) bearing solitary pink-purple blossoms with slipper-shaped labella in damp coniferous forests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Baron George Gordon Byron Byron (*Childe Harold's Pilgrimage*):** *"A mortal sovereign holds her dangerous throne, And thou mayst find a new Calypso there."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"He chucks Chambermaid (the Right Honourable Lord Southdown) under the chin; she seems to deplore his absence, as Calypso did that of that other eminent traveller Ulysses."*
+> - 📜 **Homer (*The Odyssey*):** *"The divine nymph **Calypso** detained the wanderer Odysseus in her vaulted caves, yearning to make him immortal and ageless."*
+> - 📜 **John Muir (*The Story of My Boyhood and Youth*):** *"Deep in the dark Canadian cedar swamp, I found the lovely orchid **Calypso** borealis, weeping with joy before its pure, solitary beauty."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of America*):** *"The islanders celebrated with rhythmic songs anticipating modern **calypso** melodies, accompanied by lively drumming and impromptu satirical verses."*

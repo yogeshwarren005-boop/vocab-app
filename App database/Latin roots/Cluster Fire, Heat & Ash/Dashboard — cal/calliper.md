@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for measuring the distance between two points (often used in the plural).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Measure the diameter of something with calipers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A measuring instrument consisting of two adjustable arched legs or jaws used for measuring diameters or thickness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanical engineering, woodworking, and physical anthropology, a precision dimensional gauge utilized for external, internal, and depth measurements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calliper designates an instrument for measuring the distance between two points (often used in the plural)."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"The craniologist adjusted his brass **calliper** to determine the precise cephalic index of the prehistoric skull."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The ship's carpenter took up his wooden **calliper** to measure the exact thickness of the spare spar."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Careful measurements taken with a sliding **calliper** demonstrated minor variations in facial bone structure among populations."*

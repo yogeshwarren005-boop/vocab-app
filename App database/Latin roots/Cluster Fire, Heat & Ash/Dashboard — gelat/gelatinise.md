@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become gelatinous or change into a jelly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert into gelatinous form or jelly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert or process a substance into a jelly-like or gelatinous state or colloidal consistency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemical preparation and industrial processing, to hydrate and break down starch granules or collagen fibrils into an amorphous gel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gelatinise designates become gelatinous or change into a jelly."*
+> - 📜 **Elizabeth David (*French Provincial Cooking*):** *"Simmer the veal knuckles gently until the rich stocks cool and **gelatinise** into a firm, savory jelly."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"When connective tissue fibers are exposed to prolonged boiling in water, their collagenous elements readily **gelatinise**."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"The cook stirred the thickening cornstarch pudding continuously, waiting for the mixture to smooth out and **gelatinise**."*

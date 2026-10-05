@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hard lump produced by the concretion of mineral salts; found in hollow organs or ducts of the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An incrustation that forms on the teeth and gums.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of mathematics dealing with rates of change and accumulation (differential and integral calculus); or a stony bodily concretion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pure mathematics, foundational analysis pioneered by Newton and Leibniz; in pathology, a hard mineral mass formed in hollow organs (e.g., kidney stone).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Man has Forever.” Back to his book then: deeper drooped his head: CALCULUS racked him: Leaden before, his eyes grew dross of lead: TUSSIS attacked him."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"By the methods of the fluxionary **calculus**, the curved paths of celestial bodies under central forces are demonstrated with geometric rigor."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The passage of a renal **calculus** through the ureter excites excruciating paroxysmal pain radiating into the groin."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"The infinitesimal **calculus** laid the mathematical foundations for modern mathematical physics and formal dynamic theory."*

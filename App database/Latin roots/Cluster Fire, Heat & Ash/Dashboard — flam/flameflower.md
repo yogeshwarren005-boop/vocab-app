@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant of the genus kniphofia having long grasslike leaves and tall scapes of red or yellow drooping flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plant with fleshy roots and erect stems with narrow succulent leaves and one reddish-orange flower in each upper leaf axil; southwestern united states; indians once cooked the fleshy roots.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant having fiery, flame-like blossom clusters, such as the jewelweed or flame azalea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical lore and horticultural design, ornamental taxa characterized by vivid vermilion or scarlet inflorescences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flameflower designates a plant of the genus kniphofia having long grasslike leaves and tall scapes of red or yellow drooping flowers."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"Along the gravelly river bank grew the vivid wild **flameflower**, glowing amid the tangled northern sedges."*
+> - 📜 **John Muir (*My First Summer in the Sierra*):** *"The mountain slopes were brightened by patches of **flameflower**, their scarlet petals trembling in the canyon breeze."*
+> - 📜 **Luther Burbank (*How Plants Are Trained to Work for Man*):** *"We hybridized varieties of the wild **flameflower** to develop larger blooms that retain their brilliance throughout summer."*

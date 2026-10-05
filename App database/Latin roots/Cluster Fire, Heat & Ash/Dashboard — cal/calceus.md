@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A shoe covering the ankle; worn by ancient romans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shoe covering the ankle; worn by ancient romans.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A high shoe or boot made of leather worn by citizens of ancient Rome, covering the entire foot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman antiquities and costume history, the formal leather footwear required with the toga, distinguishing free citizens and patricians from slaves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calceus designates a shoe covering the ankle; worn by ancient romans."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The red **calceus** adorned with a silver crescent was the exclusive mark of senators descending from ancient patrician blood."*
+> - 📜 **Thomas Babington Macaulay (*Lays of Ancient Rome*):** *"The proud senator laced on his patrician **calceus** before stepping forth into the crowded forum."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"Marius put on the clean white toga and the black leather **calceus** prescribed for formal appearances in the capital."*

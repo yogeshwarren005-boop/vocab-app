@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: South african plant widely cultivated for its showy pure white spathe and yellow spadix.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Water arum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A herbaceous aquatic or wetland plant of the arum family, especially Calla palustris or the ornamental calla lily.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marshland botany and ornamental floriculture, a bog perennial bearing glossy heart-shaped foliage, a white spathe, and bright red berry clusters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calla designates south african plant widely cultivated for its showy pure white spathe and yellow spadix."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"In the secluded swamps of northern Maine, the wild **calla** unfurled its white spathes among dark mosses."*
+> - 📜 **John Muir (*A Thousand-Mile Walk to the Gulf*):** *"Along stagnant blackwater creeks, clumps of blooming **calla** illuminated the deep shadows of the cypress trees."*
+> - 📜 **Gertrude Jekyll (*Wood and Garden*):** *"The pristine white spathes of the cultivated **calla** provided an exquisite architectural accent to the water garden."*

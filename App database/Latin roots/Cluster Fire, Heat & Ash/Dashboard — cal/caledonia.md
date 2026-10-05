@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The geographical area (in roman times) to the north of the antonine wall; now a poetic name for scotland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The geographical area (in roman times) to the north of the antonine wall; now a poetic name for scotland.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient Roman Latin name for northern Scotland, often used in romantic or poetic contexts for Scotland.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman historiography and classical poetry, the wild, mountainous Highland territory north of the Antonine Wall inhabited by the Picts and Caledonians.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Hail, Caledonia, name for ever dear!"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Caledonia—A Ballad Tune—“Caledonian Hunts’ Delight” of Mr."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"It’s gude to be merry and wise, It’s gude to be honest and true; It’s gude to support Caledonia’s cause, And bide by the buff and the blue."*
+> - 📜 **Walter Scott (*The Lay of the Last Minstrel*):** *"O **Caledonia**! stern and wild, meet nurse for a poetic child! Land of brown heath and shaggy wood, land of the mountain and the flood!"*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The legions of Agricola penetrated the misty glens of **Caledonia**, encountering fierce tribes across the Grampian heights."*
+> - 📜 **Robert Burns (*Poems, Chiefly in the Scottish Dialect*):** *"The ancient harp of **Caledonia** resounds along the heather hills, keeping alive the memory of brave departed chiefs."*

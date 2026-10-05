@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marmosets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marmosets.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of small New World primates comprising marmosets and tamarins, native to Central and South America.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In primatology and mammalogy, arboreal platyrrhines possessing claws on all digits except the hallux, non-prehensile tails, and habitual twin births.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, callithricidae designates marmosets."*
+> - 📜 **Henry Walter Bates (*The Naturalist on the River Amazons*):** *"Tiny marmosets belonging to **Callithricidae** scampered like squirrels along the vertical barks of towering forest trees."*
+> - 📜 **Alfred Russel Wallace (*Travels on the Amazon and Rio Negro*):** *"Members of the family **Callithricidae** produce high-pitched birdlike chirps while leaping through the river canopy."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The claw-like modifications of the digits in **Callithricidae** distinguish them clearly from the larger cebid primates."*

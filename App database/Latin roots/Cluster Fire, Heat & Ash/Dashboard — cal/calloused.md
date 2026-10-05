@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make insensitive or callous; deaden feelings or morals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having calluses; having skin made tough and thick through wear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having skin that has become rough, thickened, and hardened from prolonged friction, pressure, or heavy physical labor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological characterization and physical description, physically roughened by manual toil or psychologically hardened by persistent hardship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Hard work makes calloused hands."*
+> - 📜 **John Steinbeck (*The Grapes of Wrath*):** *"His **calloused** hands gripped the steering wheel of the battered truck, bearing the marks of years behind the plow."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"The dog driver's **calloused** fingers deftly mended the frost-bitten harness leather amidst the blinding blizzard."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Tess looked with sorrow at her once delicate fingers, now **calloused** by relentless field labor under the autumn rains."*

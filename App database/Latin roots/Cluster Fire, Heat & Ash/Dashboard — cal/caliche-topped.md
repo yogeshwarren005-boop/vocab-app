@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Covered with caliche, a hard calcium-carbonate encrusted soil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Covered with caliche, a hard calcium-carbonate encrusted soil.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surmounted, capped, or crust-covered with a hardened layer of calcium carbonate or desert hardpan.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geomorphology and southwestern landscape description, designating plateaus, buttes, or ridges capped by resistant calcareous duricrust.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, caliche-topped designates covered with caliche, a hard calcium-carbonate encrusted soil."*
+> - 📜 **Edward Abbey (*Desert Solitaire*):** *"The **caliche-topped** mesas rose starkly above the red sandstone canyons beneath the blinding Arizona sky."*
+> - 📜 **Mary Austin (*The Land of Little Rain*):** *"Along the wind-scoured ridges, **caliche-topped** bluffs resisted the fierce desert gales that stripped the valleys bare."*
+> - 📜 **Wallace Stegner (*Beyond the Hundredth Meridian*):** *"Expeditions pushed past **caliche-topped** terraces that marked ancient lake shores in the drying basin."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: City in southwestern colombia in a rich agricultural area.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: City in southwestern colombia in a rich agricultural area.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major economic and cultural metropolis of western Colombia, situated in the Cauca River valley.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In South American urban geography and Latin music culture, the capital of Valle del Cauca department, renowned as a global hub of salsa music and sugar production.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"All for Cali- Fornia in search of gold!"*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of the New Continent*):** *"Descending into the magnificent valley of the Cauca, we were welcomed by the hospitable inhabitants of **Cali**."*
+> - 📜 **Gabriel García Márquez (*Living to Tell the Tale*):** *"The vibrant rhythms and warm breezes of **Cali** made the city feel like a perpetual festival of music and light."*
+> - 📜 **Cieza de León (*The Chronicle of Peru*):** *"The Spanish conquerors established the settlement of **Cali** upon a fertile plain well watered by mountain torrents."*

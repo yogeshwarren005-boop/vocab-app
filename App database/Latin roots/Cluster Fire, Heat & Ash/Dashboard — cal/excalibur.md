@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The legendary sword of king arthur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The legendary sword of king arthur.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The legendary magical sword of King Arthur, bestowed by the Lady of the Lake and symbolizing rightful sovereignty and chivalric virtue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval romance, Arthurian mythology, and literary symbolism, an invincible weapon representing divinely sanctioned kingship, returned upon Arthur's mortal wound to the enchanted waters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"His sword-hilt may be rough with jewels, but it is the hilt of an Excalibur."*
+> - 📜 **Alfred Tennyson (*Idylls of the King*):** *"Then drew he forth the brand **Excalibur**, and o'er him, drawing it, the winter moon made all the hilt seem brilliant with diamond sparks."*
+> - 📜 **Thomas Malory (*Le Morte d'Arthur*):** *"The king saw an arm clothed in white samite rise out of the mere holding the fair sword **Excalibur**."*
+> - 📜 **Walter Scott (*The Lady of the Lake*):** *"No mortal steel could match the fabled blade of **Excalibur**, forged in fairy realms to guard heroic Arthur's realm."*

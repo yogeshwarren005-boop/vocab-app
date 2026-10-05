@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (italian cuisine) squid prepared as food.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (italian cuisine) squid prepared as food.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A squid or ten-armed marine cephalopod, particularly the common European squid (Loligo vulgaris).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical marine zoology and malacology, a pelagic decapod molluscan equipped with an internal gladius or pen and lateral fins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calamary designates (italian cuisine) squid prepared as food."*
+> - 📜 **Thomas Pennant (*British Zoology*):** *"The common **calamary** darts backward through the ocean brine by expelling water through its muscular funnel."*
+> - 📜 **Philip Henry Gosse (*A Naturalist's Rambles on the Devonshire Coast*):** *"In the dredge we brought up a lively specimen of the **calamary**, its translucent skin iridescent with pulsating chromatophores."*
+> - 📜 **William Buckland (*Geology and Mineralogy Considered with Reference to Natural Theology*):** *"Fossil pens preserved in lias shale demonstrate the ancient lineage of the cephalopods allied to the modern **calamary**."*

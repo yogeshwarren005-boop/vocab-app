@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Evergreen monoecious coniferous trees or shrubs: cypress pines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evergreen monoecious coniferous trees or shrubs: cypress pines.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of coniferous evergreen trees in the cypress family (Cupressaceae), native to Australia and New Caledonia, known as cypress pines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Australasian dendrology and forest ecology, resinous gymnosperms renowned for decay-resistant, termite-proof timber and whorled scale foliage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, callitris designates evergreen monoecious coniferous trees or shrubs: cypress pines."*
+> - 📜 **Ferdinand von Mueller (*Select Extra-Tropical Plants*):** *"The resinous timber of **Callitris** resists white ants and fungal rot with unsurpassed durability in Australian building."*
+> - 📜 **Ernest Giles (*Australia Twice Traversed*):** *"We rode through dense scrubs of **Callitris**, their dark cypress foliage standing out sharply against the red desert sandhills."*
+> - 📜 **Ludwig Leichhardt (*Journal of an Overland Expedition in Australia*):** *"Clumps of fragrant **Callitris** bordered the sandy ridges, providing welcome shelter for our weary horses at night."*

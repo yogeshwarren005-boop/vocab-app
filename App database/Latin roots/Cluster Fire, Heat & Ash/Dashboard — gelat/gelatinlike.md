@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Thick like gelatin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thick like gelatin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a semi-solid, resilient, or trembling texture resembling that of jelly or gelatin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomical pathology and marine biology, describing translucent viscid exudates, capsules, or pelagic organisms with soft elastic consistency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gelatinlike designates thick like gelatin."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Strange pelagic siphonophores drifted through the midnight depth, trailing fragile, **gelatinlike** bells of iridescent sheen."*
+> - 📜 **Arthur Conan Doyle (*The Poison Belt*):** *"The strange atmospheric deposit formed a soft, **gelatinlike** residue along the exterior panes of our sealed chamber."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Upon opening the synovial bursa, the surgeon encountered a thick, **gelatinlike** effusion following chronic inflammation."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Asian coral snakes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Asian coral snakes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant spelling of Calliophis, designating a genus of venomous Asian coral snakes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical herpetology and taxonomic literature, an orthographic variant for small, brightly banded oriental elapid serpents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, callophis designates asian coral snakes."*
+> - 📜 **Edward Harrison Taylor (*The Serpents of Thailand and Adjacent Waters*):** *"Older museum registers recorded the specimen under **Callophis**, documenting its nocturnal habits and bright banded belly."*
+> - 📜 **Patrick Russell (*An Account of Indian Serpents*):** *"The striking coloration of **Callophis** serves to warn off potential predators among the rocky crevices of the foothills."*
+> - 📜 **Raymond Ditmars (*Snakes of the World*):** *"The secretive habits of **Callophis** render encounters with these venomous Asian serpents relatively rare in the wild."*

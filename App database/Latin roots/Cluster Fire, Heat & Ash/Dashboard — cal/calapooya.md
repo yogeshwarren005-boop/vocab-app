@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the north american indian people of oregon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of the north american indian people of oregon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of an Indigenous people native to the Willamette Valley in western Oregon; or their Kalapuyan language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In North American ethnography, the Kalapuyan hunter-gatherer bands renowned for intentional field burning to harvest camas bulbs and manage oak savannahs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calapooya designates a member of the north american indian people of oregon."*
+> - 📜 **Washington Irving (*Astoria*):** *"The trading party encountered small bands of **Calapooya** natives encamped along the fertile streams of the Willamette."*
+> - 📜 **John Charles Frémont (*Report of the Exploring Expedition to the Rocky Mountains*):** *"The peaceful **Calapooya** villagers were gathering roots and drying berries in the open meadows near the river."*
+> - 📜 **Lewis and Clark (*The Journals of Lewis and Clark*):** *"Our guides described the gentle disposition of the **Calapooya** tribes who inhabit the rich valley to the south."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A social or business visitor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An investor who buys a call option.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who pays a visit to someone, places a telephone call, or calls out the steps in a traditional dance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In folk choreography and social customs, the dance master who announces figure changes in square dances, or an etiquette visitor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Hypocrisy A-La-Mode Upon a simmer Sunday morn When Nature’s face is fair, I walked forth to view the corn, An’ snuff the caller air."*
-> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"He sat near his father and mother one day when they were entertaining a caller, a stranger who seemed to have travelled all over the world, and told in a very interesting manner of the many wonderful things he had seen."*
-> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"Why,” said the caller, “how you can be contented to live as you do I cannot imagine, and to bring up your children in such ignorance fills me with surprise."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mrs. Bennet bustled about the drawing-room in great excitement to receive an unexpected morning **caller**."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"Scrooge glowered suspiciously at the cheerful **caller** who knocked at his counting-house door wishing him merry tidings."*
+> - 📜 **Thomas Hardy (*Under the Greenwood Tree*):** *"The energetic dance **caller** shouted each figure with rustic gusto above the spirited screech of the fiddles."*

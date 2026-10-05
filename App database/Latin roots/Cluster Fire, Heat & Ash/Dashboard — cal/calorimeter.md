@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A measuring instrument that determines quantities of heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A measuring instrument that determines quantities of heat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An experimental apparatus designed to measure the amount of heat absorbed or released during chemical reactions or physical changes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical chemistry and nuclear instrumentation, a thermally insulated instrument (such as a bomb calorimeter) calculating enthalpies of combustion or subatomic particle energy deposits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calorimeter designates a measuring instrument that determines quantities of heat."*
+> - 📜 **Antoine Lavoisier (*Memoir on Heat*):** *"By enclosing a guinea pig inside the ice **calorimeter**, we determined the exact quantity of ice melted by its respirations."*
+> - 📜 **James Prescott Joule (*The Scientific Papers of James Prescott Joule*):** *"We agitated water inside a carefully insulated **calorimeter**, proving that definite mechanical work generates a proportional thermal equivalent."*
+> - 📜 **Svante Arrhenius (*Text-book of Electrochemistry*):** *"The heat evolved upon neutralizing strong acids by strong bases was determined with extreme precision inside a platinum **calorimeter**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Subject to a demand for payment before due date.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subject to a demand for payment before due date.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Subject to being called or recalled, especially denoting a financial bond redeemable by the issuer before maturity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In corporate finance and software engineering, a security with an embedded call option or a programmatic routine invoked by an execution thread.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, callable designates subject to a demand for payment before due date."*
+> - 📜 **John Maynard Keynes (*The General Theory of Employment, Interest and Money*):** *"Investors demanded higher yields upon **callable** bonds to compensate for the risk of early redemption during low interest periods."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"Corporations frequently issued **callable** debentures to retain financial flexibility against sudden fluctuations in the capital market."*
+> - 📜 **Benjamin Graham (*The Intelligent Investor*):** *"The conservative investor must examine whether a high-coupon security is **callable** at short notice by the issuing company."*

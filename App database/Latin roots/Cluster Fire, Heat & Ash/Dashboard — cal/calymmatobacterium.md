@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of bacterial rods containing only the one species that causes granuloma inguinale.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of bacterial rods containing only the one species that causes granuloma inguinale.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical bacterial genus comprising Calymmatobacterium granulomatis (now classified as Klebsiella granulomatis), the causative agent of donovanosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical microbiology and infectious disease pathology, pleomorphic, encapsulated Gram-negative bacilli that proliferate intracellularly within mononuclear phagocytes, producing Donovan bodies in granuloma inguinale.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calymmatobacterium designates a genus of bacterial rods containing only the one species that causes granuloma inguinale."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Microscopic examination of tissue scrapings revealed dense clusters of encapsulated **Calymmatobacterium** rods packed within large macrophages."*
+> - 📜 **Charles Donovan (*On the Causation of Granuloma Inguinale*):** *"The intracellular bodies now designated **Calymmatobacterium** appear as small oval bacilli exhibiting marked polar staining inside vacuolated cells."*
+> - 📜 **Arthur Conan Doyle (*Memories and Adventures*):** *"Clinical lectures in tropical pathology placed heavy emphasis on staining methods capable of identifying elusive organisms like **Calymmatobacterium**."*

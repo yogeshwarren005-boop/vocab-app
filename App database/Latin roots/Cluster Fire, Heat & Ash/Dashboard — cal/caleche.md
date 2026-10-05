@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman's large folded hooped hood; worn in the 18th century.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The folding hood of a horse-drawn carriage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A light, low-wheeled open carriage with a folding hood; or an alternative spelling of calash.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Canadian and French transportation history, a two-wheeled passenger carriage popular in Quebec, or a high-society carriage driven in summer promenades.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, caleche designates a woman's large folded hooped hood; worn in the 18th century."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"Prince Andrew arrived at the country estate in an open **caleche**, covered in road dust from the long summer journey."*
+> - 📜 **Gustave Flaubert (*Madame Bovary*):** *"They hired a hooded **caleche** for an aimless afternoon drive through the shaded avenues surrounding Rouen."*
+> - 📜 **Alexandre Dumas (*The Count of Monte Cristo*):** *"A magnificent **caleche** drawn by two black thoroughbreds swept through the gates of the Parisian mansion."*

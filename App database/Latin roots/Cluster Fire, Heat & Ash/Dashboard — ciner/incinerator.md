@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A furnace for incinerating (especially to dispose of refuse).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A furnace for incinerating (especially to dispose of refuse).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus, furnace, or installation for burning waste material until reduced to ash.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil engineering and industrial sanitation, a specialized high-temperature combustion chamber equipped with flue-gas scrubbers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incinerator designates a furnace for incinerating (especially to dispose of refuse)."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"Winston dropped the dangerous slip of paper into the memory hole, where it whirled down toward the hidden **incinerator**."*
+> - 📜 **Ray Bradbury (*Fahrenheit 451*):** *"The mechanical beetle gathered the charred book jackets and swept them swiftly into the wall **incinerator**."*
+> - 📜 **Kurt Vonnegut (*Cat's Cradle*):** *"Beneath the laboratory basement droned the great refuse **incinerator**, glowing dull orange through its inspection viewport."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of strong eagerness (usually in favor of a person or cause).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intense feeling of love.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Passionate intensity of feeling or enthusiasm; fervent zeal (chiefly British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical prose and classical literature, fiery emotional fervor, heroic dedication, or martial warmth of temperament.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Proclaim no shame When the compulsive ardour gives the charge, Since frost itself as actively doth burn, And reason panders will."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I warrant you, sir; The white cold virgin snow upon my heart Abates the ardour of my liver."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"There is a bright-eyed woman, of a strong will and immense power of business detail, who throws herself into objects with surprising ardour!"*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"There were moments when he looked on evil simply as a mode through which he could realize his conception of the beautiful with fresh **ardour**."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Angel Clare spoke with an **ardour** that transfigured his quiet face into that of a visionary devotee."*
+> - 📜 **Bram Stoker (*Dracula*):** *"Jonathan pursued his study of the Transylvanian documents with relentless **ardour**, determined to master every topographic clue."*

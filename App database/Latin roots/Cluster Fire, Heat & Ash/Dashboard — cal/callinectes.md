@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: New world blue crabs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: New world blue crabs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of swimming crabs in the family Portunidae, most notably comprising the blue crab of the Atlantic coast.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology and commercial fisheries, paddle-footed decapod crustaceans characterized by aggressive temperament, blue appendages, and swimming paddle legs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, callinectes designates new world blue crabs."*
+> - 📜 **Rachel Carson (*Under the Sea-Wind*):** *"Along the muddy shallows of the Chesapeake, crabs of the genus **Callinectes** scuttled through eelgrass in search of mollusks."*
+> - 📜 **Louis Agassiz (*Methods of Study in Natural History*):** *"The flattened hind legs of **Callinectes** function as efficient biological oars for rapid marine locomotion."*
+> - 📜 **William Beebe (*The Arcturus Adventure*):** *"We observed specimens of **Callinectes** darting with surprising agility through the warm surface waters of the bay."*

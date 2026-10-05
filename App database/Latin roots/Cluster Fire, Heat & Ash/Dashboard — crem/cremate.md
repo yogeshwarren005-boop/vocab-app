@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reduce to ashes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reduce to ashes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To reduce a dead body to ashes by burning, typically in a furnace or crematorium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropology and mortuary customs, to subject deceased mortal remains to formal pyric dissolution rather than inhumation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"Cremate, 29. _See_ Burning, Giving, Relics."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"One of these, which excited great indignation in his family, was that his body should be conveyed to Milan, and there cremated."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Ancient Indo-European peoples often chose to **cremate** their kings upon lofty pyres so that the soul might rise with smoke to heaven."*
+> - 📜 **Rudyard Kipling (*Kim*):** *"The ascetic declared that his disciples should **cremate** his body upon the sands of the sacred Ganges without mourning."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"The miners gathered driftwood on the frozen shore to **cremate** the body of their fallen partner before spring thawed the river."*

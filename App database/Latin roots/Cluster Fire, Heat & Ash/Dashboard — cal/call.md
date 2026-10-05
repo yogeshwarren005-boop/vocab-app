@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A telephone connection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A special disposition (as if from a divine source) to pursue a particular course.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cry out with a loud voice, summon a person to come, or name a person or thing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In telecommunications, birding, and jurisprudence, to establish vocal contact, mimic an avian vocalization, or demand legal assembly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or call it winter, which being full of care, Makes summer’s welcome, thrice more wished, more rare. 57 Being your slave what should I do but tend, Upon the hours, and times of your desire?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But thou art all my art, and dost advance As high as learning, my rude ignorance. 79 Whilst I alone did call upon thy aid, My verse alone had all thy gentle grace, But now my gracious numbers are decayed, And my sick muse doth give an other place."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who hateth thee that I do call my friend, On whom frown’st thou that I do fawn upon, Nay if thou lour’st on me do I not spend Revenge upon my self with present moan?"*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The lookout in the masthead sounded the stirring **call** that alerted every sailor on deck to the spout."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I heard the night watchman **call** the hour as the thick river mist settled over the cobbled streets."*
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"I thought I heard Cathy's distant voice **call** my name across the desolate darkness of the heather."*

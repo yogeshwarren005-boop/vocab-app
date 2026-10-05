@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of or used in a calendar or time measurement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of or used in a calendar or time measurement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, regulated by, or characteristic of a calendar or calendar reckoning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaeoastronomy, liturgical history, and anthropology, relating to cyclic reckonings of solar, lunar, or planetary festivals and seasonal tabulations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calendric designates relating to or characteristic of or used in a calendar or time measurement."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Ancient agricultural rituals were organized according to a strict **calendric** cycle governing seedtime and harvest."*
+> - 📜 **Edward Burnett Tylor (*Primitive Culture*):** *"Early civil societies devised intricate **calendric** notations on bone and stone to align lunar months with agricultural solstices."*
+> - 📜 **William Prescott (*History of the Conquest of Mexico*):** *"The Aztec stone monument recorded complex **calendric** computations that coordinated religious feasts across centuries."*

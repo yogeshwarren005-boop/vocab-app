@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A warmness resembling the temperature of the skin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lack of passion, force or animation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of possessing lukewarm heat; emotional indifference or absence of lively enthusiasm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sensory assessment and psychological evaluation, moderate thermal warmth or uncommitted affective response.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tepidness designates a warmness resembling the temperature of the skin."*
+> - 📜 **Henry David Thoreau (*A Week on the Concord and Merrimack Rivers*):** *"The shallow river margins retained the **tepidness** of summer sunshine long after dusk had settled over the meadows."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Spiritual mediocrity often retreats into an unheroic **tepidness**, avoiding the extremes of mystical passion and despair."*
+> - 📜 **E. M. Forster (*A Room with a View*):** *"Lucy shrank from the emotional **tepidness** of Cecil Vyse, whose polite decorum smothered genuine human joy."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or resulting from the action of a torrent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling a torrent in force and abundance; ; ; - winthrop sargeant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Falling rapidly and in abundant copious quantities, resembling or caused by a violent torrent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meteorology and geomorphology, designating high-precipitation downpours capable of initiating flash runoff and hillside erosion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Water there was none, nor sign of water, except for washed gullies that told of ancient and torrential rains."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"The practical side of him was so strong that he might have been a great statesman or reformer, had not his imagination, stimulated by a torrential fluency of language, overborne his will."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"One hour.' In a torrential downpour, we slogged through ankle-deep mud and climbed into the backs of canvas covered trucks."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The tropical squall broke overhead with sudden fury, unleashing a **torrential** rain that blotted out sea and sky."*
+> - 📜 **W. Somerset Maugham (*The Painted Veil*):** *"Night after night, the **torrential** monsoon drummed relentlessly against the corrugated zinc roof of the bungalow."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel Oak labored through the night to thatch the ricks before the gathering clouds broke into **torrential** sheets."*

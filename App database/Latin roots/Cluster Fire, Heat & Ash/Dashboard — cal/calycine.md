@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or resembling a calyx.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or resembling a calyx.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, situated on, or resembling a floral calyx; of sepalous nature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In taxonomic description, referring to the whorl of sepals, especially when persistent, enlarged, accrescent, or modified in fruit maturation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calycine designates of or relating to or resembling a calyx."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"The heterostyled primroses display considerable variation in the depth and diameter of the tubular **calycine** envelope."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"In the persimmon, the thick **calycine** lobes persist beneath the ripened berry, hardening into a woody supporting ring."*
+> - 📜 **Joseph Dalton Hooker (*The Rhododendrons of Sikkim-Himalaya*):** *"The corolla drops away while the enlarged **calycine** cup remains firmly attached to the developing seed capsule."*

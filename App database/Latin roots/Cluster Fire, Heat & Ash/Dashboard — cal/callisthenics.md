@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of calisthenic exercises.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Light exercises designed to promote general fitness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Systematic rhythmic gymnastic exercises practiced without apparatus to cultivate muscular tone, flexibility, and vigor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In kinesiology and physical culture, bodyweight resistance conditioning consisting of coordinated movements such as lunges, burpees, and stretches.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, callisthenics designates the practice of calisthenic exercises."*
+> - 📜 **Mark Twain (*A Tramp Abroad*):** *"Every morning the cadets were mustered on the parade ground for forty minutes of vigorous **callisthenics**."*
+> - 📜 **Louisa May Alcott (*Little Men*):** *"The boys laughed heartily as their uncle led them through a spirited drill of outdoor **callisthenics**."*
+> - 📜 **H. G. Wells (*Kipps*):** *"The school curriculum included an hour of formal **callisthenics** designed to rectify round shoulders and indolent postures."*

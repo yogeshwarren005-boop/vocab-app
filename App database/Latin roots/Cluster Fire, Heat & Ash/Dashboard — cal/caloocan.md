@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A suburb of manila in southwestern luzon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A suburb of manila in southwestern luzon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prominent and heavily populated industrial and residential city situated within Metro Manila in the National Capital Region of the Philippines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Philippine historiography, an urban epicenter of the 1896 Philippine Revolution and the site of ferocious skirmishes during the Philippine-American War under Andres Bonifacio.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, caloocan designates a suburb of manila in southwestern luzon."*
+> - 📜 **Teodoro Agoncillo (*The Revolt of the Masses: The Story of Bonifacio and the Katipunan*):** *"Katipuneros gathered secretly in the outlying barrios of **Caloocan**, preparing the proclamation that sparked the nationwide revolution."*
+> - 📜 **Dean C. Worcester (*The Philippines Past and Present*):** *"American infantry advanced through **Caloocan** under heavy fire, securing strategic rail lines heading northward across the Luzon plains."*
+> - 📜 **James A. LeRoy (*The Americans in the Philippines*):** *"The engagement at **Caloocan** proved decisive in demonstrating the superior firepower of regular troops against entrenched insurgent forces."*

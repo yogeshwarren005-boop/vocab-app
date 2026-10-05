@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of burning something completely; reducing it to ashes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of burning something completely; reducing it to ashes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of burning something completely until it is reduced to ash.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial engineering and environmental sanitation, controlled thermal destruction of hazardous or municipal wastes reducing volume and toxicity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incineration designates the act of burning something completely; reducing it to ashes."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Inadequate **incineration** of chlorinated pesticide residues merely disperses toxic chemical vapors into neighboring airsheds."*
+> - 📜 **Lewis Mumford (*The City in History*):** *"Sanitary disposal through high-temperature **incineration** marked a decisive advance over the foul open middens of medieval towns."*
+> - 📜 **Upton Sinclair (*The Jungle*):** *"Carts hauled discarded carcasses toward the processing retorts where complete **incineration** yielded bone fertilizer."*

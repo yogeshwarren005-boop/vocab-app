@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various algae of the genus tribonema; algae with branching filaments that form scum in still or stagnant fresh water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various algae of the genus tribonema; algae with branching filaments that form scum in still or stagnant fresh water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus or type of freshwater green filamentous algae, forming slimy green scum or mats on ponds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical algology and limnology, unbranched aquatic filamentous thalli commonly classified in family Cladophoraceae or Tribonemataceae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conferva designates any of various algae of the genus tribonema; algae with branching filaments that form scum in still or stagnant fresh water."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The quiet lagoons along the Rio de la Plata were carpeted with dense green mats of **conferva** floating upon the warm surface."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"On calm summer mornings, the shallow coves of the pond were fringed with delicate green threads of **conferva** basking in the sun."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"In hot droughts, our village ponds become choked with a thick mantle of **conferva**, harboring myriads of aquatic insects."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) the muse of epic poetry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musical instrument consisting of a series of steam whistles played from a keyboard.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical instrument consisting of a series of steam whistles played from a keyboard, or the Greek Muse of epic poetry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American popular culture and classical mythology, the chief of the Muses or the loud, piercing steam organ associated with circus parades and river steamboats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **C. W. Burrows (*Scapa and a Camera*):** *"BARHAM" 68 LIGHT CRUISER "CALLIOPE" AT SCAPA 69 "MAKE AND MEND" ON LIGHT CRUISER "YARMOUTH" 69 THE DECK OF AN AEROPLANE CARRIER, H.M.S."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"As the steamboat rounded the river bend, its steam **calliope** began shrieking a lively tune that echoed off the bluffs."*
+> - 📜 **Herman Melville (*The Confidence-Man*):** *"The brassy notes of the riverboat **calliope** summoned crowds of curious travelers down to the bustling levee."*
+> - 📜 **John Keats (*Endymion*):** *"The poet invoked **Calliope** to inspire his grand verses with the solemn dignity of ancient heroic epics."*

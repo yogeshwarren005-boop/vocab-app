@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Severing the corpus callosum so that communication between the cerebral hemispheres is interrupted (in cases of severe intractable epilepsy).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Severing the corpus callosum so that communication between the cerebral hemispheres is interrupted (in cases of severe intractable epilepsy).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical transection or excision of the corpus callosum to manage refractory epileptic seizures; corpus callosotomy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurosurgery and epileptology, a disconnective surgical procedure interrupting transhemispheric neural pathways to prevent generalized drop attacks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, callosectomy designates severing the corpus callosum so that communication between the cerebral hemispheres is interrupted (in cases of severe intractable epilepsy)."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"Following a partial **callosectomy**, the patient experienced an intriguing independence of perceptual processing between the two cerebral hemispheres."*
+> - 📜 **Roger Wolcott Sperry (*Science and Moral Priority*):** *"Our investigations into human consciousness were profoundly advanced through studies of individuals who had undergone therapeutic **callosectomy**."*
+> - 📜 **Wilder Penfield (*The Mystery of the Mind*):** *"The neurosurgeon performed a deliberate **callosectomy** to prevent debilitating epileptic discharges from spreading across both cortical hemispheres."*

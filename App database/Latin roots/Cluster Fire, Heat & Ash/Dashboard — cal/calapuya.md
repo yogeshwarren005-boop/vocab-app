@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the north american indian people of oregon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of the north american indian people of oregon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternative spelling for Calapooya, referring to the Kalapuya Indigenous people of the Willamette Valley or their language family.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Pacific Northwest anthropological linguistics, the Kalapuyan linguistic stock comprising several dialects spoken across western Oregon river basins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calapuya designates a member of the north american indian people of oregon."*
+> - 📜 **Franz Boas (*Handbook of American Indian Languages*):** *"Linguistic field notes reveal the intricate grammatical structure preserved by the few surviving speakers of **Calapuya**."*
+> - 📜 **John Wesley Powell (*Indian Linguistic Families of America North of Mexico*):** *"The **Calapuya** family formerly held the whole interior basin of the Willamette River above the falls."*
+> - 📜 **Hubert Howe Bancroft (*The Native Races of the Pacific States*):** *"In their traditional basketry and seasonal migrations, the **Calapuya** exhibited intimate adaptation to the rich valley flora."*

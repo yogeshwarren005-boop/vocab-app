@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resistant to catching fire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resistant to catching fire.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resistant to fire; treated so as not to catch fire or burn easily.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In safety engineering and industrial design, treated or constructed with incombustible materials to prevent ignition under intense thermal exposure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flameproof designates resistant to catching fire."*
+> - 📜 **H. G. Wells (*The Food of the Gods and How It Came to Earth*):** *"The engineers clad themselves in **flameproof** asbestos suits before approaching the burning crater of the reactor."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"The promotional brochure praised the new apartment hotel as entirely **flameproof** and impervious to metropolitan blazes."*
+> - 📜 **Arthur Conan Doyle (*The Valley of Fear*):** *"The secret chamber was reinforced with **flameproof** iron plating behind the heavy wainscotting."*

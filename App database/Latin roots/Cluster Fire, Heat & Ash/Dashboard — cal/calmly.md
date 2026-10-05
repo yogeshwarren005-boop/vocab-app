@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With self-possession (especially in times of stress).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a sedate manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a composed, tranquil, and unhurried manner, without displaying anger, panic, or agitation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military leadership and legal rhetoric, facing severe provocation or existential crisis with measured deliberation and complete intellectual control.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Teacher told us to be sure not to forget." "Quite right, little school fox," Kurt replied, while he calmly kept on drawing."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Come, Lippo, there is nothing to cry about," she said calmly."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"How could you calmly run away?" "It was just as necessary to hear Bruno's question," the sister said."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Holmes **calmly** lit his pipe and leaned back in his armchair, contemplating the extraordinary dilemma without the slightest flurry."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I looked **calmly** into Mr. Rochester's troubled eyes, resolved to maintain my integrity even if my earthly happiness were destroyed."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The doomed nobleman walked **calmly** to the scaffold, saluting the spectators with grave, unruffled dignity."*

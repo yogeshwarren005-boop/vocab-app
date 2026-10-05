@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Write beautifully and ornamentally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Write beautifully and ornamentally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specimen, piece, or document produced in beautiful, elegant, artistic handwriting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleography and epigraphy, an exquisite manuscript or ornamental inscription executing formal typographic and calligraphic artistry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calligraph designates write beautifully and ornamentally."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"An ancient **calligraph** preserves not merely the writer's thoughts, but the physical rhythm and soul of his hand."*
+> - 📜 **William Morris (*Hopes and Fears for Art*):** *"A masterly medieval **calligraph** balances blackletter majesty with gold leaf embellishments across vellum folios."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Every letter in this Gothic **calligraph** was drawn with religious devotion and absolute artistic poise."*

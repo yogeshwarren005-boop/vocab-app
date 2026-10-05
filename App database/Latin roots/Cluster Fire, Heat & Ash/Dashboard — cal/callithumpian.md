@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a callithump.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a callithump.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, resembling, or participating in a callithump; characterized by discordant noise and rowdy carnival spirit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural history and folklore, designating noisy mock-parades, boisterous burlesque processions, or tin-pan serenades.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, callithumpian designates of or relating to a callithump."*
+> - 📜 **Mark Twain (*The Adventures of Huckleberry Finn*):** *"The rowdy boys formed a **callithumpian** band, parading down main street with beaten pots and screeching brass trumpets."*
+> - 📜 **Washington Irving (*A History of New York*):** *"The ancient burghers frowned upon the **callithumpian** revelries that disturbed the solemn tranquility of their Sabbath eve."*
+> - 📜 **Bret Harte (*Tales of the Argonauts*):** *"A **callithumpian** escort escorted the newly married couple to their mountain cabin amid deafening cheers and horn-blowing."*

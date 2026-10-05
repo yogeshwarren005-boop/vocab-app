@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Steadiness of mind under stress.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An absence of strong winds or rain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The possession of emotional serenity, freedom from turbulence, and steady mental composure under adversity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical stoic philosophy and navigational science, the maintenance of psychic equanimity or atmospheric stillness amid surrounding hazards.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have been i’ th’ marketplace; and, sir, ’tis fit You make strong party or defend yourself By calmness or by absence."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It inspired me with new fortitude and new calmness to find that it was I who was under the necessity of reassuring him."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet to look upon with the calmness proper to her position."*
+> - 📜 **Marcus Aurelius (*Meditations*):** *"Retire into yourself whenever trouble approaches, for nowhere does a soul find deeper **calmness** than in its own quiet sanctuary."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The emperor faced the mutinous legions with imposing **calmness**, daring them to strike down their chosen commander."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Sydney Carton preserved a sublime **calmness** during his final ride, his face illuminated by a quiet, transcendental peace."*

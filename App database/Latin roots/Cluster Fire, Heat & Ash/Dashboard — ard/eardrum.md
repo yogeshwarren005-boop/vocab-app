@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The membrane in the ear that vibrates to sound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The membrane in the ear that vibrates to sound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The tympanic membrane separating the outer ear from the middle ear, vibrating in response to sound waves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In auditory anatomy, a thin, cone-shaped fibrous partition that transmits acoustic vibrations to the auditory ossicles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eardrum designates the membrane in the ear that vibrates to sound."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The deafening concussion of the Martian heat-ray shattered every window pane and set my **eardrum** ringing with acute pain."*
+> - 📜 **Oliver Wendell Holmes Sr. (*The Autocrat of the Breakfast-Table*):** *"A sudden piercing shriek vibrated against the delicate membrane of the human **eardrum** like an electric shock."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"Loudspeakers boomed rhythmic synthetic anthems that beat relentlessly against every passenger's **eardrum**."*

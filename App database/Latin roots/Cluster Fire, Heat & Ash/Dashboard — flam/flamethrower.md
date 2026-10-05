@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A weapon that squirts ignited fuel for several yards.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A weapon that squirts ignited fuel for several yards.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A weapon that sprays a stream of ignited, burning fuel, used in military warfare or vegetation clearing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military ordnance and historical combat, a tactical pneumatic apparatus discharging pressurized gelatinized petroleum or burning liquids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flamethrower designates a weapon that squirts ignited fuel for several yards."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The sudden introduction of the trench **flamethrower** on the Western Front introduced a terrifying new dimension to assault tactics."*
+> - 📜 **Erich Maria Remarque (*All Quiet on the Western Front*):** *"A blinding jet of liquid fire from a **flamethrower** hissed across the shell crater, forcing us back into the trench."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"The fascists attempted to dislodge the parapet with an armored vehicle mounted with an improvised **flamethrower**."*

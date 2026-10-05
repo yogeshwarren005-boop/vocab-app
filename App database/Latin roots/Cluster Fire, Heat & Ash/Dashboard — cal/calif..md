@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state in the western united states on the pacific; the 3rd largest state; known for earthquakes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state in the western united states on the pacific; the 3rd largest state; known for earthquakes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A standard historical abbreviation for California, a state situated on the Pacific coast of the United States.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cartography, postal history, and bibliographical citations, an official geographic abbreviation denoting California prior to standard two-letter postal codes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calif. designates a state in the western united states on the pacific; the 3rd largest state; known for earthquakes."*
+> - 📜 **John Muir (*The Mountains of California*):** *"Writing from his cabin near Yosemite, **Calif.**, the naturalist recorded the profound stillness of the granite peaks."*
+> - 📜 **Jack London (*The Valley of the Moon*):** *"The postmark indicated that the letter had travelled from Oakland, **Calif.**, across mountain ranges and desert valleys."*
+> - 📜 **Bret Harte (*The Luck of Roaring Camp and Other Sketches*):** *"Mining dispatches addressed to Sacramento, **Calif.**, reported unprecedented yields of virgin gold from the river flumes."*

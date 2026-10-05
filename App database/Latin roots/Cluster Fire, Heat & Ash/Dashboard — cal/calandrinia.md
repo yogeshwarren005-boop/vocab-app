@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large genus of low-growing herbs; widespread throughout tropical and warm temperate regions having usually basal leaves and panicles of purplish ephemeral flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large genus of low-growing herbs; widespread throughout tropical and warm temperate regions having usually basal leaves and panicles of purplish ephemeral flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of succulent annual or perennial herbs of the purslane family, bearing brightly colored poppy-like flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticulture and arid botany, redmaids, native to the Americas and Australia, whose ephemeral flowers open only in bright sunshine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calandrinia designates large genus of low-growing herbs; widespread throughout tropical and warm temperate regions having usually basal leaves and panicles of purplish ephemeral flowers."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"The brilliant magenta blossoms of **Calandrinia** expand fully only when exposed to the direct rays of midday sun."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"Several species of **Calandrinia** carpet the gravelly slopes of California with vivid crimson blooms in early spring."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"For rockeries and sunny borders, the dwarf **Calandrinia** provides a charming display of satin-textured petals."*

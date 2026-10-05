@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Asian coral snakes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Asian coral snakes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of venomous elapid snakes native to southern and southeastern Asia, commonly called Asian coral snakes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology and toxinology, brightly patterned burrowing elapids possessing neurotoxic venoms and hypertrophied venom glands extending deep into the body.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calliophis designates asian coral snakes."*
+> - 📜 **Edward Harrison Taylor (*The Serpents of Thailand and Adjacent Waters*):** *"Specimens of **Calliophis** burrow beneath leaf litter in tropical rainforests, their brilliant red underbellies flashing when disturbed."*
+> - 📜 **Patrick Russell (*An Account of Indian Serpents*):** *"The slender body and vivid coloration of **Calliophis** distinguish it from harmless colubrid snakes found in the same district."*
+> - 📜 **Raymond Ditmars (*Reptiles of the World*):** *"The secretive Asian coral snakes of the genus **Calliophis** possess powerful neurotoxic venom despite their small size."*

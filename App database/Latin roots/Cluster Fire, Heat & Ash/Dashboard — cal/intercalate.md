@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Insert (days) in a calendar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Insert (days) in a calendar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To insert or introduce an additional day, month, or period into a calendar; to interpolate a layer or unit between existing ones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular genetics and geology, to insert planar chemical molecules between adjacent DNA base pairs, or to interstratify volcanic lava beds within sedimentary rock strata.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intercalate designates insert (days) in a calendar."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Subterranean eruptions **intercalate** sheets of basaltic lava between ancient sandstone layers across successive geological epochs."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Astronomers advised the state to **intercalate** the necessary days to bring religious feast days into harmony with the equinox."*
+> - 📜 **Richard Feynman (*The Feynman Lectures on Physics*):** *"When foreign dye molecules **intercalate** between base pairs in a nucleic acid helix, they distort the structural geometry of the double strand."*

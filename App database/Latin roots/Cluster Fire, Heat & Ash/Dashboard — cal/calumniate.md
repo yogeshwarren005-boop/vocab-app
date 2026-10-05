@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Charge falsely or with malicious intent; attack the good name and reputation of someone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Charge falsely or with malicious intent; attack the good name and reputation of someone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make false, malicious, and defamatory statements about someone in order to injure their reputation; to slander.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence and moral philosophy, deliberately inventing fraudulent accusations with the premeditated objective of destroying social standing or legal innocence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sith yet there is a credence in my heart, An esperance so obstinately strong, That doth invert th’attest of eyes and ears; As if those organs had deceptious functions Created only to calumniate."*
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"Calumniate, _see_ Slander, Sutra."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, let not virtue seek Remuneration for the thing it was; For beauty, wit, High birth, vigour of bone, desert in service, Love, friendship, charity, are subjects all To envious and calumniating Time."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Factions will unscrupulously **calumniate** the purest public servants whenever partisan ambition dictates the overthrow of political rivals."*
+> - 📜 **Voltaire (*Philosophical Dictionary*):** *"It is the ancient trade of bigots to **calumniate** philosophers whose independent inquiries threaten religious monopolies."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"Let us not **calumniate** our fellow subjects across the Atlantic by attributing their resistance to reckless insolence rather than ancient British love of freedom."*

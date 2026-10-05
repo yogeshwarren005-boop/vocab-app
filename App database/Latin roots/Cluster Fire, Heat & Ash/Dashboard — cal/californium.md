@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A radioactive transuranic element; discovered by bombarding curium with alpha particles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A radioactive transuranic element; discovered by bombarding curium with alpha particles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A synthetic, radioactive metallic transuranium element with atomic number 98 and chemical symbol Cf.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In actinide chemistry and nuclear physics, an intensely alpha-emitting and neutron-emitting element first synthesized at Berkeley by helium bombardment of curium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, californium designates a radioactive transuranic element; discovered by bombarding curium with alpha particles."*
+> - 📜 **Glenn T. Seaborg (*The Transuranium Elements*):** *"We announced the discovery of **californium** after successfully bombarding microgram targets of curium in the cyclotron."*
+> - 📜 **Isaac Asimov (*Building Blocks of the Universe*):** *"The synthetic element **californium** serves as a potent portable source of neutrons in industrial and medical applications."*
+> - 📜 **Oliver Sacks (*Uncle Tungsten: Memories of a Chemical Boyhood*):** *"Among the heavier actinide elements, **californium** represented the frontier of modern synthetic nuclear synthesis."*

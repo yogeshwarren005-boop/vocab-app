@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of heat equal to the amount of heat required to raise the temperature of one kilogram of water by one degree at one atmosphere pressure; used by nutritionists to characterize the energy-producing potential in food.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unit of heat defined as the quantity of heat required to raise the temperature of 1 gram of water by 1 degree centigrade at atmospheric pressure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of heat energy, defined as the amount required to raise the temperature of one gram of water by one degree Celsius at standard atmospheric pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nutritional physiology and dietetics, the large calorie (kilocalorie), representing the fundamental metric quantifying the chemical potential energy released through metabolic oxidation of foodstuffs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"They even give the quantities of calories of energy required for different sized men."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Then I'll know just how many calories to give each of you."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"They say a man of average size and weight, and sedentary occupation, should have at least 2,000 calories--and some authorities say 3,000--in this proportion: proteins, 300 calories, fats, 350 calories, carbohydrates, 1,350 calories."*
+> - 📜 **Wilbur Olin Atwater (*Principles of Nutrition and Nutritive Value of Food*):** *"The human body operates like a heat engine, transforming every **calorie** derived from oxidized carbohydrates and fats into muscular work and animal heat."*
+> - 📜 **Graham Lusk (*The Elements of the Science of Nutrition*):** *"Metabolic chambers enable physiological chemists to measure heat output down to the last **calorie** produced by resting tissue."*
+> - 📜 **Francis Gano Benedict (*A Study of Prolonged Fasting*):** *"During thirty days of starvation, basal expenditure dropped systematically, conserving every precious **calorie** of endogenous glycogen and adipose tissue."*

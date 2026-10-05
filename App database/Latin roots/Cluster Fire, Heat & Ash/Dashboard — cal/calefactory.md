@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving to heat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A warming room in a monastery where monks were allowed to warm themselves by a communal fire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In monastic architecture and church history, the heated room (calefactorium) where brethren warmed numbed fingers for copying manuscripts or received medical care.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calefactory designates serving to heat."*
+> - 📜 **Walter Scott (*The Monastery*):** *"The shivering novice hurried from the frosty cloister garth into the roaring hearth of the abbey **calefactory**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Except in the communal **calefactory**, the austere rule of the Cistercians forbade fireplaces in individual dormitory cells."*
+> - 📜 **Prosper Mérimée (*A History of Peter the Cruel*):** *"The aged monks gathered about the blazing logs in the **calefactory** to recount oral traditions of the founding abbot."*

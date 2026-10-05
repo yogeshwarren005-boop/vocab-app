@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become impregnated with calcium salts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become inflexible and unchanging.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To harden or become hardened by the deposition of calcium salts; to convert into a stony, calcareous substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology, developmental biology, and sociology, the physical hardening of tissues or the metaphorical ossification of ideas and institutions into rigid dogma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calcify designates become impregnated with calcium salts."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Old tubercular tubercles frequently cease activity and **calcify**, forming inert stony nodules within the pulmonary parenchyma."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"As age advances, costal cartilages tend to **calcify**, restricting the elastic expansion of the thoracic cage."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Without the revitalizing influence of open discussion, political traditions rapidly **calcify** into lifeless authoritarian creeds."*

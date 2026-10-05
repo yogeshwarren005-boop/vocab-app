@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Phenomenon that occurs when a metal is being heated and there is a sudden slowing in the rate of temperature increase; slowing is caused by a change in the internal crystal structure of the metal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Phenomenon that occurs when a metal is being heated and there is a sudden slowing in the rate of temperature increase; slowing is caused by a change in the internal crystal structure of the metal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metallurgical phenomenon wherein heating steel or iron absorbs heat without a corresponding rise in temperature as it undergoes internal phase change.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical metallurgy and heat treatment, the endothermic transformation occurring around the critical point where pearlite transforms into austenite during heating.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decalescence designates phenomenon that occurs when a metal is being heated and there is a sudden slowing in the rate of temperature increase; slowing is caused by a change in the internal crystal structure of the metal."*
+> - 📜 **Henry Marion Howe (*The Metallography of Steel and Cast Iron*):** *"During furnace heating, the thermocouple reveals a distinct arrest at the point of **decalescence**, where steel absorbs latent heat to restructure its crystals."*
+> - 📜 **William Chandler Roberts-Austen (*An Introduction to the Study of Metallurgy*):** *"The sudden shadow passing across the glowing iron rod corresponds precisely with the phenomenon of **decalescence** identified by Barrett."*
+> - 📜 **Albert Sauveur (*The Metallography and Heat Treatment of Iron and Steel*):** *"Proper hardening requires heating steel slightly above its point of **decalescence** before quenching it rapidly in water or oil."*

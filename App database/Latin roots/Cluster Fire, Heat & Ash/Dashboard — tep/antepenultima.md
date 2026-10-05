@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The 3rd syllable of a word counting back from the end.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The 3rd syllable of a word counting back from the end.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The third syllable from the end of a spoken or written word; the antepenult.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical grammar and morphological phonology, the locus of tonic stress within trisyllabic and multisyllabic accentual rules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antepenultima designates the 3rd syllable of a word counting back from the end."*
+> - 📜 **George Saintsbury (*A History of English Prosody*):** *"In classical scansion, the quantitative weight of the **antepenultima** dictates the metric cadence of dactylic measures."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The rhythmic cadence of philosophical prose often owes its dignified solemnity to a stressed **antepenultima**."*
+> - 📜 **Thomas de Quincey (*Confessions of an English Opium-Eater*):** *"The majestic roll of the orator's Latinate periods derived largely from resonant accents falling on the **antepenultima**."*

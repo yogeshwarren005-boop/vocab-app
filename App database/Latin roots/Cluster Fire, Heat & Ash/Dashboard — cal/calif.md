@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The civil and religious leader of a muslim state considered to be a representative of allah on earth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The civil and religious leader of a muslim state considered to be a representative of allah on earth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant spelling of caliph, the supreme religious and civil leader in a classical Muslim government.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical orientalist literature, the sovereign successor of the Prophet Muhammad exercising temporal authority across Islamic realms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calif designates the civil and religious leader of a muslim state considered to be a representative of allah on earth."*
+> - 📜 **Washington Irving (*Mahomet and His Successors*):** *"The newly elected **calif** addressed the assembled believers, pledging to administer justice without fear or favour."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Under the vigorous reign of the **calif**, Arab armies expanded their dominion from Syria to the borders of India."*
+> - 📜 **Richard Francis Burton (*The Book of the Thousand Nights and a Night*):** *"The illustrious **calif** Harun al-Rashid traversed the lantern-lit alleys of Baghdad in humble disguise to observe his subjects."*

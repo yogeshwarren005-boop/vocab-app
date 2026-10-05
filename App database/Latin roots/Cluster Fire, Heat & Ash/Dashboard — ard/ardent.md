@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by intense emotion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by strong enthusiasm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by intense, passionate, or vehement warmth of feeling or enthusiasm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary expression and archaic physical description, glowing with literal or metaphorical heat; fiery, blazing, or fiercely devoted.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Takes virtuous copies to be wicked, like those that under hot ardent zeal would set whole realms on fire."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"For the fifth and sixth reasons, because only Leonore could have such a child, for there could not be two people like her in the whole world." Uncle Philip had grown very warm during these ardent proofs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He was ardent and brave, and in the midst of all his wild restlessness, was so gentle that I knew him like a brother in a few weeks."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"In vain have I struggled; it will not do; my feelings will not be repressed; you must allow me to tell you how **ardent** my admiration and love are for you."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I have described myself as always having been imbued with a fervent longing to penetrate the secrets of nature; my **ardent** desire drove every sleep away."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"He looked at me with an **ardent** gaze that seemed to challenge every defensive resolve I had painfully constructed."*

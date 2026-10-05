@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily ignited.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily ignited.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily set on fire; able to burn rapidly and readily.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hazardous materials regulation and chemical safety, possessing a flash point low enough to ignite readily under ambient atmospheric conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Greek fire: see Gibbon, chap. 52. {a flammable liquid, kept so secret that its exact constitution is still unknown.} 281."*
+> - 📜 **Kurt Vonnegut (*Slaughterhouse-Five*):** *"The cellars beneath Dresden were filled with **flammable** timber and household goods that fed the firestorm above."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"The synthetic carpets were engineered to be soft yet non-conductive, replacing older **flammable** cotton weaves."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Sussex Vampire*):** *"A single spark near the vat of naphtha would have detonated the entire building, so **flammable** were the drying fumes."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by intense emotion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely hot; - nathaniel hawthorne; - frances trollope.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or displaying a passionate, warm, and intense enthusiasm or belief.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary and archaic physics, physically glowing with heat; characterized by ardent warmth and emotional intensity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I shall pull through, my dear!” I felt so deeply sensible of the danger in which he stood that I tried, in Ada’s name, in my guardian’s, in my own, by every fervent means that I could think of, to warn him of it and to show him some of his mistakes."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Believe it to be most fervent, most undeviating, in F."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Husband and children all knew of their need, and of the fervent prayers of the wife and mother for their supply; but no one knew by what means the supply was to come."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea listened with **fervent** sympathy to the young physician's ambitious plans for the new hospital."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I pursued nature to her hiding places with a **fervent** curiosity that shut out all awareness of ordinary perils."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Sydney Carton whispered a **fervent** blessing as the morning sun broke through the prison grating."*

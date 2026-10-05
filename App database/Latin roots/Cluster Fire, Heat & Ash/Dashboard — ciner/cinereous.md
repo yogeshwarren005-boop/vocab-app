@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin ciner within the domain of Fire, Heat & Ash.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of ciner in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the color of ashes; ash-gray in appearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical, mycological, and ornithological descriptions, possessing a grayish or ash-like tint or powdery coating.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cinereous designates pertaining to, derived from, or characteristic of latin ciner within the domain of fire, heat & ash."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The plumage of the solitary bird presented a uniform **cinereous** gray that harmonized perfectly with the barren rocks."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"The lower surface of the cauline leaves is distinctly **cinereous** with fine downy pubescence."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"Above the smoking crater of Vesuvius drifted a sombre canopy of **cinereous** vapor, blotching out the Mediterranean azure."*

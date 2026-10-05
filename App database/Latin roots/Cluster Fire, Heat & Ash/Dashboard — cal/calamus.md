@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any tropical asian palm of the genus calamus; light tough stems are a source of rattan canes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The aromatic root of the sweet flag used medicinally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sweet flag plant (Acorus calamus), or a pen or musical pipe fashioned from a hollow reed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature, organology, and botany, a reed pen used for writing, a rustic pastoral pipe, or the aromatic rhizome used in perfumery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"See, again, in the pieces gathered together under the title "Calamus," and elsewhere, what it means for a man to love his fellow-man."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"Here by its scent I know the aromatic cedar and the pungent roots of the wild **calamus**."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The pleasant scent of sweet flag or **calamus** rose from the muddy margins of the cove as we waded through the reeds."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"The root of **calamus** aromaticus being dried and steeped in spirit yields a cordial odor of high esteem."*

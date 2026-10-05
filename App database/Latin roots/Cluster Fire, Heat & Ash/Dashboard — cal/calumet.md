@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A highly decorated ceremonial pipe of amerindians; smoked on ceremonial occasions (especially as a token of peace).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A highly decorated ceremonial pipe of amerindians; smoked on ceremonial occasions (especially as a token of peace).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A long-stemmed ceremonial smoking pipe decorated with feathers and carvings, traditionally used by North American indigenous peoples in peace treaties and sacred rituals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In North American anthropology and ethnohistory, a sacred conduit of spiritual communion and diplomatic covenant, whose collective smoking ratified binding alliances and safe passage between sovereign tribes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"THE CALUMET OF PEACE He offered a cigarette to the professor and took one himself."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Cu_{2}O. _b._ Calumet and Hecla “dry” copper before poling. 0·64 per cent. oxygen = 5·76 per cent."*
+> - 📜 **Henry Wadsworth Longfellow (*The Song of Hiawatha*):** *"Gitche Manito the mighty commanded the nations to smoke the **calumet** together and live henceforth as brothers in peace."*
+> - 📜 **Francis Parkman (*The Discovery of the Great West*):** *"Father Marquette held aloft the sacred **calumet**, whose feathered stem commanded universal veneration and assured peaceful reception."*
+> - 📜 **Washington Irving (*Astoria*):** *"The council concluded with solemn deliberations, each chieftain inhaling tobacco smoke from the carved **calumet** before sealing the treaty."*

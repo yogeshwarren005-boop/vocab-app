@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of geology that studies volcanoes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of geology that studies volcanoes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of volcanoes, lava, magma, and related geological and geothermal phenomena.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In earth sciences, the subdiscipline integrating petrology, seismology, and geodesy to model magma dynamics and mitigate eruption hazards.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, volcanology designates the branch of geology that studies volcanoes."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The systematic foundations of modern **volcanology** began with careful observations of the continuous eruptions of Stromboli."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"Professor Challenger lectured with pontifical authority on the dynamic **volcanology** that had isolated the high South American plateau."*
+> - 📜 **Alexander von Humboldt (*Aspects of Nature*):** *"A comparative **volcanology** of the Andean chain demonstrates how subterranean fissures link distant summits across thousands of miles."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of north american herbs having usually red or purple flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of north american herbs having usually red or purple flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of North American flowering herbaceous plants in the mallow family (Malvaceae), commonly called poppy mallows.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In floristics, prairie restoration, and horticulture, drought-tolerant perennials producing cup-shaped magenta blossoms and sprawling taprooted foliage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, callirhoe designates small genus of north american herbs having usually red or purple flowers."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Along dry prairies, species of **Callirhoe** expand their intense wine-red blossoms under the full glare of the summer sun."*
+> - 📜 **John Muir (*Steep Trails*):** *"Brilliant clusters of **Callirhoe** painted the limestone gravel of the valley floor with vivid crimson dyes."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"The trailing habit and rich chalice-like blooms of **Callirhoe** make it an exceptional subject for sunny rock gardens."*

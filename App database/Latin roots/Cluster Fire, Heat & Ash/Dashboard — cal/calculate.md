@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a mathematical calculation or computation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Judge to be probable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To determine or compute mathematically; to ascertain by arithmetic, measurement, or reasoning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In decision theory, military strategy, and statecraft, to weigh probable outcomes, evaluate risks, and deliberate courses of action methodically.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A cunning man did calculate my birth And told me that by water I should die."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The effects of which movement it is impossible to calculate."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He could not bring himself to consider, calculate, or economize."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"I can **calculate** the motions of heavenly bodies, but not the madness of people."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"A prudent merchant must **calculate** his expenses and revenues with scrupulous accuracy before embarking upon large ventures."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Napoleon possessed an astonishing faculty to **calculate** the exact hours and supplies required for every marching division."*

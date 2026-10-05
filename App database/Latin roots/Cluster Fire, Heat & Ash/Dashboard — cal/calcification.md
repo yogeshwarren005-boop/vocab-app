@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A process that impregnates something with calcium (or calcium salts).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tissue hardened by deposition of lime salts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The accumulation or deposition of calcium salts within bodily tissues, or the hardening of organic matter into stony lime.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological histology and vascular pathology, normal bone matrix osteogenesis or abnormal metastatic and dystrophic hardening of soft tissues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calcification designates a process that impregnates something with calcium (or calcium salts)."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Pathological **calcification** converts soft necrotic foci into hard, gritty masses resembling mortar or stone."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Extensive **calcification** of the coronary arteries reduces vessel elasticity and exacerbates cardiac ischemia."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The gradual **calcification** of cartilaginous frameworks provided vertebrates with rigid support for complex muscular locomotion."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One species.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One species.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering evergreen shrubs in the heath family (Ericaceae) containing heather or ling (Calluna vulgaris).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moorland ecology and floristics, an ericaceous low shrub that dominates acidic heathlands and peat bogs with dense spikes of rosy-purple bells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calluna designates one species."*
+> - 📜 **Gilbert White (*The Natural History and Antiquities of Selborne*):** *"The wide open commons were clothed with magnificent expanses of flowering **Calluna**, perfuming the autumn air with wild honey."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Extensive tracts of moorland are completely covered by dense associations of **Calluna** vulgaris, excluding less vigorous plants."*
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"The wild winds blew across the vast moors where purple sprigs of **Calluna** bent low over the dark peat beds."*

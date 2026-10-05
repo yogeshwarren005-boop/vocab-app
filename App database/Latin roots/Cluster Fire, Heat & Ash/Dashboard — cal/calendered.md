@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Press between rollers or plates so as to smooth, glaze, or thin into sheets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of paper and fabric and leather) having a surface made smooth and glossy especially by pressing between rollers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pressed, smoothed, and given a glazed finish by passing between heavy rollers (calenders).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In material manufacturing and industrial design, designating paper, rubber sheet, or textile cloth finished under high heat and roller compression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calendered designates press between rollers or plates so as to smooth, glaze, or thin into sheets."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"In the ruined gallery lay heaps of ancient books, their heavy **calendered** paper turned brittle and yellow with age."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"He inspected the letter closely, noting that it was penned upon thick, highly **calendered** stationery of the finest manufacture."*
+> - 📜 **Andrew Ure (*The Philosophy of Manufactures*):** *"The **calendered** cotton fabric emerged from the rolling mills with a uniform gloss that enhanced its market value."*

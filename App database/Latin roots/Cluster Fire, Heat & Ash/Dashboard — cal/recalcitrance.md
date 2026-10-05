@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being unmanageable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being unmanageable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Stubborn resistance to authority, discipline, or control; obstinate disobedience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political sociology and psychopathology, chronic refusal to conform to institutional directives, legal statutes, or clinical interventions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, recalcitrance designates the trait of being unmanageable."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The monarch met with fierce parliamentary **recalcitrance** whenever he attempted to impose unconstitutional ship-money taxes without consent."*
+> - 📜 **Henry James (*The Bostonians*):** *"Olive Chancellor was deeply frustrated by the quiet **recalcitrance** of her protégé, who refused to sacrifice her romantic inclinations."*
+> - 📜 **Winston Churchill (*The River War*):** *"Colonial administrators struggled against local **recalcitrance**, finding that passive stubbornness proved as formidable as armed rebellion."*

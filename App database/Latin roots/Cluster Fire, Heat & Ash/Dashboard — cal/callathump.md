@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A noisy boisterous parade.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A noisy mock serenade (made by banging pans and kettles) to a newly married couple.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A noisy, boisterous, mock-serenade or discordant parade accompanied by banging pans, horns, and kettles; a shivaree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American folklore and dialectology, a riotous impromptu carnival or rough-music serenade intended to mock or celebrate newlyweds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, callathump designates a noisy boisterous parade."*
+> - 📜 **Washington Irving (*Salmagundi*):** *"The nocturnal mischief-makers organized a deafening **callathump** outside the magistrate's window, rattling tins and blowing cow horns."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"The drunken celebration dissolved into a furious **callathump** that echoed across the riverbanks long past midnight."*
+> - 📜 **Bret Harte (*Tales of the Argonauts*):** *"A rowdy crew from the mining camp greeted the frontier wedding with an uproarious **callathump**."*

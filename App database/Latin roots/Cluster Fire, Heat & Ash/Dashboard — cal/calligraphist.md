@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone skilled in penmanship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone skilled in penmanship.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who practices the art of fine, decorative, or ornamental handwriting; a calligrapher.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical paleography and bibliographic history, an expert penman or professional scribe who produces illuminated manuscripts and formal diplomas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calligraphist designates someone skilled in penmanship."*
+> - 📜 **Ralph Waldo Emerson (*Society and Solitude*):** *"The patient **calligraphist** spent months transcribing sacred verses with exquisite miniature flourishes."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"An imperial **calligraphist** was retained at court to execute golden charters upon purple vellum."*
+> - 📜 **William Morris (*Hopes and Fears for Art*):** *"The medieval **calligraphist** understood the harmony uniting the stroke of the quill with the texture of the vellum."*

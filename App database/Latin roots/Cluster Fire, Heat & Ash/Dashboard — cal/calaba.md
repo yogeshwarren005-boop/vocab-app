@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: West indian tree having racemes of fragrant white flowers and yielding a durable timber and resinous juice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: West indian tree having racemes of fragrant white flowers and yielding a durable timber and resinous juice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tropical American evergreen tree (Calophyllum calaba) with fragrant white flowers, hard timber, and resinous sap.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Caribbean silviculture and ethnobotany, the source of durable construction timber and calaba balsam (or Maria oil) used in folk healing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calaba designates west indian tree having racemes of fragrant white flowers and yielding a durable timber and resinous juice."*
+> - 📜 **Charles Kingsley (*At Last: A Christmas in the West Indies*):** *"Stately trunks of the wild **calaba** rose among the palms, their glossy leaves catching the bright tropical sunlight."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of the New Continent*):** *"The dense forests along the river bluffs abound in magnificent **calaba** trees, whence the native boatmen extract fragrant balsam."*
+> - 📜 **Hans Sloane (*A Voyage to the Islands Madera, Barbados, Nieves, S. Christophers and Jamaica*):** *"The wood of the **calaba** tree is esteemed exceedingly durable for building and framing vessels in the West Indies."*

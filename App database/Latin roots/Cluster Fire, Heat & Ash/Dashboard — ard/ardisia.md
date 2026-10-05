@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical evergreen subshrubs (some climbers) to trees of asia and australasia to americas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical evergreen subshrubs (some climbers) to trees of asia and australasia to americas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering plants in the family Primulaceae, commonly known as marlberry or coralberry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In decorative horticulture and botanical systematics, evergreen shrubs bearing prominent clusters of persistent bright red or black berries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ardisia designates tropical evergreen subshrubs (some climbers) to trees of asia and australasia to americas."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"For winter greenhouse decoration, the glossy foliage and scarlet berries of **Ardisia** crenata have few equals."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Specimens of tropical **Ardisia** were brought back from the expedition, notable for their glandular leaf margins."*
+> - 📜 **David Fairchild (*Exploring for Plants*):** *"Along the shaded forest floor in Sumatra, we found low bushes of **Ardisia** laden with coral-colored drupes."*

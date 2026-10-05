@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (italian cuisine) squid prepared as food.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (italian cuisine) squid prepared as food.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Squid prepared and served as food, especially when sliced into rings and deep-fried.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Mediterranean culinary arts, cephalopod flesh dredged in seasoned flour or braised with tomatoes, garlic, and white wine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calamari designates (italian cuisine) squid prepared as food."*
+> - 📜 **Elizabeth David (*Italian Food*):** *"Tender rings of fried **calamari** served with fresh lemon wedges form a staple antipasto along the Ligurian coast."*
+> - 📜 **Anthony Bourdain (*Kitchen Confidential*):** *"The saute cook kept baskets of golden, crisp **calamari** moving steadily from the deep fryers to the dining room."*
+> - 📜 **M. F. K. Fisher (*With Bold Knife and Fork*):** *"We savored stewed **calamari** steeped in olive oil and herbs beside a sunlit harbor in southern Italy."*

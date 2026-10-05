@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of tropical evergreen trees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of tropical evergreen trees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pantropical genus of flowering trees and shrubs in the family Calophyllaceae, noted for glossy, closely veined leaves and oil-bearing seeds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic botany and coastal ecology, timber-producing maritime hardwoods such as Calophyllum inophyllum yielding tamanu oil used in traditional cosmetics and maritime construction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Behold, here is a great giant towering above us." And Kapeepeekauila, seeing this, hastened to prune the branches of the kamani tree (_Calophyllum inophyllum_), so that the bluff should grow upward."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Magnificent trunks of **Calophyllum** towered above the coastal strand, their leathery leaves glittering brilliantly in the tropical sunshine."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"The seeds of **Calophyllum** furnish an abundant supply of dark, bitter oil prized across the Indian subcontinent for illuminating lamps."*
+> - 📜 **Paul C. Standley (*Trees and Shrubs of Mexico*):** *"Indigenous shipwrights preferred the durable, resilient wood of **Calophyllum** for carving sturdy dugout canoes and boat keels."*

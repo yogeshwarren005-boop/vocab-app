@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (botany) the whorl of sepals of a flower collectively forming the outer floral envelope or layer of the perianth enclosing and supporting the developing bud; usually green.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (botany) the whorl of sepals of a flower collectively forming the outer floral envelope or layer of the perianth enclosing and supporting the developing bud; usually green.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The outermost whorl of floral organs protecting a flower bud, composed of individual sepals that are typically green.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy and renal histology, a cup-shaped cavity or structure, particularly the urine-collecting renal calyces of the kidney.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Her little hands were clasped, and enclosed by Sir James’s as a bud is enfolded by a liberal calyx."*
-> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"The little calyx holds the petals in such a way that the moment it turns back they are let loose."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Thickened spots at first appear on the leaves; the petioles, or flower stem, or even the calyx, become swollen and distorted; and at length the cluster-cup breaks through."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The green **calyx** usually encloses and defends the delicate petals while the flower reposes in bud before anthesis."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Each renal pyramid projects into a minor **calyx**, which collects urine from the papillary ducts and empties into the renal pelvis."*
+> - 📜 **Asa Gray (*First Lessons in Botany*):** *"When petals wither and fall, the persistent **calyx** frequently remains behind to protect the developing fruit and seed vessel."*

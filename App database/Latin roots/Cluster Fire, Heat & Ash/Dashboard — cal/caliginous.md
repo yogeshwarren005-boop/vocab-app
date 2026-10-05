@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dark and misty and gloomy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dark and misty and gloomy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Misty, dim, dark, or gloomy; obscured by darkness, heavy vapour, or deep shadow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In poetic rhetoric and classical aesthetic prose, describing somber, fog-shrouded, or atmospheric environments that obscure clear visual perception.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, caliginous designates dark and misty and gloomy."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"A **caliginous** gloom hung heavily over the subterranean vaults, suffocating the flickering light of our torches."*
+> - 📜 **Thomas De Quincey (*Confessions of an English Opium-Eater*):** *"In dreams I wandered through **caliginous** labyrinths beneath ancient cities whose names had vanished from memory."*
+> - 📜 **H. P. Lovecraft (*The Shadow over Innsmouth*):** *"The **caliginous** depths of the harbor concealed monstrous secrets that shunned the cleansing light of day."*

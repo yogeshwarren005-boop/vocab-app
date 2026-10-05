@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by intense emotion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by intense emotion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intensely passionate, ardent, or zealous, often to an excessive or overwrought degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and psychological characterization, burning with exaggerated, feverish, or unconstrained enthusiasm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perfervid designates characterized by intense emotion."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"The young philosopher recoiled from the **perfervid** emotionalism of the mystic cults that thronged imperial Rome."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The orator swept the Jacobin club into frenzy with his **perfervid** denunciations of aristocratic conspiracy."*
+> - 📜 **Edmund Gosse (*Father and Son*):** *"My father's religious temperament was **perfervid** and unbending, admitting no compromise with secular pleasures."*

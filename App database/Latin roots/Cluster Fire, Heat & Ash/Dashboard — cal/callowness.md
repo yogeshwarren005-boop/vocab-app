@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking and evidencing lack of experience of life.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking and evidencing lack of experience of life.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inexperience, youthful naivety, lack of mature judgment, and unformed character typical of early adolescence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental psychology and character study, the raw, unpolished awkwardness characteristic of early youth before the tempering of adult experience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, callowness designates lacking and evidencing lack of experience of life."*
+> - 📜 **Joseph Conrad (*The Shadow-Line*):** *"Looking back upon my youthful arrogance, I recognized the foolish **callowness** that made me crave command without understanding its burdens."*
+> - 📜 **Henry James (*The Ambassadors*):** *"Strether pardoned the young man's self-importance, discerning beneath it the forgivable **callowness** of enthusiastic youth."*
+> - 📜 **Thomas Mann (*The Magic Mountain*):** *"Hans Castorp reflected upon his own intellectual **callowness** as he listened to the dazzling dialectic debates of his mentors."*

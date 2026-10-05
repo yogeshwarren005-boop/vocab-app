@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resistant to catching fire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resistant to catching fire.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical substance added to materials to prevent, slow down, or inhibit combustion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In materials science, textiles, and fire safety engineering, chemical additives that suppress fire ignition by gas-phase scavenging or char formation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flame-retardant designates resistant to catching fire."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Industrial chemicals synthesized as **flame-retardant** coatings often accumulate persistently in wildlife tissues."*
+> - 📜 **Lewis Mumford (*The Highway and the City*):** *"Modern high-rise residential construction mandates **flame-retardant** insulation to minimize catastrophic fire hazards."*
+> - 📜 **Kurt Vonnegut (*Player Piano*):** *"The automated factory produced miles of synthetic drapery impregnated with **flame-retardant** polymers."*

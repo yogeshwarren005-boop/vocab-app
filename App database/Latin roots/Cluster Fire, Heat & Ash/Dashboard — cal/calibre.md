@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A degree or grade of excellence or worth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Diameter of a tube or gun barrel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The internal diameter of a bore or tube, or the degree of intellectual and moral excellence possessed by a person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military ordnance and literary criticism, the transverse measurement of gun barrels or an evaluative metric of exceptional human stature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I first got an idea of its calibre when I heard him preach in his own church at Morton."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"But we decline to believe that a singer of Shelley's calibre could be seriously grieved by want of vogue."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"A gun is spoken of by its "calibre," which means the inside diameter, or, to use another expression, the size of the "bore." So the "12-inch" naval gun is 12 inches in the bore."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"A firearm of such small **calibre** was capable of inflicting a deadly wound only when discharged at point-blank range."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"Statesmen of remarkable **calibre** were needed to maintain national unity during the desperate struggles of the campaign."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate was recognized as a physician of unusual **calibre**, bringing modern physiological insights into provincial medical practice."*

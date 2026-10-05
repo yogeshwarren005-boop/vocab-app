@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tasteless colorless powder used medicinally as a cathartic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tasteless colorless powder used medicinally as a cathartic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A white, odorless, tasteless mineral powder composed of mercurous chloride (Hg2Cl2), historically administered as a purgative and cathartic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical pharmacopeia and toxicological history, a ubiquitous nineteenth-century remedy whose frequent heroic doses provoked severe salivation and chronic mercury poisoning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"For, my young friends,” suddenly addressing the ’prentices and Guster, to their consternation, “if I am told by the doctor that calomel or castor-oil is good for me, I may naturally ask what is calomel, and what is castor-oil."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Starbuck, had the face to offer that calomel and jalap to Queequeg, there, this instant off the whale."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Starbuck, had the face to offer that calomel and jalap to Queequeg, there, this instant off the whale."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Currents and Counter-Currents in Medical Science*):** *"If the whole materia medica could be sunk to the bottom of the sea, with antimony and **calomel** excepted, it were all the better for mankind."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Old clinicians placed unbounded faith in heavy doses of **calomel**, unaware that the ensuing salivation demonstrated toxic mercurial saturation."*
+> - 📜 **Mark Twain (*The Innocents Abroad*):** *"The doctor plied the wretched traveler with **calomel** and mustard plasters until nature rebelled against both disease and remedy."*

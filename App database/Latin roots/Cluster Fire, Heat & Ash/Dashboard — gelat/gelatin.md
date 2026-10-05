@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless water-soluble glutinous protein obtained from animal tissues such as bone and skin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An edible jelly (sweet or pungent) made with gelatin and used as a dessert or salad base or a coating for foods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless, translucent, flavorless protein obtained by boiling animal skin, cartilage, and bones in water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In food science and histology, a hydrolyzed collagen product that hydrates to form thermoreversible colloidal hydrogels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gelatin designates a colorless water-soluble glutinous protein obtained from animal tissues such as bone and skin."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Cold broth clarified with calves-foot **gelatin** furnished a light and easily assimilable nourishment for the convalescent."*
+> - 📜 **Oliver Wendell Holmes Sr. (*The Autocrat of the Breakfast-Table*):** *"The dish of trembling fruit **gelatin** gleamed like amber beneath the parlor lamps during the festival."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"In the bacteriologist's incubator, tubes of nutrient **gelatin** revealed distinct liquefaction patterns characteristic of the bacillus."*

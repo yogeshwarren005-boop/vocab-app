@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Moderately warm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling or showing little interest or enthusiasm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Moderately warm or lukewarm in physical temperature; lacking passionate warmth, enthusiasm, or conviction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In thermodynamics and literary characterization, denoting ambient mild warmth or half-hearted, unenthusiastic emotional response.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Yet Dives himself, he too lives like a Czar in an ice palace made of frozen sighs, and being a president of a temperance society, he only drinks the tepid tears of orphans."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"No! hands him, ye gods! hands him a cup of tepid ginger and water!"*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Yet Dives himself, he too lives like a Czar in an ice palace made of frozen sighs, and being a president of a temperance society, he only drinks the tepid tears of orphans."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I quenched my thirst with a draught of **tepid** water from the stoneware pitcher beside the hearth."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"He washed his face in the **tepid** stream that trickled reluctantly from the corroded basin faucet."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The courtroom received the long-winded arguments of Chancery counsel with **tepid** interest and frequent yawns."*

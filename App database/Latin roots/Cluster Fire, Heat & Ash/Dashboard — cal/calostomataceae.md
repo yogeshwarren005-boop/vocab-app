@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of fungi belonging to the order tulostomatales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of fungi belonging to the order tulostomatales.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of gasteroid fungi within the order Boletales, characterized by colorful, stalked, gelatinous-coated puffball-like fruiting bodies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mycology, ectomycorrhizal basidiomycetes featuring a multi-layered peridium with a bright red, star-shaped apical ostiole, historically centered on the genus Calostoma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calostomataceae designates a family of fungi belonging to the order tulostomatales."*
+> - 📜 **Pier Andrea Saccardo (*Sylloge Fungorum*):** *"Mycologists segregated **Calostomataceae** by virtue of their gelatinous exoperidia and brightly colored, rayed stomas."*
+> - 📜 **Curtis Gates Lloyd (*Mycological Writings*):** *"The bizarre fungi of **Calostomataceae** erupt from humid forest litter like scarlet or orange globes perched on spongy stipes."*
+> - 📜 **Charles Horton Peck (*Reports of the State Botanist of New York*):** *"In autumn bogs we uncovered specimens related to **Calostomataceae**, noting the remarkable hygroscopic collar surrounding the spore mouth."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in west central mexico.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in west central mexico.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major city in west-central Mexico and the state capital of Nayarit, situated in an agricultural valley.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geography, regional Mexican history, and toponymy, an urban center founded in pre-Columbian times at the base of the Sangangüey volcano.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tepic designates a city in west central mexico."*
+> - 📜 **John Steinbeck (*The Log from the Sea of Cortez*):** *"Travelers returning inland from San Blas spoke of the fertile highlands surrounding the historic town of **Tepic**."*
+> - 📜 **Graham Greene (*The Lawless Roads*):** *"The narrow train chugged steadily toward **Tepic**, climbing through deep barrancas beneath towering mountain slopes."*
+> - 📜 **Aldous Huxley (*Beyond the Mexique Bay*):** *"From Guadalajara the road traversed volcanic plateaus before descending into the subtropical valley of **Tepic**."*

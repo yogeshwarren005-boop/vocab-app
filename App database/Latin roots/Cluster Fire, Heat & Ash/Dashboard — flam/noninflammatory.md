@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not inflammatory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not inflammatory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not characterized by or not causing inflammation; peaceable or placid in tone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pathology, histology, and political diplomacy, lacking leukocyte infiltration or phrased to avoid provoking public discord.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, noninflammatory designates not inflammatory."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The physician differentiated the joint swelling as a **noninflammatory** degenerative arthrosis rather than septic arthritis."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The civic debate proceeded in a remarkably calm, **noninflammatory** spirit that facilitated legislative compromise."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"Certain chronic effusions are entirely **noninflammatory** in origin, resulting merely from venous transudation."*

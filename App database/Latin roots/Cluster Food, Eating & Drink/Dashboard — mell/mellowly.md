@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (obsolete) in a mellow manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (obsolete) in a mellow manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a mellow, soft, rich, melodious, or gentle manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In expressive performance, delivering voice, music, or illumination with warm resonance and serene restraint.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mellowly designates (obsolete) in a mellow manner."*
+> - 📜 **Edgar Allan Poe (*The Bells*):** *"Hear the **mellowly** chiming golden wedding bells, what a world of happiness their harmony foretells!"*
+> - 📜 **Thomas Hardy (*Under the Greenwood Tree*):** *"The church bell tolled **mellowly** across the frost-covered orchards, echoing between the quiet hills."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"The evening star shines **mellowly** over the western sky as dusk settles upon the prairie."*

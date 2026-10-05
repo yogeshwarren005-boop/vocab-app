@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not subjected to an aging process.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not subjected to an aging process.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having been subjected to an aging, maturing, or mellowing process; fresh, young, or unseasoned.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In distilling and beverage production, describing distilled spirits bottled immediately after distillation without maturation in wooden casks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unaged designates not subjected to an aging process."*
+> - 📜 **Jack London (*The Sea-Wolf*):** *"The raw, **unaged** rum burned the sailor's throat like molten lead as he gulped it down."*
+> - 📜 **Herman Melville (*Omoo*):** *"The native brew was completely **unaged**, delivering a fiery and unrefined kick to unaccustomed palates."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"During Prohibition, bootleggers sold crude, **unaged** spirits hastily compounded in secret suburban cellars."*

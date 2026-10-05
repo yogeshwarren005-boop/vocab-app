@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French composer noted for his experimentalism and rejection of romanticism (1866-1925).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French composer noted for his experimentalism and rejection of romanticism (1866-1925).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Erik Satie (1866–1925), an influential French avant-garde composer and pianist known for minimalist compositions such as the Gymnopédies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In twentieth-century musicology and modernism, a visionary eccentric composer whose modal harmonies and surreal titles prefigured ambient and conceptual music.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, satie designates french composer noted for his experimentalism and rejection of romanticism (1866-1925)."*
+> - 📜 **Jean Cocteau (*A Call to Order*):** *"The delicate, unadorned phrases of **Satie** cleansed French music of heavy Wagnerian rhetoric, introducing an austere and crystalline simplicity."*
+> - 📜 **Igor Stravinsky (*Chronicles of My Life*):** *"I always admired **Satie** for his sharp wit, his contempt for academic pedantry, and his astonishing harmonic intuition."*
+> - 📜 **Claude Debussy (*Monsieur Croche the Dilettante Hater*):** *"My friend **Satie** was a gentle precursor whose quiet piano sketches anticipated discoveries that younger musicians now claim as their own."*

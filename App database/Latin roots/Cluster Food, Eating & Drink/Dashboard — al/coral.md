@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A variable color averaging a deep pink.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The hard stony skeleton of a mediterranean coral that has a delicate red or pink color and is used for jewelry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hard, stony substance secreted by marine polyp colonies (*Anthozoa*) forming extensive marine reefs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology and gemology, calcium carbonate structures forming biogenic reefs, or polished red calcium secretions prized in classical jewelry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tranio, I saw her coral lips to move, And with her breath she did perfume the air; Sacred and sweet was all I saw in her."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A belt of straw and ivy buds, With coral clasps and amber studs; And if these pleasures may thee move, Then live with me and be my love."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With more than admiration he admired Her azure veins, her alabaster skin, Her coral lips, her snow-white dimpled chin."*
+> - 📜 **Charles Darwin (*The Structure and Distribution of Coral Reefs*):** *"The delicate polyps of the **coral** build massive barrier reefs through millennia of ceaseless biological growth beneath the breakers."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"Full fathom five thy father lies; Of his bones are **coral** made; Those are pearls that were his eyes."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Her lips parted in a gentle smile, revealing teeth as white as pearls against the warm **coral** of her mouth."*

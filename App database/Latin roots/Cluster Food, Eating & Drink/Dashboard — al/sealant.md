@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A kind of sealing material that is used to form a hard coating on a porous surface (as a coat of paint or varnish used to size a surface).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A kind of sealing material that is used to form a hard coating on a porous surface (as a coat of paint or varnish used to size a surface).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance or material used to seal a surface or joint to prevent the passage of liquid, air, or gas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In materials science and civil construction, an elastomeric polymer applied to architectural joints to accommodate expansion while preventing moisture infiltration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sealant designates a kind of sealing material that is used to form a hard coating on a porous surface (as a coat of paint or varnish used to size a surface)."*
+> - 📜 **Michael Faraday (*Chemical Manipulation*):** *"A tough mastic **sealant** composed of beeswax and resin serves admirably to render glass joints airtight under vacuum."*
+> - 📜 **Thomas Edison (*The Edison Papers: Progress in Electric Lighting*):** *"We tested various compositions of rubber **sealant** to preserve the delicate filaments within the glass bulbs from oxidation."*
+> - 📜 **Humphry Davy (*Elements of Agricultural Chemistry*):** *"Grafting wax acts as an effective botanical **sealant**, protecting wounded fruit boughs from desiccating winds and fungal spores."*

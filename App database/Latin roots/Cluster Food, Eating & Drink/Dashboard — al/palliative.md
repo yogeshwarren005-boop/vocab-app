@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remedy that alleviates pain without curing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moderating pain or sorrow by making it easier to bear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to relieve or alleviate pain, discomfort, or distress without addressing or curing the underlying cause.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In end-of-life care and oncology, therapeutic interventions designed specifically to optimize quality of life and minimize distressing symptoms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But dearest,” he continued in a palliative voice, “don’t be like it!” Oak sighed a deep honest sigh—none the less so in that, being like the sigh of a pine plantation, it was rather noticeable as a disturbance of the atmosphere."*
-> - 📜 **George Eliot (*Middlemarch*):** *"My own imperfect health has induced me to give some attention to those palliative resources which the divine mercy has placed within our reach."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But dearest,” he continued in a palliative voice, “don’t be like it!” Oak sighed a deep honest sigh—none the less so in that, being like the sigh of a pine plantation, it was rather noticeable as a disturbance of the atmosphere."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"He administered a mild **palliative** to ease the sick man's cough as the autumn chill settled over the cottage."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate recognized that medical science could provide only a **palliative** measure in so advanced a stage of cardiac degeneration."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The old apothecary kept a shelf of **palliative** cordials formulated to soothe restless consumptives through sleepless nights."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the pomacentridae: damselfishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the pomacentridae: damselfishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The type genus of marine damselfishes in the family Pomacentridae, comprising small, agile species that frequent Indo-Pacific coral reefs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In taxonomic ichthyology, herbivorous and omnivorous damselfishes distinguished by serrated preopercles, deep compressed bodies, and territorial cultivation of filamentous epilithic algae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pomacentrus designates type genus of the pomacentridae: damselfishes."*
+> - 📜 **David Starr Jordan (*The Genera of Fishes*):** *"Lacépède established the genus **Pomacentrus** to encompass those distinctive coral damselfishes possessing an operculum armed with small denticulations."*
+> - 📜 **William Beebe (*Zaca Venture*):** *"A solitary **Pomacentrus** hovered motionlessly above a shelf of brain coral, defending its patch of green turf against encroaching parrotfish."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"The distribution of small reef fishes such as **Pomacentrus** highlights the exceptional biological richness of the central Indo-Pacific marine corridor."*

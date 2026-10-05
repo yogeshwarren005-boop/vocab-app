@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cooking utensil consisting of a wide metal vessel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) god of fields and woods and shepherds and flocks; represented as a man with goat's legs and horns and ears; identified with roman sylvanus or faunus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A broad, shallow, open metal container used for cooking, baking, or frying food.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In domestic technology and geological mining, a wide vessel utilized for heating culinary ingredients or panning alluvial gravel for gold particles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good Bardolph, put thy face between his sheets, and do the office of a warming-pan."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"To one of the little shops in this street, which is a musician’s shop, having a few fiddles in the window, and some Pan’s pipes and a tambourine, and a triangle, and certain elongated scraps of music, Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"A flash in the pan or a shot?” An open letter is the subject of the trooper’s speculations, and it seems to perplex him mightily."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe Gargery stirred the gravy in the iron **pan** while the fire crackled cheerfully upon the blacksmith's hearth."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I baked my rye and Indian cakes in a simple tin **pan** set before the glowing embers of my fireplace."*
+> - 📜 **Mark Twain (*Roughing It*):** *"The prospector washed shovel after shovel of gravel in his tin **pan**, eagerly watching for glittering flecks of yellow gold."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give suck to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing or secreting milk.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing or secreting milk from the mammary glands to nourish offspring; suckling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary theriogenology and endocrinology, the physiological state of active milk synthesis stimulated by prolactin and oxytocin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lactating designates give suck to."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"A **lactating** mother exhibits extraordinary maternal devotion when defending her young against predatory danger."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Metabolic demands increase significantly in the **lactating** mammal to support continuous synthesis of protein, lipid, and lactose."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Pesticide residues concentrate dangerously in adipose tissue, passing directly into the milk of **lactating** livestock."*

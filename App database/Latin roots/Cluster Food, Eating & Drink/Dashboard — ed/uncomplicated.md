@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking complexity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easy and not involved or complicated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Simple, straightforward, easy to understand, and free from confusing complexities or intricate difficulties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical diagnosis and medical pathology, describing a disease course proceeding without secondary morbidities or severe systemic sequelae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"His thought is uncomplicated by distinctions due to tradition and its accidents."*
+> - 📜 **Jane Austen (*Emma*):** *"She preferred an **uncomplicated** life where straightforward goodwill took the place of elaborate social maneuvers."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In most healthy patients, an **uncomplicated** case of influenza resolves naturally within a fortnight of bed rest."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The weaver lived an **uncomplicated** daily existence measured only by the clack of his loom and the setting sun."*

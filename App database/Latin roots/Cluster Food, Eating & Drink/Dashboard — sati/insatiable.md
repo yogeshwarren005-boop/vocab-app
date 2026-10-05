@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible to satisfy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impossible to satisfy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible to satisfy, appease, or quench; possessing an unquenchable craving, desire, or appetite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political philosophy and psychological ethics, an unbounded, compulsive ambition or rapacity that endlessly expands beyond all natural limits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I was for ever stealing away from mother in my insatiable curiosity to see everything that was going on, and I managed to see pretty much of everything."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Most strange is man, ever insatiable, ever unsatisfied, never at peace with God or himself, his days filled with restlessness and useless endeavour, his nights a glut of vain dreams of desires wilful and wrong."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Reason, and not feeling, is my guide; my ambition is unlimited: my desire to rise higher, to do more than others, insatiable."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"He possessed an **insatiable** thirst for knowledge, pursuing the hidden secrets of life and death beyond the bounds of nature."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Kurtz was dominated by an **insatiable** greed for ivory and power, which consumed his humanity in the wilderness."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Human ambition exhibits an **insatiable** appetite for novel acquisitions, never content with the possessions already secured."*

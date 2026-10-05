@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Terms referring to the judeo-christian god.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clergyman or other person in religious orders.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or proceeding from a deity; sacred, holy, or possessing godlike excellence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As a verb, to discover, perceive intuitively, or foretell through occult insight, conjectural deduction, or dowsing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nothing sweet boy, but yet like prayers divine, I must each day say o’er the very same, Counting no old thing old, thou mine, I thine, Even as when first I hallowed thy fair name."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I were bound to divine of this unity, I would not prophesy so."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sweet mistress, what your name is else, I know not, Nor by what wonder you do hit on mine; Less in your knowledge and your grace you show not Than our earth’s wonder, more than earth divine."*
+> - 📜 **William Shakespeare (*Sonnets*):** *"Nothing sweet boy, but yet like prayers **divine**, I must each day say o'er the very same."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Into the heaven of heavens I have presumed, an earthly guest, and drawn empyreal air, thy tempering **divine**."*
+> - 📜 **Alexander Pope (*An Essay on Criticism*):** *"Good nature and good sense must ever join; to err is human, to forgive, **divine**."*

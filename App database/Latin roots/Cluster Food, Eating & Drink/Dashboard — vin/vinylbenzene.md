@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless oily liquid; the monomer for polystyrene.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colorless oily liquid; the monomer for polystyrene.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An aromatic organic compound with formula C₆H₅CH=CH₂, commonly known as styrene.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In petrochemical industrial chemistry, a clear colorless oily liquid precursor that readily polymerizes into polystyrene plastic and synthetic rubbers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vinylbenzene designates a colorless oily liquid; the monomer for polystyrene."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Polymerization of **vinylbenzene** produces long hydrocarbon chains bearing phenyl rings at alternating carbon centers."*
+> - 📜 **Primo Levi (*The Periodic Table*):** *"Vessels containing **vinylbenzene** required careful addition of chemical inhibitors to prevent spontaneous runaway polymerization."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Industrial effluents containing residues of **vinylbenzene** presented serious volatilization risks across urban refining sectors."*

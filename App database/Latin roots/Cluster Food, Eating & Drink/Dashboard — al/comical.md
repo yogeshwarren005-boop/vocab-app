@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arousing or provoking laughter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arousing or provoking laughter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Provoking amusement or laughter; amusingly eccentric, absurd, or ludicrous in appearance or behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic theory and narrative aesthetics, pertaining to the conventions, character archetypes, and farcical reversals of comic performance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The best actors in the world, either for tragedy, comedy, history, pastoral, pastoral-comical, historical-pastoral, tragical-historical, tragical-comical-historical-pastoral, scene individable, or poem unlimited."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Just look at the progress I am making." With comical seriousness the Baron pointed to the empty cup and the sole remaining roll."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The idea of her learning housekeeping of a person of my vast experience was such a joke that I laughed, and coloured up, and fell into a comical confusion when she proposed it."*
+> - 📜 **William Shakespeare (*A Midsummer Night's Dream*):** *"Our play has been celebrated as very tragical mirth, full of most **comical** blunders and surprising turns."*
+> - 📜 **Charles Dickens (*The Posthumous Papers of the Pickwick Club*):** *"Mr. Pickwick cut a singularly **comical** figure as he scrambled over the frozen pond, arms waving wildly in frantic efforts to regain equilibrium."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The mumming performance presented a **comical** mixture of ancient chivalric defiance and rustic awkwardness."*

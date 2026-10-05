@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give expression to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give expression to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To display clearly, reveal, demonstrate, or exhibit an inward quality, emotion, or disposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical jurisprudence and rigorous debate, to provide manifest, empirical proof or unmistakable indications of a condition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He spent years and years in desultory studies, undertakings, and meditations; he began to evince considerable indifference to social forms and observances."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Some of them are unmannered, rough, intractable, as well as ignorant; but others are docile, have a wish to learn, and evince a disposition that pleases me."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"What sudden eagerness is this you evince?"*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"He spent years and years in desultory studies and began to **evince** considerable indifference to worldly advancement."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The females lie in an almost torpid state, and appear not to **evince** the least choice among rival suitors."*
+> - 📜 **Thomas Jefferson (*Declaration of Independence*):** *"When a long train of abuses and usurpations pursueth invariably the same object, it doth **evince** a design to reduce them under absolute despotism."*

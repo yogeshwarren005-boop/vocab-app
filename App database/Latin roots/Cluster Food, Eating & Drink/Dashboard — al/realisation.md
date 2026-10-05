@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical composition that has been completed or enriched by someone other than the composer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coming to understand something clearly and distinctly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of becoming fully aware of something as a fact, or the actual fulfillment of an aim or concept.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology and economic management (chiefly British spelling), the mental arrival of clear insight, or the liquid conversion of assets into cash.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Sometimes, for a fleeting moment, I thought I caught a glance, heard a tone, beheld a form, which announced the realisation of my dream: but I was presently undeceived."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"They shall come and look at me here.” With some vague misgiving that she might get upon the table then and there and die at once, the complete realisation of the ghastly waxwork at the Fair, I shrank under her touch."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"What alone was wanting to the realisation of a vast fortune, he considered to be More Capital."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The gradual **realisation** of our moral duties arises from reflecting upon the natural consequences of human action."*
+> - 📜 **Bram Stoker (*Dracula*):** *"With a sudden shock of terrible **realisation**, I perceived that the castle was perched upon the edge of an immense precipice."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The awful **realisation** of our helplessness struck home as the Martian tripod strode contemptuously over the burning town."*

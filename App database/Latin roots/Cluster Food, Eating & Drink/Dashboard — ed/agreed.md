@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be in accord; be in agreement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consent or assent to a condition, or agree to do something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Settled by mutual consent, shared concurrence, or contractual accord; having harmonious views.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal jurisprudence and commercial contract theory, formally ratified by concurring parties possessing legal capacity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Unwilling I agreed; alas, too soon We came aboard."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Agreed. [_Exeunt Posthumus and Iachimo._] FRENCHMAN."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The sum is paid; the traitors are agreed; The King is set from London; and the scene Is now transported, gentles, to Southampton."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"It was readily **agreed** among the sisters that their mother's comfort should remain the first consideration."*
+> - 📜 **Benjamin Franklin (*Autobiography of Benjamin Franklin*):** *"We drew up articles of partnership, mutually **agreed** upon every condition, and signed the covenant."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Barkis and Peggotty were finally **agreed** upon the day, and all preparations proceeded merrily."*

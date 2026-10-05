@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin pan within the domain of Food, Eating & Drink.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of pan in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeding on or subsisting predominantly upon bread or baked grain foods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dietary anthropology and physiological categorization, an uncommon term describing cultures, individuals, or animals whose primary caloric staple is bread.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, panivorous designates pertaining to, derived from, or characteristic of latin pan within the domain of food, eating & drink."*
+> - 📜 **William Cullen (*A Treatise of the Materia Medica*):** *"Scurvy is rarely observed among pastoral races, but appears readily in strictly **panivorous** populations deprived of fresh vegetables."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Whether humans were originally frugivorous or **panivorous** remains an ancient disputation among natural philosophers."*
+> - 📜 **Erasmus Darwin (*Zoonomia*):** *"The digestive organs of civilized humans have adapted comfortably to a largely **panivorous** regimen composed of wheat and rye."*

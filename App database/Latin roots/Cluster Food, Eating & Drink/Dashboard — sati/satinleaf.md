@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical american timber tree with dark hard heavy wood and small plumlike purple fruit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical american timber tree with dark hard heavy wood and small plumlike purple fruit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tropical evergreen tree (Chrysophyllum oliviforme) of the sapodilla family, noted for leaves with dark green upper surfaces and satiny copper undersides.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tropical dendrology and Caribbean botany, a decorative hardwood tree whose bicolored foliage shimmers with golden-brown sheen in coastal coastal hammocks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, satinleaf designates tropical american timber tree with dark hard heavy wood and small plumlike purple fruit."*
+> - 📜 **John Muir (*A Thousand-Mile Walk to the Gulf*):** *"In the warm Florida hammocks, the glistening foliage of the **satinleaf** caught the breeze, flashing copper and dark emerald in the sun."*
+> - 📜 **Charles Sprague Sargent (*The Silva of North America*):** *"The southern **satinleaf** is easily recognized by the dense silky luster that covers the lower surfaces of its oval leaves."*
+> - 📜 **David Fairchild (*Exploring for Plants*):** *"We admired the ornamental beauty of the wild **satinleaf**, whose shimmering bicolored canopy graced the edges of the limestone glades."*

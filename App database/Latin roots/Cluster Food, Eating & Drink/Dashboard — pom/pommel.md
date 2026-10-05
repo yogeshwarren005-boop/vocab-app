@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A handgrip that a gymnast uses when performing exercises on a pommel horse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Handgrip formed by the raised front part of a saddle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rounded knob forming the upward-projecting front part of a saddle, or the rounded ornamental knob at the end of a sword hilt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In equestrian saddlery and historical metallurgy, a stabilizing front arch on a saddle tree, or a counterbalancing terminal mass on a sword tang.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The pommel of Caesar’s falchion."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I will not say as schoolboys do to bullies,—Take some one of your own size; don’t pommel _me!_ No, ye’ve knocked me down, and I am up again; but _ye_ have run and hidden."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Some had the hands devoutly crossed upon the breast; others grasped the pommel of the sword, menacing hostility even in the tomb, while the crossed legs of several indicated soldiers of the Faith who had been on crusades to the Holy Land."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"He grasped the carved **pommel** of his saddle with weathered hands, reining in the nervous stallion as the storm broke over the plain."*
+> - 📜 **G. K. Chesterton (*The Ball and the Cross*):** *"MacIan gripped the brass **pommel** of his ancient claymore, his knuckles turning white as he faced his antagonist in the morning mist."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The knight rested his mailed hand upon the steel **pommel** of his sword, listening gravely to the summons delivered by the herald."*

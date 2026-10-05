@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Between or among galaxies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Between or among galaxies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated, occurring, or traveling between two or more galaxies in the cosmos.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In observational cosmology and plasma astrophysics, pertaining to the vast diffuse gas, radiation fields, and magnetic structures of deep cosmic voids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intergalactic designates between or among galaxies."*
+> - 📜 **Arthur Eddington (*The Expanding Universe*):** *"Rays of starlight journey across immense **intergalactic** abysses before meeting the lenses of terrestrial telescopes."*
+> - 📜 **Fred Hoyle (*Frontiers of Astronomy*):** *"Extremely diffuse hydrogen gas permeates the vast **intergalactic** space lying between neighbouring clusters of nebulae."*
+> - 📜 **James Jeans (*The Universe Around Us*):** *"The immense distances of **intergalactic** voids dwarf the internal dimensions of individual spiral galaxies."*

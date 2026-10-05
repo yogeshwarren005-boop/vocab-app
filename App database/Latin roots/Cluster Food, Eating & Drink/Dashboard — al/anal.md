@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or related to the anus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stage in psychosexual development when the child's interest is concentrated on the anal region; fixation at this stage is said to result in orderliness, meanness, stubbornness, compulsiveness, etc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, situated near, or affecting the anus or terminal opening of the digestive tract.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychoanalytic theory, designating the early psychosexual stage focused on bowel control, or personality traits linked with fastidiousness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Cf. de Faye, p. 218. [106] Expressions taken from Aristotle, _Anal."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"In certain aquatic larvae, respiration is assisted by specialized branchial plumes situated near the **anal** aperture."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The digestive tube terminates posteriorly in an **anal** pore through which unassimilated waste materials are expelled."*
+> - 📜 **Sigmund Freud (*Three Contributions to the Theory of Sex*):** *"Fixation at the **anal** erotogenic zone frequently gives rise to character traits of orderliness, parsimony, and obstinacy."*

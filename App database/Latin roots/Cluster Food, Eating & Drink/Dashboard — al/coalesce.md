@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mix together different elements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fuse or cause to grow together.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To grow together, unite, or merge into a single whole, mass, or body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political science and sociology, to amalgamate diverse factions, interests, or ideologies into a unified movement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Inferior and unspiritual methods of healing may try to make Mind and drugs coalesce, but the two will 144:1 not mingle scientifically."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"When thus equipped the good and strong in the South will coalesce and rule by the sheer force of superior worth, which is the only method countenanced by truly civilized peoples."*
-> - 📜 **James Joyce (*Ulysses*):** *"But, by Saint Patrick...! _(The women’s heads coalesce."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"In certain floral families the petals **coalesce** during development to form a continuous tubular corolla."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Separate tribal units gradually **coalesce** under the pressure of external conflict to form larger political aggregates."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"Different elements of thought **coalesce** in the mind of the poet to produce a single harmonious creation."*

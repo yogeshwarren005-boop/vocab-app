@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having been satisfied.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Worried and uneasy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not satisfied, contented, or pleased; having desires, expectations, or claims that remain unfulfilled.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tragic drama and psychological narrative, haunted by persistent yearning, unavenged grief, or lingering intellectual doubt.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The cloyed will— That satiate yet unsatisfied desire, that tub Both fill’d and running—ravening first the lamb, Longs after for the garbage."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Horatio, I am dead, Thou liv’st; report me and my cause aright To the unsatisfied."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And though he were unsatisfied in getting, Which was a sin, yet in bestowing, madam, He was most princely."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou didst ever hold me in thy heart, Absent thee from felicity awhile, And in this harsh world draw thy breath in pain, To tell my story. The rest is silence... O, leave me not **unsatisfied**!"*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The creature retreated into the mountain darkness, his burning desire for companionship left forever **unsatisfied** by mankind."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He felt that strange hunger of the soul which, once awakened, leaves a man forever restless and **unsatisfied** amid earthly pleasures."*

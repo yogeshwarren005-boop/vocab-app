@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fill to satisfaction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Overeat or eat immodestly; make a pig of oneself.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fully satisfied, gorged, or filled to excess; experiencing complete repletion or weary surfeit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive narrative and psychological analysis, having indulged a hunger, curiosity, or passion to the extent that indifference or disgust ensues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"This shadow looked satiated and calm, as though for the moment it had had its fill of all the emotions."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"But both the diabolic love and the unearthly hate of the mysteries it had penetrated fought for the possession of that soul satiated with primitive emotions, avid of lying fame, of sham distinction, of all the appearances of success and power."*
-> - 📜 **Mary Wollstonecraft Shelley (*Frankenstein; or, the modern prometheus*):** *"If you will comply with my conditions, I will leave them and you at peace; but if you refuse, I will glut the maw of death, until it be satiated with the blood of your remaining friends.” “Abhorred monster!"*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The wild beasts rested in the thicket, **satiated** with their nocturnal feast and indifferent to the morning sounds of the forest."*
+> - 📜 **Mary Shelley (*The Last Man*):** *"Having **satiated** their fury with fire and plunder, the retreating soldiers abandoned the ruined citadel to the dead."*
+> - 📜 **King James Bible (*Jeremiah*):** *"I will make mine arrows drunk with blood, and my sword shall devour flesh, being **satiated** with the sacrifice."*

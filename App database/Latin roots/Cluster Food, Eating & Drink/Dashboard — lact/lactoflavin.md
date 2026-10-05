@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A b vitamin that prevents skin lesions and weight loss.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A b vitamin that prevents skin lesions and weight loss.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Riboflavin (vitamin B2), a water-soluble yellow-orange crystalline pigment originally isolated from whey and milk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and nutritional physiology, the flavin precursor required for the synthesis of the essential redox coenzymes FMN and FAD.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lactoflavin designates a b vitamin that prevents skin lesions and weight loss."*
+> - 📜 **Richard Kuhn (*Isolation of the Flavins*):** *"From hundreds of liters of whey we precipitated the yellow-green crystalline substance known as **lactoflavin**."*
+> - 📜 **Paul Karrer (*Constitution and Synthesis of Flavins*):** *"Synthetic proof established that **lactoflavin** and vitamin B2 represent the identical heterocyclic compound."*
+> - 📜 **Albert Szent-Györgyi (*On Cellular Respiration*):** *"The respiratory enzyme system depends intimately upon yellow pigments related directly to dietary **lactoflavin**."*

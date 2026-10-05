@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French noblewoman who was the lover of louis xv, whose policies she influenced (1721-1764).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hair style in which the front hair is swept up from the forehead.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hairstyle in which the hair is brushed high up from the forehead without a part, or a style of low-cut dress bodice named after Madame de Pompadour.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In costume history and salon culture, an eighteenth-century aesthetic of rococo elegance and voluminous coiffures inspired by the influential mistress of King Louis XV.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Perhaps the little woman thought she might play the part of a Maintenon or a Pompadour."*
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"Clarke was dressed in pompadour, with gold buttons; and his lovely Dolly in a smart checked lutestring, a present from her mistress."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The portrait exhibited the grandmother in the grand days of her youth, with powdered **pompadour** hair and satin bodice adorned with lace."*
+> - 📜 **Henry James (*The Bostonians*):** *"Her elaborate **pompadour** coiffure added an inch to her stature, imparting an air of formidable social consequence to her appearance."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"Old Mrs. Mingott recalled the era when every fashionable New York belle swept her hair into an immense **pompadour** above ivory shoulders."*

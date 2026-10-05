@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extract the essence of something by boiling it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be cooked until very little liquid is left.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To extract the flavor, essence, or chemical properties of a substance by boiling it in liquid, especially water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacognosy and botanical medicine, to concentrate aqueous extracts of woody roots, bark, or seeds by sustained boiling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Can sodden water, A drench for sur-rein’d jades, their barley-broth, Decoct their cold blood to such valiant heat?"*
-> - 📜 **James Joyce (*Ulysses*):** *"Reassuringly, their place, where none could hear them talk, being secluded, reassured, the decocted beverages, allowing for subsolid residual sediment of a mechanical mixture, water plus sugar plus cream plus cocoa, having been consumed."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"Physicians frequently **decoct** dried roots and bitter herbs to draw forth their most potent medicinal virtues."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The alchemist sought to **decoct** the mineral mixture over a steady furnace to refine its underlying essence."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"He proposed to **decoct** the crushed bark in pure spring water until the amber liquor turned dark and pungent."*

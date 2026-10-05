@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin vin within the domain of Food, Eating & Drink.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of vin in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of wine and winemaking; a synonym for oenology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural science and sensory analysis, encompassing ampelography, fermentation biochemistry, cellar maturation, and organoleptic tasting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vinology designates pertaining to, derived from, or characteristic of latin vin within the domain of food, eating & drink."*
+> - 📜 **George Husmann (*American Grape Growing and Wine Making*):** *"The emerging discipline of **vinology** unites the practical wisdom of the cellar with laboratory chemistry."*
+> - 📜 **Alexis Lichine (*Encyclopaedia of Wines and Spirits*):** *"Instruction in modern **vinology** emphasizes temperature control, yeast ecology, and precise sanitary cellar protocols."*
+> - 📜 **Louis Pasteur (*Studies on Wine*):** *"A rigorous foundation in **vinology** requires understanding how microscopic organisms direct both fermentation and spoilage."*

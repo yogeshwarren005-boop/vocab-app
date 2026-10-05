@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a satisfactory manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a satisfactory manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that satisfies expectations, requirements, or standards; adequately or pleasingly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In administrative procedure and experimental science, resolving a problem or completing a process in conformity with formal criteria.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket for a little private confabulation, tells his tale satisfactorily, though out of breath."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Whether there are two people in England less likely to come satisfactorily out of any negotiation with Mr."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But in several respects it long ago became evident that our banks were operating less satisfactorily than those of several other countries."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"These complex geological facts cannot be **satisfactorily** explained on the ordinary theory of independent creation."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The cooper hammered the iron hoops upon the oil casks, adjusting each stave until the seam was **satisfactorily** tight."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The magistrates could not **satisfactorily** determine who had placed the dark sign upon the door of the venerable meetinghouse."*

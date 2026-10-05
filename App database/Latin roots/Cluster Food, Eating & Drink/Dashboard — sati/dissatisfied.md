@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fail to satisfy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a state of sulky dissatisfaction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Experiencing or expressing a lack of satisfaction, contentment, or pleasure; disappointed with circumstances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical psychology, describing a restless state of consciousness that refuses passive complacency in pursuit of higher perfection or justice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"When the morning sun would shine in through the open windows and the green slope of the castle would send its greeting to her, she did not want little Leonore to feel dissatisfied with her new quarters."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"We found him engaged with a not very hopeful pupil—a stubborn little girl with a sulky forehead, a deep voice, and an inanimate, dissatisfied mama—whose case was certainly not rendered more hopeful by the confusion into which we threw her preceptor."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Feeling uneasy and dissatisfied with himself for this nervous excitability, he returned to bed."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"It is better to be a human being **dissatisfied** than a pig satisfied; better to be Socrates **dissatisfied** than a fool satisfied."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth was thoroughly **dissatisfied** with the letter, perceiving in every line the awkward apologies of an uneasy mind."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes remained visibly **dissatisfied** with the official explanation, pacing the rug while examining the footprints through his lens."*

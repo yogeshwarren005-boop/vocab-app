@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having been satisfied.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having been satisfied.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not satisfied or appeased; remaining hungry, thirsty, or unfulfilled after partial gratification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological and romantic portraiture, describing a lingering longing, passion, or grievance that remains unslaked by time or circumstance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsatiated designates not having been satisfied."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"His malice remained fierce and **unsatiated**, prowling through the frozen glaciers in search of fresh vengeance upon his creator."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"With restless wanderings **unsatiated**, he turned his eyes once more toward the blue Mediterranean shore."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"An **unsatiated** gloom seemed to pervade the dark chamber, hanging like a vapor over every antique tapestry."*

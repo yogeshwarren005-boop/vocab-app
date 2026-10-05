@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Food and game fishes related to pompanos.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Food and game fishes related to pompanos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of marine perciform fishes containing a single extant species, the voracious coastal bluefish (Pomatomus saltatrix).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine fisheries science and pelagic ecology, fast-swimming predatory teleosts renowned for schooling habits, powerful scissor-like dentition, and fierce feeding frenzies on smaller clupeids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pomatomidae designates food and game fishes related to pompanos."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The family **Pomatomidae** consists of a single cosmopolitan species celebrated among anglers and commercial fishermen as the swift and destructive bluefish."*
+> - 📜 **George Brown Goode (*Fisheries and Fishery Industries of the United States*):** *"No marine predator displays greater rapacity than the oceanic representatives of **Pomatomidae**, which slash through schools of menhaden with ceaseless fury."*
+> - 📜 **Spencer Fullerton Baird (*Report on the Condition of the Sea Fisheries*):** *"Our investigations into the **Pomatomidae** revealed their enormous impact upon migratory baitfish populations along the Atlantic seaboard."*

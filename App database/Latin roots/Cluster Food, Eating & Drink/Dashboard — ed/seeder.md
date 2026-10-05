@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who seeds clouds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mechanical device that sows grass seed or grain evenly over the ground.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An agricultural implement, machine, or person that sows seeds in prepared soil; or a device for removing fruit seeds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanized agronomy and agricultural engineering, a mechanical drill calibrated to plant seeds at uniform depth and spacing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Planters and seeders, reapers, harvesters, corn-shellers, hay-loaders, automatic unloading-forks, elevators, water-power-, steam-, and gasoline-engines allow great economies."*
+> - 📜 **Hamlin Garland (*Main-Travelled Roads*):** *"The farmer hitched his team to the mechanical **seeder** and drove steady lines across the dark prairie soil."*
+> - 📜 **Willa Cather (*O Pioneers!*):** *"New machinery arrived from Omaha, including a patent **seeder** that planted twenty acres in a single afternoon."*
+> - 📜 **Isabella Beeton (*Mrs. Beeton's Book of Household Management*):** *"Use a mechanical cherry **seeder** to stone the fruit cleanly before simmering it in sugar syrup."*

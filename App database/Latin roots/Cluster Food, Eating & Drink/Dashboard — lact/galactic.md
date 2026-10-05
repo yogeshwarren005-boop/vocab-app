@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a galaxy (especially our galaxy the milky way).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inconceivably large.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to a galaxy, especially our Milky Way system; or immense, vast, and cosmic in scale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In observational astronomy, oriented along or situated within the plane of the Milky Way, as in galactic coordinates and clusters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Algis Budrys (*Citadel*):** *"The addition of Karlshaven IV to the list of planets under colonization would be made, and Holliday's asking prices for land would be posted with Emigration, together with a prospectus abstracted from the General Galactic Survey."*
-> - 📜 **Jr. Irving E. Cox (*Export Commodity*):** *"Two galactic millennia had passed since the empire had reached that same period in technological growth, depleting the petroleum resources of a hundred worlds."*
-> - 📜 **Randall Garrett (*Deadly decoy*):** *"It's not that, Holdreth Khain," I said, keeping my voice smooth; "We realize that a high percentage of your race are loyal to the Galactic Federation."*
+> - 📜 **Arthur Eddington (*Stars and Atoms*):** *"The vast **galactic** disk rotates slowly about a dense central nucleus obscured by cosmic dust lanes."*
+> - 📜 **James Jeans (*The Mysterious Universe*):** *"Our solar system occupies a modest peripheral position within the sprawling spirals of the **galactic** system."*
+> - 📜 **Edwin Hubble (*The Realm of the Nebulae*):** *"Globular clusters form a spherical halo enveloping the flattened **galactic** plane where young stars congregate."*

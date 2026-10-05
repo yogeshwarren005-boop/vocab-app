@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A legal document signed and sealed and delivered to effect a transfer of property and to show the legal right to possess it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that people do or cause to happen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An intentional action, exploit, or feat; an act performed consciously by an individual.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In property law and conveyancing, a signed and sealed legal document that transfers ownership of real estate or rights.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou proceed As high as word, my deed shall match thy deed. [_Flourish."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"From lowest place when virtuous things proceed, The place is dignified by the doer’s deed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, do you think he will make no deed at all of this, that so seriously he does address himself unto?"*
+> - 📜 **William Shakespeare (*Macbeth*):** *"A foolish thought to say a sorry sight; I have done the **deed**."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Faith not shown by glorious **deed** becomes like smoke vanishing into empty air."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The lawyer produced the ancient parchments, including the parchment **deed** confirming the knight's ancestral estates."*

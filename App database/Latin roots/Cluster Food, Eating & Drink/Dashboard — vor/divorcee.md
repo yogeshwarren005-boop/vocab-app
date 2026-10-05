@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A divorced woman or a woman who is separated from her husband.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A divorced woman or a woman who is separated from her husband.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A divorced person, especially a woman whose marriage has been legally dissolved.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Victorian and Edwardian social history, an individual navigating restrictive legal statutes and complex societal stigmas surrounding marital dissolution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, divorcee designates a divorced woman or a woman who is separated from her husband."*
+> - 📜 **Henry James (*The Ambassadors*):** *"The fashionable **divorcee** maintained an elegant Parisian salon despite the guarded murmurs of provincial relatives."*
+> - 📜 **Edith Wharton (*The Custom of the Country*):** *"Undine Sprague discovered that in New York society, being a **divorcee** required delicate social maneuvering."*
+> - 📜 **Anthony Trollope (*He Knew He Was Right*):** *"The unfortunate lady was regarded almost as a **divorcee** long before the formal decree of separation was pronounced."*

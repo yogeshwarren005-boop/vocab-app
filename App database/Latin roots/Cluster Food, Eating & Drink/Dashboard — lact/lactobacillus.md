@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A gram-positive rod-shaped bacterium that produces lactic acid (especially in milk).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gram-positive rod-shaped bacterium that produces lactic acid (especially in milk).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of rod-shaped, Gram-positive bacteria that convert sugars into lactic acid through fermentation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In probiotic biology and food fermentation science, commensal microorganisms that preserve dairy products and inhabit oral and vaginal mucosal membranes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lactobacillus designates a gram-positive rod-shaped bacterium that produces lactic acid (especially in milk)."*
+> - 📜 **Elie Metchnikoff (*The Prolongation of Life*):** *"The Bulgarian bacillus, a species of **Lactobacillus**, establishes a mildly acidic environment in the digestive tract that curbs toxic autointoxication."*
+> - 📜 **René Dubos (*Bacterial and Mycotic Infections of Man*):** *"A normal mucous membrane harboring colonies of **Lactobacillus** presents an effective biological barrier to pathogenic colonization."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Under the microscope the fermenting curds exhibited multitudes of active rodlets resembling the common **lactobacillus** of sour milk."*

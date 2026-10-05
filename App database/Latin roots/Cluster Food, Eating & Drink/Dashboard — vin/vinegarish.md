@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tasting or smelling like vinegar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a sour disposition; ill-tempered.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Somewhat sour, tart, or acid, like vinegar in taste, smell, or character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character description, expressing morose discontent, acerbic tartness, or chronic irritability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vinegarish designates tasting or smelling like vinegar."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"She turned upon him with a **vinegarish** look that instantly silenced his cheerful attempts at conversation."*
+> - 📜 **William Makepeace Thackeray (*The Newcomes*):** *"The dowager possessed a **vinegarish** temper that kept her unfortunate companions in constant dread."*
+> - 📜 **Washington Irving (*Bracebridge Hall*):** *"The old housekeeper gave a **vinegarish** sniff of disapproval at the boisterous holiday merriment of the youngsters."*

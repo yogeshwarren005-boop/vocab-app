@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a shameful manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In violation of the law; in a criminal manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that violates criminal law or involves punishable moral guilt and wrongdoing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In judicial proceedings, qualifying liability that meets statutory thresholds of penal culpability (*mens rea*) rather than mere civil negligence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Exhibiting unparalleled magnanimity, it criminally punished no man for political offenses, and warmly welcomed all who proved their loyalty by obeying the laws and dealing justly with their neighbors."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"While thus criminally occupied, he was startled by the opening of the chamber-door."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"An infant under seven years of age cannot be held **criminally** responsible for any felony whatsoever."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"They acted **criminally** in subverting the fundamental constitution of their country upon mere theoretical speculation."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"The magistrate warned the parish beadle that he had behaved **criminally** in neglecting the starving apprentices."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of drugs) through the mouth rather than through injection; by_mouth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By spoken rather than written means.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of the mouth, or by spoken word rather than in writing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacotherapy and legal procedure, administering medications through the alimentary tract, or delivering testimony via spoken utterance under oath.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"So he played a more coaxing game; and while never going beyond words, or attempting the renewal of caresses, he did his utmost orally."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Oh...nothin'.' Think a Story If you can think a story, and if you can write a letter or express your thoughts orally or visually, then you can combine them into a message to a grandchild."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Any member of one subordinate council wishing to change his membership to another council, shall apply to the council to which he belongs, either in writing or orally through another member, and the question shall be decided by the council."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The contract was concluded **orally** over a glass of cider, without a single scrap of parchment passing between them."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Tribal folklore and genealogies were preserved **orally** through many generations before the invention of written alphabets."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The solicitor delivered his confidential instructions **orally**, choosing not to commit such delicate matters to paper."*

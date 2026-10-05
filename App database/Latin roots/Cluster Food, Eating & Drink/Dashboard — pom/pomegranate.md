@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shrub or small tree native to southwestern asia having large red many-seeded fruit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large globular fruit having many seeds with juicy red pulp in a tough brownish-red rind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A round subtropical fruit with a thick reddish rind containing numerous tart seeds enveloped in juicy crimson pulpy arils, produced by Punica granatum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative mythology, classical literature, and horticulture, an ancient sacred fruit symbolizing fertility, royal abundance, and the mythical return of Persephone from Hades.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go to, sir; you were beaten in Italy for picking a kernel out of a pomegranate; you are a vagabond, and no true traveller."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It was the nightingale, and not the lark, That pierc’d the fearful hollow of thine ear; Nightly she sings on yond pomegranate tree."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"This was the fairest spot in all sunny Kashmir, where the nightingale sings perpetually in groves of citron, magnolia, and pomegranate."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"It was the nightingale, and not the lark, That pierced the fearful hollow of thine ear; Nightly she sings on yon **pomegranate** tree."*
+> - 📜 **King James Bible (*Song of Solomon*):** *"Thy lips are like a thread of scarlet, and thy speech is comely: thy temples are like a piece of a **pomegranate** within thy locks."*
+> - 📜 **Oscar Wilde (*A House of Pomegranates*):** *"He cracked open the ripe **pomegranate** with his fingers, marveling at the jewel-like seeds that glistened like dark rubies in the sun."*

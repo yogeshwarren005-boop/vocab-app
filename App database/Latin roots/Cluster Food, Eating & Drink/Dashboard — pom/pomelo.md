@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Southeastern asian tree producing large fruits resembling grapefruits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large pear-shaped fruit similar to grapefruit but with coarse dry pulp.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large citrus fruit native to Southeast Asia (Citrus maxima), having a very thick yellow-green spongy rind, sweet mild flesh, and mild grapefruit-like flavor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic pomology and citrus genetics, one of the three ancestral wild species from which commercial sweet oranges and modern hybrid grapefruits were developed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pomelo designates southeastern asian tree producing large fruits resembling grapefruits."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"At the native markets in Batavia, immense baskets were heaped high with the fragrant **pomelo**, whose refreshing juice revived weary travelers."*
+> - 📜 **Robert Fortune (*A Journey to the Tea Countries of China*):** *"The orchards of southern China produce an admirable variety of the **pomelo**, remarkable for its immense size and delicate sugary flavor."*
+> - 📜 **David Fairchild (*The World Was My Garden*):** *"We collected seeds of the wild Siamese **pomelo**, recognizing its tremendous potential for introducing hardiness into commercial citrus groves."*

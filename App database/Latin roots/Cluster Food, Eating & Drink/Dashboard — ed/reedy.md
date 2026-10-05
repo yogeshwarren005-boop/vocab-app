@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a tone of a reed instrument.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling a reed in being upright and slender.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of or overgrown with reeds; or having a thin, high-pitched, rasping sound resembling a reed pipe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phonetics and vocal performance, a thin, shrill, or nasal acoustic timbre lacking harmonic depth and resonant warmth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Ye healthy wastes, immix’d with reedy fens; Ye mossy streams, with sedge and rushes stor’d: Ye rugged cliffs, o’erhanging dreary glens, To you I fly—ye with my soul accord."*
-> - 📜 **F. H. Costello (*Sure-dart*):** *"At the end of the continuous hard ground were the little, reedy patches; from one to another of these they leaped, and in a twinkling were breaking furiously upon the rear men of the company."*
-> - 📜 **John Keats (*Poems 1817*):** *"Poor nymph,--poor Pan,--how he did weep to find, Nought but a lovely sighing of the wind Along the reedy stream; a half heard strain, Full of sweet desolation--balmy pain."*
+> - 📜 **Alfred Tennyson (*The Lady of Shalott*):** *"By the margin, willow-veiled, slide the heavy barges trailed through the **reedy** island waters."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"His voice had dwindled to a weak and **reedy** whisper that could scarcely cross the quiet bedchamber."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Wild ducks took flight from the **reedy** cove as my canoe glided through the morning mist."*

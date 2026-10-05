@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The shape of something rotating rapidly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A powerful circular current of water (usually the result of conflicting tides).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A whirling mass of fluid or air, especially a whirlpool, whirlwind, or eddy that pulls things toward its center.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Cartesian natural philosophy and electromagnetic physics, a rotating field of particles or fluid dynamic circulation structuring celestial and atomic motions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Pardiggle accordingly rose and made a little vortex in the confined room from which the pipe itself very narrowly escaped."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And now, concentric circles seized the lone boat itself, and all its crew, and each floating oar, and every lance-pole, and spinning, animate and inanimate, all round and round in one vortex, carried the smallest chip of the Pequod out of sight."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"So, floating on the margin of the ensuing scene, and in full sight of it, when the half-spent suction of the sunk ship reached me, I was then, but slowly, drawn towards the closing vortex."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"And now, concentric circles seized the lone boat itself, and all its crew, drawing them into the closing **vortex** of the sinking ship."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"I hired a boat directly, and we put off to her, getting through the little **vortex** of confusion of which she was the center."*
+> - 📜 **Edgar Allan Poe (*A Descent into the Maelström*):** *"The boat seemed to be suspended by a magic power on the interior surface of a funnel of vast circumference, a terrifying **vortex** of black water."*

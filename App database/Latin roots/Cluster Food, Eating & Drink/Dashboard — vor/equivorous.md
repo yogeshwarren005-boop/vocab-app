@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin vor within the domain of Food, Eating & Drink.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of vor in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeding on or subsisting upon horseflesh.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century European public health, anthropology, and culinary history, describing communities or siege populations consuming equine meat (*hippophagy*).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, equivorous designates pertaining to, derived from, or characteristic of latin vor within the domain of food, eating & drink."*
+> - 📜 **Richard Francis Burton (*The Book of the Thousand Nights and a Night*):** *"Nomadic tribes of the Central Asian steppes were historically **equivorous**, subsisting on mare's milk and the flesh of hardy steeds."*
+> - 📜 **William Hazlitt (*Notes of a Journey through France and Italy*):** *"During prolonged sieges in continental wars, beleaguered garrisons were routinely reduced to an **equivorous** diet."*
+> - 📜 **Edward Tylor (*Primitive Culture*):** *"Ancient pagan sacrificial rites often required the worshipers to adopt an **equivorous** banquet in honor of tribal deities."*

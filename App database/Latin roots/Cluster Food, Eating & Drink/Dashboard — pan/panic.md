@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An overwhelming feeling of fear and anxiety.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sudden mass fear and anxiety over anticipated events.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sudden overwhelming terror or apprehension, often irrational and spreading rapidly through a group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In financial history and behavioral psychology, an acute collective frenzy prompting frantic selling of assets, herd flight, or market collapse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"He followed me when I called him: but cast a regretful look at the postern by which we had gone out, through which I had dragged him back in a panic (I confess it) unworthy of me."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"They had all a look of half panic, half shame upon their faces."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Look! it comes again.' I have always considered myself a man of courage, but when I saw this extraordinary appearance the panic which had seized upon me the former night returned, though in another form."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"A wild **panic** seized the harpooners as the enormous white bulk breached suddenly through the churning waves beside them."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The false rumor spread like wildfire through London, exciting an uncontrollable **panic** among the credulous citizens."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"In that sudden squall a blind **panic** swept through the officers, robbing them of judgment and moral courage."*

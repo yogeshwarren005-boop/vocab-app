@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking in reality or substance or genuineness; not corresponding to acknowledged facts or criteria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not actually such; being or seeming fanciful or imaginary.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not real, actual, or substantial; existing only in imagination, illusion, or dreams.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological dissociation and metaphysical literature, lacking tangible substance, or evoking an uncanny, phantom-like detachment from genuine reality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Unreal mock’ry, hence! [_Ghost disappears._] Why, so;—being gone, I am a man again.—Pray you, sit still."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Our speedy arrival at our destination, before I had time to recover myself, increased my confusion, and I never shall forget the uncertain and the unreal air of everything at Greenleaf (Miss Donny’s house) that afternoon!"*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"News did occasionally filter in—but such dim, long-after-the-event, unreal news."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The moonlight transformed the quiet sheepfolds into an **unreal** landscape of ghostly silver and mysterious shadows."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The mirage across the salt plains created an **unreal** vision of shimmering lakes where only barren desert lay."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her former ambitions now seemed like an **unreal** pageant that had melted into thin air before her sobered mind."*

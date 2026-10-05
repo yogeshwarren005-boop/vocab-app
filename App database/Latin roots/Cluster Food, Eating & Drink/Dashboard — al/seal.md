@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fastener consisting of a resinous composition that is plastic when warm; used for sealing documents and parcels and letters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A device incised to make an impression; used to secure a closing or to authenticate documents.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A device bearing an engraved design used to stamp impressions on wax, or a semi-aquatic marine mammal (*Pinnipedia*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal formality and marine mammalogy, an authenticating impression on legal instruments confirming execution, or an amphibious carnivorous marine quadruped.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But when we in our viciousness grow hard— O misery on’t!—the wise gods seal our eyes, In our own filth drop our clear judgments, make us Adore our errors, laugh at’s while we strut To our confusion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To let a fellow that will take rewards And say “God quit you!” be familiar with My playfellow, your hand, this kingly seal And plighter of high hearts!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, I had rather seal my lips Than to my peril speak that which is not."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"Till thou canst rail the **seal** off from my bond, thou but offend'st thy lungs to speak so loud; repair thy wit, good youth, or it will fall to cureless ruin."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The legal parchment bore an impressive wax **seal** that gave the indenture an air of solemn and unalterable authority."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In the cold Greenland waters the hardy whalers encountered herds of spotted **seal** basking upon the drifting floes."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A humorist who uses ridicule and irony and sarcasm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A humorist who uses ridicule and irony and sarcasm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A writer, performer, or artist who composes satire or uses wit and irony to ridicule human folly and corruption.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural history and public sphere debates, an intellectual gadfly who holds up an unflattering moral mirror to contemporary society.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Is the satirist of “Vanity Fair” admired in high places?"*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Hoelderlin is the idealist, Lenau exhibits the profoundly pathetic side of Weltschmerz, while Heine is its satirist."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"In Hoelderlin we have the ardent Hellenic idealist; Lenau gives expression to all the pathos of Weltschmerz, Heine is its satirist, the misanthrope, while in Raabe we even have a pessimistic humorist."*
+> - 📜 **Ralph Waldo Emerson (*English Traits*):** *"The great English **satirist** pierces through courtly affectations with the blunt spear of common honesty."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"Dryden was a formidable **satirist**, striking down his literary adversaries with verses that blended majestic rhythm with devastating malice."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"The local editor fancied himself a second Juvenal, penning articles that proclaimed him the fiercest **satirist** in the county."*

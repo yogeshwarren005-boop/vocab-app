@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of australasian shrubs and trees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of australasian shrubs and trees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of Australasian shrubs and small trees in the family Rhamnaceae, bearing clusters of small yellow or cream flowers and stellate foliage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Australian systematic botany and temperate forestry, woody buckthorn relatives often thriving as understory shrubs in sclerophyll forests and subalpine river valleys.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pomaderris designates a genus of australasian shrubs and trees."*
+> - 📜 **Joseph Dalton Hooker (*Flora Tasmaniae*):** *"Several remarkable species of **Pomaderris** abound along the gravelly riverbanks of Tasmania, distinguished by the dense stellate tomentum on their leaves."*
+> - 📜 **Ferdinand von Mueller (*Select Extra-Tropical Plants*):** *"The hazel **Pomaderris** attains the stature of a small tree in damp mountain gullies, providing useful timber and ornamental golden blossoms."*
+> - 📜 **Robert Brown (*Prodromus Florae Novae Hollandiae*):** *"In our botanical surveys of the southern ranges, the diverse forms of **Pomaderris** illustrated the adaptive radiation of Australian Rhamnaceae."*

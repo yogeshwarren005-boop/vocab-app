@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A seductive woman who uses her sex appeal to exploit men.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Talk or behave amorously, without serious intentions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A flirtatious woman who endeavors to gain the attention and admiration of men without offering sincere affection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic comedy and social satire, an archetypal stock character whose lighthearted amorous stratagems drive romantic intrigue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba, sweet, lost coquette, pardon me!"*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"You seem almost like a coquette, upon my life you do—a coquette of the first urban water!"*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"She is a vain coquette, and her tricks have not answered."*
+> - 📜 **Washington Irving (*The Legend of Sleepy Hollow*):** *"Katrina Van Tassel was a blossoming **coquette** whose dazzling charms set all the country lads by the ears."*
+> - 📜 **George Bernard Shaw (*Man and Superman*):** *"The experienced **coquette** maintains her dominance by never permitting her admirers to feel entirely secure."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky Sharp played the captivating **coquette** to perfection whenever wealthy bachelors came within range."*

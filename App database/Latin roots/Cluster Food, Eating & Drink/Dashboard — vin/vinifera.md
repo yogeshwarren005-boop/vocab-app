@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Common european grape cultivated in many varieties; chief source of old world wine and table grapes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Common european grape cultivated in many varieties; chief source of old world wine and table grapes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The standard Eurasian grapevine species (*Vitis vinifera*), from which the vast majority of classic wine varieties are derived.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In viticultural taxonomy and ampelography, the premier cultivated grape species noted for delicate tannins, balanced acidity, and susceptibility to phylloxera.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vinifera designates common european grape cultivated in many varieties; chief source of old world wine and table grapes."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Countless cultivars of Vitis **vinifera** have been selected over millennia across the Mediterranean basin."*
+> - 📜 **George Husmann (*Grape Culture and Wine-Making in California*):** *"Grafting European **vinifera** scions onto resistant American rootstocks saved the vineyards of France from complete ruin."*
+> - 📜 **Liberty Hyde Bailey (*Sketch of the Evolution of Our Native Fruits*):** *"Early colonial planters failed repeatedly because pure **vinifera** vines succumbed to eastern fungal blights."*

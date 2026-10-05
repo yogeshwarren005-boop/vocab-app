@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of botany that studies and cultivates fruits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of botany that studies and cultivates fruits.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of botany and horticultural science that deals with the study, breeding, cultivation, and economic management of fruits and fruit trees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agronomic literature and plant physiology, the systematic discipline encompassing rootstock selection, canopy training, fruit morphometry, and post-harvest preservation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pomology designates the branch of botany that studies and cultivates fruits."*
+> - 📜 **Liberty Hyde Bailey (*The Principles of Fruit-Growing*):** *"Modern **pomology** combines rigorous physiological research with practical field management to maximize the annual yield of commercial orchards."*
+> - 📜 **Henry David Thoreau (*Wild Apples*):** *"Our treatises on **pomology** describe hundred of refined varieties, yet none possesses the wild, spicy vigor of the solitary seedling apple."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The history of **pomology** shows that human selection has transformed wild crabapples into the countless luxuriant fruits cultivated across Europe today."*

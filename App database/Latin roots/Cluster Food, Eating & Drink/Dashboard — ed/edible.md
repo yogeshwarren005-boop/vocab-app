@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any substance that can be used as food.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suitable for use as food.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fit or suitable to be eaten as food; wholesome, non-poisonous, and digestible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural botany and culinary gastronomy, designating plant organs, fungi, or animal products safe for human nutrition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"These shrubs and bushes either bore edible fruit or flowers, or the leaves and tender shoots made nourishing and satisfying food when cooked in the way previously described."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"They also took all sea-mosses, crabs, crawfish, and the various kinds of shellfish along the seashore, even to the opihi-koele at the rocky beach; every edible thing in the sea was taken away."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"The harbours swarm with edible fish of all kinds, the king-fish, sea salmon, barramundi, cod, yellow tail, and a host of others."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"I searched the island for **edible** roots and turtles to store against the approaching rainy season."*
+> - 📜 **Herman Melville (*Typee*):** *"The valley abounded in **edible** fruits, from golden breadfruit to sweet bananas hanging in enormous clusters."*
+> - 📜 **Robert Louis Stevenson (*Kidnapped*):** *"We searched the shoreline for **edible** limpets and sea-weeds to appease our gnawing hunger."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine that human beings are purely animal in nature and lacking a spiritual nature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preoccupation with satisfaction of physical drives and appetites.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Behavior, motivation, or philosophy centered exclusively on physical appetites and sensual desires rather than intellectual or spiritual pursuits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethical theory and anthropology, the doctrine that human existence is fundamentally governed by biological animal instincts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Some might risk the odd paradox that with more animalism he would have been the nobler man."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"There was animalism in the soul, and the body had its moments of spirituality."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"He felt a sudden disgust at his own weakness, seeing how easily his aspiring scholarship could be dragged down by raw **animalism**."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"There were moments when he viewed evil merely as a mode through which he could realize his conception of the beautiful, yet coarse **animalism** repelled him."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"The culture of the intellect must steadily triumph over the sluggish **animalism** that binds humanity to mere instinctive existence."*

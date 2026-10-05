@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a convincing manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a convincing manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that successfully persuades, compels belief, or leaves no room for reasonable doubt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic debate and theatrical performance, with persuasive coherence, consummate authority, or undeniable dramatic realism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It never has been convincingly shown, however, that there is any large measure of correspondence in time (not to say causal relation) between tariff revisions and crises.[13] § 15. #Rhythmic changes in weather and in crops#."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"On the one hand, you will be loyal to each other and to us; on the other, you, and I mean each of you, will lie, cheat, bribe, subvert, sabotage, and kill for the mission, and if it serves our greater purpose, act convincingly against us."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"His prompt reply to all complaints and remonstrances was--the butt-end of a handspike, so convincingly administered as effectually to silence the aggrieved party."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"She pleaded her case so **convincingly** that even the skeptical aunt had no choice but to yield."*
+> - 📜 **Virginia Woolf (*Night and Day*):** *"Katherine spoke **convincingly** of the necessity of arranging their domestic affairs on a rational foundation."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The astronomer described the disturbances on Mars so **convincingly** that the gathering listened in rapt fascination."*

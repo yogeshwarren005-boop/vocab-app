@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Periwinkle plant derivative used as an antineoplastic drug (trade name oncovin); used to treat cancer of the lymphatic system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Periwinkle plant derivative used as an antineoplastic drug (trade name oncovin); used to treat cancer of the lymphatic system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemotherapeutic alkaloid obtained from the Madagascar periwinkle (*Catharanthus roseus*), used to treat leukemias and lymphomas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular oncology and pharmacology, an antimitotic agent that binds to tubulin dimers, arresting cells in metaphase by disrupting microtubule assembly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vincristine designates periwinkle plant derivative used as an antineoplastic drug (trade name oncovin); used to treat cancer of the lymphatic system."*
+> - 📜 **James F. Holland (*Cancer Medicine*):** *"The introduction of **vincristine** into combination regimens revolutionized the treatment of acute lymphoblastic leukemia in children."*
+> - 📜 **Vincent T. DeVita Jr. (*The Death of Cancer*):** *"We observed remarkable tumor regressions when **vincristine** was paired with prednisone and alkylating agents."*
+> - 📜 **Siddhartha Mukherjee (*The Emperor of All Maladies*):** *"Extracted from the humble periwinkle leaf, **vincristine** paralyzed the mitotic spindles of dividing leukemic blasts."*

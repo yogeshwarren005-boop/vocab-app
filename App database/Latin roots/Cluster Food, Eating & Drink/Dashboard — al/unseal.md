@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Break the seal of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Break the seal of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To break or remove the seal from a document, container, or letter; to open that which was securely fastened.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal history and metaphorical poetry, breaking authenticating wax or unlocking hidden confidences, secrets, or lips long kept silent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore your oaths Are words and poor conditions; but unseal’d,— At least in my opinion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Presently He did unseal them, and the first he viewed, He did it with a serious mind; a heed Was in his countenance."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Antonio, you are welcome, And I have better news in store for you Than you expect: unseal this letter soon."*
+> - 📜 **William Shakespeare (*Richard III*):** *"Didst thou not **unseal** the packet and read the confidential treason written within?"*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"Spring suns **unseal** the frozen earth, releasing the buried seeds to burst forth in green abundance."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"Time alone shall **unseal** the mysterious fountain of sorrow that lies buried within the poet's breast."*

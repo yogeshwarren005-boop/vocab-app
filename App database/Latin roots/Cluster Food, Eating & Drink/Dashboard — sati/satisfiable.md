@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being sated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being sated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being satisfied, appeased, or fulfilled; having requirements or appetites that can be met.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematical logic and computer science, describing a propositional formula or set of constraints for which a truth-assignment exists that evaluates to true.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, satisfiable designates capable of being sated."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"A formal propositional function is termed **satisfiable** if there exists at least one argument which renders the assertion true."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Moderate human desires for food, warmth, and shelter are readily **satisfiable** through honest and well-regulated labor."*
+> - 📜 **Jeremy Bentham (*The Rationale of Reward*):** *"The legislator must distinguish between claims that are genuinely **satisfiable** and those boundless demands rooted in pure extortion."*

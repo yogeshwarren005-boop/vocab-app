@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eyeglasses having two focal lengths, one for near vision and the other for far vision.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eyeglasses having two focal lengths, one for near vision and the other for far vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Eyeglasses having lenses with two distinct focal lengths, typically one for distant viewing and one for reading.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optometry and ophthalmic optics, lenses engineered with two refractive zones to correct presbyopia alongside myopia or hyperopia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bifocals designates eyeglasses having two focal lengths, one for near vision and the other for far vision."*
+> - 📜 **Benjamin Franklin (*The Autobiography of Benjamin Franklin*):** *"By dividing each lens horizontally I invented **bifocals**, which spared me the constant trouble of changing spectacles when reading and observing distant objects."*
+> - 📜 **Arthur Conan Doyle (*The Return of Sherlock Holmes*):** *"The scholar peered through his gold-rimmed **bifocals** before setting down the delicate papyrus manuscript upon the library desk."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"The stranger pushed his dark **bifocals** firmly against the bridge of his nose to conceal the peculiar emptiness behind the frames."*

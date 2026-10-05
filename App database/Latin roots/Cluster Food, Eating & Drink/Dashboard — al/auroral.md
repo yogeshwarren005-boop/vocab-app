@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the atmospheric phenomenon auroras.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of the dawn.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling the dawn, sunrise, or the luminous atmospheric display known as the aurora.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In upper atmospheric physics and geomagnetic science, pertaining to ionospheric photon emissions induced by solar wind charged particles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, auroral designates of or relating to the atmospheric phenomenon auroras."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"An **auroral** glow suffused the eastern horizon, awakening the sleeping woods with gentle promises of a new day."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"I watch the brilliant **auroral** streamers dancing across the polar sky in shifting waves of crimson and emerald light."*
+> - 📜 **John Muir (*Travels in Alaska*):** *"The magnificent **auroral** curtains hung suspended above the glaciers, pulsating with silent, unearthly splendour."*

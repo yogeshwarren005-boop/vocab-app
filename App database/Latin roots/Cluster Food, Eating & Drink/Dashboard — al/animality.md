@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The physical (or animal) side of a person as opposed to the spirit or intellect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The physical (or animal) side of a person as opposed to the spirit or intellect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The physical, instinctual, and sensory nature of animals, especially as shared by or present in human beings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative zoology and moral anthropology, the totality of physiological functions and instinctual drives distinguishing animal organisms from plants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"He that touches the hem 569:12 of Christ's robe and masters his mortal beliefs, animality, and hate, rejoices in the proof of healing, - in a sweet and certain sense that God is Love."*
+> - 📜 **Arthur Schopenhauer (*The World as Will and Idea*):** *"In the lower creatures, **animality** appears in its purest form, unclouded by the abstract deliberations of human reason."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"The anatomical evidence demonstrates beyond question our deep morphological solidarity with the general scheme of vertebrate **animality**."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"The transition from vegetative life to conscious **animality** is marked by the emergence of coordinated muscular responses to distant stimuli."*

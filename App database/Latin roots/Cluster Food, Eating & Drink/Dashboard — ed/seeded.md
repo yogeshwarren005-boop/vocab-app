@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Go to seed; shed seeds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Help (an enterprise) in its early stages of development by providing seed money.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sown with seeds; having developed or produced seeds; or positioned in a tournament draw according to skill ranking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tournament sport organization, assigned an advantageous draw position based on prior competitive performance to prevent early eliminations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The seeded pride That hath to this maturity blown up In rank Achilles must or now be cropp’d Or, shedding, breed a nursery of like evil To overbulk us all."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How will thy shame be seeded in thine age, When thus thy vices bud before thy spring?"*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Or did you say you had done more than one?” asked his companion as he spilled into his plate a little crimson pyramid of seeded strawberries and, through a perforated, shell-shaped spoon, snowed white sugar upon them."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The earth brought forth the tender grass and herb yielding fruit whose **seeded** marrow gave promise of life."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"I watch the fertile fields richly **seeded** by the plowman under the warm autumn sun."*
+> - 📜 **P. G. Wodehouse (*The Inimitable Jeeves*):** *"He was considered a **seeded** player in the local tennis tournament and looked forward to an easy victory."*

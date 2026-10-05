@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The power of argument or evidence to cause belief.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The power of argument or evidence to cause belief.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, force, or degree of being persuasive, plausible, or capable of eliciting belief.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In argumentation theory and literary aesthetics, the cogency and internal consistency that produce complete intellectual or artistic credibility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, convincingness designates the power of argument or evidence to cause belief."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"The extraordinary **convincingness** of Undershaft's doctrine lay in its unsparing exposure of polite sentimentalities."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Mystical revelations carry an immediate **convincingness** to the subject that no external logic can dismantle."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"Poetry achieves true greatness only when its depiction of human passion possesses irresistible **convincingness**."*

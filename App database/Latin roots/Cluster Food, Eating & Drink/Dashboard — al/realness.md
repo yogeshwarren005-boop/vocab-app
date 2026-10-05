@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being actual or real.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being actual or real.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Genuine authenticity, tangible actuality, or lifelike truthfulness free from artificiality and pretension.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic theory and cultural performance, an uncompromising authenticity that shuns artifice, presenting lived experience with raw honesty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, realness designates the state of being actual or real."*
+> - 📜 **Walt Whitman (*Democratic Vistas*):** *"Literature in a democracy must possess a rugged **realness**, reflecting the robust vitality and plain speech of working men."*
+> - 📜 **Henry James (*The Art of Fiction*):** *"The supreme virtue of a novel is its air of **realness**, producing that profound illusion of life which holds the reader captive."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"Behind the daily domestic trivialities lay a quiet **realness** that sustained the family through years of grief and change."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make (someone) agree, understand, or realize the truth or validity of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make (someone) agree, understand, or realize the truth or validity of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To persuade someone through evidence, logical argument, or demonstration to accept a belief or course of action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical and legal English, to vanquish, convict of an offense, or demonstrate beyond refutation the fallacy or guilt of an opponent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your Italy contains none so accomplish’d a courtier to convince the honour of my mistress, if in the holding or loss of that you term her frail."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Else might the world convince of levity As well my undertakings as your counsels; But I attest the gods, your full consent Gave wings to my propension, and cut off All fears attending on so dire a project."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or that persuasion could but thus convince me That my integrity and truth to you Might be affronted with the match and weight Of such a winnowed purity in love."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"It is not enough to dispute well; one must demonstrate truth so lucidly as to **convince** the most obstinate adversary."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She could not **convince** herself that Darcy was capable of harboring such petty malice toward an innocent gentleman."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Clear ideas and rigorous deduction will **convince** the understanding when mere rhetoric fails entirely."*

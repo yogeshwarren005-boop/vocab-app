@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not convincing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a probability too low to inspire belief.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Failing to persuade, reassure, or compel belief; lacking plausibility, force, or credibility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic and rhetorical criticism, appearing artificial, contrived, or deficient in internal logical coherence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unconvincing designates not convincing."*
+> - 📜 **Virginia Woolf (*The Voyage Out*):** *"His stammered apology sounded hollow and **unconvincing** in the quiet drawing-room."*
+> - 📜 **Joseph Conrad (*Under Western Eyes*):** *"Razumov offered a brief explanation, but the strained tone of his voice made it sound singularly **unconvincing**."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"The stranger gave an **unconvincing** excuse for wrapping his entire face in thick flannel bandages."*

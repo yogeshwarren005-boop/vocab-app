@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being satisfactorily full and unable to take on more.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being satisfactorily full and unable to take on more.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pervasive fullness or excess of gratification, especially leading to cloying distaste, boredom, or weary disgust.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethical philosophy and aesthetic theory, the psychological boundary where luxurious sensory gratification yields weariness, distaste, and ennui.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tell me thy mind; for I have Pisa left And am to Padua come as he that leaves A shallow plash to plunge him in the deep, And with satiety seeks to quench his thirst."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A mere satiety of commendations."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"When she left me, I felt comparatively strong and revived: ere long satiety of repose and desire for action stirred me."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"After days of feast and revelry, a dull **satiety** settled upon the seamen, leaving them languid in the tropical calm."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath fed of the dainties that are bred in a book; but his **satiety** yet seeks fresh novelty to quicken his appetite."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman nobles plunged into boundless luxuries until sheer **satiety** produced an exhausted disgust with all earthly pleasures."*

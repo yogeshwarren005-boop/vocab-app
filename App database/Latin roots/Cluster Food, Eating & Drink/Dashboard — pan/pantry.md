@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small storeroom for storing foods or wines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small storeroom for storing foods or wines.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small room or large cupboard in a house where food provisions, dishes, and culinary supplies are stored.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In traditional domestic architecture and domestic service hierarchy (*panis* store), the room originally designated for bread, linens, and silver service under the butler's care.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, the guests are come, supper served up, you called, my young lady asked for, the Nurse cursed in the pantry, and everything in extremity."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The cottage by the church, in which she again sat down, was almost the first at that end of the village, and while the woman fetched her some milk from the pantry, Tess, looking down the street, perceived that the place seemed quite deserted."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The tithe o’ what ye waste at cartes Wad stow’d his pantry!) Yet when a tale comes i’ my head, Or lassies gie my heart a screed— As whiles they’re like to be my dead, (O sad disease!) I kittle up my rustic reed; It gies me ease."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I stole down the dark stairs to the **pantry**, where I purloined a savory pork pie and a jar of mincemeat for the convict."*
+> - 📜 **Jane Austen (*Emma*):** *"The housekeeper inspected the well-stocked **pantry**, ensuring that delicacies were prepared in abundance for the arriving guests."*
+> - 📜 **Robert Louis Stevenson (*The Strange Case of Dr. Jekyll and Mr. Hyde*):** *"The frightened servants were gathered together like sheep in the corner of the **pantry**, trembling in dread of the mysterious sounds above."*

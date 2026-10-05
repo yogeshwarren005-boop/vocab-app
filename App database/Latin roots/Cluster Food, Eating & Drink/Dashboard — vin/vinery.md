@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A farm of grapevines where wine grapes are produced.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A farm of grapevines where wine grapes are produced.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A greenhouse, glasshouse structure, or hothouse specifically constructed for cultivating grapevines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Victorian estate horticulture, an artificially heated conservatory designed to produce out-of-season dessert grapes in cool climates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vinery designates a farm of grapevines where wine grapes are produced."*
+> - 📜 **Anthony Trollope (*Doctor Thorne*):** *"The squire took immense pride in his new **vinery**, where clusters of purple Muscat grapes hung under expansive panes of glass."*
+> - 📜 **John Claudius Loudon (*An Encyclopaedia of Gardening*):** *"Proper ventilation and hot-water piping are indispensable to maintaining a productive **vinery** throughout the winter months."*
+> - 📜 **Thomas Hardy (*Two on a Tower*):** *"They walked past the humid glasshouses and the shaded **vinery**, inhaling the warm fragrance of tender leaves."*

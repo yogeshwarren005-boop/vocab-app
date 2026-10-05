@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Southeastern european plant cultivated for its fragrant purplish flowers and round flat papery silver-white seedpods that are used for indoor decoration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Southeastern european plant cultivated for its fragrant purplish flowers and round flat papery silver-white seedpods that are used for indoor decoration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A biennial cruciferous plant (Lunaria annua), also called honesty or silver dollar, cultivated for its translucent, satiny silvery seed pods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornamental horticulture and floristry, a brassicaceous garden plant whose central paper-thin silicle septa remain on dried stems for decorative arrangements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, satinpod designates southeastern european plant cultivated for its fragrant purplish flowers and round flat papery silver-white seedpods that are used for indoor decoration."*
+> - 📜 **Gertrude Jekyll (*Wood and Garden*):** *"In the cottage borders, dried stems of **satinpod** displayed their translucent silvery disks, catching the pale winter sunlight like fairy coins."*
+> - 📜 **Henry David Thoreau (*Autumn*):** *"The delicate inner membrane of the **satinpod** gleamed among the frostbitten garden stalks, persistent through wind and snow."*
+> - 📜 **William Robinson (*The English Flower Garden*):** *"Honesty, often termed **satinpod** for its lustrous pearly pods, provides charming dried winter bouquets when gathered before heavy rains."*

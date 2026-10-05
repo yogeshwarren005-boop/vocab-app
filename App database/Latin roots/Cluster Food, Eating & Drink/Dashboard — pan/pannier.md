@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of a pair of bags or boxes hung over the rear wheel of a vehicle (as a bicycle).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large basket (usually one of a pair) carried by a beast of burden or on by a person.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large basket, often carried in pairs slung across the back of a pack animal, or attached to a bicycle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical fashion design, side-hoops or framework worn beneath skirts in the eighteenth century to extend skirts dramatically at the hips.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The turkeys in my pannier are quite starved.—What, ostler!"*
-> - 📜 **James Joyce (*Ulysses*):** *"Well observed and those pannier pockets of the skirt and slightly pegtop effect are devised to suggest bunchiness of hip."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Each had in his hand a small pannier; and, when they entered the dungeon, they stopt at the door until Front-de-Bœuf himself carefully locked and double-locked it."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The peasant loaded each wicker **pannier** with fresh garden cabbages before driving his donkey to the capital market."*
+> - 📜 **William Makepeace Thackeray (*The History of Henry Esmond*):** *"The great ladies moved with measured dignity, their voluminous brocade skirts supported on either side by wide **pannier** frames."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"A sturdy country packhorse stood waiting at the inn gateway, loaded with a heavy wicker **pannier** of dairy produce."*

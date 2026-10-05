@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a pompous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a pompous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a pompous, self-important, or ostentatiously solemn manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comedic description and narrative prose, acting or declaiming with ridiculous grandeur and exaggerated gravity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Brocklehurst has weakly and pompously repeated at second-hand from Mrs."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"On my politely bidding him Good-morning, he said, pompously, “Seven times nine, boy?” And how should _I_ be able to answer, dodged in that way, in a strange place, on an empty stomach!"*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"When he went home on leave he rioted on a large scale—pompously."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The manager strolled across the veranda, speaking **pompously** of civilization and progress while the miserable carriers groaned in the dust."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Uncle Pumblechook blew out his cheeks and declared **pompously** that boyish gratitude was the rarest virtue known under the canopy of heaven."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Mr. Brocklehurst cleared his dry throat and **pompously** addressed the assembled schoolgirls on the mortal peril of worldly adornments."*

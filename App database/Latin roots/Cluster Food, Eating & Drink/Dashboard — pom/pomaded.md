@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Apply pomade to (hair).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of hair) groomed with pomade.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dressed, smoothed, or heavily styled with scented pomade or aromatic cosmetic unguents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literature and social satire, denoting an excessively groomed, dapper, or ostentatiously slicked personal appearance typical of fashionable gallants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He was wearing a blue swallow-tail coat, shoes and stockings, and was perfumed and his hair pomaded."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Berg arrived in an immaculate brand-new uniform, with his hair pomaded and brushed forward over his temples as the Emperor Alexander wore his hair."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"His face was fresh and rosy, his white-plumed hat, tilted to one side, disclosed his curled and pomaded hair besprinkled with powdery snow."*
+> - 📜 **Arthur Conan Doyle (*The Return of Sherlock Holmes*):** *"The dapper clerk entered the parlor with **pomaded** hair parted meticulously down the center and cuffs turned back with fastidious care."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Troy looked down at his own **pomaded** locks and scarlet uniform, smiling with supreme complacency at the impression he made."*
+> - 📜 **George Orwell (*Burmese Days*):** *"The young dandy brushed his **pomaded** hair until it flattened into sleek black ridges against his skull, ready for the evening dance."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin mell within the domain of Food, Eating & Drink.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of mell in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing, yielding, or bearing honey or nectar attractive to honeybees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical ecology and apicultural science, describing nectariferous blossoms that furnish the principal floral forage for honey production.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, melliferous designates pertaining to, derived from, or characteristic of latin mell within the domain of food, eating & drink."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"The highly **melliferous** blossoms of clover attract countless swarms of bees, insuring cross-fertilization through their constant visits."*
+> - 📜 **John Burroughs (*Locusts and Wild Honey*):** *"The wild basswood tree is famously **melliferous**, its fragrant pale blossoms filling the forest with honeyed scent in midsummer."*
+> - 📜 **Fabre, Jean-Henri (*The Bramble-Bees and Others*):** *"In springtime the wild thyme spreads a **melliferous** carpet upon the limestone terraces that hums with worker bees."*

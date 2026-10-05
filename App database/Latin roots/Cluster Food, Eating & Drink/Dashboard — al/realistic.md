@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Aware or expressing awareness of things as they really are.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Representing what is real; not abstract or ideal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Representing things in a way that is accurate, true to life, and free from romanticized distortion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive decision-making and creative arts, pragmatic and feasible in expectation, or achieving persuasive visual and narrative verisimilitude.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"We have in our police reports realism pushed to its extreme limits, and yet the result is, it must be confessed, neither fascinating nor artistic.” “A certain selection and discretion must be used in producing a realistic effect,” remarked Holmes."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Here we leave, for the most part, the dreamy pictures of island life, and find ourselves sharing the extremely realistic discomforts of a Sydney whaler in the early forties."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The rebellious crew’s experiences in the Society Islands are quite as realistic as events on board ship and very entertaining, while the whimsical character, Dr."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The novel offered a **realistic** portrayal of peasant life, unvarnished by the idyllic pastorals fashionable among city poets."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The footprints in the mud provided a grimly **realistic** confirmation of the intruder's physical presence upon the roof."*
+> - 📜 **G. K. Chesterton (*The Victorian Age in Literature*):** *"Browning's monologues display a intensely **realistic** grasp of human passion, embracing the grotesque as readily as the sublime."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being a criminal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being a criminal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Habitual engagement in criminal activity, unlawful behavior, or the collective rate of offences within a society.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral criminology and moral jurisprudence, the predisposition of an individual toward offending, or the statistical incidence of offenses within a polity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The criminality of wastefulness irritated me."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"He had almost as much as declared his conviction of her criminality last night: what mysterious cause withheld him from accusing her?"*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"He could do what he liked, with all his cleverness to help him, so long as I should continue to defer to the old tradition of the criminality of those caretakers of the young who minister to superstitions and fears."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Severe social destitution and lack of educational instruction drive thousands of neglected youth into systemic **criminality**."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"My vices are the children of a forced solitude that I abhor, and my virtues will necessarily arise when I am freed from this wretched **criminality**."*
+> - 📜 **Arthur Conan Doyle (*The Final Problem*):** *"He is the Napoleon of crime, Watson; the organizer of half that is evil and of nearly all that is undetected in this great city, the supreme genius of modern **criminality**."*

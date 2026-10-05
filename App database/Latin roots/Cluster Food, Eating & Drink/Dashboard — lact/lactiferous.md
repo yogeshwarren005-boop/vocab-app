@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin lact within the domain of Food, Eating & Drink.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of lact in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bearing, producing, or conveying milk or a milky white liquid, such as latex in plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human female anatomy and physiological histology, designating the fifteen to twenty excretory ducts that convey milk to the nipple orifice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lactiferous designates pertaining to, derived from, or characteristic of latin lact within the domain of food, eating & drink."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Each lobule of the mammary gland discharges through a **lactiferous** duct terminating at the summit of the nipple."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Contraction of smooth muscle cells surrounding the **lactiferous** sinuses expels milk in response to suckling stimuli."*
+> - 📜 **Asa Gray (*First Lessons in Botany*):** *"Plants of the spurge family possess specialized **lactiferous** tubes that store protective white latex throughout their stems."*

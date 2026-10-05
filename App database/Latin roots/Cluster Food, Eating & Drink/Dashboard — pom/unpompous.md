@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not pompous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not pompous.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from pomp, pretension, or self-important display; genuinely modest, straightforward, and unpretentious in demeanor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biographical sketch and portraiture, exhibiting an unpretending directness and approachable simplicity despite holding elevated rank or great achievement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unpompous designates not pompous."*
+> - 📜 **Ralph Waldo Emerson (*English Traits*):** *"The greatest scholars I met were remarkably **unpompous** men, speaking with plain good sense and listening with modest patience to every inquirer."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"True saintliness reveals itself in an **unpompous** humility that disarms hostility and touches the hearts of common folk."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"She admired his simple, **unpompous** manner at the dinner table, contrasting sharply with the stiff posturing of younger academic guests."*

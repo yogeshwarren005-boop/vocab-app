@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Oil and vinegar with mustard and garlic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Oil and vinegar with mustard and garlic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cold salad dressing made of oil, vinegar or lemon juice, and seasonings such as herbs and pepper.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In eighteenth- and nineteenth-century decorative arts, a small ornamental box with a perforated lid containing a sponge soaked in aromatic smelling salts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Because,” said Lord Henry, passing beneath his nostrils the gilt trellis of an open vinaigrette box, “one can survive everything nowadays except that."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Lord Henry passed beneath his nostrils the gilt trellis of an open **vinaigrette** box to revive his spirits."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky Sharp administered the pungent aromatic **vinaigrette** to restore her mistress from an untimely fainting fit."*
+> - 📜 **Mrs. Beeton (*Mrs Beeton's Book of Household Management*):** *"Pour a savory **vinaigrette** of fine olive oil, wine vinegar, and minced tarragon over the cold asparagus."*

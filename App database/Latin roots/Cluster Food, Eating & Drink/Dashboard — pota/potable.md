@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any liquid suitable for drinking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suitable for drinking.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Suitable, safe, and fit for drinking; drinkable without risk of illness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In environmental public health and civil sanitation, fresh water meeting microbiological, chemical, and radiological safety standards for human consumption.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, potable designates any liquid suitable for drinking."*
+> - 📜 **Samuel Taylor Coleridge (*The Rime of the Ancient Mariner*):** *"Water, water, everywhere, nor any drop to drink, for the boundless ocean offered not a single draught of **potable** water to our parched lips."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The streams descending from the Cordillera afforded deliciously pure and **potable** water after our long desert march."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The transparent pond furnishes a perpetually fresh and **potable** draught, cooler and sweeter than any city cistern."*

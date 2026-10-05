@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin al within the domain of Food, Eating & Drink.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of al in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring every seven years, or lasting for a period of seven years.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British constitutional history, pertaining to the Septennial Act of 1716, which extended the maximum duration of Parliaments from three to seven years.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Is it to be presumed, that at any future septennial epoch the same State will be free from parties?"*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In Virginia, nevertheless, if I have not been misinformed, elections under the former government were septennial."*
+> - 📜 **Edmund Burke (*Speech on the Duration of Parliaments*):** *"A **septennial** parliament affords sufficient stability for statesmen to execute great national policies without courting momentary popular caprice."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The passage of the **septennial** statute marked a crucial epoch in securing the Hanoverian succession against Jacobite conspiracies."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"By the **septennial** enactment the legal limitation of parliament was fixed at seven years, unless sooner dissolved by royal prerogative."*

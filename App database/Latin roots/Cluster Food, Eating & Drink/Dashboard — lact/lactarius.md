@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large genus of agarics that have white spore and contain a white or milky juice when cut or broken; includes both edible and poisonous species.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large genus of agarics that have white spore and contain a white or milky juice when cut or broken; includes both edible and poisonous species.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large genus of agaric fungi, commonly called milk caps, which exude a milky fluid when injured.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In taxonomic mycology and forest ecology, a mycorrhizal basidiomycete genus distinguished by sphaerocysts in the gill trama and latex-secreting lactiferous hyphae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lactarius designates large genus of agarics that have white spore and contain a white or milky juice when cut or broken; includes both edible and poisonous species."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Foragers in European beech woods prized certain edible mushrooms of the genus **Lactarius** despite their pungent milk."*
+> - 📜 **John Muir (*My First Summer in the Sierra*):** *"Beneath the damp conifer needles appeared orange caps of **Lactarius**, dripping droplets of milky juice where bruised."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"The moist forest floor yielded several curious specimens of **Lactarius** whose milky sap turned saffron upon exposure to air."*

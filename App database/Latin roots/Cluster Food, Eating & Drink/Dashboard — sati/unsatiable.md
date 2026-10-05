@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible to satisfy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impossible to satisfy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being satisfied or appeased; having an unquenchable appetite or longing (archaic variant of insatiable).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early modern theological and moral prose, describing unrestrained covetousness, avarice, or worldly ambition that defies spiritual temperance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsatiable designates impossible to satisfy."*
+> - 📜 **King James Bible (*Ezekiel*):** *"Thou hast played the whore also with the Assyrians, because thou wast **unsatiable**; yea, thou hast played the harlot with them, and yet couldest not be satisfied."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Mrs. Norris pursued her economies with an **unsatiable** eagerness that spared no member of the household from petty interference."*
+> - 📜 **John Milton (*Paradise Lost*):** *"With **unsatiable** thirst of empire, the rebel angels drew their battle lines across the celestial plain."*

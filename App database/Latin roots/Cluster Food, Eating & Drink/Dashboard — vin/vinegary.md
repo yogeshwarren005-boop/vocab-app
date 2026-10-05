@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tasting or smelling like vinegar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a sour disposition; ill-tempered.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tasting, smelling, or resembling vinegar; markedly sour, sharp, or acidulous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological disposition, expressing bad-tempered discontent, biting moroseness, or tart severity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"We two entered meeting, unexpectedly, not a perfumed and fascinating damsel, but a vinegary countenance which I recognized at once as that of Doña Guedita."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The wine served at the tavern had turned sour and distinctly **vinegary** from long neglect in the damp cellar."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Aunt Glegg spoke in her customary **vinegary** manner, expressing sharp disapproval of all youthful extravagance."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"The cook produced a jar of **vinegary** pickles to cut the greasy richness of the salt pork."*

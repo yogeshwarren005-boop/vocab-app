@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the intestines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the intestines.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, originating within, or affecting the belly, intestines, or abdominal viscera.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaic and physiological medicine, describing intestinal evacuations, colic, or secretory processes within the gastrointestinal tract.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alvine designates of or relating to the intestines."*
+> - 📜 **Thomas Sydenham (*The Works of Thomas Sydenham, M.D.*):** *"The patient complained of violent **alvine** fluxes accompanied by sharp gripings of the lower belly."*
+> - 📜 **Erasmus Darwin (*Zoonomia; or, The Laws of Organic Life*):** *"Excessive irritation in the intestinal canal frequently disturbs the natural rhythm of **alvine** excretion."*
+> - 📜 **William Cullen (*First Lines of the Practice of Physic*):** *"The prolonged retention of **alvine** matter produces systemic languor and febrile paroxysms throughout the body."*

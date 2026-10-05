@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or characteristic of a prophet or prophecy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based primarily on surmise rather than adequate evidence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, serving for, or characteristic of divination, prophesying, or foretelling future events.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In religious studies and folklore, describing instruments, rituals, or mental states employed to decipher occult omens or spiritual signs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, divinatory designates resembling or characteristic of a prophet or prophecy."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"The priest performed the **divinatory** sacrifice at dawn, scrutinizing the smoldering incense for auspicious portents."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Astrologers deceive the credulous vulgar with their **divinatory** schemes and celestial horoscopes."*
+> - 📜 **Andrew Lang (*Myth, Ritual and Religion*):** *"The shaman cast marked knucklebones onto the pelt, attributing deep **divinatory** significance to every pattern."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who sells wine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who makes wine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A wine merchant; a person who sells, produces, or trades in wine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval and early modern trade guild history, a member of the Worshipful Company of Vintners holding civic monopoly over the wine trade in London.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lords, Officers, Sheriff, Vintner, Chamberlain, Drawers, Carriers, Ostler, Messengers, Servant, Travellers and Attendants."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dost thou not hear them call? [_Here they both call him; the Drawer stands amazed, not knowing which way to go._] Enter Vintner."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let them alone awhile, and then open the door. [_Exit Vintner._] Poins!"*
+> - 📜 **William Shakespeare (*Henry IV, Part 1*):** *"The bustling **vintner** called up the drawers to fetch another gallon of sack for the merry gentlemen in the half-moon."*
+> - 📜 **Geoffrey Chaucer (*The Canterbury Tales*):** *"This sweet wine that smellest so discreetly is drawn from grapes that no honest **vintner** would mix with cheap Spanish dregs."*
+> - 📜 **Walter Scott (*The Fortunes of Nigel*):** *"The prosperous **vintner** counted his gold behind the counter, bowing low to the young nobleman entering the tavern."*

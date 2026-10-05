@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small hard fruit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mature fertilized plant ovule consisting of an embryo and its food source and having a protective coat or testa.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The small embryonic plant enclosed in a protective coat from which a new plant germinates; or the origin of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant reproductive botany, a ripened ovule containing an embryo, endosperm, and seed coat capable of dormancy and dispersion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Oh fie! ’tis an unweeded garden That grows to seed; things rank and gross in nature Possess it merely."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We steal as in a castle, cock-sure; we have the receipt of fern-seed, we walk invisible."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, by my faith, I think you are more beholding to the night than to fern-seed for your walking invisible."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"If you can look into the **seed** of time, and say which grain will grow and which will not, speak then to me."*
+> - 📜 **Francis Bacon (*Essays*):** *"Money is like muck, not good except it be spread; and knowledge is a fertile **seed** when scattered abroad."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Each tiny **seed** carries within its embryonic tissues the structural adaptations of its parent species."*

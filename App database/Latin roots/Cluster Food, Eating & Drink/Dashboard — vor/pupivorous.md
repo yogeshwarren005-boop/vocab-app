@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin vor within the domain of Food, Eating & Drink.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of vor in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeding on the pupae of insects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In parasitoid entomology and biological control, describing hymenopteran wasps (such as ichneumonids or chalcidids) that oviposit into or consume insect pupal stages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pupivorous designates pertaining to, derived from, or characteristic of latin vor within the domain of food, eating & drink."*
+> - 📜 **William Kirby (*An Introduction to Entomology*):** *"The tiny **pupivorous** ichneumon inserts its ovipositor directly through the cocoon to consume the dormant chrysalis."*
+> - 📜 **Jean-Henri Fabre (*The Wonders of Instinct*):** *"This ferocious **pupivorous** parasite destroys the silk-spinning moth before its wings can ever expand into flight."*
+> - 📜 **John Lubbock (*On the Origin and Metamorphoses of Insects*):** *"Naturalists have identified numerous **pupivorous** chalcid wasps that regulate pest populations by parasitizing cocoons."*

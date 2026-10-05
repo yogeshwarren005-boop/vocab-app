@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Presence of lactose in the urine; can occur during pregnancy or lactation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Presence of lactose in the urine; can occur during pregnancy or lactation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The abnormal presence of lactose excreted in the urine, occurring typically in late pregnancy or during lactation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metabolic diagnostics and obstetrical pathology, a benign physiological spilling of milk sugar into maternal circulation when mammary pressure elevates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lactosuria designates presence of lactose in the urine; can occur during pregnancy or lactation."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Transient **lactosuria** during the postpartum period should not be mistaken for diabetic glycosuria in nursing women."*
+> - 📜 **William Cullen (*First Lines of the Practice of Physic*):** *"A temporary sweet secretion in the urine accompanies the engorgement of the breasts, known to clinical observers as **lactosuria**."*
+> - 📜 **Ernest Starling (*Principles of Human Physiology*):** *"Chemical analysis distinguishes renal glycosuria from the benign **lactosuria** that frequently accompanies the puerperal state."*

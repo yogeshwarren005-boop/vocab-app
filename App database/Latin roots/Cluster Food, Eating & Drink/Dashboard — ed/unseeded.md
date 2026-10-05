@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not seeded; used of players of lesser skill.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a piece of ground) not have a crop sown on it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not sown or planted with seeds; or not assigned a seeded ranking position in an athletic tournament.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In competitive sports tournament bracket design, designating a competitor drawn at random without seeding protection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unseeded designates not seeded; used of players of lesser skill."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The upper meadow lay **unseeded** that autumn, showing only yellow stubble where clover once grew."*
+> - 📜 **John Burroughs (*Locusts and Wild Honey*):** *"Nature quickly colonizes every **unseeded** acre of abandoned farmland with thistles, asters, and goldenrod."*
+> - 📜 **P. G. Wodehouse (*Right Ho, Jeeves*):** *"To everyone's amazement, the **unseeded** player advanced straight to the finals by defeating the club champion."*

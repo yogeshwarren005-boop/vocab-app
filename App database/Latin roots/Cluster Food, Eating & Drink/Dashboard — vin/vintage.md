@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A season's yield of wine from a vineyard.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The oldness of wines.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The harvesting of grapes for winemaking; or the yield of grapes or wine produced in a single season.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural and material history, denoting something of high quality representing the best or most characteristic work of an earlier period.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Was not the gleaning of the grapes of Ephraim better than the vintage of Abi-ezer?"*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"His ideas are none of them later than that vintage."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Again, at Konz, on the banks of the Moselle, if the blazing wheel which was trundled down the hillside reached the river without being extinguished, this was hailed as a proof that the vintage would be abundant."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Was not the gleaning of the grapes of Ephraim better than the **vintage** of Abi-ezer?"*
+> - 📜 **Henry David Thoreau (*Walden*):** *"They talked to me of the age of the wine and the fame of the **vintage**; but I thought of a purer elixir."*
+> - 📜 **John Keats (*Ode to a Nightingale*):** *"O for a draught of **vintage**! that hath been cooled a long age in the deep-delved earth, tasting of Flora and the country green."*

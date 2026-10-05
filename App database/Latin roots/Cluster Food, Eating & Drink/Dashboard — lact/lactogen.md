@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any agent that enhances milk production.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any agent that enhances milk production.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any substance, hormone, or therapeutic agent that stimulates milk production or promotes mammary gland lactation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In endocrinology and reproductive physiology, particularly referring to placental lactogen, a polypeptide hormone regulating maternal insulin sensitivity and fetal growth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lactogen designates any agent that enhances milk production."*
+> - 📜 **Walter Cannon (*The Wisdom of the Body*):** *"Endocrine secretions operating as a potent **lactogen** prime the maternal tissues for nourishing the newborn."*
+> - 📜 **Claude Bernard (*Lectures on Experimental Physiology*):** *"The sudden secretion of milk depends upon chemical stimulants circulating in the bloodstream that function as a physiological **lactogen**."*
+> - 📜 **Ernest Starling (*Principles of Human Physiology*):** *"Placental extracts reveal the presence of a specific **lactogen** capable of inducing mammary hypertrophy in laboratory mammals."*

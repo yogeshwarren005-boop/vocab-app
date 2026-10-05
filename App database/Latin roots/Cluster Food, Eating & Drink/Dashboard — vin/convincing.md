@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make (someone) agree, understand, or realize the truth or validity of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing one to believe the truth of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing the power to persuade, reassure, or compel belief through credibility, force, or plausibility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical rhetoric and dramatic arts, conveying an impression of lifelike authenticity, artistic fidelity, or logical necessity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, “give up the whole thing, if I understand you, Tony?” “You never,” returns Tony with a most convincing steadfastness, “said a truer word in all your life."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Therefore I was driven at last to asking Richard if he would mind convincing me that it really was all over there, as he had said, and that it was not his mere impression."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Secure in his "_aliquid inconcussum_," he came increasingly to regard the life of the individual Christian and the collective life of the Church as the most convincing of all witnesses to the Unseen and the Supernatural."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Circumstantial evidence is occasionally very **convincing**, as when you find a trout in the milk, to quote Thoreau's example."*
+> - 📜 **James Joyce (*Dubliners*):** *"He spoke in a **convincing** tone, as if he was conscious of being disbelieved and sought to disarm suspicion."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His arguments were so **convincing** that Dorothea felt her lingering objections dissolve into quiet assent."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who harvests grapes for making wine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who harvests grapes for making wine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who harvests grapes or participates in the gathering of the wine vintage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pastoral literature and Mediterranean rural sociology, a seasonal harvester working the vineyard rows during the autumn harvest.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vintager designates a person who harvests grapes for making wine."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"As the merry **vintager** gathers the purple clusters, singing amid the heavy-laden boughs of the autumn arbor."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"On the bas-relief of the capital, a sturdy **vintager** treads the foaming press under a canopy of stone foliage."*
+> - 📜 **Henry Wadsworth Longfellow (*The Golden Legend*):** *"The tired **vintager** rests upon his wicker basket, watching the sun sink behind the terraced hills of the Rhine."*

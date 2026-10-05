@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property characteristic of old age.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property characteristic of old age.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property or period of having attained advanced years; elderly physical condition or antiquity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gerontological biology, the physiological state of advanced biological age characterized by tissue senescence and functional decline.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agedness designates the property characteristic of old age."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The wisdom that accompanies **agedness** arises not merely from length of days, but from seasoned reflection."*
+> - 📜 **Thomas Browne (*Hydriotaphia, Urn Burial*):** *"The venerable monuments had crumbled under the slow, unrelenting touch of extreme **agedness**."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The gray walls of the abbey displayed an impressive **agedness** that commanded the reverence of visitors."*

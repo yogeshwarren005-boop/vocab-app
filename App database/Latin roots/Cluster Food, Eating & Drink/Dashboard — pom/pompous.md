@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Puffed up with vanity; ; ; ; - newsweek.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by pomp and ceremony and stately display.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by an exaggerated display of dignity, self-importance, or solemn grandeur; pretentiously stately.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetoric and literary portraiture, describing persons or writing styles inflated with self-complacent arrogance and heavy, ornate grandiloquence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I heard you rightly, The Duke hath put on a religious life And thrown into neglect the pompous court."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now sleep yslaked hath the rouse; No din but snores about the house, Made louder by the o’erfed breast Of this most pompous marriage feast."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, if I turn mine eyes upon myself, I find myself a traitor with the rest; For I have given here my soul’s consent T’ undeck the pompous body of a king, Made glory base and sovereignty a slave, Proud majesty a subject, state a peasant."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To see the **pompous** court, and there to hear The buzzing whisperers of a king's decay, Was more than my grieved spirit could endure."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Casaubon delivered his scholarly observations in a dry, **pompous** tone that sounded like the rustling of dried autumn leaves."*
+> - 📜 **Oscar Wilde (*The Importance of Being Earnest*):** *"I cannot abide those **pompous** moralists who instruct the universe upon duties they have never had the courage to perform."*

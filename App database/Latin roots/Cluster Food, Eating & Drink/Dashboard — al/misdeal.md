@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An incorrect deal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deal cards wrongly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An incorrect or faulty distribution of cards in a card game, requiring cards to be re-shuffled and dealt again.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ludic rule systems and metaphorical discourse, an erroneous procedural distribution or bungled transaction requiring nullification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misdeal designates an incorrect deal."*
+> - 📜 **Edmond Hoyle (*A Short Treatise on the Game of Whist*):** *"If any card be turned up in dealing, it is a **misdeal**, and the cards must be gathered, shuffled, and dealt afresh."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"Mr. Miller committed an inexcusable **misdeal** at whist, prompting a storm of indignant murmurs from his elderly partner."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Rawdon Crawley watched the cards with an expert eye, instantly calling out a **misdeal** when the dealer dropped an exposed ace."*

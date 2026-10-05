@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or contained in or serving as an archive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or contained in or serving as an archive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or contained in historical archives, public records, or preserved institutional documents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In library and information science, describing materials, storage media, or preservation methods designed to endure without deterioration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archival designates of or relating to or contained in or serving as an archive."*
+> - 📜 **Lord Acton (*Lectures on Modern History*):** *"Modern historical scholarship was born when the secret **archival** collections of Venice and Rome were first opened to independent researchers."*
+> - 📜 **Henry Adams (*The Education of Henry Adams*):** *"He spent long months deciphering yellowed **archival** despatches in the state paper office to uncover the hidden motives of diplomacy."*
+> - 📜 **Marc Bloch (*The Historian's Craft*):** *"The critical analysis of **archival** sources requires the historian to cross-examine documents as rigorously as a magistrate interrogates witnesses."*

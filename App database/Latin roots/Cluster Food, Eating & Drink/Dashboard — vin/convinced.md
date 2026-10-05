@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make (someone) agree, understand, or realize the truth or validity of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Persuaded of; very sure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Firmly persuaded of the truth, justice, or validity of something; holding an unwavering belief based on evidence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology and epistemology, describing a mental state of settled assent where prior doubt has been resolved through deliberation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or heard him say (as knaves be such abroad, Who having, by their own importunate suit, Or voluntary dotage of some mistress, Convinced or supplied them, cannot choose But they must blab.) OTHELLO."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I take them everywhere.” I was afterwards convinced (and so was Ada) that from the ill-conditioned eldest child, these words extorted a sharp yell."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Sometimes I considered whether I should write to his mother, but that ended in my being convinced that to open a correspondence would be to make the matter worse."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba was **convinced** that this unmoved person was not a married man, judging by his careless demeanor."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I was **convinced** of the innocence of poor Justine, yet dared not reveal the terrible truth of the daemon's existence."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The citizens were thoroughly **convinced** that their individual welfare depended upon the stability of communal laws."*

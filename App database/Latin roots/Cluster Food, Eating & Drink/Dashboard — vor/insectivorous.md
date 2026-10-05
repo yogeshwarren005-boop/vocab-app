@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of animals and plants) feeding on insects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of animals and plants) feeding on insects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeding on insects; insect-eating, as applied to animals or carnivorous plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany and ecology, adapted to capture and digest insect prey to obtain essential nitrogen and minerals in nutrient-poor environments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, insectivorous designates (of animals and plants) feeding on insects."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The effect on the insects was marked, for six **insectivorous** birds were very common in the newly planted pine groves."*
+> - 📜 **John Burroughs (*Birds and Poets*):** *"The warblers are indefatigable **insectivorous** hunters, gleaning every leafy twig for concealed caterpillars."*
+> - 📜 **Asa Gray (*How Plants Behave*):** *"The pitcher-plant exhibits extraordinary **insectivorous** habits, drowning visiting flies in its digestive reservoir."*

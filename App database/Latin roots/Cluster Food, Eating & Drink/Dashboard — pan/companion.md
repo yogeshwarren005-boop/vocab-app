@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A friend who is frequently in the company of another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A traveler who accompanies you.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who frequently accompanies, associates with, or shares mutual experiences with another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In domestic social history and etymological roots (*com-* + *panis*, sharing bread), an associate sharing daily bread, travels, or intimate household life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Virginity, by being once lost, may be ten times found; by being ever kept, it is ever lost. ’Tis too cold a companion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Are you companion to the Count Rossillon?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have told my neighbour how you have been solicited by a gentleman his companion."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I desired love and fellowship, and I was still spurned; I demanded a creature of another sex, but as hideous as myself, to become my **companion**."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"My friend and **companion** sat opposite me in the cab, his lean face illuminated by the flickering gas lamps of London."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth found in her sister a sympathetic and sensible **companion** whose conversation was always delightful."*

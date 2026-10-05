@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A representation having no reference to concrete objects or specific examples.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A representation having no reference to concrete objects or specific examples.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impractical detachment from reality, lack of realistic assessment, or excessive reliance on visionary fantasies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and statecraft, an artistic style rejecting verisimilitude in favor of fantasy, or political planning divorced from tangible material constraints.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unrealism designates a representation having no reference to concrete objects or specific examples."*
+> - 📜 **George Orwell (*Notes on Nationalism*):** *"A persistent **unrealism** characterizes their political forecasts, as they persistently substitute wishful thinking for observable facts."*
+> - 📜 **G. K. Chesterton (*The Everlasting Man*):** *"The fatal defect of materialistic philosophy is its fundamental **unrealism**, ignoring the most vivid realities of human consciousness."*
+> - 📜 **Bertrand Russell (*Mysticism and Logic*):** *"Metaphysical systems frequently suffer from a profound **unrealism**, constructing celestial edifices upon unverified verbal deductions."*

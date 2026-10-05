@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the pomatomidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the pomatomidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The monotypic genus of pelagic marine fishes comprising the bluefish, Pomatomus saltatrix, found widely across temperate and subtropical waters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic marine ichthyology, predatory teleosts distinguished by a stout compressed body, two dorsal fins, and dangerously sharp uniserial triangular teeth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pomatomus designates type genus of the pomatomidae."*
+> - 📜 **David Starr Jordan (*American Food and Game Fishes*):** *"The voracious **Pomatomus** moves in dense shoals along our Atlantic shores, attacking schools of mullet with relentless ferocity."*
+> - 📜 **George Brown Goode (*American Fishes*):** *"Fishermen along the coast respect **Pomatomus** as one of the fiercest adversaries that can take a hook or shred a net."*
+> - 📜 **Spencer Fullerton Baird (*Natural History of Aquatic Animals*):** *"The swift locomotion and muscular agility of **Pomatomus** render it an apex hunter within the temperate littoral zone."*

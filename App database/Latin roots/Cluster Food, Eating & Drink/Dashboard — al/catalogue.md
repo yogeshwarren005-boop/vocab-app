@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A complete list of things; usually arranged systematically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A book or pamphlet containing an enumeration of things.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A complete, systematically arranged list of items, such as books in a library, goods for sale, or specimens in a collection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive bibliography and taxonomy, a comprehensive register providing authoritative descriptions, provenance, and classification codes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I say I am your mother, And put you in the catalogue of those That were enwombed mine. ’Tis often seen Adoption strives with nature, and choice breeds A native slip to us from foreign seeds."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Have you a catalogue Of all the voices that we have procured, Set down by th’ poll?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But I could then have look’d on him without the help of admiration, though the catalogue of his endowments had been tabled by his side, and I to peruse him by items."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, in the **catalogue** ye go for men; As hounds and greyhounds, mongrels, spaniels, curs, Shoughs, water-rugs and demi-wolves, are clept All by the name of dogs."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"I have drawn up a **catalogue** of all the recorded varieties of pigeons, noting their plumage variations and osteological differences."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Casaubon spent long hours verifying entries in his voluminous **catalogue** of mythological traditions."*

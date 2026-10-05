@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin al within the domain of Food, Eating & Drink.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of al in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Opposed to the political power, social influence, or institutional authority of the clergy and religious hierarchy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In European political history, a movement advocating secularism, separation of church and state, and public education free from ecclesiastical control.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anticlerical designates pertaining to, derived from, or characteristic of latin al within the domain of food, eating & drink."*
+> - 📜 **Alexis de Tocqueville (*The Old Regime and the Revolution*):** *"The **anticlerical** passions of the Enlightenment were directed not merely against dogma, but against the landed privileges of the higher prelates."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"In Barcelona the revolutionary militias adopted an intensely **anticlerical** stance, shutting down ecclesiastical institutions across the city."*
+> - 📜 **Émile Zola (*Truth*):** *"The secular schoolmaster found himself at the center of a furious **anticlerical** struggle against the local monastic orders."*

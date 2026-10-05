@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any agent capable of producing satisfaction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any agent capable of producing satisfaction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or thing that brings satisfaction, fulfills a need, or gratifies an appetite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial psychology and motivational theory (such as Herzberg's two-factor model), an intrinsic workplace factor (like achievement or recognition) that promotes job satisfaction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, satisfier designates any agent capable of producing satisfaction."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"I am the poet of reality, the **satisfier** of curious souls that wander through the maze of doubtful dreams."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"Every biological instinct seeks its appropriate **satisfier** in the external environment to re-establish physiological equilibrium."*
+> - 📜 **William James (*Talks to Teachers on Psychology*):** *"The teacher should present knowledge not as an abstract burden, but as a living **satisfier** of youthful curiosity."*

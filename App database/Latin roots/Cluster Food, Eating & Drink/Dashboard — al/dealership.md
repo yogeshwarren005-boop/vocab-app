@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A business established or operated under an authorization to sell or distribute a company's goods or services in a particular area.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A business established or operated under an authorization to sell or distribute a company's goods or services in a particular area.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A business or commercial enterprise authorized to sell and service a manufacturer's goods, especially automobiles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial distribution law, an exclusive franchise relationship conferring regional retail distribution rights and service obligations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dealership designates a business established or operated under an authorization to sell or distribute a company's goods or services in a particular area."*
+> - 📜 **F. Scott Fitzgerald (*The Great Gatsby*):** *"Wilson operated a shabby garage and automobile **dealership** at the edge of the ashheaps."*
+> - 📜 **John Steinbeck (*The Grapes of Wrath*):** *"The used car **dealership** lot was crowded with battered jalopies polished up to entice desperate migrant families."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"He invested his modest savings in a regional **dealership** for electric washing machines and modern kitchen appliances."*

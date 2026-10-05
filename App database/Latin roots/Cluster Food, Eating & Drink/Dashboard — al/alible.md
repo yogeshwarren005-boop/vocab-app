@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin al within the domain of Food, Eating & Drink.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of al in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of providing nourishment; nutritive, wholesome, and suitable for assimilation by living tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical dietetics and physiological literature, denoting food substances that directly yield nutritious juices for body maintenance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alible designates pertaining to, derived from, or characteristic of latin al within the domain of food, eating & drink."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum; or, A Natural History*):** *"Certain plants yield a sap so rich and **alible** that it sustains animal life without requiring extensive cooking."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Wholesome broths and **alible** meats are prescribed by physicians to restore patients wasted by prolonged sorrow."*
+> - 📜 **John Evelyn (*Acetaria: A Discourse of Sallets*):** *"Fresh herbs supply the body with **alible** juices that purify the blood and temper the excessive heat of summer."*

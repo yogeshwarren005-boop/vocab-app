@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive desire to eat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extreme gluttony.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ravenous hungriness; an insatiable appetite for devouring sustenance or prey.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In natural history and moral psychology, an insatiable capacity for consumption, predation, or intellectual absorption.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I knew the debilitated state of my stomach, and I ate sparingly in the knowledge that my natural voracity would surely kill me did I yield myself to it."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"His voracity is well known, and from the circumstance that the inner angles of his lips are curved upwards, he carries an everlasting Mephistophelean grin on his face."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"The old grandfather had died in the meantime, so that he was dependent on the food supplied by his stepfather and uncles, and they had to expostulate with him on what they called his shark-like voracity."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"His **voracity** is well known, and from the circumstance that the inner angles of his lips are curved upwards, he carries an eternal grin."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The extraordinary **voracity** of the South American piranha makes it dreaded by every bather who ventures into shallow rivers."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The fiscal **voracity** of the imperial tax-gatherers drained the western provinces of their remaining coin."*

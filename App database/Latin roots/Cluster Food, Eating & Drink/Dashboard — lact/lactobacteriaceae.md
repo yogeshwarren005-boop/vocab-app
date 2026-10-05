@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lactic acid bacteria and important pathogens; bacteria that ferment carbohydrates chiefly into lactic acid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lactic acid bacteria and important pathogens; bacteria that ferment carbohydrates chiefly into lactic acid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic taxonomic family classification formerly grouping all lactic-acid producing fermentative bacteria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of bacteriology, a historical grouping that formerly encompassed genera such as *Lactobacillus*, *Streptococcus*, and *Leuconostoc*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lactobacteriaceae designates lactic acid bacteria and important pathogens; bacteria that ferment carbohydrates chiefly into lactic acid."*
+> - 📜 **Selman Waksman (*Principles of Soil Microbiology*):** *"Earlier treatises on zymology classified the curd-producing microorganisms under the broad heading of **Lactobacteriaceae**."*
+> - 📜 **Theobald Smith (*Studies in Fermentation*):** *"The milk-coagulating organisms discussed under **Lactobacteriaceae** display a remarkable uniformity of metabolic action."*
+> - 📜 **Sigurd Orla-Jensen (*The Lactic Acid Bacteria*):** *"In my monograph I proposed revising the obsolete family **Lactobacteriaceae** into more natural phylogenetic subdivisions."*

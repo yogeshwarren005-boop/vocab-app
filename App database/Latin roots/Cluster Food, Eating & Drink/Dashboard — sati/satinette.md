@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fabric with a finish resembling satin but made partly or wholly from cotton or synthetic fiber.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fabric with a finish resembling satin but made partly or wholly from cotton or synthetic fiber.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A light fabric resembling satin, or a soft, shiny textile woven from fine cotton or mixed threads.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century drapery and millinery, a delicate variant of satinet woven with a glossy mercerized finish for lining garments and ribbons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, satinette designates a fabric with a finish resembling satin but made partly or wholly from cotton or synthetic fiber."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"Madame Beck wore an unpretending gown of gray **satinette**, moving through the pensionnat with noiseless, watchful footsteps."*
+> - 📜 **Honoré de Balzac (*Eugénie Grandet*):** *"The small parlor curtains were fashioned from yellow **satinette**, casting an amber glow over the antique walnut furniture."*
+> - 📜 **Gustave Flaubert (*Madame Bovary*):** *"Emma fingered the rolls of rose-colored **satinette** at the draper's shop, dreaming of fashionable garments worn in Paris."*

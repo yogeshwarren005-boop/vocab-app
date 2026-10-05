@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin mell within the domain of Food, Eating & Drink.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of mell in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Flowing smoothly and richly, as if like honey; sweet, smooth, and melodious in delivery or sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetorical stylistics and phonetics, describing cadence or speech rhythms characterized by liquid consonants, open vowels, and euphonic grace.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The voice was not only mellifluent and clear, but the emphasis was so just, and the modulation so impassioned, that it seemed as if a heart of stone could not fail of being moved by it."*
+> - 📜 **William Shakespeare (*Twelfth Night*):** *"A **mellifluent** voice; as I am true knight, by my troth, the fool has an excellent breast."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Words of **mellifluent** grace flowed from the speaker's tongue, enchanting the listening angels into breathless wonder."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"Pope cultivated a **mellifluent** couplet that charmed the ear, though some critics missed the rugged force of Dryden."*

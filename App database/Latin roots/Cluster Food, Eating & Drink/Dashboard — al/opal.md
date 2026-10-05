@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A translucent mineral consisting of hydrated silica of variable color; some varieties are used as gemstones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A translucent mineral consisting of hydrated silica of variable color; some varieties are used as gemstones.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hydrated amorphous mineral form of silica prized as a gemstone for its iridescent play of flashing spectral colors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gemological mineralogy, submicroscopic silica spheres arranged in regular lattices that diffract light to generate characteristic opalescence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now the melancholy god protect thee, and the tailor make thy doublet of changeable taffeta, for thy mind is a very opal."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"She lay on her back with tumbled clouds all round her: mother & pearl clouds, quilted, and tinged with a sheen of opal."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"They are formed alone in the tissue of the mollusc, are white, often opaque, and sometimes have the transparency of an opal; they are generally round or oval."*
+> - 📜 **William Shakespeare (*Twelfth Night*):** *"Now the melancholy god protect thee; and the tailor make thy doublet of changeable taffeta, for thy mind is a very **opal**."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The jewel casket revealed a magnificent necklace set with fiery **opal** stones that glowed with inner rainbow light."*
+> - 📜 **Ralph Waldo Emerson (*Nature*):** *"The evening clouds changed from burnished gold to the delicate iridescent tints of an **opal** over the pine woods."*

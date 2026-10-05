@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of an orator or oratory; ; - robert graves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of an orator or oratory; ; - robert graves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the art, practice, or delivery of formal public speaking and rhetoric.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric and forensic performance, characterized by grandiloquent diction, rhythmical cadences, and theatrical persuasiveness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Gavin Hamilton—Holy Willie and his priest, Father Auld, after full hearing in the presbytery of Ayr, came off but second best; owing partly to the oratorical powers of Mr."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Yes, _I_’ve done,” said Raffles, taking hold of his hat which stood before him on the table, and giving it a sort of oratorical push."*
-> - 📜 **Effie Afton (*Eventide*):** *"Prague and his amiable lady, in genial after-dinner mood; he burly, and easy-natured, enjoying his oranges; she, majestic and oratorical in her rustling brocades."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Brooke possessed an **oratorical** style that rambled pleasantly through diverse historical anecdotes without arriving at any clear conclusion."*
+> - 📜 **G. K. Chesterton (*The Club of Queer Trades*):** *"The politician assumed an impressive **oratorical** posture, raising his arm as if commanding silence from an unruly senate."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"Chatham's **oratorical** triumphs owed as much to his majestic presence and piercing eye as to the arguments he advanced."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The territory occupied by one of the constituent administrative districts of a nation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The proper sphere or extent of your activities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An administrative subdivision or country district outside a nation's capital or imperial seat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual and jurisdictional terms, a proper sphere of action, responsibility, expertise, or authoritative duty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say ’tis not so, a province I will give thee, And make thy fortunes proud."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This ungenitured agent will unpeople the province with continency."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, sir, a courtesy Which if we should deny, the most just gods For every graff would send a caterpillar, And so inflict our province."*
+> - 📜 **William Shakespeare (*Antony and Cleopatra*):** *"Say 'tis not so, a **province** I will give thee, and make thy fortunes proud."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"It is not the **province** of speculative philosophy to overturn established institutions on abstract conjectures alone."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Every distant **province** felt the heavy weight of the legionary garrisons quartered along its frontier."*

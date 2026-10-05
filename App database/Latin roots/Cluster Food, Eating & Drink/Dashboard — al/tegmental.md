@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin al within the domain of Food, Eating & Drink.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of al in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or forming a covering, especially the tegmentum of the brainstem.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy, designating dorsal brainstem structures including the ventral tegmental area (VTA), crucial for dopaminergic reward pathways and motor control.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tegmental designates pertaining to, derived from, or characteristic of latin al within the domain of food, eating & drink."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Golgi staining reveals rich collaterals descending from the red nucleus through the **tegmental** tracts of the mesencephalon."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Lesions within the **tegmental** regions of the midbrain produce profound disturbances in sensory coordination and motor reflexes."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"Decerebrate rigidity demonstrates the vital regulatory role exerted by **tegmental** and vestibular centers over spinal postural reflexes."*

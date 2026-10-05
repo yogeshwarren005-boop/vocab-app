@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not up to expectations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not up to expectations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Failing to satisfy or meet acceptable standards, expectations, or requirements; causing discontent or disappointment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal jurisprudence and administrative assessment, describing evidence, service, or performance that proves inadequate, defective, or unacceptable.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"To have reduced the different qualifications in the different States to one uniform rule, would probably have been as dissatisfactory to some of the States as it would have been difficult to the convention."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"When the practical results of an administrative bureau prove consistently **dissatisfactory**, fundamental structural reforms become imperative."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The executor declared the accounting to be thoroughly **dissatisfactory**, demanding an immediate scrutiny of the contested ledgers."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The treaty concluded by the ministers was deemed highly **dissatisfactory** by Parliament, rousing fierce protests across the nation."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a gratifying manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a gratifying manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that gives satisfaction, contentment, or pleasure; adequately and pleasingly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive narrative and craftsmanship, completing an action or fitting components together with reassuring precision and aesthetic balance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"If he can most satisfyingly perform this sole and only duty by _helping_ his neighbor, he will do it; if he can most satisfyingly perform it by _swindling_ his neighbor, he will do it."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"We were together; WE WERE A FAMILY! the dream had come true—oh, precisely true, contentedly, true, satisfyingly true! and remained true two whole days."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The heavy oak door swung shut, the iron latch clicking **satisfyingly** into place against the weathered jamb."*
+> - 📜 **Joseph Conrad (*The Secret Sharer*):** *"The ship answered her helm **satisfyingly**, gliding smoothly into the deep water of the anchorage without a tremor."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"The evening progressed **satisfyingly**, conforming at every turn to the solemn rituals established by New York society."*

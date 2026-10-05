@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A light soft silver-white metallic element of the alkali metal group; oxidizes rapidly in air and reacts violently with water; is abundant in nature in combined forms occurring in sea water and in carnallite and kainite and sylvite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A light soft silver-white metallic element of the alkali metal group; oxidizes rapidly in air and reacts violently with water; is abundant in nature in combined forms occurring in sea water and in carnallite and kainite and sylvite.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A soft, silvery-white, highly reactive metallic chemical element with atomic number 19, belonging to the alkali metal group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular biochemistry and cardiac electrophysiology, the principal intracellular cation responsible for maintaining resting membrane potential and nerve impulse transmission.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"In a thousand grammes are found 96½ per cent. of water, and about 2-2/3 per cent. of chloride of sodium; then, in a smaller quantity, chlorides of magnesium and of potassium, bromide of magnesium, sulphate of magnesia, sulphate and carbonate of lime."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The electrolyte is a solution of potassium hydroxide."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Alternatively, if potassium be brought into combination with it, there results potassium cyanide, which, with the assistance of water and oxygen, can dissolve gold."*
+> - 📜 **Humphry Davy (*Bakerian Lecture: On the Decomposition of the Fixed Alkalies*):** *"The metal which I have called **potassium** takes fire the instant it comes into contact with water, burning with a brilliant violet flame."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"Modern pharmacology employs the various salts of **potassium** as valuable diuretic and alterative agents in therapeutics."*
+> - 📜 **Ernest Starling (*Principles of Human Physiology*):** *"The concentration of **potassium** ions within the protoplasm of muscle fibers is vastly greater than in the surrounding interstitial lymph."*

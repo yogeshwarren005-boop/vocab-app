@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a comical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a comical manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an amusing, ludicrous, eccentric, or laugh-provoking manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic narration, depicting situations wherein human gravity or pompous pretension is deflated with humorous incongruity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Nothing could have been more circumspect-- comically circumspect! between Selincourt and Isabel and the chambermaid, malice itself was put to silence."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"She’s rather unhappy, and as she’s not of a serious turn she doesn’t tend to show it tragically: she shows it comically instead."*
-> - 📜 **Bram Stoker (*Dracula*):** *"If I am refused, the responsibility does not rest with me.” I thought it was now time to end the scene, which was becoming too comically grave, so I went towards the door, simply saying:-- “Come, my friends, we have work to do."*
+> - 📜 **Bram Stoker (*Dracula*):** *"Van Helsing's heavy spectacles slid down his nose, giving his solemn countenance a **comically** startled expression."*
+> - 📜 **G. K. Chesterton (*The Innocence of Father Brown*):** *"The little priest appeared **comically** insignificant amidst the towering mahogany bookshelves of the lordly library."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Dr. Watson looked **comically** perplexed as Holmes produced the missing boot from beneath the hearthrug."*

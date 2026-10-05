@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive desire to eat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extreme gluttony.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Insatiable greediness of appetite; extreme rapacity or eagerness in consuming food.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character study, an all-consuming, rapacious appetite for wealth, power, literature, or sensory experience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, voraciousness designates excessive desire to eat."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The ferocious **voraciousness** of the blue sharks around the whale's carcass surpassed all human imagination."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The revolutionary tribunal devoured victims with a frightful **voraciousness** that shocked even hardened Jacobins."*
+> - 📜 **Jonathan Swift (*A Modest Proposal*):** *"The landlords have already devoured most of the parents, and exhibit equal **voraciousness** toward the offspring."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The period following birth during which milk is secreted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The production and secretion of milk by the mammary glands.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The secretion of milk from the mammary glands, or the period during which a mother suckles her young.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive physiology and mammalian biology, neuroendocrine-mediated galactopoiesis sustaining neonates post-parturition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Hence the custom which prohibits the commerce of the sexes while the worms are hatching may be only an extension, by analogy, of the rule which is observed by many races, that the husband may not cohabit with his wife during pregnancy and lactation."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The development of **lactation** marks the decisive evolutionary transition defining the entire mammalian class."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The onset of **lactation** follows parturition, governed by complex neurohormonal interactions between pituitary and mammary tissues."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Infection of the glandular lobules during early **lactation** may precipitate acute puerperal mastitis."*

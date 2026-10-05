@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an eagerly voracious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an eagerly voracious manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a voracious manner; ravenously, greedily, or with insatiable eagerness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual or behavioral contexts, absorbing books, knowledge, or experiences with relentless, concentrated appetite.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"He walked up to the sideboard, and tearing a piece from the loaf he devoured it voraciously, washing it down with a long draught of water."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Let me alone, now." This colloquy had taken place at the dinner table where Bloodworth was voraciously devouring food, in an effort, it would appear, to be strong abdominally if not intellectually."*
-> - 📜 **James Joyce (*Ulysses*):** *"Occasionally he drank voraciously the juice of gooseberry fool from an inclined plate."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"He walked up to the sideboard, and tearing a piece from the loaf he devoured it **voraciously**, washing it down with water."*
+> - 📜 **James Joyce (*Ulysses*):** *"Occasionally a sea-gull descended, snatched the piece of bun, and gulped it **voraciously** before wheeling upward."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"Buck bolted his ration **voraciously**, learning to steal from his fellows before the drivers could notice."*

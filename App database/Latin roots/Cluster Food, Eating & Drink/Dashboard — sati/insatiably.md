@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To an insatiable degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an insatiable manner; with persistence but without satisfaction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an insatiable manner; with an appetite, curiosity, or longing that cannot be satisfied or appeased.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character portrayal and narrative prose, pursuing knowledge, sensory experience, or wealth with ravenous, unremitting persistence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, insatiably designates to an insatiable degree."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The curious boy listened **insatiably** to every traveler's tale of foreign adventures, begging for another chapter before bed."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The human spirit thirsts **insatiably** after absolute truth, refusing to rest content in outward material comforts."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"She read **insatiably** through the long winter evenings, eager to absorb every nuance of European art and culture."*

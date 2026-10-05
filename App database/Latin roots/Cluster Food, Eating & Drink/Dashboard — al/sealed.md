@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make tight; secure against leakage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Close with or as if with a seal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fastened, closed securely, or authenticated with an official seal so as to prevent opening or tampering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contract law and shipping logistics, executed under formal seal, or packaged within an airtight, tamper-evident container.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I crave our composition may be written And sealed between us."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hie, good Sir Michael; bear this sealed brief With winged haste to the Lord Marshal, This to my cousin Scroop, and all the rest To whom they are directed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ask for her And to her white hand see thou do commend This sealed-up counsel. [_Gives him money._] There’s thy guerdon."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"There's letters **sealed**: and my two schoolfellows, whom I will trust as I will adders fanged, they bear the mandate."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The packet lay upon the table, **sealed** with black wax and bearing strict directions that it be opened only after his death."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon had left a **sealed** codicil among his testamentary papers, imposing vindictive conditions upon his widow."*

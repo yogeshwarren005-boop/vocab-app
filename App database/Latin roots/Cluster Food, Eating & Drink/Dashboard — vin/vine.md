@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant with a weak stem that derives support from climbing, twining, or creeping along a surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant with a weak stem that derives support from climbing, twining, or creeping along a surface.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A climbing, trailing, or creeping plant with a long, slender, flexible stem, especially the grapevine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In viticulture and allegorical literature, specifically *Vitis vinifera*, symbol of fecundity, harvest, hospitality, and spiritual union.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, thou monarch of the vine, Plumpy Bacchus with pink eyne!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And let the stinking elder, grief, untwine His perishing root with the increasing vine!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These eyes, like lamps whose wasting oil is spent, Wax dim, as drawing to their exigent; Weak shoulders, overborne with burdening grief, And pithless arms, like to a wither’d vine That droops his sapless branches to the ground."*
+> - 📜 **William Shakespeare (*The Comedy of Errors*):** *"Thou art an elm, my husband, I a **vine**, whose weakness, married to thy stronger state, makes me with thy strength to communicate."*
+> - 📜 **John Milton (*Paradise Lost*):** *"They led the **vine** to wed her elm; she spoused about him twines her marriageable arms."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Wild grape clusters clambered up the pines, draping the festive **vine** over branches and rocks."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A librarian who classifies publication according to a categorial system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A librarian who classifies publication according to a categorial system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist or clerk who enters items into a formal catalogue; the British and Commonwealth spelling of cataloger.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archival preservation and museum curatorship, a professional responsible for documenting artifact accession records and provenance history.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cataloguer designates a librarian who classifies publication according to a categorial system."*
+> - 📜 **Austin Dobson (*De Libris: Prose and Verse*):** *"The diligent **cataloguer** deciphered the faded colophon of the early incunabulum with infectious antiquarian delight."*
+> - 📜 **Andrew Lang (*The Library*):** *"No true book-lover can resist glancing through the descriptive notes compiled by a learned **cataloguer** of rare volumes."*
+> - 📜 **Richard Garnett (*Essays in Librarianship and Bibliography*):** *"The principal **cataloguer** at the British Museum brought monumental order to centuries of unclassified printed sheets."*

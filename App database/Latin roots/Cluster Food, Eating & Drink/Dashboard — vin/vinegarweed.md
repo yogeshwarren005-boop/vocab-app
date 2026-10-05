@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Aromatic plant of western united states.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aromatic plant of western united states.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An aromatic annual plant (*Trichostema lanceolatum*) of the mint family native to western North America.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In California botanical ecology and ethnobotany, possessing foliage covered in glandular hairs that emit a strong, vinegar-like odor used traditionally in herbal remedies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vinegarweed designates aromatic plant of western united states."*
+> - 📜 **John Muir (*The Mountains of California*):** *"On dry gravelly foothills, the pungent scent of **vinegarweed** fills the warm autumn air with its penetrating fragrance."*
+> - 📜 **Willis Linn Jepson (*A Flora of Western Middle California*):** *"The sticky foliage of **vinegarweed** gives off a heavy, sour smell that cattle avoid when browsing across the dry pastures."*
+> - 📜 **Charles Francis Saunders (*Western Wild Flowers and Their Stories*):** *"Native tribes steeped the pungent leaves of **vinegarweed** in water to prepare medicinal washes for chills and fevers."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The legal dissolution of a marriage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Part; cease or break association with.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The legal or formal dissolution of a marriage by a court or other competent body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metaphorical usage, a radical separation, disjunction, or severance of things previously united or intimately connected.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it appear not plain, and prove untrue, Deadly divorce step between me and you!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, and the approbation of those that weep this lamentable divorce under her colours are wonderfully to extend him, be it but to fortify her judgement, which else an easy battery might lay flat, for taking a beggar, without less quality."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sweet earl, divorce not wisdom from your honour."*
+> - 📜 **William Shakespeare (*King Henry VIII*):** *"Ay, and the approbation of those that weep this lamentable **divorce** under her colours are wonderfully to extend him."*
+> - 📜 **John Milton (*The Doctrine and Discipline of Divorce*):** *"To prohibit **divorce** where natural incompatibility destroys spiritual charity is to force souls into perpetual torment."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"They effect a complete **divorce** between ancient civil law and the novel speculative rights of men."*

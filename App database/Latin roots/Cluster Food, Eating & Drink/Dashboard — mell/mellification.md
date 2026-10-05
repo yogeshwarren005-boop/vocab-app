@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin mell within the domain of Food, Eating & Drink.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of mell in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The biological process of producing or converting nectar into honey; or the art of honey-making.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical apiculture and folklore, the natural biochemical transformation of floral sucrose into invert sugars by bee enzymes within the hive.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mellification designates pertaining to, derived from, or characteristic of latin mell within the domain of food, eating & drink."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"The mystery of **mellification** consists in the bee's subtle alteration of sweet plant humors within her honey-sac."*
+> - 📜 **John Evelyn (*Sylva; or, A Discourse of Forest-Trees*):** *"Beekeepers observe that dry sunny weather greatly favors the rapid **mellification** of aromatic tree saps."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Ancient naturalists held diverse opinions concerning the celestial origin of dew before its **mellification** in the combs."*

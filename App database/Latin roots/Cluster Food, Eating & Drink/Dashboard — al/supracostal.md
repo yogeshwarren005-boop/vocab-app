@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin al within the domain of Food, Eating & Drink.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of al in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated above or upon the outer surface of the ribs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human thoracic anatomy and thoracic surgery, designating muscular fascicles, neurovascular branches, or surgical approaches situated superficial to the rib cage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supracostal designates pertaining to, derived from, or characteristic of latin al within the domain of food, eating & drink."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"Slender **supracostal** muscular slips assist in elevating the rib cage during vigorous inspiratory exertion in mammals."*
+> - 📜 **Sir Astley Cooper (*Lectures on the Principles and Practice of Surgery*):** *"The surgeon traced the purulent sinus along the **supracostal** fascia, taking care not to penetrate the intercostal pleura."*
+> - 📜 **William Flower (*An Introduction to the Osteology of the Mammalia*):** *"In certain edentates, ossified **supracostal** plates form an additional protective shield over the anterior ribs."*

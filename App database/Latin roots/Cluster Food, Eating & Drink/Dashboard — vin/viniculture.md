@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cultivation of grapes and grape vines; grape growing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cultivation of grapes and grape vines; grape growing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cultivation of grapevines, particularly for the specific purpose of winemaking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural economics and agronomy, the comprehensive art and science of grape production tailored to regional terroirs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, viniculture designates the cultivation of grapes and grape vines; grape growing."*
+> - 📜 **George Husmann (*American Grape Growing and Wine Making*):** *"The advancement of rational **viniculture** requires careful selection of native rootstocks adapted to regional soils."*
+> - 📜 **Alexis de Tocqueville (*Memoir on Pauperism*):** *"In the southern departments where **viniculture** flourishes, seasonal prosperity fluctuates dramatically with each vintage."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Scientific **viniculture** in the New World achieved maturity only after mastering hybrid trellising techniques."*

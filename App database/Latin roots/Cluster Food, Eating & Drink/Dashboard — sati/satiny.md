@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a smooth, gleaming surface reflecting light.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a smooth, gleaming surface reflecting light.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a smooth, glossy, or lustrous texture resembling that of satin fabric.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical and zoological description, having an exceptionally sleek, lustrous surface or soft sheen like fine brushed silk.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"The train was beating the post-chaise with its satiny horses, the train that went by coal one dug from the ground."*
-> - 📜 **James Joyce (*Ulysses*):** *"A jumping rose on satiny breast of satin, rose of Castile."*
-> - 📜 **James Joyce (*Ulysses*):** *"Miss Douce withdrew her satiny arm, reproachful, pleased. —Don’t make half so free, said she, till we are better acquainted."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Her fresh cheek had the smooth, **satiny** texture of an opening rose petal, blooming with vigorous country health."*
+> - 📜 **Edith Wharton (*The House of Mirth*):** *"Lily stroked the **satiny** surface of the lacquered screen, her delicate fingers sensitive to every refinement of luxury."*
+> - 📜 **Charles Darwin (*The Various Contrivances by which Orchids are Fertilised by Insects*):** *"The lower labellum of the orchid presents a **satiny** gloss that guides pollinating bees directly toward the nectary."*

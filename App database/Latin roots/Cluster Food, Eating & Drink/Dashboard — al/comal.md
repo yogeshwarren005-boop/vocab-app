@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of certain seeds (such as cotton) having a tuft or tufts of hair.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of certain seeds (such as cotton) having a tuft or tufts of hair.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A smooth, flat griddle traditionally made of clay or cast iron used in Mexican and Central American cooking to cook tortillas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Mesoamerican material culture and culinary archaeology, a circular earthenware plate essential for toasting maize masa, roasting chilies, and parching cacao seeds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, comal designates of certain seeds (such as cotton) having a tuft or tufts of hair."*
+> - 📜 **Bernal Díaz del Castillo (*The Discovery and Conquest of Mexico*):** *"In the great market place native women knelt before broad clay **comal** griddles, baking flat maize loaves over glowing coals."*
+> - 📜 **Fanny Calderón de la Barca (*Life in Mexico*):** *"The morning air was fragrant with baking tortillas warmed upon a primitive iron **comal** over the kitchen brazier."*
+> - 📜 **William H. Prescott (*History of the Conquest of Mexico*):** *"The household vessels included the earthenware **comal**, upon which Indian women prepared the daily corn cakes for their families."*

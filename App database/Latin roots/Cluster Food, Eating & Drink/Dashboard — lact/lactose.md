@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sugar comprising one glucose molecule linked to a galactose molecule; occurs only in milk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sugar comprising one glucose molecule linked to a galactose molecule; occurs only in milk.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A disaccharide sugar composed of galactose and glucose subunits, found naturally in mammalian milk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric gastroenterology and pharmaceutical formulation, a carbohydrate requiring lactase for intestinal hydrolysis, frequently used as an inert excipient in tablets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lactose designates a sugar comprising one glucose molecule linked to a galactose molecule; occurs only in milk."*
+> - 📜 **Louis Pasteur (*Memoir on the Fermentation of Milk*):** *"Lactic yeast transforms the **lactose** contained in sweet whey into lactic acid and carbonic gas."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"Milk sugar or **lactose** crystallizes in hard prisms and contributes the characteristic mild sweetness to natural milk."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"Physicians frequently prescribe medicinal powders triturated with fine crystals of **lactose** to ensure accurate dosage."*

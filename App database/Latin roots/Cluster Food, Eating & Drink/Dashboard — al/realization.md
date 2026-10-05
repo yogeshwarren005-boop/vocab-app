@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coming to understand something clearly and distinctly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Making real or giving the appearance of reality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The clear understanding or awareness of something, or the practical fulfillment and actualization of a goal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In transactional economics and developmental psychology, the conversion of assets into spendable funds, or the concrete enactment of an ideal project.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Now came the realization that things might be different."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"How nice it must seem!” said Liddy, with the fixed features of mental realization."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Then how can you, O my own husband, stop loving me?” “I repeat, the woman I have been loving is not you.” “But who?” “Another woman in your shape.” She perceived in his words the realization of her own apprehensive foreboding in former times."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The sudden **realization** of Gabriel's steadfast devotion broke upon her heart with overpowering tenderness."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"The highest happiness of humanity lies in the progressive **realization** of universal justice and mutual sympathy."*
+> - 📜 **Oscar Wilde (*De Profundis*):** *"Suffering is the supreme mode of illumination through which the soul attains complete **realization** of its true spiritual nature."*

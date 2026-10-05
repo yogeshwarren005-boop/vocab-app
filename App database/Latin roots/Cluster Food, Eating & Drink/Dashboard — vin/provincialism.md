@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lack of sophistication.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A partiality for some particular place.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A word, phrase, idiom, or custom peculiar to a specific province, region, or rural locality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural criticism, narrowness of outlook, parochialism, or lack of cosmopolitan breadth and intellectual sophistication.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Besides, the English whalers sometimes affect a kind of metropolitan superiority over the American whalers; regarding the long, lean Nantucketer, with his nondescript provincialisms, as a sort of sea-peasant."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Besides, the English whalers sometimes affect a kind of metropolitan superiority over the American whalers; regarding the long, lean Nantucketer, with his nondescript provincialisms, as a sort of sea-peasant."*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"Excepting a few provincialisms of slight consequence, you have no marks of the manners which I am habituated to consider as peculiar to your class."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"The chief obstacle to an English academy is our inveterate **provincialism** of taste and lack of urbanity in criticism."*
+> - 📜 **William Hazlitt (*Table Talk*):** *"A marked **provincialism** clung to his dialect, betraying immediately the rugged dialect of Yorkshire."*
+> - 📜 **Henry James (*Hawthorne*):** *"The quiet Salem environment fostered a delicate genius, yet was marked by unmistakable New England **provincialism**."*

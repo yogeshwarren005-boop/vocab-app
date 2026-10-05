@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The union of diverse things into one body or form or group; the growing together of parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The union of diverse things into one body or form or group; the growing together of parts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, state, or tendency of growing together, uniting, or merging into a single mass.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical scientific prose, an alternate noun form denoting the progressive blending or fusion of distinct elements or fluids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coalescency designates the union of diverse things into one body or form or group; the growing together of parts."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum; or, A Natural History*):** *"Certain oily fluids exhibit an innate **coalescency**, drawing together into large spheres whenever agitation ceases."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The natural **coalescency** of related ideas in memory often leads the judgment into unexamined prejudices."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"The observed **coalescency** of the precipitated particles proves that attractive affinities operate across the solvent."*

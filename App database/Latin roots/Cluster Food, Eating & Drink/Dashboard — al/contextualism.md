@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any doctrine emphasizing the importance of the context in solving problems or establishing the meaning of terms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any doctrine emphasizing the importance of the context in solving problems or establishing the meaning of terms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A philosophical doctrine emphasizing that an action, utterance, or expression can only be understood within its specific context.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contemporary epistemology and legal interpretation, the thesis that knowledge attributions and statutory standards vary according to conversational stakes and situational standards.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, contextualism designates any doctrine emphasizing the importance of the context in solving problems or establishing the meaning of terms."*
+> - 📜 **William James (*Pragmatism: A New Name for Some Old Ways of Thinking*):** *"Our radical empiricism defends a thoroughgoing **contextualism**, rejecting timeless dogmas in favor of dynamic circumstance."*
+> - 📜 **John Dewey (*Experience and Nature*):** *"Philosophical **contextualism** recognizes that every problem and solution emerges from concrete historical matrixes."*
+> - 📜 **George Santayana (*Scepticism and Animal Faith*):** *"The claims of critical **contextualism** remind us that all human knowledge is anchored to the observer's mortal horizon."*

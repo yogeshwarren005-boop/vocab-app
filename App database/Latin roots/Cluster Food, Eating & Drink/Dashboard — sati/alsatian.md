@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of alsace.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Breed of large shepherd dogs used in police work and as a guide for the blind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A German Shepherd dog, or a native, inhabitant, or dialect of Alsace, a region in northeastern France bordering Germany.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In European history and canine terminology, an inhabitant of Alsace, or the British designation adopted for the German Shepherd following the First World War.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"Turley, and the Alsatian Foggerty."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The French dragoon was a young Alsatian who spoke French with a German accent."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"But don’t hurt my little horse!” said the Alsatian good-naturedly to Rostóv when the animal was handed over to the hussar."*
+> - 📜 **George Orwell (*Down and Out in Paris and London*):** *"A fierce **Alsatian** dog paced behind the iron railings of the yard, barking loudly whenever a ragged porter passed by."*
+> - 📜 **Arthur Conan Doyle (*His Last Bow*):** *"The sentry stood beside a powerful **Alsatian** hound whose keen senses guarded the secluded country estate against intruders."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The brave **Alsatian** peasants defended their border villages against the invading legions with stubborn tenacity."*

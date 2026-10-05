@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Quick and eager.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Quick and eager.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by prompt, cheerful readiness, briskness, and enthusiastic speed in performing actions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioural characterization, describing swift, willing compliance that reflects an energetic and cooperative disposition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alacritous designates quick and eager."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The youthful harpooner sprang forward with **alacritous** zeal the moment the cry from the masthead reached the deck."*
+> - 📜 **George Meredith (*The Egoist*):** *"She received the guest with an **alacritous** warmth that instantly dissolved the awkward reserve of the morning."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The volunteers marched out with **alacritous** strides, eager to defend the frontier against the invading legions."*

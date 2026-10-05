@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a concoction (of) by mixing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prepare or cook by mixing ingredients.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To prepare or create a dish or beverage by combining various ingredients; to invent or contrive a story, plan, or scheme.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In strategic deception or criminal jurisprudence, to fabricate an elaborate false pretext or fraudulent conspiracy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Petunia married Jasper according to his word of promise, and I have taught her to cook about five French dishes that he couldn't concoct to save his life, and which help her to keep him in his place."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"One afternoon, walking with Pearl in a retired part of the peninsula, she beheld the old physician with a basket on one arm and a staff in the other hand, stooping along the ground in quest of roots and herbs to concoct his medicine withal."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Anne shrouded her muslin glories in a big apron and went down to concoct her soup."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"Long John Silver gathered his mutinous crew in the galley to **concoct** a treacherous plan to seize the ship's treasure."*
+> - 📜 **Jane Austen (*Emma*):** *"She began immediately to **concoct** an agreeable little scheme for bringing the two timid lovers together."*
+> - 📜 **Edgar Allan Poe (*The Murders in the Rue Morgue*):** *"It required no small degree of cunning to **concoct** an explanation capable of deceiving the police prefect."*

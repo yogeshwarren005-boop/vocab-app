@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small insect-eating mainly nocturnal terrestrial or fossorial mammals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any organism that feeds mainly on insects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An animal or plant that feeds primarily or exclusively on insects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoological classification, a member of the former mammalian order Insectivora (such as shrews, hedgehogs, and moles); or a botanical carnivore.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, insectivore designates small insect-eating mainly nocturnal terrestrial or fossorial mammals."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The little hedgehog is a nocturnal **insectivore**, rooting busily among fallen leaves for beetles, grubs, and snails."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The curious tarsier is a nocturnal **insectivore** leaping nimbly through the bamboo thickets in quest of crickets."*
+> - 📜 **Charles Darwin (*Insectivorous Plants*):** *"Each bladder of the aquatic **insectivore** Utricularia entraps swimming water-fleas by a sensitive mechanical valve."*

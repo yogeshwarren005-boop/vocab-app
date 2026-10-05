@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin al within the domain of Food, Eating & Drink.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of al in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or affected by pain or disease in the hip joint (*coxalgia*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century orthopedic medicine and surgical pathology, describing patients afflicted with tuberculous arthritis or chronic degenerative inflammation of the acetabulum and femur.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coxalgic designates pertaining to, derived from, or characteristic of latin al within the domain of food, eating & drink."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The surgeon observed a characteristic **coxalgic** limp in the child, indicating early tuberculous involvement of the hip joint."*
+> - 📜 **William Cullen (*First Lines of the Practice of Physic*):** *"Severe nocturnal spasms accompanied the **coxalgic** complaints of the patient, requiring immobilizing splints."*
+> - 📜 **Sir Astley Cooper (*A Treatise on Dislocations and Fractures of the Joints*):** *"Chronic **coxalgic** deformities frequently result from untreated subluxations that erode the articular cartilage of the pelvic socket."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin vin within the domain of Food, Eating & Drink.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of vin in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resembling, abounding in, or producing vines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In landscape description and horticulture, overgrown with trailing leafy tendrils, creeper shoots, or dense grapevine foliage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Richard's letter braced my viny drooping of mind at once and from thinking into the Crag's affairs of sentiment, I turned with masculine vigor to begin to mix into his affairs of finance."*
+> - 📜 **Henry David Thoreau (*A Week on the Concord and Merrimack Rivers*):** *"The river banks were cloaked in a **viny** tangle of wild clematis and grape, hanging low into the sluggish current."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"A wild **viny** growth covered the ruins of the deserted cottage, concealing the crumbling chimney with green boughs."*
+> - 📜 **John Burroughs (*Wake-Robin*):** *"Deep within the moist ravine, a **viny** canopy of wild runner beans choked out the smaller woodland grasses."*

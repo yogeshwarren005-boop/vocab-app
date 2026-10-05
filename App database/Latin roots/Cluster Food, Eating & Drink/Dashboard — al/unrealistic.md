@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not realistic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not realistic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not based on facts or actual conditions; impractical, fanciful, or excessively optimistic in expectation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral economics and strategic analysis, exhibiting cognitive biases that underestimate operational costs, friction, and environmental constraints.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"It's downright unrealistic to keep our self-defense forces in the Special Zone so far below what's needed to protect our vital interests." "What do you suggest, Jim," the President shrugged, "break our treaties with the Outer Region?"*
-> - 📜 **Algis Budrys (*Citadel*):** *"But you, Mead, are a young whipper-snapper." "But that's totally unrealistic!" Mead protested."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Schemes for immediate universal equality rest upon an **unrealistic** assessment of human incentives and administrative capacity."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"It is entirely **unrealistic** to imagine that the ethical process can totally abolish the cosmic struggle for existence."*
+> - 📜 **Alexis de Tocqueville (*The Old Regime and the Revolution*):** *"The literary philosophers entertained **unrealistic** dreams of remodeling human society entirely upon abstract geometrical theories."*

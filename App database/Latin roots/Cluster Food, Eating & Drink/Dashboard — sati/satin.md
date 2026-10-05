@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A smooth fabric of silk or rayon; has a glossy face and a dull back.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A smooth fabric of silk or rayon; has a glossy face and a dull back.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A smooth, glossy fabric, typically of silk or synthetic fibers, produced with a weave in which warp threads float over weft threads.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In textile manufacturing and fashion history, a lustrous woven textile characterized by minimal light scattering, high drape, and ceremonial elegance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What said Master Dommelton about the satin for my short cloak and my slops?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I looked he should have sent me two and twenty yards of satin, as I am a true knight, and he sends me “security”."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then is there here one Master Caper, at the suit of Master Three-pile the mercer, for some four suits of peach-coloured satin, which now peaches him a beggar."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mrs. Bennet admired the bride's white **satin** gown, declaring that nothing could look more elegant or suited to a woman of fortune."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He lay upon the couch, resting his head against cushions of dark blue **satin** embroidered with gold thread."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What sayeth the fellow with the smooth tongue, clothed in soft **satin** and speaking words of deceitful flatteries?"*

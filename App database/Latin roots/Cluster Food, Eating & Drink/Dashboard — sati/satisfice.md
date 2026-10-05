@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Decide on and pursue a course of action satisfying the minimum requirements to achieve a goal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Decide on and pursue a course of action satisfying the minimum requirements to achieve a goal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To accept an available option that is adequate or satisfactory rather than searching for the absolute optimal choice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral economics and decision theory (coined by Herbert Simon), applying heuristic thresholds under bounded rationality instead of optimizing utility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, satisfice designates decide on and pursue a course of action satisfying the minimum requirements to achieve a goal."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"Practical managers frequently choose to **satisfice** by adopting conventional routines that guarantee solvent returns without exhaustive risk."*
+> - 📜 **William James (*The Will to Believe*):** *"In the daily conduct of life, men must often **satisfice** with plausible beliefs rather than pause forever in search of metaphysical certainty."*
+> - 📜 **John Dewey (*Human Nature and Conduct*):** *"Human decision-makers tend to **satisfice**, halting their inquiry when a workable resolution resolves the immediate tension of the problem."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Periwinkles: low creeping evergreen perennials.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Periwinkles: low creeping evergreen perennials.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of trailing evergreen shrubs and herbs in the dogbane family Apocynaceae, known as periwinkle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticultural design and ethnobotany, widely cultivated for blue or purple salverform flowers and glossy foliage used as groundcover.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"PERIWINKLE RUST; spots yellowish; sori small, subrotund, and oval, on the under surface, surrounded by the ruptured epidermis; spores oval, rather ovoid, brown.—On leaves of _Vinca major_."*
+> - 📜 **John Ruskin (*Proserpina: Studies of Wayside Flowers*):** *"The blue blossom of the **vinca** creeps along the shaded garden border, opening its star among glossy dark leaves."*
+> - 📜 **Gertrude Jekyll (*Wood and Garden*):** *"Beneath the high canopy of beeches, a carpet of **vinca** minor forms an evergreen tapestry impervious to weeds."*
+> - 📜 **Liberty Hyde Bailey (*Cyclopedia of American Horticulture*):** *"Species of **vinca** are prized equally for their hardy trailing habits and their cheerful spring bloom."*

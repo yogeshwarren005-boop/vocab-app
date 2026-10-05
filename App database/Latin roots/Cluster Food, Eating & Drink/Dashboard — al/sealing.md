@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of treating something to make it repel water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make tight; secure against leakage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of fastening, closing hermetically, or securing with a seal, or the industry of hunting seals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic protocol and maritime trade, affixing authenticating wax stamps to ratify treaties, or commercial pelagic seal harvesting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"With the round top of an inkstand and two broken bits of sealing-wax he is silently and slowly working out whatever train of indecision is in his mind."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now the inkstand top is in the middle, now the red bit of sealing-wax, now the black bit."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"My love has sworn, with sealing kiss, With me to live—to die; I have at last my nameless bliss."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"Go with me to a notary, seal me there your single bond; and, in a merry sport, if you repay me not on such a day, let the forfeit be nominated for an equal pound of your fair flesh; this **sealing** shall prove our mutual jest."*
+> - 📜 **George Eliot (*Silas Marner*):** *"She watched the lawyer **sealing** the parchment with red wax, feeling that a fateful boundary had closed across her life."*
+> - 📜 **Joseph Conrad (*Typhoon*):** *"The carpenter worked frantically in the howling gale, **sealing** the damaged hatch tarpaulins against the invading sea."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being with someone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being with someone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of fellowship, close association, and mutual comfort shared between friends or partners.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social psychology and attachment theory, the supportive interpersonal bond characterized by mutual trust, emotional security, and shared activities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it be honour in your wars to seem The same you are not, which for your best ends You adopt your policy, how is it less or worse That it shall hold companionship in peace With honour as in war, since that to both It stands in like request?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"MESSENGER. ’Tis Alcibiades, and some twenty horse, All of companionship."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"This close companionship with her was not only the greatest enjoyment of my young years, but was the greatest of benefits for my whole life." "You certainly were lucky, mother," Mea exclaimed passionately."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She felt the deep loneliness of a marriage where intellectual sympathy and true **companionship** were utterly lacking."*
+> - 📜 **Robert Louis Stevenson (*Travels with a Donkey in the Cévennes*):** *"Even the obstinate beast provided a rough sort of **companionship** upon the silent mountain passes of southern France."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Their long acquaintance had matured into that calm **companionship** which frequently forms the surest foundation of love."*

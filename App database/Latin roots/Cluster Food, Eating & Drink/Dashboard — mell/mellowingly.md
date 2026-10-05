@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: So as to mellow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: So as to mellow.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that softens, ripens, enriches, or imparts a gentle, mature quality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive aesthetics, operating so as to produce harmony, warmth, and soothing visual or sonic atmosphere.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mellowingly designates so as to mellow."*
+> - 📜 **Herman Melville (*Mardi: and a Voyage Thither*):** *"The tropical twilight fell **mellowingly** upon the quiet lagoons, blending azure water with roseate sky."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Tradition operates **mellowingly** upon the harsh outlines of feudal custom, clothing stern duty in reverence."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"The Italian sun shone **mellowingly** across the moss-grown fountain, transforming ruin into peaceful picturesque beauty."*

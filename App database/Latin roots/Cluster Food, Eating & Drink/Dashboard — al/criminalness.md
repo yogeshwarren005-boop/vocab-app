@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being a criminal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being a criminal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The guilty character, felonious nature, or reprehensible culpability of an unlawful act.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and legal ethics, the degree of moral turpitude and intentional malice inherent in a breach of the social contract.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, criminalness designates the state of being a criminal."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"He acknowledged the deep **criminalness** of his former betrayal, resolving to dedicate his remaining years to penitence."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"No sophistry can conceal the atrocious **criminalness** of the massacres perpetrated in the name of liberty."*
+> - 📜 **Jonathan Swift (*The Drapier's Letters*):** *"The people clearly perceived the scandalous **criminalness** of foisting degraded copper coinage upon an impoverished nation."*

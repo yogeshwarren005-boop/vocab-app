@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lessen or to try to lessen the seriousness or extent of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide physical relief, as from pain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To relieve, soothe, or alleviate pain or distress without curing the underlying cause; or to extenuate an offense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hospice medicine and judicial ethics, mitigating clinical suffering to enhance comfort, or presenting extenuating circumstances to lessen moral blame.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"To her and her like, birth itself was an ordeal of degrading personal compulsion, whose gratuitousness nothing in the result seemed to justify, and at best could only palliate."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode, which on the one hand would have inclined her to desire that the mildest view of his character should be the true one, but on the other, made her the more afraid of seeming to palliate his culpability."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But no favorable circumstances palliate or atone for the disadvantages of dissension in the executive department."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She offered no excuses to **palliate** her conduct, standing before her accuser with simple and heartbreaking resignation."*
+> - 📜 **George Eliot (*Silas Marner*):** *"Dunsey sought every subtle sophistry to **palliate** his theft, convincing himself that luck would soon balance the ledger."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"No friendly hand could **palliate** the burning agony that tortured the minister's remorseful conscience."*

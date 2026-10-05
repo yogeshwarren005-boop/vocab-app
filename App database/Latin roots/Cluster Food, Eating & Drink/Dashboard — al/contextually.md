@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner dependent on context.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner dependent on context.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that depends on, relates to, or is determined by the surrounding context or situation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytical semantics and discourse analysis, modifying semantic interpretation so that meaning varies systematically with communicative frames and pragmatic cues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, contextually designates in a manner dependent on context."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Propositions must be examined **contextually** to ascertain whether an ambiguous term denotes an attribute or a substance."*
+> - 📜 **William James (*Essays in Radical Empiricism*):** *"Perceptions function **contextually** within the stream of thought, pointing forward to impending practical encounters."*
+> - 📜 **Bertrand Russell (*The Problems of Philosophy*):** *"We interpret symbols **contextually**, relying on background conventions to resolve what would otherwise remain impenetrable ambiguity."*

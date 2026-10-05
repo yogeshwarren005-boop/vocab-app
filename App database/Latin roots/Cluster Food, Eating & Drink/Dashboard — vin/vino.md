@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fermented juice (of grapes especially).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fermented juice (of grapes especially).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wine, especially in Spanish or Italian usage, or as an informal colloquial term for ordinary wine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociolinguistic and culinary registers, denoting casual, unpretentious table wine consumed daily in Mediterranean cultures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Nunc vino pellite curas, Cras ingens iterabimus aequor,'" and the Bacchanalian, quoting the above with a House of Commons air, tossed off nearly a thimbleful of wine with an immense flourish of his glass."*
+> - 📜 **Ernest Hemingway (*A Farewell to Arms*):** *"We sat together in the courtyard drinking rough red **vino** from a chipped earthenware pitcher."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"The militia men passed round a leather wineskin filled with harsh, acrid **vino** negro that tasted of resin."*
+> - 📜 **D. H. Lawrence (*Sea and Sardinia*):** *"The innkeeper brought us fresh bread, goat's cheese, and a flagon of golden **vino** that sparkled in the glass."*

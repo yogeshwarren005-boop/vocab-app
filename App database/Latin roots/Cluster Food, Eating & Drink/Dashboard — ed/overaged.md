@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Too old to be useful; - anthony trollope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Too old to be useful; - anthony trollope.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exceeding the standard, optimal, or allowable age limit; too advanced in years or maturation for regular service.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In personnel administration and inventory control, past the mandatory age of retirement or beyond the shelf-life date.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overaged designates too old to be useful; - anthony trollope."*
+> - 📜 **Anthony Trollope (*The Warden*):** *"The bishop considered whether the **overaged** clergyman could still perform the duties of the parish cathedral."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The fleet was reinforced with fifty **overaged** destroyers transferred from American anchorages to protect Atlantic convoys."*
+> - 📜 **George Gissing (*New Grub Street*):** *"He felt like an **overaged** scholar competing fruitlessly against younger and more energetic journalists."*

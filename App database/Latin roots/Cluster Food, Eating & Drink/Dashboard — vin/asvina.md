@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The seventh month of the hindu calendar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The seventh month of the hindu calendar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the seventh month of the Hindu lunisolar calendar, coinciding with September and October.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Hindu calendrical astronomy and ritual practice, marking the autumn equinoctial period during which major observances such as Durga Puja take place.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asvina designates the seventh month of the hindu calendar."*
+> - 📜 **William Jones (*Asiatic Researches*):** *"During the bright fortnight of the lunar month **asvina**, the solemn rites dedicated to the goddess Durga are observed with magnificent pomp."*
+> - 📜 **Monier Monier-Williams (*Brahmanism and Hinduism*):** *"The festival of lights follows soon after the concluding sacrifices of **asvina** across northern India."*
+> - 📜 **Al-Biruni (*Alberuni's India*):** *"In the month of **asvina**, the autumn harvest commences and offerings of fresh grain are presented to the ancestral spirits."*

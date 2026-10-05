@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not of legal age.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not of legal age.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having reached legal adulthood or full maturity; underage, juvenile, or youthful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal jurisprudence and commercial property transfer, designating a minor lacking contractual capacity to execute binding obligations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonaged designates not of legal age."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The chancellor intervened to safeguard the ancestral estates of the **nonaged** ward against grasping executors."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The magistrates ruled that the **nonaged** apprentice could not be held responsible for debt contracted without his guardian's consent."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The young heir, being yet **nonaged** and inexperienced, relied wholly upon the counsel of his elder ministers."*

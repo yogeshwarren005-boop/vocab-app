@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to wine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to wine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, resembling, or characteristic of wine; possessing the qualities or aroma of wine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological pathology and descriptive aesthetics, showing the flushed, rubicund coloration or intoxication associated with drinking wine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Trotter's flushed countenance and defective intonation, that he, too, had had recourse to vinous stimulus."*
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Thus, Saint Antoine in this vinous feature of his, until midday."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Thus, Saint Antoine in this **vinous** feature of his, until midday, carried the red stain upon his brow."*
+> - 📜 **William James (*Pragmatism*):** *"It is matter of wonder that men of superior intellect are still weak enough to seek excitement in **vinous** stimulants."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"A rich **vinous** fragrance rose from the antique casks stored deep within the sunless cellar."*

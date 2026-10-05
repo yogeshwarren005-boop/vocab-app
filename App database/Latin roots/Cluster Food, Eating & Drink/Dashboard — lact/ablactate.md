@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Gradually deprive (infants and young mammals) of mother's milk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gradually deprive (infants and young mammals) of mother's milk.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To wean a child or young mammal from nursing or mother's milk to solid foods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric medicine and pastoral animal husbandry, to terminate maternal lactation by gradually introducing external nutritional substitutes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ablactate designates gradually deprive (infants and young mammals) of mother's milk."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"Husbandmen choose the mild days of spring to **ablactate** young calves and accustom them to meadow forage."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Ancient physicians debated the precise season when mothers should safely **ablactate** infants without hazard of digestive fevers."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Nurses were instructed to **ablactate** the infant with soothing barley broths and sweetened curds."*

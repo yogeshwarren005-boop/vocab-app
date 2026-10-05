@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being a criminal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being a criminal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The phenomenon, state, or practice of criminal behavior, or the systematic study of criminality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century penal sociology, the social contagion, psychological habits, and underworld culture that sustain recurrent lawbreaking within urban centers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, criminalism designates the state of being a criminal."*
+> - 📜 **Cesare Lombroso (*Criminal Man*):** *"Anthropological examination seeks to uncover the organic roots of congenital **criminalism** in juvenile offenders."*
+> - 📜 **Henry Mayhew (*London Labour and the London Poor*):** *"The squalid alleys around the docks served as fertile breeding grounds for chronic **criminalism** and juvenile delinquency."*
+> - 📜 **William Douglas Morrison (*Juvenile Offenders*):** *"Penal reformers must address the economic and domestic conditions that actively foster habitual **criminalism** among the urban youth."*

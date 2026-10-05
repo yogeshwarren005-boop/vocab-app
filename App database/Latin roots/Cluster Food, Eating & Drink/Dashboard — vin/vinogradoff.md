@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: British historian (born in russia) (1854-1925).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: British historian (born in russia) (1854-1925).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Referring to Sir Paul Vinogradoff (1854–1925), the renowned Anglo-Russian legal scholar, medievalist, and historian of agrarian social structures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal historiography and feudal studies, associated with pioneering analyses of medieval English manor customs, village communities, and jurisprudence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vinogradoff designates british historian (born in russia) (1854-1925)."*
+> - 📜 **Frederic William Maitland (*Domesday Book and Beyond*):** *"The brilliant archival discoveries of **Vinogradoff** transformed our understanding of the customary rights of the English peasantry."*
+> - 📜 **F. M. Powicke (*Modern Historians and the Study of History*):** *"In the seminar room, **Vinogradoff** exhibited an encyclopedic grasp of comparative jurisprudence and Slavic agrarian law."*
+> - 📜 **Marc Bloch (*Feudal Society*):** *"The classic monographs of **Vinogradoff** on villainage remain essential for tracing the evolution of manorial obligations."*

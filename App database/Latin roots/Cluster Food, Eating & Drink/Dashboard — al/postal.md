@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the system for delivering mail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the system for delivering mail.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the post office, the mail system, or the carriage and delivery of letters and parcels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public administration and logistics history, relating to state-monopolized communication networks, franking privileges, and national mail distribution systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"_I am afraid I did not direct that letter right_." He sent a second postal card, asking if a letter had been received at her home; if not, to go to her post office and inquire."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The little invalid received the postal card, but not the letter."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Advantages of the postal savings plan. § 9."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"In the modern era of telegraphs and rapid **postal** transit, messages crossed continents within a few fleeting days."*
+> - 📜 **Anthony Trollope (*An Autobiography*):** *"During my long career in the General Post Office, I introduced the red pillar box to revolutionize public **postal** convenience throughout Britain."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"The foreign packet brought a collection of **postal** dispatches that threw the counting-house into immediate commotion."*

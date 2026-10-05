@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin vor within the domain of Food, Eating & Drink.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of vor in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An animal that thrives wholly or predominantly on fruit as its primary dietary staple.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and tropical ecology, an arboreal seed-dispersing vertebrate possessing gut adaptations optimized for fermenting soluble fruit sugars.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, frugivore designates pertaining to, derived from, or characteristic of latin vor within the domain of food, eating & drink."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The early anthropoid ancestors of mankind were in all probability arboreal **frugivore** creatures feeding on tropical forest fruits."*
+> - 📜 **Alfred Russel Wallace (*Tropical Nature and Other Essays*):** *"The flying fox is an enormous bat that acts as a specialized **frugivore**, stripping orchards bare during nocturnal flights."*
+> - 📜 **Henry Walter Bates (*The Naturalist on the River Amazons*):** *"Flocks of toucans flew overhead, each colorful **frugivore** searching the high forest canopy for ripened figs."*

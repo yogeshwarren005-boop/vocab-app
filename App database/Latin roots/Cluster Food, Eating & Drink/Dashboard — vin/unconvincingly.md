@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unconvincing manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unconvincing manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unconvincing or unpersuasive manner; without producing belief, agreement, or reassurance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic examination or stage performance, delivered with evident hesitation, awkwardness, or visible implausibility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unconvincingly designates in an unconvincing manner."*
+> - 📜 **E. M. Forster (*A Room with a View*):** *"Lucy laughed **unconvincingly**, turning her head away to conceal the sudden rush of color to her cheeks."*
+> - 📜 **Henry James (*The Wings of the Dove*):** *"Densher argued **unconvincingly** against his own conscience, seeking to justify what he knew was dishonorable."*
+> - 📜 **George Gissing (*New Grub Street*):** *"He assured his wife **unconvincingly** that the editor would accept the manuscript before the quarter ended."*

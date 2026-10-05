@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fail to satisfy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fail to satisfy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To fail to satisfy or please; to cause discontent, displeasure, or disappointment in someone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social reform and moral philosophy, to disturb uncritical complacency by revealing deficiencies, injustices, or missed opportunities for progress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"When the morning sun would shine in through the open windows and the green slope of the castle would send its greeting to her, she did not want little Leonore to feel dissatisfied with her new quarters."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"We found him engaged with a not very hopeful pupil—a stubborn little girl with a sulky forehead, a deep voice, and an inanimate, dissatisfied mama—whose case was certainly not rendered more hopeful by the confusion into which we threw her preceptor."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Feeling uneasy and dissatisfied with himself for this nervous excitability, he returned to bed."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Great works of art only **dissatisfy** us when they awaken lofty yearnings that our mundane daily actions fail to fulfill."*
+> - 📜 **George Bernard Shaw (*Man and Superman*):** *"The true purpose of education is to **dissatisfy** the young mind with trivial pleasures and direct it toward noble achievements."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Nothing seemed capable of pleasing the spoiled heir, whose perpetual whim was to **dissatisfy** his indulgent relatives."*

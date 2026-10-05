@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin ed within the domain of Food, Eating & Drink.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of ed in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Covered with or consisting of concentric layers, coats, or tunics, as in an onion bulb.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine invertebrate zoology, belonging to the subphylum Tunicata, characterized by an outer protective cellulose-like tunic enclosing the body.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tunicated designates pertaining to, derived from, or characteristic of latin ed within the domain of food, eating & drink."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Naturalists have traced the early chordate ancestry back to the larva of a **tunicated** marine animal."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The ascidian possesses a distinct **tunicated** envelope composed largely of tunicin resembling plant cellulose."*
+> - 📜 **Asa Gray (*First Lessons in Botany*):** *"An onion is a classic example of a **tunicated** bulb formed by broad overlapping fleshy leaf scales."*

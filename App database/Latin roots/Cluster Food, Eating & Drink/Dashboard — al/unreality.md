@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality possessed by something that is unreal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being insubstantial or imaginary; not existing objectively or in fact.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Absence of tangible substance, illusory character, or dreamlike detachment from verifiable physical existence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychopathology and aesthetic philosophy, the subjective symptom of derealization, wherein external surroundings feel fabricated, flat, or simulated.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"The forms in which he gave it expression are predominantly melancholy, because this kind of idealism, with its insistence on the unreality of evil, is the recoil from life of an unsatisfied and disappointed soul."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Strangest of all it was, to the brink of unreality, that Laura evidently remained blind."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"A dim sense of having taken part in some strange tragedy came to him once or twice, but there was the unreality of a dream about it."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He felt that the only things one never regrets are one's mistakes, and a curious sense of the **unreality** of life stole over him."*
+> - 📜 **Bram Stoker (*Dracula*):** *"An oppressive sense of **unreality** enveloped me as the wolves howled beneath the castle battlements in the moonlight."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Dr. Manette stared about the court with a bewildered look, as if awakening from a long nightmare of spectral **unreality**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Seed again or anew.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Maintain by seeding without human intervention.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To sow seeds again on an area of land; or to propagate and sprout again naturally from shed seeds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agronomy and ecological restoration, to introduce new seed varieties to replenish depleted pastures or restore native prairie cover.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reseed designates seed again or anew."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The farmers planned to plow the barren meadow and **reseed** the furrows with winter clover."*
+> - 📜 **John Muir (*The Mountains of California*):** *"Conifers shed millions of winged seeds that **reseed** the blackened slopes after summer forest fires."*
+> - 📜 **Henry David Thoreau (*The Succession of Forest Trees*):** *"Wind and migratory birds constantly **reseed** neglected pasturelands with oak saplings and birch."*

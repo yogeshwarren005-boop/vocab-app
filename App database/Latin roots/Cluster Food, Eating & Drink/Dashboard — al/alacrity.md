@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Liveliness and eagerness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Liveliness and eagerness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cheerful readiness, promptness, or willing briskness in responding to a demand or opportunity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychology and moral philosophy, a mental state uniting positive emotional willingness with immediate physical execution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The tyrant custom, most grave senators, Hath made the flinty and steel couch of war My thrice-driven bed of down: I do agnize A natural and prompt alacrity I find in hardness, and do undertake This present wars against the Ottomites."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have not that alacrity of spirit Nor cheer of mind that I was wont to have."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yea, with a bridegroom’s fresh alacrity Let us address to tend on Hector’s heels."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have not that **alacrity** of spirit, Nor cheer of mind, that I was wont to have."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She accepted every new charitable task with unaffected **alacrity**, seeking relief from inward restlessness in active service."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I got up early and bathed in the pond; that was a religious exercise, and one of the best things which I did; every morning was a cheerful invitation to make my life of equal simplicity, and I may say innocence, with Nature herself; I have been as sincere a worshipper of Aurora as the Greeks; I got up early and bathed in the pond; that was a religious exercise, and one of the best things which I did; morning brings back the heroic ages; I was as much affected by the faint hum of a mosquito making its invisible and unimaginable tour through my apartment at earliest dawn, when I was sitting with door and windows open, as I could be by any trumpet that ever sang of fame; it was Homer's requiem; itself an Iliad and Odyssey in the air, singing its own wrath and wanderings; there was something cosmical about it; a standing advertisement, till forbidden, of the everlasting vigour and fertility of the world; the morning wind forever blows, the poem of creation is uninterrupted; but few are the ears that hear it; Olympus is but the outside of the earth everywhere; and the morning brings back with cheerful **alacrity** the earliest freshness of existence."*

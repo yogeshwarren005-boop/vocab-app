@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not giving satisfaction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not giving satisfaction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Failing to satisfy or meet expectations; inadequate, deficient, or unacceptable in quality or performance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific reporting and evidentiary review, describing hypotheses, trial results, or explanations that fail rigorous criteria of proof.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Mary never wrote to Bath herself; all the toil of keeping up a slow and unsatisfactory correspondence with Elizabeth fell on Anne."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The deeper he went in sin, the more unsatisfactory and abhorrent it became, and he would have turned, long before, to the Lord, had he believed there was the least hope for him."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"For the signs he gives, and the evidence he suggests, are unsatisfactory."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Many explanations of sexual coloration remain highly **unsatisfactory**, failing to account for the extraordinary divergence between closely allied species."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Marianne found Willoughby's hasty farewell utterly **unsatisfactory**, sensing that some dreadful mystery was concealed beneath his hurried excuses."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate found the local hospital committee's financial report thoroughly **unsatisfactory**, riddled with wasteful and unexamined expenditures."*

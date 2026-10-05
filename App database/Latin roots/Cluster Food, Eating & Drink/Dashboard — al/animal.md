@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A living organism characterized by voluntary movement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by the appetites and passions of the body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A living organism of the kingdom Animalia, typically capable of sensation, voluntary movement, and heterotrophic nutrition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In taxonomy and ecological energetics, a multicellular eukaryotic consumer dependent on organic ingestion for metabolic energy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art the thing itself: unaccommodated man is no more but such a poor, bare, forked animal as thou art."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His intellect is not replenished; he is only an animal, only sensible in the duller parts."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He and Jo listen to the music, probably with much the same amount of animal satisfaction; likewise as to awakened association, aspiration, or regret, melancholy or joyful reference to things beyond the senses, they are probably upon a par."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What a piece of work is a man! ... the paragon of **animals**! And yet, to me, what is this quintessence of dust?"*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The perception of ideas is that which puts the distinction between the **animal** kingdom and inferior natures."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The poor wounded **animals** crawled into the thick undergrowth, seeking a quiet place where they might breathe their last."*

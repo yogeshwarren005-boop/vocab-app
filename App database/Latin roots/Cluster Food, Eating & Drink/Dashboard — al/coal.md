@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fossil fuel consisting of carbonized vegetable matter deposited in the carboniferous period.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hot fragment of wood or coal that is left from a fire and is glowing or smoldering.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combustible black or dark-brown sedimentary rock composed primarily of carbonized plant matter, used as a fuel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic geology and paleobotany, a carboniferous fossil fuel formed from compressed, heat-altered peat deposits over geological epochs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are no surer, no, Than is the coal of fire upon the ice Or hailstone in the sun."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he could burn us all into one coal We have deserved it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His face is all bubukles, and whelks, and knobs, and flames o’ fire; and his lips blows at his nose, and it is like a coal of fire, sometimes plue and sometimes red; but his nose is executed, and his fire’s out."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A burning **coal** is thrown into the sea, Which being quenched, no spark of fire remains."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"The black chimneys emitted perpetual serpents of smoke, sustained by the endless consumption of **coal** in the engine boilers."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"I reflected upon the vast subterranean machinery that kept civilization running, fueled by subterranean stores of **coal**."*

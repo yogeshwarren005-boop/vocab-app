@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to wine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of the color of wine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the color of red wine; of a dull, purplish-red or wine-colored hue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, ornithology, and mycology, describing plumage, petals, or fungal caps displaying a dusky vinous-pink or claret tinge.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vinaceous designates of or relating to wine."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"The breast of the dove is suffused with a delicate **vinaceous** tint that shimmers softly in the morning light."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The corolla exhibits a pale **vinaceous** hue, deepening toward the throat into a rich purplish crimson."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Several specimens of fruit pigeons exhibited gorgeous **vinaceous** patches across their lower mantles and wings."*

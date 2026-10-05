@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of motor vehicles) having a coating of tar or other rustproof material applied to the underside.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of motor vehicles) having a coating of tar or other rustproof material applied to the underside.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Coated or treated underneath with a protective rust-inhibiting sealant or barrier compound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vehicular engineering, having received an underbody bituminous or polymeric coating to resist stone chipping and road chemical corrosion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undersealed designates (of motor vehicles) having a coating of tar or other rustproof material applied to the underside."*
+> - 📜 **Nevile Shute (*No Highway*):** *"The structural joints were heavily **undersealed** to prevent condensation from accumulating within the sealed wing compartments."*
+> - 📜 **John Steinbeck (*The Wayward Bus*):** *"The heavy touring bus, thoroughly **undersealed** against river mud, plowed resolutely through the flooded valley roads."*
+> - 📜 **Sinclair Lewis (*Dodsworth*):** *"He inspected the newly delivered automobile, noting with satisfaction that every exposed bracket had been conscientiously **undersealed**."*

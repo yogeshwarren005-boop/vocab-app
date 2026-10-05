@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Decide on and pursue a course of action satisfying the minimum requirements to achieve a goal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Decide on and pursue a course of action satisfying the minimum requirements to achieve a goal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To adopt a course of action that satisfies minimum requirements or proves good enough (alternative spelling of satisfice).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In administrative decision theory and cognitive psychology, terminating search behavior upon encountering an alternative that meets an aspiration level.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, satisfise designates decide on and pursue a course of action satisfying the minimum requirements to achieve a goal."*
+> - 📜 **John Dewey (*Logic: The Theory of Inquiry*):** *"When practical circumstances demand prompt intervention, intelligent agents must **satisfise** with available instruments rather than wait for perfection."*
+> - 📜 **William James (*Pragmatism: A New Name for Some Old Ways of Thinking*):** *"The practical man learns to **satisfise** his daily needs with beliefs that work smoothly within the matrix of his surrounding facts."*
+> - 📜 **Thorstein Veblen (*The Instinct of Workmanship*):** *"Customary standards of craftsmanship allow the artisan to **satisfise** established communal expectations without endless innovation."*

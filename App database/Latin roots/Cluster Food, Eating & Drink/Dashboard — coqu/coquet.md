@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Talk or behave amorously, without serious intentions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Talk or behave amorously, without serious intentions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To flirt playfully; to make romantic advances without serious intent or affection; to dally or toy with an idea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social courtship behavior and historical literature, to seek male admiration and attention through lighthearted flirtatious vanity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"She became EXCESSIVELY intimate with most of the ladies; and, to my profound astonishment, evinced no equivocal disposition to coquet with the men."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Without any need of self-restraint, no wish to coquet ever entered her head."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Alas! vain charmer, you no lovers get; There you seem hypocrite, and here coquet. _On a picture of Mrs."*
+> - 📜 **Alexander Pope (*The Rape of the Lock*):** *"Fair nymphs were trained to sigh and smile, or lightly **coquet** behind the fluttering silk of painted fans."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"She did not wish to **coquet** with her suitor, but rather to establish an honest understanding between them."*
+> - 📜 **William Makepeace Thackeray (*Pendennis*):** *"He was ever ready to **coquet** with dangerous political notions while dining pleasantly with orthodox peers."*

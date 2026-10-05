@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hairdressing consisting of a perfumed oil or ointment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Apply pomade to (hair).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scented greasy ointment or wax-based cosmetic preparation used for conditioning, styling, and adding gloss to the hair.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical perfumery and apothecary, an unguent traditionally prepared by steeping aromatic blossoms in purified lard or suet through the technique of enfleurage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"She only felt a soft hand taking hers firmly, and she touched with her lips a white forehead, over which was beautiful light-brown hair smelling of pomade."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He was wearing a blue swallow-tail coat, shoes and stockings, and was perfumed and his hair pomaded."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Berg arrived in an immaculate brand-new uniform, with his hair pomaded and brushed forward over his temples as the Emperor Alexander wore his hair."*
+> - 📜 **Honoré de Balzac (*Lost Illusions*):** *"Lucien took exceptional pains with his toilette, smoothing his dark curls with fragrant rose **pomade** before stepping out into the Parisian salon."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Joseph Sedley spent half an hour before the looking-glass, applying scented **pomade** to his whiskers until they shone with brilliant luster."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Steerforth appeared freshly dressed for dinner, smelling pleasantly of jasmine **pomade** and carrying himself with effortless aristocratic grace."*

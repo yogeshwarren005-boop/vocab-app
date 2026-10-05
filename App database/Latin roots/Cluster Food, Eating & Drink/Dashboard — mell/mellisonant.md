@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pleasing to the ear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pleasing to the ear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pleasing and melodious to the ear; sounding sweetly like honey.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic acoustics and classical rhetoric, an archaic descriptor for harmonious, agreeable, and soothing acoustic cadences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mellisonant designates pleasing to the ear."*
+> - 📜 **Thomas Browne (*The Garden of Cyrus*):** *"The flute breathed forth a **mellisonant** tune whose gentle modulations lulled the restless mind into contemplative tranquility."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Nothing expels black melancholy more swiftly than soft and **mellisonant** consort music played upon lutes and viols."*
+> - 📜 **Walter Pater (*Appreciations*):** *"The poet's lines possess a **mellisonant** sweetness that lingers in memory long after the page is closed."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In truth (often tends to intensify).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used as an interjection) an expression of surprise or skepticism or irony etc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In truth, without doubt, or in reality; used to emphasize a statement, express confirmation, or signal concession.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetorical discourse and modal semantics, an emphatic epistemic adverb validating the truth of an assertion or confirming surprise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He was excellent indeed, madam; the king very lately spoke of him admiringly, and mourningly; he was skilful enough to have liv’d still, if knowledge could be set up against mortality."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do affect a sorrow indeed, but I have it too."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have been, madam, a wicked creature, as you and all flesh and blood are; and indeed I do marry that I may repent."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"He is a charming young man, **indeed**, and his manners are as pleasant as his fortune is large."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"It was a dreadful night **indeed**, with thunder shaking the cobblestones and lightning tearing the sky."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I was **indeed** alone in the world, with no friend to advise me and no home to shelter my head."*

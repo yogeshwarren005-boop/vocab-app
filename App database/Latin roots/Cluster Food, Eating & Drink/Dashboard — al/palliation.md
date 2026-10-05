@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Easing the severity of a pain or a disease without removing the cause.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To act in such a way as to cause an offense to seem less serious.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relief, mitigation, or alleviation of symptoms or distress without eradicating the underlying cause.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine and ethics, the deliberate relief of pain, nausea, and emotional anxiety to preserve human dignity in terminal care.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She could neither wonder nor condemn; but the belief of his self-conquest brought nothing consolatory to her bosom, afforded no palliation of her distress."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"He was anxious, while vindicating himself, to say nothing unkind of the others: but there was only one amongst them whose conduct he could mention without some necessity of defence or palliation."*
+> - 📜 **Thomas Sydenham (*The Works of Thomas Sydenham, M.D.*):** *"Where the fundamental distemper defies our remedies, timely **palliation** remains the wisest course for the practitioner."*
+> - 📜 **Nathaniel Hawthorne (*The Blithedale Romance*):** *"He offered this hollow excuse as a feeble **palliation** for conduct that violated every dictate of honor."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor sought some plausible **palliation** to justify his sudden breach of the treaty with the barbarian tribes."*

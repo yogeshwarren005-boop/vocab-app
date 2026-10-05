@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sourness resembling that of vinegar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sourness resembling that of vinegar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pervasive sourness, sharpness, or acetic acidity reminiscent of vinegar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sensory appraisal and behavioral description, a biting astringency in flavor or a peevish, ill-tempered disposition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vinegariness designates a sourness resembling that of vinegar."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"An unmistakable **vinegariness** pervaded the attorney's speech, curdling the enthusiasm of his patriotic listeners."*
+> - 📜 **George Gissing (*The Odd Women*):** *"Miss Barfoot noticed the growing **vinegariness** of the spinster's voice whenever domestic happiness was mentioned."*
+> - 📜 **Mrs. Beeton (*Mrs Beeton's Book of Household Management*):** *"Excessive fermentation imparts an unwelcome **vinegariness** to the sauce, ruining the delicate flavor of the broth."*

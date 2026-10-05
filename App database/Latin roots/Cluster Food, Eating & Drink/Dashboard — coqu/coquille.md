@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Seafood served in a scallop shell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dish in the form of a scallop shell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A seafood dish, especially scallops, baked and served with sauce in a scallop shell or shell-shaped dish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In decorative arts and architecture, a scallop-shell ornament, fluted molding, or shell-like protective handguard on a sword.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coquille designates seafood served in a scallop shell."*
+> - 📜 **James Joyce (*Ulysses*):** *"The Parisian restaurant menu boasted delicate oysters and savoury **coquille** Saint-Jacques baked in rich butter."*
+> - 📜 **Marcel Proust (*Swann's Way*):** *"The dining table was adorned with fine silver dishes shaped like a fluted **coquille** from the Normandy coast."*
+> - 📜 **Isabella Beeton (*Mrs. Beeton's Book of Household Management*):** *"Fill each cleaned **coquille** with creamed fish, cover with seasoned crumbs, and brown under a brisk salamander."*

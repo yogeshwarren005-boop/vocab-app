@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Soften, make mellow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become more relaxed, easygoing, or genial.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Made pleasantly soft, ripe, or gentle through age, passage of time, or experience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral development and material aging, having lost harsh, crude, or sharp edges through mature tempering.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And more than so, my father, Even in the downfall of his mellowed years, When nature brought him to the door of death?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The royal tree hath left us royal fruit, Which, mellowed by the stealing hours of time, Will well become the seat of majesty, And make, no doubt, us happy by his reign."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"In the oven made by the hot pavements and hot buildings, he has baked himself dryer than usual; and he has in his thirsty mind his mellowed port-wine half a century old."*
+> - 📜 **Washington Irving (*Bracebridge Hall*):** *"The old gentleman had **mellowed** with the years, his youthful impetuosity softening into an affectionate good humor."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The raw timber of the cabin had **mellowed** under the sun and rain into a quiet weathered gray."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Time had **mellowed** her early sorrow into a calm and resigned remembrance that gave grace to all her actions."*

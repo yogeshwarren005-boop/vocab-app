@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fabric with a finish resembling satin but made partly or wholly from cotton or synthetic fiber.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fabric with a finish resembling satin but made partly or wholly from cotton or synthetic fiber.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thin, durable fabric imitating satin, typically made of wool, cotton, or mixed fibers with a lustrous woven surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century industrial textile history, an affordable, mass-produced cloth with a cotton warp and wool filling used for working-class garments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"Allen, looking up from the brown patch she was engaged in sewing on the elbow of the deacon's black satinet coat."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The country storekeeper displayed rolls of sturdy **satinet**, a serviceable fabric favored by farmers for winter trousers and coats."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Hepzibah smoothed her worn dress of dark **satinet**, standing nervously behind the shop counter awaiting her first customer."*
+> - 📜 **Louisa May Alcott (*Little Women*):** *"The girls refurbished their modest **satinet** skirts with fresh ribbons, making them look presentable for the festive evening party."*

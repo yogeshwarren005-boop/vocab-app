@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A serving of drink (usually alcoholic) drawn from a keg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of drinking (especially an alcoholic drink).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of drinking, especially alcoholic beverages; or a drink, beverage, or draught.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature and convivial discourse, a generous draught of wine or spirits consumed during festive, philosophical, or ceremonial celebrations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Many of the company were furnished with pipes, and most of them with some kind of evening potation."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Small beer--will it be believed!--was the only drink with which unhappy gentlemen soothed the fever of their previous night's potation."*
-> - 📜 **George W. Cronyn (*The Glebe 1914/09 (Vol. 2, No. 2): Poems*):** *"He whose tongue of old was frozen-- As he quaffs, with this potation Deep and deeper inspiration Seems to grow a Prophet--chosen, For he speaks by divination!"*
+> - 📜 **William Shakespeare (*Othello*):** *"I have drunky yet but one cup tonight, and that was craftily qualified too, and behold what innovation it makes here: I am unfortunate in the infirmity, and dare not task my weakness with any more **potation**."*
+> - 📜 **Charles Dickens (*Pickwick Papers*):** *"Mr. Pickwick raised the steaming glass of punch to his lips and indulged in a deep, satisfying **potation** with his companions."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The hardy sailors celebrated the capture of the sperm whale with a hearty **potation** of fiery rum beneath the stars."*

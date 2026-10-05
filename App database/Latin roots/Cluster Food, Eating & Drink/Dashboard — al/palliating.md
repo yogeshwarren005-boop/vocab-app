@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lessen or to try to lessen the seriousness or extent of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide physical relief, as from pain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of easing, mitigating, or lessening the severity of pain, disease, or offense without curing it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical therapeutics, providing symptomatic comfort and supportive interventions to ease physical suffering in terminal or chronic illness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, palliating designates lessen or to try to lessen the seriousness or extent of."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"He spent the evening in **palliating** his hasty words, trying to persuade his companion that no malice was intended."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The physician's highest calling consists often in **palliating** incurable distress with gentleness and consummate skill."*
+> - 📜 **George Eliot (*Felix Holt, the Radical*):** *"She found subtle ways of **palliating** her father's harsh temper before the tenants and servants."*

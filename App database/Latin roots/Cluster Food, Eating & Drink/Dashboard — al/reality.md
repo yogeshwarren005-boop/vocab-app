@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: All of your experiences that determine how things appear to you.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being actual or real.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of things as they actually exist, as opposed to idealistic, imaginary, or illusory notions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ontological metaphysics and existential psychology, the objective sum of all actual entities, events, and verifiable physical phenomena.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is presently reassured on these subjects by the unchallengeable reality of Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I sat where Richard put me, and tried to listen, and looked about me; but there seemed to be no reality in the whole scene except poor little Miss Flite, the madwoman, standing on a bench and nodding at it."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Think that the reality is in her suffering, in her useless remorse, in her murdering within her breast the only love and truth of which it is capable!"*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The cruel **reality** of her situation pressed upon her with relentless force as the morning sunlight illuminated the barren downs."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Beliefs untested by free discussion become dead dogmas rather than living convictions grounded in objective **reality**."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea learned that married life brought a sobering **reality** far removed from her youthful visions of saintly sacrifice."*

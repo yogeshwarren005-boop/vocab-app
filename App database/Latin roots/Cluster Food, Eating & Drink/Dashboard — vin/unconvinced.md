@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking conviction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking conviction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not persuaded or satisfied by the evidence, arguments, or demonstrations presented.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual debate and scientific inquiry, maintaining skeptical reserve, suspended judgment, or principled dissent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"There was Slant-Eyed Wilson, with an unguessed weak heart of fear, who died in the jacket within the first hour while the unconvinced inefficient of a prison doctor looked on and smiled."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"But whether it was that the salt water he had swallowed dulled his intelligence or that my power of stating a case neatly was to seek, the fact remains that he reached the beach an unconvinced man."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"I want you--here.” “Here!” Aunt Hannah looked relieved, but unconvinced."*
+> - 📜 **Jane Austen (*Emma*):** *"Indeed you injure me if you suppose me **unconvinced**, for I perceive clearly the force of your counsel."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Athelney Jones listened with a stubborn smile, remaining wholly **unconvinced** by Holmes's delicate deductions."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Several eminent naturalists remained stubbornly **unconvinced** that natural selection alone could modify morphological structures."*

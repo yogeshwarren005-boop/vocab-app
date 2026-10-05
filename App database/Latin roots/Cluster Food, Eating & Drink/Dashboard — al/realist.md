@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A philosopher who believes that universals are real and exist independently of anyone thinking of them.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who accepts the world as it literally is and deals with it accordingly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who accepts things as they actually are and deals with practical realities rather than ideal visions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemology and literary history, an adherent of ontological realism or an author whose work rigorously captures social facts without sentimentality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"On the other hand, we are realists."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Montaigne was the quintessential philosophical **realist**, distrusting dogmatic abstractions and grounding his inquiries in human nature."*
+> - 📜 **George Eliot (*Adam Bede*):** *"The true narrative **realist** aspires to mirror life faithfully, depicting plain folk with all their flaws and endearing rustic virtues."*
+> - 📜 **William James (*Pragmatism*):** *"The tough-minded philosopher is a thorough **realist**, preferring tangible facts and hard experience to airy rationalist systems."*

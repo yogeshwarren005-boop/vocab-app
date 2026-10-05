@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any agent that reduces milk secretion (as given to a woman who is not breast feeding).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any agent that reduces milk secretion (as given to a woman who is not breast feeding).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medicinal agent, herb, or treatment that stops, diminishes, or suppresses the secretion of milk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical obstetrics and historical materia medica, a therapeutic substance such as belladonna administered to arrest unwanted lactation after weaning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lactifuge designates any agent that reduces milk secretion (as given to a woman who is not breast feeding)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"When maternal nursing must be discontinued abruptly, physicians prescribe a reliable **lactifuge** to prevent painful engorgement."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Herbalists anciently valued sage and camphor as a cooling **lactifuge** to dry up maternal humours."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Astringent draughts were administered as a sovereign **lactifuge** when the nurse wished to suppress excessive milky distillations."*

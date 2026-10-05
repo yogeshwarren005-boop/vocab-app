@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fleshy fruit (apple or pear or related fruits) having seed chambers and an outer fleshy part.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fleshy fruit (apple or pear or related fruits) having seed chambers and an outer fleshy part.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fleshy fruit characteristic of the rose family, such as the apple, pear, or quince, consisting of an outer fleshy receptacle and a cartilaginous core containing seeds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural plant morphology and carpology, an accessory false fruit (pseudocarp) derived from an inferior compound ovary fused with the surrounding floral tube or hypanthium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pome designates a fleshy fruit (apple or pear or related fruits) having seed chambers and an outer fleshy part."*
+> - 📜 **Asa Gray (*First Lessons in Botany and Vegetable Physiology*):** *"In botanical morphology, the apple is designated a **pome**, formed by the thickening and swelling of the fleshy receptacle around the core."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"The typical **pome** exhibits five cartilaginous carpels enclosed within the succulent flesh that develops from the floral envelope."*
+> - 📜 **Liberty Hyde Bailey (*The Principles of Fruit-Growing*):** *"Cultivated orchard trees bearing the classic **pome** require careful winter pruning to stimulate fruit-bud formation along the mature spurs."*

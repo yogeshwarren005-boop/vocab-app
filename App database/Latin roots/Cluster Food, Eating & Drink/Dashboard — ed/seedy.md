@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of seeds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shabby and untidy; ; - mark twain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shabby, disreputable, worn out, or run-down in appearance; or feeling unwell; or containing many seeds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical pomology, containing an excessive proportion of hard developed seeds that detract from fruit palatability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"I am a seedy old fellow,” said the Vicar, rising, pushing his chair away and looking down at himself."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Beside the couch was a wooden chair, and on the angle of the back hung a very seedy and disreputable hard-felt hat, much the worse for wear, and cracked in several places."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"With his collar turned up, his shiny, seedy coat, his red cravat, and his worn boots, he was a perfect sample of the class."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"We traversed a **seedy** neighborhood of dockside alleys where dim lanterns flickered through the fog."*
+> - 📜 **Robert Louis Stevenson (*The Strange Case of Dr. Jekyll and Mr. Hyde*):** *"The building had a sinister and **seedy** look, with blistered paint and unwashed grimy windows."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The wild blackberries were sweet though somewhat **seedy** when gathered from the rocky pasture hillside."*

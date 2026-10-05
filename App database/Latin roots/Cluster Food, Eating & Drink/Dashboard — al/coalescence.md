@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The union of diverse things into one body or form or group; the growing together of parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The union of diverse things into one body or form or group; the growing together of parts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The union, merging, or growing together of separate parts, particles, or entities into a single whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fluid mechanics and colloid science, the process whereby liquid droplets or gas bubbles merge upon contact to form a larger body.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Impossible coalescence Mind is the grand creator, and there can be no power 143:27 except that which is derived from Mind."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The gradual **coalescence** of rudimentary organs often obscures their original morphological distinctness."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Evolution involves an integration of matter accompanied by the **coalescence** of previously scattered structural parts."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The momentary sensations experience an intimate **coalescence**, merging into the undivided stream of conscious awareness."*

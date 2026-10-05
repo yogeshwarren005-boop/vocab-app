@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Like a coquette.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Like a coquette.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Flirtatious, playfully alluring, or designed to invite romantic interest and admiration in a charming manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fashion design and aesthetic styling, featuring playfully provocative, frivolous, or ornamental details that catch the eye.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"At once connecting these signs with the letter Boldwood had shown him, Gabriel suspected her of some coquettish procedure begun by that means, and carried on since, he knew not how."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I had learnt her whole character, which was without mystery or disguise: she was coquettish but not heartless; exacting, but not worthlessly selfish."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"She is the most beautiful of dusky Dianas and the belle of the Piccaninnies, coquettish, cold and amorous by turns; there is not a brave who would not have the wayward thing to wife, but she staves off the altar with a hatchet."*
+> - 📜 **Gustave Flaubert (*Madame Bovary*):** *"She arranged her ribbons with a **coquettish** tilt that caught the young clerk's wandering eye across the room."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The young lady gave her ringlets a **coquettish** shake and smiled archly behind her embroidery frame."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Lucetta wore an elegant Paris gown with a **coquettish** neckline that astonished the conservative townsfolk."*

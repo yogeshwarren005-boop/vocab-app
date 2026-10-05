@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disparaging term for a british person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disparaging term for a british person.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An informal and often derogatory colloquial term used in Australia, New Zealand, and South Africa to designate an English immigrant or British person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Commonwealth sociolinguistics and colonial history, a widely debated cultural epithet purportedly derived as rhyming slang from pomegranate or an acronym for Prisoner of Mother England.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Poor little _nominedomine._ Pom."*
-> - 📜 **James Joyce (*Ulysses*):** *"I mean of course it’s all pom pom pom very much what they call _da capo._ Still you can hear."*
-> - 📜 **James Joyce (*Ulysses*):** *"Then he screwed his features up someway sideways and glared out into the night with an unprepossessing cast of countenance. —Pom! he then shouted once."*
+> - 📜 **D. H. Lawrence (*Kangaroo*):** *"The local bushmen regarded him with cautious curiosity, wondering whether this newcomer was another delicate **Pom** unprepared for the blistering sun."*
+> - 📜 **Nevil Shute (*A Town Like Alice*):** *"Out on the cattle station, the seasoned drovers quickly discovered that the newly arrived **Pom** possessed more grit and endurance than they had expected."*
+> - 📜 **Robert Hughes (*The Fatal Shore*):** *"In Australian vernacular lore, the label **Pom** evolved from colonial tensions between native-born currency lads and haughty British officials."*

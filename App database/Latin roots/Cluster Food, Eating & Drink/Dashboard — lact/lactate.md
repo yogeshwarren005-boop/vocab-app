@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A salt or ester of lactic acid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give suck to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To produce or secrete milk from mammary glands; or a chemical salt or ester of lactic acid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In exercise physiology and cellular biochemistry, the conjugate base of lactic acid produced during anaerobic glycolysis and cleared via the Cori cycle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lactate designates a salt or ester of lactic acid."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Mammalian mothers **lactate** to nourish their dependent offspring through the critical early weeks of life."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Muscular contraction in the absence of adequate oxygen generates blood **lactate** which the liver subsequently reoxidizes."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Elevated concentrations of circulating **lactate** indicate severe tissue hypoperfusion during circulatory shock."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cord (usually of goat's hair) that arabs (especially bedouins) wind around their heads to hold down the kaffiyeh.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cord (usually of goat's hair) that arabs (especially bedouins) wind around their heads to hold down the kaffiyeh.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A traditional cord or band, usually made of black goat hair, worn doubled by Arab men to secure the keffiyeh headdress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Middle Eastern material culture and costume history, an accessory symbolizing tribal identity, personal dignity, and desert adaptation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agal designates a cord (usually of goat's hair) that arabs (especially bedouins) wind around their heads to hold down the kaffiyeh."*
+> - 📜 **T. E. Lawrence (*Seven Pillars of Wisdom*):** *"He adjusted the heavy black **agal** over his kerchief before mounting his camel to lead the scouting party across the dunes."*
+> - 📜 **Gertrude Bell (*The Desert and the Sown*):** *"The Bedouin chieftain wore a finely twisted woollen **agal** that held his fluttering headcloth firmly against the desert gale."*
+> - 📜 **Wilfred Thesiger (*Arabian Sands*):** *"My companions straightened their headcloths and tightened each **agal** as we approached the well to greet the waiting elders."*

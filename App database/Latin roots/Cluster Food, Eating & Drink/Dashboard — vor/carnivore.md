@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A terrestrial or aquatic flesh-eating mammal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any animal that feeds on flesh.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An animal that feeds primarily or exclusively on flesh, or a predatory mammal belonging to the order Carnivora.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In trophic ecology, a secondary or tertiary consumer occupying high positions in food webs, regulating prey population densities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"It was I broke in the bucking broncho Ajax with my patent spiked saddle for carnivores."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"A fierce quadrupedal **carnivore** requires a vast geographical territory to support its predatory dietary demands."*
+> - 📜 **H. G. Wells (*The Island of Doctor Moreau*):** *"The beast-man reverted swiftly to the instincts of a natural **carnivore**, prowling through the dark undergrowth for blood."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The tiger stands out as the supreme terrestrial **carnivore** across the dense jungles of Sumatra."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Angelfishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Angelfishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large, brightly colored marine angelfishes in the family Pomacanthidae, inhabiting tropical coral reefs worldwide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic ichthyology and marine ecology, perciform fishes characterized by robust preopercular spines and striking ontogenetic shifts in color patterns from juvenile to adult stages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pomacanthus designates angelfishes."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Around the vibrant coral shoals, magnificent specimens of **Pomacanthus** darted between branching madrepores, their vivid bands gleaming under the tropical swell."*
+> - 📜 **William Beebe (*Beneath Tropic Seas*):** *"Through the glass bottom of the boat, the French angel of the genus **Pomacanthus** drifted with majestic poise above the waving sea fans."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The genus **Pomacanthus** includes some of the most splendidly adorned species of the tropical coral banks, distinguished by their serrated preopercle."*

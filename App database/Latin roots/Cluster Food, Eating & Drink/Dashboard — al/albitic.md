@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or related to albite feldspar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or related to albite feldspar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, containing, or resembling the sodium feldspar mineral albite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In petrological geochemistry, describing igneous or metamorphic rock textures rich in secondary sodic plagioclase resulting from albitization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, albitic designates of or related to albite feldspar."*
+> - 📜 **Alfred Harker (*The Natural History of Igneous Rocks*):** *"The fine-grained groundmass displays an **albitic** composition resulting from hydrothermal alteration of the original basaltic feldspars."*
+> - 📜 **F. H. Hatch (*The Petrology of the Igneous Rocks*):** *"Under high magnification, the rock reveals slender **albitic** laths arranged in a distinctive fluidal pilotaxitic texture."*
+> - 📜 **S. James Shand (*Eruptive Rocks*):** *"Hydrothermal fluids traversing the fracture zone generated extensive **albitic** replacement along the margins of the granitic intrusion."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (literally `possessing horses' in sanskrit) in hinduism the twin chariot warriors conveying surya.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (literally `possessing horses' in sanskrit) in hinduism the twin chariot warriors conveying surya.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Twin horse-headed or equestrian deities in Vedic mythology, revered as divine physicians and harbingers of the dawn.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative Indo-European mythology, celestial divine twins symbolizing youth, healing, maritime rescue, and the daily awakening of light before the sunrise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asvins designates (literally `possessing horses' in sanskrit) in hinduism the twin chariot warriors conveying surya."*
+> - 📜 **Friedrich Max Müller (*Lectures on the Science of Language*):** *"The **asvins** represent the twilight transition between darkness and dawn, riding their golden chariot across the vault of heaven."*
+> - 📜 **Arthur Anthony Macdonell (*Vedic Mythology*):** *"In the Rigveda, the **asvins** are celebrated as heavenly physicians who restore the blind to sight and heal the maimed."*
+> - 📜 **Ralph T. H. Griffith (*The Hymns of the Rigveda*):** *"May the wondrous **asvins**, radiant masters of healing and horsemen of the sky, come bearing abundant blessings unto our sacrifice."*

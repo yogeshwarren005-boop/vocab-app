@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a satirical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a satirical manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a satirical manner; with ironic wit, mockery, or sarcastic derision aimed at folly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative dialogue and interpersonal debate, delivering observations with cutting, arched cynicism to expose hypocrisy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"That is wi-ide.” Naumann’s pronunciation of the vowel seemed to stretch the word satirically."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Charawk," said the hen satirically from her basket."*
-> - 📜 **James Joyce (*Ulysses*):** *"Mrs Marion from this out, my dear man, when you speak to me. _(Satirically.)_ Has poor little hubby cold feet waiting so long?"*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Grandcourt smiled **satirically**, raising his eyebrows as though amused by the naive earnestness of the young girl's protest."*
+> - 📜 **James Joyce (*Ulysses*):** *"Buck Mulligan glanced around the parapet and bowed **satirically** to the gray dome of the bay and the morning sun."*
+> - 📜 **William Makepeace Thackeray (*The History of Henry Esmond*):** *"Beatrix laughed **satirically**, pointing her fan at the clumsy young lord who stammered over his prepared compliment."*

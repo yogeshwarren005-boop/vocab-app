@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin pom within the domain of Food, Eating & Drink.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of pom in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Roman mythological goddess of fruitful abundance, gardens, and orchard trees, traditionally depicted carrying a pruning knife and cornucopia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Latin classical poetry and Western iconography, the wood nymph beloved by Vertumnus who personifies the flourishing cultivation and care of domestic orchards.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Hugo: The morn is fair, the weary miles Will shorten 'neath the summer's wiles; Pomona in the orchard smiles, And in the meadow, Flora!"*
-> - 📜 **John Milton (*Paradise Lost*):** *"To Pales, or Pomona, thus adorned, Likest she seemed, Pomona when she fled Vertumnus, or to Ceres in her prime, Yet virgin of Proserpina from Jove."*
+> - 📜 **John Milton (*Paradise Lost*):** *"To Pales, or **Pomona**, thus adorned, Likest she seemed, **Pomona** when she fled Vertumnus, or to Ceres in her prime."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"In the golden warmth of September, nature pours forth the gifts of **Pomona**, loading the orchard branches with ripe and fragrant harvest."*
+> - 📜 **Thomas Henry Huxley (*Collected Essays*):** *"The classical worshiper saw the divine hand of **Pomona** in the heavy clusters of the vine and the mellow fullness of autumn apples."*

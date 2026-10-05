@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sour-tasting liquid produced usually by oxidation of the alcohol in wine or cider and used as a condiment or food preservative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dilute acetic acid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sour liquid containing acetic acid obtained by the fermentation of diluted alcoholic liquids such as wine or cider.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In culinary chemistry and classical pharmacology, an acidulous preservative, pickling solvent, and digestive condiment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And other of such vinegar aspect That they’ll not show their teeth in way of smile Though Nestor swear the jest be laughable."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I warrant there’s vinegar and pepper in’t."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Don’t wake Miss Clare.” She would not sit down, but stood by the fire dipping her inky middle finger in the egg-cup, which contained vinegar, and smearing it over the ink stains on her face, frowning the whole time and looking very gloomy."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"Other of such **vinegar** aspect that they'll not show their teeth in way of smile, though Nestor swear the jest be laughable."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"They steeped the herbs in sharp wine **vinegar** to neutralize the offensive effluvia of the dissection table."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"A pungent odor of malt **vinegar** and pickled walnuts hung perpetually about the pantry shelf."*

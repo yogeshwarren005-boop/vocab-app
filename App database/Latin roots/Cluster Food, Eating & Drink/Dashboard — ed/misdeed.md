@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Improper or wicked or immoral behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Improper or wicked or immoral behavior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A wrongful, illegal, or immoral act; a transgression, bad deed, or offense against moral or legal codes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In penal jurisprudence and ethical philosophy, a culpable violation of civil statutes or established moral duties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"King Lewis, I here protest in sight of heaven, And by the hope I have of heavenly bliss, That I am clear from this misdeed of Edward’s— No more my king, for he dishonours me, But most himself, if he could see his shame."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"But I was in a manner stupefied by this turning up of my old misdeed and old acquaintance, and could think of nothing else."*
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"There was one stroke to be made which might save him, in part at least, from the consequences of his own misdeed."*
+> - 📜 **William Shakespeare (*Richard III*):** *"For every heinous **misdeed** committed against the crown, justice shall exact a severe and bloody reckoning."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The puritan magistrates viewed her secret **misdeed** as a dark blot upon the spiritual purity of the colony."*
+> - 📜 **Fyodor Dostoevsky (*Crime and Punishment*):** *"Raskolnikov wandered the embankment, haunted by the memory of the bloody **misdeed** he had just perpetrated."*

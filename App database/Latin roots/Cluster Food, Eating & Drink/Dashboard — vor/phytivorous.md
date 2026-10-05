@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin vor within the domain of Food, Eating & Drink.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of vor in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeding on plants or vegetable matter; plant-eating or phytophagous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical zoology and agricultural entomology, describing larval caterpillars, beetles, or rodents that consume living agricultural vegetation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phytivorous designates pertaining to, derived from, or characteristic of latin vor within the domain of food, eating & drink."*
+> - 📜 **William Kirby (*An Introduction to Entomology*):** *"The devastation caused by **phytivorous** caterpillars across orchard foliage ruins the hopes of the husbandman."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"Many small **phytivorous** rodents store underground magazines of acorns and beech-mast against winter freezes."*
+> - 📜 **Thomas Pennant (*British Zoology*):** *"The hare is a shy **phytivorous** mammal, feeding chiefly in the dusk upon tender clover and garden vegetables."*

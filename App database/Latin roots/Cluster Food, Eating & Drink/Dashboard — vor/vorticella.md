@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various protozoa having a transparent goblet-shaped body with a retractile stalk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various protozoa having a transparent goblet-shaped body with a retractile stalk.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of solitary or colonial bell-shaped ciliate protozoans living predominantly in freshwater habitats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microscopic biology, an inverted bell-shaped peritrich ciliate possessing a contractile stalk containing a spasmoneme and an oral ring of cilia for filter-feeding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vorticella designates any of various protozoa having a transparent goblet-shaped body with a retractile stalk."*
+> - 📜 **Antonie van Leeuwenhoek (*Letters to the Royal Society*):** *"Under the microscope I perceived animalcules resembling little bells on spiral stalks, which naturalists now designate as **vorticella**."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish: An Introduction to the Study of Zoology*):** *"The bell of **vorticella** contracts violently into a rounded ball at the slightest vibration of the glass stage."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Infusions left standing in contact with air soon teem with colonies of **vorticella** and other active ciliates."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeding on fishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeding on fishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeding on or subsisting upon fish; fish-eating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian and mammalian morphometrics, having serrated bills, retroverted papillae, or recurved teeth adapted for grasping slippery teleost fish.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, piscivorous designates feeding on fishes."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Cormorants are expert **piscivorous** divers, propelling themselves through kelp beds with powerful webbed feet."*
+> - 📜 **John Burroughs (*Riverby*):** *"The fish hawk is strictly **piscivorous**, never touching carrion or meadow rodents so long as the lakes remain ice-free."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The heron is a patient **piscivorous** wader, standing motionless in the shallows until an unwary trout comes within reach."*

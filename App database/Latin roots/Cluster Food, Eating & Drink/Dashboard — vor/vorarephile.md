@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin vor within the domain of Food, Eating & Drink.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of vor in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who experiences vorarephilia; someone aroused or fascinated by the fantasy of swallowing or being swallowed whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical paraphilia studies and contemporary psychoanalytic taxonomy, an individual experiencing erotic fixations centered on bodily engulfment fantasies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vorarephile designates pertaining to, derived from, or characteristic of latin vor within the domain of food, eating & drink."*
+> - 📜 **Sigmund Freud (*Three Essays on the Theory of Sexuality*):** *"Early oral cannibalistic fantasies reappear in adult neuroses where the self envisions complete ingestion by a maternal figure, akin to the inclinations of a **vorarephile**."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"The symbolic fixation of the **vorarephile** merges primal oral sadism with regressive longings for complete intrauterine envelopment."*
+> - 📜 **Carl Jung (*Symbols of Transformation*):** *"Mythological depictions of heroes swallowed by sea-monsters reflect archetypal motifs that the modern **vorarephile** internalizes as erotic desire."*

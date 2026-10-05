@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible to satisfy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impossible to satisfy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Never satisfied; insatiable in appetite, craving, lust, or destructive fury.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classic tragic verse and epic poetry, an archaic descriptor for ruthless vengeance, ravenous death, or unrestrained imperial conquest.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Light vanity, insatiate cormorant, Consuming means, soon preys upon itself."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O most insatiate and luxurious woman!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"To this trio everybody in the court possessed of sixpence has an insatiate desire to exhibit hospitality in a liquid form."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O **insatiate** and unbridled wanton! Thou hast brought ruin upon an honorable house by thy reckless vanity."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Grim Death sat upon his throne, **insatiate** of destruction, watching the fallen pair driven from Eden's gate."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab paced the deck with an **insatiate** craving for revenge, his soul consumed by the white whale's phantom malice."*

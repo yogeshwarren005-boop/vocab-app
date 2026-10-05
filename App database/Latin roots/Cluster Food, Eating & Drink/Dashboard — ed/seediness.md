@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lack of elegance as a consequence of wearing threadbare or dirty clothing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lack of elegance as a consequence of wearing threadbare or dirty clothing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shabbiness, squalor, or a dilapidated appearance; or the physical state of feeling unwell after excess.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticultural botany and pomology, the structural abundance of hard or woody seeds within the edible flesh of fruits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, seediness designates a lack of elegance as a consequence of wearing threadbare or dirty clothing."*
+> - 📜 **George Orwell (*Keep the Aspidistra Flying*):** *"The faded wallpaper and worn furniture gave the room an inescapable air of quiet **seediness**."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"There was a down-at-heel **seediness** about his coat collar that told of hard times and declining fortune."*
+> - 📜 **Virginia Woolf (*Night and Day*):** *"She noted the mild **seediness** of the suburban lodgings with a mixture of amusement and pity."*

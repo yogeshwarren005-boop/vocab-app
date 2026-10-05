@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ridicule with satire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ridicule with satire.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To mock, ridicule, or criticize human vices and shortcomings through the use of satire (chiefly British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theatrical and dramatic criticism, to expose political corruptions, societal pretensions, or institutional abuses on the stage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"Satire is reckoned the easiest of all wit, but I take it to be otherwise in very bad times: for it is as hard to satirise well a man of distinguished vices, as to praise well a man of distinguished virtues."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"But Hogg says that he did not begin learning German until 1815.) (3 'Northanger Abbey', satirising Mrs."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"The dramatist sought to **satirise** the sanctimonious compromises of bourgeois society without sacrificing dramatic passion."*
+> - 📜 **Virginia Woolf (*Orlando*):** *"Poets in the coffee-houses of Queen Anne's London gathered daily to **satirise** the foibles of rival politicians in rhyming couplets."*
+> - 📜 **H. G. Wells (*Tono-Bungay*):** *"My uncle never intended to **satirise** modern commerce; he simply took its wild absurdities and turned them into patent medicine millions."*

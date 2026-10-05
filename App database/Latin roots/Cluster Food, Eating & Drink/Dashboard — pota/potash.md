@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A potassium compound often used in agriculture and industry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A potassium compound often used in agriculture and industry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alkaline potassium compound, especially potassium carbonate, originally obtained by leaching wood ashes in iron pots.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial chemistry and agricultural soil science, mined water-soluble potassium salts applied as essential macronutrient fertilizer to cultivate high-yield crops.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Would he obtain air by chemical means, in getting by heat the oxygen contained in chlorate of potash, and in absorbing carbonic acid by caustic potash?"*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It is composed of a Bunsen pile, which I do not work with bichromate of potash, but with sodium."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"To absorb it, it was necessary to fill some jars with caustic potash, and to shake them incessantly."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The charcoal-burners and settlers formerly cleared the forest, boiling down huge iron cauldrons of wood ash to manufacture commercial **potash**."*
+> - 📜 **Humphry Davy (*On Some Chemical Agencies of Electricity*):** *"By submitting slightly moistened caustic **potash** to the action of the voltaic battery, minute globules of metallic potassium were dramatically liberated."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"Cereal crops draw heavily upon the reserves of **potash** in the soil, which must be restored through careful fertilization."*

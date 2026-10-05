@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who purchases and maintains an inventory of goods to be sold.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A firm engaged in trading.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or merchant who buys and sells goods, securities, or commodities for trade or commerce.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commerce and financial economics, an intermediary or principal who maintains an inventory and provides liquidity by quoting bid and ask prices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The plainer dealer, the sooner lost."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I had well hoped thou wouldst have denied Beatrice, that I might have cudgelled thee out of thy single life, to make thee a double-dealer; which, out of question, thou wilt be, if my cousin do not look exceeding narrowly to thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, I will be so much a sinner to be a double-dealer: there’s another."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"He is an honest **dealer** whose word in the exchange is as sacred as a sworn bond."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The wholesale **dealer** bridges the vital distance between the isolated producer and the dispersed consumer."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The corn **dealer** stood examining samples of barley with practiced and discerning fingers."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mix together different elements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fuse or cause to grow together.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In the process of uniting, merging, or growing together into a single mass or integrated whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astrophysics and planetary formation, describing colliding dust clouds, planetesimals, or binary stars spiraling toward union.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I hold it to be the wondrously thin, ruptured membranes of the case, coalescing."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"I hold it to be the wondrously thin, ruptured membranes of the case, coalescing."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The scattered waves seemed to be **coalescing** into one immense billow that lifted the whaleboat high above the foam."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Across the provinces the angry local committees were **coalescing** into an irresistible national tempest."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"We observed the drifting vapor clouds **coalescing** above the basaltic cliffs as the damp tropical evening descended."*

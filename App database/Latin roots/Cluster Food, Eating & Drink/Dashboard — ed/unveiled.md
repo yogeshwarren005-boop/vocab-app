@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove the veil from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make visible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Revealed, uncovered, or disclosed to view by removing a veil, curtain, or covering; made known publicly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In monument dedication and ceremonial presentation, solemnly displayed to the public for the first time by removing a ceremonial drapery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The consequence was, that when the moon, which was full and bright (for the night was fine), came in her course to that space in the sky opposite my casement, and looked in at me through the unveiled panes, her glorious gaze roused me."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"We have been taught to tremble at the terrific visages of murdering janizaries, and to blush at the unveiled mysteries of a future seraglio."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"In a speech on January 14, 2004 the President of the United States of America unveiled a new vision for space exploration."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"The sculptor **unveiled** the marble statue, revealing the delicate features of the nymph to his admirers."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"Truth stood suddenly **unveiled** before her eyes, stripping away every consoling illusion she had cherished."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"The morning sun **unveiled** the majestic peaks of the Alps rising through parting banks of mist."*

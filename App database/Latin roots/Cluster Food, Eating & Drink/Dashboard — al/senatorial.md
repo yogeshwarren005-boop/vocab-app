@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to senators.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to senators.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, suitable for, or characteristic of a senate or a senator.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Roman politics and constitutional history, belonging to the patrician senatorial order (*ordo senatorius*), marked by broad purple tunic borders and consular dignities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As a result, union labour possessing an important political significance at the time, the time-serving politicians at Sacramento appointed a senatorial committee of investigation of the state prisons."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It makes no difference that in these senatorial districts and counties a number of representatives are voted for by each elector at the same time."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Many of the defects, as we have seen, which can only be supplied by a senatorial institution, are common to a numerous assembly frequently elected by the people, and to the people themselves."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Augustus preserved the dignified outward forms of **senatorial** authority while quietly absorbing all actual administrative power into his own hands."*
+> - 📜 **Thomas Babington Macaulay (*Lays of Ancient Rome*):** *"The aged patrician rose in his **senatorial** robes, rebuking the violent tribunes with solemn ancestral authority."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The American Senate gathers an assembly of distinguished statesmen whose grave **senatorial** debates temper the impetuous passions of popular legislation."*

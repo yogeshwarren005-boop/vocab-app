@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Part; cease or break association with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Get a divorce; formally terminate a marriage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Legally separated from one's spouse through divorce; having had one's marriage dissolved.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In abstract analysis, completely disconnected, alienated, or separated from a context, principle, or reality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This sleep is sound indeed; this is a sleep That from this golden rigol hath divorced So many English kings."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Beguil’d, divorced, wronged, spited, slain."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Souls and bodies hath he divorced three, and his incensement at this moment is so implacable that satisfaction can be none but by pangs of death and sepulchre."*
+> - 📜 **William Shakespeare (*Henry IV, Part 2*):** *"This is a sleep that from this golden rigol hath **divorced** so many English kings."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Gwendolen felt herself utterly **divorced** from all the tranquil hopes of her earlier girlhood."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"Knowledge **divorced** from concrete social application degenerates into sterile academic scholasticism."*

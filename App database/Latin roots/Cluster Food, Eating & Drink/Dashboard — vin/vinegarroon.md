@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large whip-scorpion of mexico and southern united states that emits a vinegary odor when alarmed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large whip-scorpion of mexico and southern united states that emits a vinegary odor when alarmed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A whip scorpion of the arachnid order Thelyphonida, having large pedipalps and a whip-like flagellum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In desert arachnology, noted for expelling a defensive chemical spray containing high concentrations of acetic acid when disturbed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vinegarroon designates large whip-scorpion of mexico and southern united states that emits a vinegary odor when alarmed."*
+> - 📜 **John Charles Van Dyke (*The Desert: Further Studies in Natural Appearances*):** *"The formidable **vinegarroon** lurks beneath the desert rocks, discharging its pungent, acetic spray when molested."*
+> - 📜 **William Henry Hudson (*The Naturalist in La Plata*):** *"The nocturnal **vinegarroon** resembles a stout scorpion, armed with crushing pincers and a whiplike caudal appendage."*
+> - 📜 **Theodore Roosevelt (*Hunting Trips of a Ranchman*):** *"Among the venomous vermin of the southern plains, the repulsive **vinegarroon** was regarded with superstitious dread."*

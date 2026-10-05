@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mix together different elements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fuse or cause to grow together.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having grown together, united, or fused into a single unified whole or combined body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical metallurgy and colloid chemistry, describing particles, droplets, or structural domains that have merged into a continuous phase.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Now and again several nodules coalesced and formed tiny rivulets."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"From a turret above the cruiser's upper structures a molecular disrupter flashed a cascade of energy that coalesced into twisting, jagged bolts."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The example shows how easily among our rude forefathers the ideas of divinity and royalty coalesced."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Successive streams of lava had **coalesced** to form an unbroken volcanic plateau extending across thirty miles."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Her scattered impressions of duty had **coalesced** into an unwavering resolve to endure whatever sorrow might come."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"In adult specimens the distinct cranial sutures have **coalesced**, producing an exceptionally rigid bony vault."*

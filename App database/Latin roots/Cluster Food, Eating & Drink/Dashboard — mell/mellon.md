@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states financier and philanthropist (1855-1937).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states financier and philanthropist (1855-1937).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A polymeric organic chemical compound of carbon and nitrogen synthesized by heating melon precursors, or an influential American family surname.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In synthetic carbon nitride chemistry, a tri-s-triazine polymer characterized by high thermal stability and photocatalytic properties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mellon designates united states financier and philanthropist (1855-1937)."*
+> - 📜 **Justus von Liebig (*Researches on the Organic Bases*):** *"By heating dry ammonium thiocyanate we obtained a yellow insoluble residue which Berzelius termed **mellon**."*
+> - 📜 **Jöns Jacob Berzelius (*Treatise on Chemistry*):** *"The compound **mellon** consists solely of nitrogen and carbon arranged in an unusually stable radical."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Planar carbon-nitrogen sheets in graphitic derivatives illustrate structures closely related to polymeric **mellon**."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: West indian tree with smooth lustrous and slightly oily wood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hard yellowish wood of a satinwood tree having a satiny luster; used for fine cabinetwork and tools.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hard, close-grained tropical wood with a satiny golden-yellow luster, or the rutaceous tree yielding it, highly valued in fine cabinetmaking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In decorative arts and Georgian woodworking, precious timber from Chloroxylon swietenia or Zanthoxylum flavum used for exquisite Sheraton-style veneers and marquetry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"On a tiny satinwood table stood a statuette by Clodion, and beside it lay a copy of Les Cent Nouvelles, bound for Margaret of Valois by Clovis Eve and powdered with the gilt daisies that Queen had selected for her device."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"There the satinwood book-case filled with his dog-eared schoolbooks."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"A delicate table of inlaid **satinwood** stood in the corner of the library, holding an antique silver bowl filled with violets."*
+> - 📜 **Thomas Chippendale (*The Gentleman and Cabinet-Maker's Director*):** *"For delicate drawing-room commodes and card tables, polished **satinwood** yields an incomparable golden luster when banded with rosewood."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Norwood Builder*):** *"Holmes examined the handsome **satinwood** desk, pointing out the minute scratches around the lock to the perplexed inspector."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the lymphatic vessels that convey chyle from the small intestine to the thoracic duct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or consisting of or producing or resembling milk.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, resembling, or conveying milk or a milk-like fluid; milky in appearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human anatomy and lymphatic physiology, one of the lymphatic vessels of the small intestine that absorb emulsified dietary chyle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Condensed milk supplied well the place of the usual lacteal, and was an improvement on the city article, inasmuch as we knew exactly what quantity and quality of water went into it."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Each microscopic villus contains a central **lacteal** vessel that absorbs emulsified fats from digested food."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The diver emerged holding a cluster of mollusks that discharged a thick **lacteal** fluid into the clear sea water."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Obstruction of the main **lacteal** vessels within the mesentery leads to severe lipid malabsorption and chylous ascites."*

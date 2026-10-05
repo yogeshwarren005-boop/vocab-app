@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated in front of the anus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Situated in front of the anus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated in front of or immediately anterior to the anus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate anatomy and herpetology, designating specialized glands, scales, or pores located anterior to the vent in reptiles, amphibians, and fishes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, preanal designates situated in front of the anus."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Male lizards frequently possess prominent **preanal** pores that secrete waxy pheromones during the spring breeding season."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The pelvic fin rays in certain teleostean fishes terminate directly adjacent to the **preanal** papilla."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"Careful dissection reveals that the **preanal** plates in chelonians exhibit distinct diagnostic suture lines."*

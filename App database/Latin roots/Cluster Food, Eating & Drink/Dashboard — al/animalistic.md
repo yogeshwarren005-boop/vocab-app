@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to animalism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to animalism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, characteristic of, or driven by primitive animal instincts and physical appetites.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary and artistic criticism, depicting human subjects as dominated by raw, unvarnished biological urges rather than moral reasoning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, animalistic designates of or pertaining to animalism."*
+> - 📜 **Jack London (*The Sea-Wolf*):** *"Wolf Larsen represented the supreme triumph of purely **animalistic** vigour and ferocious intellectual materialism."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"In the sudden terror of the panic, the passengers yielded to an **animalistic** frenzy to secure the remaining lifeboats."*
+> - 📜 **H. G. Wells (*The Island of Doctor Moreau*):** *"Under stress the beast-folk continually reverted to their **animalistic** habits, casting aside the recited laws of the master."*

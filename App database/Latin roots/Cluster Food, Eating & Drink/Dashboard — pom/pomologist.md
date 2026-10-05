@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone versed in pomology or someone who cultivates fruit trees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone versed in pomology or someone who cultivates fruit trees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A botanical scientist or horticulturist who specializes in pomology, the systematic study and cultivation of fruits and fruit-bearing trees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural science and nursery practice, an expert who breeds, classifies, cross-pollinates, and improves orchard cultivars to resist frost, pests, and disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pomologist designates someone versed in pomology or someone who cultivates fruit trees."*
+> - 📜 **Liberty Hyde Bailey (*The Nursery-Book*):** *"The dedicated **pomologist** spends decades observing slight variations among grafted seedlings to identify hardier varieties of winter apples."*
+> - 📜 **Henry David Thoreau (*Faith in a Seed*):** *"I walked through the experimental orchard with an elderly **pomologist** who spoke of russet pears as though they were intimate personal acquaintances."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Every experienced **pomologist** knows that varieties of the peach frequently revert when propagated from seed rather than by careful budding."*

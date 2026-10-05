@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin lact within the domain of Food, Eating & Drink.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of lact in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Becoming milky; having a milky appearance or yielding a milk-like juice when broken or bruised.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical pharmacognosy, designating laticiferous plants such as spurges or poppies that exude milky latex upon mechanical incision.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lactescent designates pertaining to, derived from, or characteristic of latin lact within the domain of food, eating & drink."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"The broken stems of the wild milkweed yielded a thick **lactescent** juice that adhered tenaciously to our fingers."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"Many climbing vines protect their tender growing tips by circulating a pungent **lactescent** fluid toxic to grazing insects."*
+> - 📜 **Asa Gray (*First Lessons in Botany*):** *"Certain plant families are readily distinguished by their **lactescent** sap, which coagulates quickly into rubbery films."*

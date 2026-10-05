@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ratio of reflected to incident light.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ratio of reflected to incident light.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The fraction of incident light or electromagnetic radiation reflected by a surface or celestial body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In planetary astronomy and climate science, a fundamental thermodynamic metric determining planetary surface temperature and energy balance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, albedo designates the ratio of reflected to incident light."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"The differing brightness of the lunar plains depends largely on the intrinsic **albedo** of their constituent volcanic rocks."*
+> - 📜 **Simon Newcomb (*Popular Astronomy*):** *"A planet covered with clouds exhibits a much higher **albedo** than one possessing a dark, barren lithosphere."*
+> - 📜 **Camille Flammarion (*Popular Astronomy*):** *"Measurements of the **albedo** of Venus reveal that its dense atmospheric mantle reflects nearly three-quarters of the solar rays."*

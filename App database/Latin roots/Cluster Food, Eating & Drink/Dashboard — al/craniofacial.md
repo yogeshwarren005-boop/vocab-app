@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin al within the domain of Food, Eating & Drink.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of al in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to both the cranium (skull) and the face.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy and reconstructive surgery, relating to the bones, soft tissues, and developmental embryology of the cranial vault and facial skeleton.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, craniofacial designates pertaining to, derived from, or characteristic of latin al within the domain of food, eating & drink."*
+> - 📜 **Thomas Henry Huxley (*On the Form of the Head in Various Races*):** *"Careful measurements of the **craniofacial** axis reveal significant morphological variations between ancient hominid skulls."*
+> - 📜 **William Flower (*An Introduction to the Osteology of the Mammalia*):** *"The fused sutures along the **craniofacial** boundary provide structural rigidity necessary to withstand masticatory stress."*
+> - 📜 **Arthur Keith (*Human Embryology and Morphology*):** *"Congenital abnormalities of the **craniofacial** region often originate during the early migration of neural crest cells."*

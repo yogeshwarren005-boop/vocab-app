@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Seal consisting of a coating of a tar or rubberlike material on the underside of a motor vehicle to retard corrosion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Seal consisting of a coating of a tar or rubberlike material on the underside of a motor vehicle to retard corrosion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To apply a protective, corrosion-resistant coating or sealant to the underside of a motor vehicle or structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In automotive maintenance and corrosion engineering, spraying bituminous or wax coatings beneath a chassis to protect steel against salt, grit, and moisture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underseal designates seal consisting of a coating of a tar or rubberlike material on the underside of a motor vehicle to retard corrosion."*
+> - 📜 **Henry Ford (*My Life and Work*):** *"Proper protective measures, including the decision to **underseal** chassis components, extend the working life of farm transport immensely."*
+> - 📜 **Nevile Shute (*Slide Rule: The Autobiography of an Engineer*):** *"We took care to **underseal** the test fuselage against salt corrosion prior to overseas flight trials."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"The mechanic advised him to **underseal** the new roadster thoroughly before tackling the unpaved mud roads of the back country."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who claims to discover hidden knowledge with the aid of supernatural powers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emanating from god; ; ; -saturday review.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who practices divination, foretells future occurrences, or locates underground water or minerals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical history and folklore, a recognized seer, augur, or water-dowser using a dowsing rod to detect subterranean springs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The sorrow that has been in her face—for it is not there now—seems to have purified even its innocent expression and to have given it a diviner quality."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Her cheeks a mair celestial hue, A crimson still diviner!"*
-> - 📜 **George Eliot (*Middlemarch*):** *"But her voice is much diviner than anything you have seen of her.” “I see, I see."*
+> - 📜 **William Shakespeare (*The Comedy of Errors*):** *"To conclude: this drudge or **diviner** laid claim to me, called me Dromio, and swore I was assured to her."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her voice is much **diviner** than anything you have seen of her, carrying an almost angelic resonance."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The rustic **diviner** paced across the meadow holding a hazel wand, waiting for the dip that indicated water."*

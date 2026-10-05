@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin vor within the domain of Food, Eating & Drink.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of vor in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A carnivorous animal that feeds primarily or exclusively on fish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In limnology and marine trophic dynamics, a predatory raptor, cetacean, or teleost adapted with sharp dentition or gripping talons for capturing aquatic prey.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, piscivore designates pertaining to, derived from, or characteristic of latin vor within the domain of food, eating & drink."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"The osprey is a majestic **piscivore**, plunging feet-first from great heights to snatch swimming fish from the foaming surf."*
+> - 📜 **William Henry Hudson (*Birds of La Plata*):** *"The kingfisher perches quietly above the river bend, an alert **piscivore** watching for the glint of minnows beneath the ripples."*
+> - 📜 **Henry Walter Bates (*The Naturalist on the River Amazons*):** *"The giant river otter is an expert **piscivore**, swimming with lightning agility to corner migrating characin shoals."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of ostraciidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of ostraciidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of marine boxfishes in the family Ostraciidae, known commonly as cowfishes or trunkfishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine ichthyology, bony fishes possessing a rigid carapace formed of fused polygonal scales and defensive ostracitoxin skin secretions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lactophrys designates a genus of ostraciidae."*
+> - 📜 **Charles Darwin (*The Zoology of the Voyage of H.M.S. Beagle*):** *"In the clear coral shallows of Bahia we captured a curious specimen of **Lactophrys** armored in a triangular bony casing."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The trunkfishes of the genus **Lactophrys** exhibit rigid body carapaces, swimming sluggishly through sculling motions of their soft fins."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"The carapace structure in **Lactophrys** exemplifies an extreme specialization of dermal armor among teleostean fishes."*

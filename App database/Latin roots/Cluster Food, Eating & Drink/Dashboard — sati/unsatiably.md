@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To an insatiable degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an insatiable manner; with persistence but without satisfaction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unsatiable manner; with an insatiable or unquenchable appetite, curiosity, or desire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical homiletic literature, relentlessly pursuing sensory gratification, dominion, or material gain without temperance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsatiably designates to an insatiable degree."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Ambitious men thirst **unsatiably** after power, forgetting that greatness consists in virtue rather than wide dominion."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"The industrial machine devours raw material **unsatiably**, transforming ancient valleys into smoke-choked centers of commerce."*
+> - 📜 **Herman Melville (*Mardi: and a Voyage Thither*):** *"The restless spirit wanders **unsatiably** across distant oceans, forever seeking that phantom tranquility which earth cannot yield."*

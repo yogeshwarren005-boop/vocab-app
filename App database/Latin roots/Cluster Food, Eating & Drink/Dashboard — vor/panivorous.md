@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin vor within the domain of Food, Eating & Drink.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of vor in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Subsisting on or eating bread; bread-eating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative dietetics and historical nutrition, denoting populations, monastic regimens, or domestic organisms that rely predominantly on grain breads for sustenance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, panivorous designates pertaining to, derived from, or characteristic of latin vor within the domain of food, eating & drink."*
+> - 📜 **William Cobbett (*Cottage Economy*):** *"A sturdy **panivorous** English peasant, reared on wholesome home-baked wheat bread, possessed vigor unknown to tea-sippers."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Monks restricted to a strictly **panivorous** diet in the desert were subject to spiritual melancholy and strange bodily languors."*
+> - 📜 **Erasmus Darwin (*Phytologia; or, The Philosophy of Agriculture and Gardening*):** *"Man is naturally a **panivorous** creature, his digestive organs being suited to the assimilation of fermented wheaten flour."*

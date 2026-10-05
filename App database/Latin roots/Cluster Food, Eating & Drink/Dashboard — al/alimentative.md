@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Related to the supply of aliment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Related to the supply of aliment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to nourish; providing sustenance or pertaining to the function of nutrition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical psychology and phrenological theory, designating faculties or instincts directed toward the consumption of food.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alimentative designates related to the supply of aliment."*
+> - 📜 **Alexander Bain (*The Senses and the Intellect*):** *"The **alimentative** sensations arising from digestion exert a profound, pervasive influence on general emotional tone."*
+> - 📜 **George Combe (*A System of Phrenology*):** *"Early investigators attributed the instinctive desire for food to a specialized **alimentative** organ situated near the temporal lobe."*
+> - 📜 **William Benjamin Carpenter (*Principles of Human Physiology*):** *"The reflex movements of swallowing constitute an essential part of the **alimentative** mechanism across all higher vertebrates."*

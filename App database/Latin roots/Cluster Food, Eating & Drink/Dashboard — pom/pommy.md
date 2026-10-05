@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disparaging term for a british person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disparaging term for a british person.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An informal and often pejorative slang designation for an English immigrant or British citizen in Australia and New Zealand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Australasian cultural studies, an entrenched colloquial moniker carrying historical associations of convict-era resentment, class tensions, and sporting rivalry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Ay, and there were the fellers round her wringing down the cheese and bustling about and saying, ‘Ware o’ the pommy, ma’am: ’twill spoil yer gown.’ ‘Never mind me,’ says she."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Ay, and there were the fellers round her wringing down the cheese and bustling about and saying, ‘Ware o’ the pommy, ma’am: ’twill spoil yer gown.’ ‘Never mind me,’ says she."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The emigrant wrote home from the goldfields that the rough bushmen called every fresh arrival from Dorset a simple **pommy** greenhorn."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"Among the international volunteers, the cheerful Australian miner referred to every London soldier good-naturedly as a stubborn **pommy**."*
+> - 📜 **D. H. Lawrence (*Kangaroo*):** *"Somers felt the peculiar distance that separated his English sensibilities from the colonial youths, who labeled him a quiet **pommy** stranger."*

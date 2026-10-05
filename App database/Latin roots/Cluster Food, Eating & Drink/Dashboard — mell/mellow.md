@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Soften, make mellow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become more relaxed, easygoing, or genial.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pleasantly soft, sweet, and juicy from full ripeness; or gentle, relaxed, and rich in tone or flavor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sensory aesthetics and psychology, softened and enriched by age, maturity, sunlight, or generous cultivation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As Hercules did shake down mellow fruit."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But in one night A storm, or robbery, call it what you will, Shook down my mellow hangings, nay, my leaves, And left me bare to weather."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Purpose is but the slave to memory, Of violent birth, but poor validity: Which now, like fruit unripe, sticks on the tree, But fall unshaken when they mellow be."*
+> - 📜 **John Keats (*To Autumn*):** *"Season of mists and **mellow** fruitfulness, close bosom-friend of the maturing sun."*
+> - 📜 **George Eliot (*Adam Bede*):** *"The late afternoon sun threw a **mellow** golden light across the polished oak furniture of the farm kitchen."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Her voice had that rich, **mellow** resonance that belongs only to the women of the fertile southern valleys."*

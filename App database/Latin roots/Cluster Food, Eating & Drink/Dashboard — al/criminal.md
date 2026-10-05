@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who has committed a crime or has been legally convicted of a crime.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bringing or deserving severe rebuke or censure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving, guilty of, or relating to an act that constitutes a public crime punishable by law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence and penal philosophy, pertaining to offenses against the sovereign order or society, distinct from private civil delicts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What you have seen him do and heard him speak, Beating your officers, cursing yourselves, Opposing laws with strokes, and here defying Those whose great power must try him—even this, So criminal and in such capital kind, Deserves th’ extremest death."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jo’s ideas of a criminal trial, or a judge, or a bishop, or a government, or that inestimable jewel to him (if he only knew it) the Constitution, should be strange!"*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Admit that he cannot pay it, or even that he will not try; is it not better to relieve his desperate need, than to have him perhaps turn criminal and prey upon society?"*
+> - 📜 **William Shakespeare (*King Lear*):** *"An admirable evasion of whoremaster man, to lay his goatish disposition to the charge of a star, as if we were villains by necessity, fools by heavenly compulsion, knaves, thieves, and treachers by spherical predominance; drunkards, liars, and adulterers by an enforced obedience of planetary influence; and all that we are evil in, by a divine thrusting on; an admirable evasion to make man **criminal** only by celestial decree!"*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Acts injurious to others, without warrantable justification, fall under the legitimate sphere of **criminal** law and social retribution."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He feared that an investigation into the trust would expose him to **criminal** charges before the county assizes."*

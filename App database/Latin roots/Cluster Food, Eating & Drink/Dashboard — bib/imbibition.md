@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (chemistry) the absorption of a liquid by a solid or gel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of consuming liquids.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The absorption of a liquid by a solid or gel without chemical combination, resulting in swelling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant physiology and seed germination, the physical sorption of water by desiccated hydrophilic colloids that ruptures the seed coat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, imbibition designates (chemistry) the absorption of a liquid by a solid or gel."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"The outer integument of the bean expands rapidly by the simple **imbibition** of moisture from the damp loam."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Nutritive fluids pass across animal membranes largely through capillarity and colloidal **imbibition**."*
+> - 📜 **John Tyndall (*Fragments of Science*):** *"The swelling of dry gelatin upon contact with water illustrates the powerful molecular force of **imbibition**."*

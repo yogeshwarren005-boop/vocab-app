@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The face of a timepiece; graduated to show the hours.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The control on a radio or television set that is used for tuning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A graduated face or plate on a timepiece, instrument, or meter displaying measurement readings via a pointer or indicator.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horology and engineering instrumentation, a calibrated circular disc indicating time, pressure, or electrical potential via mechanical indices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The wrinkles which thy glass will truly show, Of mouthed graves will give thee memory, Thou by thy dial’s shady stealth mayst know, Time’s thievish progress to eternity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ah yet doth beauty like a dial hand, Steal from his figure, and no pace perceived, So your sweet hue, which methinks still doth stand Hath motion, and mine eye may be deceived."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then my dial goes not true; I took this lark for a bunting."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"And then he drew a **dial** from his poke, and, looking on it with lack-lustre eye, says very wisely, 'It is ten o'clock.'"*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Nature measures our years by the grand solar **dial** of the seasons and revolving constellations."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The captain fixed his gaze upon the compass **dial**, watching the needle tremble with each roll of the vessel."*

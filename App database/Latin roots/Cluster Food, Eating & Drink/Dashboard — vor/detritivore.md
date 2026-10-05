@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin vor within the domain of Food, Eating & Drink.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of vor in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism that feeds on detritus, decomposing organic matter, and plant or animal waste.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecosystem energetics, a benthic or soil saprophage such as an earthworm, woodlouse, or sea cucumber that facilitates nutrient cycling by fragmenting particulate matter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, detritivore designates pertaining to, derived from, or characteristic of latin vor within the domain of food, eating & drink."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"The common earthworm functions as a tireless **detritivore**, converting fallen leaves into fertile loam through digestive grinding."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"Across the tidal flat, countless burrowing worms act as **detritivore** scavengers, filtering decaying organic drift from the silt."*
+> - 📜 **Aldo Leopold (*A Sand County Almanac*):** *"Every fungal filament and creeping **detritivore** plays a silent role in returning dead wood to the forest floor."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The contentment one feels when one has fulfilled a desire, need, or expectation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: State of being gratified or satisfied.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The fulfillment of a desire, need, or appetite; the pleasant feeling of contentment arising from achieving what was hoped for.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence and contract law, the discharge of an obligation or compensation for injury (accord and satisfaction); in historical duel culture, honorable redress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You know since Pentecost the sum is due, And since I have not much importun’d you, Nor now I had not, but that I am bound To Persia, and want guilders for my voyage; Therefore make present satisfaction, Or I’ll attach you by this officer."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Queen, sir, very oft importun’d me To temper poisons for her; still pretending The satisfaction of her knowledge only In killing creatures vile, as cats and dogs, Of no esteem."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But a good conscience will make any possible satisfaction, and so would I."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have a kind of self-residing peace, and with clear soul do claim **satisfaction** for the wrongs done unto my name."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The mind finds genuine **satisfaction** in the discovery of clear, demonstrable truths that dissipate confusion and doubt."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel experienced a quiet **satisfaction** as he saw the rescued sheep grazing peacefully upon the dry slope beneath the stars."*

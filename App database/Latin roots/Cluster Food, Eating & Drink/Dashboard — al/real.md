@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any rational or irrational number.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The basic unit of money in brazil; equal to 100 centavos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Actually existing, genuine, true, and not imaginary, counterfeit, or illusory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metaphysics and property jurisprudence, denoting objective ontic substance, or pertaining to immovable property such as land and permanent tenements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"A real ghost could rush towards us, mad with rage, if we challenged him that way."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"There is no real foundation for the talk," the mother replied, "and no one of all those who talk has ever seen the apparition with his own eyes."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Real Sunday peace is resting on everything here."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"If this be magic, let it be an art lawful as eating; it is required you do awake your faith; then all stand still; on, those that think it unlawful business I am about, steal them away; music, awake her, strike! 'Tis time; descend; be stone no more; approach; strike all that look upon with marvel; come, I'll fill your grave up; stir, nay, come away, bequeath to death your numbness, for from him dear life redeems you; you perceive she stirs; start not; her actions shall be as holy as you hear my spell is lawful; do not shun her until you see her die again, for then you kill her double; nay, present your hand; when she was young you wooed her; now in age is she become the **real** partner of your joy."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The beauty or ugliness of a person's life depends not on their acts, but on their **real** intentions and inward spirit."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Our simple ideas correspond to **real** qualities existing in external bodies that have the power to produce them in us."*

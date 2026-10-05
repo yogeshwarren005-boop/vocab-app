@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not suitable for food.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not suitable for food.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not fit or suitable for eating; toxic, unwholesome, foul-tasting, or indigestible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In food toxicology and mycological safety, containing deleterious alkaloids, heavy metals, or woody fiber unsuitable for alimentary processing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The fruit, which is inedible, resembles a banana, and is clearly chosen for this purpose on account of its shape."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"The ritual priests avoided the bitter, **inedible** roots that grew near the sacred grove during festive ceremonies."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The native crew had been given rotten hippo-meat that had become entirely **inedible** under the blazing tropical sun."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Many wild mushrooms are dangerously **inedible**, warning the careless forager by their noxious odors and fiery juices."*

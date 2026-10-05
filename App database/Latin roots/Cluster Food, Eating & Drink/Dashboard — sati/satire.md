@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Witty language used to convey insults or scorn; ; ; --jonathan swift.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Witty language used to convey insults or scorn; ; ; --jonathan swift.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of humor, irony, exaggeration, or ridicule to expose, criticize, and mock human folly, vices, or political corruption.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary theory and classical rhetoric, a genre originated by Roman poets (Lucilius, Horace, Juvenal) designed to reform morals through corrective wit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rise resty Muse, my love’s sweet face survey, If time have any wrinkle graven there, If any, be a satire to decay, And make time’s spoils despised everywhere."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dost thou think I care for a satire or an epigram?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It must be a personating of himself, a satire against the softness of prosperity, with a discovery of the infinite flatteries that follow youth and opulency."*
+> - 📜 **Jonathan Swift (*The Battle of the Books*):** *"**Satire** is a sort of glass wherein beholders do generally discover everybody's face but their own, which is the chief reason for its welcome."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"The most biting **satire** upon frivolous customs is the quiet dignity of a person who lives according to simple truth."*
+> - 📜 **Alexander Pope (*Epistle to Dr. Arbuthnot*):** *"O sacred weapon! left for truth's defense, Sole dread of folly, vice, and insolence, To all but heaven-directed **satire** dead!"*

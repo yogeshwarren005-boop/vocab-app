@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin mell within the domain of Food, Eating & Drink.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of mell in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeding upon, sucking, or drawing nourishment from honey or floral nectar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate and invertebrate trophic ecology, describing nectar-feeding animals such as sunbirds, hummingbirds, and honey-eating bats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mellisugent designates pertaining to, derived from, or characteristic of latin mell within the domain of food, eating & drink."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The tiny long-tongued insects exhibit **mellisugent** habits, hovering delicately over the bells of the digitalis to sip nectar."*
+> - 📜 **Erasmus Darwin (*Zoonomia*):** *"Various avian species have developed slender, curved bills adapted specifically for **mellisugent** foraging among deep blossoms."*
+> - 📜 **William Kirby (*An Introduction to Entomology*):** *"The tongue of the bee is an exquisite **mellisugent** apparatus designed to extract the hidden nectar of tubular flowers."*

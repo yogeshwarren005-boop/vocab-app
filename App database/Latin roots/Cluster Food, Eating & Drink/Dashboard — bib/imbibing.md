@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of consuming liquids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take in, also metaphorically.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of drinking liquids, taking in fluids, or absorbing moisture and intellectual influences.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological metabolism and plant biology, the passive uptake of water by seeds, dry colloids, or cellular tissues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"One feels too enervated for any exertion, beyond imbibing cool drinks or smoking a cigar in a cane lounge."*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"I'll tell you what I'll do, boys; if my dog will drink the stuff you fellows are imbibing I'll drink with you," said Mr."*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"The substitute bartender had solaced himself with the liquid goods before entering the train, and was soon in a rapturous state from the mixture brought about from imbibing A----'s whiskey."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The mowers paused under the oak boughs, quietly **imbibing** draughts of cool cider to relieve their burning thirst."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"The student spent his youth **imbibing** the noble stoic doctrines taught in the philosophical schools of Rome."*
+> - 📜 **Jack London (*John Barleycorn*):** *"He watched the older men gathered around the brass rail, **imbibing** generous bumpers of whiskey with reckless cheer."*

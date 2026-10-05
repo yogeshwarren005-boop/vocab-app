@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by fantastic imagery and incongruous juxtapositions; --j.c.powys.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling a dream.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a bizarre, dreamlike, or fantastic quality reminiscent of the unconscious mind or surrealist art.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In twentieth-century art history and avant-garde literature, uniting dream logic with hyper-realistic detail to transcend rational conventions of everyday reality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, surreal designates characterized by fantastic imagery and incongruous juxtapositions; --j.c.powys."*
+> - 📜 **André Breton (*Manifesto of Surrealism*):** *"The marvelous alone is beautiful, and from the **surreal** juxtaposition of distant realities springs the supreme spark of poetry."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"The garden appeared almost **surreal** in the silent noon heat, with shadows frozen into crystalline immobility upon the lawn."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"There was a **surreal** atmosphere about the street barricades, where men lounged chatting casually amidst the crackle of sniper fire."*

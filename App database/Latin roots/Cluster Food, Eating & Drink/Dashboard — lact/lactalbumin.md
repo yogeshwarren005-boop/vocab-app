@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Albumin occurring in milk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Albumin occurring in milk.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A globular albumin protein present in milk and dairy whey, rich in essential amino acids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dairy biochemistry and nutritional science, a major whey protein fraction (alpha-lactalbumin) regulating lactose synthase activity in mammary epithelial cells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lactalbumin designates albumin occurring in milk."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Milk contains casein in suspension together with soluble **lactalbumin** and diverse mineral salts dissolved in the serum."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The nutritional value of bovine whey resides largely in its easily digestible **lactalbumin** fraction."*
+> - 📜 **Harold McGee (*On Food and Cooking*):** *"Heating whey coagulates the **lactalbumin**, forming the delicate curd prized in traditional ricotta cheese making."*

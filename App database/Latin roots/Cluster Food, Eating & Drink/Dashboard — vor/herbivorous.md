@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeding only on plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeding only on plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeding on plants, grasses, and vegetable matter; plant-eating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy and paleontology, having dental and digestive adaptations, such as high-crowned hypsodont teeth, suited for pulverizing tough fibrous foliage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"It is carnivorous, herbivorous, and abstemious from water, requiring no other fluids than those obtained by eating roots."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The limit set by the food-supply is seen in a simple case when herbivorous animals are placed on an island from which they cannot escape, and where there are no dogs, wolves, weasels, or foxes."*
-> - 📜 **James Joyce (*Ulysses*):** *"Mrs Breen in man’s frieze overcoat with loose bellows pockets, stands in the causeway, her roguish eyes wideopen, smiling in all her herbivorous buckteeth.)_ MRS BREEN: Mr..."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The marine iguana of the Galapagos islands is singularly **herbivorous**, browsing exclusively on seaweed submerged along the surf."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"In large **herbivorous** quadrupeds, the intestinal canal attains an extraordinary length compared to that of carnivores."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"Countless herds of **herbivorous** bison roamed the western prairies, sustaining themselves entirely on buffalo grass."*

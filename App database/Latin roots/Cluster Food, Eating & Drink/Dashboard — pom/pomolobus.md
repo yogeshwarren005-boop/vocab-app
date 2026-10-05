@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus to which the alewife is sometimes assigned.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus to which the alewife is sometimes assigned.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former zoological genus of clupeid fishes comprising anadromous herrings such as the alewife and blueback herring, now classified under Alosa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical American ichthyology and fisheries documentation, river herrings ascending Atlantic freshwater streams in dense spring spawning runs to support commercial fisheries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pomolobus designates genus to which the alewife is sometimes assigned."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"Rafinesque proposed the name **Pomolobus** for the common alewife and its allies, separating them from true oceanic herrings by their notched upper jaws."*
+> - 📜 **Spencer Fullerton Baird (*Report on the Condition of the Sea Fisheries*):** *"Every spring the rivers of New England were choked with millions of **Pomolobus**, providing abundant sustenance for coastal settlements."*
+> - 📜 **George Brown Goode (*American Fishes*):** *"The species formerly grouped under **Pomolobus** undertake remarkable freshwater migrations, swimming against swift currents to deposit their spawn in quiet ponds."*

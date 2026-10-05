@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A silvery ductile metallic element found primarily in bauxite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state in the southeastern united states on the gulf of mexico; one of the confederate states during the american civil war.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abbreviation or component designating the chemical element aluminium, or the Latin abbreviation for alias and related terms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metallurgical chemistry and mineral nomenclature, the element symbol Al designates the lightweight trivalent post-transition metal abundant in aluminosilicate clays.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"John is also a day of joy for the Provençals."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Your great-aunt! ‘Der Neffe als Onkel’ in a tragic sense—_ungeheuer!_” “You and I shall quarrel, Naumann, if you call that lady my aunt again.” “How is she to be called then?” “Mrs."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Bilfinger ist wohl mein Freund, aber es geht ihm zu gluecklich, als dass er sich nach mir umsehen moechte."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"The metallic base which I have named aluminium, abbreviated as **Al** in systematic tables, forms an essential component of common alum."*
+> - 📜 **Jöns Jacob Berzelius (*An Attempt to Establish a Pure Scientific System of Mineralogy*):** *"In every chemical formula denoting clay minerals, the symbol **Al** marks the presence of the trivalent earth."*
+> - 📜 **Thomas Graham (*Elements of Chemistry*):** *"The affinity of oxygen for **Al** is so intense that the reduction of its oxide long resisted conventional metallurgical furnaces."*

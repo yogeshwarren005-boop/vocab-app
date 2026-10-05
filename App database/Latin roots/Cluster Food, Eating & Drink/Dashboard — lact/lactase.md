@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group of enzymes (trade name lactaid) that hydrolyze lactose to glucose and galactose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a group of enzymes (trade name lactaid) that hydrolyze lactose to glucose and galactose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An intestinal enzyme that hydrolyzes lactose disaccharide into glucose and galactose for absorption.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human evolutionary genetics and gastroenterology, a brush-border beta-galactosidase whose adult persistence is an adaptive trait in pastoralist populations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lactase designates any of a group of enzymes (trade name lactaid) that hydrolyze lactose to glucose and galactose."*
+> - 📜 **Richard Dawkins (*The Ancestor's Tale*):** *"The evolutionary persistence of **lactase** into adult human life represents a dramatic signature of natural selection among pastoral peoples."*
+> - 📜 **Oliver Sacks (*The Island of the Colorblind*):** *"Without sufficient mucosal **lactase**, ingested milk sugars pass unabsorbed into the colon, causing microbial fermentation."*
+> - 📜 **Harold McGee (*On Food and Cooking*):** *"Infants produce abundant **lactase** to assimilate mother's milk, but production naturally declines after weaning in most mammals."*

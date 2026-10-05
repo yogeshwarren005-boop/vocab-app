@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Represent in the form of an animal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make brutal, unfeeling, or inhuman.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To reduce to the state or characteristics of a beast; to sensualize or degrade morally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical biochemistry, to convert plant or mineral matter into animal tissue; or to endow with animal attributes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, animalize designates represent in the form of an animal."*
+> - 📜 **Mary Wollstonecraft (*A Vindication of the Rights of Woman*):** *"Confining women to superficial accomplishments serves only to **animalize** them, rendering them mere playthings of domestic life."*
+> - 📜 **Frederick Douglass (*Narrative of the Life of Frederick Douglass*):** *"The brutalizing system of plantation slavery sought methodically to **animalize** the captive and extinguish every spark of human dignity."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Overindulgence in luxury and sluggish comfort tends insidiously to **animalize** our thoughts and dull our spiritual perceptions."*

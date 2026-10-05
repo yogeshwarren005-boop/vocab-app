@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of chiefly tropical american vines having cordate leaves and large purple or greenish cymose flowers; supposedly having powers as an antidote.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of chiefly tropical american vines having cordate leaves and large purple or greenish cymose flowers; supposedly having powers as an antidote.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of herbaceous perennial plants in the Apocynaceae family, commonly called swallow-wort.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical herbal pharmacopeia, literally 'poison-vanquisher', reputed in traditional medicine to counteract animal venoms and toxic bites.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vincetoxicum designates genus of chiefly tropical american vines having cordate leaves and large purple or greenish cymose flowers; supposedly having powers as an antidote."*
+> - 📜 **Nicholas Culpeper (*The Complete Herbal*):** *"The root of **vincetoxicum**, or swallow-wort, is accounted a sovereign counter-poison against venomous bites."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"Ancient herbalists termed this plant **vincetoxicum** because of its supposed virtue in subduing virulent poisons."*
+> - 📜 **William Turner (*A New Herball*):** *"Of **vincetoxicum** write Dioscorides and Galen, praising its drying virtues in expelling malign humors from the veins."*

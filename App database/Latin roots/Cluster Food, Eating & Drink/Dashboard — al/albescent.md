@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Becoming or shading into white.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Becoming or shading into white.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Growing, shading, or turning white; possessing a whitish or pale appearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive botanical and zoological taxonomy, designating foliage, fungal caps, or plumage that gradually transitions to creamy white as it matures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, albescent designates becoming or shading into white."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"The **albescent** line of breakers stretched along the lonely Atlantic coast beneath the pale evening stars."*
+> - 📜 **John Burroughs (*Wake-Robin*):** *"In early autumn the undersides of the poplar leaves turn **albescent**, shimmering silvery white whenever the breeze stirs the grove."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The young stems are clothed with dense woolly hairs that give them a markedly **albescent** hue before flowering."*

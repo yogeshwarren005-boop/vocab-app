@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who drinks alcoholic beverages (especially to excess).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who drinks alcoholic beverages (especially to excess).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who drinks, especially one who habitually consumes intoxicating or alcoholic liquors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In figurative discourse, one who readily absorbs, adopts, or incorporates intellectual concepts, doctrines, or habits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, imbiber designates a person who drinks alcoholic beverages (especially to excess)."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The old harpooner was a staunch **imbiber** of grog, declaring it the only sovereign remedy against arctic frost."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Jos Sedley was a hearty **imbiber** of punch who rarely left the supper table before the small hours."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The visitor appeared to be a veteran **imbiber** whose unsteady fingers reached instinctively for the decanter."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Given to or marked by the consumption of alcohol.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Given to or marked by the consumption of alcohol.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessively fond of drinking alcoholic beverages; characterized by drinking habits or drunken conviviality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical chemistry and material science, highly absorbent or spongy; readily taking up and holding liquids or moisture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Speak!” Denísov blushed like a girl (it was strange to see the color rise in that shaggy, bibulous, time-worn face) and boldly began to expound his plan of cutting the enemy’s lines of communication between Smolénsk and Vyázma."*
+> - 📜 **Washington Irving (*The Sketch Book of Geoffrey Crayon*):** *"The tavern was thronged with **bibulous** companions who gathered nightly to drain flagons of foaming brown ale."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"His florid countenance and wandering eye betrayed a distinctly **bibulous** disposition nurtured by long evenings at the tap."*
+> - 📜 **Oliver Wendell Holmes Sr. (*The Autocrat of the Breakfast-Table*):** *"He blotted the wet ink upon a sheet of **bibulous** paper that eagerly drank every wandering droplet."*

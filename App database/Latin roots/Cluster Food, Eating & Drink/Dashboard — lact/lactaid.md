@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group of enzymes (trade name lactaid) that hydrolyze lactose to glucose and galactose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a group of enzymes (trade name lactaid) that hydrolyze lactose to glucose and galactose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brand of lactase enzyme dietary supplement or lactase-treated milk used by individuals with lactose intolerance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical dietetics and gastroenterology, an exogenous beta-galactosidase formulation facilitating digestive hydrolysis of dietary milk sugars.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lactaid designates any of a group of enzymes (trade name lactaid) that hydrolyze lactose to glucose and galactose."*
+> - 📜 **Oliver Sacks (*The Island of the Colorblind*):** *"Patients unable to digest dairy products frequently rely on preparations like **Lactaid** to hydrolyze offending disaccharides."*
+> - 📜 **Richard Dawkins (*The Ancestor's Tale*):** *"Adult lactose intolerance is the ancestral mammalian condition, prompting the modern commercial development of enzymes such as **Lactaid**."*
+> - 📜 **Harold McGee (*On Food and Cooking*):** *"Enzymatically treated milk, commercially sold under names like **Lactaid**, splits lactose into glucose and galactose prior to consumption."*

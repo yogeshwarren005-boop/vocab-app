@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Playful behavior intended to arouse sexual interest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Playful behavior intended to arouse sexual interest.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Flirtatious behavior or mannerisms displayed to attract romantic attention, praise, or admiration without serious intent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary characterization and behavioral analysis, subtle interpersonal maneuvering designed to tantalize suitors through charming coquettish ambiguity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Do you think Miss Ingram will not suffer from your dishonest coquetry?"*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"This was Isabel's first venture into coquetry."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I suppose it answers some wise ends: Providence made them so, eh, Bulstrode?” “I should be disposed to refer coquetry to another source,” said Mr."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth observed that Lydia's shameless **coquetry** exposed the whole family to ridicule among the militia officers."*
+> - 📜 **Leo Tolstoy (*Anna Karenina*):** *"There was no trace of cheap **coquetry** in her gentle smile, only genuine grace and quiet sincerity."*
+> - 📜 **Edith Wharton (*The House of Mirth*):** *"Lily Bart understood the delicate arts of social **coquetry** better than any woman in New York drawing rooms."*

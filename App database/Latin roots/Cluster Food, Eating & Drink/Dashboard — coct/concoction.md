@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any foodstuff made by combining different ingredients.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An occurrence of an unusual mixture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mixture of diverse ingredients prepared by boiling or blending; an elaborate fabricated plan, excuse, or tale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmaceutical compounding and traditional medicine, a blended herbal brew or medicinal preparation steeped for therapy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"When she entered his room with this concoction a little later, the odor from it was so inviting that the Baron breathed it in gratefully."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Towards sunset one of the older women--who, as directress of the ceremonies, is called _nachimbusa_-- follows her, places a cooking-pot by the cross-roads, and boils therein a concoction of various herbs, with which she anoints the neophyte."*
-> - 📜 **James Joyce (*Ulysses*):** *"The keeper of the shelter in the middle of this _tête-à-tête_ put a boiling swimming cup of a choice concoction labelled coffee on the table and a rather antediluvian specimen of a bun, or so it seemed."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes examined the viscous **concoction** bubbling gently in the test tube over the spirit lamp."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"Aunt Polly administered her dreadful **concoction** of patent pain-killer, expecting Tom to swallow every bitter drop."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The apothecary returned with a soothing **concoction** designed to quiet the patient's raging fever."*

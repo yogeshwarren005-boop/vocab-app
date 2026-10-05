@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being satisfied.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of being satisfied.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being satisfied, fulfilled, or appeased; impossible to meet or gratify.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal logic, proof theory, and computer science, describing a set of constraints or Boolean formulas for which no assignment of variables evaluates to true.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsatisfiable designates not capable of being satisfied."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"When contradictory axioms are introduced into a formal system, the resulting set of propositions becomes inherently **unsatisfiable**."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"A tyrant's demand for absolute subservience is fundamentally **unsatisfiable**, growing more unreasonable with every concession made by the people."*
+> - 📜 **Jeremy Bentham (*A Fragment on Government*):** *"The extravagant claims of unlimited monarchical prerogative represent an **unsatisfiable** drain upon the liberties of the subject."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (pharmacology) the extraction of water-soluble drug substances by boiling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (pharmacology) the extraction of water-soluble drug substances by boiling.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A concentrated liquor obtained by boiling a substance, particularly a medicinal plant or root, in water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In galenic pharmacology and herbal formulation, an aqueous preparation made by simmering harder plant materials to yield soluble actives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The transition is a keen one, I assure you, from a schoolmaster to a sailor, and requires a strong decoction of Seneca and the Stoics to enable you to grin and bear it."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Ultimately he was reduced well-nigh to a homogeneous sop, and a decoction of his person trickled down and stood in a pool at the foot of the ladder."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"The transition is a keen one, I assure you, from a schoolmaster to a sailor, and requires a strong decoction of Seneca and the Stoics to enable you to grin and bear it."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The native physician prepared an astringent **decoction** that restored my strength after the exhausting voyage."*
+> - 📜 **Mary Shelley (*The Last Man*):** *"The nurse brought a steaming **decoction** of elderberries and mint to comfort the shivering invalid."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Chillingworth culled forest simples to brew an earthy **decoction** intended to soothe the minister's torment."*

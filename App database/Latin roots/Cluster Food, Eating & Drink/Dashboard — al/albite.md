@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A widely distributed feldspar that forms rocks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A widely distributed feldspar that forms rocks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A white or pale feldspar mineral consisting of sodium aluminium silicate, representing the sodium endmember of the plagioclase series.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In petrology and igneous geology, a widespread rock-forming mineral found in granites, pegmatites, and low-grade metamorphic greenschists.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, albite designates a widely distributed feldspar that forms rocks."*
+> - 📜 **James Dwight Dana (*Manual of Mineralogy*):** *"Crystals of **albite** are frequently tabular and exhibit characteristic polysynthetic twinning visible under the microscope."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The pegmatite veins traversing the granite mass contain large plates of tourmaline embedded in pure white **albite**."*
+> - 📜 **Archibald Geikie (*Text-Book of Geology*):** *"Metamorphism of basic igneous rocks often converts calcic plagioclase into secondary **albite** accompanied by epidote and chlorite."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of becoming mellow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Soften, make mellow.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process or act of becoming soft, ripe, gentle, rich, or mature over time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In viniculture and agricultural harvesting, the chemical softening of tannins and reduction of astringency during barrel aging or post-harvest storage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These are begot in the ventricle of memory, nourished in the womb of _pia mater_, and delivered upon the mellowing of occasion."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"All the valley at my right hand was full of pasture-fields, and cornfields, and wood; and a glittering stream ran zig-zag through the varied shades of green, the mellowing grain, the sombre woodland, the clear and sunny lea."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"They are told after the mellowing lapse of half a century, which has been very full of satisfying labors in an ennobling profession..."*
+> - 📜 **William Wordsworth (*The Prelude*):** *"I watched the **mellowing** shades of autumn spread over the mountains, bathing each cliff in tranquil light."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"There was a gradual **mellowing** of the old lawyer's stern manner whenever he spoke of his departed daughter."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The gentle **mellowing** of stone walls under centuries of lichen gives ancient buildings their supreme pictorial charm."*

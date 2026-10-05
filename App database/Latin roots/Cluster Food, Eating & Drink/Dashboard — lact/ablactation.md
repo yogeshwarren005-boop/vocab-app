@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cessation of lactation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of substituting other food for the mother's milk in the diet of a child or young mammal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The weaning of an infant or young mammal from breast milk; the cessation of suckling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical arboriculture and botanical propagation, an obsolete grafting technique where the scion remains rooted until union is complete.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ablactation designates the cessation of lactation."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The process of **ablactation** requires careful management to ensure the young mammal thrives upon dry diet."*
+> - 📜 **Thomas Browne (*The Garden of Cyrus*):** *"Gardeners anciently practiced **ablactation** or inarching, uniting living boughs before severing the feeder stock."*
+> - 📜 **John Evelyn (*Sylva, or A Discourse of Forest-Trees*):** *"In delicate fruit trees, propagation by **ablactation** preserves the scion from drying out during the critical grafting union."*

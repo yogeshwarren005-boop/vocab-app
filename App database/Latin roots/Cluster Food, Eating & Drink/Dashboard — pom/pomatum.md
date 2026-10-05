@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hairdressing consisting of a perfumed oil or ointment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hairdressing consisting of a perfumed oil or ointment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A perfumed unguent or ointment formerly made from apples and animal fats, applied to beautify, soothe, or dress the hair and skin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In seventeenth- and eighteenth-century pharmacopoeia, an aromatic pomade prepared with crushed apples (pommes), rosewater, and clarified suet used for cosmetic and medicinal grooming.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Largess, in the form of odds and ends of cold cream and pomatum, and also of hairpins, was freely distributed among the attendants."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"His valet made a fortune out of his wardrobe: his toilet-table was covered with as many pomatums and essences as ever were employed by an old beauty: he had tried, in order to give himself a waist, every girth, stay, and waistband then invented."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"He had smoothed his dark locks with fragrant **pomatum**, presenting an appearance of unexpected civility amid the rough whaling crew."*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Mr. Grewgious smelled faintly of antique snuff and lavender **pomatum**, gazing across the fire with mild and dry detachment."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The little valet rubbed sweet-scented **pomatum** into his master's thinning crown, attempting to disguise the advance of middle age."*

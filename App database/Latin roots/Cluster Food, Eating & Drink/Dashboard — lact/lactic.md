@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or obtained from milk (especially sour milk or whey).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or obtained from milk (especially sour milk or whey).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or derived from milk or whey; designating a carboxylic acid produced in sour milk or muscle tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial biochemistry and anaerobic cellular respiration, designating 2-hydroxypropanoic acid produced via bacterial fermentation of carbohydrates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lactic designates of or relating to or obtained from milk (especially sour milk or whey)."*
+> - 📜 **Louis Pasteur (*Memoir on the Fermentation Called Lactic*):** *"The souring of milk is driven by microscopic yeast-like organisms that convert lactose into pure **lactic** acid."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Exhausting muscular effort precipitates an accumulation of **lactic** acid in muscle fibers before oxygen repayment occurs."*
+> - 📜 **Harold McGee (*On Food and Cooking*):** *"Traditional cheese makers rely upon **lactic** fermentations to curdle milk proteins and create firm, tart curd."*

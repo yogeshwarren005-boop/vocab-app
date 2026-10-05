@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ridicule with satire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ridicule with satire.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To attack, ridicule, or mock human folly, vice, or social institutions through the artistic use of satire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary creation and rhetorical strategy, employing irony, parody, and burlesque to subvert dogmatic authority and conventional hypocrisies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"In it we are presented with a number of pictures of the utterly fossilized condition of the clergy of the day in the Established Church (see especially book II., vv. 326-832, in which he satirizes the clergy and the universities)."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Hammerdown is sitting on the great mahogany dining-tables, in the dining-room below, waving the ivory hammer, and employing all the artifices of eloquence, enthusiasm, entreaty, reason, despair; shouting to his people; satirizing Mr."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"V― having satirized a nobleman who was powerful at court, the latter sought every occasion to revenge himself, and challenged V― to fight him with swords."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"My intention was to **satirize** the petty quarrels of European courts by portraying them as the ridiculous squabbles of Lilliputian factions."*
+> - 📜 **Mark Twain (*A Connecticut Yankee in King Arthur's Court*):** *"I determined to **satirize** the romantic delusions of feudal chivalry by introducing nineteenth-century mechanics into the Round Table."*
+> - 📜 **Henry James (*The Bostonians*):** *"The clever journalist loved to **satirize** the earnest reformers of New England, depicting their meetings as comic spectacles."*

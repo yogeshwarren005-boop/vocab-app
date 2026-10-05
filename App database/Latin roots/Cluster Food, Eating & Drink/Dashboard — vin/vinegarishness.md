@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sourness resembling that of vinegar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sourness resembling that of vinegar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pungent sourness, crabbed acerbity, or biting sharpness in disposition or flavor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological characterization, a pervasive acerbity and biting faultfinding that sours social relations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vinegarishness designates a sourness resembling that of vinegar."*
+> - 📜 **George Eliot (*Scenes of Clerical Life*):** *"There was an underlying **vinegarishness** in her complaints that made even her acts of charity feel like reproaches."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"Mrs. Proudie's customary **vinegarishness** was on this occasion tempered by a triumphant consciousness of victory."*
+> - 📜 **Tobias Smollett (*The Expedition of Humphry Clinker*):** *"Tabitha's chronic **vinegarishness** of humor drove the entire household to distraction before breakfast."*

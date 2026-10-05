@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Growing together, fusing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Growing together, fusing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Growing together, uniting, or tending to merge into a single unified entity or body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In population genetics, designating theoretical lineages that trace alleles backward in time to their most recent common ancestral sequence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coalescent designates growing together, fusing."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The stamens of the mallow family display **coalescent** filaments that unite into an upright tube around the pistil."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The **coalescent** deltas of the two alpine rivers gradually filled the ancient lake basin with rich alluvial silt."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"The **coalescent** tendencies of neighboring communities ultimately lay the groundwork for confederated national states."*

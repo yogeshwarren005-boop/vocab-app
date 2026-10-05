@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In bed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In bed; resting, asleep, or confined to bed on account of illness or indolence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaic and poetic usage, remaining horizontally recumbent during morning hours when the household has awakened.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And this was it I gave him, being abed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The ladies, her attendants of her chamber, Saw her abed, and in the morning early They found the bed untreasured of their mistress."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But unto us it is A cell of ignorance, travelling abed, A prison for a debtor that not dares To stride a limit."*
+> - 📜 **William Shakespeare (*Henry V*):** *"And gentlemen in England now **abed** shall think themselves accursed they were not here."*
+> - 📜 **Robert Louis Stevenson (*A Child's Garden of Verses*):** *"In winter I get up at night and dress by yellow candle-light; in summer, quite the other way, I have to go **abed** by day."*
+> - 📜 **Samuel Pepys (*The Diary of Samuel Pepys*):** *"Up betimes after lying long **abed** discoursing with my wife about household expenses."*

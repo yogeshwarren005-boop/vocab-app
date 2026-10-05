@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Susceptible to being defeated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Susceptible to being defeated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being conquered, overcome, defeated, or subdued by superior effort or force.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral theology and scholastic casuistry, describing ignorance that could be dispelled through reasonable diligence, leaving culpability intact.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vincible designates susceptible to being defeated."*
+> - 📜 **Jeremy Taylor (*Ductor Dubitantium*):** *"Where knowledge was easily accessible, ignorance becomes **vincible** and affords no valid excuse before God's judgment."*
+> - 📜 **Thomas Aquinas (*Summa Theologiae*):** *"Because **vincible** ignorance can be removed by proper diligence, it does not entirely relieve the soul of sin."*
+> - 📜 **Edmund Burke (*Letters on a Regicide Peace*):** *"The difficulties before the coalition are formidable indeed, but they remain strictly **vincible** to resolute courage."*

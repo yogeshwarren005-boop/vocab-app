@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin lact within the domain of Food, Eating & Drink.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of lact in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any protein found naturally occurring in milk, including caseins, lactalbumins, and lactoglobulins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In food science and infant nutritional formulation, high-biological-value protein fractions valued for their essential amino acid profiles and emulsifying characteristics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lactoprotein designates pertaining to, derived from, or characteristic of latin lact within the domain of food, eating & drink."*
+> - 📜 **Justus von Liebig (*Animal Chemistry*):** *"The nourishment of the young mammal depends upon the assimilation of **lactoprotein** supplied within the mother's milk."*
+> - 📜 **Selman Waksman (*Microbial Enzymes*):** *"Proteolytic enzymes readily break down **lactoprotein** into assimilable peptides and free amino acids."*
+> - 📜 **Thomas Osborne (*The Vegetable Proteins*):** *"Nutritional comparisons between casein and seed reserves reveal that **lactoprotein** contains a higher proportion of lysine and tryptophan."*

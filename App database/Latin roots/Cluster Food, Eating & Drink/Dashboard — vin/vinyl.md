@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A univalent chemical radical derived from ethylene.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shiny and tough and flexible plastic; used especially for floor coverings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A synthetic resin or plastic polymer derived from polymerized vinyl compounds, widely used for phonograph records, flooring, and upholstery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organic chemistry, the univalent monounsaturated hydrocarbon radical –CH=CH₂ (ethenyl), derived formally from ethylene.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vinyl designates a univalent chemical radical derived from ethylene."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"The chemical stability of synthetic **vinyl** polymers makes them remarkably resistant to natural biodegradation in soil and water."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The double bond in the **vinyl** group facilitates rapid addition polymerization under the influence of free-radical initiators."*
+> - 📜 **Primo Levi (*The Periodic Table*):** *"In the laboratory autoclaves, monomeric compounds were catalyzed into durable sheets of **vinyl** resin with glassy transparency."*

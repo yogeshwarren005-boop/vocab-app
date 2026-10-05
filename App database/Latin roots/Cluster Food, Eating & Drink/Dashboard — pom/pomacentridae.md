@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Damselfishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Damselfishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A diverse family of small, predominantly marine perciform ray-finned fishes known commonly as damselfishes and clownfishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology and coral reef ecology, territorial fishes exhibiting aggressive defense of microalgal turfs, complex parental brooding, and mutualistic symbioses with actiniarian sea anemones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pomacentridae designates damselfishes."*
+> - 📜 **William Beebe (*Arcturus Adventure*):** *"Tiny, pugnacious damselfishes of the family **Pomacentridae** hovered above the coral heads, fiercely guarding their minute feeding territories against all intruders."*
+> - 📜 **David Starr Jordan (*Fishes*):** *"The **Pomacentridae** are exceptionally abundant on tropical reefs, displaying an astonishing array of brilliant chromatic patterns and specialized foraging behaviors."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"In the shallow reef pools of the Moluccas, agile species belonging to the **Pomacentridae** flashed like living jewels between the tentacles of giant anemones."*

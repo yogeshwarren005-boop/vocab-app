@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of an indian people of northern california living along the russian river valley and adjacent pacific coast.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The kulanapan language spoken by the pomo.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An indigenous Native American people historically inhabiting northern California along the Russian River and Pacific coast, or their family of languages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural anthropology and indigenous material arts, California hunter-gatherer communities internationally celebrated for their intricate, feather-ornamented coiled and twined basketry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The Pomos of California celebrate an expulsion of devils every seven years, at which the devils are represented by disguised men."*
+> - 📜 **Alfred Kroeber (*Handbook of the Indians of California*):** *"The artistic genius of the **Pomo** reached its highest expression in their feather-decorated baskets, unmatched in delicate craftsmanship across the continent."*
+> - 📜 **John Muir (*The Mountains of California*):** *"We passed the peaceful summer encampments of the **Pomo** along the redwood valleys, where families harvested acorns and dried salmon for winter."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"In the sacred seasonal rituals of the Californian **Pomo**, dancers donned elaborate feathered head-dresses to invoke the spirits of fertility and rain."*

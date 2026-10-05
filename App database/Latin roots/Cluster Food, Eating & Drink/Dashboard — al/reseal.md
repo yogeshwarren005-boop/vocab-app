@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Seal again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Seal again.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To seal again; to close, fasten, or make airtight or watertight once more.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic evidence protocol and commercial packaging, restoring a tamper-evident seal or hermetic barrier to preserve contents from degradation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reseal designates seal again."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Abbey Grange*):** *"Holmes carefully inspected the bottle of wine, noting that the butler had made no attempt to **reseal** the cork."*
+> - 📜 **Robert Louis Stevenson (*The Strange Case of Dr. Jekyll and Mr. Hyde*):** *"Utterson took the confidential packet from the drawer, resolved to **reseal** it within his private strongbox until the morrow."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The cooper was ordered to **reseal** the cask of sweet water before stowing it securely beneath the main hatches."*

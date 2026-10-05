@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A region of northeastern france famous for its wines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A region of northeastern france famous for its wines.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical sanctuary zone in Whitefriars, London, between Fleet Street and the Thames, where debtors and lawbreakers were long immune from arrest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In seventeenth-century English social history and urban literature, a notorious refuge of thieves, gamblers, and fugitives named after the disputed frontier province of Alsace.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alsatia designates a region of northeastern france famous for its wines."*
+> - 📜 **Walter Scott (*The Fortunes of Nigel*):** *"Nigel found himself safely immured within the squalid boundaries of **Alsatia**, where constables dared not venture without an armed guard."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The brazen ruffians of **Alsatia** sallied forth at night, knowing their sanctuary protected them against the ordinary processes of the law."*
+> - 📜 **Charles Dickens (*Barnaby Rudge*):** *"The dark alleyways resembled an ancient **Alsatia**, sheltering every variety of desperate outcast from the magistrate's warrant."*

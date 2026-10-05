@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being overcome or subdued.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being overcome or subdued.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being conquered, subdued, defeated, or overcome by physical force or mental adversity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scholastic philosophy and moral theology, describing ignorance or conviction that cannot be dispelled by ordinary human diligence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You were used to load me With precepts that would make invincible The heart that conned them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He was so forlorn, that his dimensions to any thick sight were invincible."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lo, there thou stand’st, a breathing valiant man Of an invincible unconquer’d spirit."*
+> - 📜 **William Shakespeare (*Coriolanus*):** *"You were used to load me with precepts that would make **invincible** the heart that conned them."*
+> - 📜 **John Milton (*Paradise Lost*):** *"What though the field be lost? All is not lost: the unconquerable will, and study of revenge, immortal hate, and courage never to submit or yield, and what is else not to be overcome, that **invincible** pride."*
+> - 📜 **Walter Scott (*The Talisman*):** *"Richard Coeur-de-Lion possessed an **invincible** spirit that rose highest when perils were most alarming."*

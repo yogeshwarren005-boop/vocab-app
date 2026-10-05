@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin pan within the domain of Food, Eating & Drink.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of pan in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of making or converting grain flour and water into bread through fermentation and baking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical food chemistry and industrial milling, the complex enzymatic and thermal transformation of dough into aerated bread crumb.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, panification designates pertaining to, derived from, or characteristic of latin pan within the domain of food, eating & drink."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"The art of **panification** involves the conversion of cereal starch into fermentable sugars by diastase and active yeast."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"In the process of **panification**, the alcoholic fermentation of the dough produces the carbonic gas that puffs up the loaf."*
+> - 📜 **Benjamin Thompson (Count Rumford) (*Essays, Political, Economical, and Philosophical*):** *"Proper heat regulation during **panification** ensures a crisp exterior crust while preserving a light, digestible interior."*

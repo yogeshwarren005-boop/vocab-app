@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being comical.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being comical.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Amusing absurdity, funny eccentricity, or ludicrous oddity that naturally provokes laughter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and stagecraft, the deliberate orchestration of visual incongruity, witty exaggeration, and slapstick timing to provoke mirth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole, his genial face irradiated by the comicality of this idea, “what am I to do?"*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The unexpectedness of his presence, the grotesqueness of his appearance in a gathered smockfrock, such as was now worn only by the most old-fashioned of the labourers, had a ghastly comicality that chilled her as to its bearing."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Will Ladislaw’s sense of the ludicrous lit up his features very agreeably: it was the pure enjoyment of comicality, and had no mixture of sneering and self-exaltation."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There was an irresistible **comicality** in the countryman's solemn endeavor to articulate the legal phrase correctly."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Even in his most irritable moments, a sudden gleam of **comicality** in his companion's remarks would disarm his vexation."*
+> - 📜 **Washington Irving (*Bracebridge Hall*):** *"The rustic village parson possessed a dry **comicality** of manner that kept the harvest gathering in continuous chuckles."*

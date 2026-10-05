@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inducing lactation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inducing lactation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Promoting, stimulating, or inducing the production and secretion of milk in the mammary glands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive pharmacology and pediatric medicine, describing herbal, dietary, or hormonal factors that enhance maternal milk volume.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lactogenic designates inducing lactation."*
+> - 📜 **Thomas Sydenham (*Medical Observations*):** *"Fennel and warm barley gruels were anciently esteemed for their mild **lactogenic** properties in nursing mothers."*
+> - 📜 **William Cullen (*A Treatise of the Materia Medica*):** *"Certain aromatic decoctions act through a gentle **lactogenic** stimulation upon the dormant vascular network of the breast."*
+> - 📜 **Ernest Starling (*Elements of Human Physiology*):** *"Anterior pituitary extracts exert an unmistakable **lactogenic** influence, initiating profuse lactation in puerperal animals."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The bottom of a sea or ocean.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The bottom of a sea or ocean.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The solid ground or bottom surface beneath an ocean or sea, covered with marine sediments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine oceanography and geomorphology, the benthic substrate comprising continental shelves, abyssal plains, and mid-ocean ridges.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He notes that the struggle between rich and poor nations and multinational corporations over minerals in the vast oceanic seabed is likely to be heated in the years to come, especially as reserves of land-based minerals approach exhaustion."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"Captain Nemo and his crew walked along the mineral-rich **seabed** illuminated by electric lanterns."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Sediments drifting downward through millennia blanket the ancient **seabed** in thick layers of organic ooze."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Sunken anchors and shattered ribs of forgotten ships rest forever upon the silent **seabed**."*

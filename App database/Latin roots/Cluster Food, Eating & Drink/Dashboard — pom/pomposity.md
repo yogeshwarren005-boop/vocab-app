@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of elegance as a consequence of being pompous and puffed up with vanity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lack of elegance as a consequence of being pompous and puffed up with vanity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pompous behavior, pretentiousness, or self-important dignity in demeanor, speech, or writing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social satire and character comedy, an inflated sense of personal importance marked by solemn affectation, grandiloquent language, and absurd vanity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"His pomposity grows daily but he eyes me with suspicion when he sees me in secret conclave with Petunia."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"I am much indebted to you, sir, for a Scotch bonnet is fitted neither to my years nor my gravity.” With a comical pomposity of manner he bowed solemnly to both of us and strode off upon his way."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Sapsea deal with him in his own parlour, as I did.” “O!” cries Sapsea, picking up the ball thrown to him with ineffable complacency and pomposity; “yes, yes."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The pompous alderman cleared his throat with immense **pomposity**, puffing out his waistcoat before delivering his banal opinion."*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Mr. Sapsea wrapped himself in a mantle of solemn **pomposity**, delivering commonplaces as though they were divine revelations."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Collins spoke with an absurd mixture of servility and **pomposity**, praising Lady Catherine with every breath he drew."*

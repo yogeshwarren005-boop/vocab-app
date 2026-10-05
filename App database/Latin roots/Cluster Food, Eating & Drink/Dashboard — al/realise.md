@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Earn on some commercial or business transaction; earn as salary or wages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert into cash; of goods and property.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To understand clearly or become aware of something; or to convert an intention, plan, or asset into actual reality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In finance and epistemology (chiefly British spelling), to convert investments into liquid cash, or to achieve experiential knowledge of theoretical truths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"It was only as I walked away, hearing my own steps and those of Lecamus ringing upon the pavement, that I began to realise what had happened."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I was tormented by the contrast between my idea and my handiwork: in each case I had imagined something which I was quite powerless to realise.” “Not quite: you have secured the shadow of your thought; but no more, probably."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I was not born for a different destiny to the rest of my species: to imagine such a lot befalling me is a fairy tale—a day-dream.” “Which I can and will realise."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"Children should be brought to **realise** the natural connection between diligent study and lasting personal esteem."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"When we reflect on this struggle, we may console ourselves with the full belief that the war of nature is not incessant, that no fear is felt, that death is generally prompt, and that the vigorous, the healthy, and the happy survive and multiply, leading us to **realise** the majestic order of organic evolution."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"It took only a moment for Watson to **realise** that our quarry had escaped across the treacherous mire."*

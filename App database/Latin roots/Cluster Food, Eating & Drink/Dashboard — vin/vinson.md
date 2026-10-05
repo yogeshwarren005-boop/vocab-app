@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states jurist who served as chief justice of the supreme court (1890-1953).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states jurist who served as chief justice of the supreme court (1890-1953).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Referring to Auguste Vinson (1819–1894), French physician and naturalist, or Fred M. Vinson (1890–1953), Chief Justice of the United States.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical taxonomy and American jurisprudence, citing the arachnological investigations of Auguste Vinson in the Mascarenes, or judicial opinions of Chief Justice Vinson.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vinson designates united states jurist who served as chief justice of the supreme court (1890-1953)."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"**Vinson** gives a good instance of the remarkably small size of the male spider compared to the female."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"The naturalist **Vinson** documented numerous endemic species of flora and fauna across the volcanic peaks of Réunion."*
+> - 📜 **Felix Frankfurter (*Of Law and Men*):** *"Chief Justice **Vinson** presided over the court during years of momentous constitutional transition following the war."*

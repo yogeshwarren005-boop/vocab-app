@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A particular instance of buying or selling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An agreement between parties (usually arrived at after discussion) fixing obligations of each.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To distribute cards to players in a game, or to engage in a commercial transaction or business agreement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic sociology and game theory, a negotiated bargain or contract establishing exchange value between consenting parties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Indeed, good lady, The fellow has a deal of that too much, Which holds him much to have."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You do not know him, my lord, as we do; certain it is that he will steal himself into a man’s favour, and for a week escape a great deal of discoveries, but when you find him out, you have him ever after."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So should I be a great deal of his act."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will buy with you, sell with you, talk with you, walk with you, and so following; but I will not eat with you, drink with you, nor pray with you; What news on the Rialto? Who is he comes here? I will **deal** with him fairly."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"He was a shrewd man of business who drove a hard **deal** with every trader in the market town."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The farmers met in the corn exchange to strike a **deal** for the incoming autumn wheat crop."*

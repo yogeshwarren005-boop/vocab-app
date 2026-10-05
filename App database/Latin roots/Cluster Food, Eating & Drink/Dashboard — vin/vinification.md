@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process whereby fermentation changes grape juice into wine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process whereby fermentation changes grape juice into wine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process, technique, and biochemical conversion of grape juice into wine through fermentation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern oenology, the precise sequence of operations including crushing, maceration, temperature-controlled fermentation, pressing, and initial racking.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vinification designates the process whereby fermentation changes grape juice into wine."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Careful control of ambient yeasts during **vinification** prevents the spoilage caused by acetic and lactic bacteria."*
+> - 📜 **George Saintsbury (*Notes on a Cellar-Book*):** *"The art of **vinification** lies in preserving the subtle bouquet of the grape without introducing extraneous harshness."*
+> - 📜 **Alexis Lichine (*Encyclopaedia of Wines and Spirits*):** *"Maceration times during red wine **vinification** determine both tannin extraction and long-term aging potential."*

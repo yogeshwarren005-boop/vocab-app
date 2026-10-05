@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or providing nourishment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or providing nourishment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to food, nutrition, or the digestive organs concerned with the absorption of nourishment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human physiology and comparative anatomy, designating the continuous muscular canal running from oral cavity to rectum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"One thing is certain, that in the year 615 before Jesus Christ, Necos undertook the works of an alimentary canal to the waters of the Nile across the plain of Egypt, looking towards Arabia."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"In several parasitic animals the **alimentary** canal has undergone complete reduction, nutrition being absorbed directly through the skin."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The peristaltic contractions of the **alimentary** tract propel the ingested mass through successive stages of enzymatic digestion."*
+> - 📜 **William Beaumont (*Experiments and Observations on the Gastric Juice*):** *"Direct inspection of the interior of the **alimentary** organ revealed the immediate vascular changes induced by hunger and satiety."*

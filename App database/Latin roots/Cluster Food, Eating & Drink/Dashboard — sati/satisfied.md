@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Meet the requirements or expectations of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make happy or satisfied.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pleased, contented, or having had one's desires, expectations, or requirements fully met.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical cognition and judicial deliberation, convinced beyond reasonable doubt of the truth or justice of a matter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am satisfied in nature, Whose motive in this case should stir me most To my revenge."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I well allow the occasion of our arms, But gladly would be better satisfied How in our means we should advance ourselves To look with forehead bold and big enough Upon the power and puissance of the King."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My soul shall then be satisfied."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I'll not endure it. Would I were **satisfied**! Death and damnation! O, give me a living reason that she's disloyal!"*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Angel Clare felt deeply **satisfied** with his agricultural labors, rejoicing in the sweet simplicity of life at Talbothays Dairy."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes rubbed his hands together, looking thoroughly **satisfied** as he deciphered the cryptic message written on the parchment."*

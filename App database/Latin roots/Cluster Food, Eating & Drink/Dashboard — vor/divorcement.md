@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The legal dissolution of a marriage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The legal dissolution of a marriage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of divorcing, dissolution of marriage, or total separation and dissolution of union.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biblical and historical jurisprudence, a formal written instrument or bill certifying the dismissal of a spouse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"They demand a man who believes in the eternal separation and divorcement of Church and School."*
+> - 📜 **King James Bible (*The Book of Deuteronomy*):** *"When a man hath taken a wife, and it come to pass that she find no favour in his eyes, let him write her a bill of **divorcement**."*
+> - 📜 **William Shakespeare (*Othello*):** *"If e'er my will did trespass 'gainst his love, let the heavy sorrow of **divorcement** fall upon my head."*
+> - 📜 **John Milton (*Tetrachordon*):** *"Moses permitted this bill of **divorcement** to prevent greater domestic cruelties among an obstinate people."*

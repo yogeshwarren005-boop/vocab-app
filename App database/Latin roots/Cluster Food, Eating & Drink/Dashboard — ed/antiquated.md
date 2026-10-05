@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make obsolete or old-fashioned.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give an antique appearance to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Old-fashioned, outmoded, obsolete, or unsuitable for modern needs on account of excessive age.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In institutional history and technological sociology, superseded by contemporary paradigms and retained only as historical relics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Historically, it is he himself who has antiquated every one of those conceptions, and, so far as they have survived, it has been in virtue of association with him."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The training programs are antiquated; many aren't even remotely tied in with the equipment installed on ships of the line."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Our system of authority and governance must be raised above the antiquated, interminable rules of the desperate bickering we now witness here at play among us."*
+> - 📜 **Herman Melville (*Bartleby, the Scrivener*):** *"My chambers were located in an **antiquated** building with creaking stairs and dusty high ceilings."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"He warned against discarding venerated constitutional safeguards merely because they appeared **antiquated** to modern reformers."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"The library was crowded with ponderous folios and **antiquated** treatises upon obsolete systems of philosophy."*

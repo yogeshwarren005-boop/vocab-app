@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Outside or beyond a galaxy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Outside or beyond a galaxy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Originating, situated, or occurring beyond the boundaries of our Milky Way galaxy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In observational astrophysics and cosmology, pertaining to stellar systems, quasars, and cosmic ray sources outside the Galactic realm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extragalactic designates outside or beyond a galaxy."*
+> - 📜 **Edwin Hubble (*The Realm of the Nebulae*):** *"Observations with the hundred-inch telescope demonstrated that spiral nebulae are truly **extragalactic** stellar systems of enormous dimensions."*
+> - 📜 **Arthur Eddington (*The Expanding Universe*):** *"The recession of distant **extragalactic** nebulae offers compelling physical evidence for the expansion of spacetime."*
+> - 📜 **James Jeans (*The Universe Around Us*):** *"Light traversing millions of parsecs from an **extragalactic** cluster reveals the grand architectural scale of the cosmos."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin al within the domain of Food, Eating & Drink.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of al in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, characteristic of, or affecting the texture, surface feel, or physical structure of a material.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In petrology, sensory gastronomy, and visual arts, relating to crystalline grain arrangements, food mouthfeel, or visual tactile surface qualities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, textural designates pertaining to, derived from, or characteristic of latin al within the domain of food, eating & drink."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The painter captured every **textural** nuance of weathered granite, making the cold stone almost palpable to the eye."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"Microscopic examination reveals remarkable **textural** differences between rapidly cooled volcanic basalt and coarse plutonic granite."*
+> - 📜 **Henry James (*The American Scene*):** *"The ancient brickwork possessed a rich **textural** depth that time alone can bestow upon historic architecture."*

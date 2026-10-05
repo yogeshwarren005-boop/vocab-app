@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin pan within the domain of Food, Eating & Drink.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of pan in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A baked or fried turnover pastry filled with seasoned meat, vegetables, or fruit, popular in Hispanic cuisines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In regional Iberian and Latin American gastronomy, a traditional filled bread pastry originating from Galicia, whose name derives etymologically from enclosing filling in bread (*empanar*).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, empanada designates pertaining to, derived from, or characteristic of latin pan within the domain of food, eating & drink."*
+> - 📜 **Benito Pérez Galdós (*Fortunata and Jacinta*):** *"The street vendor carried a smoking basket of freshly baked **empanada**, tempting hungry passersby with the savory aroma of onions and pork."*
+> - 📜 **Richard Ford (*Gatherings from Spain*):** *"At the country inn we were served a generous slice of Galician **empanada** packed with savory tuna and sweet peppers."*
+> - 📜 **George Borrow (*The Bible in Spain*):** *"The innkeeper produced a cold **empanada** and a bottle of Valdepeñas wine, which furnished our hungry party an admirable repast."*

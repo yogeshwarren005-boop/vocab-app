@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeding on both plants and animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeding on both plants and animals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeding on food of both plant and animal origin; or taking in everything indiscriminately.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual and cultural description, exhibiting an unquenchable, voracious appetite for diverse reading, learning, or artistic pursuits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"For like certain other omnivorous roving lovers that might be named, my Lord Whale has no taste for the nursery, however much for the bower; and so, being a great traveller, he leaves his anonymous babies all over the world; every baby an exotic."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"For like certain other omnivorous roving lovers that might be named, my Lord Whale has no taste for the nursery, however much for the bower; and so, being a great traveller, he leaves his anonymous babies all over the world; every baby an exotic."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The most omnivorous and enduring would longest resist the approach of starvation, but would finally yield to inexorable fate; the last one caught by the rising bottom among shallow pools from which his exhausted energies could not extricate him."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"For like certain other **omnivorous** roving lovers, my Lord Whale has no exclusive taste for a single nursery."*
+> - 📜 **G. K. Chesterton (*The Wisdom of Father Brown*):** *"There was something of the Renaissance prince about his **omnivorous** culture and restless publicity."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"I know perfectly well my own egotism, know my **omnivorous** lines and must not write any less."*

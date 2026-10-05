@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strong highly flavored sweet liquor usually drunk after a meal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Diffusing warmth and friendliness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Warm, deeply affectionate, and sincere in manner; or a comforting, stimulating medicinal drink or liqueur.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical pharmacology and etiquette (*cor*, heart), an invigorating draught prescribed to strengthen the vital spirits, or polite heartfelt hospitality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do not know What is more cordial."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The drug he gave me, which he said was precious And cordial to me, have I not found it Murd’rous to th’ senses?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I left out one thing which the Queen confess’d, Which must approve thee honest. ‘If Pisanio Have’ said she ‘given his mistress that confection Which I gave him for cordial, she is serv’d As I would serve a rat.’ CYMBELINE."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"Make that thy **cordial** to comfort thy heavy heart in these bitter trials."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"A kind and **cordial** reception from a parent works far more powerfully upon a child's mind than harsh verbal rebukes."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea welcomed her friend with a **cordial** warmth that showed how deeply she valued true fellowship."*

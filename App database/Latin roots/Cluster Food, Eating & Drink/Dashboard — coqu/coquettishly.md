@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a flirtatious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a flirtatious manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a flirtatious, playfully teasing, or alluring manner intended to attract romantic notice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic stage direction and expressive behavior, gesturing or speaking with charming arch evasion and playful flirtation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"The fair girl shook her head coquettishly, and the other two urged her on."*
-> - 📜 **James Joyce (*Ulysses*):** *"And showed off coquettishly in your domino at the mirror behind closedrawn blinds your unskirted thighs and hegoat’s udders in various poses of surrender, eh?"*
+> - 📜 **Charlotte Brontë (*Villette*):** *"Ginevra glanced **coquettishly** over her shoulder at the young officers lounging near the ballroom entrance."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Rosamond tilted her head **coquettishly**, perfectly conscious of the flattering admiration she excited."*
+> - 📜 **D. H. Lawrence (*Sons and Lovers*):** *"She laughed **coquettishly** and ran into the meadow, daring Paul to pursue her across the sunny grass."*

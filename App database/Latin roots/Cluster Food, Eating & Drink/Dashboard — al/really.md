@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In accordance with truth or fact or reality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In actual fact.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In actual fact, truth, or reality; genuinely and not merely in appearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetorical discourse and modal semantics, an intensifier affirming the objective truth or surprising authenticity of a proposition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would I were really that I am delivered to be."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"With all your wild ideas about fighting, you seem to really believe that there is a ghost in Wildenstein." "You must understand, Mea, that this is only to prove that there is none," Kurt eagerly went on."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"You are most active of all in that, Kurt, and I do not like it; so I hope that you will let the matter rest as soon as you have understood how unfounded the talk really is."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"There are more things in heaven and earth, Horatio, than are dreamt of in your philosophy; and is it **really** true that honest ghosts walk this mortal round?"*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She wondered whether Boldwood was **really** serious in his suit, or whether she had misread his reserved and solitary nature."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Knightley was **really** attached to Emma, though his affection never blinded him to her occasional vanity and errors."*

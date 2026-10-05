@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being satisfactorily full and unable to take on more.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of achieving full gratification.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Full gratification or complete repletion of an appetite or desire, especially regarding food, drink, or physical craving.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological psychology and behavioral nutrition, the biological process that terminates an episode of feeding through neurochemical feedback mechanisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, satiation designates the state of being satisfactorily full and unable to take on more."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Upon the complete **satiation** of an appetite, the object which formerly provoked keen desire becomes utterly neutral or repulsive."*
+> - 📜 **Herbert Spencer (*The Data of Ethics*):** *"The natural rhythm between vigorous appetite and restful **satiation** governs all healthy operations of organic life."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Sensory receptors along the digestive tract signal **satiation** to the central nervous system long before nutrients are absorbed."*

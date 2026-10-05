@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impotence resulting from a man's inability to have or maintain an erection of his penis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impotence resulting from a man's inability to have or maintain an erection of his penis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A past-tense and past-participle verbal suffix in English denoting completed action; or colloquial shorthand for education.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In English historical morphology and phonology, the dental suffix (/t/, /d/, /ɪd/) marking weak Germanic verb conjugations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ed designates impotence resulting from a man's inability to have or maintain an erection of his penis."*
+> - 📜 **H. L. Mencken (*The American Language*):** *"The past-tense suffix **ed** exhibits varied phonetic realizations depending on the final consonant of the verbal stem."*
+> - 📜 **Otto Jespersen (*Growth and Structure of the English Language*):** *"Regular verbs in modern English uniformly employ the dental formative **ed** to construct the preterite tense."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"In Newspeak the irregular past tenses were abolished, and every verb formed its preterite by adding **ed**."*

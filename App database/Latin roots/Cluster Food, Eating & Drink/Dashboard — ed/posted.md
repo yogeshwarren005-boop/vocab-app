@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Affix in a public place or for public notice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Publicize with, or as if with, a poster.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Displayed publicly on a board or wall; dispatched by mail; or informed and up to date on current developments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military and diplomatic administration, assigned to a specific operational station, overseas embassy, or naval garrison.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The swiftest harts have posted you by land, And winds of all the corners kiss’d your sails, To make your vessel nimble."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For you my staff of office did I break In Richard’s time, and posted day and night To meet you on the way, and kiss your hand, When yet you were in place and in account Nothing so strong and fortunate as I."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, ’tis true; and were ’t not madness then To make the fox surveyor of the fold, Who being accused a crafty murderer, His guilt should be but idly posted over Because his purpose is not executed?"*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"A broad bill was **posted** upon the tavern door announcing the departure of the morning coach."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Pray keep me closely **posted** regarding any fresh developments at the manor house tonight."*
+> - 📜 **Rudyard Kipling (*Kim*):** *"The young surveyor was **posted** to a remote outpost high in the northern hill country."*

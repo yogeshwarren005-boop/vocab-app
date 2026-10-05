@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Top part of an apron; covering the chest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A napkin tied under the chin of a child while eating.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A protective piece of cloth or plastic fastened under the chin to protect clothing from spilled food or drink.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In garment design and protective apparel, the upper front section of an apron, overalls, or dungarees extending over the chest.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"But, although he was often urged to do so, he never would accept office nor advance beyond the initiatory stage of membership represented by the simple white "bib" of infancy."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"She was tall and bony, and almost always wore a coarse apron, fastened over her figure behind with two loops, and having a square impregnable bib in front, that was stuck full of pins and needles."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"First, with her left hand she jammed the loaf hard and fast against her bib,—where it sometimes got a pin into it, and sometimes a needle, which we afterwards got into our mouths."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"She was tall and bony, and almost always wore a coarse apron having a square impregnable **bib** in front stuck full of pins."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The little child sat upon the hearth with her linen **bib** pinned neatly across her frock while eating porridge."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"The nurse tied the stiff linen **bib** about the infant's neck before spooning out the warm milk."*

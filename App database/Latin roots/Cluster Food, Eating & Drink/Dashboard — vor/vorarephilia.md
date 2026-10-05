@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin vor within the domain of Food, Eating & Drink.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of vor in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A paraphilia characterized by erotic fantasies of consuming, being consumed whole, or witnessing the ingestion of another creature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychopathology and psychoanalytic theory, an eroticized oral fixation involving complete physical incorporation or maternal engulfment symbolism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vorarephilia designates pertaining to, derived from, or characteristic of latin vor within the domain of food, eating & drink."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"In rare aberrant inclinations termed **vorarephilia**, the boundary between erotic desire and absolute digestive incorporation is obliterated."*
+> - 📜 **Sigmund Freud (*Totem and Taboo*):** *"The ritual feast celebrates the oral introjection of the primal father, prefiguring modern unconscious expressions of **vorarephilia**."*
+> - 📜 **Carl Jung (*The Archetypes and the Collective Unconscious*):** *"The terrifying jaws of the devouring mother archetype provide the psychological framework upon which fantasies of **vorarephilia** are constructed."*

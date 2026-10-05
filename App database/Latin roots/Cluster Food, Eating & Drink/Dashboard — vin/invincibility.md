@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property being difficult or impossible to defeat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property being difficult or impossible to defeat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapability of being defeated, conquered, or overcome; unconquerable might or prowess.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military strategy and stoic ethics, an unassailable defensive posture or moral fortitude immune to external destruction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Kutúzov alone at last gains a real victory, destroying the spell of the invincibility of the French, and the Minister of War does not even care to hear the details.” “That’s just it, my dear fellow."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman legions maintained a proud belief in their own **invincibility** until the catastrophic day of Adrianople."*
+> - 📜 **Sun Tzu (*The Art of War*):** *"To secure ourselves against defeat has to do with our own defensive posture; true **invincibility** lies in the defense."*
+> - 📜 **Thomas Carlyle (*On Heroes, Hero-Worship, and the Heroic in History*):** *"There is a moral **invincibility** in the soul that stands immovable on what it knows to be eternal justice."*

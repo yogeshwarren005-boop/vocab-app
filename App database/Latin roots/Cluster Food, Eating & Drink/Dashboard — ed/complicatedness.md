@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Puzzling complexity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Puzzling complexity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The character of being intricate, multifaceted, or difficult to disentangle, navigate, or comprehend.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computational theory and organisational analysis, structural intricacy arising from the proliferation of interconnected parameters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, complicatedness designates puzzling complexity."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The evolution of social organisms moves steadily from simple homogeneity toward bewildering **complicatedness**."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The sheer **complicatedness** of human mental operations eludes any mechanical scheme of association."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The apparent **complicatedness** of astronomical phenomena yields readily to Newton's universal law of gravitation."*

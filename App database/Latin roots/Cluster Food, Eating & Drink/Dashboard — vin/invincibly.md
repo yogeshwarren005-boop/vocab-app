@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an invincible manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an invincible manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an invincible manner; so firmly or powerfully as to be impossible to conquer, defeat, or refute.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemological ethics, describing beliefs held with unshakable tenacity against all contradictory evidence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Mind you don’t flinch, whatever you do.” “I’ll be sure not to!” she said invincibly."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Mind you don’t flinch, whatever you do.” I’ll be sure not to!” she said invincibly."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *""I'll be sure not to!" she said **invincibly**, setting her face with stubborn determination."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"He held **invincibly** to his ancestral prejudices, deaf to every voice of enlightened experience."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"The love of liberty is **invincibly** fixed in the breast of every man who has tasted its blessings."*

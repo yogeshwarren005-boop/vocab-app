@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being fit to eat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being fit to eat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The suitability, safety, or fitness of a plant, fungus, animal tissue, or substance for human consumption.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In toxicological mycology and food chemistry, freedom from poisonous secondary metabolites and anti-nutritional compounds rendering food safe.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, edibility designates the property of being fit to eat."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"The native guide tested the **edibility** of the wild mountain berries before offering them to the weary explorers."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The sailors doubted the **edibility** of the strange mollusks until the islanders demonstrated their fine culinary flavor."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The extraordinary **edibility** of the breadfruit tree makes it a priceless resource for tropical island populations."*

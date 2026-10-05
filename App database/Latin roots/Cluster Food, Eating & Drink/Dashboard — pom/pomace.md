@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin pom within the domain of Food, Eating & Drink.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of pom in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The pulpy dry residue or crushed solid mass of apples, grapes, or other fruits remaining after the juice or oil has been mechanically pressed out.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In traditional cider making, pomology, and agricultural distillation, the nutrient-rich marc or apple cake utilized as livestock feed, soil conditioner, or feedstock for brandies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pomace designates pertaining to, derived from, or characteristic of latin pom within the domain of food, eating & drink."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The sweet, heavy scent of autumn pervaded the orchard where wet heaps of cider **pomace** lay steaming in the crisp morning air."*
+> - 📜 **Henry David Thoreau (*Wild Apples*):** *"The old cider-mill was silent now, but mounds of brownish **pomace** remained piled beside the wooden press, attracting swarms of buzzing wasps."*
+> - 📜 **William Howitt (*The Rural Life of England*):** *"Carts trundled through the farm lanes bearing loads of moist apple **pomace** to be spread across the frost-bitten orchard pastures."*

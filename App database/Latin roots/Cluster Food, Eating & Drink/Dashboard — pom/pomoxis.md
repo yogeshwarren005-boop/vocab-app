@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Crappies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Crappies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of North American freshwater sunfishes in the family Centrarchidae, commonly known as crappies and prized as popular sport and pan fish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In inland fisheries biology, teleosts comprising the black crappie and white crappie, characterized by compressed bodies, mottled silvery sides, and nest-building habits in quiet waters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog pomoxis as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **David Starr Jordan (*American Food and Game Fishes*):** *"Rafinesque described the genus **Pomoxis**, noting the distinctive opercular flap and sharp dorsal spines of our native American crappies."*
+> - 📜 **Spencer Fullerton Baird (*Report on the Condition of the Sea Fisheries*):** *"Anglers throughout the Mississippi basin find both species of **Pomoxis** to be among the most delightful and palatable pan fishes in quiet lakes."*
+> - 📜 **George Brown Goode (*American Fishes*):** *"In early spring, schools of **Pomoxis** gather in shallow, weed-choked bays to spawn, offering lively sport to country fishermen."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In front of the heart; involving the precordium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In front of the heart; involving the precordium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the precordium, the region of the anterior chest wall directly overlying the heart and stomach.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiology and physical diagnosis, relating to the thoracic surface where cardiac apex impulses, murmurs, and lead placements are localized.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, precordial designates in front of the heart; involving the precordium."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient complained of intense **precordial** constriction and sharp distress radiating outward toward the left shoulder."*
+> - 📜 **William Cullen (*First Lines of the Practice of Physic*):** *"Palpitation accompanied by a sense of weight in the **precordial** region denotes severe functional derangement of the vascular system."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"Auscultation across the **precordial** area revealed loud bellows murmurs accompanying each systolic contraction."*

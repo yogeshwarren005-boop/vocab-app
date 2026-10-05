@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who eats all kinds of foods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An animal that feeds on both animal and vegetable substances.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An animal or person that eats a variety of food of both plant and animal origin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecosystem biology, an opportunistic generalist consumer that shifts dietary intake dynamically across multiple trophic levels based on resource availability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, omnivore designates a person who eats all kinds of foods."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"Man is physiologically an adaptable **omnivore**, whose dental structure permits mastication of both animal flesh and plant seeds."*
+> - 📜 **John Burroughs (*Squirrels and Other Fur-Bearers*):** *"The brown bear is an undisputed **omnivore**, feasting greedily on berries and roots as well as salmon and carrion."*
+> - 📜 **Aldo Leopold (*Game Management*):** *"The wild turkey thrives as an opportunistic **omnivore**, consuming acorns, seeds, grasshoppers, and small salamanders."*

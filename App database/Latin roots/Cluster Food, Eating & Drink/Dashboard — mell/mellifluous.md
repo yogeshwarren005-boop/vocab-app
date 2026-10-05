@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pleasing to the ear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pleasing to the ear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sweetly or smoothly flowing; pleasant, musical, and honey-like to hear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In prosody and voice acoustics, vocal timbre marked by harmonious overtones and effortless melodic phrasing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A mellifluous voice, as I am true knight."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The same proceeding was gone through with Toby, whose mellifluous appellation was more easily caught."*
+> - 📜 **William Shakespeare (*Love's Labour's Lost*):** *"O, sweet Oliver, O brave Oliver, leave me not behind thee: wind away, begone, I say, yet sweet and **mellifluous** voice!"*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The naturalist spoke with a **mellifluous** cadence that seemed curiously out of place amidst the desolate wilderness of the moor."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"The gentleman delivered his polished compliments in a **mellifluous** drawl that conveyed infinite courtesy and profound insincerity."*

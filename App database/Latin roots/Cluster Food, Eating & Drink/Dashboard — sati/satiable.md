@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being sated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being sated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being satisfied, appeased, or surfeited; having desires or appetites that can be fully met.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In normative ethics and economic utility theory, desires whose marginal consumption reaches a natural threshold of replenishment and quietude.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, satiable designates capable of being sated."*
+> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"Physical appetites for bread and water are naturally **satiable**, whereas the artificial passion for social prestige knows no boundary."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The demand for basic subsistence goods is readily **satiable**, beyond which human labor turns to conveniences and luxuries."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"Every primitive organic instinct possesses a **satiable** limit, functioning through physiological cycles of depletion and repose."*

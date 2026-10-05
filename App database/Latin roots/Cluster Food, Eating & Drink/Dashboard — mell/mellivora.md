@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ratels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ratels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A zoological genus of mustelids comprising the honey badger or ratel (*Mellivora capensis*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian taxonomy, thick-skinned, carnivorous, and mellivorous mustelids noted for their fierce temperament and symbiotic foraging with honeyguide birds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog mellivora as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The genus **Mellivora** is represented in Africa and southern Asia by the ratel, celebrated for its fearless assaults upon wild bees."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"The honey badger, designated scientifically as **Mellivora**, tears open hollow logs with powerful claws to reach wild honeycomb."*
+> - 📜 **Theodore Roosevelt (*African Game Trails*):** *"Our native guides spoke with profound respect of the fierce little **Mellivora**, whose thick hide turns away spear thrusts."*

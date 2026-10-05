@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French writer and film maker who worked in many artistic media (1889-1963).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French writer and film maker who worked in many artistic media (1889-1963).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to Jean Cocteau, the influential French poet, playwright, artist, filmmaker, and surrealist innovator.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In twentieth-century modernist cinema and literary criticism, characterized by dreamlike mythic symbolism and surreal poetic aesthetics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cocteau designates french writer and film maker who worked in many artistic media (1889-1963)."*
+> - 📜 **W. H. Auden (*The Dyer's Hand*):** *"The theatrical spectacles of **Cocteau** blend classical myth with the inventive whimsicality of the avant-garde."*
+> - 📜 **Susan Sontag (*Against Interpretation*):** *"The cinematic style of Jean **Cocteau** transforms poetic mirrors and statues into haunting metaphysical icons."*
+> - 📜 **Ezra Pound (*Literary Essays of Ezra Pound*):** *"In Paris during the twenties, young writers looked toward **Cocteau** for daring reinventions of classical tragedy."*

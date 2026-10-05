@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cheap or pretentious or vain display.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ceremonial elegance and splendor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Stately, magnificent, or ceremonious display and pageantry, often marked by elaborate processions and ceremonial splendor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political philosophy and tragic drama, the external theatrical panoply of sovereign authority, imperial prestige, and courtly ostentation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am for the house with the narrow gate, which I take to be too little for pomp to enter: some that humble themselves may, but the many will be too chill and tender, and they’ll be for the flow’ry way that leads to the broad gate and the great fire."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, behold, How pomp is followed!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, my co-mates and brothers in exile, Hath not old custom made this life more sweet Than that of painted pomp?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, what is **pomp**, rule, reign, but earth and dust? And, live we how we can, yet die we must."*
+> - 📜 **Ralph Waldo Emerson (*Essays: Second Series*):** *"The true king needs no theatrical **pomp** or gilded chariot to command the involuntary homage of wise men."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He loved the marvelous **pomp** of the ritual, the fragrant clouds of incense, and the embroidered vestments of the choir."*

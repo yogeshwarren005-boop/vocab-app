@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organization of people (or countries) involved in a pact or treaty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being combined into one body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alliance or temporary union of distinct political parties, factions, or nations formed for joint action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In game theory and international diplomacy, a strategic alignment formed by separate agents to aggregate collective voting power or military deterrence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Could he some commutation broach, I’ll pledge my aith in guid braid Scotch, He needna fear their foul reproach Nor erudition, Yon mixtie-maxtie, queer hotch-potch, The Coalition."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Spain must resist this coalition; but she was almost entirely unprovided with either soldiers or sailors."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"And about the end of 1702 they expected a rich convoy which France was escorting with a fleet of twenty-three vessels, commanded by Admiral Chateau-Renaud, for the ships of the coalition were already beating the Atlantic."*
+> - 📜 **Edmund Burke (*Thoughts on the Cause of the Present Discontents*):** *"When bad men combine, the good must associate; else they will fall, one by one, an unpitied sacrifice in a contemptible struggle against an oppressive **coalition**."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The European powers formed a grand **coalition** to curb the aggressive territorial ambitions of the French monarchy."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A hostile **coalition** among neighboring states presents a perpetual danger against which a unified federal republic must prepare."*

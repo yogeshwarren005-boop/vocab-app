@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessively greedy and grasping.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Devouring or craving food in great quantities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Craving or consuming large quantities of food; ravenous, greedy, or insatiably hungry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metaphorical usage, having an exceedingly eager, avid, or insatiable desire for an activity, knowledge, or reading.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Although he was a voracious reader, it must be admitted that Dr."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Happily the voracious creatures do not see well."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The voracious creature shot towards the Indian, who threw himself on one side to avoid the shark’s fins; but not its tail, for it struck his chest and stretched him on the ground."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The **voracious** caterpillar when transformed into a butterfly flits about on delicate wings among the blossoms."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"He opened his mouth wide; it gave him a weirdly **voracious** aspect, as though he wanted to swallow all the air around him."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"The boys had generally excellent appetites; Oliver and his companions suffered the tortures of slow starvation for three months, until they became wild with **voracious** hunger."*

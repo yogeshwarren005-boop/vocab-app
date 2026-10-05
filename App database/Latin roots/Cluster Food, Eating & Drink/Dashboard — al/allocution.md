@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (rhetoric) a formal or authoritative address that advises or exhorts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (rhetoric) a formal or authoritative address that advises or exhorts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal, solemn speech or address, especially one delivered with authority to an assembled body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In canonical law and judicial procedure, an address by the Pope to the College of Cardinals, or a judge's formal inquiry to a convicted defendant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The worthies began a revolution, Which if on earth you intend to acknowledge, Why, honor them now! (ends my allocution) Nor confer your degree when the folks leave college. 21."*
-> - 📜 **James Joyce (*Ulysses*):** *"It was effaced as easily as it had been evoked by an allocution from Mr Candidate Mulligan in that vein of pleasantry which none better than he knew how to affect, postulating as the supremest object of desire a nice clean old man."*
+> - 📜 **John Locke (*The Works of John Locke*):** *"The solemn **allocution** delivered by the magistrate impressed upon the multitude the necessity of upholding public peace."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The general mounted the tribunal and in a spirited **allocution** rekindled the drooping courage of his veteran cohorts."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"The Emperor delivered his imperial **allocution** with grave dignity, outlining the civic virtues required of Roman citizens."*

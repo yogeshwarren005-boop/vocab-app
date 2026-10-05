@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not up to expectations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not up to expectations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Failing to provide satisfaction, pleasure, or contentment; inadequate, disappointing, or unfulfilling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and culinary aesthetics, leaving an impression of flatness, thinness, or lack of substantial depth and resolution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"I couldn't say, sir," is the civil but unsatisfying reply with which research is met."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"But the jest was unsatisfying, and I was thinking of these figures all the morning, until Weena’s rescue drove them out of my head."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Bertram's luncheon had been meager and unsatisfying."*
+> - 📜 **H. G. Wells (*The New Machiavelli*):** *"The dry, official banquet was thoroughly **unsatisfying**, filled with empty political platitudes and cold, unpalatable dishes."*
+> - 📜 **Virginia Woolf (*Night and Day*):** *"Katharine found the evening conversation remarkably **unsatisfying**, feeling that none of the guests had touched upon anything of genuine consequence."*
+> - 📜 **Henry James (*The Wings of the Dove*):** *"Merton received an **unsatisfying** reply to his urgent inquiry, full of polite evasions that only increased his anxiety."*

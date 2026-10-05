@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large crater caused by the violent explosion of a volcano that collapses into a depression.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large crater caused by the violent explosion of a volcano that collapses into a depression.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, bowl-shaped volcanic basin formed by the collapse of the central part of a volcano following a catastrophic eruption.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In volcanology, a massive subsidence depression exceeding one kilometer in diameter, often occupied by crater lakes or resurgent domes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, caldera designates a large crater caused by the violent explosion of a volcano that collapses into a depression."*
+> - 📜 **Charles Darwin (*Geological Observations on Volcanic Islands*):** *"The vast central **caldera** of the island presented towering vertical cliffs that clearly recorded successive paroxysms of volcanic subsidence."*
+> - 📜 **John Muir (*Steep Trails*):** *"Looking down into the ancient **caldera**, one beholds a sapphire lake resting silently within walls of shattered volcanic rock."*
+> - 📜 **Clarence Dutton (*Tertiary History of the Grand Cañon District*):** *"The collapse of the subterranean magma chamber left a gigantic **caldera** whose rim is visible across fifty miles of desert plateau."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being fit to eat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being fit to eat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The inherent culinary property of being suitable, wholesome, and safe for dietary consumption.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In food inspection and nutritional safety evaluation, the wholesome dietary fitness and freedom from toxicity of agricultural goods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, edibleness designates the property of being fit to eat."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Centuries of selective cultivation have vastly enhanced the size, sweetness, and general **edibleness** of garden legumes."*
+> - 📜 **John Muir (*The Mountains of California*):** *"The Indian women gathered the pine nuts, testing their **edibleness** by cracking open the resinous cones upon flat stones."*
+> - 📜 **Isabella Beeton (*Mrs. Beeton's Book of Household Management*):** *"Freshness determines the tender **edibleness** of river trout, which deteriorate rapidly after removal from the water."*

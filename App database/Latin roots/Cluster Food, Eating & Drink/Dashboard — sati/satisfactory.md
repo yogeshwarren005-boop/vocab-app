@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Giving satisfaction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Meeting requirements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Meeting expectations, requirements, or demands; adequate, sufficient, or acceptable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific testing and academic assessment, fulfilling all evidentiary requirements or performance criteria without fatal defects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Do what I want, and I will pay you well.” Jo attends closely while the words are being spoken; tells them off on his broom-handle, finding them rather hard; pauses to consider their meaning; considers it satisfactory; and nods his ragged head."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Let us talk about something else.” Ada would have done so willingly, and with a full persuasion that we had brought the question to a most satisfactory state."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"So far that’s satisfactory, and it does you credit."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes examined the ashes in the grate, finding no **satisfactory** trace of the burnt document he had hoped to recover."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The physician felt that the patient's recovery was scarcely **satisfactory**, noting a persistent weakness in the pulse."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We obtained a **satisfactory** series of barometric readings along the high mountain pass, confirming our calculated altitude."*

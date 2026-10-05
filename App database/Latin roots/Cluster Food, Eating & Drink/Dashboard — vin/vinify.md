@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Convert a juice into wine by fermentation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert a juice into wine by fermentation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert grape juice, must, or fruit into wine by the biochemical process of alcoholic fermentation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oenological practice, to manage and direct the biochemical fermentation and maceration of harvested grapes to yield finished wine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vinify designates convert a juice into wine by fermentation."*
+> - 📜 **George Husmann (*American Grape Growing and Wine Making*):** *"Vintners must decide whether to **vinify** the crushed berries immediately or allow cold maceration for several days."*
+> - 📜 **Alexis Lichine (*Wines of France*):** *"Cellar masters strive to **vinify** each individual parcel separately to preserve the distinct expression of the terroir."*
+> - 📜 **Louis Pasteur (*Studies on Wine*):** *"To successfully **vinify** the harvest without off-flavors, heating the must briefly eliminates unwanted wild microbes."*

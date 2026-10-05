@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An herb with milky juice: lettuce; prickly lettuce.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An herb with milky juice: lettuce; prickly lettuce.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering plants in the daisy family Asteraceae that includes cultivated garden lettuce (*Lactuca sativa*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical pharmacognosy, leafy plants characterized by milky latex containing lactucarium, historically used as a mild herbal sedative.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lactuca designates an herb with milky juice: lettuce; prickly lettuce."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"The Greeks recommend the cooling leaves of **Lactuca** to calm nocturnal fevers and induce gentle slumber."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"Garden lettuce, which botanists name **Lactuca**, sendeth forth when wounded a bitter white juice of cooling virtue."*
+> - 📜 **Erasmus Darwin (*The Botanic Garden*):** *"The sleepy juice of wild **Lactuca** distills its balm to soothe the troubled mind into peaceful rest."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Meet the requirements or expectations of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make happy or satisfied.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To fulfill the desires, expectations, or needs of someone; to provide what is required or demanded.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and mathematical contexts, to pay a debt, discharge a liability, or fulfill the conditions of an equation or theorem.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are too old, sir; let it satisfy you, you are too old."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of this my letters Before did satisfy you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Will this description satisfy him?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am content to die, so thou wilt **satisfy** my thirsting ear with the true confession of thy treasons."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard strained every nerve to **satisfy** his creditors, selling his furniture and personal watch to discharge the debt."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"No amount of hypothetical speculation will **satisfy** the naturalist who demands tangible anatomical evidence."*

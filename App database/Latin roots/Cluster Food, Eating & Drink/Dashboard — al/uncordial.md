@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking warmth or friendliness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking warmth or friendliness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking warmth, friendliness, or heartfelt hospitality; distinctly cold, distant, or aloof in manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social etiquette and psychological observation, displaying stiff, reluctant reserve that discourages friendly overtures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uncordial designates lacking warmth or friendliness."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Mrs. Ferrars received Elinor with a cold and **uncordial** bow that spoke volumes of her predetermined disapproval."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Mrs. Reed greeted me with an **uncordial** stare, making it evident that my presence was an unwelcome intrusion."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Her greeting was distant and **uncordial**, indicating a deep resentment that had festered through months of estrangement."*

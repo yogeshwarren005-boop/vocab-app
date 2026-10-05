@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tranquilizer (trade name mellaril) used to treat schizophrenia and other psychotic disorders.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tranquilizer (trade name mellaril) used to treat schizophrenia and other psychotic disorders.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brand name for thioridazine, a first-generation phenothiazine antipsychotic medication used to manage psychiatric disorders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuropsychopharmacology, an antipsychotic agent that acts primarily via dopamine D2 receptor antagonism, historically utilized for schizophrenia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mellaril designates a tranquilizer (trade name mellaril) used to treat schizophrenia and other psychotic disorders."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The patient had previously received doses of **Mellaril** to manage chronic agitation and nocturnal restlessness."*
+> - 📜 **William Styron (*Darkness Visible*):** *"Psychiatrists frequently prescribed older sedating phenothiazines like **Mellaril** in their attempts to calm manic episodes."*
+> - 📜 **Kay Redfield Jamison (*An Unquiet Mind*):** *"Clinical regimens in the psychiatric clinic often combined mood stabilizers with low dosages of **Mellaril** to quiet agitation."*

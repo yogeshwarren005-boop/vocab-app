@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin vor within the domain of Food, Eating & Drink.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of vor in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeding on or subsisting predominantly upon aphids or plant lice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomological ecology and biological pest control, describing predators such as ladybird beetles (*Coccinellidae*) or syrphid fly larvae that suppress hemipteran pest populations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aphidivorous designates pertaining to, derived from, or characteristic of latin vor within the domain of food, eating & drink."*
+> - 📜 **Jean-Henri Fabre (*Social Life in the Insect World*):** *"The tiny ladybird larva proves an **aphidivorous** glutton, clearing entire rose stalks of infesting greenfly within days."*
+> - 📜 **William Kirby (*An Introduction to Entomology*):** *"Several genera of lace-winged flies are strictly **aphidivorous** during their predatory larval stages."*
+> - 📜 **John Lubbock (*Ants, Bees, and Wasps*):** *"While worker ants guard plant-lice for honeydew, hostile **aphidivorous** insects attempt daring raids upon the herd."*

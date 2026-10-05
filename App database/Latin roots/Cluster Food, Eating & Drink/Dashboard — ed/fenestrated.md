@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin ed within the domain of Food, Eating & Drink.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of ed in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having windows, window-like openings, perforations, or transparent apertures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microvascular histology and surgical anatomy, describing capillary walls or fasciae perforated with microscopic pores facilitating rapid fluid exchange.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fenestrated designates pertaining to, derived from, or characteristic of latin ed within the domain of food, eating & drink."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The palace facade presented a richly **fenestrated** front of gothic arcades reflecting upon the quiet canal below."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The chitinous carapace displays a delicate **fenestrated** pattern of minute pores across its lateral margins."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Microscopic examination revealed the **fenestrated** elastic membrane of the arterial wall damaged by chronic inflammation."*

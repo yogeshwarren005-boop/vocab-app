@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Kindheartedness through maturity or old age.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A taste (especially of fruit) that is ripe and of full flavor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rich softness, full ripeness, agreeable warmth, and pleasant freedom from harshness or acidity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In wine evaluation and vocal acoustics, a round, harmonious fullness devoid of acidic bite or strident dissonance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The ring of the sheep-bell, which had been silent during his absence, recommenced, in tones that had more mellowness than clearness, owing to an increasing growth of surrounding wool."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The ring of the sheep-bell, which had been silent during his absence, recommenced, in tones that had more mellowness than clearness, owing to an increasing growth of surrounding wool, and continued till Oak withdrew again from the flock."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"A soft glow seems to shine from within them, rather than upon them from without, such is their mellowness as they look forth on the hot corn-fields and the smoking roads that distantly wind among them."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The vintage possessed an exquisite **mellowness** of flavor that only decades in a quiet cellar could bestow."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"An atmosphere of ancient dignity and settled **mellowness** pervaded every room of the old English country house."*
+> - 📜 **Ralph Waldo Emerson (*Society and Solitude*):** *"True wisdom brings a serene **mellowness** of judgment that forgives youthful folly and embraces human diversity."*

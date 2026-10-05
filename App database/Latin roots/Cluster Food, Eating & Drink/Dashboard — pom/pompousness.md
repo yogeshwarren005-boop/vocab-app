@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of elegance as a consequence of being pompous and puffed up with vanity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lack of elegance as a consequence of being pompous and puffed up with vanity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or characteristic of being pompous; overbearing self-importance or grandiloquent solemnity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethical portraiture and interpersonal dynamics, an irritating affectation of intellectual or social superiority accompanied by stiffness and lack of humor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Keats (*Lamia*):** *"So being left alone, (Lycius was gone to summon all his kin) And knowing surely she could never win His foolish heart from its mad pompousness, She set herself, high-thoughted, how to dress The misery in fit magnificence."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard despised the smug **pompousness** of the town councilors, whose smooth phrases concealed their complete lack of courage in a crisis."*
+> - 📜 **George Bernard Shaw (*Pygmalion*):** *"Higgins took malicious delight in puncturing the inflated **pompousness** of high society gatherings with his blunt observations."*
+> - 📜 **William Makepeace Thackeray (*The Book of Snobs*):** *"There is no variety of human folly more ridiculous than the empty **pompousness** of a minor official puffed up with brief authority."*

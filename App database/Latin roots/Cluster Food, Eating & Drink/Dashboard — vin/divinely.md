@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By divine means.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By divine means.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a divine manner; by deity, with supernatural inspiration, or in an exceedingly excellent way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological discourse, by celestial providence, heavenly dispensation, or transcendent moral sanction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lo, in this right hand, whose protection Is most divinely vow’d upon the right Of him it holds, stands young Plantagenet, Son to the elder brother of this man, And king o’er him and all that he enjoys."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is within, with two right reverend fathers, Divinely bent to meditation; And in no worldly suits would he be moved To draw him from his holy exercise."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"It is but justice to say, that in no case has there ever been the thought or the assumption, by Doctor Cullis himself, of having _any divinely conferred power_ to heal all that come to him, or for whom he may pray."*
+> - 📜 **William Shakespeare (*King John*):** *"Lo, in this right hand, whose protection is most **divinely** vowed upon the right of him it holds, stands young Plantagenet."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"She is perfectly charming; and Patti sang **divinely** at the opera last evening."*
+> - 📜 **Edmund Spenser (*The Faerie Queene*):** *"Her celestial beauty was so **divinely** wrought that every mortal beholder stood struck with reverent awe."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of carnivores.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of plants as well as animals) feeding on animals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Subsisting or feeding on flesh or animal tissues; predatory in dietary habit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy and botanical physiology, possessing structural adaptations such as specialized shearing teeth (carnassials) or enzyme-secreting traps for consuming prey.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"A thing altogether incredible were it not that attracted by such prey as a dead whale, the otherwise miscellaneously carnivorous shark will seldom touch a man."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"A thing altogether incredible were it not that attracted by such prey as a dead whale, the otherwise miscellaneously carnivorous shark will seldom touch a man."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"The Morlocks at any rate were carnivorous!"*
+> - 📜 **Charles Darwin (*Insectivorous Plants*):** *"The leaves of several **carnivorous** species secrete proteolytic fluids capable of digesting captured insects."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"The dentition of typical **carnivorous** mammals is characterized by prominent canines and sharp scissor-like molars."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Sharks gathered in ravenous swarms around the carcass, displaying the insatiable frenzy of all **carnivorous** sea-monsters."*

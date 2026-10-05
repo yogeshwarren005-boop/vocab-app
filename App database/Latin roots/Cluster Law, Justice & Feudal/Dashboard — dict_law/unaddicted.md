@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not addicted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not addicted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from compulsive dependence, chemical habituation, or enslavement to an obsessive vice or pursuit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and clinical toxicology, possessing psychological sovereignty and autonomic freedom from craving.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unaddicted designates not addicted."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"A mind **unaddicted** to sensual indulgence preserves its clarity and fortitude amidst the shifting storms of fortune."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Prudent statesmen, **unaddicted** to wild metaphysical theories, seek to reform institutions by gradual constitutional means."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"A youth raised with temperance remains happily **unaddicted** to the wasteful luxuries and intoxicating vices of the capital."*

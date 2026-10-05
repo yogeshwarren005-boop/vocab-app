@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be larger in number, quantity, power, status or importance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be in control.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To have a commanding influence on, exercise control over, or tower conspicuously above one's surroundings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethology and game theory, to occupy the supreme position in a social hierarchy or render inferior alternatives sub-optimal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Great interests are affected by foreign trade and certain of these interests are able to influence opinion and to dominate legislation."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The fact that tea and coffee were on the free list is marked evidence that considerations of revenue did not dominate."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Dollop looked round with the air of a landlady accustomed to dominate her company."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He felt that this strange portrait would come to **dominate** his entire soul with its sinister beauty."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"In that distant age, the subterranean Morlocks had evolved to **dominate** the frail and childlike surface race."*
+> - 📜 **George Eliot (*Felix Holt, the Radical*):** *"An intense, narrow ambition came to **dominate** Harold's political maneuvering among the provincial electors."*

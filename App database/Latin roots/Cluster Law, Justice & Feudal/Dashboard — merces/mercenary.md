@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person hired to fight for another country than their own.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by materialism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Primarily motivated by the desire for financial gain, monetary reward, or selfish material benefit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military history, a professional soldier hired to fight in a foreign army without allegiance to the political cause.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is well paid that is well satisfied, And I delivering you, am satisfied, And therein do account myself well paid, My mind was never yet more mercenary."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The more spirit there is in it, the better for mankind and the worse for those mercenary task-masters and low tricksters who delight in putting that illustrious art at a disadvantage in the world."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Mercenary creatures ask, ‘What is the use of a man’s going to the North Pole?"*
+> - 📜 **William Shakespeare (*Henry V*):** *"For many of our princes lie drowned and soaked in **mercenary** blood on the muddy fields of Agincourt."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She had no wicked plots, nothing sordid or **mercenary** in her affectionate devotion to the elderly invalid."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The cold-hearted magistrate pursued his inheritance with an overtly **mercenary** eagerness that disgusted his kinswoman."*

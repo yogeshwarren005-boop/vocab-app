@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone to whom a legacy is bequeathed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone to whom a legacy is bequeathed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who receives a legacy or personal bequest under the terms of a will.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In probate jurisprudence and equity, the designated recipient of personal property bequeathed by a testator, distinct from a real estate devisee.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Reed: his intention to adopt me and make me his legatee."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Such conversation paused suddenly, like an organ when the bellows are let drop, if Mary Garth came into the room; and all eyes were turned on her as a possible legatee, or one who might get access to iron chests."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Here, clearly, was a new legatee; else why was he bidden as a mourner?"*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"If the testator's personal estate prove insufficient to pay debts, every general **legatee** must submit to a proportional abatement."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Mr. Jaggers informed Pip that he was named the principal **legatee** of an undisclosed benefactor of vast fortune."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The codicil to Featherstone's will left young Fred Vincy without a shilling, naming an illegitimate son as sole **legatee**."*

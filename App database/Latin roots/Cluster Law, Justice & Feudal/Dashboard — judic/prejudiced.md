@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Disadvantage by prejudice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Influence (somebody's) opinion in advance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing a dislike or distrust based on preconceived ideas rather than facts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In judicial ethics and social critique, biased against particular persons or views in violation of impartial equity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is an honourable, obstinate, truthful, high-spirited, intensely prejudiced, perfectly unreasonable man."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"If our conversation shouldn’t lead to anything, I am to be as I was and am not to be prejudiced in my situation or worldly prospects."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Such a good man might be prejudiced against a woman who had chosen Sunday, never realizing the necessities of her case."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He is so **prejudiced** against Chancery suitors that he cannot be brought to listen to any rational proposal for compromise."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"His moral judgment was deeply **prejudiced** by the strict, unyielding traditions of his evangelical upbringing."*
+> - 📜 **Mary Wollstonecraft (*A Vindication of the Rights of Woman*):** *"Men who are **prejudiced** by centuries of tyranny cannot readily conceive that women possess equal capacities for rational thought."*

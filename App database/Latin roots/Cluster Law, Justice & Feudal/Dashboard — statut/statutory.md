@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or created by statutes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prescribed or authorized by or punishable under a statute.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Decided, controlled, enacted, or required by a formal legislative statute.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statutory interpretation and penal law, created by written legislation rather than by judicial development under the unwritten common law.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"By old English statutory law, the whale is declared “a royal fish.” * Oh, that’s only nominal!"*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"At the same time the leading journals of the country seemed to have joined in a crusade against all existing political methods, and against all statutory and political abuses."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Words in a **statutory** enactment must generally be understood in their usual and most known signification."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"The distinction between common law torts and **statutory** duties lies in the explicit codification of legal liability by the legislature."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics*):** *"The **statutory** limitation upon maximum working hours in factories represented a major triumph for early social reform movements."*

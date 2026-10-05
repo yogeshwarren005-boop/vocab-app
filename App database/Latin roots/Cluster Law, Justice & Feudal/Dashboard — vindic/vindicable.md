@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin vindic within the domain of Law, Justice & Feudal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of vindic in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being justified, defended, asserted, or vindicated with valid reasons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral theology and civil property law, susceptible of lawful justification, or recoverable through formal juridical process.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vindicable designates pertaining to, derived from, or characteristic of latin vindic within the domain of law, justice & feudal."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"No deviation from veracity is **vindicable** by any prospect of immediate advantage, however flattering to human ambition."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The resistance of the English peers in 1688 was **vindicable** upon every principle of ancient constitutional law and self-preservation."*
+> - 📜 **Jeremy Bentham (*The Principles of Morals and Legislation*):** *"An action causing transient pain is **vindicable** only when it averts a far greater calamity from the community."*

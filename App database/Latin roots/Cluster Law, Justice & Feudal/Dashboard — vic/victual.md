@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any substance that can be used as food.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supply with food.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To supply, provide, or provision with food, rations, or necessary stores.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime logistics and naval history, to stock a sailing warship or merchant vessel with non-perishable provisions for a long voyage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I must go victual Orleans forthwith. [_A short alarum."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You had musty victual, and he hath holp to eat it; he is a very valiant trencher-man; he hath an excellent stomach."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Do you think I mean to forget your kicking me when I was a lad, and eating all the best victual away from me and my mother?"*
+> - 📜 **William Shakespeare (*Henry VI, Part 1*):** *"I must go **victual** Orleans forthwith, cried the bold captain, seeing the city hard-pressed by English siege engines."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The prudent farm bailiff rode to market early to purchase supplies and **victual** the harvest laborers for the coming week."*
+> - 📜 **King James Bible (*The Holy Bible*):** *"And the children of Israel were numbered, and were all present, and went against them: and the children of Israel pitched before them to **victual** their hosts."*

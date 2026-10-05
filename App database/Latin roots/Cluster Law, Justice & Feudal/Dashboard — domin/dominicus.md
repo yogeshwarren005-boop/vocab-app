@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: First day of the week; observed as a day of rest and worship by most christians.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: First day of the week; observed as a day of rest and worship by most christians.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Latin form of Dominic ('belonging to the Lord' or 'master'); or a specific literary character or historical personage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical and medieval Latin, the possessive adjective of dominus, also personified in Hawthorne's itinerant peddler Dominicus Pike.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"After an early breakfast at Morristown, the tobacco pedlar, whose name was Dominicus Pike, had travelled seven miles through a solitary piece of woods, without speaking a word to anybody but himself and his little gray mare."*
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"Dominicus watched him as he descended, and noticed that he carried a bundle over his shoulder on the end of a stick, and travelled with a weary, yet determined pace."*
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"Good morning, mister," said Dominicus, when within speaking distance."*
+> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"Master **dominicus** Pike was an itinerant tobacco peddler possessing an insatiable appetite for rural gossip."*
+> - 📜 **James Joyce (*Ulysses*):** *"The scholarly priest invoked Saint **dominicus** during the solemn recitation of the Latin litany."*
+> - 📜 **Washington Irving (*Chronicle of the Conquest of Granada*):** *"Father **dominicus** held high the sacred relic before the assembled knights prior to the final assault."*

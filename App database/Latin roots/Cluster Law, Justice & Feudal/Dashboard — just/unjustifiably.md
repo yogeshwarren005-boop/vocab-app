@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without any excuse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without any excuse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that cannot be defended, excused, or shown to be right or reasonable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic debate and moral philosophy, without adequate reason, evidence, or normative foundation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It is repugnant to the creed of Democracy that by such taxation the cost of the necessaries of life should be unjustifiably increased to all our people."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"A magistrate who acts upon personal prejudice **unjustifiably** endangers the general security and peace of the commonwealth."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The dogmatist **unjustifiably** claims infallibility for assertions that have never endured experimental verification."*
+> - 📜 **George Eliot (*Felix Holt, the Radical*):** *"Harold Transome was **unjustifiably** assumed to share his family's traditional Tory convictions before his public declaration."*

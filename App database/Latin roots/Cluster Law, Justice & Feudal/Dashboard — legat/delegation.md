@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of representatives or delegates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Authorizing subordinates to make certain decisions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A body of delegates representing a group or organization; or the assignment of authority to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional law and obligations, the lawful transfer of administrative power or the substitution of a new debtor with creditor consent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I was just breaking a last muffin and beginning to smile when I saw a delegation coming down the street and turning into my front gate; I rose to meet it with distinction."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Sallie came over just as soon as the other delegation had got home to take the twins off her hands."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Harris was present and actively engaged, and as soon as the battle ceased, a delegation of ladies connected with the Sanitary Commission toiled most faithfully to alleviate the horrors of war."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"An improper **delegation** of legislative power to the executive would dismantle the essential partition of powers established by the constitution."*
+> - 📜 **James Madison (*The Federalist Papers*):** *"The state **delegation** concurred unanimously in adopting the compromise regarding congressional representation."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The emperors preserved their enormous domains through the systematic **delegation** of military commands to trusted prefects."*

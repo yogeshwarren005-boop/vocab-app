@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give sanction to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give authority or permission to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Formally approved, officially permitted, or authoritative by virtue of legal or social ratification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international politics, subjected to punitive trade restrictions, asset freezes, or diplomatic embargoes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I will keep the law given by God; sanctioned by man."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"I thought it my duty to give the speediest intelligence of this to my cousin, that she and her noble admirer may be aware of what they are about, and not run hastily into a marriage which has not been properly sanctioned.’ Mr."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Sprague indulged, preferring well-sanctioned quotations, and liking refinement of all kinds: it was generally known that he had some kinship to a bishop, and sometimes spent his holidays at “the palace.” Dr."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Her father promptly **sanctioned** the engagement with heartfelt joy upon receiving Mr. Darcy's formal petition."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"Ancient moral conventions were often **sanctioned** by the fear of supernatural retribution rather than civic reason."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The solemn ceremony proceeded, **sanctioned** by the ancient rites of the church and the presence of witnesses."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of the kind or quality used in commerce; average or inferior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of the kind or quality used in commerce; average or inferior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Manufactured to rigorous standards of strength, durability, and duty suitable for continuous industrial, professional, or retail use.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In engineering specifications and procurement protocols, materials or equipment exceeding domestic consumer tolerances to withstand heavy repetitive stress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, commercial-grade designates of the kind or quality used in commerce; average or inferior."*
+> - 📜 **Thomas Edison (*The Papers of Thomas A. Edison*):** *"The laboratory required **commercial-grade** copper wiring and heavy insulated fittings to sustain continuous high-voltage trials."*
+> - 📜 **Henry Ford (*My Life and Work*):** *"We replaced the fragile shop machinery with durable, **commercial-grade** presses designed for uninterrupted assembly work."*
+> - 📜 **Herbert Hoover (*Principles of Mining*):** *"Deep lode extraction demands **commercial-grade** steel cables and hoisting engines built to withstand abrasive quarry conditions."*

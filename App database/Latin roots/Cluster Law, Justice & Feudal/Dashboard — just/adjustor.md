@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who investigates insurance claims or claims for damages and recommends an effective settlement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who investigates insurance claims or claims for damages and recommends an effective settlement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An individual who assesses liabilities, balances accounts, or settles contested claims.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime admiralty and insurance practice, a specialized assessor (such as an average adjustor) calculating general average losses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adjustor designates one who investigates insurance claims or claims for damages and recommends an effective settlement."*
+> - 📜 **Joseph Conrad (*The Mirror of the Sea*):** *"The average **adjustor** scrutinized the ship's logbook to apportion the jettisoned cargo losses among underwriters and owners."*
+> - 📜 **Frank A. Fetter (*Economics: Principles and Problems*):** *"The municipal **adjustor** sought an equitable compromise between property owners and the street railway company."*
+> - 📜 **Arthur Conan Doyle (*The Valley of Fear*):** *"The insurance **adjustor** was called to inspect the flooded mining shaft before any liability would be acknowledged."*

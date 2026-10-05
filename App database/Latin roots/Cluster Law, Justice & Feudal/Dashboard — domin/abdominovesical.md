@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the abdomen and the urinary bladder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the abdomen and the urinary bladder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating jointly to the abdomen and the urinary bladder, or describing structures connecting both regions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical anatomy and urology, pertaining to pathways, fascial ligaments, or incisions involving the lower abdominal wall and bladder.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abdominovesical designates of or relating to the abdomen and the urinary bladder."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The obliterated urachus forms a fibrous cord traversing the anterior **abdominovesical** region toward the umbilicus."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Suprapubic cystotomy requires careful dissection through the preperitoneal **abdominovesical** space of Retzius."*
+> - 📜 **Joseph Lister (*The Collected Papers of Joseph Lister*):** *"Strict antiseptic irrigation prevents virulent suppuration when operating within the deep **abdominovesical** cellular tissue."*

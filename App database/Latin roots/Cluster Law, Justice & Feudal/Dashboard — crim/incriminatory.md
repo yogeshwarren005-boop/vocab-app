@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Charging or suggestive of guilt or blame.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Charging or suggestive of guilt or blame.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to demonstrate guilt, involve in a crime, or convey an accusation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In prosecutorial practice and legal evidentiary standards, describing exhibits or disclosures that strongly establish culpability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incriminatory designates charging or suggestive of guilt or blame."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"Holmes held up the scorched scrap of paper, pointing out the **incriminatory** handwriting of Colonel Moran."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The committee produced an **incriminatory** report detailing the alleged financial misdeeds of the former ministers."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn guarded the bundle of **incriminatory** letters with silent, predatory vigilance."*

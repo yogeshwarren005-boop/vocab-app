@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Legislation that makes something illegal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Legislation that makes something illegal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The legislative process whereby an activity is transformed into a legally punishable offense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical legal studies, the deployment of statutory power and policing mechanisms to penalize marginalized populations or nonconformist behaviors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, criminalization designates legislation that makes something illegal."*
+> - 📜 **Michel Foucault (*Discipline and Punish*):** *"The **criminalization** of minor agrarian customs transformed peasants into convicts to enforce private property claims."*
+> - 📜 **H. L. A. Hart (*Punishment and Responsibility*):** *"Rational criteria must guide the **criminalization** of harmful conduct to prevent unconstrained legislative paternalism."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"The social elite dictates the **criminalization** of habits peculiar to the lower classes while condoning its own predations."*

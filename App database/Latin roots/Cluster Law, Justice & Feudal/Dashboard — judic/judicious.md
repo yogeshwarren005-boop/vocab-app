@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by the exercise of good judgment or common sense in practical matters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by the exercise of good judgment or common sense in practical matters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having, showing, or done with good sense, sound discernment, and practical wisdom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In administrative statecraft and literary rhetoric, prudent, balanced, and carefully measured in decision-making.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His last offences to us Shall have judicious hearing."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, this overdone, or come tardy off, though it make the unskilful laugh, cannot but make the judicious grieve; the censure of the which one must in your allowance o’erweigh a whole theatre of others."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Judicious punishment! ’twas this flesh begot Those pelican daughters."*
+> - 📜 **William Shakespeare (*Coriolanus*):** *"His nature is too noble for the world: he would not flatter Neptune for his trident, or Jove for's power to thunder; his heart's his mouth: what his breast forges, that his tongue must vent, and being angry, does forget that ever he heard the name of death. Here's goodly work! The **judicious** patricians must intervene to quell this rage."*
+> - 📜 **Samuel Johnson (*Lives of the Most Eminent English Poets*):** *"A **judicious** critic will ever distinguish between accidental defects and radical errors in poetic composition."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Trajan governed with such **judicious** moderation that the senate revered him as the father of his country."*

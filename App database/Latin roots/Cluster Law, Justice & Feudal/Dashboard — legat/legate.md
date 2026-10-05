@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a legation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a legation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An emissary or official representative, especially an ambassador or papal envoy on a diplomatic mission.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman antiquity and canon law, a lieutenant general commanding a legion or a cardinal representing the Holy See with plenipotentiary power.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Winchester in Cardinal’s habit, a Legate and two Ambassadors."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And so, my Lord Protector, see them guarded And safely brought to Dover; where inshipp’d, Commit them to the fortune of the sea. [_Exeunt all but Winchester and Legate._] WINCHESTER."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Stay my lord legate; you shall first receive The sum of money which I promised Should be deliver’d to his Holiness For clothing me in these grave ornaments."*
+> - 📜 **William Shakespeare (*King John*):** *"Hail, noble Pandulph! I am sent from Rome, the Pope's royal **legate**, to demand of thee why against the Holy Church thou dost contest and spurn her holy power."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"A Roman **legate** commanded each legion on the frontier, combining administrative jurisdiction with strict military discipline."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The papal **legate** rode into the lists surrounded by his retinue, bearing apostolic letters to the assembled knights."*

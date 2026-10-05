@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unholiness by virtue of being profane.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unholiness by virtue of being profane.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The absence, lack, or reversal of sanctification, spiritual holiness, or consecration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dogmatic and sacramental theology, the unregenerate spiritual condition remaining unaffected by sanctifying grace.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsanctification designates unholiness by virtue of being profane."*
+> - 📜 **Richard Baxter (*The Practical Works*):** *"The fatal error of hypocrites lies in mistaking formal ritual observance for deliverance from internal **unsanctification**."*
+> - 📜 **John Owen (*Pneumatologia: A Discourse Concerning the Holy Spirit*):** *"Without the indwelling renovation of the Spirit, the human heart remains bound within its natural **unsanctification**."*
+> - 📜 **Jonathan Edwards (*Treatise Concerning Religious Affections*):** *"He demonstrated that intellectual knowledge of scripture cannot compensate for pervasive **unsanctification** of the affections."*

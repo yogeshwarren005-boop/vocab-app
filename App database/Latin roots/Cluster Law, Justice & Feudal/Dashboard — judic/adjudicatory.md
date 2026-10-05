@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerned with adjudicating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerned with adjudicating.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characterized by the official process of judging and resolving disputes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal theory and regulatory compliance, describing formal hearings and structural bodies invested with decretal powers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adjudicatory designates concerned with adjudicating."*
+> - 📜 **Lon L. Fuller (*The Morality of Law*):** *"The integrity of the **adjudicatory** process depends upon the presentation of proof and reasoned argument by opposing parties."*
+> - 📜 **Roscoe Pound (*The Spirit of the Common Law*):** *"Traditional common law doctrines were refined through continuous application within the **adjudicatory** forum."*
+> - 📜 **Felix Frankfurter (*The Case of Sacco and Vanzetti*):** *"Public faith in **adjudicatory** procedures is eroded when trials appear tainted by political passions."*

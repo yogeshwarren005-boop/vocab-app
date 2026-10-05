@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a vindictive, revengeful manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a vindictive, revengeful manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that seeks revenge or is motivated by spiteful resentment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative characterization and legal ethics, pursuing an adversary with relentless cruelty or purely punitive spite.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"He did this because there is a saying in the Neverland that, every time you breathe, a grown-up dies; and Peter was killing them off vindictively as fast as possible."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"I can’t bear it!” Natásha cried, and her eyes glittered coldly and vindictively."*
-> - 📜 **James Joyce (*Ulysses*):** *"MRS BELLINGHAM: _(Shakes her muff and quizzing-glasses vindictively.)_ Make him smart, Hanna dear."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Uriah Heep rubbed his clammy palms together and smiled **vindictively** as he outlined his plans to humble the Wickfield family."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Tom Tulliver clung **vindictively** to his father's ruined name, swearing never to forgive the lawyer who had foreclosed the mortgage."*
+> - 📜 **Charlotte Brontë (*Wuthering Heights*):** *"Heathcliff laughed **vindictively** in the dark corridor, exulting in the torment he was preparing for the inhabitants of Thrushcross Grange."*

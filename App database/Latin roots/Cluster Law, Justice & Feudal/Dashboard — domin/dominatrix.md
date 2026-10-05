@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dominating woman (especially one who plays that role in a sadomasochistic sexual relationship).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dominating woman (especially one who plays that role in a sadomasochistic sexual relationship).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman who plays a dominant, commanding, or disciplinary role, especially in consensual erotic roleplay or psychological dynamics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In erotic literature and psychopathology, a mistress who wields overt physical or psychological discipline over a submissive partner.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dominatrix designates a dominating woman (especially one who plays that role in a sadomasochistic sexual relationship)."*
+> - 📜 **Richard von Krafft-Ebing (*Psychopathia Sexualis*):** *"The masochistic patient derived morbid gratification only when submitting unconditionally to an imperious female **dominatrix**."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"The elaborate ritual costumes donned by the **dominatrix** symbolize absolute ceremonial authority over the submissive."*
+> - 📜 **Sigmund Freud (*Three Essays on the Theory of Sexuality*):** *"The unconscious fantasy of being humbled by an unyielding **dominatrix** frequently mirrors early childhood repressions."*

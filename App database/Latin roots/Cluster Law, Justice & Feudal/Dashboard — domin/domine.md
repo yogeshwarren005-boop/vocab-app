@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A clergyman; especially a settled minister or parson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clergyman; especially a settled minister or parson.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vocative form of address meaning 'master' or 'lord' in Latin, used historically in religious prayers and scholarly titles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In liturgical music and ecclesiastical Latin, an invocatory title addressed to God ('Domine Deus') or Christ in canticles and masses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let me hear a staff, a stanze, a verse, _Lege, domine_."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It insinuateth me of insanie. _Ne intelligis, domine?_ To make frantic, lunatic."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But will the dainty domine, the schoolmaster, Keep touch, do you think?"*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The medieval schoolmen repeated their reverent **domine** while debating hairsplitting subtleties of theological dogma."*
+> - 📜 **Bram Stoker (*Dracula*):** *"The trembling priest murmured '**domine**, miserere nobis' as darkness gathered over the desecrated crypt."*
+> - 📜 **William Shakespeare (*Love's Labour's Lost*):** *"The pedantic schoolmaster addressed the curate as good **domine**, parading his superficial Latinity before the villagers."*

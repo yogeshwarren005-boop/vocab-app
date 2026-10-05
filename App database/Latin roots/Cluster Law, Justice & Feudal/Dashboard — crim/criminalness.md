@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being a criminal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being a criminal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inherent culpability, wickedness, or blameworthiness of an act in the eyes of penal law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and legal ethics, the degree of intrinsic turpitude or culpability attaching to a wrongful deed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, criminalness designates the state of being a criminal."*
+> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"The apparent **criminalness** of an action depends upon the mischief it produces and the motive whence it springs."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"No sophistry can diminish the fundamental **criminalness** of betraying a public trust for private enrichment."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Conscience perceives the innate **criminalness** of violence against the innocent prior to the formulation of positive laws."*

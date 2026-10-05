@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not vindictive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not vindictive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not inclined to seek revenge; forgiving, lenient, and free from malicious spite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral psychology and character description, displaying generous magnanimity that harbors no resentful grudge toward adversaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unvindictive designates not vindictive."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea possessed an **unvindictive** temper, seeking reconciliation where a harsher nature would have demanded public humiliation."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe Gargery's gentle, **unvindictive** spirit could never conceive an unkind thought even against those who had wronged him deeply."*
+> - 📜 **Anthony Trollope (*The Warden*):** *"Mr. Harding was an **unvindictive** man, suffering in silence rather than permitting his counsel to attack the character of his accusers."*

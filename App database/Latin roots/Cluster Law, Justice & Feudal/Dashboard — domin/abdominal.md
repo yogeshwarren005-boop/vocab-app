@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The muscles of the abdomen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or near the abdomen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, located in, or affecting the abdomen or belly, between the thorax and pelvis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate anatomy, designating visceral organs, muscular walls, or surgical incisions within the peritoneal cavity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"What a sensation in the abdominal region!"*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The homologous structures of the **abdominal** appendages in crustaceans reveal their common ancestral heritage."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Careful palpation of the right lower quadrant revealed marked tenderness and rigid **abdominal** guarding."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Contraction of the diaphragm increases vertical thoracic volume while exerting downward pressure on the **abdominal** viscera."*

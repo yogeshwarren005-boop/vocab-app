@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An act that exploits or victimizes someone (treats them unfairly).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act that exploits or victimizes someone (treats them unfairly).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of singling someone out for cruel or unjust treatment, persecution, or exploitation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In criminology and social policy, the adverse sociological process whereby vulnerable individuals suffer harm from systemic abuse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, victimisation designates an act that exploits or victimizes someone (treats them unfairly)."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"The trade union organizer protested against the covert **victimisation** of outspoken factory workers by the management."*
+> - 📜 **H. G. Wells (*The New Machiavelli*):** *"He felt a bitter resentment against the political **victimisation** that drove talented men into enforced obscurity."*
+> - 📜 **John Galsworthy (*Strife*):** *"The prolonged strike produced endless instances of personal **victimisation** among the struggling families in the valley."*

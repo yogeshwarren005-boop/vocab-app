@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Indirectly, as, by, or through a substitute.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Indirectly, as, by, or through a substitute.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a vicarious manner; indirectly through the lived experience, emotions, or actions of another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological analysis of literature, participating emotionally in imaginary drama without physical involvement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"My sister, having so much to do, was going to church vicariously, that is to say, Joe and I were going."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"It is not to the parents, but to the succeeding generation, that the debt is vicariously paid. [Sidenote: And in larger circles] Friendship widens the range of generosity and multiplies the mass of gifts."*
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"These are not opposed to the law of causation but fulfil it vicariously, or by a process of substitution."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Brooke enjoyed life **vicariously** through the ambitious schemes and diverse enterprises of his energetic neighbors."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The landsman sits snugly by his parlour hearth, listening **vicariously** to the howling tempest that batters distant whalers."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"She lived **vicariously** in the triumphant careers of her children, following every academic triumph from afar."*

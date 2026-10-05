@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having won.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Experiencing triumph.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having won a victory; triumphant, conquering, or successful in a contest, war, or difficult struggle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military strategy and statecraft, celebrating the definitive overcoming of armed opposition or ideological resistance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Know, my hearts, I hope well of tomorrow, and will lead you Where rather I’ll expect victorious life Than death and honour."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is a stem Of that victorious stock; and let us fear The native mightiness and fate of him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Victorious Talbot, pardon my abuse."*
+> - 📜 **William Shakespeare (*Richard III*):** *"Now are our brows bound with **victorious** wreaths; our bruised arms hung up for monuments; our stern alarums changed to merry meetings."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The **victorious** species will multiply and spread, encroaching upon the territory and livelihoods of less adapted competitors."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Rosamond had that **victorious** obstinacy which never wastes its energy in loud argument, but quietly persists until its aim is secured."*

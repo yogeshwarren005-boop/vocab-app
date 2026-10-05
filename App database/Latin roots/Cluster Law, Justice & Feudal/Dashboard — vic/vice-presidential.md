@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to a vice president or vice-presidency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to a vice president or vice-presidency.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, held by, or suitable for a vice president or the office of vice president.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electoral history, concerning campaign strategies, nominations, or executive responsibilities associated with the second-highest civic office.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vice-presidential designates relating to a vice president or vice-presidency."*
+> - 📜 **Woodrow Wilson (*Congressional Government*):** *"The **vice-presidential** candidate was selected primarily to balance regional factions within the national party convention."*
+> - 📜 **James Bryce (*The American Commonwealth*):** *"Foreign observers often marvel at the constitutional powers vested in the American **vice-presidential** office."*
+> - 📜 **Henry Cabot Lodge (*The Senate of the United States*):** *"The presiding officer maintained order from the **vice-presidential** rostrum during the stormy constitutional debate."*

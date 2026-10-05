@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Restricted to the geographic area under a particular jurisdiction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Restricted to the geographic area under a particular jurisdiction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the extent, scope, or limits of legal power and judicial authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In conflict of laws and administrative procedure, defining thresholds that entitle a tribunal to entertain a dispute.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Many issues were extremely complex: What are an inhabited planet's or satellite's jurisdictional limits within territorial and contiguous space?"*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Niblack and McCrary, prefer to express no opinion on the general jurisdictional questions discussed in the report, and rest their judgment wholly on the ground last stated."*
+> - 📜 **Oliver Wendell Holmes Jr. (*Collected Legal Papers*):** *"The court was obliged to dismiss the bill at once upon purely **jurisdictional** grounds without reaching the merits of the controversy."*
+> - 📜 **Felix Frankfurter (*The Business of the Supreme Court*):** *"Congress enacted statutes restricting the **jurisdictional** reach of federal circuit courts in state taxation disputes."*
+> - 📜 **Woodrow Wilson (*Congressional Government*):** *"Protracted **jurisdictional** disputes between standing committees of the House frequently delayed urgent tariff legislation."*

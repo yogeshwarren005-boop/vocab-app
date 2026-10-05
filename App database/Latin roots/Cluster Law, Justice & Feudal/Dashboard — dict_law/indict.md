@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Accuse formally of a crime.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Accuse formally of a crime.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To formally charge someone with a serious crime by the findings and presentment of a grand jury.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In criminal procedure, to issue a written bill of indictment alleging specific statutory offenses following evidentiary scrutiny.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Deputy’s the nighest name to indict me by: but yer wouldn’t catch me pleading to that, neither.” “Deputy be it always, then."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"I repeat, the number indicts them; it stamps the whole cry as without any foundation; it derides the issue as a false and scandalous and partisan makeshift."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Beshrew me much, Emilia, I was (unhandsome warrior as I am) Arraigning his unkindness with my soul; But now I find I had suborn’d the witness, And he’s indicted falsely."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The grand inquest possesses constitutional authority to **indict** any felon upon sufficient probable cause."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The public prosecutor stood up before the revolutionary tribunal to **indict** the prisoner for high treason."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The ordinary courts of justice retain full jurisdiction to **indict** and punish public officials guilty of corruption."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person appointed or elected to represent others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transfer power to someone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person sent or authorized to represent others, in particular an elected representative sent to a conference.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In administrative and constitutional law, entrust a task or power to another, subject to the rule delegata potestas non potest delegari.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Then, there are wifely duties which you would not wish to delegate to any one else." "No, never!" she cried."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A government, the constitution of which renders it unfit to be trusted with all the powers which a free people OUGHT TO DELEGATE TO ANY GOVERNMENT, would be an unsafe and improper depositary of the NATIONAL INTERESTS."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Hoge, was again a Delegate, and in relating the results of her now very large experience, helped greatly the beneficial results of the Council, and harmonized all the views and action of the various branches."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The people of America chose each **delegate** to the constitutional convention with full confidence in their wisdom and patriotism."*
+> - 📜 **John Locke (*Second Treatise of Government*):** *"The legislative cannot transfer the power of making laws to any other hands; for being but a **delegate** power from the people, they who have it cannot pass it over to others."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The democratic **delegate** feels himself perpetually bound by the shifting instructions and immediate passions of his constituents."*

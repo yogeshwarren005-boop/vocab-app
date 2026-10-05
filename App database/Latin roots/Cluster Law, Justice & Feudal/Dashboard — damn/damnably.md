@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a damnable manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a damnable manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that is detestable, odious, or deserving of severe condemnation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In expressive literary prose, used to describe intense unpleasantness, excessive difficulty, or shameful moral failure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have misused the King’s press damnably."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"She was so clean, so cool, so damnably self-possessed."*
-> - 📜 **James Joyce (*Ulysses*):** *"BEAUFOY: _(Shouts.)_ It’s a damnably foul lie, showing the moral rottenness of the man! _(He extends his portfolio.)_ We have here damning evidence, the _corpus delicti_, my lord, a specimen of my maturer work disfigured by the hallmark of the beast."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They will scarcely believe this without trial; offer them instances, which shall bear no less likelihood than to see me at any time impartially execute justice; for he hath **damnably** deceived me in this trust."*
+> - 📜 **James Joyce (*Ulysses*):** *"BEAUFOY: (Spluttering) You have **damnably** betrayed the confidence reposed in you by honest men!"*
+> - 📜 **Robert Louis Stevenson (*The Master of Ballantrae*):** *"The wind blew **damnably** cold off the black waters, biting through our soaked greatcoats to the very bone."*

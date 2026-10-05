@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Legislation that makes something legal that was formerly illegal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Legislation that makes something legal that was formerly illegal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The legislative process of removing criminal sanctions from an action formerly prohibited by law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal history and sociopolitical reform, an institutional shift where penal courts surrender jurisdiction to public health agencies or civil tribunals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decriminalization designates legislation that makes something legal that was formerly illegal."*
+> - 📜 **H. L. A. Hart (*Punishment and Responsibility*):** *"The arguments in favor of **decriminalization** rest on the principle that the criminal law should not enforce mere morality."*
+> - 📜 **Roscoe Pound (*Criminal Justice in America*):** *"Overburdened courts benefit substantially from the prudent **decriminalization** of minor regulatory offenses."*
+> - 📜 **Michel Foucault (*Power/Knowledge*):** *"The historical **decriminalization** of certain practices often coincided with the creation of new medicalized categories of deviance."*

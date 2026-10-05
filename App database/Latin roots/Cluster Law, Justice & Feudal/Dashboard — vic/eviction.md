@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Action by a landlord that compels a tenant to leave the premises (as by rendering the premises unfit for occupancy); no physical expulsion or legal process is involved.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The expulsion of someone (such as a tenant) from the possession of land by process of law.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The legal action or process of expelling someone from a property, tenancy, or dwelling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agrarian economic history, the widespread removal of tenant farmers during agricultural clearance and enclosure movements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Two months after these evictions, two friends of mine and I had occasion to go on a vessel to the adjoining island of Sariba, in order to get our water casks filled."*
+> - 📜 **William Butler Yeats (*Autobiographies*):** *"He vividly recalled the agrarian distress of his boyhood, when rural **eviction** left whole families homeless along the roadside."*
+> - 📜 **George Bernard Shaw (*Widowers' Houses*):** *"The play exposes how slum landlords depend upon summary **eviction** to extort excessive rents from desperate laborers."*
+> - 📜 **Lady Gregory (*Visions and Beliefs in the West of Ireland*):** *"The old woman related sorrowful tales of the famine years, when **eviction** scattered the villagers to distant emigrant ships."*

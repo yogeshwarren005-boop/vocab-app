@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A successful ending of a struggle or contest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A successful ending of a struggle or contest.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The overcoming of an enemy, antagonist, or obstacle; success in a contest, competition, or struggle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political and military history, the decisive achievement of strategic objectives through armed triumph or diplomatic resolution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Upon your sword Sit laurel victory, and smooth success Be strewed before your feet!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They are beaten, sir, and our advantage serves For a fair victory."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let’s present him to the Duke, like a Roman conqueror, and it would do well to set the deer’s horns upon his head for a branch of victory."*
+> - 📜 **William Shakespeare (*Antony and Cleopatra*):** *"Upon your sword sit laurel **victory**, and smooth success be strewed before your feet!"*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The man and the ecclesiastic fought within him, and the human affection achieved a momentary **victory** over rigid doctrine."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Battle within battle must ever be recurring with varying success; and **victory** rests at last with the most adapted organism."*

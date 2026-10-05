@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a random manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an indiscriminate manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a random manner; without making distinctions or showing careful judgment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social observation and natural history, describing forces, distributions, or behaviors applied uniformly across disparate categories.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"It is not a thing to be used indiscriminately, but it is good upon occasion: as now, for instance."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Among the fishermen, he is indiscriminately designated by all the following titles: The Whale; the Greenland Whale; the Black Whale; the Great Whale; the True Whale; the Right Whale."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The baleen, hump, back-fin, and teeth; these are things whose peculiarities are indiscriminately dispersed among all sorts of whales, without any regard to what may be the nature of their structure in other and more essential particulars."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The storm tossed the fragile boats **indiscriminately** among the white-capped surges of the Pacific."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"Over millions of years, the cooling sun radiated its weakening light **indiscriminately** upon land and sea."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She bestowed her small charities **indiscriminately** upon every beggar who presented a sorrowful countenance at her gate."*

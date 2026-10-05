@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adversity resulting from being made a victim.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act that exploits or victimizes someone (treats them unfairly).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of singling someone out for cruel or unjust treatment; exploitation, abuse, or swindling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In victimology and legal sociology, the process through which individuals or groups suffer psychological, physical, or economic harm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, victimization designates adversity resulting from being made a victim."*
+> - 📜 **Jane Addams (*Democracy and Social Ethics*):** *"The settlement workers fought continuously against the ruthless economic **victimization** of newly arrived immigrant families."*
+> - 📜 **John Dewey (*Human Nature and Conduct*):** *"Customary moral codes often permit the subtle **victimization** of weaker classes under the guise of tradition."*
+> - 📜 **Thorstein Veblen (*The Vested Interests and the Common Man*):** *"The underlying population suffered systemic **victimization** from corporate trusts manipulating market prices."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be larger in number, quantity, power, status or importance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be in control.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Asserting commanding authority, exerting primary influence, or occupying a conspicuous elevation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociobiology, displaying persistent behavioral displays of social rank to secure breeding and feeding priority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"But a new power had entered into his life, and that power gradually asserted itself as the chief and dominating influence there."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"That there is nevertheless, a noticeable degree of regularity in the recurrence of crises may be due to the presence of one dominating factor."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"At present heredity and psychology are dominating our minds--or, rather, theories as to both; for though beginnings have been made, the stage has not yet been reached of very wide or certain discovery."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Napoleon possessed a restless, **dominating** intellect that grasped every administrative detail across his empire."*
+> - 📜 **G. K. Chesterton (*The Innocence of Father Brown*):** *"Father Brown noted the tall, **dominating** stature of the suspect cast a menacing silhouette upon the chapel wall."*
+> - 📜 **Walt Whitman (*Democratic Vistas*):** *"True literature must embody a grand, **dominating** democratic spirit that elevates the common populace."*

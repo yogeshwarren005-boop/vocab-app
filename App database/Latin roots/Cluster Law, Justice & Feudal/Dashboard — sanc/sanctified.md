@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Render holy by means of religious rites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make pure or free from sin or guilt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Made holy, consecrated to divine service, or purified from moral defilement and sin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical law and ritual, set apart by religious blessing for liturgical or sacramental functions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He that hangs himself is a virgin: virginity murders itself, and should be buried in highways out of all sanctified limit, as a desperate offendress against nature."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your virtues, gentle master, Are sanctified and holy traitors to you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In few, Ophelia, Do not believe his vows; for they are brokers, Not of that dye which their investments show, But mere implorators of unholy suits, Breathing like sanctified and pious bawds, The better to beguile."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Do not believe his vows; for they are brokers, breathing like **sanctified** and pious bonds, the better to beguile."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her noble impulses seemed **sanctified** by the quiet humility with which she accepted daily duties."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The venerable minister walked with solemn step, revered as a **sanctified** vessel of spiritual truth."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a victim of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Punish unjustly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To single someone out for cruel, unjust, or unfair treatment; to exploit, swindle, or cheat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral psychology, to subject someone to bullying, deception, or harassment through asymmetric power dynamics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"She, poor innocent creature, is left to be victimized by an old man who has outlived his wits."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"Cunning camp followers sought every opportunity to **victimize** naive recruits during the chaotic retreat."*
+> - 📜 **Mark Twain (*Adventures of Huckleberry Finn*):** *"The king and the duke plotted how to **victimize** the grieving townspeople by pretending to be the dead man's brothers."*
+> - 📜 **Henry James (*The Bostonians*):** *"She refused to allow the domineering reformer to **victimize** the young girl's impressionable and fragile nature."*

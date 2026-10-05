@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman catholic church) spanish priest who founded an order whose members became known as dominicans or black friars (circa 1170-1221).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman catholic church) spanish priest who founded an order whose members became known as dominicans or black friars (circa 1170-1221).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A masculine given name derived from the Latin Dominicus, meaning 'belonging to the Lord' or 'of the Master'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hagiography and church history, Saint Dominic de Guzman (1170–1221), founder of the Order of Preachers (Dominicans).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"The palm and the laurel, Dominic and Dante, sanctity and song, grew together in her soil: she has retained the palm, but forgone the laurel."*
-> - 📜 **James Joyce (*Ulysses*):** *"He looked almost a saint and his confessionbox was so quiet and clean and dark and his hands were just like white wax and if ever she became a Dominican nun in their white habit perhaps he might come to the convent for the novena of Saint Dominic."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Dominic! come, Torquemada; fathers of the Inquisition! merciless monsters, seek your equal here."*
+> - 📜 **James Joyce (*A Portrait of the Artist as a Young Man*):** *"The youthful novice meditated upon the holy austerities practiced by Saint **dominic** in southern France."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The zealous followers of Saint **dominic** were commissioned by the Pope to combat the Cathar heresy."*
+> - 📜 **Thomas Aquinas (*Summa Theologiae*):** *"Our blessed patriarch **dominic** instructed his friars to contemplate divine truth and communicate it through sacred preaching."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make legal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make legal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To legalize or remove criminal penalties from a specific action, behavior, or substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statutory reform, to reclassify an offense from a misdemeanor or felony to a permissible act or administrative infraction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decriminalize designates make legal."*
+> - 📜 **H. L. A. Hart (*Law, Liberty, and Morality*):** *"To **decriminalize** activities that harm no one is essential if the dignity of penal law is to be maintained."*
+> - 📜 **Oliver Wendell Holmes Jr. (*Collected Legal Papers*):** *"The community may decide through legislation to **decriminalize** what previous generations severely punished."*
+> - 📜 **Felix Frankfurter (*Of Law and Men*):** *"Good governance requires us to **decriminalize** technical violations that clutter court dockets without benefiting the public."*

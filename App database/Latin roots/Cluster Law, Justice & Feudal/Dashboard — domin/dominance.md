@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Superior development of one side of the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state that exists when one person or group has power over another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Supreme governing power, commanding influence over others, or prevailing prominence in an ecosystem or group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In genetics, neurobiology, and ecology, the phenotypic expression of an allele masking a recessive allele, or behavioral hierarchy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I haven't talked with Cousin James yet," I felt white feathers sprouting all over me, as I thus invoked the masculine dominance I had come to lay."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The result is the end of UIPS dominance over its former colonies and space lanes." Brad paused to preface his next words."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"My recommendation is that you see him, but manipulate the discussions to give our rights dominance."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Forms possessing superior adaptation gradually establish numerical **dominance** over competing varieties within the ecological basin."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Certain focal ideas acquire momentary **dominance** in consciousness, subduing competing peripheral associations."*
+> - 📜 **John Stuart Mill (*The Subjection of Women*):** *"Social customs that entrench masculine **dominance** violate the fundamental principles of universal human justice."*

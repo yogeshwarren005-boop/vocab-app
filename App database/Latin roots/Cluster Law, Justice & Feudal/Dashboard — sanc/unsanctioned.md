@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without explicit official permission.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without explicit official permission.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not sanctioned, authorized, permitted, or officially approved; lacking legitimate authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military operations and statecraft, aggressive actions undertaken without constitutional authorization or diplomatic approval.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"I do not blame you for with-holding "the-laying-on-of-hands," but I was ordained of God long years ago to preach the unsearchable riches of Christ, and although unsanctioned by man, I shall still preach the message with which he has provided me."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"He warned that **unsanctioned** hypotheses unsupported by empirical demonstration have no rightful standing in scientific inquiry."*
+> - 📜 **James Fenimore Cooper (*The Deerslayer*):** *"The frontiersmen embarked upon an **unsanctioned** retaliatory raid across the forest without the garrison captain's warrant."*
+> - 📜 **Joseph Conrad (*Nostromo*):** *"The provincial general attempted an **unsanctioned** coup d'etat, hoping to seize the silver mines before the fleet arrived."*

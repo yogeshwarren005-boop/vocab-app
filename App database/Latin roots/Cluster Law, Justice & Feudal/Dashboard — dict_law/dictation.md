@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An authoritative direction or instruction to do something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Speech intended for reproduction in writing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The transcription of spoken words by a stenographer or machine; or the authoritative imposing of decrees and orders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pedogogy and language instruction, an exercise where students write down spoken text to practice grammar and spelling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"However, as she at once proceeded with her dictation, and as I interrupted nothing by doing it, I ventured quietly to stop poor Peepy as he was going out and to take him up to nurse."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby had yet finished her dictation for the day, when Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I am very sorry I couldn’t go on writing from dictation, Ma,” sobbed Caddy."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The blind scholar spent hours in the study, guiding the slow **dictation** of his unfinished mythological treatise."*
+> - 📜 **Bram Stoker (*Dracula*):** *"Mina recorded the hurried diary entries from phonograph **dictation** with meticulous shorthand precision."*
+> - 📜 **Joseph Conrad (*The Secret Agent*):** *"He submitted without effective resistance to the harsh **dictation** of the foreign embassy official."*

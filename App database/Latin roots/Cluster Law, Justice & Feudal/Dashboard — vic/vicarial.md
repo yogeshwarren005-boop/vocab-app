@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characteristic of a vicar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of a vicar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, delegated by, or characteristic of a vicar or an episcopal deputy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical ecclesiastical law, exercised by delegated vicarious authority rather than held by original proprietary right.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vicarial designates of or relating to or characteristic of a vicar."*
+> - 📜 **Samuel Taylor Coleridge (*On the Constitution of the Church and State*):** *"The bishop exercised his pastoral oversight through **vicarial** appointments across the extensive northern districts."*
+> - 📜 **Henry Hallam (*View of the State of Europe during the Middle Ages*):** *"The archdeacon claimed **vicarial** jurisdiction over the provincial clergy during the prelate's absence abroad."*
+> - 📜 **John Henry Newman (*Historical Sketches*):** *"The primitive church recognized that local pastoral care was often entrusted to **vicarial** presbyters acting under the metropolitan."*

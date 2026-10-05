@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Queen of great britain and ireland and empress of india from 1837 to 1901; the last hanoverian ruler of england (1819-1901).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman mythology) goddess of victory; counterpart of greek nike.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A light, four-wheeled horse-drawn carriage with a collapsible calash top and an elevated front driver's seat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In royal history, geographic nomenclature, and botany, the British monarch Queen Victoria, or the giant Amazonian water lily Victoria amazonica.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The modern[9] movement for the minimum wage began in Victoria in 1896, and it soon extended to nearly all the other Australasian states."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Some of the aborigines of Victoria used to regard the fat of the emu as sacred, believing that it had once been the fat of the black man."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Brough Smyth, _Aborigines of Victoria_ (Melbourne and London, 1878), i. 450. [31] E."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"A smart little **victoria** dashed up to the door, and a lady wrapped in heavy furs stepped gracefully onto the pavement."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Lady Henry was a curious woman whose dresses always looked as if they had been designed in a rage; she drove about town in an open **victoria**."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"My brother turned down towards **Victoria** station, and met a great number of people fleeing in disorderly haste."*

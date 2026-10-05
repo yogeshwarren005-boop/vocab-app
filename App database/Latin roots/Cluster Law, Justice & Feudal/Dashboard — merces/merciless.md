@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing no mercy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or showing no mercy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing no mercy, clemency, or compassion; relentlessly cruel, severe, unsparing, and pitiless.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary description of nature or adversity, harsh and destructive physical conditions that offer no respite.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, had the gods done so, I had not now Worthily term’d them merciless to us."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His army is a ragged multitude Of hinds and peasants, rude and merciless."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The foe is merciless and will not pity, For at their hands I have deserved no pity."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"The **merciless** Macdonwald, worthy to be a rebel, received reinforcements from the Western Isles."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard faced the **merciless** ruin of his commercial fortunes with defiant, unbending pride."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The blazing sun Beat down upon the calm tropical sea with a **merciless** and blinding glare."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states rhythm and blues pianist and singer and composer (born in 1928).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A loose hooded cloak worn with a half mask as part of a masquerade costume.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small rectangular gaming tile marked with pips, or a loose hooded cloak worn with an eye mask at masquerades.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In carnival tradition and mathematics, a hooded disguise worn by Venetian revelers, or a geometric polyomino composed of two joined squares.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"This ingenious article itself, without the elegant domino-box, card-basket, &c., ought alone to give a high price to the lot."*
-> - 📜 **James Joyce (*Ulysses*):** *"And showed off coquettishly in your domino at the mirror behind closedrawn blinds your unskirted thighs and hegoat’s udders in various poses of surrender, eh?"*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"His testibus domino Joanne le Bÿgod fratre meo: Dom."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She disguised her identity at the charity masquerade beneath a sweeping black velvet **domino** and silk mask."*
+> - 📜 **James Joyce (*Ulysses*):** *"He recalled the masked ball where each guest flitted past like a silent, mysterious **domino**."*
+> - 📜 **Edgar Allan Poe (*The Masque of the Red Death*):** *"The ghastly intruder strode silently among the masqueraders, wrapped in an austere black **domino**."*

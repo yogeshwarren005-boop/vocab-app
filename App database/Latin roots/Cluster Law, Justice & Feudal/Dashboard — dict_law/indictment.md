@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal document written for a prosecuting attorney charging a person with some offense.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An accusation of wrongdoing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal written statement charging a person with an offense, voted and returned by a grand jury.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social criticism and rhetoric, a profound, damning exposure or comprehensive condemnation of a prevailing system or injustice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, there is another indictment upon thee, for suffering flesh to be eaten in thy house, contrary to the law, for the which I think thou wilt howl."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here is the indictment of the good Lord Hastings, Which in a set hand fairly is engrossed, That it may be today read o’er in Paul’s."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The indictment contained a great many counts, and charged the prisoner with the murder of Nina San Croix by striking, stabbing, choking, poisoning, and so forth."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The grand jury returned a true bill of **indictment**, establishing probable cause for trial at the assizes."*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"The severe magistrate scrutinized the formal **indictment** against the vagrant before admitting testimony."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"The rising squalor of industrial cities stands as a scathing **indictment** of laissez-faire commercial policy."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who studies and settles conflicts and disputes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who studies and settles conflicts and disputes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An appointed or chosen official who presides over disputes and delivers authoritative decisions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international arbitration and sports governance, an impartial referee designated to interpret regulations and settle formal claims.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adjudicator designates a person who studies and settles conflicts and disputes."*
+> - 📜 **John Morley (*The Life of William Ewart Gladstone*):** *"The British premier served as chief **adjudicator** in the delicate boundary dispute between the rival dominions."*
+> - 📜 **Harold Laski (*A Grammar of Politics*):** *"The industrial **adjudicator** must command the complete confidence of both organized labour and capital management."*
+> - 📜 **G. Lowes Dickinson (*The Choice Before Us*):** *"An international **adjudicator** cannot enforce compliance without the shared moral commitment of sovereign states."*

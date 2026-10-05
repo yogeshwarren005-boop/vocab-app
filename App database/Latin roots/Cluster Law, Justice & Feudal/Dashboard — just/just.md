@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used especially of what is legally or ethically right or proper or fitting; - a.lincoln.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fair to all parties as dictated by reason and conscience.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on or behaving according to what is morally right and fair; equitable and proper.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biblical theology and legal theory, conforming strictly to divine righteousness or adhering to objective principles of equity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who taught thee how to make me love thee more, The more I hear and see just cause of hate?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Virginity, like an old courtier, wears her cap out of fashion, richly suited, but unsuitable, just like the brooch and the toothpick, which wear not now."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore we marvel much our cousin France Would, in so just a business, shut his bosom Against our borrowing prayers."*
+> - 📜 **King James Bible (*Proverbs*):** *"The path of the **just** is as the shining light, that shineth more and more unto the perfect day."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"A gentle and a **just** sentence, which doth temper justice with mercy in our Venetian court."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"No government has a right to obedience from a people without their free consent, given under **just** and equal laws."*

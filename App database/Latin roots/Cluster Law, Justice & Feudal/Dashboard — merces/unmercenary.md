@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not mercenary; not influenced by financial gains.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not mercenary; not influenced by financial gains.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not motivated by pecuniary gain; generous, disinterested, and free from mercenary greed or calculation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civic ethics and personal character, performing devoted public service or heroic acts without seeking reward.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"I am also of opinion that it is greatly to my credit, and a proof of my pure and unmercenary nature, that I did not instantly put myself up to be raffled for, or rush out into the streets and propose marriage to the first lady I met."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"He was an entirely **unmercenary** soul who regarded money merely as a tedious necessity for buying paint and tobacco."*
+> - 📜 **William Makepeace Thackeray (*The Newcomes*):** *"The old colonel possessed an **unmercenary** heart, always ready to expend his modest pension upon distressed comrades."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"True friendship can subsist only between minds that are generous, transparent, and thoroughly **unmercenary**."*

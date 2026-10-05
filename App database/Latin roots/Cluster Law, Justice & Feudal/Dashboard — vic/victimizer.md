@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who victimizes others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who victimizes others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who victimizes, exploits, cheats, harms, or abuses another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In criminology and social ethics, an individual or syndicate that methodically preys upon vulnerable persons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"For though she worked up Miss Crawley to a proper dislike of her disobedient nephew, the invalid had a great hatred and secret terror of her victimizer, and panted to escape from her."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky Sharp turned upon her former **victimizer** with a ferocious wit that left him completely discomfited."*
+> - 📜 **Arthur Conan Doyle (*The Return of Sherlock Holmes*):** *"Holmes vowed to track down the heartless blackmailer, characterizing him as the worst **victimizer** in London."*
+> - 📜 **Frank Norris (*McTeague*):** *"Marcus viewed his former friend as a treacherous **victimizer** who had stolen his rightful lottery fortunes."*

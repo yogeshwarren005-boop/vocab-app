@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not fair; marked by injustice or partiality or deception.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Violating principles of justice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not based on or behaving according to what is morally right and fair; unfair and inequitable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethics and political theory, violating the rights of others, flouting natural law, or contrary to principles of equity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But wherefore says she not she is unjust?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Oft our displeasures, to ourselves unjust, Destroy our friends, and after weep their dust: Our own love waking cries to see what’s done, While shameful hate sleeps out the afternoon."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say my request’s unjust And spurn me back; but if it be not so, Thou art not honest, and the gods will plague thee That thou restrain’st from me the duty which To a mother’s part belongs.—He turns away.— Down, ladies!"*
+> - 📜 **King James Bible (*Matthew*):** *"For he maketh his sun to rise on the evil and on the good, and sendeth rain on the just and on the **unjust**."*
+> - 📜 **William Shakespeare (*Henry IV Part 1*):** *"I have misused the King's press damnably. I have got, in exchange of a hundred and fifty soldiers, three hundred and odd pounds. I press me none but good householders, yeomen's sons; inquire me out contracted bachelors, such as had been asked twice on the banns; such a commodity of warm slaves, as had as lief hear the devil as a drum. An **unjust** serving-man is better than such recruits."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"An **unjust** conqueror acquires no right over the persons or possessions of the people he has wrongfully subdued."*

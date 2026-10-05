@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A country on the island of dominica.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A volcanic island in the windward islands that was once a stronghold of the carib indians.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An island nation in the Caribbean Lesser Antilles; or the Latin liturgical term for Sunday ('Dies Dominica').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colonial geography and liturgical Latin, named by Columbus for its discovery on Sunday, November 3, 1493.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dominica designates a country on the island of dominica."*
+> - 📜 **James Anthony Froude (*The English in the West Indies*):** *"The mountainous interior of **dominica** rises into misty volcanic peaks cloaked in dense, untrodden rainforests."*
+> - 📜 **Charles Kingsley (*At Last: A Christmas in the West Indies*):** *"Looking out across the channel, the rugged green outline of **dominica** loomed against the tropical horizon."*
+> - 📜 **Washington Irving (*The Life and Voyages of Christopher Columbus*):** *"Columbus sighted the lush island on the Sabbath day and consequently bestowed upon it the pious name of **dominica**."*

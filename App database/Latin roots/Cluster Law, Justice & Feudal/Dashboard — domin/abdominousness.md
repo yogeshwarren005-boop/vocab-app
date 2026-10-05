@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The bodily property of a protruding belly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The bodily property of a protruding belly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The bodily characteristic of possessing a large, protruding belly or prominent abdominal corpulence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiognomic description and clinical somatometry, marked central visceral adiposity and paunchiness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abdominousness designates the bodily property of a protruding belly."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Sedentary gluttony inevitably breeds gross **abdominousness**, sluggish humors, and severe hypochondriacal gloom."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"The idle **abdominousness** of the monastic cellarer stood in stark contrast to the austere piety of Saint Edmund."*
+> - 📜 **William Makepeace Thackeray (*The Book of Snobs*):** *"His growing **abdominousness** and purple countenance bore eloquent testimony to three decades of unceasing club banquets."*

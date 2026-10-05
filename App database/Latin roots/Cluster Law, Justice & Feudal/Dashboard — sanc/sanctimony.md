@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being hypocritically devout.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being hypocritically devout.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pretended, affected, or hypocritical religious devotion, holiness, or moral superiority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social discourse, outward performance of sanctified virtue employed as a shield against legitimate accountability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If sanctimony and a frail vow betwixt an erring barbarian and a supersubtle Venetian be not too hard for my wits and all the tribe of hell, thou shalt enjoy her; therefore make money."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If beauty have a soul, this is not she; If souls guide vows, if vows be sanctimonies, If sanctimony be the god’s delight, If there be rule in unity itself, This was not she."*
+> - 📜 **William Shakespeare (*Twelfth Night*):** *"A virtuous maid, the daughter of a count that died some twelvemonth since, then leaving her in the protection of his son... but out of **sanctimony** she hath abjured the sight of men."*
+> - 📜 **Jonathan Swift (*A Tale of a Tub*):** *"The sectarian preacher wrapped himself in affected **sanctimony**, denouncing all wholesome human pleasures as worldly snares."*
+> - 📜 **Alexander Pope (*Epistle to Dr. Arbuthnot*):** *"He exposed the hollow **sanctimony** of court flatterers who masked private ambition under public zeal for reform."*

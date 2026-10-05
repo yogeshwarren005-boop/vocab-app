@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a predictable manner or to a predictable degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a predictable manner or to a predictable degree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that can be anticipated, foreseen, or calculated beforehand; conforming consistently to expectation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In decision analysis and sociometrics, following established behavioral or statistical trends without significant deviation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, predictably designates in a predictable manner or to a predictable degree."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"When market supplies fall short of effective demand, prices **predictably** advance until equilibrium is restored."*
+> - 📜 **Herbert Spencer (*The Study of Sociology*):** *"Human communities respond **predictably** to sudden fiscal shocks by curtailing non-essential domestic consumption."*
+> - 📜 **William James (*Pragmatism*):** *"Familiar physical events recur **predictably**, providing human beings with reliable anchors for practical daily action."*

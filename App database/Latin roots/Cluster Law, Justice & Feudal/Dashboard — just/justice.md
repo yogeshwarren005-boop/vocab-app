@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being just or fair.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Judgment involved in the determination of rights and the assignment of rewards and punishments.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Moral rightness, equitable treatment, and the impartial administration of fairness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal institutions and cardinal virtue theory, the administration of law according to rules of equity, or the judicial title of a high magistrate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He cannot thrive, Unless her prayers, whom heaven delights to hear And loves to grant, reprieve him from the wrath Of greatest justice."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He stole from Florence, taking no leave, and I follow him to his country for justice."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are abused Beyond the mark of thought, and the high gods, To do you justice, make their ministers Of us and those that love you."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"The quality of mercy is not strain'd, it droppeth as the gentle rain from heaven upon the place beneath: it is twice blest; it blesseth him that gives and him that takes. Tis mightiest in the mightiest: it becomes the throned monarch better than his crown; his sceptre shows the force of temporal power, the attribute to awe and majesty, wherein doth sit the dread and fear of kings; but mercy is above this sceptred sway, it is enthroned in the hearts of kings, it is an attribute to God himself; and earthly power doth then show likest God's when mercy seasons **justice**."*
+> - 📜 **Plato (*The Republic*):** *"**Justice** consists in minding one's own business and not meddling with other men's concerns, ensuring harmony within the soul and state."*
+> - 📜 **Francis Bacon (*Essays*):** *"Judges ought to remember that their office is jus dicere, and not jus dare; to interpret law, and not to make law, that **justice** may remain pure."*

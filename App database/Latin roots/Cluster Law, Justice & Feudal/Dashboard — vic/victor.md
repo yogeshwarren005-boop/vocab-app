@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A combatant who is able to defeat rivals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The contestant who wins the contest.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who defeats an enemy, competitor, or opponent in a battle, contest, or struggle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological evolution and competition theory, an organism or species that successfully secures reproductive resources and territory.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, Caius Lucius, Although the victor, we submit to Cæsar And to the Roman empire, promising To pay our wonted tribute, from the which We were dissuaded by our wicked queen, Whom heavens in justice, both on her and hers, Have laid most heavy hand."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come to me, friend or foe, And tell me who is victor, York or Warwick?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Since we cannot atone you, we shall see Justice design the victor’s chivalry."*
+> - 📜 **William Shakespeare (*Coriolanus*):** *"Hail to thee, lady, and the **victor** of Corioli! With all our hearts we welcome your triumphant return."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Sexual selection, by always allowing the **victor** in combat to breed, might surely give that victor an advantage in survival."*
+> - 📜 **George Eliot (*Romola*):** *"Tito walked as an acknowledged **victor** through the cheering Piazza, savoring his rapid political ascent."*

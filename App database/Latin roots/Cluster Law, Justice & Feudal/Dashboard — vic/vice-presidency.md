@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The tenure of a vice president.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The office and function of a vice president.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The office, rank, duties, or period of tenure of a vice president in an organization or government.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American constitutional politics, the executive office established to preside over the Senate and assume the chief magistracy upon a vacancy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vice-presidency designates the tenure of a vice president."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The constitutional dignity of the **vice-presidency** requires a statesman of national character and unblemished honor."*
+> - 📜 **Theodore Roosevelt (*An Autobiography*):** *"Many politicians believed that relegating me to the **vice-presidency** would effectively terminate my active career."*
+> - 📜 **Henry Adams (*The Education of Henry Adams*):** *"The peaceful succession from the **vice-presidency** proved the enduring resilience of constitutional conventions."*

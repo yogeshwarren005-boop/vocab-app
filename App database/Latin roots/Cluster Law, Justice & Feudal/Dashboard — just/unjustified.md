@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking justification or authorization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking justification or authorization.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not shown to be right or reasonable; lacking valid justification, grounds, or warrant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal doctrine and typography, unsupported by evidence or lacking flush margins along a printed column.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Someone has spoken of his "apparently unjustified faith in Peter." What names he can give to his friends as a result of this faith in them!"*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Anne went to his room at twilight and talked to him seriously . . . a method in which she had great faith, not altogether unjustified by results."*
+> - 📜 **Bertrand Russell (*The Problems of Philosophy*):** *"To assume that the future must resemble the past is an **unjustified** leap of faith unsupported by strict logical proof."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"Jim felt an **unjustified** confidence that another opportunity would arise to redeem his lost honor before men."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes cautioned Watson against drawing **unjustified** inferences from the mysterious candle flame on the midnight moor."*

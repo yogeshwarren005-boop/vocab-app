@@ -1,35 +1,27 @@
 import sqlite3
 
-c_conn = sqlite3.connect("main app/corpus/citation_corpus.db")
-c_cur = c_conn.cursor()
+w_dict = ['addict', 'addicted', 'addiction', 'addictive', 'contradict', 'contradiction', 'contradictorily', 'contradictoriness', 'contradictory', 'dictamnus', 'dictaphone', 'dictate', 'dictated', 'dictation', 'dictator', 'dictatorial', 'dictatorially', 'dictatorship', 'diction', 'dictionary', 'dictostylium', 'dictum', 'dictyophera', 'dictyoptera', 'dictyopteran', 'dictyosome', 'edict', 'indict', 'indictability', 'indictable', 'indiction', 'indictment', 'interdict', 'interdiction', 'nonaddictive', 'predict', 'predictability', 'predictable', 'predictably', 'prediction', 'predictive', 'predictor', 'unaddicted', 'unpredictability', 'unpredictable', 'unpredictably', 'unpredictive']
+w_domin = ['abdominal', 'abdominocentesis', 'abdominoplasty', 'abdominous', 'abdominousness', 'abdominovesical', 'condominium', 'dominance', 'dominant', 'dominate', 'dominated', 'dominating', 'domination', 'dominatrix', 'domine', 'dominee', 'domineer', 'domineering', 'domineeringly', 'domineeringness', 'dominic', 'dominica', 'dominical', 'dominican', 'dominick', 'dominicus', 'dominie', 'dominion', 'dominique', 'domino', 'dominoes', 'dominos', 'dominus', 'predominance', 'predominant', 'predominantly', 'predominate', 'predomination', 'subdominant']
 
-words = [
-    'ambidexterity', 'ambidextrous', 'ambidextrousness', 'dexter', 'dexterity',
-    'dexterous', 'dexterously', 'dextral', 'dextrality', 'dextrin',
-    'dextrocardia', 'dextroglucose', 'dextrorotary', 'dextrorotation', 'dextrorotatory',
-    'dextrorsal', 'dextrorse', 'dextrose', 'dextrous', 'dextrously',
-    'condign', 'dignified', 'dignify', 'dignifying', 'dignitary',
-    'dignity', 'indignant', 'indignantly', 'indignation', 'indignity',
-    'undignified',
-    'disintegrable', 'disintegrate', 'disintegration', 'disintegrative', 'integer',
-    'integral', 'integrality', 'integrally', 'integrate', 'integrated',
-    'integrating', 'integration', 'integrative', 'integrator', 'integrity',
-    'integument', 'integumental', 'integumentary', 'nonintegrated', 'reintegrate',
-    'unintegrated'
-]
+all_words = w_dict + w_domin
+conn = sqlite3.connect("main app/corpus/citation_corpus.db")
+cur = conn.cursor()
 
-low = []
-for w in words:
-    c_cur.execute("""
+found = {}
+for w in all_words:
+    cur.execute("""
         SELECT count(distinct s.author)
         FROM sentences_fts f
         JOIN sentences s ON f.rowid = s.id
         WHERE sentences_fts MATCH ?
     """, (f'"{w}"',))
-    cnt = c_cur.fetchone()[0]
-    if cnt < 3:
-        low.append((w, cnt))
+    cnt = cur.fetchone()[0]
+    found[w] = cnt
 
-print(f"Words with < 3 distinct authors in corpus: {len(low)}")
-for w, cnt in low:
-    print(f"  {w}: {cnt}")
+low = {k: v for k, v in found.items() if v < 3}
+print(f"Total words: {len(all_words)}")
+print(f"Words with >= 3 distinct authors in corpus: {len(all_words) - len(low)}")
+print(f"Words with < 3 authors in corpus: {len(low)}")
+for k, v in sorted(low.items(), key=lambda x: x[1]):
+    print(f"  {k}: {v} distinct authors")
+conn.close()

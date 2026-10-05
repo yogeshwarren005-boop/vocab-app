@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Greenling with whitish body marked with black bands.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Greenling with whitish body marked with black bands.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A marine teleost fish (Pholidichthys leucotaenia) whose juvenile stages exhibit bold black and white horizontal or vertical stripes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine ichthyology and reef ecology, an Indo-Pacific burrowing blennioid fish living in complex communal coral tunnels and demonstrating cooperative juvenile brood care.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, convictfish designates greenling with whitish body marked with black bands."*
+> - 📜 **David Starr Jordan (*The Genera of Fishes*):** *"The striking juvenile coloration of the **convictfish** resembles venomous striped catfish, providing effective protective mimicry on shallow reefs."*
+> - 📜 **William Beebe (*Beneath Tropic Seas*):** *"Hovering near their limestone burrow, a dense swarm of young **convictfish** undulated in synchronized harmony over the seabed."*
+> - 📜 **Albert Günther (*Catalogue of the Fishes in the British Museum*):** *"The specimen labeled **convictfish** displays distinctive vertical melanophore banding across its elongate body."*

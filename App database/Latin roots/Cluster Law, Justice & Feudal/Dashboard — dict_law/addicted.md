@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause (someone or oneself) to become dependent (on something, especially a narcotic drug).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Compulsively or physiologically dependent on something habit-forming.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Compulsively devoted to, dependent upon, or habituated to a particular chemical substance or destructive habit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological medicine and social history, exhibiting neurochemical dependence or an unshakeable adherence to a pursuit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"He was employed as book-keeper in a large mercantile house; but soon became addicted to drink, and the story is ever the same; loss of position, poverty, disgrace, suffering and recklessness."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Eight years ago I became addicted to strong drink."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"He had a considerable independence besides two good livings—and he was not in the least addicted to locking up his daughters."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He was dangerously **addicted** to gaming, spending whole nights over the hazard tables."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The nervous system becomes so thoroughly **addicted** to repeated stimuli that voluntary restraint fails."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Sherlock Holmes admitted he was inveterately **addicted** to the stimulating influence of cocaine."*

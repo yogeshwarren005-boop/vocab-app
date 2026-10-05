@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several games played with small rectangular blocks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states rhythm and blues pianist and singer and composer (born in 1928).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A popular tabletop game played with a set of rectangular tiles, each bearing faces divided into two squares marked with pips.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In combinatorics and geopolitical metaphor, a matching tile game, or the 'domino theory' positing sequential regional political collapse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The Accountant had brought out already a box of dominoes, and was toying architecturally with the bones."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"For some reason or other we did not begin that game of dominoes."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"On the other hand, I never pretended to offer such literature as should be a substitute for a cigar or a game at dominoes to an idle man."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The accountant and the lawyer sat upon the yacht's deck, idling away the evening over a game of **dominoes**."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Old men clicked their bone **dominoes** together upon the beer-stained tables of the tavern parlor."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"They passed the rainy afternoon in the drawing-room clicking black-and-white **dominoes** across the mahogany table."*

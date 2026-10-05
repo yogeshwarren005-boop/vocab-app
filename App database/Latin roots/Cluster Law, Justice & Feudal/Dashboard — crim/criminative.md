@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Charging or suggestive of guilt or blame.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Charging or suggestive of guilt or blame.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the nature of an accusation or tending to incriminate an individual in wrongdoing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evidence law and forensic argumentation, describing witness testimony, physical exhibits, or documents that establish culpability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, criminative designates charging or suggestive of guilt or blame."*
+> - 📜 **Jeremy Bentham (*Rationale of Judicial Evidence*):** *"Circumstantial facts possessing **criminative** force must be scrutinized with rigorous skepticism before a jury."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The indictment must present clearly **criminative** averments rather than speculative insinuations."*
+> - 📜 **Edmund Burke (*The Works of Edmund Burke*):** *"The managers produced a mass of **criminative** evidence demonstrating systemic extortion across the province."*

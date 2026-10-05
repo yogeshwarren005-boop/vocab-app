@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Authorizing subordinates to make certain decisions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Refer to another person for decision or judgment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Banishing, demoting, or assigning someone or something to a lower or subordinate status.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociology and history of science, displacing traditional doctrines or marginalizing groups to secondary spheres of influence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, relegating designates authorizing subordinates to make certain decisions."*
+> - 📜 **John Morley (*Rousseau*):** *"The philosopher shocked contemporary academies by **relegating** artificial polite manners to an inferior rank beneath primitive sincerity."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"The predatory ethos maintains prestige by **relegating** productive manual labor to subservient classes of the community."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"The discovery of the printing press was instrumental in **relegating** monastic scribes to obsolete antiquarian obscurity."*

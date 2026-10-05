@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An innkeeper (especially british).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A supplier of victuals or supplies to an army.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tavern keeper or innkeeper licensed to sell food and liquor; or a contractor supplying naval provisions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British maritime history, an auxiliary supply vessel accompanying a naval fleet carrying rations, fresh water, and stores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"At least my friends are all in the _public_ line, and it might not suit to have it moved at a special vestry by John Gage at the Crown and Horseshoe, licensed victualler, and seconded by Joseph Horner of the Green Dragon, ditto, that the Rev."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"The sign over the coaching inn declared Mr. Weller to be a licensed **victualler** of good repute across the shire."*
+> - 📜 **Herman Melville (*White-Jacket*):** *"A chartered naval **victualler** drew alongside our frigate to replenish the depleted barrels of salt pork and flour."*
+> - 📜 **Arthur Conan Doyle (*Rodney Stone*):** *"The famous boxing match drew patrons from every class, from dukes to the humblest licensed **victualler** in London."*

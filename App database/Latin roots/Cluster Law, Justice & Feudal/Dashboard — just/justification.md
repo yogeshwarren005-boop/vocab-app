@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something (such as a fact or circumstance) that shows an action to be reasonable or necessary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A statement in explanation of some action or belief.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of showing something to be right or reasonable; a valid defense or explanation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Christian systematic theology, the doctrine of divine reckoning of righteousness; in law, an affirmative defense negating wrongfulness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I hope, for my brother’s justification, he wrote this but as an essay, or taste of my virtue."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"And he has always said, ‘Mother, I will be; but you know me better than anybody else does, and you know I mean no harm—in short, mean nothing.’ All of which is very true, my dear, but is no justification."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Vholes and that Richard’s justification to himself would be sincerely this."*
+> - 📜 **King James Bible (*Romans*):** *"Therefore being justified by faith, we have peace with God through our Lord Jesus Christ, through whom we have obtained this holy **justification**."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"The preservation of property and life constitutes the sole rational **justification** for establishing civil government."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A plea of **justification** in an action of trespass sets forth that the defendant acted in execution of lawful civil process."*

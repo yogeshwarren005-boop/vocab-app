@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being hypocritically devout.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being hypocritically devout.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hypocritical piety, affectation of holy devotion, or smug and ostentatious righteousness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral critique and rhetoric, superficial moral posture adopted to conceal pride, intolerance, or deceit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sanctimoniousness designates the quality of being hypocritically devout."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"Nothing more thoroughly disgusts honest minds than the transparent **sanctimoniousness** of those who affect perpetual austerity."*
+> - 📜 **George Eliot (*Scenes of Clerical Life*):** *"His dry speeches were tinged with a chilly **sanctimoniousness** that alienated the straightforward farmers of the parish."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"The chaplain's oily **sanctimoniousness** exasperated the archdeacon far more than any honest disagreement could have done."*

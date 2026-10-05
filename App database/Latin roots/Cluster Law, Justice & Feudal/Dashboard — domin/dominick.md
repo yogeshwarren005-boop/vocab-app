@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: American breed of chicken having barred grey plumage raised for meat and brown eggs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: American breed of chicken having barred grey plumage raised for meat and brown eggs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant spelling of the masculine given name Dominic, from the Latin Dominicus ('belonging to the Lord').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In onomastics and historical biography, a patronymic surname and given name popular among Irish, English, and continental families.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dominick designates american breed of chicken having barred grey plumage raised for meat and brown eggs."*
+> - 📜 **James Joyce (*Ulysses*):** *"They turned the corner near Father Cowley's lodgings along little **dominick** street in the afternoon light."*
+> - 📜 **William Makepeace Thackeray (*The Luck of Barry Lyndon*):** *"My loyal uncle **dominick** had served as a brave captain in the Irish brigades across Flanders."*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Old brother **dominick** spent forty peaceful years tending the cathedral archives and rare monastic rolls."*

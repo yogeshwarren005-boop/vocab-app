@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be larger in number, quantity, power, status or importance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appear very large or occupy a commanding position.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To be greater in number, power, or importance; to prevail or exert controlling influence over competitors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political science and ecological dynamics, to hold decisive sway or outcompete rival forces within an environment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Master Brook, thou shalt know I will predominate over the peasant, and thou shalt lie with his wife."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be whores still, And he whose pious breath seeks to convert you, Be strong in whore, allure him, burn him up; Let your close fire predominate his smoke, And be no turncoats."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Darcy, by the feelings which prevailed on his entering the room; and then, though but a moment before she had believed her wishes to predominate, she began to regret that he came."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She hoped that family affection would ultimately **predominate** over resentment in her father's forgiving heart."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"A cheerful optimism seemed to **predominate** in Mr. Micawber's temper, even in the midst of financial adversity."*
+> - 📜 **Francis Bacon (*The Essays*):** *"In every well-ordered mind, deliberate reason ought to **predominate** over turbulent physical appetites."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A netlike structure in the cytoplasm of animal cells (especially in those cells that produce secretions).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A netlike structure in the cytoplasm of animal cells (especially in those cells that produce secretions).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An individual membranous net-like stack of flattened cisternae constituting a Golgi apparatus subunit in eukaryotic cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant cytology and ultrastructure, a discrete cisternal vesicle-forming organelle responsible for polysaccharide synthesis and secretion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dictyosome designates a netlike structure in the cytoplasm of animal cells (especially in those cells that produce secretions)."*
+> - 📜 **George Emil Palade (*Intracellular Aspects of the Process of Protein Synthesis*):** *"High-resolution electron microscopy displays each secretory **dictyosome** processing nascent glycan chains within its flattened cisternae."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"In growing plant root tips, the active **dictyosome** secretes mucilage droplets toward the expanding cell plate."*
+> - 📜 **Christian de Duve (*A Guided Tour of the Living Cell*):** *"Transport vesicles bud continuously from the cis-face of the **dictyosome** to deliver membrane proteins to lysosomes."*

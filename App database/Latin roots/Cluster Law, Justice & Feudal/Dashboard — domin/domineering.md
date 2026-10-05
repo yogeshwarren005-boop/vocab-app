@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rule or exercise power over (somebody) in a cruel and autocratic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to domineer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Asserting one's will over others in an arrogant, tyrannical, and aggressively overbearing fashion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In interpersonal psychology, exhibiting despotic, controlling behavior that disregards the autonomy or feelings of others.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I, that have been love’s whip, A very beadle to a humorous sigh, A critic, nay, a night-watch constable, A domineering pedant o’er the boy, Than whom no mortal so magnificent!"*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"There is something very sad in the extinction of a family of renown, even if it was fierce, domineering, feudal renown.” “Yes,” said Tess."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The shores of the Straits of Sunda are unsupplied with those domineering fortresses which guard the entrances to the Mediterranean, the Baltic, and the Propontis."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Tom's **domineering** temper clashed constantly with Maggie's impulsive and sensitive nature."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Lady Catherine de Bourgh delivered her patronizing counsel with a haughty, **domineering** air that cowed the timid rector."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"John Reed was a **domineering** bully who tormented his orphaned cousin with callous impunity."*

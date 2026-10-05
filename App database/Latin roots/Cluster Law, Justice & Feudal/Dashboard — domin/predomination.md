@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being predominant over others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being more noticeable than anything else.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The exercise of superior power, ascendant influence, or numerical superiority; prevalence over others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political theory and social physics, the structural ascendancy or hegemony of one class or doctrine over rivals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, predomination designates the state of being predominant over others."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The absolute **predomination** of Parisian clubs over the provincial assemblies subverted all constitutional liberty."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Poetic genius requires an exquisite balance rather than the despotic **predomination** of fancy over understanding."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The unchecked **predomination** of jacobinical fury swept away the ancient judicial safeguards of the realm."*

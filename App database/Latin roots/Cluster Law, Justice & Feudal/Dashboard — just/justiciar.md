@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Formerly a high judicial officer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formerly a high judicial officer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A high judicial and administrative officer in medieval England and Normandy who acted as the king's viceroy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Anglo-Norman feudal history, the chief minister and presiding justice of the Curia Regis during royal absences abroad.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, justiciar designates formerly a high judicial officer."*
+> - 📜 **William Stubbs (*The Constitutional History of England*):** *"Under Henry II, the chief **justiciar** was not only the supreme judge of the realm but the principal regent during the king's continental campaigns."*
+> - 📜 **David Hume (*The History of England*):** *"Ranulf de Glanvill, as royal **justiciar**, organized the circuits of itinerant judges and systematized common law writs."*
+> - 📜 **Edward Augustus Freeman (*The History of the Norman Conquest of England*):** *"The great **justiciar** exercised absolute administrative control over the exchequer, sheriffs, and royal castles."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The office of senator.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The office of senator.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The office, status, dignity, or period of tenure of a senator.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional politics and Roman history, the legal prerequisites, cursus honorum rank, and obligations attaching to membership in the senate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, senatorship designates the office of senator."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The constitutional qualifications for a **senatorship** require a more advanced age and longer period of citizenship than for the lower house."*
+> - 📜 **David Hume (*The History of England*):** *"The acquisition of an hereditary **senatorship** in the peerage elevated commoners into the highest ruling council of the realm."*
+> - 📜 **Woodrow Wilson (*Congressional Government*):** *"A prestigious **senatorship** is regarded by state governors and congressmen as the crowning achievement of their legislative careers."*

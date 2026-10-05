@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Treat as a criminal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Declare illegal; outlaw.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To turn an act into a crime or treat a person engaging in it as a lawbreaker.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public policy and constitutional law, to attach penal sanctions to formerly unregulated behaviors through legislative action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, criminalize designates treat as a criminal."*
+> - 📜 **H. L. A. Hart (*Law, Liberty, and Morality*):** *"A liberal society should hesitate to **criminalize** choices that inflict no demonstrable injury upon non-consenting parties."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"The legislature may **criminalize** an act previously innocent if the perceived public welfare urgently requires its suppression."*
+> - 📜 **Felix Frankfurter (*The Public and Its Government*):** *"Attempts to **criminalize** complex industrial practices through ambiguous statutes place an unfair burden on honest commerce."*

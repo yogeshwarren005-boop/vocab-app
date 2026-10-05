@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a victim of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Punish unjustly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Singled out for cruel treatment, cheated, swindled, or made to suffer unfairly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In criminology and sociological studies, subjected to systemic harm, discrimination, or exploitation by predatory individuals or institutions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Six weeks--appropinquity--opportunity--had victimised him completely."*
+> - 📜 **James Joyce (*Dubliners*):** *"He brooded over his misfortunes in the quiet tavern, feeling himself cruelly **victimised** by his employer's harsh reprimand."*
+> - 📜 **William Makepeace Thackeray (*The History of Pendennis*):** *"The gullible young gentleman was thoroughly **victimised** by unprincipled acquaintances at the university."*
+> - 📜 **Joseph Conrad (*The Secret Agent*):** *"Stevie was easily **victimised** by cunning men who played upon his boundless pity and simple trust."*

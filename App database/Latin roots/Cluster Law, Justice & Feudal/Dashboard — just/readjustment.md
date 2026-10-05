@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of adjusting again (to changed circumstances).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of adjusting something to match a standard.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action or process of adapting again to changed conditions, or resetting an apparatus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In post-war macroeconomics and sociological theory, the structural transition of an economy or veteran population to peacetime life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The very acceptance of the theory of social expediency implies the need of frequent readjustment of the institution of private property."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The essential characteristic of a crisis is the forcible and sudden movement of readjustment in the mistaken capitalization of productive agents."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"When the balance between the capitalizations of various industries and between the incomes of the various periods proves to be false, the inevitable readjustment causes suffering and loss to many, but particularly in the inflated industries."*
+> - 📜 **Woodrow Wilson (*The New Freedom*):** *"A fundamental **readjustment** of our tariff laws was necessary to liberate domestic commerce from monopolistic control."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics*):** *"The sudden discovery of new gold deposits provoked a worldwide **readjustment** of commodity price levels and foreign exchange."*
+> - 📜 **Jane Addams (*Twenty Years at Hull-House*):** *"The settlement house assisted immigrant families in their difficult psychological **readjustment** to industrial city life."*

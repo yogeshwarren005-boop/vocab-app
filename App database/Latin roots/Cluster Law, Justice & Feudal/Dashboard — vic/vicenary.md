@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or based on 20.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or based on 20.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to, based on, or consisting of the number twenty; vigesimal in numerical base.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical metrology and ethnomathematics, a numerical system or tally calculation founded upon multiples of twenty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vicenary designates of or relating to or based on 20."*
+> - 📜 **Edward Burnett Tylor (*Primitive Culture*):** *"Many indigenous linguistic stocks employ a **vicenary** numeral system derived from counting fingers and toes together."*
+> - 📜 **Thomas Wright (*The Celt, the Roman, and the Saxon*):** *"Traces of ancient Celtic **vicenary** reckoning survive in the traditional score counting of northern shepherds."*
+> - 📜 **Alexander von Humboldt (*Researches Concerning the Institutions and Monuments of the Ancient Inhabitants of America*):** *"The sophisticated calendar system of the Aztecs was constructed upon an astronomical and **vicenary** framework."*

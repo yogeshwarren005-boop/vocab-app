@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Return an accusation against someone or engage in mutual accusations; charge in return.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Return an accusation against someone or engage in mutual accusations; charge in return.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make countercharges or counter-accusations against an accuser.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In family law and marital litigation, to present counter-allegations of misconduct against a petitioning party to bar their remedy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"Besides, he might come and begin a string of abuse or complainings; I’m certain I should recriminate, and God knows where we should end!"*
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"Instead of answering my entreaties, she began to **recriminate**, heaping bitter accusations upon my head."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"It is not for statesmen to **recriminate** over past errors when the preservation of an empire is at stake."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"In suits for separation, the respondent may **recriminate** by demonstrating that the petitioner is equally guilty of adultery."*

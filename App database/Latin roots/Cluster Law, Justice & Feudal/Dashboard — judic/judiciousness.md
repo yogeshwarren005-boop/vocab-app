@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Good judgment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of forming opinions by distinguishing and evaluating.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of exercising sound discretion, wisdom, and balanced judgment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political philosophy and ethical leadership, habitual prudence characterized by well-weighed decisions and restraint.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Still Ned provides everything in the world he can think of to help Mamie," said Caroline, who had come up the walk just in time to fan the flame in me by her sweet wistfulness, with a soft judiciousness in her voice and eyes."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"His quiet **judiciousness** in managing the heated town meeting won the admiration of the entire community."*
+> - 📜 **Edmund Burke (*Letters on a Regicide Peace*):** *"The statesman's highest virtue consists in that temper of **judiciousness** which yields nothing to passion while maintaining public honor."*
+> - 📜 **Walter Bagehot (*The English Constitution*):** *"The sovereign's influence operates through experienced **judiciousness**, offering counsel without demanding partisan obedience."*

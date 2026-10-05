@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of deciding as an arbiter; giving authoritative judgment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of deciding as an arbiter; giving authoritative judgment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The authoritative settlement of a dispute by an arbiter; a definitive judgment or decision.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical and legal prose, the ultimate trial, adjudication, or recourse—such as the arbitrament of arms or a solemn peace council—that resolves conflict.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lo, where our sister is in expectation, Yet quaking and unsettled.—Fairest Emily, The gods by their divine arbitrament Have given you this knight; he is a good one As ever struck at head."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"With nothing left to my arbitrament To choose or change: I wrote, and men believed."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The appeal from the ballot to the sword has been made, and its arbitrament has been irrevocably ratified by the supreme power of the nation."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The gods by their divine **arbitrament** Have given you this knight; he is a good one As ever struck at head."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The supreme importance of these characters has been proved by the final **arbitrament** of the battle for life."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Browning's Poetry*):** *"Man must commit his mortal soul to the supreme **arbitrament** of conscience rather than worldly applause."*

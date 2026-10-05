@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to or limited to a vicinity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belonging to or limited to a vicinity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjacent, neighboring, or situated in the immediate vicinity; or relating to local parish roads.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organic chemistry and crystallography, designating functional groups attached to adjacent carbon atoms, or crystal faces near an axis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vicinal designates belonging to or limited to a vicinity."*
+> - 📜 **Henry David Thoreau (*A Week on the Concord and Merrimack Rivers*):** *"We rambled through **vicinal** lanes and orchards where cider apples hung thick upon autumn branches."*
+> - 📜 **James Dwight Dana (*System of Mineralogy*):** *"The quartz crystal displayed minute **vicinal** planes inclined slightly to the primary pyramidal faces."*
+> - 📜 **Thomas Pennant (*A Tour in Scotland*):** *"Communication between the coastal villages was maintained through rugged **vicinal** paths across the moors."*

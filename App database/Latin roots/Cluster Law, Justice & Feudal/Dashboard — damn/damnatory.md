@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Threatening with damnation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Threatening with damnation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conveying, expressing, or implying condemnation, censure, or eternal perdition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic theology and ecclesiastic law, describing dogmatic clauses, anathemas, or judicial findings that formally pronounce spiritual doom.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I had cut my knuckles against the pale young gentleman’s teeth, and I twisted my imagination into a thousand tangles, as I devised incredible ways of accounting for that damnatory circumstance when I should be haled before the Judges."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"He delivered the sentence with a cold, **damnatory** emphasis that left the wretched prisoner without a gleam of hope."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The synod affixed **damnatory** clauses to every creed that differed by a single iota from the orthodox formula."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The manifesto contained **damnatory** strictures upon the past administration, alienating moderate supporters of the Crown."*

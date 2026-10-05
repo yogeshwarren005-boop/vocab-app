@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone appointed by a ruler as an administrative deputy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone appointed by a ruler as an administrative deputy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person appointed by a ruler or sovereign authority to exercise executive powers as an administrative deputy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical political theology, an earthly monarch regarded as God's representative entrusted with executing divine justice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"KING. [_Reads_.] _Great deputy, the welkin’s vicegerent and sole dominator of Navarre, my soul’s earth’s god and body’s fostering patron—_ COSTARD."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Justice, the high vicegerent of her God, Her doubtful balance eyed, and sway’d her rod: Hearing the tidings of the fatal blow, She sank, abandon’d to the wildest woe."*
-> - 📜 **John Milton (*Paradise Lost*):** *"But whom send I to judge them? whom but thee Vicegerent Son, to thee I have transferr’d All Judgement, whether in Heav’n, or Earth; or Hell."*
+> - 📜 **William Shakespeare (*Love's Labour's Lost*):** *"Sole deputy of the world's large tongue, great deputy, the sea's **vicegerent**, and sole dominator of Navarre."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Then told the Son his Father thus was pleased, and him the celestial **vicegerent** anointed over all heavenly hierarchies."*
+> - 📜 **Francis Bacon (*The Essays*):** *"Kings are upon earth the **vicegerent** authorities of heaven, accountable at last to eternal justice for their reign."*

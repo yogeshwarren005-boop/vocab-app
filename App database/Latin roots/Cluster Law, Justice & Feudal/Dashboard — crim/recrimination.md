@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mutual accusations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mutual accusations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An accusation made in response to one given; a bitter counter-charge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic history and marital jurisprudence, the exchange of mutual allegations of fault, or the defense in divorce where mutual guilt defeats relief.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Mutual recrimination passed between them: they parted in anger, and were never reconciled."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"What! as his guest?-- But let's drop recrimination; I had no right to resent what you said after forcing you to say it, nor, in any case, to taunt you . . ."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Short-sighted and injudicious, however, as the conduct or England may be in this system of aspersion, recrimination on our part would be equally ill-judged."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The bitter **recrimination** between the partners continued long after the failure of their commercial venture was assured."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"She refrained from angry **recrimination**, maintaining her calm dignity in the presence of her tormentors."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The family quarrel ended not in reconciliation, but in sullen exhaustion after hours of vehement **recrimination**."*

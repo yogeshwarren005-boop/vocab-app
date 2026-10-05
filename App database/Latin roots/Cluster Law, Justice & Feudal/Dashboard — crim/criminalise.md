@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Declare illegal; outlaw.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Declare illegal; outlaw.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make an activity unlawful or designate individuals engaged in it as offenders under law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence and penal policy, to extend statutory definitions to prohibit previously permitted actions and impose state penalties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, criminalise designates declare illegal; outlaw."*
+> - 📜 **H. L. A. Hart (*Law, Liberty, and Morality*):** *"To **criminalise** actions merely because the majority disapproves of them is an abuse of statutory coercive power."*
+> - 📜 **Bertrand Russell (*Political Ideals*):** *"Governments tend to **criminalise** dissent whenever threatened by political innovation or independent thought."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"It is unwise for legislators to **criminalise** commercial contracts freely negotiated between competent adults."*

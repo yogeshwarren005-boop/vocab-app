@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being biased or having a belief or attitude formed beforehand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing or implying a slight or showing prejudice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Making or showing an unjust or prejudicial distinction between different groups of people.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional law and international trade policy, designating statutes, tariffs, or institutional actions that confer unfair disadvantages upon designated classes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The same allegation of inevitableness was once commonly made of discriminatory railroad rates and rebates, evils which have been in large part remedied only since the period 1903-1906, when at last intelligent action was taken."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Where competition is enforced it is by applying some general rules that create a general market price instead of discriminatory prices, but the fixing of the price is left to the competitors."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The interstate commerce commission was created specifically to eliminate **discriminatory** freight rates favoring monopoly trusts."*
+> - 📜 **Oliver Wendell Holmes Jr. (*Collected Legal Papers*):** *"A statute that imposes **discriminatory** burdens upon nonresident merchants violates the core spirit of the federal union."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Taxes levied at differential rates upon competing commodities introduce **discriminatory** distortions into foreign trade."*

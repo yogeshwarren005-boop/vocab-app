@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With honesty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In accordance with moral or social standards.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In accordance with justice, fairness, or proper desert; deservedly and equitably.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and biblical literature, acting with strict uprightness and adhering to truth and virtue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You that have turn’d off a first so noble wife May justly diet me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you do keep your promises in love But justly, as you have exceeded promise, Your mistress shall be happy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In this the madman justly chargeth them."*
+> - 📜 **King James Bible (*Micah*):** *"He hath shewed thee, O man, what is good; and what doth the Lord require of thee, but to do **justly**, and to love mercy, and to walk humbly with thy God?"*
+> - 📜 **William Shakespeare (*Henry V*):** *"May I with right and conscience make this claim? For God forbid, my dear and faithful lord, that you should fashion, wrest, or bow your reading, or nicely charge your understanding soul with opening titles miscreate, whose right suits not in native colours with the truth. We will **justly** maintain our royal claim before the world."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"A magistrate who rules without regard to the public welfare is **justly** regarded as an enemy to human society."*

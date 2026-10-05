@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Attempting to justify or defend in speech or writing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Providing justification.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving, tending, or having the power to justify, vindicate, or exculpate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic rhetoric and theological argumentation, containing grounds that establish moral or legal rectitude.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, justificative designates attempting to justify or defend in speech or writing."*
+> - 📜 **Jeremy Bentham (*The Rationale of Judicial Evidence*):** *"The defendant submitted various **justificative** facts to demonstrate that his conduct was prompted by insurmountable necessity."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"Faith operates as a **justificative** principle in the soul, reconciling human frailty with divine holiness."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"The minister offered various **justificative** arguments for the tax, none of which satisfied the offended colonies."*

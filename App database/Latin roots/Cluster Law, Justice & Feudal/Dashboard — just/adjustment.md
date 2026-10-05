@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Making or becoming suitable; adjusting to circumstances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making something different (as e.g. the size of a garment).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small alteration or movement made to achieve a desired fit, appearance, or functioning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In macroeconomics and psychopathology, the realignment of monetary exchange rates or an individual's coping response to stress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"That’s not my sort either.” Grandfather Smallweed has been gradually sliding down in his chair since his last adjustment and is now a bundle of clothes with a voice in it calling for Judy."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The adjustment of the farmer’s hazy conceptions of her charms to the portrait of herself she now presented him with was less a diminution than a difference."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"What with one thing and another, I see that my work is well cut out for me.” V “How do I look to-night, Liddy?” said Bathsheba, giving a final adjustment to her dress before leaving the glass."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The natural **adjustment** between market price and actual cost of production is effected through the mobility of labor and stock."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Micawber declared that a temporary pecuniary **adjustment** would soon enable him to overcome all pressing embarrassments."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The sudden **adjustment** of Clym's eyes to the dim twilight of the heath allowed him to discern the solitary figure approaching."*

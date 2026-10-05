@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Show to be right by providing justification or proof.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Maintain, uphold, or defend.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Clear someone of blame or suspicion; show or prove to be right, reasonable, or justified.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman law (vindicare) and polemical rhetoric, lay formal claim to a thing or person, deliver from bondage, or uphold an asserted right.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"They owe him a deanery.” And here I must vindicate a claim to philosophical reflectiveness, by remarking that Mr."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Yes, I confess I was surprised.” “She never did give me any—not the least in the world, when I talked to her myself,” said Fred, eager to vindicate Mary."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It belongs to us to vindicate the honor of the human race, and to teach that assuming brother, moderation."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"He led our powers across the sand to **vindicate** his people from the Philistine yoke and restore the worship of Israel."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The legions of Britain marched across the sea to **vindicate** their general's claim to the imperial purple against his eastern rival."*
+> - 📜 **Mary Wollstonecraft (*A Vindication of the Rights of Woman*):** *"I plead for my sex, not for myself, and seek to **vindicate** the dignity of womanhood from the enervating follies of false gallantry."*

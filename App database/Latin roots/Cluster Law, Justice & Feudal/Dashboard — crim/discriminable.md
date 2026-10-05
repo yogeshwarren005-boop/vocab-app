@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being discriminated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being discriminated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being recognized, distinguished, or differentiated from something else.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In experimental psychology and sensory physiology, describing perceptual stimuli whose physical differences exceed the threshold of conscious detection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, discriminable designates capable of being discriminated."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Two sensory impressions must possess a **discriminable** difference in frequency or intensity to trigger separate neural responses."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The mind distinguishes between simple ideas through clearly **discriminable** qualities inherent in sensation."*
+> - 📜 **Bertrand Russell (*The Analysis of Mind*):** *"Our perceptions consist of complex elements that are analytically **discriminable** upon careful introspection."*

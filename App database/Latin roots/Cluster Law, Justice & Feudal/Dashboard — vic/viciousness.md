@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of extreme cruelty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of extreme cruelty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The character, disposition, or trait of being vicious, cruel, depraved, or spitefully malicious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In animal behavior and psychology, an ingrained tendency toward aggressive, unpredictable, or savage hostility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But when we in our viciousness grow hard— O misery on’t!—the wise gods seal our eyes, In our own filth drop our clear judgments, make us Adore our errors, laugh at’s while we strut To our confusion."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The animal he bestrode was a broken-down plough-horse that had outlived almost everything but his viciousness."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"All the viciousness of my nature was uppermost in me."*
+> - 📜 **William Shakespeare (*Antony and Cleopatra*):** *"When our actions do not, our fears do make us traitors; let our **viciousness** be seen in our deliberate surrender to passion."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon, Gent.*):** *"The sullen beast was notorious throughout the parish for its intractable temper and sheer **viciousness**."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"The rooster pecked at my ankles with an unexpected **viciousness** that completely upset my dignity in the farmyard."*

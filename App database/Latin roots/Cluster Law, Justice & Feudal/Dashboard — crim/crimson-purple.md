@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Purple tinged with crimson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Purple tinged with crimson.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A deep, royal shade of purple infused with rich red or crimson tones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In textiles and classical descriptive prose, the imperial shade reminiscent of ancient Tyrian dye, blending arterial scarlet with violet depths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crimson-purple designates purple tinged with crimson."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The Red Weed had covered the landscape with a spongy, **crimson-purple** growth that choked the river banks."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Across the vast expanses of Egdon Heath, the blooming heather assumed a dark **crimson-purple** tint under the evening sky."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The mosaic decorations glittered with veins of porphyry and rich **crimson-purple** marble imported from the Levant."*

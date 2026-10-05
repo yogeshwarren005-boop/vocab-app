@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Social control by dominating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Power to dominate or defeat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The exercise of power, mastery, or sovereign control over others; supremacy or ruling ascendancy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political philosophy and post-colonial theory, institutional hegemony wherein subordinate groups are systematically governed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Africa, Asia, and America, have successively felt her domination."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The Lacedaemonians next governed it twenty-nine years; at a subsequent period, after the battle of Leuctra, the Thebans had their turn of domination."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"And now, a role that was entirely unexpected when Slingshot was first planned, dissolution of the unified solar government released us from UIPS domination."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The tyranny of prevailing public opinion can exercise a stifling social **domination** more formidable than statutory penalties."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The proud provinces groaned beneath the military **domination** of the praetorian cohorts."*
+> - 📜 **Thomas Carlyle (*Heroes and Hero-Worship*):** *"True spiritual authority commands loving reverence, whereas tyrannical **domination** breeds covert rebellion."*

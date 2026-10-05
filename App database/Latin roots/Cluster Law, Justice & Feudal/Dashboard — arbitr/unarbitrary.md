@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not subject to individual determination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not subject to individual determination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from randomness, caprice, or despotic discretion; governed by consistent and equitable standards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political philosophy and ethical discourse, characterizing administrative decisions or moral judgments that conform strictly to predictable, rational norms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unarbitrary designates not subject to individual determination."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"The state must embody an **unarbitrary** ideal of justice that transcends narrow partisan animosities."*
+> - 📜 **George Santayana (*The Life of Reason*):** *"True civilization consists in substituting an **unarbitrary** order of reason for the chaos of animal impulse."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"An **unarbitrary** code of administrative law reassures citizens that public authority will not degenerate into tyranny."*

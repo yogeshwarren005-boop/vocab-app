@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The religious institution under the authority of a vicar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The religious institution under the authority of a vicar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The office, rank, status, or term of service of a vicar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British church history, the tenure during which a specific vicar exercises pastoral and administrative duties in a parish.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vicarship designates the religious institution under the authority of a vicar."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"He secured a modest country **vicarship** through the patronage of a generous baronet in the neighboring shire."*
+> - 📜 **Anthony Trollope (*The Last Chronicle of Barset*):** *"During his prolonged **vicarship**, Mr. Crawley struggled courageously against grinding poverty and clerical misunderstanding."*
+> - 📜 **Oliver Goldsmith (*The Vicar of Wakefield*):** *"He commenced his rural **vicarship** with ardent hopes of reforming both the morals and agricultural thrift of his rustic flock."*

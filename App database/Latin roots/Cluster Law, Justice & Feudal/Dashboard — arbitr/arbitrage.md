@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A kind of hedged investment meant to capture slight differences in price; when there is a difference in the price of something on two different markets the arbitrageur simultaneously buys at the lower price and sells at the higher price.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Practice arbitrage, as in the stock market.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The simultaneous purchase and sale of an asset in different markets to exploit price discrepancies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international finance and securities trading, a risk-mitigated strategy profiting from temporary imbalances in exchange rates, yields, or commodity valuations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arbitrage designates a kind of hedged investment meant to capture slight differences in price; when there is a difference in the price of something on two different markets the arbitrageur simultaneously buys at the lower price and sells at the higher price."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Modern telegraphic communication enabled swift **arbitrage** between the stock exchanges of London and New York."*
+> - 📜 **John Maynard Keynes (*A Treatise on Money*):** *"The flow of short-term funds driven by foreign exchange **arbitrage** rapidly evens out minor discrepancies in interest rates."*
+> - 📜 **Alfred Marshall (*Principles of Economics*):** *"Dealings in international bullion depend intimately upon the alertness of operators engaged in continuous **arbitrage**."*

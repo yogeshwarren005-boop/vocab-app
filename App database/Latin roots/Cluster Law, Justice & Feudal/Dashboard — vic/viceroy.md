@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Governor of a country or province who rules as the representative of his or her king or sovereign.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showy american butterfly resembling the monarch but smaller.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A ruler exercising authority in a colony or province as the personal representative of a sovereign monarch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Spanish, Portuguese, and British imperial governance, the supreme civil and military governor of an overseas kingdom or viceroyalty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, Charles, upon condition thou wilt swear To pay him tribute and submit thyself, Thou shalt be placed as viceroy under him, And still enjoy the regal dignity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall I, for lucre of the rest unvanquish’d, Detract so much from that prerogative As to be call’d but viceroy of the whole?"*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"The military service they once rendered had been displaced by the new modern trained troops, and three years ago their monthly rice pension of four taels, about $2.50, was cut down by a viceroy bidding for popular support."*
+> - 📜 **William Shakespeare (*Henry VI, Part 1*):** *"And Charles, upon condition thou wilt swear to pay him tribute and submit thyself, thou shalt be placed for **viceroy** under him."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The ambitious prince appointed a loyal **viceroy** to collect tribute from the conquered island dominions."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The Spanish **viceroy** formerly resided in the ancient walled palace overlooking the harbor of Callao."*

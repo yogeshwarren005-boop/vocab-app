@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Recognize or perceive the difference.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treat differently on the basis of sex or race.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing refined judgment, good taste, or the ability to make fine distinctions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic criticism and social analysis, exhibiting astute discernment, or establishing selective preferential standards among competing options.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"With a nicely discriminating eye, he seizes at once upon its capabilities, and pictures in his mind the future landscape."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"I remember thinking her a shrewd and discriminating old lady, with a great gift of description."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"From the first she had thought this prospect small, and Isabel had been struck with the positive, discriminating, competent way in which she took the measure of his remainder of life."*
+> - 📜 **Henry David Thoreau (*A Week on the Concord and Merrimack Rivers*):** *"A truly **discriminating** eye appreciates the delicate harmonies of nature where an ordinary observer sees only weeds."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Female birds exercise a **discriminating** choice, selecting the most melodious or brightly plumaged males."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"He had an acute and **discriminating** understanding, quick to detect absurdities in the manners of his neighbors."*

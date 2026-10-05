@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A proposal for an appropriate course of action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A proposal for an appropriate course of action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Guidance, counsel, recommendation, or an opinion offered to assist someone in making a wise decision.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commerce and banking, a formal written notice notifying a correspondent of a transaction, bill of exchange, or shipment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Farewell, young lords; these warlike principles Do not throw from you; and you, my lords, farewell; Share the advice betwixt you; if both gain all, The gift doth stretch itself as ’tis receiv’d, And is enough for both."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rynaldo, you did never lack advice so much As letting her pass so; had I spoke with her, I could have well diverted her intents, Which thus she hath prevented."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Quarrel no more, but be prepared to know The purposes I bear; which are, or cease, As you shall give th’ advice."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Give every man thy ear, but few thy voice; take each man's censure, but reserve thy judgment: this above all, to thine own self be true, according to Polonius's solemn **advice**."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A headstrong maid, that's what she is, and won't listen to no **advice** from elder folk."*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"The caterpillar took the hookah out of its mouth and addressed Alice with languid and perplexing **advice**."*

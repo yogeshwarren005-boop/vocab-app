@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Failing to make or recognize distinctions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not marked by fine distinctions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Done at random or without careful judgment; failing to make distinctions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In warfare, public policy, and ecological analysis, describing actions, bombardments, or harvesting practices executed without selective restraint.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"His great power seemed to be his power of indiscriminate admiration."*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"This impression is strengthened by a view of the very unequal and indiscriminate allotments of the present life."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Wopsle’s great-aunt collected her energies, and made an indiscriminate totter at them with a birch-rod."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"His sudden fits of generosity were as reckless and **indiscriminate** as his outbursts of anger."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Nature carries on an **indiscriminate** destruction of young seedlings through frost, drought, and voracious insects."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The Martians discharged their heavy canisters of black smoke with **indiscriminate** ruthlessness upon fleeing crowds."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not discriminating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not discriminating.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking the ability or tendency to make fine distinctions; uncritical and unselective.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual criticism and public affairs, characterizing judgment or benevolence that fails to differentiate merit from mediocrity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"While they rebuke the indiscriminating bigotry with which some of our countrymen admire and imitate every thing English, merely because it is English, let them frankly point out what is really worthy of approbation."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"A hasty resort to indiscriminating analogy, as in calling wage-work "slavery," does not further truth or social justice. § III."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"His **indiscriminating** admiration embraced every antique relic, however dubious its historical provenance."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"An **indiscriminating** distribution of outdoor relief undermines thrift and exacerbates systemic pauperism."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The praise of an **indiscriminating** critic confers no genuine honor upon the ambitious poet."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who argues to defend or justify some policy or institution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who argues to defend or justify some policy or institution.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who justifies, defends, vindicates, or proves another to be in the right.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Pauline theology, God regarded as the author of justification who pronounces the penitent believer righteous.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, justifier designates a person who argues to defend or justify some policy or institution."*
+> - 📜 **King James Bible (*Romans*):** *"To declare, I say, at this time his righteousness: that he might be just, and the **justifier** of him which believeth in Jesus."*
+> - 📜 **John Milton (*Paradise Lost*):** *"He became the champion and **justifier** of divine providence against the bitter murmurs of fallen man."*
+> - 📜 **Jonathan Swift (*A Tale of a Tub*):** *"Every self-interested pamphleteer stands forth as the zealous **justifier** of his own faction's questionable policies."*

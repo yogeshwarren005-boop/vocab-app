@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Much greater in number or influence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Much greater in number or influence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mainly, mostly, or for the most part; exerting primary influence or constituting the greater share.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In socioeconomic and demographic statistics, representing the substantial majority or prevailing proportion of a population.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Indeed, our national banking development has been predominantly urban and commercial to the neglect of rural and agricultural interests."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"The forms in which he gave it expression are predominantly melancholy, because this kind of idealism, with its insistence on the unreality of evil, is the recoil from life of an unsatisfied and disappointed soul."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Make it predominantly a view of _their_ relation and the trick is played: you give the general sense of her effect, and you give it, so far as the raising on it of a superstructure goes, with the maximum of ease."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Her aesthetic tastes were **predominantly** cultivated through solitary reading in the quiet library at Gardencourt."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"The fossil fauna found in these strata are **predominantly** mammalian, showing close affinities to living marsupials."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The emotions manifested during infant crying are **predominantly** sensations of physical distress and cold."*

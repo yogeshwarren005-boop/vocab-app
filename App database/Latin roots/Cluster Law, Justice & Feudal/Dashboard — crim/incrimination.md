@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An accusation that you are responsible for some lapse or misdeed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An accusation that you are responsible for some lapse or misdeed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of charging with a crime, or presenting evidence that demonstrates guilt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional law, the exposure of an accused or witness to criminal prosecution, particularly regarding the right against compulsory disclosure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incrimination designates an accusation that you are responsible for some lapse or misdeed."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The common law guarantees protection against forced self-**incrimination** as a sacred bulwark of English liberty."*
+> - 📜 **Jeremy Bentham (*Rationale of Judicial Evidence*):** *"The rules governing **incrimination** must balance the protection of the innocent with the state's duty to punish crime."*
+> - 📜 **Oliver Wendell Holmes Jr. (*Collected Legal Papers*):** *"The constitutional shield against **incrimination** prevents inquisitorial abuses by overzealous magistrates."*

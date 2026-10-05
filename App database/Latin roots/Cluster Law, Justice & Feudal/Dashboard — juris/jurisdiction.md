@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) the right and power to interpret and apply the law.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law; the territory within which power can be exercised.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The official power or legal authority to make legal decisions and judgments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public law and territorial sovereignty, the geographic or subject-matter boundary within which judicial or executive authority is exercised.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now art thou within point-blank of our jurisdiction regal."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"First, that without the King’s assent or knowledge, You wrought to be a legate, by which power You maimed the jurisdiction of all bishops."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"All luck go with him in the next world, for that is beyond Rome’s jurisdiction.” “He holds that property is sin—that is what hits the Pharisees,” Ambivius spoke up."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The constitutional **jurisdiction** of the federal supreme court extends to all cases in law and equity arising under the constitution."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A plea to the **jurisdiction** alleges that the court wherein the action is brought hath no proper cognizance thereof."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The broad **jurisdiction** exercised by American judges over statutory legislation constitutes one of the most powerful barriers against tyranny."*

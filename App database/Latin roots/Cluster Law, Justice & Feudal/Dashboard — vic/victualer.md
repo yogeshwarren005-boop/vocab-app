@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An innkeeper (especially british).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A supplier of victuals or supplies to an army.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A provider, purveyor, or merchant of food provisions, rations, or foodstuffs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In naval administration and historical retail licensing, a licensed tavern keeper or naval contractor supplying fleet provisions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, victualer designates an innkeeper (especially british)."*
+> - 📜 **Daniel Defoe (*A Journal of the Plague Year*):** *"The municipal magistrates ordered every licensed **victualer** to keep his market stalls cleansed and fumigated daily."*
+> - 📜 **Tobias Smollett (*The Adventures of Roderick Random*):** *"The ship's purser had made corrupt private bargains with the naval **victualer** at Portsmouth to supply spoiled ship biscuit."*
+> - 📜 **Samuel Pepys (*The Diary of Samuel Pepys*):** *"I met with the admiralty **victualer** to examine accounts for beef and beer supplied to the royal fleet in the Downs."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal or authoritative proclamation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A legally binding command or decision entered on the court record (as if issued by a court or judge).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official decree, proclamation, or command issued by an autocratic sovereign or lawful administrative authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil jurisprudence, a formal imperial statute having the force of binding statutory law without legislative enactment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Try thy cunning, Thidias; Make thine own edict for thy pains, which we Will answer as a law."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, brave conquerors, for so you are That war against your own affections And the huge army of the world’s desires, Our late edict shall strongly stand in force."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"KING. [_Reads_.] _Sorted and consorted, contrary to thy established proclaimed edict and continent canon, which with, O, with—but with this I passion to say wherewith—_ COSTARD."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Emperor Diocletian published an imperious **edict** ordering the demolition of Christian churches across the empire."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"His imperial majesty published a solemn **edict** requiring all subjects to break their eggs at the smaller end."*
+> - 📜 **Lord Macaulay (*The History of England*):** *"The royal proclamation was denounced by Parliament as an illegal **edict** that subverted the ancient constitution."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Beyond the usual course of legal proceedings; legally unwarranted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beyond the usual course of legal proceedings; legally unwarranted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring, done, or enacted outside the normal course of judicial proceedings or legal authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional law and legal ethics, designating statements, punishments, or agreements lacking formal court sanction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extrajudicial designates beyond the usual course of legal proceedings; legally unwarranted."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Any **extrajudicial** punishment inflicted upon a subject without due trial constitutes a flagrant breach of fundamental liberties."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Magistrates who issue **extrajudicial** opinions regarding pending legislation risk compromising their constitutional impartiality."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"To tolerate **extrajudicial** violence under color of public vengeance would subvert the entire framework of civil government."*

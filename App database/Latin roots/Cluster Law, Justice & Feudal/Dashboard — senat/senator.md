@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a senate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a senate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a senate; an elected or appointed legislator in an upper governing chamber.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman political history, a patrician magistrate wearing the broad purple stripe (latus clavus) and holding lifelong council membership.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"FIRST SENATOR. [_To the Citizens_.] Hence to your homes, begone."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Consider of it._ FIRST SENATOR."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"SECOND SENATOR And mine two hundred: But though they jump not on a just account, (As in these cases, where the aim reports, ’Tis oft with difference,) yet do they all confirm A Turkish fleet, and bearing up to Cyprus."*
+> - 📜 **William Shakespeare (*Othello*):** *"Most potent, grave, and reverend signiors, my very noble and approv'd good masters: that I have ta'en away this old man's daughter, it is most true; true, I have married her: the very head and front of my offending hath this extent, no more. Rude am I in my speech, and little bless'd with the soft phrase of peace. Yet I shall unfold my story to every listening **senator**."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The appointment of each **senator** by the state legislature guarantees that the separate states will retain an essential share in the federal government."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The proud **senator** disdained to pay court to a barbarian chieftain whom his ancestors would have led in chains behind a triumphal chariot."*

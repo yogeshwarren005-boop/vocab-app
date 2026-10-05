@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Moral weakness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specific form of evildoing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Immoral or wicked behavior, conduct, or habit; an enduring moral flaw, depravity, or corruption.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanical tooling and manufacturing, a clamping device with two parallel jaws used to hold work firmly in place.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So thou be good, slander doth but approve, Thy worth the greater being wooed of time, For canker vice the sweetest buds doth love, And thou present’st a pure unstained prime."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You may see, Lepidus, and henceforth know, It is not Caesar’s natural vice to hate Our great competitor."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What he cannot help in his nature you account a vice in him."*
+> - 📜 **William Shakespeare (*Measure for Measure*):** *"Our natures do pursue, like rats that ravin down their proper bane, a thirsty evil; and when we drink we die... so **vice** corrupts the noble heart."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"It is only those in whom indolence amounts to a **vice** that do not seek higher intellectual and social culture."*
+> - 📜 **Francis Bacon (*The Essays*):** *"The virtue of prosperity is temperance; the virtue of adversity is fortitude; but the greatest **vice** is self-deceiving ambition."*

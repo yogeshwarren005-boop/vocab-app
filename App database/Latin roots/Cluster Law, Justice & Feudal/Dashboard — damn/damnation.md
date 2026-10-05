@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of damning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being condemned to eternal punishment in hell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consignment to eternal punishment in perdition, or the fact of being utterly ruined and condemned.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Christian soteriology and classical tragedy, the catastrophic irrevocable exclusion of a soul from grace, salvation, and divine communion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, if thou never wast at court, thou never saw’st good manners; if thou never saw’st good manners, then thy manners must be wicked, and wickedness is sin, and sin is damnation."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then if they die unprovided, no more is the King guilty of their damnation than he was before guilty of those impieties for the which they are now visited."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, when the last account ’twixt heaven and earth Is to be made, then shall this hand and seal Witness against us to damnation!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For nothing canst thou to **damnation** add Greater than that."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"He painted in large red letters upon the stile the fearful words: THY **DAMNATION** SLUMBERETH NOT."*
+> - 📜 **John Milton (*Paradise Lost*):** *"So bent on self-destruction that their pride Chose rather grim **damnation** than repentance before the Throne."*

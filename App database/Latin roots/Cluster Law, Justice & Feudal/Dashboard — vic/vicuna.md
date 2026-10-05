@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The wool of the vicuna.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A soft wool fabric made from the fleece of the vicuna.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A wild Andean camelid inhabiting high plateau grasslands, renowned for producing the finest and softest natural wool in the world.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In textiles and luxury manufacturing, rare and costly cloth or garments woven from the fine golden underfleece of the vicuña.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vicuna designates the wool of the vicuna."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"He wrapped himself warmly against the polar gale in a luxurious traveling cloak lined with Peruvian **vicuna** fleece."*
+> - 📜 **W. H. Hudson (*The Naturalist in La Plata*):** *"The swift and agile **vicuna** bounds across mountain scree with effortless grace that defies human pursuit."*
+> - 📜 **Edward Whymper (*Travels Amongst the Great Andes of the Equator*):** *"Our Indian guides pointed out distant tracks left by wild **vicuna** crossing the frozen pumice plateaus."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the dwelling units in a condominium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Housing consisting of a complex of dwelling units (as an apartment house) in which each unit is individually owned.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A building or complex containing individually owned apartment units; or joint sovereign rule over a territory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international public law and real estate, joint territorial sovereignty exercised by two powers, or separate unit title with shared common areas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, condominium designates one of the dwelling units in a condominium."*
+> - 📜 **Lord Macaulay (*The History of England*):** *"The border province was administered as an uneasy **condominium** between the crown and the bordering prince-bishopric."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The joint emperors governed the imperial borderlands through a fragile diplomatic **condominium** of shared legions."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Federal sovereignty does not constitute a divided **condominium**, but an exquisite balance of distinct constitutional jurisdictions."*

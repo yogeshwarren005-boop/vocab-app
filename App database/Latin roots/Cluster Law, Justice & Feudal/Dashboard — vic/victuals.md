@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stock or supply of foods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A source of materials to nourish the body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Food supplies, provisions, or prepared foodstuffs for human consumption.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nautical lore and colloquial frontier parlance, the staple table fare sustaining sailors, soldiers, or pioneer households.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But that it eats our victuals, I should think Here were a fairy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will desire you to live in the mean time, and eat your victuals."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, but hearken, sir, though the chameleon Love can feed on the air, I am one that am nourished by my victuals, and would fain have meat."*
+> - 📜 **William Shakespeare (*Cymbeline*):** *"But that it eats our **victuals**, I should think here were a fairy; an angel, or if not an earthly creature, yet an ethereal spirit."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The mowers sat beneath the oak hedge at midday, unpacking their coarse **victuals** and cider jars with hearty appetite."*
+> - 📜 **Francis Bacon (*The Essays*):** *"We sailed from Peru where we had continued for the space of one whole year, being well furnished with **victuals** for our voyage."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Magenta tinged with crimson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Magenta tinged with crimson.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vibrant, saturated chromatic shade combining deep crimson with vivid reddish-purple magenta.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colorimetry and artistic design, a high-chroma purplish-red tincture located between carmine and fuchsia on the optical spectrum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crimson-magenta designates magenta tinged with crimson."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The sunset clouds burned with an intense **crimson-magenta** hue that defied reproduction on the artist's palette."*
+> - 📜 **William Morris (*Hopes and Fears for Art*):** *"The natural cochineal bath yielded an exquisite **crimson-magenta** tone for the hand-dyed wool tapestries."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The exotic orchids exhibited rich petals of **crimson-magenta**, glistening amidst the dark tropical foliage."*

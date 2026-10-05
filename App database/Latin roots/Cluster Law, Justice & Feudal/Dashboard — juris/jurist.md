@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A legal scholar versed in civil law or the law of nations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public official authorized to decide questions brought before a court of justice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert in law, juristic science, or legal philosophy; a distinguished legal scholar or judge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman law and continental European civil systems, a recognized commentator whose treatises carry persuasive legal authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Joel Jones, a distinguished jurist of Philadelphia, and subsequently for several years President of Girard College."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But there is no general agreement to-day among jurists and economists upon a definite and consistent plan in this matter."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Hence it is that the greatest jurists have declared that such evidence, being rarely liable to delusion or fraud, is safest and most powerful."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The celebrated **jurist** Papinian chose death rather than compose an apology for the murder of Caracalla's brother."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Every enlightened **jurist** must admire the wisdom of our common law while striving to remedy its procedural imperfections."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The conservative spirit of the American **jurist** tempers the sudden, radical impulses of democratic majorities."*

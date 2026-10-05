@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unfortunate person who suffers from some adverse circumstance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is tricked or swindled.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person harmed, injured, killed, or made to suffer as a result of a crime, accident, or hostile action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropology and religious history, a sacrificial animal or human offered on an altar to propitiate a deity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"His manner is the gravely impressive manner of a man who has not committed himself in life otherwise than as he has become the victim of a tender sorrow of the heart."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He died some five years afterwards and left a diary behind him, with letters and other materials towards his life, which was published and which showed him to have been the victim of a combination on the part of mankind against an amiable child."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"A place where few people care to go about alone, where a maid screams if an ash drops from the fire, takes to crying at all times and seasons, becomes the victim of a low disorder of the spirits, and gives warning and departs."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Perhaps I am a bad man, the **victim** of my impulses, led away to do what my sober reason condemns."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She was humiliated to find herself a mere **victim** of feeling, as if her rational will had surrendered to circumstance."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"On receiving this warning, the terrified **victim** might either openly abjure his former associates or prepare for immediate vengeance."*

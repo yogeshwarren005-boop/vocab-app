@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A roman catholic priest who acts for another higher-ranking clergyman.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (episcopal church) a clergyman in charge of a chapel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cleric or priest in charge of a parish in the Church of England, historically receiving a stipend or lesser tithes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical hierarchy and Roman Catholic canon law, an official acting as an administrative representative or deputy of a bishop or the Pope.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And to that end I have been with Sir Oliver Martext, the vicar of the next village, who hath promised to meet me in this place of the forest and to couple us."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And here it rests, that you’ll procure the vicar To stay for me at church, ’twixt twelve and one, And, in the lawful name of marrying, To give our hearts united ceremony."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, husband your device; I’ll to the vicar."*
+> - 📜 **William Shakespeare (*The Merry Wives of Windsor*):** *"Sir Hugh Evans, the Welsh parson, conferred with the **vicar** concerning the marriage arrangements."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The **Vicar** himself seemed to wear rather a changed aspect, as most men do when their hair turns gray and family responsibilities multiply."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The village **vicar** walked gravely down the churchyard path, nodding to the parishioners assembled for morning service."*

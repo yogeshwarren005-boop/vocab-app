@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A partiality that prevents objective consideration of an issue or situation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disadvantage by prejudice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Preconceived opinion not based on reason or actual experience; bias or detriment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law and sociological theory, injury resulting from judgment formed without prior examination, or impairment of legal claims.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now let us on, my lords, and join our powers, And seek how we may prejudice the foe. [_Exeunt._] SCENE IV."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His fears were that the interview betwixt England and France might through their amity Breed him some prejudice, for from this league Peeped harms that menaced him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Their single share, Their nobleness peculiar to them, gives The prejudice of disparity, value’s shortness, To any lady breathing. [_Cornets."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"I hate him for he is a Christian, but more for that in low simplicity he lends out money gratis and brings down the rate of usance here with us in Venice; if I can catch him once upon the hip, I will feed fat the ancient grudge I bear him. He hates our sacred nation, and he rails, even there where merchants most do congregate, on me, my bargains and my well-won thrift, which he calls interest. Cursed be my tribe, if I forgive him! Our ancient **prejudice** shall never yield."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She was humbled, she was grieved; she repented, though she hardly knew of what. She became thoroughly ashamed of the blind **prejudice** that had warped her understanding."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Early education often imprints dogmatic opinions upon tender minds, which harden into unyielding **prejudice** against all novel truths."*

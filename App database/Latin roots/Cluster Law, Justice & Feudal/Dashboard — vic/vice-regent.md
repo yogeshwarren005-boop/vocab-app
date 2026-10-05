@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A regent's deputy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A regent's deputy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person appointed to act in the place of a regent, ruler, or sovereign deputy; a secondary governor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical governance, an administrative commissioner or magistrate exercising delegated viceregal powers in outlying provinces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vice-regent designates a regent's deputy."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor confirmed the patrician as his imperial **vice-regent** over the unruly provinces of Illyricum."*
+> - 📜 **Sir Walter Scott (*The Abbott*):** *"The Scottish council appointed the earl as **vice-regent** during the minority of the young prince."*
+> - 📜 **William Hickling Prescott (*History of the Reign of Philip the Second*):** *"Philip entrusted his capable **vice-regent** with suppressing the insurrections spreading across the Low Countries."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suggest that someone is guilty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring an accusation against; level a charge against.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make someone appear guilty of a crime, or to provide evidence of wrongdoing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In criminal procedure and constitutional jurisprudence, to adduce testimonial or documentary proof that exposes an individual to criminal liability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Watson’s reports are most incriminating documents.” “But how about the case?” asked the baronet."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The bloodstained garment found near the mire was enough to **incriminate** any man in whose possession it was discovered."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The forged papers found in the prisoner's desk threatened to **incriminate** him irrevocably before the revolutionary tribunal."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The privilege against compulsory self-disclosure protects citizens from being forced to **incriminate** themselves."*

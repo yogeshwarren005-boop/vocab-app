@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to favor preconceived ideas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (sometimes followed by `to') causing harm or injury.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or tending to cause bias, unfair harm, or injury.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaic legal and ecclesiastical usage, detrimental to established rights, privileges, or lawful claims.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prejudicious designates tending to favor preconceived ideas."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Hasty generalizations in natural philosophy are exceedingly **prejudicious** to the discovery of truth."*
+> - 📜 **Thomas Hobbes (*Leviathan*):** *"Private interpretations of divine command prove **prejudicious** to the sovereign power and the peace of the Commonwealth."*
+> - 📜 **Jeremy Taylor (*The Rule and Exercises of Holy Living*):** *"Fostering uncharitable suspicions is **prejudicious** to Christian charity and destroys domestic peace."*

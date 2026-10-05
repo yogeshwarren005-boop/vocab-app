@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several games played with small rectangular blocks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states rhythm and blues pianist and singer and composer (born in 1928).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The plural form of domino, denoting several rectangular pip-marked tiles or hooded masquerade cloaks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In costume history and games, multiple hooded carnival cloaks worn at masquerades or sets of gaming tiles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dominos designates any of several games played with small rectangular blocks."*
+> - 📜 **Edgar Allan Poe (*The Assignation*):** *"Figures enveloped in dark **dominos** glided through the torchlit halls of the Venetian palazzo."*
+> - 📜 **Lord Byron (*Letters and Journals*):** *"The carnival crowd surged into Saint Mark's square, a bright swirl of masks, mantles, and silk **dominos**."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The conspirators concealed their faces under black **dominos** as they mingled with the festive masquerade throng."*

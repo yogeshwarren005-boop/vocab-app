@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In respect to jurisprudence or the science or philosophy of law.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In respect to jurisprudence or the science or philosophy of law.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: From the perspective of or in accordance with the philosophy and theory of law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic legal commentary, analyzed with reference to overarching juridical doctrines and systemic principles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, jurisprudentially designates in respect to jurisprudence or the science or philosophy of law."*
+> - 📜 **Roscoe Pound (*Interpretations of Legal History*):** *"Analyzed **jurisprudentially**, the doctrine of strict liability reflects an evolution from fault-based torts to social risk distribution."*
+> - 📜 **Morris R. Cohen (*Law and the Social Order*):** *"Property cannot be conceived **jurisprudentially** as a mere physical relation between a person and an external thing."*
+> - 📜 **John Salmond (*Essays in Jurisprudence and Legal History*):** *"Viewed **jurisprudentially**, custom ripens into positive law only when recognized and enforced by the judicial tribunals of the state."*

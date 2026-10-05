@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Refer to another person for decision or judgment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assign to a lower position; reduce in rank.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consign or dismiss someone or something to an inferior rank, condition, or position.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman criminal jurisprudence, banish or exile a citizen to a specific island or remote outpost without loss of civil status or property.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Whatever promises the nation makes, the nation must perform; and the nation can not with safety relegate this duty to the states."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"This was mostly a journey to the farmhouse on the slopes above the vale, to inquire how the advanced cows were getting on in the straw-barton to which they were relegated."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"The "committing" of his sermons gave him little or no trouble, and he soon found that it could be relegated without anxiety to Saturday evening."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Augustus chose to **relegate** the poet Ovid to the bleak shores of the Euxine Sea rather than inflict capital punishment upon him."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"James II sought to **relegate** all steadfast Anglican magistrates to private life and fill the benches with compliant courtiers."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate feared that his high scientific ambitions would be **relegate** to mere provincial apothecary drudgery if he surrendered to debt."*

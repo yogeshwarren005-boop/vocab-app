@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being holy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being holy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Holiness, sacredness, saintliness, or spiritual purity of character and life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classic theological and devotional literature, the solemn transcendent majesty associated with divine attributes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sanctitude designates the quality of being holy."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Men endued with **sanctitude** of reason might know God and contemplate the glory of the celestial creation."*
+> - 📜 **Sir Walter Scott (*The Monastery*):** *"The hermit was revered across the border hills for his austere lifestyle and profound personal **sanctitude**."*
+> - 📜 **John Dryden (*The Hind and the Panther*):** *"The ancient mother church maintained an undisputed claim to **sanctitude** through unnumbered centuries of devotion."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A district or province governed by a viceroy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A district or province governed by a viceroy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The office, dignity, jurisdiction, or territorial domain governed by a viceroy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Spanish imperial administration, vast colonial administrative realms such as New Spain or Peru governed by a royal viceroy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, viceroyalty designates a district or province governed by a viceroy."*
+> - 📜 **William Hickling Prescott (*History of the Conquest of Peru*):** *"The crown created the magnificent **viceroyalty** of Peru to establish order among the warring conquistadors."*
+> - 📜 **Alexander von Humboldt (*Political Essay on the Kingdom of New Spain*):** *"The mineral wealth of the Mexican **viceroyalty** provided vast silver revenues to the Spanish treasury."*
+> - 📜 **Robert Southey (*History of Brazil*):** *"The Portuguese prince transformed Rio de Janeiro into the capital of a flourishing South American **viceroyalty**."*

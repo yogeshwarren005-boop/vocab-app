@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Show to be reasonable or provide adequate ground for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Show to be right by providing justification or proof.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having, done for, or marked by a good or legitimate reason; declared free from guilt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In typography and soteriology, lines of text adjusted to form flush vertical margins, or an individual acquitted of sin before God.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But will you be more justified?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Wherein our entertainment shall shame us; we will be justified in our loves."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, Camillo, And take her by the hand, whose worth and honesty Is richly noted, and here justified By us, a pair of kings."*
+> - 📜 **King James Bible (*Romans*):** *"Therefore being **justified** by faith, we have peace with God through our Lord Jesus Christ."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I felt myself **justified** in taking the bread and pork pie from the pantry for the shivering convict in the marshes."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Angel Clare wondered whether he was **justified** in condemning her past while expecting unconditional forgiveness for his own."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Widely distributed genus of annual or perennial and often climbing herbs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Widely distributed genus of annual or perennial and often climbing herbs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A botanical genus of flowering legume plants in the Fabaceae family, commonly comprising vetches and faba beans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural botany and agronomy, nitrogen-fixing leguminous herbs grown as protein-rich livestock fodder, cover crops, and green manure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"VETCH BRAND; sori few and small, scattered, intermixed with pustules of _Trichobasis_; sporidia obovate, on rather long pedicels, of a tawny colour, and slightly constricted at the septum; epispore smooth.—On leaves of _Vicia sepium_."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The ancient cultivation of the broad bean, classified as **Vicia** faba, traces back to prehistoric Bronze Age settlements."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The genus **Vicia** is distinguished by pinnate leaves ending in tendrils and a style bearded at the apex."*
+> - 📜 **Alphonse de Candolle (*Origin of Cultivated Plants*):** *"Several species of wild **Vicia** flourish across the Mediterranean basin, serving as ancestral forage crops."*

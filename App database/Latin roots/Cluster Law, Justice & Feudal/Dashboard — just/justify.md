@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Show to be reasonable or provide adequate ground for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Show to be right by providing justification or proof.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Show or prove to be right or reasonable; provide a good explanation or defense for.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In printing, theology, and civil law, align text to flush margins, pardon sin, or show sufficient bail to satisfy court security.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"More particulars Must justify my knowledge."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I cannot justify whom the law condemns. [_Exeunt Duchess and the other prisoners, guarded._] Mine eyes are full of tears, my heart of grief."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let be called before us That gentleman of Buckingham’s; in person I’ll hear his confessions justify, And point by point the treasons of his master He shall again relate."*
+> - 📜 **John Milton (*Paradise Lost*):** *"That to the height of this great argument I may assert Eternal Providence, and **justify** the ways of God to men."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"I here could pluck his Highness' frown upon you, and **justify** you traitors; at this time I will tell no tales."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Men seek knowledge from an earnest desire to **justify** the dignity of the human mind and benefit mankind."*

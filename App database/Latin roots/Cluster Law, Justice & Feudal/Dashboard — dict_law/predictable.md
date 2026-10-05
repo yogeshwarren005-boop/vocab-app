@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being foretold.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being foretold.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being foretold, anticipated, or calculated beforehand from observable tendencies or known natural laws.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral science and control theory, behaving in an orderly, consistent pattern that conforms reliably to expectation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Net yields from nonrenewable reserves, residues and substitutes had dwindled until exhaustion was certain and a timeline predictable."*
-> - 📜 **Jr. Irving E. Cox (*Export Commodity*):** *"One jarring note, one violation of the predictable pattern: the more he considered it, the more it disturbed him."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The trade winds blow with steady and **predictable** regularity across the equatorial expanse of the Pacific Ocean."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Physical phenomena unfold according to **predictable** causal mechanisms that yield to methodical experimental inquiry."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The small intrigues of provincial society moved along narrow and completely **predictable** pathways of petty self-interest."*

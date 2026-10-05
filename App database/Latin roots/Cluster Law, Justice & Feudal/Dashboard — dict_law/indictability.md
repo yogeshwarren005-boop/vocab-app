@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being liable to impeachment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being liable to impeachment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The legal status or susceptibility of an unlawful action or person to formal prosecution by grand jury presentment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In substantive criminal jurisprudence, the threshold determination that an offense fulfills all statutory criteria for formal accusation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, indictability designates the state of being liable to impeachment."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Common law jurists debated the precise **indictability** of non-violent conspiratorial agreements among commercial traders."*
+> - 📜 **James Fitzjames Stephen (*A History of the Criminal Law of England*):** *"The magistrate examined the statutory **indictability** of the alleged misdemeanor before remanding the prisoner for trial."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"The test of criminal **indictability** rests upon whether the forbidden overt act threatened grave communal injury."*

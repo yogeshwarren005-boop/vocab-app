@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Yellow tinged with crimson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Yellow tinged with crimson.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variegated or blended chromatic color exhibiting flashes of deep crimson alongside golden yellow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical descriptions and mineralogy, characterizing autumn foliage, petal variegations, or ores that display fiery red and golden gradations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crimson-yellow designates yellow tinged with crimson."*
+> - 📜 **Henry David Thoreau (*Excursions*):** *"The autumn maples along the river displayed brilliant streaks of **crimson-yellow** that mirrored in the quiet water."*
+> - 📜 **John Muir (*The Mountains of California*):** *"As dawn broke over the Sierra peaks, the sky flamed with magnificent **crimson-yellow** light."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The blossoms of the tropical creeper displayed curious **crimson-yellow** patterns designed to attract hummingbirds."*

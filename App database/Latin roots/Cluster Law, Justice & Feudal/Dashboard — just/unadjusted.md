@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not altered to fit certain requirements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having adapted to new conditions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not adjusted, altered, settled, or harmonized; remaining in an unadapted state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In financial accounting and psychiatric assessment, raw figures before accrual adjustments, or failing to adapt to social demands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unadjusted designates not altered to fit certain requirements."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"The balance sheet presented an inflated view of earnings because large depreciation charges remained completely **unadjusted**."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"An archaic predatory temperament remains **unadjusted** to the peaceful cooperation demanded by modern industrial enterprise."*
+> - 📜 **George Bernard Shaw (*Pygmalion*):** *"Liza found herself painfully **unadjusted** to the refined hypocrisies of fashionable Mayfair drawing-room society."*

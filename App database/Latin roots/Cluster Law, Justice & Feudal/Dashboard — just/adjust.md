@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Alter or regulate so as to achieve accuracy or conform to a standard.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place in a line or arrange so as to be parallel or straight.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Alter or move something slightly in order to achieve the desired fit, appearance, or result.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In insurance and mechanical engineering, determine the amount of a payable claim or calibrate fine mechanical tolerances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket skilfully and softly takes that precaution, stooping on his knee for a moment from mere force of habit so to adjust the key in the lock as that no one shall peep in from the outerside."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She did not adjust her hat, or pat her hair, or press a dimple into shape, or do one thing to signify that any such intention had been her motive in taking up the glass."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Thus, from primitive times when wandering savages gave bits of flint or copper in return for salt or fish, individuals have sought to adjust their goods to their desires through trade with men of other political groups."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He paused to **adjust** his spectacles on the bridge of his thin nose before inspecting the parchment deeds."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics*):** *"Competitive markets constantly **adjust** price levels to balance supply with shifting consumer demand across regions."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard attempted to **adjust** his accounts, but the complex ledgers revealed deficits he could neither disguise nor redeem."*

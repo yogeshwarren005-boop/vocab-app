@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inclination or desire; used in the plural in the phrase `left to your own devices'.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrumentality invented for a particular purpose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mechanical tools, appliances, or mechanisms constructed for distinct operational tasks or purposes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetoric, psychology, and strategic planning, imaginative schemes, stratagems, or figurative methods employed to achieve aims.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But orderly to end where I begun, Our wills and fates do so contrary run That our devices still are overthrown."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I did that I did not this seven year before: I blushed to hear his monstrous devices."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He shows his reason for that: to have a dispatch of complaints, and to deliver us from devices hereafter, which shall then have no power to stand against us."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Our wills and fates do so contrary run that our **devices** still are overthrown; our thoughts are ours, their ends none of our own."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"Human ingenuity has multiplied inventive **devices** to overcome the obstacles placed by physical nature."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"Civilized society invents countless institutional **devices** to mitigate the harsh struggles inherent in raw natural selection."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With honesty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With honesty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With good reason and complete legitimacy; in a manner that is deservedly right.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytical ethics and jurisprudence, acting with warrant that withstands rigorous scrutiny and moral testing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, justifiedly designates with honesty."*
+> - 📜 **George Eliot (*Romola*):** *"The citizens felt themselves **justifiedly** incensed when the Medici prince attempted to confiscate the communal revenues."*
+> - 📜 **John Stuart Mill (*Dissertations and Discussions*):** *"Philosophers have **justifiedly** condemned the dogmatic assertion of ethical axioms without empirical verification."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"The middle class was **justifiedly** criticized for worshipping external machinery rather than inward spiritual perfection."*

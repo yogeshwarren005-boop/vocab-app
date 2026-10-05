@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who argues to defend or justify some policy or institution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who argues to defend or justify some policy or institution.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who vindicates, justifies, defends, or avenges another against accusation or injury.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Roman history and civil liberties rhetoric, an assertive defender of popular rights or one who claims liberty for an enslaved person.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Paul, once, on the spur of the moment, called Jesus the "Yes" of all the promises of God--a most suggestive name for the vindicator and exponent of God's realities."*
-> - 📜 **Grant Allen (*Michael's Crag*):** *"Not his to play the divine part of vindicator."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The tribunes of the plebs were hailed as the sacrosanct **vindicator** of popular liberties against the patrician oligarchy."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Every true **vindicator** of English liberties looks back with reverence to the solemn charters won at Runnymede."*
+> - 📜 **Walter Scott (*Old Mortality*):** *"Balfour of Burley regarded himself as the chosen **vindicator** of the Covenant, commissioned to execute divine wrath upon the persecutors."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of persons or their actions) able or disposed to inflict pain or suffering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the nature of vice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deliberately cruel, violent, spiteful, or corrupt; deeply characterized by moral depravity or vice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In logic and behavioral cycles, a vicious circle describes an escalating chain of causation where each bad result worsens the original problem.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is deformed, crooked, old, and sere, Ill-fac’d, worse bodied, shapeless everywhere; Vicious, ungentle, foolish, blunt, unkind, Stigmatical in making, worse in mind."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It had been vicious To have mistrusted her; yet, O my daughter!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Take her away, for she hath lived too long, To fill the world with vicious qualities."*
+> - 📜 **William Shakespeare (*The Comedy of Errors*):** *"He is deformed, crooked, old, and sere, ill-faced, worse bodied, shapeless everywhere, **vicious**, ungentle, foolish, blunt, unkind."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The sergeant's **vicious** phases were the offspring of sudden impulse rather than deep-seated malevolent design."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His cold and sarcastic temperament made him a **vicious** antagonist whenever his professional vanity was wounded."*

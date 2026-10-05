@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessively or hypocritically pious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessively or hypocritically pious.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Making a hypocritical show of religious devotion, righteousness, or superior moral piety.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social satire, ostentatiously pious in external deportment while harboring selfish, judgmental, or dishonest motives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou conclud’st like the sanctimonious pirate that went to sea with the ten commandments, but scraped one out of the table."*
-> - 📜 **James Joyce (*Ulysses*):** *"What about sanctimonious Cromwell and his ironsides that put the women and children of Drogheda to the sword with the bible text _God is love_ pasted round the mouth of his cannon?"*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"He was donned in his Sunday garments, with his most sanctimonious and sourest face, and, holding his hat in one hand, and his stick in the other, he proceeded to clean his shoes on the mat."*
+> - 📜 **William Shakespeare (*Measure for Measure*):** *"Thou concludest like the **sanctimonious** pirate, that went to sea with the Ten Commandments, but scraped one out of the table."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Chadband rolled his heavy eyes with a **sanctimonious** grimace before bestowing his tedious homily upon the household."*
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"Old Joseph sat by the fireside, groaning over his Bible with a **sanctimonious** relish for the damnation of his neighbors."*

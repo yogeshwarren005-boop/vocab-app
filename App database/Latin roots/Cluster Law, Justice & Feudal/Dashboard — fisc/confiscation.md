@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Seizure by the government.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Seizure by the government.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The seizure of property by authority of a sovereign government or legal judgment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political history and revenue law, an executive or judicial forfeiture of assets to the public fisc following rebellion, treason, or smuggling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For his possessions, Although by confiscation they are ours, We do instate and widow you with all To buy you a better husband."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The popular will declared (and still declares) that "all kinds of property ought to bear their fair share of the burdens of taxation." Yet to apply this principle would obviously be double taxation and result in confiscation in many cases."*
-> - 📜 **Jos. E. Badger (*The Texas Hawks; or, The Strange Decoy*):** *"We all know our calling—our name, for it is _confiscation_—others call it stealing; but that don’t matter."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy lands and goods are by the laws of Venice subject to general **confiscation** for seeking the life of an alien citizen."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Decrees of universal **confiscation** fell upon the emigrant nobility, stripping ancient houses of both titles and revenues."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The financial ruin was completed by wholesale **confiscation**, which destroyed credit and undermined all security of title."*

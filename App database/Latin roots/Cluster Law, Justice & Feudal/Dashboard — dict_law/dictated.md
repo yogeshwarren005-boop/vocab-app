@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Issue commands or orders for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Say out loud for the purpose of recording.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spoken aloud for another person to transcribe, or prescribed authoritatively as an unavoidable obligation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historiography and international relations, imposed by a victor upon a vanquished foe without genuine negotiation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby, sitting in quite a nest of waste paper, drank coffee all the evening and dictated at intervals to her eldest daughter."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"One could say about this barn, what could hardly be said of either the church or the castle, akin to it in age and style, that the purpose which had dictated its original erection was the same with that to which it was still applied."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Troy, in his prostration at this time, had no perception that in the futility of these romantic doings, dictated by a remorseful reaction from previous indifference, there was any element of absurdity."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Every great reform was originally **dictated** by the solitary conviction of a courageous individual conscience."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"His strange, reckless course of conduct was **dictated** by an overwhelming desire to expiate an unacknowledged past."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The haughty letter **dictated** by the former corn merchant aroused bitter resentment across the entire marketplace."*

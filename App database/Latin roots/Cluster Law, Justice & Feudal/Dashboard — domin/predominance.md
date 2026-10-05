@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being predominant over others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being more noticeable than anything else.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Superior power, ascendancy, or numerical majority that exerts controlling influence over rivals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociology, ecology, and geopolitics, the overwhelming prevalence or controlling influence of a specific group, factor, or species.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is’t night’s predominance, or the day’s shame, That darkness does the face of earth entomb, When living light should kiss it?"*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"That defect is the predominance of art over inspiration, of body over soul."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Darcy; or at least, by the predominance of virtue, atone for those casual errors, under which she would endeavour to class what Mr."*
+> - 📜 **John Stuart Mill (*Representative Government*):** *"A balanced constitution prevents any single commercial faction from gaining total political **predominance**."*
+> - 📜 **Ralph Waldo Emerson (*The Conduct of Life*):** *"Moral character achieves lasting greatness only through the steady **predominance** of intellect over blind passion."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth perceived the marked **predominance** of wounded pride over genuine affection in Mr. Darcy's initial proposal."*

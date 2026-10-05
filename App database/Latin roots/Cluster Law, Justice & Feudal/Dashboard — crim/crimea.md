@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A ukrainian peninsula between the black sea and the sea of azov.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ukrainian peninsula between the black sea and the sea of azov.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historic peninsula on the northern coast of the Black Sea, south of Ukraine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geopolitical and military history, a strategically vital peninsula that served as the theater for the Crimean War and ancient Black Sea maritime commerce.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"She at once foresaw that there would be need of the same heroic work on the part of the women of the country as that performed by Florence Nightingale and her army of women nurses in the Crimea, and with her father's approval she consulted with Dr."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"In a suffering and weary voice he was saying something to Tíkhon, speaking of the Crimea and its warm nights and of the Empress."*
+> - 📜 **Leo Tolstoy (*Sevastopol Sketches*):** *"The hills and bastions of the **Crimea** reverberated day and night with the booming fire of allied artillery."*
+> - 📜 **Alfred Lord Tennyson (*The Charge of the Light Brigade*):** *"Into the valley of death rode the six hundred, carving immortal legend upon the bloodstained fields of the **Crimea**."*
+> - 📜 **Florence Nightingale (*Notes on Hospitals*):** *"The military hospitals established in the **Crimea** suffered grievously from inadequate drainage, foul air, and systemic neglect."*

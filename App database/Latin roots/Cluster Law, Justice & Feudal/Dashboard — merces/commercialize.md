@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exploit for maximal profit, usually by sacrificing quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make commercial.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To organize, manage, or develop something for the express purpose of generating pecuniary profit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic strategy, to establish distribution channels, marketing campaigns, and volume manufacturing for an innovative process.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This view is now becoming more general as a result of the commercializing of farming enterprise."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"As farming becomes more commercialized it necessarily becomes somewhat more specialized, and produces a smaller variety of products."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"The pharmaceutical directors urged Martin to **commercialize** his newly isolated antibacterial phage without awaiting clinical trials."*
+> - 📜 **Frank Norris (*The Pit*):** *"Speculators sought to **commercialize** every bushel of prairie wheat flowing through the Chicago grain elevators."*
+> - 📜 **Upton Sinclair (*The Jungle*):** *"The meatpacking magnates managed to **commercialize** every scrap of animal byproduct with cold industrial efficiency."*

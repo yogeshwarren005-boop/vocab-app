@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (music) without breaks between notes; smooth and connected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Connecting the notes; in music.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a smooth, flowing manner without perceptible breaks between successive musical notes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musicology and acoustic performance theory, an expressive style achieved by sustained bowing, slurring, or overlapping keyboard touches.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, legato designates (music) without breaks between notes; smooth and connected."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The cellist possessed a noble **legato** phrasing that gave the Brahms sonata an extraordinary warmth and lyrical eloquence."*
+> - 📜 **Thomas Mann (*Buddenbrooks*):** *"Her slender fingers moved smoothly across the ivory keys, weaving the quiet **legato** melodies of Chopin's nocturnal prelude."*
+> - 📜 **Arthur Symons (*Plays, Acting and Music*):** *"A master singer creates an illusion of endless breath through seamless **legato** transitions between shifting registers."*

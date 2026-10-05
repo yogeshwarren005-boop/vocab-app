@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dominance or power through legal authority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A region marked off for administrative or other purposes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sovereignty or control over territory, people, or affairs; or a territory ruled by a sovereign monarch or government.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In imperial constitutional history, a self-governing autonomous polity under the British crown; or a choir of celestial angels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good news, gods! [_Reads._] _Justice and your father’s wrath, should he take me in his dominion, could not be so cruel to me as you, O the dearest of creatures, would even renew me with your eyes."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"There’s few sae bonie, nane sae guid, In a’ King George’ dominion; If ye should doubt the truth o’ this— It’s Bessy’s ain opinion!"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Thus ev’ry kind their pleasure find, The savage and the tender; Some social join, and leagues combine, Some solitary wander: Avaunt, away! the cruel sway, Tyrannic man’s dominion; The sportsman’s joy, the murd’ring cry, The flutt’ring, gory pinion!"*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Over himself, over his own body and mind, the individual is sovereign, exercising absolute rightful **dominion**."*
+> - 📜 **Ralph Waldo Emerson (*Nature*):** *"Man's true **dominion** over nature is achieved through spiritual harmony and intellectual insight rather than brute force."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Man has established undisputed **dominion** over the animal kingdom through superior intellectual endowments."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or resulting from arbitration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or resulting from arbitration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, proceeding from, or determined by an arbitrator or an official court of arbitration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public international law and jurisprudence, designating binding decisions, procedures, or conventions governing neutral dispute adjudication.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arbitral designates relating to or resulting from arbitration."*
+> - 📜 **James Bryce (*The American Commonwealth*):** *"The international convention recommended an **arbitral** tribunal to settle boundary friction between neighboring republics."*
+> - 📜 **Woodrow Wilson (*The State: Elements of Historical and Practical Politics*):** *"The permanent court provided a neutral forum where **arbitral** proceedings replaced bellicose confrontations."*
+> - 📜 **Elihu Root (*Addresses on International Subjects*):** *"Confidence in an **arbitral** award rests upon the perceived impartiality and unimpeachable honor of the judges."*

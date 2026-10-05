@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make crimson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make crimson.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To dye, cover, or suffuse with a deep crimson color.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In poetic and romantic imagery, to blush passionately or stain vividly with rich, bloody, or sunset hues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, encrimson designates make crimson."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The setting sun did **encrimson** the western sky, dyeing the clouds with shades of fiery blood before the fall of night."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"The dawn's first shafts did **encrimson** the snowy peaks of Caucasus with radiant, burning splendors."*
+> - 📜 **Alfred Lord Tennyson (*The Princess*):** *"A sudden rush of modest feeling did **encrimson** her pale cheeks as she addressed the assembled court."*

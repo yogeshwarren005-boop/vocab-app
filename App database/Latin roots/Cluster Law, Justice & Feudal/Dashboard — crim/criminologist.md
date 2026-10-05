@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist in criminology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialist in criminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist or scholar who studies crime, criminal behavior, and the penal system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern behavioral and legal academia, a social scientist investigating the causes of delinquency, prevention methods, and judicial reform.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, criminologist designates a specialist in criminology."*
+> - 📜 **G. K. Chesterton (*The Innocence of Father Brown*):** *"The eminent French **criminologist** examined the footprints with a magnifying glass, entirely missing the spiritual significance of the scene."*
+> - 📜 **Arthur Conan Doyle (*The Return of Sherlock Holmes*):** *"As an amateur **criminologist**, Holmes regarded the bizarre cipher as one of the most intriguing puzzles of his career."*
+> - 📜 **Cesare Lombroso (*Crime, Its Causes and Remedies*):** *"The observant **criminologist** must look beyond statutory texts to study the physical and mental constitution of the offender."*

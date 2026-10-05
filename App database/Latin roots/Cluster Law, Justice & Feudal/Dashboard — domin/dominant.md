@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (music) the fifth note of the diatonic scale.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An allele that produces the same phenotype whether its paired allele is identical or different.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Most important, powerful, influential, or prominent; exerting controlling authority or presiding influence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In genetics, designating an allele whose phenotypic trait is manifested in both homozygous and heterozygous states.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tenderness was absolutely dominant in Clare at last."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Silver and gold, step by step, often making little progress in a century, became the staple and dominant forms of money in the world, while copper and nickel still continued to be used for the smaller monetary pieces."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The system of public education has, in many states, expanded to include a publicly supported university as the dominant educational and scientific organ of the community."*
+> - 📜 **Gregor Mendel (*Experiments in Plant Hybridisation*):** *"Characters which are transmitted entire in hybridization are termed **dominant**, while those which become latent are recessive."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The heath remained the **dominant** feature of the landscape, brooding over the petty passions of its dwellers."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"A tutor must discern the child's **dominant** inclinations to guide instruction along natural paths."*

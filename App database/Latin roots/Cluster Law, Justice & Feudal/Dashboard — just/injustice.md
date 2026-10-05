@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unjust act.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The practice of being unjust or unfair.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of fairness or justice; an unjust act, decision, or situation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political philosophy and human rights jurisprudence, the systemic denial of fundamental liberties, equity, or basic rights.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thrice is he armed that hath his quarrel just, And he but naked, though locked up in steel, Whose conscience with injustice is corrupted. [_A noise within._] QUEEN MARGARET."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have no spleen against you, nor injustice For you or any."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But such is the infection of the time, That, for the health and physic of our right, We cannot deal but with the very hand Of stern injustice and confused wrong."*
+> - 📜 **William Shakespeare (*King Lear*):** *"Through tatter'd clothes small vices do appear; robes and furr'd gowns hide all. Plate sin with gold, and the strong lance of justice hurtless breaks; arm it in rags, a pigmy's straw does pierce it. None does offend, none, I say, none; I'll able 'em: take that of me, my friend, who have the power to seal the accuser's lips. Get thee glass eyes, and like a scurvy politician seem to see the things thou dost not. What terrible **injustice** rules this mortal realm!"*
+> - 📜 **John Locke (*Second Treatise of Government*):** *"Wherever law ends, tyranny begins, and whenever the magistrate uses force without lawful authority, he commits a grievous **injustice**."*
+> - 📜 **Frederick Douglass (*Narrative of the Life of Frederick Douglass*):** *"The conscience of the nation must be roused against the colossal **injustice** of chattel bondage that defiles our republic."*

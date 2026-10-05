@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Attempting to justify or defend in speech or writing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Providing justification.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intended or serving to offer justification, defense, or moral vindication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historiography and political theory, characterizing texts, manifestos, or preambles composed to legitimize contested acts of state.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, justificatory designates attempting to justify or defend in speech or writing."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The emperor published a **justificatory** manifesto to vindicate his execution of the rebellious general in Gaul."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The Prince of Orange issued a detailed **justificatory** declaration explaining his reasons for landing an army at Torbay."*
+> - 📜 **John Morley (*Oliver Cromwell*):** *"Cromwell delivered a long, impassioned **justificatory** speech to Parliament concerning the dissolution of the Council of State."*

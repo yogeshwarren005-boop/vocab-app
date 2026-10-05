@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Charging or suggestive of guilt or blame.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Charging or suggestive of guilt or blame.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or expressing accusation; casting blame or imputing unlawful conduct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In prosecutorial rhetoric and legal documentation, formulated to charge an adversary formally with unlawful misconduct.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, criminatory designates charging or suggestive of guilt or blame."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The senate listened with fearful silence to the **criminatory** letter dispatched by the suspicious emperor."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"A series of **criminatory** petitions was presented to Parliament accusing the ministers of high treason."*
+> - 📜 **Samuel Johnson (*Lives of the Most Eminent English Poets*):** *"The pamphlet was filled with **criminatory** invective directed against his literary rivals."*

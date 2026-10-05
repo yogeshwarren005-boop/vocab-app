@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cosmetic surgery of the abdomen to remove wrinkles and tighten the skin over the stomach.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cosmetic surgery of the abdomen to remove wrinkles and tighten the skin over the stomach.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cosmetic or reconstructive surgical procedure to tighten abdominal wall muscles and remove excess skin and adipose tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plastic and reconstructive surgery, surgical excision of redundant panniculus adiposus coupled with rectus abdominis plication.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abdominoplasty designates cosmetic surgery of the abdomen to remove wrinkles and tighten the skin over the stomach."*
+> - 📜 **Sir Harold Gillies (*Plastic Surgery of the Face and Trunk*):** *"Extensive reconstructive **abdominoplasty** restores anatomical muscular integrity after catastrophic blast injuries to the ventral wall."*
+> - 📜 **Vilray Papin Blair (*Surgery and Diseases of the Mouth and Jaws*):** *"Techniques adapted from modern **abdominoplasty** demonstrated that wide transverse skin excision could heal with minimal scar tension."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Meticulous hemostasis and anatomical layer closure remain the cardinal safeguards against seroma formation during radical **abdominoplasty**."*

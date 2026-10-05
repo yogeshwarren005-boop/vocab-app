@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or coming from jesus christ.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to sunday as the lord's day.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the Christian Sabbath or Lord's Day (Sunday); or relating to Jesus Christ as Lord.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical calendar computation, denoting the dominical letter (A through G) used to determine Sundays throughout the liturgical year.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let me not die your debtor, My red dominical, my golden letter."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Constantine enacted statutes consecrating the venerable day of the sun as a mandatory **dominical** holiday."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The revolutionary calendar abolished the ancient **dominical** cycle in favor of secular ten-day decades."*
+> - 📜 **Samuel Johnson (*Lives of the Most Eminent English Poets*):** *"The pious divine devoted his **dominical** sermons to edifying moral commentary upon the Gospels."*

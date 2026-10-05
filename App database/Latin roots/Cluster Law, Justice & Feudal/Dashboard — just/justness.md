@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conformity with some esthetic standard of correctness or propriety.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being just or fair.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conformity to truth, fairness, propriety, or strict mathematical accuracy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and epistemological theory, exact correctness of proportion, reasoning, or aesthetic observation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, brother Hector, We may not think the justness of each act Such and no other than event doth form it; Nor once deject the courage of our minds Because Cassandra’s mad."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"This Jesus holds the justness of the Roman tax."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But we find, in fact, that the antagonists of the proposed Constitution, so far from acquiescing in their justness or truth, seem to make their principal and most zealous effort against this part of the plan."*
+> - 📜 **John Dryden (*An Essay of Dramatic Poesy*):** *"The **justness** of his thoughts and the propriety of his language rendered Shakespeare the greatest dramatist of our nation."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The reader is compelled to acknowledge the **justness** of the moral reflections that conclude every tragic episode."*
+> - 📜 **Edmund Burke (*On the Sublime and Beautiful*):** *"Beauty does not depend upon mathematical proportions, however we may admire the **justness** of mechanical symmetry."*

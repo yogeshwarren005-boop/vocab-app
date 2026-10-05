@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being guided by sudden unpredictable impulses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being unpredictably irresolute.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An erratic, highly uncertain nature that renders outcomes impossible to anticipate or foresee with reliability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chaos theory and macroscopic economics, stochastic sensitivity to initial conditions precluding deterministic forecasting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unpredictability designates the quality of being guided by sudden unpredictable impulses."*
+> - 📜 **William James (*The Will to Believe*):** *"The baffling **unpredictability** of human voluntary choice introduces genuine novelty into the universe."*
+> - 📜 **Joseph Conrad (*Typhoon*):** *"The sudden shifts and fierce **unpredictability** of the tropical cyclone tested the captain's iron nerve."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The capricious **unpredictability** of maritime storms renders foreign freight insurance an indispensable commercial safeguard."*

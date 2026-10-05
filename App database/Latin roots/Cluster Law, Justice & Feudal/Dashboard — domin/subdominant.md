@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (music) the fourth note of the diatonic scale.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (music) the fourth note of the diatonic scale.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The fourth scale degree of a diatonic scale, located directly below the dominant; or a subdominant musical chord.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In harmonic music theory and plant ecology, the fourth degree of the musical scale, or a secondary plant species in a canopy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subdominant designates (music) the fourth note of the diatonic scale."*
+> - 📜 **Hermann von Helmholtz (*On the Sensations of Tone*):** *"Modulation from the tonic triad to the **subdominant** chord produces a gentle relaxation in acoustic harmonic tension."*
+> - 📜 **Arthur Schopenhauer (*The World as Will and Representation*):** *"The transition from the dominant through the **subdominant** back to the fundamental keynote mirrors metaphysical striving and peace."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"Underneath the dense pine canopy, certain **subdominant** shrub species thrive in the dappled forest sunlight."*

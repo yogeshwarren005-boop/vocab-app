@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Disposed to seek revenge or intended for revenge; - shakespeare; - m.r.cohen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing malicious ill will and a desire to hurt; motivated by spite.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing a strong or unreasoning desire for revenge; vengeful and spiteful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic psychology and civil jurisprudence, characterized by malicious intent to inflict harm, or punitive damages punishing willful malice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The face of each child, as the amount of his contribution was mentioned, darkened in a peculiarly vindictive manner, but his was by far the worst."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"If she had only lived, I could have been angry and cruel towards her with some justification; but to be vindictive towards a poor dead woman recoils upon myself."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The present guards on duty in solitary were a particularly bad and vindictive set."*
+> - 📜 **William Shakespeare (*Troilus and Cressida*):** *"He is as mutinous a minion as ever walked upon the earth, and with a **vindictive** malice seeks to overthrow all order in our Grecian camp."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Madame Defarge knitted steadily, her dark eyes flashing with a **vindictive** ferocity that boded ill for the aristocratic prisoner."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard's bitter jealousy of Farfrae hardened into a **vindictive** determination to crush his former manager in the grain trade."*

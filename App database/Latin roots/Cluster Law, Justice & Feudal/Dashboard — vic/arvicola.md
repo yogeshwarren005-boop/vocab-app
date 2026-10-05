@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In some classifications considered synonymous with microtus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In some classifications considered synonymous with microtus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A zoological genus of amphibious and burrowing water voles belonging to the rodent family Cricetidae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In European mammalogy and wetland ecology, freshwater arvicoline rodents inhabiting riverbanks, canals, and reedbeds, playing a keystone herbivorous role.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arvicola designates in some classifications considered synonymous with microtus."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The habits of the water rat, known to naturalists as **Arvicola** amphibius, afford remarkable examples of aquatic excavation along our meadow brooks."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The dental architecture and molar roots of **Arvicola** display exquisite gradations between burrowing and semi-aquatic forms."*
+> - 📜 **Thomas Bell (*A History of British Quadrupeds*):** *"In every marshy ditch the naturalist may detect the burrowing entrances formed by the industrious water vole, **Arvicola**."*

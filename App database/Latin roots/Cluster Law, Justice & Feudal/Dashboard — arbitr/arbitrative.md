@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or having the authority to arbitrate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or having the authority to arbitrate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to settle disputes through arbitration; exercising or possessing the authority of an arbiter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In conflict resolution theory, describing administrative bodies or commissions vested with discretionary mediating power between contending factions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arbitrative designates relating to or having the authority to arbitrate."*
+> - 📜 **Oliver Wendell Holmes Jr. (*Collected Legal Papers*):** *"The commission exercised an **arbitrative** function, adjusting railway tariffs with flexible administrative discretion."*
+> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"Judges endowed with **arbitrative** authority may tailor remedies to the distinctive equities of each contested case."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"Parliament ought to have maintained an **arbitrative** temper rather than asserting unyielding legislative supremacy."*

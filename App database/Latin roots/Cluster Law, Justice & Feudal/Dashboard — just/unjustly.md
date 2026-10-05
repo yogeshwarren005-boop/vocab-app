@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unjust manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unjust manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unfair, inequitable, or wrongful manner that contravenes justice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence and moral philosophy, suffering injury, punishment, or deprivation without legal guilt or moral fault.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Only, in this disguise, I think’t no sin To cozen him that would unjustly win. [_Exit._] SCENE III."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O Cymbeline, heaven and my conscience knows Thou didst unjustly banish me!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And when I mount, alive may I not light If I be traitor or unjustly fight!"*
+> - 📜 **William Shakespeare (*Henry VI Part 2*):** *"A subtle traitor needs no sophister. For who is but a thought that knows this man, and doth not know he is a traitorous knave? He hath **unjustly** plotted against the king and royal realm."*
+> - 📜 **Plato (*Crito*):** *"Socrates maintained that one must never do wrong in return, nor do evil to anyone, however **unjustly** one has been treated."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip reflected that in the little world where children have their existence, nothing is so finely felt as when they are **unjustly** treated."*

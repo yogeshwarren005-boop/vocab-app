@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something of little value.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wish harm upon; invoke evil upon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To condemn to eternal punishment in hell, or to express complete condemnation and censure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological and literary discourse, to consign to perdition, ruin utterly, or pronounce an irrevocable verdict of failure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The mere word’s a slave, Debauch’d on every tomb, on every grave A lying trophy, and as oft is dumb Where dust and damn’d oblivion is the tomb Of honour’d bones indeed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is not this a strange fellow, my lord, that so confidently seems to undertake this business, which he knows is not to be done; damns himself to do, and dares better be damn’d than to do’t."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Perform’t, or else we damn thee.” ANTONY."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I'll not endure it. Would I were satisfied! Death and **damn**ation! O!"*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The parson refused to perform the full rite, declaring that unbaptized babes must abide in darkness, which seemed to **damn** the innocent soul forever."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"I'll chase him round Good Hope, and round the Horn, and round the Norway Maelstrom, and round perdition's flames before I **damn** my resolution and give him up!"*

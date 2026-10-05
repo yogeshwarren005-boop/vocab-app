@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a victim of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Punish unjustly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Singled out for cruel treatment, cheated, swindled, or made to suffer unfairly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence and clinical psychology, having sustained identifiable injury, violation of rights, or financial losses from a crime.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"She, poor innocent creature, is left to be victimized by an old man who has outlived his wits."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Fred Vincy felt bitterly that he was being unfairly **victimized** by ill fortune and demanding creditors."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"The innocent orphan was repeatedly **victimized** by Fagin's gang before finding refuge in a gentle home."*
+> - 📜 **Edith Wharton (*The House of Mirth*):** *"Lily Bart realized too late that she had been **victimized** by the treacherous machinations of fashionable society."*

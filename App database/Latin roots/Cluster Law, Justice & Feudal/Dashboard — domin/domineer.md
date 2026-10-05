@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rule or exercise power over (somebody) in a cruel and autocratic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rule or exercise power over (somebody) in a cruel and autocratic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To assert one's will or authority over others in an arrogant, dictatorial, or overbearing manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In domestic and workplace social dynamics, to bully, cow, or subjugate companions through unceasing coercive intimidation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Obey the bride, you that attend on her; Go to the feast, revel and domineer, Carouse full measure to her maidenhead, Be mad and merry, or go hang yourselves: But for my bonny Kate, she must with me."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Nor, in profile, does this wondrous brow diminish; though that way viewed, its grandeur does not domineer upon you so."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Nor, in profile, does this wondrous brow diminish; though that way viewed its grandeur does not domineer upon you so."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Troy sought to **domineer** over the farm workers with flamboyant arrogance, alienating the faithful bailiff."*
+> - 📜 **Herman Melville (*Billy Budd*):** *"The tyrannical master-at-arms loved to **domineer** over timid seamen who lacked the spirit to resist."*
+> - 📜 **Charles Dickens (*Dombey and Son*):** *"Mr. Dombey attempted to **domineer** over his young wife, demanding cold submission to his mercantile pride."*

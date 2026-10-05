@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking good judgment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being injudicious.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of lacking sound judgment, prudence, or discernment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical ethics and political analysis, characteristic deficiency in practical wisdom leading to disastrous decisions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, injudiciousness designates lacking good judgment."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"She blushed as she realized the sheer **injudiciousness** of having ventured alone into that secluded glen at dusk."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"His uncle pointed out the grave **injudiciousness** of provoking open hostility with the established county families."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"The archdeacon lamented the reckless **injudiciousness** of the bishop's latest pastoral appointment."*

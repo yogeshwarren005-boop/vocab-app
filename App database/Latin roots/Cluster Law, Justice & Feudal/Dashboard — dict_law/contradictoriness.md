@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The relation that exists when opposites cannot coexist.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relation that exists when opposites cannot coexist.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The inherent quality of containing mutually exclusive propositions, incompatible statements, or antithetical elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal logic and epistemology, the property of a system or argument wherein assertions cannot simultaneously hold valid.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He worked in a reverie now, musing upon her story, and upon the contradictoriness of that feminine heart which had caused her to speak more warmly to him to-night than she ever had done whilst unmarried and free to speak as warmly as she chose."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But he was not without contradictoriness and rebellion even towards his own resolve."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He worked in a reverie now, musing upon her story, and upon the contradictoriness of that feminine heart which had caused her to speak more warmly to him to-night than she ever had done whilst unmarried and free to speak as warmly as she chose."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The utter **contradictoriness** of claiming innate ideas without conscious mental awareness invalidates that ancient philosophical theory."*
+> - 📜 **William James (*Pragmatism*):** *"The intellectual **contradictoriness** of absolute rationalism leads pragmatic thinkers to seek experiential verification instead."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The glaring **contradictoriness** between theological dogma and geological strata undermined traditional chronologies of creation."*

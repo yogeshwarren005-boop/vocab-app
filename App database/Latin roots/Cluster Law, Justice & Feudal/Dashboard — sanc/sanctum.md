@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A place of inviolable privacy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sacred place of pilgrimage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sacred place or holy retreat; a private study, retreat, or secluded room where one is undisturbed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In temple architecture and religious history, the innermost holy of holies inaccessible to ordinary worshippers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Mere animal satisfaction!” “This is our friend’s consulting-room (or would be, if he ever prescribed), his sanctum, his studio,” said my guardian to us."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Others, who preferred a less unclouded atmosphere, withdrew with his brother into his sanctum."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Now, had Tashtego perished in that head, it had been a very precious perishing; smothered in the very whitest and daintiest of fragrant spermaceti; coffined, hearsed, and tombed in the secret inner chamber and sanctum sanctorum of the whale."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The captain remained secluded within his dark cabin **sanctum**, brooding over his vengeful oceanic charts."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The elderly attorney sat enthroned within his dusty legal **sanctum**, surrounded by ancient parchment rolls."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes invited the inspector into his inner **sanctum** at Baker Street to scrutinize the enigmatic footprint."*

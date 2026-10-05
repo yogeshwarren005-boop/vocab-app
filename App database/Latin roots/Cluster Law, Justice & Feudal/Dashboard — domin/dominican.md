@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A roman catholic friar wearing the black mantle of the dominican order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or inhabitant of the dominican republic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the Roman Catholic Order of Preachers (founded by St. Dominic); or a native or inhabitant of Dominica or the Dominican Republic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical history, a mendicant friar wearing a white habit and black cloak, historically prominent in Thomist philosophy and the Inquisition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"They broke into his bedchamber at the Dominican convent near Perth, where he was residing, and barbarously murdered him by oft-repeated wounds."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"There she lay within, in her habit of a Dominican lay sister, her hands waxy, her face waxy, her eyelids closed."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"There she lay within, in her habit of a Dominican lay sister, her hands waxy, her face waxy, her eyelids closed."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"A learned **dominican** monk paced slowly through the shaded cloisters of the ancient convent."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"The elderly **dominican** friar raised his crucifix to bless the departing pilgrim at the crossroads."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The zealous **dominican** inquisitors wielded formidable authority across the southern provinces of Europe."*

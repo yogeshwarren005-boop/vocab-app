@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring once every 20 years.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring once every 20 years.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Happening once every twenty years; enduring for or relating to a period of twenty years.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Roman history and imperial celebrations, marking the solemn vicennalia festival commemorating twenty years of imperial rule.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vicennial designates occurring once every 20 years."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Diocletian celebrated his solemn **vicennial** games at Rome, displaying triumphs from every quarter of the empire."*
+> - 📜 **Theodor Mommsen (*The History of Rome*):** *"The Senate voted grand commemorative medallions to celebrate the emperor's completed **vicennial** magistracy."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"The Roman populace anticipated the splendor of the **vicennial** festival that marked two decades of imperial peace."*

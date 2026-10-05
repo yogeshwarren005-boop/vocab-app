@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a sanctimonious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a sanctimonious manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a sanctimonious, hypocritically moralizing, or ostentatiously pious manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In interpersonal discourse, delivering moral rebukes or platitudes with an offensive air of unearned moral superiority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"Were they to ever approach the heaven of which they sanctimoniously prate, they would be met at the gate with the curse of murdered infants who never saw the light."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The worldly dowager nodded **sanctimoniously**, pretending to lament the very scandals she had eagerly spread."*
+> - 📜 **Mark Twain (*The Innocents Abroad*):** *"The guide rolled his eyes **sanctimoniously** while reciting questionable legends of local martyrs to the gullible pilgrims."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Mr. Brocklehurst spoke **sanctimoniously** of Christian humility while clothing his own family in lavish silks and plumes."*

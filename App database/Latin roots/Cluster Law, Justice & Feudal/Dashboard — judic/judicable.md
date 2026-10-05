@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being judged or decided.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being judged or decided.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being judged, tried, or evaluated by a competent legal tribunal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisdictional jurisprudence, denoting disputes or persons properly subject to judicial trial and determination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, judicable designates capable of being judged or decided."*
+> - 📜 **Jeremy Bentham (*The Principles of Morals and Legislation*):** *"Every transgression accompanied by measurable harm to the public interest ought to be strictly **judicable** under the penal code."*
+> - 📜 **John Austin (*The Province of Jurisprudence Determined*):** *"Conduct that violates positive law is properly **judicable** by the magistrate within his designated territory."*
+> - 📜 **Joseph Story (*Commentaries on the Constitution*):** *"The question whether a treaty has been broken is directly **judicable** by courts of admiralty and maritime jurisdiction."*

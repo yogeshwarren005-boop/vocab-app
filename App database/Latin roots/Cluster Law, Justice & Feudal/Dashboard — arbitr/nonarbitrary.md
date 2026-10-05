@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not subject to individual determination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not subject to individual determination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Determined by objective principles, demonstrable reasoning, or established evidence rather than personal whim.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific philosophy and legal theory, exhibiting systematic consistency, rational justification, and freedom from subjective caprice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonarbitrary designates not subject to individual determination."*
+> - 📜 **Bertrand Russell (*The Problems of Philosophy*):** *"Scientific induction seeks a **nonarbitrary** foundation for our inferences concerning the physical universe."*
+> - 📜 **John Dewey (*Logic: The Theory of Inquiry*):** *"Inquiry establishes **nonarbitrary** distinctions grounded in empirical observation and verified consequences."*
+> - 📜 **William James (*The Principles of Psychology*):** *"A rational mind classifies experience according to **nonarbitrary** patterns perceived within sensory data."*

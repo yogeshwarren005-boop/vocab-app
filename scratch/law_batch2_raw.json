@@ -1,0 +1,2572 @@
+{
+  "adjudicate": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "To adjudge; to try and determine, as a court; to settle by judicial decree.\n\nTo come to a judicial decision; as, the court adjudicated upon the case."
+      },
+      {
+        "source": "wordnet_v",
+        "def": "put on trial or hear a case and sit as the judge at the trial of"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "bring to an end; settle conclusively"
+      }
+    ],
+    "quotes": []
+  },
+  "adjudication": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. The act of adjudicating; the act or process of trying and determining judicially. 2. A deliberate determination by the judicial power; a judicial decision or sentence. \"An adjudication in favor of natural rights.\" Burke. 3. (Bankruptcy practice)  The decision upon the question whether the debtor is a bankrupt. Abbott. 4. (Scots Law)  A process by which land is attached security or in satisfaction of a debt."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the final judgment in a legal proceeding; the act of pronouncing judgment based on the evidence presented"
+      }
+    ],
+    "quotes": []
+  },
+  "adjudicative": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Adjudicating."
+      },
+      {
+        "source": "wordnet_a",
+        "def": "concerned with adjudicating"
+      }
+    ],
+    "quotes": []
+  },
+  "adjudicator": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "One who adjudicates."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a person who studies and settles conflicts and disputes"
+      }
+    ],
+    "quotes": []
+  },
+  "adjudicatory": {
+    "defs": [
+      {
+        "source": "wordnet_a",
+        "def": "concerned with adjudicating"
+      }
+    ],
+    "quotes": []
+  },
+  "extrajudicial": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Out of or beyond the proper authority of a court or judge; beyond jurisdiction; not legally required. \"An extrajudicial opinion.\" Hallam. -- Ex`tra*ju*di\"cial*ly, adv."
+      },
+      {
+        "source": "wordnet_s",
+        "def": "beyond the usual course of legal proceedings; legally unwarranted"
+      }
+    ],
+    "quotes": []
+  },
+  "injudicious": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. Not judicious; wanting in sound judgment; undiscerning; indiscreet; unwise; as, an injudicious adviser. An injudicious biographer who undertook to be his editor and the protector of his memory. A. Murphy. 2. Not according to sound judgment or discretion; unwise; as, an injudicious measure. Syn. -- Indiscreet; inconsiderate; undiscerning; incautious; unwise; rash; hasty; imprudent."
+      },
+      {
+        "source": "wordnet_s",
+        "def": "lacking or showing lack of judgment or discretion; unwise"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Hence her pity for the man who so persistently loved on to his own injury and permanent gloom had betrayed Bathsheba into an injudicious considerateness of manner, which appeared almost like tenderness, and gave new vigour to the exquisite dream of a Jacob’s seven years service in poor Boldwood’s mind."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Mawmsey, an important grocer in the Top Market, who, though not one of his patients, questioned him in an affable manner on the subject, he was injudicious enough to give a hasty popular explanation of his reasons, pointing out to Mr."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "‘Which was injudicious, Trot,’ said my aunt, ‘but well meant."
+      }
+    ]
+  },
+  "injudiciously": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "In an injudicious manner."
+      },
+      {
+        "source": "wordnet_r",
+        "def": "in an injudicious manner"
+      }
+    ],
+    "quotes": []
+  },
+  "injudiciousness": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "The quality of being injudicious; want of sound judgment; indiscretion. Whitlock."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "lacking good judgment"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the trait of being injudicious"
+      }
+    ],
+    "quotes": []
+  },
+  "judicable": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Capable of being judged; capable of being tried or decided upon. Jer. Taylor."
+      },
+      {
+        "source": "wordnet_s",
+        "def": "capable of being judged or decided"
+      }
+    ],
+    "quotes": []
+  },
+  "judicatory": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Pertaining to the administration of justice; dispensing justice; judicial; as, judicatory tribunals. T. Wharton. Power to reject in an authoritative or judicatory way. Bp. Hall.\n\n1. A court of justice; a tribunal. Milton. 2. Administration of justice. The supreme court of judicatory. Clarendon."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the system of law courts that administer justice and constitute the judicial branch of government"
+      }
+    ],
+    "quotes": []
+  },
+  "judicature": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. The state or profession of those employed in the administration of justice; also, the dispensing or administration of justice. The honor of the judges in their judicature is the king's honor. Bacon. 2. A court of justice; a judicatory. South. 3. The right of judicial action; jurisdiction; extent jurisdiction of a judge or court. Our Savior disputes not here the judicature, for that was not his office, but the morality, of divorce. Milton."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "an assembly (including one or more judges) to conduct judicial business"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the system of law courts that administer justice and constitute the judicial branch of government"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the act of meting out justice according to the law"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the position of judge"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "John Stuart Mill",
+        "work": "Utilitarianism",
+        "sentence": "The courts of justice, the administration of justice, are the courts and the administration of law. _La justice_, in French, is the established term for judicature."
+      },
+      {
+        "author": "Jonathan Swift",
+        "work": "Gulliver's Travels",
+        "sentence": "It is upon this account that the image of Justice, in their courts of judicature, is formed with six eyes, two before, as many behind, and on each side one, to signify circumspection; with a bag of gold open in her right hand, and a sword sheathed in her left, to show she is more disposed to reward than to punish."
+      }
+    ]
+  },
+  "judicial": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. Pertaining or appropriate to courts of justice, or to a judge; practiced or conformed to in the administration of justice; sanctioned or ordered by a court; as, judicial power; judicial proceedings; a judicial sale. \"Judicial massacres.\" Macaulay. Not a moral but a judicial law, and so was abrogated. Milton. 2. Fitted or apt for judging or deciding; as, a judicial mind. 3. Belonging to the judiciary, as distinguished from legislative, administrative, or executive. See Executive. 4. Judicious. [Obs.] B. Jonson."
+      },
+      {
+        "source": "wordnet_s",
+        "def": "decreed by or proceeding from a court of justice"
+      },
+      {
+        "source": "wordnet_a",
+        "def": "belonging or appropriate to the office of a judge"
+      },
+      {
+        "source": "wordnet_a",
+        "def": "relating to the administration of justice or the function of a judge"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "expressing careful judgment; ; -Tyler Dennett"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "John Stuart Mill",
+        "work": "Utilitarianism",
+        "sentence": "Originally, indeed, it meant only the mode or _manner_ of doing things, but it early came to mean the _prescribed_ manner; that which the recognized authorities, patriarchal, judicial, or political, would enforce. _Recht_, from which came _right_ and _righteous_, is synonymous with law."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "If you are not proud of your cellar, there is no thrill of satisfaction in seeing your guest hold up his wine-glass to the light and look judicial."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "Try the settee,” said Holmes, relapsing into his armchair and putting his fingertips together, as was his custom when in judicial moods."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "In the seventeenth century, judicial corruption was so common that Bacon's offence was not considered so gross as it would now be."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "For years past she had looked from this estranged point of view at human institutions, and whatever priests or legislators had established; criticising all with hardly more reverence than the Indian would feel for the clerical band, the judicial robe, the pillory, the gallows, the fireside, or the church."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "Micawber possesses what I have heard my papa call, when I lived at home, the judicial mind; and I hope Mr."
+      },
+      {
+        "author": "Jonathan Swift",
+        "work": "Gulliver's Travels",
+        "sentence": "Most of them, and especially those who deal in the astronomical part, have great faith in judicial astrology, although they are ashamed to own it publicly."
+      }
+    ]
+  },
+  "judicially": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "In a judicial capacity or judicial manner. \"The Lords . . . sitting judicially.\" Macaulay."
+      },
+      {
+        "source": "wordnet_r",
+        "def": "as ordered by a court"
+      },
+      {
+        "source": "wordnet_r",
+        "def": "in a judicial manner"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "But Wakley is right sometimes,” the Doctor added, judicially."
+      }
+    ]
+  },
+  "judiciary": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Of or pertaining to courts of judicature, or legal tribunals; judicial; as, a judiciary proceeding. Bp. Burnet.\n\nThat branch of government in which judicial power is vested; the system of courts of justice in a country; the judges, taken collectively; as, an independent judiciary; the senate committee on the judiciary."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "persons who administer justice"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the system of law courts that administer justice and constitute the judicial branch of government"
+      }
+    ],
+    "quotes": []
+  },
+  "judicious": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Of or relating to a court; judicial. [Obs.] His last offenses to us Shall have judicious hearing. Shak. 2. Directed or governed by sound judgment; having sound judgment; wise; prudent; sagacious; discreet. He is noble, wise, judicious, and best knows The fits o' the season. Shak. Syn. -- Prudent; discreet; rational; wise; skillful; discerning; sagacious; well-advised."
+      },
+      {
+        "source": "wordnet_s",
+        "def": "marked by the exercise of good judgment or common sense in practical matters"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "His last offences to us Shall have judicious hearing."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "I won’t tell ’em anything about your keeping silence; go on with the piece and say nothing, doing what you can by a judicious wink now and then, and a few indomitable nods in the heroic places, you know."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Under such circumstances a judicious man changes the topic and enters on ground where his own gifts may be more useful."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "However this may discredit such persons with the judicious, it helps them with the people, as it gives heat, pungency, and publicity to their words."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "And at last when Ahab was sliding by the vessel, so near as plainly to distinguish Starbuck’s face as he leaned over the rail, he hailed him to turn the vessel about, and follow him, not too swiftly, at a judicious interval."
+      },
+      {
+        "author": "Thomas Henry Huxley",
+        "work": "Evolution and Ethics",
+        "sentence": "Our love is principle, and has its root In reason, is judicious, manly, free; Yours, a blind instinct, crouches to the rod, And licks the foot that treads it in the dust."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "‘It was not judicious, sir, I am willing to admit,’ said Mr."
+      },
+      {
+        "author": "Jonathan Swift",
+        "work": "Gulliver's Travels",
+        "sentence": "I ventured to offer to the learned among them a conjecture of my own, that Laputa was _quasi lap outed_; _lap_, signifying properly, the dancing of the sunbeams in the sea, and _outed_, a wing; which, however, I shall not obtrude, but submit to the judicious reader."
+      },
+      {
+        "author": "Jane Austen",
+        "work": "Emma",
+        "sentence": "She had previously determined how far she would proceed, on any application of the sort; and it would be safer for both, to have the judicious law of her own brain laid down with speed.-- She was decided, and thus spoke--"
+      },
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Wisdom of Father Brown",
+        "sentence": "A day or two afterward found the active and judicious editor examining, with blue eyes that seemed to grow rounder and rounder, the second instalment of Mr Finn's tale of mysteries in high life."
+      },
+      {
+        "author": "John Milton",
+        "work": "Paradise Lost",
+        "sentence": "Eve, now I see thou art exact of taste, And elegant, of sapience no small part; Since to each meaning savour we apply, And palate call judicious; I the praise Yield thee, so well this day thou hast purveyed."
+      }
+    ]
+  },
+  "judiciously": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "In a judicious manner; with good judgment; wisely."
+      },
+      {
+        "source": "wordnet_r",
+        "def": "in a judicious manner"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Meanwhile Troy had added a few touches to his ordinary make-up for the character, the more effectually to disguise himself, and though he had felt faint qualms on first entering, the metamorphosis effected by judiciously “lining” his face with a wire rendered him safe from the eyes of Bathsheba and her men."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Brooke, confidentially but not judiciously."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "That point is this: The Sperm Whale is in some cases sufficiently powerful, knowing, and judiciously malicious, as with direct aforethought to stave in, utterly destroy, and sink a large ship; and what is more, the Sperm Whale _has_ done it."
+      },
+      {
+        "author": "James Joyce",
+        "work": "Dubliners",
+        "sentence": "Old Jack raked the cinders together with a piece of cardboard and spread them judiciously over the whitening dome of coals."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "A Tale of Two Cities",
+        "sentence": "Jacques,” said Defarge; “judiciously show a cat milk, if you wish her to thirst for it."
+      },
+      {
+        "author": "Jane Austen",
+        "work": "Sense and Sensibility",
+        "sentence": "But as it was her determination to subdue it, and to prevent herself from appearing to suffer more than what all her family suffered on his going away, she did not adopt the method so judiciously employed by Marianne, on a similar occasion, to augment and fix her sorrow, by seeking silence, solitude and idleness."
+      },
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Ball and the Cross",
+        "sentence": "They cannot describe all the forks that are not stolen, or all the marriages that are not judiciously dissolved."
+      }
+    ]
+  },
+  "judiciousness": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "The quality or state of being judicious; sagacity; s"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "good judgment"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the trait of forming opinions by distinguishing and evaluating"
+      }
+    ],
+    "quotes": []
+  },
+  "prejudice": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. Foresight. [Obs.] Naught might hinder his quick prejudize. Spenser. 2. An opinion or judgment formed without due examination; prejudgment; a leaning toward one side of a question from other considerations than those belonging to it; an unreasonable predilection for, or objection against, anything; especially, an opinion or leaning adverse to anything, without just grounds, or before sufficient knowledge. Though often misled by prejudice and passion, he was emphatically an honest man. Macaulay. 3. (Law)  A bias on the part of judge, juror, or witness which interferes with fairness of judgment. 4. Mischief; hurt; damage; injury; detriment. Locke. England and France might, through their amity, Breed him some prejudice. Shak. Syn. -- Prejudgment; prepossession; bias; harm; hurt; damage; detriment; mischief; disadvantage.\n\n1. To cause to have prejudice; to prepossess with opinions formed without due knowledge or examination; to bias the mind of, by hasty and incorrect notions; to give an unreasonable bent to, as to one side or the other of a cause; as, to prejudice a critic or a juryman. Suffer not any beloved study to prejudice your mind so far as to despise all other learning. I. Watts 2. To obstruct or injure by prejudices, or by previous bias of the mind; hence, generally, to hurt; to damage; to injure; to impair; as, to prejudice a good cause. Seek how may prejudice the foe. Shak"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a partiality that prevents objective consideration of an issue or situation"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "disadvantage by prejudice"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "influence (somebody's) opinion in advance"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Now let us on, my lords, and join our powers, And seek how we may prejudice the foe."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "Whoever is led to believe that species are mutable will do good service by conscientiously expressing his conviction; for only thus can the load of prejudice by which this subject is overwhelmed be removed."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "I protest against any absolute conclusion, any prejudice derived from Mrs."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "I need not point out to you that your refusal to answer will prejudice your case considerably in any future proceedings which may arise."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "No man is to allow himself, through prejudice, to make a mistake in choosing the task to which he will devote his life."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "The people, in the case of which we speak, could justify its prejudice against Roger Chillingworth by no fact or argument worthy of serious refutation."
+      },
+      {
+        "author": "Bram Stoker",
+        "work": "Dracula",
+        "sentence": "I will undertake that if you will satisfy even me--a stranger, without prejudice, and with the habit of keeping an open mind--Dr."
+      },
+      {
+        "author": "H. G. Wells",
+        "work": "The Time Machine",
+        "sentence": "His prejudice against human flesh is no deep-seated instinct."
+      },
+      {
+        "author": "Thomas Henry Huxley",
+        "work": "Evolution and Ethics",
+        "sentence": "To them it flowed much mingled and defiled With hurtful error, prejudice, and dreams Illusive of philosophy, so called, But falsely."
+      },
+      {
+        "author": "William James",
+        "work": "Pragmatism",
+        "sentence": "Alas! for the prejudice of the world!"
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "How can you reconcile it to your conscience, I wonder, to prejudice my own boy against me, or against anybody who is dear to me?"
+      },
+      {
+        "author": "Jonathan Swift",
+        "work": "Gulliver's Travels",
+        "sentence": "This I mention as an instance of the great power of habit and prejudice."
+      },
+      {
+        "author": "Mary Shelley",
+        "work": "Frankenstein",
+        "sentence": "I have good dispositions; my life has been hitherto harmless and in some degree beneficial; but a fatal prejudice clouds their eyes, and where they ought to see a feeling and kind friend, they behold only a detestable monster.’"
+      },
+      {
+        "author": "Jane Austen",
+        "work": "Emma",
+        "sentence": "Will not the old prejudice be too strong?"
+      },
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Ball and the Cross",
+        "sentence": "But I assure you I had to drop it, owing to my having said something in a public lecture infringing the popular prejudice against those great gentlemen, the assassins of the Italian Renaissance."
+      }
+    ]
+  },
+  "prejudiced": {
+    "defs": [
+      {
+        "source": "wordnet_v",
+        "def": "disadvantage by prejudice"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "influence (somebody's) opinion in advance"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "emanating from a person's emotions and prejudices"
+      },
+      {
+        "source": "wordnet_a",
+        "def": "being biased or having a belief or attitude formed beforehand"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "Such a good man might be prejudiced against a woman who had chosen Sunday, never realizing the necessities of her case."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Yet those who approached Dorothea, though prejudiced against her by this alarming hearsay, found that she had a charm unaccountably reconcilable with it."
+      },
+      {
+        "author": "Oscar Wilde",
+        "work": "The Picture of Dorian Gray",
+        "sentence": "I am afraid that your nephew is prejudiced against that great country,” he said to Lady Agatha."
+      },
+      {
+        "author": "Bram Stoker",
+        "work": "Dracula",
+        "sentence": "You are clever man, friend John; you reason well, and your wit is bold; but you are too prejudiced."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "She was audaciously prejudiced in my favour, and quite unable to understand why I should have any misgivings, or be low-spirited about it. ‘The young lady might think herself well off,’ she observed, ‘to have such a beau."
+      },
+      {
+        "author": "Mary Shelley",
+        "work": "Frankenstein",
+        "sentence": "How kind and generous you are! every one else believes in her guilt, and that made me wretched, for I knew that it was impossible: and to see every one else prejudiced in so deadly a manner rendered me hopeless and despairing.” She wept."
+      },
+      {
+        "author": "Jane Austen",
+        "work": "Emma",
+        "sentence": "We are both prejudiced; you against, I for him; and we have no chance of agreeing till he is really here."
+      }
+    ]
+  },
+  "prejudicial": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. Biased, possessed, or blinded by prejudices; as, to look with a prejudicial eye. [Obs.] Holyday. 2. Tending to obstruct or impair; hurtful; injurious; disadvantageous; detrimental. Hooker. His going away . . . was most prejudicial and most ruinous to the king's affairs. Clarendon. -- Prej`u*di\"cial*ly, adv. -- Prej`u*di\"cial*ness, n."
+      },
+      {
+        "source": "wordnet_s",
+        "def": "(sometimes followed by `to') causing harm or injury"
+      },
+      {
+        "source": "wordnet_a",
+        "def": "tending to favor preconceived ideas"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Suppose, my lords, he did it unconstrained, Think you ’twere prejudicial to his crown?"
+      }
+    ]
+  },
+  "prejudicious": {
+    "defs": [
+      {
+        "source": "wordnet_a",
+        "def": "tending to favor preconceived ideas"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "(sometimes followed by `to') causing harm or injury"
+      }
+    ],
+    "quotes": []
+  },
+  "unprejudiced": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. Not prejudiced; free from undue bias or prepossession; not preoccupied by opinion; impartial; as, an unprejudiced mind; an unprejudiced judge. 2. Not warped or biased by prejudice; as, an unprejudiced judgment. -- Un*prej\"u*diced*ness, n. V. Knox."
+      },
+      {
+        "source": "wordnet_a",
+        "def": "free from undue bias or preconceived opinions"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "We see, in short, in existing monkeys a manner of progression intermediate between that of a quadruped and a biped; but, as an unprejudiced judge (75."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "Only the most unprejudiced of men like Stubb, nowadays partake of cooked whales; but the Esquimaux are not so fastidious."
+      },
+      {
+        "author": "Mary Shelley",
+        "work": "Frankenstein",
+        "sentence": "To be friendless is indeed to be unfortunate, but the hearts of men, when unprejudiced by any obvious self-interest, are full of brotherly love and charity."
+      },
+      {
+        "author": "Jane Austen",
+        "work": "Persuasion",
+        "sentence": "Hear the truth, therefore, now, while you are unprejudiced."
+      }
+    ]
+  },
+  "jurisdiction": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. (Law)  The legal power, right, or authority of a particular court to hear and determine causes, to try criminals, or to execute justice; judicial authority over a cause or class of causes; as, certain suits or actions, or the cognizance of certain crimes, are within the jurisdiction of a particular court, that is, within the limits of its authority or commission. 2. The authority of a sovereign power to govern or legislate; the right of making or enforcing laws; the power or right of exercising authority. To live exempt From Heaven's high jurisdiction. Milton. You wrought to be a legate; by which power You maim'd the jurisdiction of all bishops. Shak. 3. Sphere of authority; the limits within which any particular power may be exercised, or within which a government or a court has authority. Note: Jurisdiction, in its most general sense, is the power to make, declare, or apply the law. When confined to the judiciary department, it is what we denominate the judicial power, the right of administering justice through the laws, by the means which the laws have provided for that purpose. Jurisdiction is limited to place or territory, to persons, or to particular subjects. Duponceau."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "(law) the right and power to interpret and apply the law"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "in law; the territory within which power can be exercised"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Now art thou within point-blank of our jurisdiction regal."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "Now the Cinque Ports are partially or somehow under the jurisdiction of a sort of policeman or beadle, called a Lord Warden."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "It may appear singular, and, indeed, not a little ludicrous, that an affair of this kind, which in later days would have been referred to no higher jurisdiction than that of the select men of the town, should then have been a question publicly discussed, and on which statesmen of eminence took sides."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "What the Admiralty was to me that day; what nonsense I made of our case in my mind, as I listened to it; how I saw ‘DORA’ engraved upon the blade of the silver oar which they lay upon the table, as the emblem of that high jurisdiction; and how I felt when Mr."
+      },
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "23:7 And as soon as he knew that he belonged unto Herod's jurisdiction, he sent him to Herod, who himself also was at Jerusalem at that time."
+      }
+    ]
+  },
+  "jurisdictional": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Of or pertaining to jurisdiction; as jurisdictional rights. Barrow."
+      },
+      {
+        "source": "wordnet_s",
+        "def": "restricted to the geographic area under a particular jurisdiction"
+      }
+    ],
+    "quotes": []
+  },
+  "jurisprudence": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "The science of juridical law; the knowledge of the laws, customs, and rights of men in a state or community, necessary for the due administration of justice. The talents of Abelard were not confined to theology, jurisprudence, philosophy. J. Warton. Medical jurisprudence, that branch of juridical law which concerns questions of medicine."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the branch of philosophy concerned with the law and the principles that lead courts to make the decisions they do"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the collection of rules imposed by authority"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Questions of medical jurisprudence ought not to be left to the chance of decent knowledge in a medical witness, and the coroner ought not to be a man who will believe that strychnine will destroy the coats of the stomach if an ignorant practitioner happens to tell him so."
+      }
+    ]
+  },
+  "jurisprudential": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Of or pertaining to jurisprudence. Stewart."
+      },
+      {
+        "source": "wordnet_a",
+        "def": "relating to the science or philosophy of law or a system of laws"
+      }
+    ],
+    "quotes": []
+  },
+  "jurisprudentially": {
+    "defs": [
+      {
+        "source": "wordnet_r",
+        "def": "in respect to jurisprudence or the science or philosophy of law"
+      }
+    ],
+    "quotes": []
+  },
+  "jurist": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "One who professes the science of law; one versed in the law, especially in the civil law; a writer on civil and international law. It has ever been the method of public jurists to Burke."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a legal scholar versed in civil law or the law of nations"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a public official authorized to decide questions brought before a court of justice"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "[Footnote 237: Jeremy Bentham (1748-1832), English philosopher, jurist, and legislative reformer.]"
+      },
+      {
+        "author": "Bram Stoker",
+        "work": "Dracula",
+        "sentence": "Seward, humanitarian and medico-jurist as well as scientist, will deem it a moral duty to deal with me as one to be considered as under exceptional circumstances.” He made this last appeal with a courtly air of conviction which was not without its own charm."
+      }
+    ]
+  },
+  "juristic": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Of or pertaining to a jurist, to the legal profession, or to jurisprudence. [R.] \"Juristic ancestry.\" Lowell."
+      },
+      {
+        "source": "wordnet_s",
+        "def": "of or relating to law or to legal rights and obligations"
+      }
+    ],
+    "quotes": []
+  },
+  "adjust": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. To make exact; to fit; to make correspondent or conformable; to bring into proper relations; as, to adjust a garment to the body, or things to a standard. 2. To put in order; to regulate, or reduce to system. Adjusting the orthography. Johnson. 3. To settle or bring to a satisfactory state, so that parties are agreed in the result; as, to adjust accounts; the differences are adjusted. 4. To bring to a true relative position, as the parts of an instrument; to regulate for use; as, to adjust a telescope or microscope. Syn. -- To adapt; suit; arrange; regulate; accommodate; set right; rectify; settle."
+      },
+      {
+        "source": "wordnet_v",
+        "def": "alter or regulate so as to achieve accuracy or conform to a standard"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "place in a line or arrange so as to be parallel or straight"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "adapt or conform oneself to new or different conditions"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "make correspondent or conformable"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "She did not adjust her hat, or pat her hair, or press a dimple into shape, or do one thing to signify that any such intention had been her motive in taking up the glass."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "He went through a great deal of spiritual conflict and inward argument in order to adjust his motives, and make clear to himself what God’s glory required."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "But we heeded them not, going along wheeling the barrow by turns, and Queequeg now and then stopping to adjust the sheath on his harpoon barbs."
+      },
+      {
+        "author": "Thomas Henry Huxley",
+        "work": "Evolution and Ethics",
+        "sentence": "Heedless of all his pranks the sturdy churl Moves right toward the mark; nor stops for aught, But now and then, with pressure of his thumb, To adjust the fragrant charge of a short tube, That fumes beneath his nose; the trailing cloud Streams far behind him, scenting all the air."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "On the steps of the church, there was the stooping figure of a man, who had put down some burden on the smooth snow, to adjust it; my seeing the face, and my seeing him, were simultaneous."
+      },
+      {
+        "author": "Walt Whitman",
+        "work": "Leaves of Grass",
+        "sentence": "Fast as she can she hurries, something ominous, her steps trembling, She does not tarry to smooth her hair nor adjust her cap."
+      }
+    ]
+  },
+  "adjustable": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Capable of being adjusted."
+      },
+      {
+        "source": "wordnet_s",
+        "def": "capable of being changed so as to match or fit"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "capable of being regulated"
+      }
+    ],
+    "quotes": []
+  },
+  "adjusted": {
+    "defs": [
+      {
+        "source": "wordnet_v",
+        "def": "alter or regulate so as to achieve accuracy or conform to a standard"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "place in a line or arrange so as to be parallel or straight"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "adapt or conform oneself to new or different conditions"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "make correspondent or conformable"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "He had made a toilet of a nicely-adjusted kind—of a nature between the carefully neat and the carelessly ornate—of a degree between fine-market-day and wet-Sunday selection."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "They did not think of sitting down, but stood at the toilet-table near the window while Rosamond took off her hat, adjusted her veil, and applied little touches of her finger-tips to her hair—hair of infantine fairness, neither flaxen nor yellow."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "But for the trained reasoner to admit such intrusions into his own delicate and finely adjusted temperament was to introduce a distracting factor which might throw a doubt upon all his mental results."
+      },
+      {
+        "author": "Bram Stoker",
+        "work": "Dracula",
+        "sentence": "The brave lover, I think, deserve another kiss, which he shall have presently.” And as he had now finished his operation, he adjusted the pillow to the patient’s head."
+      },
+      {
+        "author": "Thomas Henry Huxley",
+        "work": "Evolution and Ethics",
+        "sentence": "Ice upon ice, the well-adjusted parts Were soon conjoined, nor other cement asked Than water interfused to make them one."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "The preliminaries are adjusted, and the butcher and myself stand face to face."
+      }
+    ]
+  },
+  "adjuster": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "One who, or that which, adjusts."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "one who investigates insurance claims or claims for damages and recommends an effective settlement"
+      }
+    ],
+    "quotes": []
+  },
+  "adjustive": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Tending to adjust. [R.]"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "conducive to adjustment"
+      }
+    ],
+    "quotes": []
+  },
+  "adjustment": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. The act of adjusting, or condition of being adjusted; act of bringing into proper relations; regulation. Success depends on the nicest and minutest adjustment of the parts concerned. Paley. 2. (Law)  Settlement of claims; an equitable arrangement of conflicting claims, as in set-off, contribution, exoneration, subrogation, and marshaling. Bispham. 3. The operation of bringing all the parts of an instrument, as a microscope or telescope, into their proper relative position for use; the condition of being thus adjusted; as, to get a good adjustment; to be in or out of adjustment. Syn. -- Suiting; fitting; arrangement; regulation; settlement; adaptation; disposition."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "making or becoming suitable; adjusting to circumstances"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the act of making something different (as e.g. the size of a garment)"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the act of adjusting something to match a standard"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the process of adapting to something (such as environmental conditions)"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "The adjustment of the farmer’s hazy conceptions of her charms to the portrait of herself she now presented him with was less a diminution than a difference."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "This question led to an adjustment, for Rosamond had set her mind on that particular ride."
+      },
+      {
+        "author": "H. G. Wells",
+        "work": "The Time Machine",
+        "sentence": "This adjustment, I say, must have been done, and done well; done indeed for all Time, in the space of Time across which my machine had leapt."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "Before you come to that,’ said Traddles, a little disconcerted, ‘I am afraid I thought it discreet to omit (not being able to carry everything before me) two points, in making this lawless adjustment--for it’s perfectly lawless from beginning to end--of a difficult affair."
+      }
+    ]
+  },
+  "adjustor": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "one who investigates insurance claims or claims for damages and recommends an effective settlement"
+      }
+    ],
+    "quotes": []
+  },
+  "injustice": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. Want of justice and equity; violation of the rights of another or others; iniquity; wrong; unfairness; imposition. If this people [the Athenians] resembled Nero in their extravagance, much more did they resemble and even exceed him in cruelty and injustice. Burke. 2. An unjust act or deed; a sin; a crime; a wrong. Cunning men can be guilty of a thousand injustices without being discovered, or at least without being punished. Swift."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "an unjust act"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the practice of being unjust or unfair"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Thrice is he armed that hath his quarrel just, And he but naked, though locked up in steel, Whose conscience with injustice is corrupted."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "Sans songer que par son empressement à terminer les travaux il avait lui-même épuisé la caisse, il accusa sa femme et son ami d'avoir violé leurs premières conventions, et poussa l'injustice jusqu'à leur faire un crime de l'emprunt qu'ils venaient de négocier et que cependant il avait approuvé."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "At the same time there is a treatment which is injustice, and that may be yours."
+      },
+      {
+        "author": "John Stuart Mill",
+        "work": "Utilitarianism",
+        "sentence": "For the purpose of this inquiry, it is practically important to consider whether the feeling itself, of justice and injustice, is _sui generis_ like our sensations of colour and taste, or a derivative feeling, formed by a combination of others."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Casaubon always expressly recognized it as his duty to take care of us because of the harsh injustice which had been shown to his mother’s sister."
+      }
+    ]
+  },
+  "just": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. Conforming or conformable to rectitude or justice; not doing wrong to any; violating no right or obligation; upright; righteous; honest; true; -- said both of persons and things. \"O just but severe law!\" Shak. There is not a just man upon earth, that doeth good, and sinneth not. Eccl. vii. 20. Just balances, just weights, . . . shall ye have. Lev. xix. 36. How should man be just with God Job ix. 2. We know your grace to be a man. Just and upright. Shak. 2. Not transgressing the requirement of truth and propriety; conformed to the truth of things, to reason, or to a proper standard; exact; normal; reasonable; regular; due; as, a just statement; a just inference. Just of thy word, in every thought sincere. Pope. The prince is here at hand: pleaseth your lordship To meet his grace just distance 'tween our armies. Shak. He was a comely personage, a little above just stature. Bacon. Fire fitted with just materials casts a constant heat. Jer. Taylor. When all The war shall stand ranged in its just array. Addison. Their named alone would make a just volume. Burton. 3. Rendering or disposed to render to each one his due; equitable; fair; impartial; as, just judge. Men are commonly so just to virtue and goodness as to praise it in others, even when they do not practice it themselves. Tillotson. Just intonation. (Mus.) (a) The correct sounding of notes or intervals; true pitch. (b) The giving all chords and intervals in their purity or their exact mathematical ratio, or without temperament; a process in which the number of notes and intervals required in the various keys is much greater than the twelve to the octave used in systems of temperament. H. W. Poole. Syn. -- Equitable; upright; honest; true; fair; impartial; proper; exact; normal; orderly; regular.\n\n1. Precisely; exactly; -- in place, time, or degree; neither more nor less than is stated. And having just enough, not covet more. Dryden. The god Pan guided my hand just to the heart of the beast. Sir P. Sidney. To-night, at Herne's oak, just 'twixt twelve and one. Shak. 2. Closely; nearly; almost. Just at the point of death. Sir W. Temple. 3. Barely; merely; scarcely; only; by a very small space or time; as, he just missed the train; just too late. A soft Etesian gale But just inspired and gently swelled the sail. Dryden. Just now, the least possible time since; a moment ago.\n\nTo joust. Fairfax.\n\nA joust. Dryden."
+      },
+      {
+        "source": "wordnet_a",
+        "def": "used especially of what is legally or ethically right or proper or fitting; - A.Lincoln"
+      },
+      {
+        "source": "wordnet_a",
+        "def": "fair to all parties as dictated by reason and conscience"
+      },
+      {
+        "source": "wordnet_a",
+        "def": "free from favoritism or self-interest or bias or deception; conforming with established standards or rules"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "of moral excellence"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Book both my wilfulness and errors down, And on just proof surmise, accumulate, Bring me within the level of your frown, But shoot not at me in your wakened hate: Since my appeal says I did strive to prove The constancy and virtue of your love."
+      }
+    ]
+  },
+  "justice": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. The quality of being just; conformity to the principles of righteousness and rectitude in all things; strict performance of moral obligations; practical conformity to human or divine law; integrity in the dealings of men with each other; rectitude; equity; uprightness. Justice and judgment are the haditation of thy throne. Ps. ixxxix. 11. The king-becoming graces, As justice, verity, temperance, stableness, . . . I have no relish of them. Shak. 2. Conformity to truth and reality in expressing opinions and in conduct; fair representation of facts respecting merit or demerit; honesty; fidelity; impartiality; as, the justice of a description or of a judgment; historical justice. 3. The rendering to every one his due or right; just treatment; requital of desert; merited reward or punishment; that which is due to one's conduct or motives. This even-handed justice Commends the ingredients of our poisoned chalice To our own lips. Shak. 4. Agreeableness to right; equity; justness; as, the justice of a claim. 5. A person duly commissioned to hold courts, or to try and decide controversies and administer justice. Note: This title is given to the judges of the common law courts in England and in the United States, and extends to judicial officers and magistrates of every grade. Bed of justice. See under Bed. -- Chief justice. See in the Vocabulary. -- Justice of the peace (Law), a judicial officer or subordinate magistrate appointed for the conservation of the peace in a specified district, with other incidental powers specified in his commission. In the United States a justice of the peace has jurisdiction to adjudicate certain minor cases, commit offenders, etc. Syn. -- Equity; law; right; rectitude; honesty; integrity; uprightness; fairness; impartiality. -- Justice, Equity, Law. Justice and equity are the same; but human laws, though designed to secure justice, are of necessity imperfect, and hence what is strictly legal is at times far from being equitable or just. Here a court of equity comes in to redress the grievances. It does so, as distinguished from courts of law; and as the latter are often styled courts of justice, some have fancied that there is in this case a conflict between justice and equity. The real conflict is against the working of the law; this a court of equity brings into accordance with the claims of justice. It would be an unfortunate use of language which should lead any one to imagine he might have justice on his side while practicing iniquity (inequity). Justice, Rectitude. Rectitude, in its widest sense, is one of the most comprehensive words in our language, denoting absolute conformity to the rule of right in principle and practice. Justice refers more especially to the carrying out of law, and has been considered by moralists as of three kinds: (1) Commutative justice, which gives every man his own property, including things pledged by promise. (2) Distributive justice, which gives every man his exact deserts. (3) General justice, which carries out all the ends of law, though not in every case through the precise channels of commutative or distributive justice; as we see often done by a parent or a ruler in his dealings with those who are subject to his control.\n\nTo administer justice to. [Obs.] Bacon."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the quality of being just or fair"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "judgment involved in the determination of rights and the assignment of rewards and punishments"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a public official authorized to decide questions brought before a court of justice"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the United States federal department responsible for enforcing federal laws (including the enforcement of all civil rights legislation); created in 1870"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "He cannot thrive, Unless her prayers, whom heaven delights to hear And loves to grant, reprieve him from the wrath Of greatest justice."
+      }
+    ]
+  },
+  "justiciar": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Same as Justiciary."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "formerly a high judicial officer"
+      }
+    ],
+    "quotes": []
+  },
+  "justiciary": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "An old name for the judges of the higher English courts. Note: The chief justiciary, or justiciar, in early English history, was not only the chief justice of the kingdom, but also ex officio regent in the king's absence. Court of justiciary (Scots Law), the supreme criminal court, having jurisdiction over the whole of Scotland."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "formerly a high judicial officer"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the jurisdiction of a justiciar"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Jonathan Swift",
+        "work": "Gulliver's Travels",
+        "sentence": "This lord, in conjunction with Flimnap the high-treasurer, whose enmity against you is notorious on account of his lady, Limtoc the general, Lalcon the chamberlain, and Balmuff the grand justiciary, have prepared articles of impeachment against you, for treason and other capital crimes."
+      }
+    ]
+  },
+  "justifiable": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Capable of being justified, or shown to be just. Just are the ways of God, An justifiable to men. Milton. Syn. -- Defensible; vindicable; warrantable; excusable; exculpable; authorizable. -- Jus\"ti*fi`a*ble*ness, n. -- Jus\"ti*fi`a*bly, adv."
+      },
+      {
+        "source": "wordnet_s",
+        "def": "capable of being justified"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "She looked a little redder in refolding it, and closed her lips, as if thereby to suspend till too late the action of conscience in examining whether such strategy were justifiable."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "Hence I believe a well-marked variety may be justly called an incipient species; but whether this belief be justifiable must be judged of by the general weight of the several facts and views given throughout this work."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Celia’s consciousness told her that she had not been at all in the wrong: it was quite natural and justifiable that she should have asked that question, and she repeated to herself that Dorothea was inconsistent: either she should have taken her full share of the jewels, or, after what she had said, she should have renounced them altogether."
+      },
+      {
+        "author": "James Joyce",
+        "work": "Dubliners",
+        "sentence": "It cost a pretty penny; but there are occasions when a little expense is justifiable."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "‘You think it justifiable, do you, Copperfield, you who pride yourself so much on your honour and all the rest of it, to sneak about my place, eaves-dropping with my clerk?"
+      },
+      {
+        "author": "Jonathan Swift",
+        "work": "Gulliver's Travels",
+        "sentence": "It is a very justifiable cause of a war, to invade a country after the people have been wasted by famine, destroyed by pestilence, or embroiled by factions among themselves."
+      }
+    ]
+  },
+  "justifiably": {
+    "defs": [
+      {
+        "source": "wordnet_r",
+        "def": "with good reason"
+      }
+    ],
+    "quotes": []
+  },
+  "justification": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. The act of justifying or the state of being justified; a showing or proving to be just or conformable to law, justice, right, or duty; defense; vindication; support; as, arguments in justification of the prisoner's conduct; his disobedience admits justification. I hope, for my brother's justification, he wrote this but as an essay or taste of my virtue. Shak. 2. (Law)  The showing in court of a sufficient lawful reason why a party charged or accused did that for which he is called to answer. 3. (Theol.)  The act of justifying, or the state of being justified, in respect to God's requirements. Who was delivered for our offenses, and was raised again for our justification. Rom. iv. 25. In such righteousness To them by faith imputed, they may find Justification toward God, and peace Of conscience. Milton. 4. (Print.)  Adjustment of type by spacing it so as to make it exactly fill a line, or of a cut so as to hold it in the right place; also, the leads, quads, etc., used for making such adjustment."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "something (such as a fact or circumstance) that shows an action to be reasonable or necessary"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a statement in explanation of some action or belief"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the act of defending or explaining or making excuses for by reasoning; - H.J.Muller"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "I hope, for my brother’s justification, he wrote this but as an essay, or taste of my virtue."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "On leur demande l'impossible; on veut qu'ils représentent la personne non telle qu'ils la voient, ou qu'elle est en effet, mais telle que l'exige la nature de ses rapports avec les individus qui regardent cette représentation, et qui y cherchent, non la vérité, mais la justification de leur affection ou de leur haine."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "If she had only lived, I could have been angry and cruel towards her with some justification; but to be vindictive towards a poor dead woman recoils upon myself."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Bulstrode insisted, as he was apt to do, on the Lutheran doctrine of justification, as that by which a Church must stand or fall, Dr."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "Scipio,[343] charged with peculation, refuses to do himself so great a disgrace as to wait for justification, though he had the scroll of his accounts in his hands, but tears it to pieces before the tribunes."
+      },
+      {
+        "author": "Oscar Wilde",
+        "work": "The Picture of Dorian Gray",
+        "sentence": "Certainly with hideous iteration the bitten lips of Dorian Gray shaped and reshaped those subtle words that dealt with soul and sense, till he had found in them the full expression, as it were, of his mood, and justified, by intellectual approval, passions that without such justification would still have dominated his temper."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "Consequently there “is no justification for placing man in a distinct order."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "But the time of his justification has now come."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "Her only justification lay in the fact that she had been able to discern no method of rescuing him from a blacker ruin than had overwhelmed herself except by acquiescing in Roger Chillingworth’s scheme of disguise."
+      },
+      {
+        "author": "H. G. Wells",
+        "work": "The Time Machine",
+        "sentence": "And the institution of the family, and the emotions that arise therein, the fierce jealousy, the tenderness for offspring, parental self-devotion, all found their justification and support in the imminent dangers of the young. _Now_, where are these imminent dangers?"
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "If he had retorted or openly exasperated me, it would have been a relief and a justification; but he had put me on a slow fire, on which I lay tormented half the night."
+      },
+      {
+        "author": "Jonathan Swift",
+        "work": "Gulliver's Travels",
+        "sentence": "There are some laws and customs in this empire very peculiar; and if they were not so directly contrary to those of my own dear country, I should be tempted to say a little in their justification."
+      },
+      {
+        "author": "Jane Austen",
+        "work": "Sense and Sensibility",
+        "sentence": "I have passed a wretched night in endeavouring to excuse a conduct which can scarcely be called less than insulting; but though I have not yet been able to form any reasonable apology for your behaviour, I am perfectly ready to hear your justification of it."
+      },
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "4:23 Now it was not written for his sake alone, that it was imputed to him; 4:24 But for us also, to whom it shall be imputed, if we believe on him that raised up Jesus our Lord from the dead; 4:25 Who was delivered for our offences, and was raised again for our justification."
+      },
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Ball and the Cross",
+        "sentence": "The man who had kicked kept a kind of half-witted conscience or cowardice, for he stood staring at the senseless body and murmuring words of inconsequent self-justification, making gestures with his hands as if he were arguing with somebody."
+      },
+      {
+        "author": "Walt Whitman",
+        "work": "Leaves of Grass",
+        "sentence": "I announce natural persons to arise, I announce justice triumphant, I announce uncompromising liberty and equality, I announce the justification of candor and the justification of pride."
+      }
+    ]
+  },
+  "justificative": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Having power to justify; justificatory."
+      },
+      {
+        "source": "wordnet_s",
+        "def": "attempting to justify or defend in speech or writing"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "providing justification"
+      }
+    ],
+    "quotes": []
+  },
+  "justificatory": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Vindicatory; defensory; justificative."
+      },
+      {
+        "source": "wordnet_s",
+        "def": "attempting to justify or defend in speech or writing"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "providing justification"
+      }
+    ],
+    "quotes": []
+  },
+  "justified": {
+    "defs": [
+      {
+        "source": "wordnet_v",
+        "def": "show to be reasonable or provide adequate ground for"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "show to be right by providing justification or proof"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "defend, explain, clear away, or make excuses for by reasoning"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "let off the hook"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Wherein our entertainment shall shame us; we will be justified in our loves."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "The young children were still above, as was also her father, it being Sunday morning, when he felt justified in lying an additional half-hour."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "Yet he who objected to call the extinct genera, which thus linked the living genera of three families together, intermediate in character, would be justified, as they are intermediate, not directly, but only by a long and circuitous course through many widely different forms."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "I think I was justified in what I tried to do for Fred."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "Which were very well justified,” observed Holmes."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "Hours of sanity and consideration are always arriving to communities, as to individuals, when the truth is seen, and the martyrs are justified."
+      },
+      {
+        "author": "Oscar Wilde",
+        "work": "The Picture of Dorian Gray",
+        "sentence": "Certainly with hideous iteration the bitten lips of Dorian Gray shaped and reshaped those subtle words that dealt with soul and sense, till he had found in them the full expression, as it were, of his mood, and justified, by intellectual approval, passions that without such justification would still have dominated his temper."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "His greatest admirer could not have cordially justified his bringing his harpoon into breakfast with him, and using it there without ceremony; reaching over the table with it, to the imminent jeopardy of many heads, and grappling the beefsteaks towards him."
+      },
+      {
+        "author": "Bram Stoker",
+        "work": "Dracula",
+        "sentence": "My fear was justified when I saw the same cart which had passed before coming down the road, having on it some great wooden boxes."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "Towards the twilight I went out by myself, musing on what I ought to do, and whether I was justified in withholding from Agnes, any longer, what Uriah Heep had told me in London; for that began to trouble me again, very much."
+      },
+      {
+        "author": "Jonathan Swift",
+        "work": "Gulliver's Travels",
+        "sentence": "Upon this incident, Reldresal, principal secretary for private affairs, who always approved himself your true friend, was commanded by the emperor to deliver his opinion, which he accordingly did; and therein justified the good thoughts you have of him."
+      },
+      {
+        "author": "Mary Shelley",
+        "work": "Frankenstein",
+        "sentence": "I then thought that my father would be unjust if he ascribed my neglect to vice or faultiness on my part, but I am now convinced that he was justified in conceiving that I should not be altogether free from blame."
+      },
+      {
+        "author": "Jane Austen",
+        "work": "Emma",
+        "sentence": "On the contrary, her plans and proceedings were more and more justified and endeared to her by the general appearances of the next few days."
+      }
+    ]
+  },
+  "justifiedly": {
+    "defs": [
+      {
+        "source": "wordnet_r",
+        "def": "with honesty"
+      }
+    ],
+    "quotes": []
+  },
+  "justifier": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "One who justifies; one who vindicates, supports, defends, or absolves. Justifiers of themselves and hypocrites. Strype. That he might be just, and the justifier of him which believeth in Jesus. Rom. iii. 26."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a person who argues to defend or justify some policy or institution"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "Il eût été difficile de justifier un refus; ils choisirent une ouverture difficile qu'ils aimaient tous deux et qu'ils exécutèrent avec autant d'ensemble que de talent."
+      }
+    ]
+  },
+  "justify": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. To prove or show to be just; to vindicate; to maintain or defend as conformable to law, right, justice, propriety, or duty. That to the height of this great argument I may assert eternal providence, And justify the ways of God to men. Milton. Unless the oppression is so extreme as to justify revolution, it would not justify the evil of breaking up a government. E. Everett. 2. To pronounce free from guilt or blame; to declare or prove to have done that which is just, right, proper, etc.; to absolve; to exonerate; to clear. I can not justify whom the law condemns. Shak. 3. (Theol.)  To treat as if righteous and just; to pardon; to exculpate; to absolve. By him all that believe are justified from all things, from which ye could not be justified by the law of Moses. Acts xiii. 39. 4. To prove; to ratify; to confirm. [Obs.] Shak. 5. (Print.)  To make even or true, as lines of type, by proper spacing; to adjust, as type. See Justification, 4. Syn. -- To defend; maintain; vindicate; excuse; exculpate; absolve; exonerate.\n\n1. (Print.)  To form an even surface or true line with something else; to fit exactly. 2. (Law)  To take oath to the ownership of property sufficient to qualify one's self as bail or surety."
+      },
+      {
+        "source": "wordnet_v",
+        "def": "show to be reasonable or provide adequate ground for"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "show to be right by providing justification or proof"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "defend, explain, clear away, or make excuses for by reasoning"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "let off the hook"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "More particulars Must justify my knowledge."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "The sympathetic man still looked the other way, and wondered when she would recover coolness sufficient to justify him in facing her again."
+      },
+      {
+        "author": "John Stuart Mill",
+        "work": "Utilitarianism",
+        "sentence": "As a refuge from the last of the three, men imagined what they called the freedom of the will; fancying that they could not justify punishing a man whose will is in a thoroughly hateful state, unless it be supposed to have come into that state through no influence of anterior circumstances."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Her flame quickly burned up that light fuel; and, fed from within, soared after some illimitable satisfaction, some object which would never justify weariness, which would reconcile self-despair with the rapturous consciousness of life beyond self."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "Act singly, and what you have already done singly will justify you now."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "A difference in degree, however great, does not justify us in placing man in a distinct kingdom, as will perhaps be best illustrated by comparing the mental powers of two insects, namely, a coccus or scale-insect and an ant, which undoubtedly belong to the same class."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "And though none of them precisely answer to any known species of the present time, they are yet sufficiently akin to them in general respects, to justify their taking rank as Cetacean fossils."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "The people, in the case of which we speak, could justify its prejudice against Roger Chillingworth by no fact or argument worthy of serious refutation."
+      },
+      {
+        "author": "H. G. Wells",
+        "work": "The War of the Worlds",
+        "sentence": "I have read, in another account of these events, that on Sunday morning “all London was electrified by the news from Woking.” As a matter of fact, there was nothing to justify that very extravagant phrase."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "Creakle, to justify myself,’ said Steerforth, ‘and to say what I mean,--what I have to say is, that his mother lives on charity in an alms-house.’"
+      },
+      {
+        "author": "Jonathan Swift",
+        "work": "Gulliver's Travels",
+        "sentence": "I would not have dwelt so long upon a circumstance that, perhaps, at first sight, may appear not very momentous, if I had not thought it necessary to justify my character, in point of cleanliness, to the world; which, I am told, some of my maligners have been pleased, upon this and other occasions, to call in question."
+      }
+    ]
+  },
+  "justinian": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Of or pertaining to the Institutes or laws of the Roman Justinian."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "Byzantine emperor who held the eastern frontier of his empire against the Persians; codified Roman law in 529; his general Belisarius regained North Africa and Spain (483-565)"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "In the sixth Christian century lived Procopius, a Christian magistrate of Constantinople, in the days when Justinian was Emperor and Belisarius general."
+      }
+    ]
+  },
+  "justly": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "In a just manner; in conformity to law, justice, or propriety; by right; honestly; fairly; accurately. \"In equal balance justly weighed.\" Shak. Nothing can justly be despised that can not justly be blamed: where there is no choice there can be no blame. South."
+      },
+      {
+        "source": "wordnet_r",
+        "def": "with honesty"
+      },
+      {
+        "source": "wordnet_r",
+        "def": "in accordance with moral or social standards"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "You that have turn’d off a first so noble wife May justly diet me."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "She was passionate, and her present letter, showing that her estimate of him had changed under his delay—too justly changed, he sadly owned,—made him ask himself if it would be wise to confront her unannounced in the presence of her parents."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "Nevertheless, such a conclusion, even if well founded, would be unsatisfactory, until it could be shown how the innumerable species inhabiting this world have been modified, so as to acquire that perfection of structure and coadaptation which most justly excites our admiration."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "In return I can at least offer you an affection hitherto unwasted, and the faithful consecration of a life which, however short in the sequel, has no backward pages whereon, if you choose to turn them, you will find records such as might justly cause you either bitterness or shame."
+      }
+    ]
+  },
+  "justness": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "The quality of being just; conformity to truth, propriety, accuracy, exactness, and the like; justice; reasonableness; fairness; equity; as, justness of proportions; the justness of a description or representation; the justness of a cause. In value the satisfaction I had in seeing it represented with all the justness and gracefulness of action. Dryden. Note: Justness is properly applied to things, and justice to persons; but the distinction is not always observed. Syn. -- Accuracy; exactness; correctness; propriety; fitness; reasonableness; equity; uprightness; justice."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "conformity with some esthetic standard of correctness or propriety"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the quality of being just or fair"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Why, brother Hector, We may not think the justness of each act Such and no other than event doth form it; Nor once deject the courage of our minds Because Cassandra’s mad."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "It is impossible to read Leuckart’s able description of this organ, and his reasoning, without admitting the justness of his conclusion."
+      },
+      {
+        "author": "Jonathan Swift",
+        "work": "Gulliver's Travels",
+        "sentence": "In poetry, they must be allowed to excel all other mortals; wherein the justness of their similes, and the minuteness as well as exactness of their descriptions, are indeed inimitable."
+      },
+      {
+        "author": "Jane Austen",
+        "work": "Persuasion",
+        "sentence": "Anne wondered whether it ever occurred to him now, to question the justness of his own previous opinion as to the universal felicity and advantage of firmness of character; and whether it might not strike him that, like all other qualities of the mind, it should have its proportions and limits."
+      }
+    ]
+  },
+  "readjust": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "To adjust or settle again; to put in a different order or relation; to rearrange."
+      },
+      {
+        "source": "wordnet_v",
+        "def": "adjust anew"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "adjust again after an initial failure"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "H. G. Wells",
+        "work": "The Time Machine",
+        "sentence": "I turned frantically to the Time Machine, and strove hard to readjust it."
+      }
+    ]
+  },
+  "readjustment": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "A second adjustment; a new or different adjustment."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the act of adjusting again (to changed circumstances)"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the act of adjusting something to match a standard"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "James Joyce",
+        "work": "Dubliners",
+        "sentence": "Freddy Malins’ left hand accepted the glass mechanically, his right hand being engaged in the mechanical readjustment of his dress."
+      }
+    ]
+  },
+  "unadjustable": {
+    "defs": [
+      {
+        "source": "wordnet_s",
+        "def": "not adjustable"
+      }
+    ],
+    "quotes": []
+  },
+  "unadjusted": {
+    "defs": [
+      {
+        "source": "wordnet_a",
+        "def": "not altered to fit certain requirements"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "not having adapted to new conditions"
+      }
+    ],
+    "quotes": []
+  },
+  "unjust": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. Acting contrary to the standard of right; not animated or controlled by justice; false; dishonest; as, an unjust man or judge. 2. Contrary to justice and right; prompted by a spirit of injustice; wrongful; as, an unjust sentence; an unjust demand; an unjust accusation. -- Un*just\"ly, adv. -- Un*just\"ness, n."
+      },
+      {
+        "source": "wordnet_a",
+        "def": "not fair; marked by injustice or partiality or deception"
+      },
+      {
+        "source": "wordnet_a",
+        "def": "violating principles of justice"
+      },
+      {
+        "source": "wordnet_a",
+        "def": "not equitable or fair"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "But wherefore says she not she is unjust?"
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "That’s unjust—but I won’t repeat the remark."
+      },
+      {
+        "author": "John Stuart Mill",
+        "work": "Utilitarianism",
+        "sentence": "It is the more unjust to utilitarianism that this particular misapprehension should be made a ground of objection to it, inasmuch as utilitarian moralists have gone beyond almost all others in affirming that the motive has nothing to do with the morality of the action, though much with the worth of the agent."
+      }
+    ]
+  },
+  "unjustifiable": {
+    "defs": [
+      {
+        "source": "wordnet_s",
+        "def": "incapable of being justified or explained"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Jane Austen",
+        "work": "Sense and Sensibility",
+        "sentence": "Marianne began now to perceive that the desperation which had seized her at sixteen and a half, of ever seeing a man who could satisfy her ideas of perfection, had been rash and unjustifiable."
+      }
+    ]
+  },
+  "unjustifiably": {
+    "defs": [
+      {
+        "source": "wordnet_r",
+        "def": "without any excuse"
+      }
+    ],
+    "quotes": []
+  },
+  "unjustified": {
+    "defs": [
+      {
+        "source": "wordnet_s",
+        "def": "lacking justification or authorization"
+      }
+    ],
+    "quotes": []
+  },
+  "unjustly": {
+    "defs": [
+      {
+        "source": "wordnet_r",
+        "def": "in an unjust manner"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Only, in this disguise, I think’t no sin To cozen him that would unjustly win."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "Yet you most unjustly forget one thing, that I would have married you if you had not put it out of my power to do so."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "If your brother acts unjustly, do not lay hold of the act by that handle wherein he acts unjustly, for this is the handle which cannot be borne: but lay hold of the other, that he is your brother, that he was nurtured with you, and you will lay hold of the thing by that handle by which it can be borne.\"]"
+      },
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "In other words, when a sixth of the population of a nation which has undertaken to be the refuge of liberty are slaves, and a whole country is unjustly overrun and conquered by a foreign army, and subjected to military law, I think that it is not too soon for honest men to rebel and revolutionize."
+      },
+      {
+        "author": "Mary Shelley",
+        "work": "Frankenstein",
+        "sentence": "She weeps continually, and accuses herself unjustly as the cause of his death; her words pierce my heart."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "A Tale of Two Cities",
+        "sentence": "In this prison that I am going to so unjustly, shall I have some free communication with the world outside?"
+      },
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "82:2 How long will ye judge unjustly, and accept the persons of the wicked?"
+      },
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Ball and the Cross",
+        "sentence": "Men like MacIan and I may suffer unjustly all our lives, but a man like you must have influence."
+      },
+      {
+        "author": "John Milton",
+        "work": "Paradise Lost",
+        "sentence": "Apostate! still thou errest, nor end wilt find Of erring, from the path of truth remote: Unjustly thou depravest it with the name Of servitude, to serve whom God ordains, Or Nature: God and Nature bid the same, When he who rules is worthiest, and excels Them whom he governs."
+      }
+    ]
+  },
+  "unjustness": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "the practice of being unjust or unfair"
+      }
+    ],
+    "quotes": []
+  },
+  "allegation": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. The act of alleging or positively asserting. 2. That which is alleged, asserted, or declared; positive assertion; formal averment I thought their allegation but reasonable. Steele. 3. (Law)  A statement by a party of what he undertakes to prove, -- usually applied to each separate averment; the charge or matter undertaken to be proved."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "(law) a formal accusation against somebody (often in a court of law)"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "statements affirming or denying certain matters of fact that you are prepared to prove"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "My Lord of Suffolk, Buckingham, and York, Reprove my allegation if you can, Or else conclude my words effectual."
+      }
+    ]
+  },
+  "delegate": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. Any one sent and empowered to act for another; one deputed to represent; a chosen deputy; a representative; a commissioner; a vicar. 2. (a) One elected by the people of a territory to represent them in Congress, where he has the right of debating, but not of voting. (b) One sent by any constituency to act as its representative in a convention; as, a delegate to a convention for nominating officers, or for forming or altering a constitution. [U.S.] Court of delegates, formerly, the great court of appeal from the archbishops' courts and also from the court of admiralty. It is now abolished, and the privy council is the immediate court of appeal in such cases. [Eng.]\n\nSent to act for a represent another; deputed; as, a delegate judge. \"Delegate power.\" Strype.\n\n1. To send as one's representative; to empower as an ambassador; to send with power to transact business; to commission; to depute; to authorize. 2. To intrust to the care or management of another; to transfer; to assign; to commit. The delegated administration of the law. Locke. Delegated executive power. Bancroft. The power exercised by the legislature is the people's power, delegated by the people to the legislative. J. B. Finch."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a person appointed or elected to represent others"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "transfer power to someone"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "give an assignment to (a person) to a post, or assign a task to (a person)"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "Each philosopher, each bard, each actor has only done for me, as by a delegate, what one day I can do for myself."
+      },
+      {
+        "author": "Thomas Henry Huxley",
+        "work": "Evolution and Ethics",
+        "sentence": "Now happiest they that occupy the scenes The most remote from his abhorred resort, Whom once as delegate of God on earth They feared, and as His perfect image loved."
+      },
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Man Who Was Thursday",
+        "sentence": "Comrade Gregory,\" he said, \"I suppose this man is a delegate?"
+      }
+    ]
+  },
+  "delegating": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "authorizing subordinates to make certain decisions"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "transfer power to someone"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "give an assignment to (a person) to a post, or assign a task to (a person)"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Jane Austen",
+        "work": "Emma",
+        "sentence": "But consider--you need not be afraid of delegating power to _me_."
+      }
+    ]
+  },
+  "delegation": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. The act of delegating, or investing with authority to act for another; the appointment of a delegate or delegates. 2. One or more persons appointed or chosen, and commissioned to represent others, as in a convention, in Congress, etc.; the collective body of delegates; as, the delegation from Massachusetts; a deputation. 3. (Rom. Law)  A kind of novation by which a debtor, to be liberated from his creditor, gives him a third person, who becomes obliged in his stead to the creditor, or to the person appointed by him. Pothier."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a group of representatives or delegates"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "authorizing subordinates to make certain decisions"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "The political parties meet in numerous conventions; the greater the concourse, and with each new uproar of announcement, The delegation from Essex![276] The Democrats from New Hampshire!"
+      }
+    ]
+  },
+  "legate": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. An ambassador or envoy. 2. An ecclesiastic representing the pope and invested with the authority of the Holy See. Note: Legates are of three kinds: (a) Legates a latere, now always cardinals. They are called ordinary or extraordinary legates, the former governing provinces, and the latter class being sent to foreign countries on extraordinary occasions. (b) Legati missi, who correspond to the ambassadors of temporal governments. (c) Legati nati, or legates by virtue of their office, as the archbishops of Salzburg and Prague. 3. (Rom. Hist.) (a) An official assistant given to a general or to the governor of a province. (b) Under the emperors, a governor sent to a province."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a member of a legation"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Enter Winchester in Cardinal’s habit, a Legate and two Ambassadors."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "Cardinal Caprara,[418] the Pope's[419] legate at Paris, defended himself from the glances of Napoleon, by an immense pair of green spectacles."
+      },
+      {
+        "author": "Thomas Henry Huxley",
+        "work": "Evolution and Ethics",
+        "sentence": "There stands the messenger of truth; there stands The legate of the skies; his theme divine, His office sacred, his credentials clear."
+      }
+    ]
+  },
+  "legatee": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "One to whom a legacy is bequeathed."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "someone to whom a legacy is bequeathed"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Such conversation paused suddenly, like an organ when the bellows are let drop, if Mary Garth came into the room; and all eyes were turned on her as a possible legatee, or one who might get access to iron chests."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "Queequeg,” said I, “come along, you shall be my lawyer, executor, and legatee."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "All the rest he died possessed of, he bequeathed to Peggotty; whom he left residuary legatee, and sole executrix of that his last will and testament."
+      }
+    ]
+  },
+  "legateship": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "The office of a legate."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the post or office of legate"
+      }
+    ],
+    "quotes": []
+  },
+  "legation": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. The sending forth or commissioning one person to act for another. \"The Divine legation of Moses.\" Bp. Warburton. 2. A legate, or envoy, and the persons associated with him in his mission; an embassy; or, in stricter usage, a diplomatic minister and his suite; a deputation. 3. The place of business or official residence of a diplomatic minister at a foreign court or seat of government. 4. A district under the jurisdiction of a legate."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the post or office of legate"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a permanent diplomatic mission headed by a minister"
+      }
+    ],
+    "quotes": []
+  },
+  "legato": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Connected; tied; -- a term used when successive tones are to be produced in a closely connected, smoothly gliding manner. It is often indicated by a tie, thus staccato."
+      },
+      {
+        "source": "wordnet_a",
+        "def": "(music) without breaks between notes; smooth and connected"
+      },
+      {
+        "source": "wordnet_r",
+        "def": "connecting the notes; in music"
+      }
+    ],
+    "quotes": []
+  },
+  "relegate": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "To remove, usually to an inferior position; to consign; to transfer; specifically, to send into exile; to banish. It [the Latin language] was relegated into the study of the scholar. Milman."
+      },
+      {
+        "source": "wordnet_v",
+        "def": "refer to another person for decision or judgment"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "assign to a lower position; reduce in rank"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "expel, as if by official decree"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "assign to a class or kind"
+      }
+    ],
+    "quotes": []
+  },
+  "relegating": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "authorizing subordinates to make certain decisions"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "refer to another person for decision or judgment"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "assign to a lower position; reduce in rank"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "expel, as if by official decree"
+      }
+    ],
+    "quotes": []
+  },
+  "relegation": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "The act of relegating, or the state of being relegated; removal; banishment; exile."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "authorizing subordinates to make certain decisions"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the act of assigning (someone or something) to a particular class or category"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "mild banishment; consignment to an inferior position"
+      }
+    ],
+    "quotes": []
+  },
+  "arsenate": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "A salt of arsenic acid."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a salt or ester of arsenic acid"
+      }
+    ],
+    "quotes": []
+  },
+  "senate": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. An assembly or council having the highest deliberative and legislative functions. Specifically: (a) (Anc. Rom.)  A body of elders appointed or elected from among the nobles of the nation, and having supreme legislative authority. The senate was thus the medium through which all affairs of the whole government had to pass. Dr. W. Smith. (b) The upper and less numerous branch of a legislature in various countries, as in France, in the United States, in most of the separate States of the United States, and in some Swiss cantons. (c) In general, a legislative body; a state council; the legislative department of government. 2. The governing body of the Universities of Cambridge and London. [Eng.] 3. In some American colleges, a council of elected students, presided over by the president of the college, to which are referred cases of discipline and matters of general concern affecting the students. [U. S.] Senate chamber, a room where a senate meets when it transacts business. -- Senate house, a house where a senate meets when it transacts business."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "assembly possessing high legislative powers"
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the upper house of the United States Congress"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Our business is not unknown to th’ Senate."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "And this law of laws which the pulpit, the senate, and the college deny, is hourly preached in all markets and workshops by flights of proverbs, whose teaching is as true and as omnipresent as that of birds and flies."
+      }
+    ]
+  },
+  "senator": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. A member of a senate. The duke and senators of Venice greet you. Shak. Note: In the United States, each State sends two senators for a term of six years to the national Congress. 2. (O.Eng.Law)  A member of the king's council; a king's councilor. Burrill."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a member of a senate"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "FIRST SENATOR. [_To the Citizens_.] Hence to your homes, begone."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "Show us the constituency, and the now invisible channels by which the senator is made aware of their wishes, the crowd of practical and knowing men, who, by correspondence or conversation, are feeding him with evidence, anecdotes, and estimates, and it will bereave his fine attitude and resistance of something of their impressiveness."
+      },
+      {
+        "author": "Jonathan Swift",
+        "work": "Gulliver's Travels",
+        "sentence": "He likewise directed, “that every senator in the great council of a nation, after he had delivered his opinion, and argued in the defence of it, should be obliged to give his vote directly contrary; because if that were done, the result would infallibly terminate in the good of the public."
+      }
+    ]
+  },
+  "senatorial": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. Of or pertaining to a senator, or a senate; becoming to a senator, or a senate; as, senatorial duties; senatorial dignity. 2. Entitled to elect a senator, or by senators; as, the senatorial districts of a State. [U. S.]"
+      },
+      {
+        "source": "wordnet_a",
+        "def": "of or relating to senators"
+      }
+    ],
+    "quotes": []
+  },
+  "senatorship": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "The office or dignity of a senator. Carew."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the office of senator"
+      }
+    ],
+    "quotes": []
+  },
+  "statute": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. An act of the legislature of a state or country, declaring, commanding, or prohibiting something; a positive law; the written will of the legislature expressed with all the requisite forms of legislation; -- used in distinction fraom common law. See Common law, under Common, a. Bouvier. Note: Statute is commonly applied to the acts of a legislative body consisting of representatives. In monarchies, legislature laws of the sovereign are called edicts, decrees, ordinances, rescripts, etc. In works on international law and in the Roman law, the term is used as embracing all laws imposed by competent authority. Statutes in this sense are divided into statutes real, statutes personal, and statutes mixed; statutes real applying to immovables; statutes personal to movables; and statutes mixed to both classes of property. 2. An act of a corporation or of its founder, intended as a permanent rule or law; as, the statutes of a university. 3. An assemblage of farming servants (held possibly by statute) for the purpose of being hired; -- called also statute fair. [Eng.] Cf. 3d Mop, 2. Halliwell. Statute book, a record of laws or legislative acts. Blackstone. -- Statute cap, a kind of woolen cap; -- so called because enjoined to be worn by a statute, dated in 1571, in behalf of the trade of cappers. [Obs.] Halliwell. -- Statute fair. See Statute, n., 3, above. -- Statute labor, a definite amount of labor required for the public service in making roads, bridges, etc., as in certain English colonies. -- Statute merchant (Eng. Law), a bond of record pursuant to the stat. 13 Edw. I., acknowledged in form prescribed, on which, if not paid at the day, an execution might be awarded against the body, lands, and goods of the debtor, and the obligee might hold the lands until out of the rents and profits of them the debt was satisfied; -- called also a pocket judgment. It is now fallen into disuse. Tomlins. Bouvier. -- Statute mile. See under Mile. -- Statute of limitations (Law), a statute assigned a certain time, after which rights can not be enforced by action. -- Statute staple, a bond of record acknowledged before the mayor of the staple, by virtue of which the creditor may, on nonpayment, forthwith have execution against the body, lands, and goods of the debtor, as in the statute merchant. It is now disused. Blackstone. Syn. -- Act; regulation; edict; decree. See Law."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "an act passed by a legislative body"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "enacted by a legislative body"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "The statute of thy beauty thou wilt take, Thou usurer that put’st forth all to use, And sue a friend, came debtor for my sake, So him I lose through my unkind abuse."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "We are brought on to a day in February, on which was held the yearly statute or hiring fair in the county-town of Casterbridge."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "The priest becomes a form; the attorney a statute-book; the mechanic a machine; the sailor a rope of the ship."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "Truly there is, both in the Scripture and the statute-book."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "Spenlow and I went into Court, where we had a divorce-suit coming on, under an ingenious little statute (repealed now, I believe, but in virtue of which I have seen several marriages annulled), of which the merits were these."
+      },
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "27:21 In the tabernacle of the congregation without the vail, which is before the testimony, Aaron and his sons shall order it from evening to morning before the LORD: it shall be a statute for ever unto their generations on the behalf of the children of Israel."
+      },
+      {
+        "author": "Walt Whitman",
+        "work": "Leaves of Grass",
+        "sentence": "What are your theology, tuition, society, traditions, statute-books, now?"
+      }
+    ]
+  },
+  "statutorily": {
+    "defs": [
+      {
+        "source": "wordnet_r",
+        "def": "according to statute"
+      }
+    ],
+    "quotes": []
+  },
+  "statutory": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Enacted by statute; depending on statute for its authority; as, a statutory provision."
+      },
+      {
+        "source": "wordnet_a",
+        "def": "relating to or created by statutes"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "prescribed or authorized by or punishable under a statute"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "By old English statutory law, the whale is declared “a royal fish.” *"
+      }
+    ]
+  },
+  "revindicate": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "To vindicate again; to reclaim; to demand and take back. Mitford."
+      }
+    ],
+    "quotes": []
+  },
+  "unvindictive": {
+    "defs": [
+      {
+        "source": "wordnet_s",
+        "def": "not vindictive"
+      }
+    ],
+    "quotes": []
+  },
+  "vindicable": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "Capable of being vindicated. -- Vin`di*ca*bil\"i*ty, n."
+      }
+    ],
+    "quotes": []
+  },
+  "vindicate": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. To lay claim to; to assert a right to; to claim. [R.] Is thine alone the seed that strews the plain The birds of heaven shall vindicate their grain. Pope. 2. To maintain or defend with success; to prove to be valid; to assert convincingly; to sustain against assault; as, to vindicate a right, claim, or title. 3. To support or maintain as true or correct, against denial, censure, or objections; to defend; to justify. When the respondent denies any proposition, the opponent must directly vindicate . . . that proposition. I. Watts. Laugh where we must, be candid where we can, But vindicate the ways of God to man. Pope. 4. To maintain, as a law or a cause, by overthrowing enemies. Milton. 5. To liberate; to set free; to deliver. [Obs.] I am confident he deserves much more That vindicates his country from a tyrant Than he that saves a citizen. Massinger. 6. To avenge; to punish; as, a war to vindicate or punish infidelity. [Obs.] Bacon. God is more powerful to exact subjection and to vindicate rebellion. Bp. Pearson. Syn. -- To assert; maintain; claim. See Assert."
+      },
+      {
+        "source": "wordnet_v",
+        "def": "show to be right by providing justification or proof"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "maintain, uphold, or defend"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "clear of accusation, blame, suspicion, or doubt with supporting proof"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "And here I must vindicate a claim to philosophical reflectiveness, by remarking that Mr."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "The worth of the thing signified must vindicate our taste for the emblem."
+      },
+      {
+        "author": "James Joyce",
+        "work": "Dubliners",
+        "sentence": "He wished to vindicate himself in some way, to assert his manhood."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "Then why—since the choice was with himself—should the individual, whose connexion with the fallen woman had been the most intimate and sacred of them all, come forward to vindicate his claim to an inheritance so little desirable?"
+      },
+      {
+        "author": "Jonathan Swift",
+        "work": "Gulliver's Travels",
+        "sentence": "I am here obliged to vindicate the reputation of an excellent lady, who was an innocent sufferer upon my account."
+      },
+      {
+        "author": "Walt Whitman",
+        "work": "Leaves of Grass",
+        "sentence": "I know I am august, I do not trouble my spirit to vindicate itself or be understood, I see that the elementary laws never apologize, (I reckon I behave no prouder than the level I plant my house by, after all.)"
+      }
+    ]
+  },
+  "vindicated": {
+    "defs": [
+      {
+        "source": "wordnet_v",
+        "def": "show to be right by providing justification or proof"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "maintain, uphold, or defend"
+      },
+      {
+        "source": "wordnet_v",
+        "def": "clear of accusation, blame, suspicion, or doubt with supporting proof"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "freed from any question of guilt"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Bulstrode was vindicated from any resemblance to her husband."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "The acute policy dictating these movements was sufficiently vindicated at daybreak, by the sight of a long sleek on the sea directly and lengthwise ahead, smooth as oil, and resembling in the pleated watery wrinkles bordering it, the polished metallic-like marks of some swift tide-rip, at the mouth of a deep, rapid stream."
+      },
+      {
+        "author": "Jane Austen",
+        "work": "Emma",
+        "sentence": "They vindicated him against the base aspersion."
+      }
+    ]
+  },
+  "vindication": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. The act of vindicating, or the state of being vindicated; defense; justification against denial or censure; as, the vindication of opinions; his vindication is complete. Occasion for the vindication of this passage in my book. Locke. 2. (Civil Law)  The claiming a thing as one's own; the asserting of a right or title in, or to, a thing. Burrill."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the act of vindicating or defending against criticism or censure etc."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "the justification for some act or belief"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "He had been preoccupied with his own vindication, and had been blind to what Ladislaw might infer on his own account."
+      },
+      {
+        "author": "Jonathan Swift",
+        "work": "Gulliver's Travels",
+        "sentence": "Yet thus much I may be allowed to say in my own vindication, that I artfully eluded many of his questions, and gave to every point a more favourable turn, by many degrees, than the strictness of truth would allow."
+      },
+      {
+        "author": "Jane Austen",
+        "work": "Sense and Sensibility",
+        "sentence": "Not that Marianne appeared to distrust the truth of any part of it, for she listened to it all with the most steady and submissive attention, made neither objection nor remark, attempted no vindication of Willoughby, and seemed to shew by her tears that she felt it to be impossible."
+      }
+    ]
+  },
+  "vindicator": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "One who vindicates; one who justifies or maintains. Locke."
+      },
+      {
+        "source": "wordnet_n",
+        "def": "a person who argues to defend or justify some policy or institution"
+      }
+    ],
+    "quotes": []
+  },
+  "vindicatory": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. Tending or serving to vindicate or justify; justificatory; vindicative. 2. Inflicting punishment; avenging; punitory. The afflictions of Job were no vindicatory punishments to take vengeance of his sins. Abp. Bramhall."
+      },
+      {
+        "source": "wordnet_s",
+        "def": "of or relating to or having the nature of retribution"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "given or inflicted in requital according to merits or deserts"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "providing justification"
+      }
+    ],
+    "quotes": []
+  },
+  "vindictive": {
+    "defs": [
+      {
+        "source": "webster_1913",
+        "def": "1. Disposed to revenge; prompted or characterized by revenge; revengeful. I am vindictive enough to repel force by force. Dryden. 2. Punitive. [Obs.] Vindictive damages. (Law) See under Damage, n. -- Vin*dic\"tive*ly, adv. -- Vin*dic\"tive*ness, n."
+      },
+      {
+        "source": "wordnet_s",
+        "def": "disposed to seek revenge or intended for revenge; - Shakespeare; - M.R.Cohen"
+      },
+      {
+        "source": "wordnet_s",
+        "def": "showing malicious ill will and a desire to hurt; motivated by spite"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "If she had only lived, I could have been angry and cruel towards her with some justification; but to be vindictive towards a poor dead woman recoils upon myself."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "The vindictive fire was still burning in him, and he could utter no word of retractation; but it was nevertheless in his mind that having come back to this hearth where he had enjoyed a caressing friendship he had found calamity seated there—he had had suddenly revealed to him a trouble that lay outside the home as well as within it."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "It would seem, there is always this vindictive circumstance stealing in at unawares, even into the wild poesy in which the human fancy attempted to make bold holiday, and to shake itself free of the old laws,--this back-stroke, this kick of the gun, certifying that the law is fatal; that in nature nothing can be given, all things are sold."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "When on that shivering winter’s night, the Pequod thrust her vindictive bows into the cold malicious waves, who should I see standing at her helm but Bulkington!"
+      },
+      {
+        "author": "James Joyce",
+        "work": "Dubliners",
+        "sentence": "A vague terror seized Gabriel at this answer as if, at that hour when he had hoped to triumph, some impalpable and vindictive being was coming against him, gathering forces against him in its vague world."
+      },
+      {
+        "author": "Bram Stoker",
+        "work": "Dracula",
+        "sentence": "He was deathly pale, just like a waxen image, and the red eyes glared with the horrible vindictive look which I knew too well."
+      },
+      {
+        "author": "William James",
+        "work": "Pragmatism",
+        "sentence": "And the poor animal got another vindictive cut."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "This done, he went away, muttering, and uttered the cry of his trade next door, in a vindictive shriek."
+      },
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Wisdom of Father Brown",
+        "sentence": "He went off sulking, but more sheepishly than I had expected-- perhaps he had been shaken by his fall--and I watched the star of sand splashed on his back receding down the road with a horrid vindictive pleasure."
+      }
+    ]
+  },
+  "vindictively": {
+    "defs": [
+      {
+        "source": "wordnet_r",
+        "def": "in a vindictive, revengeful manner"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Wisdom of Father Brown",
+        "sentence": "There are people in Paris who will cure them of such morbid fancies,\" said Valognes vindictively."
+      }
+    ]
+  },
+  "vindictiveness": {
+    "defs": [
+      {
+        "source": "wordnet_n",
+        "def": "a malevolent desire for revenge"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Since, thus, the prevision of his own unending bliss could not nullify the bitter savors of irritated jealousy and vindictiveness, it is the less surprising that the probability of a transient earthly bliss for other persons, when he himself should have entered into glory, had not a potently sweetening effect."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "Small reason was there to doubt, then, that ever since that almost fatal encounter, Ahab had cherished a wild vindictiveness against the whale, all the more fell for that in his frantic morbidness he at last came to identify with him, not only all his bodily woes, but all his intellectual and spiritual exasperations."
+      }
+    ]
+  }
+}

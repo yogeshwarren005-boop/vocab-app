@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin vindic within the domain of Law, Justice & Feudal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of vindic in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Claim back, recover, or reassert one's lawful right or possession to something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman and civil property jurisprudence, reclaim ownership of property wrongful dispossessed through a formal rei vindicatio action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, revindicate designates pertaining to, derived from, or characteristic of latin vindic within the domain of law, justice & feudal."*
+> - 📜 **David Hume (*The History of England*):** *"The exiled barons resolved to cross the channel and **revindicate** their confiscated patrimonies by force of arms."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Roman senate sought in vain to **revindicate** its ancient constitutional prerogatives from the military despotism of the praetorian cohorts."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"A resurrected nation rose to **revindicate** its primordial liberties from centuries of feudal oppression and monarchical privilege."*

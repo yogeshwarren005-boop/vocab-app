@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a viceroy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a viceroy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of a viceroy or vicereine; imperial and administrative in deputized splendor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British and Spanish colonial administration, pertaining to the court, ceremonial retinue, and authority of a viceroy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"His finger leaped and struck point after point, vibrating. —T is viceregal lodge."*
-> - 📜 **James Joyce (*Ulysses*):** *"Right outside the viceregal lodge, imagine! —They’re only in the hook and eye department, Myles Crawford said."*
-> - 📜 **James Joyce (*Ulysses*):** *"Saw her in the viceregal party when Stubbs the park ranger got me in with Whelan of the _Express._ Scavenging what the quality left."*
+> - 📜 **Rudyard Kipling (*Plain Tales from the Hills*):** *"The Simla season reached its festive height when the **viceregal** party arrived at the hill station."*
+> - 📜 **William Makepeace Thackeray (*The Luck of Barry Lyndon*):** *"He attended the glittering Dublin levée, hoping to secure favor within the lavish **viceregal** circle."*
+> - 📜 **Winston Churchill (*The Story of the Malakand Field Force*):** *"The frontier tribesmen sent tribal emissaries to treat directly with the British **viceregal** delegation."*

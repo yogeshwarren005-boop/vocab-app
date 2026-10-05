@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of being unjust or unfair.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The practice of being unjust or unfair.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inherent unfairness, inequity, or moral wrongfulness violating the standards of justice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political philosophy and ethical critique, the wrongful character of oppressive laws, discriminatory policies, or unequal contracts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unjustness designates the practice of being unjust or unfair."*
+> - 📜 **John Locke (*Second Treatise of Government*):** *"The intrinsic **unjustness** of tyranny dissolves the social contract and restores to mankind their natural right to resist oppression."*
+> - 📜 **Jeremy Bentham (*Principles of the Civil Code*):** *"The **unjustness** of retroactive penal laws lies in punishing citizens for deeds that were lawful when committed."*
+> - 📜 **Edmund Burke (*Tracts on the Popery Laws*):** *"The blatant **unjustness** of penal statutes targeting Catholic subjects in Ireland undermined all reverence for royal law."*

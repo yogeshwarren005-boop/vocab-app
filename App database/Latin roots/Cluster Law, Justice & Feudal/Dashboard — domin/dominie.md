@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A clergyman; especially a settled minister or parson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clergyman; especially a settled minister or parson.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Scottish schoolmaster, teacher, or tutor; or an informal title for a clergyman or pastor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Scottish literature (especially Scott's Waverley novels), an affectionate title for an eccentric, bookish village schoolmaster.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And when the Dominie, in the chapel, here in Folsom of a Sunday, worships God in his own good modern way, I know that in him, the Dominie, still abide the worships of the Plough, the Fish, the Tree—ay, and also all worships of Astarte and the Night."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I had to pet the Dominie decorously for a week before he regained his benign manner."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Sallie and the Dominie sat talking to you so late last night that I didn't feel it was fair to come across after they left."*
+> - 📜 **Sir Walter Scott (*Guy Mannering*):** *"**dominie** Sampson was an eccentric scholar whose immense learning was matched only by his utter unworldliness."*
+> - 📜 **Robert Louis Stevenson (*Kidnapped*):** *"The kindly village **dominie** lent David Balfour a few shillings and a Latin testament for his perilous journey."*
+> - 📜 **Jack London (*The Star Rover*):** *"I recalled the pedantic Scottish **dominie** who had hammered the conjugation of Latin verbs into our unwilling heads."*

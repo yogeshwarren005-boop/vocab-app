@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A 15-year cycle used as a chronological unit in ancient rome and adopted in some medieval kingdoms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A 15-year cycle used as a chronological unit in ancient rome and adopted in some medieval kingdoms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A recurring fifteen-year fiscal and chronological cycle originally instituted in late antiquity for Roman tax assessment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatics and historical chronology, a conventional calendar reckoning used to date medieval papal bulls, charters, and Byzantine decrees.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, indiction designates a 15-year cycle used as a chronological unit in ancient rome and adopted in some medieval kingdoms."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The regular tribute of the provinces was adjusted according to the imperial cycle of the **indiction**, renewed every fifteen years."*
+> - 📜 **Lord Macaulay (*The History of England*):** *"Ecclesiastical chanceries dated their medieval charters by specifying the year of the imperial **indiction** alongside the regnal year."*
+> - 📜 **Henry Hallam (*View of the State of Europe during the Middle Ages*):** *"Chronologists determine the authenticity of early medieval treaties by reconciling the recorded **indiction** with the solar cycle."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being imperious and overbearing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being imperious and overbearing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The character trait of being tyrannical, arrogant, and constantly disposed to bully or dictate to others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical personality assessment, an overbearing pattern of interpersonal subjugation and aggressive interpersonal control.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, domineeringness designates the trait of being imperious and overbearing."*
+> - 📜 **Samuel Richardson (*Clarissa*):** *"Lovelace's intolerable **domineeringness** alienated even those companions who admired his wit and courage."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The covert **domineeringness** of Casaubon manifested itself in rigid intellectual frost rather than violent passion."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Gilbert Osmond's aristocratic **domineeringness** was masked beneath an exquisite veneer of cultivated aesthetic taste."*

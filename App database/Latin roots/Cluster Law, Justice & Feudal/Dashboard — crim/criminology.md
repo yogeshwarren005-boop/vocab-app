@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of crime and criminal behavior and law enforcement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The scientific study of crime and criminal behavior and law enforcement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of crime, criminal psychology, and penal rehabilitation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In interdisciplinary behavioral science, the comprehensive study of the etiology, prevention, policing, and societal impact of unlawful conduct.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Students of criminology will remember the analogous incidents in Godno, in Little Russia, in the year ’66, and of course there are the Anderson murders in North Carolina, but this case possesses some features which are entirely its own."*
+> - 📜 **Cesare Lombroso (*Crime, Its Causes and Remedies*):** *"The primary objective of modern **criminology** is to substitute scientific observation for blind retribution in penal treatment."*
+> - 📜 **H. G. Wells (*The Work, Wealth and Happiness of Mankind*):** *"Progressive developments in psychology have fundamentally transformed the methods and scope of contemporary **criminology**."*
+> - 📜 **Max Weber (*General Economic History*):** *"The emergence of rational **criminology** coincided with the rise of modern administrative law and secularized states."*

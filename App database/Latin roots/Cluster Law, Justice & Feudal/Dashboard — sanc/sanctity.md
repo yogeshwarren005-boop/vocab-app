@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being holy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being holy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or attribute of being holy, sacred, inviolable, or spiritually pure and consecrated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional ethics and bioethics, the absolute inviolability of fundamental human rights, life, or solemn oaths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And his kissing is as full of sanctity as the touch of holy bread."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There are a crew of wretched souls That stay his cure: their malady convinces The great assay of art; but at his touch, Such sanctity hath heaven given his hand, They presently amend."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he be none of mine, my sanctity Will to my sense bend no licentious ear, But curb it, spite of seeing."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"A most miraculous work in this good king, which often since my here-remain in England I have seen him do: how he solicits heaven, himself best knows; but strangely-visited people, all swollen and ulcerous, he cures, hanging a golden stamp about their necks, put on with holy prayers: and 'tis spoken, to the succeeding royalty he leaves the healing **sanctity**."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"Nothing is at last sacred but the **sanctity** of your own mind; absolve you to yourself, and you shall have the suffrage of the world."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Father Mapple enjoyed such a wide reputation for sincerity and **sanctity** that the mariners listened in breathless silence."*

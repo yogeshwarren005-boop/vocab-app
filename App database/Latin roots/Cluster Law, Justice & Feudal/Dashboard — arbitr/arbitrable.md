@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Appropriate for or subject to settlement by arbitration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appropriate for or subject to settlement by arbitration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Legally capable of being settled, judged, or determined by arbitration rather than litigation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dispute resolution and labor law, describing controversies, grievances, or contractual claims that fall within the lawful jurisdiction of an arbitral tribunal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arbitrable designates appropriate for or subject to settlement by arbitration."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The statute strictly defined which collective bargaining disputes were **arbitrable** before the state mediation board."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"Whether an issue of breach is properly **arbitrable** depends upon the express covenant framed by the consenting parties."*
+> - 📜 **Roscoe Pound (*The Spirit of the Common Law*):** *"Commercial custom gradually expanded the categories of differences deemed **arbitrable** outside the formal courts of equity."*

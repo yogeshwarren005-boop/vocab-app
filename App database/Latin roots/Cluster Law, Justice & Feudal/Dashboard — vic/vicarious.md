@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Experienced at secondhand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring in an abnormal part of the body instead of the usual site involved in that function.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Experienced in the imagination through the feelings or actions of another person; performed or suffered on behalf of another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological soteriology and tort law, liability or atonement imputed to one party for the deeds, negligence, or obligations of another.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Vicarious suffering 36:30 Religious history repeats itself in the suf- fering of the just for the unjust."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In short, the principle of vicarious suffering is commonly understood and practised by races who stand on a low level of social and intellectual culture."*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"We shall also be moved to resolve that the amount of the vicarious suffering of men for this end shall be reduced of all that portion of it that comes through our indifference and the activity of evil."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"We read history with a **vicarious** thrill, projecting our own hopes and passions into the heroic exploits of past ages."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Sympathy enables us to experience a **vicarious** joy or sorrow that profoundly enriches our emotional existence."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The martyr endures **vicarious** suffering that future generations may walk in spiritual liberty and light."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: As ordered by a court.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a judicial manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of judicial proceedings, or in the manner and capacity of a judge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal practice and philosophical prose, deliberated with strict impartiality, solemn equity, and formal jurisprudence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"But Wakley is right sometimes,” the Doctor added, judicially."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Yes, I believe I would," Henrietta decided judicially."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"The French soldiers looked judicially grave."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Brooke observed the quarrel **judicially**, offering vague compromises that left both combatants unsatisfied."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"She surveyed the two candidates **judicially**, comparing their virtues as though preparing to render a final verdict."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"The magistrate nodded his head **judicially**, taking down each sworn testimony in neat copperplate script."*

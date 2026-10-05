@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With good reason.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With good reason.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With good reason; in a manner that can be shown to be proper, right, or reasonable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and critical discourse, acting or concluding with sufficient ethical or empirical justification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte B. Herr (*Their Mariposa Legend: A Romance of Santa Catalina*):** *"Warren's dog holding the gaff, a feat of which both Pal and his master were justifiably proud."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Believing that you of the border States hold more power for good than any other equal number of members, I feel it a duty which I cannot justifiably waive, to make this appeal to you."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"Society may **justifiably** punish those whose negligent actions infringe upon the security and fundamental rights of their fellow citizens."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The nation **justifiably** resisted the unconstitutional decrees that threatened the established charter of its ancient liberties."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"Undershaft insisted that poverty was a crime which no civilized community could **justifiably** tolerate among its citizens."*

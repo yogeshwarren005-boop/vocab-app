@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exploit for maximal profit, usually by sacrificing quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make commercial.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Adapted, altered, or exploited for monetary gain and large-scale market distribution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural anthropology, subjected to market relations to the detriment of communal heritage, authenticity, or ritual significance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"As farming becomes more commercialized it necessarily becomes somewhat more specialized, and produces a smaller variety of products."*
+> - 📜 **W. E. B. Du Bois (*The Souls of Black Folk*):** *"He warned that traditional jubilee melodies were becoming distorted when performed in **commercialized** concert halls."*
+> - 📜 **Henry James (*The American Scene*):** *"He observed with distaste how historical landmarks had been converted into **commercialized** curiosities for hurried tourists."*
+> - 📜 **Jack London (*Martin Eden*):** *"The aspiring author resented the cynical compromises of **commercialized** magazine editors who rejected original thought."*

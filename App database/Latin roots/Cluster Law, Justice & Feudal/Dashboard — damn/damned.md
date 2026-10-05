@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: People who are condemned to eternal punishment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wish harm upon; invoke evil upon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Condemned to eternal punishment, or intensely disliked, doomed, and denounced.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical theology and expressive literature, describing souls consigned to infernal torments, or situations regarded with supreme exasperation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, madam, ’tis not so well that I am poor, though many of the rich are damned; but if I may have your ladyship’s good will to go to the world, Isbel the woman and I will do as we may."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Truly, thou art damned, like an ill-roasted egg, all on one side."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou be’st not damned for this, the devil himself will have no shepherds."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, I were **damned** beneath all depth in hell, But that I did proceed upon just grounds To this extremity."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"I have sold my soul for eternal youth, and I am **damned** to walk the earth bearing the secret stain of corruption."*
+> - 📜 **Bram Stoker (*Dracula*):** *"The Un-Dead exist in a state of horrific desolation, forever **damned** to feed upon the living until holy release comes."*

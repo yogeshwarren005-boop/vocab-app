@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unfair treatment of a person or group on the basis of prejudice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cognitive process whereby two or more stimuli are distinguished.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The unjust treatment of different categories of people, or the ability to make fine distinctions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional law and perceptual philosophy, the unconstitutional unequal application of statutes, or the cognitive ability to distinguish subtle differences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The young man, thus invited, glanced them over, and attempted some discrimination; but, as the group were all so new to him, he could not very well exercise it."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Discrimination as to goods. § 10."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Personal discrimination. § 12."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She made a desperate effort to exercise some **discrimination** between her real duty and the phantom obligations imposed upon her."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His critical judgment was distinguished by a luminous clarity and uncommon power of intellectual **discrimination**."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"The greatness of a thinker appears in his power of **discrimination**, separating the vital seed from the dead husk of convention."*

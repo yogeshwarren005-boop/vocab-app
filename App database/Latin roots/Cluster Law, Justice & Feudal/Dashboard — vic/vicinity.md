@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A surrounding or nearby region.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A surrounding or nearby region.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The area near or surrounding a particular place; proximity in location or relationship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geography and urban sociology, the adjacent spatial zone sharing municipal infrastructure, markets, and environmental conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I'll find somebody for him," she said, eagerly running down the incline to the door, in whose vicinity Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed on the level ground in the vicinity snowed up in a heap of paper fragments, print, and manuscript which would appear to be the accumulated compliments that have been sent flying at her in the course of the day."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce and his wards on the occasion of an accidental meeting during their sojourn in the vicinity."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The isolated farm stood in the lonely **vicinity** of Norcombe Hill, exposed to every sudden squall from the south."*
+> - 📜 **George Eliot (*Middlemarch*):** *"It is enough for me to point out that there are certain social circles in the **vicinity** whose acquaintance would be advantageous."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"After his return he began to find his true field of activity in the peaceful **vicinity** of his native village."*

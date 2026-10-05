@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deserving a curse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deserving a curse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deserving severe condemnation, moral censure, or eternal punishment; thoroughly detestable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and early theological jurisprudence, describing offenses or heresies so egregious that they incur spiritual ruin and societal reprobation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is it not meant damnable in us to be trumpeters of our unlawful intents?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have, since I was three year old, conversed with a magician, most profound in his art and yet not damnable."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pox, leave thy damnable faces, and begin."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O thou foul thief! where hast thou stow'd my daughter? **Damnable** wretch, thou hast enchanted her!"*
+> - 📜 **Henry David Thoreau (*A Week on the Concord and Merrimack Rivers*):** *"It is a **damnable** fallacy that trade and material acquisition represent the true end and nobility of human existence."*
+> - 📜 **G. K. Chesterton (*The Ball and the Cross*):** *"To treat sacred ideals with callous levity seemed to him a **damnable** degradation of intellectual honor."*

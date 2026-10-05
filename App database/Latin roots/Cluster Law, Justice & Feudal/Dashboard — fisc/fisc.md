@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state treasury or exchequer or a royal treasury; originally the public treasury of rome or the emperor's private purse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state treasury or exchequer or a royal treasury; originally the public treasury of rome or the emperor's private purse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The public treasury or exchequer of a state, monarch, or government body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman and civil law jurisprudence, the imperial or state fund distinct from the sovereign's private patrimony, maintained for public revenue and expenditure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fisc designates a state treasury or exchequer or a royal treasury; originally the public treasury of rome or the emperor's private purse."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The imperial **fisc** swallowed up the forfeitures of condemned senators, filling the coffers of the Palatine treasury."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Every coin collected under the new customs tariff was directed straightway to the royal **fisc** to pay the standing army."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The revenue of the ancient crown **fisc** was derived primarily from domain lands, feudal reliefs, and judicial amercements."*

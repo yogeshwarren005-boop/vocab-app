@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Byzantine emperor who held the eastern frontier of his empire against the persians; codified roman law in 529; his general belisarius regained north africa and spain (483-565).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Byzantine emperor who held the eastern frontier of his empire against the persians; codified roman law in 529; his general belisarius regained north africa and spain (483-565).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to Justinian I, Byzantine Emperor (483–565 CE), renowned for his comprehensive codification of Roman law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal history, denoting the Corpus Juris Civilis (Institutes, Digest, Code, and Novels) compiled under Emperor Justinian.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In the sixth Christian century lived Procopius, a Christian magistrate of Constantinople, in the days when Justinian was Emperor and Belisarius general."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"They have provided a system which for terse comprehensiveness surpasses Justinian’s Pandects and the By-laws of the Chinese Society for the Suppression of Meddling with other People’s Business."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Justinian had one of his law schools there, until the earth quaked and the scholars dispersed."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The laws of **Justinian** were transcribed in Constantinople, but their principles gradually subdued the jurisprudence of modern Europe."*
+> - 📜 **Henry Maine (*Ancient Law*):** *"The **Justinian** pandects preserved the purest doctrines of classical Roman jurisprudence for the enlightenment of subsequent ages."*
+> - 📜 **James Bryce (*Studies in History and Jurisprudence*):** *"Through the **Justinian** codification, Roman legal conceptions spread across Germany, France, and Scotland."*

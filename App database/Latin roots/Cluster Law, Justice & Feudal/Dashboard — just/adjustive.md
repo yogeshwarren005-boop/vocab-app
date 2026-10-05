@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conducive to adjustment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conducive to adjustment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving or tending to adapt, harmonize, or bring into proper agreement and order.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and behavioral psychology, characterizing mechanisms that restore physiological or environmental equilibrium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adjustive designates conducive to adjustment."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Consciousness acts as an **adjustive** faculty, enabling the organism to adapt its conduct to novel external contingencies."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"Habits operate as active **adjustive** powers through which human beings reconstruct their social environment."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"Linguistic drift displays an **adjustive** tendency toward phonetic symmetry and grammatical economy over centuries."*

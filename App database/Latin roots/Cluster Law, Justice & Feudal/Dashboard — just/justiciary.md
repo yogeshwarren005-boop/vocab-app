@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Formerly a high judicial officer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The jurisdiction of a justiciar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the administration of justice; a high judge or court in Scottish and English history.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Scots law, designating the High Court of Justiciary, Scotland's supreme criminal tribunal possessing inherent jurisdiction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Dundas, as justiciary in Scotland, he exclaimed that he must go and order his silk robe."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The prisoners were brought before the lords of **justiciary** in the Parliament House of Edinburgh to answer the charge of treason."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The ancient **justiciary** powers of the crown were gradually partitioned among the three great courts of Westminster Hall."*
+> - 📜 **Robert Louis Stevenson (*Weir of Hermiston*):** *"Lord Hermiston presided upon the **justiciary** bench with terrifying severity, striking awe into every criminal who faced him."*

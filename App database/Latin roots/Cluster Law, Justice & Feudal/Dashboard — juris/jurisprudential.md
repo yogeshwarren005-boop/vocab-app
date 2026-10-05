@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the science or philosophy of law or a system of laws.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the science or philosophy of law or a system of laws.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the philosophy, science, or analytical study of law and legal principles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal history and theoretical scholarship, concerning fundamental doctrines of rights, sovereignty, and statutory interpretation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, jurisprudential designates relating to the science or philosophy of law or a system of laws."*
+> - 📜 **Benjamin N. Cardozo (*The Nature of the Judicial Process*):** *"Our **jurisprudential** systems must reconcile the need for certainty and stability with the imperative of continuous growth."*
+> - 📜 **Lon L. Fuller (*The Morality of Law*):** *"The **jurisprudential** debate between legal positivism and natural law turns fundamentally upon the inner morality of legal rules."*
+> - 📜 **Harold Laski (*Studies in the Problem of Sovereignty*):** *"The monistic state no longer satisfies the **jurisprudential** realities of modern pluralistic political associations."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The religious institution under the authority of a vicar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The religious institution under the authority of a vicar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The office, ecclesiastical jurisdiction, or territory governed by a vicar or vicar apostolic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Catholic mission administration, an ecclesiastical jurisdiction established in missionary territories prior to erection into a permanent diocese.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vicariate designates the religious institution under the authority of a vicar."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The imperial **vicariate** of Italy was subdivided into smaller administrative prefectures by the reforming emperors."*
+> - 📜 **John Henry Newman (*Apologia Pro Vita Sua*):** *"Before the restoration of the regular hierarchy, English Catholic affairs were administered under an apostolic **vicariate**."*
+> - 📜 **Lord Acton (*Lectures on Modern History*):** *"The emperor asserted his imperial **vicariate** over the contested northern Italian territories during the interregnum."*

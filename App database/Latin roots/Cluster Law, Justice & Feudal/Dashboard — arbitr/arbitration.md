@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) the hearing and determination of a dispute by an impartial referee agreed to by both parties (often used to settle disputes between labor and management).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of deciding as an arbiter; giving authoritative judgment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formal settlement of a dispute by an impartial third party chosen or appointed by the disputants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In institutional economics and international treaties, an established quasi-judicial mechanism for resolving collective labor conflicts or transnational commercial claims.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Mediation and voluntary arbitration. § 12."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Organized labor's opposition to compulsory arbitration. § 15."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The public and compulsory arbitration. § 1. #Spread of the shorter working day.# Since about 1880 a shorter working day has been one of the prime objects of organized labor in America."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Hawley in consequence took an opportunity of seeing Caleb, calling at his office to ask whether he had time to undertake an **arbitration** if it were required."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"Resolving all events, with their effects And manifold results, into the will And **arbitration** wise of the Supreme."*
+> - 📜 **G. K. Chesterton (*The Ball and the Cross*):** *"Here you can fall back on that naked and awful **arbitration** which is the only thing that balances the stars--a still, continuous violence."*

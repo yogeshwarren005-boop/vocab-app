@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An authoritative rule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A guiding principle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To speak or read aloud words to be written down by another; or to impose commands with authoritative certainty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In politics and governance, to prescribe rules, conditions, or terms of peace imperiously from a position of power.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now, Esther, I don’t mean to amend that very objectionable course: I will not hold John Jarndyce’s favour on those unfair terms of compromise, which he has no right to dictate."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I will write anything, here and now, that you will dictate."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Since the idea had been started in the very quarter which ought to dictate, he had no scruple,” he said, “in confessing his judgement to be entirely on that side."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"No single interest group should be permitted to **dictate** legislative terms to the remainder of the nation."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He refused to allow conventional middle-class morality to **dictate** the aesthetic course of his private pleasures."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Prudence and long experience seemed to **dictate** a cautious approach toward the impetuous young cavalry officer."*

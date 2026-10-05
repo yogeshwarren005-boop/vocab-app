@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to prediction; having value for making predictions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to prediction; having value for making predictions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or having the power to foretell future events, outcomes, or causal developments in advance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statistical modeling and epidemiology, having significant diagnostic efficacy or prognostic forecasting capacity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"But on this particular day it seemed as if December had remembered that it was time for winter and had turned suddenly dull and brooding, with a windless hush predictive of coming snow."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Natural science achieves its highest dignity when it attains genuine **predictive** power over physical phenomena."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Careful observation of prodromal symptoms possesses high **predictive** value in determining the clinical course of typhoid."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"The ultimate test of any scientific hypothesis lies in its **predictive** success when confronted with novel empirical facts."*

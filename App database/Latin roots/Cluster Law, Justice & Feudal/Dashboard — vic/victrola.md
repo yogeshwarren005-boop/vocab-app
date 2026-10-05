@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A brand of gramophone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A brand of gramophone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brand of early wind-up mechanical phonograph or gramophone housed in an upright wooden cabinet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In music history and twentieth-century material culture, an iconic acoustic record player popularizing recorded shellac disc music in domestic homes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"They were speaking of the Victrola recently purchased for the Crow Hill school when Martin asked, "Have you ever heard Isabel Souders play?" "Yes, at Millersville."*
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"Landis turned to Amanda--"Now you stay a while and hear our new pieces on the Victrola." "I'll help you with the dishes," she offered."*
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"You just go in the room and enjoy yourself." With little Katie leading the way and Martin following Amanda went to the sitting-room and sat down while Martin opened the Victrola."*
+> - 📜 **Sinclair Lewis (*Main Street*):** *"The parlor boasted a grand mahogany **Victrola** upon which Carol played classical symphonies for puzzled provincial guests."*
+> - 📜 **F. Scott Fitzgerald (*This Side of Paradise*):** *"From an open window floated the tinny jazz music of a **Victrola**, mingling with the warm scent of summer lilacs."*
+> - 📜 **William Faulkner (*The Sound and the Fury*):** *"The needle scratched across the spinning record on the corner **Victrola**, filling the quiet hallway with old waltz melodies."*

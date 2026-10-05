@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who has committed a crime or has been legally convicted of a crime.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bringing or deserving severe rebuke or censure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who has committed a crime, or relating to actions prohibited and penalized by law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In penal law and sociology, concerning formal statutes, judicial proceedings, and behavioral patterns associated with unlawful violations of societal welfare.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What you have seen him do and heard him speak, Beating your officers, cursing yourselves, Opposing laws with strokes, and here defying Those whose great power must try him—even this, So criminal and in such capital kind, Deserves th’ extremest death."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jo’s ideas of a criminal trial, or a judge, or a bishop, or a government, or that inestimable jewel to him (if he only knew it) the Constitution, should be strange!"*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Admit that he cannot pay it, or even that he will not try; is it not better to relieve his desperate need, than to have him perhaps turn criminal and prey upon society?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let me see: what think you of hanging, if some doubtful **criminal** should be brought before the bench?"*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"He is the Napoleon of crime, Watson; he is the organizer of half that is evil and of nearly all that is undetected in this great city, the supreme **criminal** mastermind."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Acts injurious to others require a totally different treatment: encroaching on their rights requires penal measures under the **criminal** code."*

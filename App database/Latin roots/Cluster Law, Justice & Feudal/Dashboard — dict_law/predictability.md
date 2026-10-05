@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being predictable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being predictable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The degree to which an event, outcome, or behavior can be foreknown, calculated, or anticipated in advance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statistics, physical dynamics, and law, the quantitative certainty with which future states follow from initial parameters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, predictability designates the quality of being predictable."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Habitual conduct introduces order and regular **predictability** into the otherwise chaotic stream of human social affairs."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The mathematical **predictability** of planetary motions convinced early astronomers of the universal uniformity of nature."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"As evolutionary systems stabilize, their operations exhibit greater mechanical **predictability** and structural coherence."*

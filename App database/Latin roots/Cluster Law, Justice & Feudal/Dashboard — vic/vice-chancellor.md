@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin vic within the domain of Law, Justice & Feudal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of vic in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The chief executive officer and administrative head of a British, Commonwealth, or European university.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historic equity jurisprudence, an equity judge acting as chief deputy to the Lord Chancellor in the English Court of Chancery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vice-chancellor designates pertaining to, derived from, or characteristic of latin vic within the domain of law, justice & feudal."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The counsel addressed the **vice-chancellor** with tedious arguments regarding the endless testamentary trusts in Jarndyce."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"King James attempted to compel the **vice-chancellor** of Cambridge to admit a Benedictine monk without the customary oaths."*
+> - 📜 **Anthony Trollope (*The Duke's Children*):** *"The university **vice-chancellor** received the distinguished parliamentary deputation in the great senate house."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not discriminating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not discriminating.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking discernment or careful judgment; failing to distinguish differences.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical philosophy and behavioral assessment, characterized by indiscriminate acceptance, distribution, or appraisal without criteria.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The common law contained likewise a closely related body of doctrine by which the railroads, as common carriers, ought to have given equitable and undiscriminating rates to all shippers."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Another time, in another of your undiscriminating platform rushes, you would punish the sober for the drunken."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The savage gale struck the ship with an **undiscriminating** fury that tested every timber and rope."*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"He showered the young clerks with **undiscriminating** praise, heedless of their individual talents or negligence."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"An **undiscriminating** tariff policy indiscriminately shelters inefficient monopolies while burdening essential exports."*

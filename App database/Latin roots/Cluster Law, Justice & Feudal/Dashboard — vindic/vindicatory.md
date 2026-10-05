@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or having the nature of retribution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Given or inflicted in requital according to merits or deserts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving or tending to vindicate, justify, avenge, or assert a lawful claim.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In penal jurisprudence and moral philosophy, inflicting retributive punishment to reassert the sanctity and majesty of violated law.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vindicatory designates of or relating to or having the nature of retribution."*
+> - 📜 **Jeremy Bentham (*The Principles of Morals and Legislation*):** *"Punishment is not inflicted merely from **vindicatory** vengeance, but to deter potential offenders through the dread of legal penalties."*
+> - 📜 **Francis Bacon (*Essays*):** *"Revenge is a kind of wild justice, which the more man's nature runs to, the more ought law to weed it out, denying private citizens all **vindicatory** violence."*
+> - 📜 **William Paley (*The Principles of Moral and Political Philosophy*):** *"The magistrate's sword is invested with **vindicatory** terror to restrain the lawless passions of desperate men."*

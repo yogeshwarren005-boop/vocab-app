@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not adjustable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not adjustable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being adjusted, modified, or regulated to fit changing conditions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In engineering design and personality psychology, fixed rigidly in mechanical dimension or lacking adaptive mental plasticity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"An illusion for remember their complex unadjustable eye."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"Rigid instincts represent **unadjustable** modes of reflex action that fail when environmental conditions alter abruptly."*
+> - 📜 **William James (*Pragmatism*):** *"An absolute dogma presents an **unadjustable** barrier to empirical inquiry and progressive scientific hypothesis."*
+> - 📜 **John Dewey (*Human Nature and Conduct*):** *"Customs that become petrified and **unadjustable** inevitably produce violent social revolutions when life outgrows them."*

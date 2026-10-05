@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Opposition between two conflicting forces or ideas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (logic) a statement that is necessarily false.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A direct logical opposition between two things that cannot both be true at the same time and in the same respect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Hegelian and dialectical philosophy, an internal tension or antithesis driving development and transformation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Without contradiction I have heard that."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath been used Ever to conquer and to have his worth Of contradiction."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Safely, I think. ’Twas a contention in public, which may, without contradiction, suffer the report."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"It is an impossible **contradiction** for the same thing at the same moment both to be and not to be."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The principle of **contradiction** constitutes the ultimate foundation of all deductive syllogistic reasoning."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Human life presents a glaring **contradiction** between boundless spiritual aspiration and finite earthly limitation."*

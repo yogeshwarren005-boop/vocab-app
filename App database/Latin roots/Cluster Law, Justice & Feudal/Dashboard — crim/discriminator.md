@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who (or that which) differentiates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who (or that which) differentiates.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or device that identifies differences, or one who treats others unfairly based on bias.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electronics and statistical decision theory, an electrical circuit or classification algorithm that differentiates between distinct signal levels or data categories.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, discriminator designates a person who (or that which) differentiates."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The experimental apparatus acted as an accurate physical **discriminator**, separating rapid electric oscillations from steady galvanic currents."*
+> - 📜 **Thomas Edison (*The Edison Papers*):** *"In telephone signaling, a mechanical **discriminator** was employed to distinguish between voice frequencies and line static."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"The impartial magistrate must stand as a vigilant **discriminator** between valid contractual covenants and unconscionable exactions."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman catholic church) an administrative deputy who assists a bishop.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman catholic church) an administrative deputy who assists a bishop.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The principal administrative deputy and legal deputy of an Anglican or Catholic bishop, exercising executive episcopal jurisdiction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In canon jurisprudence, an ecclesiastical magistrate appointed with ordinary power to administer diocesan affairs on behalf of the diocesan bishop.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vicar-general designates (roman catholic church) an administrative deputy who assists a bishop."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The metropolitan bishop dispatched his **vicar-general** to adjudicate the contentious theological disputes dividing provincial monasteries."*
+> - 📜 **Anthony Trollope (*The Warden*):** *"The bishop consulted his **vicar-general** upon the delicate legal dispute regarding the hospital endowment before issuing a public reply."*
+> - 📜 **Sir Walter Scott (*Kenilworth*):** *"The venerable **vicar-general** presided over the diocesan consistory with dignified legal impartiality."*

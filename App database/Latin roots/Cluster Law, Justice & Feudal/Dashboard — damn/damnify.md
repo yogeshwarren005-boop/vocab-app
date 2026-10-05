@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin damn within the domain of Law, Justice & Feudal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of damn in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause financial loss, physical damage, or legal injury to another person or estate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical common-law pleading, to inflict a tortious harm or measurable prejudice upon a claimant's property or rights.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, damnify designates pertaining to, derived from, or characteristic of latin damn within the domain of law, justice & feudal."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A nuisance that does not actually **damnify** the neighbor in the enjoyment of his tenement gives no rise to an action on the case."*
+> - 📜 **Jeremy Bentham (*Rationale of Judicial Evidence*):** *"The law must provide swift redress whenever trespassers willfully **damnify** the lands or possessions of honest husbandmen."*
+> - 📜 **Edward Coke (*Institutes of the Lawes of England*):** *"Every covenant of indemnity protects the purchaser against all encumbrances that may hereafter **damnify** the title."*

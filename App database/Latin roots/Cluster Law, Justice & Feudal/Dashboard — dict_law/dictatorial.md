@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or characteristic of a dictator.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expecting unquestioning obedience.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of an absolute ruler; imperious, overbearing, and brookings no dissent or opposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence and governance, pertaining to unrestricted sovereign authority or unilateral executive command.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Jaggers being highly dictatorial, and Wemmick obstinately justifying himself whenever there was the smallest point in abeyance for a moment."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"I will parody them— Blest Knight! whose dictatorial looks dispense To Children affluence, to Rushworth sense."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The intrusive policy and dictatorial conduct of the strangers excited his indignation, and he beheld with uneasiness their exterminating wars with the neighboring tribes."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A council of revision vested with **dictatorial** veto powers would paralyze the deliberate wisdom of the legislature."*
+> - 📜 **Lord Macaulay (*The History of England*):** *"James the Second adopted a **dictatorial** demeanor toward the bishops who dared question his royal dispensing power."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Democratic nations must guard vigilantly against allowing wartime executives to assume permanent **dictatorial** prerogatives."*

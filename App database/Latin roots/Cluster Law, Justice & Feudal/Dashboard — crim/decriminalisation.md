@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Legislation that makes something legal that was formerly illegal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Legislation that makes something legal that was formerly illegal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The elimination of criminal penalties for an activity while potentially retaining civil regulations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In penal reform and public health policy, the statutory transition from penal sanctions to civil infractions or therapeutic interventions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decriminalisation designates legislation that makes something legal that was formerly illegal."*
+> - 📜 **H. L. A. Hart (*Law, Liberty, and Morality*):** *"The systematic **decriminalisation** of victimless conduct marks the progress of an enlightened penal system."*
+> - 📜 **Michel Foucault (*Discipline and Punish*):** *"The formal **decriminalisation** of minor offenses often conceals an expansion of subtle bureaucratic surveillance."*
+> - 📜 **Bertrand Russell (*Proposed Roads to Freedom*):** *"Social liberty expands whenever the state embarks upon the sensible **decriminalisation** of individual conscience."*

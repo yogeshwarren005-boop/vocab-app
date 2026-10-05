@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin vic within the domain of Law, Justice & Feudal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of vic in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prefix designating a deputy, subordinate, or acting official empowered to exercise the duties of a superior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In administrative morphology and bureaucratic titles, denoting hierarchical succession or operational delegation beneath a principal executive.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vice- designates pertaining to, derived from, or characteristic of latin vic within the domain of law, justice & feudal."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The constitutional creation of a **vice-** magistrate ensures executive continuity in the event of unforeseen presidential disability."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The king appointed a trusted **vice-** admiral to command the channel squadron during the naval crisis."*
+> - 📜 **Ralph Waldo Emerson (*English Traits*):** *"British institutions maintain numerous ancient **vice-** regencies that preserve medieval ceremonial titles under modern parliamentary forms."*

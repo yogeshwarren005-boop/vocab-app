@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to senators.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to senators.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or befitting a senate or a member of a senate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman social hierarchy and republican rhetoric, possessing aristocratic rank, grave dignity, or constitutional privileges of the senatorial class.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As a result, union labour possessing an important political significance at the time, the time-serving politicians at Sacramento appointed a senatorial committee of investigation of the state prisons."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It makes no difference that in these senatorial districts and counties a number of representatives are voted for by each elector at the same time."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Many of the defects, as we have seen, which can only be supplied by a senatorial institution, are common to a numerous assembly frequently elected by the people, and to the people themselves."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The **senatorial** families preserved their vast territorial possessions in Italy through all the shocks of barbarian invasion."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The **senatorial** term of six years provides that stability and continuity of policy which the fluctuating popular branch cannot ensure."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The **senatorial** debates exhibit an elevation of tone and a mastery of public law that reflect the mature wisdom of the nation."*

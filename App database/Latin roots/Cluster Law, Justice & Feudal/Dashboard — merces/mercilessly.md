@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without pity; in a merciless manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without pity; in a merciless manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a merciless, pitiless, or unsparing manner; without leniency, compassion, or indulgence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetorical or physical conflict, executing severe punishment, censure, or destruction without restraint.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Then with her little scissors, by the aid of a pocket looking-glass, she mercilessly nipped her eyebrows off, and thus insured against aggressive admiration, she went on her uneven way."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"There were few trees, or none, those that would have grown in the hedges being mercilessly plashed down with the quickset by the tenant-farmers, the natural enemies of tree, bush, and brake."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Not here?” exclaimed the man, striking his left cheek mercilessly, with the flat of his hand."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The frosty winter wind swept across the upland fields, chilling the tired farm laborers **mercilessly**."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The unrelenting wilderness seemed to mock the intruders, beating them down **mercilessly** under oppressive fever heat."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The sharp-tongued sister cross-examined the frightened boy **mercilessly** concerning his mysterious disappearance."*

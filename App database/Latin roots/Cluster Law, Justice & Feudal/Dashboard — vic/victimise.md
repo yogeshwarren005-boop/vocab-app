@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a victim of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Punish unjustly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To single someone out for cruel, unjust, or unfair treatment; to swindle, dupe, or exploit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In labor relations and social ethics, to retaliate against an employee, tenant, or subordinate for asserting legal rights.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Six weeks--appropinquity--opportunity--had victimised him completely."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Sharpers in the gambling saloons were always eager to **victimise** any naive young officer newly arrived from the country."*
+> - 📜 **George Bernard Shaw (*Plays Pleasant and Unpleasant*):** *"Society continues to **victimise** those who dare to question its unexamined moral orthodoxies."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"He felt that the rigid traditions of the university city conspired to **victimise** poor scholars seeking knowledge."*

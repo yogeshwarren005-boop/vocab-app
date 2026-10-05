@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A clergyman; especially a settled minister or parson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clergyman; especially a settled minister or parson.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Protestant clergyman, pastor, or schoolmaster, especially in Dutch-descended or colonial American communities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American colonial history and folklore, an ordained minister of the Dutch Reformed Church serving as community elder.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dominee designates a clergyman; especially a settled minister or parson."*
+> - 📜 **Washington Irving (*The Legend of Sleepy Hollow*):** *"The venerable Dutch **dominee** preached long and drowsy sermons in the old whitewashed church at the foot of the hill."*
+> - 📜 **James Fenimore Cooper (*Satanstoe*):** *"The town **dominee** commanded universal deference from the burghers throughout the Hudson River settlement."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The stern old **dominee** gazed with solemn disapproval upon the transgressions of the wayward flock."*

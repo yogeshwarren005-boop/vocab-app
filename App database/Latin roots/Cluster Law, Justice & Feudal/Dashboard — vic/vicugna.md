@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of camelidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of camelidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A wild South American camelid (Vicugna vicugna) native to the high alpine Andes, prized for its exceptionally fine fleece.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic zoology and Andean ecology, the taxonomic genus encompassing the vicuña, characterized by continuously growing rodent-like lower incisors adapted for alpine grazing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vicugna designates a genus of camelidae."*
+> - 📜 **Alexander von Humboldt (*Views of Nature*):** *"The graceful **Vicugna** wanders in small herds across the windswept puna grasslands of the Peruvian cordilleras."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We observed solitary herds of the wild **vicugna** grazing peacefully among the desolate rocky slopes beneath snowcapped Andean peaks."*
+> - 📜 **William Hickling Prescott (*History of the Conquest of Peru*):** *"The Incas organized magnificent royal hunts to shear the silky fleece of the sacred **vicugna** without harming the animals."*

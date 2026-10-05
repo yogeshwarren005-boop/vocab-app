@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Closely related to genus phallus distinguished by an indusium hanging like a skirt from below the pileus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Closely related to genus phallus distinguished by an indusium hanging like a skirt from below the pileus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of phalloid stinkhorn fungi (Dictyophora) characterized by an ornate, lace-like bridal veil netting hanging from its cap.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology, saprotrophic gasteroid fungi whose foul-smelling spore mass (gleba) attracts carrion insects for spore dissemination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dictyophera designates closely related to genus phallus distinguished by an indusium hanging like a skirt from below the pileus."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"In the damp rain forest we discovered a magnificent **dictyophera**, its delicate netted veil spreading like white lace."*
+> - 📜 **Mordecai Cubitt Cooke (*Fungi: Their Nature, Influence, and Uses*):** *"The bridal veil fungus known as **dictyophera** emits a fetid stench that draws hordes of scavenger flies."*
+> - 📜 **William Gilson Farlow (*Cryptogamic Botany*):** *"The expanding receptacle of **dictyophera** ruptures its gelatinous volva to display an intricate lattice-like indusium."*

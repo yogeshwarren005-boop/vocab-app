@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an incriminating manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an incriminating manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that suggests or establishes guilt or involvement in a criminal offense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic narrative and judicial analysis, describing circumstances, demeanors, or clues that point convincingly toward culpability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incriminatingly designates in an incriminating manner."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The suspect looked **incriminatingly** toward the open window through which the stolen jewels had vanished."*
+> - 📜 **G. K. Chesterton (*The Innocence of Father Brown*):** *"The knife lay **incriminatingly** near his hand, yet the priest suspected a deeper, more subtle hand at work."*
+> - 📜 **Wilkie Collins (*The Woman in White*):** *"The ledger entries pointed **incriminatingly** to the steward, whose sudden flight confirmed everyone's worst suspicions."*

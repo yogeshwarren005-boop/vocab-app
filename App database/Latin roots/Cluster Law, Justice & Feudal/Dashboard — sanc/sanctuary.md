@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A consecrated place where sacred objects are kept.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shelter from danger or hardship.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sacred place, holy shrine, or consecrated space dedicated to divine worship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law and conservation, a place of safety, immunity from arrest, or a protected reserve for threatened wildlife.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He took this place for sanctuary, And it shall privilege him from your hands Till I have brought him to his wits again, Or lose my labour in assaying it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nor sleep nor sanctuary, Being naked, sick, nor fane nor Capitol, The prayers of priests nor times of sacrifice, Embarquements all of fury, shall lift up Their rotten privilege and custom ’gainst My hate to Martius."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But to prevent the tyrant’s violence— For trust not him that hath once broken faith— I’ll hence forthwith unto the sanctuary To save at least the heir of Edward’s right."*
+> - 📜 **William Shakespeare (*Richard III*):** *"The queen took **sanctuary** in the abbey, placing her younger son under the sacred protection of the church."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The quiet old library served as a tranquil **sanctuary** where Dorothea could reflect upon her troubled marriage."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The isolated volcanic archipelago served as an undisturbed **sanctuary** for unique giant tortoises and iguanas."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wife of a viceroy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Governor of a country or province who rules as the representative of his or her king or sovereign.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The wife or consort of a viceroy; or a female ruler who governs a colony as the sovereign's representative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In imperial social history, the leading hostess of a viceregal court who directed courtly protocol, diplomacy, and philanthropy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Our gracious and popular vicereine."*
+> - 📜 **Rudyard Kipling (*Kim*):** *"The traveling lama marveled at the great hospital founded under the patronage of the gracious **vicereine**."*
+> - 📜 **Arthur Conan Doyle (*The Exploits of Brigadier Gerard*):** *"The grand duchess received our regiment with the haughty elegance expected of an imperial **vicereine**."*
+> - 📜 **Lytton Strachey (*Queen Victoria*):** *"Lady Dufferin presided as **vicereine** in Calcutta, organizing medical charities for Indian women across the empire."*

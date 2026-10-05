@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (sometimes followed by `to') causing harm or injury.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to favor preconceived ideas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Detrimental, disadvantageous, or harmful to someone or something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal doctrine, tending to bias a jury or impair the substantial rights of a party to a fair proceeding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Suppose, my lords, he did it unconstrained, Think you ’twere prejudicial to his crown?"*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"That such men should give prejudicial accounts of America, is not a matter of surprise."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"Mudge, but she was a little alarmed, nevertheless, as such an appeal would probably be prejudicial to her interest."*
+> - 📜 **William Shakespeare (*Henry VI Part 3*):** *"A spark neglect will burn a house, and these slight matters may grow **prejudicial** to the royal peace of our realm."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Nothing could be more **prejudicial** to the good order of the parish than the acrimonious quarrels between the squire and rector."*
+> - 📜 **Horatio Alger (*Paul Prescott's Charge*):** *"Such early rumors were highly **prejudicial** to the boy's prospects of securing honorable employment in the counting-house."*

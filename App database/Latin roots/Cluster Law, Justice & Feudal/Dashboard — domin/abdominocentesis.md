@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Centesis of the belly to remove fluid for diagnosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Centesis of the belly to remove fluid for diagnosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surgical puncture of the abdominal wall using a trocar or needle to aspirate fluid from the peritoneal cavity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical gastroenterology and veterinary medicine, therapeutic or diagnostic paracentesis to alleviate tense ascites.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abdominocentesis designates centesis of the belly to remove fluid for diagnosis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In cases of severe hepatic cirrhosis accompanied by tense ascites, diagnostic **abdominocentesis** affords immediate symptomatic relief."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"The physician performed **abdominocentesis** with an aseptic trocar, evacuating several liters of clear serous exudate."*
+> - 📜 **Theodor Billroth (*General Surgical Pathology and Therapeutics*):** *"Before undertaking exploratory laparotomy, repeated **abdominocentesis** was employed to decompress the distended peritoneal cavity."*

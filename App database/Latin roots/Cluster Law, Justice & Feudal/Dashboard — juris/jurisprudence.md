@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of philosophy concerned with the law and the principles that lead courts to make the decisions they do.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The collection of rules imposed by authority.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The theoretical philosophy, science, and study of the nature and principles of human law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative legal systems, the accumulated body of judicial precedents and doctrines developed within a specific legal tradition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"If you come to dignity it is a question for Minchin and Sprague.” “Does medical jurisprudence provide nothing against these infringements?” said Mr."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"HIS STUDIES IN MORALS AND JURISPRUDENCE."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"VII HIS STUDIES IN MORALS AND JURISPRUDENCE The two chief characteristics of Mr."*
+> - 📜 **John Austin (*The Province of Jurisprudence Determined*):** *"The matter of **jurisprudence** is positive law: law, simply and strictly so called, or law set by political superiors to political inferiors."*
+> - 📜 **Henry Maine (*Ancient Law*):** *"The movement of the progressive societies has hitherto been a movement from status to contract in philosophical **jurisprudence**."*
+> - 📜 **Roscoe Pound (*An Introduction to the Philosophy of Law*):** *"Sociological **jurisprudence** insists that legal precepts must be evaluated by the practical results they achieve in human society."*

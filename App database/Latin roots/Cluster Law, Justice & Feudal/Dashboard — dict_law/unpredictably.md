@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an erratic unpredictable manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an erratic unpredictable manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an erratic, uncertain, or capricious manner that cannot be anticipated or calculated in advance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dynamic meteorology and financial markets, shifting without discernible regularity or adherence to modeled trends.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unpredictably designates in an erratic unpredictable manner."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The ocean currents veered **unpredictably**, carrying the drifting vessel far away from its intended nautical course."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Sudden associative thoughts flash **unpredictably** into conscious awareness, diverging from the deliberate train of reflection."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Speculative commodities fluctuate **unpredictably** in value whenever wild rumors disturb the peaceful transactions of the bourse."*

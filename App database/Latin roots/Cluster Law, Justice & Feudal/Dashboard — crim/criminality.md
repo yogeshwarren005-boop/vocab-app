@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being a criminal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being a criminal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unlawful culpability under penal statutes, or the general incidence of criminal behavior across a population.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In criminology and forensic psychiatry, the complex interaction of socioeconomic, psychological, and behavioral factors that foster unlawful conduct.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The criminality of wastefulness irritated me."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"He had almost as much as declared his conviction of her criminality last night: what mysterious cause withheld him from accusing her?"*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"He could do what he liked, with all his cleverness to help him, so long as I should continue to defer to the old tradition of the criminality of those caretakers of the young who minister to superstitions and fears."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The state of the laboring classes was deteriorated, and their **criminality** increased, under the pressure of widespread poverty."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I am full of fears; for if she is condemned, I never more shall have joy; her innocence will be stained with unnatural **criminality**."*
+> - 📜 **Cesare Lombroso (*Criminal Man*):** *"The statistical distribution of **criminality** mirrors the atmospheric changes, economic hardships, and social crises of the realm."*

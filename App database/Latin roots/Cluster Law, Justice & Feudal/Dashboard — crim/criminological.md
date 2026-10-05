@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or involved in criminology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or involved in criminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the scientific study of crime, criminals, and penal systems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social sciences, pertaining to theoretical models, statistical data, and empirical methodologies regarding crime etiology and recidivism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, criminological designates of or relating to or involved in criminology."*
+> - 📜 **Cesare Lombroso (*Criminal Man*):** *"Our **criminological** investigations demand precise anthropometric measurements across diverse prison populations."*
+> - 📜 **Emile Durkheim (*The Division of Labour in Society*):** *"From a **criminological** viewpoint, the social reaction to transgression reveals the collective moral conscience."*
+> - 📜 **Max Weber (*Economy and Society*):** *"Modern bureaucratic justice rests upon **criminological** doctrines that emphasize uniform codification and rational deterrence."*

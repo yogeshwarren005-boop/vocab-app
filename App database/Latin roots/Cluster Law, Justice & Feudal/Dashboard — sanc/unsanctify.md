@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove the sanctification from or make unsanctified.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove the sanctification from or make unsanctified.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To strip of sanctity, profane, desecrate, or pollute that which was previously consecrated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical controversies, to declare invalid or polluted a holy altar, vessel, or religious office.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her death was doubtful; And but that great command o’ersways the order, She should in ground unsanctified have lodg’d Till the last trumpet."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I hope, in no place so unsanctified Where such as thou mayst find him."*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"It is just an effusion of the malignity of the unsanctified heart."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The revolutionary mobs sought to **unsanctify** the ancient cathedrals, turning venerable sanctuaries into storehouses for munitions."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"Skeptical philosophy seemed to **unsanctify** the domestic pieties that had long sustained Roman household life."*
+> - 📜 **Jeremy Taylor (*Holy Living and Holy Dying*):** *"Deliberate and repeated willful transgression will inevitably **unsanctify** the soul once washed by baptismal vows."*

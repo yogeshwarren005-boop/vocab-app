@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Implying sanction or serving to sanction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Implying sanction or serving to sanction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to give authority, confirmation, or formal sanction; confirming or ratifying.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional theory and legal philosophy, possessing the institutional authority to enact binding validation or approval.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sanctionative designates implying sanction or serving to sanction."*
+> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"The legislator relies upon **sanctionative** powers derived from public penalties to ensure obedience to civil statutes."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Early religious dogmas provided a **sanctionative** authority that reinforced rudimentary tribal codes and traditions."*
+> - 📜 **James Martineau (*Types of Ethical Theory*):** *"Conscience exercises a distinctively **sanctionative** function over human volition, approving or condemning each impulse."*

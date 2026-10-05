@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being justified.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being justified.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to be shown to be right, reasonable, or defended with valid reasons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In criminal jurisprudence, denoting an act (such as justifiable homicide) excused from liability because commanded or permitted by law.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"I never was happier.” With silent indignation Fanny repeated to herself, “Never happier!—never happier than when doing what you must know was not justifiable!—never happier than when behaving so dishonourably and unfeelingly!"*
-> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode was generally justifiable."*
-> - 📜 **George Eliot (*Middlemarch*):** *"The mass of his feeling about Dorothea’s marriage to Ladislaw was due partly to excusable prejudice, or even justifiable opinion, partly to a jealous repugnance hardly less in Ladislaw’s case than in Casaubon’s."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The only purpose for which power can be rightfully exercised over any member of a civilized community, against his will, is to prevent harm to others; his own good is not a **justifiable** reason."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A homicide committed in necessary self-defense against a felonious assailant is universally recognized as **justifiable** by our law."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Deronda considered whether his interference in another's family affairs was morally **justifiable** under such desperate circumstances."*

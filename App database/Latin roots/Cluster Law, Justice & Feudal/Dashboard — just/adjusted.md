@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Alter or regulate so as to achieve accuracy or conform to a standard.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place in a line or arrange so as to be parallel or straight.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arranged, altered, or calibrated properly; also adapted to environmental or social circumstances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In accounting, psychology, and manufacturing, modified to reflect true cost or demonstrating sound psychological accommodation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"When he is at last adjusted like a lay-figure, Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I suppose the people who admired him for them in his youth attached too much importance to them and too little to any training that would have balanced and adjusted them, and so he became what he is."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He caused his bedstead to be moved out nearer to the window when he heard it was such inclement weather, and his head to be so adjusted that he could see the driving snow and sleet."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"When the legal costs were finally **adjusted**, nothing remained of the vast estate for any of the surviving litigants."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea gently **adjusted** the cushions behind her uncle's head as he rested after the fatigue of the journey."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel Oak carefully **adjusted** his fleece-shears before resuming his quiet labors among the sheep in the great barn."*

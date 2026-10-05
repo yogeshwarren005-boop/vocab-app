@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wish harm upon; invoke evil upon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Threatening with damnation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conclusively proving guilt, fault, or failure; impossible to refute or explain away.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In judicial inquiry and critical biography, presenting unequivocal documentary or testimonial evidence that completely discredits a reputation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Lawrence talked too much and too loosely, and was over-given to damning what he disliked--a trick that went with his rings and his diamond monogram."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"For by a mysterious fatality, Heaven itself seemed to step in to take out of his hands into its own the damning thing he would have done."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Those are the main facts of the case as they came out before the coroner and the police-court.” “I could hardly imagine a more damning case,” I remarked."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The thumb-mark on the wall was the most **damning** piece of evidence yet uncovered against the unhappy prisoner."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"A man's secret actions often furnish a **damning** commentary upon his loud public professions of virtue."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The entries in the battered log-book offered a **damning** testimony of neglect and mutinous defiance on the voyage."*

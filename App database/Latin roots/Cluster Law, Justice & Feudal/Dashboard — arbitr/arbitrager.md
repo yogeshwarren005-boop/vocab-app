@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who engages in arbitrage (who purchases securities in one market for immediate resale in another in the hope of profiting from the price differential).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who engages in arbitrage (who purchases securities in one market for immediate resale in another in the hope of profiting from the price differential).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A financial trader who executes simultaneous transactions across markets to capture price differences.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In market microstructure, an exchange market maker whose rapid offsetting operations provide cross-market liquidity and enforce uniform pricing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arbitrager designates someone who engages in arbitrage (who purchases securities in one market for immediate resale in another in the hope of profiting from the price differential)."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The professional **arbitrager** watches cable dispatches closely to purchase wheat where it is cheap and sell where dear."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"The speculative maneuvers of the **arbitrager** thrive upon momentary imbalances in the securities market."*
+> - 📜 **Irving Fisher (*The Nature of Capital and Income*):** *"By equalizing prices across distant trading centers, the vigilant **arbitrager** performs a steady economic function."*

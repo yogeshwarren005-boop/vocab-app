@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a large belly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a large belly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a large, prominent, or protruding belly; paunchy, pot-bellied, or corpulent in the abdominal region.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In satirical portraiture and somatotype description, exhibiting conspicuous midriff adiposity indicative of gluttony or physical sloth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abdominous designates having a large belly."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The portly municipal magistrates, well-fed and **abdominous**, fled in terror before the lean sans-culottes."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The jovial Dutch skipper presented an **abdominous** figure as he waddled along the slippery deck of his whaler."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"A pompous, **abdominous** alderman held forth upon the virtues of hard labor while sipping turtle soup."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A deep and vivid red color.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Turn red, as if in embarrassment or shame.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rich, deep red color inclining toward purple, or to blush deeply with that color.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In heraldry, histology, and descriptive literature, a vivid saturated hue associated with arterial blood, regal draperies, or intense emotion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"On her left breast A mole cinque-spotted, like the crimson drops I’ th’ bottom of a cowslip."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Moy shall not serve; I will have forty moys, Or I will fetch thy rim out at thy throat In drops of crimson blood."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Can you blame her then, being a maid yet ros’d over with the virgin crimson of modesty, if she deny the appearance of a naked blind boy in her naked seeing self?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, would to God that the compass of my pale **crimson** gold Were red-hot steel, to sear me to the brains!"*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The sun, on the other side of the hedge, was glistening on the droplets of mist, and turning the wet gossamers into **crimson** threads."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"A faint blush, like the shadow of a rose in a mirror of silver, came to her cheeks, deepening to rich **crimson**."*

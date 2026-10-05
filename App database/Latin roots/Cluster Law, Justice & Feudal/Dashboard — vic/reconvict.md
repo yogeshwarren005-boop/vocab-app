@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Convict anew.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convict anew.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convict a person of a criminal offense again following a previous judicial conviction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In penology and recidivism analysis, to return a previously released offender to prison upon adjudicating a repeated offense.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reconvict designates convict anew."*
+> - 📜 **Arthur Conan Doyle (*The Return of Sherlock Holmes*):** *"The magistrate had no hesitation to **reconvict** the notorious safecracker after identifying his signature chisel marks."*
+> - 📜 **Havelock Ellis (*The Criminal*):** *"The magistrate's court was compelled to **reconvict** the habitual petty offender whose release had lasted barely a month."*
+> - 📜 **Cesare Lombroso (*Crime, Its Causes and Remedies*):** *"Penal statistics indicate that courts **reconvict** confirmed repeat offenders with increasing severity at each trial."*

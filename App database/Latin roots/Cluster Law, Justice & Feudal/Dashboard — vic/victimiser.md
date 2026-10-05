@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who victimizes others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who victimizes others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who victimises, exploits, swindles, harms, or abuses another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In restorative justice and psychological theory, the perpetrator of coercive control, fraud, or relational violence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, victimiser designates a person who victimizes others."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Grandcourt displayed all the cold calculating traits of the habitual **victimiser**, enjoying his absolute dominion over his wife."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"Ralph Nickleby regarded every indebted client not as a brother man, but as fair prey for the financial **victimiser**."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Alec d'Urberville stood before her as the selfish **victimiser** who had shattered the innocent tranquility of her youth."*

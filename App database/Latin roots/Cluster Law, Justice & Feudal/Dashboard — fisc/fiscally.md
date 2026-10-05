@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In financial matters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In financial matters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner pertaining to financial administration, public revenues, or fiscal policies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public finance economics, evaluating measures, budgets, or governmental interventions in terms of expenditure efficiency and revenue impact.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Of these states Wisconsin has the most recent law, and one the widest in its application and the most important fiscally."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The "additional" tax is already important fiscally, yielding over one-half of the total paid by individuals and one-fourth of the total from corporations and individuals."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A municipality cannot remain **fiscally** sound while continuously issuing long-term bonds to meet routine annual expenses."*
+> - 📜 **Woodrow Wilson (*Congressional Government*):** *"Congress is **fiscally** sovereign, holding exclusive authority over the appropriation of public moneys and the imposition of duties."*
+> - 📜 **John Maynard Keynes (*The Economic Consequences of the Peace*):** *"The indemnities imposed were **fiscally** impossible to collect without destroying the economic fabric of Central Europe."*

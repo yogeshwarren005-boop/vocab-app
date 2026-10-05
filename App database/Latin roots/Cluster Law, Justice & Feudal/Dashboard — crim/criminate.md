@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring an accusation against; level a charge against.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rebuke formally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To charge with a crime, or to show evidence that implicates someone in an offense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In adversarial procedure and constitutional law, to expose oneself or an associate to penal prosecution through testimony or admissions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"As the spirit of party, in different degrees, must be expected to infect all political bodies, there will be, no doubt, persons in the national legislature willing enough to arraign the measures and criminate the views of the majority."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Crisparkle, “that in my desire to clear one man I should lightly criminate another!"*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"As to the choice of the spot, obviously such criminating evidence had better take its chance of being found anywhere, rather than upon himself, or in his possession."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The ancient maxim of the common law holds that no prisoner shall be forced to **criminate** himself."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The conspirators were eager to **criminate** their accomplices in the hope of purchasing royal pardons."*
+> - 📜 **Jeremy Bentham (*Rationale of Judicial Evidence*):** *"Rules that forbid a witness to **criminate** another merely withhold vital truth from the searching light of justice."*

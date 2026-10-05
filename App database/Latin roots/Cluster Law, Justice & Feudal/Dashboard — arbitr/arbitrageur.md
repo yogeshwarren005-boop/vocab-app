@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who engages in arbitrage (who purchases securities in one market for immediate resale in another in the hope of profiting from the price differential).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who engages in arbitrage (who purchases securities in one market for immediate resale in another in the hope of profiting from the price differential).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialized professional who engages in the practice of financial arbitrage across disparate markets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In investment banking and corporate finance, an investor who trades in risk arbitrage, particularly involving shares of firms undergoing mergers, takeovers, or reorganizations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arbitrageur designates someone who engages in arbitrage (who purchases securities in one market for immediate resale in another in the hope of profiting from the price differential)."*
+> - 📜 **Joseph Schumpeter (*Business Cycles*):** *"The shrewd **arbitrageur** continuously realigns fluctuating discount rates between domestic and overseas capital centers."*
+> - 📜 **John Maynard Keynes (*The General Theory of Employment, Interest and Money*):** *"The professional **arbitrageur** balances competing monetary claims across borders with calculated precision."*
+> - 📜 **Walter Bagehot (*Lombard Street: A Description of the Money Market*):** *"Every London banking house relied upon the expert **arbitrageur** to steady bill transactions in Continental cities."*

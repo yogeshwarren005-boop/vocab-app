@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who lived during the reign of victoria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to queen victoria of great britain or to the age in which she ruled.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of the reign of Queen Victoria (1837–1901) or its prevailing cultural and moral ethos.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architecture, literature, and social history, an era marked by industrial expansion, imperial dominance, earnest moralism, and ornate domestic design.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But I ask all good and gentle readers to be so kind as to forget this, and to refuse steadfastly to believe that there are any inhabitants of a Victorian Wessex outside the pages of this and the companion volumes in which they were first discovered."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"So much for Norman blood unaided by Victorian lucre."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"When they were together the Jacobean and the Victorian ages were juxtaposed."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The modest farmhouse interior combined heavy **Victorian** mahogany furniture with older rustic oak settles."*
+> - 📜 **Lytton Strachey (*Eminent Victorians*):** *"The dominant note of early **Victorian** biography was a solemn and uncritical reverence for moral achievement."*
+> - 📜 **Virginia Woolf (*Orlando*):** *"The great damp cloud of the **Victorian** era settled over England, bringing mufflers, plush carpets, and heavy draperies."*

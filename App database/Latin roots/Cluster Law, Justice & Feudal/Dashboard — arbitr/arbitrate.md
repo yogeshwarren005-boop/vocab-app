@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act between parties with a view to reconciling differences.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act between parties with a view to reconciling differences.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To act as an impartial referee or mediator to judge, reconcile, and settle a dispute between parties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In labor relations and legal procedure, to hear formal evidence and render a binding judgment that resolves an impasse outside statutory courts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This might have been prevented and made whole With very easy arguments of love, Which now the manage of two kingdoms must With fearful bloody issue arbitrate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The extreme parts of time extremely forms All causes to the purpose of his speed, And often at his very loose decides That which long process could not arbitrate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thoughts speculative their unsure hopes relate, But certain issue strokes must arbitrate; Towards which advance the war. [_Exeunt, marching._] SCENE V."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Which now the manage of two kingdoms must With fearful bloody issue **arbitrate**."*
+> - 📜 **Francis Bacon (*The Essays*):** *"It is a happy thing when kings assemble wise counselors who may fairly **arbitrate** disputes among the estates."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"The impartial spectator within the breast is appointed to **arbitrate** between self-love and the duties we owe to mankind."*

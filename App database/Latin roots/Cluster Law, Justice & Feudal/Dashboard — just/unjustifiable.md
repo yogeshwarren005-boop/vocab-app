@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being justified or explained.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being justified or explained.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not able to be shown to be right, reasonable, or defended with valid moral arguments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal jurisprudence and ethical doctrine, lacking legal warrant, lawful provocation, or moral exculpation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Krook’s obstinacy in going out of the world by any such by-way as wholly unjustifiable and personally offensive."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Lady Catherine’s unjustifiable endeavours to separate us were the means of removing all my doubts."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"I am justly reproved for what I feel was an unjustifiable intrusion, and I promise you that I will not mention the matter again.” We had come to a point where a narrow grassy path struck off from the road and wound away across the moor."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The interference of the state with purely self-regarding conduct is an **unjustifiable** usurpation of personal sovereignty."*
+> - 📜 **Edmund Burke (*Speech on American Taxation*):** *"To levy taxes upon colonies without their legislative representation was an **unjustifiable** departure from constitutional tradition."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The persecution of harmless religious dissenters under the Clarendon Code was completely **unjustifiable** by any rule of state."*

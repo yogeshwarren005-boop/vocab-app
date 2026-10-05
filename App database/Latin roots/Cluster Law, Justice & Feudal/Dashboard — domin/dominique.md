@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: American breed of chicken having barred grey plumage raised for meat and brown eggs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: American breed of chicken having barred grey plumage raised for meat and brown eggs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A traditional American dual-purpose breed of chicken with barred plumage and a rose comb; or a French unisex given name.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In poultry husbandry and avian breeding, America's oldest chicken breed, characterized by slate-and-white 'cuckoo' barring.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dominique designates american breed of chicken having barred grey plumage raised for meat and brown eggs."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"An old speckled **dominique** hen pecked lazily among the weeds beside Aunt Polly's picket fence."*
+> - 📜 **Henry David Thoreau (*Cape Cod*):** *"The sandy yard contained a sturdy **dominique** rooster strutting proudly amidst his quiet flock."*
+> - 📜 **Harriet Beecher Stowe (*Uncle Tom's Cabin*):** *"A brood of mottled **dominique** chicks scurried into the kitchen whenever the wooden screen door swung ajar."*

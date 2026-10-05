@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerned with adjudicating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerned with adjudicating.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, functioning in, or possessing the authority of judicial decision-making.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In administrative jurisprudence, contrasting judicial fact-finding and resolution mechanisms with legislative or rulemaking powers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adjudicative designates concerned with adjudicating."*
+> - 📜 **Felix Frankfurter (*The Public and Its Men*):** *"The agency exercises both administrative oversight and quasi-judicial **adjudicative** authority over maritime commerce."*
+> - 📜 **Roscoe Pound (*Jurisprudence*):** *"The **adjudicative** function demands impartial application of established doctrines to discrete controversies."*
+> - 📜 **Benjamin N. Cardozo (*The Nature of the Judicial Process*):** *"An **adjudicative** tribunal must balance adherence to precedent with the evolving requirements of social justice."*

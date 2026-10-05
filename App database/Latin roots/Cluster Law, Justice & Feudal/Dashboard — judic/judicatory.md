@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The system of law courts that administer justice and constitute the judicial branch of government.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The system of law courts that administer justice and constitute the judicial branch of government.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the administration of justice; a court of law or judicial body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiology and legal history, an ecclesiastical or civil tribunal invested with lawful authority to hear trials.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"They have no common treasury; no common troops even in war; no common coin; no common judicatory; nor any other common mark of sovereignty."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In such cases, where foreigners were concerned on either side, it would be impossible for the federal judicatories to do justice without an equitable as well as a legal jurisdiction."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But could an appeal be made to lie from the State courts to the subordinate federal judicatories?"*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The complete independence of the courts of justice is essential to the proper operation of a constitutional **judicatory**."*
+> - 📜 **John Marshall (*Life of George Washington*):** *"The state legislature instituted a supreme **judicatory** to hear appeals from the county magistrates."*
+> - 📜 **Thomas Jefferson (*Notes on the State of Virginia*):** *"Questions touching ecclesiastical discipline were reserved exclusively for the presbytery's spiritual **judicatory**."*

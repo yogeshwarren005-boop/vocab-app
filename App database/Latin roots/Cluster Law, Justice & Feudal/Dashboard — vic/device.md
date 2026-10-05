@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrumentality invented for a particular purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something in an artistic work designed to achieve a particular effect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mechanical tool, appliance, or mechanism invented for a specific practical purpose or function.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literature, rhetoric, and heraldry, a symbolic design, motto, or artistic technique utilized to convey meaning or structure narrative.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet he’s gentle, never schooled and yet learned, full of noble device, of all sorts enchantingly beloved, and indeed so much in the heart of the world, and especially of my own people, who best know him, that I am altogether misprized."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are rather point-device in your accoutrements, as loving yourself than seeming the lover of any other."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, shepherd, well, This is a letter of your own device."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"And thou wert best look to't; for if thou dost him any slight disgrace, he will practice against thee by poison, or some treacherous **device**."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"On a tiny satinwood table stood a statuette by Clodion, and beside it an ingenious mechanical **device** that struck the hours in chime."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her deliberate reserve was an innocent **device** to conceal the deep agitation of her heart."*

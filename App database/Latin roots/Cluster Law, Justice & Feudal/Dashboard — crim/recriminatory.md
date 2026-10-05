@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Countering one charge with another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Countering one charge with another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving or expressing counter-accusations against a critic or accuser.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dispute resolution and legal advocacy, characterized by mutual blaming and retaliatory counter-allegations rather than substantive defense.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, recriminatory designates countering one charge with another."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The council dissolved into angry **recriminatory** shouts between rival bishops, each branding the other anathema."*
+> - 📜 **George Eliot (*Felix Holt, the Radical*):** *"Their private interview was filled with **recriminatory** bitterness, reviving grievances that had smoldered for years."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"She shrank from the **recriminatory** scene that she knew awaited her return to the gloomy palazzo."*

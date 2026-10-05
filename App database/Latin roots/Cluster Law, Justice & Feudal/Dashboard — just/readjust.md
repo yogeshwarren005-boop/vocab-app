@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjust anew.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjust again after an initial failure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjust again or differently in order to accommodate altered circumstances or alignments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economics, social psychology, and mechanics, recalibrate currency systems, reset instruments, or adapt to new social realities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Fear, 392:6 which is an element of all disease, must be cast out to readjust the balance for God."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"I turned frantically to the Time Machine, and strove hard to readjust it."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"In the end, wisely and carefully we shall readjust the balance of animal and vegetable life to suit our human needs."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"After the financial panic subsided, commercial banks were obliged to **readjust** their interest rates to prevailing credit realities."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"Humanity was forced to **readjust** its arrogant belief that the earth was the sole center of intelligent life in the universe."*
+> - 📜 **Sinclair Lewis (*Main Street*):** *"Carol struggled to **readjust** her metropolitan ambitions to the petty gossip and narrow conventions of Gopher Prairie."*

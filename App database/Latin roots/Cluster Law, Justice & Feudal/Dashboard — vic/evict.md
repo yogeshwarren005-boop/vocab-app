@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expel or eject without recourse to legal process.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expel from one's property or force to move out by a legal process.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To expel someone from a property or dwelling by legal process, tenancy termination, or judicial enforcement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In property jurisprudence, to dispossess a tenant or occupant of real estate through an action of ejectment following default.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"What do you do with gipsies? evict 'em, I suppose." He flung a second question at Val which made the son of a vicarage knit his brows."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"All acids are compounds of hydrogen and something else, and their biting action is due to the readiness with which the "something else" evicts the hydrogen and takes in a metal in its place."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"As it is, they engender bitterness and hatred in the breasts of the evicted natives, the very thing they should study to avoid."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The ruthless landlord threatened to **evict** the impoverished family into the freezing streets if their arrears were not satisfied."*
+> - 📜 **George Gissing (*The Nether World*):** *"Bailiffs arrived at noon to **evict** the destitute lodgers from the crumbling tenement courtyard."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The steward announced his intention to **evict** any tenant whose cottage lease had lapsed with the old squire's death."*

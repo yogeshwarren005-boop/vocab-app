@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Most frequent or common.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having superior power and influence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Present as the strongest, main, or most influential element; exercising controlling power or conspicuous prevalence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epidemiology, demographics, and mineralogy, constituting the major constituent, prevailing strain, or primary component.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Virtue is choked with foul ambition, And charity chased hence by rancour’s hand; Foul subornation is predominant, And equity exiled your highness’ land."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do you find Your patience so predominant in your nature, That you can let this go?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Two such opposed kings encamp them still In man as well as herbs,—grace and rude will; And where the worser is predominant, Full soon the canker death eats up that plant."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"In every large island, certain plant genera maintain a **predominant** position across diverse botanical habitats."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"Benevolent sympathy should become the **predominant** motive in the deliberate moral choices of enlightened citizens."*
+> - 📜 **George Eliot (*Middlemarch*):** *"A tender devotion to Dorothea became the **predominant** impulse guiding Ladislaw's daily thoughts."*

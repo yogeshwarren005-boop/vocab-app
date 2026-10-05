@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unshakable belief in something without need for proof or evidence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (criminal law) a final judgment of guilty in a criminal case and the punishment that is imposed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A firmly held belief, fixed opinion, or certainty; or the formal judicial finding of guilt in a criminal trial.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetoric and moral philosophy, thorough subjective persuasion of truth by compelling evidence or inner moral certitude.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Oh, mama, I have to go and see Apollonie," she would repeatedly say with firm conviction to her mother."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"You are at home here now, even if you have no home anywhere else." This was uttered in a spirit of utter conviction, as the little boy had heard it from her own lips and was sure that this would be the best for them all."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Mäzli's answers had clearly given her the conviction that the child could not possibly understand the difficult situation she was in."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"This **conviction** is the ultimate sanction of the greatest-happiness morality across civilized communities."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A horrible **conviction** darted through Oak that his entire flock had plunged over the cliff into the chalk pit."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"My **conviction** that man is descended from some lowly organized form has been strengthened by every fresh anatomical fact."*

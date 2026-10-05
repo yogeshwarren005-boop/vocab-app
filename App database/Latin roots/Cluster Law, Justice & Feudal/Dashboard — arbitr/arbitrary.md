@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on or subject to individual discretion or preference or sometimes impulse or caprice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based on or subject to individual discretion or preference or sometimes impulse or caprice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on individual discretion, random choice, or personal impulse rather than reason or system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political philosophy and administrative law, describing despotic authority exercised without reference to general principles, statutes, or judicial restraint.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"For instance, lying on the cell floor, I established an arbitrary and imaginary line along the wall some three feet above the floor."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Indeed, the competitive rule is the only rule that does not involve either personal and arbitrary judgment (force, charity, and authority) or status."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Bishop Phillips Brooks noted in Jesus' conversation "a constant progress from the arbitrary and special to the essential and universal forms of thought," "a true freedom from fastidiousness," "a singular largeness" in his intellectual life."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She was ashamed of herself for her gloom of the night, based on nothing more tangible than a sense of condemnation under an **arbitrary** law of society which had no foundation in Nature."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"We are not, however, to infer that its acceptance or rejection must depend on blind impulse, or **arbitrary** choice."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"I was much struck how entirely vague and **arbitrary** is the distinction between species and varieties."*

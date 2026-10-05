@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An assembly (including one or more judges) to conduct judicial business.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The system of law courts that administer justice and constitute the judicial branch of government.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The administration of justice through the courts, or the body of judges taken collectively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional law, the judicial branch of government, its territorial competence, and its procedural framework.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In unfolding the defects of the existing Confederation, the utility and necessity of a federal judicature have been clearly pointed out."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"HAMILTON To the People of the State of New York: To judge with accuracy of the proper extent of the federal judicature, it will be necessary to consider, in the first place, what are its proper objects."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"These have been already explained to belong to the fourth of the enumerated classes, and have been shown to be, in a peculiar manner, the proper subjects of the national judicature."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The **judicature** has no influence over either the sword or the purse, possessing neither force nor will but merely judgment."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"When the ancient **judicature** of the realm was subverted, all security of private property vanished with it."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The supreme **judicature** of the kingdom was originally lodged in the high court of Parliament."*

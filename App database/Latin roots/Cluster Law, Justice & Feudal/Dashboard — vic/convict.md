@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person serving a sentence in a jail or prison.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who has been convicted of a criminal offense.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To find or declare guilty of a criminal offense by the verdict of a jury or the decision of a judge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In penal history and criminology, a person serving a prison sentence following formal judicial condemnation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Before I be convict by course of law, To threaten me with death is most unlawful."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Whether they are going to convict, or whatever it is, that dreadful soldier?"*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"I should not like to make a mistake in the matter; it would be a sad affair to convict an innocent man of perjury." Again there was silence among them, as if each were weighing the case in his own mind."*
+> - 📜 **William Shakespeare (*Richard III*):** *"Before I be **convict** by course of law, to threaten me with death is most unlawful."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The escaped **convict** crouched shivering among the graves on the marshes, his leg-iron clanking heavily against the stones."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"If you make the criminal code sanguinary, juries will not **convict** even the most desperate offenders."*

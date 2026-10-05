@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of veneridae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of veneridae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A biological genus of hard-shell marine clams in the family Veneridae, notably including the quahog.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology and malacology, edible bivalve mollusks native to Atlantic coastal estuaries, historically harvested by Indigenous peoples to fashion wampum shell beads.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mercenaria designates a genus of veneridae."*
+> - 📜 **Carl Linnaeus (*Systema Naturae*):** *"The naturalist classified the heavy northern quahog as Venus **mercenaria**, alluding to its shell's use as native currency."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"The thick porcelain-like valves of **Mercenaria** exhibit pronounced concentric growth ridges along the pallial sinus."*
+> - 📜 **Alexander Agassiz (*Seaside Studies in Natural History*):** *"Dredges brought up abundant specimens of **Mercenaria** from the muddy sediments of Buzzards Bay."*

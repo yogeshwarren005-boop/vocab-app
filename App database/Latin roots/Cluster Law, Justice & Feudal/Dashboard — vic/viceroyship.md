@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The position of viceroy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The position of viceroy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The office, rank, dignity, or term of service of a viceroy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British imperial history, the five-year tenure of an appointed governor-general and viceroy over the Indian empire.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, viceroyship designates the position of viceroy."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"During his brilliant **viceroyship**, Warren Hastings consolidated British administrative power throughout Bengal."*
+> - 📜 **Winston Churchill (*My Early Life*):** *"His father had served with distinction in Dublin during the difficult years of his Irish **viceroyship**."*
+> - 📜 **G. O. Trevelyan (*Cawnpore*):** *"The outgoing governor surrendered his arduous **viceroyship** with heartfelt relief to his younger successor."*

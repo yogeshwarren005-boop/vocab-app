@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The post or office of legate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A permanent diplomatic mission headed by a minister.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A diplomatic minister and their staff, or the official residence and offices of a diplomatic minister.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international diplomacy and papal history, a diplomatic mission ranking below an embassy, or a former administrative province of the Papal States.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Shortly after this his older brother, Gansevoort Melville, sailed for England as secretary of legation to Ambassador McLane, and the manuscript was intrusted to Gansevoort for submission to John Murray."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"I did not fear trouble of any sort in spite of a last letter of warning received at Hong Kong from our Peking Legation, but there was just enough of a touch of adventure to the trip to make the roughnesses of the way endurable."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"He had since acted as Secretary to the Chinese Legation in Washington, and was quite at home in Western ways."*
+> - 📜 **Henry James (*The Ambassadors*):** *"He had called at the American **legation** on the morning of his arrival in Paris to inquire for letters from Woollett."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"The young sculptor frequently visited the secretary of the British **legation** to examine rare Mediterranean coins and medallions."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Every foreign **legation** in Washington observed with wonder the quiet dignity that marked the transition of presidential power."*

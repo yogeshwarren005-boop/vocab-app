@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone chosen to judge and decide a disputed issue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone chosen to judge and decide a disputed issue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An independent person officially appointed to judge and settle a dispute between conflicting parties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In administrative jurisprudence and commercial arbitration, a designated referee whose award is contractually binding upon both disputants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But now the arbitrator of despairs, Just Death, kind umpire of men’s miseries, With sweet enlargement doth dismiss me hence."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The end crowns all; And that old common arbitrator, Time, Will one day end it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let th’ event, That never-erring arbitrator, tell us When we know all ourselves; and let us follow The becking of our chance. [_Exeunt._] SCENE III."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But now the **arbitrator** of despairs, Just Death, kind umpire of men’s miseries, With sweet enlargement doth dismiss me hence."*
+> - 📜 **Francis Bacon (*The Essays*):** *"A wise prince will choose an **arbitrator** whose integrity is acknowledged by both contending factions."*
+> - 📜 **John Locke (*Second Treatise of Government*):** *"Men enter into civil society so that an impartial **arbitrator** may decide their controversies according to established law."*

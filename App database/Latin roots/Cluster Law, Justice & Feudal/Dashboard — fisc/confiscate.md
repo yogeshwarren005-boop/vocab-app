@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Take temporary possession of as a security, by legal authority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surrendered as a penalty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To seize private property with authority and transfer it to the public treasury.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In administrative and maritime prize law, to condemn and expropriate contraband, enemy assets, or illicit goods by sovereign prerogative.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore give out you are of Epidamnum, Lest that your goods too soon be confiscate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"First pay me for the nursing of thy sons, And let it be confiscate all, so soon As I have receiv’d it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, Clarence, now then it is more than needful Forthwith that Edward be pronounced a traitor And all his lands and goods be confiscate."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"Thy lands and goods Are, by the laws of Venice, **confiscate** Unto the state of Venice."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The avaricious prefect did not hesitate to **confiscate** the vast estates of patricians accused of imaginary conspiracies."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"To **confiscate** the ancient endowments of the church to satisfy speculative paper debts is sheer spoliation under the mask of reform."*

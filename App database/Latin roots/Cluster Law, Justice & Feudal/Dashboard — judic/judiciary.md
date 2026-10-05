@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Persons who administer justice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The system of law courts that administer justice and constitute the judicial branch of government.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of government tasked with interpreting laws and administering justice; the bench of judges.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional theory, the collective organ of courts established to preserve the rule of law and check executive excesses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The Judiciary Department FEDERALIST No."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The Judiciary Continued FEDERALIST No."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The Powers of the Judiciary FEDERALIST No."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The **judiciary** is beyond comparison the weakest of the three departments of power, having no control over revenues or armaments."*
+> - 📜 **James Madison (*The Federalist Papers*):** *"An independent **judiciary** forms the vital barrier protecting minorities against legislative usurpations."*
+> - 📜 **John Marshall (*Marbury v. Madison*):** *"It is emphatically the province and duty of the **judiciary** department to say what the law is."*

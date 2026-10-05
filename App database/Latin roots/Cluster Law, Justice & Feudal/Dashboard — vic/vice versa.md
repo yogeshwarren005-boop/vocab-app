@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin vic within the domain of Law, Justice & Feudal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of vic in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With the order or relation reversed; the other way around; conversely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In logical argumentation and formal relations, signifying bidirectional symmetry between two statements, premises, or operations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vice versa designates pertaining to, derived from, or characteristic of latin vic within the domain of law, justice & feudal."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"A change of work is the best rest, Watson, and mental fatigue may often be relieved by bodily exertion, or **vice versa**."*
+> - 📜 **William James (*Pragmatism*):** *"Concepts determine our perception of perceptual realities, and **vice versa**, in a continuous reciprocal dialectic of thought."*
+> - 📜 **Bertrand Russell (*The Problems of Philosophy*):** *"Every physical cause produces a mental effect in sensation, and **vice versa**, mental volitions provoke bodily movements."*

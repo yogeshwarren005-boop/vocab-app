@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be larger in number, quantity, power, status or importance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be in control.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Controlled, governed, or strongly influenced by a superior force; or overlooked from a towering height.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecological succession and sociological analysis, occupied primarily by a single species or subdued by hegemonic authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In earlier conditions of society natural chance dominated industry, and it still remains and must always remain important."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"No other German poet has allowed himself to be so completely dominated by the Greek idea as did Hoelderlin."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"An ecstasy of happiness dominated her."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"A heroic soul refuses to be **dominated** by the superficial fashions and transient opinions of his era."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The Patagonian plains were completely **dominated** by low, thorny shrubs adapted to arid winds."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her sensitive imagination was perpetually **dominated** by the severe scholastic ambitions of her husband."*

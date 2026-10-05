@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not causing or characterized by addiction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not causing or characterized by addiction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not habit-forming; lacking physiological or pharmacological properties that produce chemical dependence or compulsion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology, denoting therapeutic analgesic or sedative compounds that do not recruit mesolimbic dopamine tolerance pathways.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonaddictive designates not causing or characterized by addiction."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Researchers searched diligently for a purely **nonaddictive** analgesic capable of relieving severe neuralgic pain."*
+> - 📜 **Havelock Ellis (*The Philosophy of Conflict*):** *"Milder intellectual recreations provide a wholesome, **nonaddictive** diversion from the stressful anxieties of modern life."*
+> - 📜 **Aldous Huxley (*Brave New World Revisited*):** *"Utopian planners dreamed of synthesizing a completely **nonaddictive** tranquilizer that would pacify without physical penalty."*

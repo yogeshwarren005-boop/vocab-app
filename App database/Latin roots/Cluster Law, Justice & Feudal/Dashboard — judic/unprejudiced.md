@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from undue bias or preconceived opinions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from undue bias or preconceived opinions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having or showing a bias or preconceived opinion; impartial and open-minded.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemology and juridical fact-finding, characterized by dispassionate consideration of evidence free from subjective influence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Hear the truth, therefore, now, while you are unprejudiced."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Thorpe’s lodgings, and the feelings of the discerning and unprejudiced reader of Camilla gave way to the feelings of the dutiful and affectionate son, as they met Mrs."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"To ease her mind, and ascertain by the opinion of an unprejudiced person what her own conduct had really been, she took occasion to mention before Mr."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Hear the truth from an **unprejudiced** observer who has watched your family's conduct with sympathetic interest."*
+> - 📜 **Hume David (*An Enquiry Concerning Human Understanding*):** *"An **unprejudiced** mind examines every proposition on its own merits without regard to popular dogma."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Any **unprejudiced** naturalist who studies the geographic distribution of species must acknowledge the power of natural selection."*

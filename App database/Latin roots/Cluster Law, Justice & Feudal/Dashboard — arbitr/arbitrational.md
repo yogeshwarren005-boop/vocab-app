@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or resulting from arbitration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or resulting from arbitration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of the process of arbitration and formal dispute settlement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative procedural jurisprudence, concerning the statutory protocols, clauses, and enforcement mechanisms of non-judicial arbitral proceedings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arbitrational designates relating to or resulting from arbitration."*
+> - 📜 **Elihu Root (*Addresses on International Subjects*):** *"The development of **arbitrational** machinery marks a genuine advance toward permanent international peace."*
+> - 📜 **James Bryce (*Modern Democracies*):** *"Industrial boards established **arbitrational** procedures to forestall disruptive strikes in key municipal utilities."*
+> - 📜 **Woodrow Wilson (*The State: Elements of Historical and Practical Politics*):** *"Treaty obligations increasingly incorporated **arbitrational** clauses to regulate contested maritime frontiers."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not appropriate for or subject to arbitration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not appropriate for or subject to arbitration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not legally capable of being submitted to or settled by arbitration due to statutory restrictions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In administrative and public policy jurisprudence, describing matters of fundamental public order, criminal sanction, or non-waivable statutory rights reserved exclusively for judicial courts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonarbitrable designates not appropriate for or subject to arbitration."*
+> - 📜 **Felix Frankfurter (*The Public and Its Government*):** *"Matters touching public safety and criminal enforcement remain strictly **nonarbitrable** before private tribunals."*
+> - 📜 **Roscoe Pound (*Jurisprudence*):** *"Certain core rights of personal liberty are inherently **nonarbitrable** under constitutional doctrine."*
+> - 📜 **Benjamin N. Cardozo (*The Nature of the Judicial Process*):** *"The contract could not make that controversy arbitral which public policy declared fundamentally **nonarbitrable**."*

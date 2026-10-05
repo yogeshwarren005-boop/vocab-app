@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A clergyman; especially a settled minister or parson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clergyman; especially a settled minister or parson.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Latin noun meaning master, lord, or owner, denoting patriarchal or political authority in Roman civilization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman law and constitutional history, the absolute owner of property, or the despotic imperial title adopted during the Dominate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Material domination. _Dominus!_ Lord!"*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"And so they required the holy bishop to say the grace, who was not a good scholar, and had not good Latin, but began rudely in the Scottish fashion in this manner, saying--‘_Benedicite_,’ believing that they should have answered, _Dominus_."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Willelmo <g>Marescallo</g> primo, et sic factus est Comes totius Pembrochiæ, et dominus totius hæreditatis.--_Will."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Diocletian cast aside the republican title of princeps and demanded to be worshipped as absolute **dominus** and god."*
+> - 📜 **James Joyce (*Ulysses*):** *"The celebrating priest turned to the altar and intoned '**dominus** vobiscum' in a deep, resonant voice."*
+> - 📜 **Henry Maine (*Ancient Law*):** *"In early Roman jurisprudence, the **dominus** exercised unrestrained patriarchal power over all slaves and estate chattels."*

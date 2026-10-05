@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a domineering manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a domineering manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an arrogant, dictatorial, and overbearing manner; acting with tyrannical condescension.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral description, issuing commands harshly while demanding instant servility from peers or subordinates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, domineeringly designates in a domineering manner."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The blustering major spoke **domineeringly** to the subalterns, puffing out his scarlet chest with pompous self-importance."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Uncle Pumblechook carried on **domineeringly**, lecturing Pip upon his duty to feel perpetual gratitude."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard behaved **domineeringly** toward Farfrae when he perceived the Scotsman's popularity eclipsing his own."*

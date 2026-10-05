@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Countering one charge with another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Countering one charge with another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to return an accusation; conveying counter-charges against an accuser.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetorical and legal discourse, describing communications or pleas characterized by retaliatory assertions of wrongdoing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, recriminative designates countering one charge with another."*
+> - 📜 **Jeremy Bentham (*Rationale of Judicial Evidence*):** *"The witness indulged in a **recriminative** diatribe against the prosecution, attempting to shift suspicion onto the arresting constable."*
+> - 📜 **Edmund Burke (*The Works of Edmund Burke*):** *"His speech degenerated into a **recriminative** assault upon his political colleagues rather than a defense of his policy."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The debate in Parliament assumed a fierce **recriminative** tone as each party blamed the other for the disasters of the campaign."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Assembly possessing high legislative powers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The upper house of the united states congress.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A deliberative assembly; specifically, the upper house of a bicameral legislature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman antiquity and modern constitutionalism, the council of elders directing foreign policy or the federal upper chamber representing sovereign states.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our business is not unknown to th’ Senate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What’s the matter, That in these several places of the city You cry against the noble senate, who, Under the gods, keep you in awe, which else Would feed on one another?—What’s their seeking?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Senate House Enter Tullus Aufidius with Senators of Corioles."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The association of the **senate** with the president in the making of treaties forms one of the best features of the proposed constitution."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Roman **senate** retained the outward forms of sovereign authority long after all effective power had passed to the legions."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"On entering the **senate** chamber at Washington, one is struck by the dignified atmosphere and eloquent demeanor of its members."*

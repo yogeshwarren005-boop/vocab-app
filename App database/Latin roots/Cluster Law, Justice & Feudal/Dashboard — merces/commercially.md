@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a commercial manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a commercial manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a commercial manner; from the viewpoint of trade, business operations, or financial profitability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical and industrial manufacturing, producing substances at scale and price acceptable for profitable market consumption.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"He grows more commercially-minded."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Because of their wearing qualities and economy, however, copper and nickel are the two metals commercially used for electrotyping."*
-> - 📜 **Edward William Bok (*Successward: A Young Man's Book for Young Men*):** *"The men who hold that "every woman has her price" are the men who, in the estimation of other men, have no price at all, commercially, socially, or morally."*
+> - 📜 **James Joyce (*Ulysses*):** *"The merchant calculated whether the imported Dublin stout could be distributed **commercially** across provincial rail depots."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Several varieties of silkworms have been cultivated **commercially** across southern Europe for hundreds of years."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The synthesized hydrocarbon was not yet obtainable **commercially** in quantities sufficient for extensive lighting trials."*

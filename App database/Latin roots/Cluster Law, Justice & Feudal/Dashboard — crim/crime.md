@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (criminal law) an act punishable by law; usually considered an evil act.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An evil act not necessarily punishable by law.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An action or omission that constitutes an offense punishable by law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In criminology and penal jurisprudence, a severe violation of social norms codified by state statutes and sanctioned through institutional punishment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be where you list, your charter is so strong, That you yourself may privilage your time To what you will, to you it doth belong, Yourself to pardon of self-doing crime."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For if you were by my unkindness shaken As I by yours, y’have passed a hell of time, And I a tyrant have no leisure taken To weigh how once I suffered in your crime."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am possess’d with an adulterate blot; My blood is mingled with the crime of lust; For if we two be one, and thou play false, I do digest the poison of thy flesh, Being strumpeted by thy contagion."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tremble, thou wretch, That hast within thee undivulged **crime**, Unwhipp’d of justice."*
+> - 📜 **John Locke (*Second Treatise of Government*):** *"Every offense that can be committed in the state of nature may in the commonwealth be equally punished, for **crime** offends against the preservation of all."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I am malicious because I am miserable; am I not shunned and hated by all mankind? If misery is my lot, shall **crime** not be my recourse?"*

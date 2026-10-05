@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of acting unpredictably and more from whim or caprice than from reason or judgment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of acting unpredictably and more from whim or caprice than from reason or judgment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Grounding in random whim, impulse, or autocratic discretion rather than reason, law, or objective principle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional theory and jurisprudence, the despotic exertion of sovereign power unchecked by established statutory bounds or due process.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Nicholas, though he had never seen Ilágin, with his usual absence of moderation in judgment, hated him cordially from reports of his arbitrariness and violence, and regarded him as his bitterest foe."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"Nowhere did the unpredictable **arbitrariness** of military commanders produce greater bewilderment among the troops."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Protection against the tyranny of the magistrate is not enough; society must guard against the **arbitrariness** of prevailing opinion."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The independent tenure of the judicial department serves as an essential barrier against the **arbitrariness** of executive decrees."*

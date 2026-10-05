@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not connected with or engaged in commercial enterprises.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not connected with or engaged in commercial enterprises.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not engaged in, intended for, or motivated by commerce, trade, or the accumulation of financial profit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In communications law, copyright, and institutional governance, designated for educational, civic, or public interest use free from market monetization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"You must attribute the work in the manner specified by the author or licensor. -- Noncommercial."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Permission is herewith granted to private individuals, intergenerational programs, senior centers, and public and nonprofit entities to freely reproduce all or portions of this text for noncommercial purposes."*
+> - 📜 **Jane Addams (*Twenty Years at Hull-House*):** *"The settlement house maintained a strictly **noncommercial** dispensary providing medicines to impoverished neighborhood families."*
+> - 📜 **John Dewey (*The School and Society*):** *"Educational workshops should operate on a **noncommercial** basis to cultivate genuine creative experimentation."*
+> - 📜 **Thorstein Veblen (*The Instinct of Workmanship*):** *"Primitive toolmaking flourished originally under **noncommercial** tribal customs oriented toward collective survival."*

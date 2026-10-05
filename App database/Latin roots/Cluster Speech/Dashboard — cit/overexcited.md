@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unduly excited.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unduly excited.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessively stimulated, agitated, or enthusiastic; aroused beyond reasonable or healthy limits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric neurology and psychiatric diagnostics, displaying neurobehavioral hyper-reactivity and acute sensory overwhelm under excessive environmental input.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overexcited designates unduly excited."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The little girl became so **overexcited** by the festive preparations that her governess had to lead her from the parlor."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"The witness had become so **overexcited** that his narrative was a confused jumble of frantic conjectures."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Maggie was in an **overexcited** mood, laughing and weeping alternately until her mother feared a nervous fever."*

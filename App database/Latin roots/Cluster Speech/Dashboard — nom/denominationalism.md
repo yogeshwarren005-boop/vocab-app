@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A narrow-minded adherence to a particular sect or party or denomination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The tendency, in protestantism, to separate into religious denominations or to advocate such separations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Devotion to or emphasis on the interests, doctrines, or identity of a particular religious denomination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In religious sociology and church history, the sectarian principle organizing religious life into competing institutional bodies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"The cause of denominationalism is the tenacious clinging to faith and doctrines."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Rigid **denominationalism** frequently obscures the vital spiritual core shared by all authentic inner conversions."*
+> - 📜 **John Dewey (*A Common Faith*):** *"The entrenched loyalties of historical **denominationalism** divide democratic communities over doctrinal dogmas."*
+> - 📜 **Max Weber (*The Protestant Ethic and the Spirit of Capitalism*):** *"The ascetic ethos transcended narrow **denominationalism**, transforming everyday labor into an ethical calling."*

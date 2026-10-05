@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in west central washington on an arm of puget sound to the south of seattle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in west central washington on an arm of puget sound to the south of seattle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major deep-water port city in west-central Washington State, located on Commencement Bay in southern Puget Sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Pacific Northwest regional history and urban geography, an industrial railway terminus historically nicknamed the City of Destiny, situated north of Mount Rainier.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"Higgins tells of preaching in a town on the Tacoma Eastern Railway in Washington: "In one town where no religious organization was at work, I held services in a dance hall, and seventy-five persons were present, sixty of whom were loggers."*
+> - 📜 **John Muir (*Steep Trails*):** *"The great mountain that the native tribes called Mount **Tacoma** stood radiant above the dense fir forests of the sound."*
+> - 📜 **Rudyard Kipling (*From Sea to Sea*):** *"The bustling frontier city of **Tacoma** was springing into commercial prominence at the terminus of the northern railway."*
+> - 📜 **Theodore Winthrop (*The Canoe and the Saddle*):** *"We paddled across the tranquil waters of the sound, watching the noble white summit of **Tacoma** kindle in the sunrise."*

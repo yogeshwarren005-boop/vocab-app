@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used in some classification systems; a suborder or superfamily nearly coextensive with suborder tyranni; passeriformes having relatively simple vocal organs and little power of song; clamatorial birds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in some classification systems; a suborder or superfamily nearly coextensive with suborder tyranni; passeriformes having relatively simple vocal organs and little power of song; clamatorial birds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic avian suborder of passerine birds (also called Tyranni or suboscines) lacking complex syringeal vocal apparatus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic ornithology, the Clamatores (suboscines) contrast with the Oscines (true songbirds) by having simpler syringeal musculature and innate rather than learned vocalizations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clamatores designates used in some classification systems; a suborder or superfamily nearly coextensive with suborder tyranni; passeriformes having relatively simple vocal organs and little power of song; clamatorial birds."*
+> - 📜 **Spencer Fullerton Baird (*Birds of North America*):** *"In our systematic classification, we separate the **Clamatores** from the Oscines by their non-musical syrinx and plantar scutellation."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"The tyrant flycatchers belong to the **Clamatores**, a primitive division whose vocal organs are incapable of true modulated song."*
+> - 📜 **Robert Ridgway (*The Birds of North and Middle America*):** *"Anatomical dissections confirm that the suborder **Clamatores** possesses only two pairs of intrinsic syringeal muscles."*

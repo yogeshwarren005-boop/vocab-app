@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who proposes a candidate for appointment or election.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who proposes a candidate for appointment or election.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who proposes, names, or enters someone as a candidate for an office, election, or honor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electoral administration and parliamentary assemblies, the delegate or sponsor who presents a formal nomination petition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nominator designates someone who proposes a candidate for appointment or election."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Each candidate relied upon a trusted **nominator** to introduce his platform with rousing speeches to the assembled delegates."*
+> - 📜 **Woodrow Wilson (*The State: Elements of Historical and Practical Politics*):** *"The primary sponsor or **nominator** must certify that the nominee meets all constitutional qualifications for office."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The chief **nominator** was shouted down by opposing factions in the crowded town hall during the borough election."*

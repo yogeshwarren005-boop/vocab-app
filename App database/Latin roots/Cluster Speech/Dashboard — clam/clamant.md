@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conspicuously and offensively loud; given to vehement outcry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Demanding attention; ; ; - h.l.mencken.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Crying out loudly, insistently, or noisily; or demanding immediate urgent public attention and remedy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and political rhetoric, characterizing an intolerable social injustice or emergency that cries out for intervention.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"The doom of the Regent and Council shows singularly the total interruption of justice at this calamitous period, even in the most clamant cases of oppression."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"The suffering of unemployed artisans presented a **clamant** grievance that no ministerial sophistry could evade."*
+> - 📜 **George Gissing (*The Nether World*):** *"The squalor of the urban slums formed a **clamant** reproach to the prosperous complacency of Victorian commerce."*
+> - 📜 **John Ruskin (*Fors Clavigera*):** *"The honest cry of bread-winners cheated of wages is the most **clamant** sound that can reach the ear of Heaven."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an exciting manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an exciting manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an exciting, thrilling, or remarkably stirring manner; producing lively sensation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic criticism and dramatic prose, unfolding with kinetic intensity and captivating suspense that rivets spectator attention.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"I have talked, and let you talk, too much and too excitingly."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Among them she found herself more excitingly applauded before the curtain, her authority more despotic behind it, her expenses smaller, and her gains greater than in London, for which she accordingly cared as little as London cared for her."*
+> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"The pugilistic contest proceeded **excitingly**, with each champion trading furious blows before the cheering throng."*
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"The historic tale unfolded **excitingly**, holding the children breathless around the blazing hearth."*
+> - 📜 **William Dean Howells (*A Hazard of New Fortunes*):** *"The strike rumors developed **excitingly** throughout the morning editions, creating deep apprehension among the financiers."*

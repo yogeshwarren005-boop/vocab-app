@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily excited.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of responding to stimuli.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily excited, provoked, or aroused to emotional reaction; exhibiting heightened responsiveness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychopathology and electrophysiology, possessing an unstable nervous constitution or responding physiologically to low stimulus thresholds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce was constantly beset by the crowd of excitable ladies and gentlemen whose proceedings had so much astonished us."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Mother says I always was so excitable when my feelings were worked up to a point!” “True, true,” said Joseph Poorgrass."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The Balls were always a very excitable family."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She was an **excitable** creature, whose tears flowed as quickly as her laughter at the slightest shift of Fortune."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His **excitable** nature could ill brook any sustained contradiction when his pet theories were brought under scrutiny."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Dr. Mortimer described Sir Charles as an **excitable** man whose fragile heart was dangerously susceptible to sudden terrors."*

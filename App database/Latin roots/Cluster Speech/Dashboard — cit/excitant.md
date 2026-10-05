@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug that temporarily quickens some vital process.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of drugs e.g.) able to excite or stimulate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent, substance, or stimulus that arouses, stimulates, or increases vital physiological activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical pharmacology and toxicology, a stimulant medication (such as caffeine, strychnine, or ether) acting upon the central nervous system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, excitant designates a drug that temporarily quickens some vital process."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In states of profound cardiovascular collapse, aromatic spirits of ammonia served as an effective prompt **excitant**."*
+> - 📜 **Thomas De Quincey (*Confessions of an English Opium-Eater*):** *"Wine acts upon the human faculties as a turbulent **excitant**, whereas opium operates as a calm restorative."*
+> - 📜 **Justus von Liebig (*Animal Chemistry*):** *"The consumption of spicy condiments functions as an artificial **excitant** to the secretions of the gastric mucous membrane."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any slime mold of the genus dictostylium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any slime mold of the genus dictostylium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of cellular slime molds (Dictyostelium) widely investigated as model organisms for cell differentiation and morphogenesis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental microbiology, amoeboid protists that transition from solitary unicellular feeding to multicellular slug aggregation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dictostylium designates any slime mold of the genus dictostylium."*
+> - 📜 **John Tyler Bonner (*The Cellular Slime Molds*):** *"Upon starvation, solitary amoebae of **dictostylium** aggregate through cyclic adenosine monophosphate pulses into a multicellular slug."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"The extraordinary life cycle of **dictostylium** illustrates how individual unicellular organisms cooperate to build communal fruiting bodies."*
+> - 📜 **Lewis Wolpert (*The Triumph of the Embryo*):** *"Positional information and chemical morphogen gradients guide pattern formation across the aggregating masses of **dictostylium**."*

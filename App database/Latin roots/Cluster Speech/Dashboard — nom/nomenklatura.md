@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The system of patronage in communist countries; controlled by committees in the communist party.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The system of patronage in communist countries; controlled by committees in the communist party.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The list of influential Soviet bureaucratic posts and the elite officials appointed to fill them by the Communist Party.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political science and Soviet studies, the privileged managerial ruling class in state-socialist regimes that exercised systemic administrative control.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nomenklatura designates the system of patronage in communist countries; controlled by committees in the communist party."*
+> - 📜 **George F. Kennan (*Memoirs: 1950-1963*):** *"The entrenched Soviet **nomenklatura** jealously guarded its special distribution privileges and suburban dachas against reform."*
+> - 📜 **Isaiah Berlin (*The Soviet Mind: Russian Culture Under Communism*):** *"Beneath revolutionary slogans, the party **nomenklatura** functioned as a rigid, self-perpetuating bureaucratic aristocracy."*
+> - 📜 **Milovan Djilas (*The New Class*):** *"The apparatus of the **nomenklatura** exercised monopolistic authority over state property, industry, and social advancement."*

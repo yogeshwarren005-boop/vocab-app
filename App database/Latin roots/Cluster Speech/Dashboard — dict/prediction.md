@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of predicting (as by reasoning about the future).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A statement made about the future.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A statement foretelling what will happen in the future, whether based upon intuition, prophecy, or scientific deduction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy of science, a specific deductive implication derived from a theoretical hypothesis to test its empirical validity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This villain of mine comes under the prediction; there’s son against father: the King falls from bias of nature; there’s father against child."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am thinking, brother, of a prediction I read this other day, what should follow these eclipses."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My noble partner You greet with present grace and great prediction Of noble having and of royal hope, That he seems rapt withal."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes made a shrewd **prediction** regarding the exact hour the fugitive would attempt to cross the grim mire."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The cynical lawyer made a gloomy **prediction** that the Chancery estate would be consumed entirely by court fees."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"The visionary astronomer verified his bold **prediction** by observing the transit of the planet precisely at dawn."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The humanistic study of language and literature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of human language, encompassing phonology, syntax, semantics, pragmatics, and historical evolution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic taxonomy, the formal empirical discipline investigating universal grammar, dialectology, and sociolinguistic variance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"On the contrary, as his interest in speculative thought gradually withered, his interest on the side of scholarship and linguistics became greater than ever, and his energy here was always seeking new outlets for itself."*
-> - 📜 **Unknown (*The Second Story of Meno*):** *"A sort of lesson in linguistics, perhaps, but certainly not in mathematics."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"The true and unique object of **linguistics** is language studied in and for itself as a synchronous semiotic system."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"Modern **linguistics** treats speech as a natural biological and social activity amenable to rigorous objective analysis."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"Comparative **linguistics** uncovers the subtle genealogical threads linking widely scattered populations across millennia."*

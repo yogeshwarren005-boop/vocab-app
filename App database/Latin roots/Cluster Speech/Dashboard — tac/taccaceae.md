@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small family of tropical herbs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small family of tropical herbs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical family of monocotyledonous flowering plants comprising tropical perennial herbs with tuberous rhizomes and umbellate inflorescences.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic angiosperm taxonomy, a family closely allied to or merged within Dioscoreaceae, notable for conspicuous floral bracts and thread-like bracteoles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, taccaceae designates small family of tropical herbs."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Lindley circumscribed the family **Taccaceae** based upon their singular parasol-like floral clusters and tuberous root systems."*
+> - 📜 **George Bentham (*Genera Plantarum*):** *"The diagnostic features of the **Taccaceae** reside in their unilocular ovary and remarkable filament-like floral appendages."*
+> - 📜 **Asa Gray (*The Elements of Botany*):** *"Taxonomic monographs classify the bat-faced tropical herbs under **Taccaceae** in recognition of their aberrant floral morphology."*

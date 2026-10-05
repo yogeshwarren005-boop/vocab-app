@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A phrase that functions as a pronoun.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to pronouns.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, functioning as, or resembling a pronoun in grammatical form or syntax.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and syntax, designating grammatical structures, clitics, or affixes substituting for or referring to noun phrases.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pronominal designates a phrase that functions as a pronoun."*
+> - 📜 **Otto Jespersen (*The Philosophy of Grammar*):** *"The intricate **pronominal** systems of Indo-European languages maintain vital distinctions of person, gender, and number."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"Certain indigenous American languages incorporate **pronominal** elements directly into the verbal stem as prefixes or infixes."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"The replacement of a substantive by a **pronominal** form depends upon mutual situational awareness between speaker and hearer."*

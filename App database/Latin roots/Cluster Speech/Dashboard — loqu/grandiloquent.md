@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lofty in style.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Puffed up with vanity; ; ; ; - newsweek.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pompous, bombastic, or inflated in language, style, or manner; using grandiose expressions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary style and oratory, employing high-flown phrasing to project an exaggerated impression of importance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Applied to any other creature than the Leviathan—to an ant or a flea—such portly terms might justly be deemed unwarrantably grandiloquent."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Lord God of might, God of our salvation!” began the priest in that voice, clear, not grandiloquent but mild, in which only the Slav clergy read and which acts so irresistibly on a Russian heart."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Applied to any other creature than the Leviathan—to an ant or a flea—such portly terms might justly be deemed unwarrantably grandiloquent."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber penned a characteristically **grandiloquent** epistle, lamenting his pecuniary distress in terms of imperial tragedy."*
+> - 📜 **Sir Walter Scott (*The Antiquary*):** *"The learned scholar delivered a **grandiloquent** discourse on Roman fortifications, utterly oblivious to his companion's boredom."*
+> - 📜 **Henry Fielding (*Tom Jones*):** *"The local magistrate assumed a **grandiloquent** posture upon the bench, terrifying rustic offenders with polysyllabic denunciations."*

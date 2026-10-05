@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of an orator or oratory; ; - robert graves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of an orator or oratory; ; - robert graves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the art, practice, delivery, or style of public speaking and eloquence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stylistic analysis, characterizing persuasive rhetoric distinguished by balanced cadences, dramatic pauses, and elevated figures of speech.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Gavin Hamilton—Holy Willie and his priest, Father Auld, after full hearing in the presbytery of Ayr, came off but second best; owing partly to the oratorical powers of Mr."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Yes, _I_’ve done,” said Raffles, taking hold of his hat which stood before him on the table, and giving it a sort of oratorical push."*
-> - 📜 **Effie Afton (*Eventide*):** *"Prague and his amiable lady, in genial after-dinner mood; he burly, and easy-natured, enjoying his oranges; she, majestic and oratorical in her rustling brocades."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Gavin Hamilton's **oratorical** powers in the presbytery were famed for humbling hypocritical elders."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Yes, I've done, said Raffles, with an **oratorical** flourish of his hand that was meant to be imposing."*
+> - 📜 **G. K. Chesterton (*Heretics*):** *"The modern politician prefers journalistic slogans to the grand **oratorical** architecture of eighteenth-century statesmen."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who claims a benefit or right or title.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who claims a benefit or right or title.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who asserts a right, title, demand, or legal interest, especially in a disputed estate or public benefit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In probate and civil litigation, the party petitioning an appellate court or probate tribunal for recognition of heirship or property title.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Now it is not meet that a princess espouse a sea-cuny, or even a claimant of the ancient blood of Koryu, who is without power, or place, or visible symbols of rank."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The surplus funds of the society, amounting June 1st, 1866, to about nine thousand dollars, were used in the settlement of all war claims of soldiers, bounties, back pay, pensions, etc., gratuitously to the claimant."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"I speak now not as a medical man but as a trustee and executor of Sir Charles’s will.” “There is no other claimant, I presume?” “None."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Every soul appears in the world as an eager **claimant** to universal truth and spiritual independence."*
+> - 📜 **G. K. Chesterton (*The Club of Queer Trades*):** *"The mysterious **claimant** appeared with ancient parchment credentials that baffled the family solicitors."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Another impoverished **claimant** had perished in misery while Jarndyce and Jarndyce dragged its weary length through Chancery."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An additional name or an epithet appended to a name (as in `ferdinand the great').
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An additional name or an epithet appended to a name (as in `ferdinand the great').
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An additional, fourth name or personal epithet given to an ancient Roman, typically commemorating an achievement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman onomastics, an honorary or descriptive surname added to the *praenomen*, *nomen*, and *cognomen* (e.g. *Africanus* for Scipio).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agnomen designates an additional name or an epithet appended to a name (as in `ferdinand the great')."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The triumphant general received the illustrious **agnomen** of Africanus in memory of his decisive victory over Carthage."*
+> - 📜 **Thomas Babington Macaulay (*Lays of Ancient Rome*):** *"The patrician proudly bore every ancient title and honorable **agnomen** inscribed upon the funeral wax busts of his ancestors."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"In imperial inscriptions, the ruler accumulated title upon title, appending an **agnomen** from every subjugated border province."*

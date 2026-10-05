@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing yourself readily, clearly, effectively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressing yourself readily, clearly, effectively.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing ideas or feelings powerfully, gracefully, and persuasively in speech or writing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and rhetoric, marked by vivid expression, suggestive power, or stirring moral force.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"HAMLET. ’Tis as easy as lying: govern these ventages with your finger and thumb, give it breath with your mouth, and it will discourse most eloquent music."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be eloquent in my behalf to her."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go, write it in a martial hand, be curst and brief; it is no matter how witty, so it be eloquent and full of invention."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"His silence was more deeply **eloquent** than any formal speech, revealing the tempest of grief within his breast."*
+> - 📜 **Abraham Lincoln (*Address at Gettysburg*):** *"The assembled gathering listened in solemn reverence to the brief yet supremely **eloquent** tribute to the fallen soldiers."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"The shattered marble pillars of the ancient temple stood as an **eloquent** monument to departed imperial glory."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being used again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being used again.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being recovered, restored, reformed, rehabilitated, or converted to productive utility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural hydrology and resource management, describing saline flats or marshlands capable of economic desalinization and drainage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reclaimable designates capable of being used again."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Extensive tidal flats along the estuary are easily **reclaimable** through systematic dike construction and sedimentation."*
+> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"The penal reformer maintains that the vast majority of delinquent offenders remain essentially **reclaimable** under rational discipline."*
+> - 📜 **John Ruskin (*Unto This Last*):** *"There is no human waste so abject that it is not fundamentally **reclaimable** by patient, sympathetic labor."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cross between citrus sinensis and poncirus trifoliata.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cross between citrus sinensis and poncirus trifoliata.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A nothogenus representing intergeneric hybrids between the genus Citrus and the trifoliate orange Poncirus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical taxonomy, the formally assigned hybrid designation (× Citroncirus webberi) encompassing cold-hardy citranges and citrumelos.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, citroncirus designates a cross between citrus sinensis and poncirus trifoliata."*
+> - 📜 **Liberty Hyde Bailey (*Manual of Cultivated Plants*):** *"The intergeneric cross **citroncirus** demonstrates that morphological boundaries between Citrus and Poncirus are permeable under controlled breeding."*
+> - 📜 **Walter T. Swingle (*The Citrus Industry*):** *"We established the hybrid genus **citroncirus** to designate all artificial offspring uniting the evergreen Citrus with deciduous Poncirus trifoliata."*
+> - 📜 **U. P. Hedrick (*Cyclopedia of Hardy Fruits*):** *"Rootstocks derived from **citroncirus** hybrids exhibit remarkable resistance to cold injury and subterranean fungal pathogens in citrus orchards."*

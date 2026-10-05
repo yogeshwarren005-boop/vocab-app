@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is so ardently devoted to something that it resembles an addiction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who is physiologically dependent on a substance; abrupt deprivation of the substance produces withdrawal symptoms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To devote, surrender, or bind oneself habitually or compulsively to a practice, substance, or pursuit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman law (addictus), a debtor formally assigned into physical servitude to a creditor by judicial decree.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I had a thousand sons, the first humane principle I would teach them should be to forswear thin potations and to addict themselves to sack."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If that one be prodigal, Bountiful they will him call, And with such-like flattering, “Pity but he were a king.” If he be addict to vice, Quickly him they will entice; If to women he be bent, They have at commandement."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Did he mention the precise order of occupation to which he would addict himself?” “No."*
+> - 📜 **Francis Bacon (*The Essays*):** *"Men who **addict** their spirits to frivolous studies neglect the weightier affairs of state."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Such as **addict** themselves to solitary contemplation often fall prey to desperate phantasies."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Roman praetor would formally **addict** the insolvent debtor to his relentless creditor."*

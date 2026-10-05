@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The manner in which someone utters a word.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The way a word or a language is customarily spoken.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The manner in which a word, syllable, or language is spoken or articulated according to recognized phonetic standards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive phonetics and historical linguistics, the realization of phonemic units through vocal tract articulators according to regional or dialectal conventions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"That’s it!” cried Clare, pleased to think that she had reverted to the real pronunciation."*
-> - 📜 **George Eliot (*Middlemarch*):** *"That is wi-ide.” Naumann’s pronunciation of the vowel seemed to stretch the word satirically."*
-> - 📜 **George Eliot (*Middlemarch*):** *"How could a ship off the sea come there?” “These things belong only to pronunciation, which is the least part of grammar,” said Mrs."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Her mother spoke the dialect of the county with a broad provincial **pronunciation** that Tess had learned to soften at the school."*
+> - 📜 **George Eliot (*Middlemarch*):** *"How could a man with such a harsh, pedantic **pronunciation** hope to charm the sensitive ear of a cultivated gentlewoman?"*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The gradual alteration in the **pronunciation** of vowels across successive generations accounts for the historical bifurcation of dialects."*

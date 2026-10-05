@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a clammy manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a clammy manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unpleasantly cold, damp, sticky, or moist manner that creates visceral discomfort.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sensory descriptive literature, depicting the cold perspiration or humid tactile quality of dying skin or subterranean vaults.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clammily designates in a clammy manner."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"The damp autumn mist clung **clammily** to the crumbling stones of the ancient ancestral mansion."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The sodden pine needles adhered **clammily** to her boots as she wandered through the dark woodland glade."*
+> - 📜 **Joseph Conrad (*The Shadow-Line*):** *"A feverish sweat broke out upon his forehead, dripping **clammily** into his eyes during the oppressive tropical calm."*

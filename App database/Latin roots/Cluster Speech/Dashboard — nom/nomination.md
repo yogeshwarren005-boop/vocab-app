@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of officially naming a candidate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition of having been proposed as a suitable candidate for appointment or election.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or instance of formally naming or proposing someone for an office, position, or honor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional law and political convention, the formal institutional process designating a candidate for executive or judicial confirmation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What imports the nomination of this gentleman?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is, and wants but nomination."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Is he really going to be put in nomination, though?” said Mr."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The sole act of **nomination** rests exclusively with the President, ensuring concentrated responsibility in executive selections."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The presidential **nomination** provoked intense factional rivalry across every state committee in the Union."*
+> - 📜 **James Madison (*The Federalist Papers*):** *"The power of **nomination** prevents corrupt coalitions in the legislature from partitioning public offices among favorites."*

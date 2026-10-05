@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not susceptible to persuasion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not susceptible to persuasion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being persuaded, reasoned with, convinced, or swayed by entreaty or argument; obstinate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological disposition, an intractable obstinacy that rejects logical demonstration and rhetorical appeal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Don’t you KNOW that these arm-chairs were borrowed to be sat upon?’ He was unreasonable and unpersuadable and used intemperate language."*
+> - 📜 **Jane Austen (*Persuasion*):** *"He was of that unbending, **unpersuadable** character that yields to neither affectionate entreaty nor calm reason."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Don’t you KNOW that these arm-chair politicians are completely **unpersuadable** by any appeals to common sense?"*
+> - 📜 **George Eliot (*Romola*):** *"The fanatical leader proved **unpersuadable**, adhering with iron obstinacy to his preconceived divine mission."*

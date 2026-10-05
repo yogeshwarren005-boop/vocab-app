@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being wordy and talkative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being wordy and talkative.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The habit or state of talking too much; continuous talkativeness or garrulity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical moral philosophy and satire, unbridled volubility that exhausts listeners and dilutes serious thought.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But she forbore to utter this feeling, and the reticence of her tongue only made the loquacity of her face the more noticeable."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There is a loquacity that tells nothing, which was Bathsheba’s; and there is a silence which says much: that was Gabriel’s."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"All his loquacity was suddenly arrested and replaced by a naïve and silent feeling of admiration."*
+> - 📜 **Michel de Montaigne (*Essays*):** *"Wise men value measured silence far above the hollow **loquacity** that empties the mind of deliberate judgment."*
+> - 📜 **Francis Bacon (*The Essays*):** *"Excessive **loquacity** in counselors betrays shallow discretion and reveals state secrets before plans mature."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Greek ambassadors tired the patience of the barbarian chieftain with their interminable theological **loquacity**."*

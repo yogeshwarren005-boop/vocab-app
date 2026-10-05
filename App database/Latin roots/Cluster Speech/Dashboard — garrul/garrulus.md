@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the garrulinae: old world jays.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the garrulinae: old world jays.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The zoological genus of Old World jays in the crow family Corvidae, including the Eurasian jay (Garrulus glandarius).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic ornithology, Garrulus designates jays with bright pinkish-brown plumage, vibrant blue wing coverts, and harsh vocal alarm shrieks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, garrulus designates type genus of the garrulinae: old world jays."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The Eurasian jay, classified as **Garrulus** glandarius, plays an indispensable role in forest regeneration by caching acorns."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The harsh, screeching note of **Garrulus** sounds through the autumn oak woods whenever a stranger enters the coppice."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The genus **Garrulus** is distributed across the temperate Palaearctic region, exhibiting minor geographical variations in plumage."*

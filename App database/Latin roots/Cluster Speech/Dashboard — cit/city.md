@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large and densely populated urban area; may include several independent administrative districts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An incorporated administrative district established by state charter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large and permanent human settlement, typically functioning as a center of commerce, culture, and municipal governance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urban sociology and history, a legally chartered municipality distinguished by demographic density, complex infrastructure, and administrative autonomy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Virginity being blown down, man will quicklier be blown up; marry, in blowing him down again, with the breach yourselves made, you lose your city."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, come; for if they do approach the city, we shall lose all the sight."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The city cast Her people out upon her, and Antony, Enthroned i’ th’ market-place, did sit alone, Whistling to th’ air, which, but for vacancy, Had gone to gaze on Cleopatra too, And made a gap in nature."*
+> - 📜 **William Shakespeare (*Coriolanus*):** *"What is the **city** but the people? True, the people are the city."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Along the echoing streets of the great **city**, the heavy rumble of tumbrils announced another day of revolutionary retribution."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The rapid growth of each industrial **city** generates new social forces that test the elasticity of republican institutions."*

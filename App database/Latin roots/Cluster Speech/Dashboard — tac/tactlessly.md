@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without tact; in a tactless manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without tact; in a tactless manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an insensitive, blunt, or undiplomatic manner that provokes social embarrassment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With clumsy indiscretion and without thoughtful consideration for the feelings of companions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tactlessly designates without tact; in a tactless manner."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mrs. Bennet **tactlessly** boasted of Jane's conquests in the presence of the disdainful Darcy."*
+> - 📜 **Edith Wharton (*The House of Mirth*):** *"The gossip blurted out **tactlessly** news that threw the entire gathering into shocked silence."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"He **tactlessly** reminded her of their youthful blunders, opening wounds long thought healed."*

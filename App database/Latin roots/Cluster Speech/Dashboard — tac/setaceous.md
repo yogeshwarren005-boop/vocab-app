@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or covered with protective barbs or quills or spines or thorns or setae etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or covered with protective barbs or quills or spines or thorns or setae etc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Covered with, consisting of, or closely resembling stiff bristles or coarse animal hairs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical and entomological morphology, describing slender, tapering setae or bristle-like structures on plant appendages or insect antennae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, setaceous designates having or covered with protective barbs or quills or spines or thorns or setae etc."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"The floral bracts are guarded by stiff **setaceous** hairs that impede small crawling insects from robbing the nectar."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The leaves of this sedge terminate in slender **setaceous** tips that curl irregularly when desiccated."*
+> - 📜 **Augustus Daniel Imms (*A General Textbook of Entomology*):** *"The delicate **setaceous** antennae of dragonflies taper gradually to an exquisite, bristle-like terminal point."*

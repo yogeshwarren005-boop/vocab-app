@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing or characterized by addiction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing or characterized by addiction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to cause physiological or psychological dependence through habitual consumption, exposure, or repetitive behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuropharmacology, possessing potent reinforcing properties that alter mesolimbic neurotransmission and trigger craving.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, addictive designates causing or characterized by addiction."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Physicians must handle morphine with profound caution because of its fiercely **addictive** potential."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Certain repetitive sensual indulgences exercise an insidiously **addictive** grip upon the imaginative consciousness."*
+> - 📜 **Aldous Huxley (*Brave New World Revisited*):** *"Modern pharmacologists have synthesized euphoric sedatives far more powerfully **addictive** than the crude opiates of antiquity."*

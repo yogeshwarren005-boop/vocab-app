@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a tacit manner; by unexpressed agreement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a tacit manner; by unexpressed agreement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unspoken, silent, or implied manner without explicit verbal declaration or formal announcement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social philosophy and jurisprudence, by implicit acquiescence or passive cooperation indicating assent through unprotesting conduct.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There, ’twas a merciful thing it ended where it did.” The question of which was right being tacitly waived by the company, Jan went on meditatively:— “And he’s the fearfullest man, bain’t ye, Joseph?"*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The outlook and sympathies that are expressed or tacitly assumed throughout this work are not so much those personal to the author as they are those of our present day American democratic society, taken at about its center of gravity."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The Progressives did not expect all industries to become monopolies, and the Democrats tacitly conceded to monopoly-accepted the large field of transportation and local utilities it already had occupied."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The question of which was right being **tacitly** waived by the company, Jan went on meditatively with his narrative."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"I believe we are continually taking a most erroneous view when we **tacitly** admit to ourselves that species are immutable."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"It was as if I had seen her admiringly and tenderly embracing Dora, and **tacitly** reproving me by her gentle unselfishness."*

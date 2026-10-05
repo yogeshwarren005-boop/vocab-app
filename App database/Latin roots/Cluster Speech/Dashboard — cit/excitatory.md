@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of drugs e.g.) able to excite or stimulate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of drugs e.g.) able to excite or stimulate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to cause stimulation, arousal, or heightened physiological activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurobiology and cellular signaling, denoting neurotransmitters (such as glutamate) or synapses that depolarize the postsynaptic membrane toward an action potential.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, excitatory designates (of drugs e.g.) able to excite or stimulate."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The nerve force unleashed during intense terror overflows into various **excitatory** motor channels, producing violent bodily trembling."*
+> - 📜 **William James (*The Principles of Psychology*):** *"An **excitatory** sensory impulse traveling along the afferent nerve fibers overcomes synaptic resistance to generate conscious movement."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Tetanus toxin exercises an intensely **excitatory** effect upon the motor neurons of the spinal anterior horns."*

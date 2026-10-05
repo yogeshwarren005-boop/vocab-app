@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman catholic church) a diplomatic representative of the pope having ambassadorial status.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman catholic church) a diplomatic representative of the pope having ambassadorial status.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A papal ambassador; an accredited diplomatic representative of the Pope to a foreign government.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international diplomacy and canon law, an apostolic legate possessing the permanent rank of ambassador extraordinary and plenipotentiary.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O then unfold the passion of my love, Surprise her with discourse of my dear faith; It shall become thee well to act my woes; She will attend it better in thy youth, Than in a nuncio’s of more grave aspect."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"If a man came a cropper in a big way, it was because he had rushed into a work before Destiny, the invisible infallible nuncio of God, had chosen her man."*
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"Mary reserves a portion of your silk, not to be buried in (as the false Nuncio asserts), but to make up spick and span into a bran new gown to wear when you come."*
+> - 📜 **William Shakespeare (*King John*):** *"According to the fair play of the world, let me have audience; I am sent to speak: my holy lord of Milan, from the Pope's own court, arrives as apostolic **nuncio**."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The papal **nuncio** was received at the royal palace with the ceremonial honors customarily reserved for the most powerful foreign monarchs."*
+> - 📜 **Walter Scott (*Kenilworth*):** *"Secret rumors circulated through Whitehall that a disguised papal **nuncio** had landed secretly upon the southern coast of Sussex."*

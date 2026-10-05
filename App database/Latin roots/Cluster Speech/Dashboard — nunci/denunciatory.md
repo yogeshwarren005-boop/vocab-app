@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing warning of punishment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing warning of punishment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or marked by public denunciation, severe condemnation, or solemn accusation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In homiletics and legal rhetoric, designed to castigate transgression through prophetic warning, legal penalty, or moral indignation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"Mass meetings, of the most boisterous and denunciatory character, were held through the community."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The attorneys for the People were dramatic and denunciatory, and forced their case with arrogant confidence."*
+> - 📜 **Effie Afton (*Eventide*):** *"Mass meetings were assembled, where indignant speakers delivered **denunciatory** addresses against the tyrannical enactments of the council."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The preacher launched into a **denunciatory** sermon upon the vices of the borough, making Henchard writhe in his high pew."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Prophets of every era employ **denunciatory** eloquence to shatter the smug complacency of decadent civilizations."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman catholic church) a diplomatic representative of the pope ranking below a nuncio.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman catholic church) a diplomatic representative of the pope ranking below a nuncio.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A diplomatic representative or intermediate messenger; specifically a papal legate ranking below a full nuncio.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic history and ecclesiastical governance, an envoy dispatched to represent the Holy See in nations where full apostolic nunciatures are not established.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, internuncio designates (roman catholic church) a diplomatic representative of the pope ranking below a nuncio."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Roman pontiff dispatched an **internuncio** to the imperial court of Constantinople to negotiate terms of religious reconciliation."*
+> - 📜 **David Hume (*The History of England*):** *"The negotiations were conducted through a discreet **internuncio**, who conveyed secret proposals between the French cardinal and the king."*
+> - 📜 **Walter Scott (*Quentin Durward*):** *"The papal **internuncio** arrived under an escort of cavalry, bearing sealed dispatches from the apostolic see for Duke Charles."*

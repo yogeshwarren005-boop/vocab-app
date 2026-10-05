@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a city.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling a city.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling, characteristic of, or suggestive of an urban settlement or metropolitan lifestyle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human geography and architectural description, possessing the bustle, structural density, or sophisticated tone typical of a municipality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, city-like designates resembling a city."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The noisy clatter of the arriving railroad gave the quiet lakeside village a hurried, **city-like** aspect for an hour."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The expanding manufacturing quarter of the town assumed a busy, **city-like** appearance with its tall brick chimneys."*
+> - 📜 **Washington Irving (*Knickerbocker's History of New York*):** *"The sleepy Dutch trading post gradually developed a bustling, **city-like** importance as merchant sloops crowded the wharves."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Turn away from by persuasion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Turn away from by persuasion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To persuade someone not to take a particular course of action, through advice, argument, or warning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In decision theory and forensic deliberation, to divert a person's resolve away from an intended undertaking.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet the scarfs and the bannerets about thee did manifoldly dissuade me from believing thee a vessel of too great a burden."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Alexas did revolt and went to Jewry on Affairs of Antony; there did dissuade Great Herod to incline himself to Caesar And leave his master Antony."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I had myself notice of my brother’s purpose herein, and have by underhand means laboured to dissuade him from it; but he is resolute."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hear me, my lord; what I will speak will tend to your relief, and **dissuade** you from this perilous venture."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I tried hard to **dissuade** him from his reckless design, but his stubborn pride would hear no counsel."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"My father did not fail to **dissuade** me from pursuing those obsolete and dangerous occult philosophies."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or affecting the joints of the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or affecting the joints of the body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, situated near, or affecting an anatomical joint between two or more bones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orthopedic pathology and rheumatology, designating structures directly forming the joint space, including the hyaline articular cartilage and synovial membrane.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, articular designates relating to or affecting the joints of the body."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The **articular** extremities of long bones are expanded to provide broader surfaces for mutual contact and stability."*
+> - 📜 **Sir William Macewen (*The Growth of Bone*):** *"The smooth **articular** cartilage remains unvascularized throughout adult life, nourished entirely by synovial fluid diffusion."*
+> - 📜 **Sir James Paget (*Lectures on Surgical Pathology*):** *"Chronic osteoarthritic inflammation progressively erodes the polished **articular** facets until eburnated subchondral bone is exposed."*

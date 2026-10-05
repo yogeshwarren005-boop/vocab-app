@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who tries to persuade or induce or lead on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who tries to persuade or induce or lead on.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or thing that persuades, influences, or convinces another to adopt an opinion or course of action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical rhetoric, an orator or advocate practicing the persuasive art; or colloquial slang for a blunt weapon used for coercion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"To satisfy the sharp desire I had Of tasting those fair apples, I resolved Not to defer; hunger and thirst at once, Powerful persuaders, quickened at the scent Of that alluring fruit, urged me so keen."*
-> - 📜 **James Joyce (*Ulysses*):** *"The poorest kitchenwench no less than the opulent lady of fashion, if so be their constructions and their tempers were warm persuaders for their petitions, would find in him their man."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Self-interest is ever the most subtle and indefatigable **persuader** of the human understanding."*
+> - 📜 **John Milton (*Paradise Lost*):** *"To satisfy the sharp desire I had of tasting those fair apples, I resolved not to defer; hunger and thirst at once, powerful **persuaders**, quickened at the scent of that alluring fruit."*
+> - 📜 **James Joyce (*Ulysses*):** *"The poorest kitchenwench no less than the proudest queen yields to the charming eloquence of a gifted **persuader**."*

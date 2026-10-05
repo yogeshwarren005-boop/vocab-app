@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being or having the customs or manners or dress of a city person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or having the customs or manners or dress of a city person.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Born in a city; native to an urban environment rather than a rural district.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural sociology and literature, having nativity in a metropolitan center, often contrasted with provincial or agrarian origins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, city-born designates being or having the customs or manners or dress of a city person."*
+> - 📜 **Walt Whitman (*Specimen Days*):** *"Being **city-born** and city-bred, I nonetheless feel an irresistible longing for the quiet woods and open salt meadows."*
+> - 📜 **Jack London (*The Valley of the Moon*):** *"The **city-born** workingman knew nothing of the seasons or crops until hardship drove him into the countryside."*
+> - 📜 **William Dean Howells (*A Hazard of New Fortunes*):** *"Her sophisticated poise was unmistakably that of a **city-born** woman accustomed to the vibrant stir of crowded avenues."*

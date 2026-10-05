@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Liable to be accused, or cause for such liability.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Liable to be accused, or cause for such liability.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Liable to be charged with a formal criminal offense; describing an unlawful act punishable upon bill of indictment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In procedural jurisprudence, distinguishing serious felonies and misdemeanors requiring grand jury presentment from summary offenses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, indictable designates liable to be accused, or cause for such liability."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Every unlawful conspiracy to obstruct public justice constitutes an **indictable** offense punishable by imprisonment."*
+> - 📜 **Edmund Burke (*Speech on the Impeachment of Warren Hastings*):** *"These systematic extortions against provincial rulers were not mere improprieties, but flagrant, **indictable** crimes."*
+> - 📜 **Henry Maine (*Ancient Law*):** *"Early Roman jurisprudence possessed no clear conception of an **indictable** public wrong distinct from private tortious injury."*

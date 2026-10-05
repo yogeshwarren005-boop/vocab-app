@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unworthiness meriting public disgrace and dishonor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unworthiness meriting public disgrace and dishonor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Despicable shamefulness, profound dishonor, or extreme public disgrace attaching to conduct or character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethical philosophy and historical analysis, the reprehensible disgrace or contemptible baseness of an action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ignominiousness designates unworthiness meriting public disgrace and dishonor."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The **ignominiousness** of cowardice lies in purchasing transient bodily safety at the cost of immortal honor."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The utter **ignominiousness** of the royal flight to Varennes dissolved the mystical reverence once paid to the crown."*
+> - 📜 **Henry James (*The Bostonians*):** *"He felt keenly the petty **ignominiousness** of their family dispute, recoiling from public sensationalism."*

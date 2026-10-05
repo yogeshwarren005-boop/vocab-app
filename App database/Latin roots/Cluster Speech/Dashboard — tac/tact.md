@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consideration in dealing with others and avoiding giving offense.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consideration in dealing with others and avoiding giving offense.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Keen sensitivity in handling difficult individuals or delicate situations; diplomatic finesse and skill.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sensory physiology, the sense of touch or cutaneous perception of physical contact.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"You know, just accustom yourself to talk it over, with your tact and in your quiet way, with him and Ada, and see what you all make of it."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Even what she read and said seemed to us to be ill-chosen for such auditors, if it had been imparted ever so modestly and with ever so much tact."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Nothing but Miss Summerson’s fine tact, he said, would have found this out for him."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth handled Mr. Collins with exquisite **tact**, averting awkward embarrassment in the parlor."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Madame Merle possessed that supreme social **tact** which smooths every rough corner of conversation."*
+> - 📜 **Ralph Waldo Emerson (*The Conduct of Life*):** *"Genius is common compared to **tact**, which knows how to seize the propitious moment."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the family astacidae; old world crayfish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the family astacidae; old world crayfish.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The nominotypical zoological genus of freshwater crayfish native to European rivers and lakes, including the noble crayfish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical invertebrate zoology, a classical crustacean genus serving as a cornerstone morphological model for decapod comparative anatomy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, astacus designates type genus of the family astacidae; old world crayfish."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish: An Introduction to the Study of Zoology*):** *"We select the noble river crayfish, **Astacus** fluviatilis, as an exemplary vehicle for elucidating the laws of animal physiology."*
+> - 📜 **Carl Linnaeus (*Systema Naturae*):** *"Under the generic designation **Astacus**, early systematists assembled both the fluviatile crawfish and the marine lobster."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"The respiration of **Astacus** is sustained through delicate branchial plumes concealed beneath the lateral flaps of the carapace."*

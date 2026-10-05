@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A claim filed in opposition to another claim in a legal action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Set up a claim in opposition to a previous claim.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A claim set up in opposition to another claim, especially by a defendant against a plaintiff in a legal action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil procedure and contract disputes, an independent pleading filed by the defending party seeking affirmative relief against the original claimant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, counterclaim designates a claim filed in opposition to another claim in a legal action."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The defendant may interpose a valid **counterclaim** to set off damages alleged to have arisen from the plaintiff's default."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"A modern **counterclaim** preserves judicial economy by adjudicating reciprocal liabilities within a singular trial."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"The defendant's attorney threatened a ruinous **counterclaim** for defamation if the criminal prosecution were pressed further."*

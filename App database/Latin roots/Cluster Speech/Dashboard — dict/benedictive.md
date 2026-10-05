@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing benediction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressing benediction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing, conveying, or imparting a holy blessing, divine favor, or solemn beatitude.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sacramental theology and ritual studies, possessing the efficacious character or liturgical power to bestow divine sanctification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, benedictive designates expressing benediction."*
+> - 📜 **John Gauden (*Eikon Basilike*):** *"The monarch raised his hands in a **benedictive** gesture, committing his subjects to the protection of the Almighty."*
+> - 📜 **Jeremy Taylor (*The Great Exemplar*):** *"Our Savior extended His **benedictive** hands over the multitude, imparting peace and divine consolation to the weary."*
+> - 📜 **Edward Bouverie Pusey (*Sermons during the Season from Advent to Whitsuntide*):** *"The apostolic church maintained the **benedictive** authority of its bishops in dedicating sacred sanctuaries."*

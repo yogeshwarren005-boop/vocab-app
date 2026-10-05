@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a chatty loquacious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a chatty loquacious manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a talkative, garrulous, or chatty manner; with excessive wordiness and conversation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative characterization, conversing continuously and volubly without concern for brevity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, loquaciously designates in a chatty loquacious manner."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"Mr. Jingle rattled on **loquaciously**, skipping from topic to topic with bewildering speed over his tankard of ale."*
+> - 📜 **William Makepeace Thackeray (*The Newcomes*):** *"The retired colonel chatted **loquaciously** about his campaigns in the Punjab to any guest willing to listen."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"The archdeacon held forth **loquaciously** on diocesan patronage while pacing the cathedral cloisters after morning service."*

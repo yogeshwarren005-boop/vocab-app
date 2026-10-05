@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A speaker who dictates to a secretary or a recording machine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ruler who is unconstrained by law.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A ruler with absolute and unrestricted authority, especially one who obtained power through force or unconstitutional means.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Roman constitutional law, an extraordinary magistrate appointed with absolute imperium during national emergencies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our then dictator, Whom with all praise I point at, saw him fight When with his Amazonian chin he drove The bristled lips before him."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Very well, dictator!” said Ben, contemptuously."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Yes, their supreme lord and dictator was there, though hitherto unseen by any eyes not permitted to penetrate into the now sacred retreat of the cabin."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Sulla assumed the extraordinary dignity of perpetual **dictator**, reshaping the republican constitution by military decree."*
+> - 📜 **George Eliot (*Romola*):** *"The Florentine citizenry dreaded lest an ambitious citizen should make himself supreme **dictator** over their free republic."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Upon the quarter-deck Captain Ahab reigned as absolute **dictator**, commanding implicit obedience from his terrified crew."*

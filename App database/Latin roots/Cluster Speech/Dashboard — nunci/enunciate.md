@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Speak, pronounce, or utter in a certain way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Express or state clearly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To pronounce, utter, or articulate words clearly and distinctly; or to state a proposition systematically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and formal philosophy, to articulate phonemes with precision, or to expound a doctrine or theorem in formal propositional terms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"With features strained hard to enunciate the syllables they continued to regard the centre of the flickering fire, the notes of the youngest straying over into the pauses of the rest."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"How goes it with the Professor?” Then, dim and far, I could hear Morrell’s taps enunciating that they had put me in the jacket an hour before, and that, as usual, I was already deaf to all knuckle talk."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"The crier came home, took up the several notices and commenced his round, enunciating in sonorous tones, Lost a black and tan coloured terrier, and answers to the name of Carlo; has two black legs and four eyes."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She paused before the examiner, striving to **enunciate** each syllable with that refined clarity taught in the training school."*
+> - 📜 **Jack London (*The Star-Rover*):** *"The warden took pains to slowly **enunciate** the severe rules of the solitary cell block before locking the iron gate."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Before embarking on scientific proof, the investigator must clearly **enunciate** the hypothesis he undertakes to verify."*

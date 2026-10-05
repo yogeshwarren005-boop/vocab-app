@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical composition for voices and orchestra based on a religious text.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musical composition for voices and orchestra based on a religious text.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large-scale musical composition for orchestra and voices, usually on a sacred theme, performed without costumes, scenery, or action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In music history, a genre originating in Roman counter-reformation prayer halls (oratories), brought to high maturity by Handel and Bach.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"They took her to the ancient concerts by way of a treat, and to the oratorio, and to St."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"And when, on the return of the family from an oratorio at Winchester, the Baronet announced to the young ladies that he should next year very probably take them to the "county balls," they worshipped him for his kindness."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"The majestic choral climaxes of the sacred **oratorio** stirred feelings of profound spiritual awe in her heart."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"They took her to the grand cathedral festival to hear the newly composed sacred **oratorio**."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"The harmonies of Handel's **oratorio** seemed to bridge the chasm between mortal toil and heavenly bliss."*

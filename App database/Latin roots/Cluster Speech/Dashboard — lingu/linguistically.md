@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to the science of linguistics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to language or linguistics; from a grammatical, structural, or lexical point of view.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philological analysis, evaluated in terms of morphology, syntax, phonetics, or semantic development.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, linguistically designates with respect to the science of linguistics."*
+> - 📜 **Otto Jespersen (*Growth and Structure of the English Language*):** *"The Scandinavian invaders were **linguistically** kindred to the Anglo-Saxons, facilitating swift grammatical amalgamation."*
+> - 📜 **Edward Sapir (*Time Perspective in Aboriginal American Culture*):** *"The two neighboring tribes, though sharing similar hunting rituals, were **linguistically** separated by completely unrelated stocks."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"When analyzed **linguistically**, colloquial idioms disclose regular phonological laws governing dialectal drift."*

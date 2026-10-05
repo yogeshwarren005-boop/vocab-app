@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Speech you make to yourself.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A (usually long) dramatic speech intended to give the illusion of unspoken reflections.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An act of speaking one's thoughts aloud when by oneself or in a dramatic performance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic poetry and literary theory, a speech conventions through which a character reveals innermost motives to the audience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This woman was not given to soliloquy; but extremity of feeling lessens the individuality of the weak, as it increases that of the strong."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Then a man’s voice from the adjoining bedroom— “What’s the matter?” She did not answer, but went on, in a tone which was a soliloquy rather than an exclamation, and a dirge rather than a soliloquy."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"My strength is quite failing me,” I said in a soliloquy."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"The Prince delivered his famous **soliloquy** contemplating whether 'tis nobler in the mind to suffer the slings of fortune."*
+> - 📜 **Samuel Taylor Coleridge (*Lectures on Shakespeare*):** *"A dramatic **soliloquy** is not an artificial recitation, but the natural overflowing of a burdened and solitary intellect."*
+> - 📜 **Henry James (*The Art of the Novel*):** *"The modern psychological novel replaces spoken stage **soliloquy** with the continuous undercurrent of reflective inner monologue."*

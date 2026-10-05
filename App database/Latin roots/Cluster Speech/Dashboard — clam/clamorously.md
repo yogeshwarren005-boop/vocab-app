@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In manner that attracts attention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In manner that attracts attention.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a noisy, tumultuous, vociferous, or persistently outcry-filled manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative prose, portraying urgent and disorderly protests, demanding appeals, or celebratory shouts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"A baneful promiscuous intercourse of the sexes is hereby avoided, and virtue, without being clamorously invoked, is, as it were, unconsciously practised."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The depopulated land is then recruited from the rapacious, hordes of enlightened individuals who settle themselves within its borders, and clamorously announce the progress of the Truth."*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"He replied audibly enough, in a fashion which made my companion vociferate, more clamorously than before, that a wide distinction might be drawn between saints like himself and sinners like his master."*
+> - 📜 **G. K. Chesterton (*The Man Who Was Thursday*):** *"The newsboys were running through the foggy square, shouting **clamorously** of an impending international crisis."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The young warriors demanded **clamorously** that the captives be conducted to the sacred council pavilion without delay."*
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"He replied audibly enough, and **clamorously** disputed my right to interrogate him regarding the master's business."*

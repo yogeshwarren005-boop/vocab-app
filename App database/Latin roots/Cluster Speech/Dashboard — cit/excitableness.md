@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being easily excited.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being easily excited.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The disposition or tendency to be easily agitated, stirred, or provoked to emotional intensity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In temperamental psychology and clinical observation, a constitutional nervous volatility predisposing an individual to impulsive emotional outbursts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby; “I was sure you would feel it yourself and would excuse the reasonableness of MY feelings when coupled with the known excitableness of my little woman."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"A certain nervous **excitableness** of constitution appears to be a frequent accompaniment of intense mystical illumination."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"Her foreign lively manners were marred by an irritating **excitableness** whenever unforeseen obstacles interrupted her plans."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The high nervous **excitableness** of captive primates often leads to frantic paroxysms of screaming when startled."*

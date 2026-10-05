@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being wordy and talkative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being wordy and talkative.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive, rambling, and trivial loquacity or talkativeness, especially regarding inconsequential matters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary characterization, a trait often attributed to elderly or uninhibited conversationalists who digress ceaselessly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The old men, of whom there were many in the vale, seldom stirred from their mats, where they would recline for hours and hours, smoking and talking to one another with all the garrulity of age."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"But enough of Christmas and its gambols; it is time for me to pause in this garrulity."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"He proved, however, to be anything but a conjurer, and his simple garrulity soon dispelled all the magic and mystery with which I had enveloped this antiquated pile and its no less antiquated inhabitants."*
+> - 📜 **G. K. Chesterton (*The Innocence of Father Brown*):** *"His natural **garrulity** returned with a rush the moment the terrifying suspicion had been cleared from his name."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The old chieftain indulged in endless **garrulity**, recounting legendary tribal wars while enjoying his afternoon pipe."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"He praised the mellow **garrulity** of age which made long winter evenings beside the country hearth so agreeable."*

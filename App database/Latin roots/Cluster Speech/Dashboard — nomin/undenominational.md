@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not bound or devoted to the promotion of a particular denomination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not bound or devoted to the promotion of a particular denomination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having a connection with, or not restricted to, any particular religious denomination; non-sectarian.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British educational and social history, non-sectarian religious instruction or institutions open to all Christian denominations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undenominational designates not bound or devoted to the promotion of a particular denomination."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"The advocates of **undenominational** public education sought to unite citizens across sectarian cleavages through shared cultural ideals."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Philanthropic endeavors succeed most enduringly when conducted on a broad, **undenominational** basis free from dogma."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The charitable mission functioned as an **undenominational** sanctuary, welcoming destitute wanderers without theological inquiry."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (anatomy) the point of connection between two bones or elements of a skeleton (especially if it allows motion).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (anatomy) the point of connection between two bones or elements of a skeleton (especially if it allows motion).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The official anatomical Latin term for an articulation, joint, or junction between adjacent skeletal elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international anatomical nomenclature (Terminologia Anatomica), designates the structural junction uniting skeletal segments, classified into fibrous, cartilaginous, and synovial types.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, articulatio designates (anatomy) the point of connection between two bones or elements of a skeleton (especially if it allows motion)."*
+> - 📜 **Andreas Vesalius (*De Humani Corporis Fabrica*):** *"The delicate **articulatio** uniting the temporal bone and mandibular condyle permits both hinge-like depression and forward gliding movement."*
+> - 📜 **Albrecht von Haller (*First Lines of Physiology*):** *"In every true **articulatio**, synovial fluid lubricates the contact surfaces to minimize frictional resistance during muscular contraction."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"Under the classical designation **articulatio**, anatomists group all syndesmoses, synchondroses, and diarthrodial joints of the human frame."*

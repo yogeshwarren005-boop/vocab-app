@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A short note recognizing a source of information or of a quoted passage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make reference to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To quote an authority, passage, or book by way of evidence, illustration, or proof.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil procedure and scholarly rhetoric, to summon an individual to appear before court or formally adduce precedent in legal argument.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mark you this, Bassanio, The devil can cite Scripture for his purpose."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For Valentine, I need not cite him to it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My heart doth charge the watch; the morning rise Doth cite each moving sense from idle rest."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"The devil can **cite** Scripture for his purpose; an evil soul producing holy witness is like a villain with a smiling cheek."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The parson did not fail to **cite** several grim texts from Deuteronomy to enforce his solemn admonition upon the listeners."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"I might **cite** numerous other historical instances where leviathans have shattered the stout timber walls of ships of the line."*

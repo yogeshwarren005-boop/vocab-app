@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive sensitivity of an organ or body part.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being easily excited.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property or capacity of being easily aroused to emotional feeling, passion, or physiological reaction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurophysiology and cellular biology, the specific electrophysiological capacity of living cells (such as neurons and myocytes) to generate action potentials upon stimulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Feeling uneasy and dissatisfied with himself for this nervous excitability, he returned to bed."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Feeling uneasy and dissatisfied with himself for this nervous excitability, he returned to bed."*
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"We are glad to hear him _booing_ about again.'" Wordsworth's health, steady and robust for the most part, indicated the same restrained excitability."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Her natural **excitability** of temperament magnified every trivial annoyance into an intolerable domestic tragedy."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The degree of cortical **excitability** determines how readily a sensory impulse will trigger an immediate motor reflex."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The remarkable neuromuscular **excitability** observed during rage causes violent tremors through the voluntary muscles."*

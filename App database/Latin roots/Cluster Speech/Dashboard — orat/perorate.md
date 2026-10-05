@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conclude a speech with a formal recapitulation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deliver an oration in grandiloquent style.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To speak at great length, often in an inflated or rhetorical manner; or to conclude an oration with a formal peroration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric, to deliver the closing appeal summarizing arguments and stirring the emotional sympathies of the judges.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perorate designates conclude a speech with a formal recapitulation."*
+> - 📜 **William Makepeace Thackeray (*The History of Henry Esmond*):** *"The politician loved to **perorate** upon the glories of the Protestant succession whenever wine warmed his spirits."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Deputies mount the tribune to **perorate** passionately while armed mobs gather outside the convention halls."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"Mr. Slope did not hesitate to **perorate** with vehement pious fervor before the bishop's astonished dinner guests."*

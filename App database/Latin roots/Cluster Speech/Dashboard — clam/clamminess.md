@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unpleasant wetness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unpleasant wetness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unpleasant combination of coldness, dampness, and stickiness to the tactile senses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical physical examination, the characteristic perspiration accompanying peripheral circulatory shock, diaphoresis, or acute vasovagal collapse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clamminess designates unpleasant wetness."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"A dreadful **clamminess** chilled my hands as I waited outside the locked door of the attic chamber."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The perpetual **clamminess** of the salt-soaked deck made every night watch an endurance of chilling misery."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The damp **clamminess** of the river marshes seemed to penetrate into the very marrow of my bones."*

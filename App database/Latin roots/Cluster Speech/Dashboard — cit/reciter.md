@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who recites from memory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who recites from memory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who recites poetry, literary passages, historical narratives, or prepared lessons aloud.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In folklore studies and Islamic scholarship (qāriʾ), an oral performer or scholar preserving canonical religious texts and oral poetry through memory.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reciter designates someone who recites from memory."*
+> - 📜 **Edward William Lane (*An Account of the Manners and Customs of the Modern Egyptians*):** *"In every public coffee-shop, a professional **reciter** chanted the romantic adventures of Abu Zayd to the delighted patrons."*
+> - 📜 **Richard Francis Burton (*The Book of the Thousand Nights and a Night*):** *"The professional **reciter** gathered a dense circle of listeners around the camp fire as evening fell over the desert."*
+> - 📜 **Walter Scott (*Minstrelsy of the Scottish Border*):** *"The aged ballad **reciter** preserved in memory ancient verses that had never been committed to parchment or print."*

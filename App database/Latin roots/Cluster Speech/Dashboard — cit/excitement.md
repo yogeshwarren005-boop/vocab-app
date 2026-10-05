@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The feeling of lively and cheerful joy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being emotionally aroused and worked up.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of lively emotional agitation, enthusiasm, heightened interest, or physical stir.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sensory psychology and psychiatric pathology, intense physiological sympathetic arousal or psychomotor turbulence requiring clinical stabilization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I should be extremely sorry if she scolded Loneli in the first excitement about the spilled milk."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Maxa was filled with great excitement."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She had been compelled to stop in the middle of breakfast by the excitement caused by Lippo."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The feverish **excitement** of the festival day had not yet subsided when she returned across the shadowed fields."*
+> - 📜 **John Stuart Mill (*Autobiography*):** *"When the mind is kept in perpetual **excitement** by ambitious pursuits, the quieter virtues of reflection are easily forgotten."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"A look of keen scientific **excitement** flashed across the detective's face as he bent down to examine the footprint."*

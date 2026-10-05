@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reference book containing an alphabetical list of words with information about them.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reference book containing an alphabetical list of words with information about them.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A comprehensive reference book or digital database listing words alphabetically with their meanings, etymologies, and usage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In lexicography, a systematic inventory of a language's lexicon, compiled according to descriptive or prescriptive methodologies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*The Elder Brother*):** *"It is stated in the _Dictionary of National Biography_ (Vol."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Cheetham, _Dictionary of Christian Antiquities_ (London, 1875-1880), ii. 1161, referring to _Ordo Roman_. i. _u.s._ [314] R."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Jamieson, _Etymological Dictionary of the Scottish Language_, revised by J."*
+> - 📜 **Samuel Johnson (*Preface to the English Dictionary*):** *"When I took inventory of our vernacular speech, I found our English **dictionary** confused, uncertain, and uncultivated."*
+> - 📜 **Ralph Waldo Emerson (*The Poet*):** *"Language is fossil poetry, and the **dictionary** preserves ancient metaphors that have crystallized into common words."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Books must be read as deliberately and reservedly as they were written, not scanned like a schoolboy's **dictionary**."*

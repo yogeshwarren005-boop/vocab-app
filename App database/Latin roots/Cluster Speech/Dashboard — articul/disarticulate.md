@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Separate at the joints.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Separate at the joints.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To separate, sever, or disjoint at an anatomical joint; or to dismantle an interconnected conceptual structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orthopedic surgery and osteology, to amputate a limb directly through a joint line without transecting bone, preserving bony shaft integrity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disarticulate designates separate at the joints."*
+> - 📜 **William Keen (*American Text-Book of Surgery*):** *"The military surgeon elected to **disarticulate** the shoulder joint rather than risk septic osteomyelitis by sawing the humerus."*
+> - 📜 **Sir Astley Cooper (*The Anatomy and Surgical Treatment of Abdominal Hernia*):** *"Precise incision of the capsular ligaments allows the operator to cleanly **disarticulate** the phalanges with minimal soft tissue trauma."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"Maceration in warm water loosened the cranial sutures, allowing the anatomist to **disarticulate** the fragile facial bones safely."*

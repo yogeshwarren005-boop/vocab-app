@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not converted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not converted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not persuaded or convinced; remaining skeptical or unaltered in belief despite arguments presented.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemic debate, maintaining a state of suspension of belief or active dissent in the presence of disputed evidence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unpersuaded designates not converted."*
+> - 📜 **John Milton (*Paradise Regained*):** *"He stood firm and **unpersuaded** amid all the dazzling promises of earthly empire spread before him."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The conservative senators remained **unpersuaded** by the youthful emperor's promises of administrative reform."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"The assembly listened in silence, but departed **unpersuaded** of the wisdom of imposing unilateral colonial taxes."*

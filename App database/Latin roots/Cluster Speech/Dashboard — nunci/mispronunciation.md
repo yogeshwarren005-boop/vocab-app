@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incorrect pronunciation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incorrect pronunciation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incorrect, inaccurate, or faulty pronunciation of a word, syllable, or phonetic speech sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive linguistics and orthoepy, a phonological deviation from standard prestige norms or received orthoepic conventions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mispronunciation designates incorrect pronunciation."*
+> - 📜 **George Bernard Shaw (*Pygmalion*):** *"Professor Higgins winced at every cockney **mispronunciation**, meticulously recording the deformed vowel shifts upon his phonograph."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Elizabeth-Jane blushed deeply whenever her stepfather corrected her dialectal **mispronunciation** before company at the dinner table."*
+> - 📜 **Oliver Wendell Holmes (*The Professor at the Breakfast-Table*):** *"A single vulgar **mispronunciation** will frequently betray an impostor who has borrowed the outward garments of refined breeding."*

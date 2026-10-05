@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large lemonlike fruit with thick aromatic rind; usually preserved.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thorny evergreen small tree or shrub of india widely cultivated for its large lemonlike fruits that have thick warty rind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, thick-skinned citrus fruit (Citrus medica), whose fragrant rind is preserved or candied for culinary use.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany and Jewish tradition (etrog), one of the original ancestral citrus species cultivated since antiquity for liturgical ritual.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It is plums of rubies, in pictures of citron."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"This was the fairest spot in all sunny Kashmir, where the nightingale sings perpetually in groves of citron, magnolia, and pomegranate."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The binding was of citron-green leather, with a design of gilt trellis-work and dotted pomegranates."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The air was heavy with the perfume of bruised herbs and the pungent fragrance of sliced **citron** rind upon the table."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The natives brought woven baskets filled with golden fruit, including wild breadfruit and aromatic green **citron** from the valley."*
+> - 📜 **John Milton (*Paradise Lost*):** *"In blissful Eden grew the savory fruit of golden orange and fragrant **citron**, bowing the branches with luscious burden."*

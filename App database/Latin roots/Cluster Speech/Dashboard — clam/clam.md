@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Burrowing marine mollusk living on sand or mud; the shell closes with viselike firmness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A piece of paper money worth one dollar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A burrowing, bivalve mollusk of marine or freshwater habitats with equal shell valves hinged dorsally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate marine biology, any member of the class Bivalvia (such as Mercenaria or Mya) with retractile siphons and a muscular digging foot.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"In all the clam’rous cry of starving want, They dun Benevolence with shameless front; Oblige them, patronise their tinsel lays— They persecute you all your future days!"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Mourn, clam’ring craiks at close o’ day, ’Mang fields o’ flow’ring clover gay; And when ye wing your annual way Frae our claud shore, Tell thae far warlds wha lies in clay, Wham we deplore."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"A clam for supper? a cold clam; is _that_ what you mean, Mrs."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It was made of small juicy **clam** shells, scarcely bigger than hazel nuts, mixed with pounded ship biscuits and salted pork."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"I find letters from God dropt in the street, and every one is sign’d by God’s name, And I leave them where they are, for I know that wheresoe’er I go, Others will punctually come for ever and ever. I am enamour’d of growing out-doors, Of men that live among cattle or taste of the ocean or woods, Of the builders and steerers of ships and the wielders of axes and mauls, and the drivers of horses, I can eat and sleep with them week in and week out. What is commonest, cheapest, nearest, easiest, is Me, Me going in for my chances, spending for vast returns, Adorning myself to bestow myself on the first that will take me, Not asking the sky to come down to my good will, Scattering it freely for ever. The past and present wilt—I have fill’d them, emptied them. And proceed to fill my next fold of the future. Listener up there! what have you to confide to me? Look in my face while I snuff the sidle of evening, (Talk honestly, no one else hears you, and I stay only a minute longer.) Do I contradict myself? Very well then I contradict myself, (I am large, I contain multitudes.) I concentrate toward them that are nigh, the **clam**-digger, the hunter of wild geese."*
+> - 📜 **Henry David Thoreau (*Cape Cod*):** *"At low tide the extensive sand flats were dotted with men and boys digging each submerged **clam** out of its muddy burrow."*

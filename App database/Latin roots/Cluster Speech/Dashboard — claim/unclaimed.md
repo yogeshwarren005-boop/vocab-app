@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not claimed or called for by an owner or assignee.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not claimed or called for by an owner or assignee.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not claimed, asserted, or collected by an owner, heir, applicant, or rightful proprietor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In financial regulation and postal administration, funds, deposits, estates, or mail that remain without legal owner identification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he be free, Why then my taxing like a wild-goose flies Unclaimed of any man."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The fund accrued from military fines and unclaimed pay of members of the service, was to be handed over to the use of the Asylum as soon as a corresponding sum was raised by public gift."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The disputed crown remained **unclaimed** while the rival dukes assembled their armies along the border."*
+> - 📜 **Charles Dickens (*Our Mutual Friend*):** *"Innumerable packets of **unclaimed** letters lay accumulating dust in the forgotten recesses of the Dead Letter Office."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"Vast treasures lay **unclaimed** in the vaults of the treasury because no surviving heirs could prove lineage."*

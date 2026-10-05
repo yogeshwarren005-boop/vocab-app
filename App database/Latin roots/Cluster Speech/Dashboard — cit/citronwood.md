@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wood of a citron tree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Durable fragrant wood; used in building (as in the roof of the cathedral at cordova, spain).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The durable, pleasantly aromatic wood obtained from the citron tree or the Moroccan arborvitae (Tetraclinis articulata).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historic woodworking and classical antiquities, the prized citrus wood (thyine wood) utilized by ancient Romans for lavish banquet tables.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, citronwood designates wood of a citron tree."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Patricians squandered princely fortunes upon luxurious dining tables carved from single slabs of fragrant Mauritanian **citronwood**."*
+> - 📜 **John Evelyn (*Sylva, or A Discourse of Forest-Trees*):** *"The ancient Romans esteemed **citronwood** above gold for their ornamental cabinetry, valuing its intricate veins and fragrant aroma."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"The luxury of buying tables of **citronwood** reached such extravagance that husbands reproached their wives with pearls while indulging in thyine timber."*

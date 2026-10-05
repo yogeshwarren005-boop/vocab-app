@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Talk pompously.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Talk pompously.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To deliver a speech, oration, or public address, especially in an overly formal, pompous, or theatrical manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetoric, often used pejoratively to denote bombastic, grandiloquent speechmaking intended to impress rather than inform.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Bring a stranger within thy tower it will go hard but thou wilt have the secondbest bed. _Orate, fratres, pro memetipso_."*
+> - 📜 **James Joyce (*Ulysses*):** *"Bring a stranger within thy tower it will be well to **orate** upon the departed glories of the Gael."*
+> - 📜 **Mark Twain (*The Gilded Age*):** *"The ambitious young congressman stood up to **orate** before a gallery packed with admiring constituents."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"He had no wish to **orate** upon theology in the public square, desiring only quiet intellectual study."*

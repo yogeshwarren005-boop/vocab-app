@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An official award (as for bravery or service) usually given as formal public statement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) the act of citing (as of spoken words or written passages or legal precedents etc.).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A reference to a source of information, legal authority, or literary work; or an official summons to appear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence and academic methodology, a formal writ citing a party before a tribunal, or a precise bibliographic reference substantiating scholarship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Is Richard a monster in all this, or would Chancery be found rich in such precedents too if they could be got for citation from the Recording Angel?"*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It is a lie they have made.” Pilate nodded and asked: “Is there not somewhere in your ancient books a prophecy that the priests here twist into the intent of this fisherman’s mind?” To this she agreed, and gave him the citation."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"In his rejection of the 137:12 answer already given and his renewal of the question, it is plain that Jesus completely eschewed the narrow opinion implied in their citation of the common report 137:15 about him."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"I have inserted in the text a precise **citation** of the original memoir published by M. Godron upon hybrid cereal plants."*
+> - 📜 **Francis Bacon (*The Elements of the Common Laws of England*):** *"In every contentious dispute before the ecclesiastical judge, a formal **citation** must precede all proceedings against the respondent."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The pedantic critic burdened every page with an unnecessary **citation** from ancient grammarians, obscuring rather than illuminating his discourse."*

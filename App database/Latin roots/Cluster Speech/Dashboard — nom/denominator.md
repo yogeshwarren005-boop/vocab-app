@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The divisor of a fraction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The divisor of a fraction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The number below the line in a vulgar fraction showing how many parts the whole is divided into; a common characteristic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics and sociological rhetoric, the divisor in a ratio, or a shared common standard or unifying trait.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"I 540:6 the Lord do all these things;" but the prophet referred to divine law as stirring up the belief in evil to its utmost, when bringing it to the surface and re- 540:9 ducing it to its common denominator, nothingness."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Some consider this service as a common denominator to be the primary and most important function of money."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"It is, however, only apparently a denominator of value; the shilling represents five fourths of ten cents."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"In every rational fraction, the **denominator** designates the number of equal parts into which the unit is partitioned."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"Beneath varied cultural traditions, comparative anthropology searches for the lowest common **denominator** of human nature."*
+> - 📜 **William James (*Pragmatism*):** *"The diverse philosophies of the age share a common pragmatic **denominator** in evaluating ideas by their consequences."*

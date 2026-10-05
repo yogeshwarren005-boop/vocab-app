@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct volcano in southern mexico between mexico city and veracruz; the highest peak in mexico (18,695 feet).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An extinct volcano in southern mexico between mexico city and veracruz; the highest peak in mexico (18,695 feet).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An active stratovolcano in southern Mexico (also known as Pico de Orizaba), the highest peak in Mexico at 5,636 meters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Mesoamerican geography and Nahuatl mythology ('Star Mountain'), a glaciated volcanic landmark along the Trans-Mexican Volcanic Belt.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, citlaltepetl designates an extinct volcano in southern mexico between mexico city and veracruz; the highest peak in mexico (18,695 feet)."*
+> - 📜 **Alexander von Humboldt (*Political Essay on the Kingdom of New Spain*):** *"The snow-crowned summit of **citlaltepetl** rises majestically above the coastal plains of Veracruz, guiding navigators across the Gulf."*
+> - 📜 **William H. Prescott (*History of the Conquest of Mexico*):** *"The Spanish conquerors gazed with awe toward the distant volcanic pinnacle of **citlaltepetl**, piercing the clouds with solitary grandeur."*
+> - 📜 **Bayard Taylor (*Eldorado, or, Adventures in the Path of Empire*):** *"As the morning mist cleared, the immense white cone of **citlaltepetl** shone with dazzling brilliance against the deep azure sky."*

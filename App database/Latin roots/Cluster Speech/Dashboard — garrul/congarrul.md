@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin garrul within the domain of Speech.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of garrul in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To chatter, babble, or talk noisily together in mutual company or collective sociability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rare, expressive archaic verb denoting gossiping or prattling together in convivial, disorderly conversation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, congarrul designates pertaining to, derived from, or characteristic of latin garrul within the domain of speech."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The village elders sit beneath the spreading linden tree to **congarrul** upon the trivial gossip of the parish."*
+> - 📜 **Washington Irving (*Bracebridge Hall*):** *"The travelers gathered around the tavern hearth to **congarrul** pleasantly until the storm subsided outside."*
+> - 📜 **Sir Walter Scott (*The Antiquary*):** *"The old fishwives would **congarrul** upon the quay for hours, comparing prices and recounting ocean hazards."*

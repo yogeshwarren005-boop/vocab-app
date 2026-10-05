@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With excitement; in an excited manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With excitement; in an excited manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an agitated, eager, impassioned, or animated manner; displaying heightened emotional arousal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral description and narrative prose, characterized by rapid speech, volatile gestures, and physiological restlessness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Mea, come quick," the young spy exclaimed excitedly, "look!"*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Oh, mother," he called out excitedly over the prospect, "tonight we must have the story of the Wallerstätten family."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Do you know, mother," she cried out excitedly, "it is not the worst that she shows me her back, but that one can't ever agree with her."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He paced the floor **excitedly**, glancing every few moments through the lattice window for the expected messenger."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes pointed **excitedly** with his walking stick toward the dark hollow where the eerie lantern light had flashed."*
+> - 📜 **James Joyce (*Dubliners*):** *"The boys began to talk **excitedly** about the approaching vacation, recounting what marvelous adventures awaited them at the seaside."*

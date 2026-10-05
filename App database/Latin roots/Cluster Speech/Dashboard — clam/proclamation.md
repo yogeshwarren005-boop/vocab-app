@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal public statement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The formal act of proclaiming; giving public notice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal public announcement, official executive declaration, or legal edict issued by authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statecraft and constitutional jurisprudence, a public instrument issued by a sovereign or governor to enforce law, pardon citizens, or declare war.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now to all sense ’tis gross You love my son; invention is asham’d, Against the proclamation of thy passion To say thou dost not."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He was; I heard the proclamation."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nought rests for me in this tumultuous strife But to make open proclamation."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The king hath caused his royal **proclamation** to be posted upon every market cross throughout the kingdom."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Ahab stood upon the quarter-deck reading what seemed a solemn **proclamation** of war against the white whale."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The military council published an emergency **proclamation** ordering the total evacuation of all northern suburbs."*

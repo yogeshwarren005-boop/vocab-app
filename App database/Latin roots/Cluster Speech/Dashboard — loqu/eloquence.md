@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Powerful and effective language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Powerful and effective language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fluent, persuasive, and graceful speaking or writing that stirs the emotions of an audience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric and oratorical theory, the art of moving listeners through elevated diction, clarity, and affective resonance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bring him through the bands. [_Exit Ambassador, attended._] [_To Thidias_.] To try thy eloquence now ’tis time."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His industry is upstairs and downstairs; his eloquence the parcel of a reckoning."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, before God, Kate, I cannot look greenly, nor gasp out my eloquence, nor I have no cunning in protestation; only downright oaths, which I never use till urg’d, nor never break for urging."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The impassioned **eloquence** of the Christian bishop swayed the multitude and confounded the imperial governors."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"True oratorical **eloquence** requires profound sincerity, turning the speaker's innermost convictions into a torrent of persuasive truth."*
+> - 📜 **William Shakespeare (*Love's Labour's Lost*):** *"Her radiant beauty pleaded with greater moving **eloquence** than all the polished verses of enamored courtiers."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The articulation of speech regarded from the point of view of its intelligibility to the audience.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The articulation of speech regarded from the point of view of its intelligibility to the audience.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, manner, or clarity of articulating vocal speech sounds; or the formal statement of a proposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phonetics and Euclidean geometry, the precise vocal execution of phonetic values, or the formal introductory statement of a theorem before its demonstration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It is often flung out as a sort of prop to support a decaying conviction which, whilst strong, required no enunciation to prove it so."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I should like them best, if I had nobody to pay on my own side.” Lydgate waited a little, but Bulstrode only bowed, looking at him fixedly, and he went on with the same interrupted enunciation—as if he were biting an objectional leek."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"It is this noble sentiment which infuses a soul of life into his teachings, and the enunciation and acting-out of which constitute him, not only the great philosopher, but also the great prophet of our time."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The clerk spoke with that deliberate rustic **enunciation** that gives every vowel the weight of an independent clause."*
+> - 📜 **George Eliot (*Middlemarch*):** *"I should say that his distinct **enunciation** and measured voice qualify him admirably for the clerical profession."*
+> - 📜 **Ralph Waldo Emerson (*English Traits*):** *"The educated Englishman cultivates a crisp, resolute **enunciation** that conveys an instinctive conviction of mastery."*

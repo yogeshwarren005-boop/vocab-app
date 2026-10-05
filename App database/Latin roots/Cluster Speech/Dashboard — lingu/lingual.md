@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A consonant that is produced with the tongue and other speech organs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consisting of or related to language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, situated near, or produced by the tongue or linguistic expression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phonetics and dentistry, referring to coronal speech sounds articulated with the tongue, or the tooth surface facing the oral cavity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"The method of the revelation of power is startling and far from attractive to the Western mind, but it indicates the value of lingual enlightenment."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The sensory papillae situated on the dorsal surface of the **lingual** muscle are richly supplied with glossopharyngeal nerve fibers."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Distinct **lingual** and labial movements accompany vocalization across anthropoid primates when experiencing intense pleasure or pain."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Introspective observers notice faint **lingual** twitches and micro-movements of the throat during silent verbal reasoning."*

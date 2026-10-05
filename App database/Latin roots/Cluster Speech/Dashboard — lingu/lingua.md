@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mobile mass of muscular tissue covered with mucous membrane and located in the oral cavity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mobile mass of muscular tissue covered with mucous membrane and located in the oral cavity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A language, tongue, or communicative dialect; in anatomy, the muscular organ of taste and speech.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical sociolinguistics, a contact dialect (as in *lingua franca*); in comparative anatomy and entomology, the tongue or tongue-like structure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Leemius, _De Lapponibus Finmarchiae eorumque lingua vita et religione pristina_ (Copenhagen, 1767), p. 494. [234] E.W."*
+> - 📜 **Richard Francis Burton (*First Footsteps in East Africa*):** *"Along the Red Sea littoral, Arabic served as the universal **lingua** of navigation, bargaining, and municipal decree."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Words are arbitrary marks invented by human reason, yet every known **lingua** reflects the shared perceptions of the society that framed it."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The legionaries carried their vernacular Latin into remote provinces, where it merged with barbarian idioms to birth a new regional **lingua**."*

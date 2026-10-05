@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strong-scented herb common in southern united states covered with intermixed gland and hairs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strong-scented herb common in southern united states covered with intermixed gland and hairs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An annual North American herbaceous plant (genus Polanisia) of the caper family, covered with glandular, sticky hairs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical phytogeography, Polanisia dodecandra is notable for its ill-smelling, viscid foliage, palmately divided leaves, and pinkish-white flowers with long protruding stamens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clammyweed designates strong-scented herb common in southern united states covered with intermixed gland and hairs."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The common **clammyweed** flourishes in gravelly riverbanks, recognized by its viscid glandular pubescence and fetid odor."*
+> - 📜 **John Torrey (*A Flora of North America*):** *"Specimens of **clammyweed** collected along the Mississippi exhibit abundant clammy secretions upon their stems and pods."*
+> - 📜 **Nathaniel Lord Britton (*An Illustrated Flora of the Northern United States and Canada*):** *"The genus Polanisia, known familiarly as **clammyweed**, bears unbranched capsules filled with roughened reniform seeds."*

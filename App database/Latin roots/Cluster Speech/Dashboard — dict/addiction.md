@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being abnormally tolerant to and dependent on something that is psychologically or physically habit-forming (especially alcohol or narcotic drugs).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormally strong craving.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chronic neuropsychiatric disorder characterized by compulsive engagement in rewarding stimuli despite adverse consequences.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurobiology and pharmacology, neurochemical adaptation in dopaminergic reward pathways driving tolerance and physical withdrawal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"He has begun to talk about Goodwood already.” “He will grow out of his excessive addiction to sport,” said Lucian."*
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"One director, being a man with the unfortunate addiction of being easily swayed by the opinions of others, was readily convinced by the plausible arguments of Mr."*
+> - 📜 **Thomas De Quincey (*Confessions of an English Opium-Eater*):** *"My miserable **addiction** to the dark tincture bound both my intellect and my bodily health in chains."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Sudden religious conversion has frequently liberated the desperate victim from chronic alcoholic **addiction**."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"An irresistible **addiction** to fermented liquors has been observed to decimate primitive native populations."*

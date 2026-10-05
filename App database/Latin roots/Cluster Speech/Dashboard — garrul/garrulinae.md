@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Subfamily of the crow family: jays.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subfamily of the crow family: jays.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic subfamily of corvid passerine birds comprising jays and related chattering arboreal species.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic avian taxonomy, the Garrulinae include genera like Garrulus, characterized by rounded wings, vibrant plumage patterns, and harsh alarm vocalizations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, garrulinae designates subfamily of the crow family: jays."*
+> - 📜 **Spencer Fullerton Baird (*Birds of North America*):** *"The systematic place of the New World jays within the subfamily **Garrulinae** has been confirmed by osteological comparisons."*
+> - 📜 **Robert Ridgway (*The Birds of North and Middle America*):** *"The subfamily **Garrulinae** is readily separated from typical crows by their shorter rictal bristles and diverse coloring."*
+> - 📜 **Frank Chapman (*Camps and Cruises of an Ornithologist*):** *"Members of the **Garrulinae** serve as vigilant forest sentinels, raising harsh cries at the first glimpse of predators."*

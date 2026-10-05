@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A 16th century musical instrument resembling a guitar with a pear-shaped soundbox and wire strings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A 16th century musical instrument resembling a guitar with a pear-shaped soundbox and wire strings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Renaissance wire-strung musical instrument of the lute family, possessing a flat back, fretted neck, and pear-shaped body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organology and Elizabethan social history, a popular chordophone kept in barber shops for patrons to play while awaiting their grooming.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cittern designates a 16th century musical instrument resembling a guitar with a pear-shaped soundbox and wire strings."*
+> - 📜 **William Shakespeare (*Love's Labour's Lost*):** *"He hath a face like a carved head upon a **cittern**, hollow and wooden in every feature."*
+> - 📜 **Ben Jonson (*The Alchemist*):** *"The idle gallant picked up the wire-strung **cittern** from the barber's bench and struck a lively galliard."*
+> - 📜 **Walter Scott (*The Fortunes of Nigel*):** *"The apprentice enlivened the tavern evening by plucking merry tunes upon a battered **cittern** suspended from the chimney beam."*

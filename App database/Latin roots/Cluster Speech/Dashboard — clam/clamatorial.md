@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to clamatores.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to clamatores.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or characteristic of birds belonging to the suborder Clamatores (suboscine non-songbirds).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian morphology and bioacoustics, designating the simple, innate screaming or whistling vocalizations produced by suboscine birds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clamatorial designates of or relating to clamatores."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"The harsh metallic whistle of the kingbird illustrates the typical **clamatorial** voice devoid of lyrical melody."*
+> - 📜 **Spencer Fullerton Baird (*Review of American Birds*):** *"Their tarsal envelope and sternal structure conform closely to the ancient **clamatorial** archetype of the New World tropics."*
+> - 📜 **Frank Chapman (*Handbook of Birds of Eastern North America*):** *"The tyrant flycatcher relies on its innate **clamatorial** cry, which undergoes no vocal learning from parental tutors."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of dishonor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of dishonor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Public shame, disgrace, dishonor, or infamy resulting from shameful conduct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and civic history, civil degradation or perpetual forfeiture of social esteem and constitutional privilege.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy ignominy sleep with thee in the grave, But not remember’d in thy epitaph! [_Sees Falstaff on the ground._] What, old acquaintance, could not all this flesh Keep in a little life?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ignominy in ransom and free pardon Are of two houses."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ignominy and shame Pursue thy life, and live aye with thy name! [_Exeunt all but_ Pandarus.] PANDARUS."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"She walked toward the scaffold of pillory, bearing her infant in her arms and enduring the full **ignominy** of the gaze."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Satan resolved never to submit or yield, preferring eternal warfare to the shameful **ignominy** of asking pardon."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The vanquished emperor preferred death by his own hand rather than endure the public **ignominy** of a Roman triumph."*

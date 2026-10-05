@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An indicator that announces which electrical circuit has been active (as on a telephone switchboard).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An indicator that announces which electrical circuit has been active (as on a telephone switchboard).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who announces or proclaims; or an electrical signaling apparatus that indicates which circuit was activated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanical engineering and nineteenth-century domestic technology, a wall-mounted panel with electromagnetic drop indicators signaling calls from specific rooms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, annunciator designates an indicator that announces which electrical circuit has been active (as on a telephone switchboard)."*
+> - 📜 **Arthur Conan Doyle (*The Valley of Fear*):** *"The bell rang sharply in the servants' hall, and the mechanical pointer on the **annunciator** dropped to indicate the study."*
+> - 📜 **H. G. Wells (*When the Sleeper Wakes*):** *"A glowing telephonic **annunciator** flashed warnings across the vaulted ceiling of the central aeronautical chamber."*
+> - 📜 **Edward Bellamy (*Looking Backward: 2000–1887*):** *"In our modern dwellings, an automatic **annunciator** connects each apartment directly with the public musical program."*

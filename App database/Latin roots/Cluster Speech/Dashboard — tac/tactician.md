@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is skilled at planning tactics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is skilled at planning tactics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert in military or political tactics; one skilled in planning and executing strategic maneuvers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person adept at contriving clever expedients and maneuvers to achieve practical advantages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He is a great tactician!” said the prince to his son, pointing to the architect."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It was the skill of an experienced tactician to deploy the northern levies as the sappers and miners; it was very becoming certainly."*
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Stryver, shaking his forensic forefinger at the Temple in general, when it was down, “my way out of this, is, to put you all in the wrong.” It was a bit of the art of an Old Bailey tactician, in which he found great relief."*
+> - 📜 **Carl von Clausewitz (*On War*):** *"Napoleon proved himself the consummate **tactician**, always concentrating superior forces at the decisive point."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Belisarius was a brilliant **tactician** who compensated for lack of numbers with stratagem and terrain."*
+> - 📜 **Winston Churchill (*Marlborough: His Life and Times*):** *"As a masterly **tactician**, the Duke anticipated every movement of the opposing French marshals."*

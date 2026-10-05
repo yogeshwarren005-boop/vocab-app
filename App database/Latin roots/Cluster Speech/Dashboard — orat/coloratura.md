@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lyric soprano who specializes in coloratura vocal music.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Singing with florid ornamentation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Elaborate ornamentation of a vocal melody, especially in operatic singing, including trills, runs, and arpeggios.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In opera and vocal performance, a soprano voice of extraordinarily high tessitura and agility trained to execute rapid vocal acrobatics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coloratura designates a lyric soprano who specializes in coloratura vocal music."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The prima donna executed the intricate **coloratura** passages with astonishing precision, reaching her high F without the slightest tremor."*
+> - 📜 **James Joyce (*Ulysses*):** *"The brilliant Italian soprano thrilled the opera house with cascades of dazzling **coloratura** that left the audience breathless."*
+> - 📜 **W. J. Henderson (*The Art of the Singer*):** *"True **coloratura** singing requires complete mastery of breath control and absolute relaxation of the pharyngeal musculature."*

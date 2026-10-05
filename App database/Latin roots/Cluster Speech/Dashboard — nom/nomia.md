@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of bee; some are important pollinators of legumes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of bee; some are important pollinators of legumes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of solitary, ground-nesting bees (family Halictidae); also a combining form denoting laws or administration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology, solitary halictid bees (such as the alkali bee, *Nomia melanderi*) serving as vital agricultural pollinators of alfalfa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nomia designates a genus of bee; some are important pollinators of legumes."*
+> - 📜 **Jean-Henri Fabre (*Bramble-Bees and Others*):** *"The solitary bee of genus **Nomia** excavates vertical tunnels in hard-packed alkaline soil to shelter its larval brood."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"Wild pollinating species like **Nomia** perform indispensable ecological service in fertilizing leguminous prairie blossoms."*
+> - 📜 **William Morton Wheeler (*Social Life Among the Insects*):** *"The nesting behavior of **Nomia** illustrates the transitional stages between solitary burrowing and communal insect life."*

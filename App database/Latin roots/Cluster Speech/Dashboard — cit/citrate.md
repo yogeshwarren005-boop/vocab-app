@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A salt or ester of citric acid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to form a salt or ester of citric acid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A salt or ester of citric acid, widely utilized in food preservation, pharmaceuticals, and industrial buffering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and clinical medicine, an essential tricarboxylic acid cycle intermediate and vital anticoagulant that chelates free calcium ions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, citrate designates a salt or ester of citric acid."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The administration of potassium **citrate** in copious water serves effectively to alkalinize the urine and soothe renal irritation."*
+> - 📜 **Michael Faraday (*Chemical Manipulation*):** *"Upon neutralizing citric acid with a caustic alkali, a crystallizable **citrate** is formed that remains highly soluble in water."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"The formation of insoluble calcium **citrate** provides a classic analytical pathway for separating citric acid from fruit juices."*

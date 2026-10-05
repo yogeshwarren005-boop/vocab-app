@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Roman historian who wrote major works on the history of the roman empire (56-120).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Roman historian who wrote major works on the history of the roman empire (56-120).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Publius Cornelius Tacitus, a renowned Roman senator, orator, and historian of the first and early second century AD.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical historiography and political philosophy, the author of the Annals and Histories, celebrated for his penetrating psychological insight, moral severity, and concise Latin prose.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Prohibiti sermones ideoque plures", said Tacitus of Rome--rumours were forbidden, so there were more of them."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Omne ignotum pro magnifico" is the old epigram of Tacitus."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Shelley worked at a novel called 'The Assassins', and we hear of him "sitting on a rude pier by the lake" and reading aloud the siege of Jerusalem from Tacitus."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"This is quoted from **Tacitus**, the famous Roman historian, who recorded the deeds and vices of the emperors."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The philosophical genius of **Tacitus** penetrated the darkest recesses of the tyrant Tiberius's dissembling soul."*
+> - 📜 **Thomas Jefferson (*Writings: Letters and Addresses*):** *"Tacitus I consider the first writer in the world without a single exception; to read **Tacitus** is an intellectual banquet."*

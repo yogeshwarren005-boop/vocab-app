@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like a tongue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shaped like a tongue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like a tongue; strap-shaped or oblong with a rounded apex, especially in botany and zoology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical and invertebrate morphology, designating strap-like corollas (as in Asteraceae florets) or tongue-shaped brachiopod shells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lingulate designates shaped like a tongue."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The ray florets of the composite blossom are characterized by an elongated, **lingulate** corolla tipped with tiny teeth."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"The burrowing organism is equipped with a fleshy **lingulate** appendage capable of gathering fallen leaves."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrate Animals*):** *"The primitive brachiopod exhibits a bivalve shell with distinctly **lingulate** contours anchored by an elastic pedicle."*

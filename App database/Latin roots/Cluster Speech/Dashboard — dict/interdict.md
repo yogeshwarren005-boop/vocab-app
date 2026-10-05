@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ecclesiastical censure by the roman catholic church withdrawing certain sacraments and christian burial from a person or all persons in a particular district.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A court order prohibiting a party from doing a certain activity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To forbid, prohibit, or debar authoritatively; or an ecclesiastical censure excluding persons or regions from sacraments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil law and military operations, an injunction restraining specific actions or the military disruption of enemy supply lines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"From this session interdict Every fowl of tyrant wing, Save the eagle, feather’d king; Keep the obsequy so strict."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon’s codicil seemed to him, as it did to her, a gross and cruel interdict on any active friendship between them."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"It is especially the name of a father-in-law which is thus laid under an interdict."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Roman pontiff placed the rebellious kingdom under solemn **interdict**, silencing all church bells and funeral rites."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon placed a severe **interdict** upon any uninvited discussion of his unfinished theological research."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The royal customs house issued a strict **interdict** preventing the clandestine transport of grain across provincial borders."*

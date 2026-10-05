@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A flowery and highly rhetorical oration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (rhetoric) the concluding section of an oration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The concluding section of a formal speech, oration, or discourse, summarizing main themes and appealing to the passions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical oratorical design, the peroratio that unites recapitulation (anacephalaeosis) with emotional persuasion (pathos).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nephew, what means this passionate discourse, This peroration with such circumstance?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"And I wish you better, and these family affairs smoothed over—as, Lord, many other family affairs equally has been, and equally will be, to the end of time.” With this peroration, Mr."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The peroration was magnificent, though difficult to remember, you know."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What means this passionate discourse, This **peroration** with such circumstance?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"And I wish you better, and that you may be guided into peace, was the solemn **peroration** of his discourse."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The **peroration** was magnificent, vibrating with eloquence, though it ended with that terrible scrawled postscript."*

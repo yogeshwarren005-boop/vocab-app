@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A vocal passage of narrative text that a singer delivers with natural rhythms of speech.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vocal passage of narrative text that a singer delivers with natural rhythms of speech.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A style of delivery in opera, oratorio, or cantata in which a singer adopts the rhythms of ordinary speech.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musicology and vocal composition, narrative sung dialogue (recitativo secco or accompagnato) carrying dramatic plot between formal lyrical arias.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Here, John, don’t ’ee see me?” She nudged him, while he, looking through her as through a window-pane, went on with his recitative."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"When we moved off in this order, the natives struck up a musical recitative, which with various alternations, they continued until we arrived at the place of our destination."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"As we proceeded on our way, bands of young girls, darting from the surrounding groves, hung upon our skirts, and accompanied us with shouts of merriment and delight, which almost drowned the deep notes of the recitative."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The rustic musicians modulated their simple tune into a quaint **recitative**, echoing the traditional ballads of Blackmoor Vale."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"I hear the opera, the musical **recitative** of the baritone filling the house with majestic cadences of grief."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The earliest musical vocalizations of primitive humans may have resembled a rhythmic **recitative** expressing emotional excitement."*

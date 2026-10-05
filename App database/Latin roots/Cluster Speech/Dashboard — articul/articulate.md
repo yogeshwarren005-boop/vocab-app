@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with a joint.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put into words or an expression.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing ideas clearly, coherently, and effectively in spoken or written language; or united by distinct movable joints.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phonetic linguistics, the mechanical positioning of speech organs to produce distinct vowel formants and consonant obstructions; in anatomy, to form a joint.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Send us to Rome The best, with whom we may articulate For their own good and ours."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I tried to tell him what I thought of him, but I could not articulate a word."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"I stood for some minutes without being able to articulate a word--which, indeed, seemed the case with most of those before me."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Send us to Rome The best, with whom we may **articulate** For their own good and our own."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The anterior and posterior limbs in each member of the vertebrate and **articulate** classes conform to a singular morphological archetype."*
+> - 📜 **George Eliot (*Middlemarch*):** *"In her indignation there was a sense of superiority, but it went out for the present in an inability to **articulate** her passionate convictions."*

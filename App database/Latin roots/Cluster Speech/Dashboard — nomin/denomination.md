@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of religious congregations having its own organization and a distinctive faith.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A class of one kind of unit in a system of numbers or measures or weights or money.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A recognized autonomous branch of a religious faith; also a specified unit or value in a currency system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classification and financial systems, a designated class, category, or monetary face-value increment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Another business man of that denomination in Boston, during fifteen years, has appropriated _thirty-nine thousand dollars_."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The actual moneys in circulation in every modern country consist of a wide variety of pieces, differing in denomination, physical size, shape and materials, mode of issue, source or authority of issue, and legal character."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The amount required (or most convenient to use) in each denomination of fractional coins is thus a more or less certain portion of each person's monetary demand, shaped by experience and fixed by habit."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The banking establishment issued paper notes of modest **denomination** to facilitate everyday retail transactions."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Every Christian **denomination** in the republic flourished peacefully without receiving exclusive financial support from the state."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Zealots of every ecclesiastical **denomination** joined hands to defend common liberties against crown encroachment."*

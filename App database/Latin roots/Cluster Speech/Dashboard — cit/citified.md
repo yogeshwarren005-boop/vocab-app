@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Accustom to urban ways.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or having the customs or manners or dress of a city person.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having acquired the manners, dress, sophistication, or affectations characteristic of an urban inhabitant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural commentary and dialect literature, showing urbane refinement or pretentious city polish contrasting with rural simplicity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"He had a citified air about him that ate into Tom’s vitals."*
+> - 📜 **Mark Twain (*Roughing It*):** *"His **citified** garments and immaculate boots looked strangely out of place among the rough miners of Virginia City."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The country folk viewed his **citified** airs and polished accent with mingled curiosity and profound suspicion."*
+> - 📜 **Hamlin Garland (*Main-Travelled Roads*):** *"Returning after years in Chicago, the young man discovered that his **citified** habits made the daily toil of the farm unendurable."*

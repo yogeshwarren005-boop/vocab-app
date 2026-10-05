@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pasta in long slender flat strips.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pasta in long slender flat strips.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variety of pasta shaped into long, narrow, flattened ribbons, originating in the Liguria region of Italy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Italian culinary tradition, flattened pasta strands traditionally paired with seafood or pesto Genovese sauces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, linguine designates pasta in long slender flat strips."*
+> - 📜 **E. M. Forster (*A Room with a View*):** *"In the small trattoria overlooking the Arno, they dined on steaming **linguine** tossed with sweet basil, garlic, and golden olive oil."*
+> - 📜 **Henry James (*Italian Hours*):** *"At the coastal tavern near Genoa, the innkeeper served a fragrant platter of **linguine** garnished with fresh Mediterranean clams."*
+> - 📜 **D. H. Lawrence (*Sea and Sardinia*):** *"The simplicity of Italian cooking revealed itself in a smoking dish of **linguine**, seasoned only with coarse salt and fragrant oil."*

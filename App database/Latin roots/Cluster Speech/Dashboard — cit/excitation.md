@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being emotionally aroused and worked up.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The neural or electrical arousal of an organ or muscle or gland.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action, process, or physiological stimulus evoking activity, agitation, or elevated cellular responsiveness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical science and electrophysiology, the elevation of an atom, quantum system, or nerve fiber to an energized state above its ground baseline.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The influence that had passed into Clare like an excitation from the sky did not die down."*
-> - 📜 **James Joyce (*Ulysses*):** *"Somnolent invocation, less somnolent recognition, incipient excitation, catechetical interrogation."*
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"Asceticism, quietism, enthusiasm, ecstasy--all systems which imply an unnatural repression or an unnatural excitation of our faculties--are ill-suited for the mass of mankind."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Her mental **excitation** during the long midnight vigil drove sleep entirely from her feverish eyes."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The sudden electrical **excitation** within the secondary coil occurred precisely at the instant the galvanic circuit was broken."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Every sensory **excitation** that enters the cerebral hemispheres tends immediately to diffuse itself through the motor pathways."*

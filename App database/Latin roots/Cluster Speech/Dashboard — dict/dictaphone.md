@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tape recorder that records and reproduces dictation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tape recorder that records and reproduces dictation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An audio recording machine developed to record spoken words and speech dictation for subsequent secretarial transcription.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial history, a specialized wax-cylinder and later magnetic phonograph dictation system trademarked by Columbia Graphophone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"They haven't put me next to you for the fun of it, and they may have a dictaphone stuck around somewhere." Obediently Sherman approached the bars of the cage."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"But something's stirring." If the Lassans had set a dictaphone or some similar device to spy on them there was no sign of it in the conversation which Sherman's interrogator held with him during the next period."*
+> - 📜 **Agatha Christie (*The Murder of Roger Ackroyd*):** *"The mechanical **dictaphone** concealed upon the library table played a vital role in unraveling the alibi."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"Winston dictated his revised historical falsehoods directly into the speakwrite, a mechanized **dictaphone** of the Ministry."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"The brisk executive barked rapid instructions into his desktop **dictaphone** before hurrying down to the motor club."*

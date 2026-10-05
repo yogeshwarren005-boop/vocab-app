@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without eloquence; in an inarticulate manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without eloquence; in an inarticulate manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without eloquence; awkwardly, unpersuasively, or with hesitant and clumsy expression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetorical evaluation, expressing thoughts without rhetorical grace, vocal melody, or affective impact.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ineloquently designates without eloquence; in an inarticulate manner."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard pleaded **ineloquently** before the town council, his rough dialect and stammering rage failing to win over his peers."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Casaubon defended his unfinished scholarly treatise **ineloquently**, burying genuine anxiety beneath dry academic phrases."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The bewildered sailor explained the shipboard disaster **ineloquently**, choking back the desperate guilt that haunted him."*

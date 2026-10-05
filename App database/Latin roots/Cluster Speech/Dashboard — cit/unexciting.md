@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not stimulating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not exciting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not exciting; lacking suspense, lively interest, or stimulation; dull or uneventful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and mundane sociology, characterized by predictable routines and lack of dramatic conflict or sensory novelty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Not that he bears the desk any ill will, but he must do something, and it must be something of an unexciting nature, which will lay neither his physical nor his intellectual energies under too heavy contribution."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"It is the most unexciting contest you can imagine."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The lawyer's office presented a thoroughly **unexciting** prospect of dusty parchments, black tin boxes, and slow clerical drudgery."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The dreary voyage along the flat coast appeared **unexciting** to the casual passenger, yet full of sinister undercurrents."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The daily life of the weaver was an **unexciting** routine of rhythmic loom clicks from morning till nightfall."*

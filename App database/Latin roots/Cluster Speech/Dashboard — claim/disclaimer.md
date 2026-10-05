@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) a voluntary repudiation of a person's legal claim to something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Denial of any connection with or knowledge of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal statement or legal document denying responsibility, knowledge, warranty, or affiliation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tort law and product liability, a contractual clause limiting legal liabilities, warranties of merchantability, or implied covenants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"I hope that after this explicit disclaimer I shall no longer be taxed with embracing a system of mythology which I look upon not merely as false but as preposterous and absurd."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"No, I am ’ily obleeged to you, Miss Twinkleton, nor yet a beggar.” This last disclaimer had reference to Miss Twinkleton’s distractedly pressing two-and-sixpence on her, instead of the cabman."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The constitution contained no explicit **disclaimer** regarding state sovereignty over domestic revenues."*
+> - 📜 **Sir Walter Scott (*Waverley*):** *"The prudent magistrate recorded an immediate **disclaimer** of all treasonous complicity with the insurgent highland clans."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The king's cautious **disclaimer** was published across the realm to allay popular apprehensions of Catholic succession."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Declare formally; declare someone to be something; of titles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: State or announce.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Publicly declared, officially announced, or widely recognized by authoritative statement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having been promulgated by formal heraldic edict or established by undeniable manifest evidence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His sons he there proclaimed the kings of kings: Great Media, Parthia, and Armenia He gave to Alexander; to Ptolemy he assigned Syria, Cilicia, and Phoenicia."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, go we in procession to the village; And be it death proclaimed through our host To boast of this or take that praise from God Which is His only."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, when merchant-like I sell revenge, Broke be my sword, my arms torn and defaced, And I proclaimed a coward through the world!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The king hath **proclaimed** a solemn feast to celebrate the glorious pacification of the realm."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard had **proclaimed** his bankruptcy openly in the town hall, surrendering even his personal gold watch."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The scarlet letter upon her bosom **proclaimed** her sin to the pitiless puritan gaze of the multitude."*

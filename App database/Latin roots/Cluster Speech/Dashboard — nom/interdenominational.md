@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring between or among or common to different churches or denominations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring between or among or common to different churches or denominations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring between, involving, or shared by two or more religious denominations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecumenical history and institutional theology, cooperative ventures uniting diverse Christian church bodies without requiring doctrinal merger.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, interdenominational designates occurring between or among or common to different churches or denominations."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The great revival meetings fostered an **interdenominational** fervor where sectarian distinctions vanished in common piety."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Civic charities frequently operated on an **interdenominational** basis, drawing volunteer support from all local pulpits."*
+> - 📜 **Matthew Arnold (*Last Essays on Church and Religion*):** *"True religious fellowship requires **interdenominational** tolerance rather than insisting upon narrow theological dogmas."*

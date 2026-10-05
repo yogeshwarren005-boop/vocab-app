@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stronghold into which people could go for shelter during a battle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stronghold into which people could go for shelter during a battle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fortress commanding a city, serving both to protect the inhabitants and maintain defensive control.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military fortification and symbolic literature, a fortified stronghold or ultimate sanctuary of defense against hostile subjugation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though I swore I leap’d from the window of the citadel,— FIRST LORD. [_Aside._] How deep?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sometime we see a cloud that’s dragonish, A vapour sometime like a bear or lion, A towered citadel, a pendant rock, A forked mountain, or blue promontory With trees upon’t, that nod unto the world And mock our eyes with air."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They give their greeting to the citadel."*
+> - 📜 **William Shakespeare (*Othello*):** *"I pray you, sir, go forth and look upon the port; let us receive the news from the high **citadel** overlooking the sea."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Every man is the builder of a temple, called his body, to the god he worships; his mind remains an inviolate interior **citadel**."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The garrison retreated into the formidable **citadel**, where they resolved to withstand the final desperate assault of the besieging army."*

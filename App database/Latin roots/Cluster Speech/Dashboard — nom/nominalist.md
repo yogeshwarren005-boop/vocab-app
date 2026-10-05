@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A philosopher who has adopted the doctrine of nominalism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A philosopher who has adopted the doctrine of nominalism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An adherent of nominalism; a thinker who holds that universal concepts exist only as names without objective reality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemology and scholastic history, an anti-realist philosopher denying independent ontological status to universal forms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nominalist designates a philosopher who has adopted the doctrine of nominalism."*
+> - 📜 **John Stuart Mill (*An Examination of Sir William Hamilton's Philosophy*):** *"Every consistent **nominalist** insists that words signifying classes refer solely to individual concrete objects."*
+> - 📜 **Bertrand Russell (*Our Knowledge of the External World*):** *"William of Ockham, as a subtle **nominalist**, applied his razor to eliminate unnecessary metaphysical entities."*
+> - 📜 **William James (*Pragmatism*):** *"The pragmatic philosopher is an unrepentant **nominalist**, looking away from first categories toward practical consequences."*

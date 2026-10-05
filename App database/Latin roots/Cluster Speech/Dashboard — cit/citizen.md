@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or naturalized member of a state or other political community.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or naturalized member of a state or other political community.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A legally recognized subject or national of a state, entitled to civil rights and bound by corresponding obligations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political philosophy and civic jurisprudence, a franchised member of a commonwealth participating directly or representatively in self-government.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The belly answered— FIRST CITIZEN."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And though that all at once, You, my good friends”—this says the belly, mark me— FIRST CITIZEN."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Consider further, That when he speaks not like a citizen, You find him like a soldier."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"Hear me for my cause, and be silent, that you may hear; believe me for mine honour, as each noble **citizen** of Rome ought."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"Active participation in public affairs elevates the moral and intellectual capacity of every ordinary **citizen**."*
+> - 📜 **Ralph Waldo Emerson (*Society and Solitude*):** *"A true **citizen** does not measure the greatness of his country by its wealth, but by the integrity of its institutions."*

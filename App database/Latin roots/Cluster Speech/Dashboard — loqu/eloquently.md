@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With eloquence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an articulate manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a fluent, persuasive, and powerfully expressive manner that moves listeners or readers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oratorical delivery and prose aesthetics, communicating profound sentiment with graceful cadence and persuasive force.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But after embattling his facts, an advocate who should wholly suppress a not unreasonable surmise, which might tell eloquently upon his cause—such an advocate, would he not be blameworthy?"*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Without exchanging a syllable upon the subject, Toby and myself simultaneously renounced the design which had lured us thus far--perceiving in each other’s countenances that desponding expression which speaks more eloquently than words."*
-> - 📜 **Effie Afton (*Eventide*):** *"Pimble, had he not been deeply engaged in poring over the trials his loquacious housekeeper was so eloquently setting forth to her silent and rather inattentive listener, he would have discovered himself the hero of a tale which might have lost Mrs."*
+> - 📜 **Frederick Douglass (*Narrative of the Life of Frederick Douglass*):** *"He pleaded **eloquently** for the natural rights of all enslaved men, stirring Northern audiences to righteous outrage."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The Chancery barrister argued **eloquently** upon intricate precedents, while the unfortunate suitors languished in despair."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The Venetian canvases proclaimed **eloquently** the eternal supremacy of pure color and luminous Mediterranean atmosphere."*

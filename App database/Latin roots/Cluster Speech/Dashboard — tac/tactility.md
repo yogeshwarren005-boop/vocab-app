@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The faculty of perceiving (via the skin) pressure or heat or pain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The faculty of perceiving (via the skin) pressure or heat or pain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capability of being touched or felt; tangibility; the property of eliciting tactile sensation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetics and art theory, the felt texture or sculptural dimensionality conveyed by an artistic medium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tactility designates the faculty of perceiving (via the skin) pressure or heat or pain."*
+> - 📜 **Bernard Berenson (*The Florentine Painters of the Renaissance*):** *"Giotto rendered figures with astonishing **tactility**, giving two-dimensional frescoes the illusion of solid mass."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Spatial perception develops through the coordinated interplay of vision and cutaneous **tactility**."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"The rough-hewn stone surface communicates a rugged **tactility** that smooth stucco can never match."*

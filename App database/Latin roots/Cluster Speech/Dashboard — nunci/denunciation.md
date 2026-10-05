@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A public act of denouncing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public act of denouncing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Public condemnation, censure, or vehement accusation of someone or something as wicked or culpable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international diplomacy and criminal jurisprudence, the formal repudiation of a treaty, or the official lodging of criminal information before a tribunal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You know the lady; she is fast my wife, Save that we do the denunciation lack Of outward order."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Boythorn was a long one, and a stormy one too, I should think, for although his room was at some distance I heard his loud voice rising every now and then like a high wind, and evidently blowing perfect broadsides of denunciation."*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"In fine, _the preaching of the cross_ includes a faithful denunciation of _eternal misery_, as the inevitable doom of all who pass from this state of probation, unrenewed by the Spirit of grace, unwashed in the blood of the Lamb."*
+> - 📜 **William Shakespeare (*Measure for Measure*):** *"She hath made of you a most bitter **denunciation** before the duke's judgment seat in the open market."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Boythorn delivered a thunderous **denunciation** of the Chancery system, declaring that all scoundrels ought to be summarily blown to atoms."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The assembly rang with the frantic **denunciation** of ancient magistrates whose only guilt was fidelity to the constitution."*

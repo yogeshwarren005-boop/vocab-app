@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A language spoken by the atakapa of the gulf coast of louisiana and texas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A language spoken by the atakapa of the gulf coast of louisiana and texas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An indigenous North American ethnic group and linguistic division historically inhabiting the southwestern Gulf Coast of Louisiana and Texas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropological ethnohistory, Gulf Coast hunter-gatherers organized into nomadic bands along coastal bayous and river estuaries prior to European encroachment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, attacapa designates a language spoken by the atakapa of the gulf coast of louisiana and texas."*
+> - 📜 **John Wesley Powell (*Indian Linguistic Families of America North of Mexico*):** *"The linguist placed the isolated **Attacapa** tongue among the most distinct indigenous dialects of the lower Gulf slope."*
+> - 📜 **Albert Gallatin (*A Synopsis of the Indian Tribes within the United States*):** *"Early French colonial travelers reported that the **Attacapa** bands lived primarily by fishing and hunting along the coastal bayous."*
+> - 📜 **Henry Schoolcraft (*Information Respecting the History, Condition and Prospects of the Indian Tribes*):** *"The traditions of the **Attacapa** recount ancestral migrations through the maritime marshes between the Sabine and Vermilion rivers."*

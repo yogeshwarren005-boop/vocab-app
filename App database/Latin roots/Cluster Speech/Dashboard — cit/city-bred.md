@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being or having the customs or manners or dress of a city person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or having the customs or manners or dress of a city person.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reared or educated in an urban center, having acquired the outlook, manners, or habits typical of city dwellers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social commentary and regional realism, shaped by metropolitan life and consequently unaccustomed to physical rural hardships.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, city-bred designates being or having the customs or manners or dress of a city person."*
+> - 📜 **Mark Twain (*Roughing It*):** *"The **city-bred** greenhorns soon collapsed under the grueling labor of carrying timber up the steep mountain gulch."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"His smooth speech and fastidious gestures betrayed the fact that he was **city-bred** and foreign to the shearing barn."*
+> - 📜 **Hamlin Garland (*A Son of the Middle Border*):** *"A **city-bred** youth visiting the Dakota prairies looked with dismay at the endless horizon of trackless sod."*

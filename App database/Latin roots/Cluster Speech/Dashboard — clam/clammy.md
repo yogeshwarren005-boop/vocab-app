@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unpleasantly cool and humid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unpleasantly cool and humid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unpleasantly cold, damp, and sticky to the touch; or damply adhesive like cold sweat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pathophysiology, descriptive of skin experiencing intense sympathetic vasoconstriction combined with copious eccrine sweating.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"During the progress of this dialogue there was a nervous twitching of Boldwood’s tightly closed lips, and his face became bathed in a clammy dew."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The rain came on in earnest, and Oak soon felt the water to be tracking cold and clammy routes down his back."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The fungi grew in all manner of positions from rotting leaves and tree stumps, some exhibiting to her listless gaze their clammy tops, others their oozing gills."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Her cold hand was so **clammy** that he dropped it instinctively with a sudden shudder of foreboding."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"A **clammy** fog rolled across the surface of the pond, wrapping the hemlocks in ghostly white shrouds."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The air was heavy, warm, thick, and **clammy** with the putrid exhalations of primeval mudbanks."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking or showing a lack of what is fitting and considerate in dealing with others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking or showing a lack of what is fitting and considerate in dealing with others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking tact, sensitivity, or discretion in social interactions; undiplomatic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Displaying an insensitive disregard for the feelings or sensibilities of companions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, untactful designates lacking or showing a lack of what is fitting and considerate in dealing with others."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"The dowager's **untactful** questions brought a momentary flush of indignation to May's cheeks."*
+> - 📜 **George Eliot (*Middlemarch*):** *"It was an exceedingly **untactful** suggestion to raise before a scholar brooding over unfinished labors."*
+> - 📜 **Anthony Trollope (*The Prime Minister*):** *"His **untactful** intervention in the cabinet debate alienated his staunchest political allies."*

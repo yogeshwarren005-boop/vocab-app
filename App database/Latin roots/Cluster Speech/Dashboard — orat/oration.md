@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instance of oratory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instance of oratory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal and dignified public speech, especially one delivered on a ceremonial or solemn national occasion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric, a structured discourse comprising exordium, narratio, propositio, confirmatio, refutatio, and peroratio.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, sir, that is as fit as can be to serve for your oration; and let him deliver the pigeons to the emperor from you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tell me, can you deliver an oration to the emperor with a grace?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here, Marcus, fold it in the oration; For thou hast made it like a humble suppliant."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet stay awhile; Thou shalt not back till I have borne this corse Into the market-place: there shall I try, In my **oration**, how the people take The cruel issue of these bloody men."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"I do not readily remember any poem, play, sermon, novel, or **oration**, that our proud contemporary literature can compare with the ancients."*
+> - 📜 **Charles Dickens (*Pickwick Papers*):** *"Mr. Snodgrass was about to commence a brilliant **oration**, when an uproar from the tavern door interrupted him."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of the tongue; articulated, positioned, or communicated through lingual action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In articulatory phonetics and oral surgery, directed toward or produced through the action of the tongue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lingually designates with respect to language."*
+> - 📜 **Henry Sweet (*A Primer of Phonetics*):** *"Certain coronal consonants are modified **lingually** by pressing the tip or blade against the alveolar ridge."*
+> - 📜 **Alexander Graham Bell (*Visible Speech: The Science of Universal Alphabetics*):** *"Vowel resonance changes continuously as the oral aperture is shaped **lingually** into distinct chamber dimensions."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The venomous serpent positions its sensory apparatus **lingually**, flickering its bifid organ to detect olfactory particles."*

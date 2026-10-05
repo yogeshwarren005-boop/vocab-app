@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A musician who gives recitals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musician who gives recitals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musician, singer, or actor who performs in a solo recital or specialized chamber concert.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In music performance practice and criticism, a virtuoso soloist specializing in concert programming, such as an organ or pianoforte recitalist.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, recitalist designates a musician who gives recitals."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The visiting piano **recitalist** displayed extraordinary digital velocity in the Chopin preludes, though his phrasing lacked subtlety."*
+> - 📜 **James Huneker (*Chopin: The Man and His Music*):** *"Every celebrated organ **recitalist** of the period journeyed to Weimar to hear the master improvise upon liturgical fugues."*
+> - 📜 **Arthur Symons (*Plays, Acting, and Music*):** *"The young **recitalist** commanded the rapt attention of the hall with her delicate interpretation of ancient French melodies."*

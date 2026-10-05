@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (philosophy) the doctrine that the various objects labeled by the same term have nothing in common but their name.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (philosophy) the doctrine that the various objects labeled by the same term have nothing in common but their name.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The philosophical doctrine that general terms or abstract concepts exist only as names, without corresponding objective reality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval scholastic philosophy and metaphysics, the rejection of Platonic realism, famously advanced by Roscelin and William of Ockham.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nominalism designates (philosophy) the doctrine that the various objects labeled by the same term have nothing in common but their name."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"Scholastic **nominalism** prepared the way for modern empirical science by denying mystical real essences to abstract categories."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Radical **nominalism** asserts that thoughts are bound to individual sensible things, and that universals are mere breath and sound."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"The fundamental dispute between scholastic realism and **nominalism** continues to shape scientific understanding of natural laws."*

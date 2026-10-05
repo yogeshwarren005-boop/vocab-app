@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to denomination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to denomination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner according to, characterized by, or organized along the lines of religious denominations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In institutional sociology, partitioned or administered on the basis of sectarian ecclesiastical affiliations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, denominationally designates with respect to denomination."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The electorate was divided **denominationally** on educational policy, yet united regarding constitutional principles."*
+> - 📜 **Matthew Arnold (*Schools and Universities on the Continent*):** *"Charitable relief was administered **denominationally**, producing needless duplication among competing parish councils."*
+> - 📜 **John Stuart Mill (*Inaugural Address at St Andrews*):** *"A university organized **denominationally** risks subordinating universal philosophical inquiry to sectarian apologetics."*

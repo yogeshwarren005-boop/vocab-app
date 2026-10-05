@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Claim back.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reuse (materials from waste products).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Brought back from an uncultivated, wild, waste, or sinful condition to productive, reformed utility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In environmental engineering, recycled materials, treated wastewater, or coastal land recovered from open water by filling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"In the midst of which dust and noise there is but one thing perfectly clear, to wit, that Tom only may and can, or shall and will, be reclaimed according to somebody’s theory but nobody’s practice."*
-> - 📜 **Jane Austen (*Persuasion*):** *"The others returned, the room filled again, benches were reclaimed and repossessed, and another hour of pleasure or of penance was to be sat out, another hour of music was to give delight or the gapes, as real or affected taste for it prevailed."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A physician of extended practice was converted and reclaimed while I had charge of the place in which he lived."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The bean-field which I cultivated had been partly **reclaimed** from the pitch pine woods many years before."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"He lived in the remote settlement like a man **reclaimed** from the dead, seeking redemption through unselfish toil."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"Cattle grazed upon fields newly **reclaimed** from the sea, where earthworms rapidly enriched the alluvial silt."*

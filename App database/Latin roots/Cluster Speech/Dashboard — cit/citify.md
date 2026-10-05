@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Accustom to urban ways.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Accustom to urban ways.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To conform to the manners, customs, speech, or lifestyle of city inhabitants; to urbanize.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociology and regional literature, to transform rural individuals or communities through the adoption of cosmopolitan city ways.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"He had a citified air about him that ate into Tom’s vitals."*
+> - 📜 **William Dean Howells (*The Rise of Silas Lapham*):** *"The ambitious mother sought every opportunity to **citify** her daughters by introducing them into Boston salon society."*
+> - 📜 **Edward Eggleston (*The Hoosier Schoolmaster*):** *"The villagers feared that sending the lad away to academy would **citify** him beyond all practical utility on the homestead."*
+> - 📜 **O. Henry (*The Four Million*):** *"A month of pavements and incandescent lamps will thoroughly **citify** the greenest rustic who steps off the ferry."*

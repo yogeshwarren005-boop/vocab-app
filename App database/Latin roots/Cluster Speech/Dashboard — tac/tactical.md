@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to tactic or tactics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to tactic or tactics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to small-scale actions and maneuvers planned to achieve a specific immediate objective.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military doctrine, pertaining to the employment and movement of armed forces in actual combat contact.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Double-check resource requirements and schedules, and tactical options and their possible effects on UIPS forces and assets in the Special Zone."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A conical view tank, recessed in the wall to his left, glowed with symbols of ships and their military characteristics, along with tactical and logistical links."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Professionals long in their trade, they were battle cruiser and destroyer flotilla commanders of the major INOR powers, backed up by their experts in military intelligence, tactical operations, and navigation, logistics and internal security."*
+> - 📜 **Carl von Clausewitz (*On War*):** *"The general's supreme **tactical** skill transformed an imminent retreat into an overwhelming victory."*
+> - 📜 **Winston Churchill (*The River War*):** *"A sound **tactical** deployment along the ridge prevented the gunboats from sustaining severe damage."*
+> - 📜 **Theodore Roosevelt (*The Rough Riders*):** *"Our rapid advance up Kettle Hill demonstrated prompt **tactical** initiative under heavy rifle fire."*

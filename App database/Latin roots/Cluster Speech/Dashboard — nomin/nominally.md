@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In name only.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In name only.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In name only; officially, but not in actual practice, reality, or fact.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional history and financial metrics, possessing title or titular status without exercising executive power.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"And our dinner hour is nominally (for we dine at all hours) five!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"George, “this man with me is the other party implicated in this unfortunate affair—nominally, only nominally—and my sole object is to prevent his getting into trouble on my account."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Although the road along its greater part had been as good as any turnpike-road in the country, it was nominally only a byway."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The barbarian chieftain was **nominally** a vassal of Constantinople, though he reigned as an absolute sovereign in Gaul."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The governor was **nominally** the chief executive of the state, but town selectmen held real local authority."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The monarch was **nominally** head of the church, yet Parliament dictated ecclesiastical governance and statutes."*

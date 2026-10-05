@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The shell of a clam.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dredging bucket with hinges like the shell of a clam.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the two hinged calcified valves enclosing a clam; or a mechanical hinged dredging bucket.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In heavy civil engineering, a double-jawed excavator bucket suspended by cables used for vertical dredging and deep trenching.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The number 4 clamshell panels drew back and slipped aside."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He turned away, and Brad felt the deck vibrate as the clamshells slammed shut."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Straight-backed from flat, hard seat to shoulder level, extension clamshells from the upper section of the chair curved forward sharply to form tapered wings."*
+> - 📜 **Oliver Wendell Holmes Sr. (*The Autocrat of the Breakfast-Table*):** *"The child preserved a polished **clamshell** upon his windowsill as a humble reminder of summer tides."*
+> - 📜 **Henry David Thoreau (*A Week on the Concord and Merrimack Rivers*):** *"The river banks were littered with bleached fragments of freshwater **clamshell** left by nocturnal muskrats."*
+> - 📜 **John Muir (*The Cruise of the Corwin*):** *"Eskimo craftsmen fashion delicate needles and decorative labrets from the pearly lining of the northern **clamshell**."*

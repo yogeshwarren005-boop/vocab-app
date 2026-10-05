@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Within a particular language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Within a particular language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring, operating, or analyzed wholly within the boundaries of a single language system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural linguistics and semantic theory, describing relationships among internal elements (such as paradigmatic oppositions) within one tongue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intralinguistic designates within a particular language."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"Linguistic value is fundamentally an **intralinguistic** phenomenon, established purely through contrasts with other signs in the system."*
+> - 📜 **Roman Jakobson (*Essays in Linguistics*):** *"The poetic function draws attention to **intralinguistic** symmetries, projecting the principle of equivalence from the axis of selection to combination."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"Morphophonemic shifts represent purely **intralinguistic** regularities that require no reference to external sensory stimuli."*

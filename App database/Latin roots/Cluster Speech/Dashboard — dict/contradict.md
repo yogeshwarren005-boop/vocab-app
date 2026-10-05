@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be in contradiction with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deny the truth of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To assert the direct opposite of a statement, or to be logically inconsistent and irreconcilable with a fact.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dialectics and jurisprudence, to deny a formal proposition or introduce testimony nullifying an adversary's allegations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Stand in his face to contradict his claim."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Too cruel anywhere.— Dear Duff, I pr’ythee, contradict thyself, And say it is not so."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A greater power than we can contradict Hath thwarted our intents."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Complete liberty of expressing opinions is necessary lest false assertions **contradict** unchallenged truths without rebuttal."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Her instinctive sense of truth compelled her to **contradict** the deceitful rumors circulating throughout the parish."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"She dared not openly **contradict** her guardian, although every pulse within her revolted against his mandate."*

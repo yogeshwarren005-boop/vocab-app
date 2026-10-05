@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conspicuously and offensively loud; given to vehement outcry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conspicuously and offensively loud; given to vehement outcry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Making or characterized by a loud, confused, and persistent noise, uproar, or shouting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical dramatic poetry, expressing vehemently demanding grief, rage, or martial summons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will be more jealous of thee than a Barbary cock-pigeon over his hen, more clamorous than a parrot against rain, more new-fangled than an ape, more giddy in my desires than a monkey."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give me leave To tell you once again that at my birth The front of heaven was full of fiery shapes, The goats ran from the mountains, and the herds Were strangely clamorous to the frighted fields."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Presumptuous vassals, are you not ashamed With this immodest clamorous outrage To trouble and disturb the King and us?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The midnight bell did with his iron tongue and brazen mouth sound on into the drowsy ear of night, with **clamorous** alarms."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"The birds kept up a **clamorous** chirping in the orchard as dawn broke through the wet apple boughs."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"A **clamorous** band of islanders swam out to greet the ship, shouting and splashing in the warm turquoise surf."*

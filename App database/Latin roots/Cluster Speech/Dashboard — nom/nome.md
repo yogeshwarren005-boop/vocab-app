@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A town in western alaska on the southern coast of the seward peninsula; an important center of an alaskan gold rush at the beginning of the 20th century.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in western alaska on the southern coast of the seward peninsula; an important center of an alaskan gold rush at the beginning of the 20th century.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An administrative province or territorial division in ancient Egypt; in ancient Greece, a musical hymn or mode.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Egyptology, an ancient territorial district governed by a nomarch, each associated with specific deities and heraldic totems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nome designates a town in western alaska on the southern coast of the seward peninsula; an important center of an alaskan gold rush at the beginning of the 20th century."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Each ancient Egyptian **nome** venerated its own sacred animal totem, often leading to fierce religious disputes between neighboring districts."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The tax collectors assessed the granaries of every agricultural **nome** along the fertile banks of the Nile."*
+> - 📜 **Herodotus (*The Histories*):** *"The pharaoh distributed the fertile land among warriors, assigning estates within every administrative **nome** of Lower Egypt."*

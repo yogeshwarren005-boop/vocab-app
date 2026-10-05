@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Recite in elocution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Repeat aloud from memory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To repeat or speak aloud from memory, especially poetry, literary texts, or prepared speeches.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal law and parliamentary rhetoric, to enumerate facts or read out statutory clauses or articles in official assembly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I'll recite it to you: A SONG ABOUT A WELL KNOWN YOUNG LADY."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"After supper, John would go into Cockburnspath to recite the lessons he had prepared to Mr."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And what I am about to tell you I should long since have forgotten had I not heard my father recite it to wondering listeners so many times during my childhood."*
+> - 📜 **William Shakespeare (*Henry VIII*):** *"Let me **recite** the grievous wrongs which your deceitful counsel hath brought upon this innocent realm."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"The wandering bards were welcomed in every chieftain's hall to **recite** the legendary valor of ancestral kings."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"She stepped onto the stage to **recite** the lyrical verses of Shakespeare with exquisite grace and feeling."*

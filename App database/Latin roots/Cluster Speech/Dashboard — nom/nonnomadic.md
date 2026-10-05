@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not nomadic or wandering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not nomadic or wandering.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not living a nomadic life; leading a settled, sedentary existence tied to permanent dwellings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropology and economic history, practicing sedentary agriculture, village settlement, and permanent domicile.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonnomadic designates not nomadic or wandering."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The transition to a **nonnomadic** lifestyle fostered permanent dwellings, intensive agriculture, and rapid population growth."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The **nonnomadic** agriculturalists of the frontier river valleys bore the brunt of barbarian cavalry incursions."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of America*):** *"Settled **nonnomadic** communities in the Andean highlands developed terraced agriculture and sophisticated irrigation canals."*

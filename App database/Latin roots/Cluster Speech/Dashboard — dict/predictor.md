@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who makes predictions of the future (usually on the basis of special knowledge).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Information that supports a probabilistic estimate of future events.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who foretells future happenings, or an indicator, variable, or factor that foreshadows a future development.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In regression analysis and biometrics, an independent variable utilized in statistical equations to forecast an outcome.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"But, whether he has not been the cause of this poor man's death, as well as the predictor, may be very reasonably disputed."*
+> - 📜 **Jonathan Swift (*The Bickerstaff-Partridge Papers*):** *"The satirical pamphleteer ridiculed the self-proclaimed **predictor** who claimed to foretell the exact day of a rival's demise."*
+> - 📜 **Francis Galton (*Hereditary Genius*):** *"A father's intellectual distinction serves as a reliable **predictor** of the inherited capacities of his offspring."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Involuntary muscular contraction of the brow serves as an accurate **predictor** of approaching emotional distress."*

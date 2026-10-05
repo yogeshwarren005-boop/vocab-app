@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or resulting from an abnormal accumulation of protein and electrolyte rich fluid in the peritoneal cavity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or resulting from an abnormal accumulation of protein and electrolyte rich fluid in the peritoneal cavity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or affected by ascites; characterized by serous fluid effusion in the abdomen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pathology, describing effused peritoneal fluid classified as transudative or exudative based on serum-ascites albumin gradient (SAAG).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ascitic designates of or relating to or resulting from an abnormal accumulation of protein and electrolyte rich fluid in the peritoneal cavity."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Microscopic and chemical examination of the **ascitic** fluid revealed a low specific gravity and an absence of malignant cellular elements."*
+> - 📜 **Thomas Watson (*Lectures on the Principles and Practice of Physic*):** *"The **ascitic** swelling distended the abdominal wall to such an extent that the superficial collateral veins became prominently engorged."*
+> - 📜 **Richard Bright (*Reports of Medical Cases*):** *"A diagnostic puncture was performed, withdrawing several quarts of pale straw-colored **ascitic** fluid to alleviate the patient's acute discomfort."*

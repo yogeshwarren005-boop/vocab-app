@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to articulation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to articulation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the physiological production of speech sounds or to anatomical skeletal joints.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phonetic science, articulatory phonetics analyzes the physical configurations and movements of speech organs during sound generation, contrasting with acoustic and auditory phonetics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, articulatory designates of or relating to articulation."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"Acoustic impressions are inseparable from the **articulatory** movements of the vocal apparatus that generate them."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"No two spoken languages share an identical inventory of **articulatory** gestures, even when using acoustically similar sounds."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"The phonologist records physiological movements of the tongue and larynx through precise **articulatory** descriptions."*

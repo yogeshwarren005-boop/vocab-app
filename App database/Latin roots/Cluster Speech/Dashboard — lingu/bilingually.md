@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a bilingual manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a bilingual manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In two languages; with equal fluency or concurrent presentation in two distinct tongues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic communication and legal administration, executing documents or utterances across dual linguistic mediums.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bilingually designates in a bilingual manner."*
+> - 📜 **Joseph Conrad (*A Personal Record*):** *"Reflecting on his seafaring days, he noted how the multinational crew conversed **bilingually** in salt-water French and rough English."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The Polynesian harpooner gestured emphatically while explaining the whale run **bilingually** with broken Dutch and signs."*
+> - 📜 **Robert Louis Stevenson (*In the South Seas*):** *"The island magistrates kept their official registers **bilingually**, recording tribal depositions in both Tahitian and French."*

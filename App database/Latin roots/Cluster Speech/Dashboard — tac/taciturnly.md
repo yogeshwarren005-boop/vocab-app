@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without speaking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without speaking.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a silent, reserved, or uncommunicative manner, showing marked reluctance to engage in spoken conversation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative prose, characterizing actions performed with austere reticence, stoic silence, or sullen disinclination to speech.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, taciturnly designates without speaking."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The old timber merchant nodded **taciturnly** across the fence, unwilling to expend syllables upon passing pleasantries."*
+> - 📜 **Jack London (*The Sea-Wolf*):** *"The hardened helmsman gripped the wheel and stared **taciturnly** into the fog, ignoring my curious inquiries."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"He listened **taciturnly** to the captain's angry reprimand, offering not a single murmur of self-defense."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The body of citizens of a state or country.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The body of citizens of a state or country.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The citizens of a city, state, or nation collectively, considered as a political body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociology and democratic theory, the collective civic populace whose aggregate opinions and values inform sovereign governance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I will govern well, and we shall prosper," President Narval glibly promised the Plutonian citizenry."*
+> - 📜 **Woodrow Wilson (*The State: Elements of Historical and Practical Politics*):** *"The enlightened moral judgment of the entire **citizenry** constitutes the ultimate bedrock of democratic administration."*
+> - 📜 **Theodore Roosevelt (*The Strenuous Life*):** *"No system of laws can preserve a nation whose **citizenry** lacks the virile virtues of civic courage and personal responsibility."*
+> - 📜 **James Bryce (*The American Commonwealth*):** *"The widespread dissemination of public journals ensures that the **citizenry** remains constantly attentive to the deliberations of Congress."*

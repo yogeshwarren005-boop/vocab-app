@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Claim back.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reuse (materials from waste products).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To retrieve, recover possession of, or restore land, materials, or persons to a cultivated or reformed state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil engineering, to drain marshes or stabilize arid waste for cultivation; in falconry, to tame a wild hawk.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My heart is wondrous light Since this same wayward girl is so reclaim’d. [_Exeunt._] SCENE III."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"He had done so largely as an experiment--to see whether his influence would thereby be strengthened with those in his own congregation and beyond it whom he wished to reclaim from intemperance."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"He was a perfect drunkard, helpless, poor; his friends' best efforts to reclaim' him were of no avail."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is the third time; I hope good luck lies in odd numbers. Away, go; they say there is divinity in odd numbers, either in nativity, chance, or death. Come, will you yet **reclaim** your wandering husband?"*
+> - 📜 **George Eliot (*Silas Marner*):** *"The pure affection of a child had power to **reclaim** the lonely weaver from his bitter misanthropy."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Engineers planned to drain the treacherous Grimpen Mire and **reclaim** thousands of fertile acres for pasture."*

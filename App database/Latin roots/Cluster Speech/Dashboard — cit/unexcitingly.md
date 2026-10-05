@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unexciting manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unexciting manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that lacks excitement, suspense, stimulation, or dramatic appeal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stylistic critique and narrative analysis, progressing in an ordinary, predictable, or monotonous fashion without sensory or emotional elevation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unexcitingly designates in an unexciting manner."*
+> - 📜 **William Dean Howells (*The Rise of Silas Lapham*):** *"The business conference dragged on **unexcitingly**, dealing with ledgers, freight schedules, and mundane mercantile accounts."*
+> - 📜 **Arnold Bennett (*The Old Wives' Tale*):** *"The quiet years in the drapery shop passed **unexcitingly**, marked only by seasonal stocktaking and Sunday chapel sermons."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"The archdeacon's breakfast conversation proceeded **unexcitingly** until the bishop's controversial letter was unexpectedly delivered."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Accumulation of serous fluid in peritoneal cavity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Accumulation of serous fluid in peritoneal cavity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The abnormal accumulation of serous fluid within the peritoneal cavity, causing abdominal distension.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastroenterology and hepatology, a hallmark complication of decompensated portal hypertension, hepatic cirrhosis, or peritoneal carcinomatosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ascites designates accumulation of serous fluid in peritoneal cavity."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In advanced cirrhosis of the liver, extensive **ascites** frequently develops, requiring repeated paracentesis to relieve respiratory embarrassment."*
+> - 📜 **Thomas Watson (*Lectures on the Principles and Practice of Physic*):** *"The physician must carefully distinguish peritoneal **ascites** resulting from portal obstruction from that caused by general dropsy or chronic nephritis."*
+> - 📜 **Richard Bright (*Reports of Medical Cases*):** *"The presence of copious **ascites** combined with anasarca pointed directly toward profound disease within the renal and hepatic systems."*

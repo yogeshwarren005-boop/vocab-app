@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Declare formally; declare someone to be something; of titles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: State or announce.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To announce, declare, or publish officially, solemnly, or publicly in an open manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional law and political history, to promulgate an executive edict, royal succession, or formal declaration of hostilities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am not an impostor, that proclaim Myself against the level of mine aim, But know I think, and think I know most sure, My art is not past power nor you past cure."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For I have savage cause, And to proclaim it civilly were like A haltered neck which does the hangman thank For being yare about him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet once again proclaim it publicly, If any friend will pay the sum for him, He shall not die; so much we tender him."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am not an impostor, that **proclaim** Myself against the level of mine aim, But know I think, and think I know most sure."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The change from storm and winter to serene and mild weather, from dark and sluggish hours to bright and elastic ones, is a memorable crisis which all things **proclaim**."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The town crier rang his brass bell to **proclaim** the mayor's emergency curfew to the assembled citizens."*

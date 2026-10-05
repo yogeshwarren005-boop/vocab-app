@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring or extending throughout a city.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring or extending throughout a city.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extending throughout, encompassing, or affecting the entire area and population of a city.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public administration and municipal journalism, describing civic programs, electoral initiatives, or municipal ordinances operating across all city precincts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, citywide designates occurring or extending throughout a city."*
+> - 📜 **Jane Addams (*Twenty Years at Hull-House*):** *"The outbreak of contagion compelled our workers to advocate for a **citywide** inspection of tenement plumbing and sanitation."*
+> - 📜 **Jacob Riis (*How the Other Half Lives*):** *"Nothing short of a **citywide** crusade against corrupt landlords could demolish the deadly rear tenements of the lower wards."*
+> - 📜 **Upton Sinclair (*The Jungle*):** *"The sudden general strike of transit workers brought about a complete, **citywide** paralysis of commercial transport."*

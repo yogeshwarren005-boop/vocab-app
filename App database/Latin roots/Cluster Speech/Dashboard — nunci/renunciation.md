@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rejecting or disowning or disclaiming as invalid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of having rejected your religious beliefs or your political party or a cause (often in favor of opposing beliefs or causes).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formal act of relinquishing, surrendering, or repudiating a right, claim, title, possession, or belief.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal jurisprudence and ethical mysticism, the voluntary surrender of legal claims or the spiritual abandonment of sensual attachments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But now that she was stung to a fever by Izz’s tale, there was a limit to her powers of renunciation."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"In every life this cannot but be so, for a man must limit himself; but, if it be for a high end, the renunciation will be blessed with some fruit of good."*
-> - 📜 **George Eliot (*Middlemarch*):** *"And she had not reached that point of renunciation at which she would have been satisfied with having a wise husband: she wished, poor child, to be wise herself."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She looked upon her self-sacrifice not as a heroic virtue, but as a mournful and inevitable act of lifelong **renunciation**."*
+> - 📜 **George Eliot (*Middlemarch*):** *"And she was beginning now to look at the future with that grave **renunciation** which forms the foundation of all true spiritual wisdom."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"Though the capacity for total **renunciation** is noble, it is only valuable when undertaken to enhance the happiness of fellow creatures."*

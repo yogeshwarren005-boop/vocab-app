@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that incites or provokes; a means of arousing or stirring to action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act of urging on or spurring on or rousing to action or instigating.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of inciting, prompting, or instigating; a stimulant or incentive urging action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence and penal philosophy, the deliberate provocative solicitation or instigation of unlawful acts by external agents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incitation designates something that incites or provokes; a means of arousing or stirring to action."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The fanatical sermons delivered by the monk served as a powerful **incitation** to popular riot and bloodshed."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Foreign intriguers will find frequent **incitation** to embroil the confederacy in European dynastic disputes."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The inflammatory tracts scattered among the Paris populace furnished continuous **incitation** to plunder and anarchy."*

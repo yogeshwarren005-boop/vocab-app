@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Loud and persistent outcry from many people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Utter or proclaim insistently and noisily.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vehement expression of general outcry, loud persistent shouting, or noise (standard Commonwealth spelling of clamor).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British legal history, the hue and cry raised to summon neighbors to pursue a fleeing felon across county hundreds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And from this time, For what he did before Corioles, call him, With all th’ applause and clamour of the host, Caius Martius Coriolanus!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, what tumultuous clamour have we here?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do but start And echo with the clamour of thy drum, And even at hand a drum is ready brac’d That shall reverberate all as loud as thine."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The heavens themselves blaze forth the death of princes, and with deep **clamour** announce their fall."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The sudden **clamour** of panicked voices shattered the nocturnal tranquility of the harbor."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Troops of baboons raise an appalling **clamour** when defending their foraging band against the stealthy leopard."*

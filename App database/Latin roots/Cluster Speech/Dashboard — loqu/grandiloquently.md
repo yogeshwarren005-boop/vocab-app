@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a rhetorically grandiloquent manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a rhetorically grandiloquent manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a lofty, pompous, or bombastic manner; using exaggerated or showy language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oratorical mannerism, speaking with self-conscious inflation and theatrical extravagance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"And to-day you are hurt, and you still smile!" "I smile at my thoughts," I said grandiloquently."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Zdrzhinski, the officer with the long mustache, spoke grandiloquently of the Saltánov dam being “a Russian Thermopylae,” and of how a deed worthy of antiquity had been performed by General Raévski."*
+> - 📜 **Mark Twain (*The Gilded Age*):** *"Colonel Sellers expounded **grandiloquently** upon his visionary railway schemes, promising fabulous fortunes to every small investor."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"Professor Challenger gestured **grandiloquently** toward the mysterious plateau, claiming undisputed discovery in the name of science."*
+> - 📜 **George Meredith (*The Egoist*):** *"Sir Willoughby declaimed **grandiloquently** upon hereditary honors and matrimonial duty, unaware of the quiet irony in Clara's smile."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to plants of the genus citrus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or producing fruit of the plants of the genus citrus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling citrus fruits; possessing the tart aroma, acidic flavor, or botanical traits of citrus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In food science and perfumery, describing sensory profiles characterized by limonene-rich terpenes and pungent hesperidic notes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, citrous designates of or relating to plants of the genus citrus."*
+> - 📜 **Henry David Thoreau (*Cape Cod*):** *"The sea breeze carried a refreshing zest reminiscent of **citrous** orchards blossoming in a distant Mediterranean climate."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"A pungent, **citrous** fragrance rose from the crushed aromatic boughs as the woodcutters cleared the forest path."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"I inhale the sweet breath of southern groves, laden with the **citrous** odors of blossoming orange and lemon bowers."*

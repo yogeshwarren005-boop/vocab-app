@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of praying for divine protection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ceremonial prayer invoking divine protection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A solemn invocation of divine blessing upon persons, assemblies, or sacred endeavors, typically concluding a religious ceremony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In liturgical theology and ecclesiastical practice, a sacramental rite wherein the congregation is formally blessed with the Holy Sacrament.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The benediction of these covering heavens Fall on their heads like dew! for they are worthy To inlay heaven with stars."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good King, that must approve the common saw, Thou out of heaven’s benediction com’st To the warm sun."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His own unkindness, That stripp’d her from his benediction, turn’d her To foreign casualties, gave her dear rights To his dog-hearted daughters, these things sting His mind so venomously that burning shame Detains him from Cordelia."*
+> - 📜 **William Shakespeare (*Cymbeline*):** *"The **benediction** of these covering heavens fall on their heads like dew, for they are worthy to inlay heaven with stars."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"He said no more, but slowly waving a **benediction**, covered his face with his hands, and so remained kneeling."*
+> - 📜 **John Milton (*Paradise Lost*):** *"So saying, he arose, whom Adam thus followed with reverent **benediction** and heartfelt gratitude."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who delivers a speech or oration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who delivers a speech or oration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who delivers a public speech, especially one skilled in the art of persuasive, eloquent public address.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical antiquity and jurisprudence, a citizen trained in forensic persuasion capable of representing causes before courts or civic assemblies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He’s a good drum, my lord, but a naughty orator."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My Lord of York, I promise you the King Prettily, methought, did play the orator."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But you, my lord, were glad to be employed, To show how quaint an orator you are."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am no **orator**, as Brutus is; But, as you know me all, a plain blunt man, That love my friend."*
+> - 📜 **George Eliot (*Felix Holt, the Radical*):** *"The natural **orator** swayed the workingmen not by clever sophistry, but through the transparent sincerity of his convictions."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"The true **orator** does not convince us against our will, but elevates our minds until we perceive the truth spontaneously."*

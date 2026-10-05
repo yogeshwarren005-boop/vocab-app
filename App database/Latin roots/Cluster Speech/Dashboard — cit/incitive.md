@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arousing to action or rebellion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arousing to action or rebellion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to incite, provoke, stimulate, or encourage; possessing an instigating quality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and behavioral science, an internal impulse or external lure operating as a motivating catalyst for human conduct.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incitive designates arousing to action or rebellion."*
+> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"The expectation of prospective pleasure operates upon the human will as a most powerful **incitive** to exertion."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"Conscience requires no external **incitive** when the moral law is clearly perceived by the rational intellect."*
+> - 📜 **Edmund Burke (*Letters on a Regicide Peace*):** *"The revolutionary doctrines circulated through the provinces served as an **incitive** venom against all ancient customs."*

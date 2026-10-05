@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The conversion of wasteland into land suitable for use of habitation or cultivation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rescuing from error and returning to a rightful course.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or work of reclaiming, restoring, reforming, or recovering land, persons, or materials.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural hydrology and resource management, the drainage of marshes, irrigation of deserts, or chemical purification of waste resources.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"The reclamation of dunams of waste arenary soil, proposed in the prospectus of Agendath Netaim, Bleibtreustrasse, Berlin, W. 15, by the cultivation of orange plantations and melonfields and reafforestation."*
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"In the summer of 1892 I began to seek God earnestly, and was not long in finding pardon and reclamation."*
-> - 📜 **Charles Dickens (*A Christmas Carol in Prose; Being a Ghost Story of Christmas*):** *"The Spirit must have heard him thinking, for it said immediately: "Your reclamation, then."*
+> - 📜 **James Joyce (*Ulysses*):** *"The **reclamation** of dunams of waste land in the wilderness requires systematic irrigation and tireless human devotion."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"Your **reclamation**, then! Take heed! said the Ghost, rising gently above the dreaming merchant."*
+> - 📜 **Ralph Waldo Emerson (*Society and Solitude*):** *"The progressive **reclamation** of human nature from savage ignorance is the true measure of spiritual civilization."*

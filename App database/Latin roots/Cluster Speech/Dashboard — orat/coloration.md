@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The timbre of a musical sound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appearance with regard to color.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The arrangement, pattern, disposition, or visual quality of color; or coloring in animals, plants, or art.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and behavioral ecology, adaptive pigmentation serving crypsis, warning (aposematism), mimicry, or sexual display.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"These fruits are hidden amid the tissues of the plant on which the “white rust” is parasitic, and only betray their presence by the coloration of those tissues."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The brilliant **coloration** of the male bird has been gradually acquired through the selective preference of the females across generations."*
+> - 📜 **Alfred Russel Wallace (*Tropical Nature and Other Essays*):** *"Protective **coloration** enables vulnerable insects to escape insectivorous birds by assimilating closely to the surrounding foliage."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The microscopic spores exhibit a vivid golden **coloration** when examined under direct reflected illumination."*

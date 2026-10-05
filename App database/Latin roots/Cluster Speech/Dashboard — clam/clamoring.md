@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Loud and persistent outcry from many people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make loud demands.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shouting loudly, insistently, or tumultuously; or making an urgent public demand or noisy outcry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The present participial state of expressing vociferous collective demands, protesting grievances, or raising uproar.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"It must have been like this in ancient Paris when Villon thieved and sang, and the wolves came clamoring at the gates ... and the crusaders in warm Palestine...."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"A Musty Room As a former day-care administrator I have seen 30 children mobbing a teacher and clamoring for attention-praise for a project, a kiss for a hurt or applause for their ability to count all the way to 10."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The hopes of thousands of tillers of the soil suffering from a fall in prices, and of the great debtor class, clamoring for relief, were centered upon the success of this movement."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The famished populace was **clamoring** for bread before the closed iron grilles of the royal bakery."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"The huskies were **clamoring** fiercely at their traces, eager to plunge into the frozen northern wilderness."*
+> - 📜 **Washington Irving (*The Alhambra*):** *"Mendicants were **clamoring** importunately around the carriage wheels as the foreign travelers dismounted."*

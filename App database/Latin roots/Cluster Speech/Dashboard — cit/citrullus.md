@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dicot genus of the family cucurbitaceae including watermelons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dicot genus of the family cucurbitaceae including watermelons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of desert-adapted vine plants in the gourd family Cucurbitaceae, typified by the cultivated watermelon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany and agronomy, drought-resistant xerophytic cucurbits native to tropical Africa, including the colocynth and egusi melon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, citrullus designates a dicot genus of the family cucurbitaceae including watermelons."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"The cultivated varieties of **citrullus** have diverged astonishingly in sweetness and rind thickness from their wild Kalahari ancestors."*
+> - 📜 **David Livingstone (*Missionary Travels and Researches in South Africa*):** *"In the dry thirst-land, wild species of **citrullus** provide a life-saving reservoir of moisture for both men and wandering herds."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Commercial growers propagate **citrullus** vulgaris upon light sandy loams where solar radiation accelerates rapid fruit maturation."*

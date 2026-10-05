@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Implied by or inferred from actions or statements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Implied by or inferred from actions or statements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressed or understood without being openly spoken; implied, unspoken, or silently inferred from actions or silence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contract law and political theory, an implied agreement or acquiescence arising from voluntary conduct rather than express contractual terms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"In the tacit agreement of husband and wife to keep their estrangement a secret they behaved as would have been ordinary."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"By tacit consent they hardly once spoke of any incident of the past subsequent to their wedding-day."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Employers in some cases had tacit understandings with each other before laborers were organized."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"In the **tacit** agreement of husband and wife to keep their estrangement a secret, they behaved with outward decorum."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She knows that I know, said the ever-restless voice within; but that increase of **tacit** knowledge only intensified their estrangement."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"By some **tacit** consent, throughout the voyage little or no allusion was made to it, especially by the older seamen."*

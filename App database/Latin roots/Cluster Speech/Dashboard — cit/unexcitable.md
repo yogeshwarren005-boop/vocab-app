@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not easily excited.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not easily excited.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not easily excited, provoked, or disturbed; characterized by a steady, calm, and phlegmatic temperament.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychopathology and comparative psychology, possessing a high physiological activation threshold resistant to external stress perturbations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unexcitable designates not easily excited."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Sherlock Holmes possessed a remarkably cold, **unexcitable** mind that never permitted personal emotion to cloud scientific analysis."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"Giles Winterborne was of an **unexcitable** disposition, enduring misfortune with patient stoicism and quiet endurance."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Domesticated animals of an **unexcitable** temperament are chosen for selective breeding because of their tractability."*

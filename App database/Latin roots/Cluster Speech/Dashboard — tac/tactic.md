@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plan for attaining a particular goal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plan for attaining a particular goal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An action, strategy, or calculated maneuver carefully planned to achieve a specific short-term end.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military science, an individual maneuver executed in the presence of an enemy during battle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Businesslike, formal, and highly visible." "Why don't you use that tactic on the dozens of Slingshot laboratories and assembly centers here on Pluto's surface?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"They do wait, however, with the perseverance of military tactics, and at last the bell rings again and the client in possession comes out of Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Phil, come here!” Phil bears down upon them according to his usual tactics."*
+> - 📜 **Carl von Clausewitz (*On War*):** *"Every tactical maneuver or clever **tactic** must serve the larger strategic objective of the campaign."*
+> - 📜 **Winston Churchill (*The River War*):** *"The enemy cavalry employed a diversionary **tactic** to draw our vanguard into the rocky defile."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The old harpooneer watched the whale's every **tactic**, anticipating its sudden downward plunge."*

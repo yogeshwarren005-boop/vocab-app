@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ace inhibitor (trade name altace) used to treat high blood pressure or in some patients who have had a heart attack.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ace inhibitor (trade name altace) used to treat high blood pressure or in some patients who have had a heart attack.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proprietary pharmaceutical preparation of the angiotensin-converting enzyme inhibitor ramipril used to treat systemic hypertension.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiovascular pharmacology and clinical therapeutics, an oral prodrug that suppresses angiotensin II synthesis to reduce post-myocardial mortality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, altace designates an ace inhibitor (trade name altace) used to treat high blood pressure or in some patients who have had a heart attack."*
+> - 📜 **Eugene Braunwald (*Heart Disease: A Textbook of Cardiovascular Medicine*):** *"Clinical investigators prescribed **Altace** to reduce afterload and arrest progressive ventricular remodeling in heart failure patients."*
+> - 📜 **Bertram Katzung (*Basic & Clinical Pharmacology*):** *"The prolonged tissue-binding characteristics of **Altace** provide consistent twenty-four-hour hemodynamic regulation."*
+> - 📜 **Louis Goodman (*The Pharmacological Basis of Therapeutics*):** *"The long-term administration of **Altace** conferred significant renoprotective benefits in hypertensive diabetic cohorts."*

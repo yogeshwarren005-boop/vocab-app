@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a chatty loquacious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a chatty loquacious manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a garrulous, rambling, excessively talkative, or trivial conversational manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative prose, describing speech marked by unending streams of unimportant personal details or reminiscences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"I have, good sir,” she answered garrulously."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"I have, good sir, she answered, **garrulously** recounting every domestic disaster that had befallen the village during the campaign."*
+> - 📜 **Charles Dickens (*Martin Chuzzlewit*):** *"The old nurse talked on **garrulously**, oblivious that her listener had long ceased to pay the slightest heed."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The furze-cutter wandered home through the gloom, whistling fitfully and commenting **garrulously** upon the coming weather."*

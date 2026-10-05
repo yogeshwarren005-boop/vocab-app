@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not restricted to a particular religious denomination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not restricted to a particular religious denomination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not restricted to, affiliated with, or sponsored by any specific religious denomination or sect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In religious sociology and institutional education, welcoming diverse faith traditions without adherence to sectarian doctrine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nondenominational designates not restricted to a particular religious denomination."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The frontier community erected a **nondenominational** meetinghouse where itinerant preachers of all persuasions addressed the pioneers."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"True mystical fellowship is fundamentally **nondenominational**, transcending the institutional boundaries of historical churches."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"Public civic institutions must maintain a strictly **nondenominational** character to foster inclusive civic solidarity."*

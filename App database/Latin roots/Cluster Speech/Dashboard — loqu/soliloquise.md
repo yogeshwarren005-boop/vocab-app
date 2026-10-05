@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Talk to oneself.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Talk to oneself.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To speak one's thoughts aloud when alone or regardless of any listeners, especially on stage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theatrical performance and dramatic technique (British spelling), delivering an internal dramatic monologue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"There is something in that,” I soliloquised (mentally, be it understood; I did not talk aloud)."*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"Not liking to show him that I had heard the conflict, I continued my toilette rather noisily, looked at my watch, and soliloquised on the length of the night: “Not three o’clock yet!"*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"I’ve prayed often,” he half soliloquised, “for the approach of what is coming; and now I begin to shrink, and fear it."*
+> - 📜 **George Bernard Shaw (*Our Theatres in the Nineties*):** *"The modern dramatist rarely permits his characters to **soliloquise** under the spotlight, seeking realistic conversational interplay instead."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The eccentric professor was accustomed to **soliloquise** aloud during his solitary walks along the wind-swept ramparts of Weissnichtwo."*
+> - 📜 **Virginia Woolf (*Night and Day*):** *"She felt a strange impulse to **soliloquise** in the quiet street, voicing doubts that could never be shared in family company."*

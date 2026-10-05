@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sudden and strong.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sudden and strong.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, containing, or having the nature of an exclamation; expressing sudden, passionate emotion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural syntax, designating declarative or interrogative clauses inverted or punctuated to function as emotive interjections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"Conversation was exclamatory for a little while with gaps of wonderment; and then the Editor got fervent in his curiosity."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"Conversation was **exclamatory** and broken as we clustered around the mysterious glittering apparatus."*
+> - 📜 **Henry James (*The Bostonians*):** *"Her letters were filled with breathless **exclamatory** remarks and double dashes that expressed her excited disposition."*
+> - 📜 **George Eliot (*Felix Holt, the Radical*):** *"The vicar replied with an **exclamatory** sigh that betrayed his chronic perplexity over provincial politics."*

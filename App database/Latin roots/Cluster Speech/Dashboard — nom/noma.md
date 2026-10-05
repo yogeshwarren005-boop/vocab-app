@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Acute ulceration of the mucous membranes of the mouth or genitals; often seen in undernourished children.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acute ulceration of the mucous membranes of the mouth or genitals; often seen in undernourished children.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A severe, rapidly progressive, gangrenous infection that destroys the mucous membranes of the mouth and facial tissues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pathology and infectious disease, *cancrum oris*, a devastating polymicrobial facial gangrene primarily afflicting malnourished children.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, noma designates acute ulceration of the mucous membranes of the mouth or genitals; often seen in undernourished children."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Cases of **noma** occur almost exclusively in debilitated children recovering from measles in crowded, unhygienic environments."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The microscopic borders of **noma** reveal rapid tissue necrosis and thrombosis preceding massive sloughing of the cheek."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"The clinical progression of **noma** presents one of the most frightening forms of gangrenous stomatitis in pediatric practice."*

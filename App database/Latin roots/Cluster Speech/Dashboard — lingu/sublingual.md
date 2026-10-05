@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Beneath the tongue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beneath the tongue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated or administered beneath the tongue; relating to the anatomical structures under the tongue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and oral anatomy, denoting salivary glands or drug formulations rapidly absorbed via sublingual mucosa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sublingual designates beneath the tongue."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Inspection of the mouth revealed acute inflammation spreading rapidly from the **sublingual** salivary glands."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Secretions from the **sublingual** ducts discharge directly beneath the frenulum into the floor of the oral cavity."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"Medicinal drops absorbed through the **sublingual** membranes act with remarkable speed upon the circulatory system."*

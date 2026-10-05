@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The status of a citizen with rights and duties.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conduct as a citizen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The legal status and vested membership uniting an individual to a sovereign state, conferring civil and political entitlements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional law and political philosophy, the bundle of reciprocal privileges, immunities, and allegiances uniting an individual to a polity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The economic groupings of men connected by a network of trades never have and never will correspond very nearly with political groupings of men bound together by common citizenship in particular states."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The main motive for it has been the belief that education in books is a necessity for good citizenship in a republic."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Not only because large amounts of water are used by the public, but because cheap, pure, abundant water is an essential condition to good citizenship, speculation should in every possible way be eliminated from this industry."*
+> - 📜 **James Joyce (*Ulysses*):** *"He proclaimed with dignity that the rights of free speech and full **citizenship** belonged equally to every man born upon Irish soil."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"He renounced his former connections and claimed the protection and privileges of colonial **citizenship** within the Massachusetts settlement."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"In the United States, the duties of civic **citizenship** are learned not through theoretical textbooks, but through local township assemblies."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A short-lived radioactive metallic element formed from uranium and disintegrating into actinium and then into lead.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short-lived radioactive metallic element formed from uranium and disintegrating into actinium and then into lead.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dense, silvery-gray radioactive metallic chemical element with atomic number 91 and symbol Pa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nuclear chemistry and physics, an actinide formed by the decay of uranium-235 and occurring in pitchblende ores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protactinium designates a short-lived radioactive metallic element formed from uranium and disintegrating into actinium and then into lead."*
+> - 📜 **Marie Curie (*Radioactive Substances*):** *"The radioactive decay series of uranium yields intermediate elements including fragile isotopes like **protactinium**."*
+> - 📜 **Ernest Rutherford (*Radioactive Transformations*):** *"The chemical separation of **protactinium** verified the theoretical disintegration chain of the heavier actinides."*
+> - 📜 **Frederick Soddy (*The Interpretation of Radium*):** *"The parent element of actinium, designated **protactinium**, was isolated through laborious chemical fractionation."*

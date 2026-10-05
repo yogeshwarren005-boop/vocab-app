@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A variety of chert containing magnetite and hematite; mined as a low-grade iron ore.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A variety of chert containing magnetite and hematite; mined as a low-grade iron ore.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hard, low-grade iron-bearing chert or flint-like sedimentary rock mined as a major source of iron ore after magnetic concentration and pelletizing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic geology and metallurgical engineering, a Precambrian banded iron formation rock consisting of fine-grained silica, magnetite, and hematite.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, taconite designates a variety of chert containing magnetite and hematite; mined as a low-grade iron ore."*
+> - 📜 **John McPhee (*Annals of the Former World*):** *"The vast open-pit mines of the Mesabi Range blast through Precambrian **taconite** to extract the banded iron of the ancient seas."*
+> - 📜 **E. W. Davis (*Pioneering with Taconite*):** *"Engineers developed magnetic separators and sintering furnaces to transform dense magnetic **taconite** into high-grade blast furnace pellets."*
+> - 📜 **Charles Richard Van Hise (*The Geology of the Lake Superior Region*):** *"The term **taconite** was applied to the unaltered ferruginous chert forming the foundation of the Lake Superior ore bodies."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Migratory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Migratory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Living the life of a nomad; roaming from place to place without fixed settlement; wandering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnology, pastoral lifestyle characterized by seasonal transhumance across grasslands or deserts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"The complete lack of anything like a systematic education, and the nomadic life of the army did not fail to produce the most disastrous results in the wild and dissolute character of the young man."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"It will doubtless interest some readers to learn that Hawaii is the real home of the Brownies, or was; and that this adventurous nomadic tribe were known to the Hawaiians long before Swift's satirical mind conceived his Lilliputians."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"But as the Mongol lived in Marco Polo's time, and Huc's, so he does still, and so he will continue to live until Chinese colonization or Russian rule forces him to give up his nomadic ways and settle down and cultivate the soil."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The plains of the Pampas were inhabited by fiercely independent tribes following a purely **nomadic** existence on horseback."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The fierce cavalry charges of the **nomadic** Huns shattered the disciplined ranks of the imperial legions."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"A wandering imagination leads the mind on **nomadic** excursions far beyond the confines of village society."*

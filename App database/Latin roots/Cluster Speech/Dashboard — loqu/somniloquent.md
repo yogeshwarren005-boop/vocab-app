@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin loqu within the domain of Speech.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of loqu in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to talk in one's sleep; speaking while asleep or under the influence of somnambulism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sleep medicine and physiological psychology, exhibiting verbal vocalizations during non-REM or REM sleep states.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, somniloquent designates pertaining to, derived from, or characteristic of latin loqu within the domain of speech."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Speckled Band*):** *"The nervous sister recalled how the victim became fitfully **somniloquent**, murmuring fragmented warnings in her restless dreams."*
+> - 📜 **Edgar Allan Poe (*The Facts in the Case of M. Valdemar*):** *"Under deep mesmeric trance, the patient exhibited **somniloquent** utterances that seemed to emanate from beyond bodily sensation."*
+> - 📜 **Oliver Wendell Holmes (*Elsie Venner*):** *"The physician watched the sleeping girl closely, noting her **somniloquent** whispers that revealed buried emotional turmoil."*

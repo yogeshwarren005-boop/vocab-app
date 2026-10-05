@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of government in which the ruler is an absolute dictator (not restricted by a constitution or laws or opposition etc.).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of government in which the ruler is an absolute dictator (not restricted by a constitution or laws or opposition etc.).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of autocratic government where absolute sovereign power is concentrated in a single ruler or ruling faction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political theory, an autocratic regime lacking institutional checks, independent judiciaries, or competitive elections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"That certain sultanism of his brain, which had otherwise in a good degree remained unmanifested; through those forms that same sultanism became incarnate in an irresistible dictatorship."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"I should have associated my son in the Empire; my dictatorship would have been finished, and his constitutional reign would have begun."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"That certain sultanism of his brain, which had otherwise in a good degree remained unmanifested; through those forms that same sultanism became incarnate in an irresistible dictatorship."*
+> - 📜 **Thomas Hobbes (*Leviathan*):** *"The supreme power vested in an absolute sovereign or temporary **dictatorship** must remain undivided to prevent civil discord."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Julius Caesar transformed the temporary crisis office of **dictatorship** into a permanent monarchical autocracy."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"When equality descends into administrative despotism, a centralized bureaucratic **dictatorship** readily takes root."*

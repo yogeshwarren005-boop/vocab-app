@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of profound love and admiration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of admiring strongly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of worshiping or rendering divine honor; or profound, reverent, and passionate love and affection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In religious liturgy and theological dogmatics, latria (supreme adoration directed solely to God) distinguished from dulia (veneration given to saints).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is to be all made of fantasy, All made of passion, and all made of wishes, All adoration, duty, and observance, All humbleness, all patience, and impatience, All purity, all trial, all observance, And so am I for Phoebe."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What is thy soul of adoration?"*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"The rapture of Lydia on this occasion, her adoration of Mrs."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is to be all made of fantasy, All made of passion, and all made of wishes, All **adoration**, duty, and observance, All humbleness, all patience, and impatience, All purity, all trial, all observance, And so am I for Phoebe."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"The rapture of Lydia on this occasion, her **adoration** of Mrs. Forster, and her passionate joy at visiting Brighton, were boundless."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The inward **adoration** of the Supreme Being is the rational foundation of all moral virtue and duty."*

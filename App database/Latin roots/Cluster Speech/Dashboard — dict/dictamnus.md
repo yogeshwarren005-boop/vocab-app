@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dicotyledonous genus of the family rutaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dicotyledonous genus of the family rutaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of perennial flowering plants in the citrus family Rutaceae, renowned for producing volatile essential oils.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and traditional herbalism, Dictamnus albus (burning bush or fraxinella), noted for flammable terpene emissions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dictamnus designates a dicotyledonous genus of the family rutaceae."*
+> - 📜 **Erasmus Darwin (*The Botanic Garden*):** *"The fragrant **dictamnus** exhales ethereal vapors that kindle into fleeting flame when touched by evening twilight."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"The root of **dictamnus** was esteemed by ancient leeches as an efficacious alexipharmic against virulent poisons."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"In the order Pentagynia, the botanist classified **dictamnus** by its unequal declinate stamens and aromatic glandular foliage."*

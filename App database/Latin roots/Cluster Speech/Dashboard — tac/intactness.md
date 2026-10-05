@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being unimpaired.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being unimpaired.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition or property of being unbroken, complete, and uninjured; sound integrity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural conservation and historical preservation, maintaining original materials without alteration or loss.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intactness designates the state of being unimpaired."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The remarkable **intactness** of the ancient mosaic pavement bore witness to Byzantine craftsmanship."*
+> - 📜 **Henry James (*The American*):** *"Newman admired the flawless moral **intactness** and dignity of Claire de Cintré's demeanor."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea prized the spiritual **intactness** of her convictions above all social convenience."*

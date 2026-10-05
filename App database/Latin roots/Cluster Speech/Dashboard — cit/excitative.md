@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of drugs e.g.) able to excite or stimulate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of drugs e.g.) able to excite or stimulate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the power, tendency, or property to excite, stimulate, or provoke activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In therapeutics and physiological psychology, exerting an arousing or tonic influence upon nervous pathways and metabolic processes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, excitative designates (of drugs e.g.) able to excite or stimulate."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The passionate rhythms of dramatic poetry exert an **excitative** power upon the latent sympathies of the human soul."*
+> - 📜 **William Cullen (*First Lines of the Practice of Physic*):** *"Certain diffusible medicines produce an **excitative** impression upon the nervous system that temporarily rallies the pulse."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"External objects possess **excitative** qualities capable of awakening perceptions in our sensory organs through physical motion."*

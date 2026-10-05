@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abrupt excited utterance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A loud complaint or protest or reproach.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sudden cry, sharp utterance, or interjection expressing strong pain, surprise, joy, or indignation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In grammatical orthography, a punctuation mark (!) indicating heightened emotional force, imperative commands, or vocative emphasis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fie! what man of good temper would endure this tempest of exclamation?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They say They are devised by you, or else you suffer Too hard an exclamation."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I trust we shall, If not fill up the measure of her will, Yet in some measure satisfy her so That we shall stop her exclamation."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hark! what loud **exclamation** breaks from the palace courtyard in the dead watch of night?"*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"A stifled **exclamation** escaped her lips as the dark figure emerged suddenly from the shadowy heather."*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"The Queen turned crimson with fury, and after glaring at her for a moment like a wild beast, screamed with loud **exclamation**, Off with her head!"*

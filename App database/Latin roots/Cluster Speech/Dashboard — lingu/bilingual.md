@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who speaks two languages fluently.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Using or knowing two languages.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fluent in two distinct languages; expressed, written, or conducted in two languages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociolinguistics and cognitive psychology, involving dual-language proficiency or bilingual cognitive control mechanisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bilingual designates a person who speaks two languages fluently."*
+> - 📜 **Virginia Woolf (*The Voyage Out*):** *"Living abroad among cosmopolitan travelers had made her effortlessly **bilingual**, sliding between English and French without hesitation."*
+> - 📜 **H. G. Wells (*The New Machiavelli*):** *"The border province supported a flourishing **bilingual** press that mirrored its divided political loyalties."*
+> - 📜 **Henry James (*The Ambassadors*):** *"The polished secretary addressed the diplomatic gathering in fluent **bilingual** remarks that set all parties at ease."*

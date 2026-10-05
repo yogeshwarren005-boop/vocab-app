@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not included within the realm of language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not included within the realm of language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Operating or existing outside the formal realm, structures, or rules of human verbal language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In semiotics and pragmatics, denoting contextual, situational, or bodily factors that affect the interpretation of an utterance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extralinguistic designates not included within the realm of language."*
+> - 📜 **Roman Jakobson (*Selected Writings: Word and Language*):** *"A complete speech act inevitably incorporates **extralinguistic** components, such as spatial posture and shared historical context."*
+> - 📜 **Bertrand Russell (*An Inquiry into Meaning and Truth*):** *"The truth value of an empirical assertion depends fundamentally upon **extralinguistic** facts observable in the physical world."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"Sign systems cannot function without reference to an **extralinguistic** reality to which the interpretant points."*

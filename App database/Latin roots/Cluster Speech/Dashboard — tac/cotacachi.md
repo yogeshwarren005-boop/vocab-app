@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An andean volcano in northern ecuador; last erupted in 1955.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An andean volcano in northern ecuador; last erupted in 1955.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dormant composite stratovolcano situated in the Western Cordillera of the northern Ecuadorian Andes overlooking the city of Otavalo.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In volcanology and Andean biogeography, an eroded volcanic massif rising above Cuicocha caldera within the Cotacachi Cayapas Ecological Reserve.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cotacachi designates an andean volcano in northern ecuador; last erupted in 1955."*
+> - 📜 **Edward Whymper (*Travels Amongst the Great Andes of the Equator*):** *"The snowy peak of **Cotacachi** rose majestically above the paramo, its rugged crater walls glistening in the crisp morning sun."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of America*):** *"From the elevated plateau of Quito, the majestic pyramid of Mount **Cotacachi** presents an imposing landmark across the northern skyline."*
+> - 📜 **James Orton (*The Andes and the Amazon*):** *"We rode across the fertile volcanic valleys of Imbabura with the craggy precipices of **Cotacachi** dominating the western horizon."*

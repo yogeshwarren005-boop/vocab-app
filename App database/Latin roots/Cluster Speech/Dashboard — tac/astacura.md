@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Crayfish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Crayfish.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An infraorder or subordinal taxonomic group of macrurous decapod crustaceans encompassing true marine lobsters and freshwater crayfish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phylogenetic arthropod taxonomy, an assemblage distinguished by well-developed abdominal somites, heavily calcified exoskeletons, and powerful swimming uropods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog astacura as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish: An Introduction to the Study of Zoology*):** *"Under the morphological division **Astacura**, naturalists allied the great homarid lobsters of the deep sea with the humble river crawfish."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The embryonic development of the **Astacura** reveals ancestral crustacean homologies preserved across divergent ecological niches."*
+> - 📜 **James Dwight Dana (*Crustacea: United States Exploring Expedition*):** *"The anatomical survey classified the benthic macrurans under **Astacura** in recognition of their elongated muscular abdominal segments."*

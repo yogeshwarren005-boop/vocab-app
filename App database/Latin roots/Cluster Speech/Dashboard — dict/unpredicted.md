@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without warning or announcement; ; - m.a.d.howe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without warning or announcement; ; - m.a.d.howe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring suddenly or developing unexpectedly without advance forewarning, anticipation, or prior prognostic calculation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statistical mechanics and meteorology, deviating fundamentally from probabilistic models or deterministic forecast trajectories.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unpredicted designates without warning or announcement; ; - m.a.d.howe."*
+> - 📜 **Thomas Henry Huxley (*Collected Essays*):** *"An **unpredicted** anomaly in the geological strata compelled the naturalists to revise their temporal chronology."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The human mind constantly encounters **unpredicted** sensations that disrupt established currents of habitual thought."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"An **unpredicted** variation in plumage appeared suddenly among the offspring of the isolated island finches."*

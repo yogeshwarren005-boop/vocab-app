@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A politician who is running for public office.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A politician who is running for public office.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is proposed, selected, or named as a candidate for an election, appointment, or award.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In corporate finance and electoral politics, a designated individual or entity holding securities or contesting public office.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Thomas Pinckney of South Carolina was the Federal nominee for Vice-President, and Aaron Burr of the Republicans."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"In the Presidential election of 1800 John Adams was the nominee for President and C."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Fillmore, who was the nominee on both the Whig and American tickets, was 874,534, and his electoral vote was eight; that of the State of Maryland."*
+> - 📜 **Abraham Lincoln (*Speeches and Letters*):** *"The party **nominee** addressed the crowded forum, pledging unswerving adherence to the principles of the founding fathers."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Once designated by the state convention, the **nominee** traversed the countryside soliciting the votes of farmers and laborers."*
+> - 📜 **Woodrow Wilson (*Congressional Government*):** *"The presidential **nominee** faced rigorous public examination regarding his past legislative record and financial associations."*

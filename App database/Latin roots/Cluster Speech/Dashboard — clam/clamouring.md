@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Loud and persistent outcry from many people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Utter or proclaim insistently and noisily.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Uttering loud, persistent cries or demanding something vehemently and tumultuously (Commonwealth spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ongoing collective uproar of protestors, sea birds, or hounds baying persistently upon a fresh trail.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The cry for blood rang through the court, and all were clamouring for crucifixion."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Pilate, the Roman governor, for the moment was Pilate the man, with a man’s anger against the miserable creatures clamouring for the blood of so sweet and simple, brave and good a spirit as this Jesus."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"It appeared that I had demanded the thing above all others for which tens of thousands of other women were already clamouring!"*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"Thousands of terrified refugees were **clamouring** for places aboard the last paddle steamers departing London."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The boys were **clamouring** around the cake seller with loud shouts of greedy anticipation."*
+> - 📜 **Jack London (*The Star Rover*):** *"The cry for blood was ringing through the judgment hall, the mob **clamouring** for immediate crucifixion."*

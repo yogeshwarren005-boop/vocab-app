@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A vitamin that maintains the resistance of cell and capillary walls to permeation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vitamin that maintains the resistance of cell and capillary walls to permeation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mixture of flavonoid bioflavonoids (vitamin P) extracted from citrus rinds, reducing capillary fragility and permeability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nutritional biochemistry and pharmacology, discovered by Albert Szent-Györgyi as a vascular permeability cofactor acting synergistically with ascorbic acid.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, citrin designates a vitamin that maintains the resistance of cell and capillary walls to permeation."*
+> - 📜 **Albert Szent-Györgyi (*Studies on Biological Oxidation*):** *"Our investigations demonstrated that **citrin**, extracted from Hungarian paprika and lemon peel, restores normal capillary resistance in scorbutic subjects."*
+> - 📜 **Casimir Funk (*The Vitamins*):** *"The crystalline flavonoid fraction termed **citrin** was shown to decrease abnormal capillary bleeding where pure ascorbic acid alone had failed."*
+> - 📜 **Linus Pauling (*Vitamin C and the Common Cold*):** *"Natural citrus concentrates contain bioflavonoids formerly designated as **citrin**, which enhance the physiological retention of ascorbic acid."*

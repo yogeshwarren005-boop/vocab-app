@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no predictive value.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no predictive value.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Failing or lacking the capacity to anticipate, forecast, or provide meaningful foresight concerning future events.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statistical epistemology and diagnostics, possessing no statistically significant correlation with criterion outcomes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unpredictive designates having no predictive value."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Ancient astrology remained essentially **unpredictive**, generating vague generalizations that failed under rigorous scrutiny."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"A speculative hypothesis that remains persistently **unpredictive** when confronted with experimental tests must be discarded."*
+> - 📜 **William James (*Pragmatism*):** *"Scholastic abstractions prove wholly **unpredictive** of concrete experiential reality, yielding neither practical guidance nor fruitful insight."*

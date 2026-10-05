@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of adjectives; placed before the nouns they modify.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of adjectives; placed before the nouns they modify.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Placed before or occurring immediately prior to a noun; relating to what precedes a name.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In syntax and grammar, modifying elements positioned attributively before the head noun in a noun phrase.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prenominal designates of adjectives; placed before the nouns they modify."*
+> - 📜 **Otto Jespersen (*A Modern English Grammar on Historical Principles*):** *"English strongly favors **prenominal** adjectives in descriptive phrases, whereas Romance idioms place them postpositively."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"The ordering of **prenominal** demonstratives and quantifiers adheres to strict psychological and grammatical hierarchies."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"In Germanic syntax, the compound modifier routinely takes a **prenominal** position, altering the phonetic stress of the clause."*

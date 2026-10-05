@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist in linguistics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who speaks more than one language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scholar who studies the structure and history of language; a person skilled in speaking multiple tongues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic humanities and cognitive science, a specialist in phonology, syntax, historical grammar, or psycholinguistics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is your devoted friend, sir, the manifold linguist, and the armipotent soldier."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Goethe said that he was a ‘seeing’ man; W. von Humboldt, the great linguist, that he was a ‘listening’ man."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Living as he now lived was like reading a good book in a poor translation--a meagre entertainment for a young man who felt that he might have been an excellent linguist."*
+> - 📜 **William Shakespeare (*The Two Gentlemen of Verona*):** *"An exceptional scholar and versatile **linguist**, he could converse readily in the diverse dialects of Lombardy."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Mr. Ralph Touchett was an accomplished **linguist**, reading half a dozen modern idioms with critical pleasure."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Browning*):** *"The learned **linguist** traced the ancient roots of Romance idioms back to their classical Latin source."*

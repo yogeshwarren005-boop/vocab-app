@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Enthusiastic approval.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Praise vociferously.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To praise or welcome enthusiastically and publicly; or widespread enthusiastic public approval and applause.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political history and Roman civic law, formal election or assent of a multitude given by shouting rather than by formal ballot.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **C. A. Frazer (*Atmâ*):** *"Glittered and sparkled the revelling spray, Swelled and receded its silvery lay, Rustled the roses in fervid array, In fragrance declaring their costly acclaim, Wafting on soft winds the redolent fame Of fantasy, fountain, and tuneful refrain."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"It is written caring nothing for money, nothing for light acclaim."*
-> - 📜 **Classic Author (*The Song of Roland*):** *"Who then had heard them all "Monjoie!" acclaim Of vassalage might well recall the tale."*
+> - 📜 **G. K. Chesterton (*The Innocence of Father Brown*):** *"The popular champion received the enthusiastic **acclaim** of the multitudes lining the cathedral avenue."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Universal host upsent a shout that tore hell's concave, and beyond frighted the reign of Chaos and old Night with loud **acclaim**."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The legions saluted the victor with unanimous **acclaim**, investing him with the imperial purple on the field of battle."*

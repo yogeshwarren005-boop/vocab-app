@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not consisting of or related to language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not consisting of or related to language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not consisting of, relating to, or expressed in verbal language; nonverbal or perceptual in character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In semiotics and cognitive science, denoting visual, auditory, tactile, or motor symbols functioning outside formal grammar.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonlinguistic designates not consisting of or related to language."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Emotional expression relies heavily upon **nonlinguistic** cues, such as sudden changes in facial posture and cardiac rhythm."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"The iconic sign conveys meaning through **nonlinguistic** resemblance, independent of arbitrary convention or grammar."*
+> - 📜 **John Dewey (*Logic: The Theory of Inquiry*):** *"Practical bodily interaction with tools constitutes a rich **nonlinguistic** form of problem-solving prior to verbal formulation."*

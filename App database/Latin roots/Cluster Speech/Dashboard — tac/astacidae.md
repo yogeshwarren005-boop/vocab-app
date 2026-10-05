@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Crayfish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Crayfish.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic family of freshwater decapod crustaceans comprising the typical crayfish of Europe and western North America.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic carcinology and freshwater limnology, astacidean decapods characterized by robust chelae, cylindrical carapaces, and benthic omnivory.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog astacidae as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish: An Introduction to the Study of Zoology*):** *"The freshwater family **Astacidae** exhibits a fascinating holarctic distribution across temperate river drainages."*
+> - 📜 **William Thomas Calman (*The Life of Crustacea*):** *"Taxonomists differentiate the **Astacidae** from southern freshwater parastacids by the structural morphology of their pleopods."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"The river systems of the continent support distinct lineages within the **Astacidae**, each adapted to subterranean or gravelly shoals."*

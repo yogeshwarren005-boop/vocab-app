@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A phrase that can function as the subject or object of a verb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or constituting or bearing or giving a name.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Existing in name only, not in reality; very small or far below the real value or cost.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economics, grammar, and aerospace engineering, referring to face values unadjusted for inflation, noun phrases, or expected operational parameters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Part of the remainder she was obliged to expend in winter clothing, leaving only a nominal sum for the whole inclement season at hand."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"It is for sale, but its value has not been adequately appreciated, and I would not part with it.' 'What is its price?' 'I have done affixing any nominal sum."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"If I delivered up the dynamite, they would give me a nominal punishment of thirty days in the dungeon and then make me a trusty in the prison library."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The emperor retained only **nominal** sovereignty over the western provinces, where barbarian chieftains exercised actual power."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The **nominal** price of commodities in gold fluctuated wildly while their real value in human labor remained constant."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"A magistrate who possesses merely **nominal** authority cannot enforce judicial decrees against resistant popular factions."*

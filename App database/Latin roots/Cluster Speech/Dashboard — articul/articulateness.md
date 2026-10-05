@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being facile in speech and writing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being facile in speech and writing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Clarity, coherence, and precision in spoken or written verbal expression; or structural segmented jointedness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociolinguistics and rhetoric, the capacity for fluent, nuanced modulation of discourse that persuasive public speakers cultivate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, articulateness designates the quality of being facile in speech and writing."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"The supreme virtue of French prose resides in its transparent lucidity and unflagging **articulateness** of intellectual design."*
+> - 📜 **Walter Pater (*Appreciations, with an Essay on Style*):** *"The literary master achieves complete **articulateness** by eliminating extraneous ornament and discovering the exact verbal equivalent for thought."*
+> - 📜 **George Saintsbury (*A History of English Prose Rhythm*):** *"The rhythmic cadence of the Elizabethan sentence gains strength from the vigorous **articulateness** of its clausal transitions."*

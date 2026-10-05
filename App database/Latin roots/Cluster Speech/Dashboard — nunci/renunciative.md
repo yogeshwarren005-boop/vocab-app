@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used especially of behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used especially of behavior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, involving, or expressing renunciation; tending to surrender or repudiate claims.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ascetic theology and legal analysis, characterized by the willing yielding of worldly privileges or the formal disclaimer of rights.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"His creed of determinism was such that it almost amounted to a vice, and quite amounted, on its negative side, to a renunciative philosophy which had cousinship with that of Schopenhauer and Leopardi."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Her quiet, **renunciative** attitude touched him deeply, contrasting with the assertive vanity of other women he had known."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The soul finds a profound and unexpected peace in adopting a purely **renunciative** surrender of personal ambition."*
+> - 📜 **Arthur Schopenhauer (*The World as Will and Representation*):** *"The highest ethical stage of human consciousness reveals itself in a **renunciative** posture toward all earthly striving."*

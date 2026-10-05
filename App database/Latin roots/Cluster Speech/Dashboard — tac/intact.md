@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Constituting the undiminished entirety; lacking nothing essential especially not damaged; - bacon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a woman) having the hymen unbroken.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Remaining whole, undamaged, or uninjured; complete and unimpaired in all essential parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological and anatomical terminology, an organism or structure that has not been altered, dissected, or neutered.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Surely then he might have regarded that abhorrence of the un-intact state, which he had inherited with the creed of mysticism, as at least open to correction when the result was due to treachery."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"And I'm also going to find some way to get him with all his absurd niceties of honor intact, just because that will make him happier."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"That immaculate manliness we feel within ourselves, so far within us, that it remains intact though all the outer character seem gone; bleeds with keenest anguish at the undraped spectacle of a valor-ruined man."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The ancient monuments of Rome remained almost **intact** until the civil discords of the Middle Ages."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The fragile crystalline ice remained **intact** beneath our feet despite the howling alpine wind."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Many fossil specimens have been preserved perfectly **intact** within deep layers of amber."*

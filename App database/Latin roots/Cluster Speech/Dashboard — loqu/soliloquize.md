@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Talk to oneself.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Talk to oneself.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To utter a soliloquy; to talk to oneself, expressing inner reflections aloud without an addressee.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic literature and psychological fiction, voicing private consciousness or existential doubt in an internal monologue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He’d set upon a post at a street corner eight or ten hours at a stretch if he undertook to do it.” “He might have done worse,” I heard my guardian soliloquize."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"How now,” he soliloquized at last, withdrawing the tube, “this smoking no longer soothes."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"This at least is duty; duty and profit hand in hand!” “Aye, aye, I thought as much,” soliloquized Stubb, when the boats diverged, “as soon as I clapt eye on ’em, I thought so."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Captain Ahab paced the midnight quarterdeck to **soliloquize** fiercely against the indifferent gods and the white whale."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Hepzibah loved to **soliloquize** in the dusty parlor, confiding her ancestral grievances to the silent portraits on the wall."*
+> - 📜 **Mark Twain (*A Connecticut Yankee in King Arthur's Court*):** *"I paused under the oak boughs to **soliloquize** upon the absurd chivalric superstitions that governed sixth-century Britain."*

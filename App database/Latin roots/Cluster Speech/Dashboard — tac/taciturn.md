@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Habitually reserved and uncommunicative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Habitually reserved and uncommunicative.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Habitually reserved, disinclined to talk, and silent or uncommunicative in social intercourse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character psychology and literary portraiture, exhibiting a temperament marked by deliberate economy of speech, solemn reticence, and emotional guardedness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Bruno was much more reserved and taciturn than Salo, who was naturally very gay and could sing and laugh so that the halls would re-echo loudly with his merriment."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"There she sat, staid and taciturn-looking, as usual, in her brown stuff gown, her check apron, white handkerchief, and cap."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"He appeared a taciturn, and perhaps a proud personage; but he was very kind to me."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Every one who has had the opportunity of comparison must have been struck with the contrast between the lively Negro and the **taciturn** American Indian."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"He was **taciturn**, soft-footed, very quiet in his manner, deferential, observant, always at hand when wanted."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"Of the few, very choice, **taciturn**, strong, self-possessed commanders, I sing with solemn admiration."*

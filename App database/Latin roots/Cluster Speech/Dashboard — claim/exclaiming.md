@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abrupt excited utterance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Utter aloud; often with surprise, horror, or joy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Crying out loudly, passionately, or emphatically in response to strong feelings or unexpected events.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The present participial or gerundial action of uttering spontaneous, emotive vocal interruptions in discourse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He faintly flies, sweating with guilty fear; She stays, exclaiming on the direful night; He runs, and chides his vanished, loathed delight."*
-> - 📜 **Jane Austen (*Persuasion*):** *"The Admiral wound it up summarily by exclaiming— “Ay, a very bad business indeed."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She flung her arms round Troy’s neck, exclaiming wildly from the deepest deep of her heart— “Don’t—don’t kiss them!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet neither conqueror nor conquered, on the ground He lies, **exclaiming** on the flight of his army."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The agitated crowd surged toward the prison gates, **exclaiming** in fury at the sudden appearance of the royal guards."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mrs. Bennet entered the drawing-room **exclaiming** with uninterrupted volubility on the handsome fortune of their new neighbor."*

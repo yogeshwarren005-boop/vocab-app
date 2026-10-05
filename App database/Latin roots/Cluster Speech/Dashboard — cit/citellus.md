@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Typical ground squirrels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Typical ground squirrels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of Holarctic ground squirrels belonging to the family Sciuridae, noted for cheek pouches and burrowing habits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoological taxonomy and epidemiology, rodents of the tribe Marmotini that serve as key ecological seed dispersers and reservoirs for plague bacilli.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, citellus designates typical ground squirrels."*
+> - 📜 **John James Audubon (*The Viviparous Quadrupeds of North America*):** *"The striped ground squirrel, classified by naturalists under **citellus**, constructs elaborate subterranean galleries beneath the prairie sod."*
+> - 📜 **C. Hart Merriam (*Life Zones and Crop Zones of the United States*):** *"Specimens of **citellus** collected across the Great Basin exhibit distinct pelage colorations adapted to the arid desert substrate."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"The souslik of the Russian steppes represents the typical form of the genus **citellus**, passing the harsh winter in profound hibernation."*

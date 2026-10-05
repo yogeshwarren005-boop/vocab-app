@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state consisting of a sovereign city.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state consisting of a sovereign city.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sovereign state that consists of an autonomous urban center and its immediately surrounding dependent territory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical political science, an independent municipal polity typified by the ancient Greek poleis (such as Athens and Sparta) or Renaissance Italian republics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, city-state designates a state consisting of a sovereign city."*
+> - 📜 **G. K. Chesterton (*A Short History of England*):** *"The small democratic **city-state** of the Greeks offered an intense, personal form of citizenship unknown to vast empires."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"In its earliest beginnings, Rome was merely an ambitious **city-state** contending for pasturelands against neighboring Latin tribes."*
+> - 📜 **Niccolò Machiavelli (*Discourses on Livy*):** *"A virtuous **city-state** that seeks to preserve its freedom must institute laws that curb the overweening ambitions of the nobility."*

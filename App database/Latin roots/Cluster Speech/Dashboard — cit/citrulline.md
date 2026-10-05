@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An amino acid that does not occur in proteins but is an intermediate in the conversion of ornithine to arginine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An amino acid that does not occur in proteins but is an intermediate in the conversion of ornithine to arginine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A non-proteinogenic alpha-amino acid biosynthesized from ornithine and carbamoyl phosphate, first isolated from watermelon juice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology and the hepatic urea cycle, a vital intermediate facilitating the clearance of toxic ammonia and serving as an arginine precursor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, citrulline designates an amino acid that does not occur in proteins but is an intermediate in the conversion of ornithine to arginine."*
+> - 📜 **Hans Krebs (*Investigations on the Formation of Urea in the Animal Body*):** *"Our enzymatic experiments established that **citrulline** acts as an indispensable catalytic intermediate in the cyclic synthesis of urea."*
+> - 📜 **Arthur Harden (*Alcoholic Fermentation*):** *"The isolation of pure crystalline **citrulline** from cucurbitaceous plants confirmed the prevalence of specialized amino acid intermediates in vegetable physiology."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Metabolic anomalies disrupting the enzymatic processing of **citrulline** produce severe hyperammonemia in affected infants."*

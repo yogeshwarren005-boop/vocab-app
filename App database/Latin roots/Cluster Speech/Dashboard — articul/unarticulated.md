@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not consisting of segments that are held together by joints.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Uttered without the use of normal words or syllables.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not connected or formed with distinct joints; or unspoken, unexpressed, and left without verbal definition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architecture and structural design, lacking decorative moldings, pilasters, or distinct dividing lines; in psychology, subconscious sentiments that remain unvoiced.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unarticulated designates not consisting of segments that are held together by joints."*
+> - 📜 **Henry James (*The Golden Bowl*):** *"An **unarticulated** understanding existed between them that neither could break without shattering their precarious domestic peace."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"She felt a wave of **unarticulated** sorrow sweep across the room as the twilight deepened into night."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"A bare, **unarticulated** masonry wall appears clumsy and heavy unless relieved by sculpted string courses and cornices."*

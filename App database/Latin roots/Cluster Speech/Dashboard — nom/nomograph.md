@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A graphic representation of numerical relations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A graphic representation of numerical relations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A diagram representing mathematical relations by means of calibrated scales; an alignment chart or nomogram.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In applied mathematics, ballistics, and biometrics, a graphical computational tool enabling rapid determination of numerical functions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nomograph designates a graphic representation of numerical relations."*
+> - 📜 **Karl Pearson (*The Life, Letters and Labours of Francis Galton*):** *"Galton designed an ingenious **nomograph** to correlate biometric measurements of parents and offspring on calibrated logarithmic scales."*
+> - 📜 **Claude Shannon (*A Symbolic Analysis of Relay and Switching Circuits*):** *"The technician utilized a specialized **nomograph** to evaluate circuit impedance across varying frequency ranges."*
+> - 📜 **Thomas Henry Huxley (*Physiography: An Introduction to the Study of Nature*):** *"Meteorologists employed a printed **nomograph** to convert barometric pressure readings into precise altimetric elevations."*

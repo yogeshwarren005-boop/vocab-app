@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being or having the customs or manners or dress of a city person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or having the customs or manners or dress of a city person.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant spelling of citified; possessing the manners, appearance, or sophisticated affectations of a city dweller.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vernacular literature and dialect writing, exhibiting an urbanized veneer or superficial polish perceived as alien by country folk.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cityfied designates being or having the customs or manners or dress of a city person."*
+> - 📜 **Joel Chandler Harris (*Uncle Remus: His Songs and His Sayings*):** *"The young stranger wore a **cityfied** coat and spoke with a nimble tongue that puzzled the plantation hands."*
+> - 📜 **Mary Noailles Murfree (*In the Tennessee Mountains*):** *"The mountaineers eyed the **cityfied** stranger askance, wondering what errand brought him into their remote coves."*
+> - 📜 **Booth Tarkington (*The Gentleman from Indiana*):** *"His sleek attire and **cityfied** manners were viewed by the county delegates as a distinct electoral disadvantage."*

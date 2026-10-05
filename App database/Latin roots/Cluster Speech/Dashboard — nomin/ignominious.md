@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (used of conduct or character) deserving or bringing disgrace or shame; - rachel carson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of conduct or character) deserving or bringing disgrace or shame; - rachel carson.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deserving or causing public disgrace, dishonor, shame, or humiliation; degrading.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military and political history, marked by utter loss of reputation, ignoble surrender, or shameful retreat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hath he not twit our sovereign lady here With ignominious words, though clerkly couched, As if she had suborned some to swear False allegations to o’erthrow his state?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And heavens and honour be witness that no want of resolution in me, but only my followers’ base and ignominious treasons, makes me betake me to my heels. [_Exit._] BUCKINGHAM."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Upon the desolate spot, where fate had placed me, I conceived myself far more happy than many, who, for ignominious crimes, were doomed to drag out their lives in solitary confinement with conscience ever biting as a corrosive canker."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Roman legions were compelled to pass under the yoke, suffering an **ignominious** capitulation before barbarian foes."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I was locked in the red-room as a punishment for rebellion, enduring an **ignominious** imprisonment in solitary terror."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The venerable monarch was dragged from his palace to undergo an **ignominious** trial before triumphant factionalists."*

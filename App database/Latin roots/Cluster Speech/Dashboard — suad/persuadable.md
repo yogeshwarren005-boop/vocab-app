@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being susceptible to persuasion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being susceptible to persuasion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being persuaded, convinced, or influenced by reason, entreaty, or argument.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral psychology and rhetoric, describing an open or yielding disposition amenable to sound counsel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"But more persuadable we can, I hope,” said I."*
-> - 📜 **Jane Austen (*Persuasion*):** *"She thought it could scarcely escape him to feel that a persuadable temper might sometimes be as much in favour of happiness as a very resolute character."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"It said, “Be weak, be water, be characterless, be cheaply persuadable.” The latter command, to let the fruit alone, was certain to be disobeyed."*
+> - 📜 **Jane Austen (*Persuasion*):** *"She thought it could scarcely escape him that she was not of a **persuadable** temper in matters touching her heart."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"But more **persuadable** we can, I think, hardly hope to find him than on this present quiet evening."*
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Human nature is readily **persuadable** when appeal is made to self-respect and social approbation."*

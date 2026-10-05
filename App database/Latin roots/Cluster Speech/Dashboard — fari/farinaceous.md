@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling starch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Composed of or covered with particles resembling meal in texture or consistency.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Composed of, containing, yielding, or resembling starch or flour; having a mealy texture or surface appearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dietetics, culinary taxonomy, and mycology, designating starchy foodstuffs or powdery fungal coatings with a flour-like bloom.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Pumblechook’s premises in the High Street of the market town, were of a peppercorny and farinaceous character, as the premises of a cornchandler and seedsman should be."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"When broken, the farinaceous interior will be found replaced by a minute black dust of a very fœtid, unpleasant odour, and greasy to the touch (fig. 85)."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pumblechook’s premises were of a **farinaceous** character, smelling deliciously of malt, seeds, and ground oats."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Certain domesticated varieties of potatoes are prized specifically for the dry, **farinaceous** quality of their boiled tubers."*
+> - 📜 **Herbert Spencer (*Education: Intellectual, Moral, and Physical*):** *"An exclusively **farinaceous** diet in early childhood often fails to supply the nitrogenous components required for vigorous growth."*

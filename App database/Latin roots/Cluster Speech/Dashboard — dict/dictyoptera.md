@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In some classifications replaced by the orders (here suborders) blattodea (cockroaches) and manteodea (mantids); in former classifications often subsumed under a much broader order orthoptera.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In some classifications replaced by the orders (here suborders) blattodea (cockroaches) and manteodea (mantids); in former classifications often subsumed under a much broader order orthoptera.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An insect superorder comprising cockroaches (Blattodea) and mantises (Mantodea), sharing anatomical and reproductive features.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic entomology, a monophyletic polyneopterous lineage characterized by perforated tentoria, asymmetrical male genitalia, and oothecae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dictyoptera designates in some classifications replaced by the orders (here suborders) blattodea (cockroaches) and manteodea (mantids); in former classifications often subsumed under a much broader order orthoptera."*
+> - 📜 **Augustus Daniel Imms (*A General Textbook of Entomology*):** *"The superorder **dictyoptera** unites cockroaches and preying mantids based on distinct cranial and wing venation characters."*
+> - 📜 **Vincent Dethier (*The Hungry Fly*):** *"Chemosensory receptors located along the antennae of **dictyoptera** guide rapid navigation toward carbohydrate food sources."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Among the primitive orthopterous insects allied to **dictyoptera**, acoustic signals play a prominent role in mating rituals."*

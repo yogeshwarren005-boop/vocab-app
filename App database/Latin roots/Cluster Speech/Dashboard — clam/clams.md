@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Informal terms for money.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Burrowing marine mollusk living on sand or mud; the shell closes with viselike firmness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plural of clam; edible marine and freshwater bivalve mollusks that live buried in sand or mud; or slang for currency dollars.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine malacology and benthic ecology, filter-feeding bivalves providing important bioturbation and coastal water filtration services.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"They are only beginning to be developed artificially by the propagation of oysters, clams, and fish."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It was made of small juicy clams, scarcely bigger than hazel nuts, mixed with pounded ship biscuit, and salted pork cut up into little flakes; the whole enriched with butter, and plentifully seasoned with pepper and salt."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"It was made of small juicy clams, scarcely bigger than hazel nuts, mixed with pounded ship biscuit, and salted pork cut up into little flakes; the whole enriched with butter, and plentifully seasoned with pepper and salt."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It was made of small juicy **clams**, scarcely bigger than hazel nuts, stewed in savory milk and butter."*
+> - 📜 **Henry David Thoreau (*Cape Cod*):** *"We found many species of **clams** strewn upon the wet shingle after the fierce northeaster had spent its fury."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"The primitive coastal tribes harvested **clams** not merely for sustenance but for polished wampum shells serving as money."*

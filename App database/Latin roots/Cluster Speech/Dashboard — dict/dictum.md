@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An authoritative declaration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An opinion voiced by a judge on a point of law not directly bearing on the case in question and therefore not binding.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal, authoritative pronouncement, maxim, or opinion expressed with profound weight and gravity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence (obiter dictum), an incidental remark or statement of law made by a judge not binding as precedent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In a federal case[10] the judge, in a brief and acute dictum, recognized the evil of a rate war that would result from threats of definite cuts."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"All things work together for good to them that love God," is 444:6 the dictum of Scripture."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"She said, "I am glad to know that the seeming hopelessness of our plight in the South has not caused you to seek to influence us to surrender to this dictum of Southern Democracy."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"The famous legal **dictum** that law is founded upon logic must yield to the reality of human experience."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"It was an ancient philosophical **dictum** that no mortal could be accounted truly happy before death."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Scholars accepted Aristotle's dogmatic **dictum** as immutable truth, neglecting independent experimental inquiry."*

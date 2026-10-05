@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being foretold.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unknown in advance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not able to be foreseen, calculated, or anticipated in advance; subject to erratic, uncertain fluctuation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In non-linear systems dynamics, exhibiting behavior whose trajectory cannot be computed from previous states.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The rapid and unpredictable changes in prices gives opportunity for speculative profits, but injure legitimate business."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Typical gambling is the transfer of wealth on the outcome of events absolutely unpredictable, so far as the two gamblers are concerned."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The frequent and unpredictable changes have been a great evil, and have again and again brought unmerited losses to the many in business and still greater and unearned gains to a favored few."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Sudden squalls in the Strait of Magellan are notoriously **unpredictable**, descending with furious violence from mountain ravines."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The whale breached with wild, **unpredictable** fury, crushing the cedar whaleboat beneath its colossal flukes."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Eustacia's turbulent temperament remained proud, romantic, and wholly **unpredictable** to the simple peasants of Egdon Heath."*

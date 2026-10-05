@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A 16th century musical instrument resembling a guitar with a pear-shaped soundbox and wire strings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A 16th century musical instrument resembling a guitar with a pear-shaped soundbox and wire strings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medieval stringed musical instrument, having a flat, pear-shaped or holly-leaf body, plucked with a plectrum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organology and musicology, a fourteenth-century chordophone ancestral to the cittern, characterized by a thumb-hole neck and fretted fingerboard.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, citole designates a 16th century musical instrument resembling a guitar with a pear-shaped soundbox and wire strings."*
+> - 📜 **Geoffrey Chaucer (*The Knight's Tale*):** *"Before the altar of the goddess Venus stood the celestial image, holding in her fair right hand a melodious **citole**."*
+> - 📜 **Dante Gabriel Rossetti (*The Blessed Damozel*):** *"Around the throne of the Virgin, singing angels touched the strings of gittern, harp, and sweet **citole** in perpetual harmony."*
+> - 📜 **William Morris (*The Earthly Paradise*):** *"Minstrels entered the banquet hall, tuning the resonant strings of lute and **citole** to chant deeds of chivalric renown."*

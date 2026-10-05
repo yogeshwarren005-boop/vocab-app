@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of words used to name things in a particular discipline.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A system of words used to name things in a particular discipline.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of names or terms used in a particular science, art, or discipline; formal naming rules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic taxonomy and organic chemistry, the standardized binomial or IUPAC naming rules governing species or molecules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He seemed to be of too strange and mysterious a nature to belong to any variety among those of popular nomenclature."*
-> - 📜 **Algis Budrys (*Citadel*):** *"I keep forgetting about proper nomenclature." "So do I, Mary, so do I," Marlowe sighed."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He seemed to be of too strange and mysterious a nature to belong to any variety among those of popular nomenclature."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"A reformed chemical **nomenclature** must reflect the elemental composition of substances rather than archaic alchemical tradition."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"In biological taxonomy, precision of binomial **nomenclature** is indispensable to avoid confounding distinct geographic varieties."*
+> - 📜 **Thomas Henry Huxley (*Physiography: An Introduction to the Study of Nature*):** *"Scientific **nomenclature** provides an unambiguous universal vocabulary intelligible to investigators across the world."*

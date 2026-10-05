@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not excited.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not excited.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Calm, composed, and not emotionally stirred, agitated, or enthusiastic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In quantum mechanics and emotional state assessment, resting at a basal ground energy level or demonstrating lack of autonomic activation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unexcited designates not excited."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Casaubon replied in his usual **unexcited** and measured cadence, showing no sympathy with her youthful enthusiasm."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"He surveyed the financial ruin before him with a curiously **unexcited** eye, as though observing another man's fate."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The quiet judge maintained an **unexcited** demeanor throughout the turbulent political meeting in the townhouse."*

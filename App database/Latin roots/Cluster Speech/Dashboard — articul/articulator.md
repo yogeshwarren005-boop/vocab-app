@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who pronounces words.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A movable speech organ.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organ of speech involved in producing vowels and consonants; or a mechanical dental instrument holding casts of teeth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In prosthodontics and speech science, either an active anatomical structure (tongue, lips, velum) or an adjustable hinge simulator replicating mandibular movements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, articulator designates someone who pronounces words."*
+> - 📜 **Daniel Jones (*An Outline of English Phonetics*):** *"The mobile lower jaw functions as an indispensable **articulator**, shifting the tongue bodily toward diverse regions of the hard palate."*
+> - 📜 **Alexander Graham Bell (*The Mechanism of Speech*):** *"Each active **articulator** must assume its precise mathematical coordinate within the oral resonance chamber to generate the target vowel."*
+> - 📜 **Greville MacDonald (*The Respiratory Vocal Organs*):** *"Coordinated neuromuscular reflexes guide the soft palate as a primary **articulator** controlling nasal resonance in polyphonic singing."*

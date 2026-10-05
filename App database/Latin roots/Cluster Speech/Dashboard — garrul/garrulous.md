@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of trivial conversation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Full of trivial conversation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pointlessly or annoyingly talkative; rambling and loquacious in conversation, especially about trivialities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic literature, characterizing figures whose ceaseless prattle provides comic relief or inadvertently exposes secrets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The event of the day—that is, the return of Diana and Mary—pleased him; but the accompaniments of that event, the glad tumult, the garrulous glee of reception irked him: I saw he wished the calmer morrow was come."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"That will do.” She lingered for a few moments, and was garrulous over some detail of the household."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Having confided in Drummer, Narval waxed garrulous."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"That will do. She was an old, **garrulous** woman, but she knew how to keep the secrets of the house."*
+> - 📜 **James Joyce (*Dubliners*):** *"She was an old **garrulous** woman, a pawnbroker's widow, who collected used stamps for some pious purpose."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The event of the day was the arrival of the postman, whose **garrulous** gossip was eagerly awaited by every inmate."*

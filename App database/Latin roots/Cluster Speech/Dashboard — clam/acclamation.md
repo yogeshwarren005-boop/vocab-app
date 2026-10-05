@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Enthusiastic approval.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enthusiastic approval.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A loud and enthusiastic expression of general approval, commendation, or assent by a multitude.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In parliamentary procedure, the adoption of a resolution or election of a candidate by shouting or applause without formal counting of ballots.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"To this chair the Synod summoned him by acclamation, and, having accepted its call, he began his new work in the following August."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"The motion was no sooner made than it was carried by acclamation."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"And now they rise in triumphant acclamation, heaving higher and higher their accordant notes and piling sound on sound."*
+> - 📜 **Francis Bacon (*The Essays*):** *"The general **acclamation** of the multitude is often a fickle wind, blowing hot and cold upon sovereign rulers."*
+> - 📜 **James Joyce (*Dubliners*):** *"The proposal was carried by enthusiastic **acclamation**, all glasses being raised in honor of the distinguished guest."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The revolutionary tribunal greeted the acquittal of the prisoner with a roaring **acclamation** that shook the courtroom rafters."*

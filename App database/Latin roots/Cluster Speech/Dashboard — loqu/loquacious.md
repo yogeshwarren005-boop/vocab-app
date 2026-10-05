@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of trivial conversation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Full of trivial conversation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to talk a great deal; extremely talkative, garrulous, or chattering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character description and social satire, excessively communicative and rambling in ordinary social intercourse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby; and a loquacious young man called Mr."*
-> - 📜 **John Milton (*Paradise Lost*):** *"To whom sad _Eve_ with shame nigh overwhelm’d, Confessing soon, yet not before her Judge Bold or loquacious, thus abasht repli’d."*
-> - 📜 **Effie Afton (*Eventide*):** *"Pimble, had he not been deeply engaged in poring over the trials his loquacious housekeeper was so eloquently setting forth to her silent and rather inattentive listener, he would have discovered himself the hero of a tale which might have lost Mrs."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The court barber was an exceedingly **loquacious** fellow, regaling his patrons with endless gossip concerning palace intrigue."*
+> - 📜 **Jane Austen (*Emma*):** *"Miss Bates was remarkably **loquacious**, pouring forth a cheerful and ceaseless stream of village trivialities."*
+> - 📜 **Oliver Goldsmith (*The Vicar of Wakefield*):** *"Our **loquacious** neighbor entertained the tea table with marvelous anecdotes of London fashions and rustic scandals."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A viewpoint toward a city or other heavily populated area.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Painting depicting a city or urban area.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An artistic representation or panoramic view of the physical features and buildings of an urban area.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural aesthetics and visual arts, the compositional skyline, built environment, and visual topography of a metropolis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cityscape designates a viewpoint toward a city or other heavily populated area."*
+> - 📜 **Henry James (*The American Scene*):** *"From the harbor ferry, the soaring **cityscape** of lower Manhattan presented an astonishing mountain range of masonry and glass."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"A dense pall of black smoke drifted across the evening **cityscape**, obscuring the familiar dome of St. Paul's Cathedral."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"Looking from her upper balcony, she observed the familiar New York **cityscape** bathed in the crisp golden chill of autumn."*

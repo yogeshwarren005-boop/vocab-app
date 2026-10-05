@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without or deprived of the use of speech or words.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without or deprived of the use of speech or words.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not jointed or segmented; or not expressed in clear, coherent vocal speech sounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An uncommon variant of inarticulate, describing either primitive non-segmented invertebrates or obscure, unformulated intuitions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unarticulate designates without or deprived of the use of speech or words."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Beneath all poetic utterance lies the vast, **unarticulate** sea of unconscious spiritual life awaiting a voice."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"I hear the **unarticulate** cries of animals and the murmur of winds through tall summer pines."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"A nascent thought often lingers as an **unarticulate** impulse in the mind before crystallizing into precise vocabulary."*

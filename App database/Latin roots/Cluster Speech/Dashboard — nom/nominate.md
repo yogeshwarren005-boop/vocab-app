@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Propose as a candidate for some honor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put forward; nominate for appointment to an office or for an honor or position.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To propose or formally enter as a candidate for election, appointment, or honor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political science and parliamentary procedure, to put forward an individual for elective office or civic commission.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Can you nominate in order now the degrees of the lie?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sight may distinguish of colours; but suddenly to nominate them all, it is impossible.—My lords, Saint Alban here hath done a miracle; and would ye not think his cunning to be great that could restore this cripple to his legs again?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I spoke it, tender juvenal, as a congruent epitheton appertaining to thy young days, which we may nominate tender."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The Constitution empowers the President to **nominate**, and with the advice and consent of the Senate, appoint ambassadors."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Party caucuses assemble delegates to **nominate** candidates representing distinct regional coalitions."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The privy council met in emergency session to **nominate** a lord protector during the minority of the prince."*

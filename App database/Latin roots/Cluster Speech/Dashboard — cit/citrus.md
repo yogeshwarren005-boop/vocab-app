@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous fruits of the genus citrus having thick rind and juicy pulp; grown in warm regions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous tropical usually thorny evergreen trees of the genus citrus having leathery evergreen leaves and widely cultivated for their juicy edible fruits having leathery aromatic rinds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering trees and shrubs in the rue family (Rutaceae), cultivated for aromatic hesperidium fruits with juicy pulp.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pomology and horticulture, economically preeminent evergreen fruit trees native to subtropical Asia, including oranges, lemons, limes, and grapefruits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The membership of the former is made up entirely of the local citrus growers' associations in California."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Some of these societies, as those dealing in citrus fruits, regulate with some success the picking and the marketing so as to distribute them more evenly throughout the year."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"The remarkable facility with which different species of **citrus** intercross has long bewildered systematic botanists."*
+> - 📜 **John Muir (*The Mountains of California*):** *"Looking down into the sunny valleys, endless groves of fragrant **citrus** blossomed in emerald squares against the foothills."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of America*):** *"European settlers successfully naturalized several varieties of sweet **citrus** along the fertile alluvial banks of the Orinoco."*

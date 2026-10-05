@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give an incentive for action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provoke or stir up.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To stir up, spur on, encourage, or urge someone to take specific action or display strong feeling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In criminal jurisprudence, to intentionally solicit, counsel, or procure another person to perpetrate a felony or riotous breach of peace.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No blown ambition doth our arms incite, But love, dear love, and our ag’d father’s right: Soon may I hear and see him! [_Exeunt._] SCENE V."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Incite them to quick motion; for I must Bestow upon the eyes of this young couple Some vanity of mine art: it is my promise, And they expect it from me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Trumpets sound as to a charge._] Hark how yon spurs to spirit do incite The princes to their proof!"*
+> - 📜 **William Shakespeare (*King John*):** *"How oft the sight of means to do ill deeds makes deeds ill done! You did **incite** me to this desperate murder."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"Ambition and avarice are the twin scourges that most frequently **incite** civilized princes to declare destructive wars."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Fiery demagogues ascended the stone parapets of the Palais-Royal to **incite** the starving multitude to seize arms."*

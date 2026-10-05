@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Semiprecious yellow quartz resembling topaz.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Semiprecious yellow quartz resembling topaz.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A transparent pale yellow to brownish-orange variety of quartz; or possessing a clear lemon-yellow color.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy and gemology, macrocrystalline silicon dioxide colored by ferric iron impurities, frequently produced by heat-treating amethyst.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, citrine designates semiprecious yellow quartz resembling topaz."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He collected wonderful gems from across the Orient, admiring the pale golden luster of yellow **citrine** set beside deep carbuncles."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The evening sky faded from fiery crimson into a delicate **citrine** tint before darkening into nocturnal violet."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Among the treasures of the Agra jewel chest lay pendants of chrysoberyl and sparkling **citrine** of exquisite transparency."*

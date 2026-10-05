@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being wordy and talkative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being wordy and talkative.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, habit, or characteristic of being garrulous; continual rambling talkativeness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social psychology and rhetoric, conversational unrestraint characterized by lack of thematic focus or concise economy of language.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, garrulousness designates the quality of being wordy and talkative."*
+> - 📜 **George Eliot (*Scenes of Clerical Life*):** *"Her chronic **garrulousness** was tolerated by her neighbors only because her generous heart was known to all."*
+> - 📜 **Henry James (*The Ambassadors*):** *"He listened with patience to the mild **garrulousness** of his aunt, finding a certain restful charm in her rambling stories."*
+> - 📜 **William Makepeace Thackeray (*The History of Pendennis*):** *"The old major's worldly **garrulousness** was a constant source of amusement to the younger clubmen."*

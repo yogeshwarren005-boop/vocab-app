@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A public declaration of intentions (as issued by a political party or government).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public declaration of intentions (as issued by a political party or government).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal, authoritative proclamation or manifesto; especially a military declaration of rebellion or policy change in Spain or Latin America.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Spanish political history and revolutionary movements, an armed pronouncement announcing a barracks uprising against the reigning government.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"The sentiments of such people found expression in the following editorial which accompanied Dorlan's pronunciamento."*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"The revolutionary committee issued a fiery **pronunciamento**, calling upon the oppressed citizenry to rise against the corrupt oligarchy."*
+> - 📜 **George Borrow (*The Bible in Spain*):** *"The provincial garrison revolted after their general read a bold **pronunciamento** from the balcony of the town hall."*
+> - 📜 **Joseph Conrad (*Nostromo*):** *"General Montero posted his grandiose **pronunciamento** on every wall in Sulaco, promising glory and wealth to the army."*

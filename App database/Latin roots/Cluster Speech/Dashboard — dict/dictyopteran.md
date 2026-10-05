@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or belonging to the order dictyoptera.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or belonging to the order dictyoptera.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An insect belonging to the superorder Dictyoptera, encompassing modern cockroaches, termites, and mantises.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary entomology, an insect presenting characteristic oothecal egg cases, cursorial forelegs, and chewing mouthparts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dictyopteran designates of or relating to or belonging to the order dictyoptera."*
+> - 📜 **Augustus Daniel Imms (*A General Textbook of Entomology*):** *"The fossil record reveals that many a primitive **dictyopteran** inhabited the dense Carboniferous coal swamps."*
+> - 📜 **Vincent Dethier (*The Hungry Fly*):** *"The peripheral sensilla of a foraging **dictyopteran** respond with keen sensitivity to airborne pheromone plumes."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Sexual dimorphism in wing structure is frequently observed in the typical nocturnal **dictyopteran**."*

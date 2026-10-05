@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An artificial language proposed for use as an auxiliary international language; based on words common to english and the romance languages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artificial language proposed for use as an auxiliary international language; based on words common to english and the romance languages.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An auxiliary planned language created from shared European vocabulary, designed for effortless international communication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In applied linguistics, an international auxiliary language derived from Romance and Germanic roots; also an intermediate learner language.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, interlingua designates an artificial language proposed for use as an auxiliary international language; based on words common to english and the romance languages."*
+> - 📜 **Otto Jespersen (*An International Language*):** *"Advocates of **interlingua** demonstrated that scientific abstracts could be read at sight by educated Europeans without prior study."*
+> - 📜 **Edward Sapir (*The Problem of an International Auxiliary Language*):** *"The logical elegance of **interlingua** lies in its systematic extraction of the common lexical denominator of Western tongues."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"Proponents of constructed tongues like Esperanto and **interlingua** sought an impartial medium to foster transnational dialogue."*

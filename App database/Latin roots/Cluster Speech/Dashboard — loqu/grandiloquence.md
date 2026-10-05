@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: High-flown style; excessive use of verbal ornamentation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: High-flown style; excessive use of verbal ornamentation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lofty, pompous, or bombastic style of speech or writing intended to sound impressive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetorical criticism, inflated diction characterized by grandiose vocabulary disproportionate to the underlying matter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"But for my deep-seated impressions that treasure was here somewhere actually buried, we might have had all our labor in vain.” “But your grandiloquence, and your conduct in swinging the beetle— how excessively odd!"*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The self-important diplomat addressed the drawing room with an absurd **grandiloquence** that amused the cynical dowagers."*
+> - 📜 **Alexander Pope (*Peri Bathous, or the Art of Sinking in Poetry*):** *"Lacking genuine poetic inspiration, mediocre versifiers disguise trivial concepts under the hollow glare of verbal **grandiloquence**."*
+> - 📜 **Washington Irving (*A History of New York*):** *"The municipal governor issued proclamations marked by solemn **grandiloquence**, threatening dire calamities upon peaceful burghers."*

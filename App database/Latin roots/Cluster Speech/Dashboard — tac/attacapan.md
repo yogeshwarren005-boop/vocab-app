@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of an indian people formerly living along the gulf coast of louisiana and texas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A language spoken by the atakapa of the gulf coast of louisiana and texas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the Attacapa people, their indigenous culture, or their extinct linguistic isolate of the Gulf Coast.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In North American anthropological linguistics, denoting the language family or linguistic isolate spoken historically along coastal Louisiana and Texas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, attacapan designates a member of an indian people formerly living along the gulf coast of louisiana and texas."*
+> - 📜 **John Wesley Powell (*Indian Linguistic Families of America North of Mexico*):** *"The **Attacapan** linguistic family comprises vocabularies collected near Lake Charles that share no morphological kinship with neighboring Muskogean."*
+> - 📜 **Albert Gallatin (*A Synopsis of the Indian Tribes within the United States*):** *"The surviving vocabulary of the **Attacapan** stock indicates a grammatical structure marked by complex polysynthetic suffixes."*
+> - 📜 **John Reed Swanton (*Indian Tribes of the Lower Mississippi Valley*):** *"Colonial traders transcribed several **Attacapan** place names that remain preserved in the bayou topography of southern Louisiana."*

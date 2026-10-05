@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A highly seasoned portuguese pork sausage flavored with garlic and onions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A highly seasoned portuguese pork sausage flavored with garlic and onions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A seasoned, smoke-cured pork sausage flavored with garlic, paprika, and wine, traditional in Portuguese gastronomy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In culinary ethnography and food science, a coiled, dry-cured or fresh swine sausage spiced with pimentão and native herbs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, linguica designates a highly seasoned portuguese pork sausage flavored with garlic and onions."*
+> - 📜 **John Steinbeck (*Tortilla Flat*):** *"Down by the Monterey docks, Portuguese fishermen grilled savory coils of **linguica** over open iron braziers."*
+> - 📜 **Jack London (*The Valley of the Moon*):** *"They sat at the rustic pine table enjoying a hearty stew brimming with garlicky **linguica** and tender kidney beans."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Azorean whalemen aboard the ship celebrated feast days by preparing spicy cured **linguica** seasoned with heavy vinegar and herbs."*

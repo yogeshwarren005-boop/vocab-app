@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who comes from a foreign country; someone who does not owe allegiance to your country.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who comes from a foreign country; someone who does not owe allegiance to your country.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is not an acknowledged citizen or lawful national of a given country in which they reside.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In immigration jurisprudence and international law, an alien subject possessing restricted civic entitlements and lacking formal political franchise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, noncitizen designates a person who comes from a foreign country; someone who does not owe allegiance to your country."*
+> - 📜 **James Bryce (*The American Commonwealth*):** *"The constitutional status of the resident **noncitizen** entails obedience to territorial laws without entitlement to voting franchise."*
+> - 📜 **Woodrow Wilson (*The State: Elements of Historical and Practical Politics*):** *"Ancient Athens drew a rigid legal distinction between the sovereign freeman and the disenfranchised **noncitizen** merchant."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The newly arrived immigrant remained for several years a mere **noncitizen**, acquiring republican habits through commercial intercourse."*

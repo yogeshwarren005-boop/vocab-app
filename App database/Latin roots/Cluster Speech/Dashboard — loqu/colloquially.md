@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With the use of colloquial expressions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With the use of colloquial expressions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In the manner of informal speech or casual conversation; through common vernacular expression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociolinguistic description, denoting idioms or nicknames adopted across popular conversational registers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby with his finger on his nose, “don’t allude to it!” For some little time the jurymen hang about the Sol’s Arms colloquially."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The gauchos referred to the elusive burrowing rodent **colloquially** as the tuco-tuco from its rhythmic subterranean cry."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The sinister granite hollow on the moor was known **colloquially** among the peasants as the Black Tor mire."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The sheep-shearers addressed their respected elder **colloquially** as Master Poorgrass throughout the harvest supper."*

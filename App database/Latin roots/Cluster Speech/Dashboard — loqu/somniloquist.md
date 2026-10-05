@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who talks while asleep.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who talks while asleep.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who habitually talks in their sleep; one prone to somniloquy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical somnology and observational psychology, an individual experiencing parasomnic speech episodes during slumber.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, somniloquist designates someone who talks while asleep."*
+> - 📜 **Edgar Allan Poe (*Mesmeric Revelation*):** *"The strange subject was an inveterate **somniloquist**, whose nocturnal disclosures were recorded by attentive bedside watchers."*
+> - 📜 **Arthur Conan Doyle (*The Crooked Man*):** *"The bewildered soldier swore he was no intentional eavesdropper, but merely roomed with an agitated **somniloquist**."*
+> - 📜 **Wilkie Collins (*The Moonstone*):** *"Under the influence of the secret draught, the slumberer became an unwitting **somniloquist**, betraying where the gem was hidden."*

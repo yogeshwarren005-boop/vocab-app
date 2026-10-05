@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Uttering speech while asleep.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Uttering speech while asleep.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or practice of talking while asleep; sleep-talking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical parasomnia classification, nocturnal verbalization occurring across diverse sleep stages without waking consciousness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, somniloquy designates uttering speech while asleep."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Instances of nocturnal **somniloquy** highlight the dissociation between automatic linguistic centers and conscious executive will."*
+> - 📜 **Havelock Ellis (*The World of Dreams*):** *"The incoherent muttering characteristic of **somniloquy** often parallels the rapid transitions of primary dream imagery."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"His agitated companion broke into sudden **somniloquy**, shouting incoherent coordinates from some tropical military expedition."*

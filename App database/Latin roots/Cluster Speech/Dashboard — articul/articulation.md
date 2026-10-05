@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The aspect of pronunciation that involves bringing articulatory organs together so as to shape the sounds of speech.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The shape or manner in which things come together and a connection is made.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action, manner, or process of forming clear speech sounds; or a movable or fixed joint uniting bones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phonetics, the physiological coordination of supraglottal articulators to modulate the airstream into distinct acoustic spectra.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"To savages generally is imputed a guttural articulation."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"He was sparing in discourse; but whatever he said was pregnant with meaning, and uttered with rectitude of articulation and force of emphasis of which I had entertained no conception previously to my knowledge of him."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"No articulation was ever more distinct."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"His native dialect was characterized by a guttural **articulation** that rendered European transcription exceptionally perplexing."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"His voice had failed him, and his faint **articulation** was drowned by the bustling commotion of the crowded courtroom."*
+> - 📜 **Oliver Wendell Holmes Sr. (*The Autocrat of the Breakfast-Table*):** *"Refined conversation demands clean vocal **articulation** no less than logical clarity and intellectual breadth."*

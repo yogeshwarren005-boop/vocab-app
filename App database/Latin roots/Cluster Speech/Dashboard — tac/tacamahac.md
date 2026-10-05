@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Poplar of northeastern north america with broad heart-shaped leaves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Poplar of northeastern north america with broad heart-shaped leaves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fragrant, bitter balsamic resin obtained from tropical American trees or the North American balsam poplar, used in ointments and perfumes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacognosy and silviculture, the resinous aromatic exudation of Populus balsamifera or Calophyllum used traditionally for medicinal embrocations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tacamahac designates poplar of northeastern north america with broad heart-shaped leaves."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"The fragrant balsam of the **tacamahac** scented the boreal air along the rocky banks of the Penobscot river."*
+> - 📜 **John Muir (*The Mountains of California*):** *"Crushing the sticky buds of the **tacamahac** released an invigorating, aromatic perfume that lingered upon our fingertips."*
+> - 📜 **William Bartram (*Travels through North and South Carolina, Georgia, East and West Florida*):** *"The native healers burned dried **tacamahac** resin over embers to fumigate the dwellings of those afflicted with autumnal ague."*

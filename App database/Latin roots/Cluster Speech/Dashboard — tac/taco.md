@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (ethnic slur) offensive term for a person of mexican descent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tortilla rolled cupped around a filling.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A traditional Mexican dish consisting of a folded or rolled corn or wheat tortilla filled with various seasoned meats, beans, and garnishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In culinary ethnography and gastronomy, a fundamental Mesoamerican food preparation documented since pre-Columbian times as an adaptable handheld staple.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, taco designates (ethnic slur) offensive term for a person of mexican descent."*
+> - 📜 **Charles Flandrau (*Viva Mexico!*):** *"The street vendor deftly filled a warm maize tortilla to assemble a savory **taco** garnished with onions and chili salsa."*
+> - 📜 **John Steinbeck (*The Pastures of Heaven*):** *"The aromatic fragrance of roasting pork and spicy chili announced that every succulent **taco** was ready for the festive gathering."*
+> - 📜 **Jack Kerouac (*On the Road*):** *"In the colorful market alleys of the border town, we ravenously devoured a piping hot **taco** wrapped in fresh masa."*

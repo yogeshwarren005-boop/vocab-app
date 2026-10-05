@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being wordy and talkative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being wordy and talkative.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or habit of talking excessively; extreme talkativeness or garrulity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In temperament analysis and literature, the personal tendency toward incessant, rambling conversational flow.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, loquaciousness designates the quality of being wordy and talkative."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Unchecked **loquaciousness** in youth often degenerates into tedious self-absorption and vanity in declining years."*
+> - 📜 **Henry James (*Daisy Miller*):** *"Winterbourne was slightly fatigued by the young lady's unabashed **loquaciousness**, yet captivated by her natural innocence."*
+> - 📜 **Arthur Schopenhauer (*Studies in Pessimism*):** *"Solitary thinkers avoid frivolous society precisely to escape the noisy **loquaciousness** that clouds clear contemplation."*

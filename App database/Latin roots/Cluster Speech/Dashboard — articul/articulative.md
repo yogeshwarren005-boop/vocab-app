@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to articulation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to articulation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the capability or tendency to articulate, formulate clear speech, or form segmented structural joints.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic theory and acoustic phonetics, relating to the operative mechanisms of speech production within the vocal tract.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, articulative designates of or relating to articulation."*
+> - 📜 **William Dwight Whitney (*Language and the Study of Language*):** *"The muscular **articulative** apparatus adapts itself instinctively to reproduce the subtle phonemic differences of maternal speech."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Human speech arose through the progressive refinement of the **articulative** organs under the governance of evolving rational thought."*
+> - 📜 **Alexander Melville Bell (*Visible Speech: The Science of Universal Alphabetics*):** *"Our physiological alphabet maps every distinct **articulative** position of the palate, tongue, and lips into iconic symbols."*

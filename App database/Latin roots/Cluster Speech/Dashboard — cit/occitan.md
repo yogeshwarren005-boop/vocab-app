@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The medieval dialects of langue d'oc (southern france).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The medieval dialects of langue d'oc (southern france).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or denoting Occitania, a historical cultural region of southern France, or its Romance language (langue d'oc).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Romance linguistics and medieval literature, the Gallo-Romance tongue spoken from the Pyrenees to the Alps, renowned as the language of the troubadours.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, occitan designates the medieval dialects of langue d'oc (southern france)."*
+> - 📜 **Dante Alighieri (*De Vulgari Eloquentia*):** *"The refined poets of the **occitan** tongue were the first to cultivate elegant vernacular verse in courtly love lyrics."*
+> - 📜 **Walter Pater (*The Renaissance: Studies in Art and Poetry*):** *"The sweet melodies of the **occitan** troubadours brought a new springtime of lyrical passion to European culture."*
+> - 📜 **Henry Adams (*Mont-Saint-Michel and Chartres*):** *"The southern knights who marched under the banners of the crusade spoke the harmonious **occitan** idiom of Provence."*

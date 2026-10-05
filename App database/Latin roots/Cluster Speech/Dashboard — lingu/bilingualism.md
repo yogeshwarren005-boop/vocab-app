@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ability to speak two languages colloquially.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ability to speak two languages colloquially.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The habitual use or mastery of two languages by an individual speaker or speech community.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and educational policy, societal or individual fluency in two distinct linguistic codes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bilingualism designates the ability to speak two languages colloquially."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"Widespread **bilingualism** along imperial trade routes inevitably accelerates phonetic convergence and lexical borrowing."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"Native-like **bilingualism** represents an ideal coordination of two linguistic habits within a single speaker."*
+> - 📜 **Otto Jespersen (*Language: Its Nature, Development and Origin*):** *"The prevalence of early childhood **bilingualism** offers profound insights into how fundamental grammatical categories are formed."*

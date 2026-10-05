@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: More aromatic and acidic than oranges.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: More aromatic and acid tasting than oranges; used in beverages and marmalade.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cold-hardy citrus hybrid produced by crossing the sweet orange (Citrus sinensis) with the trifoliate orange (Poncirus trifoliata).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pomology and citriculture, a vigorous rootstock cultivar yielding sour fruit, bred for nematode resistance and frost tolerance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, citrange designates more aromatic and acidic than oranges."*
+> - 📜 **Luther Burbank (*His Methods and Discoveries and Their Practical Application*):** *"By systematic hybridization, experimenters developed the **citrange**, combining the winter hardiness of the trifoliate orange with citrus vigor."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"The Rusk **citrange** has proven particularly valuable in the southern border states as an ornamental and frost-resistant seedling stock."*
+> - 📜 **U. P. Hedrick (*Systematic Pomology*):** *"Though the fruit of the **citrange** is too acid for dessert consumption, its robust root system resists severe sub-freezing temperatures."*

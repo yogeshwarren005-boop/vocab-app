@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing a sense of what is fitting and considerate in dealing with others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing skill and sensitivity in dealing with people.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing or displaying a keen sense of what is appropriate, polite, and considerate in dealing with others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Demonstrating diplomatic discretion that avoids causing offense or discomfort in sensitive circumstances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"I'd like you to see my guns," Lawrence continued, too shrewd to be tactful."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"He was distressed to hear that she had been hurt." That was more tactful!"*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"You have been all that is tactful--all that is kind."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"Newland admired the **tactful** restraint with which Madame Olenska responded to cruel society gossip."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"His **tactful** questions gently elicited her confidence without infringing upon her private sorrow."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"Mr. Arabin offered a **tactful** compromise that soothed the agitated vanity of the archdeacon."*

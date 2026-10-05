@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to nominalism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to nominalism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, characteristic of, or adhering to the philosophical doctrine of nominalism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metaphysical semantics and ontology, denying the ontological reality of abstract universals and essences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nominalistic designates of or relating to nominalism."*
+> - 📜 **Charles Sanders Peirce (*Illustrations of the Logic of Science*):** *"A purely **nominalistic** philosophy reduces physical laws to mere human conventions and shorthand summaries."*
+> - 📜 **Bertrand Russell (*The Problems of Philosophy*):** *"The **nominalistic** view of mathematics fails to account for relations that hold independently of human cognition."*
+> - 📜 **William James (*The Meaning of Truth*):** *"His **nominalistic** tendencies led him to distrust transcendent essences and demand concrete verification."*

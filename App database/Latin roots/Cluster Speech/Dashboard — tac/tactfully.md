@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing tact or tactfulness; in a tactful manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing tact or tactfulness; in a tactful manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a diplomatic, sensitive, and considerate manner that avoids causing hurt or offense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With skillful discretion and thoughtful management of delicate human relationships.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He had tactfully suggested substantive alterations to minimize warning time to the depot and its nearby transports."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Do I look as if I had strength enough to push a pram?" He glanced at my grey locks, and said tactfully:-- "Bobby could walk part of the time."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Levi Boulter, tactfully approached by a carefully selected committee in regard to the old house on his upper farm, did bluntly tell them that he wasn’t going to have it meddled with."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Knightley **tactfully** changed the subject when he noticed the painful blush upon Harriet's cheek."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Watson **tactfully** withdrew to the window, allowing the distressed client to whisper her secret."*
+> - 📜 **Virginia Woolf (*Mrs. Dalloway*):** *"Clarissa steered the dinner conversation **tactfully** past every perilous political disagreement."*

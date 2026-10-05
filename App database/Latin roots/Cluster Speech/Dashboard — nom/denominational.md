@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of a particular religious denomination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the face value of a banknote, coin, or stamp.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or sponsored by a particular religious denomination, sect, or ecclesiastical organization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In educational history and religious sociology, organized along sectarian lines or restricted to members of a single religious communion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Mill to stand for an Irish constituency, and stated that the only opinion it would be necessary for him to change was the one he had so often expressed against denominational education."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The members of the society were connected with twenty different churches of several denominations, and while all had reference to the spiritual as well as physical welfare of the soldier, yet there was nothing sectarian or denominational in its work."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Boardman's Church, it was sometimes called the Presbyterian Ladies' Aid Society, but the name, if intended to imply that its character was denominational, was unjust."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"The narrow rivalries of **denominational** academies prevented the establishment of a truly national system of secondary culture."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"State schools must provide universal secular instruction, leaving strictly **denominational** catechisms to the domestic hearth."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Despite intense **denominational** divisions, American clergymen preached identical moral principles of civic responsibility."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The category of nouns serving as the grammatical subject of a verb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving as or indicating the subject of a verb and words identified with the subject of a copular verb.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or denoting the grammatical case that marks the subject of a finite verb in inflected languages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In syntactic typology and traditional grammar, the unmarked grammatical case designating the agent or grammatical subject.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nominative designates the category of nouns serving as the grammatical subject of a verb."*
+> - 📜 **Otto Jespersen (*The Philosophy of Grammar*):** *"In highly inflected tongues like Latin and Greek, the **nominative** case signals the primary agent or syntactic subject."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"The grammatical distinction between **nominative** and accusative forms preserves clarity in sentence organization."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"Indo-European nouns carried distinctive **nominative** singular suffixes that eroded across subsequent phonetic evolution."*

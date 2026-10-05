@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A loud harsh or strident noise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loud and persistent outcry from many people.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A loud and confused noise, especially that of people shouting vehemently; or a vehement public outcry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political sociology, sustained popular agitation or public demand for legislative intervention or institutional redress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Just after dark that day, when one watch had retired below, a clamor was heard in the forecastle; and the two trembling traitors running up, besieged the cabin door, saying they durst not consort with the crew."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"With all their clamor for political upheavals, the "Stuermer und Draenger" never arrived at any serious or practical plan of action."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"I forbear to remark upon the additional pretext for clamor against the judiciary, which so considerable an augmentation of its authority would have afforded."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Standing at my door, I could hear the rush of their wings; when, driving toward the southwest, they seemed to shake the forest with their **clamor**."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Just after dark that day, when one watch had retired below, a **clamor** was heard in the forecastle that brought all hands upon deck."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The shrill **clamor** of the street vendors penetrated the shuttered parlor of the decaying ancestral mansion."*

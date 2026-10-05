@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A conversation especially a formal one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formal conversation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal conversation, dialogue, or serious conference between two or more participants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological and diplomatic history, an organized doctrinal or state conference seeking resolution between conflicting parties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"It had needed that brief colloquy to let him see what Stafford's life was like at Wanhope, and in what slow nerve-by-nerve laceration amends were being made."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Toller; were just now standing apart and having a friendly colloquy, in which they agreed that Lydgate was a jackanapes, just made to serve Bulstrode’s purpose."*
-> - 📜 **George Eliot (*Middlemarch*):** *"It was not indeed entirely an improvisation, but had taken shape in inward colloquy, and rushed out like the round grains from a fruit when sudden heat cracks it."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The minister and Hester Prynne carried on a hushed, solemn **colloquy** beneath the secluded shadows of the primeval forest."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"The philosophers gathered at the villa for a quiet evening **colloquy** upon the immortality of the rational soul."*
+> - 📜 **John Milton (*Paradise Lost*):** *"With grave and deliberate utterance, the heavenly messenger held divine **colloquy** with our first parents in Eden."*

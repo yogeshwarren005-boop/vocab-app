@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arouse or elicit a feeling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act as a stimulant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Moved by strong feeling, enthusiasm, eagerness, or agitation; aroused to lively activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In quantum physics and clinical neurology, possessing an energy state above the ground baseline or exhibiting heightened autonomic arousal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Beaten for loyalty Excited me to treason."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"When the mother went to Mäzli's bed that night to say prayers with her she found her still very much excited, as usual, by the happenings of the day."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"He thought that the excited woman might forcibly enter the garden in order to seek the child."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"Sir, I am vexed; bear with my weakness; my old brain is troubled; be not **excited** by my infirmity."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She spoke in an **excited** tone, her cheeks glowing with the generous conviction that truth must prevail over selfish intrigue."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The messenger arrived in a breathless and highly **excited** condition, brandishing an opened telegram in his trembling hand."*

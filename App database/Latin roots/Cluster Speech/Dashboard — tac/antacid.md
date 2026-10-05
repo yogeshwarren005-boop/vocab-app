@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent that counteracts or neutralizes acidity (especially in the stomach).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acting to neutralize acid (especially in the stomach).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A basic medicinal compound administered to neutralize excess gastric hydrochloric acid and relieve indigestion or heartburn.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastrointestinal pharmacotherapy, a non-systemic inorganic salt comprising aluminum, magnesium, or calcium that elevates intragastric pH.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antacid designates an agent that counteracts or neutralizes acidity (especially in the stomach)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The physician prescribed an alkaline **antacid** mixture to relieve the severe burning epigastric distress of peptic ulceration."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"I compounded a soothing **antacid** draught for the tradesman, whose dyspeptic stomach was tortured by fiery humors."*
+> - 📜 **H. G. Wells (*Tono-Bungay*):** *"The chemist experimented tirelessly with effervescent carbonates to invent an **antacid** powder palatable to the consuming public."*

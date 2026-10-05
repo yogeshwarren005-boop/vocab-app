@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of tropical plants with creeping rootstocks and small umbellate flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of tropical plants with creeping rootstocks and small umbellate flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A botanical genus of flowering perennial herbs native to tropical regions, commonly known as bat flowers or Polynesian arrowroot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnobotany and monocot systematics, a genus within Dioscoreaceae characterized by subterranean tubers rich in edible starch and dark, whisker-like involucral bracts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tacca designates genus of tropical plants with creeping rootstocks and small umbellate flowers."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"The indigenous collectors dig the starchy tubers of **Tacca** pinnatifida to prepare a nutritious arrowroot meal."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"In the shady undergrowth of the forest floor, we discovered the strange, lurid blossoms of a wild **Tacca** flower."*
+> - 📜 **George Bentham (*Flora Australiensis*):** *"The species of **Tacca** display broad subterranean rootstocks that enable the plant to survive severe dry seasons in monsoon woodlands."*

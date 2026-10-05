@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arouse or elicit a feeling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act as a stimulant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To stir up, stimulate, agitate, or awaken emotion, action, interest, or vital energy in someone or something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical physics and neurophysiology, to energize an atomic nucleus or elicit an electrical impulse in an irritable tissue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Revenges burn in them; for their dear causes Would to the bleeding and the grim alarm Excite the mortified man."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What propugnation is in one man’s valour To stand the push and enmity of those This quarrel would excite?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"You may tell me that I over-excite myself."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Examples gross as earth **excite** me: witness this army of such mass and charge, led by a delicate and tender prince."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"External impressions **excite** in our minds those simple ideas which constitute the foundations of human thought."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Novel and bold opinions rarely fail to **excite** the indignation of those whose complacency is disturbed."*

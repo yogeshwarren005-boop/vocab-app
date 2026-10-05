@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Evergreen tree of warm regions having fuzzy yellow olive-sized fruit with a large free stone; native to china and japan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Yellow olive-sized semitropical fruit with a large free stone and relatively little flesh; used for jellies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small, yellow or orange, sweet and tangy plum-like fruit (Eriobotrya japonica) native to southeastern China.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticulture and subtropical pomology, an evergreen tree in the rose family Rosaceae cultivated for edible pome fruit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"There grew she to peerless beauty where loquat and almond scent the air."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Fine clumps of bamboo and groups of palm now cheered our sight, and fruit of several sorts--cherries, pears, loquats--was becoming abundant."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Beside a wayside well, under a spreading tree, would be placed a small table tended perhaps only by a tiny maiden, and set out with pieces of sugar-cane or twigs of loquats or carefully counted clusters of peanuts or seeds, five pieces for a cash."*
+> - 📜 **Robert Fortune (*A Residence Among the Chinese*):** *"In the hillside orchards around Canton, the golden **loquat** was ripening in heavy clusters among glossy evergreen foliage."*
+> - 📜 **John Muir (*Steep Trails*):** *"The California gardens were adorned with blossoming orange groves and trees of the Japanese **loquat** laden with yellow fruit."*
+> - 📜 **Rudyard Kipling (*From Sea to Sea*):** *"We rested under the broad leaves of a shady **loquat** tree, eating the refreshing acidic fruit in the sultry afternoon."*

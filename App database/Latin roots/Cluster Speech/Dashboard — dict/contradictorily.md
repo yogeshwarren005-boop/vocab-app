@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a contradictory manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a contradictory manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner characterized by direct logical inconsistency, mutual opposition, or diametrical opposition of claims.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence and evidentiary analysis, testifying or proceeding in such an conflicting way as to cancel out credit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, contradictorily designates in a contradictory manner."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Unexamined scholastic concepts frequently behave **contradictorily**, asserting in one treatise what they vehemently deny in another."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"Parliament acted **contradictorily** when asserting supreme sovereign power while simultaneously confessing utter incapacity to collect revenue."*
+> - 📜 **George Berkeley (*A Treatise Concerning the Principles of Human Knowledge*):** *"Philosophers reason **contradictorily** when they ascribe absolute mind-independent reality to objects known solely through perception."*

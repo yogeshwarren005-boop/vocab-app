@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Two propositions are contradictories if both cannot be true (or both cannot be false) at the same time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of words or propositions so related that both cannot be true and both cannot be false.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mutually exclusive, diametrically opposed, or asserting propositions that cannot simultaneously be affirmed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal logic, designating propositions so related that the truth of one strictly necessitates the falsity of the other.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Among his other contradictory decorations he had the hat of a bishop and the little gloves of a baby."*
-> - 📜 **Jane Austen (*Persuasion*):** *"You have asserted nothing contradictory to what Mr Elliot appeared to be some years ago."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"More tolerant than his father of a contradictory opinion, in its aspect as a danger to its holder, he was less ready than his father to pardon it as a slight to his own teaching."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab was swayed by fierce, **contradictory** passions that tore his tormented soul between vengeance and despair."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The depositions taken before the Chancery master were hopelessly **contradictory** on every material point of boundary."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"The young scholar found his intense religious yearnings **contradictory** to the harsh realities of Victorian social caste."*

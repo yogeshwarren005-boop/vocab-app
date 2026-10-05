@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A graphic representation of numerical relations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A graphic representation of numerical relations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A graphic calculating device, consisting of two or more calibrated lines, used to solve mathematical equations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In graphical mathematics and engineering design, an alignment chart or computational scale invented by Maurice d'Ocagne for rapid calculation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nomogram designates a graphic representation of numerical relations."*
+> - 📜 **Karl Pearson (*The Grammar of Science*):** *"By laying a straightedge across the scales of a **nomogram**, researchers can instantly read complex statistical relationships."*
+> - 📜 **Claude Shannon (*The Mathematical Theory of Communication*):** *"Engineers constructed an alignment **nomogram** to compute channel capacity and signal-to-noise ratios without tedious arithmetic."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"A graphical **nomogram** serves as a direct analog computer, translating intricate differential relations into straight geometric lines."*

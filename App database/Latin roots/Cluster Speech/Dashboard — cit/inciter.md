@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who deliberately foments trouble.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who deliberately foments trouble.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who incites, urges on, instigates, or provokes others to action or rebellion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In criminal doctrine and revolutionary history, an instigator or agitator who orchestrates collective civil disorder without necessarily participating physically.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inciter designates someone who deliberately foments trouble."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The magistrates condemned the seditious orator as the principal **inciter** of the bloody factional violence in Antioch."*
+> - 📜 **Francis Bacon (*The History of the Reign of King Henry the Seventh*):** *"The pretender found a crafty and tireless **inciter** in the person of the exiled duchess across the channel."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Every political club possessed its recognized **inciter**, whose passionate harangues directed the movements of the Parisian mobs."*

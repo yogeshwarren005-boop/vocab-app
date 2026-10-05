@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or related to citric acid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or related to citric acid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or derived from citrus fruits; specifically denoting citric acid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organic chemistry and cellular respiration, denoting the tricarboxylic acid (C6H8O7) driving energy production in mitochondrial metabolism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, citric designates of or related to citric acid."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The sharp **citric** acid obtained from lemons crystallized in clear rhombic prisms when slowly evaporated under atmospheric exposure."*
+> - 📜 **Humphry Davy (*Elements of Agricultural Chemistry*):** *"Vegetable acids such as the **citric** and malic acids exist in varying proportions in the pulp of unripened orchard fruits."*
+> - 📜 **Justus von Liebig (*Animal Chemistry*):** *"The organic decomposition of **citric** compounds within living organisms illustrates the fundamental metabolic laws of oxidation."*

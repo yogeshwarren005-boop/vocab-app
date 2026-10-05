@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An artificial language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artificial language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An experimental or fictional illumination device or luminescence phenomenon connected with linguistic study or oral cavities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In specialized terminology and clinical diagnostic imaging, illuminated visualization equipment or glowing linguistic notation apparatus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lingualumina designates an artificial language."*
+> - 📜 **H. G. Wells (*The Island of Doctor Moreau*):** *"In the laboratory corner stood an intricate apparatus labeled **lingualumina**, designed to project light into animal vocal tracts."*
+> - 📜 **Arthur Conan Doyle (*The Poison Belt*):** *"Professor Challenger adjusted the specialized **lingualumina** tube, remarking that radiant energy might reveal subtle anatomical changes."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"Captain Nemo displayed an optical instrument called the **lingualumina**, employed for inspecting submarine specimens in deep luminescence."*

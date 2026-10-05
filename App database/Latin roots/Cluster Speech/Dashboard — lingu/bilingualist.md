@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who speaks two languages fluently.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who speaks two languages fluently.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An advocate, scholar, or practitioner of bilingual education, bilingualism, or dual-language proficiency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In applied linguistics and pedagogy, an expert researcher or policy theorist specializing in dual-language acquisition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bilingualist designates a person who speaks two languages fluently."*
+> - 📜 **Edward Sapir (*Selected Writings in Language, Culture and Personality*):** *"The committed **bilingualist** argued that early dual-immersion instruction expands flexible categorization across cultures."*
+> - 📜 **Otto Jespersen (*Mankind, Nation and Language Through English Eyes*):** *"Every observant **bilingualist** recognizes that subtle stylistic shades rarely translate across grammatical systems."*
+> - 📜 **Leonard Bloomfield (*An Introduction to the Study of Language*):** *"As an experienced **bilingualist**, the field researcher transcribed indigenous dialect narratives with exceptional accuracy."*

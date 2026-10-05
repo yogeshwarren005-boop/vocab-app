@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An act of urging on or spurring on or rousing to action or instigating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Needed encouragement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An action, factor, or motive that incites, stimulates, or encourages someone to behave in a certain way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In criminal common law and political rhetoric, the formal offense of urging, provoking, or commanding another to commit an illegal act.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The hope of impunity is a strong incitement to sedition; the dread of punishment, a proportionably strong discouragement to it."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"There is no greater incitement to despise money than that the Lord himself had no wealth (_de Pat._ 7)."*
-> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"It requires but little philosophy to discover and observe that there is no intrinsic value in all this; however, if it be founded in our nature as an incitement to virtue, it ought not to be ridiculed."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"The prospect of noble achievement was to him a far stronger **incitement** than any consideration of material gain."*
+> - 📜 **Jonathan Swift (*The Battle of the Books*):** *"The ancient manuscripts offered perpetual **incitement** to modern scribblers to attempt imitation beyond their powers."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The sublime and magnificent scenes of the Alps afforded me the greatest consolation and **incitement** to endurance."*

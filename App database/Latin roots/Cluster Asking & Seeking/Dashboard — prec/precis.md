@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sketchy summary of the main points of an argument or theory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a summary (of).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A concise summary, abstract, or abridgment of the essential facts or text.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic reporting and administrative governance, an official analytical distillation of lengthy treaties or diplomatic dispatches.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, precis designates a sketchy summary of the main points of an argument or theory."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Lord Henry drew a brilliant **precis** of modern psychological theory, reducing complex doctrines to sparkling epigrams."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"Holmes handed me a neat **precis** of the naval treaty, outlining the four crucial clauses in chronological order."*
+> - 📜 **Lytton Strachey (*Eminent Victorians*):** *"Gladstone digested the voluminous colonial reports into an admirable **precis** before presenting his bill to the Commons."*

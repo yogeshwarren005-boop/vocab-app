@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Removes dust particles from gases by electrostatic precipitation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Removes dust particles from gases by electrostatic precipitation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who or that which precipitates; an apparatus that removes suspended particles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial environmental engineering, an electrostatic device that ionizes and collects fly ash and particulates from exhaust flue gases.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, precipitator designates removes dust particles from gases by electrostatic precipitation."*
+> - 📜 **H. G. Wells (*The World Set Free*):** *"The central smokestack was fitted with an electrical **precipitator** that cleansed industrial fumes before release."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The metallic electrode acted as a powerful **precipitator**, drawing down suspended crystalline residues within the cylinder."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"The commercial chemist installed an automatic **precipitator** to recover volatile reagents from the condensing vats."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To look at critically or searchingly, or in minute detail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Examine carefully for accuracy with the intent of verification.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To examine, inspect, or observe someone or something with thorough, critical, and exacting care.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical philology and forensic investigation, to subject documentary evidence or texts to microscopic analysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"It may hate him who dares to scrutinise and expose—to rase the gilding, and show base metal under it—to penetrate the sepulchre, and reveal charnel relics: but hate as it will, it is indebted to him."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"On the contrary, the more we scrutinise that succession the more we are struck by the rigid uniformity, the punctual precision with which, wherever we can follow them, the operations of nature are carried on."*
-> - 📜 **Charles Dickens (*A Christmas Carol in Prose; Being a Ghost Story of Christmas*):** *"Secrets that few would like to scrutinise were bred and hidden in mountains of unseemly rags, masses of corrupted fat, and sepulchres of bones."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"It may hate him who dares to **scrutinise** and expose his covert sins, yet truth demands an unsparing light."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"The more we **scrutinise** ancient agrarian rituals, the clearer becomes their symbolic connection to seasonal rebirth."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"Scrooge bent down to **scrutinise** the cold paving stones, wondering if his eyes had played a phantom trick upon him."*

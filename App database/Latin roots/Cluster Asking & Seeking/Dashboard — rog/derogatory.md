@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressive of low opinion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressive of low opinion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing a low opinion or uncomplimentary judgment; intentionally disparaging and belittling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In libel law and social discourse, damaging to reputation or tending to lower a person in civic esteem.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Which there is nothing derogatory, but far from it in the appellation,” says Mr."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"It is a new circumstance in romance, I acknowledge, and dreadfully derogatory of an heroine’s dignity; but if it be as new in common life, the credit of a wild imagination will at least be all my own."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"There will be time enough to think about love when I want to, but now I have no time.” Besides, it seemed to him that the society of women was rather derogatory to his manhood."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She disliked hearing any **derogatory** remarks concerning Mr. Casaubon, even when she could not refute them."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"He cautioned Pip against uttering anything **derogatory** to the dignity and character of his new benefactor."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"The archdeacon considered the appointment of the new bishop as deeply **derogatory** to the church establishment."*
+

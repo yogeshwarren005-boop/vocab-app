@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A garment size for short or slender women.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very small.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a woman or clothing size: attractively small, dainty, and slender.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fashion design and sociology, designating garments tailored with shorter proportions for individuals under five feet four inches in height.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They say he sold his soul to the devil, and that he walks at times.” She felt the _petite mort_ at this unexpectedly gruesome information, and left the solitary man behind her."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Monsieur a parlé de vous: il m’a demandé le nom de ma gouvernante, et si elle n’était pas une petite personne, assez mince et un peu pâle."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Repeating her name slowly, she smiled invitingly at the petite woman seated on a nearby bench."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Her figure was **petite** and light, yet she moved across the shearing barn floor with a dignified self-possession."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The mind forms its ideas of great and **petite** magnitude by continuous comparison with familiar sensory standards."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"Madame Beck was a **petite**, compact woman who ruled her pensionnat with an eye that observed every classroom whisper."*

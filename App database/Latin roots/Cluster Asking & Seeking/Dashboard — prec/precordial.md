@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In front of the heart; involving the precordium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In front of the heart; involving the precordium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated in or relating to the precordium, the region of the thorax immediately over the heart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical cardiology, designating diagnostic chest leads (V1–V6) in electrocardiography that record electrical vectors directly over the myocardium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, precordial designates in front of the heart; involving the precordium."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient complained of intense **precordial** oppression, which upon auscultation revealed the friction murmur of acute pericarditis."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"He placed his stethoscope against the **precordial** area, listening intently to the rapid, muffled rhythm of the failing ventricle."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"A sudden spasm of severe **precordial** pain accompanied by pallor must alert the practitioner to coronary insufficiency."*

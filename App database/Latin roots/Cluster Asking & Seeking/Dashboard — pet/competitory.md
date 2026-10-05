@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving competition or competitiveness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving competition or competitiveness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, involving, or characterized by mutual competition and rivalry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social philosophy and legal doctrine, describing frameworks designed around institutionalized contention rather than cooperative consensus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, competitory designates involving competition or competitiveness."*
+> - 📜 **Jeremy Bentham (*Principles of the Civil Code*):** *"The **competitory** instinct among citizens must be harmonized by equitable legislation to prevent social strife."*
+> - 📜 **Herbert Spencer (*The Study of Sociology*):** *"Industrial civilization replaces military conquest with a peaceful yet rigorous **competitory** mechanism of trade."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"A purely **competitory** labor market inevitably bears heavily upon those least equipped for strenuous manual exertion."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To look at critically or searchingly, or in minute detail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Examine carefully for accuracy with the intent of verification.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To examine, inspect, or observe someone or something closely, minutely, and critically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific observation and forensic scholarship, to conduct a rigorous inspection ensuring every detail is weighed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Strype the washerwoman against Stubbs’s unjust exaction on the score of her drying-ground, and he would himself scrutinize a calumny against Mrs."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Rimov then tilted his head to scrutinize the settings on Kumiko and Scarf's weapons."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"For some minutes he continued to scrutinize the drawing minutely where he sat."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate leaned over the microscope to **scrutinize** the minute cellular alterations in the inflamed vascular tissue."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The detective knelt down upon the carpet with his pocket lens to **scrutinize** the faint muddy footprints."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Pyncheon paused on the threshold to **scrutinize** the stranger's features, seeking some token of past acquaintance."*

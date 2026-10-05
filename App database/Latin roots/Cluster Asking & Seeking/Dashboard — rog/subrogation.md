@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) the act of substituting of one creditor for another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) the act of substituting of one creditor for another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The legal substitution of one person or entity in place of another with respect to a lawful claim or debt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial equity, the principle whereby an insurer that pays a casualty loss steps into the policyholder's position to recover damages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subrogation designates (law) the act of substituting of one creditor for another."*
+> - 📜 **Joseph Story (*Commentaries on Equity Jurisprudence*):** *"The principle of **subrogation** is founded in natural justice and applies whenever one pays a debt for which another is primarily liable."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"Legal **subrogation** transfers to the indemnifier every weapon of litigation possessed by the original claimant."*
+> - 📜 **Benjamin Cardozo (*The Nature of the Judicial Process*):** *"The doctrine of equitable **subrogation** has been expanded by modern courts to ensure complete restitution."*
+

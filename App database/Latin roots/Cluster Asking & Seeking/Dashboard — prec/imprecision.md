@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of lacking precision.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of lacking precision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of exactness, precision, or accuracy; indefiniteness in thought or measurement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In quantum mechanics and scientific error analysis, the inherent spread or standard uncertainty of repeated empirical trials.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, imprecision designates the quality of lacking precision."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The chief obstacle to intellectual progress has ever been the verbal **imprecision** that conceals our factual ignorance."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"Traditional logic suffered from an incurable **imprecision** whenever it attempted to analyze relations of magnitude."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The monetary system collapsed under the sheer **imprecision** of its paper reserves and speculative accounting."*

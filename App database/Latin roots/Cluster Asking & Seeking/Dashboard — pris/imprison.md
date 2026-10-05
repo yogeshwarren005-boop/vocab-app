@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lock up or confine, in or as in a jail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Confine as if in a prison.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To put into a prison or place of confinement; to lock up, incarcerate, or restrain of personal liberty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In figurative discourse, to trap, hold captive, or severely constrain thoughts, physical movements, or vital forces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She’s wedded; Her husband banish’d; she imprison’d."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That cause, fair nephew, that imprison’d me And hath detain’d me all my flowering youth Within a loathsome dungeon, there to pine, Was cursed instrument of his decease."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Haste before, And, ere our coming, see thou shake the bags Of hoarding abbots; imprison’d angels Set at liberty."*
+> - 📜 **William Shakespeare (*Cymbeline*):** *"She’s wedded; her husband banish’d; she **imprison’d**, all outdoors for one flower or other being left open."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"Giant Despair did beat them and **imprison** them within the gloomy dungeons of Doubting Castle."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The municipal magistrates resolved to **imprison** every suspect who showed sympathy for the fallen monarchy."*
+

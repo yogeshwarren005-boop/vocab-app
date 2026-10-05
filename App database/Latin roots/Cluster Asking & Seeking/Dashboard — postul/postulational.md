@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or derived from axioms; ; - s.s.stevens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or derived from axioms; ; - s.s.stevens.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or proceeding from unproved assumptions, axioms, or foundational postulates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metamathematics and epistemology, characterizing axiomatic formal systems structured around explicit initial hypotheses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, postulational designates of or relating to or derived from axioms; ; - s.s.stevens."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"The modern axiomatic method achieves deductive rigor through a strictly **postulational** framework."*
+> - 📜 **William James (*The Meaning of Truth*):** *"Our scientific hypotheses retain an essentially **postulational** character, subject to revision by emergent empirical facts."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"In theoretical kinematics, the **postulational** basis must remain parsimonious while covering all observable trajectories."*

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of surprising someone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of surprising someone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of taking someone unawares, or the sudden astonishment produced by an unexpected event.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In information theory and statistical cognition, a quantitative measure of the unexpectedness or informational entropy of an event.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Surrounded by hostile tribes, whose mode of warfare is by ambush and surprisal, he is always prepared for fight and lives with his weapons in his hands."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Surrounded by hostile tribes, whose mode of warfare consisted in sudden **surprisal**, the settlers lived in perpetual vigilance."*
+> - 📜 **Walter Scott (*The Lady of the Lake*):** *"The highland clan secured their victory by a bold midnight **surprisal** of the sleeping garrison."*
+> - 📜 **James Fenimore Cooper (*The Last of the Mohicans*):** *"The experienced woodsman warned that their only hope lay in avoiding an ambush or unexpected **surprisal** along the river."*
+

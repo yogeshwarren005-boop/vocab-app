@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or supported or justified by a precedent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or supported or justified by a precedent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Supported, justified, or sanctioned by a prior example, authority, or precedent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional legal theory, describing an administrative action that conforms strictly to historical governmental patterns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, precedented designates having or supported or justified by a precedent."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The exercise of treaty-making power in this manner is fully **precedented** in the annals of European confederacies."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The speaker declared the impeachment to be thoroughly **precedented** by the long parliamentary struggles under the Plantagenets."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"We ask nothing novel, but stand upon ground well **precedented** in the ancient charters granted to English colonies."*

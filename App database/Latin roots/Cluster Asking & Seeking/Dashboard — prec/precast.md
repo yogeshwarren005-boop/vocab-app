@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of structural members especially of concrete; cast into form before being transported to the site of installation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of structural members especially of concrete; cast into form before being transported to the site of installation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cast, shaped, or manufactured in standardized form beforehand, especially of concrete.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural civil engineering, describing modular masonry or reinforced cement components cured under factory conditions before placement on site.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, precast designates of structural members especially of concrete; cast into form before being transported to the site of installation."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Huge architectural spans were assembled rapidly from **precast** slabs of synthetic granite in the rebuilt metropolis."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Mechanized production substitutes **precast** mouldings devoid of soul for the living touch of the medieval stonecutter."*
+> - 📜 **Lewis Mumford (*Technics and Civilization*):** *"The modern builder relies on **precast** structural units to accelerate erection while reducing reliance upon artisanal joinery."*

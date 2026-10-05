@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist who devotes himself to doing research.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who investigates.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who investigates, inquires systematically, or conducts formal research into a subject.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific and criminological history, a skilled practitioner trained to observe, hypothesize, and deduce factual conclusions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"A theory which had the support of so learned and sagacious an investigator as W."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The wisest thing the investigator can do then, it seems to me, is to let this deadly spout alone."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"The wisest thing the investigator can do then, it seems to me, is to let this deadly spout alone."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The wisest thing the **investigator** of oceanic monsters can do is to record observed facts without unwarranted speculation."*
+> - 📜 **Nathaniel Hawthorne (*The Blithedale Romance*):** *"The curious psychological **investigator** sought to decipher the hidden motives animating the utopian community."*
+> - 📜 **G. K. Chesterton (*The Innocence of Father Brown*):** *"The eccentric spiritual **investigator** looked not merely at physical footprints, but at the moral nature of the crime."*

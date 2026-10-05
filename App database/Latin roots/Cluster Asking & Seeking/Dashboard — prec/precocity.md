@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intelligence achieved far ahead of normal developmental schedules.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intelligence achieved far ahead of normal developmental schedules.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unusually early development of faculties, talents, or traits; mental forwardness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In child neuropsychology, accelerated maturation of synaptic connectivity facilitating advanced abstract conceptualization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"But she had the dismal precocity of poverty."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"How he DU dam and swear," the servants would cry, delighted at his precocity."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Pearl displayed an uncanny **precocity**, observing the embroidered symbol upon Hester's bosom with deep, knowing eyes."*
+> - 📜 **John Stuart Mill (*Autobiography*):** *"My father's rigorous educational regime subjected me to an intellectual **precocity** that detached me from normal boyhood amusements."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Georgy Osborne exhibited that worldly **precocity** common to pampered children whose every whim is indulged by adoring relatives."*

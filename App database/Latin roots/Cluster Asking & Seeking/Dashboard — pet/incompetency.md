@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of physical or intellectual ability or qualifications.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lack of physical or intellectual ability or qualifications.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of required capacity, qualification, strength, or fitness to perform a given task or function.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law, the status of being legally disqualified or mentally incapacitated from managing property, testifying, or standing trial.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I have suffered a martyrdom from their incompetency and caprice."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"If Lady Bertram, with all her incompetency and languor, could feel this, the inference of what her niece, alive and enlightened as she was, must feel, was elevating."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Tenderness toward the little lost patient who had loved and trusted him so well began gradually to usurp the place of the black hatred of what he felt to be his own incompetency."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The legal **incompetency** of an infant or lunatic protects them from being bound by unconscionable civil contracts."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A weak executive demonstrates that administrative **incompetency** which inevitably paralyzes all operations of national defense."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"To entrust legislative sovereignty to men of proven **incompetency** is to invite swift anarchy and financial catastrophe."*

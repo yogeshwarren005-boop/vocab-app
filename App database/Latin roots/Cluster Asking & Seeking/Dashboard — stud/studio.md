@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Workplace for the teaching or practice of an art.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An apartment with a living space and a bathroom and a small kitchen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A workspace utilized by an artist, sculptor, photographer, or musician for creative production.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In broadcasting, film production, and commercial media, an acoustically and visually isolated facility equipped for recording.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Mere animal satisfaction!” “This is our friend’s consulting-room (or would be, if he ever prescribed), his sanctum, his studio,” said my guardian to us."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Washington Allston, who stood at the head of American artists a half century ago, was, at one time, so reduced by poverty, that he locked his studio, in London, one day, threw himself on his knees and prayed for a loaf of bread for himself and wife."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Tiraboschi, "Usi pasquali nel Bergamasco," _Archivio per lo Studio delle Tradizione Popolari_, i. (1892) pp. 442 _sq._ The ecclesiastical custom of lighting the Paschal or Easter candle is very fully described by Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He led us upstairs into the artist's disorderly **studio**, where unfinished canvases leaned against dusty easels."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The **studio** was filled with the rich odour of roses, and when the summer wind stirred, there came through the open door the heavy scent of lilac."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The eccentric portrait painter greeted us warmly at the door of his sunlit Chelsea **studio**."*

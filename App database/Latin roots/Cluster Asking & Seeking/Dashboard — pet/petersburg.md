@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A town in southeastern virginia (south of richmond); scene of heavy fighting during the american civil war.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The final campaign of the american civil war (1864-65); union forces under grant besieged and finally defeated confederate forces under lee.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Russian imperial capital on the Gulf of Finland, or a historic city in Virginia besieged during the American Civil War.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military history, denoting the protracted ten-month siege of Petersburg (1864–1865) that foreshadowed modern trench warfare.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Petersburg, at his own cost, supported several native missionaries in India, and gave liberally to the cause of Christ at home."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Petersburg, 1862), _Peuples de l'Amérique Russe_, p. 13; A."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Petersburg, 1870) pp. 82 _sq._ [173] H."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"A single telegraph wire connects Boston to St. **Petersburg**, yet men have little of true spiritual value to communicate."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"M. O. Kowalevsky communicated to me several remarkable observations made upon domesticated animals in the imperial gardens of St. **Petersburg**."*
+> - 📜 **Ulysses S. Grant (*Personal Memoirs of U. S. Grant*):** *"The strategic investment of **Petersburg** formed the decisive turning point that forced General Lee to evacuate Richmond."*

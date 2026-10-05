@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Diligent study.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Diligent study.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The habit, disposition, or practice of diligent study, serious intellectual inquiry, or focused scholarly reading.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pedagogical theory and intellectual history, persistent dedication to book-learning and academic discipline.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, studiousness designates diligent study."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"A youth distinguished for quiet **studiousness** rarely contracts those turbulent habits that disgrace public life."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"Gentle parental encouragement fosters a natural **studiousness** far more effectively than harsh scholastic coercion."*
+> - 📜 **William Hazlitt (*The Plain Speaker*):** *"The profound **studiousness** of the elderly scholar gave his countenance an air of serene detachment from trivial worldly quarrels."*

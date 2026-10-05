@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a flower petal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling a flower petal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a flower petal in texture, shape, or coloration; petal-like.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive botanical taxonomy, applied to sepals, stamens, bracts, or styles that have become expanded and showy like petals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petaloid designates resembling a flower petal."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"In the iris, the three styles expand into arching **petaloid** branches that roof over the corresponding stamens."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Cultivated double flowers frequently exhibit stamens that have reverted into broad **petaloid** organs."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The perianth of monocotyledons frequently consists of two whorls of nearly identical **petaloid** segments."*

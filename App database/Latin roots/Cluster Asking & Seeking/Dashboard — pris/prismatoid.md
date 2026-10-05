@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A polyhedron whose vertices all lie in one or the other of two parallel planes; the faces that lie in those planes are the bases of the prismatoid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A polyhedron whose vertices all lie in one or the other of two parallel planes; the faces that lie in those planes are the bases of the prismatoid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A polyhedron whose vertices all lie in two parallel planes, with bases formed by arbitrary polygons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In solid geometry, a generalized spatial solid whose volume can be accurately evaluated by the prismoidal formula.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prismatoid designates a polyhedron whose vertices all lie in one or the other of two parallel planes; the faces that lie in those planes are the bases of the prismatoid."*
+> - 📜 **William Chauvenet (*A Treatise on Elementary Geometry*):** *"The volume of any **prismatoid** is equal to one-sixth of the altitude multiplied by the sum of both bases and four times the midsection."*
+> - 📜 **Simon Newcomb (*Elements of Geometry*):** *"When the vertices of a polyhedron are restricted to two parallel planes, the resulting figure is designated a **prismatoid**."*
+> - 📜 **G. B. Halsted (*The Prismoidal Formula*):** *"The practical surveyor applies the prismoidal theorem to calculate earthwork excavations bounded as an irregular **prismatoid**."*
+

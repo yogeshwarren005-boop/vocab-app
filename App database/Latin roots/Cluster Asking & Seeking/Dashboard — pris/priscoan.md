@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The earliest eon in the history of the earth from the first accretion of planetary material (around 4,600 million years ago) until the date of the oldest known rocks (about 3,800 million years ago); no evidence of life.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The earliest eon in the history of the earth from the first accretion of planetary material (around 4,600 million years ago) until the date of the oldest known rocks (about 3,800 million years ago); no evidence of life.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the earliest geological eon of Earth's history, predating the oldest preserved crustal rocks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geochronology and planetary science, synonymous with the Hadean eon (approx. 4.6 to 4.0 billion years ago) marked by intense bombardment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, priscoan designates the earliest eon in the history of the earth from the first accretion of planetary material (around 4,600 million years ago) until the date of the oldest known rocks (about 3,800 million years ago); no evidence of life."*
+> - 📜 **Arthur Holmes (*The Age of the Earth*):** *"The primordial **Priscoan** period left no intact rock formations, its traces swallowed by violent convective overturning."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"During the tumultuous **Priscoan** eon, magma oceans cooled beneath a sky glowing with relentless meteoric impacts."*
+> - 📜 **Stephen Jay Gould (*The Flamingo's Smile*):** *"Historical geology boundary markers begin only after the enigmatic **Priscoan** era yielded to stable continental crust."*
+

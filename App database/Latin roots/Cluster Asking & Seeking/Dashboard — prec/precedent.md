@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An example that is used to justify similar occurrences at a later time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (civil law) a law established by following earlier judicial decisions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An earlier event, decision, or action serving as an authoritative guide or model.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In common law jurisprudence, a prior judicial adjudication that legally binds or guides future tribunals under the doctrine of stare decisis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do it at once, Or thy precedent services are all But accidents unpurposed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am perfect That the Pannonians and Dalmatians for Their liberties are now in arms, a precedent Which not to read would show the Britons cold; So Cæsar shall not find them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A murderer and a villain; A slave that is not twentieth part the tithe Of your precedent lord."*
+> - 📜 **William Shakespeare (*Antony and Cleopatra*):** *"Do it at once, or thy **precedent** services are all but accidents unpurposed."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Brooke made a remark perhaps less warranted by **precedent**, namely, that if he had foreknown his speech, he might have altered it."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood opened the letter, expecting another anonymous one, so greatly are ideas of probability guided by recent **precedent**."*

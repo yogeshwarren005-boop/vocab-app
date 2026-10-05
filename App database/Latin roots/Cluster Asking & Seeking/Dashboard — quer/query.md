@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instance of questioning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pose a question.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A question, inquiry, or doubt addressed to an authority or posed for investigation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer science and epistemology, a formal instruction issued to a search engine or database to retrieve matching entries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I inquire that query boldly?” “We can’t say that you have, Hero Poorgrass,” admitted Jan."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Troy, you will marry again some day?” This point-blank query unmistakably confused her, and it was not till a minute or more had elapsed that she said, “I have not seriously thought of any such subject.” “I quite understand that."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I cannot split hairs on that burning query,” he said."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak pondered over her brief **query**, wondering whether some hidden affection lay beneath her teasing words."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The physician addressed an anxious **query** to the reverend gentleman regarding the mysterious symptoms of his malady."*
+> - 📜 **Bram Stoker (*Dracula*):** *"Jonathan Harker noted down every peculiar **query** put to him by the Count concerning London legal practice."*

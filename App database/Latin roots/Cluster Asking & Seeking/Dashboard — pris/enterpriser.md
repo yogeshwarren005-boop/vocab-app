@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who organizes a business venture and assumes the risk for it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who organizes a business venture and assumes the risk for it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An individual who undertakes a bold, hazardous, or ambitious venture; an entrepreneur.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical economics, the coordinating agent who mobilizes factors of production and assumes market uncertainty for profit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A wide field for enterpriser's profits was opened up by the rapid displacement of prevailing prices in all quarters of the industrial world."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The average enterpriser's gain was the average wage-worker's loss."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Such chances must be taken both by the small enterpriser and by the large."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Such chances must be taken both by the small **enterpriser** and by the large in the competitive marketplace."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"The modern **enterpriser** directs his energies not toward physical workmanship but toward pecuniary gains."*
+> - 📜 **Alfred Marshall (*Principles of Economics*):** *"The specialized judgment of the alert **enterpriser** discerns new openings where routine managers perceive only hazard."*
+

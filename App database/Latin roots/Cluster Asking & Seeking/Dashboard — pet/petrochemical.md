@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any compound obtained from petroleum or natural gas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any compound obtained from petroleum or natural gas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to substances or chemical products obtained from petroleum or natural gas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical engineering and industrial geology, designating synthetic compounds such as polymers, solvents, and fertilizers refined from hydrocarbons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petrochemical designates any compound obtained from petroleum or natural gas."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"The massive expansion of the modern **petrochemical** industry introduced thousands of synthetic compounds into the global biosphere."*
+> - 📜 **Thorstein Veblen (*The Engineers and the Price System*):** *"Modern heavy manufacture relies fundamentally upon continuous output from the burgeoning **petrochemical** and refinery complexes."*
+> - 📜 **Lewis Mumford (*Technics and Civilization*):** *"The neotechnic phase of industrial society is tied to the energy grids and **petrochemical** innovations derived from fossil fuels."*

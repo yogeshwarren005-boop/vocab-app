@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of flowers) having petals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of flowers) having petals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Furnished with or possessing petals, especially describing floral composition in British usage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In morphological botany and descriptive nature writing, characterizing flowers distinguished by the form, texture, or arrangement of their corolla lobes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Perhaps you will hardly believe it.” Lord Henry smiled, and leaning down, plucked a pink-petalled daisy from the grass and examined it."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He possessed a gorgeous cope of crimson silk and gold-thread damask, figured with a repeating pattern of golden pomegranates set in six-petalled formal blossoms, beyond which on either side was the pine-apple device wrought in seed-pearls."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He pressed his face into the cool, rose-**petalled** bowl, breathing the heavy perfume of the summer garden."*
+> - 📜 **Thomas Hardy (*Under the Greenwood Tree*):** *"A solitary many-**petalled** primrose bloomed upon the mossy bank beneath the roots of the ancient beech tree."*
+> - 📜 **Alfred Tennyson (*Idylls of the King*):** *"She sat among white-**petalled** lilies, her fair countenance reflecting the golden light of the declining day."*

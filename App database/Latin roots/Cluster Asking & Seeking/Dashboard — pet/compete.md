@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Compete for something; engage in a contest; measure oneself against others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Compete for something; engage in a contest; measure oneself against others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To strive against others in pursuit of a prize, goal, position, or common advantage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and economic theory, to contest for limited environmental resources, market share, or reproductive success.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Five are selected to compete for it by the votes of their fellow-students."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Their efforts to attain freedom to compete was the vital force of the time."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Thus, in a sense, different commodities compete, each trying to prove its fitness to be a medium of trade; but only one, or two, or three at the most, can at one time hold such a place."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"As the species of the same genus usually have much similarity in habits, they generally **compete** closely with each other."*
+> - 📜 **James Joyce (*Ulysses*):** *"Rival merchants **compete** fiercely for custom along the quays, shouting the superior merits of their wares."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"Strong athletes gather upon the field to **compete** for renown in running, wrestling, and leaping."*

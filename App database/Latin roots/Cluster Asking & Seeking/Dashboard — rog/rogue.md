@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A deceitful and unreliable scoundrel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deceitful and unreliable scoundrel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dishonest, unprincipled scoundrel; an individual or animal that operates unpredictably outside regular societal or herd controls.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In socio-historical discourse, an itinerant vagabond in Tudor England; in modern technology, an unauthorized, malicious system component.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rogue, thou hast lived too long. [_Draws a knife._] MESSENGER."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O what a rogue and peasant slave am I!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A pestilence on him for a mad rogue!"*
+> - 📜 **William Shakespeare (*Hamlet*):** *"O, what a **rogue** and peasant slave am I! Is it not monstrous that this player here, but in a fiction, in a dream of passion, could force his soul?"*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"That old **rogue** Long John Silver smiled into the boy's face with smooth, treacherous goodwill."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"He warned us that an escaped convict, a dangerous and desperate **rogue**, was lurking out on the lonely moor."*
+

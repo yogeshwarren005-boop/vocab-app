@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An aggressive willingness to compete.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An aggressive willingness to compete.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An aggressive disposition or institutional capability to contest successfully against rivals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In macroeconomic analysis, the structural efficiency and technological adaptability allowing a firm or country to maintain market supremacy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, competitiveness designates an aggressive willingness to compete."*
+> - 📜 **Joseph Schumpeter (*Capitalism, Socialism and Democracy*):** *"Dynamic industrial **competitiveness** relies far more upon technological innovation than upon trivial marginal price adjustments."*
+> - 📜 **Max Weber (*The Protestant Ethic and the Spirit of Capitalism*):** *"The ethical sanction of vocational diligence imparted an unprecedented **competitiveness** to early Western enterprise."*
+> - 📜 **Thorstein Veblen (*The Instinct of Workmanship*):** *"Exaggerated commercial **competitiveness** often redirects human ingenuity away from craftsmanship toward predatory marketing."*

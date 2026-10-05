@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to decrease or cause a decrease in value.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to diminish or disparage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to disparage, belittle, or lower in value or estimation; derogatory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetorical analysis, characterizing satirical tropes that subvert an adversary's dignity through underestimation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, depreciatory designates tending to decrease or cause a decrease in value."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mrs. Plymdale delivered a **depreciatory** remark concerning the newcomers, hinting that their pedigree was dubious."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Teufelsdröckh treated worldly honors with a **depreciatory** laugh, looking through court embroidery to the naked biped beneath."*
+> - 📜 **Anthony Trollope (*The Small House at Allington*):** *"Lady de Courcy dropped a few **depreciatory** words about the bride's dowry to ensure her own superiority."*

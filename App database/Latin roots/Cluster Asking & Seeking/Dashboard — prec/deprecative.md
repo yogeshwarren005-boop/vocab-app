@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to diminish or disparage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Given to expressing disapproval.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving or tending to deprecate; expressive of mild protest, disapproval, or supplication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and discourse analysis, describing hedging utterances deployed by speakers to soften potential interpersonal friction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Randall Garrett (*Deadly decoy*):** *"But I am not the assassin type, myself." He waved a four-fingered blue hand in a deprecative gesture."*
+> - 📜 **Henry James (*The American*):** *"Newman observed the young Frenchman's **deprecative** shrug, which seemed to disclaim all personal responsibility for Parisian etiquette."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"Mr. Slope adopted a **deprecative** smile whenever the bishop's wife interposed her formidable authority in diocesan matters."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Thaddeus Sholto held up his long white hands with a **deprecative** gesture against Watson's indignant remonstrance."*

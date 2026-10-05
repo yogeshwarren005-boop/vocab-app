@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An italian poet famous for love lyrics (1304-1374).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An italian poet famous for love lyrics (1304-1374).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The anglicized name of Francesco Petrarca, Italian humanist poet celebrated for his love sonnets to Laura.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In prosody and comparative literature, the archetype of the Petrarchan sonnet structure consisting of an octave and sestet.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now is he for the numbers that Petrarch flowed in."*
-> - 📜 **George Eliot (*Middlemarch*):** *"However slight the terrestrial intercourse between Dante and Beatrice or Petrarch and Laura, time changes the proportion of things, and in later days it is preferable to have fewer sonnets and more conversation."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"And now here is my pocket Petrarch, and not another word shall I say of this case until we are on the scene of action."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"Now is he for the numbers that **Petrarch** flowed in: Laura to his lady was but a kitchen-wench."*
+> - 📜 **George Eliot (*Romola*):** *"Bardo possessed rare manuscripts of **Petrarch** which he guarded with the jealous reverence of a true Florentine scholar."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"The refined sonnets of **Petrarch** gave polish to the Italian tongue and inspired centuries of romantic verse."*

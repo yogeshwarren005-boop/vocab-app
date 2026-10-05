@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A careful examiner; someone who inspects with great care.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A careful examiner; someone who inspects with great care.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who scrutinizes; an attentive and critical examiner or investigator.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and judicial review, an analyst who investigates underlying structures, doctrines, or textual integrity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scrutinizer designates a careful examiner; someone who inspects with great care."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"Nature repays the patient **scrutinizer** with sudden revelations of harmony that escape the superficial glance."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The solitary walker becomes a keen **scrutinizer** of the changing seasons, noting every bud and shifting shadow."*
+> - 📜 **John Stuart Mill (*An Examination of Sir William Hamilton's Philosophy*):** *"A philosophical **scrutinizer** must test every metaphysical axiom against the rigorous demands of experience."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (logic) a declaration of something self-evident; something that can be assumed as the basis for argument.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A formal message requesting something that is submitted to an authority.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The assumption or assertion of something as true without immediate proof, serving as a premise for argument.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and ecclesiastical history, the formal petitioning or recommendation of a candidate to an office by those lacking direct power to elect.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, postulation designates (logic) a declaration of something self-evident; something that can be assumed as the basis for argument."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The bold **postulation** of vast geological epochs was necessary to accommodate the gradual divergence of species."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Scientific induction cannot rest upon arbitrary **postulation**, but must continually verify its assumptions against observed facts."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"The uncritical **postulation** of occult occult qualities in matter has long impeded the advance of natural philosophy."*

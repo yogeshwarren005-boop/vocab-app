@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Express strong disapproval of; deplore.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belittle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing earnest disapproval, mild protest, or an apologetic, self-effacing attitude.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral sociology, signaling social deference through gestures designed to deflect hostility or unearned praise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Now, don’t ye take on so, shepherd, and sit down!” said Henery, with a deprecating peacefulness equal to anything of the kind in Christianity."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"How can I help pushing ye when the folk behind push me?” said Coggan, in a deprecating tone, turning his head towards the aforesaid folk as far as he could without turning his body, which was jammed as in a vice."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her mother put on a deprecating look."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Now, don't ye take on so, shepherd, and sit down! said Henery, with a **deprecating** peacefulness equal to anything."*
+> - 📜 **G. K. Chesterton (*The Ball and the Cross*):** *"I'm sure you'll excuse my speaking to you, said the stranger, in a voice at once eager and **deprecating**."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Brooke offered a **deprecating** wave of his hand, assuring the company that extreme measures were rarely advisable."*

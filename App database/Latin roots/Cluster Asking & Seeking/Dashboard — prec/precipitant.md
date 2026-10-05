@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent that causes a precipitate to form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Done with very great haste and without due deliberation; - shakespeare; - arthur geddes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rushing headlong or acting rashly; or an agent that causes a solid substance to precipitate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytical chemistry, a specific reagent whose addition to a solution induces the formation of an insoluble chemical compound.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Given such a precipitant, the process of recovering the gold would be simple and cheap."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"At every tide these would be filled, and when full the precipitant would be added."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Simple treatment would release the gold from its partner, which would then be returned to the tanks to act as the precipitant once more."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"A dogmatic intellect displays a **precipitant** judgment, embracing conclusions before examining the contradictory evidence."*
+> - 📜 **Michael Faraday (*Chemical Manipulation*):** *"Add the aqueous silver nitrate drop by drop; it acts as an immediate **precipitant** of insoluble chloride salt."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The mob poured with **precipitant** fury down the boulevards, overwhelming the royal guard before muskets could be primed."*

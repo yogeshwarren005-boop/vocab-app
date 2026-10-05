@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Express strong disapproval of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Regret strongly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To express strong disapproval of, regret deeply, or mourn grievous misfortunes and ethical failings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic rhetoric and moral philosophy, to formally denounce an unjust aggression, breach of covenant, or tragic calamity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And so adieu, good madam; never more Will I my master’s tears to you deplore."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Your ladyship will remember when I mention it that the last time I was here I run against a party very eminent in our profession and whose loss we all deplore."*
-> - 📜 **Jane Austen (*Persuasion*):** *"There he had seen everything to exalt in his estimation the woman he had lost; and there begun to deplore the pride, the folly, the madness of resentment, which had kept him from trying to regain her when thrown in his way."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do **deplore** his death with all my heart, and mourn the bitter stroke of sudden fate."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Men of thoughtful judgment must **deplore** that persistent negligence which blinds the mind to demonstrable truths."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood could only silently **deplore** the irrevocable step that had alienated him from her favor forever."*

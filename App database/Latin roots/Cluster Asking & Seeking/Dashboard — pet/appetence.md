@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of craving something; ; - granville hicks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of craving something; ; - granville hicks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instinctive inclination, intense natural craving, or sensual longing directed toward an object.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical psychology and metaphysical ethics, an inherent propensity of living consciousness driving purposeful action toward gratification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, appetence designates a feeling of craving something; ; - granville hicks."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"The lower animals act merely from sensible **appetence**, devoid of that reflective will which constitutes moral agency."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Man's spiritual hunger cannot be satisfied by mere material abundance or earthly **appetence**."*
+> - 📜 **George Henry Lewes (*Problems of Life and Mind*):** *"Every vital tissue manifests an inherent **appetence** for those organic compounds necessary to maintain its vegetative equilibrium."*

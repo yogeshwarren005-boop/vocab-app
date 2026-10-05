@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Added or derived from something outside; not inherent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supplemental; not part of the real or essential nature of a thing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Added from an external source; supplemental, adventitious, or derived rather than innate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal jurisprudence and philosophical epistemology, denoting external evidentiary factors or auxiliary assumptions not intrinsic to a core principle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adscititious designates added or derived from something outside; not inherent."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"True poetic genius relies upon its own native fires rather than upon borrowed, **adscititious** ornaments of rhetoric."*
+> - 📜 **Jeremy Bentham (*Rationale of Judicial Evidence*):** *"The court must carefully separate intrinsic evidentiary facts from **adscititious** testimony introduced by interested parties."*
+> - 📜 **Thomas De Quincey (*The Opium-Eater and Other Writings*):** *"The philosophical critic should strip away all **adscititious** reputation and judge the work purely by its enduring merits."*

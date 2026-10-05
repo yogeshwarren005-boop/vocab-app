@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to move toward a center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to unify.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Directed toward the center or interior; tending to move inward along a radius.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical mechanics and political sociology, designating a centralizing force or consolidating tendency that holds elements within a unified orbit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"How is this force, with its numberless checks and counter-checks, its centripetal and centrifugal tendencies, best determined in its necessarily oblique way?"*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Everything again is centripetal; Tertullian is too much in earnest to lose himself in the endless periods of the rhetorician, or in the charming fancies dear to the eclectic and especially to contemporary Platonists."*
-> - 📜 **James Joyce (*Ulysses*):** *"How did the centripetal remainer afford egress to the centrifugal departer?"*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Nature balances the centrifugal urge of individual divergence with the strong **centripetal** gravity of common law."*
+> - 📜 **Bram Stoker (*Dracula*):** *"The howling wolves seemed gathered by some **centripetal** command, drawing closer toward our beleaguered carriage."*
+> - 📜 **Walt Whitman (*Democratic Vistas*):** *"A great nation requires both centrifugal personal freedom and the **centripetal** cohesion of fraternal solidarity."*

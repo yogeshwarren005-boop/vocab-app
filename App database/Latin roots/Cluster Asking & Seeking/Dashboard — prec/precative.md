@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing entreaty or supplication.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressing entreaty or supplication.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing, conveying, or having the character of a prayer, request, or supplication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical philology and comparative grammar, designating an optative verbal mood or inflection employed strictly for entreaty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, precative designates expressing entreaty or supplication."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"The psalmist employs a **precative** utterance that reveals profound reliance upon divine mercy rather than legal right."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The ancient Sanskrit benediction retains a distinct **precative** form that grammarians separated from the simple imperative."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"Certain indigenous idioms possess a delicate **precative** suffix used when addressing tribal elders during ceremonial councils."*

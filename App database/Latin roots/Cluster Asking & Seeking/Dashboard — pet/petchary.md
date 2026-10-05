@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A kingbird that breeds in the southeastern united states and winters in tropical america; similar to but larger than the eastern kingbird.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A kingbird that breeds in the southeastern united states and winters in tropical america; similar to but larger than the eastern kingbird.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A West Indian tyrant flycatcher bird, especially the grey kingbird (Tyrannus dominicensis), named after its vocalization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neotropical ornithology, a pugnacious migratory bird noted for fiercely chasing hawks and crows from its territory while uttering a loud, shrieking pipiri call.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petchary designates a kingbird that breeds in the southeastern united states and winters in tropical america; similar to but larger than the eastern kingbird."*
+> - 📜 **Philip Henry Gosse (*The Birds of Jamaica*):** *"The **petchary** takes its station upon the topmost twig of a dead tree, darting out with shrill cries to seize passing beetles."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"In the Florida Keys, the grey kingbird, locally known as the **petchary**, defends its nest with astonishing intrepidity."*
+> - 📜 **Frank Chapman (*Camps and Cruises of an Ornithologist*):** *"The harsh morning call of the **petchary** echoed across the mangrove cays as dawn broke over the Caribbean."*

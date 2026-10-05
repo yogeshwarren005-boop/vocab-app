@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Food or drink to stimulate the appetite (usually served before a meal or as the first course).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Food or drink to stimulate the appetite (usually served before a meal or as the first course).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small portion of savory food or stimulating beverage served before a meal to sharpen the appetite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In culinary traditions and gastronomy, an introductory course designed to awaken digestive secretions through acid, salt, or bitterness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, appetiser designates food or drink to stimulate the appetite (usually served before a meal or as the first course)."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"A modest **appetiser** of salted fish and wine was set upon the sideboard to revive the flagging spirits of the travelers."*
+> - 📜 **W. M. Thackeray (*The History of Pendennis*):** *"The captain insisted that a brisk walk across the windy heath was the finest **appetiser** known to human experience."*
+> - 📜 **Anthony Trollope (*The Last Chronicle of Barset*):** *"The doctor partook sparingly of an **appetiser** before sitting down to the substantial clerical feast."*

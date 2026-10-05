@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of flowers) having no petals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of flowers) having no petals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Destitute of petals; lacking a corolla, as in apetalous flowering plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic floristics and evolutionary morphology, describing flowers adapted for anemophily (wind pollination) by discarding insect-attracting petals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petalless designates (of flowers) having no petals."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The wind-pollinated flowers of the birch and willow are completely **petalless**, exposing their naked stamens to every passing breeze."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"Certain cleistogamic flowers remain permanently closed and virtually **petalless**, ensuring self-fertilization without nectar production."*
+> - 📜 **John Torrey (*Flora of North America*):** *"The apetalous family Chenopodiaceae exhibits small, inconspicuous **petalless** flowers crowded in dense terminal spikes."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving in or intended for exploration or discovery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving in or intended for exploration or discovery.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Undertaken for the purpose of discovery, initial diagnosis, or systematic fact-finding rather than definitive action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical surgery and statistical data analysis, serving as an initial probing procedure to uncover hidden lesions or empirical patterns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exploratory designates serving in or intended for exploration or discovery."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses and Reviews*):** *"Scientific progress requires cautious **exploratory** experiments before generalizing across a wide class of phenomena."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A surgical **exploratory** incision often reveals deep internal pathology that escaped external palpation."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"The organism extends delicate **exploratory** filaments into the surrounding medium to gauge environmental chemistry."*

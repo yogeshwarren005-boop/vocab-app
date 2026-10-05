@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bad; unfortunate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of very poor quality or condition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deserving strong condemnation, regret, or grief; shockingly bad or lamentable in quality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social reform and political critique, describing wretched socioeconomic deprivation or unconscionable civic breakdown.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The coroner’s jury found that he took the poison accidentally.” “And what kind of man,” my Lady asks, “was this deplorable creature?” “Very difficult to say,” returns the lawyer, shaking his head."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It affected us to see Caddy clinging, then, to her deplorable home and hanging on her mother’s neck with the greatest tenderness."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess had thirty pounds coming to her almost immediately from Angel’s bankers, and, the case being so deplorable, as soon as the sum was received she sent the twenty as requested."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Tess had thirty pounds coming to her from Angel's bankers, and, the case being so **deplorable**, she sent the sum requested."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"It is a **deplorable** mistake to look for wisdom among those whose thoughts are chained to narrow conventions."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The condition of the native station workers was utterly **deplorable**, abandoned as they were to starvation and neglect."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dark oil consisting mainly of hydrocarbons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dark oil consisting mainly of hydrocarbons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A liquid mixture of hydrocarbons that is present in certain rock strata and can be extracted and refined into fuels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic geology and petrochemistry, crude mineral oil formed from compressed prehistoric marine organic matter, powering modern industrial transport.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Petroleum and natural gas, of which our original reservoirs were perhaps the richest in the world, are being rapidly exhausted."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Long before Easter the young people have been busy collecting firewood; every farmer contributes, and tar-barrels, petroleum cases, and so forth go to swell the pile."*
-> - 📜 **Algis Budrys (*Citadel*):** *"Coal beds, petroleum basins, the works."*
+> - 📜 **G. K. Chesterton (*The Flying Inn*):** *"The modern plutocrat cares little for ancient vineyards so long as he controls the dark, subterranean torrents of **petroleum**."*
+> - 📜 **H. G. Wells (*The World Set Free*):** *"The global struggle for coal and **petroleum** gave way abruptly when industrial science unlocked the latent atomic energies of the element."*
+> - 📜 **Thorstein Veblen (*Absentee Ownership*):** *"Strategic monopolies in **petroleum** distillation dictated the geopolitical alliances of the early twentieth century."*

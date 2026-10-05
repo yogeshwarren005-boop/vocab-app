@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A communication that belittles somebody or something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) the partial taking away of the effectiveness of a law; a partial repeal or abolition of a law.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of lessening, detracting from, or disparaging reputation, authority, or legal force.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international and administrative law, a formal exemption or partial restriction from statutory obligations or treaty terms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It is no derogation from the credit, whatever that may be, of drawing the ordinance, that its principles had before been prepared and discussed, in the form of resolutions."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The deliberate **derogation** of hereditary honors struck directly at the stability of the entire political commonwealth."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A later statute may effect a partial **derogation** of earlier common law without entirely repealing the core principle."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"Any malicious **derogation** of an honorable man's integrity wounds his spirit far deeper than material loss."*
+

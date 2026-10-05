@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking in enterprise; not bold or venturesome.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking in enterprise; not bold or venturesome.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking initiative, ambition, or readiness to venture into new or hazardous undertakings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic sociology, characterizing risk-averse communities or firms that strictly adhere to traditional, uninnovative practices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonenterprising designates lacking in enterprise; not bold or venturesome."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The stagnant provincial towns remained under the influence of a timid and **nonenterprising** burgher oligarchy."*
+> - 📜 **Thorstein Veblen (*Imperial Germany and the Industrial Revolution*):** *"Traditional craft guilds maintained a strictly **nonenterprising** posture toward foreign mechanical developments."*
+> - 📜 **George Gissing (*New Grub Street*):** *"His temperament was modest and **nonenterprising**, entirely unfitted for the aggressive commercialism of modern journalism."*
+

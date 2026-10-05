@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a petty way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a petty way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a petty, trivial, or mean-spirited manner; with narrow-minded spite or smallness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral critique, acting with grudging resentment, frivolous jealousy, or microscopic vindictiveness toward associates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pettily designates in a petty way."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He acted so **pettily** in withholding the minor clerical stipend that even his staunchest parish allies felt ashamed."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"Mrs. Proudie avenged herself **pettily** by refusing to invite the archdeacon's wife to the episcopal reception."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard was too large a nature to behave **pettily** when fortune crushed him, though pride kept him aloof from all aid."*

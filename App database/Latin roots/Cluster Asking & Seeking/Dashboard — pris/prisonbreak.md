@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An escape from jail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An escape from jail.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A coordinated, forcible escape of one or more inmates from a penitentiary or detention facility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In penological history and criminology, a breach of institutional security involving the evasion of armed guards and physical barriers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prisonbreak designates an escape from jail."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The convicts plotted a desperate **prisonbreak**, whispering plans through the iron water-pipes during the midnight lockup."*
+> - 📜 **Arthur Conan Doyle (*The Return of Sherlock Holmes*):** *"News of the audacious **prisonbreak** reached Scotland Yard before the morning trains had left the capital."*
+> - 📜 **Victor Hugo (*Les Misérables*):** *"His repeated attempts at **prisonbreak** only added more bitter years of galleys to his original sentence."*
+

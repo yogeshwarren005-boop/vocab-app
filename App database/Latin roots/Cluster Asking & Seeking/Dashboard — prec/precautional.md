@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Taken in advance to protect against possible danger or failure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Taken in advance to protect against possible danger or failure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or serving as a precaution; preventive or precautionary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical hygiene and epidemiological surveillance, pertaining to procedural barriers implemented proactively against potential pathogens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, precautional designates taken in advance to protect against possible danger or failure."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Ordinary **precautional** sanitation regarding clean air and boiling water will banish the contagion from hospital wards."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"Engineers neglected the **precautional** dykes, leaving the delta exposed to catastrophic inundation during the spring floods."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Wise statesmen erect **precautional** constitutional checks to restrain the tempestuous impulses of popular assemblies."*

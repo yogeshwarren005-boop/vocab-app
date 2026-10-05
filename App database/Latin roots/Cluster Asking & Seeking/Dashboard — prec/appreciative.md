@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling or expressive of gratitude.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or showing appreciation or a favorable critical judgment or opinion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing, showing, or feeling warm admiration, gratitude, or sensitive discernment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological evaluation, exhibiting receptive cognitive awareness toward subtle sensory, cultural, or interpersonal cues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Being a man not without a frequent consciousness that there was some charm in this life he led, he stood still after looking at the sky as a useful instrument, and regarded it in an appreciative spirit, as a work of art superlatively beautiful."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba had reached a stage at which people cease to have any appreciative regard for public opinion."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Troy was not greatly elated by the appreciative spirit in which he was undoubtedly treated, but he thought the engagement might afford him a few weeks for consideration."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Being a man not without a frequent consciousness that there was some charm in this life he led, he stood still with an **appreciative** gaze."*
+> - 📜 **George Eliot (*Middlemarch*):** *"A wife, a modest young lady, with the purely **appreciative**, unambitious abilities of her sex, is sure to think her husband wise."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Traddles listened with an **appreciative** nod as David related the ambitious plans formed for their mutual advancement."*

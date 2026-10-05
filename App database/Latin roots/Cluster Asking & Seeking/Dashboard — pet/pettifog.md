@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Argue over petty things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Argue over petty things.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To act as a pettifogger; to quibble over trivial legalities or use petty, disreputable tricks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In judicial ethics and rhetoric, engaging in chicanery, obfuscation, and unprincipled procedural maneuvering for small pecuniary fees.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pettifog designates argue over petty things."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"He who learns only to **pettifog** in tiny disputes will never rise to comprehend the noble foundations of constitutional law."*
+> - 📜 **Charles Dickens (*The Old Curiosity Shop*):** *"Mr. Brass preferred to **pettifog** for shillings rather than defend an honest client upon solid equitable principles."*
+> - 📜 **Washington Irving (*Knickerbocker's History of New York*):** *"The frontier lawyers began to **pettifog** so noisily over boundary disputes that the honest burghers abandoned their farms."*

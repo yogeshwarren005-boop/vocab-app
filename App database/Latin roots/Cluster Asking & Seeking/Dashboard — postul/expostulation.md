@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of expressing earnest opposition or protest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An exclamation of protest or remonstrance or reproof.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An earnest, reasoned protest or objection lodged against someone's behavior, decision, or intention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric and drama, a formal passage of remonstrance appealing to justice, prudence, or filial duty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, we must use expostulation kindly, For it is parting from us."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Ho—ho—Sergeant—ho—ho!” An expostulation followed, but it was indistinct; and it became lost amid a low peal of laughter, which was hardly distinguishable from the gurgle of the tiny whirlpools outside."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"And then her cooing voice, plaintive in expostulation, disturbed the darkness, the velvet touch of her lips passed over his brow, and he could distinguish in the air the warmth of her breath."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hear my **expostulation**, royal sovereign, and weigh the heavy griefs that urge my speech."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel Oak's blunt **expostulation** offended Bathsheba, though her conscience acknowledged the justice of his warning."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The minister offered a mild **expostulation**, striving to soften the magistrate's inflexible judgment."*

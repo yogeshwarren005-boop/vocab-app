@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a noncompetitive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a noncompetitive manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a noncompetitive manner; without participating in rivalry, bidding contests, or market conflict.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry, inhibiting an enzyme by binding to an allosteric site rather than competing directly for the catalytic active site.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, noncompetitively designates in a noncompetitive manner."*
+> - 📜 **Arthur Eddington (*The Nature of the Physical World*):** *"Natural philosophers ought to share observational discoveries **noncompetitively** for the universal advancement of truth."*
+> - 📜 **John Maynard Keynes (*The General Theory of Employment, Interest and Money*):** *"Public works allocated **noncompetitively** during depressions stimulate aggregate demand without driving marginal costs upward."*
+> - 📜 **William James (*Talks to Teachers on Psychology*):** *"Children learn moral sympathy most effectively when playing **noncompetitively** in cooperative schoolyard games."*

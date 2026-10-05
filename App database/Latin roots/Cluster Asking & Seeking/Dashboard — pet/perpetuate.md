@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to continue or prevail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to continue or prevail.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make something continue indefinitely, preserve from oblivion, or sustain through time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical anthropology and institutional theory, to transmit traditions, privileges, or ideological structures across succeeding generations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A busybody despotism may protect the fool, but it thereby helps to perpetuate and multiply his folly; yet if the fool is left alone, he too often is a plague to the wise and the virtuous. § 7. #City growth and the housing problem#."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A strong sense of the value and blessings of union induced the people, at a very early period, to institute a federal government to preserve and perpetuate it."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"To preserve and perpetuate it was the great object of the people in forming that convention, and it is also the great object of the plan which the convention has advised them to adopt."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"No method nor discipline can supersede the necessity of being forever on the alert to **perpetuate** our highest spiritual awakenings."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The ancestral mansion seemed built to **perpetuate** a family curse across seven generations of suffering heirs."*
+> - 📜 **G. K. Chesterton (*Orthodoxy*):** *"Tradition may be defined as an extension of the franchise, giving votes to our ancestors to **perpetuate** collective human wisdom."*

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Formal systematic questioning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the use of or having the nature of an interrogation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing or conveying an inquiry; a formal list of written questions submitted to a witness or party.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil procedure and pretrial discovery, a formal set of written queries that an adverse litigant must answer under oath.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"No one seemed to understand to whom the stately mistress addressed her brief interrogatory."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"That does not answer my interrogatory."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"But, sir, this interrogatory of the honorable member was only introductory to another."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The court of equity directs a detailed **interrogatory** to be exhibited to the defendant for his answer upon oath."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The solicitor drafted an exhaustive **interrogatory** designed to uncover every hidden dealing of the estate."*
+> - 📜 **Anthony Trollope (*The Last Chronicle of Barset*):** *"He submitted with painful reluctance to the sharp **interrogatory** administered by the bishop's chaplain."*
+

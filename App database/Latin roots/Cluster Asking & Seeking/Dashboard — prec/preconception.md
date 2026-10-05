@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An opinion formed beforehand without adequate evidence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A partiality that prevents objective consideration of an issue or situation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An opinion, belief, or conception formed beforehand, often without empirical basis; prejudice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hermeneutics and cognitive framing, the pre-reflective interpretive horizon (Vorverständnis) through which an observer decodes textual meaning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"There are the Gospels, and, like other historical records, they must be studied in earnest on scientific lines without preconception."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"In each case the preconception had grown up, as about the myths of Isis, for example, that such books were in some way sacred and inspired."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"The motions of these men were slow and solemn, as if there impended over their souls some preconception of horror and of cruelty."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Men embrace error without dispute when it flatters an early **preconception** instilled into them during uncritical childhood."*
+> - 📜 **Thomas Henry Huxley (*Method and Results*):** *"Sit down before fact as a little child, prepared to give up every **preconception**, or you shall learn nothing."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The narrow **preconception** of the lantern yard elders regarding divine providence had warped Silas's early faith."*

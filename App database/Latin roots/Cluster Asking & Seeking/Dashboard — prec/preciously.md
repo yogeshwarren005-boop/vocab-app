@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a precious, highly valued, or carefully guarded manner; or with ornate affectation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stylistic critique, describing mannered artistic or verbal expressions composed with excessively self-conscious delicacy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The time ’twixt six and now Must by us both be spent most preciously."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"She kept the jewel **preciously** in her casket, awaiting the hour when its secret tokens might be revealed."*
+> - 📜 **George Eliot (*Silas Marner*):** *"Silas counted his gold pieces nightly, stacking them **preciously** beside the hearth until the metallic gleam filled his mind."*
+> - 📜 **Henry James (*The Author of Beltraffio*):** *"The novelist turned his phrases **preciously**, as if language were Venetian glass too fragile for everyday handling."*

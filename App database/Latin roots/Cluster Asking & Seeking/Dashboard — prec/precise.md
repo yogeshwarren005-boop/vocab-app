@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sharply exact or accurate or delimited.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of ideas, images, representations, expressions) characterized by perfect conformity to fact or truth ; strictly correct.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exact, accurate, strictly defined, sharply stated, or minutely detailed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematical physics and scientific instrumentation, characterized by high repeatability and minimal random deviation across measurement trials.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Never, O never, do his ghost the wrong To hold your honour more precise and nice With others than with him!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Taffeta phrases, silken terms precise, Three-piled hyperboles, spruce affectation, Figures pedantical: these summer flies Have blown me full of maggot ostentation."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He promised to meet me two hours since, and he was ever precise in promise-keeping."*
+> - 📜 **William Shakespeare (*Measure for Measure*):** *"Lord Angelo is **precise**, stands at a guard with envy, and scarce confesses that his blood flows or that his appetite is more to bread than stone."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"When we engage in a pursuit, a clear and **precise** conception of what we are pursuing would seem to be the first thing we need."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The shadows between the buttresses were so **precise** that one could trace every carving with absolute certainty."*

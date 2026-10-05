@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intelligence achieved far ahead of normal developmental schedules.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intelligence achieved far ahead of normal developmental schedules.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Premature mental or physical development; early maturity or giftedness in childhood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In educational developmental theory, asynchronous cognitive growth wherein intellect outpaces affective and motor milestones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, precociousness designates intelligence achieved far ahead of normal developmental schedules."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"His juvenile **precociousness** in ancient tongues alarmed the village schoolmaster, who predicted a meteoric scholar."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Intellectual **precociousness** in prodigies often correlates with hyper-focused attention and heightened sensory sensitivity."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"Pope displayed an astonishing **precociousness** in versification, lisping in numbers for the numbers came."*

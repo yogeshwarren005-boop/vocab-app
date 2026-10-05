@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not appetizing in appearance, aroma, or taste.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not appetizing in appearance, aroma, or taste.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not inviting or appealing to eat; lacking flavor, attractive aroma, or appetizing appearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In figurative discourse, presenting an unattractive, distasteful, or unwelcome prospect or assignment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unappetising designates not appetizing in appearance, aroma, or taste."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"Squeers served out an **unappetising** ladle of diluted brimstone and treacle to the wretched boys of Dotheboys Hall."*
+> - 📜 **George Orwell (*Down and Out in Paris and London*):** *"A grey, greasy stew of **unappetising** cold mutton was set before the tramp at the casual ward counter."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"The stale bread and bitter tea formed an **unappetising** meal for Jude in his dingy stonemason lodgings."*

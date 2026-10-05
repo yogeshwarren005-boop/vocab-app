@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Status established in order of importance or urgency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preceding in time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Priority in order, rank, importance, or temporal succession; right to go first.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic protocol and parliamentary law, the codified ranking establishing order of seating, signing treaties, or addressing an assembly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do not like “But yet”, it does allay The good precedence."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, page; it is an epilogue or discourse to make plain Some obscure precedence that hath tofore been sain."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"On the plate which, in size and situation, took precedence of all the rest, I read, MR."*
+> - 📜 **William Shakespeare (*Antony and Cleopatra*):** *"I do not like 'But yet', it does allay the good **precedence** of joyful news."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Celia confessed it was nicer to be 'Lady' than 'Mrs.', and that Dodo never minded about **precedence** if she could have her way."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Annoyed at meal-times by constant quarrels about **precedence**, the chief director ordered an immense round table for the station."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Made impossible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Made impossible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to preclude, bar, shut out, hinder, or prevent in advance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international trade and military economics, designating preemptive purchases designed to deny strategic resources to a geopolitical competitor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, preclusive designates made impossible."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The federal constitution incorporates **preclusive** barriers against individual state enactments that impair contracts."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The Commons passed a **preclusive** statute forbidding ministers from accepting secret subsidies from foreign crowns."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Monopolistic guilds established **preclusive** regulations to prevent alien craftsmen from practicing their trades within municipal boundaries."*

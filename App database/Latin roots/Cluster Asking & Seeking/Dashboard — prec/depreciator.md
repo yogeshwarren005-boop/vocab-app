@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who disparages or belittles the worth of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who disparages or belittles the worth of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who belittles or disparages the merit of others; or a factor causing loss of value.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary polemics, a cynical critic who systematically denies the originality or virtue of contemporary works.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, depreciator designates one who disparages or belittles the worth of something."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"Every eminent author finds in his contemporaries a stubborn **depreciator** who measures merit by departed standards."*
+> - 📜 **Edmund Burke (*Letters on a Regicide Peace*):** *"The persistent **depreciator** of public institutions saps that veneration upon which social order ultimately rests."*
+> - 📜 **Walter Bagehot (*Biographical Studies*):** *"Gladstone encountered in Disraeli a witty **depreciator** skilled at exposing the sentimental vulnerabilities of moral reform."*

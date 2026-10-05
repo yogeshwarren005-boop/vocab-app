@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of happening with headlong haste or without warning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of happening with headlong haste or without warning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Headlong, rash, or untimely haste; lack of deliberate forethought in action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological jurisprudence, the impetuous mental defect that precludes premeditation in criminal culpability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Those that with cords, knives, drams, precipitance, Weary of this world’s light, have to themselves Been death’s most horrid agents, human grace Affords them dust and shadow."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"At least, therefore, I did not assume the character of needless precipitance merely to show off before the ladies.” “I daresay you believed it; but I am by no means convinced that you would be gone with such celerity."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"A little over-precipitance may ruin all.” “And now?” I asked."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"His sudden **precipitance** in leaping from the cab nearly cost him his footing on the slippery London pavement."*
+> - 📜 **William Shakespeare (*Henry VIII*):** *"Beware of **precipitance** in your judgment, lest unconsidered anger undermine the council's royal prerogative."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Emperor Julian's fatal **precipitance** led the Roman legions into the waterless wastes of Mesopotamia."*

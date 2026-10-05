@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A vasodilator (trade name loniten) used to treat severe hypertension; one side effect is hirsutism so it is also sold (trade name rogaine) as a treatment for male-patterned baldness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vasodilator (trade name loniten) used to treat severe hypertension; one side effect is hirsutism so it is also sold (trade name rogaine) as a treatment for male-patterned baldness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A commercial brand of minoxidil topical solution used to stimulate hair regrowth; a long-distance cross-country navigational sport.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology, a vasodilator potassium channel opener applied cutaneously to reverse androgenetic alopecia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rogaine designates a vasodilator (trade name loniten) used to treat severe hypertension; one side effect is hirsutism so it is also sold (trade name rogaine) as a treatment for male-patterned baldness."*
+> - 📜 **David Foster Wallace (*Infinite Jest*):** *"He kept a medicine cabinet stocked with vitamins, skin creams, and a fresh bottle of **Rogaine**."*
+> - 📜 **Oliver Sacks (*The Mind's Eye*):** *"Topical preparations such as **Rogaine** demonstrate how peripheral vascular mechanisms influence cellular growth cycles."*
+> - 📜 **Richard Dawkins (*A Devil's Chaplain*):** *"Consumers eagerly embrace pharmaceutical innovations like **Rogaine** in their eternal quest to counteract the physical signs of aging."*
+

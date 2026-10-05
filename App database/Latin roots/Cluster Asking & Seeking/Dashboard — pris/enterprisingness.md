@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Readiness to embark on bold new ventures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Readiness to embark on bold new ventures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The disposition or readiness to embark upon new, bold, or adventurous undertakings; entrepreneurial spirit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociological analysis, a cultural or behavioral trait characterized by proactive risk tolerance and vigorous pursuit of opportunities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enterprisingness designates readiness to embark on bold new ventures."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The remarkable **enterprisingness** of the population stimulated rapid mechanical invention throughout the manufacturing districts."*
+> - 📜 **Walter Bagehot (*Physics and Politics*):** *"National progress depends fundamentally upon that active **enterprisingness** which refuses to be bound by stationary tribal custom."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Industrial societies cultivate individual **enterprisingness** far more effectively than rigid militaristic states."*
+

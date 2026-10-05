@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a studious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a studious manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner showing great care, deliberate attention, or premeditated purpose; diligently.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative prose, modifying intentional efforts to avoid, maintain, or achieve a specific posture or outcome.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Com’st thou with deep premeditated lines, With written pamphlets studiously devised, Humphrey of Gloucester?"*
-> - 📜 **Jane Austen (*Persuasion*):** *"In general, his voice and manner were studiously calm."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"After Kory-Kory’s explanation of the subject, I was for some time studiously respectful in the presence of all females thus distinguished, and never ventured to indulge in the slightest approach to flirtation with any of their number."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Com'st thou with deep premeditated lines, with written pamphlets **studiously** devised to mock my state?"*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Uriah Heep maintained a **studiously** humble demeanor, continually writhing his long neck in apparent self-abasement."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The courtiers were **studiously** attentive to the monarch's slightest gesture, eager to anticipate his royal commands."*

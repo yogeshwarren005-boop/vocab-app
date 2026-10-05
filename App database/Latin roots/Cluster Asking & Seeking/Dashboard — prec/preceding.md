@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be earlier in time; go back further.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come before.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Existing, occurring, or coming immediately before in time, order, or arrangement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytical writing, designating prior textual sections or data sets that provide context for succeeding arguments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of six preceding ancestors, that gem Conferr’d by testament to th’ sequent issue, Hath it been owed and worn."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And even the like precurse of fierce events, As harbingers preceding still the fates And prologue to the omen coming on, Have heaven and earth together demonstrated Unto our climatures and countrymen."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It seemed to crown all the preceding pleasures to roam without restraint in the woods and meadows."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The summary of the **preceding** and present chapters shows the powerful selective influence exerted by domestic breeding."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"It results from the **preceding** considerations that there is in reality nothing desired except happiness."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"During the twelvemonth **preceding** this time he had been enabled by sustained industry to establish a prosperous flock."*

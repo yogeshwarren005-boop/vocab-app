@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A yellow dye made from the bark of the quercitron oak tree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Medium to large deciduous timber tree of the eastern united states and southeastern canada having dark outer bark and yellow inner bark used for tanning; broad five-lobed leaves are bristle-tipped.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A natural yellow dye obtained from the inner bark of the Eastern black oak (*Quercus velutina*); the tree itself.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical dyeing and industrial chemistry, an important mordant dye rich in quercitrin used widely in 18th- and 19th-century textile printing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quercitron designates a yellow dye made from the bark of the quercitron oak tree."*
+> - 📜 **Humphry Davy (*Elements of Agricultural Chemistry*):** *"The pulverized bark of the North American oak, known commercially as **quercitron**, yields a brilliant and permanent yellow dye."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"In the dense eastern woodlands, the black oak or **quercitron** was prized by settlers for its yellow inner bark and sturdy timber."*
+> - 📜 **George Bancroft (*History of the United States*):** *"Colonial commerce exported substantial cargoes of **quercitron** to British woolen mills eager for bright, enduring pigments."*

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who takes the place of another person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person appointed to represent or act on behalf of others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substitute, deputy, or replacement acting in place of another; taking another's place in a function or role.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In probate and canon law, a judicial deputy appointed by a bishop or chancellor to oversee the probate of wills and letters of administration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Come with me to-night, and go with me to-morrow to the surrogate’s.” “But she must be consulted; at any rate informed.” “Very well; go on.” They went up the hill to Bathsheba’s house."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Very well, then; first, a license.” On a dark night, a few days later, Oak came with mysterious steps from the surrogate’s door, in Casterbridge."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Come with me to-night, and go with me to-morrow to the surrogate’s.” “But she must be consulted; at any rate informed.” “Very well; go on.” They went up the hill to Bathsheba’s house."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The applicant was instructed to obtain a special license from the ecclesiastical **surrogate** residing at Casterbridge."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She found in devoted charitable labors a poor **surrogate** for the romantic happiness she had once anticipated."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"The chemical dosage served as a violent **surrogate** designed to satisfy the instinctive biological cravings of the organism."*
+

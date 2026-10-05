@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a questioning format.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With curiosity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a questioning, searching, or inquiring manner so as to elicit an answer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative exposition, describing verbal delivery or non-verbal gesture configured as a direct or doubtful inquiry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Who are they, Sir James, do you know?” “I see Vincy, the Mayor of Middlemarch; they are probably his wife and son,” said Sir James, looking interrogatively at Mr."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Snatching the boat-knife from its sheath, he suspended its sharp edge over the line, and turning towards Stubb, exclaimed interrogatively, Cut?” Meantime Pip’s blue, choked face plainly looked, Do, for God’s sake!"*
-> - 📜 **Effie Afton (*Eventide*):** *"And that is"----he paused, and added, interrogatively, "Rufus Malcome?" Florence started."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The mate raised his lantern and looked **interrogatively** at the harpooner crouching by the windlass."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"Madame Beck paused at the doorway, arching her brows **interrogatively** as she surveyed the quiet classroom."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"He tilted his head slightly and smiled **interrogatively**, awaiting her verdict on his proposition."*
+

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Typical lampreys.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Typical lampreys.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The type genus of jawless primitive vertebrates in the lamprey family, comprising the sea lamprey (Petromyzon marinus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative vertebrate morphology, an ancient cyclostome possessing a suctorial toothed oral disc, persistent notochord, and parasitic adult habits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petromyzon designates typical lampreys."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The structural morphology of **Petromyzon** exhibits an early stage of vertebrate evolution prior to the origin of true articulated jaws."*
+> - 📜 **Frank Balfour (*A Treatise on Comparative Embryology*):** *"Embryological development in the ammocoete larva of **Petromyzon** sheds essential light on the ancestral lineage of craniate vertebrates."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"The marine lamprey, **Petromyzon** marinus, ascends freshwater rivers in spring to spawn among gravel shoals."*

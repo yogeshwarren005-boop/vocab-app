@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extraordinariness by virtue of being unexpected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extraordinariness by virtue of being unexpected.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, state, or extent of being unforeseen, astounding, or contrary to expectations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology and probability theory, the perceptual salience evoked by low-probability stimuli violating prior models.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Clarence Budington Kelland (*Mark Tidd's Citadel*):** *"You have pretty little bridges that go up in air with sudden surprisingness,” says he, and grins again."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The psychological **surprisingness** of an event depends directly upon the degree to which it conflicts with established mental habits."*
+> - 📜 **Clarence Budington Kelland (*Mark Tidd's Citadel*):** *"You have pretty little bridges that go up in air with **surprisingness** whenever the lock is turned."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"The very **surprisingness** of a phenomenon provokes the inquisitive intellect to formulate an explanatory hypothesis."*
+

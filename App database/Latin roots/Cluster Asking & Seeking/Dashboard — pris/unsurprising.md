@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not causing surprise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not causing surprise.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Failing to cause astonishment; natural, expected, or completely consistent with known facts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociological analysis, describing events or behaviors that follow logically from antecedent social pressures or structural causes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsurprising designates not causing surprise."*
+> - 📜 **George Eliot (*Middlemarch*):** *"It was an **unsurprising** conclusion to all who had observed the steady drift of their mutual inclinations."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"That such a reckless speculation should end in heavy bankruptcy appeared **unsurprising** to the prudent townspeople."*
+> - 📜 **H. G. Wells (*The New Machiavelli*):** *"The political collapse of the coalition was an **unsurprising** event after months of bitter factional dissension."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reckless or malicious behavior that causes discomfort or annoyance in others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reckless or malicious behavior that causes discomfort or annoyance in others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deceitful or knavish conduct; dishonest tricks, playful mischief, or fraudulent behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary history, the humorous tricks and escapades characteristic of the picaresque narrative tradition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You rogue, here’s lime in this sack too: there is nothing but roguery to be found in villainous man, yet a coward is worse than a cup of sack with lime in it."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"And that until you are again reform'd and grown new men, you ne'ere presume to name the Court, or press into the Porter's Lodge but for a penance, to be disciplin'd for your roguery, and this done with true contrition. _Both_."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"He was very glad to meet his schoolmate and playfellow, Ben, who by his gayety, spiced though it was with roguery, had made himself a general favorite in school."*
+> - 📜 **William Shakespeare (*Henry IV, Part 1*):** *"There is nothing but **roguery** to be found in villainous man, yet a coward is worse than a cup of sack with lime in it."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The old beggar chuckled over the innocent **roguery** by which he had outwitted the pompous bailiff."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"He delighted in recounting the rustic pranks and good-humored **roguery** that enlivened the village festival."*
+

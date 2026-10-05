@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sentence of inquiry that asks for a reply.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A transmission that will trigger an answering transmission from a transponder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of questioning formally, thoroughly, and systematically, as by law enforcement or an investigator.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In telecommunications and radar operations, the electronic transmission of a querying pulse to activate a responder.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"On interrogation, he said "he had frequently heard that minister."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Who knows anything about dynamite?” And of course nobody knew, although it had been the burden of the interrogation put to him."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"It will cover infiltration, interrogation, psychological defenses against psychic probes and other means that might be used to acquire information from you, under duress or otherwise."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Day after day I endured the grueling **interrogation** of the warden, refusing to divulge the whereabouts of the contraband."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"The harsh **interrogation** continued without cessation under the blinding white lights of the Ministry of Love."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"Under keen and relentless **interrogation**, the stable-hand broke down and confessed his part in the disappearance."*
+

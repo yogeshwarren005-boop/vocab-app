@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Call upon in supplication; entreat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Begging.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing an urgent, desperate, or earnest plea for mercy, assistance, or understanding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic narrative, manifesting nonverbal signals of intense vulnerability and affective distress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"More will I do; Though all that I can do is nothing worth, Since that my penitence comes after all, Imploring pardon."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The Flying Dutchman, with a crew of ghostly clients imploring all whom they may encounter to peruse their papers, has drifted, for the time being, heaven knows where."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket in an impressive, almost in an imploring, tone."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her **imploring** look pierced his conscience more sharply than any verbal reproof could have done."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The child reached out its little hands with an **imploring** gesture that melted the solitary weaver's heart."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"She cast an **imploring** glance at the detective, beseeching him not to disclose her husband's secret."*

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Revoke formally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Revoke formally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To abolish, repeal, or annul authoritatively, especially by legislative or sovereign decree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence and constitutional theory, to terminate the operative validity of a statute, treaty, or formal covenant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"NATHANIEL. _Perge_, good Master Holofernes, _perge_, so it shall please you to abrogate scurrility."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Under the authority and order of Congress notice had been served on Great Britain which was to abrogate the joint occupation of the country by the citizens of the two powers."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"One of their first acts was to abrogate the two-third rule, as had been done by the Douglas Convention."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The state legislatures cannot **abrogate** the solemn provisions established by the federal constitution."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor resolved to **abrogate** the ancient privileges which had so often shielded rebellious subjects."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"No sudden assembly of innovators possesses the moral competence to **abrogate** the fundamental laws of their ancestors."*
+

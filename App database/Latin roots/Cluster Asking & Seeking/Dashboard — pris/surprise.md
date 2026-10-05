@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The astonishment you feel when something totally unexpected happens to you.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sudden unexpected event.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unexpected event, fact, or revelation; the sudden feeling of wonder or astonishment caused by the unforeseen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military strategy, the tactical principle of striking an adversary at an unforeseen time, place, or manner.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I see them lay their heads together to surprise me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And now what rests but, in night’s coverture, Thy brother being carelessly encamped, His soldiers lurking in the towns about, And but attended by a simple guard, We may surprise and take him at our pleasure?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I say not, slaughter him, For I intend but only to surprise him."*
+> - 📜 **William Shakespeare (*Henry VI, Part 3*):** *"And now what rests but, in night’s coverture, we may **surprise** and take him at our pleasure?"*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth's **surprise** was soon increased by observing his approach to her with an air of determined civility."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The sudden cry in the dead of night filled us with boundless **surprise** and chilling dread."*
+

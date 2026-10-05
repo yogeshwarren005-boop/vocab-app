@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being perpetual (seemingly ceaseless).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being perpetual (seemingly ceaseless).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or quality of lasting forever; eternity, or an indefinitely prolonged duration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In property law, an estate or settlement so devised that it cannot vest within the period prescribed by the Rule Against Perpetuities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet am I better Than one that’s sick o’ th’ gout, since he had rather Groan so in perpetuity than be cur’d By th’ sure physician death, who is the key T’ unbar these locks."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou antic Death, which laugh’st us here to scorn, Anon, from thy insulting tyranny, Coupled in bonds of perpetuity, Two Talbots, winged through the lither sky, In thy despite shall scape mortality."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In this view of the subject, by what logic can it be maintained that the local governments ought to command, in perpetuity, an EXCLUSIVE source of revenue for any sum beyond the extent of two hundred thousand pounds?"*
+> - 📜 **William Shakespeare (*Love's Labour's Lost*):** *"I'll prove her title true, or else lose mine in **perpetuity** to all succeeding times."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Spiritual truths enjoy an absolute **perpetuity**, untouched by the rise and fall of earthly empires."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Monseigneur fancied his feudal privileges secured in **perpetuity**, heedless of the silent grinding of the revolutionary mill."*

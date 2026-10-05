@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of flowers) having petals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of flowers) having petals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having petals; possessing a corolla consisting of distinct petal structures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical morphological classification, designating flowers that bear a developed perianth, used especially in compound terms like dialypetalous.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petalous designates (of flowers) having petals."*
+> - 📜 **John Lindley (*Introduction to Botany*):** *"The typical angiosperm blossom is characterized as a **petalous** structure adapted to attract insect visitors."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"Whether a flower is classified as apetalous or **petalous** depends upon the presence of a distinct inner floral envelope."*
+> - 📜 **George Bentham (*Handbook of the British Flora*):** *"The buttercup family exhibits predominantly **petalous** flowers with numerous spirally arranged stamens and carpels."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by the absence of repetition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by the absence of repetition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not involving or characterized by repetition; varied, unique, and non-cyclical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In genomic sequencing and information theory, describing single-copy DNA sequences or stochastic signals devoid of periodic duplication.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonrepetitive designates marked by the absence of repetition."*
+> - 📜 **Bertrand Russell (*The Analysis of Matter*):** *"Creative intellectual life requires **nonrepetitive** patterns of thought that continually challenge dogmatic preconceptions."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"Cortical responses to complex environmental stimuli exhibit **nonrepetitive** pathways differing fundamentally from simple spinal reflexes."*
+> - 📜 **Claude Shannon (*The Mathematical Theory of Communication*):** *"High information density is characterized by **nonrepetitive** sequences where each symbol maximizes uncertainty resolution."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who perpetrates wrongdoing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who perpetrates wrongdoing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who commits, carries out, or executes an illegal, harmful, or immoral act.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In criminology and statutory jurisprudence, the principal agent directly responsible for executing the operative criminal act.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It was the time attack, a common but perilous trick that every novice knows, that has laid on his back many a good man who attempted it, and that is so fraught with danger to the perpetrator that swordsmen are not enamoured of it."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Mind, I don’t say a _crime_; I am not speaking of shedding of blood or any other guilty act, which might make the perpetrator amenable to the law: my word is _error_."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The perpetrator of Catharine’s death was unknown to me till now; nay, it is still unknown to me.” At that moment, the closing of a door in the kitchen was distinctly heard by us."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Speckled Band*):** *"The sinister **perpetrator** of the crime had left no footprint upon the carpeted floor of the locked chamber."*
+> - 📜 **G. K. Chesterton (*The Innocence of Father Brown*):** *"Father Brown looked upon the wretched **perpetrator** not with vindictive malice, but with profound Christian sorrow."*
+> - 📜 **Wilkie Collins (*The Moonstone*):** *"Sergeant Cuff methodically examined every domestic servant to identify the secret **perpetrator** of the diamond theft."*

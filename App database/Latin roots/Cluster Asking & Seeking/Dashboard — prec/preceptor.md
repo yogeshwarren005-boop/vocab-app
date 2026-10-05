@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Teacher at a university or college (especially at cambridge or oxford).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Teacher at a university or college (especially at cambridge or oxford).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A teacher, instructor, tutor, or head of a school or instructional academy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chivalric history and medical education, the presiding knight of a preceptory of Templars, or a practicing physician mentoring interns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"We found him engaged with a not very hopeful pupil—a stubborn little girl with a sulky forehead, a deep voice, and an inanimate, dissatisfied mama—whose case was certainly not rendered more hopeful by the confusion into which we threw her preceptor."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"John Stuart Mill, then a boy of about twelve years old,"--he was really only eleven,--"was studying, with his father as sole preceptor, under the paternal roof."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"It is so much pleasanter to please than to instruct--to play the companion rather than the preceptor."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The Grand Master addressed the **preceptor** of Templestowe in tones that commanded absolute obedience to the order's statutes."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"Monsieur Paul Emanuel acted as my stern **preceptor**, examining my essays with uncompromising critical rigor."*
+> - 📜 **William Osler (*Aequanimitas*):** *"Every young physician owes an incalculable debt to the wise **preceptor** who first guided his hands at the bedside."*

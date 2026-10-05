@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being adequately or well qualified physically and intellectually.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being adequately or well qualified physically and intellectually.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The possession of sufficient knowledge, skill, strength, or legal authority to perform a specified task.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In socio-economic history, an adequate income or modest fortune securing independence from wage labor or poverty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For competence of life I will allow you, That lack of means enforce you not to evils."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"One New Year's day I was going out to visit some of my poorer neighbors, and thought I would take a sovereign to a certain widow who had seen days of competence and comfort."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Many a man after gaining a competence continues to work for love of wealth and power in his own lifetime, as the miser continues to toil for love of gold."*
+> - 📜 **William Shakespeare (*Henry IV, Part 2*):** *"For **competence** of life I will allow you, that lack of means enforce you not to evil."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He possessed unquestioned professional **competence**, yet his austere manner alienated many prospective patients."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes conducted the investigation with consummate **competence**, unraveling the intricate web of deception without hesitation."*

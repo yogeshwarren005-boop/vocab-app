@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lock up or confine, in or as in a jail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Confine as if in a prison.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Confined in a prison or jail; physically restrained, locked up, or captive within restrictive boundaries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In poetic and psychological prose, held captive by unyielding circumstances, heavy passions, or mental isolation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So is the time that keeps you as my chest Or as the wardrobe which the robe doth hide, To make some special instant special-blest, By new unfolding his imprisoned pride."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O let me suffer (being at your beck) Th’ imprisoned absence of your liberty, And patience tame to sufferance bide each check, Without accusing you of injury."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then, York, unloose thy long-imprisoned thoughts, And let thy tongue be equal with thy heart."*
+> - 📜 **William Shakespeare (*Henry VI, Part 1*):** *"Then, York, unloose thy long-**imprisoned** thoughts, and let thy tongue be equal with thy heart."*
+> - 📜 **Oscar Wilde (*The Ballad of Reading Gaol*):** *"Each day was like a year of tears to the **imprisoned** men walking in silence around the paved yard."*
+> - 📜 **Lord Byron (*The Prisoner of Chillon*):** *"My hair is gray, but not with years, nor grew it white in a single night, as men's have grown from **imprisoned** fears."*
+

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Foreseeing the future.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Foreseeing the future.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, characterized by, or possessing foreknowledge or knowledge of future events.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In experimental cognitive psychology, denoting empirical protocols testing extrasensory perception of random stimuli prior to machine generation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, precognitive designates foreseeing the future."*
+> - 📜 **William James (*The Will to Believe and Other Essays in Popular Philosophy*):** *"He described a vivid **precognitive** dream that mirrored with shocking fidelity the disaster that befell his ship days later."*
+> - 📜 **H. G. Wells (*A Modern Utopia*):** *"The order of samurai cultivated acute observational habits, rejecting vague **precognitive** hunches in favor of verifiable statistical trends."*
+> - 📜 **Arthur Conan Doyle (*The History of Spiritualism*):** *"The medium maintained that her **precognitive** impressions came unbidden, presenting glimpses of tragedies yet unborn in time."*

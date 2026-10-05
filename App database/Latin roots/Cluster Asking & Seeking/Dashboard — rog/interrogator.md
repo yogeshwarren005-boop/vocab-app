@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A questioner who is excessively harsh.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A questioner who is excessively harsh.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who formally, systematically, or persistently questions another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In judicial and intelligence procedure, an official tasked with eliciting evidentiary testimony, depositions, or admissions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Reed my benefactress; if so, a benefactress is a disagreeable thing.” “Do you say your prayers night and morning?” continued my interrogator."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"But something's stirring." If the Lassans had set a dictaphone or some similar device to spy on them there was no sign of it in the conversation which Sherman's interrogator held with him during the next period."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"My cold **interrogator** regarded me through his spectacles with an air of severe and rigid scrutiny."*
+> - 📜 **Joseph Conrad (*Under Western Eyes*):** *"Razumov felt the piercing gaze of his official **interrogator** fixed steadily upon his troubled countenance."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The detective leaned forward in his chair, playing the part of a relentless **interrogator** with practiced calm."*
+

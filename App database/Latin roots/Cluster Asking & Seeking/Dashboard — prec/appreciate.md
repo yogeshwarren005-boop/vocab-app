@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Recognize with gratitude; be grateful for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be fully aware of; realize fully.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To recognize the full worth, significance, or value of; or to rise in monetary worth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic philosophy and financial accounting, to comprehend artistic nuance critically, or to gain value over successive reporting intervals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Lippo will find an affectionate protectress in her who will be able to appreciate his little-recognized virtues."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"You certainly can't complain that I don't appreciate your delicious coffee."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Lady Dedlock has taken a fancy to the pretty girl and is going to keep her about her own fair person—an honour which my young friend himself does not at all appreciate."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He was endeavouring to catch and **appreciate** the sensation of being thus with her, his head upon her dress, before the event vanished."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"They are all men of some intellectual power, and consequently they all **appreciate** me."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She was now enough aware of Sir James's position with regard to her, to **appreciate** the rectitude of his perseverance in honorable devotion."*

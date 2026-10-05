@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conceive beforehand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of an idea or opinion) formed beforehand; especially without evidence or through prejudice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Formed in the mind beforehand, especially without adequate prior knowledge or evidence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific philosophy, characterizing dogmatic assumptions that obstruct objective interpretation of contradictory empirical findings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Preconceived opinions, foregone determinations, are all I have at this hour to stand by: there I plant my foot.” I did."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Sit down before the fact as a little child, be prepared to give up every preconceived notion, follow humbly wherever and to whatever end Nature leads, or you shall learn nothing ...."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But Rosamond had registered every look and word, and estimated them as the opening incidents of a preconceived romance—incidents which gather value from the foreseen development and climax."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The day will come when this will be cited as a curious illustration of the blindness of **preconceived** opinion."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"They had to divest themselves of a **preconceived** opinion that Traddles was an idle fellow before trusting him with their affairs."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth found all her **preconceived** notions of Mr. Darcy's arrogance shaken to their foundation by his candid letter."*

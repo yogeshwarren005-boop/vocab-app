@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Enough to be estimated or measured.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enough to be estimated or measured.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being perceived, noticed, measured, or estimated; perceptible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and statistics, denoting a quantity or variance sufficiently large to exert a measurable influence upon experimental outcomes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This well-favoured and comely girl soon made appreciable inroads upon the emotional constitution of young Farmer Oak."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Society is hopelessly snobbish, and this fact of your extraction may make an appreciable difference to its acceptance of you as my wife, after I have made you the well-read woman that I mean to make you."*
-> - 📜 **George Eliot (*Middlemarch*):** *"The banker’s speech was fluent, but it was also copious, and he used up an appreciable amount of time in brief meditative pauses."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Threepence had a definite value as money—it was an **appreciable** infringement on a day's wages, and, as such, a higgling matter."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"It seems pretty clear that organic beings must be exposed during several generations to the new conditions of life to cause an **appreciable** amount of variation."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The banker's speech was fluent, but it was also copious, and he used up an **appreciable** amount of time in brief meditative pauses."*

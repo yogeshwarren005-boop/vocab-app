@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To a noticeable degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a noticeable degree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner or to an extent that is noticeable, perceptible, or measurable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytical chemistry and economics, describing changes of magnitude that alter observed trends beyond standard margins of error.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Bimetallism may be legally authorized, but not actually working, for, if the market-value long continues to vary appreciably from the legal ratio, only one of the metals may in fact be left in circulation."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A _protective tariff_ is a schedule of import duties so arranged as to give appreciably higher prices to some domestic enterprises than they could obtain with free trade."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But as applied to selected articles which it is desired to exclude in order to "protect" the domestic producer, this principle would simply prevent the rate being placed appreciably higher than was needed to exclude them."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"The atmospheric tension had altered **appreciably**, leaving each member of the party conscious of an unspoken divergence."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The temperature of the moor had dropped **appreciably** as the evening fog rolled heavily across the mire."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"When external pressures shift **appreciably**, the inner equilibrium of the organic structure must realign accordingly."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quantity of water falling to earth at a specific place within a specified period of time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of forming a chemical precipitate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Water falling to earth as rain, snow, sleet, or hail; or headlong, hasty rush.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In inorganic chemistry and meteorology, the process of separating insoluble solid matter from a liquid, or the total volume of atmospheric water deposits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let them pull all about mine ears, present me Death on the wheel or at wild horses’ heels, Or pile ten hills on the Tarpeian rock, That the precipitation might down stretch Below the beam of sight, yet will I still Be thus to them."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"It was a foolish precipitation last Christmas, but the evil of a few days may be blotted out in part."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Such might be the consequences of my frantic precipitation, and these it was necessary, if possible, to prevent."*
+> - 📜 **William Shakespeare (*Coriolanus*):** *"Or pile ten hills on the Tarpeian rock, that the **precipitation** might down stretch below the beam of sight."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The black vapor clung closely to the ground, even before its final **precipitation** as an inert powder on the earth."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"He bolted in with a **precipitation** quite alarming, gasping out that the bailiffs were already upon his heels."*

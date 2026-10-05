@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not conquered.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not conquered.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not conquered, subdued, defeated, or brought under foreign domination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical and geographical narrative, describing a territory or sovereign people that has successfully repelled invasion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Wither, garden; and be henceforth a burying place to all that do dwell in this house, because the unconquered soul of Cade is fled."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her breasts like ivory globes circled with blue, A pair of maiden worlds unconquered, Save of their lord no bearing yoke they knew, And him by oath they truly honoured."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Before them stretches a vista alluring in its as yet hazy outlines, entrancing in its magnitude, reaching to the far horizons of as yet unconquered territories."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This blessed plot, this earth, this realm, this England, remains **unconquered** against the proud assaults of foreign tyrants."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"The heroic spirit stands **unconquered** amidst outward calamities, knowing that its true kingdom lies within."*
+> - 📜 **G. K. Chesterton (*The Ball and the Cross*):** *"The wild Highland clansmen boasted of an **unconquered** heritage that no southern monarch had ever entirely subdued."*

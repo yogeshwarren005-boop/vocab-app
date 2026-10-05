@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not exploratory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not exploratory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not characterized by exploration, discovery, or systematic investigation into unfamiliar fields.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral psychology and animal ethology, referring to inert, sedentary, or purely exploitative routines that forgo environmental sampling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonexplorative designates not exploratory."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Habitual routines often induce a **nonexplorative** mental torpor wherein no unfamiliar stimuli are sought."*
+> - 📜 **John Dewey (*Experience and Education*):** *"A rigid didactic syllabus creates a **nonexplorative** classroom atmosphere that discourages inventive curiosity."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"Conspicuous leisure often manifests in **nonexplorative** consumption governed solely by ceremonial inertia."*

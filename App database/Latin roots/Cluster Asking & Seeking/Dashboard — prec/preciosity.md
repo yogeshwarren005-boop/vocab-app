@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being fastidious or excessively refined.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being fastidious or excessively refined.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affectation of elegance or refinement, especially in linguistic style or artistic taste.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary history, the seventeenth-century salon aesthetic (associated with the French Précieuses) marked by ornate metaphors, euphuism, and hyper-delicate sensibilities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, preciosity designates the quality of being fastidious or excessively refined."*
+> - 📜 **Walter Pater (*Appreciations*):** *"His prose avoids the taint of mere **preciosity** by grounding every refined phrase in genuine imaginative emotion."*
+> - 📜 **George Saintsbury (*A History of Elizabethan Literature*):** *"Euphuistic **preciosity** dominated the courtly romances of the late sixteenth century before drama found its vigorous vernacular voice."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"She balanced upon the verge of **preciosity**, saving her ornate sentences by an unexpected flash of satiric wit."*

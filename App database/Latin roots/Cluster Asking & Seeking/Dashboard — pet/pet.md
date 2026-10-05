@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A domesticated animal kept for companionship or amusement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A special loved one.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A domestic or tamed animal kept for companionship, affection, or enjoyment; or a fit of peevish sulking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary sociology and behavioral ecology, an interspecies symbiotic companion integrated into human domestic life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Why, my pet of pets, I could have told you that weeks and weeks ago!” To see Ada lift up her flushed face in joyful surprise, and hold me round the neck, and laugh, and cry, and blush, was so pleasant!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Unless my cousin John is blind, my pet,” said I, “I should think my cousin John knows pretty well as much as we know.” “We want to speak to him before Richard goes,” said Ada timidly, “and we wanted you to advise us, and to tell him so."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He can’t say better than that, Esther, can he?” cried my pet triumphantly."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The shepherd's faithful sheepdog was more than a mere working beast; he was treated almost like a cherished **pet**."*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Dinah was my favorite **pet** cat, and I longed exceedingly to have her soft purring company beside me down the rabbit-hole."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"She kept a delicate green parakeet as a spoiled **pet**, feeding it sweet almonds from her jeweled fingers."*

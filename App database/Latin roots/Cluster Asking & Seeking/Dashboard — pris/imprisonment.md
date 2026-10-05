@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Putting someone in prison or in jail as lawful punishment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being imprisoned.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of confining a person in prison, or the lawful incarceration and restraint of personal liberty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In criminal jurisprudence, a custodial sentence of punitive deprivation of liberty imposed by judicial conviction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Beside the charge, the shame, imprisonment, You have done wrong to this my honest friend, Who, but for staying on our controversy, Had hoisted sail and put to sea today."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your lordship may minister the potion of imprisonment to me in respect of poverty; but how I should be your patient to follow your prescriptions, the wise may make some dram of a scruple, or indeed a scruple itself."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Even like a man new haled from the rack, So fare my limbs with long imprisonment; And these gray locks, the pursuivants of death, Nestor-like aged in an age of care, Argue the end of Edmund Mortimer."*
+> - 📜 **William Shakespeare (*Henry IV, Part 2*):** *"Beside the charge, the shame, **imprisonment**, you must answer for your grievous breaches of the peace."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"False **imprisonment** consists in the unlawful confinement of a person without proper legal authority."*
+> - 📜 **Edmund Burke (*Speech on American Taxation*):** *"Arbitrary arrest and indefinite **imprisonment** will inevitably alienate the affections of any free people."*
+

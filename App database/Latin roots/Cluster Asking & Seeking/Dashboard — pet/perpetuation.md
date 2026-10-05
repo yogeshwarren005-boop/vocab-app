@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of prolonging something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of prolonging something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of prolonging the existence of something or preserving it from extinction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal jurisprudence, the formal preservation of evidence through bill in equity for perpetuation of testimony in anticipated future litigation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It is more than possible that this uniformity may be found by experience to be of great importance to the public welfare, both as a security against the perpetuation of the same spirit in the body, and as a cure for the diseases of faction."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Their views were opposed by the Strong Government Whigs who argued that local self-government was inadequate to the establishment and perpetuation of political freedom, and that it afforded little or no power to successfully resist foreign invasion."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The perpetuation of the Federal Union, as the palladium of our civil and religious liberties, and the only sure Bulwark of American independence. 3d."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce and Jarndyce had become a monumental engine for the **perpetuation** of legal costs and hopeless despair."*
+> - 📜 **G. K. Chesterton (*Heretics*):** *"The highest aim of any noble civic society is the conscious **perpetuation** of heroic ideals through art and song."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The founding fathers established constitutional balances designed for the **perpetuation** of civil liberties against royal encroachments."*

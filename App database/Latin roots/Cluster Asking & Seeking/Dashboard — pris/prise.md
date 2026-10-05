@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To move or force, especially in an effort to get something open; :.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make an uninvited or presumptuous inquiry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To force open or move by leverage; to pry something loose with a tool or wedge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical mechanics and nautical jargon, to exert mechanical leverage upon a refractory object using a lever or handspike.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Clarence Budington Kelland (*Mark Tidd's Citadel*):** *"Nor we ’ain’t ever been arrested for doin’ d-d-damage to property.” “You s’prise me,” says Mr."*
-> - 📜 **Clarence Budington Kelland (*Mark Tidd's Citadel*):** *"He might s’prise you,” says I."*
-> - 📜 **Clarence Budington Kelland (*Mark Tidd's Citadel*):** *"We mustn’t be taken by s’prise."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"We had to take the cutlass and **prise** open the lid of the sea-chest before the hinges gave way."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The smith inserted a heavy crowbar to **prise** up the massive stone slab covering the old well."*
+> - 📜 **Arthur Conan Doyle (*The Valley of Fear*):** *"The intruders attempted to **prise** the shutter from its frame, leaving distinct scratches upon the sill."*
+

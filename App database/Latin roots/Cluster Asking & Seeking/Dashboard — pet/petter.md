@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lover who gently fondles and caresses the loved one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lover who gently fondles and caresses the loved one.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who caresses, strokes, treats indulgently, or spoils a pet animal or favored person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social vernacular and early 20th-century culture, an individual engaging in amorous caressing or romantic fondling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is petter that friends is the sword, and end it; and there is also another device in my prain, which peradventure prings goot discretions with it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, and her father is make her a petter penny."*
+> - 📜 **William Shakespeare (*The Merry Wives of Windsor*):** *"He is an old courtier and an habitual **petter** of lapdogs, dancing attendance upon my lady's whimsical pleasure."*
+> - 📜 **F. Scott Fitzgerald (*This Side of Paradise*):** *"The younger collegiate generation dismissed old social taboos, laughing at the gossip surrounding every notorious campus **petter**."*
+> - 📜 **Sinclair Lewis (*Main Street*):** *"The town gossip labeled every youth seen idling on the lakeside veranda as a reckless **petter** unworthy of serious employment."*

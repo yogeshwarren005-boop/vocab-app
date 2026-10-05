@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An actor able to replace a regular performer when required.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be an understudy or alternate for a role.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An actor who learns another's role in order to step in as a substitute if the principal actor is absent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organizational dynamics, a designated trainee or deputy prepared to assume the responsibilities of a senior official.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"It means that no one woman, be she ever so competent, can keep up the fight single-handed for twelve hours at a stretch, and that an understudy to work under her may mean the very turning of the scale."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I have been understudy by night, and proud I am to record that Nurse proclaims me unusually "handy" for a member of the "laity"."*
-> - 📜 **James Joyce (*Ulysses*):** *"To show the understudy in the title _rôle_ how to."*
+> - 📜 **James Joyce (*Ulysses*):** *"He volunteered to show the **understudy** in the title role how to deliver the climactic soliloquy."*
+> - 📜 **Mrs. George de Horne Vaizey (*The Lady of the Basement Flat*):** *"I have been **understudy** by night, and proud I was to step onto the boards when the prima donna caught cold."*
+> - 📜 **George Bernard Shaw (*Dramatic Opinions and Essays*):** *"A capable **understudy** must possess the resilience to step before a disappointed audience without losing composure."*

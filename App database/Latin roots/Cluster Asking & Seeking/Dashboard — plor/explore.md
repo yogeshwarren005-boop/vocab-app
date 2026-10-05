@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inquire into.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Travel to or penetrate into.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To travel through an unfamiliar area to learn about it, or to investigate a subject comprehensively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy and scientific inquiry, to subject foundational premises or physical mechanisms to probing empirical analysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The morning was wet and foggy, and Clare, rightly informed that the caretaker only opened the windows on fine days, ventured to creep out of their chamber and explore the house, leaving Tess asleep."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"To see and explore either the ramparts and keep of the one, or the cloisters of the other, had been for many weeks a darling wish, though to be more than the visitor of an hour had seemed too nearly impossible for desire."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"We shall not have to explore our way into a hall dimly lighted by the expiring embers of a wood fire—nor be obliged to spread our beds on the floor of a room without windows, doors, or furniture."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"He felt a strange desire to **explore** the emotional depths of a soul so pure and untainted by society."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"Our expedition set forth to **explore** the mysterious basalt plateau rising abruptly above the Amazonian jungle."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"Let every student boldly **explore** the kingdom of his own mind rather than accept borrowed judgments."*

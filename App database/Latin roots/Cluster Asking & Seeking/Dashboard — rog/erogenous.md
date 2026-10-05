@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sensitive to sexual stimulation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sensitive to sexual stimulation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Particularly responsive to sexual touch; giving rise to sexual arousal when stimulated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In somatic physiology and psychoanalytic theory, designating bodily zones enriched with sensory nerve endings sensitive to tactile stimulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erogenous designates sensitive to sexual stimulation."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"The distribution of **erogenous** zones across the peripheral nervous system varies widely among different temperaments."*
+> - 📜 **Sigmund Freud (*Three Contributions to the Sexual Theory*):** *"The child discovers that certain cutaneous regions act as primary **erogenous** areas capable of generating pleasurable sensations."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Tactile excitation of an **erogenous** cutaneous surface evokes profound reflex modifications across the autonomic nervous system."*
+

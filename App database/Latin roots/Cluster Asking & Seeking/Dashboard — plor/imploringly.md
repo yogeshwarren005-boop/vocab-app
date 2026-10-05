@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a beseeching manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a beseeching manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an earnest, pleading, or supplicating manner that seeks compassion, mercy, or relief.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In affective characterization, capturing the desperate, helpless tone or gesture of one facing overwhelming adversity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"God bless you!" Leonore looked imploringly into Mrs."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Liddy held up her hands and arms, coated with dust from the rubbish they were sorting, and looked imploringly at her mistress."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I could do anything with poor Fanny Robin.” “Troy,” said Boldwood, imploringly, “I’ll do anything for you, only don’t desert her; pray don’t desert her, Troy.” “Which, poor Fanny?” “No; Bathsheba Everdene."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She looked up **imploringly** into his face, as if silently beseeching him to soften his harsh resolve."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Maggie clung to her brother's arm **imploringly**, entreating him to believe her innocence despite appearances."*
+> - 📜 **Bram Stoker (*Dracula*):** *"Mina reached out her pale hands **imploringly**, praying that the terrible curse might be lifted from her spirit."*

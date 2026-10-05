@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by care and effort.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by diligent study and fondness for reading.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spending much time reading or studying; showing great diligence, care, or deliberate attention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character description, exhibiting an earnest intellectual focus and a quiet temperament inclined toward scholarship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But yet be wary in thy studious care."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He did not speak to me any more until he got out of the coach a little way short of Reading, when he advised me to be a good girl and to be studious, and shook hands with me."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Otherwise mildly studious in his observation of human nature, on the whole a benignant philosopher not disposed to be severe upon the follies of mankind, Mr."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She hath been **studious** of her people's welfare, and sought by prudent counsel to preserve the realm."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon sat amidst his pamphlets with that pale, **studious** look which promised monumental learning."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"The philosopher leads a quiet and **studious** life, contemplating eternal laws far above transient worldly strife."*

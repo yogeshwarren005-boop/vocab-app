@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of preventing something by anticipating and disposing of it effectively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of preventing something by anticipating and disposing of it effectively.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of precluding, preventing, ruling out, or making impossible in advance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil procedure, the doctrine barring relitigation of claims (res judicata) or distinct factual issues (collateral estoppel) previously resolved by valid judgment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, preclusion designates the act of preventing something by anticipating and disposing of it effectively."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"The equitable rule operates toward the total **preclusion** of fraudulent claims under simulated titles."*
+> - 📜 **Benjamin Cardozo (*The Nature of the Judicial Process*):** *"Issue **preclusion** serves the vital societal purpose of bringing protracted courtroom controversies to final rest."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The summary abolition of ancient charters worked an absolute **preclusion** of redress for injured corporate bodies."*

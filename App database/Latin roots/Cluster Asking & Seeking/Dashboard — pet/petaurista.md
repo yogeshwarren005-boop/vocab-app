@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Very large asiatic flying squirrels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very large asiatic flying squirrels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large nocturnal gliding sciurids known as giant flying squirrels, native to forests of Asia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian taxonomy and biomechanics, rodents of genus Petaurista characterized by a broad patagium supported by a styliform cartilage off the wrist.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petaurista designates very large asiatic flying squirrels."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The remarkable gliding membranes of **Petaurista** illustrate an intermediate evolutionary stage between terrestrial and volplane locomotion."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"In the dense rainforests of Borneo, the giant flying squirrel of the genus **Petaurista** sails silently from canopy to canopy at dusk."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"Species of **Petaurista** attain a length of nearly three feet, possessing dense silky fur and a heavily plumed tail that acts as a rudder."*

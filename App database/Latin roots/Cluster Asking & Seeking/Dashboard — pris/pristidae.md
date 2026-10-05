@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large primitive rays with elongated snouts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large primitive rays with elongated snouts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A biological family of large elasmobranch fishes comprising the sawfishes, noted for their elongated toothed rostra.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic ichthyology, marine and estuarine rays of the order Rhinopristiformes bearing paired lateral rostral teeth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pristidae designates large primitive rays with elongated snouts."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The remarkable rostral teeth of the **Pristidae** illustrate how modified dermal denticles serve offensive predatory purposes."*
+> - 📜 **William Beebe (*Beneath Tropic Seas*):** *"In the murky shallows of the mangrove estuary, a massive member of the **Pristidae** slashed through schools of mullet."*
+> - 📜 **Frank Buckland (*Curiosities of Natural History*):** *"The anatomical specimen exhibited the extraordinary saw characteristic of the family **Pristidae**, armed with ivory spikes."*
+

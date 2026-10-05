@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In competition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In competition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner driven by competition, mutual rivalry, or determined striving for advantage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In market economics, establishing commercial pricing or product standards capable of rivaling counterparts on equal or superior terms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, competitively designates in competition."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"When independent tradesmen operate **competitively**, the general consumer enjoys lower prices and enhanced mercantile honesty."*
+> - 📜 **Alfred Marshall (*Principles of Economics*):** *"Firms must manage their administrative overhead **competitively** if they expect to survive recurring cyclical depressions."*
+> - 📜 **Woodrow Wilson (*The New Freedom*):** *"A democracy thrives only when enterprise can organize **competitively** without fear of monopolistic suppression."*

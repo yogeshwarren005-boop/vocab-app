@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be composed of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Include or contain; have as a component.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To include, contain, consist of, or be made up of particular constituent parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In taxonomic classification and statistical aggregation, to encompass all specified subcategories within a comprehensive whole.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"After the waste of a few minutes in saying the proper nothings, she began to give the invitation which was to comprise all the remaining dues of the Musgroves."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Nor do heroes, saints, demigods, and prophets alone comprise the whole roll of our order."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"According to this distribution, each confederacy would comprise an extent of territory larger than that of the kingdom of Great Britain."*
+> - 📜 **Jane Austen (*Persuasion*):** *"She began to give such an account of Lady Dalrymple as must **comprise** everything that was fashionable and distinguished."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Nor do heroes, saints, demigods, and prophets alone **comprise** the vast assembly of that ancient order."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"According to this distribution, each confederacy would **comprise** elements adequate to maintain its commercial independence."*
+

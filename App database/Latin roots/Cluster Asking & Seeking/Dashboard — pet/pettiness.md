@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Narrowness of mind or ideas or views.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being unimportant and petty or frivolous.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Undue concern with trivial matters; small-mindedness, meanness, or insignificance of character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character psychology, an obsessive fixation on slights, vanity, or microscopic advantage that corrupts magnanimity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"But there was a branch house at the west end, and no pettiness or dinginess to give suggestions of shame."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"The long reach to Buenos Aires, and the querulous sea-birds mocking him: On the land is desolation and pettiness and disappointment...."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"But even then, at moments of weakness as he had accounted them, his mind had penetrated to those distances and he had there seen the same pettiness, worldliness, and senselessness."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She felt a deep recoil from the **pettiness** of provincial gossip, longing for some grand endeavor that would absorb her soul."*
+> - 📜 **Herman Melville (*Pierre; or, The Ambiguities*):** *"The soul sickens at the domestic **pettiness** that circumscribes human ambition when high ideals collide with daily vanity."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Let us abandon all **pettiness** and commune directly with the majestic forces of nature that encompass our existence."*

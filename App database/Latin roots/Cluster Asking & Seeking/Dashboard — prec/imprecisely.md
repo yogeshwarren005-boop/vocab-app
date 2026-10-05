@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an imprecise manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an imprecise manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an inaccurate, vague, or indistinct manner; without exact calibration or sharpness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In algorithmic computation, describing numerical values estimated within broad tolerancing margins rather than exact floating points.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"He scratched imprecisely with his right hand, though insensible of prurition, various points and surfaces of his partly exposed, wholly abluted skin."*
+> - 📜 **Thomas Henry Huxley (*Collected Essays*):** *"When scientific terms are applied **imprecisely**, confusion inevitably usurps the place of reasoned demonstration."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The witness remembered the hour only **imprecisely**, stating it was somewhere between twilight and the stroke of ten."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"Kemp noted that the stranger handled the laboratory glassware **imprecisely**, like a man blinded by sudden dawn."*

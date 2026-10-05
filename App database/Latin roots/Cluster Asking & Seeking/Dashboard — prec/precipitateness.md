@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of happening with headlong haste or without warning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of happening with headlong haste or without warning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The character of being rashly hurried, headlong, or incautiously hasty; headlong rush.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethical philosophy, the intellectual vice of leaping to deductive certitude without inductive verification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, precipitateness designates the quality of happening with headlong haste or without warning."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The understanding must not be allowed to jump from particulars to remote axioms with unbridled **precipitateness**."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The fatal **precipitateness** of the National Assembly subverted in a single night institutions reared by ten centuries."*
+> - 📜 **Samuel Taylor Coleridge (*Table Talk*):** *"A statesman who mistakes administrative **precipitateness** for executive energy will steer the commonwealth onto the rocks."*

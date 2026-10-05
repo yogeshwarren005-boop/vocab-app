@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cooled in advance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cooled in advance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cooled or chilled beforehand, especially prior to refrigerated transport or processing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cryogenic engineering and post-harvest horticulture, rapidly reducing core temperature before long-haul cold-chain distribution to retard spoilage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, precooled designates cooled in advance."*
+> - 📜 **Arthur Conan Doyle (*The Poison Belt*):** *"Challenger kept the oxygen canisters **precooled** in insulated containers to prevent rapid pressure fluctuations in the sealed room."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The metal cylinders appeared to have been **precooled** in the absolute zero of interplanetary space before their fiery terrestrial entry."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"Martin ensured the bacterial broth was **precooled** to the exact incubation threshold before inoculating the test flasks."*

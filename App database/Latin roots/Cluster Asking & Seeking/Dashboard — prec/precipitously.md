@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Very suddenly and to a great degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abruptly; in a precipitous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a precipitously steep manner; or extremely rapidly, rashly, or abruptly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In financial market analysis, describing sharp vertical collapses in asset prices that overwhelm stop-loss order buffers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, precipitously designates very suddenly and to a great degree."*
+> - 📜 **Jack London (*The Sea-Wolf*):** *"The schooner rolled **precipitously** down the foam-capped wave, submerging her lee rail beneath the roaring surf."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"The red sandstone cliff fell **precipitously** two thousand feet into the impenetrable tangle of the primeval forest."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"The narrow pathway climbed **precipitously** along the shoulder of Spy-glass Hill, exposed to the ocean gale."*

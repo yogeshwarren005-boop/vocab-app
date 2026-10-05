@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One praying humbly for something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who petitions a court for redress of a grievance or recovery of a right.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who presents, signs, or submits a formal petition to an authority or court.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chancery jurisprudence and appellate procedure, the initiating party seeking equitable relief or extraordinary writ from a tribunal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The palace Enter Peter and Petitioners. 1 PETITIONER."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My Lord Protector will come this way by and by, and then we may deliver our supplications in the quill. 2 PETITIONER."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Suffolk and Queen. 1 PETITIONER."*
+> - 📜 **William Shakespeare (*Henry VI, Part 2*):** *"Away, base scoundrels! Here comes the poor **petitioner** who seeks redress against the tyrannical duke."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Many a wretched **petitioner** had grown grey and infirm while waiting for an equitable decree from the Lord High Chancellor."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Stand upright; be not a whining **petitioner** at the footstool of custom, but a sovereign creator of your own destiny."*

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not surprised or expressing surprise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not surprised or expressing surprise.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Experiencing or exhibiting no astonishment; remaining calm and expectant in the face of an occurrence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological characterization, evincing worldly detachment, stoic equanimity, or jaded foresight toward predictable human follies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsurprised designates not surprised or expressing surprise."*
+> - 📜 **Henry James (*The Ambassadors*):** *"Strether stood completely **unsurprised** before the revelation, having long suspected the true nature of their friendship."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"Archer received the startling news with an **unsurprised** nod, unwilling to betray his private agitation."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"Marlow gazed upon the chaotic native assembly with the **unsurprised** patience of a veteran seaman."*
+

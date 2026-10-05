@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a deprecative manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a deprecative manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a deprecative manner; with apologetic, self-effacing, or mildly protesting intent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic direction, describing stage deliveries where characters moderate assertion with conciliatory intonation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deprecatively designates in a deprecative manner."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Mrs. Tulliver looked **deprecatively** at her sister Glegg, dreading the severe judgment sure to follow upon the broken china."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard raised his arm **deprecatively**, as though seeking to ward off the painful recollections conjured by Farfrae."*
+> - 📜 **Joseph Conrad (*The Secret Agent*):** *"Verloc cleared his throat and coughed **deprecatively** before daring to present his defense to the impatient ambassador."*

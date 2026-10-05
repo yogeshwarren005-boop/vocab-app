@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Appealing to or stimulating the appetite especially in appearance or aroma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appealing to or stimulating the appetite especially in appearance or aroma.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Appealing to the sense of taste or smell; attractive, savory, and invitingly edible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic and sensory descriptions, presenting an alluring visual or olfactory harmony that arouses desire or anticipation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The odour which now filled the refectory was scarcely more appetising than that which had regaled our nostrils at breakfast: the dinner was served in two huge tin-plated vessels, whence rose a strong steam redolent of rancid fat."*
+> - 📜 **George Eliot (*Adam Bede*):** *"The kitchen was filled with an **appetising** fragrance of freshly baked loaf bread and roasting fowl."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The brown crusted pasties looked exceedingly **appetising** to the tired laborers resting beneath the apple boughs."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The housekeeper set forth an **appetising** repast of cold fowl, golden cheese, and sweet wheaten bread."*

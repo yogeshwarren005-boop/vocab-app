@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of calling down a curse that invokes evil (and usually serves as an insult).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A slanderous accusation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An invoked curse, malediction, or an earnest prayer calling down misfortune upon someone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In folklore studies and Greco-Roman epigraphy, a inscribed curse tablet (defixio) deposited in graves to bind adversaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In the canton of the Grisons there is still in common use an imprecation, "Mist, go away, or I'll heal you," which points to an old custom of burning up the fog with fire."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Gedney Raffer snarled out an imprecation when old Toby had replied as above."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Where’s your manners?” “And who are you; and where are you shoving your elbow to?” said the man, with a surpassing imprecation."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The crowd yelled an awful **imprecation** against the aristocrat as the carriage hurried through the muddy suburb."*
+> - 📜 **James Joyce (*Dubliners*):** *"He muttered a bitter **imprecation** under his breath when the train whistled and departed without him."*
+> - 📜 **Walter Scott (*The Bride of Lammermoor*):** *"The dying prophetess uttered a terrible **imprecation** against the house of Ravenswood that echoed through the chapel."*

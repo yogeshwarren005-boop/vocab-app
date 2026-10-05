@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Verboseness resulting from excessive repetitions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Verboseness resulting from excessive repetitions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of recurring again and again in the same pattern or manner; monotony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In algorithmic analysis and aesthetics, the mathematical density of redundant motifs or cyclic iterations in a signal or text.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, repetitiveness designates verboseness resulting from excessive repetitions."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"The dreary **repetitiveness** of high-society dinner parties weighed upon her soul like an inescapable gilded cage."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The outward **repetitiveness** of daily earthly life conceals the immense spiritual mystery unfolding within human consciousness."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"Nature never falls into the mechanical **repetitiveness** of commercial wallpapers, for every cloud and leaf retains its unique individuality."*

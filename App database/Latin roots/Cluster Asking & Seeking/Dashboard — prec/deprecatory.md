@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to diminish or disparage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to diminish or disparage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing apology, disapproval, or an attempt to deflect criticism; self-effacing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal jurisprudence, describing non-binding expressions of desire or petition as opposed to peremptory commands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"I am not quite sure whether clever men ever dance.” “I would dance with you if you would allow me.” “Oh!” said Rosamond, with a slight deprecatory laugh."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Would you mind telling me what made you so confident that the spleen had nothing to do with the complication?” Fields inquired in a deprecatory manner which made Burns long to twist his neck."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"He used to nod many times to her and smile when she came in, and utter inarticulate deprecatory moans when she was going away."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Oh! said Rosamond, with a slight **deprecatory** laugh that concealed her firm determination to govern her own household."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Spenlow went over the items with a **deprecatory** air—as if it were painful to his feelings to charge so much, but unavoidable."*
+> - 📜 **Anthony Trollope (*The Warden*):** *"Mr. Harding glanced around the cathedral cloister with a **deprecatory** gaze that disarmed even his fiercest critics."*

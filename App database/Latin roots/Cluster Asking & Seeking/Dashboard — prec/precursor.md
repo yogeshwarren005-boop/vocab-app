@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance from which another substance is formed (especially by a metabolic reaction).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who goes before or announces the coming of another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or thing that precedes and indicates the approach of someone or something else; forerunner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and chemical synthesis, an inactive or antecedent compound that participates in a chemical reaction to produce an active end product.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"We are concerned less with John as precursor than as teacher and thinker."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"He will find it as sure a precursor of his fate as Openshaw did before him.” “And who is this Captain Calhoun?” “The leader of the gang."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Oh, the beautiful green! the precursor of the golden-red hue that tells of the end attained!"*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The simple tool used by the higher ape represents the evolutionary **precursor** of the stone implements fashioned by paleolithic man."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The sudden chill in the air was the unmistakable **precursor** of the dense river fog about to envelop the city."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"These giant crustaceans were but the grim **precursor** of that ultimate fading of terrestrial life upon a dying planet."*

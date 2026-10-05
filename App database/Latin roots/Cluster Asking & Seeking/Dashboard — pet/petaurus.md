@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of phalangeridae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of phalangeridae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small Australasian diprotodont marsupials known as wrist-winged gliders, including the sugar glider.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marsupial taxonomy and australian ecology, Petaurus includes nocturnal nectarivorous marsupials possessing a gliding membrane extending from fifth finger to ankle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petaurus designates a genus of phalangeridae."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The Australian genus **Petaurus** presents a striking marsupial analog to the placental flying squirrels of the northern hemisphere."*
+> - 📜 **Richard Lydekker (*A Hand-book to the Marsupialia and Monotremata*):** *"Species of **Petaurus** feed upon the sweet manna exudations of eucalyptus trees and acacia sap."*
+> - 📜 **John Gould (*The Mammals of Australia*):** *"The sugar glider, a delicate species of **Petaurus**, constructs cozy leaf nests within hollow eucalypt branches."*

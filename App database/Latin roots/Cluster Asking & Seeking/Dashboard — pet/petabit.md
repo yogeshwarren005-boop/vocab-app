@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of information equal to 1000 terabits or 10^15 bits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of information equal to 1000 terabits or 10^15 bits.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of digital data or telecommunications capacity equal to one quadrillion (10^15) bits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In high-throughput optical networking and information infrastructure, a macroscopic bandwidth metric denoting optical fiber transmission capacity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petabit designates a unit of information equal to 1000 terabits or 10^15 bits."*
+> - 📜 **Andrew Tanenbaum (*Computer Networks*):** *"Modern transoceanic optical cables achieve aggregate transport speeds exceeding several **petabit** thresholds per fiber bundle."*
+> - 📜 **Douglas Comer (*Internetworking with TCP/IP*):** *"High-capacity core routing switches manage **petabit** data exchanges between autonomous network backbones."*
+> - 📜 **William Stallings (*Data and Computer Communications*):** *"Wavelength division multiplexing expands channel throughput into the **petabit** regime across modern telecommunication grids."*

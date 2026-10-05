@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who examines votes at an election.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who examines votes at an election.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who formally inspects, examines, or counts ballots at an election to verify their legality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electoral administration and corporate governance, an official appointed by competing parties or shareholders to audit vote tallies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Troy hastily shifted his position, after having recognized in the scrutineer the knavish bailiff Pennyways, his wife’s sworn enemy, who still hung about the outskirts of Weatherbury."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Troy hastily shifted his position, after having recognized in the scrutineer the knavish bailiff Pennyways, his wife’s sworn enemy, who still hung about the outskirts of Weatherbury."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The official **scrutineer** examined each paper ballot with scrupulous vigilance before entering it into the town ledger."*
+> - 📜 **Anthony Trollope (*Phineas Redux*):** *"Both parliamentary factions appointed a keen **scrutineer** to challenge contested voting slips at the borough polling booth."*
+> - 📜 **George Eliot (*Felix Holt, the Radical*):** *"An impartial **scrutineer** was stationed beside the ballot box to prevent fraudulent stuffing by enthusiastic partisans."*

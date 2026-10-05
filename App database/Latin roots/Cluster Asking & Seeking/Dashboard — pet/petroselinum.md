@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Parsley.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Parsley.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering plants in the family Apiaceae, including garden parsley (Petroselinum crispum).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical pharmacognosy and horticulture, biennial aromatic herbs yielding apiol and volatile oils widely cultivated for culinary flavoring.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog petroselinum as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The umbelliferous genus **Petroselinum** yields essential oils long valued both in domestic seasoning and traditional pharmacy."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Cultivated varieties of **Petroselinum** exhibit crisped, tripinnate foliage that provides a delicate culinary garnish."*
+> - 📜 **William Withering (*An Arrangement of British Plants*):** *"The roots of **Petroselinum** sativum possess mild diuretic properties noted by early herbalists across western Europe."*

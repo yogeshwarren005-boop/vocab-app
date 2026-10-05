@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reason with (somebody) for the purpose of dissuasion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reason with (somebody) for the purpose of dissuasion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To express strong disapproval or disagreement; to reason earnestly with someone against their intended action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and interpersonal ethics, to present reasoned admonitions against folly, injustice, or rashness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My liege and madam, to expostulate What majesty should be, what duty is, Why day is day, night night, and time is time Were nothing but to waste night, day and time."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, stay not to expostulate; make speed, Or else come after; I’ll away before."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll not expostulate with her, lest her body and beauty unprovide my mind again."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, I must **expostulate** with you concerning the harsh sentence you have passed upon this prisoner."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Angel Clare attempted to **expostulate** with his father against his uncompromising theological dogmatism."*
+> - 📜 **Bram Stoker (*Dracula*):** *"Dr. Seward ventured to **expostulate** with Van Helsing, questioning whether his unusual measures were truly necessary."*

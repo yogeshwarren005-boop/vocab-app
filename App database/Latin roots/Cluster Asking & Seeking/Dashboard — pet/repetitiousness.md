@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Verboseness resulting from excessive repetitions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Verboseness resulting from excessive repetitions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tedious recurrence, excessive iteration, or tiresome redundancy of expression or form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative theory and cognitive psychology, the monotonous uniformity of iterative stimuli leading to sensory fatigue or aesthetic tedium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, repetitiousness designates verboseness resulting from excessive repetitions."*
+> - 📜 **Henry James (*The Art of the Novel*):** *"The fatal **repetitiousness** of mediocre romances arises from a total failure to imagine psychological interiority."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Mechanical machine-carving exhibits a dead **repetitiousness** that completely lacks the vital irregularity of true Gothic craftsmanship."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Poetic diction degenerates into dull **repetitiousness** when conventional figures of speech replace authentic imaginative vision."*

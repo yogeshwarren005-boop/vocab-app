@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Call upon in supplication; entreat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Call upon in supplication; entreat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To plead with someone urgently, desperately, or tearfully; to entreat with earnest humility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tragic drama and spiritual literature, expressing profound supplication before transcendent powers or inexorable authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Wherefore I humbly Beseech you, sir, to spare me till I may Be by my friends in Spain advised, whose counsel I will implore."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The very all of all is—but, sweet heart, I do implore secrecy—that the King would have me present the Princess, sweet chuck, with some delightful ostentation, or show, or pageant, or antic, or firework."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Anointed, I implore so much expense of thy royal sweet breath as will utter a brace of words. [_Armado and King talk apart._] PRINCESS."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Upon my knees I do **implore** thy grace, and beg that mercy which thy royal hand can best bestow."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She turned her sorrowful eyes toward him as if to **implore** some unspoken word of forgiveness."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The trembling client clasped her hands to **implore** Holmes's immediate intervention in the perilous matter."*

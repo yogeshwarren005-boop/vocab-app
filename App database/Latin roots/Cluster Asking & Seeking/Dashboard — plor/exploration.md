@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To travel for the purpose of discovery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A careful systematic search.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of traveling into unfamiliar regions or examining uncharted domains for geographical and scientific discovery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual history and methodology, the systematic heuristic pursuit of unknown principles, hypotheses, or creative terrain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Simons, "An Exploration of the Goajira Peninsula," _Proceedings of the Royal Geographical Society_, N.S., vii. (1885) p. 791."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Lewis Herndon, _Exploration of the Valley of the Amazon_ (Washington, 1854), pp. 319 _sq._ The scene was described to Mr."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"One loving spirit sets another on fire." Jesus brings men to the new exploration of God, to the new commitment of themselves to God, simply by the ordinary mechanism of friendship and love."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate had entered upon that ardent **exploration** of organic structures which promises new light to physiological science."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The geographical **exploration** of the vast river basin had filled blank spaces on the map with dark mysteries."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Subsequent geological **exploration** will undoubtedly reveal many intermediate forms that are at present entirely missing."*

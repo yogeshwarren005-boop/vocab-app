@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a petulant manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a petulant manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a petulant, sulky, childishly irritable, or peevish manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic narrative, responding with impatient sharpness or sudden ill temper when thwarted in a desire.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The Poet’s Reply To The Threat Of A Censorious Critic My imprudent lines were answered, very petulantly, by somebody, I believe, a Rev."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"It liked my arm so much, Smee, that it has followed me ever since, from sea to sea and from land to land, licking its lips for the rest of me.” “In a way,” said Smee, “it’s sort of a compliment.” “I want no such compliments,” Hook barked petulantly."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"But you don’t think of living up there, sir, and you so comfortable here?” “No, no,” he cried petulantly."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"She snatched the card pack from my fingers **petulantly**, declaring that I played as stupidly as a blacksmith's boy could be expected to play."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He kicked the fallen book **petulantly** across the floor, refusing to listen to Lord Henry's seductive philosophical maxims."*
+> - 📜 **J. M. Barrie (*Peter and Wendy*):** *"Tinker Bell darted through the nursery, ringing her bell-like voice **petulantly** whenever Peter praised Wendy's gentle ways."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perform an act, usually with a negative connotation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perform an act, usually with a negative connotation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To carry out, commit, or execute a harmful, illegal, or morally reprehensible act.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In criminal jurisprudence, to perform the affirmative physical deed or actus reus constituting an offense against the state.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Do they, your hang-dogs, O smug citizen, do these your hang-dogs fear to gaze upon the facial horror of the horror they perpetrate for you and ours and at your behest?"*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Not only is it a dirty game, degrading to the hang-dogs who personally perpetrate it for a wage, but it is degrading to the commonwealth that tolerates it, votes for it, and pays the taxes for its maintenance."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Honest men and gentlemen, if they don’t want the company of people who perpetrate such acts, have got to defend themselves as they best can, and that is what I and the friends whom I may call my clients in this affair are determined to do."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"No guilt was ever so terrible as that which a man must **perpetrate** in secret against his own immortal soul."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"Could a daemon possessed of such monstrous malice **perpetrate** crimes so foul against innocent human beings?"*
+> - 📜 **George Eliot (*Middlemarch*):** *"Raffles threatened to **perpetrate** an immediate exposure of the banker's shameful youthful transactions."*

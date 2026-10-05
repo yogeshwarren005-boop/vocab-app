@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Affording no ease or reassurance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fraught with danger.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dangerously lacking in stability, security, or certainty; perilous or uncertain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil law and tenure history, held solely by favor of another and revocable at the arbitrary pleasure of the grantor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He ultimately worked his passage to the United States, where he made a precarious living in various towns as Professor of Gymnastics, Sword Exercise, Fencing, and Pugilism."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She had perceived that the horse was not the spirited one he sometimes rose, and felt no alarm on that score, though her seat was precarious enough despite her tight hold of him."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Self-solicitude was near extinction in her, and in the knowledge that he had planned to depart on the morrow, possibly for always, she lay in his arms in this precarious position with a sense rather of luxury than of terror."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He made a **precarious** living in various towns as Professor of Gymnastics, Sword Exercise, Fencing, and Pugilism."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"You cannot breathe dead hippo and at the same time keep your **precarious** grip on existence in this savage wilderness."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"Primitive man led a **precarious** life, surrounded by ruthless predators and continually exposed to starvation."*

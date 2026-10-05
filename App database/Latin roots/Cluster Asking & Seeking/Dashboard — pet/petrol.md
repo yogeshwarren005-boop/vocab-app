@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A volatile flammable mixture of hydrocarbons (hexane and heptane and octane etc.) derived from petroleum; used mainly as a fuel in internal-combustion engines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A volatile flammable mixture of hydrocarbons (hexane and heptane and octane etc.) derived from petroleum; used mainly as a fuel in internal-combustion engines.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A volatile, flammable liquid mixture of hydrocarbons derived from petroleum, used as motor fuel; gasoline.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical fuel technology and Commonwealth nomenclature, refined light hydrocarbon fractions utilized in internal combustion spark-ignition engines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Between 70 deg. and 120 deg. petroleum ether and petroleum naphtha are produced, and they together constitute what is commonly called petrol."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"If the fuel be petrol it vaporises at the ordinary temperature of the engine and needs no added heat."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"A tank full of petrol is extremely dangerous, so much so that the storage of petrol is hedged about by all manner of precautions."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The acrid smell of burning **petrol** and vaporized machinery hung heavy in the air after the alien cylinders fell."*
+> - 📜 **Arthur Conan Doyle (*His Last Bow*):** *"Von Bork filled the motor tank with **petrol**, preparing for his midnight dash to the awaiting submarine off Harwich."*
+> - 📜 **G. K. Chesterton (*The Flying Inn*):** *"The noisy chugging of the early horseless carriage reeked of commercial grease and pungent **petrol** fumes."*

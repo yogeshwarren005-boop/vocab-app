@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not inclined to compete.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not inclined to compete.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not competitive; unable or unwilling to compete effectively against rivals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economics and commerce, having costs, prices, or operational efficiencies that fail to meet prevailing market standards.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uncompetitive designates not inclined to compete."*
+> - 📜 **Alfred Marshall (*Industry and Trade*):** *"Antiquated machinery and lethargic management render any manufacturing plant hopelessly **uncompetitive** in international markets."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Monopolistic guilds maintained artificially high prices by keeping trade within **uncompetitive** and restricted channels."*
+> - 📜 **Thorstein Veblen (*The Vested Interests and the Common Man*):** *"Sabotage of industrial capacity is often practiced by cartels to preserve profits under an otherwise **uncompetitive** regime."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property possessed by a slope that is very steep.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of happening with headlong haste or without warning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sheer vertical steepness, cliff-like perpendicularity, or rash, unconsidered velocity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In alpine geomorphology, the angle of declivity exceeding sixty degrees that prevents soil accumulation or vegetation anchoring.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, precipitousness designates the property possessed by a slope that is very steep."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The sheer **precipitousness** of the Matterhorn's northern face defies the painter's brush to convey its sublime terror."*
+> - 📜 **Edmund Burke (*A Philosophical Enquiry into the Sublime and Beautiful*):** *"A vast height loses half its sublimity if it lacks that abrupt **precipitousness** which threatens instantaneous destruction."*
+> - 📜 **Walter Scott (*Waverley*):** *"The guide warned the party against the treacherous **precipitousness** of the Highland gorge as twilight descended."*

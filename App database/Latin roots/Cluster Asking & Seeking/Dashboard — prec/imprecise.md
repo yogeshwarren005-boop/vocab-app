@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not precise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not precise.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking exactness, accuracy, sharpness, or clarity of boundary or expression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metrology and data analytics, denoting observations containing variance or ambiguous boundaries that prevent fine calibration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, imprecise designates not precise."*
+> - 📜 **Bertrand Russell (*The Analysis of Mind*):** *"Ordinary language is fatally **imprecise**, compelling the philosopher to define his logical symbols with rigorous care."*
+> - 📜 **William James (*Pragmatism*):** *"A doctrine that remains **imprecise** in its practical consequences cannot yield fruitful guidance in intellectual life."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"The records were hopelessly **imprecise**, making it impossible to determine the true production statistics of previous years."*

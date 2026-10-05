@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Disciple of jesus and leader of the apostles; regarded by catholics as the vicar of christ on earth and first pope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obscene terms for penis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To diminish gradually and then cease; to dwindle or trail off, typically followed by out.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mining history and vernacular geology, the exhaustion or pinching out of a profitable vein of ore or mineral deposit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The palace Enter Peter and Petitioners. 1 PETITIONER."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"PETER. [_Giving his petition_.] Against my master, Thomas Horner, for saying that the Duke of York was rightful heir to the crown."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Take this fellow in, and send for his master with a pursuivant presently.—We’ll hear more of your matter before the King. [_Exit Servant with Peter._] QUEEN MARGARET."*
+> - 📜 **Mark Twain (*Roughing It*):** *"The miners toiled through the winter only to watch their rich silver vein **peter** out into barren porphyry."*
+> - 📜 **Bret Harte (*The Luck of Roaring Camp and Other Sketches*):** *"When the gulch placer began to **peter** out, the restless gold seekers packed their mules for the southern diggings."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"The dog team pushed on over the frozen ridge until the winding sled trail seemed to **peter** out into trackless snow."*

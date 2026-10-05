@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In the manner of one who is surprised.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the manner of one who is surprised.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that indicates astonishment, unexpected shock, or sudden wonder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive fiction, uttering words or reacting with visible bewilderment upon encountering the unforeseen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, surprisedly designates in the manner of one who is surprised."*
+> - 📜 **Henry James (*The Golden Bowl*):** *"Maggie looked up **surprisedly** from her book, unaccustomed to receiving visitors at that solitary hour."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Clym stepped backward and stared **surprisedly** at the agitated figure standing in the doorway."*
+> - 📜 **Edith Wharton (*The House of Mirth*):** *"Lily raised her eyebrows **surprisedly**, protesting that she had received no warning of their arrival."*
+

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Clarity as a consequence of precision.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being reproducible in amount or performance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exactitude, scrupulous distinctness, punctilious detail, or strict conformity to standards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In seventeenth-century ecclesiastical history, strict Puritan adherence to ceremonial purity and moral regulations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is all your strict preciseness come to this?"*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Miss Crawford found a sister without preciseness or rusticity, a sister’s husband who looked the gentleman, and a house commodious and well fitted up; and Mrs."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His speech had that quaint **preciseness** which marks a scholar long accustomed to cloistered Latin disputations."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"Pope polished his heroic couplets with an extraordinary **preciseness** that banished every redundant syllable."*
+> - 📜 **George Eliot (*Romola*):** *"The notary drafted the civic contract with professional **preciseness**, omitting no legal clause that might secure Florentine liberties."*

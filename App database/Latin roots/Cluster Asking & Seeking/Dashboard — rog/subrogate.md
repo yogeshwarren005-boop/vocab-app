@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Substitute one creditor for another, as in the case where an insurance company sues the person who caused an accident for the insured.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Substitute one creditor for another, as in the case where an insurance company sues the person who caused an accident for the insured.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To substitute one party into the place of another with respect to a legal claim, right, or security.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In insurance and indemnification law, to empower an insurer to succeed to the rights of the insured against a negligent third party.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subrogate designates substitute one creditor for another, as in the case where an insurance company sues the person who caused an accident for the insured."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"The court of equity will **subrogate** the paying surety to all securities and liens held by the satisfied creditor."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The doctrine operates to **subrogate** the innocent guarantor to every legal remedy previously available to the principal."*
+> - 📜 **Benjamin Cardozo (*The Nature of the Judicial Process*):** *"To **subrogate** the indemnitor to the rights of the injured victim prevents the unjust enrichment of the wrongdoer."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An escape from jail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An escape from jail.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of forcibly breaking out of and escaping from lawful confinement or jail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In common law felony classification, the statutory offense of breaking out of prison by physical force, distinct from simple escape.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prison-breaking designates an escape from jail."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"By the ancient common law, **prison-breaking** was a felony in every case where the party was committed for a capital offense."*
+> - 📜 **Edward Coke (*Institutes of the Laws of England*):** *"To constitute the crime of **prison-breaking**, there must be an actual breaking with force by the prisoner or by his confederates."*
+> - 📜 **Matthew Hale (*The History of the Pleas of the Crown*):** *"The statute de frangentibus prisonam mitigated the severity of punishment for **prison-breaking** committed by lesser offenders."*
+

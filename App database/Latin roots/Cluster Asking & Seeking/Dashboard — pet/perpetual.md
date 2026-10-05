@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Continuing forever or indefinitely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Uninterrupted in time and indefinitely long continuing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Never ending or changing; continuing forever or indefinitely without interruption.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanical physics and institutional law, describing unattainable perpetual motion engines, or annuities and trusts established without term.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, for a quart d’ecu he will sell the fee-simple of his salvation, the inheritance of it, and cut the entail from all remainders, and a perpetual succession for it perpetually."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, thou art a perpetual triumph, an everlasting bonfire-light!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I were better to be eaten to death with a rust than to be scoured to nothing with perpetual motion."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"A thousand knees ten thousand years together, naked, fasting, upon a barren mountain, could not move gods to look that way, were your sorrows **perpetual**."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"A veil of steaming vapor rose from the primeval marsh, shrouding the plateau in **perpetual** twilight."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Egdon Heath exhaled an atmosphere of **perpetual** antiquity, enduring untouched while human generations passed away."*

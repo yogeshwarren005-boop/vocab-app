@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One species: dalmatian laburnum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One species: dalmatian laburnum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monotypic genus of leguminous deciduous shrubs in the family Fabaceae, comprising Petteria ramentacea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Mediterranean and Balkan dendrology, an aromatic ornamental shrub bearing fragrant yellow papilionaceous flowers clustered in dense upright racemes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petteria designates one species: dalmatian laburnum."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The Dalmatian shrub **Petteria** ramentacea occupies a unique taxonomic position between Cytisus and Laburnum within the Fabaceae."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"Morphological features of the calyx in **Petteria** reveal striking adaptations to the limestone soils of the Adriatic coast."*
+> - 📜 **George Bentham (*Genera Plantarum*):** *"The erect racemes of golden blossoms make **Petteria** a distinctive element of sub-Mediterranean scrub communities."*

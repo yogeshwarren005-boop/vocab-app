@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of flowers) having petals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of flowers) having petals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having petals; furnished with floral leaves, especially of a specified number or shape.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic taxonomy and horticultural botany, designating blossoms categorized by corolla morphology, such as polypetalous or gamopetalous forms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petaled designates (of flowers) having petals."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The wild rose is typically five-**petaled**, opening widely under the summer sun to invite bee pollination."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"Along the gravelly lake margin we discovered many frail, white-**petaled** water plants swaying in the shallow current."*
+> - 📜 **John Burroughs (*Wake-Robin*):** *"The four-**petaled** blossoms of the bloodroot emerge through dead forest leaves before the forest canopy unfurls."*

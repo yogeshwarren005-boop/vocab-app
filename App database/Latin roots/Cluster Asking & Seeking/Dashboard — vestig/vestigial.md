@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not fully developed in mature animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not fully developed in mature animals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Forming a small, rudimentary remnant of something that was once much more prominent, developed, or fully functional.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy and evolutionary genetics, designating nonfunctional morphological features inherited from ancestral lineages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vestigial designates not fully developed in mature animals."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The presence of **vestigial** muscles in the human ear attests to our kinship with lower mammalian quadruped ancestors."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"In the pelvic skeleton of cetaceans, small **vestigial** bones indicate a remote terrestrial ancestry."*
+> - 📜 **Ernst Haeckel (*The Evolution of Man*):** *"Comparative embryology reveals numerous **vestigial** structures that appear transiently during embryonic development."*

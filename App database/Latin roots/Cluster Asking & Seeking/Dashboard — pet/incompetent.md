@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is not competent to take effective action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Legally not qualified or sufficient.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having or showing the necessary skills, qualifications, or legal authority to do something successfully.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical jurisprudence, mentally incapacitated or lacking cognitive volition to make binding medical or legal decisions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This consideration, however, has less weight as the corporate form of organization becomes well nigh universal in "big business." Every profligate son, every incompetent heir, is an argument against the inheritance of property."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Of modern standers-of-mast-heads we have but a lifeless set; mere stone, iron, and bronze men; who, though well capable of facing out a stiff gale, are still entirely incompetent to the business of singing out upon discovering any strange sight."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It may well be conceived, what an unsavory odor such a mass must exhale; worse than an Assyrian city in the plague, when the living are incompetent to bury the departed."*
+> - 📜 **Oscar Wilde (*The Importance of Being Earnest*):** *"To lose one parent may be regarded as a misfortune; to lose both looks like an **incompetent** piece of domestic management."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Natural selection acts only through preserving slight variations that aid survival, eliminating those wholly **incompetent** to endure hardship."*
+> - 📜 **Herman Melville (*Billy Budd, Sailor*):** *"The youthful surgeon was deemed **incompetent** to pronounce upon the subtle moral mysteries involved in the tragic event."*

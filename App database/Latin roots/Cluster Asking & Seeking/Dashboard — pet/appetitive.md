@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to appetite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to appetite.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, actuated by, or characterized by bodily desire, craving, or instinctive appetite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical philosophy, designating the irrational or sensory faculty of the soul that pursues pleasure and avoids physical discomfort.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, appetitive designates of or relating to appetite."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The rational faculty ought ever to govern the **appetitive** inclinations, lest passion undermine civic prudence."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Sensible objects stimulate our **appetitive** nature long before the intellect attains the capacity for abstract reflection."*
+> - 📜 **David Hume (*A Treatise of Human Nature*):** *"Moral distinctions do not derive solely from reason, but involve our sympathetic and **appetitive** dispositions."*

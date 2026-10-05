@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rock wallabies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rock wallabies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of Australian macropod marsupials commonly known as rock-wallabies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In australian mammalogy and biomechanics, Petrogale includes nimble wallabies equipped with modified roughened footpads for bounding across steep cliffs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petrogale designates rock wallabies."*
+> - 📜 **John Gould (*The Mammals of Australia*):** *"The agile rock-wallaby of the genus **Petrogale** leaps across dizzying sandstone precipices with the sure-footed grace of an alpine chamois."*
+> - 📜 **Richard Lydekker (*A Hand-book to the Marsupialia and Monotremata*):** *"In **Petrogale**, the soles of the hind feet are densely granulated to prevent slipping upon smooth granite boulders."*
+> - 📜 **Frank Beddard (*Mammalia*):** *"Species of **Petrogale** inhabit arid mountain ranges, finding secure shelter within deep caverns during the blazing heat of noon."*

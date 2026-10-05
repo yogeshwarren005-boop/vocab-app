@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: At breakneck speed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At breakneck speed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With hasty, rash, or headlong speed; suddenly and without due consideration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military maneuver, retreating in disorganized flight without maintaining rear-guard defensive cohesion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Krook’s back second floor, from which a few of the jurymen retire pale and precipitately."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"We have proved ourselves cowards; but if you will pardon me, M. le Maire, you, too, re-entered precipitately--you too!"*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A clergyman in the State of New York, through the influence of a disaffected member, was unfairly and precipitately deprived of his pulpit, which involved a large family in necessity."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She took up the toy and was not going to enter **precipitately** on any subject touching her sister's domestic happiness."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"He talked **precipitately**, and I did not try to stop him, fearing to break the hypnotic spell of his confession."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The militia withdrew **precipitately** from the canal bank as the heat-ray ignited the pine woods behind them."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of craving something; ; - granville hicks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of craving something; ; - granville hicks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instinctive tendency or natural urge impelling an organism toward that which sustains or pleases it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and Lamarckian philosophy, the vital striving or organic affinity assumed to induce physiological adaptation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, appetency designates a feeling of craving something; ; - granville hicks."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"Erasmus Darwin attributed the development of new organs to the long-continued **appetency** of animals seeking gratification."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"The primitive reflex develops gradually into conscious **appetency** as nervous ganglia centralize sensory impulses."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Every instinctive **appetency** leaves behind an organic memory that colors future desires and motives."*

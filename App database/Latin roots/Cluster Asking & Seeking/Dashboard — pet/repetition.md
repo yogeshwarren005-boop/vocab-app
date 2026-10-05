@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An event that repeats.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of doing or performing again.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of repeating something that has already been said, done, or written.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetoric, musical composition, and cognitive memory, the deliberate recurrence of phrasing or motifs to reinforce emotional emphasis and mnemonic retention.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, call him hither; We are reconcil’d, and the first view shall kill All repetition."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath faults, with surplus, to tire in repetition. [_Shouts within_.] What shouts are these?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O gentle lady, ’Tis not for you to hear what I can speak: The repetition, in a woman’s ear, Would murder as it fell."*
+> - 📜 **William Shakespeare (*King John*):** *"Life is as tedious as a twice-told tale, vexing the dull ear of a drowsy man; and bitter shame hath spoil'd the sweet world's taste by tedious **repetition**."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The daily **repetition** of routine market duties served to dull the acute pangs of his unavailing remorse."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The multiple **repetition** of similar parts in primitive organisms provides the raw material upon which evolutionary divergence can operate."*

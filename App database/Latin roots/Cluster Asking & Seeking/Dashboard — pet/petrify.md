@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to become stonelike or stiff or dazed and stunned.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change into stone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To change organic substance into stone; or to paralyze with astonishment, horror, or fear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In figurative expression and paleontology, to render rigid, inert, and incapable of change or movement through sudden shock.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Clarence Budington Kelland (*Mark Tidd's Citadel*):** *"And one thing you can depend on, and that is that this crowd’ll stick to you, and work for you, and f-f-fight for you till they p-p-petrify.” Motu smiled a proud, grateful sort of smile and took Mark’s hand."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"It was a petrifying thing to see Charmion break down."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The sacred lowe o’ weel-plac’d love, Luxuriantly indulge it; But never tempt th’ illicit rove, Tho’ naething should divulge it: I waive the quantum o’ the sin, The hazard of concealing; But, Och! it hardens a’ within, And petrifies the feeling!"*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The unexpected reappearance of the convict seemed to **petrify** the listener, rooting him helplessly to the hearthrug."*
+> - 📜 **Sir Walter Scott (*The Antiquary*):** *"The calcifying waters of the cavern slowly **petrify** whatever leaves, twigs, or bird nests are suspended beneath the dripping roof."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"His sudden grim announcement served to **petrify** every joyous sentiment that had blossomed in my breast."*

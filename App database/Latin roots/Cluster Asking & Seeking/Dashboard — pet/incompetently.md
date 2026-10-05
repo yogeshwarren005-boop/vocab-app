@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an incompetent manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an incompetent manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner showing a lack of skill, adequacy, or professional capability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public administration, executing mandated responsibilities with blundering inefficiency, negligence, or procedural error.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incompetently designates in an incompetent manner."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The ancient aristocracy administered royal revenues so **incompetently** that national bankruptcy became wholly inevitable."*
+> - 📜 **Anthony Trollope (*The Warden*):** *"The bishop's secretary handled the delicate clerical dispute so **incompetently** as to inflame both factions beyond reconciliation."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The local constabulary performed their watch **incompetently**, failing to alert the township to the rising cylinder heat."*

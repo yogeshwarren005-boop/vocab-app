@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being very small in size.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being very small in size.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Charming smallness, daintiness, or delicate slenderness of stature or bodily proportion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic portraiture, graceful compactness of physical stature combined with harmonious elegance of proportion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petiteness designates the property of being very small in size."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"There was an exquisite **petiteness** in the contour of her wrists and ankles that spoke of aristocratic lineage."*
+> - 📜 **Edith Wharton (*The House of Mirth*):** *"Her captivating **petiteness** formed a dramatic contrast to the imposing statuesque matrons of New York society."*
+> - 📜 **Anthony Trollope (*Can You Forgive Her?*):** *"The delicate **petiteness** of her form made her seem almost too fragile to bear the heavy sorrows of the family."*

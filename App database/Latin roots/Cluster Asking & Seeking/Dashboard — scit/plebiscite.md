@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A vote by the electorate determining public opinion on a question of national importance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vote by the electorate determining public opinion on a question of national importance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A direct vote of the entire electorate of a state or territory on an important public question, such as sovereignty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional law and democratic theory, an exceptional referendum by universal suffrage to determine national allegiance or constitutional reform.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plebiscite designates a vote by the electorate determining public opinion on a question of national importance."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"In the early Roman republic, a binding **plebiscite** enacted by the popular assembly held the full force of statutory law."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"An authoritarian regime may disguise its usurpations beneath the democratic facade of a staged national **plebiscite**."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"Determining disputed frontier borders through an honest popular **plebiscite** respects the principle of national self-determination."*

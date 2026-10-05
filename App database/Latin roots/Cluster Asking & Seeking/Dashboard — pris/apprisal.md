@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Informing by words.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Informing by words.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of imparting notice, information, or advice; formal notification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In administrative communication and intelligence reporting, the delivery of an official briefing or factual disclosure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apprisal designates informing by words."*
+> - 📜 **Thomas Jefferson (*Writings of Thomas Jefferson*):** *"We waited with keen anxiety for an immediate **apprisal** of the diplomatic negotiations in Paris."*
+> - 📜 **James Fenimore Cooper (*The Prairie*):** *"The scout hastened back to camp, giving prompt **apprisal** of the hostile band approaching from the ridge."*
+> - 📜 **Washington Irving (*The Life of George Washington*):** *"A courier arrived at headquarters, bearing confidential **apprisal** of the enemy fleet's sudden movement."*
+

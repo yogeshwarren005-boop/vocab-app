@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The position of precentor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The position of precentor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The office, dignity, duties, or term of service of a precentor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In canon law and cathedral history, the endowed ecclesiastical benefice attached to the musical governance of a diocese.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, precentorship designates the position of precentor."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"The vacant **precentorship** aroused eager ambitions among the younger clergy who coveted both income and musical dignity."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Monastic chroniclers recorded that Samson discharged the duties of the **precentorship** with austere devotion and meticulous rhythm."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"He resigned the cathedral **precentorship** to devote himself wholly to philanthropic medical missions in the slums."*

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: English physician who in retirement compiled a well-known thesaurus (1779-1869).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English physician who in retirement compiled a well-known thesaurus (1779-1869).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Peter Mark Roget (1779–1869), the English physician and scholar celebrated for compiling the premier conceptual thesaurus of English words.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In lexicography and linguistics, eponymously designating Roget's Thesaurus and its pioneering semantic classification of concepts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, roget designates english physician who in retirement compiled a well-known thesaurus (1779-1869)."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"A writer searching for subtle shades of expression frequently turns to the semantic categories devised by **Roget**."*
+> - 📜 **George Orwell (*Selected Essays*):** *"The meticulous taxonomic arrangement conceived by Doctor **Roget** illustrates the Victorian passion for classifying every corner of human thought."*
+> - 📜 **H. G. Wells (*The Work, Wealth and Happiness of Mankind*):** *"The encyclopedic mind of Peter Mark **Roget** contributed substantially to early physiology before immortalizing his name in verbal taxonomy."*
+

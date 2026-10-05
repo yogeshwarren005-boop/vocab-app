@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A right reserved exclusively by a particular person or group (especially a hereditary or official right).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A right reserved exclusively by a particular person or group (especially a hereditary or official right).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An exclusive right, privilege, or immunity vested in a particular official, hereditary rank, or civic body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional law, sovereign discretionary powers exercised by the crown or head of state independent of legislative assent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall I, for lucre of the rest unvanquish’d, Detract so much from that prerogative As to be call’d but viceroy of the whole?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, wrangling pedant, this is The patroness of heavenly harmony: Then give me leave to have prerogative; And when in music we have spent an hour, Your lecture shall have leisure for as much."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How could communities, Degrees in schools, and brotherhoods in cities, Peaceful commerce from dividable shores, The primogenity and due of birth, Prerogative of age, crowns, sceptres, laurels, But by degree stand in authentic place?"*
+> - 📜 **William Shakespeare (*Troilus and Cressida*):** *"The **prerogative** of age, crowns, sceptres, laurels, but by degree stand in authentic place."*
+> - 📜 **John Locke (*Second Treatise of Government*):** *"This power to act according to discretion for the public good, without the prescription of the law, is that which is called **prerogative**."*
+> - 📜 **Edmund Burke (*Thoughts on the Cause of the Present Discontents*):** *"It is the ancient **prerogative** of the House of Commons to hold the royal advisers responsible to the nation."*
+

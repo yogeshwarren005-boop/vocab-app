@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not exploratory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not exploratory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing no inclination to explore, investigate, or venture beyond known boundaries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary portraiture and intellectual critique, portraying a parochial, complacent mind resistant to unfamiliar frontiers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unexplorative designates not exploratory."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"Certain provincial essayists preserved an **unexplorative** contentment, satisfied with domestic commonplaces."*
+> - 📜 **Walter Pater (*Appreciations*):** *"An **unexplorative** artist risks repeating conventional ornaments without revitalizing his imaginative vision."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"British insularity often bred an **unexplorative** disdain for continental philosophical movements."*

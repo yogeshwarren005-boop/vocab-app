@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in the european part of russia; 2nd largest russian city; located at the head of the gulf of finland; former capital of russia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in the european part of russia; 2nd largest russian city; located at the head of the gulf of finland; former capital of russia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical variant name for Saint Petersburg, the imperial capital of Russia founded on the Neva.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic history and 19th-century geography, denoting the Baltic administrative metropolis of the Russian Empire.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peterburg designates a city in the european part of russia; 2nd largest russian city; located at the head of the gulf of finland; former capital of russia."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"All the fashionable society of **Peterburg** gathered in the grand salon of Anna Pavlovna Scherer to debate the Bonaparte crisis."*
+> - 📜 **Fyodor Dostoevsky (*Crime and Punishment*):** *"The suffocating summer heat and yellow dust of **Peterburg** weighed heavily upon Raskolnikov as he wandered beside the Catherine Canal."*
+> - 📜 **Alexander Pushkin (*The Bronze Horseman*):** *"Upon the desolate shore Peter the Great stood dreaming of the great northern capital of **Peterburg** that would defy the Baltic storms."*

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an arrogant manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an arrogant manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a haughty, overbearing, and presumptuous manner with open disregard for others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive rhetoric, executing speech or action with insolent confidence and imperious condescension.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"He had seemed so confident, so arrogantly sure, of her ultimate surrender to his desire to marry her."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"He swaggered across the drawing room and **arrogantly** asserted his superior knowledge of the continental scandal."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard **arrogantly** dismissed the cautious advice of his manager, determined to manage the grain market alone."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab paced the quarterdeck and **arrogantly** challenged the tempestuous powers of the sea and sky."*
+

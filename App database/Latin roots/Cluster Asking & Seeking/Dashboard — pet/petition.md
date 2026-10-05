@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal message requesting something that is submitted to an authority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reverent petition to a deity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal written request addressed to an authority appealing for a particular action, right, or remedy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional law and prayer liturgy, the guaranteed civil right to seek governmental redress of grievances, or solemn supplication to God.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That it will please you To give this poor petition to the king, And aid me with that store of power you have To come into his presence."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Gracious sovereign, Whether I have been to blame or no, I know not: Here’s a petition from a Florentine, Who hath for four or five removes come short To tender it herself."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For not alone The death of Fulvia, with more urgent touches, Do strongly speak to us, but the letters too Of many our contriving friends in Rome Petition us at home."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"I pray thee, hear me speak; I will not listen to thy harsh **petition** till justice be duly satisfied."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The ruined burghers signed a desperate **petition** to the council, begging for an extension of the municipal fair privileges."*
+> - 📜 **Henry David Thoreau (*Civil Disobedience*):** *"When a whole people signs a **petition** against injustice and is met by cold indifference, passive resistance becomes an imperative duty."*

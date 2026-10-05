@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a repetitive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a repetitive manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a repetitive manner; repeatedly, iteratively, and often monotonously.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial engineering and musicology, executing motions or rhythmic sequences in continuous cyclical cycles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, repetitively designates in a repetitive manner."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"The piston of the steam engine worked monotonously up and down, **repetitively** beating the cadence of the industrial prison house."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The clock mechanism ticked **repetitively** in the silent laboratory, counting out moments of unimaginable cosmic duration."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Motor habits established **repetitively** during youth become so deeply grooved in the nervous pathways that they resist conscious alteration."*

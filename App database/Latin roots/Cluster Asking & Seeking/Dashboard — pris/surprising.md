@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to be surprised.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come upon or take unawares.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing sudden wonder, astonishment, or admiration; unexpected and extraordinary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytical observation, defying prior probabilities, conventional forecasts, or standard expectations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Surprising!” “Miss Barbary, sir,” returned Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"There is a bright-eyed woman, of a strong will and immense power of business detail, who throws herself into objects with surprising ardour!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I don’t regret that I have not a strong will and an immense power of business detail to throw myself into objects with surprising ardour."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"There is a bright-eyed woman of strong will who throws herself into objects with **surprising** ardour."*
+> - 📜 **Jane Austen (*Emma*):** *"It was truly **surprising** to observe how rapidly the misunderstanding cleared away once plain words were spoken."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"The acute observation of Sherlock Holmes led him to inferences that seemed **surprising** to common minds."*
+

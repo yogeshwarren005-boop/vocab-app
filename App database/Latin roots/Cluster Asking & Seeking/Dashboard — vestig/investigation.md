@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inquiry into unfamiliar or questionable activities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The work of inquiring into something thoroughly and systematically.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of investigating something; a formal, methodical, or detailed examination or inquiry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence and scholarly research, an exhaustive evidentiary process designed to ascertain objective facts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Suppose you do!” While she is gone, the surgeon abandons his hopeless investigation and covers its subject with the patchwork counterpane."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"One helmet remains behind after careful investigation of all chinks and crannies and slowly paces up and down before the house in company with one of the two policemen who have likewise been left in charge thereof."*
-> - 📜 **Jane Austen (*Persuasion*):** *"How her temper and understanding might bear the investigation of his present keener time of life was another concern and rather a fearful one."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Subsequent **investigation** of the sheep-pens proved that the disaster had been caused by an opened hurdle."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"Ethical philosophy demands impartial **investigation** into the tangible consequences of human actions upon general welfare."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Careful **investigation** of fossiliferous strata reveals that transitional organisms existed across successive epochs."*

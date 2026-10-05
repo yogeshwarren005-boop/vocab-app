@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not studious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not studious.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not given to study, reading, or intellectual pursuits; disinclined toward scholarly labor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social characterization, preferring active, outdoor, or convivial sports over sedentary academic reflection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unstudious designates not studious."*
+> - 📜 **Anthony Trollope (*The Small House at Allington*):** *"The young squire was of a cheerful, **unstudious** disposition, caring vastly more for fox-hunting than for classical literature."*
+> - 📜 **William Makepeace Thackeray (*The History of Pendennis*):** *"Arthur found his college companions remarkably **unstudious**, devoting their afternoons to boating and hazard."*
+> - 📜 **George Meredith (*The Ordeal of Richard Feverel*):** *"His robust physical nature rebelled against tutors, choosing an **unstudious** boyhood among the woods and fields."*

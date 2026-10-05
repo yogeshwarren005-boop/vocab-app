@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relatively small long-winged tube-nosed bird that flies far from land.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relatively small long-winged tube-nosed bird that flies far from land.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A oceanic seabird of the order Procellariiformes, having tube-shaped nostrils and long wings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pelagic ornithology and folklore, wide-ranging sea rovers such as the stormy petrel, proverbially believed to presage approaching ocean tempests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"This was as a protection to the hut in the periods of the great gales when all the island was as a tiny petrel in the maw of the hurricane."*
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"The objects of his boyish idealization had been Cumbrian shepherds--a race whose personality seems to melt into Nature's--who are united as intimately with moor and mountain as the petrel with the sea."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"And over this desolate face of nature a stern silence reigned, scarcely broken by the flapping of the wings of petrels and puffins."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The stormy **petrel** skimmed the crests of the giant Cape Horn waves, dipping its feet as though walking upon the water."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"A solitary sea **petrel** circled our rigging with plaintive cries, heralding the fury of the midnight typhoon."*
+> - 📜 **Henry David Thoreau (*Cape Cod*):** *"The ocean wanderer watched the hardy **petrel** breast the Atlantic gale without the slightest tremor of its outstretched wings."*

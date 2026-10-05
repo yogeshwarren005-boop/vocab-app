@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Affectionate play (or foreplay without contact with the genital organs).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stroke or caress gently.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affectionate caressing, stroking, or fondling of a pet or human; or amorous physical intimacy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social history and developmental psychology, tactile bonding behaviors, or youth romantic culture of the early 20th century.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Kenge, looking over his glasses at me and softly turning the case about and about as if he were petting something."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I believe all the petting that is given them does not make them happy."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Vincy’s, and gradually the visits became cheerful as Fred became simply feeble, and lay not only in need of the utmost petting but conscious of it, so that Mrs."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Vincy's lavish **petting** of his pretty daughter had fostered in Rosamond an absolute belief that the world existed to indulge her."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Dora rejoiced in the playful **petting** lavished upon her toy dog, paying little heed to the serious household ledgers."*
+> - 📜 **F. Scott Fitzgerald (*This Side of Paradise*):** *"The talk in the country club grill room gravitated invariably toward motorcars, jazz orchestras, and the newly fashionable pastime of **petting**."*

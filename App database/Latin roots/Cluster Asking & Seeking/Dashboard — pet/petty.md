@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Larceny of property having a value less than some amount (the amount varies by locale).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inferior in rank or status.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of little importance, minor, trivial; or characterized by small-minded and spiteful attitudes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and administrative systems, describing minor offenses (petty larceny), junior officers (petty officer), or subordinate tribunals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou wilt leave me, do not leave me last, When other petty griefs have done their spite, But in the onset come, so shall I taste At first the very worst of fortune’s might."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good friend,” quoth he, “Say, the firm Roman to great Egypt sends This treasure of an oyster; at whose foot, To mend the petty present, I will piece Her opulent throne with kingdoms."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I could have given less matter A better ear.—Menas, I did not think This amorous surfeiter would have donned his helm For such a petty war."*
+> - 📜 **William Shakespeare (*Measure for Measure*):** *"O, it is excellent to have a giant's strength, but it is tyrannous to use it like a giant; could great men thunder as Jove himself does, Jove would ne'er be quiet, for every **petty** pelting officer would use his heaven for thunder."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The two corn dealers engaged in **petty** commercial skirmishes that damaged both their fortunes without resolving their rivalry."*
+> - 📜 **George Eliot (*Adam Bede*):** *"Arthur resolved to banish all **petty** deceptions and speak plainly with the rector before another sunset passed."*

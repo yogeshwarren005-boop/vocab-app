@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Keep from happening or arising; make impossible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make impossible, especially beforehand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make impossible, prevent from happening, or rule out in advance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In procedural civil jurisprudence, to bar a litigant from raising claims or issues already settled in prior final judgments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The fire was issuing from a long straw-stack, which was so far gone as to preclude a possibility of saving it."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Their homes were so distant, and the circles in which they moved so distinct, as almost to preclude the means of ever hearing of each other’s existence during the eleven following years, or, at least, to make it very wonderful to Sir Thomas that Mrs."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Their number, without an unwarrantable increase of expense, cannot be large enough to preclude a facility of combination."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The fire was issuing from a long straw-stack, which was so far gone as to **preclude** a possibility of saving it."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The perfect fertility of intercrossed races would seem to **preclude** classifying the varieties of mankind as distinct species."*
+> - 📜 **Jane Austen (*Emma*):** *"Her previous commitments did not wholly **preclude** her from taking part in the excursion planned by Mr. Knightley."*

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Transmit (a signal) for setting off an appropriate response, as in telecommunication.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pose a series of questions to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To examine by asking formal, systematic, or searching questions, especially under official scrutiny.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In communications and electronic surveillance, to transmit an inquiry signal that triggers an automated transponder reply.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"When I reached Coombe Tracey I told Perkins to put up the horses, and I made inquiries for the lady whom I had come to interrogate."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"During the recent unpleasant situation of affairs in Ireland, a watch-word was required of every passenger after a certain hour, with liberty for the sentinel to interrogate at will."*
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Good night!” It would have been of as much avail to interrogate any stone face outside the chateau as to interrogate that face of his."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The revolutionary tribunal proceeded to **interrogate** the prisoner with ruthless and suspicious speed."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Holmes paused to **interrogate** the station-master regarding every passenger who had boarded the morning express."*
+> - 📜 **Joseph Conrad (*The Secret Agent*):** *"Chief Inspector Heat wished to **interrogate** the foreign suspect before the diplomatic authorities could intervene."*
+

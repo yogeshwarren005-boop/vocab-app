@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hold back to a later time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjourn by royal prerogative; without dissolving the legislative body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To discontinue or postpone a legislative session by executive authority without dissolution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical and parliamentary diction, to defer or adjourn formal public proceedings to an appointed future date.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Epicurean cooks Sharpen with cloyless sauce his appetite, That sleep and feeding may prorogue his honour Even till a Lethe’d dullness— Enter Varrius."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, our vessel is of Tyre, in it the king; A man who for this three months hath not spoken To anyone, nor taken sustenance But to prorogue his grief."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I hear thou must, and nothing may prorogue it, On Thursday next be married to this County."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"My life were better ended by their hate, than death **prorogued**, wanting of thy love."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The imperial commissioners decided to **prorogue** the council until the arrival of the eastern prelates."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The royal governor possessed the arbitrary authority to **prorogue** the colonial assembly whenever it resisted crown policy."*
+

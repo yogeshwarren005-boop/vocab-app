@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a surprising manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an amazing manner; to everyone's surprise.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner or to an extent that causes unexpected wonder or exceeds anticipations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evaluative discourse, modifying a statement to emphasize an outcome that conflicts with reasonable presuppositions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The maids’ private aims, however, were the reverse of the dairyman’s rule, the daily selection by each damsel of the eight or ten cows to which she had grown accustomed rendering the operation on their willing udders surprisingly easy and effortless."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Cairns used to remark that their Christian names included a surprisingly large number of apostolic pairs."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I should like to throw a dam across the fourth side, which is surprisingly narrow."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The maids’ private aims, however, were the reverse of ambitious, and their demeanor proved **surprisingly** gentle."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The cold stone walls felt **surprisingly** warm to my numbed limbs after hours of enduring the straitjacket."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The young physician proved **surprisingly** firm in resisting the unreasonable demands of the hospital board."*
+

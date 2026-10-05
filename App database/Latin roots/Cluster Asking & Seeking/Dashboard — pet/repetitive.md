@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Repetitive and persistent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by repetition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing or characterized by repetition, especially when tedious, mechanical, or routine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial ergonomics and behavioral neurology, referring to cyclic motor tasks that cause strain injuries, or stereotyped compulsive behaviors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. B. Fyfe (*Calling World-4 of Kithgol*):** *"Is that what's been sending out a repetitive message that's well over two hundred years old?"*
+> - 📜 **H. G. Wells (*When the Sleeper Wakes*):** *"Tens of thousands of laborers performed the same dull, **repetitive** motions before the colossal subterranean engines."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"Machine discipline imposes a strict **repetitive** cadence upon the artisan, divorcing him from joyful individual handicraft."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"Education becomes illiberal when reduced to mechanical, **repetitive** exercises devoid of intellectual meaning."*

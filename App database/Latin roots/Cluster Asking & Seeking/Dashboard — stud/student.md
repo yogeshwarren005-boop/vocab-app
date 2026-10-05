@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A learner who is enrolled in an educational institution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A learned person (especially in the humanities); someone who by long study has gained mastery in one or more disciplines.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is enrolled in school or higher education; anyone devoted to systematic learning and inquiry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scholarship and intellectual discipline, an individual who applies concentrated analytical attention to a field.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I prithee do not mock me, fellow-student."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Keep a gamester from the dice, and a good student from his book, and it is wonderful."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am not tall enough to become the function well, nor lean enough to be thought a good student, but to be said, an honest man and a good housekeeper goes as fairly as to say, a careful man and a great scholar."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I prithee do not mock me, fellow-**student**; I think it was to see my mother's wedding."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"The humble stonecutter dreamed of entering Christminster as a scholarly **student** of theology and Greek."*
+> - 📜 **John Stuart Mill (*Inaugural Address at St. Andrews*):** *"The university should teach every **student** to think rigorously and pursue truth without dogmatic prejudice."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a precarious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a precarious manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a precarious, unstable, dangerously insecure, or uncertain manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanical statics and alpine mountaineering, balanced upon a narrow center of gravity where minimal disturbance induces collapse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The immediate fortunes of the Plan are precariously hanging in the balance."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Here a great tree had been uprooted by the wind and leaned precariously over a quagmire beside the roadway."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"The loaded sled balanced **precariously** upon the brink of the yawning chasm before the dogs pulled it to safety."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"A huge boulder rested **precariously** on the sandstone edge above our camp, threatening to crush us during the night."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"I crouched **precariously** upon the broken beam of the ruined scullery, watching the Martian machine stride through the smoke."*

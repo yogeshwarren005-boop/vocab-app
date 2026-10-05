@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Belittle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lower the value of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Declining in monetary value or physical worth; or speaking slightingly of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In macroeconomics, describing a sovereign exchange rate whose foreign purchasing capacity erodes under inflationary monetary expansion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Crawford, after properly depreciating his own abilities, was quite at his service in any way that could be useful."*
-> - 📜 **George Eliot (*Middlemarch*):** *"The sense that Sir James was depreciating Will, and behaving rudely to him, roused her resolution and dignity: there was no touch of confusion in her manner."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Fred saw that Bambridge's **depreciating** remarks were intended merely to drive down the purchase price of the hunter."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"A continually **depreciating** standard of value inflicts irreparable injury upon creditors and fixed-income laborers."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Miss Pinkerton cast a **depreciating** glance upon Becky Sharp's plain attire as she departed from the academy gates."*

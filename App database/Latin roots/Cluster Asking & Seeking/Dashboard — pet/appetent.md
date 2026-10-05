@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by eager desire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by eager desire.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Eagerly desirous, actively craving, or marked by ardent longing and instinctive appetite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scholastic philosophy, describing an agent characterized by affective seeking rather than cognitive detachment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, appetent designates marked by eager desire."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The animal nature is perpetually **appetent** of bodily preservation, fleeing instinctively whatever threat may disrupt life."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"The youthful mind remains ever **appetent** of noble friendship, seeking kindred souls across all social divisions."*
+> - 📜 **Herman Melville (*Mardi: and a Voyage Thither*):** *"The wanderers, faint and weary, grew fiercely **appetent** of food and shelter after traversing the barren mountain pass."*

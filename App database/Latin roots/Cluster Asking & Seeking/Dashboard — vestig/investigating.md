@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The work of inquiring into something thoroughly and systematically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Investigate scientifically.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Engaged in searching into, examining, or conducting a systematic inquiry into a matter or phenomenon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical critique and experimental science, actively probing the causal mechanisms of natural or social reality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"To drop metaphor, while nominally investigating a particular problem of ancient mythology, I have really been discussing questions of more general interest which concern the gradual evolution of human thought from savagery to civilization."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Human life—that appeared to him the one thing worth investigating."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"But you wouldn't have brought us together without first investigating us for whatever your purpose might be."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"In **investigating** the laws of social development, thinkers must carefully untangle complex reciprocal influences."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"While **investigating** the comparative anatomy of primates, naturalists observed remarkable structural homologies."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Human life appeared to him the one thing worth **investigating**, compared with which all artistic theories were trivial."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or having impetigo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or having impetigo.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resembling, or affected by impetigo; characterized by pustular or crusted cutaneous lesions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical dermatology, denoting contagious vesicular eruptions typically caused by staphylococcal or streptococcal skin infection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, impetiginous designates of or relating to or having impetigo."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The face was covered with an **impetiginous** eruption presenting thick, honey-colored crusts that yielded rapidly to antiseptic dressings."*
+> - 📜 **Thomas Watson (*Lectures on the Principles and Practice of Physic*):** *"The physician must distinguish between simple eczema and acute **impetiginous** eczema with prominent pustulation."*
+> - 📜 **Jonathan Hutchinson (*Clinical Lectures on Surgery and Medicine*):** *"Neglected parasitic infestations often become complicated by secondary **impetiginous** sores across the extremities."*

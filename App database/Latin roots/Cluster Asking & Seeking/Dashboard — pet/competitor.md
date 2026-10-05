@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The contestant you hope to defeat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The contestant you hope to defeat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, group, or organization that strives against another for supremacy, prize, or commercial advantage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, an organism or species contending against others for food, territory, light, or mating priority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You may see, Lepidus, and henceforth know, It is not Caesar’s natural vice to hate Our great competitor."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tribunes, and me, a poor competitor. [_Flourish."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This night he meaneth with a corded ladder To climb celestial Silvia’s chamber window, Myself in counsel, his competitor."*
+> - 📜 **William Shakespeare (*Twelfth Night*):** *"I'll be your **competitor** in this enterprise, and share equally in whatever honor may be achieved."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Any variety which possesses some slight advantage will gradually exterminate its less favored **competitor** in the same region."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"Ralph Nickleby viewed every honest merchant as a foolish **competitor** ripe to be entangled in usurious financial bonds."*

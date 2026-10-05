@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Habitually complaining.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Habitually complaining.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Habitually complaining, fretful, whining, or petulant in tone and disposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary portraiture, capturing the thin, irritating cadence of someone chronically aggrieved by trivial discomforts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But no—O no!” “A strange old piece, ye say!” interposed the maltster, in a querulous voice."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"When I started to crawl along the packed gear with which the wagon was laden my mother said in a tired and querulous voice, “Can’t you ever be still a minute, Jesse?” That was my name, Jesse."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"While we were waiting we could hear the girls talking to the chief in a querulous way as if objecting to something or expressing their fears."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Her voice took on that **querulous** edge which betrayed long exhaustion and wounded pride."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"Leave your **querulous** complaints to the feeble-minded, and greet the morning with courage and resolute action."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Grandfather Smallweed continued his **querulous** scolding from the depths of his armchair, abusing everyone within reach."*

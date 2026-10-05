@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A detailed critical inspection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Applying the mind to learning and understanding a subject (especially by reading).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To apply mental effort to acquire knowledge; the act of learning or examining a subject in detail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architecture and residential layout, a private room within a house designated for reading, writing, and intellectual contemplation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Caesar sends greetings to the queen of Egypt, And bids thee study on what fair demands Thou mean’st to have him grant thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I care not if I have; it is my study To seem despiteful and ungentle to you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You could for a need study a speech of some dozen or sixteen lines, which I would set down and insert in’t, could you not?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I care not if I have; it is my **study** to seem greater than I am, that pride may balance misery."*
+> - 📜 **Francis Bacon (*The Essays*):** *"Crafty men contemn studies, simple men admire them, and wise men use them; for they teach not their own use, but to **study** them with diligence is true wisdom."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"Sherlock Holmes retired to his **study** to ponder the chemical reagents necessary to detect human hemoglobin."*

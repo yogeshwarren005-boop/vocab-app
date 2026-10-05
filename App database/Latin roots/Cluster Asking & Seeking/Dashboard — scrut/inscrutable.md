@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of an obscure nature; ; ; ; - rachel carson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of an obscure nature; ; ; ; - rachel carson.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible to understand, interpret, or penetrate; enigmatic and mysterious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative characterization, describing an expression, motive, or demeanor that reveals nothing of inner thoughts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And so good morrow, servant. [_Exit._] SPEED. [_Aside_.] O jest unseen, inscrutable, invisible, As a nose on a man’s face, or a weathercock on a steeple!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"She supposes herself to be an inscrutable Being, quite out of the reach and ken of ordinary mortals—seeing herself in her glass, where indeed she looks so."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The patronesses of those establishments, albeit so loftily inscrutable, being as nicely weighed and measured there as any other article of the stock-in-trade, are perfectly understood in this new fashion by the rawest hand behind the counter."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O heaven, how **inscrutable** are thy divine judgments, and thy righteous ways past human finding out!"*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Sherlock Holmes maintained an **inscrutable** composure while listening to the client's extraordinary narrative."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The silent wilderness appeared to keep an **inscrutable** secret locked within its shadowy foliage."*

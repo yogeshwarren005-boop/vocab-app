@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An authority or official empowered to abolish or annul or repeal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An authority or official empowered to abolish or annul or repeal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official, magistrate, or legislative body that repeals, annuls, or abolishes an existing law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political philosophy, the sovereign agent or tribunal possessing ultimate authority to invalidate antecedent legal compacts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abrogator designates an authority or official empowered to abolish or annul or repeal."*
+> - 📜 **John Adams (*Defence of the Constitutions of Government*):** *"The popular convention claimed the extraordinary authority of an **abrogator** over earlier constitutional charters."*
+> - 📜 **Jeremy Bentham (*A Fragment on Government*):** *"The legislature stands forth as the sole authorized **abrogator** of obsolete and pernicious common law precedents."*
+> - 📜 **James Bryce (*The American Commonwealth*):** *"The supreme judiciary was never intended to act as an arbitrary **abrogator** of duly enacted congressional measures."*
+

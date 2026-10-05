@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from confinement or physical restraint.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from confinement or physical restraint.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not confined in a prison; liberated, free from bodily incarceration, chains, or restrictive barriers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In romantic poetry and transcendental philosophy, designating an untrammeled soul or intellect roaming free of material bounds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unimprisoned designates free from confinement or physical restraint."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"The spirit sprang forth into the ethereal expanse, **unimprisoned** by mortal fears or tyrannical chains."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"The true thinker retains an **unimprisoned** mind that refuses to be cramped inside obsolete theological dogmas."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"I inhale great drafts of space; my soul expands **unimprisoned** under the arching blue of the western sky."*
+

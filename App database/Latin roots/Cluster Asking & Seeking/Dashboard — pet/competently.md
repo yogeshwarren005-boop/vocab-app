@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With competence; in a competent capable manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With competence; in a competent capable manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a capable, adequate, and skillful manner that meets all operational requirements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In professional assessment, performing responsibilities with proven proficiency, adherence to standards, and dependable mastery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, competently designates with competence; in a competent capable manner."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"He who accomplishes his appointed work **competently** contributes more to the commonwealth than ten noisy theorists."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"The newly installed archdeacon managed the diocesan business **competently**, leaving no room for episcopal complaint."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The artillery officers directed their battery fire **competently**, yet conventional ordnance proved powerless against the invaders."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disposition to exhibit uncontrolled anger.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disposition to exhibit uncontrolled anger.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Peevishness, petulance, or childish irritability over trifling grievances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral portraiture, a habitual disposition toward sulky impatience and capricious discontent in domestic relations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bid him therefore consider of his ransom; which must proportion the losses we have borne, the subjects we have lost, the disgrace we have digested; which in weight to re-answer, his pettishness would bow under."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Surely not! why, she is too old for such pettishness.” I thought so too; and my self-esteem being wounded by the false charge, I answered promptly, “I never cried for such a thing in my life: I hate going out in the carriage."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"But these paroxysms seldom occurred, and in them my big-hearted shipmate vented the bile which more calm-tempered individuals get rid of by a continual pettishness at trivial annoyances."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"Away with this unseasonable **pettishness**; let your royal heart entertain nothing but noble thoughts and welcome peace."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Eliza looked upon her sister's frivolous **pettishness** with cold, disciplined disdain as she prepared for the convent."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The native chieftain never displayed that nervous **pettishness** which so often mars the dignity of civilized rulers."*

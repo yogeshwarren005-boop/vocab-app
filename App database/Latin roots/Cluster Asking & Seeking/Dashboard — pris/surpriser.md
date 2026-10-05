@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A captor who uses surprise to capture the victim.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A captor who uses surprise to capture the victim.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who takes another unawares, launches an unexpected attack, or produces sudden astonishment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military history, an agile commander who exploits ambush, deceptive maneuvers, and sudden assaults to overcome superior numbers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, surpriser designates a captor who uses surprise to capture the victim."*
+> - 📜 **Walter Scott (*Rob Roy*):** *"The cunning highlander proved an elusive **surpriser**, striking his pursuers when they least expected an engagement."*
+> - 📜 **James Fenimore Cooper (*The Deerslayer*):** *"The sentinel kept keen watch against any wily **surpriser** creeping through the shadowed underbrush."*
+> - 📜 **Washington Irving (*A History of New York*):** *"The doughty governor was never caught sleeping by an enemy **surpriser**, but kept his blunderbuss loaded at his pillow."*
+

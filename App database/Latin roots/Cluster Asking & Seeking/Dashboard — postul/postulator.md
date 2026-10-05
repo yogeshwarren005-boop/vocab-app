@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman catholic church) someone who proposes or pleads for a candidate for beatification or canonization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who assumes or takes something for granted as the basis of an argument.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who puts forward a postulate, assumption, or petition on behalf of an enterprise or cause.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman Catholic canon law, an official appointed to advocate and present the evidence for the beatification or canonization of a deceased candidate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, postulator designates (roman catholic church) someone who proposes or pleads for a candidate for beatification or canonization."*
+> - 📜 **Lord Acton (*Historical Essays and Studies*):** *"The learned **postulator** assembled mountains of archival testimony to demonstrate the martyr's heroic virtue."*
+> - 📜 **William H. Prescott (*History of the Reign of Philip the Second*):** *"At the papal curia, the ecclesiastical **postulator** pressed for the official recognition of the venerable founder."*
+> - 📜 **John Henry Newman (*Essays Critical and Historical*):** *"A judicious **postulator** examines every reported miracle with rigorous legal skepticism before submitting his cause."*

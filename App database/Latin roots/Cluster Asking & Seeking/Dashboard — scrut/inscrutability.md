@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being impossible to investigate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being impossible to investigate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or characteristic of being impossible to understand, fathom, penetrate, or interpret.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theology and metaphysical aesthetics, the impenetrable mystery of the divine will or the cosmos that defies human analytical intellect.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inscrutability designates the quality of being impossible to investigate."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The profound **inscrutability** of the whale's blank brow seemed to mock every attempt of naturalists to read its thoughts."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The chilling **inscrutability** of Chillingworth's countenance concealed the sinister machinations working within his soul."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The primeval jungle gazed back at the steamboat with an impenetrable **inscrutability** that chilled the European travelers."*

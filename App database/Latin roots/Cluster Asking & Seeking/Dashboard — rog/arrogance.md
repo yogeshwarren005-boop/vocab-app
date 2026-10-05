@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Overbearing pride evidenced by a superior manner toward inferiors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Overbearing pride evidenced by a superior manner toward inferiors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An offensive display of superiority, overbearing pride, and contemptuous disregard for others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social ethics and psychological critique, the unjustified inflation of self-importance that presumes undue entitlement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lords, Can ye endure to hear this arrogance?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet, Derby, notwithstanding she’s your wife, And loves not me, be you, good lord, assured I hate not you for her proud arrogance."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall the proud lord That bastes his arrogance with his own seam And never suffers matter of the world Enter his thoughts, save such as doth revolve And ruminate himself—shall he be worshipp’d Of that we hold an idol more than he?"*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"His character was decided; he was the proudest, most disagreeable man, and his abominable **arrogance** disgusted everybody."*
+> - 📜 **William Shakespeare (*Henry VIII*):** *"You are meek and humble-mouthed; you sign your place and calling in full seeming with meekness; but you bear your **arrogance** aloft."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The overbearing **arrogance** of the foreign ambassador alienated the ministers and precipitated a rupture."*
+

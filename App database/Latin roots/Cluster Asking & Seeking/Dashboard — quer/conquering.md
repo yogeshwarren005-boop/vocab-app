@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of conquering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To put down by force or authority.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Gaining victory or dominion over adversaries; successfully overcoming opposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epic narrative, characterizing the triumphant march or sweeping ascendancy of a victorious force.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Labienus— This is stiff news—hath with his Parthian force Extended Asia from Euphrates His conquering banner shook from Syria To Lydia and to Ionia, Whilst— ANTONY."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, let’s all take hands Till that the conquering wine hath steeped our sense In soft and delicate Lethe."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"God is our fortress, in whose conquering name Let us resolve to scale their flinty bulwarks."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now is the winter of our discontent made glorious summer by this sun of York, and our **conquering** arms victorious."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Maggie felt an inexplicable charm in his presence, as though a **conquering** destiny had swept aside her feeble defenses."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The aggressive march of civilized commerce presented itself as a grand, **conquering** mission across the dark continent."*

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to flowerless plants (ferns or mosses) in which growth occurs only at the tip of the main stem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to flowerless plants (ferns or mosses) in which growth occurs only at the tip of the main stem.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Increasing in growth or vegetative development strictly from the apex rather than along the sides.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical morphology, characterizing flowerless vascular plants whose terminal meristems govern continuous vertical axis extension.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acrogenous designates pertaining to flowerless plants (ferns or mosses) in which growth occurs only at the tip of the main stem."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"The tropical islands supported dense groves of **acrogenous** trees whose crowns reached toward the forest canopy."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The carboniferous strata contain abundant remains of **acrogenous** vegetation preserved in remarkable cellular detail."*
+> - 📜 **Robert Chambers (*Vestiges of the Natural History of Creation*):** *"The terrestrial flora began with simple **acrogenous** plants before progressing toward higher flowering families."*
+

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The motion of a spinning body (as a top) in which it wobbles so that the axis of rotation sweeps out a cone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of preceding in time or order or rank (as in a ceremony).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The slow conical motion of the axis of a spinning body around another axis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In positional astronomy, the continuous westward shift of the equinoctial points along the ecliptic caused by lunisolar torque upon Earth's equatorial bulge.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, precession designates the motion of a spinning body (as a top) in which it wobbles so that the axis of rotation sweeps out a cone."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"The **precession** of the equinoxes slowly carries the celestial coordinates around the pole of the ecliptic in a cycle of twenty-six thousand years."*
+> - 📜 **Simon Newcomb (*Popular Astronomy*):** *"Hipparchus detected the subtle effect of **precession** by comparing his stellar observations with charts compiled centuries earlier by Babylonian astronomers."*
+> - 📜 **Arthur Stanley Eddington (*Space, Time and Gravitation*):** *"General relativity accounts accurately for the anomalous orbital **precession** of Mercury without requiring unobserved intra-Mercurial masses."*

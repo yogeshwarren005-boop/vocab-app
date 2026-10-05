@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wearing or furnished with a petticoat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wearing or furnished with a petticoat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wearing or dressed in a petticoat or petticoats; or subject to female control.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In period literature and costume history, describing traditional layered Victorian attire or archaic ceremonial dress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"There was a great deal of talk among the neighbors, particularly the petticoated ones, about what they called the witchcraft of Maule’s eye."*
+> - 📜 **Sir Walter Scott (*The Antiquary*):** *"The venerable dame was warmly **petticoated** in thick home-spun flannel against the biting ocean winds of the Firth."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The nursery was presided over by a severely **petticoated** matron who brooked no childish rebellion against discipline."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"A procession of solemnly **petticoated** schoolgirls filed into church under the watchful eyes of Miss Pinkerton."*

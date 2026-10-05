@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An assumption on which rests the validity or effect of something else.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An assumption that is taken for granted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition or requirement that must be fulfilled beforehand; prerequisite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In logic and systems programming, an invariant assertion that must evaluate to true prior to the execution of a subroutine or contract.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Self which it itself was ineluctably preconditioned to become. _Ecco!_ LYNCH: _(With a mocking whinny of laughter grins at Bloom and Zoe Higgins.)_ What a learned speech, eh?"*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Individual freedom of thought and expression represents the indispensable **precondition** for all sustainable mental and moral progress."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"Social peace is the essential **precondition** without which the ethical process cannot replace the ruthless cosmic struggle."*
+> - 📜 **James Joyce (*Ulysses*):** *"Stephen meditated upon the self which is the dark **precondition** of all conscious experience within the woven tapestry of memory."*

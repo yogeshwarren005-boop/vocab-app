@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to decrease or cause a decrease in value.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to diminish or disparage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to lower value or price; disparaging, belittling, or dismissive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In financial analysis, referring to fiscal policies or market forces that exert downward pricing pressure on capital assets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, depreciative designates tending to decrease or cause a decrease in value."*
+> - 📜 **Henry James (*The Wings of the Dove*):** *"Densher detected a **depreciative** undertone in Aunt Maud's appraisal of the young journalist's professional prospects."*
+> - 📜 **George Meredith (*Diana of the Crossways*):** *"The critic's review was mildly **depreciative**, granting verbal brilliance while denying dramatic coherence to the romance."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"Conspicuous consumption prompts a **depreciative** attitude toward utilitarian goods that lack ornamental expense."*

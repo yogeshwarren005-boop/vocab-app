@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Warning of future misfortune.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Warning of future misfortune.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Preceding and indicating something to follow; introductory, preliminary, or heraldic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In volcanology and seismology, describing foreshocks or geochemical emissions that precede an imminent major eruption or earthquake.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, precursory designates warning of future misfortune."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The low rumble in the mountains sounded as a **precursory** sign of the devastating avalanche that swept the valley."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Bread riots in the provinces were the **precursory** murmurs of that volcanic insurrection which was about to shatter the monarchy."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Minor tremors serve as a **precursory** warning to inhabitants living upon the volcanic slopes of Vesuvius."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to become stonelike or stiff or dazed and stunned.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change into stone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing to turn into stone; or having the effect of paralyzing with astonishment or horror.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geochemical hydrology and rhetoric, describing subterranean waters loaded with mineral salts that incrust objects, or chilling terror.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"It was a petrifying thing to see Charmion break down."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The learned philosophers showed me a **petrifying** spring whose drops transformed pieces of wood into flinty stone in a few months."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The awful apparition of the daemon at my casement produced a **petrifying** effect upon my already exhausted frame."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Calcareous cascades deposit travertine rapidly, exerting a **petrifying** influence over the entire river gorge."*

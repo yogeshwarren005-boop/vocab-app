@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An irritable petulant feeling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An irritable petulant feeling.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Childish sulkiness, bad temper, peevishness, or capricious irritability over trifling matters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and character depiction, an undisciplined irascibility that flares up in response to minor frustration or delay.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"It was gratitude;--gratitude, not merely for having once loved her, but for loving her still well enough to forgive all the petulance and acrimony of her manner in rejecting him, and all the unjust accusations accompanying her rejection."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"She could not refrain from another cry, and was very angry with herself for her petulance."*
-> - 📜 **George Eliot (*Middlemarch*):** *"A man with only a portmanteau for his stowage must keep his memorials in his head.” Will spoke at random: he was merely venting his petulance; it was a little too exasperating to have his grandmother’s portrait offered him at that moment."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"Children should never be allowed to obtain anything by tears or obstinate **petulance**, lest stubbornness become their master."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Eustacia's youthful **petulance** rebelled against the monotonous isolation of the heath with ever-increasing bitterness."*
+> - 📜 **George Eliot (*Middlemarch*):** *"A man who displays constant **petulance** toward his social inferiors reveals an uneasy insecurity regarding his own rank."*

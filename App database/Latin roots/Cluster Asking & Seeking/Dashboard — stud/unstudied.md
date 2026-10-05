@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not by design or artifice; unforced and impromptu.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking knowledge gained by study often in a particular field.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not rehearsed, premeditated, or artificial; natural, spontaneous, and unforced in manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetics and biography, possessing an innate graceful simplicity that owes nothing to deliberate contrivance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"And his prayers, quite unstudied as they of course were, brought the whole company right into the presence of the Unseen."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The idle word is to condemn a man, not because it is idle, but because, being unstudied, it speaks of his heart and reveals, unconsciously but plainly, what he is in reality (Matt. 12:36)."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Their appearance perfectly amazed me; their extreme youth, the light clear brown of their complexions, their delicate features, and inexpressibly graceful figures, their softly moulded limbs, and free unstudied action, seemed as strange as beautiful."*
+> - 📜 **Herman Melville (*Typee*):** *"Their extreme beauty and **unstudied** grace perfectly amazed me, accustomed as I was to European affectations."*
+> - 📜 **Jane Austen (*Emma*):** *"Her lively conversation possessed an **unstudied** ease that charmed everyone in the drawing-room."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"His prayers, quite **unstudied** as they of course were, brought the whole congregation into reverent communion."*

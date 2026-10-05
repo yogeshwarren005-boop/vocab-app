@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not exploratory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not exploratory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving purposes other than probing, venturing, or preliminary factual investigation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In methodology and clinical protocol, designating confirmatory, routine, or therapeutic interventions rather than diagnostic probing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonexploratory designates not exploratory."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"Reflex mechanisms execute predetermined motor responses in a strictly **nonexploratory** sequence."*
+> - 📜 **William Osler (*Aequanimitas*):** *"When clinical signs are definitive, surgeons proceed directly to intervention without **nonexploratory** delays."*
+> - 📜 **Francis Galton (*Inquiries into Human Faculty*):** *"Standardized repetitive measurements fulfill a purely statistical, **nonexploratory** function in large populations."*

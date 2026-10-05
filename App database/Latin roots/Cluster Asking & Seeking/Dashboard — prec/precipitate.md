@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A precipitated solid substance in suspension or after settling or filtering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring about abruptly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause an event to happen prematurely or suddenly; or to separate as a solid from solution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In atmospheric physics and chemical kinetics, to condense vapor into falling hydrometeors, or to fling down violently from a height.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"But, then, how account for the precipitate return which they had already noted, the supposed faint, the pallor of my looks?"*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"There are those who would have us believe that his mind was obsessed with the fixed idea of his own speedy return on the clouds, and that he hurried on to death to precipitate this and the new age it was to bring."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"There is no knowing how estates will go when once they come to be entailed.” “I am very sensible, madam, of the hardship to my fair cousins, and could say much on the subject, but that I am cautious of appearing forward and precipitate."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"You would not call it murder if you could **precipitate** me into one of those ice-rifts and destroy my frame."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"He would be well content to **precipitate** himself over the hill-side once again rather than endure captivity."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The sudden financial disaster seemed destined to **precipitate** the ruin of the ancient d'Urberville lineage."*

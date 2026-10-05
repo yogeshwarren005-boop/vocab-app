@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a prissy manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a prissy manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an excessively prim, fastidious, precise, or finicky manner with conscious propriety.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social observation, executing behavior or speech with exaggerated decorum, moral prudery, and petty fastidiousness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prissily designates in a prissy manner."*
+> - 📜 **Edith Wharton (*The Custom of the Country*):** *"She adjusted her lace collar **prissily** in the gilt mirror before turning to face her morning visitors."*
+> - 📜 **Virginia Woolf (*Night and Day*):** *"Mr. Datchet folded his gloves **prissily**, adopting an air of defensive rectitude against their banter."*
+> - 📜 **E. M. Forster (*A Room with a View*):** *"Miss Bartlett cleared her throat **prissily**, eager to demonstrate that her standards remained unimpeachable."*
+

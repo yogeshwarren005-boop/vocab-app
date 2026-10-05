@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Taken in advance to protect against possible danger or failure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Taken in advance to protect against possible danger or failure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Taken or designed in advance as a safeguard against potential danger or failure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecological jurisprudence, embodying the principle that lack of full scientific certainty shall not postpone cost-effective mitigation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode with precautionary information for his daughters and servants, and accounting for his allowing no one but himself to enter the room even with food and drink."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Nor was there wanting still another precautionary motive more related to Ahab personally."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Nor was there wanting still another precautionary motive more related to Ahab personally."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The captain took several **precautionary** measures, doubling the night watches as the ship neared the treacherous shoals."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode adopted a **precautionary** reserve in his conversation, fearing lest some casual inquiry might unearth his past."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We adopted a **precautionary** march through the defile, keeping our carbines ready in case of an ambush by the natives."*

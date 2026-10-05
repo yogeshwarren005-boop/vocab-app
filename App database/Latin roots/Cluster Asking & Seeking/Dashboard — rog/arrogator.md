@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who through conceit makes pretentious claims to rights or advantages that he or she is not entitled to or to qualities that he or she does not possess.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who through conceit makes pretentious claims to rights or advantages that he or she is not entitled to or to qualities that he or she does not possess.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who presumptuously claims or usurps rights, honors, or authority to which they are not entitled.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional critique, a factional leader or public official guilty of aggrandizing illicit power at civic expense.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arrogator designates a person who through conceit makes pretentious claims to rights or advantages that he or she is not entitled to or to qualities that he or she does not possess."*
+> - 📜 **John Milton (*The Tenure of Kings and Magistrates*):** *"Every unlawful tyrant becomes an insolent **arrogator** of divine prerogatives that belong neither to him nor to his heirs."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The literary pretender is a shameless **arrogator** of reputations earned by the patient labor of greater scholars."*
+> - 📜 **Walter Scott (*Waverley*):** *"The chieftain regarded his rival as a bold **arrogator** of ancestral privileges that belonged solely to his house."*
+

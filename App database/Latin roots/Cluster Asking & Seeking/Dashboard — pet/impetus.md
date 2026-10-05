@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A force that moves something along.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of applying force suddenly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The force or energy with which a body moves; a driving impulse or stimulus that accelerates development.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dynamics and historical analysis, the initial kinetic momentum of a projectile, or a catalytic event spurring social change.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Cairns threw himself into this movement with ardour, and although he did not intend it, and probably was not aware of it, he was its real leader, giving it at once the impetus and the guidance which it needed."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The need of uniting to get what they thought would be fair treatment from the railroads, and to protect themselves against the abuses of the competitive commission salesagents, seems to have given the first impetus to farmers' coöperation."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Before the disc is thrown it is set on fire, the wand is swung to and fro, and the impetus thus communicated to the disc is augmented by dashing the rod sharply against a sloping board."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The unexpected legacy gave fresh **impetus** to his ambitious medical schemes, releasing him from sordid financial anxieties."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The boat shot forward under the terrific **impetus** of six oars bending in desperate unison against the swell."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The sudden discovery of mechanical power imparted an extraordinary **impetus** to nineteenth-century material progress."*

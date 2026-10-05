@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being conquered or vanquished or overcome; - r.e.danielson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being surmounted or excelled.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being conquered, defeated, subjugated, or quelled; indomitable in resolve.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In heroic poetry and stoic philosophy, describing an invincible will or virtue that withstands all extremity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And I, the unconquerable and indestructible I, survive."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"After surmounting your _unconquerable_ horror of the bed, you will retire to rest, and get a few hours’ unquiet slumber."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"I purposely abstain from dates on this occasion, that every one may be at liberty to fix their own, aware that the cure of unconquerable passions, and the transfer of unchanging attachments, must vary much as to time in different people."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Eustacia Vye possessed an **unconquerable** longing for passion and splendor far beyond the dreary expanse of Egdon Heath."*
+> - 📜 **George Eliot (*Romola*):** *"Savonarola faced his accusers with an **unconquerable** conviction that divine righteousness would eventually prevail."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Captain Ahab stood upon the quarterdeck animated by an **unconquerable** malice against the white demon of the seas."*

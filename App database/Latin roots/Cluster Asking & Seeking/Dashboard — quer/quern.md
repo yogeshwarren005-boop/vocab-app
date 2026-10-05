@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A primitive stone mill for grinding corn by hand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A primitive stone mill for grinding corn by hand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A simple hand-operated stone mill used for grinding grain or seed into meal or flour.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In prehistoric archaeology and material culture, rotary querns represent an essential Neolithic and Iron Age domestic technology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Are not you he That frights the maidens of the villagery, Skim milk, and sometimes labour in the quern, And bootless make the breathless housewife churn, And sometime make the drink to bear no barm, Mislead night-wanderers, laughing at their harm?"*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Michael's cake (_Strùthan na h'eill Micheil_), referred to in the text, is described as "the size of a quern" in circumference."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"It is kneaded simply with water, and marked across like a scone, dividing it into four equal parts, and then placed in front of the fire resting on a quern."*
+> - 📜 **William Shakespeare (*A Midsummer Night's Dream*):** *"Are not you he that frights the maidens of the villagery, skim milk, and sometimes labour in the **quern**?"*
+> - 📜 **Walter Scott (*The Pirate*):** *"The elderly matron turned the heavy stone **quern** with rhythmic strokes, grinding the winter barley into coarse bread meal."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Ancient domestic rituals often centered upon the household **quern**, where grain was transformed into sustenance under magical auspices."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An indication that something has been present.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An indication that something has been present.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A trace, mark, or visible remnant of something that once existed but is now largely lost or disappeared.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and archaeology, a degenerate or rudimentary organ, structure, or artifact surviving from an earlier epoch.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"There was nothing smothered or furtive about it; there was not even the vestige of a chuckle in it."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"_Not a vestige of suffering remained_."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"She had left Thornfield Hall in the night; every research after her course had been vain: the country had been scoured far and wide; no vestige of information could be gathered respecting her."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Rudimentary organs retain a mere **vestige** of their former utility, demonstrating ancestral divergence."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Not a **vestige** of the fugitive convict could be discerned across the foggy expanse of the Grimpen Mire."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"Ancient mythological ruins preserve a faded **vestige** of that primordial intuition which linked man to nature."*

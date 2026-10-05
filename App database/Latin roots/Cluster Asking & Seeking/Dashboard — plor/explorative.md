@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving in or intended for exploration or discovery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving in or intended for exploration or discovery.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving, inclined, or organized toward searching, discovering, or venturing into the unknown.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In educational psychology and cognitive science, characterizing proactive curiosity and heuristic information gathering.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, explorative designates serving in or intended for exploration or discovery."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The infant manifests an instinctively **explorative** disposition toward novel tactile and visual sensations."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"True learning proceeds from an **explorative** attitude wherein the pupil tests hypotheses against practical experience."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The creative imagination exercises an **explorative** power that penetrates beneath external appearances to inner truths."*

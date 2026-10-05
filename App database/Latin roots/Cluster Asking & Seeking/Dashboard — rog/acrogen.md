@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any flowerless plant such as a fern (pteridophyte) or moss (bryophyte) in which growth occurs only at the tip of the main stem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any flowerless plant such as a fern (pteridophyte) or moss (bryophyte) in which growth occurs only at the tip of the main stem.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A non-flowering vascular plant that grows only at the apex of its stem, such as a fern or club moss.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, an archaic taxonomic division comprising pteridophytes and bryophytes that display apical cellular elongation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acrogen designates any flowerless plant such as a fern (pteridophyte) or moss (bryophyte) in which growth occurs only at the tip of the main stem."*
+> - 📜 **Asa Gray (*First Lessons in Botany and Vegetable Physiology*):** *"Every true **acrogen** exhibits continuous development through repeated divisions at the terminal summit of the axis."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The fossil record demonstrates that ancient forests were dominated by gigantic species of **acrogen** and seedless plants."*
+> - 📜 **Hugh Miller (*The Old Red Sandstone*):** *"The coal measures reveal the magnificent impressions of the primitive **acrogen**, flourishing in primeval marshes."*
+

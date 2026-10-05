@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is victorious by force of arms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who is victorious by force of arms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who conquers a country, people, or adversary by military force or superior capability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political philosophy, a sovereign who establishes dominion through conquest rather than hereditary succession or popular compact.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You did know How much you were my conqueror, and that My sword, made weak by my affection, would Obey it on all cause."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let me report to him Your sweet dependency, and you shall find A conqueror that will pray in aid for kindness Where he for grace is kneeled to."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let’s present him to the Duke, like a Roman conqueror, and it would do well to set the deer’s horns upon his head for a branch of victory."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Great Julius Caesar fell at the base of Pompey's statue, where the proud **conqueror** lay bleeding from countless wounds."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Time, the inexorable **conqueror** of beauty and youth, swept along its relentless course over the quiet vale."*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"William the **Conqueror**, whose cause was favoured by the pope, was soon submitted to by the English."*

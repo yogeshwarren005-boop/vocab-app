@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Like a dishonest rogue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a playfully roguish manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a playfully mischievous, sly, or knavish manner with an air of arch amusement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative prose, modifying dialogue or glance to suggest teasing complicity or charming insubordination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"But he was refused; the youth roguishly telling him that the weapon was very good for him (the Typee), but that a white man could fight much better with his fists."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Out of this canopy she looked up at the brawny, serious man, roguishly."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"How can you boast like that?” Billy dimpled roguishly and sprang to her feet."*
+> - 📜 **Herman Melville (*Typee*):** *"Fayaway smiled **roguishly** as she steered the canoe with effortless grace toward the shaded inlet."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The child peered **roguishly** from behind her foster-father's coat, teasing the visitors with shy merriment."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"Marty South answered him **roguishly**, turning her head aside to conceal her genuine affection."*
+

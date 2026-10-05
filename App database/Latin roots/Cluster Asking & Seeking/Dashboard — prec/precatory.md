@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing entreaty or supplication.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressing entreaty or supplication.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing or conveying an entreaty, petition, recommendation, or humble wish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the law of wills and trusts, designating non-binding advisory words of request (such as 'desire' or 'hope') that create no mandatory fiduciary duty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, precatory designates expressing entreaty or supplication."*
+> - 📜 **Joseph Story (*Commentaries on Equity Jurisprudence*):** *"Courts will not construe words that are merely **precatory** into an absolute testamentary trust unless the intention is manifest."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"The distinction between mandatory commands and **precatory** recommendations represents a fundamental boundary in equity jurisprudence."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A legacy accompanied solely by **precatory** expressions leaves the executor free to exercise his own moral discretion."*

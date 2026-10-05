@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by repetition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by repetition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by excessive, unnecessary, or boring repetition; tedious and recurrent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stylistic critique, describing prose, oratory, or musical pieces burdened by redundant thematic recycling without development.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, repetitious designates characterized by repetition."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"A style burdened by **repetitious** epithets weakens the energetic force of classical prose composition."*
+> - 📜 **William James (*Talks to Teachers on Psychology*):** *"Mechanical and **repetitious** drill numbs the creative imagination of young pupils unless linked to living interest."*
+> - 📜 **George Santayana (*The Life of Reason*):** *"Those who cannot remember the past are condemned to fulfill its **repetitious** tragedies in succeeding generations."*

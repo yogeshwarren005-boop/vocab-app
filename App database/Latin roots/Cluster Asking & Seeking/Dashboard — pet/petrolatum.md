@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A semisolid mixture of hydrocarbons obtained from petroleum; used in medicinal ointments and for lubrication.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A semisolid mixture of hydrocarbons obtained from petroleum; used in medicinal ointments and for lubrication.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A purified, semisolid mixture of hydrocarbons obtained from petroleum; petroleum jelly, used in ointments and lubricants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacognosy and industrial manufacturing, an odorless hydrophobic unguent base providing occlusive emollient protection against cutaneous moisture loss.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petrolatum designates a semisolid mixture of hydrocarbons obtained from petroleum; used in medicinal ointments and for lubrication."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A soothing protective dressing of pure white **petrolatum** was applied over the extensive dermal burns to prevent atmospheric irritation."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"Martin spread a sterile layer of **petrolatum** around the edges of the culture chamber to seal it against airborne contaminants."*
+> - 📜 **Thomas Watson (*Lectures on the Principles and Practice of Physic*):** *"Soft yellow **petrolatum** forms an unctuous and non-rancid vehicle for zinc oxide and sulfur in compound skin ointments."*

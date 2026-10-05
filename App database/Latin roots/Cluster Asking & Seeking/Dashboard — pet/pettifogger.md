@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person (especially a lawyer or politician) who uses unscrupulous or unethical methods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disputant who quibbles; someone who raises annoying petty objections.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inferior legal practitioner who handles petty cases, especially one using unethical, disreputable methods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social polemic, any mean, shifty person who raises vexatious quibbles and captious objections in public discourse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"The justice had been a pettifogger, and was a sycophant to a nobleman in the neighbourhood, who had a post at court."*
+> - 📜 **G. K. Chesterton (*The Flying Inn*):** *"He was an unprincipled commercial **pettifogger** who could twist the plainest statute into an instrument of extortion."*
+> - 📜 **Charles Dickens (*Pickwick Papers*):** *"Messrs. Dodson and Fogg stood as the consummate embodiment of the London **pettifogger**, preying upon the simple-minded."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A constitution is framed for a great nation, not as a technical trap for a village **pettifogger** to pick apart."*

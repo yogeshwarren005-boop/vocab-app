@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lampreys.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lampreys.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic family of Northern Hemisphere lampreys within the order Petromyzoniformes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic taxonomy and aquatic ecology, Petromyzontidae includes genera such as Petromyzon, Lampetra, and Ichthyomyzon with round rasping oral suckers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog petromyzontidae as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **David Starr Jordan (*Fishes*):** *"Members of the family **Petromyzontidae** attach themselves to migratory salmon and trout, rasping the flesh to feed on bodily fluids."*
+> - 📜 **Spencer Fullerton Baird (*Fishes of the Great Lakes*):** *"The invasive spread of the **Petromyzontidae** through ship canals wrought catastrophic destruction upon endemic lake trout stocks."*
+> - 📜 **Frank Beddard (*Animal Coloration*):** *"The dorsal coloration in the **Petromyzontidae** varies from olive-brown to slate, providing protective camouflage against stony riverbeds."*

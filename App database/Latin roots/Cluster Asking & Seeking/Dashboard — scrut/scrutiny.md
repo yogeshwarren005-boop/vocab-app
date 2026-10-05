@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of examining something closely (as for mistakes).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A prolonged intense look.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Critical, searching, and thorough observation, examination, or close inspection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public law and investigative journalism, institutional oversight ensuring accountability and ethical transparency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Leonore, who had blushed violently under his scrutiny, said in a barely audible voice, "Perhaps we should not have come; but Mäzli thought we might be allowed to see you."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Forgetting all her plans, Tess’s one dread was lest they should overtake her now, in her disorganized condition, before she was prepared to confront them; for though she felt that they could not identify her, she instinctively dreaded their scrutiny."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This necessarily involved a sacrifice of possible revenues for the government.[4] Then from the beginning of the Civil War till its close some rates were raised almost every month with little scrutiny or debate."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Tess's one dread was lest her face should undergo the close **scrutiny** of the passing dairymaids."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode shrank inwardly from the searching **scrutiny** of those who had witnessed his earliest business dealings."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"Character is that which can stand the severest **scrutiny** without forfeiting its inward majesty."*

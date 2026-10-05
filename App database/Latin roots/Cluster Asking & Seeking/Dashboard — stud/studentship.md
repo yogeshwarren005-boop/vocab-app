@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The position of student.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The position of student.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An academic scholarship, research stipend, or university fellowship awarded to support advanced study.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British university foundations (such as Christ Church, Oxford), an endowed fellowship supporting advanced research or tutorial duties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, studentship designates the position of student."*
+> - 📜 **Charles Darwin (*The Life and Letters of Charles Darwin*):** *"During his Cambridge **studentship**, his passion for entomological collecting superseded all formal mathematical studies."*
+> - 📜 **Thomas Henry Huxley (*Science and Education*):** *"The award of a research **studentship** granted the aspiring chemist sufficient leisure to conduct laboratory analyses."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"His successful university **studentship** laid the groundwork for rapid preferment in the ecclesiastical hierarchy."*

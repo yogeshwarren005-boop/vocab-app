@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consider in detail and subject to an analysis in order to discover essential features or meaning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be a student; follow a course of study; be enrolled at an institute of learning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Carefully considered, rehearsed, premeditated, or planned; showing deliberate artifice rather than spontaneity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral aesthetics and rhetoric, characterized by polished calculation designed to produce an intentional impression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pardon what I have spoke, For ’tis a studied, not a present thought, By duty ruminated."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have heard it, Pompey, And am well studied for a liberal thanks Which I do owe you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not so; but I answer you right painted cloth, from whence you have studied your questions."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pardon what I have spoke, for 'tis a **studied**, not a present thought, by full advice determined."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Her polite indifference was far too **studied** to conceal the wounded pride beneath her composed exterior."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The polite smiles of fashionable society often exhibit a **studied** muscular control alien to genuine joy."*

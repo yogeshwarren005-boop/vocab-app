@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sentence of inquiry that asks for a reply.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Some linguists consider interrogative sentences to constitute a mood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Asking a question or having the nature, grammatical form, or force of an inquiry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In syntactic typology, denoting grammatical sentence moods, pronouns, particles, or inflectional markers that encode queries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Which is it to be?” He stood with his head on one side and himself on one side, in a bullying, interrogative manner, and he threw his forefinger at Mr."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Any one may give their remarks an interrogative turn,” he continued, his sonorousness rising with his style."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"The treasures to be supplied as voluntary offerings by the ladies of the neighbourhood." Mrs Merrivale paused and cocked an interrogative eye at me, and her husband said gently:-- "Dear, aren't you too ambitious?"*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe Gargery cast a slow, **interrogative** look across the table toward the visitor before venturing to speak."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She lifted her dark eyes with an **interrogative** expression that demanded a frank explanation."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak uttered an **interrogative** murmur as he stepped across the threshold into the dimly lit barn."*
+

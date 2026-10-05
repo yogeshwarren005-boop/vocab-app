@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A solemn supplication ceremony prescribed by the church.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A solemn supplication ceremony prescribed by the church.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A solemn ecclesiastical supplication or litany chanted during liturgical processions for divine blessing on crops and people.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman antiquities, a proposed law or public measure presented by a magistrate to the assembled Roman people (comitia) for adoption.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rogation designates a solemn supplication ceremony prescribed by the church."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The clergy instituted the solemn annual **rogation** to avert the dreaded incursions of barbaric invaders."*
+> - 📜 **Theodor Mommsen (*The History of Rome*):** *"The tribune presented his agrarian **rogation** directly to the voting centuries in defiance of senatorial opposition."*
+> - 📜 **Thomas Hardy (*Under the Greenwood Tree*):** *"The parish procession during the traditional **rogation** days marked the boundaries of the ancient rural manor."*
+

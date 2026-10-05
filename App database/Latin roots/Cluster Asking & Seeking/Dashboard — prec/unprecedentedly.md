@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unprecedented manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unprecedented manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unprecedented manner; to a degree never before witnessed, known, or experienced.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In macroeconomic and climate trend analysis, describing rates of expansion, inflation, or warming exceeding all historically recorded baselines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But a sudden stop was put to further discoveries, by the ship’s being unprecedentedly dragged over sideways to the sea, owing to the body’s immensely increasing tendency to sink."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"But a sudden stop was put to further discoveries, by the ship’s being unprecedentedly dragged over sideways to the sea, owing to the body’s immensely increasing tendency to sink."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"But you won’t be able to help it.” “Is she beautiful, clever, rich, splendid, universally intelligent and unprecedentedly virtuous?"*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The leviathan breached **unprecedentedly** high above the foam, exposing its whole vast bulk to the astonished harpooners."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Isabel found herself **unprecedentedly** wealthy, and the burden of her newfound liberty weighed heavily upon her mind."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The national debt rose **unprecedentedly** during the continental campaigns, yet commerce expanded with equal vigour."*

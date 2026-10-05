@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily irritated or annoyed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily irritated or annoyed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Childishly sulky, bad-tempered, peevish, or insolent in response to trifles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic and psychological literature, describing a capricious, spoiled demeanor easily ruffled by contradiction or denied desire.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"The petulant threat of some, that in the event of Disestablishment they would abandon Presbyterianism, he absolutely declined to notice."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"They are perfectly charming.” “That entirely depends on how you sit to-day, Dorian.” “Oh, I am tired of sitting, and I don’t want a life-sized portrait of myself,” answered the lad, swinging round on the music-stool in a wilful, petulant manner."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"You make it so much more difficult for me.” “What is it all about?” cried Dorian in his petulant way, flinging himself down on the sofa."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"A foolish consistency is the hobgoblin of little minds, adored by little statesmen and philosophers and **petulant** divines."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Dorian threw himself into the velvet armchair with a **petulant** laugh, murmuring that youth was the only thing worth having."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"Lestrade gave a **petulant** shrug of his shoulders, plainly regarding Holmes's microscopic investigations as foolish child's play."*

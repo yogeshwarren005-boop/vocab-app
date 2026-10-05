@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The eon following the hadean time and preceding the phanerozoic eon; from about 3,800 million years ago until 544 million years ago.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The eon following the hadean time and preceding the phanerozoic eon; from about 3,800 million years ago until 544 million years ago.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to or denoting the earliest eon of Earth history, preceding the Cambrian period.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical geology and paleobiology, designating the super-eon encompassing the Hadean, Archean, and Proterozoic eras prior to the radiation of complex shelly fauna.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, precambrian designates the eon following the hadean time and preceding the phanerozoic eon; from about 3,800 million years ago until 544 million years ago."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The crystalline basement rocks underlying fossiliferous strata clearly belong to an ancient **precambrian** epoch of planetary formation."*
+> - 📜 **John Wesley Powell (*Canyons of the Colorado*):** *"At the very bottom of the gorge rise dark, contorted schists of **precambrian** age, severed by rivers of molten granite."*
+> - 📜 **Archibald Geikie (*The Scenery of Scotland*):** *"The rugged crags of the Northwest Highlands display vast exposures of **precambrian** gneiss that withstood eons of weathering."*

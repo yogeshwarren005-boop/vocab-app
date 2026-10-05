@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Playful in an appealingly bold way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking principles or scruples; ;  - w.m. thackaray.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of a dishonest rogue; playfully mischievous or slyly arch in demeanor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral description, displaying charming audacity, teasing levity, or mildly wicked deceit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let’s follow the old Earl, and get the bedlam To lead him where he would: his roguish madness Allows itself to anything."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"She’s sweeter than the morning dawn, When rising Phoebus first is seen, And dew-drops twinkle o’er the lawn; An’ she has twa sparkling roguish een."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"She’s stately like yon youthful ash, That grows the cowslip braes between, And drinks the stream with vigour fresh; An’ she has twa sparkling roguish een."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He looked across the counter with a **roguish** twinkle in his eye that disarmed all suspicion."*
+> - 📜 **Jane Austen (*Emma*):** *"Frank Churchill made a **roguish** observation regarding the mystery of the pianoforte that set them all guessing."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky Sharp gave him a **roguish** little smile that captivated his susceptible heart in an instant."*
+

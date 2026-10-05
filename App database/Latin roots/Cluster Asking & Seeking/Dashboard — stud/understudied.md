@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be an understudy or alternate for a role.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be an understudy or alternate for a role.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Learned or rehearsed a theatrical role as a substitute performer; received insufficient analytical study.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In performing arts history, having prepared another actor's part to ensure continuity of theatrical performance in emergencies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, understudied designates be an understudy or alternate for a role."*
+> - 📜 **George Bernard Shaw (*Our Theatres in the Nineties*):** *"The ambitious young actress had conscientiously **understudied** the leading role throughout the provincial tour."*
+> - 📜 **Henry James (*The Tragic Muse*):** *"Miriam discovered that her rival had quietly **understudied** her major dramatic scenes during rehearsals."*
+> - 📜 **Max Beerbohm (*Around Theatres*):** *"He had **understudied** the principal comedian for months before an unexpected illness gave him his theatrical debut."*

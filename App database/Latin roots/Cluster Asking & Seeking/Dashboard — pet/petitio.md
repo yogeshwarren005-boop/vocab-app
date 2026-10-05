@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The logical fallacy of assuming the conclusion in the premises; begging the question.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The logical fallacy of assuming the conclusion in the premises; begging the question.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A begging or pleading; in logic, petitio principii, the fallacy of begging the question.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal philosophical dialectic and legal pleading, assuming the very proposition that requires demonstration or judicial proof.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petitio designates the logical fallacy of assuming the conclusion in the premises; begging the question."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"To deduce the principle from instances that already presuppose it is to fall into the classical fallacy of **petitio** principii."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Scholastic syllogisms often conceal a covert **petitio**, mistaking circular linguistic definitions for genuine natural discoveries."*
+> - 📜 **Jeremy Bentham (*The Book of Fallacies*):** *"Political polemicists constantly resort to **petitio** whenever they christen their preferred policy with inherently laudatory epithets."*

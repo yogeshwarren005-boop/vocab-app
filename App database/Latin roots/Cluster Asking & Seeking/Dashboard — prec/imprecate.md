@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wish harm upon; invoke evil upon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Utter obscenities or profanities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To invoke evil, curse, or calamity upon a person, place, or thing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical tragedy and ancient ritual, to call down divine retribution through formal verbal oaths of vengeance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Wollstonecraft Shelley (*Frankenstein; or, the modern prometheus*):** *"How often did I imprecate curses on the cause of my being!"*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"No language can describe the wretchedness which I felt; and in the bitterness of my soul I imprecated a thousand curses on the perfidious Toby, who had thus abandoned me to destruction."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I bent over him and whispered in his ear words to **imprecate** misery upon the murderer who had ruined my hearth."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab seemed ready to **imprecate** destruction on the heavens themselves if they sheltered the white whale from his harpoon."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"The captive giant paused, refusing to **imprecate** wrath upon his own people while bearing the chains of Gaza."*

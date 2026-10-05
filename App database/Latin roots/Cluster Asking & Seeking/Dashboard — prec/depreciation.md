@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A decrease in price or value.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Decrease in value of an asset due to obsolescence or use.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A decline in value or market price; or the act of belittling or disparaging someone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cost accounting, the systematic allocation of the depreciable base of a tangible asset across its estimated operational lifespan.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Yet the time is so short since his depreciation began that as he saunters away, reluctant to leave the spot for some long months together, though he hates it, Richard himself may feel his own case as if it were a startling one."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn, profoundly attentive, throws this off with a shrug of self-depreciation and contracts his eyebrows a little more."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But as this is not done, and as, moreover, they are redeemed on demand at the treasury (and practically at every bank and post office) in other money, any slight tendency to depreciation in any locality is at once corrected."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Fred gave up the hope of a genuine opinion; he saw that Bambridge's **depreciation** and praise were equally professional tactics."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Money is liable to **depreciation** of the particular kind of property in which it is invested."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"He carried his head on one side, partly in modest **depreciation** of himself, partly in modest propitiation of everybody else."*

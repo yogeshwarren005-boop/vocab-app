@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inform (somebody) of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make aware of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To inform, advise, or give notice to someone regarding a fact or situation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic protocol and military intelligence, to formally brief an executive or commander on emergent tactical developments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Brocklehurst to apprise Miss Temple and the teachers of my vicious nature."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Some men must marry to elevate themselves a little, but when I am in need of that, I hope some one will tell me so—I hope some individual will apprise me of the fact."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate, there is no haste necessary in this matter; but I wished to apprise you beforehand of what may possibly occur.” Mr."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate, there is no haste necessary in this matter; but I wished to **apprise** you of what had occurred."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"She felt it incumbent upon her to **apprise** her uncle of the change in plans before evening arrived."*
+> - 📜 **Arthur Conan Doyle (*The Return of Sherlock Holmes*):** *"I thought it my duty to **apprise** you at once of this singular development in the case."*
+

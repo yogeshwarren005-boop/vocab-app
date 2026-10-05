@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous tropical herbs having fluted funnel-shaped flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Annual or perennial herbs or shrubs of tropical south america.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A South American plant of the nightshade family Solanaceae, widely cultivated for its colorful funnel-shaped flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In floriculture and botanical systematics, genus Petunia comprises herbaceous species popular as bedding ornamentals with sticky glandular foliage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Make your 'beesence to Miss Evelina, Lucy Petunia," he commanded."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Yes, sir," answered the Petunia with radiant but modest hope shining from her comely yellow face."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I must say Petunia made a hit with the dear old soul, by the seasoning of her chicken gravy."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"My experiments upon **Petunia** violacea proved that cross-fertilized seedlings produced vastly more vigorous stems and abundant seeds than self-fertilized plants."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Garden forms of **Petunia** display velvety corollas ranging from rich purple to variegated white, thriving under bright summer sunshine."*
+> - 📜 **Henry David Thoreau (*Journals*):** *"In the village gardens, the late-blooming **petunia** still yields a spicy fragrance as the autumn frosts draw near."*

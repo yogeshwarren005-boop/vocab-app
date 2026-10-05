@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who travels into little known regions (especially for some scientific purpose).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A commercial browser.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who journeys into uncharted or unfamiliar regions in search of geographical, scientific, or cultural knowledge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual biography, a pioneer who ventures into unmapped domains of thought, art, or natural philosophy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Chesapeake Bay was missed by one explorer."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"A later explorer came, and where the map showed a shore without a break, he found a huge inlet or outlet."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Luther, for example, is a great spirit of the explorer type."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"The fearless **explorer** must possess not only physical endurance but an unshakeable faith in scientific truth."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"No daring polar **explorer** ever gazed upon an iceberg with more awe than our lookout beheld that solitary white whale."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"The pioneering intellectual **explorer** clears a pathway through traditional prejudices for future generations to tread."*

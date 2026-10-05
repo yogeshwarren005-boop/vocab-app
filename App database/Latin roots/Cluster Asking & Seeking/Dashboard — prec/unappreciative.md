@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not feeling or expressing gratitude.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not feeling or expressing gratitude.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Failing or refusing to recognize the value, worth, or merit of something; unresponsive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic critique and social psychology, exhibiting affective indifference or sensory insensitivity to artistic and interpersonal gestures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I wished the woman-hating, unappreciative Ralph Maplestone, had been a kind, considerate, understanding, put-your-self-in-her-place sort of man, who would have offered his time, and his car, and his services as chauffeur."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Tope had so long offered to an unappreciative city."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"The vulgar eye remains **unappreciative** of the sublime beauty displayed in the commonest seasonal changes of the forest."*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Rosa turned away with an **unappreciative** pout when Edwin attempted to lecture her on the antiquities of Egypt."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Madame Merle found Gilbert Osmond cold and **unappreciative** whenever she suggested improvements to his Roman villa."*

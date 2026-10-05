@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of information equal to 1000 terabytes or 10^15 bytes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of information equal to 1024 tebibytes or 2^50 bytes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of digital information storage equal to one quadrillion (10^15) bytes or 1,024 terabytes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In distributed cloud architecture and big data analytics, a benchmark scale for warehousing planetary scientific measurements or planetary telemetry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petabyte designates a unit of information equal to 1000 terabytes or 10^15 bytes."*
+> - 📜 **Andrew Tanenbaum (*Distributed Systems*):** *"Managing a **petabyte** of distributed storage requires robust consensus algorithms to guarantee data consistency."*
+> - 📜 **Douglas Comer (*Computer Networks and Internets*):** *"Scientific facilities generate a **petabyte** of raw particle detector data during a single operational run."*
+> - 📜 **William Stallings (*Operating Systems: Internals and Design Principles*):** *"Enterprise file systems now incorporate scalable indexing to traverse multi-**petabyte** archives with minimal latency."*

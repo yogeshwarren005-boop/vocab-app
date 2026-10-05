@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an ungrateful manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an ungrateful manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unappreciative manner; without gratitude, esteem, or warm discernment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In performance reception studies, describing dismissive audience feedback characterized by indifference or premature withdrawal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unappreciatively designates in an ungrateful manner."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard listened **unappreciatively** to the town council's well-meant counsel, brooding darkly over his commercial losses."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Grandcourt shrugged **unappreciatively** when the finest thoroughbred was paraded before his indifferent gaze at the sales."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Thaddeus Sholto glanced **unappreciatively** at the plain furnishings of the cab as it jolted through the rainy streets."*

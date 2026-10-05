@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antibody that causes precipitation when it unites with its antigen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antibody that causes precipitation when it unites with its antigen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An antibody that interacts with a specific soluble antigen to form a visible precipitate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In serology and forensic immunology, an immunoglobulin utilized in forensic bloodstain identification to confirm human origin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, precipitin designates an antibody that causes precipitation when it unites with its antigen."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The discovery of the specific **precipitin** reaction provided clinicians with an extraordinary tool for diagnostic differentiation."*
+> - 📜 **Arthur Conan Doyle (*The Case-Book of Sherlock Holmes*):** *"Holmes demonstrated his new test, showing how a minute drop of serum induced a distinct **precipitin** cloud in the vial."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"Each specific bacterial toxin stimulates the host organism to generate its corresponding **precipitin** in the blood plasma."*

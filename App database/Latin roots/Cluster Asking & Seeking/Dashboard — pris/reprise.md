@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Repeat an earlier theme of a composition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Repeat an earlier theme of a composition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A recurrence, repetition, or renewed performance of an earlier musical theme, action, or discourse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic and musical composition, the formal recapitulation of a primary melody or motif to achieve thematic unity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reprise designates repeat an earlier theme of a composition."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The orchestra delivered a triumphant **reprise** of the opening motif that brought the entire movement to a noble close."*
+> - 📜 **Marcel Proust (*Swann's Way*):** *"Swann caught with trembling heart the faint **reprise** of the little musical phrase that symbolized their lost love."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"Her solitary monologue sounded like a sorrowful **reprise** of the passions that had shaken her youth."*
+

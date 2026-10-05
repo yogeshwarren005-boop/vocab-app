@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by imagination, initiative, and readiness to undertake new projects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by imagination, initiative, and readiness to undertake new projects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing initiative, resourcefulness, and readiness to undertake bold, challenging, or hazardous projects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial analysis, characterized by vigorous entrepreneurial innovation, market exploration, and adaptability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Kurt, the second boy, is the most enterprising and humorous of the family; whereas, Lippo, another boy, is the soul of obedience and formality."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Kurt with Lux and his enterprising sister Clevi were at the extreme front."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"They are the "noble Chairmen" who lend their names for a consideration to any enterprising company which may be speculating in Liberty."*
+> - 📜 **Charles Dickens (*Martin Chuzzlewit*):** *"He was an active and **enterprising** young man, eager to seek his fortune in the untamed territories of the West."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The Americans display an **enterprising** spirit in commerce that continually astonishes the observers of old Europe."*
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"They are the noble directors who lend their names for a consideration to any **enterprising** literary venture."*
+

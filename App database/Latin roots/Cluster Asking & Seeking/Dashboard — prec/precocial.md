@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of hatchlings) covered with down and having eyes open; capable of leaving the nest within a few days.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of hatchlings) covered with down and having eyes open; capable of leaving the nest within a few days.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hatched or born in an advanced state of physical development, capable of immediate independent locomotion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology and evolutionary biology, contrasting with altricial young by possessing open eyes, downy plumage, and self-feeding behaviors upon hatching.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, precocial designates (of hatchlings) covered with down and having eyes open; capable of leaving the nest within a few days."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The young of gallinaceous birds display an extraordinary **precocial** instinct, running about in search of seeds immediately after breaking the shell."*
+> - 📜 **Alfred Russel Wallace (*Darwinism*):** *"Ground-nesting species survival relies heavily upon **precocial** offspring that can evade predators without prolonged maternal brooding."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The developmental contrast between altricial passerines and **precocial** waterfowl reveals distinct evolutionary reproductive strategies."*

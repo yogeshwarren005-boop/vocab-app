@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of lacking precision.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of lacking precision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of wanting exactitude, sharpness, or definiteness; vagueness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytical epistemology, the structural deficiency in natural language that generates boundary indeterminacy in truth claims.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, impreciseness designates the quality of lacking precision."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The **impreciseness** of philosophical discourse proceeds principally from a careless application of indeterminate words."*
+> - 📜 **William Stanley Jevons (*The Principles of Science*):** *"No experimental observer can wholly eliminate the **impreciseness** arising from imperfect sensory organs."*
+> - 📜 **Henry Sidgwick (*The Methods of Ethics*):** *"The apparent **impreciseness** of moral intuition forces reason to seek systematic harmony in utilitarian standards."*

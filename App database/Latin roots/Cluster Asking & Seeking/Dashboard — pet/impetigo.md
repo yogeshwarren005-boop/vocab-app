@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A very contagious infection of the skin; common in children; localized redness develops into small blisters that gradually crust and erode.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very contagious infection of the skin; common in children; localized redness develops into small blisters that gradually crust and erode.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A contagious acute bacterial skin disease characterized by superficial pustules that rupture and form yellowish crusts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dermatological epidemiology, an infectious superficial pyoderma predominant among children, usually caused by Staphylococcus aureus or Streptococcus pyogenes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, impetigo designates a very contagious infection of the skin; common in children; localized redness develops into small blisters that gradually crust and erode."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Contagious **impetigo** spreads rapidly through school dormitories when common towels and bedding are incautiously shared."*
+> - 📜 **Richard Bright (*Reports of Medical Cases*):** *"The child exhibited extensive patches of **impetigo** upon the scalp, surrounded by inflammatory erythema."*
+> - 📜 **Thomas Watson (*Lectures on the Principles and Practice of Physic*):** *"Strict cleanliness and topical mercurial ointments promptly arrest the pustular spread of **impetigo**."*

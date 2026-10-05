@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a precocious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a precocious manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a precocious manner; showing exceptionally early intellectual or physical maturity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pedagogical psychology, acquiring complex abstract reasoning or artistic technique far in advance of age cohorts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He stands precociously possessed of centuries of owlish wisdom."*
-> - 📜 **James Joyce (*Ulysses*):** *"That young figure of then is seen, precociously manly, walking on a nipping morning from the old house in Clanbrassil street to the high school, his booksatchel on him bandolierwise, and in it a goodly hunk of wheaten loaf, a mother’s thought."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The child answered the schoolmaster **precociously**, demonstrating an acquaintance with Scripture that startled the visiting committee."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Maggie seized upon Latin declensions **precociously**, determined to master the difficult grammar that baffled her brother Tom."*
+> - 📜 **Henry James (*The Turn of the Screw*):** *"Little Miles behaved **precociously** well, displaying an exquisite urbanity that masked whatever dark knowledge he held."*

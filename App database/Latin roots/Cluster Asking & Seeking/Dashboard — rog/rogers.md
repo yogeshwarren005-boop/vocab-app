@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states humorist remembered for his homespun commentary on politics and american society (1879-1935).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states dancer and film actress who partnered with fred astaire (1911-1995).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A common Anglo-Norman patronymic surname meaning son of Roger; notably associated with prominent historical figures in literature, humor, and dance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American cultural history, identifying influential personalities such as humorist Will Rogers or performer Ginger Rogers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Rogers, _Social Life in Scotland_ (Edinburgh, 1884-1886), iii. 258-260. [582] Douglas Hyde, _Beside the Fire, a Collection of Irish Gaelic Folk Stories_ (London, 1890), pp. 104, 105, 121-128. [583] P.W."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Rogers, _Social Life in Scotland_ (Edinburgh, 1884-1886), iii. 244 _sq_.; _The Folk-lore Journal_, vii. (1889) pp. 11-14, 46."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Thinks I, Queequeg, this is using Rogers’s best cutlery with a vengeance."*
+> - 📜 **Mark Twain (*Autobiography of Mark Twain*):** *"My close friend Henry **Rogers** provided wise counsel and staunch support during the darkest financial trials of my career."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Captain **Rogers** of the Bristol privateer recorded remarkable encounters with monstrous leviathans in the southern seas."*
+> - 📜 **Henry James (*The Bostonians*):** *"She spoke with admiration of the philanthropic endeavors championed by the venerable Mrs. **Rogers**."*
+

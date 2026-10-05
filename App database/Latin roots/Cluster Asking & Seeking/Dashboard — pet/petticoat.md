@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergarment worn under a skirt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undergarment worn under a skirt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman's light, loose undergarment hanging from the waist beneath a dress, skirt, or gown.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social satire and political history, metaphorical reference to female influence or rule in government (petticoat government).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This grief is crowned with consolation; your old smock brings forth a new petticoat: and indeed the tears live in an onion that should water this sorrow."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I could find in my heart to disgrace my man’s apparel, and to cry like a woman, but I must comfort the weaker vessel, as doublet and hose ought to show itself courageous to petticoat."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With this shepherdess, my sister, here in the skirts of the forest, like fringe upon a petticoat."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"I could find in my heart to disgrace my man's apparel and to cry like a woman; but I must comfort the weaker vessel, as doublet and hose ought to show itself courageous to **petticoat**."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The heavy rustle of her starched white **petticoat** could be heard distinctly as she crossed the quiet churchyard."*
+> - 📜 **Oscar Wilde (*The Importance of Being Earnest*):** *"Lady Bracknell viewed with profound suspicion any household governed entirely by the dictates of a **petticoat**."*

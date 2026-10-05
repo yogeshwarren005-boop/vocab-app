@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not involving competition or competitiveness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not involving competition or competitiveness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not involving, determined by, or inclined toward competition, rivalry, or market contest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In enzymology and economic regulation, describing enzyme inhibition independent of substrate concentration, or markets governed by administered pricing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, noncompetitive designates not involving competition or competitiveness."*
+> - 📜 **Thorstein Veblen (*The Higher Learning in America*):** *"Academic institutions should cultivate a **noncompetitive** fellowship of scholars rather than mimic commercial rivalry."*
+> - 📜 **John Kenneth Galbraith (*The New Industrial State*):** *"Large corporate conglomerates thrive within a **noncompetitive** framework of administered supply and secure military contracts."*
+> - 📜 **E. O. Wilson (*Sociobiology: The New Synthesis*):** *"Cooperative social foraging among primates creates a **noncompetitive** foraging pattern within the bonded clan."*

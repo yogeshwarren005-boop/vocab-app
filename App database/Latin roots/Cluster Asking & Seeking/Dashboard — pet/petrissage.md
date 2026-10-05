@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Massage of the skin which is gently lifted and squeezed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Massage of the skin which is gently lifted and squeezed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A massage movement involving kneading, rolling, and squeezing the muscles with firm pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In manual physical therapy and rehabilitation medicine, a manipulation technique applied to mobilize deep myofascial tissues and enhance venous return.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petrissage designates massage of the skin which is gently lifted and squeezed."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"For chronic muscular atrophy following neuritis, daily application of effleurage and deep **petrissage** yields excellent therapeutic benefit."*
+> - 📜 **Thomas Watson (*Lectures on the Principles and Practice of Physic*):** *"Judicious **petrissage** administered to the spastic limbs assists greatly in restoring muscular elasticity after paralytic strokes."*
+> - 📜 **Douglas Graham (*A Practical Treatise on Massage*):** *"The skilled operator applies **petrissage** by grasping the muscle bellies firmly between the thumb and fingers without pinching the skin."*

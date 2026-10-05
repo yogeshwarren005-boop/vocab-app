@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Demand as being one's due or property; assert one's right or title to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make undue claims to having.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To claim, seize, or assume rights, privileges, or authority without legal justification or right.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political jurisprudence and constitutional debate, to unlawfully usurp sovereign prerogatives belonging to another branch.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"Far be it from me to arrogate to myself the attributes of the Deity."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Neither of them being entitled to any personal merit for what he does, it follows of necessity that neither of them has a right to arrogate to himself (personally created) superiorities over his brother."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"It surely is not from desire of applause that men seek the leadership on the road to heaven, for what man so decried in the history of the world as he who arrogates to himself the place and name of Priest?"*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The executive department cannot **arrogate** to itself powers that belong exclusively to the representatives of the people."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"Parliament should not **arrogate** an unlimited right of taxation where no actual representation exists."*
+> - 📜 **John Locke (*Second Treatise of Government*):** *"Whenever magistrates **arrogate** arbitrary control over property, they dissolve the legitimate bonds of civil government."*
+

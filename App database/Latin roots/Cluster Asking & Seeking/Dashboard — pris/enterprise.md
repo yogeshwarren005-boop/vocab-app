@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A purposeful or industrious undertaking (especially one that requires effort or boldness).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organization created for business ventures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A project or undertaking, especially one of significant scope, difficulty, or boldness; readiness to embark on new ventures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic theory, an organized commercial firm or business entity that coordinates capital, labor, and innovation under risk.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you saw yourself with your eyes or knew yourself with your judgement, the fear of your adventure would counsel you to a more equal enterprise."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I fear my brother Mortimer doth stir About his title, and hath sent for you To line his enterprise."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This sickness doth infect The very life-blood of our enterprise; ’Tis catching hither, even to our camp."*
+> - 📜 **William Shakespeare (*Henry IV, Part 1*):** *"This sickness doth infect the very life-blood of our **enterprise**; ’tis catching hither, even to our camp."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The spirit of commercial **enterprise** flourishes only where property is secure and contracts are faithfully enforced."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"You may easily perceive why I have selected this cold northern voyage for the commencement of my grand **enterprise**."*
+

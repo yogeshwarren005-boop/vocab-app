@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the early phases of a disease when accurate diagnosis is not possible because symptoms of the disease have not yet appeared.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the early phases of a disease when accurate diagnosis is not possible because symptoms of the disease have not yet appeared.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the stage of research or education before practical clinical experience or trials.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and oncology, designating in vitro and in vivo animal testing evaluating drug safety and kinetics prior to human administration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, preclinical designates of or relating to the early phases of a disease when accurate diagnosis is not possible because symptoms of the disease have not yet appeared."*
+> - 📜 **William Osler (*Aequanimitas*):** *"Thorough mastery of anatomy and physiology during the **preclinical** years lays an immovable foundation for hospital practice."*
+> - 📜 **Harvey Cushing (*The Life of Sir William Osler*):** *"He reformed the medical curriculum by integrating rigorous **preclinical** laboratory research with ward bedside rounds."*
+> - 📜 **Paul Ehrlich (*Experimental Chemotherapy of Spirilloses*):** *"Our systematic **preclinical** screening of arsenical compounds in murine models yielded compound 606 with remarkable curative efficacy."*

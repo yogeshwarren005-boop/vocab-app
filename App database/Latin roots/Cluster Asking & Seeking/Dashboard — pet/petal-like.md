@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a petal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling a petal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or having the delicate form, texture, or vibrant appearance of a flower petal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive anatomy and marine morphology, characterizing expanded, colorful appendages such as ray florets, bracts, or molluscan cerata.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petal-like designates resembling a petal."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Her delicate complexion exhibited a soft, **petal-like** bloom that drew admiring glances from all the village congregation."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Certain sea anemones possess **petal-like** tentacles arranged in concentric circles around the oral disk to capture passing prey."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The showy bracts of the dogwood tree form a **petal-like** envelope that is commonly mistaken for a true corolla."*

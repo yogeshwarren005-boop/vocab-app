@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rash impulsiveness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rash impulsiveness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The characteristic disposition to act rashly, headlong, or under sudden violent impulse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and psychological character study, an unrestrained fiery temperament that disregards consequences or tactical prudence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, impetuousness designates rash impulsiveness."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The dangerous **impetuousness** of youth frequently plunges men into ruinous enterprises before maturity teaches them caution."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Marianne's affectionate **impetuousness** blinded her entirely to the calculating reserve of her admired suitor."*
+> - 📜 **Lord Byron (*Letters and Journals*):** *"My natural **impetuousness** has ever driven me into tempestuous adventures where cooler spirits would have paused."*

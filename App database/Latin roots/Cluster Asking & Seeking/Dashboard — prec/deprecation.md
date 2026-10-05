@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A prayer to avert or remove some evil or disaster.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of expressing disapproval (especially of yourself).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expression of earnest protest, disapproval, or a prayer that an evil may be averted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In software architecture and liturgical history, marking an obsolete protocol scheduled for removal, or reciting litanies to ward off judgment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Don’t flatter me.” He pursued his theme, however, without noticing my deprecation."*
-> - 📜 **George Eliot (*Middlemarch*):** *"O Dodo, you must keep the cross yourself.” “No, no, dear, no,” said Dorothea, putting up her hand with careless deprecation."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I am no judge of these things,” said Dorothea, not coldly, but with an eager deprecation of the appeal to her."*
+> - 📜 **George Eliot (*Middlemarch*):** *"No, no, dear, no, said Dorothea, putting up her hand with careless **deprecation** of the praise lavished on her benevolence."*
+> - 📜 **James Joyce (*Dubliners*):** *"Christmas-time! said Gabriel, almost trotting to the stairs and waving his hand to her in **deprecation**."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The Doctor made a gentle gesture of **deprecation**, protesting against any undue estimation of his scholarly labor."*

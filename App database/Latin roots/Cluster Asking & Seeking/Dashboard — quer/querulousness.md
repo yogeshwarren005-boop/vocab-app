@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being given to complaining.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being given to complaining.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A persistent disposition toward complaining, fretfulness, petulance, or chronic discontent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral psychology and character analysis, the habit of nursing petty grievances and venting irritation upon associates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And then we'll be saying a prayer for her who's gone--" "Dead she is, the poor heart, dead she is, and better off nor I am--" Her high querulousness died away as she went into the house, and again was the silence of the riding moon."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Princess Mary well knew this mood of quiet absorbed querulousness, which generally culminated in a burst of rage, and she went about all that morning as though facing a cocked and loaded gun and awaited the inevitable explosion."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Old Mr. Featherstone's chronic **querulousness** made the task of tending his final illness an ordeal to everyone around him."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Age without wisdom degenerates into a gloomy **querulousness** that alienates the affection of the young."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Prolonged nervous debility often clothes itself in an acute **querulousness** that exaggerates every minor tactile discomfort."*

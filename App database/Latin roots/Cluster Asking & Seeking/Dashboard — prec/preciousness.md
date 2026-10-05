@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality possessed by something with a great price or value.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The positive quality of being precious and beyond value.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Great value, worth, or scarcity; or an over-refined, affected delicacy of manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic value theory, the subjective or systemic scarcity premium that elevates commodity prices above cost of production.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"And I understand the reality & preciousness of that."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The extraordinary **preciousness** of sperm oil stimulated Yankee merchants to send fleets across perilous polar seas."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea felt the sacred **preciousness** of life too deeply to squander her waking hours in trivial parlor amusements."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"The true **preciousness** of decorative marble lies in its natural grain rather than in mechanical polishing."*

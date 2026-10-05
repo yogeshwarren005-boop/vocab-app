@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to be surprised.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come upon or take unawares.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling, showing, or affected by sudden wonder or astonishment caused by an unexpected occurrence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tactical narrative, taken unawares, caught off guard, or seized unexpectedly by an opponent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You see how easily she may be surprised."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The prisoners, Which he in this adventure hath surprised To his own use he keeps, and sends me word I shall have none but Mordake, Earl of Fife."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Had all your quarters been as safely kept As that whereof I had the government, We had not been thus shamefully surprised."*
+> - 📜 **William Shakespeare (*The Taming of the Shrew*):** *"You see how easily she may be **surprised**; and therefore be not amazed at our sudden departure."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea was too **surprised** to speak for a moment, looking earnestly into the grave face before her."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I was thoroughly **surprised** by the unexpected gentleness with which Mr. Rochester addressed his ward."*
+

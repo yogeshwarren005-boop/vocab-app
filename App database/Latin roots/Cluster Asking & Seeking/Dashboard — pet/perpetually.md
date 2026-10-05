@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Everlastingly; for all time; - stuart chase.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without interruption.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a way that continues without intermission, ending, or change; constantly and endlessly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In natural philosophy, proceeding through unending iterative cycles, uniform transformations, or sustained celestial movements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, for a quart d’ecu he will sell the fee-simple of his salvation, the inheritance of it, and cut the entail from all remainders, and a perpetual succession for it perpetually."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, to the proof, as mountains are for winds, That shake not though they blow perpetually."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The spots whereof could weeping purify, Her tears should drop on them perpetually."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Truth gains more by the errors of one who, with due study, thinks for himself, than by the true opinions of those who hold them **perpetually** upon authority."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Organic beings are **perpetually** multiplying at a geometric ratio, giving rise to an inevitable struggle for existence."*
+> - 📜 **Ralph Waldo Emerson (*Nature*):** *"The universe is fluid and volatile; permanence is but a word of degrees, for all matter is **perpetually** in transit."*

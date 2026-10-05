@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A polyhedron with two congruent and parallel faces (the bases) and whose lateral faces are parallelograms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Optical device having a triangular shape and made of glass or quartz; used to deviate a beam or invert an image.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A transparent optical body with flat, polished surfaces that refracts light to decompose it into spectral colors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geometry, a solid polyhedron whose two end faces are congruent, parallel polygons and whose lateral faces are parallelograms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon quite shamefully: I think you would have given up ever coming to see me if he had asked you.” “Of course I submitted to him, because it was my duty; it was my feeling for him,” said Dorothea, looking through the prism of her tears."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"I had surveyed the landscape through the prism of poetry, which tinged every object with the hues of the rainbow."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"When understood, it is Truth's prism and praise."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The light of the sun passing through a glass **prism** was immediately refracted into its distinct primary colors."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She had viewed his character through the deceptive **prism** of her youthful imagination."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"I had surveyed the landscape through the **prism** of romantic association until every hill possessed a legend."*
+

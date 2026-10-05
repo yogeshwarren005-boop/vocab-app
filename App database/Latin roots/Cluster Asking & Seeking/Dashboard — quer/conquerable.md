@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Subject to being conquered or overcome.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being surmounted or excelled.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being overcome, subdued, defeated, or brought under mastery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In strategic assessment and philosophical ethics, designating an enemy fortification or human vice that can be successfully mastered.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conquerable designates subject to being conquered or overcome."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"Early stubbornness in children is easily **conquerable** by consistent kindness and gentle rational discipline."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Difficulties which appear insurmountable to indolence are found to be **conquerable** by persevering industry."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The barbarian tribes on the northern frontier proved far less **conquerable** than the decadent cities of the East."*

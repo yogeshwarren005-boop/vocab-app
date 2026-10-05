@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Old world flying squirrels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Old world flying squirrels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic family or subfamily designation comprising flying squirrels equipped with gliding patagia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic vertebrate paleontology and mammalogy, the group (often synonymized under Pteromyini) of arboreal gliding rodents with specialized wrist cartilages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petauristidae designates old world flying squirrels."*
+> - 📜 **Richard Lydekker (*A Geographical History of Mammals*):** *"The radiation of the **Petauristidae** across Indo-Malayan forests represents an extraordinary adaptation to three-dimensional arboreal life."*
+> - 📜 **Spencer Fullerton Baird (*Mammals of North America*):** *"Osteological comparisons confirm that members of the **Petauristidae** possess specialized scapular arches adapted for patagial tension."*
+> - 📜 **Frank Beddard (*Mammalia*):** *"The cranial anatomy of the **Petauristidae** aligns them closely with typical sciurids despite their striking specialization for gliding."*

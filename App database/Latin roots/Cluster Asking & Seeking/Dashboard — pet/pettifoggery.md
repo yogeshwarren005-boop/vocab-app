@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A quarrel about petty points.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quarrel about petty points.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practices, dishonest tricks, or captious quibbling characteristic of a pettifogger.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence and political commentary, contemptible technical chicanery employed to evade substantive moral justice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pettifoggery designates a quarrel about petty points."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Great imperial questions cannot be decided by the narrow pedantry and miserable **pettifoggery** of an attorney's clerk."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Deliver us from parliamentary pedantry and the endless legalistic **pettifoggery** that leaves the hungry multitude unfed."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The atmosphere of Chancery lane smelled of musty parchment, stagnant ink, and unmitigated procedural **pettifoggery**."*

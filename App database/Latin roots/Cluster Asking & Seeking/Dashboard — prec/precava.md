@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Receives blood from the head and arms and chest and empties into the right atrium of the heart; formed from the azygos and both brachiocephalic veins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Receives blood from the head and arms and chest and empties into the right atrium of the heart; formed from the azygos and both brachiocephalic veins.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The anterior or superior vena cava that returns systemic blood to the right atrium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative vertebrate anatomy, the cranial systemic venous trunk collecting blood from the head, neck, and forelimbs into the heart.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, precava designates receives blood from the head and arms and chest and empties into the right atrium of the heart; formed from the azygos and both brachiocephalic veins."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"In the avian circulatory system, blood from the jugular trunks enters the right atrium through a distinct **precava**."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The mammalian embryo reveals two anterior cardinal veins which subsequently consolidate into the definitive **precava**."*
+> - 📜 **Alfred Sherwood Romer (*The Vertebrate Body*):** *"Reptilian and monotreme dissections demonstrate the persistence of paired vessels representing both the right and left **precava**."*

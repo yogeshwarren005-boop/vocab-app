@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an enterprising manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an enterprising manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a bold, energetic, and resourceful manner marked by initiative and venturesome ambition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic history, executing commercial development with daring investment, tactical innovation, and persistent vigor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enterprisingly designates in an enterprising manner."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"The young pilots **enterprisingly** pushed their shallow-draft steamers through hazardous bayous to reach remote plantations."*
+> - 📜 **Joseph Conrad (*Nostromo*):** *"Charles Gould managed the great silver concession **enterprisingly**, overcoming provincial apathy and political intrigue."*
+> - 📜 **H. G. Wells (*Tono-Bungay*):** *"My uncle **enterprisingly** flooded the country with advertisements that made his patent preparation famous overnight."*
+

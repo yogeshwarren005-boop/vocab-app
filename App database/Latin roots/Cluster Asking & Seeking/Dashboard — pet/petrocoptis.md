@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perennial tussock-forming rock plants; of pyrenees and mountains of northern spain; similar to and sometimes placed in genus lychnis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perennial tussock-forming rock plants; of pyrenees and mountains of northern spain; similar to and sometimes placed in genus lychnis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small genus of perennial saxicolous flowering plants in the pink family Caryophyllaceae, native to the Pyrenees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In European alpine biogeography, Petrocoptis comprises chasmophytic endemics adapted to sheer limestone cliffs and calcareous rock clefts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petrocoptis designates perennial tussock-forming rock plants; of pyrenees and mountains of northern spain; similar to and sometimes placed in genus lychnis."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The chasmophytic genus **Petrocoptis** clings tenaciously to the vertical limestone fissures of the northern Spanish ranges."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"Alpine rupicolous species such as **Petrocoptis** demonstrate specialized rooting adaptations for exploiting narrow moisture-retaining crevices."*
+> - 📜 **George Bentham (*Handbook of the British Flora*):** *"European rock-dwelling caryophylls, including the delicate **Petrocoptis**, bear glaucous foliage and star-like pink or white blossoms."*

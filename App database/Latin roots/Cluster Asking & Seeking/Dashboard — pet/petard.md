@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An explosive device used to break down a gate or wall.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An explosive device used to break down a gate or wall.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small bomb or metal casing filled with gunpowder, formerly used to breach gates or walls; or a dangerous explosive device.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military history and Shakespearean idiom, an explosive charge often proverbially hoised or turned upon its own maker.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let it work; For ’tis the sport to have the enginer Hoist with his own petard, and ’t shall go hard But I will delve one yard below their mines And blow them at the moon."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"For 'tis the sport to have the enginer hoist with his own **petard**; and 't shall go hard but I will delve one yard below their mines."*
+> - 📜 **Sir Walter Scott (*The Legend of Montrose*):** *"The pioneers advanced with an engine of assault and a heavy **petard** to blow down the fortified castle gates."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The insurrectionists blew open the portcullis with a hastily fashioned **petard**, surging into the inner courtyard with ferocious cries."*

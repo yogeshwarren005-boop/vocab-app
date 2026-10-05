@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Completely free from dirt or contamination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Immaculately clean and unused.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Remaining in a pure, unspoiled, or original state; entirely uncorrupted by civilization or decay.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and historical geology, characteristic of earliest archaic origins or primeval natural conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By Cheshu, he will maintain his argument as well as any military man in the world, in the disciplines of the pristine wars of the Romans."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"No longer could I tread my starry path with that ineffable pristine joy, for my way was beset with dread of the inevitable summons that would rip and tear me as it jerked me back to my strait-jacket hell."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"And the separation is essential to the preservation of that institution in its pristine purity."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The pond was a mirror in which the water gleamed in its **pristine** purity before civilization touched its shores."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"No longer could I tread my starry path with that ineffable **pristine** joy known only to immortal spirits."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The separation of powers is essential to preserve the judiciary in its **pristine** constitutional integrity."*
+

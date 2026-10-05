@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The position of preceptor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The position of preceptor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The position, tenure, or mentorship role exercised by a preceptor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medical training, a formalized experiential apprenticeship where a student practices directly under the supervision of a licensed specialist.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, preceptorship designates the position of preceptor."*
+> - 📜 **William Osler (*An Alabama Student and Other Biographical Essays*):** *"During his surgical **preceptorship** under Dr. Bovell, the apprentice acquired habits of scrupulous cleanliness and keen diagnostic inquiry."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The old system of country **preceptorship** imparted practical acumen that laboratory lectures alone can never supply."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"Lucas Beaumanoir arrived to inspect the **preceptorship**, determined to root out all luxury and laxity among the Templars."*

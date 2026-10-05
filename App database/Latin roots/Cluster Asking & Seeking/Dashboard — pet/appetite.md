@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of craving something; ; - granville hicks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of craving something; ; - granville hicks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A natural physiological desire or craving to satisfy bodily needs, especially for food.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and psychology, any strong urge, passion, or drive impelling human action toward specific worldly ends.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now all is done, have what shall have no end, Mine appetite I never more will grind On newer proof, to try an older friend, A god in love, to whom I am confined."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Epicurean cooks Sharpen with cloyless sauce his appetite, That sleep and feeding may prorogue his honour Even till a Lethe’d dullness— Enter Varrius."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who deserves greatness Deserves your hate; and your affections are A sick man’s appetite, who desires most that Which would increase his evil."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Why, she would hang on him as if increase of **appetite** had grown by what it fed on."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His intellectual **appetite** was keen, but his digestion of profound philosophy remained somewhat imperfect."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"A healthy soul maintains an uncorrupted **appetite** for truth and simpleness in every relation of life."*

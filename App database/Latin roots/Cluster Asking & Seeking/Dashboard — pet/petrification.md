@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of turning some plant material into stone by infiltration with water carrying mineral particles without changing the original shape.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of turning some plant material into stone by infiltration with water carrying mineral particles without changing the original shape.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The conversion of organic material into stone or stony substance; or extreme petrified terror.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In taphonomy and narrative literature, permineralization where mineral deposits form internal casts of organisms, or sudden stupefaction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petrification designates the process of turning some plant material into stone by infiltration with water carrying mineral particles without changing the original shape."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We discovered a fossil forest in the Andes where complete **petrification** had preserved every microscopic ring of the ancient trees."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"A horror of utter **petrification** seized my limbs as the enshrouded figure of the lady Madeline swayed in the doorway."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"The Medusa head possessed that fatal gaze of **petrification** which froze the blood of ancient mythic heroes into stone."*

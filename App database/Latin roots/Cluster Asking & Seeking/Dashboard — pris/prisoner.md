@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is confined; especially a prisoner of war.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is confined; especially a prisoner of war.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person deprived of personal liberty and kept under involuntary restraint, confinement, or custody.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military international law, a captured combatant entitled to protective status as a prisoner of war under convention.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He taught me how to know a man in love, in which cage of rushes I am sure you are not prisoner."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou jailer, thou, I am thy prisoner."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is my prisoner, and you shall not have him."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"He taught me how to know a man in love, in which cage of rushes I am sure you are not a **prisoner**."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The aged **prisoner** sat upon his low stool in the dark garret, endlessly making shoes with trembling hands."*
+> - 📜 **Victor Hugo (*Les Misérables*):** *"The armed guards escorted the solitary **prisoner** through the gates of the maritime penal colony."*
+

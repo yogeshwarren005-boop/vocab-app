@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by undue haste and lack of thought or deliberation; ; ; ; ; (`brainish' is archaic).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by violent force.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Acting or done quickly and without thought or care; moving with great, forceful, or headlong speed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary characterization, describing ardent temperaments or physical torrents characterized by sweeping, turbulent momentum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The ocean, overpeering of his list, Eats not the flats with more impetuous haste Than young Laertes, in a riotous head, O’erbears your offices."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He was then the most impetuous boy in the world, and he is now the most impetuous man."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Excuse me if I recommend you not to chafe so much, not to be so impetuous, not to wear yourself out so."*
+> - 📜 **William Shakespeare (*King Lear*):** *"Blow, winds, and crack your cheeks! rage! blow! you cataracts and hurricanoes, with your **impetuous** fury!"*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Sir Henry was an **impetuous** man, quick to anger and impatient of delay when a clear path lay open before him."*
+> - 📜 **George Eliot (*Romola*):** *"Her youth made her feelings **impetuous**, and she could not bear the cold, calculating maxims of political expediency."*

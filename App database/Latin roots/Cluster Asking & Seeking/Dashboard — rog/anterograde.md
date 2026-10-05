@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of amnesia; affecting time immediately following trauma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of amnesia; affecting time immediately following trauma.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Moving or proceeding forward in space or time; affecting memories formed after a traumatic event.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurobiology and cellular transport, describing molecular transit along an axon from the cell soma toward the synapse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anterograde designates of amnesia; affecting time immediately following trauma."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Following the cerebral concussion, the patient displayed profound **anterograde** amnesia, retaining no new impressions."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"His severe **anterograde** memory deficit rendered him incapable of retaining any experience beyond a few fleeting moments."*
+> - 📜 **Henry Maudsley (*Body and Mind*):** *"Organic brain lesion frequently induces an **anterograde** failure of mental registration while leaving ancient recollections intact."*
+

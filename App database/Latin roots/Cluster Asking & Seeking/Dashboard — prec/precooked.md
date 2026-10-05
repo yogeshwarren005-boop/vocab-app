@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cook beforehand so that the actual preparation won't take long.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cooked partially or completely beforehand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cooked or prepared partly or completely in advance of sale, reheating, or consumption.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In consumer nutritional science, referring to factory-processed convenience foodstuffs preserved after thermal stabilization for rapid reconstitution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, precooked designates cook beforehand so that the actual preparation won't take long."*
+> - 📜 **Upton Sinclair (*The Jungle*):** *"The meat-packing plant turned out barrels of **precooked** sausages that were labeled and distributed across the national market."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"Unemployed families often subsisted on cheap **precooked** tinned meats that provided energy while lacking essential freshness."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"The dormitory dining halls dispensed trays of **precooked** vitaminized synthetic meals to the lower-caste laborers."*

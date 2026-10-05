@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conceive beforehand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conceive beforehand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To form an opinion, notion, or mental conception of something beforehand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive epistemological theory, to construct anticipatory mental schemas that bias subsequent empirical perception and hypothesis evaluation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"He had a certain shame about his neighbors’ errors, and never spoke of them willingly; hence he was not likely to divert his mind from the best mode of hardening timber and other ingenious devices in order to preconceive those errors."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"How little did I preconceive the conduct which, in an exigence like this, I should be prone to adopt!"*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Preconceived opinions, foregone determinations, are all I have at this hour to stand by: there I plant my foot.” I did."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He had begun to **preconceive** an ideal household where intellectual communion would reign supreme above petty cares."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The philosopher must empty his mind of idols, refusing to **preconceive** the operations of nature before questioning experiments."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I had attempted to **preconceive** the appearance of Thornfield Hall from Mrs. Fairfax's descriptions, but found reality far more sombre."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having precedence (especially because of longer service).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having precedence (especially because of longer service).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving as, relating to, or having the binding force or nature of a precedent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In appellate jurisprudence, designating court rulings that establish authoritative rules governing the disposition of subsequent litigation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, precedential designates having precedence (especially because of longer service)."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"A judicial decision carries **precedential** weight only so far as its underlying rationale harmonizes with living social experience."*
+> - 📜 **Benjamin Cardozo (*The Nature of the Judicial Process*):** *"The judge cannot disregard the **precedential** stream of authority without throwing legal relations into uncertainty."*
+> - 📜 **Woodrow Wilson (*Congressional Government*):** *"Every executive veto creates a **precedential** standard by which succeeding presidents evaluate legislative enactments."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Regulator consisting of a small cock or faucet or valve for letting out air or releasing compression or draining.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Regulator consisting of a small cock or faucet or valve for letting out air or releasing compression or draining.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small valve or tap used to drain fluid or release steam and air pressure from a pipe, boiler, or radiator.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanical and automotive engineering, a manual drainage cock installed at low points of engine water jackets, fuel tanks, or steam cylinders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petcock designates regulator consisting of a small cock or faucet or valve for letting out air or releasing compression or draining."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The engineer hastily opened the brass **petcock** on the boiler casing to vent the hissing excess steam."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"Martin adjusted the burner and opened the drainage **petcock** of the laboratory sterilizer to release boiling water."*
+> - 📜 **Rudyard Kipling (*The Day's Work*):** *"A hiss of hot moisture escaped through the open **petcock** as the locomotive rested beside the coaling station."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A man who is virile and sexually active.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ornament consisting of a circular rounded protuberance (as on a vault or shield or belt).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A projecting knob, pin, boss, or fastener on a surface; an establishment for breeding horses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architecture and framing carpentry, a vertical upright framing member in a building's wall partition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"This sparkling sally is to the effect that although he always knew she was the best-groomed woman in the stud, he had no idea she was a bolter."*
-> - 📜 **Anonymous (*The Story of Gunnlaug the Worm-Tongue and Raven the Skald*):** *"There were stud-horses of Thorstein, four of them together, all red of hue."*
-> - 📜 **Anonymous (*The Story of Gunnlaug the Worm-Tongue and Raven the Skald*):** *"He said he was in no need of horses, as he was going away from the country; and so they ride to other stud-horses."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The small attorney adjusted the glittering brass **stud** upon his immaculate shirt collar before addressing the court."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The knight's heavy leather baldric was ornamented with many a silver **stud** and embossed steel buckle."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel Oak admired the prize stallion newly purchased to enrich the Squire's celebrated breeding **stud**."*

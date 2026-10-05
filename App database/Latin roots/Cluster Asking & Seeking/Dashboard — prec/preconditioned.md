@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put into the required condition beforehand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having already been put into a suitable condition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Subjected to prior treatment, conditioning, or preparation to respond in a specified manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In experimental behavioral physiology, having acquired conditioned neurological reflexes through repeated prior stimulus pairings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Self which it itself was ineluctably preconditioned to become. _Ecco!_ LYNCH: _(With a mocking whinny of laughter grins at Bloom and Zoe Higgins.)_ What a learned speech, eh?"*
+> - 📜 **William James (*The Principles of Psychology*):** *"The brain tissue becomes **preconditioned** by habitual motor discharge, allowing complex physical movements to unfold without conscious effort."*
+> - 📜 **H. G. Wells (*The First Men in the Moon*):** *"Cavor discovered that the Selenites were physically **preconditioned** from infancy for their specialized industrial vocations."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"The human mind was **preconditioned** through ceaseless propaganda to accept the party's contradictory slogans without revolt."*

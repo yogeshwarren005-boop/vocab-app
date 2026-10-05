@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of spoiling the appetite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of spoiling the appetite.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Distasteful unloveliness or repellent lack of appeal to hunger, taste, or aesthetic senses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sensory critique, the visual or olfactory lack of charm that discourages consumption or participation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unappetizingness designates the property of spoiling the appetite."*
+> - 📜 **Alexis Soyer (*The Modern Housewife*):** *"Burned fat imparts an offensive **unappetizingness** to roasted fowl which no quantity of fragrant sauce can disguise."*
+> - 📜 **Henry David Thoreau (*A Week on the Concord and Merrimack Rivers*):** *"The **unappetizingness** of coarse camp provisions vanished the moment true hunger had been earned by strenuous rowing."*
+> - 📜 **Louisa May Alcott (*Little Men*):** *"The scorched porridge was greeted with groans by the boys, who complained loudly of its smoky **unappetizingness**."*

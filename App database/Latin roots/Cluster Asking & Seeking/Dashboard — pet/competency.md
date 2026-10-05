@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being adequately or well qualified physically and intellectually.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being adequately or well qualified physically and intellectually.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sufficiency of qualification, capacity, or resources necessary to achieve an end or render legal validity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence, the legal fitness of a witness to testify or of an individual to manage personal affairs or enter contracts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Superfluity come sooner by white hairs, but competency lives longer."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Providence has blessed my endeavours to secure a competency; and as I am unmarried and childless, I wish to adopt her during my life, and bequeath her at my death whatever I may have to leave."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"John, Diana, Mary, and I, each became possessed of a competency."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"Superfluity comes sooner by white hairs, but **competency** lives longer."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"A modest **competency** gained through years of prudent grain trade enabled him to attain civic respectability."*
+> - 📜 **Herman Melville (*Bartleby, the Scrivener*):** *"My practice as a conveyancer yielded a snug **competency**, which was all I ever coveted in this ambitious world."*

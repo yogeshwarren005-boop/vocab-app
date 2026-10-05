@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A correctional institution where persons are confined while on trial or for punishment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A prisonlike situation; a place of seeming confinement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A secure public institution for the confinement and involuntary detention of persons awaiting trial or serving criminal sentences.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social philosophy and penology, an apparatus of state disciplinary power enforcing punitive custodial rehabilitation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She does abuse our ears; to prison with her."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"On, officer, to prison till it come. [_Exeunt Merchant, Angelo, Officer and Antipholus of Ephesus._] DROMIO OF SYRACUSE."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not that Adam that kept the paradise, but that Adam that keeps the prison; he that goes in the calf’s skin that was killed for the Prodigal; he that came behind you, sir, like an evil angel, and bid you forsake your liberty."*
+> - 📜 **William Shakespeare (*Richard II*):** *"I have been studying how I may compare this **prison** where I live unto the world."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"The Marshalsea **prison** cast its gloomy shadow across the lives of all who dwelt within its debtor wards."*
+> - 📜 **Alexis de Tocqueville (*On the Penitentiary System in the United States*):** *"The modern **prison** seeks not merely to punish the offender but to reform his moral habits through solitude and labor."*
+

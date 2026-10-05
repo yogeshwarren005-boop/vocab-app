@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rule of personal conduct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A doctrine that is taught.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A general rule, instruction, or principle intended to regulate behaviour or thought.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil procedure and administrative law, a formal written order or warrant issued by a magistrate commanding an officer to act.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have ta’en a due and wary note upon’t; With whispering and most guilty diligence, In action all of precept, he did show me The way twice o’er."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Naturalness, generosity, and forbearance are shown throughout not by precept but by example."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Gresham's "law" becomes thus a practical precept."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"The **precept** of returning good for evil has never been regarded as a case of the fulfillment of justice, but as a higher moral ideal."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"The ancient **precept**, 'Know thyself,' and the modern **precept**, 'Study nature,' become at last one overarching maxim."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Shall the respectable citizen thus teach, by **precept** and example, the necessity of securing superfluous comforts?"*

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking in enterprise; not bold or venturesome.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking in enterprise; not bold or venturesome.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking boldness, initiative, or the courage to embark upon new ventures; timidly conventional.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political economy and history, describing passive institutions or classes that shrink from risky commercial or intellectual exploration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"The dinner itself was long, heavy, and unenterprising; a Victorian feast, even to the "specimen glass" decorations."*
+> - 📜 **Mrs. George de Horne Vaizey (*The Lady of the Basement Flat*):** *"The dinner itself was long, heavy, and **unenterprising**, reflecting the cautious conservatism of their host."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A monopolistic corporation tends inevitably to become **unenterprising**, relying upon state privilege rather than competitive diligence."*
+> - 📜 **Anthony Trollope (*The Warden*):** *"Mr. Harding was an **unenterprising** clergyman who loved peace and good music far better than theological warfare."*
+

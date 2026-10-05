@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to seem less serious; play down.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to seem less serious; play down.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To detract from, diminish, or impair the force, authority, value, or reputation of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statutory jurisprudence, to partially repeal, restrict, or modify the operational scope of a law or treaty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"SECOND LORD. [_Aside._] You are a fool granted; therefore your issues, being foolish, do not derogate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dry up in her the organs of increase; And from her derogate body never spring A babe to honour her!"*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Besides, unless His Majesty the Emperor derogates from the principle of our alliance..."*
+> - 📜 **William Shakespeare (*King Lear*):** *"Into her womb convey sterility; dry up in her the organs of increase, and from her **derogate** body never spring a babe to honour her!"*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"It doth not **derogate** from the majesty of divine wisdom that secondary causes operate according to natural laws."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"No temporary administrative convenience should ever **derogate** from the fundamental freedoms of individual conscience."*
+

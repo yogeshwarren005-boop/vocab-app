@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The musical director of a choir.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The musical director of a choir.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who leads a congregation or choir in singing, especially in a cathedral.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical chapter governance, the cathedral dignitary ranking next to the dean who directs musical liturgy and the choir school.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"It stood on the left as one entered from High Street, and it had the usual high pulpit at its farther end, with a precentor's desk beneath it, and the usual deep gallery supported on metal pillars running round three of its four sides."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"The only persons who had free access to this apartment were the abbot, prior, sub-prior, and precentor."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Here the procession was met by the priest, precentors, and choir, who conducted the brotherhood to the parish church."*
+> - 📜 **Anthony Trollope (*The Warden*):** *"Mr. Harding, as **precentor** of Barchester Cathedral, took supreme delight in the daily chanting of the choral service."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The venerable **precentor** pitched the tune with his tuning fork before leading the congregation into the psalm."*
+> - 📜 **George Eliot (*Scenes of Clerical Life*):** *"The parish **precentor** regarded his bassoon as an indispensable pillar of orthodox Sunday worship in Milby."*

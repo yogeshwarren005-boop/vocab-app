@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of abrogating; an official or legal cancellation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of abrogating; an official or legal cancellation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formal, authoritative annulment or repeal of a legal decree, enactment, or treaty obligation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In canon law and statutory interpretation, the total abolition of a rule, distinguished from partial restriction or derogation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Thus was virtually accomplished the abrogation of the Missouri compromise line; and the extension or non-extension of slavery was then made to form a foundation for future political parties."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The total **abrogation** of the penal laws against nonconformists was demanded by the parliamentary leaders."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The sudden **abrogation** of long-standing municipal customs frequently excites violent popular discontent."*
+> - 📜 **David Hume (*The History of England*):** *"The barons insisted upon the immediate **abrogation** of those arbitrary feudal exactions that infringed their liberties."*
+

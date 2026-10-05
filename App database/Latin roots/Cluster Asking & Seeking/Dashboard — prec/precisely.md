@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Indicating exactness or preciseness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a precise manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a precise manner; exactly, accurately, or strictly speaking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal logical debate, expressing rigorous assent to an exact theoretical proposition without qualification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For full well he knows He cannot so precisely weed this land As his misdoubts present occasion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tell me precisely of what complexion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, precisely, can you carry your good will to the maid?"*
+> - 📜 **William Shakespeare (*All's Well That Ends Well*):** *"Truly, madam, if God have lent a man any manners, he may easily put it off at court: he that cannot make a leg **precisely** is no courtier."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Long experience had so **precisely** taught the animal the difference between calls that he obeyed without hesitation."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"We can see why competition should be most severe between allied forms that fill **precisely** the same place in the economy of nature."*

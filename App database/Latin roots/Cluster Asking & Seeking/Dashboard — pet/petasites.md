@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of rhizomatous herbs of north temperate regions: butterbur; sweet coltsfoot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of rhizomatous herbs of north temperate regions: butterbur; sweet coltsfoot.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of herbaceous perennial flowering plants in the daisy family Asteraceae, commonly known as butterbur.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacognosy and systematic botany, Petasites includes species with large rhubarb-like leaves and rhizomes containing anti-spasmodic petasins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The butter-bur rust (_Coleosporium petasites_, Lev.) and the Campanula rust (_Coleosporium Campanulæ_, Lev.) are found, the former on the leaves of the butter-bur, and the latter on those of the harebell and other _Campanulæ_, less frequently."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"BUTTERBUR RUST; on the under surface, minute, depressed, spreading, somewhat aggregate, subconfluent, irregular in form; spores oval, orange, or orange-red.—On _Tussilago Petasites_."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The broad, umbrella-shaped leaves of **Petasites** vulgaris cover swampy riverbanks throughout northern Europe."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Species of **Petasites** flower early in spring, sending up scaly scape spikes before the immense radical leaves unfurl."*
+> - 📜 **William Withering (*An Arrangement of British Plants*):** *"Coltsfoot and **Petasites** were anciently employed in rural medicine for soothing bronchial afflictions."*

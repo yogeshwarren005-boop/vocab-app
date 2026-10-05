@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Oaks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Oaks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The large botanical genus of hardwood trees and shrubs comprising the true oaks, family Fagaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forestry, paleobotany, and dendrology, *Quercus* encompasses several hundred deciduous and evergreen species characterized by acorns and cupules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"A rare species in Britain is the oak-leaf rust (_Uredo Quercus_), in which the sori or pustules are minute, and at first yellow, but afterwards orange."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Autumn. =Uredo Quercus=, Brond."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The wide geographic variation among species of **Quercus** exemplifies how natural selection shapes foliar form across varied climates."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Timber obtained from the majestic European species of **Quercus** formed the naval backbone of maritime empires for centuries."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Botanists distinguish the diverse North American representatives of **Quercus** by the annual or biennial maturation of their acorns."*

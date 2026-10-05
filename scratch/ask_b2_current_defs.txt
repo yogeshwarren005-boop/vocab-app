@@ -1,0 +1,246 @@
+abrogate (Dashboard — rog)
+  P: Revoke formally.
+  S: Revoke formally.
+abrogation (Dashboard — rog)
+  P: The act of abrogating; an official or legal cancellation.
+  S: The act of abrogating; an official or legal cancellation.
+abrogator (Dashboard — rog)
+  P: An authority or official empowered to abolish or annul or repeal.
+  S: An authority or official empowered to abolish or annul or repeal.
+acrogen (Dashboard — rog)
+  P: Any flowerless plant such as a fern (pteridophyte) or moss (bryophyte) in which growth occurs only at the tip of the main stem.
+  S: Any flowerless plant such as a fern (pteridophyte) or moss (bryophyte) in which growth occurs only at the tip of the main stem.
+acrogenic (Dashboard — rog)
+  P: Pertaining to flowerless plants (ferns or mosses) in which growth occurs only at the tip of the main stem.
+  S: Pertaining to flowerless plants (ferns or mosses) in which growth occurs only at the tip of the main stem.
+acrogenous (Dashboard — rog)
+  P: Pertaining to flowerless plants (ferns or mosses) in which growth occurs only at the tip of the main stem.
+  S: Pertaining to flowerless plants (ferns or mosses) in which growth occurs only at the tip of the main stem.
+anterograde (Dashboard — rog)
+  P: Of amnesia; affecting time immediately following trauma.
+  S: Of amnesia; affecting time immediately following trauma.
+arrogance (Dashboard — rog)
+  P: Overbearing pride evidenced by a superior manner toward inferiors.
+  S: Overbearing pride evidenced by a superior manner toward inferiors.
+arrogant (Dashboard — rog)
+  P: Having or showing feelings of unwarranted importance out of overbearing pride.
+  S: Having or showing feelings of unwarranted importance out of overbearing pride.
+arrogantly (Dashboard — rog)
+  P: In an arrogant manner.
+  S: In an arrogant manner.
+arrogate (Dashboard — rog)
+  P: Demand as being one's due or property; assert one's right or title to.
+  S: Make undue claims to having.
+arrogation (Dashboard — rog)
+  P: Seizure by the government.
+  S: Seizure by the government.
+arrogator (Dashboard — rog)
+  P: A person who through conceit makes pretentious claims to rights or advantages that he or she is not entitled to or to qualities that he or she does not possess.
+  S: A person who through conceit makes pretentious claims to rights or advantages that he or she is not entitled to or to qualities that he or she does not possess.
+derogate (Dashboard — rog)
+  P: Cause to seem less serious; play down.
+  S: Cause to seem less serious; play down.
+derogation (Dashboard — rog)
+  P: A communication that belittles somebody or something.
+  S: (law) the partial taking away of the effectiveness of a law; a partial repeal or abolition of a law.
+derogative (Dashboard — rog)
+  P: Expressive of low opinion.
+  S: Expressive of low opinion.
+derogatory (Dashboard — rog)
+  P: Expressive of low opinion.
+  S: Expressive of low opinion.
+erogenous (Dashboard — rog)
+  P: Sensitive to sexual stimulation.
+  S: Sensitive to sexual stimulation.
+interrogate (Dashboard — rog)
+  P: Transmit (a signal) for setting off an appropriate response, as in telecommunication.
+  S: Pose a series of questions to.
+interrogation (Dashboard — rog)
+  P: A sentence of inquiry that asks for a reply.
+  S: A transmission that will trigger an answering transmission from a transponder.
+interrogative (Dashboard — rog)
+  P: A sentence of inquiry that asks for a reply.
+  S: Some linguists consider interrogative sentences to constitute a mood.
+interrogatively (Dashboard — rog)
+  P: In a questioning format.
+  S: With curiosity.
+interrogator (Dashboard — rog)
+  P: A questioner who is excessively harsh.
+  S: A questioner who is excessively harsh.
+interrogatory (Dashboard — rog)
+  P: Formal systematic questioning.
+  S: Relating to the use of or having the nature of an interrogation.
+prerogative (Dashboard — rog)
+  P: A right reserved exclusively by a particular person or group (especially a hereditary or official right).
+  S: A right reserved exclusively by a particular person or group (especially a hereditary or official right).
+prorogation (Dashboard — rog)
+  P: Discontinuation of the meeting (of a legislative body) without dissolving it.
+  S: Discontinuation of the meeting (of a legislative body) without dissolving it.
+prorogue (Dashboard — rog)
+  P: Hold back to a later time.
+  S: Adjourn by royal prerogative; without dissolving the legislative body.
+rogaine (Dashboard — rog)
+  P: A vasodilator (trade name loniten) used to treat severe hypertension; one side effect is hirsutism so it is also sold (trade name rogaine) as a treatment for male-patterned baldness.
+  S: A vasodilator (trade name loniten) used to treat severe hypertension; one side effect is hirsutism so it is also sold (trade name rogaine) as a treatment for male-patterned baldness.
+rogation (Dashboard — rog)
+  P: A solemn supplication ceremony prescribed by the church.
+  S: A solemn supplication ceremony prescribed by the church.
+rogers (Dashboard — rog)
+  P: United states humorist remembered for his homespun commentary on politics and american society (1879-1935).
+  S: United states dancer and film actress who partnered with fred astaire (1911-1995).
+roget (Dashboard — rog)
+  P: English physician who in retirement compiled a well-known thesaurus (1779-1869).
+  S: English physician who in retirement compiled a well-known thesaurus (1779-1869).
+rogue (Dashboard — rog)
+  P: A deceitful and unreliable scoundrel.
+  S: A deceitful and unreliable scoundrel.
+roguery (Dashboard — rog)
+  P: Reckless or malicious behavior that causes discomfort or annoyance in others.
+  S: Reckless or malicious behavior that causes discomfort or annoyance in others.
+roguish (Dashboard — rog)
+  P: Playful in an appealingly bold way.
+  S: Lacking principles or scruples; ;  - w.m. thackaray.
+roguishly (Dashboard — rog)
+  P: Like a dishonest rogue.
+  S: In a playfully roguish manner.
+roguishness (Dashboard — rog)
+  P: The trait of indulging in disreputable pranks.
+  S: Reckless or malicious behavior that causes discomfort or annoyance in others.
+subrogate (Dashboard — rog)
+  P: Substitute one creditor for another, as in the case where an insurance company sues the person who caused an accident for the insured.
+  S: Substitute one creditor for another, as in the case where an insurance company sues the person who caused an accident for the insured.
+subrogation (Dashboard — rog)
+  P: (law) the act of substituting of one creditor for another.
+  S: (law) the act of substituting of one creditor for another.
+supererogatory (Dashboard — rog)
+  P: More than is needed, desired, or required.
+  S: More than is needed, desired, or required.
+surrogate (Dashboard — rog)
+  P: Someone who takes the place of another person.
+  S: A person appointed to represent or act on behalf of others.
+apprisal (Dashboard — pris)
+  P: Informing by words.
+  S: Informing by words.
+apprise (Dashboard — pris)
+  P: Inform (somebody) of something.
+  S: Make aware of.
+comprise (Dashboard — pris)
+  P: Be composed of.
+  S: Include or contain; have as a component.
+enterprise (Dashboard — pris)
+  P: A purposeful or industrious undertaking (especially one that requires effort or boldness).
+  S: An organization created for business ventures.
+enterpriser (Dashboard — pris)
+  P: Someone who organizes a business venture and assumes the risk for it.
+  S: Someone who organizes a business venture and assumes the risk for it.
+enterprising (Dashboard — pris)
+  P: Marked by imagination, initiative, and readiness to undertake new projects.
+  S: Marked by imagination, initiative, and readiness to undertake new projects.
+enterprisingly (Dashboard — pris)
+  P: In an enterprising manner.
+  S: In an enterprising manner.
+enterprisingness (Dashboard — pris)
+  P: Readiness to embark on bold new ventures.
+  S: Readiness to embark on bold new ventures.
+imprison (Dashboard — pris)
+  P: Lock up or confine, in or as in a jail.
+  S: Confine as if in a prison.
+imprisoned (Dashboard — pris)
+  P: Lock up or confine, in or as in a jail.
+  S: Confine as if in a prison.
+imprisonment (Dashboard — pris)
+  P: Putting someone in prison or in jail as lawful punishment.
+  S: The state of being imprisoned.
+nonenterprising (Dashboard — pris)
+  P: Lacking in enterprise; not bold or venturesome.
+  S: Lacking in enterprise; not bold or venturesome.
+priscoan (Dashboard — pris)
+  P: The earliest eon in the history of the earth from the first accretion of planetary material (around 4,600 million years ago) until the date of the oldest known rocks (about 3,800 million years ago); no evidence of life.
+  S: The earliest eon in the history of the earth from the first accretion of planetary material (around 4,600 million years ago) until the date of the oldest known rocks (about 3,800 million years ago); no evidence of life.
+prise (Dashboard — pris)
+  P: To move or force, especially in an effort to get something open; :.
+  S: Make an uninvited or presumptuous inquiry.
+prism (Dashboard — pris)
+  P: A polyhedron with two congruent and parallel faces (the bases) and whose lateral faces are parallelograms.
+  S: Optical device having a triangular shape and made of glass or quartz; used to deviate a beam or invert an image.
+prismatic (Dashboard — pris)
+  P: Of or relating to or resembling or constituting a prism.
+  S: Exhibiting spectral colors formed by refraction of light through a prism.
+prismatoid (Dashboard — pris)
+  P: A polyhedron whose vertices all lie in one or the other of two parallel planes; the faces that lie in those planes are the bases of the prismatoid.
+  S: A polyhedron whose vertices all lie in one or the other of two parallel planes; the faces that lie in those planes are the bases of the prismatoid.
+prismoid (Dashboard — pris)
+  P: A prismatoid whose bases are polygons having the same number of sides and whose other faces are trapezoids or parallelograms.
+  S: A prismatoid whose bases are polygons having the same number of sides and whose other faces are trapezoids or parallelograms.
+prison (Dashboard — pris)
+  P: A correctional institution where persons are confined while on trial or for punishment.
+  S: A prisonlike situation; a place of seeming confinement.
+prison-breaking (Dashboard — pris)
+  P: An escape from jail.
+  S: An escape from jail.
+prisonbreak (Dashboard — pris)
+  P: An escape from jail.
+  S: An escape from jail.
+prisoner (Dashboard — pris)
+  P: A person who is confined; especially a prisoner of war.
+  S: A person who is confined; especially a prisoner of war.
+prisonlike (Dashboard — pris)
+  P: Resembling a prison.
+  S: Resembling a prison.
+prissily (Dashboard — pris)
+  P: In a prissy manner.
+  S: In a prissy manner.
+prissy (Dashboard — pris)
+  P: Exaggeratedly proper.
+  S: Excessively fastidious and easily disgusted.
+pristidae (Dashboard — pris)
+  P: Large primitive rays with elongated snouts.
+  S: Large primitive rays with elongated snouts.
+pristine (Dashboard — pris)
+  P: Completely free from dirt or contamination.
+  S: Immaculately clean and unused.
+pristis (Dashboard — pris)
+  P: Type genus of the pristidae.
+  S: Type genus of the pristidae.
+reprisal (Dashboard — pris)
+  P: A retaliatory action against an enemy in wartime.
+  S: A retaliatory action against an enemy in wartime.
+reprise (Dashboard — pris)
+  P: Repeat an earlier theme of a composition.
+  S: Repeat an earlier theme of a composition.
+surprisal (Dashboard — pris)
+  P: The act of surprising someone.
+  S: The act of surprising someone.
+surprise (Dashboard — pris)
+  P: The astonishment you feel when something totally unexpected happens to you.
+  S: A sudden unexpected event.
+surprised (Dashboard — pris)
+  P: Cause to be surprised.
+  S: Come upon or take unawares.
+surprisedly (Dashboard — pris)
+  P: In the manner of one who is surprised.
+  S: In the manner of one who is surprised.
+surpriser (Dashboard — pris)
+  P: A captor who uses surprise to capture the victim.
+  S: A captor who uses surprise to capture the victim.
+surprising (Dashboard — pris)
+  P: Cause to be surprised.
+  S: Come upon or take unawares.
+surprisingly (Dashboard — pris)
+  P: In a surprising manner.
+  S: In an amazing manner; to everyone's surprise.
+surprisingness (Dashboard — pris)
+  P: Extraordinariness by virtue of being unexpected.
+  S: Extraordinariness by virtue of being unexpected.
+unenterprising (Dashboard — pris)
+  P: Lacking in enterprise; not bold or venturesome.
+  S: Lacking in enterprise; not bold or venturesome.
+unimprisoned (Dashboard — pris)
+  P: Free from confinement or physical restraint.
+  S: Free from confinement or physical restraint.
+unsurprised (Dashboard — pris)
+  P: Not surprised or expressing surprise.
+  S: Not surprised or expressing surprise.
+unsurprising (Dashboard — pris)
+  P: Not causing surprise.
+  S: Not causing surprise.

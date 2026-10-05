@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a peevish manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a peevish manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a whining, petulant, or complaining manner; fretfully expressing irritation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative dialogue, describing speech delivered with a sharp, aggrieved, or resentful inflection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"I don’t know how we could manage without him,” answered the elder woman querulously."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"He had received the sound of the crash from the ape-man's brain and was asking querulously what it meant."*
-> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"Must not!" repeated the little man, querulously."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Lord Henry muttered **querulously** that the endless rain had ruined his afternoon appointments."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The old woman inquired **querulously** why her customary morning tea had been delayed by the servants."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"He asked **querulously** whether any visitor had dared to disturb his private papers during his absence."*

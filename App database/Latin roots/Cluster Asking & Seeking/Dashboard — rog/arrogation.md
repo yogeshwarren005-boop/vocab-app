@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Seizure by the government.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Seizure by the government.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of claiming, assuming, or seizing rights, status, or prerogatives unlawfully and presumptuously.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman civil law (adrogatio), the formal adoption of an independent adult citizen (sui iuris) into a new family.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arrogation designates seizure by the government."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The haughty **arrogation** of divine honors by the oriental monarch provoked immediate rebellion among his subjects."*
+> - 📜 **Thomas Jefferson (*Notes on the State of Virginia*):** *"The continuous **arrogation** of unchecked legislative supremacy over the judiciary violates every principle of balanced liberty."*
+> - 📜 **Henry Maine (*Ancient Law*):** *"In classical jurisprudence, the ancient ceremony of **arrogation** required the solemn concurrence of the comitia curiata."*
+

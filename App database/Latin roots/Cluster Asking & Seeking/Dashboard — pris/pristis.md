@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the pristidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the pristidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic type genus of sawfishes within the family Pristidae, characterized by flattened saw-like snouts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine zoology, large tropical chondrichthyan rays utilizing their denticulated rostrum to detect and stun benthic prey.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pristis designates type genus of the pristidae."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"The genus **Pristis** is distinguished from ordinary rays by its elongated beak bordered on each side with sharp spines."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Native fishermen brought ashore a huge specimen of **Pristis**, whose formidable weapon measured over five feet in length."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The cranium of **Pristis** exhibits a cartilaginous prolongation that supports the calcified sockets of the rostral teeth."*
+

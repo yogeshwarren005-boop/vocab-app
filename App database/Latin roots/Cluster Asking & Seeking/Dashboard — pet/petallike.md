@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a petal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling a petal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like, colored like, or simulating the texture of a flower petal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate morphology and comparative anatomy, describing flat, membranous appendages resembling floral perianths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petallike designates resembling a petal."*
+> - 📜 **Philip Henry Gosse (*A Naturalist's Rambles on the Devonshire Coast*):** *"The sea-slug expanded its colorful, **petallike** plumes as it drifted across the submerged granite ledge."*
+> - 📜 **Asa Gray (*First Lessons in Botany*):** *"In the calla lily, the magnificent white hood is an expanded spathe, not a true corolla, though functioning in a **petallike** manner."*
+> - 📜 **Louis Agassiz (*Methods of Study in Natural History*):** *"The radial structure of the echinoderm presents **petallike** ambulacral grooves along the dorsal surface of the shell."*

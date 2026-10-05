@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who asks a question.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who asks a question.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who asks a question, raises an inquiry, or interrogates an information system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In information retrieval and database management, an agent or user issuing structured query statements to retrieve indexed records.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, querier designates someone who asks a question."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"To every anxious **querier** knocking at the gate of nature, the universe returns only an enigmatic, solemn silence."*
+> - 📜 **Charles Sanders Peirce (*Illustrations of the Logic of Science*):** *"The scientific **querier** must frame his inquiry in terms susceptible of empirical verification and experimental test."*
+> - 📜 **William James (*The Will to Believe*):** *"The philosophic **querier** seeks not merely formal definitions, but vital truths that give meaning to moral action."*

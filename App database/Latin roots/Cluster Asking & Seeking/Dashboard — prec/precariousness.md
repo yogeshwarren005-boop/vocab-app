@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme dangerousness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being unsettled or in doubt or dependent on chance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme vulnerability, structural instability, or perilous exposure to sudden collapse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In existential philosophy and labor sociology, the systemic vulnerability experienced by subjects lacking material safeguards against catastrophe.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"If I needed anything to perfect the precariousness of my steering, it was just that."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The extreme **precariousness** of employment in seasonal trades justifies a higher customary rate of daily wages."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Gwendolen felt the chilling **precariousness** of her family's social standing once the financial ruin of their investments was confirmed."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The felt **precariousness** of human destiny drives the anxious soul to seek refuge in transcendental certainty."*

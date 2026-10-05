@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With precedent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With precedent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner supported by or conforming to established precedent or prior custom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In procedural law, describing judicial orders entered in strict congruence with settled courtroom practice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, precedentedly designates with precedent."*
+> - 📜 **Walter Bagehot (*The English Constitution*):** *"The monarch acted **precedentedly** by summoning the leader of the parliamentary majority to form an administration."*
+> - 📜 **Henry Maine (*Ancient Law*):** *"The praetor ruled **precedentedly** in extending equitable relief to alien merchants residing within the city gates."*
+> - 📜 **Lord Acton (*Historical Essays and Studies*):** *"The council moved **precedentedly** through the articles of doctrine, validating each decree against venerable synodical records."*

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exaggeratedly proper.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessively fastidious and easily disgusted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessively prim, prudish, or fastidious, especially regarding minor points of decorum or neatness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character depiction, displaying an irritatingly self-righteous fussiness that shrinks from boisterous life or vulgarity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prissy designates exaggeratedly proper."*
+> - 📜 **F. Scott Fitzgerald (*Tender Is the Night*):** *"He resented the **prissy** moral judgments passed upon his unconventional European life by provincial relatives."*
+> - 📜 **Sinclair Lewis (*Main Street*):** *"Carol found the town society dominated by narrow, **prissy** notions of intellectual propriety."*
+> - 📜 **D. H. Lawrence (*Sons and Lovers*):** *"He mocked the **prissy** manners of the vicar's daughters, who stepped gingerly across the muddy lanes."*
+

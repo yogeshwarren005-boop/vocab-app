@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressive of low opinion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressive of low opinion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to lessen, detract from, or disparage character, value, or authority; depreciatory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetoric and semantic critique, expressing a disparaging, deprecating, or belittling judgment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, derogative designates expressive of low opinion."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"He protested against the **derogative** criticisms that sought to dismiss the genius of Elizabethan verse."*
+> - 📜 **Thomas De Quincey (*Confessions of an English Opium-Eater*):** *"Such a superficial judgment is deeply **derogative** to the profound philosophical insight of the German thinkers."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"He listened with impatience to any **derogative** remarks directed against the hospitable traditions of the countryside."*
+

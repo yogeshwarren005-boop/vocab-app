@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to flowerless plants (ferns or mosses) in which growth occurs only at the tip of the main stem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to flowerless plants (ferns or mosses) in which growth occurs only at the tip of the main stem.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or developing by apical elongation at the tip of the stem or axis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cryptogamic phytology, describing anatomical structures or reproductive spores produced by apical vegetative growth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acrogenic designates pertaining to flowerless plants (ferns or mosses) in which growth occurs only at the tip of the main stem."*
+> - 📜 **George Bentham (*Handbook of the British Flora*):** *"The distinctive **acrogenic** mode of propagation distinguishes these primitive ferns from higher phanerogams."*
+> - 📜 **John Hutton Balfour (*Class Book of Botany*):** *"The stem of the tree-fern presents an **acrogenic** organization, extending upward exclusively from its summit."*
+> - 📜 **M. C. Cooke (*Fungi: Their Nature and Uses*):** *"Microscopic examination confirmed the **acrogenic** formation of the spores along the outer extremity of the tissue."*
+

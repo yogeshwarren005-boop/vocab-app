@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conquer anew.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conquer anew.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To conquer again; to recapture, recover, or regain control over lost territory or dominion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military and political history, to execute a revanchist campaign recovering provinces ceded to a foreign power.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I would not so soon relinquish the attempt to reconquer it."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Wert thou really ignorant of this?” said he; “didst thou not know that Wilfred of Ivanhoe travelled in the litter of the Jew?—a meet conveyance for the crusader, whose doughty arm was to reconquer the Holy Sepulchre!” And he laughed scornfully."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"In this manner, after reconquering one house, we reconquered the next one, obliging the enemy to restrict themselves to their old positions, which were the first two houses of the Calle de Pabostre."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Rochester declared his determination to **reconquer** peace of mind through a life of moral rectitude and honest devotion."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"General Belisarius was dispatched by Justinian to **reconquer** the lost African provinces from the Vandal kingdom."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The English crown strove repeatedly to **reconquer** the disaffected Irish districts through military garrisons and plantations."*

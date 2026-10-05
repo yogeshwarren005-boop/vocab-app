@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not exploratory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not exploratory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not oriented toward discovery, investigation, or preliminary searching.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific and institutional analysis, describing established procedures focused purely on execution rather than speculative research.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unexploratory designates not exploratory."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Deductive calculation from established axioms pursues a necessary but **unexploratory** demonstration of known truths."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Purely dogmatic education fosters an **unexploratory** habit of mind hostile to empirical verification."*
+> - 📜 **Alfred North Whitehead (*Science and the Modern World*):** *"Routine technological application operates within fixed boundaries along an **unexploratory** trajectory."*

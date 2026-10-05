@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an inscrutable manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an inscrutable manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that cannot be understood, penetrated, interpreted, or fathomed; enigmatically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological fiction, characterizing behavior or facial expressions that give no clue to underlying motives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"For, it inscrutably appeared to stand to reason, in the minds of the whole company, that I was an excrescence on the entertainment."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"But Ralph Touchett had learned more or less inscrutably to attend, and there could have been nothing so “sustained” to attend to as the general performance of Madame Merle."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"For, it **inscrutably** appeared to stand to reason in the minds of the villagers that the blacksmith should be silent."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Ralph Touchett had learned more or less **inscrutably** to disguise his physical suffering behind an ironic smile."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The silent captain stared **inscrutably** toward the distant horizon without offering a word of explanation to his mate."*

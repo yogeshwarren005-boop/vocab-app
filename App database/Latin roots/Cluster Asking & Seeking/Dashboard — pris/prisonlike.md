@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a prison.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling a prison.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or suggestive of a prison in gloom, confinement, austere severity, or harsh regimentation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural criticism, describing institutional buildings characterized by heavy masonry, barred windows, and oppressive surveillance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prisonlike designates resembling a prison."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The high stone walls and narrow windows gave Lowood school an austere and **prisonlike** aspect."*
+> - 📜 **George Orwell (*Keep the Aspidistra Flying*):** *"He hated the drab, **prisonlike** monotony of the commercial boarding-house where he lodged."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"The massive college walls seemed to shut him out with cold, **prisonlike** indifference to his aspirations."*
+

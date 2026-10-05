@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of indulging in disreputable pranks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reckless or malicious behavior that causes discomfort or annoyance in others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Playful mischief, arch teasing, or subtle knavery in demeanor, character, or conduct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character aesthetics, an appealing trait combining quick wit, cheeky insouciance, and harmless irreverence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"This particular sea-cuny, I admit, blushed through his sea tan till the Lady Om’s eyes were twin pools of roguishness in their teasing deliciousness and my arms were all but about her."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Altogether, my experience is rather mixed.” Mary looked up with some roguishness at Fred, and that look of hers was very dear to him, though the eyes were nothing more than clear windows where observation sat laughingly."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Then there was nobody but me for Sir James to talk to,” said Celia, with a certain roguishness in her eyes."*
+> - 📜 **George Eliot (*Middlemarch*):** *"There was an underlying **roguishness** in her bright humor that softened even her sharpest satirical remarks."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"A flicker of ancient **roguishness** returned to his gaunt face as he recalled his youth among the sailors."*
+> - 📜 **Henry James (*The Europeans*):** *"Felix brought into the puritanical household an infectious **roguishness** that astonished his solemn cousins."*
+

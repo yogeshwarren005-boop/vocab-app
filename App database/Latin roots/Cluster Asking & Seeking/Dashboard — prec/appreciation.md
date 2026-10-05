@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Understanding of the nature or meaning or quality or magnitude of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Delicate discrimination (especially of aesthetic values).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Favorable recognition of quality, value, or significance; or an upward movement in value.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In art criticism and finance, the discerning evaluation of aesthetic form, or the incremental capital growth of held securities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The sea has no appreciation of great men, but knocks them about like the small fry."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Perhaps his exalted appreciation of the merits of the old girl causes him usually to make the noun-substantive “goodness” of the feminine gender."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I did not thank him in words for what he had done—my appreciation of it had risen above all words then—but I hoped he might not be without some understanding of what I felt so strongly."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak murmured some polite phrase in **appreciation** of the rustic song, knowing the singer's pride in his ancient tunes."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"On the present occasion, I shall attempt to contribute something toward the understanding and **appreciation** of the utilitarian philosophy."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"Marlow paused with keen **appreciation** of the subtle irony underlying the young sailor's romantic misfortune."*

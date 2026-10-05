@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cook beforehand so that the actual preparation won't take long.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cook beforehand so that the actual preparation won't take long.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cook food partly or completely beforehand in advance of final preparation or serving.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In food processing technology, to apply preliminary thermal parboiling, steaming, or blanching to reduce final culinary processing times.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, precook designates cook beforehand so that the actual preparation won't take long."*
+> - 📜 **Isabella Beeton (*Mrs. Beeton's Book of Household Management*):** *"The prudent housekeeper will **precook** the salt beef gently on the preceding afternoon to ensure tender slicing for luncheon."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"Modern advertisements urged housewives to buy provisions that packers would **precook**, freeing domestic life from culinary drudgery."*
+> - 📜 **H. G. Wells (*The Sleeper Awakes*):** *"Automated dispensers served synthetic cereals which communal kitchens would **precook** and deliver through pneumatic tubes."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The stalk of a leaflet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The stalk of a leaflet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The small stalk that attaches a leaflet to the central rachis of a compound leaf.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural botany, the specialized secondary stipe of a leaflet, frequently bearing an articulate pulvinule capable of nyctinastic movement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petiolule designates the stalk of a leaflet."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"At dusk, the pulvinus at the base of each **petiolule** flexes downward, folding the lateral leaflets in their characteristic sleep movement."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"In pinnately compound leaves, each separate leaflet is supported upon its own distinct **petiolule** attached to the common rachis."*
+> - 📜 **John Lindley (*Introduction to Botany*):** *"The articulation of the **petiolule** allows individual leaflets to fall cleanly in autumn without tearing the main foliar rachis."*

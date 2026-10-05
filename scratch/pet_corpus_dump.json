@@ -1,0 +1,2701 @@
+{
+  "appetence": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "A longing; a desire; especially an ardent desire; appetite; appetency."
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "a feeling of craving something; ; - Granville Hicks"
+      }
+    ],
+    "quotes": []
+  },
+  "appetency": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "1. Fixed and strong desire; esp. natural desire; a craving; an eager appetite. They had a strong appetency for reading. Merivale. 2. Specifically: An instinctive inclination or propensity in animals to perform certain actions, as in the young to suck, in aquatic fowls to enter into water and to swim; the tendency of an organized body to seek what satisfies the wants of its organism. These lacteals have mouths, and by animal selection or appetency the absorb such part of the fluid as is agreeable to their palate. E. Darwin. 3. Natural tendency; affinity; attraction; -- used of inanimate objects."
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "a feeling of craving something; ; - Granville Hicks"
+      }
+    ],
+    "quotes": []
+  },
+  "appetent": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "Desiring; eagerly desirous. [R.] Appetent after glory and renown. Sir G. Buck."
+      },
+      {
+        "source": "wordnet_s",
+        "definition": "marked by eager desire"
+      }
+    ],
+    "quotes": []
+  },
+  "appetiser": {
+    "definitions": [
+      {
+        "source": "wordnet_n",
+        "definition": "food or drink to stimulate the appetite (usually served before a meal or as the first course)"
+      }
+    ],
+    "quotes": []
+  },
+  "appetising": {
+    "definitions": [
+      {
+        "source": "wordnet_a",
+        "definition": "appealing to or stimulating the appetite especially in appearance or aroma"
+      }
+    ],
+    "quotes": []
+  },
+  "appetisingness": {
+    "definitions": [
+      {
+        "source": "wordnet_n",
+        "definition": "the property of stimulating the appetite"
+      }
+    ],
+    "quotes": []
+  },
+  "appetite": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "1. The desire for some personal gratification, either of the body or of the mind. The object of appetite it whatsoever sensible good may be wished for; the object of will is that good which reason does lead us to seek. Hooker. 2. Desire for, or relish of, food or drink; hunger. Men must have appetite before they will eat. Buckle. 3. Any strong desire; an eagerness or longing. It God had given to eagles an appetite to swim. Jer. Taylor. To gratify the vulgar appetite for the marvelous. Macaulay. 4. Tendency; appetency. [Obs.] In all bodies there as an appetite of union. Bacon. 5. The thing desired. [Obs.] Power being the natural appetite of princes. Swift. Note: In old authors, appetite is followed by to or of, but regularly it should be followed by for before the object; as, an appetite for pleasure. Syn. -- Craving; longing; desire; appetency; passion."
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "a feeling of craving something; ; - Granville Hicks"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "I am weak with toil, yet strong in appetite."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "The “appetite for joy” which pervades all creation, that tremendous force which sways humanity to its purpose, as the tide sways the helpless weed, was not to be controlled by vague lucubrations over the social rubric."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "A woman dictates before marriage in order that she may have an appetite for submission afterwards."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "The world globes itself in a drop of dew.[105] The microscope cannot find the animalcule which is less perfect for being little.[106] Eyes, ears, taste, smell, motion, resistance, appetite, and organs of reproduction that take hold on eternity,--all find room to consist in the small creature."
+      }
+    ]
+  },
+  "appetitive": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "Having the quality of desiring gratification; as, appetitive power or faculty. Sir M. Hale."
+      },
+      {
+        "source": "wordnet_a",
+        "definition": "of or relating to appetite"
+      }
+    ],
+    "quotes": []
+  },
+  "appetizer": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "Something which creates or whets an appetite."
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "food or drink to stimulate the appetite (usually served before a meal or as the first course)"
+      }
+    ],
+    "quotes": []
+  },
+  "appetizing": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "Exciting appetite; as, appetizing food. The appearance of the wild ducks is very appetizing. Sir W. Scott.\n\nSo as to excite appetite."
+      },
+      {
+        "source": "wordnet_a",
+        "definition": "appealing to or stimulating the appetite especially in appearance or aroma"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "His gourmandism was a highly agreeable trait; and to hear him talk of roast meat was as appetizing as a pickle or an oyster."
+      }
+    ]
+  },
+  "appetizingness": {
+    "definitions": [
+      {
+        "source": "wordnet_n",
+        "definition": "the property of stimulating the appetite"
+      }
+    ],
+    "quotes": []
+  },
+  "centripetal": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "1. Tending, or causing, to approach the center. 2. (Bot.) (a) Expanding first at the base of the inflorescence, and proceeding in order towards the summit. (b) Having the radicle turned toward the axis of the fruit, as some embryos. 3. Progressing by changes from the exterior of a thing toward its center; as, the centripetal calcification of a bone. R. Owen. Centripetal force (Mech.), a force whose direction is towards a center, as in case of a planet revolving round the sun, the center of the system, See Centrifugal force, under Centrifugal. -- Centripetal impression (Physiol.), an impression (sensory) transmitted by an afferent nerve from the exterior of the body inwards, to the central organ."
+      },
+      {
+        "source": "wordnet_a",
+        "definition": "tending to move toward a center"
+      },
+      {
+        "source": "wordnet_s",
+        "definition": "tending to unify"
+      },
+      {
+        "source": "wordnet_s",
+        "definition": "of a nerve fiber or impulse originating outside and passing toward the central nervous system"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "[Footnote 515: Centrifugal, centripetal."
+      },
+      {
+        "author": "Bram Stoker",
+        "work": "Dracula",
+        "sentence": "What I think of on this point is, when self is the fixed point the centripetal force is balanced with the centrifugal; when duty, a cause, etc., is the fixed point, the latter force is paramount, and only accident or a series of accidents can balance it."
+      },
+      {
+        "author": "Walt Whitman",
+        "work": "Leaves of Grass",
+        "sentence": "One of that centripetal and centrifugal gang I turn and talk like man leaving charges before a journey."
+      }
+    ]
+  },
+  "compete": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "To contend emulously; to seek or strive for the same thing, position, or reward for which another is striving; to contend in rivalry, as for a prize or in business; as, tradesmen compete with one another. The rival statesmen, with eyes fixed on America, were all the while competing for European alliances. Bancroft."
+      },
+      {
+        "source": "wordnet_v",
+        "definition": "compete for something; engage in a contest; measure oneself against others"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "A set of animals, with their organisation but little diversified, could hardly compete with a set more perfectly diversified in structure."
+      },
+      {
+        "author": "James Joyce",
+        "work": "Dubliners",
+        "sentence": "To compete with phrasemongers, incapable of thinking consecutively for sixty seconds?"
+      },
+      {
+        "author": "Walt Whitman",
+        "work": "Leaves of Grass",
+        "sentence": "Beware and arouse!) I'll pour the verse with streams of blood, full of volition, full of joy, Then loosen, launch forth, to go and compete, With the banner and pennant a-flapping."
+      }
+    ]
+  },
+  "competence": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "1. The state of being competent; fitness; ability; adequacy; power. The loan demonstrates, in regard to instrumental resources, the competency of this kingdom to the assertion of the common cause. Burke. To make them act zealously is not in the competence of law. Burke. 2. Property or means sufficient for the necessaries and conveniences of life; sifficiency without excess. Reason's whole pleasure, all the joys of sense, Lie in three words -- health, peace, and competence. Pope. Superfluity comes sooner by white hairs, but competency lives longer. Shak. 3. (Law) (a) Legal capacity or qualifications; fitness; as, the competency of a witness or of a evidence. (b) Right or authority; legal power or capacity to take cognizance of a cause; as, the competence of a judge or court. Kent."
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "the quality of being adequately or well qualified physically and intellectually"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "For competence of life I will allow you, That lack of means enforce you not to evils."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Casaubon had been slow and hesitating, oppressed in the plan of transmitting his work, as he had been in executing it, by the sense of moving heavily in a dim and clogging medium: distrust of Dorothea’s competence to arrange what he had prepared was subdued only by distrust of any other redactor."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "He was a patentee of the Openshaw unbreakable tire, and his business met with such success that he was able to sell it and to retire upon a handsome competence."
+      },
+      {
+        "author": "Thomas Henry Huxley",
+        "work": "Evolution and Ethics",
+        "sentence": "Behold the schools in which plebeian minds, Once simple, are initiated in arts Which some may practise with politer grace, But none with readier skill! 'Tis here they learn The road that leads from competence and peace To indigence and rapine; till at last Society, grown weary of the load, Shakes her encumbered lap, and casts them out."
+      },
+      {
+        "author": "Jane Austen",
+        "work": "Sense and Sensibility",
+        "sentence": "Beyond a competence, it can afford no real satisfaction, as far as mere self is concerned."
+      }
+    ]
+  },
+  "competency": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "1. The state of being competent; fitness; ability; adequacy; power. The loan demonstrates, in regard to instrumental resources, the competency of this kingdom to the assertion of the common cause. Burke. To make them act zealously is not in the competence of law. Burke. 2. Property or means sufficient for the necessaries and conveniences of life; sifficiency without excess. Reason's whole pleasure, all the joys of sense, Lie in three words -- health, peace, and competence. Pope. Superfluity comes sooner by white hairs, but competency lives longer. Shak. 3. (Law) (a) Legal capacity or qualifications; fitness; as, the competency of a witness or of a evidence. (b) Right or authority; legal power or capacity to take cognizance of a cause; as, the competence of a judge or court. Kent."
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "the quality of being adequately or well qualified physically and intellectually"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Superfluity come sooner by white hairs, but competency lives longer."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "Farming, either in the Colonies, America, or at home—farming, at any rate, after becoming well qualified for the business by a careful apprenticeship—that was a vocation which would probably afford an independence without the sacrifice of what he valued even more than a competency—intellectual liberty."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "Hadst thou taken this old blacksmith to thyself ere his full ruin came upon him, then had the young widow had a delicious grief, and her orphans a truly venerable, legendary sire to dream of in their after years; and all of them a care-killing competency."
+      }
+    ]
+  },
+  "competent": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "1. Answering to all requirements; adeqouate; sufficient; suitable; capable; legally qualified; fit. \"A competent knowledge of the world.\" Arrerbury. \"Competent age.\" Grafton. \"Competent statesmen.\" Palfrey. /\"A competent witness.\" Bouvier. 2. Rightfully or properly belonging; incident; -- followed by to. [Rare, except in legal usage.] That is the privillege of the infinite Author of things, . . . but is not competent to any finite being. Locke. Syn. -- See Qualified."
+      },
+      {
+        "source": "wordnet_a",
+        "definition": "properly or sufficiently qualified or capable or efficient"
+      },
+      {
+        "source": "wordnet_s",
+        "definition": "adequate for the purpose"
+      },
+      {
+        "source": "wordnet_a",
+        "definition": "legally qualified or sufficient"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "His indignation derives itself out of a very competent injury; therefore, get you on and give him his desire."
+      },
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "Il n'est donc pas étonnant que le philologue arrive à se croire juge compétent dans le domaine du goût; malheureusement il y réussit rarement."
+      },
+      {
+        "author": "John Stuart Mill",
+        "work": "Utilitarianism",
+        "sentence": "From this verdict of the only competent judges, I apprehend there can be no appeal."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "Other highly competent judges, as Lyell and the late E."
+      },
+      {
+        "author": "Francis Bacon",
+        "work": "The Essays",
+        "sentence": "There, if any of the family be distressed or decayed, order is taken for their relief and competent means to live."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "Hussey entirely competent to attend to all his affairs."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "Meanwhile, they shall be at the command of any gentleman, inclined and competent, to take the unprofitable labour off my hands."
+      },
+      {
+        "author": "Thomas Henry Huxley",
+        "work": "Evolution and Ethics",
+        "sentence": "Then compromise had place, and scrutiny Became stone-blind, precedence went in truck, And he was competent whose purse was so."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "With your branch of the subject, on which alone you are competent to speak, I should not think of interfering."
+      },
+      {
+        "author": "Jonathan Swift",
+        "work": "Gulliver's Travels",
+        "sentence": "But being of an excellent understanding, much improved by contemplation and converse, he at last arrived at a competent knowledge of what human nature, in our parts of the world, is capable to perform, and desired I would give him some particular account of that land which we call Europe, but especially of my own country."
+      },
+      {
+        "author": "Mary Shelley",
+        "work": "Frankenstein",
+        "sentence": "You are younger; yet I do not suppose, possessed as you are of a competent fortune, that an early marriage would at all interfere with any future plans of honour and utility that you may have formed."
+      },
+      {
+        "author": "Jane Austen",
+        "work": "Emma",
+        "sentence": "John Knightley, their five children, and a competent number of nursery-maids, all reaching Hartfield in safety."
+      }
+    ]
+  },
+  "competently": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "In a competent manner; adequately; suitably."
+      },
+      {
+        "source": "wordnet_r",
+        "definition": "with competence; in a competent capable manner"
+      }
+    ],
+    "quotes": []
+  },
+  "competition": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "The act of seeking, or endevearing to gain, what another is endeavoring to gain at the same time; common strife for the same objects; strife for superiority; emulous contest; rivalry, as for approbation, for a prize, or as where two or more persons are engaged in the same business and each seeking patronage; -- followed by for before the object sought, and with before the person or thing competed with. Competition to the crown there is none, nor can be. Bacon. A portrait, with which one of Titian's could not come in competititon. Dryden. There is no competition but for the second place. Dryden. Where competition does not act at all there is complete monopoly. A. T. Hadley. Syn. -- Emulation; rivalry; rivalship; contest; struggle; contention; opposition; jealousy. See Emulation."
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "a business relation in which two parties compete to gain customers"
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "an occasion on which a winner is selected from among two or more contestants"
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "the act of competing as for profit or a prize"
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "the contestant you hope to defeat"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "John Stuart Mill",
+        "work": "Utilitarianism",
+        "sentence": "Thus, a person is said to have a right to what he can earn in fair professional competition; because society ought not to allow any other person to hinder him from endeavouring to earn in that manner as much as he can."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "Extinction follows chiefly from the competition of tribe with tribe, and race with race."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "Now, it is a fact, gentlemen, as you may see for yourselves, that my hair is of a very full and rich tint, so that it seemed to me that if there was to be any competition in the matter I stood as good a chance as any man that I had ever met."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "The competition is transferred from war to politics and trade, but the personal force appears readily enough in these new arenas."
+      },
+      {
+        "author": "Joseph Conrad",
+        "work": "Heart of Darkness",
+        "sentence": "I gathered in snatches that this was some man supposed to be in Kurtz’s district, and of whom the manager did not approve. ‘We will not be free from unfair competition till one of these fellows is hanged for an example,’ he said. ‘Certainly,’ grunted the other; ‘get him hanged!"
+      },
+      {
+        "author": "James Joyce",
+        "work": "Dubliners",
+        "sentence": "But perhaps it was only the result of living in London amid the bustle and competition of the Press."
+      },
+      {
+        "author": "H. G. Wells",
+        "work": "The War of the Worlds",
+        "sentence": "Only that known popularly as the red weed, however, gained any footing in competition with terrestrial forms."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "As to Charley’s legs, if they were only a pair (which they ain’t), they’d defy competition."
+      }
+    ]
+  },
+  "competitive": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "Of or pertaining to competition; producing competition; competitory; as, a competitive examination."
+      },
+      {
+        "source": "wordnet_a",
+        "definition": "involving competition or competitiveness"
+      },
+      {
+        "source": "wordnet_s",
+        "definition": "subscribing to capitalistic competition"
+      },
+      {
+        "source": "wordnet_s",
+        "definition": "showing a fighting disposition"
+      }
+    ],
+    "quotes": []
+  },
+  "competitively": {
+    "definitions": [
+      {
+        "source": "wordnet_r",
+        "definition": "in competition"
+      }
+    ],
+    "quotes": []
+  },
+  "competitiveness": {
+    "definitions": [
+      {
+        "source": "wordnet_n",
+        "definition": "an aggressive willingness to compete"
+      }
+    ],
+    "quotes": []
+  },
+  "competitor": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "1. One who seeks what another seeks, or claims what another claims; one who competes; a rival. And can not brook competitors in love. Shak. 2. An associate; a confederate. [Obs.] Every hour more competitors Flock to their aid, and still their power increaseth. Shak."
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "the contestant you hope to defeat"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "You may see, Lepidus, and henceforth know, It is not Caesar’s natural vice to hate Our great competitor."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "This depends, not on a struggle for existence, but on a struggle between the males for possession of the females; the result is not death to the unsuccessful competitor, but few or no offspring."
+      },
+      {
+        "author": "H. G. Wells",
+        "work": "The War of the Worlds",
+        "sentence": "He made a wide curve to avoid me, as though he feared I might prove a fresh competitor."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "‘So my son took, of his own will, and on no compulsion, to the course in which he can always, when it is his pleasure, outstrip every competitor,’ she pursued. ‘My son informs me, Mr."
+      }
+    ]
+  },
+  "competitory": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "Acting in competition; competing; rival."
+      },
+      {
+        "source": "wordnet_a",
+        "definition": "involving competition or competitiveness"
+      }
+    ],
+    "quotes": []
+  },
+  "impetiginous": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "Of the nature of, or pertaining to, impetigo."
+      },
+      {
+        "source": "wordnet_a",
+        "definition": "of or relating to or having impetigo"
+      }
+    ],
+    "quotes": []
+  },
+  "impetigo": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "A cutaneous, pustular eruption, not attended with fever; usually, a kind of eczema with pustulation."
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "a very contagious infection of the skin; common in children; localized redness develops into small blisters that gradually crust and erode"
+      }
+    ],
+    "quotes": []
+  },
+  "impetuosity": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "1. The condition or quality of being impetuous; fury; violence. 2. Vehemence, or furiousnes of temper. Shak."
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "rash impulsiveness"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "But, sir, I will deliver his challenge by word of mouth, set upon Aguecheek notable report of valour, and drive the gentleman (as I know his youth will aptly receive it) into a most hideous opinion of his rage, skill, fury, and impetuosity."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "And then, between jealousy and distraction, I married him!” she whispered with desperate impetuosity."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "He’s a cursed white-blooded pedantic coxcomb,” said Will, with gnashing impetuosity."
+      },
+      {
+        "author": "Bram Stoker",
+        "work": "Dracula",
+        "sentence": "Jonathan’s impetuosity, and the manifest singleness of his purpose, seemed to overawe those in front of him; instinctively they cowered, aside and let him pass."
+      }
+    ]
+  },
+  "impetuous": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "1. Rushing with force and violence; moving with impetus; furious; forcible; violent; as, an impetuous wind; an impetuous torrent. Went pouring forward with impetuous speed. Byron. 2. Vehement in feeling; hasty; passionate; violent; as, a man of impetuous temper. The people, on their holidays, Impetuous, insolent, unquenchable. Milton. Syn. -- Forcible; rapid; hasty; precipitate; furious; boisterous; violent; raging; fierce; passionate. -- Im*pet\"u*ous*ly, adv. -- Im*pet\"u*ous*ness, n."
+      },
+      {
+        "source": "wordnet_s",
+        "definition": "characterized by undue haste and lack of thought or deliberation; ; ; ; ; (`brainish' is archaic)"
+      },
+      {
+        "source": "wordnet_s",
+        "definition": "marked by violent force"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "The ocean, overpeering of his list, Eats not the flats with more impetuous haste Than young Laertes, in a riotous head, O’erbears your offices."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "Surely,” he began again, in more impetuous tones, and then looked round at the labourer who turned the slicer."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Brooke’s impetuous reason, and thinking of the book only."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "She is impetuous—volcanic, I was about to say."
+      },
+      {
+        "author": "James Joyce",
+        "work": "Dubliners",
+        "sentence": "Perhaps she had felt the impetuous desire that was in him, and then the yielding mood had come upon her."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "The conservatory doors were standing open, and Rosa Dartle was walking, bareheaded, with a quick, impetuous step, up and down a gravel walk on one side of the lawn."
+      },
+      {
+        "author": "Mary Shelley",
+        "work": "Frankenstein",
+        "sentence": "Ruined castles hanging on the precipices of piny mountains, the impetuous Arve, and cottages every here and there peeping forth from among the trees formed a scene of singular beauty."
+      },
+      {
+        "author": "Jane Austen",
+        "work": "Sense and Sensibility",
+        "sentence": "Her narration was clear and simple; and though it could not be given without emotion, it was not accompanied by violent agitation, nor impetuous grief.--THAT belonged rather to the hearer, for Marianne listened with horror, and cried excessively."
+      },
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Ball and the Cross",
+        "sentence": "Turnbull was more impetuous, and opened the door."
+      },
+      {
+        "author": "John Milton",
+        "work": "Paradise Lost",
+        "sentence": "On a sudden open fly, With impetuous recoil and jarring sound, Th' infernal doors, and on their hinges grate Harsh thunder, that the lowest bottom shook Of Erebus."
+      }
+    ]
+  },
+  "impetuously": {
+    "definitions": [
+      {
+        "source": "wordnet_r",
+        "definition": "in an impulsive or impetuous way; without taking cautions"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "Get up his strength!” said Tess impetuously, the tears welling to her eyes."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "At last he turned towards her and said impetuously—"
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "Man my boat!” cried Ahab, impetuously, and tossing about the oars near him—“Stand by to lower!"
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "Never pausing for an answer to anything he said, Traddles, who had clapped me into an easy-chair by the fire, all this time impetuously stirred the fire with one hand, and pulled at my neck-kerchief with the other, under some wild delusion that it was a great-coat."
+      }
+    ]
+  },
+  "impetuousness": {
+    "definitions": [
+      {
+        "source": "wordnet_n",
+        "definition": "rash impulsiveness"
+      }
+    ],
+    "quotes": []
+  },
+  "impetus": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "1. A property possessed by a moving body in virtue of its weight and its motion; the force with which any body is driven or impelled; momentum. Note: Momentum is the technical term, impetus its popular equivalent, yet differing from it as applied commonly to bodies moving or moved suddenly or violently, and indicating the origin and intensity of the motion, rather than its quantity or effectiveness. 2. Fig.: Impulse; incentive; vigor; force. Buckle. 3. (Gun.)  The aititude through which a heavy body must fall to acquire a velocity equal to that with which a ball is discharged from a piece."
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "a force that moves something along"
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "the act of applying force suddenly"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "The impetus with which inclination became resolution was heightened by those little events of the day which had roused her discontent with the actual conditions of her life."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "The aorta of a whale is larger in the bore than the main pipe of the water-works at London Bridge, and the water roaring in its passage through that pipe is inferior in impetus and velocity to the blood gushing from the whale’s heart.” —_Paley’s Theology_."
+      },
+      {
+        "author": "H. G. Wells",
+        "work": "The Time Machine",
+        "sentence": "Even this artistic impetus would at last die away—had almost died in the Time I saw."
+      },
+      {
+        "author": "William James",
+        "work": "Pragmatism",
+        "sentence": "S.'s sarcasm inspired him with a splenetic feeling; and as he durst not chastise her, the animal received the benefit of her impetus."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "All I would say is, that I can go abroad without your family coming forward to favour me,--in short, with a parting Shove of their cold shoulders; and that, upon the whole, I would rather leave England with such impetus as I possess, than derive any acceleration of it from that quarter."
+      },
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Ball and the Cross",
+        "sentence": "Then MacIan finally awoke, and leaving half his sleeve in the grip of the only man who tried to hold him, took the two policemen in the small of their backs with the impetus of a cannon-ball and, sending them also flat among the stones, went tearing after his twin defier of the law."
+      }
+    ]
+  },
+  "incompetence": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "1. The quality or state of being incompetent; want of physical, intellectual, or moral ability; insufficiency; inadequacy; as, the incompetency of a child hard labor, or of an idiot for intellectual efforts. \"Some inherent incompetency.\" Gladstone. 2. (Law)  Want of competency or legal fitness; incapacity; disqualification, as of a person to be heard as a witness, or to act as a juror, or of a judge to try a cause. Syn. -- Inability; insufficiency; inadequacy; disqualification; incapability; unfitness."
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "lack of physical or intellectual ability or qualifications"
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "inability of a part or organ to function properly"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "George Eliot",
+        "work": "Silas Marner",
+        "sentence": "Macey, in deep disgust at the farrier’s crass incompetence to apprehend the conditions of ghostly phenomena."
+      }
+    ]
+  },
+  "incompetency": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "1. The quality or state of being incompetent; want of physical, intellectual, or moral ability; insufficiency; inadequacy; as, the incompetency of a child hard labor, or of an idiot for intellectual efforts. \"Some inherent incompetency.\" Gladstone. 2. (Law)  Want of competency or legal fitness; incapacity; disqualification, as of a person to be heard as a witness, or to act as a juror, or of a judge to try a cause. Syn. -- Inability; insufficiency; inadequacy; disqualification; incapability; unfitness."
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "lack of physical or intellectual ability or qualifications"
+      }
+    ],
+    "quotes": []
+  },
+  "incompetent": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "1. Not competent; wanting in adequate strength, power, capacity, means, qualifications, or the like; incapable; unable; inadequate; unfit. Incompetent to perform the duties of the place. Macaulay. 2. (Law)  Wanting the legal or constitutional qualifications; inadmissible; as, a person professedly wanting in religious belief is an incompetent witness in a court of law or equity; incompetent evidence. Richard III. had a resolution, out of hatred to his brethren, to disable their issues, upon false and incompetent pretexts, the one of attainder, the other of illegitimation. Bacon. 3. Not lying within one's competency, capacity, or authorized power; not permissible. Syn. -- Incapable; unable; inadequate; insufficient; inefficient; disqualified; unfit; improper. -- Incompetent, Incapable. Incompetent is a relative term, denoting a want of the requisite qualifications for performing a given act, service, etc.; incapable is absolute in its meaning, denoting want of power, either natural or moral. We speak of a man as incompetent to a certain task, of an incompetent judge, etc. We say of an idiot that he is incapable of learning to read; and of a man distinguished for his honor, that he is incapable of a mean action."
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "someone who is not competent to take effective action"
+      },
+      {
+        "source": "wordnet_a",
+        "definition": "legally not qualified or sufficient"
+      },
+      {
+        "source": "wordnet_a",
+        "definition": "not qualified or suited for a purpose"
+      },
+      {
+        "source": "wordnet_s",
+        "definition": "showing lack of skill or aptitude"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "In my opinion,” said Lydgate, “legal training only makes a man more incompetent in questions that require knowledge of another kind."
+      },
+      {
+        "author": "Oscar Wilde",
+        "work": "The Picture of Dorian Gray",
+        "sentence": "She seemed to them to be absolutely incompetent."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "The misfortune is that his conclusions have been employed by persons incompetent to appreciate their foundation, as arguments in favour of obscurantism. (80."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "It may well be conceived, what an unsavory odor such a mass must exhale; worse than an Assyrian city in the plague, when the living are incompetent to bury the departed."
+      }
+    ]
+  },
+  "incompetently": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "In an competent manner; inadequately; unsuitably."
+      },
+      {
+        "source": "wordnet_r",
+        "definition": "in an incompetent manner"
+      }
+    ],
+    "quotes": []
+  },
+  "noncompetitive": {
+    "definitions": [
+      {
+        "source": "wordnet_a",
+        "definition": "not involving competition or competitiveness"
+      }
+    ],
+    "quotes": []
+  },
+  "noncompetitively": {
+    "definitions": [
+      {
+        "source": "wordnet_r",
+        "definition": "in a noncompetitive manner"
+      }
+    ],
+    "quotes": []
+  },
+  "nonrepetitive": {
+    "definitions": [
+      {
+        "source": "wordnet_a",
+        "definition": "marked by the absence of repetition"
+      }
+    ],
+    "quotes": []
+  },
+  "perpetrate": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "To do or perform; to carry through; to execute, commonly in a bad sense; to commit (as a crime, an offense); to be guilty of; as, to perpetrate a foul deed. What the worst perpetrate, or best endure. Young."
+      },
+      {
+        "source": "wordnet_v",
+        "definition": "perform an act, usually with a negative connotation"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Honest men and gentlemen, if they don’t want the company of people who perpetrate such acts, have got to defend themselves as they best can, and that is what I and the friends whom I may call my clients in this affair are determined to do."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "After her return to the prison, Hester Prynne was found to be in a state of nervous excitement, that demanded constant watchfulness, lest she should perpetrate violence on herself, or do some half-frenzied mischief to the poor babe."
+      },
+      {
+        "author": "Mary Shelley",
+        "work": "Frankenstein",
+        "sentence": "I had been the author of unalterable evils, and I lived in daily fear lest the monster whom I had created should perpetrate some new wickedness."
+      }
+    ]
+  },
+  "perpetration": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "1. The act of perpetrating; a doing; -- commonly used of doing something wrong, as a crime. 2. The thing perpetrated; an evil action."
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "the act of committing a crime"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "But for my aid his life would have burned away in torments within the first two years after the perpetration of his crime and thine."
+      }
+    ]
+  },
+  "perpetrator": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "One who perpetrates; esp., one who commits an offense or crime."
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "someone who perpetrates wrongdoing"
+      }
+    ],
+    "quotes": []
+  },
+  "perpetual": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "Neverceasing; continuing forever or for an unlimited time; unfailing; everlasting; continuous. Unto the kingdom of perpetual night. Shak. Perpetual feast of nectared sweets. Milton. Circle of perpetual apparition, or occultation. See under Circle. -- Perpetual calendar, a calendar so devised that it may be adjusted for any month or year. -- Perpetual curacy (Ch. of Eng.), a curacy in which all the tithes are appropriated, and no vicarage is endowed. Blackstone. -- Perpetual motion. See under Motion. -- Perpetual screw. See Endless screw, under Screw. Syn. -- Continual; unceasing; endless; everlasting; incessant; constant; eternal. See Constant."
+      },
+      {
+        "source": "wordnet_s",
+        "definition": "continuing forever or indefinitely"
+      },
+      {
+        "source": "wordnet_s",
+        "definition": "uninterrupted in time and indefinitely long continuing"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "This act will be My fame and thy perpetual infamy.’"
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "But Tess’s desire seemed to be for a perpetual betrothal in which everything should remain as it was then."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "And she is not in the least evangelical,” said Rosamond, reflectively, as if that religious point of view would have fully accounted for perpetual crape."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "Toller, for that is his name, is a rough, uncouth man, with grizzled hair and whiskers, and a perpetual smell of drink."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "What a perpetual disappointment is actual society, even of the virtuous and gifted!"
+      },
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "To him whose elastic and vigorous thought keeps pace with the sun, the day is a perpetual morning."
+      },
+      {
+        "author": "Francis Bacon",
+        "work": "The Essays",
+        "sentence": "We have divers curious clocks, and other like motions of return: and some perpetual motions."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "But it was the constant shadow of my presence, the closest propinquity of the man whom he had most vilely wronged, and who had grown to exist only by this perpetual poison of the direst revenge!"
+      },
+      {
+        "author": "Bram Stoker",
+        "work": "Dracula",
+        "sentence": "I used to fancy that life was a positive and perpetual entity, and that by consuming a multitude of live things, no matter how low in the scale of creation, one might indefinitely prolong life."
+      },
+      {
+        "author": "H. G. Wells",
+        "work": "The War of the Worlds",
+        "sentence": "That perpetual sound of “Ulla, ulla, ulla, ulla,” confused my mind."
+      },
+      {
+        "author": "Thomas Henry Huxley",
+        "work": "Evolution and Ethics",
+        "sentence": "Two gods divide them all, Pleasure and Gain; For these they live, they sacrifice to these, And in their service wage perpetual war With conscience and with Thee."
+      }
+    ]
+  },
+  "perpetually": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "In a perpetual manner; constantly; continually. The Bible and Common Prayer Book in the vulgar tongue, being perpetually read in churches, have proved a kind of standard for language. Swift."
+      },
+      {
+        "source": "wordnet_r",
+        "definition": "everlastingly; for all time; - Stuart Chase"
+      },
+      {
+        "source": "wordnet_r",
+        "definition": "without interruption"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "The spots whereof could weeping purify, Her tears should drop on them perpetually."
+      },
+      {
+        "author": "John Stuart Mill",
+        "work": "Utilitarianism",
+        "sentence": "Yet the common herd, including the herd of writers, not only in newspapers and periodicals, but in books of weight and pretension, are perpetually falling into this shallow mistake."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "If any marked distinction existed between domestic races and species, this source of doubt could not so perpetually recur."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "But that which a man is, does always by necessity acquire, and what the man acquires is living property, which does not wait the beck of rulers, or mobs, or revolutions, or fire, or storm, or bankruptcies, but perpetually renews itself wherever the man breathes."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "Some days elapsed, and ice and icebergs all astern, the Pequod now went rolling through the bright Quito spring, which, at sea, almost perpetually reigns on the threshold of the eternal August of the Tropic."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "Might there not be an irresistible desire to quaff a last, long, breathless draught of the cup of wormwood and aloes, with which nearly all her years of womanhood had been perpetually flavoured."
+      },
+      {
+        "author": "Bram Stoker",
+        "work": "Dracula",
+        "sentence": "For the first week after his attack he was perpetually violent."
+      },
+      {
+        "author": "H. G. Wells",
+        "work": "The War of the Worlds",
+        "sentence": "It was a sobbing alternation of two notes, “Ulla, ulla, ulla, ulla,” keeping on perpetually."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Silas Marner",
+        "sentence": "I can do so little—have I done it all well?” is the perpetually recurring thought; and there are no voices calling her away from that soliloquy, no peremptory demands to divert energy from vain regret or superfluous scruple."
+      },
+      {
+        "author": "Jonathan Swift",
+        "work": "Gulliver's Travels",
+        "sentence": "Their ideas are perpetually conversant in lines and figures."
+      },
+      {
+        "author": "Mary Shelley",
+        "work": "Frankenstein",
+        "sentence": "He passed his younger days perpetually occupied by the affairs of his country; a variety of circumstances had prevented his marrying early, nor was it until the decline of life that he became a husband and the father of a family."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "A Tale of Two Cities",
+        "sentence": "Eager and prominent among them, one man with a craving face, and his fingers perpetually hovering about his lips, whose appearance gave great satisfaction to the spectators."
+      },
+      {
+        "author": "Jane Austen",
+        "work": "Emma",
+        "sentence": "Dixon. `My dear,' said I, `you will blind yourself'-- for tears were in her eyes perpetually."
+      },
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "7:16 For now have I chosen and sanctified this house, that my name may be there for ever: and mine eyes and mine heart shall be there perpetually."
+      },
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Wisdom of Father Brown",
+        "sentence": "He conceived himself and his like as perpetually conquering peoples who were perpetually being conquered."
+      },
+      {
+        "author": "Walt Whitman",
+        "work": "Leaves of Grass",
+        "sentence": "I know I am solid and sound, To me the converging objects of the universe perpetually flow, All are written to me, and I must get what the writing means."
+      }
+    ]
+  },
+  "perpetuate": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "To make perpetual; to cause to endure, or to be continued, indefinitely; to preserve from extinction or oblivion; to eternize. Addison. Burke.\n\nMade perpetual; perpetuated. [R.] Southey."
+      },
+      {
+        "source": "wordnet_v",
+        "definition": "cause to continue or prevail"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "Nations are possessed with an insane ambition to perpetuate the memory of themselves by the amount of hammered stone they leave."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "But the proprietor appeared already to have relinquished as hopeless, the effort to perpetuate on this side of the Atlantic, in a hard soil, and amid the close struggle for subsistence, the native English taste for ornamental gardening."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "A Tale of Two Cities",
+        "sentence": "I believe your intention is to perpetuate, and not to weaken, the ties between me and my other and far dearer self."
+      },
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Ball and the Cross",
+        "sentence": "The Church is the only thing on earth that can perpetuate a type of virtue and make it something more than a fashion."
+      }
+    ]
+  },
+  "perpetuation": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "The act of making perpetual, or of preserving from extinction through an endless existence, or for an indefinite period of time; continuance. Sir T. Browne."
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "the act of prolonging something"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Charles Dickens",
+        "work": "A Tale of Two Cities",
+        "sentence": "My friend is dead, my neighbour is dead, my love, the darling of my soul, is dead; it is the inexorable consolidation and perpetuation of the secret that was always in that individuality, and which I shall carry in mine to my life’s end."
+      },
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Man Who Was Thursday",
+        "sentence": "There comes a certain point in such conditions when only three things are possible: first a perpetuation of Satanic pride, secondly tears, and third laughter."
+      }
+    ]
+  },
+  "perpetuity": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "1. The quality or state of being perpetual; as, the perpetuity of laws. Bacon. A path to perpetuity of fame. Byron. The perpetuity of single emotion is insanity. I. Taylor. 2. Something that is perpetual. South. 3. Endless time. \"And yet we should, for perpetuity, go hence in debt.\" Shak. 4. (Annuities) (a) The number of years in which the simple interest of any sum becomes equal to the principal. (b) The number of years' purchase to be given for an annuity to continue forever. (c) A perpetual annuity. 5. (Law) (a) Duration without limitations as to time. (b) The quality or condition of an estate by which it becomes inalienable, either perpetually or for a very long period; also, the estate itself so modified or perpetuated."
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "the property of being perpetual (seemingly ceaseless)"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Yet am I better Than one that’s sick o’ th’ gout, since he had rather Groan so in perpetuity than be cur’d By th’ sure physician death, who is the key T’ unbar these locks."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "Finally then, we may conclude that in many organic beings, a cross between two individuals is an obvious necessity for each birth; in many others it occurs perhaps only at long intervals; but in none, as I suspect, can self-fertilisation go on for perpetuity."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "The lover seeks in marriage his private felicity and perfection, with no prospective end; and nature hides in his happiness her own end, namely, progeny, or the perpetuity of the race."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "Here, established in perpetuity, is the poor Beauty, a widow with a little girl; here, at dinner on Sophy’s birthday, are the three married girls with their three husbands, and one of the husband’s brothers, and another husband’s cousin, and another husband’s sister, who appears to me to be engaged to the cousin."
+      },
+      {
+        "author": "Jonathan Swift",
+        "work": "Gulliver's Travels",
+        "sentence": "The reader will easily believe, that from what I had heard and seen, my keen appetite for perpetuity of life was much abated."
+      }
+    ]
+  },
+  "pet": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "1. A cade lamb; a lamb brought up by hand. 2. Any person or animal especially cherished and indulged; a fondling; a darling; often, a favorite child. The love of cronies, pets, and favorites. Tatler. 3. Etym: [Prob. fr. Pet a fondling, hence, the behavior or humor of a spoiled child.]  A slight fit of peevishness or fretfulness. \"In a pet she started up.\" Tennyson.\n\nPetted; indulged; admired; cherished; as, a pet child; a pet lamb; a pet theory. Some young lady's pet curate. F. Harrison. Pet cock. Etym: [Perh. for petty cock.] (Mach.) A little faucet in a water pipe or pump, to let air out, or at the end of a steam cylinder, to drain it.\n\nTo treat as a pet; to fondle; to indulge; as, she was petted and spoiled.\n\nTo be a pet. Feltham."
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "a domesticated animal kept for companionship or amusement"
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "a special loved one"
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "a fit of petulance or sulkiness (especially at what is felt to be a slight)"
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "using a computerized radiographic technique to examine the metabolic activity in various tissues (especially in the brain)"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "THY, DAMNATION, SLUMBERETH, NOT. 2 Pet. ii. 3."
+      },
+      {
+        "author": "Lewis Carroll",
+        "work": "Alice's Adventures in Wonderland",
+        "sentence": "Alice replied eagerly, for she was always ready to talk about her pet: “Dinah’s our cat."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "She is a great pet and never was naughty in her life."
+      },
+      {
+        "author": "Oscar Wilde",
+        "work": "The Picture of Dorian Gray",
+        "sentence": "I knew nothing of you but the pet name she used to call you."
+      },
+      {
+        "author": "Bram Stoker",
+        "work": "Dracula",
+        "sentence": "Professor, let me be your pet student again."
+      },
+      {
+        "author": "H. G. Wells",
+        "work": "The War of the Worlds",
+        "sentence": "Very likely these Martians will make pets of some of them; train them to do tricks—who knows?—get sentimental over the pet boy who grew up and had to be killed."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "I want our pet to like me, and be as gay as a butterfly."
+      },
+      {
+        "author": "Jane Austen",
+        "work": "Emma",
+        "sentence": "John Knightley.--This did not want much of being finished, when I put it away in a pet, and vowed I would never take another likeness."
+      },
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Ball and the Cross",
+        "sentence": "The old prisoners could make a pet of a mouse or a beetle strayed out of a hole."
+      }
+    ]
+  },
+  "petabit": {
+    "definitions": [
+      {
+        "source": "wordnet_n",
+        "definition": "a unit of information equal to 1000 terabits or 10^15 bits"
+      }
+    ],
+    "quotes": []
+  },
+  "petabyte": {
+    "definitions": [
+      {
+        "source": "wordnet_n",
+        "definition": "a unit of information equal to 1000 terabytes or 10^15 bytes"
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "a unit of information equal to 1024 tebibytes or 2^50 bytes"
+      }
+    ],
+    "quotes": []
+  },
+  "petal": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "1. (Bot.)  One of the leaves of the corolla, or the colored leaves of a flower. See Corolla, and Illust. of Flower. 2. (Zoöl.)  One of the expanded ambulacra which form a rosette on the black of certain Echini."
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "part of the perianth that is usually brightly colored"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Yes—I know that,” she said panting like a robin, her face red and moist from her exertions, like a peony petal before the sun dries off the dew."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Quickness was ready at the call, and the two figures passed lightly along by the Meleager, towards the hall where the reclining Ariadne, then called the Cleopatra, lies in the marble voluptuousness of her beauty, the drapery folding around her with a petal-like ease and tenderness."
+      }
+    ]
+  },
+  "petal-like": {
+    "definitions": [
+      {
+        "source": "wordnet_s",
+        "definition": "resembling a petal"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Quickness was ready at the call, and the two figures passed lightly along by the Meleager, towards the hall where the reclining Ariadne, then called the Cleopatra, lies in the marble voluptuousness of her beauty, the drapery folding around her with a petal-like ease and tenderness."
+      }
+    ]
+  },
+  "petaled": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "Having petals; as, a petaled flower; -- opposed to Ant: apetalous, and much used in compounds; as, one-petaled, three- petaled, etc."
+      },
+      {
+        "source": "wordnet_a",
+        "definition": "(of flowers) having petals"
+      }
+    ],
+    "quotes": []
+  },
+  "petalled": {
+    "definitions": [
+      {
+        "source": "wordnet_a",
+        "definition": "(of flowers) having petals"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Oscar Wilde",
+        "work": "The Picture of Dorian Gray",
+        "sentence": "Lord Henry smiled, and leaning down, plucked a pink-petalled daisy from the grass and examined it."
+      }
+    ]
+  },
+  "petalless": {
+    "definitions": [
+      {
+        "source": "wordnet_a",
+        "definition": "(of flowers) having no petals"
+      }
+    ],
+    "quotes": []
+  },
+  "petallike": {
+    "definitions": [
+      {
+        "source": "wordnet_s",
+        "definition": "resembling a petal"
+      }
+    ],
+    "quotes": []
+  },
+  "petaloid": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "Petaline."
+      },
+      {
+        "source": "wordnet_a",
+        "definition": "resembling a flower petal"
+      }
+    ],
+    "quotes": []
+  },
+  "petalous": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "Having petals; petaled; -- opposed to Ant: apetalous."
+      },
+      {
+        "source": "wordnet_a",
+        "definition": "(of flowers) having petals"
+      }
+    ],
+    "quotes": []
+  },
+  "petard": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "A case containing powder to be exploded, esp. a conical or cylindrical case of metal filled with powder and attached to a plank, to be exploded against and break down gates, barricades, drawbridges, etc. It has been superseded."
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "an explosive device used to break down a gate or wall"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Let it work; For ’tis the sport to have the enginer Hoist with his own petard, and ’t shall go hard But I will delve one yard below their mines And blow them at the moon."
+      }
+    ]
+  },
+  "petasites": {
+    "definitions": [
+      {
+        "source": "wordnet_n",
+        "definition": "genus of rhizomatous herbs of north temperate regions: butterbur; sweet coltsfoot"
+      }
+    ],
+    "quotes": []
+  },
+  "petaurista": {
+    "definitions": [
+      {
+        "source": "wordnet_n",
+        "definition": "very large Asiatic flying squirrels"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "Cercopithecus petaurista (from Brehm).]"
+      }
+    ]
+  },
+  "petauristidae": {
+    "definitions": [
+      {
+        "source": "wordnet_n",
+        "definition": "Old World flying squirrels"
+      }
+    ],
+    "quotes": []
+  },
+  "petaurus": {
+    "definitions": [
+      {
+        "source": "wordnet_n",
+        "definition": "a genus of Phalangeridae"
+      }
+    ],
+    "quotes": []
+  },
+  "petchary": {
+    "definitions": [
+      {
+        "source": "wordnet_n",
+        "definition": "a kingbird that breeds in the southeastern United States and winters in tropical America; similar to but larger than the eastern kingbird"
+      }
+    ],
+    "quotes": []
+  },
+  "petcock": {
+    "definitions": [
+      {
+        "source": "wordnet_n",
+        "definition": "regulator consisting of a small cock or faucet or valve for letting out air or releasing compression or draining"
+      }
+    ],
+    "quotes": []
+  },
+  "petechia": {
+    "definitions": [
+      {
+        "source": "wordnet_n",
+        "definition": "a minute red or purple spot on the surface of the skin as the result of tiny hemorrhages of blood vessels in the skin (as in typhoid fever)"
+      }
+    ],
+    "quotes": []
+  },
+  "peter": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "A common baptismal name for a man. The name of one of the apostles, Peter boat, a fishing boat, sharp at both ends, originally of the Baltic Sea, but now common in certain English rivers. -- Peter Funk, the auctioneer in a mock auction. [Cant, U.S.] -- Peter pence, or Peter's pence. (a) An annual tax or tribute, formerly paid by the English people to the pope, being a penny for every house, payable on Lammas or St.Peter's day; -- called also Rome scot, and hearth money. (b) In modern times, a voluntary contribution made by Roman Catholics to the private purse of the pope. -- Peter's fish (Zoöl.), a haddock; -- so called because the black spots, one on each side, behind the gills, are traditionally said to have been caused by the fingers of St. Peter, when he caught the fish to pay the tribute. The name is applied, also, to other fishes having similar spots.\n\nTo become exhausted; to run out; to fail; -- used generally with out; as, that mine has petered out. [Slang, U.S.]"
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "disciple of Jesus and leader of the Apostles; regarded by Catholics as the vicar of Christ on earth and first Pope"
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "obscene terms for penis"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Be merry, Peter, and fear not thy master."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "But she knew that was only because, like Peter the Great in a shipwright’s yard, he was studying what he wanted to know."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Peter’s parish, and had time for extra duty."
+      }
+    ]
+  },
+  "peterburg": {
+    "definitions": [
+      {
+        "source": "wordnet_n",
+        "definition": "a city in the European part of Russia; 2nd largest Russian city; located at the head of the Gulf of Finland; former capital of Russia"
+      }
+    ],
+    "quotes": []
+  },
+  "petersburg": {
+    "definitions": [
+      {
+        "source": "wordnet_n",
+        "definition": "a town in southeastern Virginia (south of Richmond); scene of heavy fighting during the American Civil War"
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "the final campaign of the American Civil War (1864-65); Union forces under Grant besieged and finally defeated Confederate forces under Lee"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "Petersburg from the face of the earth."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "Petersburg,’ 1778, part ii. p. 217.), insists that the internal viscera are more variable than the external parts: Nulla particula est quae non aliter et aliter in aliis se habeat hominibus."
+      }
+    ]
+  },
+  "petiole": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "1. (Bot.)  A leafstalk; the footstalk of a leaf, connecting the blade with the stem. See Illust. of Leaf. 2. (Zoöl.)  A stalk or peduncle."
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "the slender stem that supports the blade of a leaf"
+      }
+    ],
+    "quotes": []
+  },
+  "petiolule": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "A small petiole, or the petiole of a leaflet."
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "the stalk of a leaflet"
+      }
+    ],
+    "quotes": []
+  },
+  "petite": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "Small, little; of a woman or girl, of small size and trim figure."
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "a garment size for short or slender women"
+      },
+      {
+        "source": "wordnet_s",
+        "definition": "very small"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "--Cette petite bouderie ne me décourage point."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "She felt the _petite mort_ at this unexpectedly gruesome information, and left the solitary man behind her."
+      }
+    ]
+  },
+  "petiteness": {
+    "definitions": [
+      {
+        "source": "wordnet_n",
+        "definition": "the property of being very small in size"
+      }
+    ],
+    "quotes": []
+  },
+  "petitio": {
+    "definitions": [
+      {
+        "source": "wordnet_n",
+        "definition": "the logical fallacy of assuming the conclusion in the premises; begging the question"
+      }
+    ],
+    "quotes": []
+  },
+  "petition": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "1. A prayer; a supplication; an imploration; an entreaty; especially, a request of a solemn or formal kind; a prayer to the Supreme Being, or to a person of superior power, rank, or authority; also, a single clause in such a prayer. A house of prayer and petition for thy people. 1 Macc. vii. 37. This last petition heard of all her prayer. Dryden. 2. A formal written request addressed to an official person, or to an organized body, having power to grant it; specifically (Law), a supplication to government, in either of its branches, for the granting of a particular grace or right; -- in distinction from a memorial, which calls certain facts to mind; also, the written document. Petition of right (Law), a petition to obtain possession or restitution of property, either real or personal, from the Crown, which suggests such a title as controverts the title of the Crown, grounded on facts disclosed in the petition itself. Mozley & W. -- The Petition of Right (Eng. Hist.), the parliamentary declaration of the rights of the people, assented to by Charles I.\n\nTo make a prayer or request to; to ask from; to solicit; to entreat; especially, to make a formal written supplication, or application to, as to any branch of the government; as, to petition the court; to petition the governor. You have . . . petitioned all the gods for my prosperity. Shak.\n\nTo make a petition or solicitation."
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "a formal message requesting something that is submitted to an authority"
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "reverent petition to a deity"
+      },
+      {
+        "source": "wordnet_v",
+        "definition": "write a petition for something to somebody; request formally and in writing"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "He replied It was a bare petition of a state To one whom they had punished."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "The upshot of the petition was waited for in Weatherbury with solicitous interest."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "He had returned, during their absence, from a journey to the county town, about a petition for the pardon of some criminal."
+      },
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "They hesitate, and they regret, and sometimes they petition; but they do nothing in earnest and with effect."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "For God’s sake—I beg, I conjure”—here exclaimed the stranger Captain to Ahab, who thus far had but icily received his petition."
+      },
+      {
+        "author": "Bram Stoker",
+        "work": "Dracula",
+        "sentence": "My fears, however, were groundless, for he held up his two hands imploringly, and made his petition in a moving manner."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "A Tale of Two Cities",
+        "sentence": "Know that a petition was presented to the King and Queen."
+      },
+      {
+        "author": "Jonathan Swift",
+        "work": "Gulliver's Travels",
+        "sentence": "Her majesty agreed to my petition, and easily got the farmer’s consent, who was glad enough to have his daughter preferred at court, and the poor girl herself was not able to hide her joy."
+      },
+      {
+        "author": "King James Bible",
+        "work": "The Holy Bible",
+        "sentence": "2:16 And now I ask one petition of thee, deny me not."
+      }
+    ]
+  },
+  "petitionary": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "1. Supplicatory; making a petition. Pardon Rome, and any petitionary countrymen. Shak. 2. Containing a petition; of the nature of a petition; as, a petitionary epistle. Swift."
+      },
+      {
+        "source": "wordnet_s",
+        "definition": "of the nature of or expressing a petition"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Nay, I prithee now, with most petitionary vehemence, tell me who it is."
+      }
+    ]
+  },
+  "petitioner": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "One who presents a petition."
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "one praying humbly for something"
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "someone who petitions a court for redress of a grievance or recovery of a right"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Alas, sir, I am but a poor petitioner of our whole township."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "I have brought a little petitioner,” he said, “or rather, I have brought him to see if he will be approved before his petition is offered.” He showed the white object under his arm, which was a tiny Maltese puppy, one of nature’s most naive toys."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "[Footnote 460: To let the petitioner, etc."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "A Tale of Two Cities",
+        "sentence": "And once again listen, Jacques!” said the kneeling Number Three: his fingers ever wandering over and over those fine nerves, with a strikingly greedy air, as if he hungered for something--that was neither food nor drink; “the guard, horse and foot, surrounded the petitioner, and struck him blows."
+      },
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Wisdom of Father Brown",
+        "sentence": "The Duke's face did not move; but he looked at his petitioner with a glassy stare which was the most awful expression I have ever seen on a human face."
+      }
+    ]
+  },
+  "petrarca": {
+    "definitions": [
+      {
+        "source": "wordnet_n",
+        "definition": "an Italian poet famous for love lyrics (1304-1374)"
+      }
+    ],
+    "quotes": []
+  },
+  "petrarch": {
+    "definitions": [
+      {
+        "source": "wordnet_n",
+        "definition": "an Italian poet famous for love lyrics (1304-1374)"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Now is he for the numbers that Petrarch flowed in."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "However slight the terrestrial intercourse between Dante and Beatrice or Petrarch and Laura, time changes the proportion of things, and in later days it is preferable to have fewer sonnets and more conversation."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "And now here is my pocket Petrarch, and not another word shall I say of this case until we are on the scene of action."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "[Footnote 708: Petrarch. (See note 563.)]"
+      },
+      {
+        "author": "William James",
+        "work": "Pragmatism",
+        "sentence": "Matthew, like other youths of a poetical temperament, from Petrarch down to Lord Byron, had a 'passion.'"
+      }
+    ]
+  },
+  "petrel": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "Any one of numerous species of longwinged sea birds belonging to the family Procellaridæ. The small petrels, or Mother Carey's chickens, belong to Oceanites, Oceanodroma, Procellaria, and several allied genera. Diving petrel, any bird of the genus Pelecanoides. They chiefly inhabit the southern hemisphere. -- Fulmar petrel, Giant petrel. See Fulmar. -- Pintado petrel, the Cape pigeon. See under Cape. -- Pintado petrel, any one of several small petrels, especially Procellaria pelagica, or Mother Carey's chicken, common on both sides of the Atlantic."
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "relatively small long-winged tube-nosed bird that flies far from land"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "The condor lays a couple of eggs and the ostrich a score, and yet in the same country the condor may be the more numerous of the two: the Fulmar petrel lays but one egg, yet it is believed to be the most numerous bird in the world."
+      }
+    ]
+  },
+  "petrifaction": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "1. The process of petrifying, or changing into stone; conversion of any organic matter (animal or vegetable) into stone, or a substance of stony hardness. 2. The state or condition of being petrified. 3. That which is petrified; popularly, a body incrusted with stony matter; an incrustation. 4. Fig.: Hardness; callousness; obduracy. \"Petrifaction of the soul.\" Cudworth."
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "the process of turning some plant material into stone by infiltration with water carrying mineral particles without changing the original shape"
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "a rock created by petrifaction; an organic object infiltrated with mineral matter and preserved in its original form"
+      }
+    ],
+    "quotes": []
+  },
+  "petrification": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "1. See Petrifaction. 2. Fig.: Obduracy; callousness. Hallywell."
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "the process of turning some plant material into stone by infiltration with water carrying mineral particles without changing the original shape"
+      }
+    ],
+    "quotes": []
+  },
+  "petrify": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "1. To convert, as any animal or vegetable matter, into stone or stony substance. A river that petrifies any sort of wood or leaves. Kirwan. 2. To make callous or obdurate; to stupefy; to paralyze; to transform; as by petrifaction; as, to petrify the heart. Young. \"Petrifying accuracy.\" Sir W. Scott. And petrify a genius to a dunce. Pope. The poor, petrified journeyman, quite unconscious of what he was doing. De Quincey. A hideous fatalism, which ought, logically, to petrify your volition. G. Eliot.\n\n1. To become stone, or of a stony hardness, as organic matter by calcareous deposits. 2. Fig.: To become stony, callous, or obdurate. Like Niobe we marble grow, And petrify with grief. Dryden."
+      },
+      {
+        "source": "wordnet_v",
+        "definition": "cause to become stonelike or stiff or dazed and stunned"
+      },
+      {
+        "source": "wordnet_v",
+        "definition": "change into stone"
+      },
+      {
+        "source": "wordnet_v",
+        "definition": "make rigid and set into a conventional pattern"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Charles Dickens",
+        "work": "A Tale of Two Cities",
+        "sentence": "And as the frantic wielders of these weapons snatched them from the stream of sparks and tore away into the streets, the same red hue was red in their frenzied eyes;--eyes which any unbrutalised beholder would have given twenty years of life, to petrify with a well-directed gun."
+      }
+    ]
+  },
+  "petrifying": {
+    "definitions": [
+      {
+        "source": "wordnet_v",
+        "definition": "cause to become stonelike or stiff or dazed and stunned"
+      },
+      {
+        "source": "wordnet_v",
+        "definition": "change into stone"
+      },
+      {
+        "source": "wordnet_v",
+        "definition": "make rigid and set into a conventional pattern"
+      },
+      {
+        "source": "wordnet_s",
+        "definition": "paralyzing with terror"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Jonathan Swift",
+        "work": "Gulliver's Travels",
+        "sentence": "Some were condensing air into a dry tangible substance, by extracting the nitre, and letting the aqueous or fluid particles percolate; others softening marble, for pillows and pin-cushions; others petrifying the hoofs of a living horse, to preserve them from foundering."
+      }
+    ]
+  },
+  "petrissage": {
+    "definitions": [
+      {
+        "source": "wordnet_n",
+        "definition": "massage of the skin which is gently lifted and squeezed"
+      }
+    ],
+    "quotes": []
+  },
+  "petrochemical": {
+    "definitions": [
+      {
+        "source": "wordnet_n",
+        "definition": "any compound obtained from petroleum or natural gas"
+      }
+    ],
+    "quotes": []
+  },
+  "petrocoptis": {
+    "definitions": [
+      {
+        "source": "wordnet_n",
+        "definition": "perennial tussock-forming rock plants; of Pyrenees and mountains of northern Spain; similar to and sometimes placed in genus Lychnis"
+      }
+    ],
+    "quotes": []
+  },
+  "petrogale": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "Any Australian kangaroo of the genus Petrogale, as the rock wallaby (P. penicillata)."
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "rock wallabies"
+      }
+    ],
+    "quotes": []
+  },
+  "petroglyph": {
+    "definitions": [
+      {
+        "source": "wordnet_n",
+        "definition": "a carving or line drawing on rock (especially one made by prehistoric people)"
+      }
+    ],
+    "quotes": []
+  },
+  "petrograd": {
+    "definitions": [
+      {
+        "source": "wordnet_n",
+        "definition": "a city in the European part of Russia; 2nd largest Russian city; located at the head of the Gulf of Finland; former capital of Russia"
+      }
+    ],
+    "quotes": []
+  },
+  "petrol": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "Petroleum. [R.]"
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "a volatile flammable mixture of hydrocarbons (hexane and heptane and octane etc.) derived from petroleum; used mainly as a fuel in internal-combustion engines"
+      }
+    ],
+    "quotes": []
+  },
+  "petrolatum": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "A semisolid unctuous substance, neutral, and without taste or odor, derived from petroleum by distilling off the lighter portions and purifying the residue. It is a yellowish, fatlike mass, transparent in thin layers, and somewhat fluorescent. It is used as a bland protective dressing, and as a substitute for fatty materials in ointments. U. S. Pharm. Note: Petrolatum is the official name for the purified product. Cosmoline and vaseline are commercial names for substances essentially the same, but differing slightly in appearance and consistency or fusibility."
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "a semisolid mixture of hydrocarbons obtained from petroleum; used in medicinal ointments and for lubrication"
+      }
+    ],
+    "quotes": []
+  },
+  "petroleum": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "Rock oil, mineral oil, or natural oil, a dark brown or greenish inflammable liquid, which, at certain points, exists in the upper strata of the earth, from whence it is pumped, or forced by pressure of the gas attending it. It consists of a complex mixture of various hydrocarbons, largely of the methane series, but may vary much in appearance, composition, and properties. It is refined by distillation, and the products include kerosene, benzine, gasoline, paraffin, etc. Petroleum spirit, a volatile liquid obtained in the distillation of crude petroleum at a temperature of 170° Fahr., or below. The term is rather loosely applied to a considerable range of products, including benzine and ligroin. The terms petroleum ether, and naphtha, are sometimes applied to the still more volatile products, including rhigolene, gasoline, cymogene, etc."
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "a dark oil consisting mainly of hydrocarbons"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Ball and the Cross",
+        "sentence": "Durand re-entered the smoky room quite placidly, wiping the petroleum from his hands with a handkerchief."
+      }
+    ]
+  },
+  "petrology": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "1. The department of science which is concerned with the mineralogical and chemical composition of rocks, and with their classification: lithology. 2. A treatise on petrology."
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "the branch of geology that studies rocks: their origin and formation and mineral composition and classification"
+      }
+    ],
+    "quotes": []
+  },
+  "petromyzon": {
+    "definitions": [
+      {
+        "source": "wordnet_n",
+        "definition": "typical lampreys"
+      }
+    ],
+    "quotes": []
+  },
+  "petromyzoniformes": {
+    "definitions": [
+      {
+        "source": "wordnet_n",
+        "definition": "lampreys as distinguished from hagfishes"
+      }
+    ],
+    "quotes": []
+  },
+  "petromyzontidae": {
+    "definitions": [
+      {
+        "source": "wordnet_n",
+        "definition": "lampreys"
+      }
+    ],
+    "quotes": []
+  },
+  "petronius": {
+    "definitions": [
+      {
+        "source": "wordnet_n",
+        "definition": "Roman satirist (died in 66)"
+      }
+    ],
+    "quotes": []
+  },
+  "petroselinum": {
+    "definitions": [
+      {
+        "source": "wordnet_n",
+        "definition": "parsley"
+      }
+    ],
+    "quotes": []
+  },
+  "petrous": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "1. Like stone; hard; stony; rocky; as, the petrous part of the temporal bone. Hooper. 2. (Anat.)  Same as Petrosal."
+      },
+      {
+        "source": "wordnet_s",
+        "definition": "(of bone especially the temporal bone) resembling stone in hardness"
+      }
+    ],
+    "quotes": []
+  },
+  "petter": {
+    "definitions": [
+      {
+        "source": "wordnet_n",
+        "definition": "a lover who gently fondles and caresses the loved one"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Ay, and her father is make her a petter penny."
+      }
+    ]
+  },
+  "petteria": {
+    "definitions": [
+      {
+        "source": "wordnet_n",
+        "definition": "one species: Dalmatian laburnum"
+      }
+    ],
+    "quotes": []
+  },
+  "petticoat": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "A loose under-garment worn by women, and covering the body below the waist. Petticoat government, government by women, whether in politics or domestic affairs. [Colloq.] -- Petticoat pipe (Locomotives), a short, flaring pipe surrounding the blast nozzle in the smoke box, to equalize the draft."
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "undergarment worn under a skirt"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "I have nothing But this poor petticoat, and two coarse smocks."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "They crept and crept, the hem of her petticoat just touching his gaiter, and his elbow sometimes brushing hers."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Rosamond became serious too, and slightly meditative; in fact, she was going through many intricacies of lace-edging and hosiery and petticoat-tucking, in order to give an answer that would at least be approximative."
+      },
+      {
+        "author": "Oscar Wilde",
+        "work": "The Picture of Dorian Gray",
+        "sentence": "Or do you think that would make it a petticoat party?"
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "To fifty chosen sylphs of special note, We trust the important charge, the petticoat."
+      },
+      {
+        "author": "James Joyce",
+        "work": "Dubliners",
+        "sentence": "A petticoat string dangled to the floor."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "The age had not so much refinement, that any sense of impropriety restrained the wearers of petticoat and farthingale from stepping forth into the public ways, and wedging their not unsubstantial persons, if occasion were, into the throng nearest to the scaffold at an execution."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "Five people out of six would die--of course--of that woman in nankeen with the flannel petticoat."
+      },
+      {
+        "author": "Jonathan Swift",
+        "work": "Gulliver's Travels",
+        "sentence": "The ladies and courtiers were all most magnificently clad; so that the spot they stood upon seemed to resemble a petticoat spread upon the ground, embroidered with figures of gold and silver."
+      },
+      {
+        "author": "Mary Shelley",
+        "work": "Frankenstein",
+        "sentence": "Yet she was meanly dressed, a coarse blue petticoat and a linen jacket being her only garb; her fair hair was plaited but not adorned: she looked patient yet sad."
+      }
+    ]
+  },
+  "petticoated": {
+    "definitions": [
+      {
+        "source": "wordnet_s",
+        "definition": "wearing or furnished with a petticoat"
+      }
+    ],
+    "quotes": []
+  },
+  "pettifog": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "To do a petty business as a lawyer; also, to do law business in a petty or tricky way. \"He takes no money, but pettifogs gratis.\" S. Butler.\n\nTo advocate like a pettifogger; to argue trickily; as, to pettifog a claim. [Colloq.]"
+      },
+      {
+        "source": "wordnet_v",
+        "definition": "argue over petty things"
+      }
+    ],
+    "quotes": []
+  },
+  "pettifogger": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "A lawyer who deals in petty cases; an attorney whose methods are mean and tricky; an inferior lawyer. A pettifogger was lord chancellor. Macaulay."
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "a person (especially a lawyer or politician) who uses unscrupulous or unethical methods"
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "a disputant who quibbles; someone who raises annoying petty objections"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "G. K. Chesterton",
+        "work": "The Wisdom of Father Brown",
+        "sentence": "So that thousands of poor English people trembled before a mysterious chieftain with an ancient destiny and a diadem of evil stars--when they are really trembling before a guttersnipe who was a pettifogger and a pawnbroker not twelve years ago."
+      }
+    ]
+  },
+  "pettifoggery": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "The practice or arts of a pettifogger; disreputable tricks; quibbles. Quirks of law, and pettifoggeries. Barrow."
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "a quarrel about petty points"
+      }
+    ],
+    "quotes": []
+  },
+  "pettily": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "In a petty manner; frivolously."
+      },
+      {
+        "source": "wordnet_r",
+        "definition": "in a petty way"
+      }
+    ],
+    "quotes": []
+  },
+  "pettiness": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "The quality or state of being petty or paltry; littleness; meanness."
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "narrowness of mind or ideas or views"
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "the quality of being unimportant and petty or frivolous"
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "lack of generosity in trifling matters"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "But there was a branch house at the west end, and no pettiness or dinginess to give suggestions of shame."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "For, thought Ahab, while even the highest earthly felicities ever have a certain unsignifying pettiness lurking in them, but, at bottom, all heartwoes, a mystic significance, and, in some men, an archangelic grandeur; so do their diligent tracings-out not belie the obvious deduction."
+      }
+    ]
+  },
+  "petting": {
+    "definitions": [
+      {
+        "source": "wordnet_n",
+        "definition": "affectionate play (or foreplay without contact with the genital organs)"
+      },
+      {
+        "source": "wordnet_v",
+        "definition": "stroke or caress gently"
+      },
+      {
+        "source": "wordnet_v",
+        "definition": "stroke or caress in an erotic manner, as during lovemaking"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "I believe all the petting that is given them does not make them happy."
+      }
+    ]
+  },
+  "pettish": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "Fretful; peevish; moody; capricious; inclined to ill temper. \"A pettish kind of humor.\" Sterne. -- Pet\"tish*ly, adv. -- Pet\"tish*ness, n."
+      },
+      {
+        "source": "wordnet_s",
+        "definition": "easily irritated or annoyed"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "She drew a quick pettish breath of objection, writhing uneasily on her seat, looked far ahead, and murmured, “I don’t know—I wish—how can I say yes or no when—"
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "David Copperfield",
+        "sentence": "Oh, dear me!’ cried my mother, turning from one of us to the other, in her pettish wilful manner, ‘what a troublesome world this is, when one has the most right to expect it to be as agreeable as possible!’"
+      }
+    ]
+  },
+  "pettishly": {
+    "definitions": [
+      {
+        "source": "wordnet_r",
+        "definition": "in a petulant manner"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "That’s all very fine,” said Fred, pettishly."
+      }
+    ]
+  },
+  "pettishness": {
+    "definitions": [
+      {
+        "source": "wordnet_n",
+        "definition": "a disposition to exhibit uncontrolled anger"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "Bid him therefore consider of his ransom; which must proportion the losses we have borne, the subjects we have lost, the disgrace we have digested; which in weight to re-answer, his pettishness would bow under."
+      }
+    ]
+  },
+  "petty": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "Little; trifling; inconsiderable; also, inferior; subordinate; as, a petty fault; a petty prince. Denham. Like a petty god I walked about, admired of all. Milton. Petty averages. See under Average. -- Petty cash, money expended or received in small items or amounts. -- Petty officer, a subofficer in the navy, as a gunner, etc., corresponding to a noncommissionned officer in the army. Note: For petty constable, petty jury, petty larceny, petty treason, See Petit. Syn. -- Little; diminutive; inconsiderable; inferior; trifling; trivial; unimportant; frivolous."
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "larceny of property having a value less than some amount (the amount varies by locale)"
+      },
+      {
+        "source": "wordnet_s",
+        "definition": "inferior in rank or status"
+      },
+      {
+        "source": "wordnet_s",
+        "definition": "(informal) small and of little importance"
+      },
+      {
+        "source": "wordnet_s",
+        "definition": "contemptibly narrow in outlook"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "And I for suchlike petty crimes as these."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Tess of the d'Urbervilles",
+        "sentence": "He had, in truth, drunk very little—not a fourth of the quantity which a systematic tippler could carry to church on a Sunday afternoon without a hitch in his eastings or genuflections; but the weakness of Sir John’s constitution made mountains of his petty sins in this kind."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "How very petty!” exclaimed Dorothea, indignantly."
+      }
+    ]
+  },
+  "petulance": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "The quality or state of being petulant; temporary peevishness; pettishness; capricious ill humor. \"The petulancy of our words.\" B. Jonson. Like pride in some, and like petulance in others. Clarendon. The lowering eye, the petulance, the frown. Cowper. Syn. -- Petulance, Peevishness. -- Peevishness implies the permanence of a sour, fretful temper; petulance implies temporary or capricious irritation."
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "an irritable petulant feeling"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "John Locke",
+        "work": "An Essay Concerning Human Understanding",
+        "sentence": "Tous ces travers, cependant, n'étaient pas le résultat d'une méchanceté réfléchie, mais d'une pétulance folle et présomptueuse."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "Liddy, for Heaven’s sake stop your talking!” said Bathsheba, with the nervous petulance that comes from worrying perceptions."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Middlemarch",
+        "sentence": "Will spoke at random: he was merely venting his petulance; it was a little too exasperating to have his grandmother’s portrait offered him at that moment."
+      },
+      {
+        "author": "Arthur Conan Doyle",
+        "work": "The Adventures of Sherlock Holmes",
+        "sentence": "A gentleman entered, with a pleasant, cultured face, high-nosed and pale, with something perhaps of petulance about the mouth, and with the steady, well-opened eye of a man whose pleasant lot it had ever been to command and to be obeyed."
+      },
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "One looks at the face of heaven and earth lays all petulance at rest, and soothes us to wiser convictions."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "No murmur, no impatience, no petulance did come from him."
+      },
+      {
+        "author": "H. G. Wells",
+        "work": "The Time Machine",
+        "sentence": "I told myself that I could never stop, and with a gust of petulance I resolved to stop forthwith."
+      },
+      {
+        "author": "Thomas Henry Huxley",
+        "work": "Evolution and Ethics",
+        "sentence": "The spleen is seldom felt where Flora reigns; The lowering eye, the petulance, the frown, And sullen sadness that o'ershade, distort, And mar the face of beauty, when no cause For such immeasurable woe appears, These Flora banishes, and gives the fair Sweet smiles, and bloom less transient than her own."
+      }
+    ]
+  },
+  "petulant": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "1. Forward; pert; insolent; wanton. [Obs.] Burton. 2. Capriciously fretful; characterized by ill-natured freakishness; irritable. \"Petulant moods.\" Macaulay. Syn. -- Irritable; ill-humored; peevish; cross; fretful; querulous."
+      },
+      {
+        "source": "wordnet_s",
+        "definition": "easily irritated or annoyed"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Ralph Waldo Emerson",
+        "work": "Essays",
+        "sentence": "If he lost any credit of design, he augmented his resources; and, at that day, our petulant demand for originality was not so much pressed."
+      },
+      {
+        "author": "Oscar Wilde",
+        "work": "The Picture of Dorian Gray",
+        "sentence": "What is it all about?” cried Dorian in his petulant way, flinging himself down on the sofa."
+      }
+    ]
+  },
+  "petulantly": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "In a petulant manner."
+      },
+      {
+        "source": "wordnet_r",
+        "definition": "in a petulant manner"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Charles Dickens",
+        "work": "A Tale of Two Cities",
+        "sentence": "No; nor will she miss now,” cries The Vengeance, petulantly."
+      }
+    ]
+  },
+  "petunia": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "A genus of solanaceous herbs with funnelform or salver-shaped corollas. Two species are common in cultivation, Petunia violacera, with reddish purple flowers, and P. nyctaginiflora, with white flowers. There are also many hybrid forms with variegated corollas."
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "any of numerous tropical herbs having fluted funnel-shaped flowers"
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "annual or perennial herbs or shrubs of tropical South America"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Charles Darwin",
+        "work": "The Origin of Species",
+        "sentence": "It is notorious in how complicated a manner the species of Pelargonium, Fuchsia, Calceolaria, Petunia, Rhododendron, etc., have been crossed, yet many of these hybrids seed freely."
+      }
+    ]
+  },
+  "repetition": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "1. The act of repeating; a doing or saying again; iteration. I need not be barren of accusations; he hath faults, with surplus to tire in repetition. Shak. 2. Recital from memory; rehearsal. 3. (Mus.)  The act of repeating, singing, 4. (Rhet.)  Reiteration, or repeating the same word, or the same sense in different words, for the purpose of making a deeper impression on the audience. 5. (Astron. & Surv.)  The measurement of an angle by successive observations with a repeating instrument. Syn. -- Iteration; rehearsal. See Tautology."
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "an event that repeats"
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "the act of doing or performing again"
+      },
+      {
+        "source": "wordnet_n",
+        "definition": "the repeated use of the same word or word pattern as a rhetorical device"
+      }
+    ],
+    "quotes": [
+      {
+        "author": "William Shakespeare",
+        "work": "The Complete Works of William Shakespeare",
+        "sentence": "But repetition of what thou hast marred."
+      },
+      {
+        "author": "Thomas Hardy",
+        "work": "Far from the Madding Crowd",
+        "sentence": "His object was now to get to Pennyways, and prevent a repetition of the announcement until such time as he should choose."
+      },
+      {
+        "author": "Charles Darwin",
+        "work": "The Descent of Man",
+        "sentence": "Turner, has been expressly described by Theile as a rudimentary repetition of the extensor of the tail, a muscle which is so largely developed in many mammals."
+      },
+      {
+        "author": "George Eliot",
+        "work": "Silas Marner",
+        "sentence": "Do we not wile away moments of inanity or fatigued waiting by repeating some trivial movement or sound, until the repetition has bred a want, which is incipient habit?"
+      },
+      {
+        "author": "Oscar Wilde",
+        "work": "The Picture of Dorian Gray",
+        "sentence": "Romance lives by repetition, and repetition converts an appetite into an art."
+      },
+      {
+        "author": "Henry David Thoreau",
+        "work": "Walden",
+        "sentence": "It is not merely a repetition of what was worth repeating in the bell, but partly the voice of the wood; the same trivial words and notes sung by a wood-nymph."
+      },
+      {
+        "author": "Herman Melville",
+        "work": "Moby-Dick",
+        "sentence": "Mysteriously jetted into the clear moonlight, or starlight, as the case might be; disappearing again for one whole day, or two days, or three; and somehow seeming at every distinct repetition to be advancing still further and further in our van, this solitary jet seemed for ever alluring us on."
+      },
+      {
+        "author": "Nathaniel Hawthorne",
+        "work": "The Scarlet Letter",
+        "sentence": "It was the subject of my meditations for many an hour, while pacing to and fro across my room, or traversing, with a hundredfold repetition, the long extent from the front door of the Custom-House to the side entrance, and back again."
+      },
+      {
+        "author": "Bram Stoker",
+        "work": "Dracula",
+        "sentence": "She is to meet me at the Stores, so that I may not alarm her mother by too early a repetition of my call."
+      },
+      {
+        "author": "Charles Dickens",
+        "work": "A Tale of Two Cities",
+        "sentence": "How should a repetition of it be treated?"
+      },
+      {
+        "author": "Jonathan Swift",
+        "work": "Gulliver's Travels",
+        "sentence": "The gray ordered me to stand by him; and much discourse passed between him and his friend concerning me, as I found by the stranger’s often looking on me, and the frequent repetition of the word _Yahoo_."
+      },
+      {
+        "author": "Mary Shelley",
+        "work": "Frankenstein",
+        "sentence": "When they separated Felix kissed the hand of the stranger and said, ‘Good night sweet Safie.’ He sat up much longer, conversing with his father, and by the frequent repetition of her name I conjectured that their lovely guest was the subject of their conversation."
+      },
+      {
+        "author": "Jane Austen",
+        "work": "Sense and Sensibility",
+        "sentence": "As soon, however, as the consciousness of all this was forced by continual repetition on Marianne, she could stay no longer."
+      }
+    ]
+  },
+  "repetitious": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "Repeating; containing repetition. [U.S.] Dr. T. Dwight."
+      },
+      {
+        "source": "wordnet_a",
+        "definition": "characterized by repetition"
+      }
+    ],
+    "quotes": []
+  },
+  "repetitiousness": {
+    "definitions": [
+      {
+        "source": "wordnet_n",
+        "definition": "verboseness resulting from excessive repetitions"
+      }
+    ],
+    "quotes": []
+  },
+  "repetitive": {
+    "definitions": [
+      {
+        "source": "webster_1913",
+        "definition": "Containing repetition; repeating. [R.]"
+      },
+      {
+        "source": "wordnet_s",
+        "definition": "repetitive and persistent"
+      },
+      {
+        "source": "wordnet_a",
+        "definition": "characterized by repetition"
+      }
+    ],
+    "quotes": []
+  },
+  "repetitively": {
+    "definitions": [
+      {
+        "source": "wordnet_r",
+        "definition": "in a repetitive manner"
+      }
+    ],
+    "quotes": []
+  },
+  "repetitiveness": {
+    "definitions": [
+      {
+        "source": "wordnet_n",
+        "definition": "verboseness resulting from excessive repetitions"
+      }
+    ],
+    "quotes": []
+  },
+  "unappetising": {
+    "definitions": [
+      {
+        "source": "wordnet_a",
+        "definition": "not appetizing in appearance, aroma, or taste"
+      }
+    ],
+    "quotes": []
+  },
+  "unappetisingness": {
+    "definitions": [
+      {
+        "source": "wordnet_n",
+        "definition": "the property of spoiling the appetite"
+      }
+    ],
+    "quotes": []
+  },
+  "unappetizing": {
+    "definitions": [
+      {
+        "source": "wordnet_a",
+        "definition": "not appetizing in appearance, aroma, or taste"
+      }
+    ],
+    "quotes": []
+  },
+  "unappetizingness": {
+    "definitions": [
+      {
+        "source": "wordnet_n",
+        "definition": "the property of spoiling the appetite"
+      }
+    ],
+    "quotes": []
+  },
+  "uncompetitive": {
+    "definitions": [
+      {
+        "source": "wordnet_s",
+        "definition": "not inclined to compete"
+      }
+    ],
+    "quotes": []
+  }
+}

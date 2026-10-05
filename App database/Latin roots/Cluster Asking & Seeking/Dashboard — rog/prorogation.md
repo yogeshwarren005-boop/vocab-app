@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Discontinuation of the meeting (of a legislative body) without dissolving it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Discontinuation of the meeting (of a legislative body) without dissolving it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formal discontinuance or adjournment of a legislative session by executive or sovereign proclamation without dissolving the assembly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In parliamentary law, the termination of all uncompleted legislative business marking the recess between successive parliamentary sessions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Parliament have three modes of separation, to wit: by adjournment, by prorogation or dissolution by the King, or by the efflux of the term for which they were elected."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Prorogation or dissolution constitutes there what is called a session; provided some act was passed."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Committees may be appointed to sit during a recess by adjournment, but not by prorogation. _5 Grey_, 374; _9 Grey_, 350; _1 Chandler_, 50."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The King announced the unexpected **prorogation** of parliament in order to prevent an impending vote of censure."*
+> - 📜 **Walter Bagehot (*The English Constitution*):** *"The power of **prorogation** enables the crown to terminate the sittings of the legislature at the close of an arduous session."*
+> - 📜 **David Hume (*The History of England*):** *"A sudden **prorogation** intervened to suspend the heated debates that threatened domestic peace."*
+

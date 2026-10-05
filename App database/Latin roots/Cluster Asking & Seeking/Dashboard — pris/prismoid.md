@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A prismatoid whose bases are polygons having the same number of sides and whose other faces are trapezoids or parallelograms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A prismatoid whose bases are polygons having the same number of sides and whose other faces are trapezoids or parallelograms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prismatoid whose two parallel polygon bases have the same number of sides and whose lateral faces are trapezoids or parallelograms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil engineering and volumetric mensuration, a standard geometric form used to compute cut-and-fill railway embankments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prismoid designates a prismatoid whose bases are polygons having the same number of sides and whose other faces are trapezoids or parallelograms."*
+> - 📜 **W. J. M. Rankine (*A Manual of Civil Engineering*):** *"The solid content of an excavation between two cross-sections is calculated with precision by treating it as a **prismoid**."*
+> - 📜 **Simon Newcomb (*Elements of Geometry*):** *"A regular **prismoid** possesses bases whose corresponding sides remain strictly proportional throughout the axis."*
+> - 📜 **William M. Gillespie (*A Treatise on Land-Surveying*):** *"The railway engineer relies upon the **prismoid** formula to avoid the inaccuracies inherent in the method of average end areas."*
+

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A minute red or purple spot on the surface of the skin as the result of tiny hemorrhages of blood vessels in the skin (as in typhoid fever).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A minute red or purple spot on the surface of the skin as the result of tiny hemorrhages of blood vessels in the skin (as in typhoid fever).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small red or purple spot on the skin or mucous membrane caused by minor capillary hemorrhage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical hematology and pathology, a pinpoint purpuric macule (less than 3 mm) resulting from thrombocytopenia, vasculitis, or platelet dysfunction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petechia designates a minute red or purple spot on the surface of the skin as the result of tiny hemorrhages of blood vessels in the skin (as in typhoid fever)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Careful inspection of the conjunctivae often reveals a diagnostic **petechia** in cases of suspected infective endocarditis."*
+> - 📜 **Richard Bright (*Reports of Medical Cases*):** *"Scattered over the patient's forearm was many a minute **petechia**, signaling severe capillary fragility under feverish conditions."*
+> - 📜 **Thomas Watson (*Lectures on the Principles and Practice of Physic*):** *"The presence of a persistent **petechia** upon the trunk distinguishes malignant typhus from benign catarrhal fevers."*

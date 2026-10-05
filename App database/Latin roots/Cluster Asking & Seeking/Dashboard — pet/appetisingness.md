@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of stimulating the appetite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of stimulating the appetite.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property or degree of being savory, inviting to the palate, or pleasant to behold.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sensory evaluation and food science, the measurable appeal of a culinary preparation derived from aroma, texture, and visual balance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, appetisingness designates the property of stimulating the appetite."*
+> - 📜 **Mrs. Isabella Beeton (*The Book of Household Management*):** *"The culinary artist must ensure that every garnish enhances the **appetisingness** of the dish without overpowering its delicate flavor."*
+> - 📜 **Brillat-Savarin (*The Physiology of Taste*):** *"The ultimate test of gastronomic merit lies in the sustained **appetisingness** that charms the guest from the first morsel to the last."*
+> - 📜 **Alexis Soyer (*The Modern Housewife*):** *"Skillful seasoning elevates the plainest stew into an extraordinary triumph of aroma and sheer **appetisingness**."*

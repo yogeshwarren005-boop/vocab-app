@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a petulant manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a petulant manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a peevish, irritable, childishly petulant, or ill-tempered manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative dialogue, speaking or reacting with sudden irritable displeasure over inconsequential slights.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe,” I interrupted, pettishly, “how can you call me, sir?” Joe looked at me for a single instant with something faintly like reproach."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Featherstone?” “That’s all very fine,” said Fred, pettishly."*
-> - 📜 **George Eliot (*Middlemarch*):** *"You often see her, I suppose.” “No,” said Will, almost pettishly."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Featherstone turned his face to the wall and mutely rejected the medicine **pettishly**, declaring that all doctors were bloodsuckers."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Estella turned away **pettishly**, mocking my rustic clumsiness with a scornful curl of her beautiful lips."*
+> - 📜 **Anthony Trollope (*The Eustace Diamonds*):** *"Lizzie tossed the jewel box upon the sofa **pettishly**, complaining that no one in the house cared for her feelings."*

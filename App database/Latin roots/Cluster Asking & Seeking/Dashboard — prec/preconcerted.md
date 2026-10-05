@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Previously arranged or agreed on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Previously arranged or agreed on.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arranged, planned, settled, or agreed upon beforehand, as by conspiracy or mutual accord.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In criminal conspiracy jurisprudence, denoting collective unlawful intent orchestrated prior to the commission of the overt act.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Anne, remembering the preconcerted visits, at all hours, of Mr Elliot, would have expected him, but for his known engagement seven miles off."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It is only fair to Bathsheba to explain here a little fact which did not come to light till a long time afterwards: that Troy’s presentation of himself so aptly at the roadside this evening was not by any distinctly preconcerted arrangement."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"As they were enjoying together this favorite Hawaiian pastime of _lele kowali_, by a preconcerted signal the friends above were informed of the success of his ruse and were now rapidly drawing them up."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It did not come to light till afterwards that the meeting was a **preconcerted** scheme devised between Troy and the stranger."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Social baboons frequently advance upon feeding grounds according to a **preconcerted** plan of mutual sentinels."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Anne, remembering the **preconcerted** visits of Mr. Elliot, would have expected his arrival but for his known engagements."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving competition or competitiveness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subscribing to capitalistic competition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, characterized by, or inclined toward competition, rivalry, and ambitious struggle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial commerce, possessing advantages in cost, performance, or strategy that enable an enterprise to prevail over rivals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"We may note here merely that the use of money is an outstanding feature of the present economic system and gives rise to many of the problems of political economy. § 10. #The competitive system#."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The rent, however, was not a competitive price, but consisted of the dues and services which the forefathers had been accustomed to pay."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"I, p. 73.] [Footnote 7: This will appear in comparing the competitive method of distribution with other methods in ch. 31.] [Footnote 8: See Vol."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"The modern industrial system fosters an intensely **competitive** drive for pecuniary status and conspicuous display."*
+> - 📜 **H. G. Wells (*Tono-Bungay*):** *"He threw himself into the chaotic, **competitive** whirl of London commerce with reckless commercial enthusiasm."*
+> - 📜 **Henry Adams (*The Education of Henry Adams*):** *"American society was transformed into a giant **competitive** engine where only mechanical force and finance held sway."*

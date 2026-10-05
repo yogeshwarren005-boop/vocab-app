@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to near the ear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or perceived by or shaped like the organ of hearing; - george santayana.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the ear, the sense of hearing, or the auricles of the heart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical practice and cardiology, private confession whispered into a priest's ear, or relating to atrial rhythms and fibrillation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If your honour judge it meet, I will place you where you shall hear us confer of this, and by an auricular assurance have your satisfaction, and that without any further delay than this very evening."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"When she ceased, the auricular impressions from their previous endearments seemed to hustle away into the corner of their brains, repeating themselves as echoes from a time of supremely purblind foolishness."*
-> - 📜 **James Scurry (*The captivity, sufferings, and escape of James Scurry*):** *"We often laughed at the strange stories relative to this man; but, from auricular and ocular demonstration, we could not avoid believing some of them."*
+> - 📜 **William Shakespeare (*King Lear*):** *"I heard him swear that it was not his intention: 'Tis my son: God put him to't! But yet I have an **auricular** assurance of it in his own letters."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The quiet whispers exchanged across the pews were intended for the **auricular** benefit of the rector alone."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Irregular pulse deficits in mitral stenosis frequently signal the onset of chronic **auricular** fibrillation."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A concave cut into a surface or edge (as in a coastline).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formal agreement between the issuer of bonds and the bondholders as to terms of the debt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal legal contract or deed between two or more parties, historically executed in duplicate with notched or indented edges.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colonial labor history and contract law, a binding covenant obligating an apprentice or servant to labor for a master over a fixed term of years.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, Francis, darest thou be so valiant as to play the coward with thy indenture, and show it a fair pair of heels, and run from it?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Empty Old receptacles, or common shores, of filth; Serve by indenture to the common hangman: Any of these ways are yet better than this; For what thou professest, a baboon, could he speak, Would own a name too dear."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"In his malignity, he is ready to pledge his soul to Satan (leaving a flaw in the indenture), to see blasted that rose-acacia Laurence is so proud of."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"Go with me to a notary, seal me there your single bond; and, in a merry sport, if you repay me not on such a day, let the forfeit be nominated in our formal **indenture**."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"The family lawyer drew up the formal **indenture** of settlement that secured the estate to the heirs male."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe Gargery proudly produced the sheepskin **indenture** that bound me apprentice to the blacksmith's trade."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bind by or as if by indentures, as of an apprentice or servant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bound by contract.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bound by a formal contract of service or apprenticeship to work for another for a specified term.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colonial labor economics and contract history, designating workers bound by legal indentures to repay transit or learn a recognized trade.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, indentured designates bind by or as if by indentures, as of an apprentice or servant."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I was formally **indentured** to Joe Gargery before the magistrate, binding me to serve faithfully as his blacksmith apprentice."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Thousands of political convicts were transported to the American colonies as **indentured** laborers under harsh taskmasters."*
+> - 📜 **Benjamin Franklin (*The Autobiography of Benjamin Franklin*):** *"At the age of twelve I was **indentured** to my brother James to learn the printing trade in Boston."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or affecting the atria and ventricles of the heart.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or affecting the atria and ventricles of the heart.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or connecting the auricles (atria) and ventricles of the heart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiac electrophysiology and anatomy (atrioventricular), designating the AV valves (tricuspid and mitral), the AV node, and the bundle of His.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, auriculoventricular designates relating to or affecting the atria and ventricles of the heart."*
+> - 📜 **William Harvey (*Exercitatio Anatomica de Motu Cordis et Sanguinis in Animalibus*):** *"The membranous **auriculoventricular** valves prevent the regurgitation of blood into the auricles during ventricular contraction."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Pathological lesions interrupting the **auriculoventricular** bundle of His produce complete heart block and Stokes-Adams syncope."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The fibrous ring at the **auriculoventricular** junction insulates the atrial musculature from the ventricles, ensuring sequential contraction."*

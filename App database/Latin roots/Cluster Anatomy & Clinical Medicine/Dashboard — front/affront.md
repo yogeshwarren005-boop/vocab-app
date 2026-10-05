@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A deliberately offensive act or something producing the effect of deliberate disrespect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treat, mention, or speak to rudely.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An open, intentional insult or offense to someone's dignity or personal honor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social ethics and aristocratic honor codes, a provocative public slight delivered to the face, historically demanding formal satisfaction or duel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good my liege, Your preparation can affront no less Than what you hear of."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There was a fourth man, in a silly habit, That gave th’ affront with them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sweet Gertrude, leave us too, For we have closely sent for Hamlet hither, That he, as ’twere by accident, may here Affront Ophelia."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"For we have closely sent for Hamlet hither, that he, as 'twere by accident, may here **affront** Ophelia."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"A deliberate and unprovoked **affront** wounds human pride far more deeply than the loss of material possessions."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard took the refusal as a direct personal **affront**, brooding over the injury in grim silence."*

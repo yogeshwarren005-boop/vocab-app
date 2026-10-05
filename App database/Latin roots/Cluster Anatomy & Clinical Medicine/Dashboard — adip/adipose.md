@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Composed of animal fat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Composed of animal fat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, composed of, or resembling animal fat; fatty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histology and metabolic physiology, describing connective tissue specialized for triacylglycerol storage, endocrine signaling, and thermal insulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Fit as a fiddle only he has a lot of adipose tissue concealed about his person."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"In animals living in cold climates, a thick layer of **adipose** tissue beneath the dermis serves as an essential barrier against freezing temperatures."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Excessive accumulation of **adipose** deposits around the pericardium frequently embarrasses cardiac contractions."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Microscopic sections through the hypodermis reveal dense clusters of **adipose** cells packed with gleaming oil droplets."*

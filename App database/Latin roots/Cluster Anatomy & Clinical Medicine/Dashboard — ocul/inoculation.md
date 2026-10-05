@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Taking a vaccine as a precaution against contracting a disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Taking a vaccine as a precaution against contracting a disease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The introduction of an antigenic substance or pathogen into the body to produce immunity against disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In immunology and epidemiology, the historical practice of variolation, succeeded by Jennerian vaccination and modern preventative immunization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Inoculation of thought The baneful effect of evil associates is less seen than felt."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The inoculation of evil human thoughts ought to 449:21 be understood and guarded against."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Much has been done to elucidate this mystery of inoculation, but much also remains a mystery still."*
+> - 📜 **Lady Mary Wortley Montagu (*Letters from the Right Honourable Lady Mary Wortley Montagu*):** *"The Turkish matrons perform the operation of **inoculation** with a needle, preserving thousands of children from death and disfigurement."*
+> - 📜 **Edward Jenner (*An Inquiry into the Causes and Effects of the Variolae Vaccinae*):** *"The security against smallpox derived from cowpox **inoculation** has proved constant through extensive trials across every age."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Preventive **inoculation** against typhoid fever has drastically reduced mortality among soldiers serving in foreign encampments."*

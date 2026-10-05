@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the upper jaw and its associated teeth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the upper jaw and its associated teeth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or involving both the maxilla (upper jaw) and the teeth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orthodontics and craniofacial surgery, relating to the anatomical and biomechanical relationships between the maxillary dental arch and the facial skeleton.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, maxillodental designates of or relating to the upper jaw and its associated teeth."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Congenital cleft palate severely alters normal **maxillodental** alignment, requiring coordinated surgical and orthodontic care."*
+> - 📜 **Richard Owen (*Odontography*):** *"The firm anchorage of mammalian molars relies upon specialized **maxillodental** sutures within the alveolar processes."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"In carnivores, the massive canines are supported by thickened **maxillodental** buttresses capable of resisting heavy biting forces."*

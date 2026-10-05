@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ornamental facade.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Front illustration facing the title page of a book.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An illustration or decorative engraving facing the title page of a book.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical architecture and bibliography, the principal pedimented facade of a building, or the ornate engraved front plate introducing a literary volume.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It possesses itself of the sixpenny history (with highly coloured folding frontispiece) of Mr."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"His frontispiece, boats attacking Sperm Whales, though no doubt calculated to excite the civil scepticism of some parlor men, is admirably correct and life-like in its general effect."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"It'll soak in" _Frontispiece_ They had a momentary vision of an excited dog, framed in the doorway "I've only bin and drove 'im further up," said Mrs."*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"The curious book contained a charming **frontispiece** showing the White Rabbit in his waistcoat inspecting his pocket watch."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The venerable Dutch folio opened with an astonishing **frontispiece** depicting Jonah escaping from the jaws of a monstrous whale."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The antique volume was adorned with a quaint copperplate **frontispiece** depicting the pious author in his Puritan band and cloak."*

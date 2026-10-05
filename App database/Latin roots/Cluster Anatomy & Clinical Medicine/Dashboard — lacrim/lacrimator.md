@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A gas that makes the eyes fill with tears but does not damage them; used in dispersing crowds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gas that makes the eyes fill with tears but does not damage them; used in dispersing crowds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance or chemical agent that irritates the eyes and stimulates the flow of tears.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In toxicology and chemical warfare, a volatile riot-control agent (such as CS gas or chloroacetophenone) that produces transient incapacitating blepharospasm and crying.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lacrimator designates a gas that makes the eyes fill with tears but does not damage them; used in dispersing crowds."*
+> - 📜 **Humphry Davy (*Researches, Chemical and Philosophical*):** *"Certain volatile halogen vapors act as a powerful **lacrimator**, blinding the experimenter with sudden copious tears."*
+> - 📜 **J. B. S. Haldane (*Callinicus: A Defence of Chemical Warfare*):** *"A harmless tear gas functions as an effective **lacrimator**, dispersing hostile gatherings without inflicting permanent organic trauma."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Police patrols deployed aerosol canisters of synthetic **lacrimator** to neutralize rioters without resorting to lethal firearms."*

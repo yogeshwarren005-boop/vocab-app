@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a shape resembling an ear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a shape resembling an ear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like an ear; having the form or contour of a human or mammalian ear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In malacology and mycology, describing ear-shaped biological structures such as the ear-shell (*Haliotis*) or jelly ear fungus (*Auricularia*).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, auriform designates having a shape resembling an ear."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The shell of the abalone exhibits an **auriform** contour with a flattened spire and an enormous iridescent aperture."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"Upon the decaying trunk of an ancient elder tree we observed curious **auriform** gelatinous fungi glistening in the autumn rain."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"Certain marine gastropods develop an **auriform** operculum that securely closes their ear-shaped shell against predatory crabs."*

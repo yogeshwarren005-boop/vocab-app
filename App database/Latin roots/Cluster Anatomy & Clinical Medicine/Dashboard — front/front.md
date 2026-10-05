@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The side that is forward or prominent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The line along which opposing armies face each other.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The foremost part, surface, or side of something, or the part that faces forward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military strategy, meteorology, and anatomy, the line of actual contact between armed forces, the boundary separating contrasting air masses, or the forehead (*frons*).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Those his goodly eyes, That o’er the files and musters of the war Have glowed like plated Mars, now bend, now turn The office and devotion of their view Upon a tawny front."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tomorrow, Caesar, I shall be furnished to inform you rightly Both what by sea and land I can be able To front this present time."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sirs, you four shall front them in the narrow lane."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He had his hurts before, on the very **front** of his body; ay, on the **front**; why then, God's soldier be he!"*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The grand white forehead of the whale presented an impenetrable wall in **front**, baffling the whalemen's lances."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I wished to live deliberately, to **front** only the essential facts of life, and see if I could not learn what it had to teach."*

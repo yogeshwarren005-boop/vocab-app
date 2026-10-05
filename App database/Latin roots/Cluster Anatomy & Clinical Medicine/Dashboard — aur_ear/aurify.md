@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Transform into gold.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Turn golden.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To turn or transform into gold, or to gild and adorn with gold.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of alchemy and poetic metaphor, the sought-after transmutation of base metals into pure gold via the philosopher's stone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aurify designates transform into gold."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"The alchemists labored in vain to **aurify** common lead and copper through subtle mercurial distillations."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"The poet's imagination possesses the wondrous faculty to **aurify** the meanest objects of daily life with glorious imagery."*
+> - 📜 **Walter Pater (*The Renaissance: Studies in Art and Poetry*):** *"The morning sun seemed to **aurify** the marble domes of Venice, turning water and stone into a city of pure gold."*

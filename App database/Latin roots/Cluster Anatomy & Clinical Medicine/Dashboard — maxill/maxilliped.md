@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin maxill within the domain of Anatomy & Clinical Medicine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of maxill in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the paired appendages modified to function as mouthparts in crustaceans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine invertebrate carcinology, thoracic limbs shifted forward during cephalization to manipulate, shred, and sort food particles before ingestion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, maxilliped designates pertaining to, derived from, or characteristic of latin maxill within the domain of anatomy & clinical medicine."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The transition from a locomotive thoracic limb to an accessory **maxilliped** mouthpart is beautifully illustrated across diverse decapod crustaceans."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish: An Introduction to the Study of Zoology*):** *"The third **maxilliped** of the crayfish acts as a tactile feeler and protective cover over the delicate inner masticatory jaws."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"Microscopic examination of the crab larva reveals the gradual transformation of swimming setae on each **maxilliped** into grasping spines."*

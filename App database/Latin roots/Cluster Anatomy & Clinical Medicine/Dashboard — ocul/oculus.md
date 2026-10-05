@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The organ of sight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The organ of sight.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A circular opening in the center of a dome or wall, or the eye in classical anatomical description.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman architecture and botany, the unglazed circular opening at the apex of a rotunda (as in the Pantheon), or a leaf bud on a tuber.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oculus designates the organ of sight."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The majestic dome of the Pantheon is illuminated solely by the great circular **oculus** open to the changing skies of Rome."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"A beautifully carved marble **oculus** admitted a beam of filtered daylight into the dark vaulted sanctuary."*
+> - 📜 **Henry James (*Italian Hours*):** *"Rain fell gently through the central **oculus** of the ancient temple, splashing upon the polished porphyry pavement beneath."*

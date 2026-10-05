@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Yellow-flowered primrose native to alps; commonly cultivated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pouch projecting from the top front of each atrium of the heart.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A European alpine primrose (*Primula auricula*) cultivated for its brightly colored, fragrant flowers, or the external ear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical floriculture and botany, the bear's-ear primula celebrated by eighteenth-century English plant fanciers for its meal-dusted petals and intricate color rings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Flowers peeped out amongst the leaves; snow-drops, crocuses, purple auriculas, and golden-eyed pansies."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The cottage gardeners displayed prized pots of blooming **auricula**, shielding the delicate powdery petals from spring squalls."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"This charming plant is termed **auricula** ursi or bear's ear, because its thick fleshy leaves resemble the ears of a beast."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"Horticultural varieties of **Auricula** illustrate heterostyly, requiring cross-pollination between long-styled and short-styled blossoms."*

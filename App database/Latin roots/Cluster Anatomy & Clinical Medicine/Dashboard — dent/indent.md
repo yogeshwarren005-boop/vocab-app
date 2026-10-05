@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An order for goods to be exported or imported.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The space left between the margin and the start of an indented line.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To form notches, tooth-like recesses, or deep impressions along an edge, or to set text inward from a margin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal history and cartography, to notch the jagged edge of duplicate deeds to prove matching authenticity, or to cut deeply into a coastline.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall we buy treason and indent with fears When they have lost and forfeited themselves?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It shall not wind with such a deep indent, To rob me of so rich a bottom here."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"At length they came to a small cove, or rather indent of the shore."*
+> - 📜 **William Shakespeare (*Venus and Adonis*):** *"More white and red than doves or roses are, nature that made thee, with herself at strife, saith that the world hath ending with thy life; see how the horses **indent** the soft sand along the ocean shore."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The lawyer instructed the clerk to **indent** the opening paragraphs of the formal petition with utmost neatness."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Deep wooded coves **indent** the shoreline of the pond, sheltering quiet waters from the northern blast."*

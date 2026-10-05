@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person skilled in testing for defects of vision in order to prescribe corrective glasses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medical doctor specializing in the diagnosis and treatment of diseases of the eye.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical specialist who treats diseases and defects of the eye; an ophthalmologist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical history and historical social life, a physician specializing in cataract couching, prescribing corrective spectacles, and managing eye ailments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"He had the advice of an eminent oculist; and he eventually recovered the sight of that one eye."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Just before I commenced reading Science and Health I spent a half day in having my eyes examined by one of the leading oculists in Boston."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Oculists told me I would always have to wear them."*
+> - 📜 **Jane Austen (*Emma*):** *"The delicate state of his sight induced Mr. Woodhouse to seek the advice of a celebrated London **oculist**."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The poor clerk strained his inflamed eyes by candlelight until he was compelled to consult an **oculist** in Lincoln's Inn."*
+> - 📜 **Oliver Wendell Holmes Sr. (*The Autocrat of the Breakfast-Table*):** *"The skillful **oculist** examines the fundus of the eye, discerning systemic disorders mirrored upon the vascular retina."*

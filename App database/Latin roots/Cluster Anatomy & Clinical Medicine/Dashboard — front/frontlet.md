@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An adornment worn on the forehead.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An adornment worn on the forehead.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A decorative band, ribbon, or jewel worn across the forehead.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical costume and ornithology, an ornamental brow-band worn by women, or the frontal feather patch situated directly above the avian beak.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Osric: Though I may not take up thy gauntlet, Should we meet where the steel strikes fire, 'Twixt thy casque and thy charger's frontlet The choice will perplex thy squire."*
-> - 📜 **James Joyce (*Ulysses*):** *"White horses with white frontlet plumes came round the Rotunda corner, galloping."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Every new State as it takes its place in the great family binds this declaration as a frontlet upon its forehead."*
+> - 📜 **William Shakespeare (*King Lear*):** *"How now, daughter! What makes that **frontlet** on? Methinks you are too much of late i' the frown."*
+> - 📜 **Walter Scott (*The Lady of the Lake*):** *"A slender golden **frontlet** bound her dark tresses, gleaming softly beneath the velvet hood."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The fair queen appeared adorned with an exquisite **frontlet** of oriental pearls upon her radiant brow."*

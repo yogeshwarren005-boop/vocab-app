@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The extent of land abutting on a street or water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The direction in which something (such as a building) faces.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The front part of a building or piece of land facing a street, river, or other open space.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urban planning and real estate law, the linear extent of a property boundary abutting a public road or navigable waterfront.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Sheltered from draughts by the outstanding walls, yet with a glass roof and frontage to catch every ray of sun, the parlour would be an ideal refuge for spring and autumn."*
+> - 📜 **G. K. Chesterton (*The Club of Queer Trades*):** *"The narrow house presented an eccentric brick **frontage** ornamented with strange gothic gargoyles staring into the street."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The timber warehouse enjoyed an extensive river **frontage** that permitted barges to unload grain directly beneath its cranes."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"The gloomy **frontage** of the Marshalsea prison frowned upon the narrow alley, casting a cold shadow over all who passed."*

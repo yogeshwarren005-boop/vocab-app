@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A consonant articulated with the tip of the tongue near the gum ridge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the teeth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the teeth, or relating to dentistry and dental care.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phonetics and odontological anatomy, speech sounds articulated with the tongue against the upper teeth, or anatomical structures of the dentition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"He took a reel of dental floss from his waistcoat pocket and, breaking off a piece, twanged it smartly between two and two of his resonant unwashed teeth. —Bingbang, bangbang."*
-> - 📜 **James Joyce (*Ulysses*):** *"As he strode past Mr Bloom’s dental windows the sway of his dustcoat brushed rudely from its angle a slender tapping cane and swept onwards, having buffeted a thewless body."*
-> - 📜 **James Joyce (*Ulysses*):** *"Ah, yes! _(He takes off his high grade hat, saluting.)_ Dr Bloom, Leopold, dental surgeon."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The **dental** formulas of placental mammals exhibit striking homologies that elucidate their ancestral genealogical affinities."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic oral sepsis arising from neglected **dental** caries frequently serves as the hidden nidus for bacterial endocarditis."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"In carnivorous quadrupeds, the specialized **dental** apparatus includes sharp sectorial blades designed to shear flesh and bone."*

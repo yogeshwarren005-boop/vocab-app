@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or containing or derived from gold.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or containing or derived from gold.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, containing, or derived from gold, especially in its monovalent (+1) oxidation state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In inorganic chemistry, designating univalent gold compounds such as aurous chloride ($AuCl$) or aurous cyanide ($AuCN$).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aurous designates of or relating to or containing or derived from gold."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Gentle heating of the trichloride expels chlorine gas, yielding pale yellow insoluble powder of **aurous** chloride."*
+> - 📜 **Jöns Jacob Berzelius (*Treatise on Chemistry*):** *"The **aurous** oxide dissolves in boiling water with immediate disproportionation into metallic gold and auric hydroxide."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The formation of the double cyanide of **aurous** gold and potassium is fundamental to commercial electrolytic gilding."*

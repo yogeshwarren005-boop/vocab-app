@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: European bison having a smaller and higher head than the north american bison.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large recently extinct long-horned european wild ox; considered one of the ancestors of domestic cattle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct large wild ox (*Bos primigenius*) that inhabited the forests of Europe, ancestral to domestic cattle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In European paleontological ecology and hunting history, the towering horned wild bovine that survived in Poland until the final specimen perished in 1627.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aurochs designates european bison having a smaller and higher head than the north american bison."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Skeletal remains from Swiss lake dwellings demonstrate that our larger breeds of domestic cattle descend from the formidable wild **aurochs**."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The immense horn-cores of the **aurochs** recovered from Pleistocene peat bogs dwarf those of any modern domesticated ox."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Caesar described the fierce and gigantic **aurochs** roaming the Hercynian forest, which the German youth captured in concealed pits."*

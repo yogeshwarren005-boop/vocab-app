@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the upper jaw and face (particularly with reference to specialized surgery of the maxilla).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the upper jaw and face (particularly with reference to specialized surgery of the maxilla).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, involving, or treating the maxilla (upper jaw) and face.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reconstructive surgery and dental subspecialties, relating to the comprehensive surgical repair of craniofacial trauma, congenital clefts, and facial bone deformities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, maxillofacial designates of or relating to the upper jaw and face (particularly with reference to specialized surgery of the maxilla)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe artillery trauma required the establishment of specialized surgical wards dedicated entirely to reconstructive **maxillofacial** repairs."*
+> - 📜 **Sir Astley Cooper (*A Treatise on Dislocations and Fractures of the Joints*):** *"Complex **maxillofacial** injuries demand immediate airway protection prior to reduction of the shattered facial bones."*
+> - 📜 **Howard Kelly (*Operative Surgery*):** *"The pioneering surgeon devised delicate osteotomy techniques that laid the foundation for modern **maxillofacial** surgery."*

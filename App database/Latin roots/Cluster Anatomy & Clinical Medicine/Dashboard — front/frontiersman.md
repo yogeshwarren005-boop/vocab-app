@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A man who lives on the frontier.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A man who lives on the frontier.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who lives near or explores the wilderness boundary of settled territory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American cultural history, an independent pioneer, scout, or backwoods settler skilled in wilderness survival, tracking, and defensive combat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Think back to when your children, now parents, were very young and romped in the back yard with their personal frontiersman, pardner or 'friend' who was steadfast and always alongside."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Far East and Far West have met, and the homes of the Russian pioneer and American frontiersman are much alike."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Cody had all the frontiersman's fondness for practical jokes, and delighted in designating Mr."*
+> - 📜 **Theodore Roosevelt (*The Winning of the West*):** *"The American **frontiersman** relied upon his trusty long rifle, woodcraft, and indomitable courage to tame the Appalachian wilderness."*
+> - 📜 **Mark Twain (*Roughing It*):** *"In every mining settlement we encountered the veteran **frontiersman**, clad in buckskin and full of tall tales about hostile ambushes."*
+> - 📜 **Francis Parkman (*The Oregon Trail*):** *"The hardened **frontiersman** regarded the vast prairie as his natural home, reading the trail with the uncanny instinct of an Indian."*

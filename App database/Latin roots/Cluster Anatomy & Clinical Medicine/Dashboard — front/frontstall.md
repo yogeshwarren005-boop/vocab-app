@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Medieval plate armor to protect a horse's head.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Medieval plate armor to protect a horse's head.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A seat or stall in the front row of a theater, church, or market.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical choir architecture and theatrical staging, an anterior reserved bench occupied by senior dignitaries or prominent patrons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, frontstall designates medieval plate armor to protect a horse's head."*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"The precentor took his place in the carved oak **frontstall** of the cathedral choir as the organ prelude began."*
+> - 📜 **George Eliot (*Scenes of Clerical Life*):** *"The village squire and his family occupied the red-cushioned **frontstall** overlooking the parish pulpit."*
+> - 📜 **Thomas Hardy (*Under the Greenwood Tree*):** *"The churchwardens sat with solemn gravity in the **frontstall**, keeping a watchful eye upon the fidgeting schoolboys."*

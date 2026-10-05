@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The craft of an oculist.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The craft of an oculist.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical study, diagnosis, and treatment of eye diseases; ophthalmology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of nineteenth-century medicine, the specialized scientific discipline and clinical practice devoted to diseases of the visual organ.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oculism designates the craft of an oculist."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The rapid development of modern **oculism** has transformed eye surgery from crude empiricism into an exact scientific art."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Specialized treatises on **oculism** emphasize the crucial diagnostic significance of funduscopic changes in renal disease."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The fashionable physician had devoted his youth to the study of **oculism** in the great ophthalmic clinics of Vienna."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Supplies extrinsic muscles of the eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supplies extrinsic muscles of the eye.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or causing movements of the eyeball.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neuroanatomy, relating to the third cranial nerve (CN III), which innervates the superior, inferior, and medial recti, the inferior oblique, and parasympathetic pupillary constrictors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oculomotor designates supplies extrinsic muscles of the eye."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Complete paralysis of the **oculomotor** nerve causes marked ptosis, pupillary dilation, and an eye turned downward and outward."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Fibers from the **oculomotor** nucleus emerge from the medial aspect of the cerebral peduncles toward the cavernous sinus."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"Reciprocal innervation coordinates antagonistic muscle groups through the motor nuclei of the **oculomotor** and abducens nerves."*

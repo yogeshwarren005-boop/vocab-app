@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or prompting tears.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or prompting tears.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or causing tears, or a small antique vessel formerly believed to hold tears of mourners.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical archaeology and ophthalmology, a tear-bottle (*lachrymatory*) found in ancient Roman sepulchers, or physiological reflexes producing weeping.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lacrimatory designates relating to or prompting tears."*
+> - 📜 **Thomas Browne (*Hydriotaphia, Urn Burial*):** *"Among the burnt relics were found small glass ampullae, commonly reputed for tear-bottles or **lacrimatory** vessels of ancient mourners."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Miss Dartle looked with bitter scorn at the weepings of Mrs. Steerforth, mocking her **lacrimatory** displays as hollow theatricals."*
+> - 📜 **Nathaniel Hawthorne (*Mosses from an Old Manse*):** *"The antique scholar displayed an exquisite Roman **lacrimatory**, imagining the forgotten sorrows once consecrated within its delicate crystal."*

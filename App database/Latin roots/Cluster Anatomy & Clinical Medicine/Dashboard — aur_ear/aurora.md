@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The first light of day.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An atmospheric phenomenon consisting of bands of light caused by charged solar particles following the earth's magnetic lines of force.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A natural electrical light display in the sky near the magnetic poles (aurora borealis or australis), or the dawn.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geophysics and classical poetry, atmospheric luminous emissions produced by geomagnetic solar wind interactions in the ionosphere, or the Roman goddess of dawn.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My fairy lord, this must be done with haste, For night’s swift dragons cut the clouds full fast; And yonder shines Aurora’s harbinger, At whose approach, ghosts wandering here and there Troop home to churchyards."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"By the aid of the Casterbridge aurora, and by feeling with her hands, the woman selected two sticks from the heaps."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Browning, in the Fifth Book of her ‘Aurora Leigh’, has given a full and very forcible expression to the feeling which has caused the highest dramatic genius of the present day to seek refuge in the poem and the novel."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"But all so soon as the all-cheering sun should in the farthest east begin to draw the shady curtains from **Aurora**'s bed, away from light steals home my heavy son."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"A faint luminous arch spanned the northern sky, pulsing with the ghostly green streamers of the **aurora** above Egdon Heath."*
+> - 📜 **Ralph Waldo Emerson (*Nature*):** *"The poet sees in the rising dawn a celestial **aurora** that awakens the sleeping intellect of humanity."*

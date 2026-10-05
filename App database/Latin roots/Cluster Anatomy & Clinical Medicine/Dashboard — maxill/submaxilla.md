@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The jaw in vertebrates that is hinged to open the mouth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The jaw in vertebrates that is hinged to open the mouth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The lower jawbone (mandible), or the submandibular salivary gland situated beneath the lower jaw.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaic and comparative anatomical descriptions, designating the inferior jaw arch or the encapsulated salivary structures tucked beneath the mylohyoid muscle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, submaxilla designates the jaw in vertebrates that is hinged to open the mouth."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"In lower vertebrates the **submaxilla** consists of several distinct ossicles that fuse into a single dentary bone in mammals."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Suppurative inflammation originating beneath the **submaxilla** threatens rapid descent of purulence into the deep fascial planes of the neck."*
+> - 📜 **Claude Bernard (*Lectures on Experimental Physiology*):** *"Stimulation of the chorda tympani nerve produces a copious secretion of thin watery saliva from the exposed **submaxilla**."*

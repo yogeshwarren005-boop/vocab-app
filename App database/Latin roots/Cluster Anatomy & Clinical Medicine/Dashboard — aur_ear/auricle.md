@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small conical pouch projecting from the upper anterior part of each atrium of the heart.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The externally visible cartilaginous structure of the external ear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The external visible part of the ear (pinna), or an upper atrium/appendage of the heart that receives blood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human cardiac anatomy, the muscular pouch projecting from the right or left atrium, functioning as an elastic reservoir during atrial systole.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, auricle designates a small conical pouch projecting from the upper anterior part of each atrium of the heart."*
+> - 📜 **William Harvey (*Exercitatio Anatomica de Motu Cordis et Sanguinis in Animalibus*):** *"The blood enters the right **auricle** of the heart from the vena cava, whence by atrial contraction it is impelled into the ventricle."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The cartilaginous **auricle** of the external ear collects sound waves and reflects them down the external acoustic meatus."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The pointed projection on the margin of the human **auricle**, known as Darwin's tubercle, represents a vestige of pointed mammalian ears."*

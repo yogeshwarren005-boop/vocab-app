@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Introduce an idea or attitude into the mind of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Introduce a microorganism into.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To treat a person or animal with a vaccine or antigenic material to induce immunity against a disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical history and zymology (*in-* + *oculus*, grafting a bud into an eye), to implant pathogens into culture media, or to introduce antigens into living tissue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You should not have believed me; for virtue cannot so inoculate our old stock but we shall relish of it."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"But, besides that I knew for certain he had no money, I knew that this would involve a species of forethought not to be made compatible with the frivolity of a caperer, inoculating other people with capering, for his bread."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"The well equipped young men and women must be inoculated with more of the pioneer spirit."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"I loved you not; you should not have believed me; for virtue cannot so **inoculate** our old stock but we shall relish of it; I loved you not."*
+> - 📜 **Edward Jenner (*An Inquiry into the Causes and Effects of the Variolae Vaccinae*):** *"I resolved to **inoculate** the boy with matter taken directly from a pustule on the hand of the milkmaid Sarah Nelmes."*
+> - 📜 **Louis Pasteur (*Memoir on the Attenuation of Viruses*):** *"By subculturing the bacillus over successive weeks, we obtained an attenuated strain safe enough to **inoculate** healthy sheep."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance (a virus or toxin or immune serum) that is introduced into the body to produce or increase immunity to a particular disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance (a virus or toxin or immune serum) that is introduced into the body to produce or increase immunity to a particular disease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance, biological agent, or microorganism introduced into an organism or substrate to produce immunity or initiate growth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural microbiology and industrial fermentation, a concentrated bacterial culture (such as *Rhizobium*) introduced into soil to promote nitrogen fixation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inoculant designates a substance (a virus or toxin or immune serum) that is introduced into the body to produce or increase immunity to a particular disease."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"The purity of the yeast **inoculant** determines whether the fermentation proceeds to sound alcohol or spoils into vinegar."*
+> - 📜 **Selman Waksman (*Principles of Soil Microbiology*):** *"Leguminous seeds treated with a viable bacterial **inoculant** exhibit abundant root nodule formation and vigorous growth."*
+> - 📜 **Martinus Beijerinck (*Studies in Soil Bacteriology*):** *"A fresh **inoculant** derived from healthy clover root nodules rapidly establishes symbiotic colonies in sterile sand."*

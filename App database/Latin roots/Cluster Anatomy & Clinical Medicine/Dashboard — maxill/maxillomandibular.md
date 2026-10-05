@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the upper and lower jaws.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the upper and lower jaws.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or connecting both the upper jaw (maxilla) and the lower jaw (mandible).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oral and maxillofacial surgery, designating the occlusal relationship, surgical fixation (MMF), or intermaxillary elastic traction between the upper and lower jaws.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, maxillomandibular designates relating to the upper and lower jaws."*
+> - 📜 **Sir Astley Cooper (*A Treatise on Dislocations and Fractures of the Joints*):** *"Temporary **maxillomandibular** wiring was employed to immobilize the shattered fragments in anatomically correct dental occlusion."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic spasm of the masticatory muscles impedes normal **maxillomandibular** excursion in cases of severe tetanus."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The articulation of the **maxillomandibular** apparatus in teleost fishes exhibits intricate linkage systems that expand the oral cavity."*

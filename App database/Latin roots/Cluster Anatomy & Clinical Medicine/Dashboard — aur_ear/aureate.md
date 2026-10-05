@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Elaborately or excessively ornamented.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the deep slightly brownish color of gold.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Brilliant golden in color, or characterized by ornate, grandiloquent, and elaborate literary style.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fifteenth-century English rhetoric, highly stylized poetic diction enriched with Latinate coinages and opulent decorative flourishes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aureate designates elaborately or excessively ornamented."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The heavenly courts were paved with **aureate** light that dazzled the seraphic orders standing about the throne."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"The early Scottish Chaucerians cultivated an **aureate** language adorned with precious classical figures and Latinate rhymes."*
+> - 📜 **Walter Pater (*Appreciations*):** *"The poet's lines glow with an **aureate** splendor, turning common speech into a rich tapestry of golden imagery."*

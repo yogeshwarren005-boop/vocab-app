@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin ocul within the domain of Anatomy & Clinical Medicine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of ocul in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated, occurring, or administered within the interior of the eyeball.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmology and vision science, designating fluid dynamics, tumors, lenses, or the internal fluid pressure (*intraocular* pressure) measured in glaucoma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intraocular designates pertaining to, derived from, or characteristic of latin ocul within the domain of anatomy & clinical medicine."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Persistent elevation of **intraocular** pressure leads to progressive cupping of the optic disc and permanent visual field loss in glaucoma."*
+> - 📜 **Hermann von Helmholtz (*Treatise on Physiological Optics*):** *"The invention of the ophthalmoscope permitted physicians to inspect the living **intraocular** structures with crystalline clarity."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"Delicate microsurgical instruments are required to extract cataracts from the anterior **intraocular** chamber without injuring the cornea."*

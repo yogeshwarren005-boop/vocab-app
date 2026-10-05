@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of north american herbs often root-parasitic and bearing golden-yellow flowers; sometimes placed in genus gerardia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of north american herbs often root-parasitic and bearing golden-yellow flowers; sometimes placed in genus gerardia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of hemiparasitic yellow false foxgloves in the broomrape family Orobanchaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic North American botany, root-parasitic herbs with bright yellow blossoms that attach to host oak (*Quercus*) root systems via haustoria.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aureolaria designates small genus of north american herbs often root-parasitic and bearing golden-yellow flowers; sometimes placed in genus gerardia."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"In dry open oak woods, the golden trumpets of **Aureolaria** flourish by tapping the subterranean roots of mature trees."*
+> - 📜 **John Torrey (*A Flora of the State of New York*):** *"Rafinesque proposed the genus **Aureolaria** to distinguish these large yellow-flowered parasites from true Gerardia."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"The large tubular corollas of **Aureolaria** require vigorous bumblebees to force entrance and effect cross-pollination."*

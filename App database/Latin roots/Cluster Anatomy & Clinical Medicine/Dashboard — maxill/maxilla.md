@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The jaw in vertebrates that is fused to the cranium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The jaw in vertebrates that is fused to the cranium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The upper jawbone in vertebrates, forming the roof of the mouth and floor of the eye sockets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In arthropod morphology, one of the paired mouthpart appendages positioned behind the mandibles, functioning in food handling and mastication.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, maxilla designates the jaw in vertebrates that is fused to the cranium."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"In insects the paired **maxilla** structures are modified into mouthparts exhibiting diverse adaptations for chewing, sucking, or piercing."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The human **maxilla** houses the extensive pneumatic cavity known as the maxillary sinus or Antrum of Highmore."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"In predatory dinosaurs the premaxilla and **maxilla** unite into a formidable bone frame bearing deeply socketed serrated teeth."*

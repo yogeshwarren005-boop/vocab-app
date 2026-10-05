@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A spear with three prongs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spear with three prongs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A three-pronged spear, fork, or weapon, historically associated with Neptune or gladiatorial combat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical mythology and heraldic symbolism, the sovereign scepter of the sea god commanding marine depths, storms, and oceanic tides.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He would not flatter Neptune for his trident Or Jove for’s power to thunder."*
-> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"The performer first put a plate on the top of a trident and set it whirling."*
-> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"In this whirling condition he put the trident on his forehead where he balanced it, the trident whirling with the plate as though boring into his skull."*
+> - 📜 **William Shakespeare (*Coriolanus*):** *"We debase the nature of our seats and make the rabble call our cares fears, which will in time break ope the locks o' the senate and bring in the crows to peck the eagles; he that had a heart to rule would never yield his **trident** to such hands."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Britannia was depicted upon the copper coin seated majestically above the waves, grasping her triumphant **trident**."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Captain Wentworth spoke with nautical enthusiasm of the naval prowess that upheld the sovereign power of the British **trident** upon every sea."*

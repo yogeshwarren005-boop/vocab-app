@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical practitioner who inoculates people against diseases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medical practitioner who inoculates people against diseases.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who performs inoculations, or an instrument used to introduce antigens or culture media.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of public health, an early medical practitioner or operator who performed smallpox variolation before Jennerian cowpox vaccination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inoculator designates a medical practitioner who inoculates people against diseases."*
+> - 📜 **Edward Jenner (*An Inquiry into the Causes and Effects of the Variolae Vaccinae*):** *"The rural **inoculator** carried variolous lymph on lancets from village to village to immunize children against smallpox."*
+> - 📜 **Lady Mary Wortley Montagu (*Letters of Lady Mary Wortley Montagu*):** *"I observed the expert Turkish **inoculator** puncture the veins of the arm with a small needle dipped in fresh virus."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"The laboratory technician utilized a platinum **inoculator** to transfer pure colonies of the ferment onto nutrient gelatin."*

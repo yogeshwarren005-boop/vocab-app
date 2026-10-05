@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the lower jaw.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the lower jaw.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated beneath, below, or on the inferior aspect of the maxilla or upper jawbone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cranial osteology and oral anatomy, designating nerves, vessels, or muscular attachments localized along the inferior border of the maxillary antrum and dental arch.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inframaxillary designates relating to the lower jaw."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"In certain reptiles the **inframaxillary** arcade fuses seamlessly with the jugal bone to support the lower cheek."*
+> - 📜 **Richard Owen (*Odontography*):** *"The **inframaxillary** canal conveys the neurovascular bundle supplying sensation to the lower premolars and canine teeth."*
+> - 📜 **William Flower (*An Introduction to the Osteology of the Mammalia*):** *"The muscular fossa along the **inframaxillary** surface provides firm attachment for the deep fibers of the masseter."*

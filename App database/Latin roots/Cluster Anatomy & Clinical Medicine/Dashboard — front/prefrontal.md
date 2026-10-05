@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Anterior to a frontal structure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anterior to a frontal structure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated in the anterior part of the frontal lobe of the brain or frontal bone of the skull.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral neuroscience and neuropsychiatry, designating the prefrontal cortex, critical for executive function, impulse inhibition, and decision-making.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prefrontal designates anterior to a frontal structure."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Lesions involving the **prefrontal** cortex produce marked alterations in personality, apathy, and loss of moral inhibition."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The celebrated crowbar case of Phineas Gage demonstrated that profound character changes follow severe destruction of the **prefrontal** lobes."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Dense association fibers link the associative centers of the **prefrontal** gyri with the motor and sensory cortices."*

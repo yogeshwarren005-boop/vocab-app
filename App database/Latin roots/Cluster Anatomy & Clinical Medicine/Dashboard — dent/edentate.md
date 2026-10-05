@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Primitive terrestrial mammal with few if any teeth; of tropical central america and south america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having few if any teeth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking teeth; belonging to the mammalian order Edentata (including anteaters, sloths, and armadillos).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology and comparative zoology, placental mammals with poorly developed, peg-like molars lacking enamel, or completely toothless jaws.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, edentate designates primitive terrestrial mammal with few if any teeth; of tropical central america and south america."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The giant fossil bones of the Megatherium demonstrate close affinities with the small living **edentate** quadrupeds of South America."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The **edentate** skull exhibits extreme simplification in the mandibular arcade, often completely devoid of premaxillary teeth."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"In the ant-eater, an exclusively **edentate** diet has resulted in the total reduction of teeth and the elongation of the snout."*

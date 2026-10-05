@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a depression into.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of metal e.g.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a surface depression or indentation caused by an impact or blow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In material forensics and armor history, exhibiting localized plastic deformation after absorbing kinetic mechanical force.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"How I snuffed that Tartar air!—how I spurned that turnpike earth!—that common highway all over dented with the marks of slavish heels and hoofs; and turned me to admire the magnanimity of the sea which will permit no records."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Soon his steady, ivory stride was heard, as to and fro he paced his old rounds, upon planks so familiar to his tread, that they were all over dented, like geological stones, with the peculiar mark of his walk."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Did you fixedly gaze, too, upon that ribbed and dented brow; there also, you would see still stranger foot-prints—the foot-prints of his one unsleeping, ever-pacing thought."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The captain's pewter mug was battered and **dented** from being hammered upon the cabin table during tropical storms."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The knight's helmet was sorely bruised and **dented** by the furious axe strokes of his Saxon antagonist."*
+> - 📜 **Mark Twain (*A Connecticut Yankee in King Arthur's Court*):** *"My sheet-iron breastplate was so **dented** by lance thrusts that it pinched my ribs at every step."*

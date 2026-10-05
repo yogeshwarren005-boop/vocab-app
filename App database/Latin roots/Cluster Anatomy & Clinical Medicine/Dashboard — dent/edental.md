@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having few if any teeth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having few if any teeth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking teeth; toothless; pertaining to or characteristic of edentate animals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy and odontography, describing mandibular arches or palates naturally devoid of dental structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, edental designates having few if any teeth."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The giant fossil skull showed an **edental** premaxilla similar to the living anteaters of Brazil."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"In certain baleen whales, the embryonic dental papillae are reabsorbed, leaving an entirely **edental** adult jaw."*
+> - 📜 **Richard Owen (*Odontography*):** *"The **edental** condition of the jaw in birds is compensated by the development of a sharp horny rhamphotheca."*

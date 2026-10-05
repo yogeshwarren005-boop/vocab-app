@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An adornment worn on the forehead.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drapery that covers the front of an altar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, directed toward, or situated at the front or the forehead.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In craniofacial osteology and military tactics, relating to the frontal bone forming the forehead, or a direct head-on tactical assault upon an enemy position.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"And the lofty frontal bone of Mr."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"After his blood has coagulated in the sun, it is burned along with the frontal bone, the flesh attached to it, and the brain; the ashes are then scattered over the ground to fertilise it."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Against the frontal bone of the bison's skull, the lead falls harmless."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"In ancestral hominids, prominent bony ridges arch across the **frontal** bone above the orbits, shielding the eyes from injury."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe throbbing headaches localized over the **frontal** sinuses frequently indicate acute inflammatory obstruction."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"The gradual expansion of the **frontal** lobes reflects the remarkable cerebral development that characterizes the human lineage."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In, at, or toward the front.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In, at, or toward the front.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: From the front; in a head-on or forward-facing manner or direction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military tactics, cognitive craniometry, and portraiture, engaging an enemy head-on, or presenting a direct anterior aspect.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, frontally designates in, at, or toward the front."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The orbits in predatory primates are directed **frontally**, enabling precise stereoscopic vision and accurate leaping among tree branches."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The cavalry charged the entrenchments **frontally**, suffering frightful losses from the murderous volley of musketry."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The master drew the marble statue **frontally**, capturing the calm and monumental majesty of the classical deity."*

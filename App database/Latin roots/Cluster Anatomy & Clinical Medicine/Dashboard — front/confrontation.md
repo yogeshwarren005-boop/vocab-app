@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bold challenge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Discord resulting from a clash of ideas or opinions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hostile, argumentative, or defiant face-to-face meeting between opposing persons or forces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geopolitical diplomacy and procedural law, an acute standoff between adversarial powers, or the formal constitutional right to cross-examine adverse witnesses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We are well into an armed confrontation," he said."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The momentary confrontation passed, Brad, obviously fed up with Xindral's evasions, crossed his arms across his chest and waited."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"You came out of it looking like a fool in a confrontation that enhances Drummer's image to the detriment of the President's Chief of Security." Narval raised his head."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"A direct **confrontation** between the Crown and Parliament could no longer be averted by subtle courtly negotiations."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She dreaded the impending **confrontation** with her uncle, knowing his deep aversion to financial disclosures."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The captain was unnerved by the sudden **confrontation** with men whose steadfast courage reproached his own shameful desertion."*

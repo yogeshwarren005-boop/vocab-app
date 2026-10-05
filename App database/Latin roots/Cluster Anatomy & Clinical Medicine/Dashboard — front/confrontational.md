@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to confrontation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to confrontation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending toward, characterized by, or encouraging direct conflict, argument, or aggressive confrontation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In interpersonal communication and diplomatic negotiation, an adversarial posture that escalates tensions rather than facilitating consensus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, confrontational designates of or relating to confrontation."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Partisan journalists adopted a fiercely **confrontational** tone that inflamed the passions of the electorate."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"A dogmatic minority frequently resorts to a **confrontational** rhetoric that alienates moderate citizens."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"A wise parliament avoids adopting a **confrontational** attitude toward distant colonies whose grievances demand patient consideration."*

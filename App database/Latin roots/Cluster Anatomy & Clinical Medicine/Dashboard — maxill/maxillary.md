@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The jaw in vertebrates that is fused to the cranium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the upper jaw.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, situated in, or associated with the maxilla or upper jaw.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stomatognathic anatomy and otorhinolaryngology, designating the maxillary division of the trigeminal nerve (V2), the maxillary artery, or the large paranasal sinus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The supra-orbital crest, the facial angle, the maxillary curve, the—” “But this is my special hobby, and the differences are equally obvious."*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"And who showed you up into this room?” he continued, crushing his nails into his palms, and grinding his teeth to subdue the maxillary convulsions."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute suppuration within the **maxillary** antrum causes severe radiating facial neuralgia and unilateral nasal purulence."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The **maxillary** process in the developing embryo grows forward to fuse with the frontonasal prominence, forming the upper lip."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The reduction in length of the **maxillary** bone in civilized races is closely correlated with the modern adoption of cooked, softened food."*

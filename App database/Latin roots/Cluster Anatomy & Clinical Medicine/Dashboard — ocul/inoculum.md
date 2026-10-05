@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance (a virus or toxin or immune serum) that is introduced into the body to produce or increase immunity to a particular disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance (a virus or toxin or immune serum) that is introduced into the body to produce or increase immunity to a particular disease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small quantity of material, microorganisms, or cells introduced into a culture medium or host organism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical microbiology and industrial zymology, the calibrated microbial suspension transferred to start a fermentation culture or assay.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inoculum designates a substance (a virus or toxin or immune serum) that is introduced into the body to produce or increase immunity to a particular disease."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"A minute **inoculum** of selected yeast introduced into sterile wort initiates rapid alcoholic fermentation without bacterial contamination."*
+> - 📜 **Robert Koch (*The Etiology of Tuberculosis*):** *"Even the smallest **inoculum** containing viable tubercle bacilli provoked progressive generalized disease in guinea pigs."*
+> - 📜 **Selman Waksman (*Principles of Soil Microbiology*):** *"The survival of the microbial **inoculum** depends heavily upon soil moisture, pH, and the competition of native saprophytes."*

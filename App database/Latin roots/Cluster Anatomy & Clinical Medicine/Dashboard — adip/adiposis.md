@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of excessive fatness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of excessive fatness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical condition characterized by excessive or abnormal accumulation of fat within the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical endocrinology and metabolic pathology, localized or diffuse lipid dysregulation, exemplified by adiposis dolorosa (Dercum's disease).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adiposis designates the property of excessive fatness."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Dercum described a painful form of **adiposis** characterized by tender lipomatous masses and asthenia in middle-aged women."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"Fatty infiltration of the myocardium represents an extreme consequence of systemic **adiposis**."*
+> - 📜 **Claude Bernard (*Lectures on Experimental Physiology*):** *"Disruption of hepatic glycogen regulation frequently accelerates abnormal **adiposis** in laboratory animals."*

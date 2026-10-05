@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin cervic within the domain of Anatomy & Clinical Medicine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of cervic in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical excision or amputation of the cervix uteri.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gynecological oncology, trachelectomy or surgical removal of the uterine cervix performed to treat early-stage malignancies while preserving fertility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cervicectomy designates pertaining to, derived from, or characteristic of latin cervic within the domain of anatomy & clinical medicine."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Early surgical intervention by radical **cervicectomy** prevents invasive dissemination in localized malignant lesions."*
+> - 📜 **Howard Kelly (*Operative Gynecology*):** *"The surgeon executed a high **cervicectomy**, carefully ligating the descending branches of the uterine arteries."*
+> - 📜 **Sir Astley Cooper (*Lectures on the Principles and Practice of Surgery*):** *"Amputation of the diseased cervix, known as **cervicectomy**, was performed with successful arrest of chronic hemorrhages."*

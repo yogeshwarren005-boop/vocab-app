@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the property of containing fat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the property of containing fat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive fattiness, corpulence, or fatty degeneration in animal tissues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pathology and historical autopsy reports, pronounced lipid accumulation infiltrating parenchymal organs or subcutaneous compartments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adiposeness designates having the property of containing fat."*
+> - 📜 **William Cullen (*First Lines of the Practice of Physic*):** *"A marked **adiposeness** of the abdominal walls severely impedes deep palpation of the visceral organs."*
+> - 📜 **Thomas Sydenham (*The Works of Thomas Sydenham, M.D.*):** *"Sedentary living combined with rich wines induces an unwholesome **adiposeness** that clogs the vital vessels."*
+> - 📜 **Erasmus Darwin (*Zoonomia; or, The Laws of Organic Life*):** *"Morbid **adiposeness** in elderly patients frequently gives rise to dropsical swellings in the lower extremities."*

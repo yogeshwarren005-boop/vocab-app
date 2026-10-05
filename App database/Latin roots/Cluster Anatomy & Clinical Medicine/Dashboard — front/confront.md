@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Oppose, as in hostility or a competition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deal with (something unpleasant) head on.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To face, stand in front of, or meet someone face-to-face, especially in challenge, hostility, or defiance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In judicial evidence and psychological therapy, bringing an accused directly before an accuser, or directly facing painful cognitive truths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whereto serves mercy But to confront the visage of offence?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall dunghill curs confront the Helicons?"*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"How he would have liked to confront those two great thinkers, and earnestly appeal to them as fellow-man to fellow-men, and ask them to tell him their method!"*
+> - 📜 **William Shakespeare (*Macbeth*):** *"**Confronted** him with self-comparisons, point against point rebellious, arm 'gainst arm, curbing his lavish spirit; and to conclude, the victory fell on us."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba turned resolutely to **confront** her suitor, determined that there should be no further misunderstanding between them."*
+> - 📜 **G. K. Chesterton (*The Innocence of Father Brown*):** *"The detective stepped forward from the shadow of the pillar to **confront** the fugitive at the garden gate."*

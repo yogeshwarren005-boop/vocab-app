@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having auricles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having auricles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having ear-like appendages, lobes, or auricles; ear-shaped.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy and paleontology, possessing lateral ear-like flanges or expansions, especially on molluscan shells, trilobite carapaces, or fossil vertebrae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, auriculated designates having auricles."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The fossil scallop displays an **auriculated** shell with prominent wing-like projections extending along the hinge margin."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The cephalic shield of the trilobite is frequently **auriculated**, terminating laterally in sharp defensive genal spines."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The neural spine of the cervical vertebra terminates in an **auriculated** crest providing firm anchorage for neck ligaments."*

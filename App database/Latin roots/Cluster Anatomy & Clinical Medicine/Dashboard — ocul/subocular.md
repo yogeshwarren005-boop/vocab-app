@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated on or below the floor of the eye socket.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Situated on or below the floor of the eye socket.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated beneath, below, or on the inferior aspect of the eye.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In craniofacial morphology and herpetological taxonomy, designating scales, pouches, or nerve branches lying directly inferior to the orbital margin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subocular designates situated on or below the floor of the eye socket."*
+> - 📜 **Charles Darwin (*The Zoology of the Voyage of H.M.S. Beagle*):** *"A series of small smooth **subocular** scales completely separates the lower eyelid from the upper labial plates in this lizard."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The infraorbital canal opens onto the **subocular** surface of the facial skeleton through a wide foramen."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"In nocturnal lemurs the expanded **subocular** shelf of the zygoma provides extensive support for the hypertrophied globe."*

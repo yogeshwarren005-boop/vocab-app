@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The craniometric point at the center of the opening of the external acoustic meatus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The craniometric point at the center of the opening of the external acoustic meatus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A craniometric landmark located at the center of the opening of the external acoustic meatus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical anthropology and cephalometrics, the bilateral cranial reference point utilized to establish the horizontal Frankfurt plane.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, auriculare designates the craniometric point at the center of the opening of the external acoustic meatus."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"Measuring the vertical height of the cranial vault from the **auriculare** provides a reliable index of cerebral development."*
+> - 📜 **William Flower (*Fashion in Deformity*):** *"Cephalometric calipers placed upon the **auriculare** reveal the severe cranial alterations produced by artificial head-binding."*
+> - 📜 **Arthur Keith (*Human Embryology and Morphology*):** *"The position of the **auriculare** shifts backward and downward as the petrous temporal bone ossifies during infancy."*

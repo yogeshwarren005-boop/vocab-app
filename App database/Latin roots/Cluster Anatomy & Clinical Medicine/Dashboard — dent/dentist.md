@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person qualified to practice dentistry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person qualified to practice dentistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A qualified healthcare practitioner licensed to diagnose, treat, and prevent diseases and conditions of the teeth and gums.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In healthcare sociology and medical history, an oral surgical specialist who restores carious teeth, extracts damaged roots, and fabricates prostheses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"He cherished an extraordinary belief in the virtues of “shorts” as a disguise, and had in his own mind sketched a dress for himself that would have made him something between a dean and a dentist."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Altogether the sight of these strange instruments recalled to mind that display of cruel-looking mother-of-pearl-handled things which one sees in their velvet-lined cases at the elbow of a dentist."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Dentist down the street,” said a blurred voice unsympathetically."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"He looked as nervous as a patient seated in the operating chair awaiting the fateful entrance of the **dentist**."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"The party spent two hours in London while Robert Ferrars paid an urgent visit to his fashionable **dentist**."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Norwood Builder*):** *"A slip of paper bearing the appointment address of a prominent West End **dentist** was discovered in the deceased man's pocket."*

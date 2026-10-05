@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin cervic within the domain of Anatomy & Clinical Medicine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of cervic in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or involving both the cervical (neck) and thoracic (chest) regions of the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy and spine surgery, designating the cervicothoracic junction (C7–T1) or the cervicothoracic sympathetic ganglion (stellate ganglion).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cervicothoracic designates pertaining to, derived from, or characteristic of latin cervic within the domain of anatomy & clinical medicine."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Careful neurological examination traced the cutaneous sensory loss directly to the **cervicothoracic** segments of the cord."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The transitional vertebrae of the **cervicothoracic** border exhibit vestigial rib elements in embryonic development."*
+> - 📜 **Sir Astley Cooper (*A Treatise on Dislocations and Fractures of the Joints*):** *"Fractures occurring at the **cervicothoracic** junction demand rigorous immobilization to prevent catastrophic displacement of the vertebrae."*

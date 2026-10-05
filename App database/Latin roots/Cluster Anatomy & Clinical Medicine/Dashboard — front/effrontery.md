@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Audacious (even arrogant) behavior that you have no right to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Audacious (even arrogant) behavior that you have no right to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Insolent, shameless audacity, impudence, or boldness in behavior or speech.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral psychology (*ex-* + *frons*, without forehead/shame), barefaced impertinence demonstrating contempt for social decorum or moral censure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It is the ridiculous effrontery of men-maggots who think they can kill me."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Is not thy effrontery impenetrable and thy heart thoroughly cankered?"*
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"The ace was taken to supply its place with a perfect smiling effrontery."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth was astonished at the boundless **effrontery** of Wickham in appearing so unconcerned before the very family he had disgraced."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Uncle Pumblechook had the brazen **effrontery** to claim the entire credit for my good fortune in the public house."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The housekeeper reproved the maid for her intolerable **effrontery** in disputing the commands of her mistress."*

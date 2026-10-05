@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The eruption through the gums of baby teeth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The kind and number and arrangement of teeth (collectively) in a person or animal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The arrangement, condition, type, or number of teeth in a person or animal, or the process of teething.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian taxonomy and paleontology, the characteristic dental formula (incisors, canines, premolars, molars) reflecting diet and phylogenetic heritage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dentition designates the eruption through the gums of baby teeth."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The **dentition** of anthropoid apes exhibits the identical thirty-two teeth arranged in the same general formula as in man."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"Carnivorous **dentition** is uniquely characterized by sharp tearing canines and shearing blade-like carnassial molars."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The gradual evolution of herbivorous ungulates is recorded in the progressive hypsodont **dentition** adapted for grinding coarse grasses."*

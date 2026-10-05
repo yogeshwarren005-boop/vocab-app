@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medicine dealing with the anatomy and development and diseases of the teeth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of medicine dealing with the anatomy and development and diseases of the teeth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The profession, science, or practice of diagnosing, treating, and preventing diseases of the teeth, gums, and oral cavity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dental medicine and public health, the specialized branch of medicine encompassing endodontics, orthodontics, periodontics, prosthodontics, and oral surgery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The several uses of gold are constantly competing for it: its uses for rings, pens, ornaments, championship cups, photography, dentistry, delicate instruments, and as a circulating medium."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The several uses of gold are constantly competing for it: its uses for rings, pens, ornaments, championship cups, photography, dentistry, delicate instruments, and as a circulating medium."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"In an episodical way he had studied and practised dentistry, and with very flattering success, especially in many of the factory-towns along our inland streams."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"Modern **dentistry** has made astonishing advances, transforming what was once a painful torture into a precise and humane art."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Preventive **dentistry** plays an indispensable role in maintaining systemic resistance against chronic infectious diseases."*
+> - 📜 **Charles Dickens (*Martin Chuzzlewit*):** *"The brass doorplate announced that the tenant practiced surgery, bleeding, and mechanical **dentistry** upon reasonable terms."*

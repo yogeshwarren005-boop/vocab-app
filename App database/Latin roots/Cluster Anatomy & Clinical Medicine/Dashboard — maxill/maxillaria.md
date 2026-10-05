@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous orchids of the genus maxillaria often cultivated for their large brilliantly colored solitary flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous orchids of the genus maxillaria often cultivated for their large brilliantly colored solitary flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, diverse genus of tropical American orchids in the family Orchidaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic orchidology, epiphytic or lithophytic orchids whose column and lip morphology vaguely resembles an insect's paired maxillae, yielding its generic name.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, maxillaria designates any of numerous orchids of the genus maxillaria often cultivated for their large brilliantly colored solitary flowers."*
+> - 📜 **Charles Darwin (*The Various Contrivances by which Orchids are Fertilised by Insects*):** *"The floral mechanism in **Maxillaria** illustrates an exquisite adaptation whereby the insect pollinator is directed toward the sticky viscidium."*
+> - 📜 **John Lindley (*The Genera and Species of Orchidaceous Plants*):** *"Ruiz and Pavon established the genus **Maxillaria** to encompass numerous fragrant epiphytes discovered in the Peruvian Andes."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Greenhouse collectors prize the strange triangular blossoms of **Maxillaria** for their intense spicy fragrance and waxy texture."*

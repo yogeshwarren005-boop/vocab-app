@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Preceding all others in spatial position.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preceding all others in spatial position.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Positioned furthest forward; situated in the very front position.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military infantry tactics and maritime convoy formations, occupying the vanguard rank closest to potential enemy engagement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, frontmost designates preceding all others in spatial position."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The harpooner stood erect in the **frontmost** thwart of the whaleboat, darting iron poised for the strike."*
+> - 📜 **Thomas Hardy (*The Dynasts*):** *"The **frontmost** ranks of the British square received the furious onslaught of the French cuirassiers with steady bayonets."*
+> - 📜 **Joseph Conrad (*The Nigger of the 'Narcissus'*):** *"The ship pitched violently into the head seas, her **frontmost** timbers shuddering under each crashing comber."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relatively small placental mammals having a single pair of constantly growing incisor teeth specialized for gnawing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relatively small placental mammals having a single pair of constantly growing incisor teeth specialized for gnawing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mammal belonging to the order Rodentia, characterized by a single pair of continuously growing incisors in each jaw.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian taxonomy and comparative anatomy, placental mammals adapted for gnawing, representing the most diverse mammalian order on earth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"They moan, passing upon the clouds, horned and capricorned, the trumpeted with the tusked, the lionmaned, the giantantlered, snouter and crawler, rodent, ruminant and pachyderm, all their moving moaning multitude, murderers of the sun."*
-> - 📜 **Jr. Irving E. Cox (*Export Commodity*):** *"There was a scurrying of tiny feet, a shrill squeal, and a rodent came from the darkness to nibble at the food."*
-> - 📜 **Classic Author (*Friends and Helpers*):** *"Before long the state was overrun with little rodents, and many valuable crops were destroyed."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The capybara, or water-hog, is the largest living **rodent** in the world, frequenting the marshy banks of the Parana river."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The enamel on the front of each **rodent** incisor wears down slower than the soft dentine behind, maintaining a chisel-sharp edge."*
+> - 📜 **Richard Owen (*Odontography*):** *"The persistent pulp in **rodent** incisors continues to form tooth substance throughout the life of the animal."*

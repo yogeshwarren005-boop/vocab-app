@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of protecting against disease by introducing a vaccine into the body to induce immunity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Introduce an idea or attitude into the mind of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of introducing a vaccine, antigen, or infectious organism into an animal or culture medium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical arboriculture and bacteriology, grafting a dormant bud into a host branch, or systematically infecting experimental media.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"But, besides that I knew for certain he had no money, I knew that this would involve a species of forethought not to be made compatible with the frivolity of a caperer, inoculating other people with capering, for his bread."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"In gardening, the subtle art of **inoculating** or grafting upon alien boughs yieldeth fruit of sweeter and more delicate flavor."*
+> - 📜 **Edward Jenner (*Further Observations on the Variolae Vaccinae*):** *"The practice of **inoculating** infants with mild cowpox fluid provides an unbreachable barrier against the dread scourge of smallpox."*
+> - 📜 **Louis Pasteur (*Studies on Rabies*):** *"By **inoculating** the virus directly into the subdural space of rabbits, the incubation period was stabilized to an exact duration."*

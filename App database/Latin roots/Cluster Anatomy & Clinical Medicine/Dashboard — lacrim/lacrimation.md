@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shedding tears.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shedding tears.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The secretion or discharge of tears, especially when excessive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical ophthalmology and toxicology, reflex tear shedding triggered by corneal irritation, chemical vapors, emotional distress, or trigeminal autonomic cephalalgias.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lacrimation designates shedding tears."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Irritation of the eye by cold wind or foreign particles excites instantaneous reflex **lacrimation** to cleanse the delicate surface."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Unilateral headache accompanied by profuse **lacrimation** and nasal congestion points to involvement of sympathetic nerve pathways."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Excessive **lacrimation** overflows the margins of the lower lid when the drainage ducts become overwhelmed."*

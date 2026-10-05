@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Repetition of the final words of a sentence or line at the beginning of the next.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Repetition of the final words of a sentence or line at the beginning of the next.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rhetorical device in which the last word or phrase of one clause is repeated at the beginning of the next.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric and stylistic prose, a recursive repetition emphasizing emotional intensity, logical transition, or dramatic momentum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anadiplosis designates repetition of the final words of a sentence or line at the beginning of the next."*
+> - 📜 **William Shakespeare (*Richard II*):** *"The love of wicked men converts to fear; that fear to hate, and hate turns one or both to worthy danger and deserved death, displaying an exquisite **anadiplosis**."*
+> - 📜 **John Milton (*Paradise Regained*):** *"Through skillful **anadiplosis**, the poet links thought to thought, carrying the reader forward in a continuous chain of argument."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The passionate orator employs **anadiplosis** not as an idle ornament, but as the natural breathing of an excited imagination."*

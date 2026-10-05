@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of paridae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of paridae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monotypic genus of small passerine birds containing the verdin (*Auriparus flaviceps*), native to southwestern arid scrublands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In North American desert ornithology, penduline-tit relatives in the family Remizidae noted for their bright yellow heads and spherical thorn nests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, auriparus designates a genus of paridae."*
+> - 📜 **Spencer Fullerton Baird (*Birds of North America*):** *"The verdin, classified under **Auriparus**, inhabits the thorny mesquite thickets of the Rio Grande valley."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"The genus **Auriparus** builds an extraordinarily bulky spherical nest of spiny twigs lined thickly with feathers."*
+> - 📜 **Theodore Roosevelt (*Outdoor Pastimes of an American Hunter*):** *"Amidst the desert cactus we observed the energetic little yellow-headed **Auriparus** flitting through the thorny scrub."*

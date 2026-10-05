@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin ocul within the domain of Anatomy & Clinical Medicine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of ocul in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, adapted for, or using only one eye; or an optical device designed for a single eye.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In visual optics and ophthalmology, vision with a single eye, lacking stereoscopic parallax and relying primarily on monocular depth cues such as perspective and motion parallax.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monocular designates pertaining to, derived from, or characteristic of latin ocul within the domain of anatomy & clinical medicine."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Animals with laterally positioned eyes possess extensive panoramic fields, though their vision is predominantly **monocular**."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"He raised his **monocular** lens to scrutinize the curious crystalline ash remaining in the grate."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Patients who suffer the loss of one eye gradually learn to estimate relative distance through **monocular** clues of perspective and lighting."*

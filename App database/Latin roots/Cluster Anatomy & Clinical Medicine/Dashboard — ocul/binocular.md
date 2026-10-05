@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to both eyes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to both eyes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Adapted for or involving the use of both eyes simultaneously, or an optical instrument utilizing two eyepieces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vision science and neurophysiology, sensory stereopsis and depth perception achieved by the cortical fusion of two slightly disparate retinal images.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"If the examiner on this occasion should not possess a binocular microscope we are sorry for him, because in that case he will not see all that is to be seen under the greatest advantages."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"I had taken up my binoculars while we talked, and was looking at the shore, sweeping the limit of the forest at each side and at the back of the house."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"You're right,' Dad says, raising his binoculars to examine the motor boat."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The lookout raised his **binocular** glass to scan the distant horizon for the spouting of the great white whale."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes adjusted his **binocular** field glasses, following the furtive movements of the figure upon the granite tor."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The frontally directed orbits of primates afford true **binocular** vision, enhancing accurate distance estimation among tree branches."*

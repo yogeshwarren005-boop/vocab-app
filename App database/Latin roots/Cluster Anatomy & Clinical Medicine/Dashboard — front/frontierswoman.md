@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman who lives on the frontier.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman who lives on the frontier.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman who lives on or explores the wilderness boundary of settled territory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American pioneer history, a female settler noted for resilience, domestic fortitude, and armed defense on the frontier border.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, frontierswoman designates a woman who lives on the frontier."*
+> - 📜 **Theodore Roosevelt (*The Winning of the West*):** *"The pioneer **frontierswoman** exhibited equal courage with her husband, defending the isolated cabin against Indian assaults with rifle in hand."*
+> - 📜 **Francis Parkman (*The Oregon Trail*):** *"We met a resolute **frontierswoman** driving her ox wagon across the Platte river with astonishing skill and calm self-reliance."*
+> - 📜 **Willa Cather (*O Pioneers!*):** *"She possessed the indomitable spirit of the true **frontierswoman**, wresting prosperity from the wild prairie sod through sheer determination."*

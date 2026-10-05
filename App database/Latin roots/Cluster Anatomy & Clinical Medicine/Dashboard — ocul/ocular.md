@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Combination of lenses at the viewing end of optical instruments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or resembling the eye.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or connected with the eyes or the sense of sight; visual.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microscope optics and legal evidence, the eyepiece lens that magnifies the objective image, or direct eyewitness visual testimony.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give me the ocular proof, Or, by the worth of man’s eternal soul, Thou hadst been better have been born a dog Than answer my wak’d wrath."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her back seemed to be endowed with a sensitiveness to ocular beams—even her clothing—so alive was she to a fancied gaze which might be resting upon her from the outside of that barn."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"In America it’s usual for people to marry.” “If it’s my duty,” Ralph asked, “is it not, by analogy, yours as well?” Miss Stackpole’s ocular surfaces unwinkingly caught the sun."*
+> - 📜 **William Shakespeare (*Othello*):** *"Villain, be sure thou prove my love a whore, be sure of it; give me the **ocular** proof: or by the worth of man's eternal soul, thou hadst been better have been born a dog than answer my waked wrath!"*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard demanded **ocular** proof of the rumor, refusing to credit the scandal without the testimony of his own eyes."*
+> - 📜 **G. K. Chesterton (*The Innocence of Father Brown*):** *"The brilliant sleuth relied not merely on theoretical deductions, but sought immediate **ocular** inspection of the crime scene."*

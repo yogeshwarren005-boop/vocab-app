@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the property of containing fat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the property of containing fat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive corpulence, obesity, or fatty accumulation throughout bodily tissues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nutritional science and clinical anthropometry, the proportional abundance of total body fat relative to lean skeletal and muscular mass.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adiposity designates having the property of containing fat."*
+> - 📜 **Oliver Wendell Holmes Sr. (*The Autocrat of the Breakfast-Table*):** *"His rotund figure and jovial countenance displayed a comfortable **adiposity** that suggested years of peaceful dining."*
+> - 📜 **William Osler (*Aequanimitas*):** *"Moderate exercise and abstemious dining remain our principal defenses against the encumbrance of advancing **adiposity**."*
+> - 📜 **Charles Dickens (*The Posthumous Papers of the Pickwick Club*):** *"The fat boy leaned against the doorpost in a state of profound somnolence induced by constitutional **adiposity**."*

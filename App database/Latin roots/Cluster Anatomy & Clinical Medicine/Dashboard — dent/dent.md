@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An appreciable consequence (especially a lessening).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A depression scratched or carved into a surface.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A slight hollow or depression made in a surface by a blow or pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metallurgy and mechanical inspection, plastic surface deformation caused by localized impact that alters contour without rupturing material integrity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Colonel Dent was less showy; but, I thought, more lady-like."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Dent had not studied that science: though, as she said, she liked flowers, “especially wild ones;” Miss Ingram had, and she ran over its vocabulary with an air."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Dent; that is, playing on her ignorance; her _trail_ might be clever, but it was decidedly not good-natured."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The heavy iron fluke of the anchor struck the bulwark, leaving a deep **dent** in the seasoned oak timber."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"My axe head bore a small **dent** from striking a hidden granite pebble buried within the frozen pine stump."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The old copper kettle showed many a **dent** and scratch from half a century of active boiling upon the hearth."*

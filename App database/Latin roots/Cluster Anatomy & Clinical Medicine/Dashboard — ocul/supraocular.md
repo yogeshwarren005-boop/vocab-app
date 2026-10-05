@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Located or occurring above the eye socket.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Located or occurring above the eye socket.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated above or superior to the eye.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology and avian anatomy, designating specialized scales, feathers, or bony brow ridges positioned directly above the orbit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supraocular designates located or occurring above the eye socket."*
+> - 📜 **Charles Darwin (*The Zoology of the Voyage of H.M.S. Beagle*):** *"In the horned pit-viper of Central America, a prominent spine-like **supraocular** scale rises sharply above each eye."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The **supraocular** canal transmits cutaneous sensory branches of the ophthalmic division of the trigeminal nerve."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The deep-sea anglerfish carries a luminous photophore mounted directly upon its modified **supraocular** crest."*

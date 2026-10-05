@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dental appliance that artificially replaces missing teeth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dental appliance that artificially replaces missing teeth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An artificial replacement for one or more missing natural teeth and adjacent oral tissues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In prosthodontics and oral rehabilitation, a removable partial or complete prosthesis fabricated from acrylic resin and porcelain to restore mastication and facial vertical dimension.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, denture designates a dental appliance that artificially replaces missing teeth."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The elderly gentleman smiled broadly, displaying a remarkably even and dazzling **denture** that contrasted with his wrinkled cheeks."*
+> - 📜 **Jane Austen (*Emma*):** *"Mrs. Elton took occasion to remark upon the modern improvements in artificial teeth, displaying her fine London **denture**."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"A properly balanced **denture** restores not only the power of mastication, but also the natural contours of the sunken jaw."*

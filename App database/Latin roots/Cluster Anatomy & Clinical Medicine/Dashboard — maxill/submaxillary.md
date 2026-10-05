@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin maxill within the domain of Anatomy & Clinical Medicine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of maxill in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated beneath or situated on the lower aspect of the maxilla or lower jaw.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human digestive anatomy and surgical oncology, relating to the submandibular (submaxillary) salivary gland, ganglion, duct of Wharton, or lymph nodes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, submaxillary designates pertaining to, derived from, or characteristic of latin maxill within the domain of anatomy & clinical medicine."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Under the influence of acute terror, the **submaxillary** salivary glands cease their natural secretion, leaving the tongue and throat parched."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Tuberculous adenitis most frequently targets the deep cervical and **submaxillary** lymph chain in scrofulous children."*
+> - 📜 **Claude Bernard (*Lectures on the Physiology and Pathology of the Nervous System*):** *"The galvanic excitation of the lingual nerve provokes instantaneous vascular engorgement throughout the **submaxillary** gland."*

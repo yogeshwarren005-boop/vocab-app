@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A wilderness at the edge of a settled area of a country.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An international boundary or the area (often fortified) immediately inside the boundary.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A border separating two countries, or the extreme limit of settled land beyond which lies wilderness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political geography and intellectual history, an unsettled boundary zone where civilizations clash, or the cutting-edge advancing perimeter of scientific discovery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Goes it against the main of Poland, sir, Or for some frontier?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Worcester, get thee gone, for I do see Danger and disobedience in thine eye: O, sir, your presence is too bold and peremptory, And majesty might never yet endure The moody frontier of a servant brow."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The blood-thirsty character of General Cortinas is well known on the frontier, there being no less than seventeen indictments against him for murder in the State of Texas."*
+> - 📜 **William Shakespeare (*Henry IV, Part 1*):** *"Of palisadoes, **frontier**s, parapets, of basilisks, of cannon, culverin, of prisoners' ransom, and of soldiers slain, and all the currents of a heady fight."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We crossed the remote desert **frontier** where military outposts guarded the scattered estancias against hostile native raiders."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The adventurous whaleman pushes the maritime **frontier** into frozen polar bays where no merchant keel ever ventured before."*

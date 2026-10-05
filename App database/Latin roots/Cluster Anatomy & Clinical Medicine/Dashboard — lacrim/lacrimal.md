@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to tears.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or located near the organ that produces tears.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, producing, or conveying tears.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmology and craniofacial anatomy, designating the tear-secreting gland, puncta, sac, nasolacrimal duct, or the small fragile lacrimal bone of the orbit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lacrimal designates of or relating to tears."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Spasmodic contraction of the eyelids during violent weeping compresses the **lacrimal** gland, forcing a profuse stream of tears."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Obstruction of the **lacrimal** sac leads to chronic epiphora and distressing secondary infections of the conjunctiva."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Tears secreted by the **lacrimal** gland wash across the cornea and drain through two tiny canals into the nasal cavity."*

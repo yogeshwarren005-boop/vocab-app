@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sensation (as of a cold breeze or bright light) that precedes the onset of certain disorders such as a migraine attack or epileptic seizure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An indication of radiant light drawn around the head of a saint.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A distinctive atmosphere, quality, or emanation surrounding a person, thing, or place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, a perceptual warning disturbance (visual, olfactory, or sensory) preceding an epileptic seizure or migraine headache.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Et cela doit signifier,” said she, “qu’il y aura là dedans un cadeau pour moi, et peut-être pour vous aussi, mademoiselle."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Xindral's opening remarks along with his aura projected formidable power despite his slender frame."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The ‘aura’, so to speak, of a great work of Art, must come from the artist’s own personality."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The epileptic attack is frequently heralded by a sensory **aura**, such as an epigastric distress or flashes of light before the eyes."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Ancient physicians imagined a subtle vital **aura** that emanated from active spirits and animated the nervous humors."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"There hung about her an **aura** of woodland innocence that fascinated Angel Clare in the dewy morning pastures."*

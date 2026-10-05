@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the auriculariaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the auriculariaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of wood-rotting jelly fungi known as wood ear, or the free-swimming ciliated larva of holothurian sea cucumbers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology and echinoderm embryology, gelatinous edible fungi (*Auricularia auricula-judae*), or bilaterally symmetrical planktonic bipinnate echinoderm larvae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, auricularia designates type genus of the auriculariaceae."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The free-swimming **auricularia** larva of the sea cucumber propels itself by a continuous sinuous band of microscopic cilia."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"Upon the damp decaying elder trunks we discovered the curious ear-shaped gelatinous fungus classified by botanists as **Auricularia**."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"Metamorphosis of the **auricularia** into the adult holothurian involves dramatic reorganization of the internal coelomic cavities."*

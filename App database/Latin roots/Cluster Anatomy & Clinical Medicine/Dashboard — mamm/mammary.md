@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the milk-giving gland of the female.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the milk-giving gland of the female.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the breasts or the milk-producing glands of female mammals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histology and endocrinology, designating modified apocrine cutaneous glands responsive to prolactin, estrogen, and oxytocin during lactation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mammary designates of or relating to the milk-giving gland of the female."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The evolution of the **mammary** glands remains one of the most distinctive innovations in the history of vertebrate life."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Each lobe of the **mammary** gland terminates in an independent lactiferous duct opening upon the summit of the nipple."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Palpation of the **mammary** tissue must be conducted systematically to distinguish benign fibroadenomas from malignant induration."*

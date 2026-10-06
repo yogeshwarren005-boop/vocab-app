@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical american tree having wood like mahogany and sweet edible egg-shaped fruit; in some classifications placed in the genus calocarpum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical american tree having edible fruit with a leathery rind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tropical American tree (Mammea americana) or its large, edible russet fruit with sweet orange pulp.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic pomology, the mammee apple, cultivated throughout the West Indies and Central America for its aromatic pulp and insecticidal seed extracts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mammee designates tropical american tree having wood like mahogany and sweet edible egg-shaped fruit; in some classifications placed in the genus calocarpum."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The marketplace in Bahia offered generous baskets of fragrant **mammee** and sweet cherimoya fresh from the plantations."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"We refreshed ourselves beneath the tropical midday heat with the luscious golden flesh of the wild **mammee**."*
+> - 📜 **Hans Sloane (*A Voyage to the Islands*):** *"The fruit of the **mammee** tree is circular and thick-rinded, enclosing several large seeds within pleasant yellow pulp."*

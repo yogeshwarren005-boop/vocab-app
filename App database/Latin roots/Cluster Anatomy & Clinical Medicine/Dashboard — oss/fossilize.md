@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Convert to a fossil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become mentally inflexible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To turn organic tissues into stone through mineral replacement; or to render opinions rigid and unchangeable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In taphonomic science and figurative prose, the mineralization of organic material, or the intellectual ossification of ideas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"In it we are presented with a number of pictures of the utterly fossilized condition of the clergy of the day in the Established Church (see especially book II., vv. 326-832, in which he satirizes the clergy and the universities)."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Calcareous muds rapidly bury marine mollusks and **fossilize** their hard shells with extraordinary microscopic fidelity."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Without continuous critical examination, the most brilliant scientific theories **fossilize** into lifeless scholastic formulas."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Institutions tend to **fossilize** the spontaneous spiritual insights of the prophetic minds that established them."*

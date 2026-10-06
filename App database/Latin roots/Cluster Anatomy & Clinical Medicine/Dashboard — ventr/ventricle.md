@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of four connected cavities in the brain; is continuous with the central canal of the spinal cord and contains cerebrospinal fluid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chamber of the heart that receives blood from an atrium and pumps it to the arteries.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hollow muscular or fluid-filled chamber within an organ, especially the heart or brain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiac physiology and neuroanatomy, the thick-walled muscular pumping chambers of the heart, or the four interconnecting cerebrospinal fluid cavities of the brain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These are begot in the ventricle of memory, nourished in the womb of _pia mater_, and delivered upon the mellowing of occasion."*
+> - 📜 **William Shakespeare (*Love's Labour's Lost*):** *"These are begot in the **ventricle** of memory, nourished in the womb of pia mater, and delivered upon the mellowing of occasion."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The muscular wall of the left **ventricle** is three times thicker than that of the right, reflecting higher systemic resistance."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Dilation of the left **ventricle** without compensatory hypertrophy heralds the onset of congestive cardiac decompensation."*

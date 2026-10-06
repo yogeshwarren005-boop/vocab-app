@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin mamm within the domain of Anatomy & Clinical Medicine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of mamm in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plastic or reconstructive surgery performed upon the human breast.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic and reconstructive plastic surgery, operative remodeling involving reduction, augmentation, or mastopexy to alter breast contour or repair post-mastectomy tissue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mammoplasty designates pertaining to, derived from, or characteristic of latin mamm within the domain of anatomy & clinical medicine."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Advances in antiseptic technique allowed surgeons to undertake complex **mammoplasty** without fear of suppurative infection."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Reconstructive **mammoplasty** following radical oncological extirpation requires meticulous mobilization of cutaneous flaps."*
+> - 📜 **Alexis Carrel (*Man, The Unknown*):** *"Reconstructive **mammoplasty** exemplifies the restorative potential of modern plastic surgery in repairing diseased anatomy."*

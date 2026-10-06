@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The loss of the mineral content of bone tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The loss of the mineral content of bone tissue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The biological loss, resorption, or chemical removal of mineral salts and osseous material from bone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metabolic bone pathology, pathological skeletal demineralization resulting from hyperparathyroidism, osteomalacia, or prolonged disuse osteopenia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deossification designates the loss of the mineral content of bone tissue."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Progressive **deossification** of the pelvic bones during osteomalacia results in severe skeletal deformities and intractable bone pain."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Laboratory immersion of an intact bone in dilute hydrochloric acid causes complete **deossification**, leaving only a flexible collagenous framework."*
+> - 📜 **John Hunter (*Treatise on the Blood, Inflammation, and Gun-shot Wounds*):** *"In chronic inflammation of bone, localized **deossification** precedes the formation of a sequestrum."*

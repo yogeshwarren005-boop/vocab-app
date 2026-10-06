@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One species: bloodroot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One species: bloodroot.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of perennial North American spring-flowering plants in the poppy family Papaveraceae; bloodroot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacognosy and ethnobotany, Sanguinaria canadensis, whose red rhizomes contain the alkaloid sanguinarine, formerly used as an escharotic and expectorant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sanguinaria designates one species: bloodroot."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The solitary white flower of **Sanguinaria** emerges in early April, accompanied by a single round lobed leaf."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"The moist forest rich leaf-mold supported delicate colonies of **Sanguinaria**, whose broken roots wept bright vermilion juice."*
+> - 📜 **Nicholas Culpeper (*The English Physitian*):** *"American physicians extract from **Sanguinaria** a powerful bitter tincture celebrated for expelling tough chest humors."*

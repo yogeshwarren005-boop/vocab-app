@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct family: mastodons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct family: mastodons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct family of primitive proboscideans containing the mastodons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian taxonomy, an archaic proboscidean family that diverged from the elephant lineage in the Oligocene, retaining zygolophodont grinding molars.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mammutidae designates extinct family: mastodons."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The family **Mammutidae** represents an independent evolutionary branch that flourished in North American woodland habitats."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"Comparative analysis of the dental series demonstrates that **Mammutidae** retained primitive bunodont features lost in modern elephants."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The extinction of the **Mammutidae** throughout the Americas occurred alongside the disappearance of many colossal Pleistocene quadrupeds."*

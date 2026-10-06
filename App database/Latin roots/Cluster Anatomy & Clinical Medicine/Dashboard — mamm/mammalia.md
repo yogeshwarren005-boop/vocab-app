@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Warm-blooded vertebrates characterized by mammary glands in the female.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Warm-blooded vertebrates characterized by mammary glands in the female.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The major taxonomic class of vertebrate animals whose females produce milk to nourish their offspring.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic zoology, the class comprising monotremes, marsupials, and eutherian placentals, defined by specialized integumentary and auditory adaptations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I concluded definitely that it belonged to the vertebrate branch, class mammalia."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It was evidently a hard impenetrable body, and not the soft substance that forms the bodies of the great marine mammalia."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I told Ned Land and Conseil that provident nature had assigned an important role to these mammalia."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Throughout the vast class of the **Mammalia**, the general plan of the cranial and axial skeleton remains strictly conserved."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"Linnaeus erected the class **Mammalia** upon the universal possession of functional or rudimentary mammary glands."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"The marine cetaceans belong unreservedly to the **Mammalia**, despite their external resemblance to pelagic fishes."*

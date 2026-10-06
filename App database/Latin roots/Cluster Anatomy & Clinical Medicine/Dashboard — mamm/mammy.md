@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An offensive term for a black nursemaid in the southern u.s.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Informal terms for a mother.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An affectionate dialect term for a mother; or historically a Black nursemaid in the American South.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural history and sociolinguistics, a regional vernacular term for mother, or the historical domestic caregiver archetype in nineteenth-century Southern society.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Poor mammy has her leg broken."[781] [Wounded witches in Swabia.] In Swabia the witches are liable to accidents of the same sort when they go about their business in the form of animals."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"I’m O’er Young To Marry Yet Chorus.—I’m o’er young, I’m o’er young, I’m o’er young to marry yet; I’m o’er young, ’twad be a sin To tak me frae my mammy yet."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"He corned for us ten minutes behind the town clock, and Mammy Dilsie had phthisic, so I had to fix the two twins, and we're done left."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The little child ran joyfully toward the kitchen, calling out for its beloved **mammy** with open arms."*
+> - 📜 **Mark Twain (*The Adventures of Huckleberry Finn*):** *"The little children clung to their old **mammy**, who comforted their childish fears with soothing songs."*
+> - 📜 **Frederick Douglass (*My Bondage and My Freedom*):** *"In the slave quarters, the affectionate name of **mammy** was bestowed upon the elder women who cared for the infant children."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist in paleontology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialist in paleontology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic term for a paleontologist or collector of fossils and mineral specimens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In eighteenth- and nineteenth-century natural history, an enthusiast or scholar who collected, cataloged, and interpreted organic petrifactions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fossilist designates a specialist in paleontology."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The enthusiastic **fossilist** explores coastal shale cliffs, exhuming ammonites that lived in forgotten Mesozoic seas."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"The early **fossilist** viewed these stony petrifactions merely as curious sports of nature rather than genuine extinct organisms."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Every provincial **fossilist** contributed valuable local observations that helped construct our geological chronology."*

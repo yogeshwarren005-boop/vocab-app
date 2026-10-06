@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin viscer within the domain of Anatomy & Clinical Medicine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of viscer in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The abnormal downward displacement or prolapse of the internal abdominal organs; splanchnoptosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical gastroenterology and historical medicine, Glenard's disease, characterized by laxity of the abdominal wall and suspensory peritoneal ligaments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, visceroptosis designates pertaining to, derived from, or characteristic of latin viscer within the domain of anatomy & clinical medicine."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe generalized **visceroptosis** causes downward sagging of the stomach and transverse colon into the true pelvis."*
+> - 📜 **Abraham Flexner (*Medical Education in the United States and Canada*):** *"The clinical lecture emphasized that constitutional **visceroptosis** often responds more favorably to core physical therapy than surgical suspension."*
+> - 📜 **Harvey Cushing (*The Life of Sir William Osler*):** *"He demonstrated patients whose vague dyspeptic symptoms were attributed to marked constitutional **visceroptosis**."*

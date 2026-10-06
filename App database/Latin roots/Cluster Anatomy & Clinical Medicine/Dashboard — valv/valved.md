@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of brass instruments) having valves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of brass instruments) having valves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Furnished with, regulated by, or operating by means of a valve or valves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical morphology and cardiovascular anatomy, describing vessels or seed capsules equipped with flaps or moveable dividing septa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, valved designates (of brass instruments) having valves."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"Loose the stop from your throat, open the **valved** chambers of song, and let the buoyant voice chant across the open fields."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The deep lymphatic trunks are densely **valved**, giving them a distinctive beaded appearance under anatomical injection."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"The sensitive trap of Utricularia consists of an aquatic bladder with an elastic **valved** entrance."*

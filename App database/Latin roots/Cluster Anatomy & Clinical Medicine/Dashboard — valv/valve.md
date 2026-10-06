@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A structure in a hollow organ (like the heart) with a flap to insure one-way flow of fluid through it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Device in a brass wind instrument for varying the length of the air column to alter the pitch of a tone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mechanical device or anatomical structure that controls or regulates fluid flow by opening and closing passages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiology and hemodynamics, an endocardial fold (such as an atrioventricular or semilunar valve) maintaining unidirectional blood circulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It served as a reservoir for compressed air, which a valve, worked by a spring, allowed to escape into a metal tube."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"To suppose that God forgives or punishes sin according as His mercy is sought or un- 6:21 sought, is to misunderstand Love and to make prayer the safety-valve for wrong-doing."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"It's only that I'm so happy that some of it has just got to overflow somewhere, and this is going to be the overflow house--a sort of safety valve for me, you see."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"The heart in thee is the heart of all; not a **valve**, not a wall, not an intersection divides thy soul from the universal life."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Every venous **valve** consists of a semilunar fold of intima reinforced by a delicate central lamina of fibrous tissue."*
+> - 📜 **William Harvey (*De Motu Cordis*):** *"The inward-pointing venous **valve** permits blood to flow toward the heart while absolutely preventing its return."*

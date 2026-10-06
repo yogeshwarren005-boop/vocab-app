@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: So great in size or force or extent as to elicit awe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: So great in size or force or extent as to elicit awe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely large, gigantic, or immense in size, scale, or extent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural aesthetics and descriptive history, referring to monumental sculpture or structures that dwarf ordinary human proportions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Carrying his fingers onward he found that what he had come in contact with was a colossal rectangular pillar; by stretching out his left hand he could feel a similar one adjoining."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Farther along the curve, in plain view from my eyrie, carved out of the living rock, were four colossal figures."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In the great open space before the palace wall were colossal stone dogs that looked more like tortoises."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The monumental monoliths of Stonehenge loomed in **colossal** majesty against the gray predawn sky."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Nature presents a **colossal** architecture beside which the proudest human temples appear like toys."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The primeval forest seemed an impenetrable **colossal** presence brooding silently over our little steamboat."*

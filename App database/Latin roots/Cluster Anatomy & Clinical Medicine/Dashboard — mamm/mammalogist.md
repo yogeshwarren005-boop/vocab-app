@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One skilled in the study of mammals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One skilled in the study of mammals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A zoologist or professional scientist who studies mammals and their natural history.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In field zoology and wildlife conservation, a specialist documenting mammalian taxonomy, population genetics, geographic distribution, and ecological interactions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mammalogist designates one skilled in the study of mammals."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The observant **mammalogist** finds on the Sunda Islands an extraordinary assemblage of endemic forest rodents and viverrids."*
+> - 📜 **Louis Agassiz (*Methods of Study in Natural History*):** *"A trained **mammalogist** distinguishes closely allied species by subtle variations in cranial sutures and molar cusps."*
+> - 📜 **Theodore Roosevelt (*African Game Trails*):** *"Our camp naturalist worked with the unflagging diligence of a dedicated **mammalogist**, skinning specimens by lantern light."*

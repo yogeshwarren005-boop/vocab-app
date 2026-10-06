@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small valve.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small valve.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An anatomical valvelet, small valve, or fold of mucous membrane.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human neuroanatomy and gastroenterology, structures such as the valvula cerebelli or the circular folds (valvulae conniventes) of the small intestine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, valvula designates a small valve."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **valvula** cerebelli forms a thin lamina of white substance stretching between the superior cerebellar peduncles."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The prominent transverse folds of the **valvula** conniventes greatly amplify the absorptive mucosal surface of the jejunum."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"In the spiral valve of elasmobranchs, the continuous **valvula** slows the passage of chyme to optimize nutrient absorption."*

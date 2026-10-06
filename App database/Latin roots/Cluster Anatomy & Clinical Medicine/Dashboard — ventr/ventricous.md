@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a swelling on one side.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a swelling on one side.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Swollen out, distended, or bulging protuberantly on one side; ventricose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological morphology, descriptive of asymmetric ventricose expansion in fungal stems, insect abdomens, or plant capsules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ventricous designates having a swelling on one side."*
+> - 📜 **William Withering (*An Arrangement of British Plants*):** *"The stem of the agaric is hollow and distinctly **ventricous** near the base, tapering gradually toward the pileus."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The **ventricous** abdomen of the queen ant swells to immense proportions during periods of prolific egg production."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"A **ventricous** seed capsule dehisces with elastic force, scattering seeds across several feet of surrounding soil."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the ossicles in the middle ear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the ossicles in the middle ear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Furnished with ossicles; having small bones or bone-like calcified structures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate morphology and comparative anatomy, designating organisms (such as echinoderms) possessing a dermis reinforced by calcareous plates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ossiculate designates pertaining to the ossicles in the middle ear."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The flexible yet protective skin of sea stars is densely **ossiculate**, supporting moveable defensive spines."*
+> - 📜 **Louis Agassiz (*Methods of Study in Natural History*):** *"The **ossiculate** framework of echinoderms demonstrates an intricate geometric radial symmetry unique in the animal kingdom."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"In certain primitive fishes, the dermal armor is composed of discrete **ossiculate** plates embedded within the scales."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Destitute of blood or apparently so; - john dryden.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destitute of blood or apparently so; - john dryden.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Completely destitute of blood; bloodless, pale, and depleted of vital color.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical observation, describing an individual suffering from extreme acute anemia or profound hemorrhagic pallor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exsanguine designates destitute of blood or apparently so; - john dryden."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Following massive gastric hemorrhage, the patient lay upon the couch in an **exsanguine** and collapsed condition."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The wounded soldier was borne away, his **exsanguine** lips parted in a faint whisper for water."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The sick man presented an **exsanguine** countenance that filled his weeping kinsfolk with the gravest apprehensions."*

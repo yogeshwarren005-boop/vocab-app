@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become bony.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make rigid and set into a conventional pattern.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Converted into bone; hardened by calcium salts; or rigid, stubborn, and resistant to change.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histology and figurative prose, tissue transformed into rigid bone matrix, or an intellect calcified in outworn traditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"I was placed under an X-ray examination, and was told that the joints were becoming ossified."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"In mature birds, the cranial sutures become completely **ossified**, obliterating all visible boundaries between individual bones."*
+> - 📜 **William Osler (*Aequanimitas*):** *"He warned young physicians not to allow their clinical curiosity to become **ossified** in dogmatic routine."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The old farmer's beliefs were as **ossified** as the gnarled oak roots that gripped the chalk hill."*

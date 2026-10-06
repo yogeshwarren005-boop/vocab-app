@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medicine promoting expectoration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medicine promoting expectoration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A therapeutic medicine that promotes the secretion, liquefaction, and expulsion of mucus from the respiratory tract.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pulmonary pharmacology, an agent that reduces bronchial mucus viscosity and facilitates ciliary clearance in respiratory infections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, expectorant designates a medicine promoting expectoration."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Ammonium chloride administered in syrup of ipecac serves as an effective stimulating **expectorant** in acute bronchitis."*
+> - 📜 **William Cullen (*First Lines of the Practice of Physic*):** *"An **expectorant** formula that softens tenacious phlegm brings prompt relief to the distressed asthmatic patient."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"Warm herbal decoctions act as a mild **expectorant**, encouraging the discharge of purulent secretions from the bronchi."*

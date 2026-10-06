@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Related by blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Related by blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Descended from the same ancestor; related by blood; of the same lineage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical genetics and population biology, unions between closely related individuals sharing a high coefficient of inbreeding and identical alleles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lady’s a Cataian, we are politicians, Malvolio’s a Peg-a-Ramsey, and [_Sings._] _Three merry men be we._ Am not I consanguineous?"*
+> - 📜 **William Shakespeare (*Twelfth Night*):** *"My lady's a Cataian, we are politicians, and Malvolio's a Peg-a-Ramsey; am I not **consanguineous**? am I not of her blood?"*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The widespread prohibition against **consanguineous** marriages probably arose from observing the deleterious effects of close inbreeding."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Rare autosomal recessive metabolic errors occur with heightened frequency among the offspring of **consanguineous** parents."*

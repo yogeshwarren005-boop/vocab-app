@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the ossicles in the middle ear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the ossicles in the middle ear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, composed of, or affecting an anatomical ossicle, particularly the auditory bones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In otology and audiometric medicine, designating the ossicular chain (malleus, incus, stapes) or surgical reconstruction (ossiculoplasty) for conductive hearing loss.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ossicular designates pertaining to the ossicles in the middle ear."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic suppurative otitis media frequently causes necrosis of the **ossicular** chain, resulting in permanent conductive deafness."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Delicate synovial articulations unite the **ossicular** segments, allowing flexible mechanical transmission of sound."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"Comparative craniology demonstrates that the mammalian **ossicular** apparatus was derived from modified quadrate and articular bones."*

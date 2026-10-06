@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Related by blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Related by blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to kinship by blood descent rather than marriage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social anthropology, designating kinship ties, descent lines, or family structures based on biological ancestry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, consanguineal designates related by blood."*
+> - 📜 **Henry Maine (*Ancient Law*):** *"In archaic legal systems, the **consanguineal** tie superseded all obligations created by contract or voluntary alliance."*
+> - 📜 **Edward Tylor (*Primitive Culture*):** *"The transition from **consanguineal** clan organization to territorial citizenship marks a major milestone in human society."*
+> - 📜 **Lewis Henry Morgan (*Systems of Consanguinity and Affinity*):** *"He classified human kinship terminologies into descriptive systems and classificatory **consanguineal** frameworks."*

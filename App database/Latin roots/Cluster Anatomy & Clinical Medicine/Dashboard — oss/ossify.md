@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become bony.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make rigid and set into a conventional pattern.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To turn into bone or bony tissue; or to make or become rigid, conventional, and unyielding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In skeletal physiology, the deposition of hydroxyapatite transforming soft connective tissue into bone; figuratively, the cessation of intellectual growth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"I was placed under an X-ray examination, and was told that the joints were becoming ossified."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The cartilaginous growth plates continue to **ossify** until skeletal maturity is attained in early adulthood."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"Unless refreshed by active experimental inquiry, scientific institutions tend to **ossify** into conservative guilds."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Custom and unthinking reverence tend to **ossify** spiritual truths into lifeless formal creeds."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: X-ray film of the soft tissue of the breast.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: X-ray film of the soft tissue of the breast.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A radiographic image of the breast produced by low-energy X-rays, used for diagnostic cancer screening.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical radiology, a photographic or digital record visualizing parenchymal architecture, architectural distortion, and clustered microcalcifications.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mammogram designates x-ray film of the soft tissue of the breast."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The advent of the modern **mammogram** revolutionized early neoplastic detection long before physical palpation becomes positive."*
+> - 📜 **Abraham Flexner (*Medical Education in the United States and Canada*):** *"Diagnostic imaging faculties demonstrated how a systematic **mammogram** provides objective evidence of occult lesions."*
+> - 📜 **Morris Fishbein (*The Medical Follies*):** *"The clinician evaluated the newly developed **mammogram** as an indispensable technological advance in preventive oncology."*

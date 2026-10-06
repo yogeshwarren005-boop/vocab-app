@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small valve.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small valve.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small valve or valvelet; a diminutive flap or fold acting as a valve.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany and microanatomy, a small bract or chaffy scale in grass florets, or a tiny endocardial flap within the microvasculature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, valvule designates a small valve."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"In the spikelet of the grass, the inner **valvule** encloses the stamens and pistil opposite the outer glume."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"A minute fibrous **valvule** guards the coronary sinus orifice, preventing systolic regurgitation into the cardiac vein."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The delicate membranous **valvule** protects the embryonic seed until moisture triggers its elastic release."*

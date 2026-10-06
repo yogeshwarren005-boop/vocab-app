@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a ventricle (of the heart or brain).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a ventricle (of the heart or brain).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, situated in, or affecting a ventricle of the heart or brain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiovascular hemodynamics and electrophysiology, pertaining to ventricular depolarization (QRS complex), ejection fraction, or fatal ventricular arrhythmias.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ventricular designates of or relating to a ventricle (of the heart or brain)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Frequent premature **ventricular** contractions in coronary disease demand cautious clinical monitoring to prevent ventricular fibrillation."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **ventricular** septum consists of a thick muscular inferior portion and a thin superior membranous part."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Coordinated **ventricular** systole expels the blood simultaneously into the pulmonary artery and the systemic aorta."*

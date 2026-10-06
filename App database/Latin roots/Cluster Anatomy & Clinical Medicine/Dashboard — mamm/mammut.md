@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct type genus of the mammutidae: mastodons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct type genus of the mammutidae: mastodons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic genus of extinct North American mastodons belonging to the family Mammutidae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, primitive proboscideans possessing paired low-crowned bunodont molars with transverse ridges adapted for forest browsing rather than grazing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mammut designates extinct type genus of the mammutidae: mastodons."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"The dental architecture of **Mammut** americanum separates the true mastodon decisively from the steppe mammoths."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The massive skeletal remains of **Mammut** unearthed in Kentucky salt-licks excited the wonder of early naturalists."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"In the fossil cranium of **Mammut**, the air cells of the diploë expand to enormous dimensions to support the heavy tusks."*

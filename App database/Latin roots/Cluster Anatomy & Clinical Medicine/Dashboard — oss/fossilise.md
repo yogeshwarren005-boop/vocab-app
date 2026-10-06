@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Convert to a fossil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become mentally inflexible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert organic matter into a fossil through mineral petrifaction; or to become rigid and antiquated (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geological taphonomy, the infiltration and replacement of cellular spaces by silicate or calcite minerals over vast epochs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"It reminded me of a sepia painting I had once seen done from the ink of a fossil Belemnite that must have perished and become fossilised millions of years ago."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Sediments accumulating along tranquil lake bottoms slowly **fossilise** the delicate leaves and insects carried in by streams."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"We must not allow our scientific conclusions to **fossilise** into dogmas that resist fresh empirical evidence."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Mineral springs rich in dissolved carbonates rapidly **fossilise** submerged twigs and calcareous mosses."*

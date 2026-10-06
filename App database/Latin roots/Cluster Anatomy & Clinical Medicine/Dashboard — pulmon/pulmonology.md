@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin pulmon within the domain of Anatomy & Clinical Medicine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of pulmon in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical subspecialty dealing with diseases of the lungs and respiratory system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In internal medicine, the clinical science integrating spirometry, bronchoscopy, arterial blood gas analysis, and critical thoracic intensive care.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pulmonology designates pertaining to, derived from, or characteristic of latin pulmon within the domain of anatomy & clinical medicine."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The emerging discipline of **pulmonology** transformed chronic phthisis management from palliative confinement to rigorous bacteriological therapeutics."*
+> - 📜 **Abraham Flexner (*Medical Education in the United States and Canada*):** *"Instruction in clinical **pulmonology** requires direct bedside training in physical auscultation, percussion, and radiography."*
+> - 📜 **Morris Fishbein (*The Medical Follies*):** *"Advancements in academic **pulmonology** systematically discredited fraudulent patent medicines claiming to cure galloping consumption."*

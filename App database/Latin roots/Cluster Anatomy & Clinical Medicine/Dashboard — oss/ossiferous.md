@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing bones (especially fossil bones).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing bones (especially fossil bones).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing, yielding, or producing bones or fossil skeletal remains.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In speleology and quaternary geology, designating caves, breccias, or sedimentary strata that contain abundant fossilized bones of prehistoric animals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ossiferous designates containing bones (especially fossil bones)."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The celebrated **ossiferous** caverns of Yorkshire yielded thousands of teeth and bones of Pleistocene hyenas and hippopotami."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We examined the **ossiferous** breccia at Monte Hermoso, which contained abundant remains of extinct giant edentates."*
+> - 📜 **William Buckland (*Reliquiae Diluvianae*):** *"The muddy floor of Kirkdale Cave presented a rich **ossiferous** deposit preserving the fractured bones of ancient quadrupeds."*

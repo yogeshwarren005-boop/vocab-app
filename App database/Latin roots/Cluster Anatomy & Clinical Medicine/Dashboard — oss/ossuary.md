@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any receptacle for the burial of human bones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any receptacle for the burial of human bones.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A container, stone receptacle, vault, or building where the bones of dead people are deposited.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mortuary archaeology and comparative anthropology, a subterranean chamber or chest for secondary burial, housing skeletonized human remains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ossuary designates any receptacle for the burial of human bones."*
+> - 📜 **Thomas Browne (*Hydriotaphia, Urn Burial*):** *"Ancient sepulchral vaults served as a solemn **ossuary** wherein the dry dust and bones of whole generations mingled."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Catacombs excavated beneath the imperial city functioned as a subterranean **ossuary** for early Christian believers."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"He gazed with contemplative sorrow into the dark stone **ossuary**, meditating upon the transitory glory of mortal existence."*

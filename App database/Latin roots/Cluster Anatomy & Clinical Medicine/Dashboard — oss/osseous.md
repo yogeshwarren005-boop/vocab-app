@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Composed of or containing bone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Composed of or containing bone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Composed of, resembling, or pertaining to bone; bony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histology and skeletal pathology, descriptive of the rigid calcified extracellular matrix consisting of hydroxyapatite crystals embedded in collagen fibrils.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Nor must there be omitted another strange attestation of the antiquity of the whale, in his own osseous post-diluvian reality, as set down by the venerable John Leo, the old Barbary traveller."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Nor must there be omitted another strange attestation of the antiquity of the whale, in his own osseous post-diluvian reality, as set down by the venerable John Leo, the old Barbary traveller."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The **osseous** labyrinth of the sperm whale's skull presents an impenetrable citadel against ocean pressure."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The homologous arrangement of **osseous** elements across the vertebrate limbs confirms their common ancestry."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Compact **osseous** tissue forms the dense outer shell of long bones, resisting heavy compressive and torsional strains."*

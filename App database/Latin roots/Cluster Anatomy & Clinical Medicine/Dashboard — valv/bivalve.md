@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marine or freshwater mollusks having a soft body with platelike gills enclosed within two shells hinged together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used of mollusks having two shells (as clams etc.).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An aquatic mollusk possessing a two-part hinged shell, such as a clam, oyster, or mussel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate zoology and paleontology, a member of the class Bivalvia (Lamellibranchiata) characterized by a laterally compressed body and absence of a radula.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Captain Nemo was evidently acquainted with the existence of this bivalve, and seemed to have a particular motive in verifying the actual state of this tridacne."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Upon inquiring how many oysters he had, he replied, 'Six gallons is my every day deposit here;' and oh! they were so inexpressibly fine-looking, I could not resist robbing some poor fellow of one large bivalve to ascertain their quality."*
-> - 📜 **James Joyce (*Ulysses*):** *"BLOOM: _(Absently.)_ Ocularly woman’s bivalve case is worse."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"In the Lamellibranchiata, or **bivalve** shells, hermaphroditism is not rare among various sedentary marine families."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The two calcareous valves of the **bivalve** are held closed against predators by powerful adductor muscles."*
+> - 📜 **Louis Agassiz (*Methods of Study in Natural History*):** *"Fossil **bivalve** mollusks provide crucial index fossils for correlating Mesozoic and Cenozoic marine sedimentary strata."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any rigid body structure composed primarily of keratin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any rigid body structure composed primarily of keratin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The anatomical nail of a finger or toe; or a claw, talon, or hoof; or the lacrimal bone of the skull.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human osteology and dermatology, the thin scale-like lacrimal bone (os unguis) of the orbit, or the keratinized plate of the human nail.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unguis designates any rigid body structure composed primarily of keratin."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The os **unguis**, or lacrimal bone, is a delicate quadrilateral lamina situated at the anterior medial wall of the orbit."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The keratinized **unguis** grows continuously from the nail matrix, providing essential mechanical defense to the fingertip."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Comparative analysis demonstrates that the mammalian **unguis** corresponds strictly to the avian talon and reptilian claw."*

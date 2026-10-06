@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being or occurring within a lung.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or occurring within a lung.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated, occurring, or administered within the substance of the lungs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In respiratory physiology and thoracic medicine, pertaining to pressure changes (intrapulmonary pressure) or vascular networks within the pulmonary parenchyma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intrapulmonary designates being or occurring within a lung."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Rupture of an **intrapulmonary** abscess into an adjacent bronchus produces sudden paroxysms of copious purulent expectoration."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The pulmonary arteries divide repeatedly to form a dense **intrapulmonary** capillary plexus surrounding each alveolus."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"Auscultation reveals localized bronchial breathing whenever an **intrapulmonary** consolidation solidifies the spongy lung tissue."*

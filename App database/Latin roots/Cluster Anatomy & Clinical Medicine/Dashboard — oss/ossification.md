@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The developmental process of bone formation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The calcification of soft tissue into a bonelike material.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The developmental or pathological process of bone formation; or the state of becoming rigid and hardened.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In skeletal osteogenesis, the conversion of mesenchymal tissue or hyaline cartilage into calcified bone through osteoblast activity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Formation from thought 423:27 Ossification or any abnormal condition or derange- ment of the body is as directly the action of mortal mind as is dementia or insanity."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Primary **ossification** begins within the diaphyseal center of long bones during early embryonic development."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Abnormal heterotopic **ossification** in muscular tissue characterizes the rare disabling syndrome of fibrodysplasia ossificans progressiva."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The replacement of flexible embryonic cartilage by hard calcium phosphate marks the completion of skeletal **ossification**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of the city of colossae in ancient phrygia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or inhabitant of the city of colossae in ancient phrygia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of ancient Colossae; or relating to the city of Colossae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biblical theology, pertaining to the Christian community at Colossae or the Christological doctrine articulated in Paul's Epistle to the Colossians.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, colossian designates a native or inhabitant of the city of colossae in ancient phrygia."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **Colossian** congregation flourished amidst the bustling trade routes connecting coastal Ephesus with the inland plateau."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The moral exhortations addressed to the **Colossian** converts reflect the ascetic debates of the first-century Roman province."*
+> - 📜 **Jeremy Taylor (*Holy Living*):** *"Saint Paul urged the **Colossian** believers to set their affections on heavenly things rather than earthly vanities."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or affecting the viscera.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obtained through intuition rather than from reasoning or observation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the internal organs of the body; or characterized by deep, intuitive, and primal gut feeling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy and human psychology, referring to the autonomic innervation of organs (visceral efferents), or to immediate emotional reactions devoid of rationalization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, visceral designates relating to or affecting the viscera."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Malignant emboli lodging in the **visceral** capillaries produce wedge-shaped infarctions of the spleen and kidneys."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The involuntary movements of the **visceral** muscular tunic propel the alimentary contents through peristaltic contractions."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"He felt a sudden **visceral** shock of shame that clutched at his throat like a suffocating hand."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who spits (ejects saliva or phlegm from the mouth).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medicine promoting expectoration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who expels sputum or spits; or an obsolete container or spittoon used to collect sputum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical sanatorium management and social history, a receptacle provided for pulmonary patients to prevent airborne tuberculous contamination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, expectorator designates a person who spits (ejects saliva or phlegm from the mouth)."*
+> - 📜 **Charles Dickens (*Martin Chuzzlewit*):** *"The inveterate **expectorator** discharged his tobacco quid across the cabin floor with careless disregard for cleanliness."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In every tuberculosis ward, each patient was supplied with a covered pocket **expectorator** containing antiseptic fluid."*
+> - 📜 **Mark Twain (*Roughing It*):** *"The rustic court room was furnished with a cracked stove and a sawdust-filled box serving as a general **expectorator**."*

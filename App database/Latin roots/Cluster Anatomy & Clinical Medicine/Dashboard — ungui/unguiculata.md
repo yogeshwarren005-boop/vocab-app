@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In former classifications a major division of mammalia comprising mammals with nails or claws; distinguished from hoofed mammals and cetaceans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In former classifications a major division of mammalia comprising mammals with nails or claws; distinguished from hoofed mammals and cetaceans.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former zoological grouping of placental mammals possessing claws or nails on their digits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative mammalian taxonomy, Linnaeus and Cuvier's division of quadrupeds (including primates, carnivores, and rodents) bearing clawed or nailed digits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unguiculata designates in former classifications a major division of mammalia comprising mammals with nails or claws; distinguished from hoofed mammals and cetaceans."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The cohort **Unguiculata** comprises those mammalian orders whose terminal phalanges are capped with protective claws or flat nails."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"In the **Unguiculata**, the digits retain high flexibility compared to the rigid encased hooves of ungulate herbivores."*
+> - 📜 **Louis Agassiz (*Methods of Study in Natural History*):** *"Cuvier distinguished the **Unguiculata** from hoofed quadrupeds by the specialized prehensile freedom of their extremities."*

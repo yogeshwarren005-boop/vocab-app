@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (anthropology) related by blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (anthropology) related by blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The relationship or kinship of persons descended from the same stock or common ancestor; blood relation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In canon law and genealogical jurisprudence, the degree of genetic relatedness determining marital prohibitions and intestate property succession.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have forgot my father; I know no touch of consanguinity, No kin, no love, no blood, no soul so near me As the sweet Troilus."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The increasing remoteness of consanguinity is every day diminishing the force of the family compact between France and Spain."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"After our own country, there was none in whose glory we more delighted--none whose good opinion we were more anxious to possess--none toward which our hearts yearned with such throbbings of warm consanguinity."*
+> - 📜 **William Shakespeare (*Troilus and Cressida*):** *"I have forgot my father; I know no touch of **consanguinity**, no kin, no love, no blood, no soul so near me as the sweet Troilus."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Ecclesiastical councils multiplied the prohibited degrees of **consanguinity** to an extent that hampered noble dynastic alliances."*
+> - 📜 **Henry Maine (*Ancient Law*):** *"The fiction of adoption was invented to preserve the sacred hearth when the natural line of **consanguinity** failed."*

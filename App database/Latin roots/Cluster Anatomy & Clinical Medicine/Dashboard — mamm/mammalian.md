@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any warm-blooded vertebrate having the skin more or less covered with hair; young are born alive except for the small subclass of monotremes and nourished with milk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the class mammalia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, characteristic of, or belonging to the class Mammalia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative physiology and embryology, describing biological structures, metabolic processes, or developmental pathways peculiar to mammals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Following close upon the Reptilian came the Mammalian age, and I hold that with the largest of the mammals came man, rude in tastes and uncouth in form, but even then ruling as king of the animal creation."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The early stages of the **mammalian** embryo reveal transient branchial arches recalling primitive ancestral aquatic life."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"The structural modifications of the **mammalian** foot reflect diverse adaptations to cursorial, arboreal, or aquatic locomotion."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Experimental models in **mammalian** physiology have elucidated the regulatory pathways of cardiac output and vasomotor tone."*

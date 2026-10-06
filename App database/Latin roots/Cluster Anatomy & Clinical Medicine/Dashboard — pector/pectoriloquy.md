@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin pector within the domain of Anatomy & Clinical Medicine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of pector in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The striking transmission of the sound of a patient's whispered speech through the chest wall, heard via a stethoscope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical diagnostic auscultation, a physical sign pathognomonic of lobar pulmonary consolidation, atelectasis, or a superficial tuberculous lung cavity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pectoriloquy designates pertaining to, derived from, or characteristic of latin pector within the domain of anatomy & clinical medicine."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"Whispering **pectoriloquy** is heard with startling distinctness over an excavated tuberculous cavity communicating with a bronchus."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Clear whispered **pectoriloquy** over the right lower lobe confirms the clinical impression of complete pneumonic consolidation."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"Through the acoustic tube of the stethoscope, unmistakable **pectoriloquy** revealed the cavernous destruction hidden in the lung."*

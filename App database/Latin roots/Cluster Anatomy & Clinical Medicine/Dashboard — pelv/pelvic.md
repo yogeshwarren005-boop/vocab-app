@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the pelvis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the pelvis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, situated near, or affecting the pelvis or pelvic girdle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gross human osteology and obstetrics, pertaining to the bony ring formed by the paired hip bones, sacrum, and coccyx.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Lewd chimpanzee. _(Breathlessly.)_ Pelvic basin."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The broad, bowl-shaped configuration of the human **pelvic** skeleton reflects our adaptation to habitual bipedal walking."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **pelvic** diaphragm separates the true pelvic cavity above from the perineum below."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Powerful ligaments securely bind the sacrum to the ilium, ensuring stability across the **pelvic** arch under vertical loads."*

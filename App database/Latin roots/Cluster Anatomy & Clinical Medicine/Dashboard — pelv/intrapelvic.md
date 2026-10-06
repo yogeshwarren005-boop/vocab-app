@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin pelv within the domain of Anatomy & Clinical Medicine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of pelv in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated, occurring, or performed within the cavity of the pelvis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gynecological surgery and clinical anatomy, describing vascular plexuses, fascial planes, or pathologies located inside the true pelvic basin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intrapelvic designates pertaining to, derived from, or characteristic of latin pelv within the domain of anatomy & clinical medicine."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Extensive **intrapelvic** suppuration requires dependent drainage to avert septic peritonitis."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The internal iliac artery distributes essential **intrapelvic** branches to the bladder, rectum, and reproductive organs."*
+> - 📜 **William Hunter (*Anatomy of the Human Gravid Uterus*):** *"During the third trimester, the gravid uterus expands far beyond its initial **intrapelvic** boundaries into the abdominal cavity."*

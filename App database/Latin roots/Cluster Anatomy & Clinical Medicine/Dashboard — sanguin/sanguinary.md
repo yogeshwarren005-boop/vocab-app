@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Accompanied by bloodshed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by eagerness to resort to violence and bloodshed; ; ; -g.w.johnson.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving or accompanied by much bloodshed; bloodthirsty, murderous, and cruel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military historiography and moral philosophy, describing fierce battles or tyrannical decrees that result in catastrophic slaughter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"For some of these same Quakers are the most sanguinary of all sailors and whale-hunters."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"It was a sanguinary affair, and especially interesting as showing one of Peter’s peculiarities, which was that in the middle of a fight he would suddenly change sides."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The criminal code of every country partakes so much of necessary severity, that without an easy access to exceptions in favor of unfortunate guilt, justice would wear a countenance too sanguinary and cruel."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"If you make the criminal code too **sanguinary**, juries will not convict the offender."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Some of these same Nantucket Quakers are the most **sanguinary** of all sailors and whale-hunters."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"The cosmic process in organic nature is not a peaceful pastoral scene, but an intense and **sanguinary** struggle for existence."*

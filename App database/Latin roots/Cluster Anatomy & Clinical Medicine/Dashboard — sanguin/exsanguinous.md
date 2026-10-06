@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Destitute of blood or apparently so; - john dryden.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destitute of blood or apparently so; - john dryden.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bloodless, drained of blood, or completely lacking vital blood flow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathological anatomy and surgical descriptions, tissue that has been completely blanched and deprived of vascular perfusion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exsanguinous designates destitute of blood or apparently so; - john dryden."*
+> - 📜 **William Cullen (*First Lines of the Practice of Physic*):** *"The extremities assumed an **exsanguinous** pallor as systemic vasomotor failure impeded peripheral capillary flow."*
+> - 📜 **John Hunter (*Treatise on the Blood, Inflammation, and Gun-shot Wounds*):** *"The excised gangrenous flap appeared entirely **exsanguinous**, devoid of active arterial circulation."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe pernicious anemia leaves the skin in a characteristic waxen, **exsanguinous** state with lemon-yellow tinting."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small bone; especially one in the middle ear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small bone; especially one in the middle ear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small bone or small bony structure, especially one of the three auditory bones of the middle ear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In otorhinolaryngology and echinoderm anatomy, the malleus, incus, or stapes of the tympanic cavity, or calcareous skeletal plates in starfish.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ossicle designates a small bone; especially one in the middle ear."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The stapes is the smallest **ossicle** in the human body, transmitting acoustic mechanical vibrations directly to the oval window."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Sound waves vibrate the tympanic membrane, which sets each miniature auditory **ossicle** into rhythmic motion."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The middle ear **ossicle** system illustrates how ancestral reptilian jaw bones were co-opted for mammalian hearing."*

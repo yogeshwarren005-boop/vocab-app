@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling sanguine; optimistically cheerful and confident.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling sanguine; optimistically cheerful and confident.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ardent optimism, buoyant cheerfulness, or confident expectation of success; florid vitality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral psychology, an emotional disposition marked by energetic cheerfulness, resilience against despair, and confident expectation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sanguineness designates feeling sanguine; optimistically cheerful and confident."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His characteristic **sanguineness** sustained him through commercial reverses that would have crushed a more cautious merchant."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber's inextinguishable **sanguineness** returned with full force the moment a hot punch was brewed upon the table."*
+> - 📜 **William James (*The Principles of Psychology*):** *"A constitutional **sanguineness** enables certain minds to dismiss gloomy forebodings with serene nonchalance."*

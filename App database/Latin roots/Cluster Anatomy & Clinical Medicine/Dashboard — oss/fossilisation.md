@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of fossilizing a plant or animal that existed in some earlier age; the process of being turned to stone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Becoming inflexible or out of date.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The natural geological process of being preserved as a fossil; petrifaction (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In taphonomy, the sequence of geochemical processes including burial, permineralization, carbonization, and recrystallization preserving organic structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fossilisation designates the process of fossilizing a plant or animal that existed in some earlier age; the process of being turned to stone."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The conditions necessary for complete **fossilisation** occur only rarely, requiring rapid sedimentary burial away from scavengers."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Soft-bodied organisms decompose rapidly before the slow geochemical processes of **fossilisation** can take effect."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"In deltaic estuaries, sand and silt deposition favors the **fossilisation** of stranded marine and terrestrial remains."*

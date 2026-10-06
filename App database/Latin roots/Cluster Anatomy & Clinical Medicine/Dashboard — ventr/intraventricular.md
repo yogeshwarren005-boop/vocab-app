@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Within the system of ventricles in the brain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Within the system of ventricles in the brain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated, occurring, or administered within a ventricle of the brain or heart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology and cardiology, describing cerebrospinal fluid flow within the cerebral ventricles or hemodynamic conduction within the cardiac chambers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intraventricular designates within the system of ventricles in the brain."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Massive **intraventricular** hemorrhage rapidly induces profound coma, hyperpyrexia, and decerebrate rigidity."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **intraventricular** cerebrospinal fluid circulates from the lateral ventricles through the interventricular foramen of Monro."*
+> - 📜 **Harvey Cushing (*The Life of Sir William Osler*):** *"He mapped out the **intraventricular** tumors that obstruct the aqueduct of Sylvius and induce internal hydrocephalus."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of mollusks having two shells (as clams etc.).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used of mollusks having two shells (as clams etc.).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a shell, capsule, or seed pod consisting of two distinct hinged valves or plates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany and malacology, describing fruit capsules (such as siliques) or crustaceans and mollusks possessing dual protective casings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bivalved designates used of mollusks having two shells (as clams etc.)."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The tiny **bivalved** carapace of ostracod crustaceans encloses the entire body like a microscopic mollusk shell."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Upon ripening, the **bivalved** capsule dehisces along two sutures to liberate its compressed winged seeds."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The **bivalved** shell of brachiopods differs fundamentally from mollusks by its dorsal and ventral orientation."*

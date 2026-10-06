@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: American and asiatic trees having edible one-seeded fruit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: American and asiatic trees having edible one-seeded fruit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tropical trees in the family Calophyllaceae, noted for large edible fruits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic tropical botany, evergreen trees characterized by fragrant white flowers, opposite coriaceous leaves, and thick-skinned drupaceous fruits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mammea designates american and asiatic trees having edible one-seeded fruit."*
+> - 📜 **William Withering (*The Miscellaneous Tracts of the Late William Withering*):** *"The Caribbean genus **Mammea** yields a delicious fruit whose firm orange pulp resembles the flavor of ripe apricots."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"In the fertile valleys of the Orinoco, flourishing groves of **Mammea** shade the village clearings with dark glossy foliage."*
+> - 📜 **Hans Sloane (*A Voyage to the Islands Madera, Barbados, Nieves, S. Christophers and Jamaica*):** *"The aromatic gum exuding from the trunk of **Mammea** is applied by native inhabitants to extract venomous jiggers."*

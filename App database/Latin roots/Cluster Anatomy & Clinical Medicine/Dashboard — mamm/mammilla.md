@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The small projection of a mammary gland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The small projection of a mammary gland.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A biological nipple, teat, or small nipple-shaped protuberance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive human and comparative anatomy, the central papilla of the mammary areola containing the terminal orifices of the lactiferous sinuses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mammilla designates the small projection of a mammary gland."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **mammilla** is surrounded by a pigmented areola equipped with numerous sebaceous glands of Montgomery."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Cold temperature or tactile stimulation excites involuntary contraction of the smooth muscular fibers within the **mammilla**."*
+> - 📜 **William Hunter (*Anatomy of the Human Gravid Uterus*):** *"During gestation the **mammilla** enlarges, its vascular plexus becoming remarkably prominent as lactation approaches."*

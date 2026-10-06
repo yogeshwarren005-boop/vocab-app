@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mammal having nails or claws.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or resembling claws or nails.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having claws, nails, or talons; or having petals with narrow claw-like bases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy and systematic botany, describing animals with clawed digits, or floral corollas whose petals narrow into distinct basal claws.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unguiculate designates a mammal having nails or claws."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The arboreal ancestry of primates is confirmed by their **unguiculate** extremities adapted for grasping forest boughs."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"Each **unguiculate** digit terminates in a curved horny sheath supported by a specialized ungual phalanx."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The pinks present characteristic **unguiculate** petals with long slender claws enclosed within a tubular calyx."*

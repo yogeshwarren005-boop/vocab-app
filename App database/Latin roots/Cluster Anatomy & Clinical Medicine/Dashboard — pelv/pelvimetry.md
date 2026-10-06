@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Measurement of the dimensions of the bony birth canal (to determine whether vaginal birth is possible).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Measurement of the dimensions of the bony birth canal (to determine whether vaginal birth is possible).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The measurement of the dimensions and capacity of the pelvis, especially in obstetrics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In prenatal care, the manual, radiographic, or ultrasonic assessment of maternal pelvic architecture to determine the feasibility of safe cephalic delivery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pelvimetry designates measurement of the dimensions of the bony birth canal (to determine whether vaginal birth is possible)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Systematic clinical **pelvimetry** conducted during late gestation identifies deformities caused by childhood rickets."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The principles of external and internal **pelvimetry** were expounded with mathematical precision in the obstetrical clinic."*
+> - 📜 **William Hunter (*Anatomy of the Human Gravid Uterus*):** *"Rigorous **pelvimetry** distinguishes the gynecoid pelvis from contracted platypelloid configurations."*

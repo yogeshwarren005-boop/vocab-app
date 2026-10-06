@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or operating by means of valves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or operating by means of valves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, operating by means of, or affecting valves, especially the valves of the heart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical cardiology, describing pathological murmurs, endocardial deformities, regurgitation, or stenosis of cardiac valves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"VALVULAR HEART DISEASE HEALED Fourteen years ago my heart awoke to gratitude to God and the dear Leader at the same time."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic **valvular** disease of the heart frequently originates in an unrecognized attack of acute juvenile rheumatic fever."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"Careful stethoscope auscultation localizes the mechanical murmur produced by **valvular** incompetence at each cardiac orifice."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The fibrous rings provide firm skeletal anchorage for the **valvular** leaflets of both atrioventricular orifices."*

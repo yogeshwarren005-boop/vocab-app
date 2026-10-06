@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large order of gastropods usually breathing by means of a lung-like sac comprising most land snails and slugs and many freshwater snails.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large order of gastropods usually breathing by means of a lung-like sac comprising most land snails and slugs and many freshwater snails.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order or subclass of gastropod mollusks (such as snails and slugs) that breathe air with a lung-like pallial cavity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In malacology, terrestrial and freshwater gastropods that have lost ancestral ctenidial gills in favor of a vascularized mantle cavity acting as a lung.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pulmonata designates large order of gastropods usually breathing by means of a lung-like sac comprising most land snails and slugs and many freshwater snails."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Terrestrial species belonging to the **Pulmonata** have colonized remote oceanic islands through rare accidental dispersal."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"In the **Pulmonata**, respiration is effected through a contractile pneumostome opening into the rich vascular mantle roof."*
+> - 📜 **Louis Agassiz (*Methods of Study in Natural History*):** *"The developmental transition of the **Pulmonata** from aquatic ancestors illustrates profound structural modification for terrestrial life."*

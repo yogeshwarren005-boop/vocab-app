@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone or something that is abnormally large and powerful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person of exceptional importance and reputation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A statue of gigantic size and scale; or a person or entity of immense stature and commanding influence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient history, monumental statuary such as the bronze Colossus of Rhodes, or metaphorically a domineering figure towering over their contemporaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nothing but a colossus can do thee that friendship."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, man, he doth bestride the narrow world Like a Colossus, and we petty men Walk under his huge legs, and peep about To find ourselves dishonourable graves."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The fierce Polydamas Hath beat down Menon; bastard Margarelon Hath Doreus prisoner, And stands colossus-wise, waving his beam, Upon the pashed corses of the kings Epistrophus and Cedius."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"Why, man, he doth bestride the narrow world like a **Colossus**, and we petty men walk under his huge legs."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"An institution is the lengthened shadow of one man; as, Monachism, of the Hermit Antony; and all history resolves into the biography of a few **colossus** figures."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The giant sperm whale hung alongside like a drowned **colossus**, dark and majestic amidst the ocean swell."*

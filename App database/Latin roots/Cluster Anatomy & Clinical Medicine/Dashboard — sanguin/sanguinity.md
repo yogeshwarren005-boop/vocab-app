@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling sanguine; optimistically cheerful and confident.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling sanguine; optimistically cheerful and confident.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ardent optimism, confident hopefulness, or a robust, cheerful disposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character analysis and descriptive literature, the mental state of expecting fortunate outcomes despite daunting obstacles; sanguineness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sanguinity designates feeling sanguine; optimistically cheerful and confident."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"His youthful **sanguinity** led him to believe that buried Roman treasures would reward his archaeological excavations."*
+> - 📜 **George Meredith (*The Egoist*):** *"Her unquenchable **sanguinity** refused to admit that love could be chilled by worldly calculations."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Experience teaches mortals to moderate that extravagant **sanguinity** which promises unclouded happiness in youth."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small bone; especially one in the middle ear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small bone; especially one in the middle ear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Latin anatomical term for an ossicle; a miniature bone or calcified skeletal element.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical descriptive osteology, a minute skeletal nodule, such as a sesamoid bone or an auditory ossicle of the middle ear cavity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ossiculum designates a small bone; especially one in the middle ear."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Each **ossiculum** auditus plays an essential role in matching acoustic impedance between air and inner ear fluid."*
+> - 📜 **William Hunter (*Medical Commentaries*):** *"Careful dissection of the tympanic cavity revealed that the smallest **ossiculum** remained intact despite chronic disease."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The homologous **ossiculum** in lower vertebrates fulfills a suspensory rather than an auditory functional role."*

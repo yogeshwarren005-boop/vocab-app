@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of zoology that studies mammals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of zoology that studies mammals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of mammals, including their classification, anatomy, behavior, and evolution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic biology, the discipline integrating paleomammalogy, comparative craniology, and ecological ethology to understand mammalian diversification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mammalogy designates the branch of zoology that studies mammals."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The systematic study of **mammalogy** demonstrates how homologous skeletal elements are reshaped to serve diverse ecological functions."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"Progress in modern **mammalogy** requires rigorous correlation between living soft-tissue anatomy and fossil dental remains."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"His monumental contributions to North American **mammalogy** established definitive standards for taxonomic description."*

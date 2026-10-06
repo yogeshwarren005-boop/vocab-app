@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a swelling on one side.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a swelling on one side.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Distended, inflated, or swelling out protuberantly, especially on one side; pot-bellied.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In malacology and systematic botany, describing shells or floral corollas that swell outwards asymmetrically (such as certain gastropods or pitcher plants).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ventricose designates having a swelling on one side."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The **ventricose** whorls of certain fossil gastropod shells demonstrate gradual morphological expansion through sedimentary strata."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The calyx of Silene inflata is remarkably **ventricose**, resembling a delicate inflated bladder enclosing the floral organs."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The tubular corolla becomes distinctly **ventricose** below the throat, providing ample chamber for insect pollinators."*

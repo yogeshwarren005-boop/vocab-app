@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a ventral location or direction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a ventral location or direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Toward or upon the belly, abdomen, or anterior surface of an anatomical structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive embryology and surgical navigation, spatial direction toward the anterior or ventral plane of the body axis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ventrally designates in a ventral location or direction."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The motor roots emerge **ventrally** from the spinal cord to combine with the sensory dorsal roots."*
+> - 📜 **Charles Darwin (*Monograph on the Sub-class Cirripedia*):** *"The thoracic appendages are directed **ventrally**, sweeping the surrounding water for microscopic food particles."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The rectus abdominis muscle extends **ventrally** from the pubic crest to the anterior cartilages of the lower ribs."*

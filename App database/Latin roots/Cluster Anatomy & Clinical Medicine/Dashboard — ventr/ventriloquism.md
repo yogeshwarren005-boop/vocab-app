@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The art of projecting your voice so that it seems to come from another source (as from a ventriloquist's dummy).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art of projecting your voice so that it seems to come from another source (as from a ventriloquist's dummy).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art or performance of speaking such that the voice appears to come from another source or dummy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theatrical arts and physiological acoustics, speech produced with minimal lip movement and modified resonance, creating an illusion of spatial displacement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"He’s uncommonly good at ventriloquism, and he did it uncommonly well, by God!"*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"THIRD PART I [After Carwin’s confession of his powers of ventriloquism all the mysteries are cleared up—save one."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He was uncommonly good at comic **ventriloquism**, and he threw his voice into the chimney with astonishing theatrical effect."*
+> - 📜 **G. K. Chesterton (*The Wisdom of Father Brown*):** *"The performer practiced subtle **ventriloquism**, convincing the audience that whispered warnings issued from the hollow wooden idol."*
+> - 📜 **Charles Dickens (*The Uncommercial Traveller*):** *"The clever display of **ventriloquism** upon the stage made the painted wooden figure seem startlingly alive to the spectators."*

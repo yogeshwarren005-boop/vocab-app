@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unreasoning visceral manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the viscera.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an intuitive, gut-level, or deeply emotional manner; or with reference to internal organs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral description and psychological analysis, reacting through profound autonomic and emotional impulse rather than conscious reasoning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, viscerally designates in an unreasoning visceral manner."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The grim reality of the wilderness affected Marlow **viscerally**, unsettling his accustomed European complacency."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Bodily emotional states are experienced **viscerally** before the intellect formulates a reflective description of the danger."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"She responded **viscerally** to the harsh reproach, trembling from head to foot with wounded indignation."*

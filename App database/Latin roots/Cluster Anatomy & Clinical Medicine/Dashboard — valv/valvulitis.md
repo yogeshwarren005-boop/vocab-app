@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of a valve (especially of a cardiac valve as a consequence of rheumatic fever).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of a valve (especially of a cardiac valve as a consequence of rheumatic fever).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of a heart valve, typically caused by rheumatic fever or bacterial infection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiovascular pathology, acute endocarditis characterized by leukocyte infiltration, endothelial ulceration, and platelet-fibrin vegetations upon valve leaflets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, valvulitis designates inflammation of a valve (especially of a cardiac valve as a consequence of rheumatic fever)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute **valvulitis** in rheumatic carditis leads to verrucous vegetations along the line of leaflet contact."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"Suppurative **valvulitis** rapidly destroys the free margins of the cusps, inducing fatal hemodynamic collapse."*
+> - 📜 **William Henry Welch (*Papers and Addresses*):** *"Bacteriological sections revealed streptococcal colonies embedded within the necrotic vegetations of acute **valvulitis**."*

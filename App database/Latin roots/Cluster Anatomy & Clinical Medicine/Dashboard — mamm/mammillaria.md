@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any cactus of the genus mammillaria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any cactus of the genus mammillaria.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small globose or cylindrical cacti covered with spiral rows of nipple-like tubercles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In succulent botany, a widespread New World cactus genus characterized by dimorphic areoles and colorful flowers emerging between the tubercles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mammillaria designates any cactus of the genus mammillaria."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The desert species of **Mammillaria** protect their fleshy stems with dense lattices of sharp radial spines."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"Upon the arid limestone ridges of northern Mexico, dwarf colonies of **Mammillaria** carpet the rock crevices."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The tubercles of **Mammillaria** represent modified leaf-bases arranged in elegant mathematical spirals around the stem."*

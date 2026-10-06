@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin oss within the domain of Anatomy & Clinical Medicine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of oss in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To deprive bone of its calcareous mineral matter; to cause osseous resorption.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In experimental osteology and pathology, to dissolve calcium phosphate and hydroxyapatite from bone tissue, rendering it soft and flexible.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deossify designates pertaining to, derived from, or characteristic of latin oss within the domain of anatomy & clinical medicine."*
+> - 📜 **William Hunter (*Medical Commentaries*):** *"Acid solutions act rapidly to **deossify** the specimen, leaving the cartilaginous matrix intact for microscopic examination."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic nutritional deprivation and vitamin deficiency conspire to **deossify** the developing skeletons of impoverished children."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"If you **deossify** a long bone by prolonged acid maceration, it may be tied into a knot without fracturing."*

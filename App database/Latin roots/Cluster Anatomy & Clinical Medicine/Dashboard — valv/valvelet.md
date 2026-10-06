@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small valve.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small valve.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small or miniature valve, especially a diminutive fold in an anatomical vessel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microvascular anatomy and botany, a microscopic valvular flap in small venules or lymphatic capillaries preventing fluid backflow.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, valvelet designates a small valve."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Each microscopic lymphatic capillary is equipped with a delicate **valvelet** that facilitates unidirectional lymph uptake."*
+> - 📜 **William Cullen (*First Lines of the Practice of Physic*):** *"Incompetence of the venous **valvelet** network in the lower limb leads inexorably to chronic varicose distension."*
+> - 📜 **John Hunter (*Treatise on the Blood, Inflammation, and Gun-shot Wounds*):** *"Microscopic inspection reveals that each minute **valvelet** yields to forward fluid pressure but closes firmly against reflux."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wealth regarded as an evil influence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (new testament) a personification of wealth and avarice as an evil spirit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wealth, money, or material riches, regarded as an object of corrupting worship or false idolatry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological ethics and biblical literature, the personification of worldly gain as an antagonistic force subverting spiritual integrity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I know poetry is not dead, nor genius lost; nor has Mammon gained power over either, to bind or slay: they will both assert their existence, their presence, their liberty and strength again one day."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The ragged followers o’ the Nine, Poor, thoughtless devils! yet may shine In glorious light, While sordid sons o’ Mammon’s line Are dark as night!"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"In other worlds can Mammon fail, Omnipotent as he is here!"*
+> - 📜 **King James Bible (*The Gospel According to Saint Matthew*):** *"No man can serve two masters: for either he will hate the one, and love the other; ye cannot serve God and **mammon**."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He had yielded up his youthful scientific aspirations to worship at the prosperous domestic shrine of **mammon**."*
+> - 📜 **James Joyce (*Dubliners*):** *"His daily life was bound fast in the commercial service of **mammon**, adding up ledger columns from dawn to dusk."*

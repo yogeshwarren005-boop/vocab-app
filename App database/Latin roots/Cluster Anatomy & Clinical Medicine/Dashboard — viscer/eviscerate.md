@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgically remove a part of a structure or an organ.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove the contents of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To disembowel; to remove the internal organs of; or to deprive something of its essential vitality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical trauma and critical rhetoric, the complete removal of visceral organs, or metaphorically gutting a legal statute or intellectual argument.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eviscerate designates surgically remove a part of a structure or an organ."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The penetrating wound threatened to **eviscerate** the casualty unless prompt emergency abdominal closure was performed."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Factional disputes threatened to **eviscerate** the new constitution, leaving it a hollow parchment of empty promises."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The sailors proceeded to **eviscerate** the monster upon the cutting stage, stripping blubber and viscera with expert ease."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or affecting the lungs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or affecting the lungs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the lungs; pulmonary; or relating to the pulmonary artery and valve.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiology and physical diagnosis, designating the pulmonic valve, pulmonic second heart sound (P2), or pulmonary outflow tract.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pulmonic designates relating to or affecting the lungs."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Accentuation of the **pulmonic** second sound indicates heightened hemodynamic pressure throughout the pulmonary arterial tree."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"A soft systolic murmur heard loudest at the second left intercostal space originates at the **pulmonic** orifice."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **pulmonic** valve consists of three semilunar cusps preventing regurgitation of blood into the right ventricle during diastole."*

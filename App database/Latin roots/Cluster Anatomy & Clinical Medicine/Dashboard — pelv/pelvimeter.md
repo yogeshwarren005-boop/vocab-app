@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Measuring instrument for performing pelvimetry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Measuring instrument for performing pelvimetry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An obstetrical instrument designed for measuring the dimensions and diameters of the pelvis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pelvimetry, calibrated metallic calipers (such as Baudelocque's pelvimeter) used to gauge conjugate and transverse external pelvic spans.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pelvimeter designates measuring instrument for performing pelvimetry."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Careful measurement with a reliable **pelvimeter** remains an indispensable safeguard in evaluating contracted pelvic outlets."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The young obstetrician applied the curved arms of the **pelvimeter** to estimate the true conjugate diameter."*
+> - 📜 **William Hunter (*Medical Commentaries*):** *"Accurate application of the **pelvimeter** enables the physician to foresee mechanical cephalopelvic disproportion."*

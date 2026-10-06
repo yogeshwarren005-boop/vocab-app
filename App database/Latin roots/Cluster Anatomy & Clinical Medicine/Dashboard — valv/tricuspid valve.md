@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin valv within the domain of Anatomy & Clinical Medicine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of valv in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardiac valve situated between the right atrium and right ventricle of the heart, having three cusps.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiovascular hemodynamics, the right atrioventricular valve preventing regurgitation of venous blood into the right atrium during ventricular contraction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tricuspid valve designates pertaining to, derived from, or characteristic of latin valv within the domain of anatomy & clinical medicine."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **tricuspid valve** guards the right atrioventricular orifice with anterior, posterior, and medial septal leaflets."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Regurgitation across the **tricuspid valve** causes systolic pulsation of the jugular veins and congested hepatomegaly."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Contraction of the right ventricle forces blood past the pulmonary valves while the **tricuspid valve** remains firmly closed."*

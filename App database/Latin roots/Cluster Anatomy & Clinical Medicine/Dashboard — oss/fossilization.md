@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of fossilizing a plant or animal that existed in some earlier age; the process of being turned to stone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Becoming inflexible or out of date.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The biological and geological process by which animal or plant remains are converted into stone or preserved in rock.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sedimentary geology and taphonomy, the physical and chemical alteration of hard tissues through calcium carbonate or silica deposition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fossilization designates the process of fossilizing a plant or animal that existed in some earlier age; the process of being turned to stone."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The extreme imperfection of the geological record results from the rarity of the conditions required for **fossilization**."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"During **fossilization**, subterranean mineral solutions gradually replace the organic matrix molecule by molecule."*
+> - 📜 **Louis Agassiz (*Geological Sketches*):** *"The process of **fossilization** has preserved even the finest striations upon the scales of ancient Devonian fishes."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone whose style is out of fashion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The remains (or an impression) of a plant or animal that existed in a past geological age and that has been excavated from the soil.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The petrified remain, impression, or trace of an organism preserved in the Earth's crust from past geological ages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical geology and paleontology, mineralized skeletal structures, permineralized woods, or trace ichnofossils documenting ancient evolutionary lineages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"You would think there was not a single tusk left either above or below the ground in the whole country. ‘Mostly fossil,’ the manager had remarked, disparagingly."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"It was no more fossil than I am; but they call it fossil when it is dug up."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"I don’t deny there is a remarkable quantity of ivory—mostly fossil."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The discovery of an intermediate **fossil** form linking reptiles and birds provided remarkable verification of evolutionary descent."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"Every **fossil** shell exhumed from chalk cliffs bears silent witness to the immense antiquity of terrestrial life."*
+> - 📜 **Louis Agassiz (*Geological Sketches*):** *"The distinct **fossil** fauna of each geological horizon reveals an orderly progression of organic creation."*

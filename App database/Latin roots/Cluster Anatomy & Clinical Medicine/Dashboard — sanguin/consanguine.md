@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Related by blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Related by blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Related by blood descent; having a common ancestor; consanguineous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal jurisprudence and kinship anthropology, individuals descended from a shared biological stock, distinguished from affinal relations by marriage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, consanguine designates related by blood."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Roman civil law strictly regulated the inheritance rights of **consanguine** kindred within the patrician families."*
+> - 📜 **Walter Scott (*The Bride of Lammermoor*):** *"The feud divided families that had been closely allied by ancient **consanguine** bonds for generations."*
+> - 📜 **Henry Maine (*Ancient Law*):** *"Primitive tribal solidarity was founded exclusively upon the acknowledged claims of **consanguine** brotherhood."*

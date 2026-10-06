@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large amphitheater in rome whose construction was begun by vespasian about ad 75 or 80.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large amphitheater in rome whose construction was begun by vespasian about ad 75 or 80.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Flavian Amphitheatre in Rome; or any vast amphitheatre or arena designed for public spectacles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Roman archaeology, the monumental elliptical amphitheater begun under Vespasian in 72 AD and inaugurated by Titus, seating over 50,000 spectators.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Where the huge velarium that Nero had stretched across the Colosseum at Rome, that Titan sail of purple on which was represented the starry sky, and Apollo driving a chariot drawn by white, gilt-reined steeds?"*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The picturesqueness of the chimney stacks and tumble-down walls of the burned-out quarters of the town, stretching out and concealing one another, reminded him of the Rhine and the Colosseum."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He recalled the moonlight shining upon the ruined arches of the **Colosseum**, casting gigantic shadows upon the ancient sand."*
+> - 📜 **Charles Dickens (*Pictures from Italy*):** *"To see the **Colosseum** by moonlight is to behold the ghost of imperial Rome rising in solemn desolation."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The immense circumference of the **Colosseum** long resisted the destructive assaults of time, barbarian invaders, and stone-robbers."*

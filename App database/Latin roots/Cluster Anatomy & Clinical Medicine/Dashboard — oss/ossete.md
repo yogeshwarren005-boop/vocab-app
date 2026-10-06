@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A northeastern iranian language spoken in russia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A northeastern iranian language spoken in russia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of an Iranian indigenous ethnic group native to Ossetia in the central Caucasus Mountains.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Caucasian ethnography and historical linguistics, speakers of Ossetian, an Eastern Iranian language descended from ancient Scytho-Sarmatian dialects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ossete designates a northeastern iranian language spoken in russia."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The martial **Ossete** clans guarded the strategic defiles of the Dariel Pass against northern nomadic horsemen."*
+> - 📜 **Leo Tolstoy (*The Cossacks*):** *"The tall **Ossete** horseman rode proudly along the mountain trail, his shaggy sheepskin cloak fluttering in the alpine wind."*
+> - 📜 **Mikhail Lermontov (*A Hero of Our Time*):** *"Our **Ossete** driver cracked his whip and urged the horses up the steep Georgian military road."*

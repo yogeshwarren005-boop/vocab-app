@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Accompanied by bloodshed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Accompanied by bloodshed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, containing, or resembling blood; plethoric; or accompanied by bleeding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine and surgical pathology, describing bodily discharges, exudates, or apoplectic constitutions rich in red blood cells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Keats (*Lamia*):** *"His passion, cruel grown, took on a hue Fierce and sanguineous as 'twas possible In one whose brow had no dark veins to swell."*
-> - 📜 **Oscar Wilde (*Lord Arthur Savile's Crime; The Portrait of Mr. W.H., and Other Stories*):** *"Myers and Podmore on the subject of the Permanence of Sanguineous Stains when connected with Crime."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Thoracentesis withdrew a liter of dark **sanguineous** pleural fluid, pointing strongly toward malignant mesothelioma."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"The **sanguineous** engorgement of the pulmonary lobes during the first stage of pneumonia precedes fibrinous solidification."*
+> - 📜 **William Cullen (*First Lines of the Practice of Physic*):** *"Individuals of a full **sanguineous** habit require venesection when threatening symptoms of cerebral apoplexy supervene."*

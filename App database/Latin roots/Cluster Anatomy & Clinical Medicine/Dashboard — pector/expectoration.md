@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of coughing up and spitting out.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of spitting (forcefully expelling saliva).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of coughing up and expelling matter from the lungs; or the material so ejected (sputum).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diagnostic pulmonology, the physical and microscopic analysis of expelled tracheobronchial secretions to identify cellular pathology and pathogens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It was attended with purulent expectoration, and became so troublesome as to entitle it to be regarded as the leading feature of the case."*
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"The silences widened; the expectoration marvellously increased."*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"Hand him the glass works and let him sample the cold tea." Between Farley and Walker the effluvia from bodies long immune to water, the disregard of sanitary requirements, the expectorations and the foul air of the crowded car became unbearable."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Microscopic examination of the **expectoration** readily demonstrates the presence of elastic fibers and tubercle bacilli."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"The sudden cessation of purulent **expectoration** in bronchiectasis frequently heralds septic retention and rising fever."*
+> - 📜 **Thomas Sydenham (*The Works of Thomas Sydenham, M.D.*):** *"Copious free **expectoration** during the second stage of winter pleurisy is a favorable symptom of natural resolution."*

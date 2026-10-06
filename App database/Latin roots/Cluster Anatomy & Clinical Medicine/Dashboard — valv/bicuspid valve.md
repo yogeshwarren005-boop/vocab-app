@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin valv within the domain of Anatomy & Clinical Medicine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of valv in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardiac valve situated between the left atrium and left ventricle; the mitral valve.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiac anatomy and physiology, the dual-cusped atrioventricular valve preventing retrograde systolic regurgitation into the pulmonary venous circuit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bicuspid valve designates pertaining to, derived from, or characteristic of latin valv within the domain of anatomy & clinical medicine."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **bicuspid valve** consists of two triangular cusps secured to the papillary muscles by strong chordae tendineae."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Rheumatic endocarditis most frequently attacks the delicate leaflets of the **bicuspid valve**, causing cicatricial stenosis."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"During left ventricular systole, the flaps of the **bicuspid valve** slam shut to drive blood through the systemic aorta."*

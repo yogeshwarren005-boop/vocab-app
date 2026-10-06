@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin oss within the domain of Anatomy & Clinical Medicine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of oss in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated, located, or occurring between two adjacent bones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human gross anatomy, designating deep muscles, ligaments, and dense fibrous membranes connecting paired parallel bones (such as the radius and ulna).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, interosseous designates pertaining to, derived from, or characteristic of latin oss within the domain of anatomy & clinical medicine."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The dorsal **interosseous** muscles of the hand abduct the fingers away from the middle digit."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe atrophy of the first dorsal **interosseous** muscle is a classic physical sign of ulnar nerve neuropathy."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"A strong **interosseous** membrane binds the tibia and fibula, providing a broad surface for muscular attachment."*

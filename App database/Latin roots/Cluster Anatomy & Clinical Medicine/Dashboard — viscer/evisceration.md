@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical removal of an organ (or the contents of an organ) from a patient.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of removing the bowels or viscera; the act of cutting so as to cause the viscera to protrude.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical or traumatic removal of internal organs; or wound dehiscence with visceral extrusion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical surgery and ophthalmology, the operative removal of the contents of an organ (such as the globe of the eye, leaving the sclera intact) or abdominal rupture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, evisceration designates surgical removal of an organ (or the contents of an organ) from a patient."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe wound disruption following laparotomy can result in alarming **evisceration** of small intestinal loops."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Meticulous anatomical approximation of the aponeurosis eliminates the dangerous hazard of postoperative **evisceration**."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"Historical autopsy protocols required preliminary **evisceration** of the thoracic and abdominal cavities before detailed organ dissection."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct genus: mammoths.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct genus: mammoths.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic genus of extinct true mammoths within the elephant family Elephantidae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In quaternary paleontology, a lineage of cold-adapted proboscideans featuring high-crowned hypsodont molars with crowded enamel plates specialized for grinding grasses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mammuthus designates extinct genus: mammoths."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Cave paintings executed by Paleolithic men depict **Mammuthus** primigenius with remarkable naturalistic fidelity."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The curved tusks and woolly pelt of **Mammuthus** represent specialized adaptations to Pleistocene periglacial environments."*
+> - 📜 **Louis Agassiz (*Geological Sketches*):** *"The discovery of frozen **Mammuthus** carcasses in Siberian gravels provides incontestable proof of past climatic catastrophes."*

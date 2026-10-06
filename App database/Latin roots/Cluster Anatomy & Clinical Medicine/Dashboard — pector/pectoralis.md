@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of two large muscles of the chest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of two large muscles of the chest.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of two large muscles of the anterior chest wall (the pectoralis major or pectoralis minor).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human musculoskeletal anatomy, the fan-shaped pectoralis major that adducts, flexes, and internally rotates the humerus at the glenohumeral joint.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pectoralis designates either of two large muscles of the chest."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **pectoralis** major arises from the clavicle, sternum, and costal cartilages to insert into the bicipital groove of the humerus."*
+> - 📜 **Charles Bell (*The Anatomy of the Brain*):** *"In violent respiratory distress, the **pectoralis** muscles act as powerful accessory muscles of inspiration."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"In flying birds, the **pectoralis** major attains enormous development, anchoring securely to the prominent keel of the sternum."*

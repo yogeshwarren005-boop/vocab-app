@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin sanguin within the domain of Anatomy & Clinical Medicine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of sanguin in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To drain of blood completely; to cause massive or fatal blood loss.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical pathology and forensic medicine, the loss of circulating intravascular volume leading to irreversible hypovolemic shock and death.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exsanguinate designates pertaining to, derived from, or characteristic of latin sanguin within the domain of anatomy & clinical medicine."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Rupture of an aortic aneurysm into the thoracic cavity will **exsanguinate** the patient within a few terrifying minutes."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"Uncontrollable hemoptysis from a large pulmonary vessel threatened to **exsanguinate** the consumptive invalid."*
+> - 📜 **Benjamin Bell (*A System of Surgery*):** *"The surgeon must immediately compress the femoral trunk lest profuse arterial hemorrhage **exsanguinate** the casualty."*

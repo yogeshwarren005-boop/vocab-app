@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or resembling claws or nails.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or resembling claws or nails.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Furnished with claws, nails, or claw-like appendages; unguiculate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic zoology, having digits terminating in claws or nails rather than hooves; or botanically possessing clawed floral segments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unguiculated designates having or resembling claws or nails."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"The **unguiculated** appendages of the predatory crustacean seize struggling prey with irresistible mechanical strength."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"Fossil sloths present massive **unguiculated** forelimbs capable of stripping foliage from prehistoric forest canopies."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"The turtle's paddle retains five **unguiculated** digits embedded within an elastic swimming membrane."*

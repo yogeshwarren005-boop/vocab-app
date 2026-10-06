@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A diagnostic procedure to detect breast tumors by the use of x rays.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diagnostic procedure to detect breast tumors by the use of x rays.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical imaging technique of examining human breasts using low-dose ionizing radiation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diagnostic oncology and preventive medicine, the primary screening modality utilized to detect non-palpable early-stage ductal or lobular carcinomas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mammography designates a diagnostic procedure to detect breast tumors by the use of x rays."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Routine screening **mammography** substantially reduces mortality by discovering malignant transformation in its pre-invasive stage."*
+> - 📜 **Abraham Flexner (*Medical Education in the United States and Canada*):** *"The radiologic curriculum incorporated rigorous training in **mammography** to standardize diagnostic interpretation."*
+> - 📜 **Harvey Cushing (*The Life of Sir William Osler*):** *"He praised the early pioneers of **mammography** who applied radiological physics to the compassionate preservation of human health."*

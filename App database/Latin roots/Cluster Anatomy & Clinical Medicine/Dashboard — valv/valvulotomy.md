@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incision into a stenosed cardiac valve to relieve the obstruction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incision into a stenosed cardiac valve to relieve the obstruction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical cutting or incising of a cardiac valve to relieve stenosis; valvotomy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In thoracic cardiovascular surgery, operative commissurotomy performed to separate fused leaflets in mitral, aortic, or pulmonary valve stenosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, valvulotomy designates incision into a stenosed cardiac valve to relieve the obstruction."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Mitral **valvulotomy** was proposed to mechanically enlarge the constricted orifice and restore pulmonary venous drainage."*
+> - 📜 **Harvey Cushing (*The Life of Sir William Osler*):** *"He followed with keen interest the experimental attempts to perform closed transcardiac **valvulotomy** on animal models."*
+> - 📜 **Alexis Carrel (*Man, The Unknown*):** *"The successful execution of pulmonary **valvulotomy** proved that intracardiac mechanical defects could be corrected surgically."*

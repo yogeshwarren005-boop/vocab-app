@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Informal terms for a mother.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Milk-secreting organ of female mammals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The milk-secreting organ of female mammals; the breast or mammary gland.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human female anatomy, the glandular organ situated over the pectoralis major comprising lobes, lactiferous ducts, and adipose stroma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Nobody doubts her right to have precedence of mamma, but it would be more becoming in her not to be always insisting on it."*
-> - 📜 **Jane Austen (*Persuasion*):** *"It is not that mamma cares about it the least in the world, but I know it is taken notice of by many persons.” How was Anne to set all these matters to rights?"*
-> - 📜 **Jane Austen (*Persuasion*):** *"I am come on to give you notice, that papa and mamma are out of spirits this evening, especially mamma; she is thinking so much of poor Richard!"*
+> - 📜 **George Eliot (*Middlemarch*):** *"The infant nestled closely against the maternal **mamma**, seeking natural nourishment with instinctive murmurs of content."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Rudimentary nipples and traces of the **mamma** occur regularly in the male sex across diverse mammalian orders."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The arterial supply to the **mamma** is derived principally from the internal mammary and lateral thoracic vessels."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A blood-red color.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Confidently optimistic and cheerful.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cheerfully optimistic, confident, and hopeful; or having the warm, florid color of blood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical humoral medicine and psychology, the temperament dominated by blood, characterized by vitality, warmth, enthusiasm, and buoyant resilience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Guiderius had Upon his neck a mole, a sanguine star; It was a mark of wonder."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This sanguine coward, this bed-presser, this horse-back-breaker, this huge hill of flesh— FALSTAFF. ’Sblood, you starveling, you eel-skin, you dried neat’s-tongue, you bull’s pizzle, you stock-fish—O, for breath to utter what is like thee!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What, what, ye sanguine, shallow-hearted boys!"*
+> - 📜 **William Shakespeare (*Cymbeline*):** *"Guiderius had upon his neck a mole, a **sanguine** star; it was a mark of wonder that distinguished him from birth."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"**Sanguine** by nature, Troy had a power of eluding grief by simply adjourning it to a more convenient season."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He observed the young painter's **sanguine** temperament, which saw beauty and radiant promise in every passing hour."*

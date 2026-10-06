@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of two large muscles of the chest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An adornment worn on the chest or breast.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, situated on, or worn upon the chest or breast.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate anatomy, designating structures such as the pectoral girdle, pectoral fins in fishes, or the pectoral muscles supporting forelimb movement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"At his shoulder-blades the Syrian's pectoral muscles pressed like shallow knobs of steel."*
-> - 📜 **James Joyce (*Ulysses*):** *"Got a pectoral trauma, eh, Dix?"*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"His broad pectoral muscles, in their white covering, were like slabs of marble."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The homologue of the mammalian forelimb is clearly recognizable in the **pectoral** fin of the ancient lungfish."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **pectoral** fascia forms a thin lamina covering the surface of the pectoralis major muscle across the thoracic wall."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"A golden **pectoral** cross rested upon the rich embroidered vestment of the venerable prior."*

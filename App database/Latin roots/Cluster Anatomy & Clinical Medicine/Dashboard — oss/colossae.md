@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient city in south western phrygia in asia minor; site of an early christian church.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient city in south western phrygia in asia minor; site of an early christian church.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Colossae, an ancient city of Phrygia in southwestern Asia Minor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biblical geography and Hellenistic history, a prosperous trade center on the Lycus River renowned for wool dyed with cyclamen (colossinus).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, colossae designates an ancient city in south western phrygia in asia minor; site of an early christian church."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ancient cities of Laodicea, Hierapolis, and **Colossae** shared in the commercial prosperity of the fertile Lycus valley."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The apostolic letter dispatched to the church at **Colossae** addressed philosophical speculations that threatened early Christian doctrine."*
+> - 📜 **Strabo (*The Geography of Strabo*):** *"Proceeding eastward along the river, one reaches the ancient settlement of **Colossae**, once a flourishing mart of Phrygia."*

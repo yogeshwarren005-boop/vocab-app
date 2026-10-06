@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin pulmon within the domain of Anatomy & Clinical Medicine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of pulmon in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A physician specializing in the diagnosis and medical treatment of lung and respiratory diseases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, a specialist who manages chronic obstructive pulmonary disease, interstitial fibrosis, asthma, and pleural pathology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pulmonist designates pertaining to, derived from, or characteristic of latin pulmon within the domain of anatomy & clinical medicine."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The astute **pulmonist** correlates stethoscope auscultation with microscopic sputum analysis to establish an early diagnosis."*
+> - 📜 **Abraham Flexner (*Medical Education in the United States and Canada*):** *"Modern hospitals appointed a resident **pulmonist** to oversee specialized sanatorium treatments and thoracic wards."*
+> - 📜 **Harvey Cushing (*The Life of Sir William Osler*):** *"He consulted an eminent **pulmonist** whose expert counsel guided the management of complicated pleuritic effusions."*

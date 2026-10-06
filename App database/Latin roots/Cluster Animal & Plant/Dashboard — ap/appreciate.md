@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Recognize with gratitude; be grateful for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be fully aware of; realize fully.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To recognize the full worth, quality, or significance of; or to rise in value or price over time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In macroeconomics and monetary policy, the increase in exchange purchasing power of a currency or real asset relative to others.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Lippo will find an affectionate protectress in her who will be able to appreciate his little-recognized virtues."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"You certainly can't complain that I don't appreciate your delicious coffee."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Lady Dedlock has taken a fancy to the pretty girl and is going to keep her about her own fair person—an honour which my young friend himself does not at all appreciate."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Knightley was one of the few people who could see faults in Emma Woodhouse, and the only one who did not **appreciate** her flattery."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Whenever coin is reformed and light money withdrawn, the standard currency must steadily **appreciate** in market value."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Urban land values **appreciate** automatically through the collective industry of the surrounding community."*

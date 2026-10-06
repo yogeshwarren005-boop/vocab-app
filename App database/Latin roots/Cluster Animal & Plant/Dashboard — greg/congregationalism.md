@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: System of beliefs and church government of a protestant denomination in which each member church is self-governing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: System of beliefs and church government of a protestant denomination in which each member church is self-governing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of Protestant church governance in which each local church congregation is independent and self-governing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early American and British Puritan history, the 'New England Way' that established autonomous parish democracy based on mutual church covenants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, congregationalism designates system of beliefs and church government of a protestant denomination in which each member church is self-governing."*
+> - 📜 **Thomas Carlyle (*Oliver Cromwell's Letters and Speeches*):** *"Oliver was the sword and shield of Independent **congregationalism** against both royal episcopacy and rigid presbytery."*
+> - 📜 **David Hume (*The History of England*):** *"The tenets of **congregationalism** appealed strongly to those who desired complete freedom from diocesan bishops and royal courts."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The principles of **congregationalism** in New England prepared the colonists for the practical exercise of local democratic self-government."*

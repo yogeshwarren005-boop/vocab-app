@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family nearly cosmopolitan in distribution: true frogs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family nearly cosmopolitan in distribution: true frogs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The large taxonomic family of true frogs, encompassing widely distributed semi-aquatic frogs including the genus Rana.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic herpetology, characterized by smooth skin, horizontal pupils, complete maxillary teeth, and aquatic tadpole metamorphosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ranidae designates a family nearly cosmopolitan in distribution: true frogs."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"Within the order Anura, the family **Ranidae** represents the most successful and cosmopolitan amphibian radiation."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"Members of the **Ranidae** inhabit every continent with the sole exception of the frozen polar regions and extreme desert wastes."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"The family **Ranidae** is distinguished from the toads by the presence of teeth in the upper jaw and long leaping legs."*

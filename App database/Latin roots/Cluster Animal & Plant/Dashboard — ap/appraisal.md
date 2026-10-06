@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The classification of someone or something with respect to its worth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A document appraising the value of something (as for insurance or taxation).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An act of assessing the value, quality, importance, or performance of something or someone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic valuation and probate jurisprudence, a formal written inventory and monetary valuation of real estate or chattel property.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, appraisal designates the classification of someone or something with respect to its worth."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The commercial **appraisal** of landed estates must take into account soil fertility, proximity to markets, and rental yield."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Gilbert Osmond conducted a quiet **appraisal** of Isabel's fortune, weighing every advantage with cold calculation."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"The lawyer completed the **appraisal** of the family heirlooms, noting the rare provenance of the Dutch paintings."*

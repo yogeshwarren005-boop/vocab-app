@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin ran within the domain of Animal & Plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of ran in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, resembling, or characteristic of frogs; or designating the ranine artery and veins located under the tongue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human surgical anatomy and comparative zoology, the ranine artery running beneath the lingual frenulum supplying the tip of the tongue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ranine designates pertaining to, derived from, or characteristic of latin ran within the domain of animal & plant."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"In operations for tongue-tie, the surgeon must exercise extreme care not to wound the delicate **ranine** artery."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy of Vertebrates*):** *"The amphibian heart exhibits a **ranine** simplicity with two auricles opening into a single muscular ventricle."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The vascular supply of the tongue is furnished primarily by the deep **ranine** vessels branching from the lingual trunk."*

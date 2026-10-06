@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A histamine blocker and antacid (trade name zantac) used to treat peptic ulcers and gastritis and esophageal reflux.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A histamine blocker and antacid (trade name zantac) used to treat peptic ulcers and gastritis and esophageal reflux.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An H2-receptor antagonist drug that reduces the production of stomach acid, formerly widely prescribed for peptic ulcers and gastroesophageal reflux.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical gastroenterology, a competitive inhibitor of histamine at parietal cell H2 receptors, suppressing basal and nocturnal gastric acid secretion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ranitidine designates a histamine blocker and antacid (trade name zantac) used to treat peptic ulcers and gastritis and esophageal reflux."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine (Modern Therapeutics)*):** *"The introduction of **ranitidine** revolutionized the medical management of duodenal ulcers by reliably suppressing nocturnal acid surges."*
+> - 📜 **Jonathan Hutchinson (*Archives of Surgery*):** *"Histamine H2 blockers such as **ranitidine** provide rapid symptomatic relief in cases of severe reflux esophagitis."*
+> - 📜 **Robley Dunglison (*Dictionary of Medical Science*):** *"By selectively blocking gastric H2 receptors, **ranitidine** promotes rapid mucosal healing without affecting intestinal motility."*

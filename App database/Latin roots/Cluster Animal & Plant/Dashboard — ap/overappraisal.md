@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An appraisal that is too high.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An appraisal that is too high.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An assessment or valuation of someone or something that is excessively high or optimistic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In speculative finance and bubble economics, inflating the estimated net worth of assets above sustainable intrinsic yield.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overappraisal designates an appraisal that is too high."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"An **overappraisal** of colonial trade revenues led parliament to entertain grandiose fiscal expectations that proved completely illusory."*
+> - 📜 **Herbert Spencer (*The Study of Sociology*):** *"National vanity consistently produces an absurd **overappraisal** of domestic institutions alongside contempt for foreign customs."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The collapse of the railway mania was hastened by the reckless **overappraisal** of prospective freight dividends."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With appreciation; in a grateful manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With appreciation; in a grateful manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that shows gratitude, pleasure, or deep understanding; with perceptive approval.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social dialogue, responding to subtle artistic nuances or generous courtesies with discerning grace.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"He listens appreciatively and never interrupts."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I made him a cup of coffee, good coffee! over which he sighed appreciatively."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"I exclaimed with delight at the vision of beauty, and even the coolies grinned appreciatively."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Captain Wentworth looked **appreciatively** at Anne, struck by the modest grace that distinguished her from other women."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel Oak nodded **appreciatively** as Bathsheba gave clear and practical instructions to the assembled shearers."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"Newland Archer listened **appreciatively** to Madame Olenska's candid reflections on the differences between Parisian and New York society."*

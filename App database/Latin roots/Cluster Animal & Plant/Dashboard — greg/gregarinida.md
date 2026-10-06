@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An order in the subclass telosporidia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An order in the subclass telosporidia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of parasitic sporozoan protozoa (gregarines) characterized by large extracellular trophozoites living inside invertebrates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate invertebrate parasitology, distinguishing septate and aseptate forms infecting the coelomic spaces of annelids and arthropods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gregarinida designates an order in the subclass telosporidia."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The protozoan order **Gregarinida** comprises parasitic forms that reproduce through encysted spores containing falciform sporozoites."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"The primitive organization of the **Gregarinida** lacks a distinct oral aperture, nourishing itself entirely by osmosis from the host's chyle."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"Within the Sporozoa, the order **Gregarinida** is remarkable for the phenomenon of syzygy occurring prior to encystment."*

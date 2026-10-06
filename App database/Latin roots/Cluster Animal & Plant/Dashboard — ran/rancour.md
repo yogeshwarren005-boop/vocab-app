@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of deep and bitter anger and ill-will.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of deep and bitter anger and ill-will.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: British spelling of rancor; bitter, long-standing resentment or malicious ill will.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In traditional English literature and historiography, deep feudal feuds and ecclesiastical hatreds handed down across generations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Virtue is choked with foul ambition, And charity chased hence by rancour’s hand; Foul subornation is predominant, And equity exiled your highness’ land."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What! bear her in hand until they come to take hands, and then, with public accusation, uncovered slander, unmitigated rancour,—O God, that I were a man!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The broken rancour of your high-swoll’n hates, But lately splintered, knit, and joined together, Must gently be preserved, cherished, and kept."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"For Banquo's issue have I fil'd my mind; / For them the gracious Duncan have I murder'd; / Put **rancour** in the vessel of my peace / Only for them."*
+> - 📜 **Walter Scott (*The Bride of Lammermoor*):** *"The ancient **rancour** between the rival houses of Ravenswood and Ashton was revived by political rivalry."*
+> - 📜 **David Hume (*The History of England*):** *"The civil wars of York and Lancaster were fought with a ferocious **rancour** that extinguished the ancient nobility."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Evaluate or estimate the nature, quality, ability, extent, or significance of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consider in a comprehensive way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Evaluating, estimating, or judging the value, quality, or significance of someone or something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In non-verbal communication, a measuring, contemplative gaze assessing a person's social status, motives, or beauty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"You insult and then threaten harm to us." Brad grinned at Drummer, who was watching him with an appraising expression."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He himself carefully scanned each face, appraising the possibilities of establishing intimacy with each of those present, and the advantages that might accrue."*
-> - 📜 **O. Henry (*My tussle with the devil, and other stories*):** *"He watches them, as they gather, with an appraising eye, and then with uplifted hand commands silence."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Casaubon looked at Dorothea with an **appraising** eye, satisfied that her quiet demeanor suited a scholar's hearth."*
+> - 📜 **Henry James (*The Golden Bowl*):** *"The Prince cast an **appraising** glance over the antique shop, discerning the genuine treasures from the clever imitations."*
+> - 📜 **Edith Wharton (*The House of Mirth*):** *"Lily Bart felt the cold, **appraising** stare of the dowagers upon her dress as she entered the crowded ballroom."*

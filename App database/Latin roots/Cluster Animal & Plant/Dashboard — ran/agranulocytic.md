@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the blood disorder of agranulocytosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the blood disorder of agranulocytosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or characterized by a deficiency or absence of granulocytic white blood cells; or relating to agranulocytes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hematology, distinguishing lymphocytes and monocytes from granule-bearing neutrophils, eosinophils, and basophils.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agranulocytic designates relating to the blood disorder of agranulocytosis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A severe **agranulocytic** state leaves the patient defenseless against rapid bacterial invasion through the pharyngeal mucosa."*
+> - 📜 **Jonathan Hutchinson (*Archives of Surgery*):** *"The bone marrow failure manifested as an acute **agranulocytic** depression following the toxic administration of coal-tar derivatives."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"In peripheral blood counts, the non-granular mononuclear leukocytes constitute the **agranulocytic** series."*

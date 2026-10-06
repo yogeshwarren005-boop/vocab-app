@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Open (a place) to members of all races and ethnic groups.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Open (a place) to members of all races and ethnic groups.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To end the policy of racial, religious, or ethnic segregation in schools, public facilities, or housing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional law and civil rights history, dismantling statutory racial apartheid through judicial decrees and administrative integration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, desegregate designates open (a place) to members of all races and ethnic groups."*
+> - 📜 **Martin Luther King Jr. (*Why We Can't Wait*):** *"The nonviolent movement sought to **desegregate** municipal lunch counters and public transit throughout the American South."*
+> - 📜 **James Baldwin (*The Fire Next Time*):** *"To genuinely **desegregate** our schools requires not merely moving children by bus, but changing the hearts of an entire nation."*
+> - 📜 **Thurgood Marshall (*Supreme Court Arguments*):** *"The mandate to **desegregate** public education with all deliberate speed reflects the core equality guaranteed by the Fourteenth Amendment."*

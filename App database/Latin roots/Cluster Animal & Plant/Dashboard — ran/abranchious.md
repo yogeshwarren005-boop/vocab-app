@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no gills.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no gills.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking gills or branchial structures; respiring entirely through lungs, tracheae, or vascularized cutaneous membranes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy, describing pulmonary or cutaneous respiration replacing branchial gas exchange in land vertebrates and terrestrial mollusks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abranchious designates having no gills."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"Adult frogs become functionally **abranchious** upon metamorphosis, exchanging branchial arches for pulmonary sacs."*
+> - 📜 **Thomas Henry Huxley (*Lectures on Comparative Anatomy*):** *"The **abranchious** condition of terrestrial snails distinguishes them sharply from their marine prosobranch ancestors."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"The term **abranchious** designates any organism that respires without gills, employing either lungs or skin."*

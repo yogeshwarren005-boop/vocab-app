@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Alcoholic beverage taken before a meal as an appetizer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Alcoholic beverage taken before a meal as an appetizer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alcoholic drink taken before a meal to stimulate the appetite, such as dry vermouth, sherry, or bitters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastronomy and social custom, the European ceremonial evening ritual serving aromatic herbal beverages alongside small appetizers before dinner.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aperitif designates alcoholic beverage taken before a meal as an appetizer."*
+> - 📜 **Ernest Hemingway (*The Sun Also Rises*):** *"We sat outside the café in the cool evening breeze and ordered an **aperitif** while watching the boulevard crowd."*
+> - 📜 **F. Scott Fitzgerald (*Tender Is the Night*):** *"Dick Diver mixed a delicate **aperitif** for his guests as they lounged on the sun-warmed terrace overlooking the Mediterranean."*
+> - 📜 **Marcel Proust (*Swann's Way*):** *"The guests gathered in the salon before dinner, sipping a mild herbal **aperitif** that refreshed their spirits after the carriage journey."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of congregating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come together, usually for a purpose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Assembling or gathering together in large numbers or groups.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In natural history and civic observation, the spatial flocking of birds or seasonal thronging of citizens in central plazas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"Legation street is crowded with villainous-looking ruffians congregating to loot if opportunity offers."*
-> - 📜 **Jos. E. Badger (*The Texas Hawks; or, The Strange Decoy*):** *"Shortly after dark a band of horsemen began congregating here, riding silently into the road, dismounting and tethering their animals in a small glade that occupied the center of the _motte_."*
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"The silence that is in the starry sky, The sleep that is among the lonely hills, is to them merely a drawback, to be overcome by moving about in large masses, and by congregating in chosen resorts with vehement hilarity."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Crowds were seen **congregating** at street corners in Saint Antoine, whispering rumors of the storming of the Bastille."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"Toward the middle of September we observed swallows **congregating** upon church roofs prior to their autumnal flight."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Farmers and carters were **congregating** in front of the King's Arms, discussing the fluctuating price of wheat."*

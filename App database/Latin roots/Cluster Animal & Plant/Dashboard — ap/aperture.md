@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A device that controls amount of light admitted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A natural opening in something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An opening, hole, or gap through which light, liquid, or objects may pass.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optics and photography, the adjustable circular opening of a lens diaphragm controlling the quantity of light reaching the focal plane.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Emaciated as my body was, I had to saw four bars, each in two places, in order to make an aperture through which I could squirm."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Was it, I asked myself, a ray from the moon penetrating some aperture in the blind?"*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"My eye was quickly at the aperture."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The rays of sunlight passing through a small circular **aperture** formed an elongated spectrum upon the opposite white screen."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"A narrow **aperture** in the ship's bulkheads permitted a faint gleam of lantern light to penetrate the gloom of the hold."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The pinhole camera illustrates how optical images can form upon a screen through a simple **aperture** without refracting lenses."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The whole amount.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Material such as sand or gravel used with cement and water to make concrete, mortar, or plaster.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Formed by the combination of many separate units or items; a whole formed by combining several separate elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology and concrete materials science, inert mineral fragments (sand, gravel, crushed stone) bound by cementing matrices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I should say that the aggregate of costs in Jarndyce and Jarndyce, Mrs."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Reversals of this kind, strange deformities, tremendous paralyses, are often seen to be inflicted by trade upon edifices—either individual or in the aggregate as streets and towns—which were originally planned for pleasure alone."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These railroads include an enormous aggregate of works and structures in the form of tunnels, cuts, banks, bridges, stations, and shops."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Our complex ideas of substances are nothing but an **aggregate** of several simple ideas coexisting together in nature."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The annual revenue of a society is equal to the exchangeable value of the whole annual **aggregate** produce of its industry."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Conglomerate rocks consist of an **aggregate** of rounded pebbles cemented together by calcareous or siliceous infiltration."*

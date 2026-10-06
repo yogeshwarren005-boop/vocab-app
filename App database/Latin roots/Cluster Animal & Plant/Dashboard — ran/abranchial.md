@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no gills.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no gills.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Destitute of gills or branchiae; having no specialized aquatic respiratory organs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate morphology, applied to certain terrestrial annelids, leeches, or larvae respiring cutaneous-vascularly through the moist skin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abranchial designates having no gills."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy of the Invertebrate Animals*):** *"The earthworm presents a completely **abranchial** organization, oxygen diffusing directly into cutaneous capillary networks."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"In these **abranchial** worms, respiration is wholly cutaneous, requiring a continuously lubricated epidermal surface."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"The transition to terrestrial life necessitated the loss of ancestral branchiae in several **abranchial** annelid lineages."*

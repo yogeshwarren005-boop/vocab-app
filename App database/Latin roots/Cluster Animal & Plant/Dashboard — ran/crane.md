@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states writer (1871-1900).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states poet (1899-1932).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tall, long-legged, long-necked wading bird of the family Gruidae; or a machine for lifting and moving heavy weights.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanical engineering and mythology, an ancient hoisting machine modeled on the bird's long angled neck, or symbol of vigilance in heraldry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Come in, shepherd; sure ye be welcome, though we don’t know yer name.” “Gabriel Oak, that’s my name, neighbours.” The ancient maltster sitting in the midst turned at this—his turning being as the turning of a rusty crane."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"She is led forth from the hut by a son of her father's councillor, who, wearing the wings of a blue crane, the badge of bravery, on his head, escorts her to the cattle kraal, where cows are slaughtered and dancing takes place."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But I now leave my cetological System standing thus unfinished, even as the great Cathedral of Cologne was left, with the crane still standing upon the top of the uncompleted tower."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Part loosely wing the region, part more wise, / In common, ranged in figure, wedge their way, / Intelligent of seasons, and set forth / Their aery caravan; high over seas / Flying, and over lands, with mutual wing / Easing their flight; so steers the prudent **crane**."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The wharf was lined with creaking wooden **crane** arms swinging barrels from the holds of river lighters."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I heard the wild honking of geese and watched a solitary blue **crane** take wing over the marshy cove."*

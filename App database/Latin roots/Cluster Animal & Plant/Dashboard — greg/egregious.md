@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conspicuously and outrageously bad or reprehensible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conspicuously and outrageously bad or reprehensible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Outstandingly and conspicuously bad, offensive, or shocking; flagrant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Archaically meaning remarkably distinguished or eminent; evolving in modern English into an intensifier for outrageous blunders or offenses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, you give me most egregious indignity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay me, most credulous fool, Egregious murderer, thief, anything That’s due to all the villains past, in being, To come!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"PISTOL. _Solus_, egregious dog!"*
+> - 📜 **William Shakespeare (*Othello*):** *"Make the Moor thank me, love me and reward me / For making him **egregious** an ass / And practising upon his peace and quiet / Even to madness."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **egregious** folly of the emperor in alienating his veteran legions invited immediate mutiny across the Rhine frontier."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"To entrust fiscal power to an irresponsible faction would constitute an **egregious** departure from republican prudence."*

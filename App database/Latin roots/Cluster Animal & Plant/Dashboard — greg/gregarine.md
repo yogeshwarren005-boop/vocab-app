@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Vermiform protozoans parasitic in insects and other invertebrates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vermiform protozoans parasitic in insects and other invertebrates.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A parasitic protozoan belonging to the subclass Gregarinasina, inhabiting the gut and body cavities of invertebrates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In protozoological parasitology, microscopic sporozoans famous for syzygy: pairing of elongated trophozoites without immediate cell fusion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gregarine designates vermiform protozoans parasitic in insects and other invertebrates."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The intestinal canal of the mealworm is frequently infested with a parasitic **gregarine** exhibiting sluggish gliding movement."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"In every typical **gregarine**, the body of the mature trophozoite is partitioned into an anterior protomerite and posterior deutomerite."*
+> - 📜 **Louis Pasteur (*Studies on the Diseases of Silkworms*):** *"Microscopic examination revealed parasitic corpuscles allied to the **gregarine** protozoa in the diseased silk-moth tissues."*

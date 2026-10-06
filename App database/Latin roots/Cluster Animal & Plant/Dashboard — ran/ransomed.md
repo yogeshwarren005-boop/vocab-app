@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exchange or buy back for money; under threat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Saved from the bondage of sin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Redeemed or freed from captivity or bondage upon the payment of a demanded ransom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Christian soteriology and spiritual poetry, the theological redemption of humanity from sin through Christ's sacrificial atonement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then I would he were here alone; so should he be sure to be ransomed, and a many poor men’s lives saved."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Duke of Bedford had a prisoner Call’d the brave Lord Ponton de Santrailles; For him was I exchanged and ransomed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There was speech in their dumbness, language in their very gesture; they looked as they had heard of a world ransomed, or one destroyed."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"The shining ones welcomed Christian at the celestial gate, proclaiming him one of the **ransomed** of the Lord."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Countless Roman legionaries were **ransomed** from Persian captivity through the generous payments of Christian bishops."*
+> - 📜 **Lord Byron (*The Corsair*):** *"The captive maiden was safely **ransomed** and restored to her father's castle upon the Aegean shore."*

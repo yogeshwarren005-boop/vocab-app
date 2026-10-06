@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no gills.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no gills.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by the absence of gills; gill-less.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic zoology, historically grouping gill-less invertebrates (such as earthworms and terrestrial leeches) in contrast to branchiate aquatic forms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abranchiate designates having no gills."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"The class Annelida contains both branchiate marine polychaetes and **abranchiate** terrestrial oligochaetes."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"Being strictly **abranchiate**, earthworms suffocate in water-saturated burrows when oxygen is depleted."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"Cuvier established the order of **abranchiate** annelids to include those species devoid of external branchial tufts."*

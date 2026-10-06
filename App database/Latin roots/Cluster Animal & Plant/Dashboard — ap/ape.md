@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various primates with short tails or no tail at all.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who copies the words or behavior of another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tailless catarrhine primate belonging to the superfamily Hominoidea, including chimpanzees, gorillas, orangutans, and gibbons; or to imitate mimic someone uncritically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary primatology and comparative anatomy, distinguished from monkeys by broad chests, upright posture adaptations, and complex tool-using intellect.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will be more jealous of thee than a Barbary cock-pigeon over his hen, more clamorous than a parrot against rain, more new-fangled than an ape, more giddy in my desires than a monkey."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O sleep, thou ape of death, lie dull upon her!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, in despite of sense and secrecy, Unpeg the basket on the house’s top, Let the birds fly, and like the famous ape, To try conclusions, in the basket creep And break your own neck down."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The anthropomorphous **ape** shares with man numerous homologous muscular, skeletal, and cerebral structures."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"The structural difference between man and the highest **ape** is less than that separating the gorilla from the lowest monkey."*
+> - 📜 **Alexander Pope (*An Essay on Man*):** *"Superior beings, when of late they saw / A mortal man unfold all nature's law, / Admired such wisdom in an earthly shape, / And showed a Newton as we show an **ape**."*

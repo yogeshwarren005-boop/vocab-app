@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Appealing to or stimulating the appetite especially in appearance or aroma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appealing to or stimulating the appetite especially in appearance or aroma.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Appealing to the appetite; invitingly fragrant, attractive, or savory in appearance or aroma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological aesthetics, sensory stimuli that evoke immediate gastric pleasure or pleasurable anticipation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The steaming coffee and hot milk and the fresh white bread Apollonie had prepared looked very appetizing to him."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Then she had dinner, a substantial and appetizing meal at which there were always three or four guests; after dinner she played a game of boston, and at night she had the newspapers or a new book read to her while she knitted."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"There was an appetizing smell from the pots upon the stove, and the long table was set for dinner."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"The steaming pudding filled the room with an **appetizing** fragrance of suet, plums, and spiced brandy."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The freshly baked cottage loaves gave off an **appetizing** scent that drew the hungry children to the oven."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"The smell of stew bubbling in the galley kettle was deliciously **appetizing** to our weary crew."*

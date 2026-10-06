@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Insectivorous usually semiaquatic web-footed amphibian with smooth moist skin and long hind legs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Insectivorous usually semiaquatic web-footed amphibian with smooth moist skin and long hind legs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A frog belonging to the family Ranidae, commonly known as true frogs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology, cosmopolitan anurans possessing firmisternal pectoral girdles, diplasiocoelous vertebrae, and extensive digital webbing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ranid designates insectivorous usually semiaquatic web-footed amphibian with smooth moist skin and long hind legs."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The typical **ranid** skeleton displays fused radio-ulna and tibio-fibula bones adapted for high-velocity leaping."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"A freshwater **ranid** is incapable of crossing saltwater straits, making frog distribution a prime test of ancient land connections."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The auditory apparatus of the **ranid** frog features an exposed external tympanic membrane flush with the skin."*

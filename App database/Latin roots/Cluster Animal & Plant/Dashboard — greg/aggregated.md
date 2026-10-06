@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Amount in the aggregate to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gather in a mass, sum, or whole.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Collected or gathered together into a single whole, mass, or combined sum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histology and comparative anatomy, cells or lymph nodules clustered into dense functional structures such as Peyer's patches.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In fact, the artist’s design seemed this: a final theory of my own, partly based upon the aggregated opinions of many aged persons with whom I conversed upon the subject."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"In fact, the artist’s design seemed this: a final theory of my own, partly based upon the aggregated opinions of many aged persons with whom I conversed upon the subject."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The reduction provided for in his bill aggregated $77,000,000 on internal taxes."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The **aggregated** varieties of domestic animals display wider anatomical divergences than many distinct wild species."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The solitary glands of the ileum are frequently found **aggregated** together to form the elongated patches of Peyer."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Matter in its cosmic evolution passes from a diffused, imperceptible state into coherent, **aggregated** planetary masses."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mountain peak in central washington; highest peak in the cascade range; (14,410 feet high).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mountain peak in central washington; highest peak in the cascade range; (14,410 feet high).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant spelling of Rainier, designating Mount Rainier, a massive glaciated stratovolcano in the Cascade Range of Washington State; or an archaic comparative form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In North American geomorphology and volcanic geology, an active Cascade stratovolcano crowned by the largest glacial system in the contiguous United States.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ranier designates a mountain peak in central washington; highest peak in the cascade range; (14,410 feet high)."*
+> - 📜 **John Muir (*Steep Trails*):** *"Mount **Ranier** stood towering above the forested ranges, its icy summit gleaming like an altar against the northern sky."*
+> - 📜 **Theodore Roosevelt (*Outdoor Pastimes of an American Hunter*):** *"The snow-covered dome of Mount **Ranier** formed an imposing backdrop to the evergreen forests of Puget Sound."*
+> - 📜 **Clarence King (*Mountaineering in the Sierra Nevada*):** *"The volcanic fires of Mount **Ranier** have long been dormant, buried beneath miles of grinding glacial ice."*

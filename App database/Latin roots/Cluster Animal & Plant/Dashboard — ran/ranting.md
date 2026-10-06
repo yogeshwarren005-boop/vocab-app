@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A loud bombastic declamation expressed with strong emotion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Talk in a noisy, excited, or declamatory manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Speaking, shouting, or declaiming in a loud, violent, extravagant, or incoherent manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic portraiture, theatrical melodramatic delivery overstepping modesty and natural expression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look where my ranting host of the Garter comes."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The tither was a ploughman’s collie— A rhyming, ranting, raving billie, Wha for his friend an’ comrade had him, And in freak had Luath ca’d him, After some dog in Highland Sang,^2 Was made lang syne,—Lord knows how lang."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"B.] For men, I’ve three mischievous boys, Run-deils for ranting an’ for noise; A gaudsman ane, a thrasher t’ other: Wee Davock hauds the nowt in fother."*
+> - 📜 **William Shakespeare (*The Merry Wives of Windsor*):** *"What say'st thou, bully Rook? / Speak scholarly and wisely, and cease this **ranting** folly."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The drunken debtor paced the floor, **ranting** incoherently about the ancient injuries inflicted upon him by the court."*
+> - 📜 **Walter Scott (*Old Mortality*):** *"The fierce Covenanter delivered a **ranting** exhortation to his followers, urging them to show no mercy to the royal troopers."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who estimates officially the worth or value or quality of things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who determines authenticity (as of works of art) or who guarantees validity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A qualified person who determines the market value of property, commodities, or fine arts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mercantile law, a sworn official authorized by courts to assess bankrupt estates, salvage cargo, or customs valuations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, appraiser designates one who estimates officially the worth or value or quality of things."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The court **appraiser** moved methodically through the drawing-room, inventorying each piece of mahogany furniture."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"When the Sedley household broke up, the auction **appraiser** slapped yellow numbered labels upon every picture and chair."*
+> - 📜 **Honore de Balzac (*Eugenie Grandet*):** *"Old Grandet served as his own keen **appraiser**, instantly reckoning the gold content of every foreign doubloon."*

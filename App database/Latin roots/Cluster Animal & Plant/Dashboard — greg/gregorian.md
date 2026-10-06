@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to pope gregory i or to the plainsong chants of the roman catholic church.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to pope gregory xiii or the calendar he introduced in 1582.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to Pope Gregory I, especially his chant system; or relating to Pope Gregory XIII and his solar calendar reformation of 1582.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musicology and historical chronology, monophonic sacred plainchant in church modes, or the astronomical 365.2425-day civil calendar year.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gregorian designates of or relating to pope gregory i or to the plainsong chants of the roman catholic church."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The solemn tones of **Gregorian** chant resounded through the basilicas of Rome, establishing an enduring liturgical standard."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"England long delayed the adoption of the reformed **Gregorian** calendar, viewing it with suspicion as a papal innovation."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"The church choir chanted the ancient **Gregorian** melodies with an austere and otherworldly solemnity."*

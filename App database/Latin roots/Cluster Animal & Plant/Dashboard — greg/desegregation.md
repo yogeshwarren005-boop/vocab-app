@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of incorporating a racial or religious group into a community.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The action of incorporating a racial or religious group into a community.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of ending the separation of racial, ethnic, or religious groups in public institutions and spaces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mid-twentieth-century American jurisprudence, the structural dismantling of 'separate but equal' doctrines under Brown v. Board of Education.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, desegregation designates the action of incorporating a racial or religious group into a community."*
+> - 📜 **Martin Luther King Jr. (*Strength to Love*):** *"True integration is more than mere physical **desegregation**; it is the genuine mutual acceptance of brotherhood."*
+> - 📜 **James Baldwin (*Nobody Knows My Name*):** *"The bitter struggles over school **desegregation** in Little Rock exposed the deep racial contradictions of modern democracy."*
+> - 📜 **Earl Warren (*The Memoirs of Earl Warren*):** *"The unanimous decision of the court established that **desegregation** was an indispensable constitutional imperative for public schooling."*

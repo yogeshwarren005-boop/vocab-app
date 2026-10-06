@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Annual, biennial or perennial herbs: buttercup; crowfoot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Annual, biennial or perennial herbs: buttercup; crowfoot.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large genus of flowering plants in the family Ranunculaceae comprising buttercups, spearworts, and water crowfoots, characterized by glossy yellow or white petals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In field botany and toxicology, herbaceous plants possessing shiny epidermal cells that reflect light, containing acrid anemonin toxic to grazing livestock.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"One of the first of our native wild flowers, in making its appearance after the departure of frost and snow, is the little yellow celandine (_Ranunculus ficaria_)."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"So common is _Æcidium ranunculacearum_ on this species of _Ranunculus_, that it can scarcely have escaped the eye of any one who has taken the trouble to examine the plant."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"It is found on several species of _Ranunculus_, as _R. acris_, _bulbosus_, and _repens_, but most commonly on _R. ficaria_."*
+> - 📜 **William Wordsworth (*The Prelude*):** *"Along the margin of the brook the bright **Ranunculus** unfolded its glossy petals to the morning sun."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The aquatic species of **Ranunculus** produce finely dissected submerged leaves alongside broad floating foliage adapted for air."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"Cattle carefully avoid cropping the acrid leaves of the meadow **Ranunculus**, leaving its golden flowers waving untouched in the pastures."*

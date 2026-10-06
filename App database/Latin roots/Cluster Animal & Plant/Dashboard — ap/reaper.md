@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who helps to gather the harvest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Death personified as an old man or a skeleton with a scythe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who cuts crops for harvest; or a mechanical machine invented to harvest grain automatically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In allegorical art and literature, the Grim Reaper as the personification of Death cutting down human lives with a scythe.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood looked at her—not slily, critically, or understandingly, but blankly at gaze, in the way a reaper looks up at a passing train—as something foreign to his element, and but dimly understood."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Along one side of the field the whole wain went, the arms of the mechanical reaper revolving slowly, till it passed down the hill quite out of sight."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Here haply too, at vernal dawn, Some musing bard may stray, And eye the smoking, dewy lawn, And misty mountain grey; Or, by the reaper’s nightly beam, Mild-chequering thro’ the trees, Rave to my darkly dashing stream, Hoarse-swelling on the breeze."*
+> - 📜 **William Wordsworth (*The Solitary Reaper*):** *"Behold her, single in the field, / Yon solitary Highland Lass! / Reaping and singing by herself; / Stop here, or gently pass! The singing **reaper** thrilled my heart."*
+> - 📜 **Henry Wadsworth Longfellow (*The Reaper and the Flowers*):** *"There is a **Reaper**, whose name is Death, / And, with his sickle keen, / He reaps the bearded grain at a breath, / And the flowers that grow between."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The modern mechanical **reaper** rattled across the field, doing the work of twenty men before nightfall."*

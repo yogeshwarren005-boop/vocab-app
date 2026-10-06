@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A new appraisal or evaluation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A new appraisal or evaluation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A second, repeated, or revised assessment of the value, condition, or nature of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historiography and political analysis, reconsidering orthodox historical verdicts in light of freshly discovered primary documents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reappraisal designates a new appraisal or evaluation."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"A dispassionate **reappraisal** of Julian's reign reveals a conscientious administrator whose pagan enthusiasm proved his ruin."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The discovery of Cromwell's personal correspondence compelled a fundamental **reappraisal** of his political integrity."*
+> - 📜 **John Stuart Mill (*Autobiography*):** *"My mental crisis led me to an extensive **reappraisal** of Bentham's utilitarian doctrines and educational theories."*

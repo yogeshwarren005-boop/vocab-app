@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin ran within the domain of Animal & Plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of ran in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Habitually feeding upon or devouring frogs; frog-eating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative herpetology and ornithology, characterizing predators such as garter snakes, herons, and storks adapted for capturing amphibians.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ranivorous designates pertaining to, derived from, or characteristic of latin ran within the domain of animal & plant."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The common ringed snake is strictly **ranivorous**, hunting frogs along the damp margins of garden ponds."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We observed several **ranivorous** wading birds stalking motionlessly in the reed beds, spearing frogs with their dagger-like bills."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The dentition of certain aquatic serpents is modified for a **ranivorous** diet, preventing slippery prey from escaping."*

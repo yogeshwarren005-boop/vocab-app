@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Farm consisting of a large tract of land along with facilities needed to raise livestock (especially cattle).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Manage or run a ranch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large farm, especially in North America, where cattle, horses, or sheep are bred and reared upon open range.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Western American history and geography, vast pastoral holdings originating from Spanish and Mexican land grants (ranchos).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Thinks he does, and it serves him right--serves him right for starting out to run a widow-ranch in the first place; it's like making a collection of old shoes."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Full advantage should be taken of the facilities provided by the use of practical workshop courses in Latin American pioneering at the International School at Temerity Ranch."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Before her marriage she had lived "out west," so I plied her with questions about ranch life."*
+> - 📜 **Theodore Roosevelt (*Hunting Trips of a Ranchman*):** *"Life on a western Dakota cattle **ranch** demands vigorous outdoor labor, horsemanship, and fortitude in the face of blinding blizzards."*
+> - 📜 **Mark Twain (*Roughing It*):** *"We spent three days resting at a hospitable cattle **ranch** in the Carson Valley before pushing on across the desert."*
+> - 📜 **Bret Harte (*The Luck of Roaring Camp and Other Sketches*):** *"The dusty trail wound past an old adobe **ranch** shaded by gnarled cottonwood trees along the creek bank."*

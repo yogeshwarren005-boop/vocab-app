@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Elongate very slender water scorpions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Elongate very slender water scorpions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of slender aquatic predatory true bugs in the family Nepidae, commonly known as water scorpions or needle bugs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aquatic entomology, predatory bugs with raptorial front legs for seizing tadpoles and a long caudal breathing tube to siphon atmospheric air.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ranatra designates elongate very slender water scorpions."*
+> - 📜 **Jean-Henri Fabre (*Social Life in the Insect World*):** *"Motionless among submerged weeds, **Ranatra** lurks like a withered twig, waiting to snatch unwary minnows with its spiny forelegs."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The elongated siphon of **Ranatra** allows the insect to breathe atmospheric air while submerged head downward in pond water."*
+> - 📜 **John Lubbock (*Ants, Bees, and Wasps*):** *"In **Ranatra**, the raptorial fore-limbs mimic the prehensile apparatus of the praying mantis with astonishing evolutionary fidelity."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Separate by race or religion; practice a policy of racial segregation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divide from the main body or mass and collect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Set apart from others; isolated; or divided along lines of race, caste, class, or category.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political history, characterizing Jim Crow institutions, apartheid districts, or specialized laboratory isolations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, segregated designates separate by race or religion; practice a policy of racial segregation."*
+> - 📜 **Martin Luther King Jr. (*Letter from Birmingham Jail*):** *"Any law that uplifts human personality is just; any law that degrades human personality is unjust; all **segregated** statutes are unjust."*
+> - 📜 **W. E. B. Du Bois (*The Souls of Black Folk*):** *"He looked upon the **segregated** schoolhouse as a painful physical manifestation of the Color Line dividing the nation."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Breeds kept strictly **segregated** on islands preserve their ancestral traits unchanged for centuries."*

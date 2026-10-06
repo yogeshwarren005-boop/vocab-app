@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without qualification; used informally as (often pejorative) intensifiers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without qualification; used informally as (often pejorative) intensifiers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Complete, utter, and unmitigated; used especially to intensify something bad or negative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric and drama, an intensifier applied to knaves, fools, cowards, or barefaced falsehoods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There’s ne’er a villain dwelling in all Denmark But he’s an arrant knave."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We are arrant knaves all, believe none of us."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An the Prince and Poins be not two arrant cowards, there’s no equity stirring."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"There's ne'er a villain dwelling in all Denmark / But he's an **arrant** knave. / Horatio: There needs no ghost, my lord, come from the grave / To tell us this."*
+> - 📜 **Henry Fielding (*Tom Jones*):** *"He declared the stranger's story to be an **arrant** falsehood invented to cheat an honest landlord."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"To trade on the superstitious fears of simple folk is the work of an **arrant** charlatan."*

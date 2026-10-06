@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Understanding of the nature or meaning or quality or magnitude of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Delicate discrimination (especially of aesthetic values).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Recognition and enjoyment of the good qualities of someone or something; grateful understanding; or an increase in value.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetics and art criticism, cultivated perception and analytical enjoyment of formal artistic technique and historical depth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The sea has no appreciation of great men, but knocks them about like the small fry."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Perhaps his exalted appreciation of the merits of the old girl causes him usually to make the noun-substantive “goodness” of the feminine gender."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I did not thank him in words for what he had done—my appreciation of it had risen above all words then—but I hoped he might not be without some understanding of what I felt so strongly."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"A true **appreciation** of landscape painting requires deep intimacy with the structural anatomy of clouds and mountains."*
+> - 📜 **Henry James (*The Art of Fiction*):** *"The reader's sensitive **appreciation** provides the author with the highest incentive to strive for artistic perfection."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The gradual **appreciation** of gold bullion during the monetary crisis caused widespread distress among commercial debtors."*

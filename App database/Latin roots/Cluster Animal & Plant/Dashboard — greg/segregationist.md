@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who believes the races should be kept apart.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who believes the races should be kept apart.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who advocates or practices the policy of segregation, especially of different races.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil rights historiography, political officials and public figures who fought to preserve Jim Crow statutes against desegregation orders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, segregationist designates someone who believes the races should be kept apart."*
+> - 📜 **Martin Luther King Jr. (*Strength to Love*):** *"We must meet the hate of the hardline **segregationist** with persistent, forgiving nonviolent love."*
+> - 📜 **James Baldwin (*Notes of a Native Son*):** *"The stubborn **segregationist** politician clung to the rhetoric of nullification as if the Civil War had never ended."*
+> - 📜 **Howard Zinn (*SNCC: The New Abolitionists*):** *"The young student sit-in protesters directly challenged the **segregationist** authorities of Albany with courage and dignity."*

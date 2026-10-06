@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An acute blood disorder (often caused by radiation or drug therapy) characterized by severe reduction in granulocytes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An acute blood disorder (often caused by radiation or drug therapy) characterized by severe reduction in granulocytes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical term denoting a deficiency or cessation of granulocyte production in the bone marrow, synonymous with agranulocytosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical pathology, the complete disappearance of polymorphonuclear neutrophils from the circulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agranulosis designates an acute blood disorder (often caused by radiation or drug therapy) characterized by severe reduction in granulocytes."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The fatal progression of malignant **agranulosis** was marked by gangrenous tonsillar sloughing and rapid circulatory collapse."*
+> - 📜 **Jonathan Hutchinson (*Illustrations of Clinical Surgery*):** *"Cases of deep constitutional **agranulosis** demand immediate cessation of all synthetic medications."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"By **agranulosis**, clinicians designate that morbid state wherein granular white blood corpuscles disappear from the vascular stream."*

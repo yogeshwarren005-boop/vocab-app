@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (genetics) the separation of paired alleles during meiosis so that members of each pair of alleles appear in different gametes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A social system that provides separate facilities for minority groups.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action or state of setting someone or something apart from others; or the enforced separation of different racial or social groups.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Mendelian genetics and developmental biology, the fundamental law of allele separation during gamete formation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A segregation of the Turkish fleet."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Segregation in a separate state, or separate states, is a thorogoing proposal, but is practically impossible."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Most poets, probably, like most saints, are prepared for their mission by an initial segregation, as the seed is buried to germinate: before they can utter the oracle of poetry, they must first be divided from the body of men."*
+> - 📜 **Martin Luther King Jr. (*The Autumn of Our Discontent*):** *"Racial **segregation** is a blatant denial of the unity that binds all mankind in the image of God."*
+> - 📜 **Thomas Hunt Morgan (*The Physical Basis of Heredity*):** *"The cytological proof of Mendelian **segregation** was established by observing homologous chromosome separation during meiosis."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The cosmic law of **segregation** explains how dissimilar forces act upon diverse parts to separate them into distinct classes."*

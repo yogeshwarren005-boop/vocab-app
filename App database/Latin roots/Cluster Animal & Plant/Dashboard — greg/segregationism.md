@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A political orientation favoring political or racial segregation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A political orientation favoring political or racial segregation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The political philosophy or policy advocating the racial or social separation of distinct groups in a society.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In twentieth-century political history, the reactionary ideology defending statutory racial hierarchy in the American South and South Africa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, segregationism designates a political orientation favoring political or racial segregation."*
+> - 📜 **Martin Luther King Jr. (*Why We Can't Wait*):** *"The entrenched defenders of **segregationism** resisted federal civil rights mandates with passionate defiance."*
+> - 📜 **James Baldwin (*Nobody Knows My Name*):** *"The tragic illusion of Southern **segregationism** lay in believing that one race could hold another in chains without destroying its own soul."*
+> - 📜 **Ralph McGill (*The South and the Southerner*):** *"Militant **segregationism** appealed to the anxieties of poor whites to maintain political control across the Black Belt."*

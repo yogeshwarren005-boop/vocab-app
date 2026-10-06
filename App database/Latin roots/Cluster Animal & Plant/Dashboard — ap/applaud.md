@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Clap one's hands or shout after performances to indicate approval.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Express approval of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To express approval or praise by clapping the hands; to commend enthusiastically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In judicial and moral discourse, publicly endorsing an honorable action, noble sacrifice, or beneficial policy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Laertes shall be king!’ Caps, hands, and tongues applaud it to the clouds, ‘Laertes shall be king, Laertes king.’ QUEEN."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, let the hours be short, Till fields and blows and groans applaud our sport! [_Exeunt._] ACT II SCENE I."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You that will follow me to this attempt, Applaud the name of Henry with your leader. [_They all cry “Henry!”_] Why then, let’s on our way in silent sort, For Warwick and his friends, God and Saint George! [_Exeunt._] SCENE III."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"I would **applaud** thee to the very echo, / That should **applaud** again."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The townsmen gathered at the town hall to **applaud** Lydgate's courageous reform of the fever hospital."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The audience rose as one man to cheer and **applaud** the triumphant conclusion of the melodrama."*

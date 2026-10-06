@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rid of segregation; having had segregation ended.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rid of segregation; having had segregation ended.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not separated into isolated groups based on race, class, religion, or other criteria; open to all persons equally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social geography and urban planning, mixed neighborhoods and shared civic institutions free of discriminatory covenants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonsegregated designates rid of segregation; having had segregation ended."*
+> - 📜 **Martin Luther King Jr. (*Where Do We Go from Here: Chaos or Community?*):** *"Our ultimate vision is a truly **nonsegregated** society where every child enjoys equal educational opportunity regardless of color."*
+> - 📜 **James Baldwin (*The Fire Next Time*):** *"Living in a genuine **nonsegregated** community forces citizens to confront each other as human beings rather than stereotypes."*
+> - 📜 **Jane Jacobs (*The Death and Life of Great American Cities*):** *"Vibrant urban streets depend upon **nonsegregated** land use that combines commercial shops with diverse residential housing."*

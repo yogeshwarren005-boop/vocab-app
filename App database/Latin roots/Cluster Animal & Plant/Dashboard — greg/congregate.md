@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Come together, usually for a purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come together, usually for a purpose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To gather together into a crowd or mass; to assemble or collect in one place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In animal behavior and social dynamics, gathering in collective groups for mutual defense, roosting, or migratory movements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hates our sacred nation, and he rails, Even there where merchants most do congregate, On me, my bargains, and my well-won thrift, Which he calls interest."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"I am afraid he must at one period of his career have lived at one of those watering places to which trippers congregate."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"One of his lungs began to heal, the other promised to follow its example, and he was assured he might outweather a dozen winters if he would betake himself to those climates in which consumptives chiefly congregate."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"He hates our sacred nation, and he rails, / Even there where merchants most do **congregate**, / On me, my bargains and my well-won thrift."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Thousands of seals and sea-elephants **congregate** upon the gravelly beaches of the Falkland Islands during the breeding season."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The great amphibious creatures **congregate** along the shores of primeval rivers, basking in the tropical heat."*

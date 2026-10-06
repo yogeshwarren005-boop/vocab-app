@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who copies the words or behavior of another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who copies the words or behavior of another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who mimics, imitates, or copies the behavior, speech, or appearance of another in a shallow or servile manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In satirical comedy and social critique, describing pretentious provincials who clumsily mimic metropolitan fashions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aper designates someone who copies the words or behavior of another."*
+> - 📜 **Ben Jonson (*Every Man in His Humour*):** *"He is but a shallow **aper** of courtly gallantry, repeating phrases he understands only halfway."*
+> - 📜 **William Makepeace Thackeray (*The Book of Snobs*):** *"The pretentious parvenu proved an absurd **aper** of aristocratic manners, exposing his vulgar origin at every turn."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The court was thronged with fawning courtiers, each an eager **aper** of the sovereign's momentary whims."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Winter aconite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Winter aconite.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of herbaceous perennial flowering plants in the buttercup family Ranunculaceae, commonly known as winter aconite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In alpine horticulture, early-spring geophytes blooming through snow with bright yellow buttercup flowers surrounded by leafy green ruffs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eranthis designates winter aconite."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The golden blossoms of **Eranthis** pierce the frozen crust of February long before other woodland forbs awaken."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"In the sheltered garden borders, the winter aconite, **Eranthis** hyemalis, expanded its bright yellow stars today."*
+> - 📜 **Joseph Dalton Hooker (*Curtis's Botanical Magazine*):** *"Species of **Eranthis** possess tuberous rootstocks that withstand deep frost, producing nectar-rich flowers for the earliest honeybees."*

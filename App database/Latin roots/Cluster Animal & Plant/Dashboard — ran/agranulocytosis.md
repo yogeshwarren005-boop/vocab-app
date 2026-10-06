@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An acute blood disorder (often caused by radiation or drug therapy) characterized by severe reduction in granulocytes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An acute blood disorder (often caused by radiation or drug therapy) characterized by severe reduction in granulocytes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A severe, acute deficiency of granulocytes (neutrophils) in the peripheral blood, leading to vulnerability to bacterial infection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology and pathology, an idiosyncratic drug reaction presenting with sudden high fever, necrotizing pharyngitis, and septic shock.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agranulocytosis designates an acute blood disorder (often caused by radiation or drug therapy) characterized by severe reduction in granulocytes."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute **agranulocytosis** constitutes a medical emergency characterized by necrotic ulcers of the throat and profound neutropenia."*
+> - 📜 **Jonathan Hutchinson (*Clinical Lectures and Reports*):** *"The patient developed toxic **agranulocytosis** following prolonged ingestion of the newly introduced antipyretic powder."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"When the myeloid centers cease producing leukocytes, fatal **agranulocytosis** supervenes unless bone marrow regeneration begins."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is or has been segregated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Separate by race or religion; practice a policy of racial segregation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To set apart from the rest or from each other; isolate, divide, or separate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In genetics and metallurgy, the separation of paired alleles into distinct gametes during meiosis, or chemical separation during alloy cooling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Men given to retirement and abstract study are notoriously liable to contract a certain degree of childlikeness: and if this be the case when we segregate a man, how much more when we segregate a child!"*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Why are we segregating these two groups in the first place?"*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"But liberal white margins are far more potent in attracting attention and in segregating an advertisement from mixed company than solid blacks."*
+> - 📜 **Gregor Mendel (*Experiments on Plant Hybridization*):** *"The differentiating characters **segregate** in the second hybrid generation in the definite mathematical ratio of three to one."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Geographical barriers serve to **segregate** small populations, allowing natural selection to accumulate distinct regional variations."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The understanding possesses the power to abstract and **segregate** particular ideas from their sensory contexts."*

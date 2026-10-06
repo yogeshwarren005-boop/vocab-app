@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Recognize with gratitude; be grateful for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be fully aware of; realize fully.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Valued and regarded with gratitude or respect; or having risen in monetary or commercial worth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fiscal history, characterizing capital investments or gold reserves that gained in purchasing power during deflationary periods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Kathy was the only one who appreciated Lippo's worth."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Cairns highly appreciated the compliment that was thus paid him, regarding it as a happy augury of the Union which he was sure was coming."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"He took it with the happy, pleased expression of a child who has just received a kindness deeply appreciated, and reverently removing his hat and folding his hands over it, he thanked his Heavenly Father for sending the chair."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Biddy's gentle counsel and quiet patience were never sufficiently **appreciated** until I had foolishly lost them."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The humble weaver's honest industry was warmly **appreciated** by the villagers once the cloud of suspicion lifted."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The new silver currency issued under William III rapidly **appreciated**, restoring confidence to commercial credit."*

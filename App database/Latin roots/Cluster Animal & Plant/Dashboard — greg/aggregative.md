@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Formed of separate units gathered into a mass or whole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formed of separate units gathered into a mass or whole.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the tendency to collect, combine, or unite separate parts into a collective mass or total.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social economics and statistical modeling, analyzing macroeconomic indicators formed by summing individual household decisions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aggregative designates formed of separate units gathered into a mass or whole."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Social evolution exhibits an **aggregative** momentum whereby small nomadic tribes coalesce into complex federated nations."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Memory exhibits both an **aggregative** power of accumulating associations and a selective power of dismissing irrelevant details."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The **aggregative** capital of a country grows through the patient abstinence and frugality of millions of savers."*

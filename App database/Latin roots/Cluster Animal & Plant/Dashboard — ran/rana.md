@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the ranidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the ranidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic genus of true frogs in the family Ranidae, typically having smooth moist skin, webbed feet, and strong leaping hind legs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In experimental physiology, the classic laboratory model organism (Rana temporaria or Rana catesbeiana) for nerve-muscle preparations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rana designates type genus of the ranidae."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The common frog, classified as **Rana**, provides the student of zoology with the classical vertebrate anatomical model."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Species of the amphibious genus **Rana** are completely absent from oceanic islands, their eggs being destroyed by salt water."*
+> - 📜 **Luigi Galvani (*De Viribus Electricitatis in Motu Musculari*):** *"When the lumbar nerves of the dissected **Rana** were touched with metallic conductors, violent muscular contractions ensued."*

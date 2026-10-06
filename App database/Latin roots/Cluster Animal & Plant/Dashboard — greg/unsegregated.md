@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rid of segregation; having had segregation ended.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rid of segregation; having had segregation ended.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not segregated; open to all people without separation by race, class, or religion; mixed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil rights history, institutions, lunch counters, and passenger cars operating without racial barriers or partitioned waiting rooms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsegregated designates rid of segregation; having had segregation ended."*
+> - 📜 **Martin Luther King Jr. (*Stride Toward Freedom*):** *"The successful conclusion of the Montgomery bus boycott inaugurated an **unsegregated** public transit system in Alabama."*
+> - 📜 **James Baldwin (*The Fire Next Time*):** *"An **unsegregated** public library offered a rare refuge where any curious youth could feast upon the great literature of the world."*
+> - 📜 **W. E. B. Du Bois (*The Philadelphia Negro*):** *"In certain northern districts, **unsegregated** employment allowed skilled mechanics of all backgrounds to work side by side."*

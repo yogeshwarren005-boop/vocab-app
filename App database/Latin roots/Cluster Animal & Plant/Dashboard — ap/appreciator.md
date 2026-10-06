@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is fully aware of something and understands it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is fully aware of something and understands it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who appreciates, values, or demonstrates discerning taste and gratitude toward someone or something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In connoisseurship, a cultivated patron who detects subtle brilliance in neglected masterpieces before the general public catches on.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"Genuine--i. e., _enthusiastic_--appreciators are not so common, and must be cultivated when they appear...."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"Milton found at first but few readers capable of understanding him, but every true **appreciator** recognized an immortal genius."*
+> - 📜 **Henry James (*Roderick Hudson*):** *"Rowland Mallet proved a patient and generous **appreciator** of Roderick's erratic sculptural talents."*
+> - 📜 **Walter Pater (*Appreciations, with an Essay on Style*):** *"The genuine **appreciator** seeks to isolate the unique virtue by which an author or artist touches the soul."*

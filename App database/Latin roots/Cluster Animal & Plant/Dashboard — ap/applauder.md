@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who applauds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who applauds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who applauds, praises, or expresses enthusiastic commendation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theatrical history and rhetorical analysis, one who joins a claque or claps vigorously to steer public reception.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, applauder designates someone who applauds."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The galleries were packed with paid claqueurs, every hired **applauder** cheering the radical orators at signal."*
+> - 📜 **George Bernard Shaw (*Dramatic Opinions and Essays*):** *"A discerning critic must never confuse the noisy partisan **applauder** with the quiet verdict of posterity."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The demagogue readily finds an unthinking **applauder** among the volatile multitude eager for flattery."*

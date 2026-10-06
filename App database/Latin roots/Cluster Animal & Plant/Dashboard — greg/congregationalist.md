@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the congregational church.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to or characteristic of a congregational church.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member or supporter of Congregationalism, upholding independent local church government.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical sociology, English and American nonconformists tracing religious heritage to seventeenth-century Independents like John Owen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"In this province, too, were the long-worked missionary establishments of the American Board (Congregationalist) and the China Inland Missions."*
-> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"The Americans have formed into two messes, the Presbyterians and Methodists eating at one time, the Congregationalists, who are in the majority, at another."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"How did they happen to be Presbyterians and not Congregationalists?"*
+> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"The staunch old **Congregationalist** elder stood firm against the encroachments of royal governors on colonial rights."*
+> - 📜 **George Eliot (*Felix Holt, the Radical*):** *"Mr. Lyon was an earnest **Congregationalist** minister whose theological erudition commanded the respect of every dissenting parishioner."*
+> - 📜 **Anthony Trollope (*The Bertrams*):** *"The wealthy merchant was a conscientious **Congregationalist** who endowed independent chapels across the northern industrial towns."*

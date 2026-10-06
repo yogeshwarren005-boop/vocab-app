@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of ranunculaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of ranunculaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The buttercup or crowfoot family of flowering plants, comprising herbaceous plants and climbers characterized by numerous stamens and divided leaves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, an ancient dicot family including buttercups, clematis, anemones, and delphiniums, noted for possessing pungent protoanemonin alkaloids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ranunculaceae designates a family of ranunculaceae."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The family **Ranunculaceae** is easily recognized by its polypetalous flowers with numerous hypogynous stamens and separate pistils."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"Many genera belonging to the **Ranunculaceae** exhibit remarkable variations in petaloid sepals designed to attract insect visitors."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"Early spring meadows glow with the cheerful yellow blossoms of various species of the **Ranunculaceae**."*

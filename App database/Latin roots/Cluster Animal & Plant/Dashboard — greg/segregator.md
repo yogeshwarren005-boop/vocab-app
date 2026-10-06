@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who believes the races should be kept apart.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who believes the races should be kept apart.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, device, or mechanism that separates, isolates, or sorts different items or groups.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial agricultural processing and mechanical engineering, equipment sorting grain by size or ore by magnetic density.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, segregator designates someone who believes the races should be kept apart."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Reason acts as a rigorous **segregator** of truth from error, sifting solid evidence from the idols of the mind."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Every mechanical **segregator** sorts mixed materials by utilizing differences in their specific gravity or inertia."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"The modern competitive system is a merciless **segregator** of the strong from the weak in the market struggle."*

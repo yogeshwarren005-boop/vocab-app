@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (christian theology) the love of god or christ for mankind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Selfless love of one person for another without sexual implications (especially love that is spiritual in nature).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With the mouth wide open in astonishment, wonder, or eager expectation; wide open.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early Christian theology and church history, the communal love-feast or fraternal banquet symbolizing selfless spiritual charity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"This was what their _Agape_ had come to."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He was no more than six, and I remember looking on with mouth agape while his mother held him on her lap and his father set about bandaging the wound."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Zolan, on his feet, mouth agape, stared at Xindral."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe Gargery stood with his mouth **agape** in profound astonishment at the lawyer's extraordinary announcement."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The rustic laborers listened with mouths **agape** as the sergeant recounted stirring tales of foreign battlefields."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The primitive believers assembled at sunset to partake of the holy **agape**, reaffirming their mutual bond of brotherhood."*

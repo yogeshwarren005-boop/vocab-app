@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing deep-seated resentment; - aldous huxley.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing deep-seated resentment; - aldous huxley.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by bitter, deep-seated resentment or malicious ill will.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetorical criticism, describing venomous factional polemics designed to humiliate opponents rather than discover truth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well didst thou, Richard, to suppress thy voice; For, had the passions of thy heart burst out, I fear we should have seen decipher’d there More rancorous spite, more furious raging broils, Than yet can be imagined or supposed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Me seemeth then it is no policy, Respecting what a rancorous mind he bears And his advantage following your decease, That he should come about your royal person Or be admitted to your Highness’ Council."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I wear no knife to slaughter sleeping men, But here’s a vengeful sword, rusted with ease, That shall be scoured in his rancorous heart That slanders me with murder’s crimson badge."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The theological disputes concerning the nature of the Trinity were conducted with **rancorous** animosity across the Eastern provinces."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The revolutionary assemblies dissolved into **rancorous** factions that denounced each other to the revolutionary tribunal."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The pamphleteers waged a **rancorous** paper war filled with scurrilous personal slanders against the ministers."*

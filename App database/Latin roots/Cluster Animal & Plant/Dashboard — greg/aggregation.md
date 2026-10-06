@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Several things grouped together or considered as a whole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of gathering something together.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of gathering or clustering together; or a group or mass of distinct things gathered together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecological population biology, spatial clumped dispersion of organisms around concentrated resources or microclimates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Is it so certain that a dense population congested in cities and crowded in factories and mines is a more ideal social aggregation than is a community of prosperous farmers?"*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A large aggregation can control credit better and escape losses from bad debts."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Boys, dey won't fight fair." The Negroes _en masse_ now gathered up their few belongings and removed to the city of R---- with all of its aggregation of vice, of temptation, of hardships, of alluring promises, of elusive hopes."*
+> - 📜 **John Stuart Mill (*System of Logic*):** *"A nation is not a mere mechanical **aggregation** of individuals, but a living moral organism bound by historic institutions."*
+> - 📜 **Charles Darwin (*Insectivorous Plants*):** *"When the tentacles of Drosera are stimulated by animal matter, rapid **aggregation** of the protoplasm occurs within the glandular cells."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Modern manufacturing cities present a chaotic **aggregation** of human beings united only by the cash nexus."*

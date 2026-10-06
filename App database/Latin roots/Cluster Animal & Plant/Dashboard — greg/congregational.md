@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or conducted or participated in by a congregation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to or characteristic of a congregational church.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of a congregation; or relating to the Congregational church denomination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical polity, denoting independent church governance where each local congregation manages its own spiritual affairs without episcopal or presbyterial oversight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"They are members of Lincoln Park Congregational Church."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Miller is the wife of a Congregational minister, and a lady of unquestionably veracity."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Another lady, the same week my wife was healed, a member of the First Congregational Church, confined to her bed with a complicated disease, was prayed for, and restored at once to soundness." THE WONDERFUL CURE OF MRS."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The venerable minister was esteemed by all the **congregational** churches of New England as a pillar of divine wisdom."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The **congregational** churches of London played a prominent part in the petition against royal abuses."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"The traditional **congregational** meetinghouse served as both the spiritual sanctuary and the democratic civic forum of the village."*

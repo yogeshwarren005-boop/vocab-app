@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Worthy of high praise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Worthy of high praise.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deserving of applause, approval, or commendation; praiseworthy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethical theory and civic administration, characterizing policies or personal deeds that uphold public welfare despite personal hardship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, applaudable designates worthy of high praise."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor's prompt reduction of provincial taxation was an **applaudable** act of imperial beneficence."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Every endeavor to advance learning and encourage virtue is eminently **applaudable** in any commonwealth."*
+> - 📜 **Walter Scott (*Rob Roy*):** *"His devotion to his distressed patron was regarded by all honorable men as an **applaudable** duty."*

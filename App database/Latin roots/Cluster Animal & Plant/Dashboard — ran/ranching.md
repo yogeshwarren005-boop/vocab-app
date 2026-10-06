@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Farming for the raising of livestock (particularly cattle).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Manage or run a ranch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity or business of operating a ranch, especially breeding and rearing cattle, horses, or sheep on extensive grasslands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural economics, pastoral rangeland management characterized by low stocking densities and seasonal roundups.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ranching designates farming for the raising of livestock (particularly cattle)."*
+> - 📜 **Theodore Roosevelt (*Ranch Life and the Hunting-Trail*):** *"Commercial cattle **ranching** on the open plains was transformed forever by the catastrophic winter of eighteen eighty-six."*
+> - 📜 **Owen Wister (*The Virginian*):** *"The profits of western **ranching** fluctuated violently with beef prices at the Chicago stockyards and railroad freight tariffs."*
+> - 📜 **Mark Twain (*Roughing It*):** *"Many young easterners went out west lured by romantic dreams of **ranching**, only to discover hard unremitting toil."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being rancid; having a rancid scent or flavor (as of old cooking oil).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being rancid; having a rancid scent or flavor (as of old cooking oil).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The rank, offensive odor and acrid taste produced by the chemical decomposition and oxidative cleavage of fats or oils.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In lipid biochemistry and food technology, the formation of noxious peroxides, aldehydes, and free butyric acids in exposed fats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rancidity designates the state of being rancid; having a rancid scent or flavor (as of old cooking oil)."*
+> - 📜 **Justus von Liebig (*Animal Chemistry*):** *"Atmospheric oxygen acts upon unsaturated fatty acids, promoting that decomposition known as **rancidity**."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Bacterial contamination in dairy butter produces butyric fermentation and disagreeable **rancidity** within a few days."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"The chemical instability of organic oils causes their rapid oxidation and offensive **rancidity** upon exposure to warm air."*

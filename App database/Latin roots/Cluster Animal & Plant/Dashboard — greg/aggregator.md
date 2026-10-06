@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who collects things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who collects things.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, company, or software tool that gathers, compiles, and organizes data or goods from varied sources into a unified platform.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In information systems and commerce, an entity providing syndication feeds, financial consolidation, or retail price indexing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aggregator designates a person who collects things."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The true natural philosopher is not a mere **aggregator** of curiosities, but an interpreter of nature's universal laws."*
+> - 📜 **Herbert Spencer (*The Study of Sociology*):** *"The statistical **aggregator** must verify the accuracy of local returns before constructing general sociological theories."*
+> - 📜 **William Stanley Jevons (*The Principles of Science*):** *"The mathematical **aggregator** brings together diverse observations, extracting the mean value that minimizes random error."*

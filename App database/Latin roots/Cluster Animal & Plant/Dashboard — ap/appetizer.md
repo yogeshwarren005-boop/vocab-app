@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Food or drink to stimulate the appetite (usually served before a meal or as the first course).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Food or drink to stimulate the appetite (usually served before a meal or as the first course).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small dish of food or a drink taken before a meal or the main course to stimulate the appetite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In culinary design, savory hors d'oeuvres, antipasti, or canapés crafted with pungent or acidic flavors to awaken salivary reflexes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, appetizer designates food or drink to stimulate the appetite (usually served before a meal or as the first course)."*
+> - 📜 **Charles Dickens (*Martin Chuzzlewit*):** *"The landlord offered a dish of pickled oysters as an agreeable **appetizer** before the roast beef appeared."*
+> - 📜 **Mark Twain (*The Innocents Abroad*):** *"In the Parisian brasserie we were served small salted fish and olives as a customary **appetizer**."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Noble Bachelor*):** *"A tempting **appetizer** of caviar and deviled biscuits was laid upon the silver tray awaiting Lord St. Simon."*

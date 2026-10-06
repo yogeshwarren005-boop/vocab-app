@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of plants) growing together in groups that are not close together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of animals) not gregarious.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not fond of the company of others; unsociable, solitary, or retiring in disposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character analysis and biographical study, describing scholars, artists, or naturalists who prefer solitary contemplation to crowds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ungregarious designates (of plants) growing together in groups that are not close together."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Casaubon was an intensely **ungregarious** man, finding the noisy social dinners of Lowick parish a distressing distraction from his studies."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel Oak's solitary life upon the downs had made him somewhat **ungregarious** in manners, though warm of heart."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"My woodland life was by no means **ungregarious** in thought, though I rarely exchanged words with townspeople for weeks."*

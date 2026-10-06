@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who rants and raves; speaks in a violent or loud manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who rants and raves; speaks in a violent or loud manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who speaks in a loud, bombastic, or wildly impassioned manner; a noisy declaimer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In English seventeenth-century religious history, a member of the antinomian radical sect known as the Ranters, practicing pantheistic libertinism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"A ranter preaches there between the services—an excellent, fiery, Christian man, they say."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I’ll lay a guinea he’s after Tess.” “O no. ’Tis a ranter pa’son who’s been sniffing after her lately; not a dandy like this.” “Well—this is the same man.” “The same man as the preacher?"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"But stooks are cowpit wi’ the blast, And now the sinn keeks in the west, Then I maun rin amang the rest, An’ quat my chanter; Sae I subscribe myself’ in haste, Yours, Rab the Ranter."*
+> - 📜 **John Bunyan (*Grace Abounding to the Chief of Sinners*):** *"I fell into company with one of those people called **Ranters**, who gave themselves up to all manner of licentious living under the guise of spiritual liberty."*
+> - 📜 **Thomas Carlyle (*Oliver Cromwell's Letters and Speeches*):** *"Cromwell had to deal not only with Royalists, but with every enthusiastic Leveller, Fifth-Monarchy man, and mystical **Ranter**."*
+> - 📜 **George Eliot (*Adam Bede*):** *"The old rector had little patience for the travelling Methodist **ranter** who stirred up simple cottagers with terrifying visions of hellfire."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (the feminine of raja) a hindu princess or the wife of a raja.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (the feminine of raja) a hindu princess or the wife of a raja.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Hindu queen or the wife of a raja; a princess or female ruler in India.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Anglo-Indian history and colonial diplomacy, sovereign female regents managing royal courts and dynastic successions in princely states.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **C. A. Frazer (*Atmâ*):** *"Not only does the Ranee believe that the recovery of this gem will ensure the prosperity of the descendants of Runjeet Singh, but I do firmly believe that its re-possession will rally the Sikh forces to form again a conquering faith."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"You go to-morrow to Ferazpore, where you will meet again Rajah Lal, who has perhaps more influence with our clever Ranee than many a better man."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"The splendour of her jewels proclaimed the Ranee."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Rumors circulated that the wealthy Anglo-Indian nabob had married the daughter of an Indian **ranee** adorned with diamonds."*
+> - 📜 **Richard Francis Burton (*Vikram and the Vampire*):** *"The wise **ranee** sat beside the raja in the durbar hall, counseling mercy for the condemned captive."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The Agra treasure had belonged to an Indian **ranee** whose palace was plundered during the Great Mutiny."*

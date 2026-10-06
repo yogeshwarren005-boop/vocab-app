@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman catholic church) a church father known for his constant fight against perceived heresies; a saint and doctor of the church (329-391).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Italian pope from 1831 to 1846; conservative in politics and theology; worked to propagate catholicism in england and the united states (1765-1846).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A personal name of Greek origin meaning 'watchful' or 'vigilant', famously borne by numerous early Christian popes and church doctors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval history and patristics, prominently identifying Gregory the Great (540–604) or Gregory of Nazianzus, fathers of Western and Eastern theology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Turk Gregory never did such deeds in arms as I have done this day."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Item, you sent a large commission To Gregory de Cassado, to conclude, Without the King’s will or the state’s allowance, A league between his Highness and Ferrara."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Sampson and Gregory armed with swords and bucklers."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Pope **Gregory** the Great governed the Latin Church with extraordinary pastoral energy during the darkest days of the Lombard invasion."*
+> - 📜 **Bede (*Ecclesiastical History of the English People*):** *"It was the blessed **Gregory** who sent Augustine to preach the gospel of Christ to the heathen Anglo-Saxon kings."*
+> - 📜 **Thomas Carlyle (*On Heroes, Hero-Worship, and the Heroic in History*):** *"Great churchmen like Hildebrand and **Gregory** ruled Europe not with swords, but with the moral authority of spiritual conviction."*

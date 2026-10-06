@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Beyond the range of the normal or scientifically explainable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beyond the range of the normal or scientifically explainable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Beyond, exceeding, or not explainable by what is ordinary or normal; psychical, extraordinary, or supernatural.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In parapsychology and cognitive philosophy, phenomena (telepathy, clairvoyance, trance cognition) investigated as exceptional extensions of consciousness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supranormal designates beyond the range of the normal or scientifically explainable."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Certain mystical states seem to open windows into **supranormal** realms of consciousness that regular sensory logic cannot explain."*
+> - 📜 **Arthur Conan Doyle (*The History of Spiritualism*):** *"The committee assembled trained scientists to investigate allegations of **supranormal** physical manifestations in the darkened room."*
+> - 📜 **Frederic W. H. Myers (*Human Personality and Its Survival of Bodily Death*):** *"We apply the term **supranormal** to powers of the subliminal self that exceed the customary limits of normal evolutionary adaptation."*

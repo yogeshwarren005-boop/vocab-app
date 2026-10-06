@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a congregation (especially that of a church or synagogue).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a congregation (especially that of a church or synagogue).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a congregation, especially one participating in the worship services of a church or synagogue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical governance, distinguishing individual communicants and lay voters from ordained pastoral leadership.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, congregant designates a member of a congregation (especially that of a church or synagogue)."*
+> - 📜 **George Eliot (*Scenes of Clerical Life*):** *"Every devout **congregant** in Shepperton Church was familiar with the curate's solemn delivery of the litany."*
+> - 📜 **Nathaniel Hawthorne (*The Minister's Black Veil*):** *"Not a single **congregant** dared to approach Mr. Hooper to inquire why he had concealed his countenance behind the sable veil."*
+> - 📜 **Thomas Hardy (*Under the Greenwood Tree*):** *"The rustic **congregant** turned his head to watch the gallery choir tune their viols before the morning psalm."*

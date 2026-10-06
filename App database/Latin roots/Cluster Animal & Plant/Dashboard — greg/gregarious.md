@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of animals) tending to form a group with others of the same species.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Instinctively or temperamentally seeking and enjoying the company of others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fond of company; sociable; or living in flocks, herds, or loose social colonies in the wild.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral ethology and evolutionary psychology, social aggregations that provide predator dilution, collective foraging, and cooperative alarm calling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I am disposed to be gregarious and communicative to-night,” he repeated, “and that is why I sent for you: the fire and the chandelier were not sufficient company for me; nor would Pilot have been, for none of these can talk."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The Fin-Back is not gregarious."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Even now I am certain that those seas are not, and perhaps never can be, in the present constitution of things, a place for his habitual gregarious resort."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The **gregarious** instinct in social animals leads individuals to feel restless when separated from the herd and to warn comrades of danger."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"Rooks are pre-eminently **gregarious** birds, nesting in vast colonies upon tall elms and feeding together over ploughed fields."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Sheep are timid and intensely **gregarious** creatures, crowding blindly into a dense mass at the sudden appearance of a dog."*

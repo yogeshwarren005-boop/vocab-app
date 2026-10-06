@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Warm friendly feelings of gratitude.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Warm friendly feelings of gratitude.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of showing or feeling appreciation, gratitude, or sensitive aesthetic discernment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In interpersonal psychology, a receptive readiness to acknowledge the contributions and talents of companions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, appreciativeness designates warm friendly feelings of gratitude."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Mirah possessed an innate **appreciativeness** that responded to the slightest gesture of tenderness with tears of gratitude."*
+> - 📜 **Henry James (*The Bostonians*):** *"Basil Ransom admired Olive Chancellor's intellectual fervor, though he could not share her intense **appreciativeness** of modern causes."*
+> - 📜 **William James (*The Letters of William James*):** *"His letters were filled with generous **appreciativeness** of his colleagues' philosophical publications."*

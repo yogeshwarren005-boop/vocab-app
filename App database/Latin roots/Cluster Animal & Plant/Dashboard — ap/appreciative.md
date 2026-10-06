@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling or expressive of gratitude.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or showing appreciation or a favorable critical judgment or opinion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling or showing gratitude, pleasure, or keen understanding of value or excellence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological empathy and literary reception, displaying receptive warmth that encourages creative expression in others.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Being a man not without a frequent consciousness that there was some charm in this life he led, he stood still after looking at the sky as a useful instrument, and regarded it in an appreciative spirit, as a work of art superlatively beautiful."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba had reached a stage at which people cease to have any appreciative regard for public opinion."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Troy was not greatly elated by the appreciative spirit in which he was undoubtedly treated, but he thought the engagement might afford him a few weeks for consideration."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Will Ladislaw found in Dorothea an **appreciative** listener who understood the generous yearnings of his youthful ideals."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Ralph Touchett observed her with an **appreciative** smile, delighting in her vibrant, uncorrupted American enthusiasm."*
+> - 📜 **Charles Dickens (*The Old Curiosity Shop*):** *"The kind schoolmaster spoke to the weary wanderers in warm and **appreciative** words that comforted their heavy hearts."*

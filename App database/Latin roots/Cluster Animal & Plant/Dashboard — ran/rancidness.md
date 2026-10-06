@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being rancid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being rancid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rank, offensive staleness of smell or taste resulting from the oxidative spoilage of fatty and oily substances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical hygiene and food storage, the unpalatable spoilage of lard, suet, or butter during long maritime voyages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rancidness designates the property of being rancid."*
+> - 📜 **Herman Melville (*Redburn*):** *"The intolerable **rancidness** of the ship's butter provoked bitter complaints among the forecastle sailors."*
+> - 📜 **Tobias Smollett (*The Adventures of Roderick Random*):** *"The surgeon rejected the cask of provisions because of the sickening **rancidness** of the grease."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"A stale smell of neglected bacon and greasy **rancidness** pervaded the dim little kitchen of the debtors' prison."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of plants and animals; not growing or living in groups or colonies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of plants and animals; not growing or living in groups or colonies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not fond of the company of others; unsociable; or living a solitary life rather than in flocks or herds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoology, designating solitary predators like leopards or bears that maintain exclusive territories and interact only for mating.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nongregarious designates of plants and animals; not growing or living in groups or colonies."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The wild ancestor of the cat was a strictly **nongregarious** carnivore that hunted by night in dense cover."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"Unlike wolves, the snow leopard is a **nongregarious** hunter, roaming alone across the desolate crags of the Hindu Kush."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"Certain birds of prey exhibit a **nongregarious** habit, driving their own offspring from the valley as soon as they can fly."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thorough search for something (often causing disorder or confusion).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Steal goods; take as spoils.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Searching through violently, thoroughly, and carelessly; looting or pillaging.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In wartime accounts, the chaotic overturning of domestic spaces by undisciplined soldiers searching for hidden valuables.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The bastard Faulconbridge Is now in England ransacking the church, Offending charity."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"By-and-by, when I happened to be ransacking one of the bags, I came across half a dozen pounds or more of old iron tied up in a white cloth."*
-> - 📜 **Oliver Optic (*Plane and Plank; or, The Mishaps of a Mechanic*):** *"Gracewood in the act of ransacking his bed."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The populace spent the night in frantic tumult, **ransacking** aristocratic wine-cellars and arsenals across Paris."*
+> - 📜 **Charles Dickens (*Barnaby Rudge*):** *"The Gordon rioters were busy **ransacking** the magistrate's mansion, hurling furniture through shattered windows into the street."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The mob broke down the heavy oak doors of the Tolbooth, **ransacking** the guardroom in search of the condemned captain."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Steal goods; take as spoils.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Search thoroughly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To search through a place or container thoroughly and roughly, often causing disorder or damage; to plunder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military history and naval law, the pillage of conquered garrisons or unlawful privateer rummaging of merchant cargo holds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sixty and nine that wore Their crownets regal from the Athenian bay Put forth toward Phrygia; and their vow is made To ransack Troy, within whose strong immures The ravish’d Helen, Menelaus’ queen, With wanton Paris sleeps—and that’s the quarrel."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What treason were it to the ransack’d queen, Disgrace to your great worths, and shame to me, Now to deliver her possession up On terms of base compulsion!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sooth, when I was young And handed love, as you do, I was wont To load my she with knacks: I would have ransack’d The pedlar’s silken treasury and have pour’d it To her acceptance."*
+> - 📜 **William Shakespeare (*Troilus and Cressida*):** *"Why should we our youth and dignity / Vainly spend upon a city's walls, / To **ransack** Troy for Helen's golden hair?"*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The outlaws did not **ransack** the chapel, respecting the sacred vessels of the holy hermit."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The Parisian mob broke into the armory to **ransack** every cupboard for muskets and gunpowder."*

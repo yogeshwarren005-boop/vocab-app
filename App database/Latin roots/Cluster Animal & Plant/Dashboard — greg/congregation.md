@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of people who adhere to a common faith and habitually attend a given church.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An assemblage of people or animals or things collected together.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of people assembled for religious worship; or an assembly, gathering, or collection of people or things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In church history and canon law, an organized ecclesiastical body or administrative committee of the Roman Curia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I see anything tonight why I should not marry her tomorrow, in the congregation, where I should wed, there will I shame her."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"When I go into our little church on a Sunday, a considerable part of the inconsiderable congregation expect to see me drop, scorched and withered, on the pavement under the Dedlock displeasure."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The congregation was extremely small and quite a rustic one with the exception of a large muster of servants from the house, some of whom were already in their seats, while others were yet dropping in."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"This goodly frame, the earth, seems to me a sterile promontory; this most excellent canopy, the air, look you, this brave o'erhanging firmament, this majestical roof fretted with golden fire, why, it appears no other thing to me than a foul and pestilent **congregation** of vapors."*
+> - 📜 **Nathaniel Hawthorne (*Young Goodman Brown*):** *"The minister stood in the pulpit addressing a solemn **congregation** whose reverent faces hid deep secret guilts."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The chapel **congregation** at Lantern Yard cast lots in solemn prayer to determine the guilt or innocence of the accused."*

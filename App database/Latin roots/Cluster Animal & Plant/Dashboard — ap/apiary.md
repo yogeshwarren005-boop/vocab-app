@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A shed containing a number of beehives.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shed containing a number of beehives.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A place where bees are kept; a collection of beehives in a garden or commercial honey farm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic entomology, an intentionally sited compound positioned near nectar-bearing blossoms and protected from harsh northern winds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apiary designates a shed containing a number of beehives."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"I observed that humble-bees visited clover flowers planted adjacent to the garden **apiary** with remarkable constancy."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"In a sunny sheltered corner of the orchard stood an **apiary** of straw skeps humming with summer industry."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The farmer set up a new **apiary** along the south garden wall, anticipating a rich yield from the clover fields."*

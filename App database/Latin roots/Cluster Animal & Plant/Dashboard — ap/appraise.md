@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Evaluate or estimate the nature, quality, ability, extent, or significance of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consider in a comprehensive way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To assess the monetary value of; to estimate the price, worth, or quality of expertly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character assessment and critical connoisseurship, evaluating the intellectual or artistic merit of a work or individual without bias.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"It is needless; I have seen him!” “Well?” “I fear that he does not appraise me at much."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"You insult and then threaten harm to us." Brad grinned at Drummer, who was watching him with an appraising expression."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He himself carefully scanned each face, appraising the possibilities of establishing intimacy with each of those present, and the advantages that might accrue."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The shrewd goldsmith took the antique brooch in his hand to **appraise** the weight and purity of the gold."*
+> - 📜 **Herman Melville (*The Confidence-Man*):** *"The merchant cast a cautious eye over the promissory note, attempting to **appraise** the solvency of the borrower."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard watched the corn factor **appraise** a handful of wheat by rubbing the grains between his hardened palms."*

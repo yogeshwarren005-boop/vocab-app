@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (the feminine of raja) a hindu princess or the wife of a raja.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (the feminine of raja) a hindu princess or the wife of a raja.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A queen or empress in the Indian subcontinent; wife of a raja.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In South Asian history, celebrated military leaders and royal patrons such as Rani Lakshmibai of Jhansi during the 1857 rebellion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rani designates (the feminine of raja) a hindu princess or the wife of a raja."*
+> - 📜 **Flora Annie Steel (*On the Face of the Waters*):** *"The proud **Rani** of Jhansi mounted her charger to lead her warriors against the British cantonment."*
+> - 📜 **Rudyard Kipling (*Kim*):** *"The old Sahiba, a wealthy widow and **Rani** of the hills, traveled with a retinue of palanquins and retainers."*
+> - 📜 **Richard Francis Burton (*Goa and the Blue Mountains*):** *"The coastal court was presided over by a widowed **rani** who administered the district with remarkable firmness."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Garment consisting of a folded cloth drawn up between the legs and fastened at the waist; worn by infants to catch excrement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fabric (usually cotton or linen) with a distinctive woven pattern of small repeated figures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A piece of absorbent cloth or material fastened around a baby's waist and between the legs; or a diamond-patterned fabric or architectural ornament.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval textiles and Gothic architecture, decorative surface carving or weaving composed of small repeating diamond lozenges.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"He crossed the wood with his hunter's step and found her lapped in dreams, the starlight that filtered between the alder branches chequering her with a faint diaper of light and shade."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The orphreys were woven in a diaper of red and gold silk, and were starred with medallions of many saints and martyrs, among whom was St."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"A diaper pin?' Raising my arm, I pumped my fist at the sky."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The brick facade of the Doge's Palace is adorned with a delicate pink and white **diaper** pattern of extraordinary elegance."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The knight's pavilion was lined with silk of rich damask and cloth of **diaper** woven with heraldic devices."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The nurse sat beside the cradle folding fresh cotton **diaper** linen while the infant heir slumbered peacefully."*

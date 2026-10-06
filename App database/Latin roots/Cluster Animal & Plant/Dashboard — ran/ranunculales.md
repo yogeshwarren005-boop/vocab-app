@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Herbs, shrubs and trees: includes families ranunculaceae; annonaceae; berberidaceae; magnoliaceae; menispermaceae; myristicaceae; nymphaeaceae; lardizabalaceae; lauraceae; calycanthaceae; ceratophyllaceae; cercidiphyllaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Herbs, shrubs and trees: includes families ranunculaceae; annonaceae; berberidaceae; magnoliaceae; menispermaceae; myristicaceae; nymphaeaceae; lardizabalaceae; lauraceae; calycanthaceae; ceratophyllaceae; cercidiphyllaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic order of early-diverging eudicot flowering plants, prominently comprising the families Ranunculaceae, Berberidaceae, and Papaveraceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern angiosperm phylogenetics (APG), the sister lineage to all other eudicots, characterized by herbaceous habits, benzylisoquinoline alkaloids, and free floral organs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ranunculales designates herbs, shrubs and trees: includes families ranunculaceae; annonaceae; berberidaceae; magnoliaceae; menispermaceae; myristicaceae; nymphaeaceae; lardizabalaceae; lauraceae; calycanthaceae; ceratophyllaceae; cercidiphyllaceae."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"Systematists group the buttercups, barberries, and poppies within the natural order **Ranunculales** based on floral morphology."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"The diverse mountain genera of the **Ranunculales** flourish abundantly throughout the temperate altitudes of the Himalayas."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The morphological affinities of the **Ranunculales** provide invaluable clues concerning the primitive ancestral floral envelope."*

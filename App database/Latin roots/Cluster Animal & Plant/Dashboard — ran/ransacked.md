@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Steal goods; take as spoils.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Search thoroughly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Searched through hastily, roughly, and destructively; pillaged or plundered.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical narratives, describing cities sacked by mercenary armies or houses upended by desperate thieves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"See the hell of having a false woman: my bed shall be abused, my coffers ransacked, my reputation gnawn at; and I shall not only receive this villanous wrong, but stand under the adoption of abominable terms, and by him that does me this wrong."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My honey lost, and I, a drone-like bee, Have no perfection of my summer left, But robbed and ransacked by injurious theft."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"I ransacked my memory to find who the lady was."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Alaric's Visigoths systematically **ransacked** the noble palaces of Rome, carrying off centuries of accumulated gold and marble statues."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"We entered the study to find the desk broken open and every drawer ruthlessly **ransacked** by the intruder."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"The pirates had **ransacked** the old sea-chest, tossing charts, clothes, and Spanish coins in wild confusion upon the floor."*

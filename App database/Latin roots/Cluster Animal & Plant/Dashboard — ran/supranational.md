@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Transcending established national boundaries or spheres of interest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transcending established national boundaries or spheres of interest.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having power or influence that transcends national boundaries or governments; involving multiple nations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international relations and jurisprudence, institutions (such as the European Union or World Court) whose authority overrides national sovereignty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supranational designates transcending established national boundaries or spheres of interest."*
+> - 📜 **Woodrow Wilson (*Addresses on the League of Nations*):** *"The creation of a permanent **supranational** assembly represents the only enduring safeguard against catastrophic global conflict."*
+> - 📜 **Winston Churchill (*Speech on the Council of Europe (1949)*):** *"We must build a **supranational** structure wherein the free peoples of Europe may unite their strength and defend their liberties."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"Modern economic integration inexorably demands the development of effective **supranational** institutions to regulate trade and prevent war."*

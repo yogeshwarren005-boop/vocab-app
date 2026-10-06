@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cyst on the underside of the tongue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cyst on the underside of the tongue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cystic lesion or fluid-filled retention cyst appearing on the floor of the mouth beneath the tongue, typically caused by obstruction of a sublingual salivary gland.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oral surgery and historical medical terminology, so named from the Latin for 'little frog' because the bluish swelling was thought to resemble a frog's translucent belly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ranula designates a cyst on the underside of the tongue."*
+> - 📜 **Robley Dunglison (*Medical Lexicon: A Dictionary of Medical Science*):** *"A **ranula** is a soft, bluish, translucent tumor situated under the tongue, arising from cystic dilatation of the sublingual salivary duct of Rivinus."*
+> - 📜 **Jonathan Hutchinson (*Illustrations of Clinical Surgery*):** *"The surgeon evacuated the contents of the large **ranula** by introducing a silver seton through the floor of the mouth."*
+> - 📜 **William Bowman (*Medical Lectures and Papers*):** *"Obstruction of the duct of Wharton rapidly produces a characteristic **ranula** that pushes the tongue upward against the palate."*

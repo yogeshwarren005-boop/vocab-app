@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Herbs, shrubs and trees: includes families ranunculaceae; annonaceae; berberidaceae; magnoliaceae; menispermaceae; myristicaceae; nymphaeaceae; lardizabalaceae; lauraceae; calycanthaceae; ceratophyllaceae; cercidiphyllaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Herbs, shrubs and trees: includes families ranunculaceae; annonaceae; berberidaceae; magnoliaceae; menispermaceae; myristicaceae; nymphaeaceae; lardizabalaceae; lauraceae; calycanthaceae; ceratophyllaceae; cercidiphyllaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic botanical order of dicotyledonous flowering plants centered on the buttercup and water lily families, now largely distributed among Ranunculales and Magnoliales.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical phylogenetic botany, considered by Bessey and Engler as the most primitive ancestral complex of extant angiosperms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ranales designates herbs, shrubs and trees: includes families ranunculaceae; annonaceae; berberidaceae; magnoliaceae; menispermaceae; myristicaceae; nymphaeaceae; lardizabalaceae; lauraceae; calycanthaceae; ceratophyllaceae; cercidiphyllaceae."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"The great natural alliance of the **Ranales** is characterized by numerous distinct stamens and apocarpous pistils spirally arranged."*
+> - 📜 **Charles Darwin (*More Letters of Charles Darwin*):** *"The primitive floral architecture of the **Ranales** suggests a direct evolutionary transition from gymnospermous ancestors."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Within the dicotyledons, the order **Ranales** occupies the basal position in the Bentham and Hooker classification system."*

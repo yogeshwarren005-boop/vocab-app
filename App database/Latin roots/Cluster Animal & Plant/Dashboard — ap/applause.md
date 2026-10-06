@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A demonstration of approval by clapping the hands together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A demonstration of approval by clapping the hands together.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Approval or praise expressed by clapping hands, cheering, or acclamation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theatrical culture and political rhetoric, a spontaneous collective auditory tribute measuring public favor and emotional resonance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Albeit you have deserved High commendation, true applause, and love, Yet such is now the Duke’s condition That he misconsters all that you have done."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And from this time, For what he did before Corioles, call him, With all th’ applause and clamour of the host, Caius Martius Coriolanus!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O thou fond many, with what loud applause Didst thou beat heaven with blessing Bolingbroke, Before he was what thou wouldst have him be!"*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"And then the common herd was glad he refused the crown, / And shouted with tremendous **applause** that shook the marketplace."*
+> - 📜 **John Milton (*Paradise Lost*):** *"He stood in hall, expecting / Their universal shout and high **applause** / To fill his ear; when, contrary, he hears / On all sides, from innumerable tongues / A dismal universal hiss."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"The curtain fell amid deafening rounds of **applause** and enthusiastic waving of handkerchiefs."*

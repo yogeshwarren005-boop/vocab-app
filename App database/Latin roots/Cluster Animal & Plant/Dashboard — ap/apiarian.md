@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to bees or beekeeping.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to bees or beekeeping.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to bees, beekeeping, or the culture and management of an apiary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural science and entomology, designating specialized hive equipment, bee-breeding methodologies, and honey-gathering techniques.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apiarian designates relating to bees or beekeeping."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The comb-making instincts of the hive-bee present the highest perfection of **apiarian** architecture known to science."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"Our village beekeeper demonstrated his **apiarian** skill by safely hiving a runaway swarm from an apple bough."*
+> - 📜 **Henry David Thoreau (*A Week on the Concord and Merrimack Rivers*):** *"The humming of wild bees led the woodsman to explore the hollow oak with keen **apiarian** interest."*

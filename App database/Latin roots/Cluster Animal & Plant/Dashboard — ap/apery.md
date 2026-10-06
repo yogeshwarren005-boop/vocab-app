@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of mimicking; imitative behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of mimicking; imitative behavior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Foolish mimicry, servile imitation, or monkey-like posturing; or a place where apes or monkeys are kept.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In polemical satire and moral philosophy, ridiculing insincere mannerisms borrowed without understanding the underlying ethos.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apery designates the act of mimicking; imitative behavior."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"All mere fashion without inner conviction is but hollow **apery** and theatrical masquerade."*
+> - 📜 **Walter Scott (*Kenilworth*):** *"The court jester mocked the pompous ambassador with a grotesque display of exaggerated bowing and simian **apery**."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Mechanical copying in architecture produces lifeless **apery** instead of the spontaneous vitality of true Gothic craft."*

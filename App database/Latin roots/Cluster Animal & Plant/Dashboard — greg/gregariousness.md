@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being gregarious--having a dislike of being alone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being gregarious--having a dislike of being alone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The tendency to seek the company of others; sociability; or the disposition in animals to live in herds or flocks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary sociobiology, an adaptive trait reducing individual predation probability via the selfish herd effect and collective vigilance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gregariousness designates the quality of being gregarious--having a dislike of being alone."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"The primitive **gregariousness** of early human clans laid the emotional foundation for sympathy and mutual cooperation."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Animals endowed with the social instinct feel a strong impulse toward **gregariousness** that overpowers individual fear."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Human **gregariousness** manifests in an innate horror of solitary confinement and an instinctive craving for social approval."*

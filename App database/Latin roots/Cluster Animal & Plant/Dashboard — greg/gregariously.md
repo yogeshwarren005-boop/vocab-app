@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a gregarious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a gregarious manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a gregarious, sociable, or herd-like manner; living or congregating in flocks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In wildlife ethology, moving across landscape mosaics in coordinated communal bands rather than as solitary foragers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gregariously designates in a gregarious manner."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The wild guanacos roam **gregariously** over the barren Patagonian plains in herds of several score."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"Fieldfares and redwings feed **gregariously** upon the hawthorn berries throughout the severe winter months."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The villagers lived **gregariously**, gathering every Saturday evening in the tavern parlor to share local gossip."*

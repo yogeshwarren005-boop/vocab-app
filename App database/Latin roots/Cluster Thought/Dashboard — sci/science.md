@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The systematic study of the structure and behavior of the physical and natural world through observation and experiment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemological philosophy, organized rational knowledge based upon empirical demonstration and reproducible natural laws.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The systematic study of the structure and behavior of the physical and natural world through observation, experimentation, and testing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemology and methodology, an organized body of verified knowledge governed by empirical evidence, reproducible experimentation, and logical deduction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The true goal of **science** is nothing other than the endowment of human life with new discoveries and powers."*
-> - 📜 **Isaac Newton (*Opticks*):** *"Natural philosophy and experimental **science** must proceed from the phenomena without feigning hypotheses."*
-> - 📜 **Charles Darwin (*The Origin of Species*):** *"A grand and almost untrodden field of inquiry will be opened to the investigations of natural **science**."*
+> - 📜 **William Shakespeare (*All's Well That Ends Well*):** *"Plutus himself, That knows the tinct and multiplying medicine, Hath not in nature's mystery more **science** Than I have in this art."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Experimental **science** advances not by dogmatic scholastic assertions, but by cautious observation of natural phenomena."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"No one who has not examined into the subject can form an idea of the vast progress which **science** has achieved."*

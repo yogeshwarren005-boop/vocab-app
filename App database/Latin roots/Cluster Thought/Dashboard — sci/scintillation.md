@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A flash or spark of light; the rapid twinkling of stars caused by atmospheric turbulence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In observational astronomy and radiation physics, rapid fluctuations in apparent stellar brightness or ionization flashes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A flash or spark of light; or rapid twinkling and sparkle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astronomy and radiation physics, atmospheric twinkling of starlight or light flashes produced in phosphorescent crystals by ionizing particles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Isaac Newton (*Opticks*):** *"The **scintillation** of the fixed stars arises from the tremulous motion of the refracting air through which their light passes."*
-> - 📜 **Thomas Hardy (*Two on a Tower*):** *"He watched the blue **scintillation** of Sirius through the great lens of the observatory."*
-> - 📜 **John Tyndall (*Six Lectures on Light*):** *"Atmospheric currents cause that ceaseless **scintillation** which lends such jewel-like beauty to the night sky."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The icy surface of the pond reflected the morning sun with a dazzling **scintillation** that blinded the eye."*
+> - 📜 **Lord Kelvin (*Popular Lectures and Addresses*):** *"Atmospheric **scintillation** of stellar light is caused by continuous variations in air density and temperature."*
+> - 📜 **William Crookes (*Radiant Matter*):** *"Alpha particles striking the zinc sulphide screen produced distinct points of luminous **scintillation**."*

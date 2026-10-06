@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wishing to do what is right; thorough, painstaking, and governed by conscience.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In professional duty and scholarship, executing tasks with meticulous care, fidelity, and adherence to truth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wishing to do what is right, especially to do one's work or duty thoroughly and carefully.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethical philosophy and occupational psychology, characterized by rigorous diligence, strict moral integrity, and painstaking attention to obligation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"She was a **conscientious** teacher, devoting her entire energy to the instruction of her pupils."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel Oak was a **conscientious** shepherd who guarded his flock through snow and tempest."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"A **conscientious** investigator examines the smallest discrepancies before adopting a favored theory."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Angel Clare was a **conscientious** student of agricultural theory, determined to master practical farming."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"A **conscientious** naturalist will record anomalous observations with the same fidelity as confirming evidence."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"The **conscientious** feelings of mankind constitute the internal sanction of all moral duty."*

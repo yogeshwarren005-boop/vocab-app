@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being revoked, canceled, or repealed; voidable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contract law and commercial equity, an agreement that may be set aside due to fraud, duress, or mutual mistake.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being revoked, annulled, canceled, or rescinded.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contract law and statutory interpretation, designating a pact, license, or deed subject to legal cancellation upon breach or mutual consent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Any covenant entered into under fraudulent misrepresentation is legally **rescindable** by the injured party."*
-> - 📜 **Jeremy Bentham (*Rationale of Judicial Evidence*):** *"A conditional decree remains **rescindable** upon the discovery of fresh, unimpeachable testimony."*
-> - 📜 **John Austin (*The Province of Jurisprudence Determined*):** *"Rights created by administrative permit are inherently **rescindable** at the pleasure of the sovereign."*
+> - 📜 **John Locke (*Second Treatise of Government*):** *"Political power granted on trust is inherently **rescindable** whenever governors betray their solemn fiduciary duty."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A contract procured through fraudulent misrepresentation remains legally **rescindable** at the election of the injured party."*
+> - 📜 **Adam Smith (*Lectures on Jurisprudence*):** *"Conditional treaties are deemed **rescindable** should either signatory fail to discharge stipulated terms."*

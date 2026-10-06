@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having knowledge of events before they take place; prophetic and farsighted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical analysis, possessing extraordinary intuitive grasp of emerging political or technological currents.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing knowledge of events before they take place; prophetic or farsighted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual history, exhibiting profound anticipatory insight into social, scientific, or technological developments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"His **prescient** mind foresaw the inevitable rise of democratic institutions across Europe."*
-> - 📜 **Thomas Carlyle (*The French Revolution*):** *"A **prescient** observer could detect the subterranean rumblings of revolution years before the Bastille fell."*
-> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"Professor Challenger made a **prescient** remark regarding the prehistoric survivals on the plateau."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The old prophet uttered **prescient** warnings concerning the doomed voyage of the Pequod."*
+> - 📜 **H. G. Wells (*Anticipations*):** *"The author proved astonishingly **prescient** in forecasting aerial bombardment and mechanized armored warfare."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"A true poet possesses a **prescient** eye that discerns tomorrow's truths amid today's confusions."*

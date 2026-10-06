@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To emit flashes of light; to sparkle, glitter, or twinkle; also to be brilliantly lively or witty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In conversational society and physics, flashing rapid intermittent points of light or verbal wit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To emit flashes of light; sparkle; or to be brilliantly lively, witty, or animated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astrophysics and social rhetoric, to twinkle rapidly due to atmospheric turbulence, or to dazzle an audience with sparkling intellectual wit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"The dimmest-sparked chip of a conception blazes and **scintillates** in his incandescent imagination."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Striking scenes and freshets of brilliant dialogue **scintillate** throughout the opening acts."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Moscow lay stretched at his feet, with her golden domes and crosses that seem to **scintillate** in the noon sun."*
+> - 📜 **William Herschel (*Philosophical Transactions*):** *"Distant fixed stars appear to **scintillate** vigorously through turbulent layers of the earth's atmosphere."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Her conversation seemed to **scintillate** with effortless epigrams, captivating every listener in the salon."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The uncut diamonds seemed to **scintillate** with cold blue fire upon the velvet cloth."*

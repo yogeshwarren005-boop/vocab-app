@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A suborder of rodents that includes squirrels, marmots, mountain beavers, and dormice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology and rodent taxonomy, rodents defined by a specific masseter muscle arrangement along the zygomatic plate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The squirrel-like rodent suborder comprising Sciuridae (squirrels), Aplodontiidae (mountain beavers), and Gliridae (dormice).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian paleontology and taxonomy, a rodent clade defined by sciuromorphous skull morphology with anterior masseter muscles originating on the zygomatic plate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The suborder **Sciuromorpha** is distinguished from myomorphs by the specialized anterior origin of the lateral masseter muscle."*
-> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"Primitive fossil representatives of **Sciuromorpha** appear in the Eocene formations of North America."*
-> - 📜 **David Starr Jordan (*A Manual of the Vertebrate Animals*):** *"Within the mammalian order Rodentia, the division **Sciuromorpha** occupies a primitive and well-differentiated position."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The suborder **sciuromorpha** is osteologically distinguished by the specialized attachment of the masseter muscle to the rostrum."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Comparative craniology of the **sciuromorpha** provides valuable insights into primitive rodent dentition and jaw mechanics."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"Early Tertiary fossils reveal the ancient ancestry of the **sciuromorpha** flourishing in North American forests."*

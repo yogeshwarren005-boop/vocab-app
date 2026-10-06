@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a deeply forked tail resembling open scissors, as in certain birds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithological field identification, applied to flycatchers and kites displaying long, bifurcated rectrices used in aerial turns.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a deeply forked, elongated tail resembling a pair of open scissors (especially birds).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, designating avian species (such as the scissor-tailed flycatcher, Tyrannus forficatus) with bifurcated caudal plumage aiding aerial maneuvers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John James Audubon (*Ornithological Biography*):** *"The **scissor-tailed** flycatcher perches gracefully upon the thorny mesquite of the Texas prairies."*
-> - 📜 **Theodore Roosevelt (*Hunting Trips of a Ranchman*):** *"A pair of **scissor-tailed** birds swept overhead in pursuit of dragonflies, their long plumes opening and shutting."*
-> - 📜 **Elliott Coues (*Key to North American Birds*):** *"The **scissor-tailed** flycatcher is among the most elegant and agile avian hunters of the southern plains."*
+> - 📜 **John Burroughs (*Birds and Poets*):** *"The magnificent **scissor-tailed** flycatcher executed breathtaking aerial somersaults while pursuing dragonflies across the open prairie."*
+> - 📜 **Theodore Roosevelt (*Outdoor Pastimes of an American Hunter*):** *"On the Texas plains, the striking **scissor-tailed** flycatcher perched gracefully on the mesquite bushes."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"The elegant **scissor-tailed** bird opens and closes its long bifurcated tail with exquisite grace during courtship flight."*

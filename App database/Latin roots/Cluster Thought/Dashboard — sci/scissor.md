@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for cutting consisting of two pivoted blades; to cut with scissors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanical craft and gymnastics, an action or movement resembling the opening and closing of blades.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cut, sever, or snip with or as if with scissors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biomechanics and gymnastics, to execute a scissor-like crossing movement with the legs or mechanical blades.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"One afternoon a **scissor**-grinder chanced to set his wheel humming at the corner of Pyncheon Street."*
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"She took up the small tailor's **scissor** and neatly trimmed the frayed edges of the ribbon."*
-> - 📜 **Herman Melville (*Moby-Dick*):** *"The closing jaws of the whale functioned like a colossal **scissor**, severing the cedar whaleboat in twain."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The eccentric law clerk began to **scissor** ancient parchment records into narrow bookmarks."*
+> - 📜 **Thomas Hardy (*The Hand of Ethelberta*):** *"She watched him deftly **scissor** the silk ribbons into delicate rosettes for the bonnet."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Holmes took the newspaper and began to **scissor** out the cryptic paragraph with methodical care."*

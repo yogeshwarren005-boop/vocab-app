@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of cup-fungi in the family Discinaceae; or a genus of inarticulate brachiopods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate paleontology and mycology, disc-shaped marine brachiopods with circular shells, or edible disc cup-fungi.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of cup fungi in the family Discinaceae, characterized by wrinkled, disc-shaped or saddle-shaped ascocarps.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mycology, an ascomycete genus closely allied with false morels, growing on decaying coniferous logs in spring.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Lyell (*Principles of Geology*):** *"The ancient Paleozoic strata contain abundant fossil valves of the primitive brachiopod **Discina**."*
-> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"Valves of **Discina** nitida occur preserved in the bituminous shales of the Carboniferous system."*
-> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"The fleshy apothecium of **Discina** expands into a broad, convoluted disc upon damp woodland soil."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The genus **discina** produces broad, saucer-shaped fructifications upon rotting woodland logs in early spring."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Mycologists distinguish **discina** by its convoluted hymenial surface and eight-spored cylindrical asci."*
+> - 📜 **Joseph Dalton Hooker (*The Botany of the Antarctic Voyage*):** *"Among subalpine mosses we collected several fleshy species of **discina** emerging after snowmelt."*

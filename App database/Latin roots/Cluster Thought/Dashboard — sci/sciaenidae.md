@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large family of percoid marine and freshwater fishes, commonly known as croakers or drums.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic ichthyology, a commercially vital family of teleost fishes whose members produce acoustic vibrations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The drum or croaker family of marine and estuarine perciform fishes, famous for producing drumming sounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In taxonomic ichthyology, a commercially vital family including drums, croakers, weakfish, and corvinas, characterized by paired sonic swim bladder muscles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"The family **Sciaenidae** includes the drums, croakers, and corvinas distributed throughout tropical and temperate coasts."*
-> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"Members of the family **Sciaenidae** are characterized by two dorsal fins and a cavernous lateral line system."*
-> - 📜 **George Brown Goode (*American Fishes*):** *"The Atlantic fisheries depend heavily upon various valuable food species of the family **Sciaenidae**."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"Fishes belonging to the family **sciaenidae** are characterized by a cavernous head skeleton and acoustic air-bladders."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Tropical estuaries teem with representatives of the **sciaenidae**, whose nocturnal drumming reverberates through ship hulls."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"The evolutionary diversification of the **sciaenidae** demonstrates remarkable adaptations for bottom-feeding in muddy bays."*

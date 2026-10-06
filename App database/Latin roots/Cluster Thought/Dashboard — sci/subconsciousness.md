@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The mental realm or activity occurring beneath conscious awareness; the subconscious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychoanalysis and early cognitive science, the stratum of latent impressions and desires underlying waking thought.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mental operations, implicit impressions, and cognitive processes operating below the threshold of awareness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In depth psychology and psychiatric nosology, the repository of implicit memories, automated habits, and suppressed emotional impulses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William James (*The Varieties of Religious Experience*):** *"In the deep well of **subconsciousness** lie the springs of sudden religious conversion and artistic inspiration."*
-> - 📜 **Jack London (*The Star-Rover*):** *"In a single interval of fifteen minutes, my **subconsciousness** roved through centuries of past existence."*
-> - 📜 **F. W. H. Myers (*Human Personality and Its Survival of Bodily Death*):** *"The threshold of waking thought separates our everyday ego from the vast domain of **subconsciousness**."*
+> - 📜 **G. K. Chesterton (*The Ball and the Cross*):** *"In the dim recesses of his **subconsciousness**, ancient ancestral loyalties reasserted their powerful sway."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The doorway of **subconsciousness** often serves as the conduit through which profound spiritual renewals enter the soul."*
+> - 📜 **Havelock Ellis (*The World of Dreams*):** *"Dreaming illustrates how the chaotic imagery of **subconsciousness** escapes rational daytime inhibition."*

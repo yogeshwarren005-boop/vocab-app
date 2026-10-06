@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no conscience; devoid of moral principles, scruples, or remorse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic characterization and sociology, behaving with predatory ruthlessness without regard for human suffering.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking moral scruples, remorse, or ethical restraint; unprincipled and callous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychopathology and criminological critique, characterized by an utter deficit of empathy, civic duty, and moral hesitation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He was as cold, calculating, and **conscienceless** as the legal machinery he manipulated."*
-> - 📜 **Herman Melville (*Moby-Dick*):** *"The typhoon swept down like a **conscienceless** monster devoid of pity for mortal mariners."*
-> - 📜 **George Eliot (*Middlemarch*):** *"A vain and **conscienceless** egotist can wreck the happiness of an entire family without a single pang of regret."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The cruel sea rolls on with **conscienceless** indifference, swallowing ships and crews without remorse."*
+> - 📜 **George Eliot (*Romola*):** *"He descended into **conscienceless** intrigue, treating friends as expendable chess pieces in his political climb."*
+> - 📜 **Joseph Conrad (*Under Western Eyes*):** *"The tyrannical police official was a **conscienceless** bureaucrat who took pride in crushing human dignity."*

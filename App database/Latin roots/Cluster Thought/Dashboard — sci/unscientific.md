@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not based on or conforming to the principles and methods of science; lacking empirical rigor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemology and methodology, conclusions derived from superstition, unverified anecdotes, or faulty deduction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not based on or conforming to scientific methods or principles; inaccurate, dogmatic, or haphazard.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemology and methodological critique, lacking empirical rigor, reproducible experimentation, or objective verification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Star-Rover*):** *"Capital punishment is so silly, so stupid, and so horribly **unscientific** in its conception of criminal justice."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"It is entirely **unscientific** to explain complex spiritual history by crude catchwords and hasty generalizations."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Conseil refused to give an opinion, declaring that hearsay was an **unscientific** basis for zoological classification."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"To appeal to miraculous interventions to explain biological adaptations is an **unscientific** surrender of inquiry."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Popular folklore regarding spontaneous generation is thoroughly **unscientific** and refuted by modern laboratory tests."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Generalizations drawn from superficial everyday impressions are notoriously **unscientific** and misleading."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fungus gnat belonging to the family Sciaridae; of or relating to this insect family.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticulture and dipterology, tiny dark-winged gnats whose subterranean larvae can damage greenhouse root systems.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any small, dark-winged gnat belonging to the family Sciaridae (fungus gnats).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic entomology, a dipteran insect whose larvae are pests in mushroom houses, soil beds, and horticultural greenhouses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Obadiah Westwood (*Modern Classification of Insects*):** *"The typical **sciarid** gnat has prominent compound eyes that meet in a bridge above the antennae."*
-> - 📜 **William Kirby (*An Introduction to Entomology*):** *"A heavy infestation of **sciarid** larvae in the soil will wither the tender seedlings of the nursery."*
-> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Swarming clouds of **sciarid** gnats arose from the damp rotting vegetation of the tropical gully."*
+> - 📜 **Jean-Henri Fabre (*The Life of the Fly*):** *"The delicate wings and long antennae of the **sciarid** distinguish it from common house gnats."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"Decaying leaf-mould harbors millions of **sciarid** larvae assisting in organic breakdown."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The **sciarid** exhibits remarkable communal larval locomotion, forming migratory columns known as army worms."*

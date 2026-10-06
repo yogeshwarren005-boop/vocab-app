@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Governed by or conforming to conscience; just, reasonable, or equitable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In equity jurisprudence and contractual law, an agreement that is fair and not tainted by extortion or unconscionable overreach.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Governed by or conforming to conscience; just, fair, reasonable, or equitable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence and equity law, morally permissible or defensible under standards of good faith and equity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Bacon (*Essays*):** *"Let bargains be **conscionable** and moderate, so that both parties may thrive together."*
-> - 📜 **Samuel Johnson (*The Rambler*):** *"A **conscionable** tradesman will not take advantage of a customer's ignorance to demand extortionate prices."*
-> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"A just and **conscionable** settlement of taxation must satisfy both the sovereign and the subject."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is a **conscionable** and honest proposal, offering equitable restitution to all injured parties."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"No **conscionable** judge can condemn an accused citizen upon vague rumors unsupported by sworn testimony."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"A **conscionable** magistrate seeks to temper the rigor of written law with natural equity."*

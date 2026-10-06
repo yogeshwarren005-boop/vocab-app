@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who pretends to be knowledgeable and displays superficial learning; a smatterer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In polemical criticism and philosophy, a superficial dabbler who pontificates authoritatively on topics beyond his depth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who has only superficial knowledge of a subject, yet pretends to be an expert.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scholarly critique, a shallow dabbler who parades second-hand information as profound understanding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"A mere **sciolist** will always dispute dogmatically upon subjects that true scholars approach with reverence."*
-> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The vain **sciolist** catches at empty words while the wise investigator searches out the nature of things."*
-> - 📜 **Jonathan Swift (*A Tale of a Tub*):** *"Every modern coffee-house **sciolist** imagines himself capable of reforming the church and commonwealth."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"The conceited **sciolist** catches up a few technical terms and imagines himself qualified to judge masters of art."*
+> - 📜 **William Hazlitt (*Table-Talk*):** *"Nothing is more intolerable than a literary **sciolist** delivering dogmatic verdicts upon authors he has never read."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The pompous **sciolist** was completely exposed as soon as the debate turned toward primary Greek texts."*

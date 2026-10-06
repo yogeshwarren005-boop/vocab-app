@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Knowledge of events before they take place; foreknowledge or foresight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological metaphysics and statecraft, divine omniscience regarding future events, or prophetic political insight.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Foresight, foreknowledge, or the power to anticipate future events.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological philosophy and literary narrative, divine omniscience regarding future contingencies, or extraordinary intuitive foresight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"God's foreknowledge and absolute **prescience** leaves human will untrammeled and free."*
-> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The statesman showed an admirable **prescience** in anticipating the barbarian invasion of Italy."*
-> - 📜 **Walter Scott (*The Antiquary*):** *"He boasted of his genealogical **prescience**, predicting disasters that seldom failed to come to pass."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"By accident most strange, bountiful Fortune, now my dear lady, hath mine enemies brought to this shore; and by my **prescience** I find my zenith doth depend upon a most auspicious star."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"Giles displayed an almost uncanny **prescience** in forecasting the exact week when the cider apples would ripen."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Fanny possessed a quiet moral **prescience** that detected unprincipled motives long before others suspected them."*

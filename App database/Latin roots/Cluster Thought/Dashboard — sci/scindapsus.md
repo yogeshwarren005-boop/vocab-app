@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of climbing evergreen vines in the arum family (Araceae), native to Southeast Asia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tropical botany and horticulture, ornamental root-climbing lianas with variegated foliage and calcium oxalate crystals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of climbing evergreen vines in the arum family (Araceae), native to Southeast Asia, widely cultivated as house foliage plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tropical horticulture and systematic botany, an aroid root-climbing liana displaying variegated leathery leaves and spadix inflorescences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"The high canopy of the Assamese jungle is laced with gigantic stems of climbing **Scindapsus**."*
-> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Lush festoons of **Scindapsus** clothed the trunks of towering dipterocarps in evergreen splendor."*
-> - 📜 **George Bentham (*Genera Plantarum*):** *"The spadix of **Scindapsus** is densely covered with hermaphrodite flowers lacking a perianth."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Species of **scindapsus** ascend towering jungle trees by means of adventitious aerial clinging roots."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"In the moist rainforests of Assam, **scindapsus** officinalis festoons tree trunks with luxuriant glossy foliage."*
+> - 📜 **Asa Gray (*Field, Forest, and Garden Botany*):** *"Indoor conservatories prize **scindapsus** for its marbled foliage and remarkable tolerance of dim light."*

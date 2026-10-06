@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A long, narrow cut, opening, or split; a fissure, cleft, or rupture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomical dissection and geomorphology, a longitudinal cleft in bone, tissue, or rock strata.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cut, cleft, fissure, or longitudinal opening.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geological petrology and anatomical morphology, a natural structural split, fissure, or cleavage plane within rock strata or anatomical organs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The anatomical **scissure** in the cranium closes gradually as the cranial sutures unite during childhood."*
-> - 📜 **Charles Lyell (*Principles of Geology*):** *"The earthquake opened a deep **scissure** across the hillside, swallowing whole vineyards in its chasm."*
-> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"Bark that suffers a deep vertical **scissure** during the winter freeze exudes resin when the spring thaw begins."*
+> - 📜 **Charles Darwin (*Geological Observations on South America*):** *"The earthquake had opened a deep **scissure** in the granite bedrock, yawning several feet across the mountain ridge."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Subterranean volcanic tremors produced a continuous **scissure** along the coastline, admitting sea water into thermal fissures."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"A longitudinal **scissure** divides the median cerebral hemispheres along their superior surface."*

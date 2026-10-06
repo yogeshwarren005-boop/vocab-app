@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of aquatic perennial herbs in the sedge family (Cyperaceae), known as bulrushes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In wetland ecology and botanical systematics, rhizomatous marsh plants forming dense stands along shores and marshes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of aquatic sedges in the family Cyperaceae, commonly known as bulrushes or club-rushes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In wetland ecology and systematic monocot botany, rhizomatous marsh plants forming dense stands that stabilize riverbanks and filter aquatic runoff.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The genus **Scirpus** includes the great river bulrushes with triangular stems and terminal clusters of spikelets."*
-> - 📜 **Henry David Thoreau (*Walden*):** *"Along the muddy cove grew tall ranks of **Scirpus** and pickerel-weed, rustling in the summer breeze."*
-> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Species of **Scirpus** provide durable fiber for weaving coarse mats among coastal fisherfolk."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Dense clumps of **scirpus** fringed the shallows of the cove, sheltering waterfowl from autumn gales."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The tall stems of **scirpus** lacustris rise several feet above the water, bearing terminal clusters of spikelets."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Marshy borders along the river were thickly overgrown with reeds and towering culms of **scirpus**."*

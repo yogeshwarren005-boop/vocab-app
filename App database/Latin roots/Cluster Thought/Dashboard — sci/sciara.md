@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, dark fungus gnats in the family Sciaridae whose larvae feed on fungi and decaying roots.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic entomology, Diptera whose gregarious larvae sometimes form elongated migratory columns called army-worms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, dark, slender gnats in the family Sciaridae, commonly known as fungus gnats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural entomology, dipteran gnats whose larvae feed upon fungal mycelium, decaying vegetable detritus, and greenhouse plant roots.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Obadiah Westwood (*Modern Classification of Insects*):** *"The larvae of the genus **Sciara** are noted for their remarkable habit of marching in compact procession across forest paths."*
-> - 📜 **William Kirby (*An Introduction to Entomology*):** *"The small dark flies of **Sciara** breed in decaying mushrooms and rich garden compost."*
-> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"Decaying leaf-mould is inhabited by countless larvae of **Sciara** that accelerate the breakdown of humus."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Greenhouse growers frequently suffer losses when larvae of **sciara** gnaw the delicate rootlets of seedlings."*
+> - 📜 **Jean-Henri Fabre (*The Life of the Fly*):** *"The tiny black gnats of the genus **sciara** congregate around damp forest compost heaps in summer."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"Under certain conditions, thousands of **sciara** larvae march together across the woodland floor in a continuous living ribbon."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tiny trace or spark of a specified quality or feeling; an iota or microscopic shred.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence and forensic reasoning, the minimum quantum of evidence required to keep an action from summary dismissal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tiny trace, spark, or speck of a specified quality or feeling; an iota.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence and evidentiary procedure, the minimum quantum of proof required to prevent a directed verdict (scintilla of evidence).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"There was not a **scintilla** of evidence to support the preposterous claim brought before the court."*
-> - 📜 **Edgar Allan Poe (*The Murders in the Rue Morgue*):** *"The prefect failed because he overlooked that minute **scintilla** of fact which pointed to the true perpetrator."*
-> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Not a **scintilla** of doubt remained in my mind after Holmes examined the footprint."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The court ruled that there was not a **scintilla** of credible evidence to sustain the charge against the defendant."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"She listened intently, hoping to discover some faint **scintilla** of tenderness beneath his icy reserve."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The historian searched the archives in vain for a single **scintilla** of truth supporting the rumor."*

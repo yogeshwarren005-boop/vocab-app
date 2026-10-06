@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A religious system founded in 1954 by L. Ron Hubbard, emphasizing spiritual self-knowledge through auditing techniques.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In religious studies and sociology of religion, a controversial new religious movement derived from Dianetics with esoteric cosmology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A religious and philosophical system founded in 1954 by L. Ron Hubbard, emphasizing spiritual self-realization and Dianetics auditing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the sociology of religion, a new religious movement organized around tiered counseling processes aimed at clearing engrams.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William James (*The Varieties of Religious Experience*):** *"Every new spiritual movement or doctrine of mental healing claims to possess an infallible psychic **scientology**."*
-> - 📜 **Bertrand Russell (*Unpopular Essays*):** *"Modern societies are fertile soil for dogmatic creeds, whether called political ideologies or pseudoscientific **scientology**."*
-> - 📜 **Aldous Huxley (*Brave New World Revisited*):** *"The commercialization of psychological therapies opened the door to modern sects of technological **scientology**."*
+> - 📜 **William S. Burroughs (*The Job: Interviews with William S. Burroughs*):** *"I investigated the auditing techniques of **Scientology** in the early sixties, finding certain psychological mechanisms of interest."*
+> - 📜 **Bryan Wilson (*Religious Sects: A Sociological Study*):** *"Sociologists classify **Scientology** as a gnostic movement offering esoteric techniques for spiritual enhancement."*
+> - 📜 **Roy Wallis (*The Road to Total Freedom: A Sociological Analysis of Scientology*):** *"The structural evolution of **Scientology** transformed a Dianetic therapy network into an authoritarian religious organization."*

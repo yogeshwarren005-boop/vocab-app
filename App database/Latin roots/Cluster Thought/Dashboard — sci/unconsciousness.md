@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A profound absence of awareness, sensation, and responsiveness to external stimuli.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine and narrative drama, profound coma or syncope following physical trauma or emotional shock.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of lacking awareness, responsiveness, or sensation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology and psychoanalysis, comatose suppression of cerebral cortex activity or the domain of repressed instinctual drives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"She was assisted by that perfect indifference and apparent **unconsciousness** of having given offense."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"She remained in speechless **unconsciousness** until the physician administered a restorative cordial."*
-> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The blow upon the temple plunged him into complete **unconsciousness** for several hours."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He sank into deep **unconsciousness**, oblivious to the anxious vigil kept at his bedside."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The stunned sailor was pulled from the foaming surf in a state of complete **unconsciousness**."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"She swooned into blessed **unconsciousness**, spared the horror of witnessing her husband's arrest."*

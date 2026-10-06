@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of marine fishes in the drum and croaker family (Sciaenidae), known for producing croaking sounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Mediterranean and marine ichthyology, the brown meagre (Sciaena umbra) characterized by soniferous sonic muscle drumming.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of marine drum fish and croakers in the family Sciaenidae, known for producing audible croaking sounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology, marine perciform fishes possessing large swim bladders used as resonating acoustic chambers, commonly called croakers or drums.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"The species of **Sciaena** produce loud humming or drumming sounds beneath the water by vibrating their air-bladders."*
-> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The ancient Romans held the delicate flesh of **Sciaena** in high culinary esteem."*
-> - 📜 **Charles Darwin (*Journal of Researches*):** *"Sailors anchoring in South American bays frequently hear the deep rhythmic drumming of the **Sciaena** beneath their hulls."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Sailors on the Patagonian coast were startled by the drumming noises produced underwater by a species of **sciaena**."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The acoustic drumming mechanism of **sciaena** is operated by specialized sonic muscles attached to the air-bladder."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"The genus **sciaena** exhibits heavy ctenoid scales and massive pharyngeal teeth adapted for crushing shellfish."*

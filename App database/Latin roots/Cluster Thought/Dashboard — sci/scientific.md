@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on or characterized by the methods and principles of science; systematic and empirical.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern historiography and epistemology, rigorous investigation grounded in hypothesis testing, mathematical modeling, and empirical verification.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on or characterized by the methods and principles of science; systematic, empirical, and rigorous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemological philosophy, adhering to methodical experimentation, falsifiability, and rational consensus rather than dogmatic speculation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Darwin (*The Descent of Man*):** *"The only **scientific** method of tracing human origins is through comparative anatomy and embryology."*
-> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The **scientific** spirit demands fearless dedication to demonstrable truth wherever it may lead."*
-> - 📜 **William James (*The Principles of Psychology*):** *"A truly **scientific** psychology must anchor itself firmly in physiological facts."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"A truly **scientific** mind welcomes objections and seeks every opportunity to submit hypotheses to severe tests."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The **scientific** method of induction proceeds from observed particular facts to general universal laws."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate possessed a genuinely **scientific** enthusiasm, dreaming of great biological discoveries."*

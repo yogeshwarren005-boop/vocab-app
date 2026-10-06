@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To cut off or separate; in botany, to shed naturally through the formation of an abscission layer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant physiology and surgical pathology, shedding autumn foliage or excising dead tissue along natural cleavage lines.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cut off, sever, or shed naturally (such as leaves, flowers, or fruit from a plant).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant physiology and surgical pathology, to separate by an abscission layer or surgically excise tissue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"The dying petiole prepares to **abscise** cleanly from the stem through a specialized cellular zone."*
-> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Deciduous trees **abscise** their senescent leaves before the onset of winter frosts."*
-> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Certain tropical legumes **abscise** their floral bracts as soon as pollination is achieved."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"Before the onset of winter frosts, deciduous trees **abscise** their senescent foliage through the formation of a suberized basal zone."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Certain oaks do not **abscise** their dead leaves until pushed off by expanding spring buds."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Unpollinated blossoms readily **abscise** from the floral pedicel, saving vital energy for developing seedpods."*

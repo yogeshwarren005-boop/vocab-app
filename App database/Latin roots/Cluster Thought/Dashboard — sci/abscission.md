@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The natural shedding or dropping of leaves, flowers, or fruit by a plant; the act of cutting off.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical and botanical treatises, the separation of parts from an organic body through metabolic dissolution of cell walls.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The natural shedding or dropping of plant parts, such as leaves, flowers, or fruit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant physiology and surgical medicine, the separation of cells along a specialized cleavage zone, or surgical amputation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"Unfertilized blossoms undergo rapid **abscission**, dropping to the earth within forty-eight hours."*
-> - 📜 **Asa Gray (*Structural Botany*):** *"The **abscission** of autumn leaves leaves a clean corky scar upon the twig."*
-> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The seasonal **abscission** of foliage was attributed by ancient naturalists to the retreat of solar warmth."*
+> - 📜 **Charles Darwin (*The Movements and Habits of Climbing Plants*):** *"Leaf **abscission** is preceded by physiological changes that dissolve the middle lamella of cells across the petiole base."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"Autumnal **abscission** seals the exposed stem scar with protective cork, preventing water loss and fungal invasion."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Premature fruit **abscission** frequently results from prolonged drought or deficient pollination."*

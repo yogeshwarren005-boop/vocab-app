@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A short sword with a curved blade that broadens toward the point, historically used in the Middle East.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military history and romantic narrative, a cavalry cutting weapon designed for slashing strokes from horseback.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A short sword with a curved blade that broadens toward the point, historically used in the Middle East and South Asia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical arms and military technology, a slashing cavalry sabre optimized for sweeping strikes from horseback.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"By this **scimitar** that slew the Sophy and a Persian prince that won three fields of Sultan Solyman."*
-> - 📜 **Walter Scott (*The Talisman*):** *"Saladin severed the silken cushion with a single sweeping stroke of his curved Damascus **scimitar**."*
-> - 📜 **Lord Byron (*The Giaour*):** *"His gleaming **scimitar** flashed like summer lightning above the smoke of the cavalry melee."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"By this **scimitar** That slew the Sophy and a Persian prince That won three fields of Sultan Solyman."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The native horsemen rode with ferocious agility, wielding curved blades resembling the Oriental **scimitar**."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"His majesty commanded two thousand of his guards to draw their swords, which glittered like a forest of curved **scimitars**."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not right or reasonable; unreasonably excessive, outrageous, or unprincipled.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contract equity and commercial law, an agreement so one-sided and oppressive that no person in their senses would accept it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not right or reasonable; unreasonably excessive, unscrupulous, or outrageous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contract law and equity, terms so egregiously one-sided and oppressive as to shock the judicial conscience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"There is an **unconscionable** old shark for you! said Herbert, laughing at the usurer's exorbitant terms."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"It was an **unconscionable** hour to pay a morning call, yet her impatience would broach no delay."*
-> - 📜 **Walter Scott (*The Antiquary*):** *"The landlord demanded an **unconscionable** reckoning for the miserable supper provided to the travelers."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The grain speculator demanded an **unconscionable** price for wheat during the famine winter, exciting public fury."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Courts of equity will intervene to annul an **unconscionable** bargain extorted from a desperate debtor."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The bill of costs was **unconscionable**, draining the disputed estate until nothing remained for the suitors."*

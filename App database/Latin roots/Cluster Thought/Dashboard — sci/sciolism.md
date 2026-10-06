@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A superficial or shallow show of learning; pretended erudition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual history and academic satire, conceited half-knowledge that parades specialized jargon without grasping principles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Superficial knowledge, or the practice of displaying superficial knowledge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual and philosophical criticism, pretentious pedantry masking an utter absence of genuine erudition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"When was **sciolism** ever dissociated from laxity and self-complacent arrogance?"*
-> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The cheap **sciolism** of our age mistakes the headlines of cyclopedias for profound philosophical inquiry."*
-> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"From dogmatic **sciolism** and pedantic triviality, good Lord deliver this generation!"*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon mistook his barren, archaic **sciolism** for deep mythological scholarship."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The world is plagued by noisy **sciolism**, where half-educated sophists lecture upon mysteries they cannot grasp."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The critic's review was a display of arrogant **sciolism**, condemning poems he had not taken the trouble to understand."*

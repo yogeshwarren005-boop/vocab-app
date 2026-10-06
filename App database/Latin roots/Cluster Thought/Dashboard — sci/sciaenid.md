@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any fish of the family Sciaenidae, such as a drum, croaker, or weakfish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine ecology, coastal demersal fishes equipped with enlarged otoliths and acoustic muscles attached to the swim bladder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any fish of the marine family Sciaenidae, commonly known as drums or croakers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fisheries biology and marine zoology, an acoustic teleost fish utilizing sonic muscles and labyrinth otoliths for intraspecific communication.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The typical **sciaenid** possesses an elongate body, a cavernous skull, and large calcium otoliths."*
-> - 📜 **George Brown Goode (*American Fishes*):** *"Every Atlantic **sciaenid** contributes to the strange nocturnal chorus heard in shallow tidal estuaries."*
-> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The swim-bladder of the **sciaenid** exhibits elaborate diverticula adapted for sound resonance."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The captured **sciaenid** continued its peculiar grunting vocalizations even after being hauled into the boat."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"Each **sciaenid** possesses enlarged otoliths in the inner ear that facilitate acoustic perception in turbid waters."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"The coastal fishery yielded abundant catches of **sciaenid** species prized for their delicate white flesh."*

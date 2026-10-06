@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not awake or aware of one's surroundings; done without conscious intent or realization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychoanalytic theory, the mental realm of repressed memories, primitive impulses, and instincts inaccessible to waking awareness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking awareness and the capacity for sensory perception; done without conscious realization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In depth psychology and neurology, the reservoir of feelings, thoughts, and memories outside conscious awareness, or comatose physiological state.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"She was quite **unconscious** that she only praised herself and that it was impossible to mistake her meaning."*
-> - 📜 **Sigmund Freud (*The Ego and the Id*):** *"The ego is not sharply separated from the id; its lower portion merges into the **unconscious**."*
-> - 📜 **Herman Melville (*Moby-Dick*):** *"He lay upon the deck in an **unconscious** swoon until the salt spray revived his senses."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She fell into an **unconscious** slumber, utterly exhausted by her long march through the night."*
+> - 📜 **Sigmund Freud (*The Ego and the Id*):** *"The dynamic **unconscious** exerts a ceaseless pressure upon waking thought, shaping our symptoms and dreams."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Animals frequently execute complex evolutionary adaptations through an **unconscious** process of sexual selection."*

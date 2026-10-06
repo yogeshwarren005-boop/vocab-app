@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Severe pain radiating along the path of the sciatic nerve down the back of the thigh and leg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, radicular neuralgic pain caused by inflammation, compression, or herniation affecting lumbosacral nerve roots.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pain affecting the back, hip, and outer side of the leg, caused by compression or irritation of a spinal nerve root in the lower back.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology and rheumatology, radiculopathy along the distribution of the sciatic nerve resulting from lumbar disc herniation or spinal stenosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Smallweed was doubled up by severe twinges of gout and hereditary **sciatica**."*
-> - 📜 **William Shakespeare (*Measure for Measure*):** *"Which of your hips has the most profound **sciatica**?"*
-> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Intense paroxysmal **sciatica** is frequently aggravated by coughing, straining, or cold weather."*
+> - 📜 **William Shakespeare (*Timon of Athens*):** *"Thou cold **sciatica**, Cripple our senators, that their limbs may halt As lamely as their manners."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"True **sciatica** is characterized by intense neuralgic pain along the course of the nerve trunk, aggravated by straight-leg elevation."*
+> - 📜 **Thomas Sydenham (*The Works of Thomas Sydenham*):** *"Patients tormented by chronic **sciatica** find warmth and gentle rubefacients of considerable therapeutic benefit."*

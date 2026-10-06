@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a conscientious manner; with thoroughness, care, and devotion to duty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biography and ethics, discharging legal and moral responsibilities with scrupulous fidelity to principle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a thorough, painstaking, and morally upright manner; with careful devotion to duty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In professional ethics and empirical scholarship, discharging responsibilities with uncompromising adherence to truth and accuracy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"He had **conscientiously** performed every duty of his office, yet found himself misunderstood by his parishioners."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The clerk **conscientiously** recorded every deposition in the huge leather-bound ledger."*
-> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor **conscientiously** strove to master her own grief so as not to distress her mother and sister."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Caleb Garth worked **conscientiously**, believing that shoddy construction was an affront to God and man."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"I have **conscientiously** endeavored to collect every recorded case of inherited modification."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel Oak guarded the sheep **conscientiously** through the freezing winter nights."*

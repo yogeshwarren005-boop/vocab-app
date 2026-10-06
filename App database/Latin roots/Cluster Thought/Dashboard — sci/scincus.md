@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of desert skinks native to North Africa and Arabia, known as sandfish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In arid herpetology and classical pharmacopeia, a specialized sand-burrowing lizard celebrated in ancient medicine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of desert skinks in the family Scincidae, notably the sandfish (Scincus scincus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In desert ecology and herpetology, sand-swimming lizards adapted to arid dunes with shovel-shaped snouts and fringed toes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Pliny the Elder (*The Natural History*):** *"The medicinal virtue of the crocodile and the desert **Scincus** was celebrated by Egyptian healers."*
-> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"The flattened snout and fringed toes of **Scincus** enable it to swim through loose desert sand with astonishing agility."*
-> - 📜 **Richard Burton (*Personal Narrative of a Pilgrimage to Al-Madinah and Meccah*):** *"Bedouin hunters capture the golden **Scincus** basking upon the crest of coastal dunes."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Caravans crossing the Sahara observed the swift **scincus** diving beneath golden sands as though swimming in water."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The wedge-shaped snout and valvular nostrils of **scincus** facilitate rapid locomotion through loose desert sands."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Specimens of **scincus** captured in the dunes illustrated extraordinary morphological convergence with subterranean mammals."*

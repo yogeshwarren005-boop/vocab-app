@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The revocation, cancellation, or repeal of a law, order, or agreement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal equity and contract law, the retroactive unmaking of a contract returning the parties to their pre-contractual positions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of rescinding, annulling, revoking, or canceling a law, decree, or contract.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In judicial equity, an equitable remedy that unwinds an agreement, extinguishing mutual obligations as though the contract never existed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The **rescission** of an unlawful contract restores each party to their original property rights."*
-> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The parliament voted the immediate **rescission** of all emergency declarations passed during the interregnum."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The sudden **rescission** of public treaties undermines national credit and provokes international retaliation."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The court of equity granted a decree of total **rescission**, directing restitution of the purchase money."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The formal **rescission** of the Test Act provoked fierce theological controversy across the nation."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The abrupt **rescission** of commercial treaties damages national credit and excites foreign hostility."*

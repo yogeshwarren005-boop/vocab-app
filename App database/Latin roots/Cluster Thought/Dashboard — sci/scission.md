@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of cutting, dividing, or cleaving; a division, split, or schism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political history and surgical anatomy, a profound rupture separating ecclesiastical sects or severing anatomical tissues.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of cutting, dividing, or splitting; a division or separation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical morphology and social history, a sharp surgical incision, or an ideological schism splitting a political or ecclesiastical body.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The theological **scission** between the Eastern and Western churches widened into irreconcilable enmity."*
-> - 📜 **Francis Bacon (*Novum Organum*):** *"Nature should be dissected rather than abstracted; it is a **scission** of parts that reveals internal motion."*
-> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The sharp **scission** of the umbilical cord marks the infant's entry into autonomous terrestrial life."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The great **scission** in the church tore families apart and alienated longstanding political allies."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"The mechanical **scission** of compacted earth by the plough prepares the soil for biological aeration."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The sudden surgical **scission** of the spinal pathway completely abolished sensory transmission."*

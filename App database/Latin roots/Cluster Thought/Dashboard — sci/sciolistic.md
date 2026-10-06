@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or showing superficial, shallow knowledge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary reviewing and cultural critique, displaying ostentatious but hollow intellectual pretension.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or showing superficial knowledge; shallow and pretentious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual critique, exhibiting the traits of a sciolist; pedantic yet devoid of substantive depth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"Our journalism is too often infected with **sciolistic** cleverness that lacks moral seriousness."*
-> - 📜 **William Hazlitt (*Table-Talk*):** *"His speech was a **sciolistic** performance, glittering with borrowed quotations but devoid of original thought."*
-> - 📜 **Thomas De Quincey (*Letters to a Young Man*):** *"Beware of acquiring a **sciolistic** familiarity with philosophical systems before you have mastered logic."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Our era is choked with **sciolistic** pamphleteers who offer mechanical panaceas for deep spiritual distress."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"He dismissed the pamphlet as a **sciolistic** compilation of borrowed phrases without original insight."*
+> - 📜 **George Eliot (*Impressions of Theophrastus Such*):** *"His **sciolistic** dinner conversation consisted of rehashing quarterly reviews as if they were personal discoveries."*

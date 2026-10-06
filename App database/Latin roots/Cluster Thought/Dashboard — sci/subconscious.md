@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Operating below the threshold of conscious awareness; subconscious mental processes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychodynamic theory and cognitive psychology, mental associations and memories that influence behavior without active deliberation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Existing, operating, or occurring in the mind below the threshold of immediate conscious awareness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychoanalytic theory and cognitive psychology, mental impressions, impulses, or memories influencing thought and behavior without focal consciousness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William James (*The Principles of Psychology*):** *"A large part of our mental activity goes on in a **subconscious** region beyond focal attention."*
-> - 📜 **Jack London (*The Star-Rover*):** *"If by hypnotism the conscious mind were put to sleep, the **subconscious** memories of ancient lives emerged."*
-> - 📜 **Sigmund Freud (*The Psychopathology of Everyday Life*):** *"Slips of the tongue frequently reveal a **subconscious** motive contradicting our spoken intentions."*
+> - 📜 **William James (*The Principles of Psychology*):** *"A vast realm of **subconscious** cerebration operates beneath our waking thoughts, preparing solutions before we consciously formulate them."*
+> - 📜 **Sigmund Freud (*The Interpretation of Dreams*):** *"The latent content of dreams emerges from repressed **subconscious** desires seeking disguised expression."*
+> - 📜 **G. K. Chesterton (*The Man Who Was Thursday*):** *"A **subconscious** instinct warned him that the polite gentleman was far more dangerous than he appeared."*

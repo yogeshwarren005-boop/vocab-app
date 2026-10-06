@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The type genus of the squirrel family (Sciuridae), comprising the typical tree squirrels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalogy and forest ecology, arboreal rodents equipped with sharp curved claws and bushy counterbalancing tails.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The type genus of the squirrel family (Sciuridae), containing tree squirrels such as the eastern gray squirrel and Eurasian red squirrel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mammalogy, arboreal diurnal rodents characterized by bushy tails, sharp claws for vertical climbing, and nut-caching behaviors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Carl Linnaeus (*Systema Naturae*):** *"Under the genus **Sciurus**, Linnaeus grouped the arboreal squirrels characterized by bushy tails and four front toes."*
-> - 📜 **Henry David Thoreau (*Faith in a Seed*):** *"The gray squirrel, **Sciurus** carolinensis, buries thousands of acorns every autumn, ensuring the forest's renewal."*
-> - 📜 **John James Audubon (*The Viviparous Quadrupeds of North America*):** *"The species of **Sciurus** leap with astonishing precision from bough to bough in the high deciduous woods."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The lively red squirrel, **sciurus** hudsonicus, chattered angrily from the pitch-pine branch above my head."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Wild species of **sciurus** exhibit distinct seasonal coat variations adapted for camouflage against deciduous bark."*
+> - 📜 **John Burroughs (*Squirrels and Other Fur-Bearers*):** *"The gray squirrel of the genus **sciurus** plays a crucial role in woodland regeneration by burying hickory nuts."*

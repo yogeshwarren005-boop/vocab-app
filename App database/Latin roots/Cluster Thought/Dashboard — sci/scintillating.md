@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sparkling or shining brightly; brilliantly clever, amusing, or skillful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary portraiture and social comedy, dazzling companions with rapid, sparkling conversation and intellectual charm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sparkling or shining brightly; brilliantly clever, witty, or exciting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and physics, displaying radiant flashes of optical emission or verbal brilliance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"And amid all these **scintillating** points of light one bright planet shone keen and calm."*
-> - 📜 **Jane Austen (*Emma*):** *"Her lively wit and **scintillating** remarks kept the entire dinner party in high good humor."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Lord Henry delivered a **scintillating** paradox that set every guest at the table laughing."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"A pair of **scintillating** eyes gleamed out from the dark heather of the moor."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The sunshine fell across the child, creating a **scintillating** halo around her auburn curls."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"He produced a **scintillating** crystal phial containing the mysterious chemical reagent."*

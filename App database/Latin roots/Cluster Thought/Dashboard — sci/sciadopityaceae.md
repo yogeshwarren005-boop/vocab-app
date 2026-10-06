@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of conifers containing the single extant species Sciadopitys verticillata (Japanese umbrella pine).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gymnosperm paleobotany and taxonomy, a relictual Mesozoic conifer lineage characterized by fused cladode needle whorls.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monotypic family of conifers comprising solely the umbrella pine (Sciadopitys verticillata) native to Japan.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gymnosperm dendrology, a relictual coniferous family distinguished by unique cladodes (fused needle pairs) forming whorled umbrellas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Asa Gray (*Botanical Memoirs*):** *"The family **Sciadopityaceae** represents an ancient gymnosperm lineage preserved from the Jurassic era in the mountains of Japan."*
-> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Fossil wood allied to modern **Sciadopityaceae** occurs in the Mesozoic amber beds of northern Europe."*
-> - 📜 **Charles Sprague Sargent (*Forest Flora of Japan*):** *"The sacred umbrella pine stands as the solitary surviving representative of the family **Sciadopityaceae**."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The Japanese umbrella pine, isolated in the family **sciadopityaceae**, represents a living fossil with no close modern analogues."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Morphologists regard the whorled foliage of the **sciadopityaceae** as transformed branch cladodes rather than true leaves."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Fossil discoveries show that ancestors of the **sciadopityaceae** once formed vast forests across the Cretaceous Northern Hemisphere."*

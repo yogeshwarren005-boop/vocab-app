@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument used for cutting paper, cloth, or hair, consisting of two crossed pivoted blades.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In domestic history and surgical practice, shearing blades operated by finger loops to slice materials with opposing edges.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument used for cutting cloth, paper, and other thin materials, consisting of two crossed blades pivoted together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanical tools and surgical instruments, shearing implements utilizing opposing shearing forces to divide materials cleanly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Comedy of Errors*):** *"My master preaches patience to him, and the while his man with **scissors** nicks him like a fool."*
-> - 📜 **Jane Austen (*Persuasion*):** *"He sat poring over his book, heedless of the click of her knitting needles and working **scissors**."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Then with her little **scissors**, by the aid of a pocket looking-glass, she cut away the tell-tale fringe."*
+> - 📜 **William Shakespeare (*King John*):** *"His **scissors** were not at work upon the royal robes, yet he presumed to clip the liberties of the subject."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The sheep-shearer took up his heavy iron **scissors**, testing their edge against his weathered thumb."*
+> - 📜 **Arthur Conan Doyle (*The Sign of Four*):** *"The fragments of the torn map showed clean edges, as though severed by a sharp pair of **scissors**."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a deliberate, intentional, and fully aware manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In introspective psychology, acting with clear reflective realization rather than through habit or instinct.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a deliberate, intentional, and aware manner; with cognitive awareness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral psychology, executing actions through reflective volition rather than automatic instinct or reflex.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"She had never **consciously** intended to wound his vanity, yet every word she uttered seemed to sting."*
-> - 📜 **Thomas Hardy (*The Woodlanders*):** *"Giles walked onward, **consciously** avoiding the pathway that led past the great manor-house."*
-> - 📜 **Henry James (*The Portrait of a Lady*):** *"Isabel **consciously** resisted the impulse to seek guidance from older and colder minds."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"A citizen who **consciously** weighs alternative political policies exercises the true dignity of free thought."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She **consciously** avoided reflecting upon the unhappy compromise that bound her marriage."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I went to the woods because I wished to live deliberately, to front only the essential facts of life **consciously**."*

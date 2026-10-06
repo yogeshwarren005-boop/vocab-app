@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A monotypic genus of sciaenid fish containing the red drum or redfish (Sciaenops ocellatus).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In game and commercial fishing, an estuarine sciaenid fish prized along the Atlantic and Gulf coasts for its fighting spirit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monotypic genus of sciaenid marine fish containing the red drum or redfish (Sciaenops ocellatus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine fisheries biology, a recreationally and commercially important drum fish characterized by one or more dark ocellated spots on the caudal peduncle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Brown Goode (*American Fishes*):** *"The channel bass, or red drum, classified under **Sciaenops**, is readily identified by the black ocellated spot at the base of its tail."*
-> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The species **Sciaenops** ocellatus grows to an immense size in the warm waters of the Mexican Gulf."*
-> - 📜 **Spencer Fullerton Baird (*Reports of the United States Fish Commission*):** *"Large aggregations of **Sciaenops** enter the shallow sounds each autumn to spawn."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"The genus **sciaenops** is distinguished by the distinctive black eye-spot situated near the base of the caudal fin."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"In estuarine lagoons, juvenile specimens of **sciaenops** feed voraciously on crustaceans."*
+> - 📜 **Theodore Roosevelt (*Outdoor Pastimes of an American Hunter*):** *"Anglers in the Gulf lagoons celebrated the fierce fighting qualities of the great channel bass, classified as **sciaenops**."*

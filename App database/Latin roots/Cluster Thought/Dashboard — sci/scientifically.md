@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner based on or conforming to the principles and methods of science.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In methodological critique, proceeding by rigorous empirical experimentation, statistical verification, and logical deduction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner adhering to the principles, methods, or rigorous standards of science.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In empirical methodology, systematically, objectively, and with verifiable precision.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"We must investigate the ethical process as **scientifically** as we trace the physical evolution of species."*
-> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The phenomenon of inheritance has never been **scientifically** examined with sufficient experimental rigor."*
-> - 📜 **William James (*The Varieties of Religious Experience*):** *"If we treat religious experiences **scientifically**, we must classify them by their psychological fruits."*
+> - 📜 **Joseph Conrad (*The Secret Agent*):** *"He spoke **scientifically**, measuring every word with the cold precision of a chemist handling delicate reagents."*
+> - 📜 **G. K. Chesterton (*The Man Who Was Thursday*):** *"The anarchist treated dynamic explosives **scientifically**, regarding violence as an exact branch of physics."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"When classified **scientifically**, human physical structures align perfectly with those of other primates."*

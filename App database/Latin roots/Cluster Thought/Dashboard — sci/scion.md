@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A young shoot or twig cut for grafting; a descendant or heir of a notable family.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In arboriculture and dynastic genealogy, a vegetative bud grafted onto rootstock, or a noble youth carrying on an ancestral lineage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A young shoot or twig of a plant cut for grafting; or a descendant or heir of a prominent family.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pomological horticulture and dynastic history, the detached vegetative shoot inserted into rootstock, or an offspring continuing an aristocratic lineage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Winter's Tale*):** *"You see, sweet maid, we marry a gentler **scion** to the wildest stock, and make conceive a bark of baser kind."*
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"He was the last male **scion** of an ancient family whose estates had dwindled through extravagance."*
-> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"The grafting of a fruitful **scion** upon a wild crab-tree alters the nature of the fruit produced."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"You see, sweet maid, we marry A gentler **scion** to the wildest stock, And make conceive a bark of baser kind By bud of nobler race."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"He was the sole surviving **scion** of a proud and ancient Genevese family."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Grafting a delicate apple **scion** upon hardy crab rootstock combines dessert quality with frost resistance."*

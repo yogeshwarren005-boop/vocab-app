@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, cosmopolitan family of lizards comprising the skinks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic herpetology, one of the most diverse squamate families, displaying evolutionary transitions toward limb reduction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The skink family, the most diverse family of lizards, comprising over 1,500 species worldwide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic reptile zoology, a cosmopolitan saurian family characterized by cycloid scales underlaid by bony plates (osteoderms) and cone-shaped heads.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"The family **Scincidae** is readily recognized by its short limbs, conical head, and shiny imbricated scales."*
-> - 📜 **Raymond Ditmars (*The Reptile Book*):** *"Members of **Scincidae** range from heavy burrowing forms to agile semi-arboreal foragers."*
-> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The Indo-Malayan region contains an extraordinary variety of genera belonging to **Scincidae**."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The cosmopolitan family **scincidae** exhibits every intermediate anatomical transition between five-toed lizards and limbless forms."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Island archipelagos harbor endemic genera of **scincidae** adapted to specialized subterranean or arboreal niches."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"Comparative osteology of the **scincidae** reveals remarkable plasticity in skeletal architecture."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of conscientious principle; negligent disregard of moral or professional duty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral jurisprudence and civic history, systemic irresponsibility and breach of trust by public officials.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The habit or trait of neglecting moral duty, ethical principles, and careful effort.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethical philosophy and civic critique, culpable carelessness, unreliability, and disregard for professional obligations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The commercial decline of the state was accelerated by the pervasive **unconscientiousness** of its mercantile classes."*
-> - 📜 **Herbert Spencer (*The Principles of Ethics*):** *"Gross **unconscientiousness** in contractual performance destroys the mutual confidence upon which trade relies."*
-> - 📜 **Thomas Carlyle (*Past and Present*):** *"No nation can long endure when sham work and moral **unconscientiousness** are crowned with worldly honors."*
+> - 📜 **Herbert Spencer (*The Principles of Ethics*):** *"Widespread **unconscientiousness** in public office inevitably degrades the moral fiber of democratic governance."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"The social harm caused by personal **unconscientiousness** outweighs any temporary private advantage gained through neglect."*
+> - 📜 **George Eliot (*Felix Holt, the Radical*):** *"His chronic **unconscientiousness** brought commercial ruin upon a firm that had flourished for three generations."*

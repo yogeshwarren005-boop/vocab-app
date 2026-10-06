@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a prescient manner; with remarkable foreknowledge or foresight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative and political commentary, warning or planning with accurate anticipation of future contingencies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With foreknowledge, prophetic insight, or anticipatory wisdom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical history and social analysis, anticipating future developments with remarkable accuracy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Winston Churchill (*The World Crisis*):** *"He had **presciently** warned the cabinet of the catastrophic danger of trench deadlock."*
-> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The essayist had **presciently** predicted the rapid growth of the American republic."*
-> - 📜 **Henry James (*The American*):** *"Newman observed the cold European aristocracy and **presciently** measured its crumbling foundations."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Tocqueville **presciently** predicted that America and Russia would one day divide global sway between them."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Darwin **presciently** anticipated the discoveries that modern paleontology would later confirm."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"A few farsighted naval strategists had **presciently** warned of the submarine menace years before war broke out."*

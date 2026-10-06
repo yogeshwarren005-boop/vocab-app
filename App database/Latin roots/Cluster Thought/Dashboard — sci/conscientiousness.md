@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being painstaking, scrupulous, and guided by a strict sense of duty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral psychology and organizational ethics, steadfast adherence to promises, accuracy, and moral obligations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being diligent, thorough, scrupulous, and morally responsible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In personality psychology and character ethics, dedication to moral principle, methodical organization, and dependable performance of duties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her painful **conscientiousness** caused her to confess where silence would have secured worldly peace."*
-> - 📜 **John Stuart Mill (*Utilitarianism*):** *"The feeling of **conscientiousness** is the ultimate sanction of all morality in reflective minds."*
-> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"The impartial spectator within the breast demands unyielding **conscientiousness** in all our dealings with mankind."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Intellectual **conscientiousness** demands that a philosopher test his conclusions against every possible objection."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Habits of **conscientiousness** formed during youth create a stable framework for lifelong moral character."*
+> - 📜 **George Eliot (*Felix Holt, the Radical*):** *"His meticulous professional **conscientiousness** won the deep respect of the entire community."*

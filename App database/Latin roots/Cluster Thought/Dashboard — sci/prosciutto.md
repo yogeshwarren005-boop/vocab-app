@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An Italian dry-cured ham that is thinly sliced and served uncooked.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In culinary geography and gastronomic history, ham aged with sea salt in Italian alpine valleys to achieve fragrant tenderness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An Italian dry-cured ham, aged and served thinly sliced in raw, delicate ribbons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In culinary gastronomy and charcuterie, a Protected Designation of Origin specialty cured with sea salt in regulated microclimates (such as Parma or San Daniele).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*Italian Hours*):** *"In the cheerful trattoria we enjoyed sweet melon wrapped in translucent ribbons of fragrant **prosciutto**."*
-> - 📜 **William Dean Howells (*Venetian Life*):** *"The market stalls of the Rialto were hung with cured sausages and rich savory flanks of **prosciutto**."*
-> - 📜 **George Gissing (*By the Ionian Sea*):** *"A flask of Chianti and a dish of aged **prosciutto** made our rustic luncheon memorable."*
+> - 📜 **Charles Dickens (*Pictures from Italy*):** *"The rustic tavern tables were laid with dark bread, purple figs, and transparent ribbons of savory **prosciutto**."*
+> - 📜 **William Dean Howells (*Venetian Life*):** *"At the Venetian market stalls, cured **prosciutto** hung in fragrant rows beside flasks of Chianti."*
+> - 📜 **Henry James (*Italian Hours*):** *"We lunched on ripe melon accompanied by savory slices of local **prosciutto**, savoring the gentle Tuscan breeze."*

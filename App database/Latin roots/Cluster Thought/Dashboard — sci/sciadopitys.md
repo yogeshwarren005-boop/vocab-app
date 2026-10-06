@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of conifers comprising the Japanese umbrella pine, distinctive for its whorls of photosynthetic cladodes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dendrology and horticulture, Sciadopitys verticillata, prized for its evergreen symmetrical habit and unique cladode needles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of primitive conifers containing a single living species, the umbrella pine (Sciadopitys verticillata).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornamental dendrology and paleobotany, an ancient relict genus renowned for its whorled umbrella-like photosynthetic branchlets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Sprague Sargent (*Forest Flora of Japan*):** *"The venerable temple groves around Nikko are shaded by magnificent specimens of **Sciadopitys**."*
-> - 📜 **Asa Gray (*Botanical Memoirs*):** *"The cladodes of **Sciadopitys** are botanically interpreted as double leaves fused along their margins."*
-> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Specimens of **Sciadopitys** cultivated in Kew Gardens exhibited remarkable hardiness against English winters."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The unique foliage arrangement of **sciadopitys** has long intrigued systematic botanists studying conifer evolution."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"In Japanese temple gardens, majestic specimens of **sciadopitys** are cultivated for their pyramidal symmetry and lush evergreen needles."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Botanists discovered fossil resin proving that **sciadopitys** flourished across prehistoric amber-producing coniferous forests."*

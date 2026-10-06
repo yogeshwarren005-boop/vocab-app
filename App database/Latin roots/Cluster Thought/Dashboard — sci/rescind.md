@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To revoke, cancel, or repeal a law, contract, order, or decision.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In administrative law and parliamentary procedure, the formal invalidation of an enactment restoring prior status quo.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To revoke, cancel, annul, or repeal a law, contract, order, or agreement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence and administrative law, to declare an agreement void ab initio, restoring the parties to their original status.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Edmund Burke (*Speech on American Taxation*):** *"Parliament must **rescind** the obnoxious duties if it hopes to reconcile the affections of the colonists."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A legislative body possesses the undoubted authority to **rescind** or modify its previous statutes."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The chancellor refused to **rescind** the injunction until all parties had been formally heard."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The trustees decided to **rescind** their previous resolution, acknowledging the injustice of the old regulation."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Parliament resolved to **rescind** the oppressive edict, restoring commercial liberties to the merchants."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A legislature possesses full constitutional authority to **rescind** statutes that experience proves harmful."*

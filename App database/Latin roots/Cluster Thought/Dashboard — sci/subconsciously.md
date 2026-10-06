@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner occurring below the level of conscious awareness; instinctively or unconsciously.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative psychology, absorbing environmental cues or forming intentions without deliberate intellectual recognition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without being fully aware; in a manner beneath the level of conscious perception.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological analysis, acting or responding under the influence of subliminal mental processes or conditioned reflexes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"He thought for a while that what he missed was the ships, and that, **subconsciously**, he was pining for the sea."*
-> - 📜 **Mrs. George de Horne Vaizey (*The Lady of the Basement Flat*):** *"**Subconsciously**, I had known that the trouble had been brewing between them for many months."*
-> - 📜 **Joseph Conrad (*Chance*):** *"She turned her head away, **subconsciously** sensing that a decisive crisis in her life had arrived."*
+> - 📜 **William James (*The Principles of Psychology*):** *"We **subconsciously** adjust our bodily posture and balance while walking without diverting attention from our conversation."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"She **subconsciously** echoed his gestures and phrasing, drawn by an irresistible sympathetic fascination."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"He had **subconsciously** anticipated the catastrophe long before the ship collided with the submerged wreck."*

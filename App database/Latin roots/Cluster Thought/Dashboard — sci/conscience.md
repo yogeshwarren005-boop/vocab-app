@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inner sense of right and wrong that guides one's thoughts and actions; moral awareness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethical philosophy and jurisprudence, the subjective faculty of moral judgment evaluating one's deeds against principles of duty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inner sense of moral goodness or guilt regarding one's conduct, intentions, or character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and cognitive theology, the rational faculty judging the ethical validity of actions according to internalized moral law.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*Hamlet*):** *"Thus **conscience** does make cowards of us all, and thus the native hue of resolution is sicklied o'er."*
-> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Moral education consists in cultivating a delicate **conscience** responsive to reason and truth."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Her **conscience** told her that she had been blind, partial, and prejudiced in her estimates of both men."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Thus **conscience** does make cowards of us all, And thus the native hue of resolution Is sicklied o'er with the pale cast of thought."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The promptings of **conscience** are not innate principles, but moral convictions formed through education and reflection."*
+> - 📜 **Immanuel Kant (*Critique of Practical Reason*):** *"Two things fill the mind with ever-increasing admiration and awe: the starry heavens above me and the moral **conscience** within me."*

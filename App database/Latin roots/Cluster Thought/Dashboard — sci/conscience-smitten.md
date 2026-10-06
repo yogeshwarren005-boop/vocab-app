@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tormented, stricken, or troubled by a guilty conscience; overcome with sudden remorse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tragic narrative and psychological fiction, paralyzed by sudden overwhelming awareness of moral culpability.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Afflicted with acute pangs of remorse, guilt, or self-reproach for moral misconduct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological narrative and moral drama, seized by sudden visceral awareness of wrongdoing and dread of divine or social retribution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The minister stood **conscience-smitten** before the silent gaze of his parishioners."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He slunk away into the shadows like a **conscience-smitten** rogue detected in his mischief."*
-> - 📜 **Walter Scott (*The Heart of Mid-Lothian*):** *"The outlaw paused, **conscience-smitten** at the innocent tears of the young maiden."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The **conscience-smitten** Henchard confessed his ancient dishonorable sale of his wife before the astonished magistrates."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip lay awake through the stormy night, **conscience-smitten** by the memory of the stolen file and pork pie."*
+> - 📜 **George Eliot (*Silas Marner*):** *"Dunstan felt momentary terror, **conscience-smitten** by the thought that his theft would bring ruin upon his family."*

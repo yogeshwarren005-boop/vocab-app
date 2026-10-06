@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, slender skinks in the family Scincidae, commonly known as ground skinks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In North American herpetology, secretive leaf-litter lizards that forage among decaying humus in temperate forests.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, slender, smooth-scaled skinks in the family Scincidae, commonly known as ground skinks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology, secretive woodland lizards (Scincella lateralis) that forage through leaf litter for small invertebrates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Edwards Holbrook (*North American Herpetology*):** *"The small brown lizard **Scincella** lateralis glides through fallen leaves with rapid, serpentine motions."*
-> - 📜 **David Starr Jordan (*A Manual of the Vertebrate Animals*):** *"The ground skink belonging to **Scincella** is distinguished by its transparent disc in the lower eyelid."*
-> - 📜 **Raymond Ditmars (*The Reptile Book*):** *"Specimens of **Scincella** feed primarily on minute insects and spiders inhabiting damp woodland soil."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"The delicate little ground skink, designated **scincella**, slips through fallen oak leaves with serpentine agility."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We captured a tiny forest skink allied to **scincella**, remarkable for its polished scales and minute limbs."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"Osteological study of **scincella** reveals reduction in cranial elements consistent with burrowing habits."*

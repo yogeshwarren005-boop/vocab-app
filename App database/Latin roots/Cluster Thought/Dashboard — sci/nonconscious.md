@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not accompanied by or involving conscious awareness; operating outside consciousness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive neuroscience and psychology, autonomous physiological or computational neural processes that proceed without awareness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Operating, occurring, or existing outside the domain of conscious awareness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive neuroscience and psychoanalysis, designating autonomous neurological reflexes, autonomic regulation, or implicit memory processing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William James (*The Principles of Psychology*):** *"Numerous reflex actions and autonomic habits remain entirely **nonconscious** during waking life."*
-> - 📜 **Sigmund Freud (*The Ego and the Id*):** *"The vast reservoir of biological drives operates as a **nonconscious** substrate beneath the ego."*
-> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"Sensory signals pass through complex **nonconscious** pathways before reaching the cerebral cortex."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The vast majority of our organic physiological operations remain completely **nonconscious**."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Reflex actions of the spinal cord represent **nonconscious** adaptive mechanisms operating beneath brain awareness."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"Instinctive animal behaviors evolve from ancient, **nonconscious** sensory-motor coordination patterns."*

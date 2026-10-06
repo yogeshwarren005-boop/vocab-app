@@ -43,9 +43,9 @@ dv.container.appendChild(toggle);
 
 > [!book] 📖 Definitions & Semantic Range
 > 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is studying or has expert knowledge of one or more of the natural or physical sciences.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In history of ideas, a term coined by William Whewell in 1834 to describe professional practitioners of empirical and inductive inquiry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of science, a term coined by William Whewell in 1834 to describe professional investigators dedicated to empirical research.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"We need a name for the cultivator of science in general; I should incline to call him a **scientist**."*
-> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The modern **scientist** recognizes no authority beyond verified natural facts and sound inductive reasoning."*
-> - 📜 **Charles Darwin (*More Letters of Charles Darwin*):** *"Every genuine **scientist** rejoices when an old hypothesis gives way to a more comprehensive truth."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"The true **scientist** does not merely catalog physical phenomena, but seeks the unifying divine law beneath them."*
+> - 📜 **Bram Stoker (*Dracula*):** *"Van Helsing was a philosopher and a **scientist**, combining medieval lore with the modern methods of medicine."*
+> - 📜 **H. G. Wells (*The Island of Doctor Moreau*):** *"He was a brilliant biological **scientist** whose radical vivisection experiments scandalized London society."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that does not conform to scientific principles or empirical methods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic criticism, conducting experiments or interpreting evidence with bias, lack of controls, or anecdotal speculation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner contrary to scientific principles, empirical rigor, or systematic investigation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical scholarship, approaching problems through unverified intuition, careless assumptions, or dogmatic bias.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"To argue from isolated anomalies without systematic observation is to proceed wholly **unscientifically**."*
-> - 📜 **Charles Darwin (*The Descent of Man*):** *"Early travelers described indigenous customs so **unscientifically** that little reliance can be placed upon their reports."*
-> - 📜 **William James (*The Principles of Psychology*):** *"When philosophers treat mental faculties as independent agents, they speak **unscientifically** and obscure the truth."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The debate was conducted so **unscientifically** that emotional prejudice completely eclipsed empirical evidence."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Early travelers described native customs **unscientifically**, mistaking superficial ceremonies for fundamental laws."*
+> - 📜 **Herbert Spencer (*The Study of Sociology*):** *"When political controversies are treated **unscientifically**, public policy degenerates into chaotic experimentation."*

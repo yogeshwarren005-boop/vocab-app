@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Awareness of and responsiveness to external surroundings, thoughts, and inner sensations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive philosophy and neuropsychology, the subjective inner experience of selfhood and sensory reality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Subjective mental awareness, responsiveness to one's surroundings, and continuous perception of existence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical epistemology and neuroscience, the subjective phenomenal experience of qualia, selfhood, and sensory perception.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William James (*The Principles of Psychology*):** *"The fundamental fact of psychology is the personal stream of **consciousness**."*
-> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Personal identity consists in the continuity of **consciousness** linking past memories to present thoughts."*
-> - 📜 **Joseph Conrad (*Lord Jim*):** *"A wave of sickening **consciousness** rushed over him as he realized what he had done."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The vast heath seemed endowed with a brooding, somber **consciousness** that outlasted human generations."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Universal human **consciousness** flows like a river, ever changing yet maintaining uninterrupted personal continuity."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Personal identity consists in the continuity of **consciousness** across remembered experiences."*

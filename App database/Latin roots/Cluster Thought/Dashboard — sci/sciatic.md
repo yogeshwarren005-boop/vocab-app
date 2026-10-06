@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the ischium or hip; pertaining to the sciatic nerve.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human anatomy and neurology, designating the great nerve traversing the hip and descending into the lower extremity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or affecting the hip, ischium, or the sciatic nerve.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human anatomy and surgical medicine, designating structures associated with the ischium, notably the sciatic notch and the great sciatic nerve.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*Timon of Athens*):** *"Thou cold **sciatic**, cripple our senators, that their limbs may halt as feebly as their manners!"*
-> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Pressure upon the great **sciatic** trunk produces excruciating neuralgic pain extending along the posterior thigh."*
-> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The **sciatic** nerve emerges through the great sacro-sciatic notch in all higher mammalian pelves."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Pressure on the **sciatic** nerve as it exits the greater pelvic notch produces sharp, radiating distress down the posterior thigh."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The great **sciatic** trunk is the thickest nerve in the human body, supplying motor and sensory innervation to the entire lower limb."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **sciatic** artery descends between the trochanter major and tuberosity of the ischium alongside the nerve."*

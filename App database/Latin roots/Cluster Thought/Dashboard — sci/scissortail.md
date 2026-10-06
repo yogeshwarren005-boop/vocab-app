@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The scissor-tailed flycatcher (Tyrannus forficatus); a bird with long forked tail feathers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In regional natural history and aviculture, the state bird of Oklahoma, famed for its tumbling aerial courtship flights.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scissor-tailed flycatcher (Tyrannus forficatus), an American passerine bird known for its long, forked tail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In regional North American ornithology, the state bird of Oklahoma, famed for its pearl-gray plumage, salmon-pink flanks, and scissor-like tail feathers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Theodore Roosevelt (*The Wilderness Hunter*):** *"Across the grassy prairie, the white-and-salmon **scissortail** darted with lightning speed after hovering locusts."*
-> - 📜 **John James Audubon (*Birds of America*):** *"No species in the southern territories displays greater elegance in flight than the graceful **scissortail**."*
-> - 📜 **Elliott Coues (*Birds of the Northwest*):** *"The remarkable tail feathers of the **scissortail** extend to more than double the length of its body."*
+> - 📜 **Theodore Roosevelt (*The Wilderness Hunter*):** *"A graceful **scissortail** swooped down from a telephone wire, snatching an insect midair with an audible snap."*
+> - 📜 **John Burroughs (*Riverby*):** *"The southern prairie introduced us to the lovely **scissortail**, sailing through the wind like a tropical kite."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"Few American birds display such aerial dexterity as the **scissortail** when defending its territory against hawks."*

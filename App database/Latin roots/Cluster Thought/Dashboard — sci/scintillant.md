@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Emitting sparks or sparkling; glittering or flashing with light.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In poetic description and astronomy, radiant with flickering starlight or luminous brilliance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Emitting sparks; sparkling, twinkling, or scintillating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In poetic literature and astronomy, glittering with vibrant, pulsing flashes of light or intellectual brilliance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"The air without is impregnated with raindew moisture, glistening upon every leaf in **scintillant** points."*
-> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The frosty morning air was crisp and clear, filled with **scintillant** rime upon the boughs."*
-> - 📜 **Herman Melville (*Moby-Dick*):** *"Phosphorescent creatures in the tropical wake produced a **scintillant** glow beneath the dark counter of the ship."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"The fountain tossed its spray into the sunshine, creating a **scintillant** shower of rainbow droplets."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"The midnight sky was crowned with a million **scintillant** stars, wheeling in majestic silence."*
+> - 📜 **Herman Melville (*Mardi*):** *"Her eyes flashed with **scintillant** brilliance as she greeted the voyagers on the coral reef."*

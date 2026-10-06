@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of bulbous perennial herbs in the asparagus family, bearing blue bell-shaped flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and horticulture, medicinal bulbs containing cardiac glycosides traditionally extracted from sea squill.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of bulbous perennial herbs in the asparagus family (Asparagaceae), bearing bell-shaped blue, purple, or white flowers (squills).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and horticulture, spring-blooming liliaceous plants yielding medicinal cardiac glycosides historically known as squill.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Gerard (*The Herball, or Generall Historie of Plantes*):** *"The bulbous root of **Scilla**, or the sea onion, is large, coat upon coat, resembling the common onion."*
-> - 📜 **William Withering (*An Arrangement of British Plants*):** *"Blue woodland **Scilla** enlivens the shady dells in early April with nodding azure spikes."*
-> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Cultivated species of **Scilla** are naturalized in ancient orchards and woodland borders."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Bright blue blossoms of **scilla** carpet woodland borders in early spring, appearing alongside snowdrops."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The bulbous roots of **scilla** maritima were prized by ancient physicians as potent diuretics and expectorants."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Along subalpine meadow slopes, wild species of **scilla** bloom in delicate azure clusters."*

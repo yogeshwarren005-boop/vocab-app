@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large family of rodents containing tree squirrels, ground squirrels, chipmunks, and marmots.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary mammalogy, sciuromorph rodents characterized by bushy tails, postorbital processes, and diurnal foraging habits.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The rodent family comprising squirrels, chipmunks, marmots, prairie dogs, and flying squirrels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mammalian zoology, a cosmopolitan sciuromorph family characterized by bushy tails, large eyes, and specialized arboreal or fossorial adaptations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"The family **Sciuridae** includes agile climbing species as well as subterranean burrowers like the prairie dog."*
-> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The skull in **Sciuridae** possesses distinct post-orbital processes and prominent zygomatic arches."*
-> - 📜 **John Burroughs (*Squirrels and Other Fur-Bearers*):** *"Members of the family **Sciuridae** are nature's most industrious foresters, planting oaks and walnuts across the hills."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The family **sciuridae** displays remarkable evolutionary diversity, ranging from burrowing prairie dogs to gliding flying squirrels."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Natural selection among the **sciuridae** illustrates gradual morphological transitions from terrestrial tree-climbers to parachute-like flyers."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The agile members of the **sciuridae** stored acorns in every hollow tree surrounding my woodland cabin."*

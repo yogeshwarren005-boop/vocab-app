@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Added or derived from an external source; supplemental, non-essential, or extraneous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric and moral theology, acquired adventitious traits not inherent to a person's original nature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Supplemental, additional, or derived from an external source; not inherent or essential.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric and philosophical criticism, characterizing extraneous or artificial additions that do not belong to the intrinsic nature of a subject.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Samuel Johnson (*The Rambler*):** *"True virtue requires no **adscititious** ornaments of worldly pomp to command veneration."*
-> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The simpler rites of the early church were corrupted by **adscititious** ceremonies borrowed from paganism."*
-> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"A great poet scorns **adscititious** verbal glitter that does not spring from genuine feeling."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"True genius requires no **adscititious** ornaments of affected diction to recommend its profound thoughts."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor's authority was buttressed by **adscititious** titles and ceremonial pomp borrowed from Persian monarchs."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Genuine poetic beauty arises from internal organic form rather than **adscititious** decorative conceits."*

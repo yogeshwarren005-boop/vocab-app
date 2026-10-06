@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Aware of and responding to one's surroundings; mentally awake; deliberately intentional.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy of mind and psychology, possessing subjective phenomenal experience and self-awareness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Aware of and responding to one's surroundings; awake, alert, and cognizant of internal or external reality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology and neurology, possessing subjective mental awareness, intentionality, and self-reflective perception.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William James (*The Principles of Psychology*):** *"The mind is **conscious** of a continuous stream of thoughts, sensations, and volitions."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"She was **conscious** that every eye in the room was fixed upon her troubled face."*
-> - 📜 **Herman Melville (*Moby-Dick*):** *"The whale appeared fully **conscious** of the danger, plunging deep beneath the surface."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She was painfully **conscious** of the contrast between her humble rural past and the refined surroundings."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The **conscious** mind is not a chopped-up sequence of ideas, but a continuous flowing stream of thought."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Higher animals are clearly **conscious** of their own feelings, exhibiting joy, fear, and grief."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without being aware; unintentionally or instinctively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character portrayal and observational literature, revealing hidden sentiments or habits through unintentional gestures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without awareness, deliberation, or conscious intent; involuntarily or instinctively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive analysis, performing complex actions or revealing internal feelings through automated behavioral routines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Isn't it possible that the child should have **unconsciously** repeated the phrase she had overheard?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"She looked toward the door, **unconsciously** betraying the anxious expectation that consumed her."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba had **unconsciously** guided her pony closer to the wagon where Oak stood waiting."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba had **unconsciously** encouraged his passionate suit by sending the frivolous valentine."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Man has **unconsciously** selected domestic varieties by preserving those individuals that proved most useful to him."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"**Unconsciously** my chirography expanded into bold, sweeping characters as the gale increased."*

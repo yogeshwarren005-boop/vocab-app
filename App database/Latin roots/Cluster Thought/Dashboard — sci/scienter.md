@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Knowingly or deliberately; in law, knowledge of wrongness or illegality prior to committing an act.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tort and criminal jurisprudence, the legal requirement that a defendant acted with intentional malice or guilty knowledge.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A legal term denoting knowledge of the wrongness of an act or its consequences prior to its commission; intent or knowledge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence and tort liability, the requirement that a defendant acted with intentional knowledge of falsehood or willful recklessness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"In an action for deceit, the plaintiff must prove **scienter** on the part of the seller."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Criminal culpability requires clear proof of unlawful intent and legal **scienter**."*
-> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"The rule of **scienter** ensures that innocent mistakes are not punished as deliberate frauds."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"In actions for fraudulent deceit, proof of **scienter** is essential to establish malicious liability."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"The ancient doctrine of **scienter** distinguished between accidental injury and culpable knowledge of vicious propensities."*
+> - 📜 **Joseph Story (*Commentaries on Equity Jurisprudence*):** *"A court of equity will grant relief where the defendant acted with full **scienter** of the plaintiff's title."*

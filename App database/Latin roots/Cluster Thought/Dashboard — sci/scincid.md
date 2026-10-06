@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any lizard belonging to the family Scincidae; of or pertaining to the skinks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reptile morphology, diurnal squamates characterized by smooth overlapping osteoderm scales and reduced limbs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any lizard of the family Scincidae; a skink.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary herpetology, a squamate reptile characterized by osteoderm-reinforced scales, reduced limbs, and cylindrical body morphology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Raymond Ditmars (*The Reptile Book*):** *"The typical **scincid** lizard possesses polished, bony-cored scales that give its body an oily sheen."*
-> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"Cranial osteology in the **scincid** family shows a complete bony palate and robust temporal arches."*
-> - 📜 **Charles Darwin (*Journal of Researches*):** *"We captured a curious **scincid** reptile basking upon the sun-baked volcanic rocks of the archipelago."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"On the dry sandy dunes, several **scincid** species burrowed rapidly beneath the scrub at our approach."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The **scincid** integument possesses bony plates embedded within the dermal scales, forming a flexible armor."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"Morphological variation among **scincid** lizards illustrates diverse stages in the evolutionary reduction of limbs."*

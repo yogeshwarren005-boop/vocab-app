@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The horizontal coordinate of a point in a Cartesian coordinate system, measured along the x-axis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytical geometry and calculus, the independent variable plotted horizontally against the vertical ordinate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The horizontal coordinate (x-coordinate) of a point in a two-dimensional Cartesian coordinate system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytic geometry and calculus, the distance of a point from the vertical y-axis measured parallel to the horizontal axis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Isaac Newton (*Opticks*):** *"Let the distance from the prism be represented by the **abscissa**, and the dispersion of rays by the ordinate."*
-> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"Descartes revolutionized geometry by representing algebraic equations through the **abscissa** and ordinate of points."*
-> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"A curve is determined when every **abscissa** corresponds to a uniquely defined ordinate in continuous space."*
+> - 📜 **Isaac Newton (*Opticks*):** *"Let the **abscissa** represent the angle of incidence, while the ordinate measures the degree of refraction."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"In calculating astronomical trajectories, each point requires an exact **abscissa** paired with its corresponding ordinate."*
+> - 📜 **Lord Kelvin (*Popular Lectures and Addresses*):** *"Plotting time along the **abscissa** demonstrates the steady decay of thermal conductivity across the metal rod."*

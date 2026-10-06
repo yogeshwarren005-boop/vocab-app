@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The characteristic way of thinking, intellectual capacity, or psychological mindset of a person or group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociology and cultural history, the collective worldview, cognitive habits, and moral assumptions shaping a historical epoch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The characteristic way of thinking, intellectual capacity, or psychological outlook of an individual or group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social psychology and cultural anthropology, the prevailing collective attitudes, cognitive habits, and cultural assumptions shaping behavior.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"In general the trait of Speranski’s **mentality** which struck Prince Andrew was his calm, mathematical logic."*
-> - 📜 **Jack London (*The Star-Rover*):** *"They were sharply differentiated in the minutest shades of **mentality** and emotional reaction."*
-> - 📜 **H. G. Wells (*The Outline of History*):** *"The primitive **mentality** of ancient mankind was dominated by seasonal taboos and astrological dread."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The narrow **mentality** of provincial society viewed every generous innovation as an intolerable threat to established routine."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"He found himself an outcast between two worlds, his scholarly **mentality** alien to rustic laborers and rejected by university scholars."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The brutalizing influence of the remote African station wrought a disastrous transformation in Kurtz's brilliant **mentality**."*

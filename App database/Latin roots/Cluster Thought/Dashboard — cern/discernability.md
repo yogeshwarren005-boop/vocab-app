@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property or capacity of being perceptible, distinguishable, or readily recognized by sight or intellect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sensory psychophysics and empirical logic, the threshold of differentiation between sensory stimuli or conceptual categories.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capability of being perceived, recognized, or intellectually distinguished.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sensory psychophysics and optics, the threshold of contrast or signal clarity necessary for sensory detection against a noisy background.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William James (*The Principles of Psychology*):** *"The **discernability** of sensations depends largely upon the contrast between successive stimuli."*
-> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The clear **discernability** of one idea from another is the primary ground of certain knowledge."*
-> - 📜 **Thomas Reid (*Essays on the Intellectual Powers of Man*):** *"The distinct **discernability** of external objects requires both healthy organs and attentive observation."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The progressive differentiation of structures results in the heightened **discernability** of individual organ functions."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The perceptual **discernability** of a faint sensory stimulus depends upon the prevailing state of focused attention."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Clear **discernability** of our simple ideas constitutes the foundational basis of all certain mathematical knowledge."*

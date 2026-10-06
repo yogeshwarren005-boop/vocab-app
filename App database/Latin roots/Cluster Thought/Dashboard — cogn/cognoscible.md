@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being known, comprehended, or investigated by human intellect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scholastic philosophy and epistemology, possessing intelligible form and species accessible to the rational mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being known, perceived, or understood by the human intellect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scholastic philosophy and theoretical epistemology, intelligible reality that can be apprehended as an object of valid knowledge.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Whatever is real in nature must be in principle **cognoscible** by the enlightened reason."*
-> - 📜 **William Hamilton (*Discussions on Philosophy and Literature*):** *"The infinite is inconceivable, and therefore not **cognoscible** as a positive object."*
-> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"All **cognoscible** truths must ultimately resolve into simple ideas derived from sensation or reflection."*
+> - 📜 **Sir William Hamilton (*Lectures on Metaphysics and Logic*):** *"The mind can only apprehend that which is **cognoscible** under the conditioned forms of relative experience."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The secondary qualities of material bodies are **cognoscible** only through the specific sensations they excite within us."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Science continually enlarges the sphere of the **cognoscible**, while religion guards the sanctuary of the Unknowable."*

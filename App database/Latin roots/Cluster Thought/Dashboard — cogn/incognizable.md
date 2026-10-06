@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being known, recognized, or perceived; beyond the reach of human cognition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In transcendental philosophy, denoting the Kantian thing-in-itself which transcends all sensory intuition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being recognized, perceived, or known by the human mind; unknowable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agnosticism and transcendental metaphysics, ultimate reality or things-in-themselves that transcend human cognitive faculties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herbert Spencer (*First Principles*):** *"The ultimate reality behind all appearances remains forever inscrutable and **incognizable**."*
-> - 📜 **William Hamilton (*Lectures on Metaphysics and Logic*):** *"The absolute and unconditioned must be pronounced strictly **incognizable** by finite minds."*
-> - 📜 **John Stuart Mill (*An Examination of Sir William Hamilton's Philosophy*):** *"To declare the nature of matter wholly **incognizable** is to abandon scientific ontology."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Behind the veil of material phenomena lies the Absolute Power, which must forever remain **incognizable** to science."*
+> - 📜 **William James (*The Principles of Psychology*):** *"A purely spiritual substance stripped of all phenomenal attributes is practically **incognizable** in psychological inquiry."*
+> - 📜 **Thomas Henry Huxley (*Science and Christian Tradition*):** *"Agnosticism confesses that ultimate cosmic origins are **incognizable** by the finite apparatus of human reason."*

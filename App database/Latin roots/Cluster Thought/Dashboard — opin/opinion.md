@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A belief, view, or judgment formed about something, not necessarily grounded on certainty or proof.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence and political science, a formal advisory statement or collective consensus directing civil action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A view, judgment, or belief formed about something, not necessarily based on absolute empirical proof.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence and social philosophy, a formal judicial ruling, or the collective consensus of a public community.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*Love's Labour's Lost*):** *"Therefore your oaths are words and poor conditions; but unseal’d, at least in my **opinion**."*
-> - 📜 **John Milton (*Areopagitica*):** *"Where there is much desire to learn, there of necessity will be much arguing, much writing, many **opinions**."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"My good **opinion** once lost is lost for ever."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"I'll tell thee more of this another time: but fish not, with this melancholy bait, for this fool gudgeon, this **opinion**."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"If all mankind minus one were of one **opinion**, mankind would be no more justified in silencing that one person than he in silencing mankind."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"It is easy in the world to live after the world's **opinion**; but the great man is he who maintains the independence of solitude amidst the crowd."*

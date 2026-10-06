@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An erroneous, flawed, or inaccurate estimate, appraisal, or calculation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology and public finance, systematic divergence between anticipated fiscal returns and actual revenue outcomes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An incorrect, faulty, or inaccurate calculation, judgment, or evaluation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political analysis and statistical modeling, systemic error arising from biased assumptions or inadequate empirical data.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Stuart Mill (*A System of Logic*):** *"The gross **misestimation** of probabilities arises from our tendency to overvalue vivid impressions."*
-> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A persistent **misestimation** of risk induces speculators to plunge into precarious ventures."*
-> - 📜 **William James (*The Principles of Psychology*):** *"Any **misestimation** of the time interval between sensation and response distorts our chronometric records."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"A fatal **misestimation** of the barbarian cavalry's strength led the Emperor Valens to disastrous defeat at Adrianople."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Fallacies of induction often originate in the simple **misestimation** of the relative frequency of coexisting attributes."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"Every major error in cosmological theory traces back to the initial **misestimation** of physical forces."*

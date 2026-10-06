@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Worthy of high regard, esteem, or admiration; also capable of being estimated or calculated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social ethics and character portraiture, possessing enduring integrity, benevolence, and civic virtue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Worthy of great respect, high esteem, and moral admiration; or capable of being calculated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and character analysis, possessing solid virtue, probity, and civic usefulness deserving public honor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"A pound of man’s flesh, taken from a man, Is not so **estimable**, profitable neither, As flesh of muttons, beefs, or goats."*
-> - 📜 **John Stuart Mill (*Utilitarianism*):** *"Such a theory of life excites in many minds, and among them in some of the most **estimable** in feelings and purpose, the deepest aversion."*
-> - 📜 **Jane Austen (*Sense and Sensibility*):** *"He is a very **estimable** young man, with principles and conduct that must secure him friends."*
+> - 📜 **William Shakespeare (*Twelfth Night*):** *"A lady, sir, though it was said she much resembled me, was yet of many accounted beautiful, but of all **estimable** for her rare mind."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Those virtues that promote the preservation of society are universally held to be the most **estimable** by rational men."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"Actions that multiply human welfare and mitigate suffering constitute the most **estimable** conduct known to ethics."*

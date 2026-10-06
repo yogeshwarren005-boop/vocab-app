@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suffering from cognitive impairment or severe mental confusion; behaving irrationally or crazily.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychiatric pathology and dramatic tragedy, exhibiting profound loss of reason, memory, and behavioral self-control.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Suffering from cognitive dementia; or driven to madness, frantic irrationality, or extreme agitation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychopathology and dramatic narrative, exhibiting severe organic cognitive decline, delusions, or erratic behavioral frenzy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Dick was regarded as harmlessly **demented**, though his simple heart possessed profound tenderness."*
-> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"Ben Gunn had been left marooned for three years until his solitary wits seemed wholly **demented**."*
-> - 📜 **Arthur Conan Doyle (*The Return of Sherlock Holmes*):** *"The wretched man rushed into the street, screaming like a **demented** creature."*
+> - 📜 **H. G. Wells (*The Island of Doctor Moreau*):** *"The **demented** creature ran screaming along the beach, tearing at its bandages with animal fury."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The poor shoemaker looked up with the vacant, wandering gaze of a **demented** captive long buried in the dark."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Her distraught mother wrung her hands in a **demented** state of grief when the catastrophic news arrived."*

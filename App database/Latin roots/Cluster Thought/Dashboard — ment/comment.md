@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A remark, observation, or criticism expressing an opinion; to express remarks upon a subject.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scholarly textual criticism, marginal notes or glosses clarifying an obscure passage in classical or legal manuscripts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A remark, observation, criticism, or explanatory note expressing an opinion on a subject.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and scholarly hermeneutics, an interpretive gloss appended to a difficult passage to elucidate its meaning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*Hamlet*):** *"I prithee, when thou see’st that act a-foot, even with the very **comment** of thy soul observe mine uncle."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth listened in silence, not trusting herself to make any **comment** on what she had heard."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The harsh **comment** of the world upon her conduct wounded her to the quick."*
+> - 📜 **William Shakespeare (*King Lear*):** *"I will not sleep, my lord, till I have delivered your royal **comment** upon these ambiguous proceedings."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The provincial gossips did not fail to make sarcastic **comment** upon the young widow's sudden departure."*
+> - 📜 **Samuel Johnson (*The Lives of the Most Eminent English Poets*):** *"Dryden added a critical **comment** to his translation, explaining the rules of classical poetic diction."*

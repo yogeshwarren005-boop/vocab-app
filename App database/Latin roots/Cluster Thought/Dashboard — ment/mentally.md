@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner relating to the mind; inwardly, intellectually, or in thought.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative psychology, framing silent inner deliberations or calculating judgments unuttered to companions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner relating to the mind, intellectual reasoning, or psychological state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology and behavioral description, performing intellectual calculations, visualizing scenarios, or experiencing internal emotions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Their value to Bathsheba, and indeed to anybody, Oak **mentally** estimated with practiced accuracy."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I was **mentally** comparing my comfortable present with the bleak days of my neglected childhood."*
-> - 📜 **George Eliot (*Middlemarch*):** *"She **mentally** reviewed all the objections that her uncle was sure to urge against the marriage."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard **mentally** reviewed his transactions of the past month, discovering that he was on the brink of complete insolvency."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She **mentally** contrasted the noble aspirations of her youth with the barren reality of her scholarly marriage."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Sherlock Holmes was **mentally** reconstructing every minute incident of the crime while pacing the study carpet."*

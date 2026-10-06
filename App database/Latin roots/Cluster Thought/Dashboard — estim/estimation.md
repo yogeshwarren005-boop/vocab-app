@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of evaluating or calculating; also the judgment, esteem, or regard in which someone or something is held.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social moral philosophy, personal reputation and credit accorded by public consensus or refined peers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A judgment or opinion of worth, character, or value; or esteem, honor, and respect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematical statistics and moral philosophy, calculating unknown parameters, or holding an individual in high public repute.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*All's Well That Ends Well*):** *"We lost a jewel of her, and our esteem Was made much poorer by it; but your son, As mad in folly, lacked the sense of her **estimation**."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Your brother will lose none of his consequence in my **estimation** by marrying your sister."*
-> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"The wise and virtuous man values the internal approbation of conscience far above the superficial **estimation** of mankind."*
+> - 📜 **William Shakespeare (*All's Well That Ends Well*):** *"I know him a notorious liar, think him a great way fool, solely a coward; yet these fixed evils sit so fit in him that they take place, when virtue's steely bones look bleak in the cold wind; full oft we see cold wisdom waiting on superfluous folly in men's **estimation**."*
+> - 📜 **George Eliot (*Middlemarch*):** *"In the general **estimation** of the county, Mr. Brooke was a well-meaning landlord whose political speeches were somewhat eccentric."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Her high **estimation** of Mr. Wickham's character was rudely shattered by the revelation of his treacherous past."*

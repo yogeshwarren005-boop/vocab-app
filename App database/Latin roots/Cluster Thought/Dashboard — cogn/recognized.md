@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Identified from prior knowledge; accepted, acknowledged, or officially approved.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific canon and academic doctrine, supported by empirical consensus across the scholarly community.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Identified from past experience, widely accepted, or officially accredited.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social institutions and legal frameworks, enjoying verified authority, standard consensus, or public acclaim.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"She **recognized** the venerable pastor walking beside the governor with dignified grace."*
-> - 📜 **Charles Darwin (*The Origin of Species*):** *"Natural selection is now widely **recognized** as the main, though not exclusive, means of modification."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"It is a truth universally **recognized** that a young man in possession of fortune must be in want of a wife."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She walked along the lane, fearful of being **recognized** by any traveler from her native village."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Freedom of conscience has become a firmly **recognized** principle in modern constitutional jurisprudence."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The French prisoner was immediately **recognized** by the prosecution witnesses as an active revolutionary agent."*

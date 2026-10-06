@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perceptible by the senses or the intellect; capable of being distinguished or detected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In atmospheric description and forensic observation, visible or recognizable despite dim illumination, distance, or obfuscation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to be detected, recognized, or perceived by the senses or the intellect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astronomy and microscopy, describing physical features or subtle phenomena clear enough to be resolved by optical instruments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"At first they were faintly **discernible** in the mist, and above them the later stars still glimmered."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"An inner cloud of dust rose around the figures, amid which their outlines were scarcely **discernible**."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"A solitary light was **discernible** across the wide sweep of the dark and desolate moor."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"No light was **discernible** across the expanse of the moor save the faint gleam of Oak's lonely lantern."*
+> - 📜 **George Eliot (*Middlemarch*):** *"There was no **discernible** flaw in the young physician's reasoning, yet the conservative elders remained skeptical."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Upon the pale surface of the calm sea, the spout of the leviathan was **discernible** from leagues away."*

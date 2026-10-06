@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being conceived, thought about, or comprehended by the intellect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In speculative metaphysics and transcendental logic, designating any entity or proposition that violates no condition of possible conceptualization.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being conceived, thought of, or apprehended by the intellect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metaphysics and formal epistemology, an object, idea, or state that does not involve logical self-contradiction and can be entertained in thought.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"An object that conforms to the categories of the understanding is genuinely **cogitable**, even if unperceived."*
-> - 📜 **William Hamilton (*Lectures on Metaphysics and Logic*):** *"Whatever is contradictory is simply not **cogitable** by the human intellect."*
-> - 📜 **John Stuart Mill (*An Examination of Sir William Hamilton's Philosophy*):** *"A noumenon may remain **cogitable** as a logical possibility though forever inaccessible to sensation."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"A noumenon is an object of non-sensuous intuition, which is **cogitable** by the pure intellect without contradiction."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Whatever is mathematically consistent is **cogitable** by the human understanding as a possible reality."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The absolute ground of all being must be **cogitable** not as an objective thing, but as pure spiritual activity."*

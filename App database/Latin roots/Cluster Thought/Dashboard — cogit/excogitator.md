@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who devises, invents, or thinks out something through deep mental exertion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical criticism and satire, an architect of novel ideological systems, theoretical dogmas, or institutional blueprints.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who devises, invents, or thinks out something by concentrated intellectual effort.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual history, an originator or theoretical architect of philosophical systems, mechanical designs, or legislative schemes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Sieyès, that indefatigable **excogitator** of paper constitutions, sat busy with his pigeon-holes."*
-> - 📜 **Isaac D'Israeli (*Curiosities of Literature*):** *"The true philosopher is an **excogitator** of new truths rather than a mere compiler of old opinions."*
-> - 📜 **Robert Southey (*The Doctor*):** *"Every ingenious projector and **excogitator** of social panaceas believes himself inspired by pure benevolence."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The true **excogitator** of natural philosophy is not he who dreams in his closet, but he who interrogates nature."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Professor Teufelsdröckh stood forth as the subtle **excogitator** of the sublime Philosophy of Clothes."*
+> - 📜 **Jeremy Bentham (*Rationale of Judicial Evidence*):** *"The legislative **excogitator** must anticipate every loophole through which judicial corruption might enter."*

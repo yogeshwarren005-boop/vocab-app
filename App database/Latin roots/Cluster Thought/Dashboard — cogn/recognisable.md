@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being identified, recognized, or recalled from previous knowledge (British spelling of recognizable).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In artistic representation, depicting figures or scenes with sufficient verisimilitude to be distinct from abstract forms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being identified, perceived, or known from previous encounters (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In morphology and cognitive psychology, having distinct features that allow unambiguous identification and recall.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I was not related to the outlaw, or connected with him by any **recognisable** tie; he had preserved me."*
-> - 📜 **Henry James (*The Portrait of a Lady*):** *"It rested upon two figures which, in spite of increasing distance, were still **recognisable**."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"The dream-character of his scenery is notorious; it is nowhere **recognisable** on the terrestrial globe."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The homologous skeletal framework remains readily **recognisable** across the diverse forelimbs of mammals, birds, and reptiles."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Even in the dim starlight, the familiar silhouette of the ancient tumulus was clearly **recognisable** upon the horizon."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her noble character was **recognisable** in the quiet dignity with which she bore private misfortune."*

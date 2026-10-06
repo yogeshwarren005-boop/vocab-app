@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who provides expert spoken or written commentary on events, literature, or public affairs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical philology and political journalism, a scholar or analyst providing interpretive context to difficult developments.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who delivers a running commentary, explanatory analysis, or critical remarks on events or texts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic hermeneutics and political journalism, a scholar who writes exegetical glosses on classical texts or a professional broadcast analyst.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick*):** *"So fare thee well, poor devil of a Sub-Sub, whose **commentator** I am; thou belongest to that hopeless, sallow tribe."*
-> - 📜 **George Eliot (*Middlemarch*):** *"A pedantic **commentator** can bury the brightest poetry beneath mountains of trivial antiquarian lore."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The old **commentator**, Bengel, wrote at the beginning of his book that reverence must precede analysis."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Casaubon fancied himself a profound **commentator** upon the syncretic mythologies of the ancient world."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The old sailor acted as a rough **commentator** on deck, explaining the habits of the great whales to the landsmen."*
+> - 📜 **Samuel Johnson (*Preface to Shakespeare*):** *"The task of the **commentator** is to explain what is obscure, rectify what is corrupt, and illustrate what is beautiful."*

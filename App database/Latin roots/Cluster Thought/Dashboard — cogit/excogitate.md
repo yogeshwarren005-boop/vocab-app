@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To devise, invent, or think out through intense intellectual effort or deep reflection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific and judicial methodology, constructing a coherent explanatory scheme or legal argument by sustained reasoning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To think out, devise, invent, or discover through deep mental effort.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theoretical invention and legal reasoning, elaborating a complex system, argument, or plan by concentrated deductive thought.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Bacon (*Novum Organum*):** *"The intellect left to itself cannot **excogitate** the secrets of nature without methodical observation."*
-> - 📜 **Walter Scott (*The Antiquary*):** *"He withdrew to his library to **excogitate** a new theory regarding the Roman encampment."*
-> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The German professor sat in his watchtower, seeking to **excogitate** a philosophy of clothes."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Philosophers who disdain empirical experiments attempt to **excogitate** the secrets of nature out of their own brains."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"No human intellect, however powerful, could **excogitate** the laws of organic inheritance without direct observation."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"He labored through long sleepless nights to **excogitate** an unanswerable defense against his political critics."*

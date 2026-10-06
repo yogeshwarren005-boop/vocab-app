@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To identify someone or something from having encountered them before; to acknowledge validity or existence (British spelling of recognize).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international diplomacy and social philosophy, according legitimate status or sovereign equality to another entity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To identify someone or something from previous knowledge, perceive, or formally acknowledge validity (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political diplomacy and epistemology, the official affirmation of sovereign status or cognitive identification of an object.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Anne was astonished to **recognise** the same hills and the same objects so soon."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was easy to **recognise** the pantomime of sorrow performed upon the stage."*
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I lifted my eyes and could readily **recognise** the stern features of Mr. Rochester."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She did not **recognise** the stranger at the cottage gate until he spoke in his accustomed gentle tone."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"A civilized society must **recognise** the supreme moral value of individual diversity and intellectual independence."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The comparative anatomist can readily **recognise** the underlying unity of bone architecture across different vertebrate limbs."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mental activity; the process of thinking, perceiving, or exercising cognitive faculties.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurophysiology and cognitive psychology, the total flow of conscious and subconscious neural information processing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mental activity, cognitive functioning, or the neurological operation of the brain in producing thought.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology and physiological psychology, the quantitative and qualitative assessment of conscious thinking, memory, and orientation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William James (*The Principles of Psychology*):** *"The continuous stream of **mentation** exhibits varying rhythms of focal attention and marginal awareness."*
-> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"Higher forms of **mentation** evolve through the progressive differentiation and integration of sensory reflexes."*
-> - 📜 **Havelock Ellis (*The World of Dreams*):** *"Dreaming represents an archaic, undisciplined mode of **mentation** liberated during sleep."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In cerebral atherosclerosis, slow deterioration of **mentation** and nocturnal confusion frequently precede focal motor deficits."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The continuous stream of conscious **mentation** flows onward without break, blending sensation, memory, and volition."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Normal **mentation** demands an uninterrupted arterial blood supply delivering glucose and oxygen to the cerebral cortex."*

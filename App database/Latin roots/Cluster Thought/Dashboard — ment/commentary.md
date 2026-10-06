@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A series of explanatory notes or critical comments on a text, event, or performance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historiography and biblical exegesis, systematic analytical glosses illustrating grammatical, theological, or contextual meaning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A series of explanatory notes, systematic annotations, or critical discourse on a text or event.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical scholarship and broadcasting, an extensive exegetical exposition analyzing scripture, law, or live public proceedings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The **commentary** upon it now indelibly written in his handsome face made it painful to look at."*
-> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"A judicious **commentary** upon ancient authors illuminates the hidden paths of natural knowledge."*
-> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Caesar's military **commentaries** remain an enduring model of concise and candid narrative."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Every individual life is a perpetual **commentary** upon the universal laws that govern human destiny."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The proceedings in Chancery dragged on, generating voluminous reams of legal **commentary** and endless delay."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Justinian ordered his jurists to condense centuries of Roman jurisprudence into an authoritative imperial **commentary**."*

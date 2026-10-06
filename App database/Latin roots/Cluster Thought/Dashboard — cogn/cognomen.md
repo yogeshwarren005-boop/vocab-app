@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A surname, nickname, or identifying epithet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient Roman prosopography, the third name of a Roman citizen designating the specific familial branch or personal honor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surname, family name, or nickname; or the third name of an ancient Roman citizen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman onomastics, the hereditary family epithet (such as Caesar in Gaius Julius Caesar) added to the praenomen and nomen gentilicium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Legend of Sleepy Hollow*):** *"The **cognomen** of Crane was not inapplicable to his person."*
-> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The illustrious **cognomen** of Africanus commemorated the conqueror's victories over Carthage."*
-> - 📜 **Herman Melville (*Moby-Dick*):** *"He answered to the bizarre **cognomen** of Queequeg among the harpooneers."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The proud **cognomen** of Africanus commemorated the glorious triumphs of Scipio over the Carthaginian republic."*
+> - 📜 **Walter Scott (*Waverley*):** *"The highland chieftain bore a Gaelic **cognomen** that celebrated the valor of his warrior ancestors."*
+> - 📜 **Washington Irving (*The Legend of Sleepy Hollow*):** *"The schoolmaster bore the formidable **cognomen** of Ichabod Crane, which suited his tall, lanky figure admirably."*

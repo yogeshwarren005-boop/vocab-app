@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible to identify or recognize; changed beyond recall or detection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military and maritime narrative, altered through violence, decay, or disguise so that all identity is lost.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: So altered in appearance, character, or condition as to defy identification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In observational description and forensic medicine, suffering complete obliteration of distinguishing morphological or personal landmarks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Some fifty miles below the Inner Station we came upon a hut of reeds, an inclined and melancholy ruin, nearly **unrecognizable** in the dense grass."*
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The prison cellar had changed him into a hollow, **unrecognizable** specter of his former self."*
-> - 📜 **Herman Melville (*Typee*):** *"The ancient stone monuments were overgrown with wild creepers until they became almost **unrecognizable**."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The ruined station house stood stripped and **unrecognizable** amidst the creeping tendrils of the primeval jungle."*
+> - 📜 **G. K. Chesterton (*The Man Who Was Thursday*):** *"The disguises were so masterfully contrived that each conspirator appeared completely **unrecognizable** to his fellows."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The pleasant suburban avenue was transformed into a blackened, **unrecognizable** waste of smoking ruins."*

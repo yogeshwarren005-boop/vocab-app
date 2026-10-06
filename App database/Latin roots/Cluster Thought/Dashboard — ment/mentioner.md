@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who mentions, cites, or names someone or something in speech or writing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary historiography and bibliographical critique, an author who records the earliest citation of a rare book, concept, or event.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who mentions, cites, or speaks of someone or something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and archival bibliography, a writer or chronicler who makes historical reference to a text or author.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"Dryden was an early **mentioner** of Milton's sublime genius at a time when political prejudice silenced others."*
-> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The chronicler was not merely a passive **mentioner** of royal names, but an acute observer of court intrigue."*
-> - 📜 **Isaac D'Israeli (*Curiosities of Literature*):** *"A contemporary **mentioner** of Shakespeare's earliest sonnets has preserved valuable clues for modern scholars."*
+> - 📜 **Samuel Johnson (*The Lives of the Most Eminent English Poets*):** *"The early biographer was a faithful **mentioner** of contemporary literary anecdotes, though somewhat credulous in accepting hearsay."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The parliamentary **mentioner** of the grievance was heard with restless impatience by the government bench."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Every casual **mentioner** of ancient natural phenomena should be checked against rigorous empirical experimentation."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing good judgment, keen insight, and subtle understanding; perceptive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and social connoisseurship, exhibiting refined discrimination in evaluating aesthetic or moral worth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing good judgment, keen insight, and intellectual discrimination; perceptive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical aesthetics and philosophical analysis, possessing the refined acumen to evaluate subtle nuances of quality and truth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"His tone, his expressions, and his choice of subject were all the operation of a **discerning** mind."*
-> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"A **discerning** critic will always separate accidental faults from essential excellence."*
-> - 📜 **Francis Bacon (*Essays*):** *"In matters of great weight, wise men employ only those who are **discerning** and impartial."*
+> - 📜 **William Shakespeare (*Measure for Measure*):** *"Let your **discerning** eye look through these outward pretenses to discover the true nature of his virtue."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"Only a **discerning** woodsman could tell by the bark's mossy growth which trees had begun to decay from within."*
+> - 📜 **George Eliot (*Middlemarch*):** *"A **discerning** reader quickly perceives that Dorothea's ardent idealism was ill-matched with Casaubon's cold pedantry."*

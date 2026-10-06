@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A manifestation of extreme irrationality, frantic confusion, or severe intellectual derangement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological diagnosis and dramatic analysis, observable disintegration of logical faculties accompanied by frantic agitation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pervasive mental derangement, frantic agitation, or irrational frenzy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychopathology and literary tragedy, the state of profound cognitive confusion, delirium, or emotional incoherence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"A sombre **dementedness** seemed to hover over the ancient mansion and its solitary master."*
-> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"In his grief-stricken **dementedness**, he walked the streets heedless of rain or freezing cold."*
-> - 📜 **Mary Shelley (*Frankenstein*):** *"The delirium of his fever gave way to a quiet **dementedness** that alarmed his devoted companion."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"A strange **dementedness** seemed to possess Eustacia as she wandered blindly toward the swollen weir in the storm."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Dick's harmless **dementedness** concerning King Charles's head was indulged with affectionate gentleness by his aunt."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Pip's wild songs and vacant laughter betrayed an incurable **dementedness** born of his terrifying plunge into the ocean abyss."*

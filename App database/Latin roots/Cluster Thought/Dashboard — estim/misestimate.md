@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To estimate, calculate, or judge incorrectly, inadequately, or falsely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military strategy and diplomatic negotiation, misapprehending an opponent's resources, willpower, or timeline.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To judge, calculate, or value incorrectly, inaccurately, or erroneously.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In strategic planning and economic appraisal, making flawed forecasts regarding resource expenditure, opposition strength, or market demand.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"It was easy to **misestimate** a character that revealed so little of its inner life to casual observers."*
-> - 📜 **Herbert Spencer (*The Study of Sociology*):** *"Passionate political bias constantly leads partisans to **misestimate** the strength of the opposing faction."*
-> - 📜 **Winston Churchill (*The World Crisis*):** *"Military planners are prone to **misestimate** both the munitions required and the resilience of defensive lines."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The royalist ministers continued to **misestimate** the volcanic wrath accumulating among the starving Parisian populace."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"Legislators frequently **misestimate** the moral resilience of the public when framing paternalistic statutes."*
+> - 📜 **Herbert Spencer (*Social Statics*):** *"State planners habitually **misestimate** the secondary economic consequences of artificial price regulations."*

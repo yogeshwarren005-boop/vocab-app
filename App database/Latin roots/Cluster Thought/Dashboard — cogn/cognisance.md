@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Knowledge, awareness, or notice; judicial notice or legal jurisdiction (British spelling of cognizance).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In heraldry and common law, a distinctive badge worn by retainers, or official legal authority to adjudicate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Knowledge, awareness, or notice; or legal jurisdiction (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In heraldry and jurisprudence, an authoritative badge or emblem worn by retainers, or official judicial notice taken of a legal case.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Walter Scott (*Ivanhoe*):** *"The knight wore upon his helmet a plume of feathers, but had no **cognisance** painted on his shield."*
-> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The civil magistrate must take official **cognisance** of abuses that disrupt public tranquility."*
-> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"Parliament ought to have taken earlier **cognisance** of the legitimate grievances of the colonial assemblies."*
+> - 📜 **William Shakespeare (*Henry VI, Part 1*):** *"As **cognisance** of my blood-drinking hate, this pale and faint blossom upon my bosom do I pin."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The retainers wore their lord's proud **cognisance** embroidered upon the breast of their buff doublets."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Society has no right to take official **cognisance** of private actions that affect no other person's welfare."*

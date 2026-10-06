@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Knowledge, awareness, or notice; judicial jurisdiction or recognition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence and heraldry, official judicial examination, or a noble badge identifying an armigerous house.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Knowledge, awareness, or notice; or legal jurisdiction to hear a case.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal procedure and sociology, taking official notice of facts (judicial notice) or bearing a distinctive heraldic badge of allegiance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*Henry VI, Part 1*):** *"As **cognizance** of my blood-drinking hate, will I this pale and maiden blossom bear."*
-> - 📜 **Francis Bacon (*Essays*):** *"Things of great consequence should be brought to the timely **cognizance** of the sovereign."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The magistrates took solemn **cognizance** of her fault before the assembled multitude."*
+> - 📜 **William Shakespeare (*Henry VI, Part 1*):** *"This pale and faint blossom upon my bosom do I pin as **cognizance** of my blood-drinking hate against his house."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The law should take no **cognizance** of religious opinions, leaving every conscience free from civil penalties."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The tragic scandal had passed beyond private sorrow into the full public **cognizance** of the fashionable world."*

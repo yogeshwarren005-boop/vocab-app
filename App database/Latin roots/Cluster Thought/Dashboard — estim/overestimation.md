@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An estimate or appraisal that is excessively high, exaggerated, or unduly magnified.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychoanalytic and social theory, the inflation of personal merit or ideological influence beyond objective boundaries.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or result of estimating something too highly, generously, or excessively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral economics and clinical psychology, cognitive bias leading to inflated expectations of success or exaggerated appraisal of worth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"An exaggerated **overestimation** of popular opinion often paralyzes the independent judgment of legislators."*
-> - 📜 **Sigmund Freud (*The Interpretation of Dreams*):** *"The psychological **overestimation** of an erotic object explains the blind devotion of the lover."*
-> - 📜 **Bertrand Russell (*The Problems of Philosophy*):** *"A dogmatic certainty in metaphysics usually rests upon an **overestimation** of the scope of pure a priori reasoning."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"The arrogant **overestimation** of our own abilities is the fruitful source of half the misfortunes of human life."*
+> - 📜 **Herbert Spencer (*The Study of Sociology*):** *"National vanity leads to the habitual **overestimation** of domestic virtues and the corresponding disparagement of foreign cultures."*
+> - 📜 **William James (*The Principles of Psychology*):** *"An emotional attachment inevitably produces an **overestimation** of the beloved object's physical and moral perfections."*

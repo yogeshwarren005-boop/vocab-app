@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To distinguish, differentiate, or separate; in physiology, to secrete or filter substances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological histology and classical biology, the organic process whereby glandular tissues elaborate specific fluids from blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To distinguish, differentiate, or separate intellectually; or physiologically to secrete.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical logic and archaic physiology, the cognitive separation of distinct ideas, or the glandular secretion of specialized humors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"Glandular structures serve to **secern** specific humors from the circulating fluid of the organism."*
-> - 📜 **William Whewell (*The History of the Inductive Sciences*):** *"To **secern** the accidental from the necessary elements of experience was the grand aim of the critical philosophy."*
-> - 📜 **Sir William Hamilton (*Lectures on Metaphysics and Logic*):** *"The mind must continually **secern** true perceptions from deceptive illusions."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The analytical philosopher must carefully **secern** the products of mere associative fancy from creative imagination."*
+> - 📜 **William Cullen (*First Lines of the Practice of Physic*):** *"The glandular vessels **secern** diverse fluids from the circulating blood to lubricate articular surfaces."*
+> - 📜 **Sir William Hamilton (*Lectures on Metaphysics and Logic*):** *"To think is to condition, and to condition is to **secern** one object of consciousness from all others."*

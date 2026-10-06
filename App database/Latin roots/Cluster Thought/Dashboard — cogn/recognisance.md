@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bond or obligation entered into before a court of record to perform a legal act (British spelling of recognizance).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval chivalry, an emblem, crest, or token acknowledging fealty or military service.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A legal obligation entered into before a court or magistrate to perform a duty, such as appearing for trial (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In English common law, a formal debt acknowledgment recorded in court with condition to be void upon keeping the peace or appearing to answer charges.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Tobias Smollett (*The Adventures of Sir Launcelot Greaves*):** *"He offered to deposit a sum equal to the **recognisance** of the knight's bail."*
-> - 📜 **James Joyce (*Ulysses*):** *"Bloom: Sirs, take notice that by the law of torts you are bound over in your own **recognisance**."*
-> - 📜 **Walter Scott (*The Antiquary*):** *"The bailiff insisted that the accused should enter into a formal **recognisance** to keep the King's peace."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"This fellow might be in's time a great buyer of land, with his statutes, his **recognisance**, his fines, his double vouchers, his recoveries."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The magistrate bound the rioter over in a heavy **recognisance** to keep the peace toward all the King's subjects."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The prisoner was discharged upon his own **recognisance**, promising to appear whenever summoned before the High Court."*

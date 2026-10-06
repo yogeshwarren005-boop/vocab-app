@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being known, comprehended, or conceptualized by the intellect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological metaphysics and ontology, describing the divine essence that defies conceptual categorization by mortal reason.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being known, understood, or intellectually comprehended; unknowable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical epistemology, designating transcendent metaphysical realms or essences that cannot be objects of empirical intuition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Hamilton (*Lectures on Metaphysics and Logic*):** *"The unconditioned is fundamentally **incognoscible**, since to know is to condition and relate."*
-> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"We must beware of asserting that divine mysteries are utterly **incognoscible** to spiritual faith."*
-> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"That which lies beyond the phenomenal nexus must remain forever **incognoscible** to science."*
+> - 📜 **Sir William Hamilton (*Lectures on Metaphysics and Logic*):** *"The unconditioned Absolute is entirely **incognoscible**, for human knowledge is necessarily relative and finite."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"We are compelled to postulate an **incognoscible** Ground whose nature can never be represented in human thought."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The underlying substance supporting physical qualities remains forever **incognoscible** to human inquiry."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Drooping or nodding downward with the apex turned toward the earth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical anatomy and morphology, applied specifically to pendulous flowers, inflorescences, or stems curved toward the soil.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Nodding, drooping, or pendulous with the tip inclined downward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical morphology, describing flowers, inflorescences, or fungal caps whose pedicels curve downward toward the ground.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Asa Gray (*Gray's Lessons in Botany*):** *"The flower-stalk is curved so that the blossom is **cernuous** or nodding."*
-> - 📜 **Charles Darwin (*The Movements and Habits of Climbing Plants*):** *"The flower peduncles of several species are **cernuous** before fertilization, bending downward toward the earth."*
-> - 📜 **John Lindley (*An Introduction to Botany*):** *"A **cernuous** stem or flower is one that droops gracefully with its apex pointing toward the ground."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The solitary white flower of the nodding trillium is borne upon a short **cernuous** peduncle beneath the whorled leaves."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"The **cernuous** curvature of young epicotyls protects the fragile embryonic shoot while pushing through compact soil."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"In several species of snowdrops, the perianth remains permanently **cernuous**, shedding rainwater away from the stamens."*

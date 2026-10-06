@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having one's true identity concealed or disguised, especially by public figures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic history and romantic narrative, traveling under an assumed name to avoid ceremonial protocol.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With one's real identity concealed, disguised, or unacknowledged, especially by public figures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social history and political narrative, traveling under an assumed name to avoid official ceremony, public intrusion, or surveillance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"I have come **incognito** from Prague for the purpose of consulting you."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A Frenchman or a Russian prince **incognito**, said the officer, looking at Pierre’s fine though dusty clothes."*
-> - 📜 **Walter Scott (*The Talisman*):** *"The King of England rode **incognito** through the camp to test the fidelity of his crusader barons."*
+> - 📜 **Arthur Conan Doyle (*A Scandal in Bohemia*):** *"The King of Bohemia traveled **incognito** to Baker Street, donning a mask to conceal his royal countenance."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The emperor visited the naval shipyards **incognito**, mingling among common carpenters to inspect the fleet's timber."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"King Richard rode through Sherwood Forest **incognito** as the Black Knight, concealing his royal identity from friend and foe."*

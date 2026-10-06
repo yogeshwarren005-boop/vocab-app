@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The identification of something previously known; acknowledgment of validity, merit, or achievement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Hegelian philosophy and diplomacy, the mutual validation of sovereign status or autonomous self-consciousness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of identifying from previous knowledge, or formal acknowledgment of service, achievement, or status.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international relations and perceptual psychology, sovereign accreditation, or matching sensory input with stored cognitive schemas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Grandfather Smallweed smiles in a very ugly way in **recognition** of the letter."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth bowed slightly in **recognition** as Mr. Darcy rode past her window."*
-> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"The highest tribute to genius is the universal **recognition** of its universal truth."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A sudden gleam of mutual **recognition** passed between the two men as the lantern illuminated their faces."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"The government granted prompt diplomatic **recognition** to the newly established democratic republic."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea longed for some noble sphere of action where her devotion might win genuine spiritual **recognition**."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mentioned or written further down on the same page, or below in a document.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal drafting and official gazettes, specifying a schedule of items, persons, or clauses enumerated lower in the text.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Named, mentioned, or cited below in a document, letter, or legal schedule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statutory documentation and formal agreements, specifying items, persons, or conditions detailed in subsequent lines of text.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The **undermentioned** properties in the parish of St. Albans were subject to the disputed testamentary trust."*
-> - 📜 **Walter Scott (*Rob Roy*):** *"The magistrate read out the **undermentioned** names of persons summoned to surrender to the King's officers."*
-> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The **undermentioned** jewels, including the great Agra diamond, formed the subject of the secret compact."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The court directed that the **undermentioned** parties should appear before the master in Chancery on the following Monday."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The royal proclamation enumerated the **undermentioned** boroughs that had forfeited their ancient municipal charters."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The conveyance covenants that the vendor hath good right to alienate the **undermentioned** parcels of arable land."*

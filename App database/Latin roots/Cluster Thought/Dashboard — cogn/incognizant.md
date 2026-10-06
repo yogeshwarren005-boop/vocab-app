@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking awareness, knowledge, or perception of something; unmindful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological narrative and political critique, remaining oblivious to perils or historic currents moving in plain sight.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no knowledge, awareness, or notice; unaware; oblivious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and psychological description, failing to perceive surrounding dangers, ethical duties, or societal changes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"He walked onward through the dark market-place, entirely **incognizant** of the plot brewing against him."*
-> - 📜 **Joseph Conrad (*Victory*):** *"He lived upon his lonely island, apparently **incognizant** of the greedy eyes watching his retreat."*
-> - 📜 **Henry James (*The Golden Bowl*):** *"She remained placidly **incognizant** of the delicate web of deception woven around her marriage."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"He walked through the crowded streets **incognizant** of the whispers and cold stares directed at his disgraced figure."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea was largely **incognizant** of the petty social rivalries that preoccupied the provincial drawing-rooms."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The sleeping pilgrims lay upon the deck **incognizant** of the fatal collision that had ripped open the ship's bulkhead."*

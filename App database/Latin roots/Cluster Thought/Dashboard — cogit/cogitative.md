@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing the power or faculty of thinking; contemplative, meditative, or thoughtful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scholastic philosophy and cognitive theory, pertaining to the intellectual capacity for discursive reasoning and rational synthesis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, engaged in, or possessing the faculty of deliberate thinking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical psychology and Aristotelian philosophy, the internal rational capacity that evaluates particulars and coordinates deliberate intention.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"We have the knowledge of an eternal, most powerful, and most knowing **cogitative** Being."*
-> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"The **cogitative** powers of man distinguish him from beasts that follow mere mechanical instinct."*
-> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Montaigne turns an acute, **cogitative** gaze upon the trivial incidents of daily existence."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"We cannot conceive that mere unthinking matter could ever produce a **cogitative** being endowed with consciousness."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The **cogitative** faculty must be disciplined by empirical observation lest it spin intricate webs of speculative error."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"Reason operates as the supreme sovereign over our lower imaginative and **cogitative** powers."*

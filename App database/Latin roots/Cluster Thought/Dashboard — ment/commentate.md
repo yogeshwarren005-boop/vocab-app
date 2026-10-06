@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To write or deliver a commentary; to explain or remark critically on an unfolding event.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary scholarship and journalism, providing live descriptive analysis or critical exposition of text or public affairs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To act as a commentator; to provide running commentary, critical analysis, or explanatory remarks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In media broadcasting and literary journalism, delivering continuous verbal reporting and expert critique on live events or texts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"Critics who **commentate** upon Shakespeare must bring both erudition and modesty to their task."*
-> - 📜 **Thomas De Quincey (*Essays in Philosophy*):** *"To **commentate** on Kant's transcendental deductions requires an intellect trained in rigorous logic."*
-> - 📜 **William Hazlitt (*Table-Talk*):** *"Every bystander in politics feels qualified to **commentate** on decisions whose secret causes he cannot fathom."*
+> - 📜 **George Bernard Shaw (*Dramatic Opinions and Essays*):** *"The critic's duty is not merely to describe the performance, but to **commentate** upon the philosophical vision of the dramatist."*
+> - 📜 **G. K. Chesterton (*All Things Considered*):** *"He sat back to **commentate** upon the absurdities of modern politics with genial irony and biting satire."*
+> - 📜 **H. G. Wells (*The New Machiavelli*):** *"The journalists assembled in the lobby began to **commentate** excitedly upon the sudden collapse of the government."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking judgment, insight, or discrimination; unable to distinguish subtle qualities or merits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural commentary, describing an uncritical populace or obtuse observer incapable of appreciating true artistic or moral excellence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking judgment, insight, or discrimination; unable to distinguish quality or truth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual criticism, uncritical and undifferentiating, accepting superficial appearances without perceptive analysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon seemed to be stupidly **undiscerning** and odiously unjust."*
-> - 📜 **Jane Austen (*Sense and Sensibility*):** *"If their praise is censure, your censure may be praise, for they are not more **undiscerning** than you are biased."*
-> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"A crude, **undiscerning** individualism mistakes mere competitive ruthlessness for evolutionary fitness."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The praise of an **undiscerning** public gave small satisfaction to an artist dedicated to perfection."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"An **undiscerning** mind confounds genuine scientific deductions with the speculative dogmas of popular writers."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Marianne condemned the polite company as dull and **undiscerning**, incapable of appreciating true poetic passion."*

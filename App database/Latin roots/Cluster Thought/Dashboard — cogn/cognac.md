@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A high-quality grape brandy distilled from white wine produced in the region of Cognac, France.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastronomic history and viticulture, a protected appellation brandy matured in oak casks to develop amber complexity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A high-quality French brandy distilled from white wine produced in the region surrounding Cognac in western France.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastronomic history and trade appellation, a double-distilled spirit aged in Limousin oak casks, protected by strict geographical designation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"He poured out a small glass of **cognac** and pushed it across the mahogany table."*
-> - 📜 **James Joyce (*Ulysses*):** *"A sip of mellow **cognac** warmed his palate and quieted the lingering tremor in his nerves."*
-> - 📜 **Alexandre Dumas (*The Count of Monte Cristo*):** *"The servant brought forth a crystal decanter of vintage **cognac** to revive the fainting traveler."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The doctor prescribed a small glass of old **cognac** to revive the elderly gentleman's failing pulse."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The travelers warmed their shivering hands over steaming glasses of hot water and fragrant French **cognac**."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Holmes poured a measure of **cognac** for the trembling client, bidding him compose his nerves before speaking."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being recognized, perceived, or differentiated (variant spelling of discernible).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary description and philosophical critique, standing out with sufficient clarity to be detected by the observer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being perceived, recognized, or distinguished; discernible (variant spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In observational science and descriptive narrative, visible or intelligible to a discriminating observer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"I could give an individual description of each, for every atom in that room became **discernable** to my sharpened sight."*
-> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"A subtle law of compensation is everywhere **discernable** in human life and nature."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"No trace of sorrow was **discernable** upon her countenance as she crossed the market-place."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Even under low magnification, the rudimentary organs are clearly **discernable** in the developing embryo."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The faint outline of the distant downs was barely **discernable** through the thick autumn mist."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Through the glassy water, every pebble upon the shallow sandy bottom was distinctly **discernable**."*

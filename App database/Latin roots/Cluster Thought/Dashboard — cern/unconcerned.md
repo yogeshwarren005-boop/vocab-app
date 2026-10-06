@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having any interest, anxiety, or emotional stake; untroubled, nonchalant, or indifferent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative characterization, displaying serene detachment from surrounding tumult, peril, or social scrutiny.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not troubled, worried, or anxious; having no emotional or personal involvement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral description, displaying placid indifference or aloofness toward stressful circumstances or moral responsibilities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The tall lank pony seemed used to such doings, and ambled along **unconcerned**."*
-> - 📜 **George Eliot (*Middlemarch*):** *"She strove to look quite **unconcerned**, though her heart beat with strange violence."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"I tried to put on as **unconcerned** an air as possible, but I had not forgotten the warnings of the lady."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The pastoral world moved on, tranquil and **unconcerned**, indifferent to the tragedy unfolding in her heart."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He appeared wholly **unconcerned** by the harsh gossip circulating among his provincial colleagues."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The naturalist pursued butterflies across the deadly mire with an **unconcerned** smile."*

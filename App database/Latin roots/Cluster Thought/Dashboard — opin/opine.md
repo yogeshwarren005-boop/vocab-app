@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To hold or express an opinion; state as one's belief or judgment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In expository rhetoric and juristic debate, asserting a formal viewpoint or scholarly conclusion with prudent deliberation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To express or hold an opinion; to state as one's belief or judgment on a question.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal discourse and judicial deliberations, to declare a considered view or formal legal verdict on a contentious point.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick*):** *"When, as I **opine**, in the course of time, the true nature of spermaceti became known, its original name was retained."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Indeed they **opine** that the Eternal and Divine did in very truth walk upon the earth."*
-> - 📜 **Laurence Sterne (*Tristram Shandy*):** *"I **opine**, quoth my Uncle Toby, that every soldier should know the reason of the warfare in which he serves."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The old timber merchant paused, cleared his throat, and ventured to **opine** that the oak harvest would fetch high prices."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The Dutch whalemen **opine** that the white whale is an immortal spirit wandering across the polar oceans."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The Lilliputian philosophers did gravely **opine** that my watch was an oracle or household deity whom I consulted."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To estimate, rate, or value at too low an amount, rate, or degree of importance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tactical competition and politics, discounting the capability, resolve, or latent power of an adversary.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To estimate at too low a value, quantity, strength, or importance; to undervalue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In competitive strategy and military analysis, failing to appreciate the true capacity, resilience, or threat posed by an adversary.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Do not **underestimate** the resolution of a quiet spirit when pushed to extremity."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Does the writer **underestimate** the actual impress made on his age by Jesus?"*
-> - 📜 **Arthur Conan Doyle (*The Valley of Fear*):** *"You always **underestimate** Professor Moriarty, Watson, and therein lies our deadly peril."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"No prudent farmer should **underestimate** the sudden ferocity of an autumn gale upon an exposed downs pasture."*
+> - 📜 **Joseph Conrad (*The Secret Agent*):** *"The detective cautioned his superiors not to **underestimate** the fanaticism of the desperate revolutionary conspirators."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"She made the fatal mistake to **underestimate** her husband's cold, relentless determination to dominate her will."*

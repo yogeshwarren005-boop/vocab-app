@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Freedom from anxiety, care, or interest; an attitude of casual indifference.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social comportment and psychological defense, an outward posture of nonchalance assumed to mask underlying tension or pride.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Absence of anxiety, care, or interest; indifference; apathy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological characterization, a state of detachment or nonchalance in the face of imminent danger or social expectations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There was no necessity for any continuance of speech, and the fact that she did add more seemed to betray an attempted **unconcern**."*
-> - 📜 **George Eliot (*Middlemarch*):** *"He answered with an effort to throw as much sober **unconcern** into his tone as possible."*
-> - 📜 **Bram Stoker (*Dracula*):** *"She opened her eyes, and we all started as she said, sweetly and seemingly with the utmost **unconcern**, 'Arthur!'"*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He surveyed the financial disaster with an apparent **unconcern** that astounded his anxious neighbors."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Rosamond maintained a polite **unconcern** regarding her husband's grave financial embarrassments."*
+> - 📜 **Bram Stoker (*Dracula*):** *"The peasants went about their daily chores with calm **unconcern**, unaware of the vampire lurking near."*

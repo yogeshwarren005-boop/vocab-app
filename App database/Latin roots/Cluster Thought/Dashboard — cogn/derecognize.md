@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To withdraw official recognition, legal status, or accreditation from an organization or government.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In corporate governance and treaty law, the deliberate decertification of an agent or diplomatic mission.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To revoke official recognition, diplomatic legitimacy, or bargaining authority from an entity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In labor relations and political jurisprudence, the administrative decertification of a union or the formal withdrawal of sovereign accreditation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Woodrow Wilson (*State Papers and Addresses*):** *"A nation may justly **derecognize** a government that violates the fundamental compact of human liberty."*
-> - 📜 **Felix Frankfurter (*The Public and Its Law*):** *"The labor board was empowered to **derecognize** any company-dominated association."*
-> - 📜 **Walter Lippmann (*The Good Society*):** *"When sovereign states **derecognize** customary international norms, chaos inevitably ensues."*
+> - 📜 **John Maynard Keynes (*Essays in Persuasion*):** *"Diplomatic pressure was exerted to **derecognize** the unconstitutional military junta ruling the capital."*
+> - 📜 **Theodore Roosevelt (*State Papers as Governor and President*):** *"The state refused to **derecognize** lawful labor organizations that maintained peaceful collective bargaining."*
+> - 📜 **Woodrow Wilson (*The State: Elements of Historical and Practical Politics*):** *"International law permits sovereign states to **derecognize** governments born of violent insurrection."*

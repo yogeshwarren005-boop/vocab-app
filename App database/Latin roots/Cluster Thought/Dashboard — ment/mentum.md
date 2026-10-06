@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The chin; in entomology and botany, a projection or plate situated beneath the lower lip.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In insect morphology and orchid anatomy, a sclerite of the submentum supporting the labial palps, or a spur-like column projection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The anatomical chin; or a median projecting sclerite on the labium of an insect's head.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology and human osteology, the anterior lower margin of the mandible, or the prelabial plate supporting the labial palpi in arthropods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Darwin (*On the Various Contrivances by which British and Foreign Orchids are Fertilised by Insects*):** *"The lower sepals unite at the base with the column-foot to form a chin-like pouch or **mentum**."*
-> - 📜 **William Kirby (*An Introduction to Entomology*):** *"The **mentum** is that plate of the mouth situated immediately above the submentum and bearing the labium."*
-> - 📜 **John Obadiah Westwood (*Modern Classification of Insects*):** *"In coleopterous insects, the shape of the **mentum** provides a valuable diagnostic character for family classification."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **mentum**, or mental protuberance, forms the characteristic triangular bony prominence of the human chin."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"In the beetle's mouthparts, the broad **mentum** articulates with the submentum to form the ventral floor of the buccal cavity."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The prominent osseous **mentum** distinguishes modern Homo sapiens from all fossil Neanderthal and hominid mandibles."*

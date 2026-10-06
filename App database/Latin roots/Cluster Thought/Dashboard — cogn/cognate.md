@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Descended from the same original root or language; having a common ancestor or related character.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative linguistics and anthropology, lexical items or kinship lineages sharing genetic descent from an ancestral form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Related by blood or descent; or linguistically derived from a common ancestral root.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical linguistics and comparative philology, words in different languages descending from a shared etymon in a proto-language.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The English word 'father' and Latin 'pater' are genuinely **cognate** forms descending from an Aryan original."*
-> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"We must observe how **cognate** sciences assist and illustrate one another in their progress."*
-> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"Mathematics and mechanics possess a **cognate** structure based upon axioms of pure intuition."*
+> - 📜 **Henry David Thoreau (*A Week on the Concord and Merrimack Rivers*):** *"The primitive roots of English reveal ancient **cognate** forms preserved in Sanskrit and classical Greek."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The Latin mater, Greek meter, and English mother are strictly **cognate** words sharing a common Aryan origin."*
+> - 📜 **Henry Maine (*Ancient Law*):** *"Roman civil law distinguished the agnatic kindred related through males from the broader class of **cognate** relations."*

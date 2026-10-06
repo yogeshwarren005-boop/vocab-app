@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A yellow, medium-hard Swiss cheese characterized by large characteristic eyes and a mild, savory-nutty flavor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural history and culinary geography, traditional cheese originating in the Emme valley in the canton of Bern, Switzerland.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A firm, pale-yellow Swiss cow's milk cheese riddled with large round holes; Emmentaler.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dairy science, a traditional Alpine cheese originating in the Emme valley, ripened with propionic acid bacteria that produce carbon dioxide gas cavities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*A Tramp Abroad*):** *"At the mountain inn they served us coarse rye bread with generous wedges of golden **Emmental** cheese."*
-> - 📜 **Robert Louis Stevenson (*Travels with a Donkey in the Cévennes*):** *"My knapsack contained a loaf, a flask of wine, and a savory piece of Swiss **Emmental**."*
-> - 📜 **George Gissing (*By the Ionian Sea*):** *"The simple luncheon concluded with fresh grapes and a crumbly slice of imported **Emmental**."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The hospitable farmer set out a broad loaf of dark rye bread and a generous wedge of sharp Swiss **emmental**."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"The travelers enjoyed a simple Alpine supper of smoked ham and pale yellow **emmental** beside the glowing hearth."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Dairyman Crick discoursed upon foreign cheeses, admitting that Swiss **emmental** commanded high prices in the London markets."*

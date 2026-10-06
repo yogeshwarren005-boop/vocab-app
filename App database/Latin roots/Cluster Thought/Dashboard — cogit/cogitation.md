@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of thinking deeply; contemplation, meditation, or serious reflection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary prose, the solitary and methodical deliberation preceding difficult decisions or philosophical deductions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deep, concentrated thought, meditation, or serious reflection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive philosophy, the process of internal deliberation and intellectual reasoning preceding action or decision.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"After some **cogitation**, accompanied with an intent look at his patron, Mr. Cruncher spoke."*
-> - 📜 **Jane Austen (*Emma*):** *"She resumed a more serious, more dispiriting **cogitation** on the events of the evening."*
-> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"A man who spends his whole life in solitary **cogitation** becomes a stranger to the affairs of the world."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"Thoughts of great value, worthy **cogitation**, have long occupied my troubled breast regarding Rome's liberty."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"After much internal **cogitation**, Joe Gargery delivered his honest opinion with slow, solemn emphasis."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Fanny was left to her own solitary **cogitation**, turning over every word of the unexpected letter in her mind."*

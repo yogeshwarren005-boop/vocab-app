@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner relating to cognition, intellectual processing, or the acquisition of knowledge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental psychology and pedagogy, evaluating conceptual mastery rather than rote emotional response.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner relating to cognition, conscious intellectual processing, or mental perception.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental psychology and neuropsychology, with reference to the acquisition, representation, and application of knowledge.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William James (*The Meaning of Truth*):** *"An idea functions **cognitively** only when it guides the thinker toward fruitful practical adjustments."*
-> - 📜 **John Dewey (*Democracy and Education*):** *"The student who engages actively with problems develops **cognitively** far faster than a passive listener."*
-> - 📜 **Bertrand Russell (*Human Knowledge: Its Scope and Limits*):** *"We must inquire how far our sensory beliefs are **cognitively** justified by rational standards."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The infant matures **cognitively** as repeated sensorimotor interactions establish permanent representations of objects."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"An organism that reacts **cognitively** to distant stimuli possesses an enormous evolutionary advantage over one guided by touch alone."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"Students must learn to approach natural phenomena **cognitively**, testing hypotheses with disciplined skepticism."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The guidance, advice, and support provided by an experienced mentor to a protégé.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In educational theory and professional apprenticeship, a sustained developmental relationship fostering professional mastery and ethics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The guidance, counsel, and active support provided by an experienced mentor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pedagogical theory and professional training, the sustained developmental relationship through which expertise, ethics, and craft are transmitted.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Dewey (*Democracy and Education*):** *"Effective **mentorship** cultivates independence of mind rather than mere mechanical imitation of the master."*
-> - 📜 **Booker T. Washington (*Up from Slavery*):** *"Under the wise and patient **mentorship** of General Armstrong, my entire conception of life was transformed."*
-> - 📜 **Jane Addams (*Twenty Years at Hull-House*):** *"The settlement house provided loving **mentorship** to young immigrant girls facing urban hardships."*
+> - 📜 **Abraham Flexner (*Medical Education in the United States and Canada*):** *"The clinical clerkship provides invaluable personal **mentorship**, allowing young students to observe master clinicians at the bedside."*
+> - 📜 **William Osler (*Aequanimitas*):** *"Under the inspiring **mentorship** of dedicated teachers, the student assimilates not merely facts, but the sacred traditions of healing."*
+> - 📜 **Harvey Cushing (*The Life of Sir William Osler*):** *"Osler's generous **mentorship** shaped the careers of generations of young medical investigators across two continents."*

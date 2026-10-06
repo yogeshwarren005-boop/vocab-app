@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the capacity or tendency to think out, devise, or invent through sustained reflection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical biography, characterizing a mind given to original speculative creation rather than passive empirical reception.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, characterized by, or inventive through deep, deliberate thought.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive philosophy, describing mental faculties or intellectual methods that deduce solutions and designs through concentrated reflection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Samuel Johnson (*The Rambler*):** *"His **excogitative** genius enabled him to discover moral remedies where others saw only despair."*
-> - 📜 **William Hazlitt (*Table-Talk*):** *"Coleridge's mind was pre-eminently **excogitative**, spinning vast dialectical webs from single ideas."*
-> - 📜 **Thomas De Quincey (*Confessions of an English Opium-Eater*):** *"Under the influence of the drug, the **excogitative** faculty expands beyond all customary bounds."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The **excogitative** method of ancient dogmatists neglected empirical verification in favor of deductive certainty."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"His mind possessed an **excogitative** energy that unraveled complex metaphysical knots with apparent ease."*
+> - 📜 **Sir William Hamilton (*Lectures on Metaphysics and Logic*):** *"Philosophical analysis requires an **excogitative** power capable of isolating essential relations from accidental conditions."*

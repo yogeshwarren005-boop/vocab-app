@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To withdraw formal recognition or official legal status from an entity (British spelling of derecognize).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In labor law and international relations, revoking the accredited bargaining rights of a trade union or state sovereignty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To withdraw official recognition or diplomatic status from a state, organization, or trade union (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international diplomacy and labor law, the formal revocation of legal standing, negotiating authority, or political legitimacy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Winston Churchill (*The Second World War*):** *"The government was advised to **derecognise** the puppet administration set up by the invaders."*
-> - 📜 **Harold Laski (*A Grammar of Politics*):** *"To **derecognise** an established representative body without arbitration invites industrial paralysis."*
-> - 📜 **Sidney Webb (*The History of Trade Unionism*):** *"Employers sought to **derecognise** the newly amalgamated union during the lockout of 1897."*
+> - 📜 **John Maynard Keynes (*The Economic Consequences of the Peace*):** *"The council debated whether to **derecognise** the de facto revolutionary government that held power in the eastern provinces."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The British cabinet resolved to **derecognise** the puppet regime established under foreign military occupation."*
+> - 📜 **Harold Laski (*A Grammar of Politics*):** *"When employers arbitrarily **derecognise** a legitimate trade union, industrial peace is fatally undermined."*

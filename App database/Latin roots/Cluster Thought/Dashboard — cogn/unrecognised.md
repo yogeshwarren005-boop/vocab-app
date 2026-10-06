@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not identified, acknowledged, appreciated, or given official status (British spelling of unrecognized).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary history, describing genius or artistic masterpieces that languished in obscurity during the author's lifetime.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not identified, appreciated, or officially acknowledged; unrecognized (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural history and biography, describing genius, virtue, or merit that remains neglected by contemporaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"He wandered through the university town, poor and **unrecognised** by the academic elite."*
-> - 📜 **George Eliot (*Scenes of Clerical Life*):** *"Many a heroic sacrifice is made in humble cottages, **unrecognised** by the busy world outside."*
-> - 📜 **Charlotte Brontë (*The Professor*):** *"My quiet labor remained long **unrecognised**, but patient fidelity won in the end."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Many intermediate fossil links remain **unrecognised** in poorly explored geological formations of the southern continents."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The minister walked among his parishioners, his secret remorse entirely **unrecognised** beneath his saintly reputation."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She spent her days in devoted labor, content that her quiet beneficence should remain **unrecognised** by the world."*

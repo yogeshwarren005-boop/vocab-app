@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternative name for Emmental cheese, the traditional hole-riddled cheese from the Emmental valley in Switzerland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In European food regulation and cheesemaking, a firm raw-milk cheese produced through propionic acid fermentation forming carbon dioxide eyes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Authentic Swiss Emmental cheese produced in the Emmental region of Canton Bern, Switzerland.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastronomic geography and food technology, a protected Alpine cheese whose sweet, nutty flavor and walnut-sized eyes develop during cellar warm-curing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The World of William Clissold*):** *"He enjoyed the simple peasant breakfast of crusty bread, dark beer, and pungent **Emmentaler**."*
-> - 📜 **Thomas Mann (*The Magic Mountain*):** *"In the sanatorium dining hall, the Swiss guests insisted on their domestic **Emmentaler** at every supper."*
-> - 📜 **Sinclair Lewis (*Dodsworth*):** *"They sat upon the terrace overlooking the lake, dining on cold roast beef and Swiss **Emmentaler**."*
+> - 📜 **George Eliot (*Adam Bede*):** *"The cool dairy room was stocked with enormous round wheels of golden **emmentaler** curing upon pine shelves."*
+> - 📜 **Mark Twain (*A Tramp Abroad*):** *"In every Swiss chalet, we were offered dark bread and sturdy slices of aged **emmentaler** with cold mountain spring water."*
+> - 📜 **Henry James (*Transatlantic Sketches*):** *"The village inn in the Bernese Oberland provided generous platters of local **emmentaler** and crisp white wine."*

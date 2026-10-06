@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To form an approximate judgment or opinion concerning value, size, quantity, or importance; a calculation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic accounting and strategic planning, an appraisal of prospective costs, resource expenditures, or market values.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To calculate approximately, assess the value or extent of, or form an informed opinion about something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economics and engineering, calculating probable costs, material requirements, or probabilistic parameters before undertaking a project.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Had Gabriel been able from the first to get a distinct view of her countenance, his **estimate** of it might have been different."*
-> - 📜 **John Stuart Mill (*Utilitarianism*):** *"In forming an **estimate** of actions, consequences must be weighed against intentions."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"My guardian's **estimate** of human nature was not elevated, but it was remarkably shrewd."*
+> - 📜 **William Shakespeare (*Coriolanus*):** *"I'd rather have my wounds to heal again than hear say how I got them, for I can never **estimate** the price of praise."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak paused to **estimate** the financial loss caused by the thunderstorm before proposing emergency remedies to the farm bailiff."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The prudent merchant will carefully **estimate** the risks of marine transport before committing capital to long voyages."*

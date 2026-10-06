@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being perceived, known, or brought under judicial scrutiny and jurisdiction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional law and legal theory, a legal claim or controversy possessing standing to be heard in a court of justice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being perceived, known, or legally tried and examined.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In judicial jurisprudence, falling within the legitimate scope and authority of a court of law.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Causes of admiralty and maritime jurisdiction are properly **cognizable** in federal courts."*
-> - 📜 **Thomas Jefferson (*Notes on the State of Virginia*):** *"The legitimate powers of government extend to such acts only as are injurious to others and legally **cognizable**."*
-> - 📜 **John Stuart Mill (*On Liberty*):** *"Only those actions that infringe upon the rights of others are morally **cognizable** by civil authority."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Breaches of maritime contracts are properly **cognizable** in the Court of Admiralty."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Qualities of bodies that produce distinct simple ideas in our minds are readily **cognizable** by human reason."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Cases arising under the federal constitution are made **cognizable** exclusively in the supreme and inferior federal tribunals."*

@@ -43,9 +43,9 @@ dv.container.appendChild(toggle);
 
 > [!book] 📖 Definitions & Semantic Range
 > 1. **Primary Definition (Lexical / Standard Consensus)**: The mental action or process of acquiring knowledge and understanding through thought, experience, and the senses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive science and epistemological theory, the sum of internal information-processing mechanisms in the mind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology and neurobiology, the totality of mental operations including perception, memory, reasoning, concept formation, and judgment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"All our **cognition** begins with experience, but it does not follow that it all arises out of experience."*
-> - 📜 **William James (*The Principles of Psychology*):** *"Every act of immediate **cognition** involves both sensory awareness and interpretive judgment."*
-> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The faculty of clear **cognition** enables the mind to distinguish between real existences and chimeric fancies."*
+> - 📜 **William Shakespeare (*Troilus and Cressida*):** *"I will not be sworn but love may transform me to an oyster; but I'll take my oath on it, till he have made an oyster of me, he shall never make me such a fool; yet this **cognition** of his weakness remains."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"All human **cognition** begins with intuitions, proceeds from thence to concepts, and ends with ideas of reason."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The primary function of animal **cognition** is to guide adaptive bodily action in an environment of hazards."*

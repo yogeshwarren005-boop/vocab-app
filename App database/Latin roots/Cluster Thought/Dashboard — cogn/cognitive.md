@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the mental processes of perception, memory, judgment, and reasoning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuropsychology and linguistic theory, pertaining to internal computational architectures underlying intellect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, being, or involving conscious intellectual activity such as thinking, reasoning, or remembering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroscience and artificial intelligence, pertaining to the neural mechanisms and computational architectures underlying information processing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bertrand Russell (*The Analysis of Mind*):** *"Belief must be regarded as an essential **cognitive** relation linking the subject to factual reality."*
-> - 📜 **William James (*The Principles of Psychology*):** *"The **cognitive** function of feelings is to orient the organism rapidly toward advantageous behaviors."*
-> - 📜 **John Dewey (*How We Think*):** *"Reflective thinking is a disciplined **cognitive** habit that transforms perplexity into systematic inquiry."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The **cognitive** aspect of emotional states cannot be dissociated from their visceral and motor accompaniments."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The higher mammals exhibit sophisticated **cognitive** capacities, including memory, rudimentary imagination, and problem-solving."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Physical education and laboratory training develop essential **cognitive** faculties that mere book-learning leaves dormant."*

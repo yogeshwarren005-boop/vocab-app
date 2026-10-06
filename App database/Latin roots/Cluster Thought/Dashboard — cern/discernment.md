@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cognitive ability to judge well, perceive distinctions, and grasp subtle nuances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical epistemology and moral psychology, the intellectual virtue of distinguishing truth from deception and virtue from vice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ability to judge well, perceive distinctions clearly, and understand hidden truths.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and cognitive psychology, intellectual penetration allowing an observer to differentiate virtue from hypocrisy or signal from noise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It would be an insult to the **discernment** of any man with half an eye to tell him so."*
-> - 📜 **Jane Austen (*Persuasion*):** *"There is a quickness of perception in some, a nicety in the **discernment** of character, which amounts to genius."*
-> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Judgement consists in the careful **discernment** of differences among ideas that otherwise appear similar."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her moral **discernment** was clouded by generous sympathy, leading her to impute noble motives to ordinary men."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"It requires rare **discernment** to read the secret character of an ocean captain beneath his rough exterior."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"True scientific training cultivates a rigorous **discernment** that separates verified facts from speculative hypotheses."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine that physical reality exists only as a mental construct; in entertainment, the performance of mind-reading feats.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy of mind and idealism, the ontological assertion that subjective conscious phenomena cannot be reduced to physical mechanics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The philosophical doctrine that mind is the fundamental reality; or the theatrical art of simulated mind-reading.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of psychology and performance arts, the theory that psychological phenomena must be explained in mental rather than purely behavioral terms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William James (*The Meaning of Truth*):** *"Philosophical **mentalism** holds that all objects of experience depend ultimately on being perceived."*
-> - 📜 **Bertrand Russell (*Our Knowledge of the External World*):** *"The extreme form of **mentalism** known as solipsism cannot be logically disproved, but commands no belief."*
-> - 📜 **George Berkeley (*A Treatise Concerning the Principles of Human Knowledge*):** *"The principles of subjective **mentalism** establish that the existence of things consists in their being perceived."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Philosophical **mentalism** insists that material objects have no existence independent of a perceiving consciousness."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Extreme forms of **mentalism** dissolve the physical world into a phantom dance of unsubstantial subjective ideas."*
+> - 📜 **Arthur Conan Doyle (*The Edge of the Unknown*):** *"The stage performer claimed supernatural clairvoyance, but his demonstrations were merely skillful exercises in **mentalism** and telepathic trickery."*

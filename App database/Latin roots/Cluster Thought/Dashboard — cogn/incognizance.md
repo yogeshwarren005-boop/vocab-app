@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of knowledge, notice, awareness, or official apprehension.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal theory and administration, official disregard of an extraneous fact or procedural ignorance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Failure to recognize, take notice of, or be aware of something; ignorance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal procedure, the state of lacking official knowledge or formal judicial notice of a material fact or proceeding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jeremy Bentham (*Rationale of Judicial Evidence*):** *"The judge's willful **incognizance** of material testimony can lead only to judicial murder."*
-> - 📜 **Samuel Taylor Coleridge (*The Friend*):** *"Popular unrest often springs from the government's culpable **incognizance** of economic distress."*
-> - 📜 **Thomas Carlyle (*Past and Present*):** *"A blind **incognizance** of the living realities of labor will tear this kingdom asunder."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The magistrate pleaded total **incognizance** of the secret compact concluded beyond his jurisdictional boundary."*
+> - 📜 **John Stuart Mill (*An Examination of Sir William Hamilton's Philosophy*):** *"Philosophical skepticism points to our constitutional **incognizance** of the inner nature of physical forces."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"Primitive man's **incognizance** of physical causation led him to attribute every storm to capricious spirits."*

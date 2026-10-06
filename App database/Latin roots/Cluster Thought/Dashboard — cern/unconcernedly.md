@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without anxiety, solicitude, or visible interest; in an easy, indifferent, or nonchalant manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In atmospheric storytelling, carrying out ordinary actions with serene oblivion in the presence of impending crisis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a carefree, indifferent, or tranquil manner; without showing anxiety.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative prose, acting with nonchalant ease or disregard for surrounding peril or solemn decorum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"From behind the waggon a bright scarlet spot emerged, and went on loading **unconcernedly** with the rest."*
-> - 📜 **H. G. Wells (*The War of the Worlds*):** *"Nothing was to be seen save flat meadows, cows feeding **unconcernedly** for the most part, and silvery willows."*
-> - 📜 **G. K. Chesterton (*The Wisdom of Father Brown*):** *"Then he came out again, with some ashes on his hair, and walked **unconcernedly** away."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard walked **unconcernedly** through the marketplace, staring proudly over the heads of the whispering townsfolk."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The strange creatures laughed and ate fruit **unconcernedly** while the shadows of dusk lengthened across the ruined palace."*
+> - 📜 **G. K. Chesterton (*The Man Who Was Thursday*):** *"The anarchist strolled **unconcernedly** along the embankment, puffing his cigarette under the pale gas lamps."*

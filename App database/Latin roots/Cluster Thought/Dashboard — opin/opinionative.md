@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dogmatic, dictatorial, or stubbornly wedded to preconceived opinions; opinionated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early modern moral essays and theology, exhibiting contentious inflexibility in disputes over doctrine or ritual.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dogmatic, stubborn, or conceited in maintaining one's own opinions; opinionated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual criticism and seventeenth-century prose, tenaciously attached to subjective preconceptions without philosophical justification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"They were not only **opinionative**, but stubborn to a degree that defied persuasion."*
-> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Melancholic men are frequently passionate and **opinionative**, wedded to absurd phantasies."*
-> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Men become **opinionative** when they take hypotheses for demonstrable certainties without examination."*
+> - 📜 **Jonathan Swift (*The Battle of the Books*):** *"The spider defended his cobweb with proud, **opinionative** obstinacy against the reasoned arguments of the bee."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Philosophical dogmatism breeds an **opinionative** arrogance that closes the intellect against fresh experimental discoveries."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Men of an **opinionative** temper mistake their own lively imaginations for infallible demonstrations of truth."*

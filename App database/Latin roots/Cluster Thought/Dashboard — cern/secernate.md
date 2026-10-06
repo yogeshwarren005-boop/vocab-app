@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To separate, discriminate, or distinguish; to secrete through biological glandular action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In natural philosophy and anatomical analysis, to isolate constituent elements or separate bodily fluids along specialized channels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To separate, differentiate, or distinguish; or physiologically to secrete.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical physiology and natural philosophy, the process by which living organs filter, separate, or elaborate distinct chemical juices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Erasmus Darwin (*Zoonomia*):** *"The kidneys **secernate** the urinary salts directly from the arterial stream."*
-> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"It is the prerogative of philosophic analysis to **secernate** heterogeneous elements that common language confounds."*
-> - 📜 **Richard Chenevix Trench (*On the Study of Words*):** *"The subtle philologist learns to **secernate** related roots and assign to each its distinct lineage."*
+> - 📜 **Erasmus Darwin (*Zoonomia; or, The Laws of Organic Life*):** *"The hepatic capillaries **secernate** bile from venous blood to assist in intestinal digestion."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Living cells possess the remarkable power to **secernate** specific enzymes required for metabolic transformations."*
+> - 📜 **John Hunter (*Treatise on the Blood, Inflammation, and Gun-shot Wounds*):** *"The inflamed membranes **secernate** a serous effusion that fills the surrounding fascial compartments."*

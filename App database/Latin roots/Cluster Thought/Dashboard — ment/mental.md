@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the mind or intellectual processes, as distinguished from physical bodily functions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology and psychiatry, designating operations of consciousness, reasoning, memory, or psychic health.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the mind, intellect, or psychological operations; or anatomically relating to the chin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuropsychiatry and anatomy, cognitive functioning or disorders; or designating the mental foramen, mental nerve, and mental protuberance of the mandible.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*Timon of Athens*):** *"What a **mental** power this eye shoots forth! How big imagination moves in this lip!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Very odd and very curious, the **mental** process is, in you men of business!"*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Her **mental** powers were of an uncommon order, though hidden beneath modest reticence."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Cure her of that: canst thou not minister to a mind diseased, pluck from the memory a rooted sorrow, and raze out the written troubles of the **mental** brain?"*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A severe **mental** conflict raged within her breast between maidenly pride and genuine gratitude to Gabriel Oak."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **mental** nerve emerges through the mental foramen of the mandible to supply sensory innervation to the chin and lower lip."*

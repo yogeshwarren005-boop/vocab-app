@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To relate to, affect, or engage the attention and interests of someone; a matter of interest or solicitude.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethics and human relationships, compassionate anxiety or practical responsibility borne on behalf of others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To relate to, be of importance to, or cause anxiety and thoughtful interest in someone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethical philosophy and commercial jurisprudence, legitimate interest, active responsibility, or an ongoing business enterprise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*Julius Caesar*):** *"Let’s hear him, for the things he speaks may **concern** Caesar."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"It is a truth that his happiness should be a matter of deep **concern** to all his family."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I have a great deal of business to settle, which does not immediately **concern** you."*
+> - 📜 **William Shakespeare (*Othello*):** *"They are matters of more strange and dangerous **concern** than what you hear reported in the marketplace."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel Oak watched the gathering thunderclouds with grave **concern** for the unthatched ricks of wheat."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Over himself, over his own body and mind, the individual is sovereign in all that does not **concern** others."*

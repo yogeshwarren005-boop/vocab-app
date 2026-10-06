@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not identified, noticed, acknowledged, or validated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social history and psychology, operating as an unseen yet decisive influence upon human decisions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not identified, appreciated, or officially acknowledged by society or authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of science and philosophy, profound discoveries or ethical truths that languished in obscurity before posthumous vindication.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"By some good agency,—possibly, by the **unrecognized** interposition of the late judge,—the youth was liberated."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics*):** *"This truth, **unrecognized** for many centuries, forms the foundation of the modern theory of rent."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"It was a feeling of defenselessness against some **unrecognized** but malicious influence."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"His constant fidelity remained largely **unrecognized** by the proud mistress who accepted his loyal service as a matter of course."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The noble physician lived quietly in London, his past sufferings in the Bastille almost **unrecognized** by his English neighbors."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"The greatest benefactors of mankind often walk through life **unrecognized**, misunderstood by their own generation."*

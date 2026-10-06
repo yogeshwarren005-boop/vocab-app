@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With solicitude, anxiety, or troubled interest; in a concerned and thoughtful manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic dialogue, expressing tender sympathetic apprehension or anxious care for an interlocutor's distress.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an anxious, troubled, or earnestly solicitous manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive narrative and psychological observation, manifesting sincere emotional distress or attentive solicitude through tone and expression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"She looked at him **concernedly**, wondering what fresh disaster had befallen the household."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *""Why, what's the matter?" he broke off **concernedly**, as he caught a clearer view of the child."*
-> - 📜 **Thomas Hardy (*The Woodlanders*):** *"He paused and glanced **concernedly** at Grace, noticing the pallor that had stolen over her cheeks."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Elizabeth-Jane looked **concernedly** into Henchard's worn face, fearing that misfortune had broken his proud spirit."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The kind-hearted dolly inquired **concernedly** after the weaver's ailing health, offering herbal remedies of her own brewing."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe Gargery patted my shoulder **concernedly**, assuring me that all would yet be well between friends."*

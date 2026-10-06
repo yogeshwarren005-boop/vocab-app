@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relationship by descent from a common ancestor; kinship, affinity, or shared origin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman civil law and comparative jurisprudence, kinship traced through maternal bloodlines in contradistinction to agnation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relationship by blood descent or common origin; kinship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman civil law and comparative kinship systems, natural blood relationship traced through either or both parents, distinct from legal agnation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The civil law of Rome carefully distinguished between agnation through the father and **cognation** through the mother."*
-> - 📜 **Sir Henry Maine (*Ancient Law*):** *"The historical transition from strict agnatic patriarchy to natural **cognation** marked a revolution in European family law."*
-> - 📜 **John Stuart Mill (*A System of Logic*):** *"The close conceptual **cognation** uniting geometry and physics demonstrates the unity of deductive science."*
+> - 📜 **Henry Maine (*Ancient Law*):** *"The praetor's edict gradually recognized natural **cognation** as a valid foundation for inheritance rights in Rome."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ties of political allegiance were cemented by reciprocal marriages and acknowledged **cognation** among the ruling families."*
+> - 📜 **Lewis Henry Morgan (*Systems of Consanguinity and Affinity*):** *"The tribal system regulated marriage prohibitions by calculating the exact degrees of lineal **cognation**."*

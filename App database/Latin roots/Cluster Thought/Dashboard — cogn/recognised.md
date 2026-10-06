@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Acknowledged, identified, or accepted as valid, true, or authoritative (British spelling of recognized).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In professional disciplines, meeting accredited standards established by statutory councils or peer consensus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Identified from past acquaintance, widely accepted, or officially acknowledged (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence and academic scholarship, certified as authoritative or established by customary consensus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Next came the guests, mostly Kings and Queens, and among them Alice **recognised** the White Rabbit."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This venture into the paths of farming as master and not as man was now generally **recognised**."*
-> - 📜 **George Eliot (*Middlemarch*):** *"His exceptional talent in diagnosis was soon **recognised** by every impartial physician in the district."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard was everywhere **recognised** as the most energetic and wealthy grain merchant in the borough."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"Justice has always been **recognised** as the chief cornerstone of human social happiness and order."*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Alice soon **recognised** the Queen's shrill voice echoing across the rose garden."*

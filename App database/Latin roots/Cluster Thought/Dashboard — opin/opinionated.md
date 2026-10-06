@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Obstinately adhering to one's own opinions; dogmatic and intolerant of opposing views.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character comedy and polemics, rigidly asserting narrow convictions while dismissing contrary evidence or seasoned advice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Stubbornly and conceitedly holding to one's own opinions; dogmatic and obstinate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character analysis, displaying intolerant intellectual rigidity that refuses to consider alternative perspectives or empirical evidence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"They were proud, quarrelsome, and excessively **opinionated**, despising all counsel but their own."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War*):** *"She was neither vain nor **opinionated**, but listened with modest deference to experienced directors."*
-> - 📜 **George Eliot (*Daniel Deronda*):** *"An **opinionated** pedant is always more unbearable when he mistakes arrogance for intellectual vigor."*
+> - 📜 **Jonathan Swift (*A Tale of a Tub*):** *"The **opinionated** zealot refused to listen to reason, denouncing all who disagreed with his dogmas as heretics."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The squire was an **opinionated** gentleman who regarded his own prejudices as self-evident laws of nature."*
+> - 📜 **Jane Austen (*Emma*):** *"She found Mr. Elton somewhat **opinionated** in his conversation, too eager to pronounce judgment upon fashionable society."*

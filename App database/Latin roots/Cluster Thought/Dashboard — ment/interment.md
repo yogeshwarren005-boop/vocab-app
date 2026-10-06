@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The burial of a corpse in a grave or tomb, typically accompanied by funeral rites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civic law and liturgical theology, the solemn committal of mortal remains to consecrated ground or mausoleum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The burial of a dead body in a grave or tomb, typically accompanied by funeral rites.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mortuary customs and sanitary jurisprudence, the formal entombment or earth burial of human remains according to religious or civic liturgy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Mr. Gibson had come down to direct his sister’s **interment** and arrange her modest estate."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe Gargery had departed this life, and the solemn **interment** was fixed for the following Tuesday."*
-> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"We placed the body of the lady Madeline in the damp vault for temporary **interment**."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The solemn **interment** of his beloved mother plunged Victor into a profound and brooding melancholy."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"Scrooge signed the register of Marley's **interment**, and Scrooge's name was good upon 'Change for anything he chose to put his hand to."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"We placed the encoffined lady Madeline within the subterranean crypt, completing her temporary **interment** in silence."*

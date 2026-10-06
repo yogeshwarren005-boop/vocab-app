@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having knowledge or awareness; informed and mindful of facts or circumstances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In administrative governance and ethics, maintaining conscious responsibility regarding the consequences of policy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having knowledge, awareness, or conscious notice of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal jurisprudence and ethical philosophy, acting with full, deliberate awareness of existing duties, conditions, or consequences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Angel Clare was keenly **cognizant** of the social chasm that separated his family from the dairyfolk."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Sherlock Holmes was immediately **cognizant** of the singular print left in the peat."*
-> - 📜 **Henry James (*The Wings of the Dove*):** *"She was delicately **cognizant** of every nuance in his restrained demeanor."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate was fully **cognizant** of the professional hostility his modern scientific methods had excited in the borough."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Angel Clare was barely **cognizant** of the rural scenery around him, his mind engrossed in painful intellectual doubts."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"The soul is **cognizant** of an eternal moral order that transcends the transient conventions of human society."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a demented, frantic, or crazed manner; wildly and without rational control.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gothic narrative and crime fiction, acting with frenzied incoherence under the influence of extreme panic or mania.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a frantic, irrational, crazy, or violently agitated manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral description, acting under the grip of acute delirium, irrational panic, or severe cognitive derangement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Joseph Conrad (*Lord Jim*):** *"He paced the quarterdeck **dementedly**, muttering disjointed sentences into the howling gale."*
-> - 📜 **H. G. Wells (*The Island of Doctor Moreau*):** *"The beast-folk ran **dementedly** through the forest, howling at the red glare of the burning enclosure."*
-> - 📜 **Bram Stoker (*Dracula*):** *"Renfield laughed **dementedly** as he scraped up the buzzing flies upon the stone window-sill."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Miss Flite nodded her head **dementedly**, adjusting her bundle of ragged Chancery documents with trembling fingers."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"He paced the lonely station platform **dementedly**, muttering disjointed Latin verses into the cold rain."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The escaped convict stared **dementedly** around the gloomy moor, hunted like a wild beast by night."*

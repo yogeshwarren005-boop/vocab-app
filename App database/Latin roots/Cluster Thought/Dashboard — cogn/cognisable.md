@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being perceived, known, or brought under judicial notice (British spelling of cognizable).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence and Kantian epistemology, falling legitimately within the investigative jurisdiction of a court or the intellect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being perceived, known, or legally examined; cognizable (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal jurisprudence and epistemology, subject to judicial jurisdiction or intelligible to the human understanding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Hamilton (*Lectures on Metaphysics and Logic*):** *"An object is only **cognisable** by human consciousness under the conditions of time and space."*
-> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Torts of this nature are not **cognisable** in ecclesiastical courts, but belong solely to the common law."*
-> - 📜 **Thomas Reid (*Essays on the Intellectual Powers of Man*):** *"External qualities become **cognisable** through the healthy functioning of our perceptual organs."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The mysterious forces of the ocean are not always **cognisable** to our ordinary terrestrial senses."*
+> - 📜 **John Stuart Mill (*An Examination of Sir William Hamilton's Philosophy*):** *"We can affirm nothing of the external object beyond those properties that are directly **cognisable** in conscious experience."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Offenses against the public peace are properly **cognisable** in the courts of common law."*

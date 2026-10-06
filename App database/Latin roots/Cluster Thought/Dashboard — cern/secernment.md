@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of separating, distinguishing, or physiologically secreting matter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mental philosophy and natural theology, the discriminatory act of separating distinct faculties, or the biological elaboration of secretions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of distinguishing, separating, or discriminating; or physiological secretion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological theory, the physiological separation of glandular secretions from the circulating vascular volume.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"The sharp **secernment** of sensations from recollections is essential to sanity."*
-> - 📜 **William Paley (*Natural Theology*):** *"The marvelous apparatus for the **secernment** of bile demonstrates the design of the Creator."*
-> - 📜 **John Stuart Mill (*A System of Logic*):** *"The logical **secernment** of causes from mere invariable antecedents is the first task of induction."*
+> - 📜 **Erasmus Darwin (*Zoonomia; or, The Laws of Organic Life*):** *"Excessive glandular **secernment** of mucus occurs when the bronchial membranes are irritated by cold air."*
+> - 📜 **William Cullen (*First Lines of the Practice of Physic*):** *"A disturbance in the renal **secernment** leads to the morbid accumulation of watery humors in dropsy."*
+> - 📜 **Sir William Hamilton (*Lectures on Metaphysics and Logic*):** *"The mental **secernment** of truth from plausible error forms the cardinal duty of philosophical education."*

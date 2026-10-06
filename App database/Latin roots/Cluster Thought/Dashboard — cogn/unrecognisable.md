@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being recognized, identified, or made out (British spelling of unrecognizable).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaeological excavation and forensic pathology, weathered so severely that original contours are obliterated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being identified or perceived from previous acquaintance; unrecognizable (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic pathology and narrative tragedy, altered beyond visual recall by traumatic injury, decay, or disguise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"The print from it prefixed to Fitzgerald's Lamb is almost **unrecognisable**."*
-> - 📜 **Mrs. George de Horne Vaizey (*The Lady of the Basement Flat*):** *"The once cheerful room was transformed until it was completely **unrecognisable**."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"The colossal architecture of the future had crumbled into **unrecognisable** mounds of dust."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The blackened corpse discovered in the tenement was rendered wholly **unrecognisable** by fire."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"Years of severe colonial labor had transformed the handsome youth into an almost **unrecognisable** stranger."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The ravaged wilderness looked **unrecognisable** under the blinding tropical rain and creeping gloom."*

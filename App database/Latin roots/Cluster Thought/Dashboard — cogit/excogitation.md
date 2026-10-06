@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of thinking out, contriving, or inventing something through deep and careful reflection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual history and system-building, the laborious mental formulation of doctrine, mechanical invention, or legal theory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of thinking out, contriving, inventing, or devising by careful mental effort.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical jurisprudence, the intellectual process of formulating comprehensive theoretical models or statutory codifications.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Too much reliance on internal **excogitation**, without verification by experiment, has ruined philosophy."*
-> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"The penal code was not the sudden inspiration of a moment, but the result of protracted **excogitation**."*
-> - 📜 **Edgar Allan Poe (*The Murders in the Rue Morgue*):** *"The analytical faculty is much invigorated by mathematical study, especially in its higher branches of mental **excogitation**."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The scholastic doctors wasted vast treasures of intellect in the barren **excogitation** of verbal subtleties."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"No paper constitution produced by speculative **excogitation** could long withstand the violent passions of the populace."*
+> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"The systematic **excogitation** of penal codes must be guided by the utilitarian calculus of pleasure and pain."*

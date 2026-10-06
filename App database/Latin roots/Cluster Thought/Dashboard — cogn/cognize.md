@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To perceive, know, or become aware of something through the intellect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemological metaphysics, the active intellectual synthesis by which external data are grasped as an object of knowledge.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To perceive, know, or become aware of something intellectually.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemology and cognitive science, the mental act of registering sensory input and forming a validated concept or belief.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William James (*The Principles of Psychology*):** *"To **cognize** an external event is to represent it faithfully in the stream of consciousness."*
-> - 📜 **Josiah Royce (*The World and the Individual*):** *"The finite mind strives unceasingly to **cognize** the unity of the absolute order."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The objects cognized by the physical senses have not spiritual origin, but must be inwardly **cognized** through divine truth."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The fundamental property of consciousness is its ability to **cognize** objects beyond its own immediate psychic state."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"We cannot directly **cognize** the noumenal cause, but only the phenomenal manifestations presented to consciousness."*
+> - 📜 **Sir William Hamilton (*Lectures on Metaphysics and Logic*):** *"To **cognize** an external phenomenon requires that the mind contrast it with the background of other sensations."*

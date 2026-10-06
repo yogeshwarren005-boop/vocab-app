@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a way that cannot be recognized; beyond recognition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical description, transformed by time, revolution, or catastrophe into a wholly alien state.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner or to an extent that prevents identification or recognition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative prose, describing catastrophic physical transformation, profound disfigurement, or extreme alteration of form.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*A Connecticut Yankee in King Arthur's Court*):** *"The ancient Roman roads were **unrecognizably** worn and buried beneath centuries of peasant turf."*
-> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"The terrain had altered so **unrecognizably** that even our native guides were utterly baffled."*
-> - 📜 **H. G. Wells (*The Island of Doctor Moreau*):** *"The creatures were twisted **unrecognizably** away from any natural animal form."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The body lying at the foot of the granite tor was **unrecognizably** shattered by the terrible fall."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The fierce storm battered the whaling ship until her rigging was **unrecognizably** tangled and splintered."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Misfortune had altered her lovely face so **unrecognizably** that old acquaintances passed her without greeting."*

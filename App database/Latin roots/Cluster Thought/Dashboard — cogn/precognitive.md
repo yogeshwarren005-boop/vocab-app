@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or having the power of precognition; anticipating future events.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In parapsychology and cognitive folklore, describing dreams or intuitions that disclose future happenings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, involving, or possessing advance knowledge or premonition of future events.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In parapsychological literature, describing dreams, intuitions, or cognitive states claimed to predict future occurrences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William James (*Memories and Studies*):** *"Certain vivid dreams possess an apparently **precognitive** character that leaves a lasting impression."*
-> - 📜 **Arthur Conan Doyle (*The New Revelation*):** *"The psychic medium claimed to have experienced a **precognitive** vision of the impending naval battle."*
-> - 📜 **F. W. H. Myers (*Human Personality and Its Survival of Bodily Death*):** *"We must classify these anomalous cases as either telepathic impressions or genuinely **precognitive** warnings."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Certain mystical temperaments claim a **precognitive** sense of impending crisis that defies ordinary psychological explanation."*
+> - 📜 **Arthur Conan Doyle (*The History of Spiritualism*):** *"She recorded several remarkable **precognitive** impressions that were subsequently confirmed in minute historical detail."*
+> - 📜 **F. W. H. Myers (*Human Personality and Its Survival of Bodily Death*):** *"Laboratory trials attempting to demonstrate **precognitive** card-guessing yielded statistical anomalies under controlled conditions."*

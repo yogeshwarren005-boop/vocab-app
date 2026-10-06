@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An experienced and trusted adviser or guide who counsels a less experienced person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical epic and pedagogy, derived from Mentor in Homer's Odyssey, embodying wisdom and moral guardianship.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An experienced and trusted adviser, counselor, or intellectual guide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic and professional development, a senior authority who guides, instructs, and advocates for a younger protege.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"You have played the part of **mentor** to me many times, and I don't see why you should shrink now."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"It is not wholly irrespective of our personal feelings that we record how Mr. Pocket acted as my **mentor**."*
-> - 📜 **Herman Melville (*Moby-Dick*):** *"The venerable whaleman acted as a sea-going **mentor** to the green recruits shipped for the voyage."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"He looked upon the distant towers of the university city as the spiritual **mentor** that would lift him from manual obscurity."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"The laboratory instructor must act as an intellectual **mentor**, teaching students to question authority and trust observation."*
+> - 📜 **G. K. Chesterton (*The Innocence of Father Brown*):** *"The wise old priest acted as a fatherly **mentor** to the reformed thief, encouraging him along the arduous path of honest labor."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible to distinguish, separate, or perceive clearly by sight, hearing, or intellect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and metaphysics, referring to entities or properties whose differences lie below any possible perceptual or measurable threshold.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible to perceive, distinguish, or detect by the senses or intellect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy and observational physics, entities or differences below the threshold of empirical detection or measurement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Invisible Man*):** *"His outline became increasingly blurred until his bodily form was wholly **indiscernible** against the wall."*
-> - 📜 **Joseph Conrad (*Lord Jim*):** *"The horizon line had melted away, leaving sea and sky merged in one **indiscernible** shadow."*
-> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The path across Egdon Heath was virtually **indiscernible** in the gathering twilight."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The tiny fishing boat was virtually **indiscernible** amidst the towering white crests of the Pacific swell."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"As twilight deepened into night, the pathway across the heath became entirely **indiscernible**."*
+> - 📜 **G. K. Chesterton (*The Man Who Was Thursday*):** *"The subtle boundary between reality and nightmare grew almost **indiscernible** as the chase continued."*

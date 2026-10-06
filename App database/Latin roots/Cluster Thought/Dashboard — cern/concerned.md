@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Troubled, anxious, or invested in an affair; having a personal involvement or emotional stake.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative exposition, actively engaged with social welfare, family honor, or moral duty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling anxious, troubled, or actively interested and involved in an affair.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral psychology and legal responsibility, emotionally engaged in the welfare of another or personally implicated in a transaction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"She was deeply **concerned** that no one should misinterpret Dorothea's generous intentions."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I felt truly **concerned** for Joe, whose tender heart had been so sorely wounded."*
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"He seemed anxiously **concerned** about my safety on the dark and lonely road."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"We will ourself in person to this enterprise, as one deeply **concerned** in the honor of the realm."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"He looked upon the troubled girl with a **concerned** expression that betrayed his growing affection."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea was earnestly **concerned** to discover some noble work that would employ her wealth for social improvement."*

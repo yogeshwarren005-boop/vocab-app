@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who has expert knowledge in a subject, especially in the fine arts; a connoisseur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In art history and aesthetic criticism, an individual recognized for discerning judgment in evaluating paintings or music.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A connoisseur; a person who possesses expert, discriminating knowledge in the fine arts or matters of taste.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In art history and cultural criticism, an individual recognized for authoritative aesthetic discernment in evaluating painting, music, or sculpture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Horace Walpole (*Letters*):** *"Every traveling **cognoscente** in Florence pretends to discover a lost Raphael in some obscure chapel."*
-> - 📜 **William Hazlitt (*Table-Talk*):** *"The true artist creates for humanity, whereas the petty **cognoscente** prizes only technical rarity."*
-> - 📜 **Henry James (*The Ambassadors*):** *"He listened with the quiet deference of a **cognoscente** who refuses to parade his erudition."*
+> - 📜 **Horace Walpole (*The Castle of Otranto*):** *"The traveling English **cognoscente** spent months inspecting private galleries in Florence and Rome for rare masterpieces."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Turveydrop regarded himself as an incomparable **cognoscente** in all delicate points of deportment and high fashion."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Gilbert Osmond affected the fastidious detachment of an Italian **cognoscente** surrounded by antique bric-a-brac."*

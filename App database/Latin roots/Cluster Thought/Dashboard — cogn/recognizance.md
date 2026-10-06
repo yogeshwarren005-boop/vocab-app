@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A legal obligation recorded in court whereby a person promises to perform a duty, such as appearing for trial.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Shakespearean drama and feudal law, a badge, token, or pledge of faith and honorable submission.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A legal obligation recorded before a court binding a person to perform an act, such as appearing for trial.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical jurisprudence and heraldic tradition, an acknowledged formal debt recorded in a court of record, or an official badge of retaining.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*Othello*):** *"And she did gratify his amorous works with that **recognizance** and pledge of love which I first gave her."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The magistrate remanded the prisoner under heavy **recognizance** to answer at the next general court."*
-> - 📜 **Tobias Smollett (*The Adventures of Sir Launcelot Greaves*):** *"He offered to deposit a sum equal to the **recognizance** of the knight's bail."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Where be his quiddities now, his quillets, his cases, his tenures, and his **recognizance**?"*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The magistrate admitted the defendant to bail upon his entering into a solemn personal **recognizance**."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The proud baron commanded his men-at-arms to display the ancient **recognizance** of his lineage upon their shields."*

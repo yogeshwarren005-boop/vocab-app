@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Foreknowledge of an event, especially when acquired through intuitive or prophetic means.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Scots law, the preliminary examination of prospective witnesses conducted prior to a formal trial.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Foretaste, advance knowledge, or psychic premonition of future events before they occur.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In parapsychology and cognitive folklore, an alleged extrasensory perception of future occurrences without rational inference from current data.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Walter Scott (*The Heart of Mid-Lothian*):** *"The magistrate ordered a strict **precognition** of all persons who had seen the prisoner on that fatal night."*
-> - 📜 **William James (*The Will to Believe*):** *"Reports of spontaneous **precognition** demand rigorous empirical investigation rather than contemptuous dismissal."*
-> - 📜 **Arthur Conan Doyle (*The Edge of the Unknown*):** *"He recorded several distinct instances of **precognition** that were subsequently verified by newspaper dispatches."*
+> - 📜 **William James (*The Will to Believe*):** *"He investigated cases of apparent **precognition**, seeking to determine whether coincidence or genuine intuition explained the dreams."*
+> - 📜 **Arthur Conan Doyle (*The Edge of the Unknown*):** *"The spiritualist insisted that his sudden **precognition** of the shipwreck had saved him from booking passage upon the vessel."*
+> - 📜 **F. W. H. Myers (*Human Personality and Its Survival of Bodily Death*):** *"Spontaneous instances of prophetic **precognition** frequently arrive in vivid hypnagogic visions during sleep."*

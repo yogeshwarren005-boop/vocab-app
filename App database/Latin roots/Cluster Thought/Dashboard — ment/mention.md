@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To refer to briefly or casually; an act of speaking or writing about someone or something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social discourse and military citations, bringing a person's name or valorous conduct to official notice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To refer to, speak of, or name briefly without full discussion or detailed explanation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal rhetoric and correspondence, making brief reference to a person, authority, or event within an argument.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Winter's Tale*):** *"Pray sit down, then, and let me entreat you not to make **mention** of this grief again."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"At the very **mention** of his name, Elizabeth felt her color heighten and her composure vanish."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"He strictly forbade any **mention** of his benefactor in the hearing of third persons."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"I'll not **mention** your fault, but let it sink in your remembrance as an occasion for repentance."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She hesitated to **mention** her ancestral pedigree, fearing the mockery of her fellow dairymaids."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate made casual **mention** of his hospital appointment, concealing the intense professional anxiety it had caused him."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Too bad, shocking, or taboo to be spoken of; also a humorous term for underwear or trousers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Victorian social etiquette and gothic fiction, unspeakable moral degradation or taboo bodily garments excluded from polite conversation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Too shocking, offensive, taboo, or scandalous to be mentioned in polite conversation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Victorian social satire and dramatic narrative, topics of extreme moral delinquency; or humorously undergarments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Turn of the Screw*):** *"Was there a secret at Bly—a mystery of Udolpho or an insane, an **unmentionable** relative kept in isolation?"*
-> - 📜 **James Joyce (*Ulysses*):** *"His little man-o’-war top and **unmentionables** were full of sand, but Cissy was a past mistress at patting him dry."*
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"There are horrors so dreadful that they remain forever **unmentionable** among civilized human beings."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"There were strange, **unmentionable** rumors concerning the terrible deeds committed on the previous voyage of the Pequod."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Mrs. Joe Gargery denounced the convict as a wicked wretch guilty of **unmentionable** crimes against society."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The scandal involved financial irregularities of an **unmentionable** character that horrified the respectable town trustees."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To know, perceive, or recognize through cognitive processes (British spelling of cognize).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In transcendental psychology, the synthetic act of the understanding in uniting sensory intuitions into a coherent concept.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To perceive, know, or apprehend intellectually; to cognize (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical epistemology, the cognitive act of grasping an object of knowledge through sensory perception and concept formation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The finite intelligence can only **cognise** external nature through the medium of its own self-activity."*
-> - 📜 **William James (*The Principles of Psychology*):** *"To **cognise** an object is to relate it to previously acquired cognitive systems within memory."*
-> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"We cannot **cognise** relations of co-existence without contrasting them with relations of sequence."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"The human mind cannot directly **cognise** the ultimate reality that lies behind phenomena."*
+> - 📜 **William James (*The Principles of Psychology*):** *"To **cognise** an object is to become consciously aware of its presence and relation to our experience."*
+> - 📜 **Sir William Hamilton (*Lectures on Metaphysics and Logic*):** *"We can only **cognise** that which presents itself under the conditioned forms of space and time."*

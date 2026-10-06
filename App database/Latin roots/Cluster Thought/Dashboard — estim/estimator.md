@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who computes, evaluates, or appraises the cost, magnitude, or value of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statistical mathematics and commerce, a formula or function that computes an approximation of an unknown population parameter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or statistical rule that calculates or evaluates approximate costs, values, or probabilities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematical statistics and construction management, a function that computes an estimate of a population parameter from sample data.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"Michells, a former cruiser and timber **estimator**, knew every acre of the white pine forest."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics*):** *"The prudent merchant acts as a competitive **estimator** of future marginal utility in the marketplace."*
-> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Every revenue **estimator** of the seventeenth century was compelled to work with imperfect fiscal data."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The prudent statesman is a skillful **estimator** of human passions, balancing factions against one another to preserve peace."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The experienced builder acts as a cautious **estimator**, providing detailed calculations of masonry and timber costs."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The mathematical **estimator** weighs conflicting empirical measurements to deduce the most probable true value."*

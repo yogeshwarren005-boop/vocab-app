@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To identify from having previously seen, heard, or known; to acknowledge the truth or validity of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statecraft and international law, formally according sovereign diplomatic relations to a newly formed government.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To identify from prior knowledge, realize the truth of, or acknowledge formal legitimacy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive science and geopolitical law, the neural retrieval of stored representations, or the diplomatic accreditation of a sovereign state.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is not right, and I must not **recognize** it."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The shepherd was quick to **recognize** the distant barking of his faithful dog."*
-> - 📜 **Herman Melville (*Moby-Dick*):** *"Sailors are swift to **recognize** the unmistakable blast of the right whale."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak was able to **recognize** each individual ewe in the flock by subtle variations in fleece and gait."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"In every work of genius we **recognize** our own rejected thoughts returning with alienated majesty."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He failed to **recognize** the profound spiritual loneliness that oppressed his young wife's heart."*

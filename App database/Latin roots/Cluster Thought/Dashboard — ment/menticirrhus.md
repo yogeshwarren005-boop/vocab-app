@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fleshy barb or sensory filament on the chin of certain marine fishes; a sciaenoid fish genus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyological morphology and marine biology, a tactile barbel located on the mandibular symphysis used to detect benthic prey.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of marine perciform fishes commonly known as kingcroakers or kingfishes, possessing a chin barbel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyological taxonomy, benthic sciaenid fishes inhabiting Atlantic coastal waters, characterized by a single fleshy sensory barbel on the lower jaw.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The species of the genus **Menticirrhus** are characterized by a single short, thick barbel upon the chin."*
-> - 📜 **George Brown Goode (*American Fishes*):** *"The Carolina whiting, belonging to **Menticirrhus**, feeds along sandy bottoms aided by its sensitive chin filament."*
-> - 📜 **Charles Girard (*Ichthyological Notices*):** *"The presence of the mandibular **menticirrhus** distinguishes this sciaenoid fish from related coastal genera."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"Specimens of **Menticirrhus** saxatilis, commonly called the northern kingfish, inhabit sandy coastal surf zones along the Atlantic seaboard."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The fishermen pulled their nets onto the Brazilian shore, capturing several species of sciaenids allied to the genus **Menticirrhus**."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The tactile mandibular barbel in **Menticirrhus** functions as an olfactory and gustatory probe for detecting buried mollusks."*

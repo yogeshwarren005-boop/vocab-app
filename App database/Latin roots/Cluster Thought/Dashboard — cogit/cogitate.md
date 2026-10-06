@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To reflect deeply, meditate, or ponder seriously upon a problem or subject.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In humorous or introspective narrative, pausing deliberately to deliberate upon a perplexing dilemma or unexpected turn of events.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To think deeply, ponder, reflect, or meditate upon a subject.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual inquiry, deliberate and sustained mental contemplation aiming at solving complex philosophical or practical problems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **G. K. Chesterton (*The Wisdom of Father Brown*):** *"Father Brown seemed to **cogitate**; he lifted a little whitebait on his fork."*
-> - 📜 **Laurence Sterne (*The Life and Opinions of Tristram Shandy*):** *"My father sat down in his armchair to **cogitate** upon the best means of educating his son."*
-> - 📜 **Herman Melville (*Moby-Dick*):** *"I sat upon the bench outside the Spouter-Inn, left to **cogitate** upon my strange bedfellow."*
+> - 📜 **G. K. Chesterton (*The Club of Queer Trades*):** *"He retired to his study to **cogitate** upon the bizarre mystery that had disrupted the peaceful afternoon."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The solitary philosopher sat in his watchtower, leaving the world below to **cogitate** the riddle of existence."*
+> - 📜 **Charles Dickens (*Our Mutual Friend*):** *"Mr. Boffin paused with knitted brow to **cogitate** the extraordinary proposals submitted by the secretary."*

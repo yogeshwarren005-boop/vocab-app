@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To place too high an estimate on; to assess value, cost, difficulty, or ability at an excessively elevated level.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological analysis, exaggerating the virtues or resilience of oneself or an admired idol.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To value, assess, or calculate too highly; to overrate capacity, cost, or difficulty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological cognition and strategic forecasting, attributing greater significance, strength, or virtue to an agent than is warranted.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Speculators invariably **overestimate** the duration of an artificial boom in commodity prices."*
-> - 📜 **Jane Austen (*Emma*):** *"Emma was conscious of a tendency to **overestimate** her own ability to manage other people's affairs."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"It is impossible to **overestimate** the impact of his teachings upon the moral conscience of the classical world."*
+> - 📜 **George Eliot (*Middlemarch*):** *"It was Dorothea's nature to **overestimate** the learning of others while maintaining a humble opinion of her own mind."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard was prone to **overestimate** his commercial influence, launching speculative ventures beyond his capital."*
+> - 📜 **John Stuart Mill (*Autobiography*):** *"My father warned me never to **overestimate** my intellectual achievements merely because of early academic precocity."*

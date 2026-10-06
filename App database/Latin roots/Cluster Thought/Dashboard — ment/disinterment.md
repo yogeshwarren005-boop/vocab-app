@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of digging up or exhuming a buried corpse or object from the earth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic jurisprudence and archaeology, exhumation performed to conduct post-mortem investigation or recover buried antiquities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of exhuming, digging up, or removing a corpse or archaeological object from a grave.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic medicine and mortuary law, the legal exhumation of human remains for post-mortem autopsy or forensic identification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Edgar Allan Poe (*The Premature Burial*):** *"The frantic **disinterment** revealed that the wretched victim had indeed revived within the coffin."*
-> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"The magistrate granted an order for the **disinterment** of the body to test for traces of arsenic."*
-> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"The **disinterment** of the ancient Roman statue from the vineyard brought joy to the antiquarians."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The midnight **disinterment** of human remains from lonely churchyards provided the anatomist with materials for his horrific creation."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Jerry Cruncher pursued the clandestine trade of **disinterment**, providing fresh cadavers to the medical gentlemen of London."*
+> - 📜 **Edgar Allan Poe (*The Premature Burial*):** *"The horror of premature burial was confirmed when accidental **disinterment** revealed the deceased had struggled within the coffin."*

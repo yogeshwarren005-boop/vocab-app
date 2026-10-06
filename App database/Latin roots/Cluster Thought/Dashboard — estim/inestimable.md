@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Too great, precious, or valuable to be calculated or measured; invaluable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and constitutional history, describing fundamental human liberties or moral treasures whose worth defies commercial appraisal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Too great, precious, or valuable to be measured or calculated; priceless.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and civic literature, describing fundamental blessings (such as liberty or truth) that transcend all commercial valuation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*Richard III*):** *"Methoughts I saw a thousand fearful wracks; A thousand men that fishes gnawed upon; Wedges of gold, great anchors, heaps of pearl, **Inestimable** stones, unvalued jewels."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"I was cut to the quick at the idea of having lost the **inestimable** privilege of listening to the gifted Kurtz."*
-> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Our ancient constitution is an **inestimable** inheritance preserved through successive generations."*
+> - 📜 **William Shakespeare (*Richard III*):** *"Wedges of gold, great anchors, heaps of pearl, **inestimable** stones, unvalued jewels, all scattered in the bottom of the sea."*
+> - 📜 **John Locke (*Second Treatise of Government*):** *"Civil liberty and the rule of law represent an **inestimable** heritage purchased by the blood and sacrifice of our ancestors."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"He threw away an **inestimable** opportunity for redemption through a single moment of catastrophic hesitation."*

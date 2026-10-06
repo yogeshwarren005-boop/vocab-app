@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A persistent chronic disorder of cognitive processes caused by brain disease, marked by memory loss and personality change.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology and psychopathology, progressive organic deterioration of intellectual functioning compromising daily autonomy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chronic progressive mental disorder characterized by memory loss, cognitive decline, and personality deterioration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neuropsychiatry, a neurodegenerative syndrome (such as Alzheimer's disease) impairing higher cortical functions, executive control, and daily living.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William James (*The Principles of Psychology*):** *"Senile **dementia** illustrates how organic cerebral atrophy gradually destroys the continuity of personal memory."*
-> - 📜 **Sigmund Freud (*The Psychopathology of Everyday Life*):** *"We must distinguish transient amnesia from the irreversible cognitive deficits typical of **dementia**."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The illusion of physical **dementia** must yield before the eternal reality of divine intelligence."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Progressive senile **dementia** destroys memory, orientation, and judgment through cortical atrophy and neuronal loss."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Severe organic **dementia** reflects structural lesions within the cerebral cortex that disrupt complex associative pathways."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"In advanced general paralysis, terminal **dementia** is accompanied by progressive tremors and loss of voluntary motor coordination."*

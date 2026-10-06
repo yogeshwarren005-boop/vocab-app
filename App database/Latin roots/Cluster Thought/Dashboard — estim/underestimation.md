@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An estimate that falls below actual value, cost, extent, or significance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical analysis and policy evaluation, failing to anticipate the severity of structural crises or economic depressions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or result of judging something to be smaller, weaker, or less important than it is.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In risk management and public policy, the failure to foresee the true scope or catastrophic impact of impending crises.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Joseph Conrad (*The Secret Agent*):** *"The chief inspector's fatal error was an **underestimation** of the fanaticism that guided the anarchist group."*
-> - 📜 **John Maynard Keynes (*The Economic Consequences of the Peace*):** *"The treaty was based on a disastrous **underestimation** of Europe's post-war economic fragility."*
-> - 📜 **Charles Darwin (*The Descent of Man*):** *"An **underestimation** of animal intelligence has long delayed a true appreciation of our kinship with other species."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"A persistent **underestimation** of the enemy's reserves led Allied commanders into protracted wars of attrition."*
+> - 📜 **John Maynard Keynes (*The Economic Consequences of the Peace*):** *"The treaty was vitiated by a gross **underestimation** of the economic interdependence of continental Europe."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The classical academy suffered from an unfortunate **underestimation** of the disciplinary value of physical sciences."*

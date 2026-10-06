@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being conspicuous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: High visibility.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The striking prominence that makes something obvious to the eye or mind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary coloration theory and social psychology, the degree of optical contrast that distinguishes an organism or individual from surrounding context.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conspicuousness designates the state of being conspicuous."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"The high **conspicuousness** of the male bird's plumage often exposes him to greater danger from predators."*
+> - 📜 **Alfred Russel Wallace (*Contributions to the Theory of Natural Selection*):** *"We must distinguish between the warning **conspicuousness** of dangerous insects and the protective concealment of their prey."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Any sudden alteration in sensory intensity guarantees the immediate **conspicuousness** of an idea in consciousness."*

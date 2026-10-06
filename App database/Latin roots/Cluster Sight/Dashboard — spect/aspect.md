@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A distinct feature or element in a problem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A characteristic to be considered.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A particular part, feature, or phase of something; the appearance or look of an object or person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astrology, architecture, and geography, denotes planetary angular configuration, compass orientation, or structural exposure to light and wind.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And great Pompey Would stand and make his eyes grow in my brow; There would he anchor his aspect, and die With looking on his life."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you will jest with me, know my aspect, And fashion your demeanour to my looks, Or I will beat this method in your sconce."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, sir, upon her nose, all o’er-embellished with rubies, carbuncles, sapphires, declining their rich aspect to the hot breath of Spain, who sent whole armadoes of carracks to be ballast at her nose."*
+> - 📜 **William Shakespeare (*Sonnet 26*):** *"Lord of my love, to whom in vassalage / Thy merit hath my duty strongly knit, / To thee I send this written ambassage, / To witness duty, not to show my wit: / Duty so great, which wit so poor as mine / May make seem bare, in wanting words to show it, / But that I hope some good conceit of thine / In thy soul's thought, all naked, will bestow it; / Till whatsoever star that guides my moving / Points on me graciously with fair **aspect**."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The bleak **aspect** of the landscape was relieved only by the pale yellow glimmer of the setting sun."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"We can consider truth under a twofold **aspect**: either as mental proposition or verbal expression."*

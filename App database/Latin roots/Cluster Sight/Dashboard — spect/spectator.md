@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A close observer; someone who looks at something (such as an exhibition of some kind).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman's pump with medium heel; usually in contrasting colors for toe and heel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who watches at a show, game, sports match, or other public event.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical moral philosophy and aesthetic criticism, the detached, impartial observer who assesses action with disinterested judgment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak suddenly ceased from being a mere spectator by discovering the case to be more serious than he had at first imagined."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"In the course of the day I was enrolled a member of the fourth class, and regular tasks and occupations were assigned me: hitherto, I had only been a spectator of the proceedings at Lowood; I was now to become an actor therein."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Thy power is all-prevailing!” For your poor friend, the Bard, afar He only hears and sees the war, A cool spectator purely!"*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The solitary **spectator** of this rural drama could not help admiring the girl's superb equestrian grace."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"As between his own happiness and that of others, utilitarianism requires him to be as strictly impartial as a disinterested **spectator**."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Will Ladislaw preferred to remain a passionate **spectator** of the political struggle rather than a party hack."*

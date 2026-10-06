@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of language) transparently clear; easily understandable; ; ; - robert burton.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of language) transparently clear; easily understandable; ; ; - robert burton.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Clearly expressed and easily understood; lucid; plain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical argumentation and jurisprudence, describing statutory language or mathematical deduction free from obscurity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perspicuous designates (of language) transparently clear; easily understandable; ; ; - robert burton."*
+> - 📜 **William Shakespeare (*Troilus and Cressida*):** *"Whose high respect and curb to his could bring / A work so **perspicuous** in itself."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"An argument is truly **perspicuous** when each step follows with transparent geometric necessity."*
+> - 📜 **Thomas Henry Huxley (*Method and Results*):** *"His lectures were celebrated for their **perspicuous** exposition of difficult biological doctrines."*

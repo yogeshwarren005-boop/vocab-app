@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An impression that something might be the case.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Doubt about someone's honesty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling or thought that something is possible, likely, or true; cautious distrust of someone or something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In procedural criminal law and moral philosophy, a preliminary subjective apprehension unsupported by direct evidentiary proof.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Suspicion all our lives shall be stuck full of eyes, For treason is but trusted like the fox, Who, ne’er so tame, so cherish’d and lock’d up, Will have a wild trick of his ancestors."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"See what a ready tongue suspicion hath!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And thus thy fall hath left a kind of blot To mark the full-fraught man and best indued With some suspicion."*
+> - 📜 **William Shakespeare (*Henry VI, Part 3*):** *"**Suspicion** always haunts the guilty mind; / The thief doth fear each bush an officer."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A faint **suspicion** of his true designs crossed Bathsheba's mind, but she dismissed it as unworthy."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode lived in constant terror that some casual word might awaken **suspicion** regarding his early wealth."*

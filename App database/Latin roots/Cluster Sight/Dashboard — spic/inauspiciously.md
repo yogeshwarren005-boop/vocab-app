@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an inauspicious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an inauspicious manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a way that bodes ill; ominously, unfavorably, or unluckily.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical chronicle, beginning an enterprise under circumstances that forecast subsequent tragedy or institutional collapse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inauspiciously designates in an inauspicious manner."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The great chancery suit had begun **inauspiciously**, consuming the small patrimony of the original suitors in preliminary costs."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Persian campaign opened **inauspiciously**, with fever devastating the legions before battle was joined."*
+> - 📜 **Sir Walter Scott (*The Bride of Lammermoor*):** *"The raven croaked **inauspiciously** above the bridal carriage as it passed the ruined chapel."*

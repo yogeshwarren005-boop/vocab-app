@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The office of inspector.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The office of inspector.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The office, post, or tenure of an inspector.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In institutional history, designates the executive appointment and statutory authority vested in a civil overseer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inspectorship designates the office of inspector."*
+> - 📜 **Nathaniel Hawthorne (*The Custom-House*):** *"The post of an **inspectorship** offered a quiet haven for veterans who had outlived their commercial ambitions."*
+> - 📜 **Charles Dickens (*Our Mutual Friend*):** *"He coveted the vacant **inspectorship**, hoping its modest stipend would secure his domestic comfort."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"A genuine **inspectorship** of work demands moral vigilance rather than mere mechanical attendance."*

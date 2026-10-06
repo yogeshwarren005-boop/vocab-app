@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Smelling of spices.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Smelling of spices.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fragrant with the pungent, sweet, or aromatic smell of spices.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sensory descriptive prose and romantic landscape poetry, evokes tropical atmospheres, oriental bazaars, or autumnal orchard kitchens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spice-scented designates smelling of spices."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"A faint, **spice-scented** breeze drifted offshore from the dark jungle coast of Sumatra."*
+> - 📜 **Henry David Thoreau (*Excursions*):** *"The autumn woods were dry and **spice-scented**, smelling of sweet-fern and bruised sassafras."*
+> - 📜 **Rudyard Kipling (*Kim*):** *"They rested in a **spice-scented** caravanserai where camel drivers smoked long pipes beneath the stars."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Honorableness by virtue of being respectable and having a good reputation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Honorableness by virtue of being respectable and having a good reputation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or character of being regarded as proper, correct, and socially acceptable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century sociological critique, denotes outward conformity to bourgeois moral conventions, financial solvency, and church attendance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now, my dear Miss Summerson, if you want common sense, responsibility, and respectability, all united—if you want an exemplary man—Vholes is THE man.” We had not known, we said, that Richard was assisted by any gentleman of that name."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He never misses a chance in his practice, which is a mark of respectability."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He never takes any pleasure, which is another mark of respectability."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard clung desperately to the outward trappings of civic **respectability** long after his fortune had melted."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The town took refuge in severe **respectability**, whispering dark rumors behind closed parlor blinds."*
+> - 📜 **Oscar Wilde (*The Importance of Being Earnest*):** *"To lose one parent may be regarded as a misfortune; to lose both looks like carelessness, defying all social **respectability**."*

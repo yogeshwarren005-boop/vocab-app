@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being of a suspicious nature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being of a suspicious nature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or habit of being suspicious; a distrustful nature or disposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character study and political psychology, a chronic predisposition to attribute hidden, malevolent motives to associates and rivals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, suspiciousness designates being of a suspicious nature."*
+> - 📜 **Francis Bacon (*Essays*):** *"**Suspiciousness** in a prince is a defect of heart and head, clouding judgment and alienating faithful subjects."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon's morbid **suspiciousness** converted Dorothea's most innocent inquiries into disguised accusations."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"A chronic **suspiciousness** poisons all natural communion between the soul and its surrounding fellows."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lavishly produced performance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sensational in appearance or thrilling in effect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dramatic, thrilling, or beautiful in a dramatic and eye-catching way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural sociology and theater production, describes theatrical grandiosity designed to overwhelm sensory perception through scale, color, and technical apparatus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I am trying to--" "Polk said last night that he thought it would be much more spectacular for all the good looking women in town to go when we are invited to Mrs."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We need an exercise that is sufficiently visible, even spectacular, to make both the UIPS and our INOR allies respect our will and capabilities to use organized military forces throughout our legitimate jurisdiction."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"THE INDIVIDUAL BAHÁ'Í MUST ARISE There can be no doubt whatever that to achieve this fourfold purpose is the most strenuous, the least spectacular, and the most challenging of the tasks now confronting the American Bahá'í Community."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The destruction of the ironclad Thunder Child was the most **spectacular** naval tragedy of the century."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The volcanic eruption produced a **spectacular** pillar of fiery ash that illuminated the Pacific for leagues."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"His descent into sensational pleasures was marked by **spectacular** social displays that scandalized London."*

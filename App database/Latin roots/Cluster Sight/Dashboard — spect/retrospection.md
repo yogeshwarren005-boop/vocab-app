@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reference to things past.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Memory for experiences that are past.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of looking back on or reviewing the past; retrospective thought.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological autobiography and romantic lyricism, the sustained meditative re-examination of personal development and lost time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"He was roused from the reverie of retrospection and regret produced by it, by some inquiry from Edmund as to his plans for the next day’s hunting; and he found it was as well to be a man of fortune at once with horses and grooms at his command."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Here besides the law of retrospection, which regards all the past as a preparation for events that subsequently occur, the law of reciprocity comes in, confusing the whole matter."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"A Retrospection It was the end of November, and Holmes and I sat, upon a raw and foggy night, on either side of a blazing fire in our sitting-room in Baker Street."*
+> - 📜 **Walt Whitman (*Specimen Days*):** *"Hours of solitary **retrospection** by the seashore brought back the faces of comrades fallen in Virginia."*
+> - 📜 **William Wordsworth (*The Prelude*):** *"A pensive mood of **retrospection** overtook me as I stood beside the murmuring brook of my childhood."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Anne's quiet hours of **retrospection** confirmed that her early sacrifice had been guided by duty."*

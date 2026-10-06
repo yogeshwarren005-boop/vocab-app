@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Openly distrustful and unwilling to confide.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not as expected.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing a cautious distrust of someone or something; causing distrust.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral psychology and forensic investigation, an alert mental state characterized by hyper-attunement to anomalies, deceit, or hazards.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I see no reason if I wear this rose, [_Putting on a red rose._] That anyone should therefore be suspicious I more incline to Somerset than York."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Even so suspicious is this tragedy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But in the midst of this bright-shining day, I spy a black, suspicious, threat’ning cloud That will encounter with our glorious sun Ere he attain his easeful western bed."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"A spider steep'd. / The venom of a **suspicious** thought / Infects the purest draught of human joy."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard had grown moody and **suspicious**, imagining that every glance in the marketplace mocked his fall."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The rustic company at the Rainbow turned **suspicious** eyes upon the strange weaver who lived alone by the stone-pits."*

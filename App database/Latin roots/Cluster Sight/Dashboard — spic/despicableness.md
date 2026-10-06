@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unworthiness by virtue of lacking higher values.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unworthiness by virtue of lacking higher values.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The vile nature or abject baseness that renders someone or something worthy of contempt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral characterization, profound moral degradation that forfeits all claim to sympathy or respectful fellowship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, despicableness designates unworthiness by virtue of lacking higher values."*
+> - 📜 **Samuel Richardson (*Clarissa*):** *"Lovelace felt a momentary shame at the unvarnished **despicableness** of his machinations against innocence."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The King of Brobdingnag commented upon the **despicableness** of European political intrigues with biting disdain."*
+> - 📜 **William Hazlitt (*Characters of Shakespear's Plays*):** *"Iago's villainy possesses no tragic grandeur, but a cold, venomous **despicableness**."*

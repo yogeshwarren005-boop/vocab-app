@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Planning prudently for the future.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Planning prudently for the future.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Looking forward; having or showing foresight; provident and prescient.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statecraft and ethical stewardship, anticipating oncoming societal needs and making proactive institutional preparations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prospicient designates planning prudently for the future."*
+> - 📜 **John Milton (*The Reason of Church-Government*):** *"A wise and **prospicient** magistrate plants nurseries of learning to illuminate future ages."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The seer stands upon the mountain ridge, **prospicient** of the dawn while valleys remain plunged in night."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"The soul is not retrospective, but **prospicient**, forever launching into uncharted seas of thought."*

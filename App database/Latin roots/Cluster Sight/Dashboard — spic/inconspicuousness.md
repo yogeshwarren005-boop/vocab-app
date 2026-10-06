@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being not easily seen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being not easily seen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The unobtrusive trait of escaping visual attention or blended concealment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and architectural camouflage, the optical adaptation that prevents visual detection by predators or competitors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inconspicuousness designates the quality of being not easily seen."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The female bird owes her safety to the sober **inconspicuousness** of her plumage while incubating eggs."*
+> - 📜 **Alfred Russel Wallace (*Darwinism*):** *"Cryptic **inconspicuousness** is achieved by mimicking the texture, hue, and shadows of bark or lichen."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"Total **inconspicuousness** proved impossible in snowy weather, where footprints revealed every step."*

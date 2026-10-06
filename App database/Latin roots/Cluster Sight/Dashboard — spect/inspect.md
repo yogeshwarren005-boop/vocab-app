@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Look over carefully.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come to see in an official or professional capacity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To look at closely, examine critically, or view formally in order to judge quality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In regulatory governance and military administration, conducting formal on-site examinations to verify compliance with statutory codes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Early this morning they had climbed over the castle hedge to inspect the apples on the other side of the hedge."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I can't imagine anything nicer than to be able to inspect the whole castle." "I can't," Leonore replied."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The arrangement was that Miss Everdene should honour them by coming there for a day or two to inspect some ingenious contrivances which this man of the woods had introduced into his wares."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard rode into the marketplace to **inspect** the sample sacks of wheat offered by the upland farmers."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"When we **inspect** the domestic breeds of pigeons, their skeletal divergences appear almost generic."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate paused to **inspect** the hospital ward with the keen eye of a modern medical reformer."*

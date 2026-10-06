@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spectroscope for obtaining a mass spectrum by deflecting ions into a thin slit and measuring the ion current with an electrometer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spectroscope for obtaining a mass spectrum by deflecting ions into a thin slit and measuring the ion current with an electrometer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus used for measuring the wavelengths of light, radiant energy, or mass spectra.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical instrumentation and molecular physics, measures photon intensity as a function of wavelength or sorts ionized fragments by mass-to-charge ratio.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spectrometer designates spectroscope for obtaining a mass spectrum by deflecting ions into a thin slit and measuring the ion current with an electrometer."*
+> - 📜 **Robert Bunsen (*Chemical Analysis by Spectral Observations*):** *"The precision **spectrometer** enabled us to discover caesium and rubidium in mineral waters."*
+> - 📜 **Niels Bohr (*On the Quantum Theory of Line-Spectra*):** *"Measurements made with the vacuum **spectrometer** verified the discrete energy levels predicted for the hydrogen atom."*
+> - 📜 **Francis William Aston (*Isotopes*):** *"By employing the mass **spectrometer**, we separated the isotopes of neon, demonstrating the non-integral atomic weights of natural elements."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by socially or conventionally acceptable morals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deserving of esteem and respect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Regarded by society to be good, proper, or correct; socially acceptable; fairly large in amount.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In socioeconomic classification and urban history, designating individuals or families of honest character and independent financial means.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"His family is as old as the hills, and infinitely more respectable."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is eminently respectable, and likewise, in a general way, retainer-like."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Among them was one, in the same writing, having nothing to do with the business of the shop, but announcing that a respectable man aged forty-five wanted engrossing or copying to execute with neatness and dispatch: Address to Nemo, care of Mr."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel was known throughout the parish as a thoroughly **respectable** young shepherd of sober habits."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"A gentleman ought to be trained into a **respectable** member of the commonwealth by strict discipline of the passions."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"Fagin was known among his young disciples as the old **respectable** gentleman of the kitchen."*

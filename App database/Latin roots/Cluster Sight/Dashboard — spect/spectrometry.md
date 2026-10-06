@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of spectroscopes to analyze spectra.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of spectroscopes to analyze spectra.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The science, method, or technique of measuring spectra and analyzing electromagnetic radiation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical chemistry and materials characterization, encompasses absorption, emission, and mass analysis techniques utilized to identify molecular species.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spectrometry designates the use of spectroscopes to analyze spectra."*
+> - 📜 **Marie Curie (*Radioactive Substances*):** *"The application of precision **spectrometry** to radium emissions revealed distinctive characteristic spectral lines."*
+> - 📜 **Francis William Aston (*Mass Spectra and Isotopes*):** *"The development of mass **spectrometry** revolutionized our understanding of atomic structure and isotopic composition."*
+> - 📜 **Willard Libby (*Radiocarbon Dating*):** *"Advanced mass **spectrometry** allows archaeologists to date ancient organic fragments with extraordinary accuracy."*

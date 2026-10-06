@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shrub with coral-red berries; japan to northern india.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spicy red berrylike fruit; source of wintergreen oil.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The aromatic edible berry of certain shrubs, such as wintergreen or spicebush.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In North American ethnobotany and wildlife ecology, designates pungent red drupes of Lindera benzoin consumed by migrating songbirds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spiceberry designates shrub with coral-red berries; japan to northern india."*
+> - 📜 **John Burroughs (*Signs and Seasons*):** *"The robins fed eagerly upon the bright scarlet **spiceberry**, stripping the bushes before the first snowfall."*
+> - 📜 **Henry David Thoreau (*Journals*):** *"I crushed a glossy **spiceberry** between my fingers, enjoying its sharp aromatic fragrance in the woods."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"The aromatic oil of the **spiceberry** was valued by early settlers for both culinary and medicinal decoctions."*

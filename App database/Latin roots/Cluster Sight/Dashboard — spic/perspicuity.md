@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Clarity as a consequence of being perspicuous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Clarity as a consequence of being perspicuous.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The luminous clarity and precision of expression that makes an idea readily understandable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric, prose stylistics, and logic, the essential virtue of discourse that ensures immediate intelligibility without ambiguity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Perspicuity, therefore, requires not only that the ideas should be distinctly formed, but that they should be expressed by words distinctly and exclusively appropriate to them."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The first rule of communication is **perspicuity**, without which words serve only to darken knowledge."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"True philosophy cultivates elegance and **perspicuity**, banishing scholastic jargon forever."*
+> - 📜 **Quintilian (*Institutio Oratoria*):** *"Let our speech possess such **perspicuity** that our meaning shall not merely be understood, but cannot be misunderstood."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not suspicious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not suspicious.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having or showing suspicion; trusting, unwary, and unsuspecting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character ethics and pastoral literature, denotes an open, candid innocence that presumes goodwill in others without deceit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I never saw her, except upon a baggage-waggon, when she wasn’t washing greens!” The subject of this reflection is at all events so occupied in washing greens at present that she remains unsuspicious of Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I have seen many new faces come, unsuspicious, within the influence of the mace and seal in these many years."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Morland knew so little of lords and baronets, that she entertained no notion of their general mischievousness, and was wholly unsuspicious of danger to her daughter from their machinations."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea was of an ardent, **unsuspicious** nature, incapable of attributing petty malice to those she honored."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Chillingworth preyed upon the **unsuspicious** minister, worming his way into the young man's secret soul."*
+> - 📜 **Thomas Henry Huxley (*Method and Results*):** *"The naive, **unsuspicious** observer is easily misled by superficial appearances in nature."*

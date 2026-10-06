@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (usually preceded by `in') a detail or point.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition of being honored (esteemed or respected or well regarded).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of deep admiration for someone elicited by their abilities, qualities, or achievements; regard.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethical theory and international law, the moral duty to recognize the autonomy, dignity, and sovereignty of persons and states.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In our two loves there is but one respect, Though in our lives a separable spite, Which though it alter not love’s sole effect, Yet doth it steal sweet hours from love’s delight."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What merit do I in my self respect, That is so proud thy service to despise, When all my best doth worship thy defect, Commanded by the motion of thine eyes?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, your dolphin is not lustier; fore me, I speak in respect— PAROLLES."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"There's the **respect** / That makes calamity of so long life."*
+> - 📜 **Immanuel Kant (*Groundwork of the Metaphysics of Morals*):** *"Duty is the necessity of an action done out of **respect** for the moral law."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea felt a profound **respect** for the scholar whose life was dedicated to ancient learning."*

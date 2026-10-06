@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Considered individually.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Considered individually.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging or relating separately to each of two or more persons or things previously mentioned.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal jurisprudence and taxonomy, distinguishing individual rights, assignments, or classifications within a coordinated group.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good den, Sir Richard!” “God-a-mercy, fellow!” And if his name be George, I’ll call him Peter; For new-made honour doth forget men’s names: ’Tis too respective and too sociable For your conversion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though not for me, yet for your vehement oaths, You should have been respective and have kept it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Away to heaven respective lenity, And fire-ey’d fury be my conduct now!"*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"Away to heaven, **respective** lenity, / And fire-eyed fury be my conduct now!"*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The several species of the same genus inhabit **respective** geographical provinces across the archipelago."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Words stand as signs of ideas in the **respective** minds of men who employ them."*

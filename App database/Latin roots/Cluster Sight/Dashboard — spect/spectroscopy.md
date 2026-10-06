@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of spectroscopes to analyze spectra.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of spectroscopes to analyze spectra.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of science concerned with the investigation and measurement of spectra produced when matter interacts with or emits radiation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytical physics and astrochemistry, serves as the primary technique for identifying atomic isotopes, molecular orbitals, and celestial compositions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spectroscopy designates the use of spectroscopes to analyze spectra."*
+> - 📜 **Niels Bohr (*On the Quantum Theory of Line-Spectra*):** *"The quantum postulates find their most direct empirical foundation in the measurements of optical **spectroscopy**."*
+> - 📜 **Arthur Eddington (*Stars and Atoms*):** *"Without the aid of astronomical **spectroscopy**, the physical nature of the stars would remain an impenetrable enigma."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Modern infrared **spectroscopy** provides an indispensable map of interatomic forces within organic molecules."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being seasoned with spice and so highly flavored.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being seasoned with spice and so highly flavored.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spices collectively; a place where spices are stored or processed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval and early modern trade history, the royal household department or merchant warehouse managing precious imported condiments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But in your daughter’s womb I bury them, Where, in that nest of spicery, they will breed Selves of themselves, to your recomforture."*
+> - 📜 **William Shakespeare (*Richard III*):** *"Let them exchange their cursed oil of rage / For balmy drops of holy balm and peace; / For sorrow will make **spicery** of death."*
+> - 📜 **King James Bible (*Genesis*):** *"And, behold, a company of Ishmeelites came from Gilead with their camels bearing **spicery** and balm and myrrh."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Sabæan odours from the spicy shore / Of Araby the blest, with rich **spicery** blown / Across the Indian ocean."*

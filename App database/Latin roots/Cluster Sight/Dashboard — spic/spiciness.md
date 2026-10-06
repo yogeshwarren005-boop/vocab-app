@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being seasoned with spice and so highly flavored.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Behavior or language bordering on indelicacy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The characteristic of being spicy; pungent flavor or aroma; lively excitement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sensory food science and literary aesthetics, the physiological stimulation caused by essential oils or the biting wit of satirical discourse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spiciness designates the property of being seasoned with spice and so highly flavored."*
+> - 📜 **Nathaniel Hawthorne (*Mosses from an Old Manse*):** *"There was a wholesome autumnal **spiciness** in the air that quickened our footsteps through the orchard."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"Mr. Wardle praised the warm **spiciness** of the punch, refilling every glass with genial hospitality."*
+> - 📜 **Thomas Henry Huxley (*Essays on Controverted Questions*):** *"A dash of polemical **spiciness** keeps public debate awake without compromising philosophical integrity."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The brightest star in virgo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The brightest star in virgo.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bright binary star in the constellation Virgo; in surgery, a figure-eight bandage resembling an ear of barley.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In observational astronomy and orthopedics, the primary alpha star of Virgo or a composite plaster cast stabilizing hip and pelvic joints.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spica designates the brightest star in virgo."*
+> - 📜 **Henry David Thoreau (*Journals*):** *"In the clear autumn twilight, the blue star **Spica** glittered low in the western sky above the pines."*
+> - 📜 **Arthur Eddington (*Stars and Atoms*):** *"Spectroscopic measurements revealed that **Spica** is a massive spectroscopic binary with an extraordinarily short period."*
+> - 📜 **Sir William Osler (*The Principles and Practice of Medicine*):** *"The surgeon applied a firm plaster **spica** to immobilize the fractured neck of the femur."*

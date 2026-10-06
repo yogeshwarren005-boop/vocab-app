@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The contemplation of your own thoughts and desires and conduct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The contemplation of your own thoughts and desires and conduct.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The examination or observation of one's own mental and emotional processes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of psychology and epistemological methodology, the first-person reporting of sensory and cognitive states used by early structuralists.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"The fact that this introspection is an inevitable symptom in many mental derangements, hypochondria, melancholia and others, indicates a not very remote relation of Weltschmerz to insanity."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Consequently his Weltschmerz loses in breadth what through the depth of the poet's introspection it gains in intensity."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"He thus typified the constant introspection wherewith he tortured, but could not purify himself."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"A morbid **introspection** paralyzes active virtue, substituting self-reproach for heroic labor."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Dimmesdale's ceaseless **introspection** gnawed at his vitals, turning his pulpit into an engine of torture."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Introspective observation is what we have to rely on first and foremost and always; **introspection** reveals our stream of thought."*

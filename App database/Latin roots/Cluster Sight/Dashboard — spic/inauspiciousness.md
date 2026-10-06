@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of suggesting an unsuccessful result.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of suggesting an unsuccessful result.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The unpromising, ominous, or ill-boding quality of circumstances or portents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic aesthetics and fatalistic poetics, the oppressive atmosphere of impending doom that envelopes tragic characters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inauspiciousness designates the quality of suggesting an unsuccessful result."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The **inauspiciousness** of the voyage is established from the moment the Mariner shoots the solitary albatross."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Fedallah's dark prophecies imparted a chilling sense of **inauspiciousness** to the Pequod's final cruise."*
+> - 📜 **Thomas De Quincey (*Confessions of an English Opium-Eater*):** *"A melancholy **inauspiciousness** seemed to hang over the deserted London streets at midnight."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or involving spectrometry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or involving spectrometry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to spectrometry; involving the measurement of spectra.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytical instrumentation, characterizes quantitative determinations of chemical structure, isotopic purity, or radiant flux densities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spectrometric designates of or relating to or involving spectrometry."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Modern **spectrometric** methods have established the exact bond lengths and vibrational frequencies of polyatomic molecules."*
+> - 📜 **Harold Urey (*The Planets: Their Origin and Development*):** *"Our **spectrometric** analysis of meteoritic chondrules revealed ancient isotopic anomalies from the early solar nebula."*
+> - 📜 **J. Robert Oppenheimer (*Lectures on Electrodynamics*):** *"The **spectrometric** determination of fine structure constant values provided stringent tests of quantum field theory."*

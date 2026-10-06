@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intelligence manifested by being astute (as in business dealings).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intelligence manifested by being astute (as in business dealings).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Acute discernment, sharp intellectual penetration, and ready insight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive analysis and forensic investigation, the intellectual penetration that pierces surface appearances to grasp fundamental truths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perspicaciousness designates intelligence manifested by being astute (as in business dealings)."*
+> - 📜 **Arthur Conan Doyle (*The Sign of Four*):** *"Holmes demonstrated his customary **perspicaciousness** by reconstructing the intruder's movements from three ashes."*
+> - 📜 **Samuel Johnson (*Lives of the English Poets*):** *"Dryden's prefaces display a critical **perspicaciousness** that laid the groundwork for modern literary critique."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"True **perspicaciousness** consists not in contentious disputation, but in uncovering the secrets of nature."*

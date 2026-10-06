@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wearing, or having the face adorned with, eyeglasses or an eyeglass.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wearing, or having the face adorned with, eyeglasses or an eyeglass.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wearing spectacles; having markings around the eyes resembling eyeglasses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoological taxonomy and descriptive portraiture, describes species such as the spectacled bear or persons wearing heavy optical lenses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All tongues speak of him, and the bleared sights Are spectacled to see him."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce?” The old man had come by little and little into the room until he now touched my guardian with his elbow and looked close up into his face with his spectacled eyes."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"I had refused to give up the smallest scrap out of that package, and I took the same attitude with the spectacled man."*
+> - 📜 **Joseph Conrad (*The Secret Agent*):** *"The **spectacled** assistant commissioner stared through his round lenses with detached bureaucratic curiosity."*
+> - 📜 **William Shakespeare (*Coriolanus*):** *"All tongues speak of him, and the bleared sights / Are **spectacled** to see him."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The elderly **spectacled** clerk sat perched upon his high stool, scratching away at Chancery documents."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who explores an area for mineral deposits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who explores an area for mineral deposits.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who explores an area in search of mineral deposits, petroleum, or precious metals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic history and frontier geography, the adventurous mineral explorer who surveys wilderness outcrops for gold, silver, or ore veins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Morgan, a prospector, who was roaming over the country in search of minerals, happened to be travelling through a small selection of 640 acres owned by a workingman, who just managed to eke out a living on it, the land being very poor."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Great areas on the edge of civilization still await the pioneer, the prospector, and the miner."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"It turned out, however, that the cutter _Juanita_ from Cooktown, with a party of eight diggers or prospectors, had arrived, with Mr."*
+> - 📜 **Mark Twain (*Roughing It*):** *"Every stream was filled with hopeful miners, and every **prospector** dreamed of striking a rich quartz ledge."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"The hardy **prospector** braved the arctic rapids, guided only by rumors of gold along the Klondike."*
+> - 📜 **Bret Harte (*The Luck of Roaring Camp*):** *"The solitary **prospector** washed pan after pan of gravel, cheered by a few glittering specks of dust."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A way of regarding situations or topics etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The appearance of things relative to one another as determined by their distance from the viewer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A particular attitude toward or way of regarding something; point of view; representation of spatial depth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fine art, architectural drafting, and cognitive philosophy, the geometric technique of projecting three-dimensional volume onto a planar surface using vanishing points.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A natural perspective, that is, and is not!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The perspective was so long and so darkened by leaves, and the shadows of the branches on the ground made it so much more intricate to the eye, that at first I could not discern what figure it was."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"From the exterior of George’s Shooting Gallery, and the long entry, and the bare perspective beyond it, Allan Woodcourt augurs well."*
+> - 📜 **William Shakespeare (*Twelfth Night*):** *"One face, one voice, one habit, and two persons! / A natural **perspective**, that is and is not!"*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"When objects are viewed through the true **perspective** of reason, their apparent distortions disappear."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"From that elevated barrow, the human figure was reduced by **perspective** to a mere moving speck against the horizon."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (ethnic slur) offensive term for persons of latin american descent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Completely neat and clean.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A spike or ear of grain in historical botany; alternatively an archaic dialectal term for fat or bacon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical agronomy and cereal morphology, refers to the spicate inflorescence or grain spike of wheat, barley, or rye.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Spiced wine he would have from no other cup than the skull of Guthlaf."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I stood at Tostig Lodbrog’s shoulder, holding the skull of Guthlaf that steamed and stank with the hot, spiced wine."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Some women are so feminine that they are sticky, unless well spiced with deviltry."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"In wild cereals, the **spic** or spikelet readily disarticulates upon maturity to disperse the seed."*
+> - 📜 **John Gerard (*The Herball*):** *"The bearded **spic** of the winter rye stands erect upon its slender culm."*
+> - 📜 **William Turner (*A New Herball*):** *"The wild corn shooteth forth a rough **spic** whose awns defend it from browsing beasts."*

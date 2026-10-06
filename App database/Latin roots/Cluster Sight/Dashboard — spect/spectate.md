@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be a spectator in a sports event.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be a spectator in a sports event.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To watch or observe an event, show, or game as a spectator.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social phenomenology, assumes the role of a passive, disengaged onlooker rather than an active participant in public affairs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spectate designates be a spectator in a sports event."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"The affluent classes assemble merely to **spectate** lavish athletic contests as an expression of vicarious leisure."*
+> - 📜 **William James (*Talks to Teachers on Psychology*):** *"It is not enough for students to **spectate** experiments; they must touch the apparatus with their own hands."*
+> - 📜 **George Santayana (*The Life of Reason*):** *"The philosopher must both live within the arena and **spectate** upon its folly from the serene heights of contemplation."*

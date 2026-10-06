@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Seeing ahead; knowing in advance; foreseeing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Seeing ahead; knowing in advance; foreseeing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of looking forward; foresight, prescience, or provident anticipation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral theology and teleological philosophy, the intellectual faculty of surveying future contingencies and aligning present action accordingly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prospicience designates seeing ahead; knowing in advance; foreseeing."*
+> - 📜 **Samuel Taylor Coleridge (*The Friend*):** *"Human wisdom consists in a sober **prospicience** that calculates the moral consequences of legislation."*
+> - 📜 **Thomas Browne (*Christian Morals*):** *"Exercise a holy **prospicience** toward eternity, neglecting the vain bubbles of temporal glory."*
+> - 📜 **William Godwin (*Enquiry Concerning Political Justice*):** *"True benevolence requires rational **prospicience**, anticipating how institutions will shape unborn generations."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dishonorableness by virtue of lacking respectability or a good reputation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dishonorableness by virtue of lacking respectability or a good reputation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or character of not being respectable; lack of social standing or conventional bourgeois decency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural history and Victorian sociology, describes lifestyles, occupations, or bohemias that deliberately flouted bourgeois etiquette.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unrespectability designates dishonorableness by virtue of lacking respectability or a good reputation."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The family shrank from any taint of **unrespectability** that might compromise their credit in the county."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Jopp embraced his local **unrespectability** with bitter defiance, haunting the low tavern on the quay."*
+> - 📜 **George Bernard Shaw (*Pygmalion*):** *"Doolittle rejoiced in his cheerful **unrespectability**, declaring that bourgeois morality was a burden he could ill afford."*

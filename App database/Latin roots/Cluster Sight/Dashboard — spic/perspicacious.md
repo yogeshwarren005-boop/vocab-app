@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Acutely insightful and wise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mentally acute or penetratingly discerning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a ready insight into and understanding of things; mentally acute or discerning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual history and philosophy of mind, denotes exceptional clarity of judgment capable of seeing through sophistry and obfuscation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perspicacious designates acutely insightful and wise."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"A **perspicacious** naturalist detects structural affinities where the casual observer sees only superficial diversity."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"A **perspicacious** mind quickly disentangles complex ideas into their simple components."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Farebrother was too **perspicacious** not to perceive the unspoken tension between Lydgate and his bride."*

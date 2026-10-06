@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mental representation of some haunting experience.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ghostly appearing figure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A ghost, phantom, or haunting spirit; something widely feared as a possible unpleasant event.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In socio-political polemics and psychoanalysis, represents an ominous recurring apprehension or ideological dread that unsettles established power.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Was It—the dark form with the chain—a creature of this world, or a specter?"*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"This was no phantom, then—no air-drawn specter."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"I had heard that specter and fiend were compelled to fade as morning brightened, but this creature was too real, too foul a thing of earth, to vanish at cock-crow."*
+> - 📜 **Karl Marx (*The Communist Manifesto*):** *"A **specter** is haunting Europe—the specter of communism."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The ancient wrong walked like an unquiet **specter** through the dusty corridors of the ancestral mansion."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"I shrank in terror before the tall, enshrouded **specter** that stood swaying at the doorway."*

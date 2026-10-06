@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or relating to spikes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or relating to spikes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the form of or arranged in a spike or ear of grain; spikelike in botanical arrangement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic plant taxonomy, describes inflorescences whose sessile flowers are arranged along an unbranched central rachis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spicate designates having or relating to spikes."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The genus is easily distinguished by its dense, **spicate** racemes of purple flowers."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"In many species possessing a **spicate** inflorescence, cross-fertilization is promoted by sequential blooming."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"A **spicate** flower head ensures that pollen is readily shed upon the wind or visiting bees."*

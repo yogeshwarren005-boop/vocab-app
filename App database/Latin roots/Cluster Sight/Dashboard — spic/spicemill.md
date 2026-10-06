@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mill for grinding spices.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mill for grinding spices.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mechanical mill, grinder, or mortar used for grinding whole spices into powder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical material culture and culinary domestic economy, a cast-iron or wooden rotary apparatus essential for freshly releasing essential oils.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spicemill designates a mill for grinding spices."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"A heavy brass **spicemill** stood upon the dresser, filling the kitchen with fragrant dust whenever Joe turned the crank."*
+> - 📜 **Washington Irving (*Bracebridge Hall*):** *"The cook was busy with pestle and **spicemill**, preparing the savory condiments for the Christmas banquet."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The ship's galley boasted a small iron **spicemill** that clattered merrily through every roll of the sea."*

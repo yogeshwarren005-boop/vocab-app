@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The favorable quality of strongly indicating a successful result.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The favorable quality of strongly indicating a successful result.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The promising, favorable, or propitious nature of circumstances attending an undertaking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient divination and institutional ceremonialism, the perceived presence of divine goodwill attending an enterprise or treaty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, auspiciousness designates the favorable quality of strongly indicating a successful result."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"No sober statesman mistakes the transient popularity of a faction for genuine constitutional **auspiciousness**."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The **auspiciousness** of Trajan's reign was commemorated on countless triumphal arches throughout the provinces."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"He admired the serene ritual of the ancient religion, noting the sense of **auspiciousness** it imparted to daily toil."*

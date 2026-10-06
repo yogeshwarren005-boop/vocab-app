@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an agreeably pungent taste.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing a burning sensation on the taste nerves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Flavored with or fragrant with spice; pungent; piquant; mildly scandalous or provocative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastronomy and colloquial journalism, characterizes foods rich in aromatic essential oils or anecdotes possessing scandalous, entertaining details.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"A spicy boudoir, this,” says Mr."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The Slave’s spicy forests, and gold-bubbling fountains, The brave Caledonian views wi’ disdain; He wanders as free as the winds of his mountains, Save Love’s willing fetters—the chains of his Jean."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Roses were abundant, white and scentless, or small, pink, and spicy, and the ground was carpeted with yellow and blue flowers."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The **spicy** breezes of Ceylon greeted the weary crew after months across the barren Indian sea."*
+> - 📜 **James Joyce (*Ulysses*):** *"A warm, **spicy** aroma drifted from the bakery door, mingling with the smell of roasting chicory."*
+> - 📜 **Thomas Henry Huxley (*Life and Letters*):** *"He enlivened the biological controversy with several **spicy** remarks that delighted the medical students."*

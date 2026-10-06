@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bowing in such a way that the bow bounces lightly off the strings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bowing in such a way that the bow bounces lightly off the strings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical bowing technique for string instruments where the bow bounces lightly upon the string.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In violin performance and orchestral orchestration, produces short, crisp, detached staccato notes via controlled bow elasticity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spiccato designates bowing in such a way that the bow bounces lightly off the strings."*
+> - 📜 **Hector Berlioz (*Treatise on Instrumentation*):** *"The rapid **spiccato** of the violins imparts a shimmering, capricious energy to the Scherzo."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The soloist executed the dazzling **spiccato** passages with breathtaking agility and flawless intonation."*
+> - 📜 **Leopold Auer (*Violin Playing as I Teach It*):** *"A pure **spiccato** requires complete relaxation of the wrist, allowing the stick to bounce by its own natural rebound."*

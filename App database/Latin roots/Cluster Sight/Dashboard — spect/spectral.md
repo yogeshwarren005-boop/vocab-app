@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a spectrum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling or characteristic of a phantom.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or like a ghost; phantom; of or relating to a spectrum of light or sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optical physics and Gothic aesthetics, pertains to chromatic dispersion across prisms or uncanny apparitions haunting sensory perception.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He has a yellow look in the spectral darkness of a candle that has guttered down until the whole length of its wick (still burning) has doubled over and left a tower of winding-sheet above it."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It has plenty of spectral company in ghosts of trees and hedges, slowly vanishing and giving place to the realities of day."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The spectral, half-compounded, aqueous light which pervaded the open mead impressed them with a feeling of isolation, as if they were Adam and Eve."*
+> - 📜 **Thomas Hardy (*The Darkling Thrush*):** *"The tangled bine-stems scored the sky / Like strings of broken lyres, / And all mankind that haunted nigh / Had sought their household fires. / The land's sharp features seemed to be / The Century's corpse outleant, / His crypt the cloudy canopy, / The wind his death-lament. / The ancient pulse of germ and birth / Was shrunken hard and dry, / And every spirit upon earth / Seemed fervourless as I. / At once a voice arose among / The bleak twigs overhead / In a full-hearted evensong / Of joy illimited; / An aged thrush, frail, gaunt, and small, / In blast-beruffled plume, / Had chosen thus to fling his soul / Upon the growing gloom. / So little cause for carollings / Of such ecstatic sound / Was written on terrestrial things / Afar or nigh around, / That I could think there trembled through / His happy good-night air / Some blessed Hope, whereof he knew / And I was unaware. And the frost was **spectral** grey."*
+> - 📜 **Oscar Wilde (*The Canterville Ghost*):** *"The **spectral** shape glided silently through the moonlight, rattling its rusty chains with theatrical indignation."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The dying laborers crawled into the greenish shade, appearing like **spectral** shapes in an infernal twilight."*

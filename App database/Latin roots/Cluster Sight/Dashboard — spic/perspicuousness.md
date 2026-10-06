@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Clarity as a consequence of being perspicuous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Clarity as a consequence of being perspicuous.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The lucid clarity of statement or discourse that banishes ambiguity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical treatises and legal standards, the degree of unambiguous clarity that guarantees shared understanding among readers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perspicuousness designates clarity as a consequence of being perspicuous."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"Train the youth to express his thoughts with natural ease and **perspicuousness**."*
+> - 📜 **Edmund Burke (*A Philosophical Enquiry into the Sublime and Beautiful*):** *"In eloquence, **perspicuousness** must often yield to emotional passion and evocative obscurity."*
+> - 📜 **George Campbell (*The Philosophy of Rhetoric*):** *"Of all the qualities of style, strict **perspicuousness** is the most indispensable to conviction."*

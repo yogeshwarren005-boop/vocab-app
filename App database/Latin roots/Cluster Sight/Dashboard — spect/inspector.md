@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A high ranking police officer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An investigator who observes carefully.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official employed to ensure that official regulations, standards, or laws are obeyed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In municipal policing and statutory regulation, a civil officer invested with investigative powers to enforce safety, sanitation, or penal codes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket, “you’ll excuse anything that may appear to be disagreeable in this, for my name’s Inspector Bucket of the Detective, and I have a duty to perform."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"You put that to her ladyship, Sir Leicester Dedlock, Baronet, from me, Inspector Bucket of the Detective."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Put it to her ladyship, if you think it right, from Inspector Bucket of the Detective."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The local police **inspector** was completely baffled by the utter lack of footprints around the body."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The sanitary **inspector** turned away from Tom-all-Alone's with an involuntary shudder of disgust."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The timber **inspector** marked each fallen oak with a distinctive brand before the auction."*

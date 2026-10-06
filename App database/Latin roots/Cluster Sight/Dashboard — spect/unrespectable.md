@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unworthy of respect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unworthy of respect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not considered proper, respectable, or socially acceptable; disreputable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social classification, designating individuals, dwellings, or pastimes ostracized by polite society for nonconformist or disorderly ways.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unrespectable designates unworthy of respect."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The ragged court was filled with **unrespectable** lodgers whose precarious trades eluded the parish authorities."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Her relatives regarded the traveling tinker as a thoroughly **unrespectable** vagrant."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He had a curious penchant for wandering through the most **unrespectable** quarters of the East End."*

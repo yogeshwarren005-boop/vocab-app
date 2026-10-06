@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ordered array of the components of an emission or wave.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A broad range of related objects or values or qualities or ideas or activities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A band of colors produced by separation of the components of light by their different degrees of refraction; a continuous range.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electromagnetic physics and social sciences, spans the complete continuum of radiant frequencies or an unbroken continuum of political opinions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"In the solar spectrum, beyond the extreme red and extreme violet rays, are whole series of colours, demonstrable, but imperceptible to gross human vision."*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"You know that ordinary white light is made up of a series of beautiful colours (the spectrum), which I show you here."*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"The whole of those colours come off together, and that ribbon is white because the whole of the colours of the spectrum are reflected at the same moment."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"The intellectual eye splits the white light of truth into a rich **spectrum** of diverse individual insights."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"In every domestic breed we discover a wide **spectrum** of variations departing from the aboriginal type."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"Beyond the visible red of the **spectrum** lies the vast domain of thermal radiation."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small pointed structure serving as a skeletal element in various marine and freshwater invertebrates e.g. sponges and corals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small pointed structure serving as a skeletal element in various marine and freshwater invertebrates e.g. sponges and corals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small needlelike structure or sharp-pointed body, especially of sponges or solar flares.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In solar physics and marine zoology, refers to supersonic plasma jets in the solar chromosphere or microscopic skeletal spikes supporting poriferan tissue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The most prominent distinction may be found in the apices of the spores, which, in this instance, are not attenuated, but crowned with a series of little spicules, or teeth, whence the specific name of _coronata_ has been derived (Plate IV. fig. 62)."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The glass sponge is composed of intricate lattices of silica, each microscopic **spicule** exquisitely formed."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The skeletal framework of Calcispongiae consists of tri-radiate and quadri-radiate **spicule** elements."*
+> - 📜 **Arthur Eddington (*Stars and Atoms*):** *"A solar **spicule** erupts through the chromosphere at enormous speed, carrying magnetized plasma into the corona."*

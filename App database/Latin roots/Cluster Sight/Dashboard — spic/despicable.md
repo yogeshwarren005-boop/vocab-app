@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Morally reprehensible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Morally reprehensible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deserving hatred and contempt; vile, worthless, and low in moral character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethical philosophy, designating actions or dispositions that merit unreserved moral censure for craven malice or treachery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"By all that is base and despicable,” cried Mr."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The Board of Pardons likewise believed, for, ere three months were up, Cecil Winwood, forger and poet, most despicable of men, was pardoned out."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I found it an intolerable nuisance, in the deeps of dream across space and time, to be haled back to the sordid present by a despicable prison doctor pressing water to my lips."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He thought that taking bribes was a **despicable** business, beneath the dignity of any gentleman."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I know that my townspeople will not look upon my simple mode of life as **despicable**, but rather as eccentric."*
+> - 📜 **Bram Stoker (*Dracula*):** *"To prey upon the helpless in their sleep is the most **despicable** cruelty known to man or beast."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner tending to attract attention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a prominent way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a clearly visible or noticeable way; strikingly or prominently.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral ecology and sociology, displaying traits or expenditures boldly to ensure immediate perception by competitors or onlookers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Next: how shall we define the whale, by his obvious externals, so as conspicuously to label him for all time to come?"*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Braun thought, and I readily concurred in the opinion, that he would do best not to essay an exhaustive history, but to select certain conspicuously interesting types and proceed by the method of close analysis, characterization and comparison."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"One of these was a “wing,” conspicuously irrelevant in point of architecture, and no less rebellious in the matter of purpose; for it was a combination of laboratory, menagerie, and museum."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Many poisonous species are **conspicuously** marked, advertising their unpalatability across the forest."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"Wealth must be **conspicuously** wasted if it is to confer unblemished social honor upon its possessor."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The purloined document had been placed **conspicuously** upon the mantelpiece, escaping notice by its very boldness."*

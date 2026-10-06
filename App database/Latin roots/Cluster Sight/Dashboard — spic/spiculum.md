@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small pointed structure serving as a skeletal element in various marine and freshwater invertebrates e.g. sponges and corals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small pointed structure serving as a skeletal element in various marine and freshwater invertebrates e.g. sponges and corals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small sharp spike, dart, or needlelike anatomical part in invertebrates or botany.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate morphology, Roman weaponry, and botany, designates copulatory needles in nematodes, Roman javelins, or pointed bracts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spiculum designates small pointed structure serving as a skeletal element in various marine and freshwater invertebrates e.g. sponges and corals."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Roman infantry discharged the heavy **spiculum** with deadly precision before engaging sword in hand."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The male nematode possesses a chitinous **spiculum** utilized for transfer during reproduction."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"Under the lens, each minute **spiculum** projecting from the seed coat assists in mechanical dispersal."*

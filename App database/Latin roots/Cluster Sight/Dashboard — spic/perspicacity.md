@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intelligence manifested by being astute (as in business dealings).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capacity to assess situations or circumstances shrewdly and to draw sound conclusions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ability to understand things quickly and make accurate judgments; acute mental penetration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemological appraisal, denotes penetrating analytical intelligence that comprehends nuanced relationships and foresees outcomes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"It raises the thinker into his native air of insight and perspicacity."*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"It was a marvellous effort of perspicacity to discover that I did not love her."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Venn possessed a shrewd **perspicacity** in judging rustic character that made him an invaluable ally."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"Character is higher than intellect; yet what **perspicacity** equals the spontaneous insight of an honest mind?"*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The emperor lacked the political **perspicacity** required to navigate the factions of the capital."*

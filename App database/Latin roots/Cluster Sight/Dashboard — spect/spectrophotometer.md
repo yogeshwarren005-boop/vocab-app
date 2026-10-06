@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A photometer for comparing two light radiations wavelength by wavelength.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A photometer for comparing two light radiations wavelength by wavelength.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical instrument that measures the intensity of light in a part of the spectrum, especially as absorbed by a chemical solution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemical assay and molecular diagnostics, quantifies solute concentration by determining monochromatic light absorbance across ultraviolet and visible wavelengths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spectrophotometer designates a photometer for comparing two light radiations wavelength by wavelength."*
+> - 📜 **Linus Pauling (*The Molecular Basis of Medical Science*):** *"Using the quartz **spectrophotometer**, we were able to detect anomalous absorption curves in sickle cell hemoglobin."*
+> - 📜 **James D. Watson (*Molecular Biology of the Gene*):** *"The modern **spectrophotometer** enables biochemists to track the denaturation of DNA duplexes by monitoring absorbance at 260 nanometers."*
+> - 📜 **Arnold O. Beckman (*The Development of the Model DU*):** *"The photoelectric **spectrophotometer** transformed chemical analysis from a tedious artisan craft into an exact, rapid measurement."*

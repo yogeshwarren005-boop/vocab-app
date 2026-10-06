@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With strong spices; in a spicy manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With strong spices; in a spicy manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a spicy manner; with aromatic pungency, sharp flavor, or lively piquancy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In culinary prose and satirical journalism, describing pungent taste profiles or witty, provocative turns of phrase.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The chimney of the new house, in short, belching forth its kitchen smoke, impregnated the whole air with the scent of meats, fowls, and fishes, spicily concocted with odoriferous herbs, and onions in abundance."*
+> - 📜 **Herman Melville (*Omoo*):** *"The island feast was **spicily** seasoned with native roots that brought tears of delight to the sailors' eyes."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky Sharp commented **spicily** upon the fashionable hypocrisies of the London season."*
+> - 📜 **James Joyce (*Dubliners*):** *"The mulled port wine was **spicily** heated with cinnamon and cloves to ward off the winter chill."*

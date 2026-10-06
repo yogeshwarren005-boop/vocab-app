@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal or official examination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A formal or official examination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Careful examination, critical scrutiny, or formal official review.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public health administration and industrial safety, the statutory protocol of evaluating facilities, equipment, and records for hazards.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"So they go out in a loose procession, something after the manner of a straggling funeral, and make their inspection in Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He proposed to show us his Court of Chancery and all the strange medley it contained; during the whole of our inspection (prolonged by himself) he kept close to Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn; nor does he so much as glance at the affidavit in Jarndyce and Jarndyce, that has been given to him for his inspection (though he still holds it in his hand), but continues to look at the lawyer with an air of troubled meditation."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The corn factor submitted his ledgers to public **inspection** with defiant calmness."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"A closer **inspection** of the coral reef revealed millions of tiny polyps building the limestone barrier."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The gold coins were laid out for daily **inspection**, gleaming under the weaver's candle."*

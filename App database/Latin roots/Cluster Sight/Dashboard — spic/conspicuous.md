@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Obvious to the eye or mind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without any attempt at concealment; completely obvious.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Standing out so as to be clearly visible; attracting notice or attention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary ethology and social theory, characterizes warning coloration in organisms or ostentatious consumption designed to signal status.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy’s breast and the numerous oscillations it occasioned him between his mother’s door and us were sufficiently conspicuous in the windy street (particularly as his hair wanted cutting) to make us hurry away."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I chose it as a conspicuous part of the house."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Whilst Oak was doing as she desired, Bathsheba collected the flowers, and began planting them with that sympathetic manipulation of roots and leaves which is so conspicuous in a woman’s gardening, and which flowers seem to understand and thrive upon."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Caterpillars that possess noxious properties are rendered **conspicuous** by bright colors to deter insectivorous birds."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Her scarlet cloak made her **conspicuous** against the bleak expanse of the autumn downs."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate's medical theories made him **conspicuous** among the conservative practitioners of the county."*

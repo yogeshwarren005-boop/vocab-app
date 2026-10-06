@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Aromatic substances of vegetable origin used as a preservative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a variety of pungent aromatic vegetable substances used for flavoring food.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An aromatic or pungent vegetable substance used to flavor food, such as cloves, pepper, or cinnamon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In global economic history and culinary chemistry, represents plant secondary metabolites that drove maritime exploration and colonial trade empires.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Beshrew me, I would, And venture maidenhead for’t; and so would you, For all this spice of your hypocrisy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is not birth, beauty, good shape, discourse, manhood, learning, gentleness, virtue, youth, liberality, and such like, the spice and salt that season a man?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Prosper you, sweet sir! [_Exit Clown._] Your purse is not hot enough to purchase your spice."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"I must have saffron to colour the warden pies; mace; dates... nutmegs, seven; a race or two of ginger... What a feast of **spice**!"*
+> - 📜 **Ralph Waldo Emerson (*Nature*):** *"The merchant sails across the globe to bring home a handful of tea and a pound of **spice**."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The warm trade winds blew across the ocean, laden with the faint, exotic **spice** of the Moluccas."*

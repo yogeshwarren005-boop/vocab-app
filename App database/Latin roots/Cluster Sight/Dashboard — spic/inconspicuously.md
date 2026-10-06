@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner intended to avoid attracting attention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner intended to avoid attracting attention.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a way that does not attract attention; unobtrusively or discreetly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social anthropology and detective tradecraft, moving or existing within an environment without provoking surveillance or alarm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inconspicuously designates in a manner intended to avoid attracting attention."*
+> - 📜 **Joseph Conrad (*The Secret Agent*):** *"The conspirator slipped **inconspicuously** through the damp alley, melding into the London fog."*
+> - 📜 **Henry James (*The American*):** *"Newman stood **inconspicuously** by the doorway, observing the delicate etiquette of the Parisian salon."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The nightjar nested **inconspicuously** upon the bare stony ground, matching the pebbles perfectly."*

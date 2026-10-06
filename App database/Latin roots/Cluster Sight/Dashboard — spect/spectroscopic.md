@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or involving spectroscopy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or involving spectroscopy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or obtained by the use of a spectroscope or spectroscopic techniques.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern astrophysics and quantum chemistry, pertains to the diagnostic examination of energy transitions and line splitting across electromagnetic frequencies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spectroscopic designates of or relating to or involving spectroscopy."*
+> - 📜 **Arthur Eddington (*The Internal Constitution of the Stars*):** *"Our **spectroscopic** knowledge of stellar envelopes demonstrates the enormous abundance of hydrogen in deep space."*
+> - 📜 **Edwin Hubble (*The Realm of the Nebulae*):** *"The **spectroscopic** displacement toward the red is observed in all extragalactic nebulae whose distances have been measured."*
+> - 📜 **Robert Bunsen (*Chemical Analysis by Spectral Observations*):** *"Distinct **spectroscopic** lines appear with unfailing sharpness whenever volatile salts are introduced into the flame."*

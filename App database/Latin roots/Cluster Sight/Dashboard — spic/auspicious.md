@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Auguring favorable circumstances and good luck.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Auguring favorable circumstances and good luck.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conducive to success; favorable; giving or being a sign of future success.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical augury and ceremonial politics, designates omens, horoscopes, or inaugural events deemed propitious by sacred authorities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then go thou forth; And fortune play upon thy prosperous helm, As thy auspicious mistress!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here stood he in the dark, his sharp sword out, Mumbling of wicked charms, conjuring the moon To stand auspicious mistress."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll deliver all; And promise you calm seas, auspicious gales, And sail so expeditious that shall catch Your royal fleet far off. [_Aside to Ariel._] My Ariel, chick, That is thy charge: then to the elements Be free, and fare thou well!"*
+> - 📜 **William Shakespeare (*Hamlet*):** *"With an **auspicious** and a dropping eye, / With mirth in funeral and with dirge in marriage, / In equal scale weighing delight and dole."*
+> - 📜 **Ralph Waldo Emerson (*The Conduct of Life*):** *"Let us meet the new day under an **auspicious** resolve to welcome every fresh discovery of truth."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The settlement began under **auspicious** skies, yet the dark shadow of the scaffold soon fell across the marketplace."*

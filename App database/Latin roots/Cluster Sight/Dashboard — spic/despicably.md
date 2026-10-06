@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a despicable manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a despicable manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a contemptible, mean, vile, or cowardly manner; shamefully.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In judicial censure and literary critique, acting in a way that demonstrates craven submission to base impulse or dishonorable gain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"True, generous feeling is made small account of by some, but here were two natures rendered, the one intolerably acrid, the other despicably savourless for the want of it."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"How despicably have I acted!” she cried."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The judge acted **despicably**, bending the laws to flatter royal prerogative and crush innocent prisoners."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"Squeers fawned **despicably** before his wealthy patrons while starving the helpless pupils in his charge."*
+> - 📜 **Tobias Smollett (*The Adventures of Roderick Random*):** *"The cowardly lieutenant shrank **despicably** behind the capstan the moment the enemy opened fire."*

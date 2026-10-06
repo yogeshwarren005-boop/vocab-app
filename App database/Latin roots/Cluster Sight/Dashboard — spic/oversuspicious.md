@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unduly suspicious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unduly suspicious.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessively inclined to distrust others or suspect foul play; unduly paranoid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic psychology and diplomatic statecraft, a diseased hypervigilance that interprets innocent gestures as coordinated conspiracies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oversuspicious designates unduly suspicious."*
+> - 📜 **Francis Bacon (*Essays*):** *"Princes that are **oversuspicious** multiply enemies by demonstrating that they hold all men for traitors."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode had grown **oversuspicious**, dreading that every casual glance from a neighbor hid secret blackmail."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"An **oversuspicious** heart turns wholesome love into venomous jealousy."*

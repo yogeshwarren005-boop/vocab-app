@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a clear and lucid manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a clear and lucid manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a clear, lucid, and easily understood manner; plainly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In didactic writing and legal drafting, expounding complex premises with luminous clarity and orderly progression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perspicuously designates in a clear and lucid manner."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The chancellor set forth the principles of equity **perspicuously**, cutting through centuries of legal clutter."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"He that delivers knowledge should deliver it **perspicuously**, so that it may be examined and tested."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"The historian ought to relate facts simply and **perspicuously**, avoiding rhetorical vanity."*

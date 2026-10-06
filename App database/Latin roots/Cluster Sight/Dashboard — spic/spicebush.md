@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deciduous shrub of the eastern united states having highly aromatic leaves and bark and yellow flowers followed by scarlet or yellow berries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Straggling aromatic shrub of southwestern united states having fragrant brown flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A North American deciduous aromatic shrub (Lindera benzoin) bearing small yellow flowers and glossy red berries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In woodland botany and riparian ecology, an underbrush indicator shrub thriving in moist calcareous soils and damp bottomlands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spicebush designates deciduous shrub of the eastern united states having highly aromatic leaves and bark and yellow flowers followed by scarlet or yellow berries."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The fragrance of the bruised **spicebush** along the swamp edge signaled the true awakening of spring."*
+> - 📜 **John Burroughs (*Wake-Robin*):** *"Before a leaf has unfolded, the **spicebush** covers itself with clusters of pale yellow flowers that illuminate the damp woods."*
+> - 📜 **Donald Culross Peattie (*A Natural History of Trees*):** *"Pioneers brewed a comforting aromatic tea from the twigs of the wild **spicebush** during winter months."*

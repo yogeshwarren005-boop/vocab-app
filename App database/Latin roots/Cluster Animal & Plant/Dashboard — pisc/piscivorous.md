@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeding on fishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeding on fishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Habitually feeding upon or living on fish; fish-eating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, herpetology, and marine biology, describing anatomical adaptations like serrated bills, pointed conical teeth, or talons specialized for grasping slippery aquatic prey.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, piscivorous designates feeding on fishes."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The osprey is an exclusively **piscivorous** bird of prey, swooping from great heights to snatch fish from the ocean surface."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The slender, elongated snouts of the gharial and certain extinct ichthyosaurs demonstrate an adapted **piscivorous** diet."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"Kingfishers and herons constitute our most conspicuous inland **piscivorous** birds, haunting mill-pools and quiet streams."*

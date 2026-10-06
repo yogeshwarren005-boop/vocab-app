@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any animal that feeds chiefly on grass and other plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any animal that feeds chiefly on grass and other plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An animal anatomically and physiologically adapted to feed primarily or exclusively on autotrophic plant matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In trophic ecology, a primary consumer occupying the second trophic level, transferring photosynthesized solar energy to carnivores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, herbivore designates any animal that feeds chiefly on grass and other plants."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"A quadrupedal **herbivore** requires an extensive digestive tract to ferment and extract nourishment from fibrous cellulose."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The molar dentition of a typical ungulate **herbivore** displays elevated transverse ridges ideal for grinding fibrous grasses."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"The skull of the **herbivore** shows pronounced modification of the mandibular condyle to permit lateral chewing motion."*

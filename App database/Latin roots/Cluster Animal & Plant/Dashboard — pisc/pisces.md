@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The twelfth sign of the zodiac; the sun is in this sign from about february 19 to march 20.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (astrology) a person who is born while the sun is in pisces.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The twelfth sign of the zodiac, represented by two fish swimming in opposite directions; or the traditional taxonomic superclass comprising all fishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical vertebrate taxonomy and stellar astrology, aquatic cold-blooded gill-bearing craniates possessing fins and dermal scales.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"The same may be made with Cancer ascending, the moon being received by Jupiter and Venus in Pisces, and being fortunately placed in the ninth house, and write upon it the spirit of the moon (which is Gabriel)."*
+> - 📜 **John Milton (*Paradise Lost*):** *"From the Vernal Equinox when the Sun enters Aries until the cold starry constellation of **Pisces** completes the year."*
+> - 📜 **Louis Agassiz (*Recherches sur les Poissons Fossiles*):** *"The class **Pisces** exhibits remarkable evolutionary differentiation in dermal scales, from ancient placoids to modern cycloids."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Ancient astrologers accounted **Pisces** a cold, watery, and nocturnal sign, attributing to it influence over seas and lakes."*

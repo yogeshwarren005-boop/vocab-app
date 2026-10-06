@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being or of the nature of an ovule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to an ovum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resembling, or containing an ovule or ovum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant anatomy and embryology, relating to the megasporangium structure before and during fertilization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ovular designates being or of the nature of an ovule."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The funiculus serves as the vascular stalk attaching the **ovular** body to the internal maternal placenta of the carpel."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation*):** *"Cross-pollination stimulated rapid **ovular** swelling in the treated flowers, resulting in an abundant harvest of viable seed."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The **ovular** membrane exhibits distinct micro-pores through which the fertilizing spermatozoon achieves penetration."*

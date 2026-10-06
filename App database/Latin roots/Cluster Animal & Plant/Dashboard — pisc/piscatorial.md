@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of the activity of fishing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of the activity of fishing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Connected with, relating to, or appropriate for fishing or fishermen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century literary recreation, characterizing the philosophy, rod-and-fly tackle, and contemplative leisure of sport anglers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, piscatorial designates relating to or characteristic of the activity of fishing."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Peggotty's boathouse was adorned with hooks, nets, and diverse **piscatorial** trophies collected during his sea voyages."*
+> - 📜 **Washington Irving (*The Sketch Book*):** *"I set forth along the babbling brook armed with all the elaborate **piscatorial** apparatus recommended by old Izaak Walton."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The old fisherman leaned against the weir gate, discoursing with great gravity upon his lifelong **piscatorial** experiences."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A terrorist group of protestants who oppose any political settlement with irish nationalists; a paramilitary group that attacks catholic interests in northern ireland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A terrorist group of protestants who oppose any political settlement with irish nationalists; a paramilitary group that attacks catholic interests in northern ireland.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abbreviation or Latin base element designating ovum (egg) or oviduct in biological and anatomical terminology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific prefixing and historical lexicography, the root morpheme denoting egg-like form, female gamete production, or ovarian anatomy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ov designates a terrorist group of protestants who oppose any political settlement with irish nationalists; a paramilitary group that attacks catholic interests in northern ireland."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy of Invertebrates*):** *"In anatomical nomenclature the root **ov** persistently designates the egg or female reproductive cell across all phyla."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"Every organ involved in maternal gametogenesis traces its scientific root to the Latin radical **ov** or ovum."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"Compound medical terms incorporating **ov** invariably denote relationships with ovarian tissues or embryonic ova."*

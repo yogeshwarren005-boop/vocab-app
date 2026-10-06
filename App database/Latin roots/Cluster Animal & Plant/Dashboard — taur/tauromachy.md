@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity at a bullfight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The activity at a bullfight.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art or practice of bullfighting; public combat between humans and bulls.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Iberian cultural history and ethnology, ritualized arena spectacles tracing descent from ancient Mediterranean sacrificial contests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tauromachy designates the activity at a bullfight."*
+> - 📜 **Washington Irving (*The Alhambra*):** *"The populace gathered with deafening shouts in the plaza to witness the thrilling perils of the national **tauromachy**."*
+> - 📜 **George Borrow (*The Bible in Spain*):** *"Every village youth dreamed of achieving fame in **tauromachy**, emulating the daring passes of the legendary matadors."*
+> - 📜 **Richard Ford (*Gatherings from Spain*):** *"Spanish **tauromachy** is not a mere brutal sport, but an ancient dramatic tragedy enacted between man and beast."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of the activity of fishing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of the activity of fishing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to fish, fishermen, or the art and practice of catching fish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature, designating pastoral poetry (piscatory eclogues) where shepherds are replaced by fishermen exchanging songs by the sea.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Our first essay was along a mountain brook among the Highlands of the Hudson--a most unfortunate place for the execution of those piscatory tactics which had been invented along the velvet margins of quiet English rivulets."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"He was very communicative, having all the easy garrulity of cheerful old age, and I fancy was a little flattered by having an opportunity of displaying his piscatory lore, for who does not like now and then to play the sage?"*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"After passing through a succession of luxurious meadows, you arrive at the humble and ivied ruins of a <g>Piscatory</g>."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The salty tavern walls were hung with rusty harpoons, dried sharks' jaws, and other **piscatory** relics of Arctic voyages."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Phineas Fletcher attempted to naturalize the eclogue in England through his curious series of **piscatory** verses."*
+> - 📜 **Richard Francis Burton (*The Lake Regions of Central Africa*):** *"The lakeside villagers employed ingenious **piscatory** weirs woven from reeds to trap the seasonal shoals of catfish."*

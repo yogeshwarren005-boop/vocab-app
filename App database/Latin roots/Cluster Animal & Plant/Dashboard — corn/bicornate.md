@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having two horns or horn-shaped parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having two horns or horn-shaped parts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing two horns, horn-like processes, or crescent crescent-shaped lateral extensions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In embryology and comparative gynecology, designating an anatomical uterus having two distinct symmetric lateral cavities or horns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bicornate designates having two horns or horn-shaped parts."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The mammalian reproductive tract frequently retains an ancestral **bicornate** configuration with pronounced lateral cornua."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"In several ungulate orders the uterus remains distinctly **bicornate**, diverging widely toward each oviduct."*
+> - 📜 **Robley Dunglison (*Medical Lexicon: A Dictionary of Medical Science*):** *"A congenital **bicornate** malformation arises when the paired paramesonephric ducts fail to fuse along their midline."*

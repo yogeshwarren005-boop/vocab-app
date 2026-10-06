@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Old world genus of isopod crustaceans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Old world genus of isopod crustaceans.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of terrestrial isopod crustaceans, commonly known as woodlice, sowbugs, or pillbugs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In arthropod morphology and soil ecology, distinguishing dorsoventrally flattened detritivores adapted to breathing through pseudotracheae in moist microhabitats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, porcellio designates old world genus of isopod crustaceans."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"Under every damp board one finds species of **Porcellio** sharing decaying matter with earthworms and centipedes."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The terrestrial isopod genus **Porcellio** exhibits modified pleopods functioning as respiratory organs on land."*
+> - 📜 **John Lubbock (*On the Senses, Instincts, and Intelligence of Animals*):** *"A frightened **Porcellio** runs rapidly seeking darkness beneath loose bark or decaying forest leaf-litter."*

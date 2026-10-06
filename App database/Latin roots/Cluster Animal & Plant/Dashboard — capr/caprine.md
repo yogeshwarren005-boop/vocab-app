@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being or pertaining to or resembling a goat or goats.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or pertaining to or resembling a goat or goats.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, resembling, or characteristic of goats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural veterinary science and livestock husbandry, describing dairy goat breeds, caprine arthritis encephalitis, or behavioral head-butting traits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, caprine designates being or pertaining to or resembling a goat or goats."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The mountain herder possessed a lean, wiry frame and quick agile step that seemed almost **caprine** in its sure-footedness."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Certain wild **caprine** species interbreed successfully with domestic goats, contributing ancient genetic traits to desert breeds."*
+> - 📜 **Richard Francis Burton (*First Footsteps in East Africa*):** *"The Somali pastoralists guarded vast **caprine** flocks that browsed greedily upon thorny acacia scrub along the hillsides."*

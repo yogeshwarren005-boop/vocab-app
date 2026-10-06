@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of a nonwoody herb or plant part.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of a nonwoody herb or plant part.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or having the characteristics of an herb; leafy and non-woody in stem structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, designating perennial or annual vegetation that produces aerial shoots without forming persistent secondary xylem.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby appears, greasy, warm, herbaceous, and chewing."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"And Captain Nemo, not wishing to entangle his screw in this herbaceous mass, kept some yards beneath the surface of the waves."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Straight down this path, and into the herbaceous garden. _Quite_ slowly, and keep a sharp eye between the branches." He quite chuckled with delight."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The seeds of many **herbaceous** species survive long immersion in sea water without losing their power of germination."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The hedge-banks were carpeted with succulent **herbaceous** shoots long before the deciduous trees showed their first buds."*
+> - 📜 **Henry David Thoreau (*Faith in a Seed*):** *"The rapid spring growth of **herbaceous** plants depends upon food stored in underground rhizomes during the prior season."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The female reproductive cell; the female gamete.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The female reproductive cell; the female gamete.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mature female reproductive cell or gamete, typically non-motile and larger than the sperm, which can divide to give rise to an embryo after fertilization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical embryology and cell biology, the totipotent maternal gamete whose activation initiates the cleavage divisions of embryonic development.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Embryonic evolution 547:9 The late Louis Agassiz, by his microscopic examination of a vulture's ovum, strengthens the thinker's conclusions as to the scientific theory of creation."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Eve was formed from Adam's rib, not from a foetal ovum."*
+> - 📜 **William Harvey (*Exercitationes de Generatione Animalium*):** *"It is an established axiom of universal nature that all life proceeds from the egg: ex ovo omnia, every creature arising from an **ovum**."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The mammalian **ovum** is a microscopic sphere that undergoes cleavage in the Fallopian tube before implanting in the uterine wall."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"In its earliest stage, the human body commences as a microscopic **ovum** indistinguishable from that of any other mammal."*

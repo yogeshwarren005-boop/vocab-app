@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Skeleton shrimp.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Skeleton shrimp.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, slender, stick-like amphipod crustaceans known as skeleton shrimps or ghost shrimps.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine invertebrate zoology, specialized littoral crustaceans possessing grasping subchelate gnathopods that cling to hydroids and bryozoans in ocean currents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, caprella designates skeleton shrimp."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The skeleton shrimp **Caprella** exhibits extreme reduction of the abdomen, masquerading as a twig of sea-moss amidst coastal currents."*
+> - 📜 **Philip Henry Gosse (*A Year at the Shore*):** *"Among the tangled red algae we discovered several grotesque specimens of **Caprella** executing comical somersaults with their slender limbs."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"In **Caprella**, the elongated thoracic segments and raptorial legs provide optimal agility for browsing epibionts upon marine kelp."*

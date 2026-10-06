@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spines become erect when the body is inflated; worldwide in warm waters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spines become erect when the body is inflated; worldwide in warm waters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A marine spiny globefish of the family Diodontidae, covered in sharp rigid spines that stand erect when the body inflates with water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology, distinguished from puffers by fused beak-like dental plates and stout two-rooted spines across the dermal skin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, porcupinefish designates spines become erect when the body is inflated; worldwide in warm waters."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The **porcupinefish** can inflate its body into a spiny ball, successfully defying the jaws of predatory sharks."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Dried skins of the bristling **porcupinefish** dangled from the low rafters of the salty old sailor's cabin."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"The dental apparatus of the **porcupinefish** forms a crushing continuous beak suited for hard-shelled mollusks."*

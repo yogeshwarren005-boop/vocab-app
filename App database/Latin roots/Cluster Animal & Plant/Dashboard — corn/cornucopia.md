@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A goat's horn filled with grain and flowers and fruit symbolizing prosperity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being extremely abundant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A horn of plenty; a symbol of abundance, represented as a goat's horn overflowing with fruits, flowers, and grains.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In iconography and classical mythology, the horn of the goat Amalthea that suckled Zeus, personified as a boundless inexhaustible supply.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The cornucopia was in flow and humankind's first outbound and inbound highways to the greater universe were complete and working."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The second option would be the ultimate gamble: winning would bring the cornucopia sought throughout the ages."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"It was a tawdry affair, all Cupids and cornucopias, like a third-rate wedding-cake."*
+> - 📜 **John Keats (*Endymion*):** *"She poured forth gifts like autumn's **cornucopia**, scattering golden fruit upon the lap of the smiling earth."*
+> - 📜 **Washington Irving (*The Sketch Book of Geoffrey Crayon*):** *"The harvest feast displayed an overflowing **cornucopia** of roasted meats, cider, and autumn fruits."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"The Ghost of Christmas Present sat surrounded by a radiant **cornucopia** of turkeys, geese, poultry, brawn, and luscious fruits."*

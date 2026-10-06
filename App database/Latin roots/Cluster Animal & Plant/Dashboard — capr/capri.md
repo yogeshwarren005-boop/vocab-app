@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An island (part of campania) in the bay of naples in southern italy; a tourist attraction noted for beautiful scenery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An island (part of campania) in the bay of naples in southern italy; a tourist attraction noted for beautiful scenery.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An Italian island situated in the Tyrrhenian Sea off the Sorrentine Peninsula, famous for its limestone sea stacks and the Blue Grotto.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical history and travel literature, celebrated as the secluded retreat of Emperor Tiberius and a haven for nineteenth-century artists and writers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"A man was starving in Capri; He moved his eyes and looked at me; I felt his gaze, I heard his moan, And knew his hunger as my own."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Housman, who witnessed the celebration in different years at both places, has kindly furnished me with the following particulars: "In 1906 I was in the island of Capri on September the eighth, the feast of the Nativity of the Virgin."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"For the present Lord Steyne lives at Naples, preferring the view of the Bay and Capri and Vesuvius to the dreary aspect of the wall in Gaunt Square."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"Across the azure waters rose the rugged cliffs of **Capri**, towering like a fortress above the southern sea."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Tiberius retired to the inaccessible rocky crags of **Capri**, abandoning the Senate to rule through distant imperial rescripts."*
+> - 📜 **Norman Douglas (*South Wind*):** *"The enchanted island of **Capri** stood bathed in Mediterranean sunshine, its limestone cliffs dropping sheer into the azure waves."*

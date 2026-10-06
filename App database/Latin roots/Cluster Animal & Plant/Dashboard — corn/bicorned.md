@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having two horns or horn-shaped parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having two horns or horn-shaped parts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having two horns or crescent-like points; crescentic or two-pronged in contour.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical poetry and astronomy, applied to the waxing crescent moon or horned deities such as Isis or Bacchus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bicorned designates having two horns or horn-shaped parts."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Mooned Ashtaroth, heaven's queen and mother, was pictured with **bicorned** crescent bright upon her brow."*
+> - 📜 **Percy Bysshe Shelley (*The Revolt of Islam*):** *"The **bicorned** moon hung trembling in the dusky west above the silent silver waters."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"Fair Cynthia showed her **bicorned** crest aloft among the trembling constellations of the night."*

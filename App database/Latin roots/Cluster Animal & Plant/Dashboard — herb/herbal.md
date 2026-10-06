@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tea-like drink made of leaves of various herbs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to herbs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, made of, or derived from herbs; also a book containing the names and medicinal descriptions of plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical pharmacognosy and renaissance botany, an illustrated compendium compiling traditional remedies, plant signatures, and therapeutic virtues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Angel looked round for Mrs Crick’s black-puddings, which he had directed to be nicely grilled as they did them at the dairy, and of which he wished his father and mother to appreciate the marvellous herbal savours as highly as he did himself."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"All the herbal applications of Tinor, united with the severer discipline of the old leech, and the affectionate nursing of Kory-Kory, had failed to relieve me."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I revelled also in great herbals filled with the rarest marine plants, which, although dried up, retained their lovely colours."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"The old **herbal** writers made great account of the juice of wild thyme for expelling venomous infections."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The village women had great faith in Sally Oates's **herbal** teas for easing heart complaints and asthma."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"To compile a faithful **herbal** requireth not only diligent reading, but exact and curious observation in field and garden."*

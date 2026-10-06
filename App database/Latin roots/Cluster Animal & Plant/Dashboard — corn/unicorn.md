@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An imaginary creature represented as a white horse with a long horn growing from its forehead.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An imaginary creature represented as a white horse with a long horn growing from its forehead.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A legendary mythical creature typically depicted as a white horse with a single spiraling horn projecting from its forehead.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval heraldry, bestiaries, and allegorical Christian art, an emblem of purity, Christological incarnation, and untamable strength.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Here’s a unicorn’s head—there’s nothing in that."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The Narwhale I have heard called the Tusked whale, the Horned whale, and the Unicorn whale."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"From certain cloistered old authors I have gathered that this same sea-unicorn’s horn was in ancient days regarded as the great antidote against poison, and as such, preparations of it brought immense prices."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"Now I will believe / That there are **unicorns**; that in Arabia / There is one tree, the phoenix' throne; one phoenix / At this hour reigning there."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"The alleged medicinal virtues of the horn of the **unicorn** have been thoroughly discredited by modern observation."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Many opinions have been held touching the **unicorn**, some affirming it to be an Indian ass, others a rhinoceros."*

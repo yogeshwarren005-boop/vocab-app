@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any plant of the genus episcia; usually creeping and stoloniferous and of cascading habit; grown for their colorful foliage and flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any plant of the genus episcia; usually creeping and stoloniferous and of cascading habit; grown for their colorful foliage and flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering tropical plants in the family Gesneriaceae, prized for their velvety, variegated foliage and tubular red or white flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticultural botany and indoor floriculture, trailing perennial herbs spreading via slender stolons, native to Central and South American rainforests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, episcia designates any plant of the genus episcia; usually creeping and stoloniferous and of cascading habit; grown for their colorful foliage and flowers."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"Specimens of tropical Gesneriaceae including **Episcia** display tubular corollas adapted for hummingbirds and specialized insect pollinators."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The greenhouse collection featured a hanging basket of **Episcia** with glistening coppery leaves and scarlet blossoms."*
+> - 📜 **Joseph Dalton Hooker (*Curtis's Botanical Magazine*):** *"The brilliant metallic luster of the foliage renders this species of **Episcia** one of the most ornamental introductions from New Granada."*

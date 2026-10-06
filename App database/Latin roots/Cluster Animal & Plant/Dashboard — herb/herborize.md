@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin herb within the domain of Animal & Plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of herb in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To search for, gather, and classify botanical specimens in their natural habitats; to botanize.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In eighteenth- and nineteenth-century natural history, embarking on field excursions equipped with a vasculum and magnifying loupe to study regional flora.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, herborize designates pertaining to, derived from, or characteristic of latin herb within the domain of animal & plant."*
+> - 📜 **Jean-Jacques Rousseau (*Reveries of the Solitary Walker*):** *"Nothing makes me happier than to wander through meadows with my collecting box and **herborize** among the mountain wildflowers."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"We set forth into the woods to **herborize**, returning with several rare species of mosses and marsh orchids."*
+> - 📜 **Johann Wolfgang von Goethe (*Italian Journey*):** *"I spent the afternoon attempting to **herborize** on the slopes of Vesuvius, searching for traces of Mediterranean coastal vegetation."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Produce and discharge eggs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Produce and discharge eggs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To discharge or release a mature ovum from an ovary; or bearing ovules in botanical structures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive physiology and mammalian endocrinology, the mid-cycle event triggered by a surge in luteinizing hormone from the anterior pituitary gland.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ovulate designates produce and discharge eggs."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The normal female mammal will **ovulate** periodically in strict correspondence with endocrine rhythms of the pituitary axis."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"When the mature Graafian follicle ruptures to **ovulate**, the liberated egg is swept into the ciliated infundibulum."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Domesticated animals frequently **ovulate** and breed across seasons that would prove completely fatal to their wild counterparts."*

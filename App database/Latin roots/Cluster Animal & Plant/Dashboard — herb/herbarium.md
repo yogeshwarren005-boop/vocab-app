@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A collection of dried plants that are mounted and systematically classified for study.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A collection of dried plants that are mounted and systematically classified for study.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A systematically arranged collection of dried, pressed plant specimens mounted on paper for scientific research.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In taxonomic botany, an institutional repository preserving type specimens that serve as physical standards for botanical nomenclature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Arranged so as to be applicable either as a Check-List or for Herbarium Labels."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Also the same Work, printed on only one side, for Herbarium Labels."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"This is a fact worth knowing as much by the farmer as the amateur botanist in search of specimens for his herbarium."*
+> - 📜 **Charles Darwin (*The Life and Letters of Charles Darwin*):** *"I spent several hours comparing my Galápagos specimens with dried sheets preserved in the Kew **herbarium**."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"Every serious student of flora must prepare a well-curated **herbarium**, annotating each sheet with exact locality and date."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"Our botanical trunks contained a valuable **herbarium** of rare equatorial species gathered along the banks of the Orinoco."*

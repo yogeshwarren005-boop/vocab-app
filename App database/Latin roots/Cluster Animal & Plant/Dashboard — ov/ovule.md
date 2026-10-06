@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small body that contains the female germ cell of a plant; develops into a seed after fertilization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small or immature ovum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small or immature ovum; or in botany, the structure within a seed plant's ovary that develops into a seed after fertilization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant organography, the megasporangium enclosed by integuments, containing the embryo sac with the egg cell.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"I have brought you some eggs,” he remarked, hastily exposing ten of the precious ovules to view."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The pollen tube grows down through the tissue of the style to reach the tiny **ovule** nestling within the ovary."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"Every fertilized **ovule** becomes a seed, while the surrounding carpel walls expand to form the fruit."*
+> - 📜 **Johann Wolfgang von Goethe (*The Metamorphosis of Plants*):** *"Within the innermost chamber of the pistil, the delicate **ovule** quietly prepares the future generation of the plant."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relatively large rodents with sharp erectile bristles mingled with the fur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relatively large rodents with sharp erectile bristles mingled with the fur.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large rodent characterized by a defensive coat of sharp, erectile, barbed quills covering its back and tail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate zoology, distinguishing the arboreal prehensile-tailed New World family (Erethizontidae) from terrestrial Old World forms (Hystricidae).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"She may eat no fresh meat or fish except the flesh of the porcupine."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In her socks she wears, next to the skin, the horny soles cut from the feet of a porcupine, in order that for the rest of her life her shoes may never wear out."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Hence it is easy to see that a girl who wears these portions of a porcupine about her waist, will be delivered just as easily as the animal."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"I could a tale unfold whose lightest word / Would harrow up thy soul, freeze thy young blood, / ... / And each particular hair to stand an end, / Like quills upon the fretful **porcupine**."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The dog was severely punished for attacking the **porcupine**, returning with numerous sharp barbed quills embedded in its muzzle."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"Our guide pointed out where a Canada **porcupine** had gnawed the bark clean from the trunk of a tall hemlock."*

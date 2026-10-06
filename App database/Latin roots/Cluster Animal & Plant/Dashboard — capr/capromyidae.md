@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coypus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coypus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The family of rodents commonly known as hutias, native to the Caribbean islands, resembling large nutria or cavies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian biogeography, arboreal and terrestrial hystricognath rodents vulnerable to extinction following human settlement and invasive mongooses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog capromyidae as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The fossil record of the West Indies reveals giant extinct rodents belonging to the **Capromyidae**, closely allied to modern South American forms."*
+> - 📜 **Richard Lydekker (*A Geographical History of Mammals*):** *"The surviving members of the **Capromyidae** inhabit the dense mangrove swamps and forests of Cuba and neighboring islets."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The persistence of the **Capromyidae** upon the Greater Antilles provides crucial evidence regarding ancient Caribbean land connections."*

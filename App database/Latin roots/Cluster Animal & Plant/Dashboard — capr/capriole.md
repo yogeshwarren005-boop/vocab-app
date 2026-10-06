@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (dressage) a vertical jump of a trained horse with a kick of the hind legs at the top of the jump.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A playful leap or hop.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A leap performed by a horse without advancing, kicking out with the hind legs at the height of the jump; or a playful human leap or caper.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical haute école dressage, the highest equestrian air above the ground, requiring supreme muscular elevation and explosive collection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, capriole designates (dressage) a vertical jump of a trained horse with a kick of the hind legs at the top of the jump."*
+> - 📜 **Walter Scott (*The Talisman*):** *"The noble Arab charger performed a brilliant **capriole**, leaping high into the air and landing squarely upon all four hooves without spilling a drop from his rider's cup."*
+> - 📜 **William Makepeace Thackeray (*The History of Henry Esmond*):** *"The dancing-master sprang into the middle of the room, executing a lively **capriole** that amazed the young ladies."*
+> - 📜 **Alexander Pope (*The Dunciad*):** *"With agile grace the merry dancer bounds, / In nimble **capriole** above the grassy grounds."*

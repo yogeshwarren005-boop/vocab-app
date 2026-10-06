@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unpredictably.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a capricious manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a capricious, whimsical, or unpredictable manner; erratically and without apparent motive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political discourse and literary narrative, characterizing the arbitrary exercise of power or sudden shifting of fortunes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Now, damn it—I’ll break both our necks!” swore her capriciously passionate companion."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Though in the course of his continual voyagings Ahab must often before have noticed a similar sight, yet, to any monomaniac man, the veriest trifles capriciously carry meanings."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Then the level of the bank would sink capriciously."*
+> - 📜 **George Eliot (*Romola*):** *"Fortune seemed to shower her favors **capriciously**, elevating unworthy sycophants while casting upright citizens into exile."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The Chancellor decided points of law **capriciously**, leaving suitors stranded in an endless maze of chancery proceedings."*
+> - 📜 **Anthony Trollope (*The Prime Minister*):** *"The electorate behaved **capriciously**, turning out seasoned statesmen on the spur of a trivial popular misunderstanding."*

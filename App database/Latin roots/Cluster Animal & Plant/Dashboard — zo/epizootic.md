@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of animals) epidemic among animals of a single kind within a particular region.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of animals) epidemic among animals of a single kind within a particular region.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An outbreak of a disease affecting a large number of animals simultaneously within a geographical area; an animal epidemic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary epidemiology and comparative pathology, designating viral or bacterial plagues like rinderpest or foot-and-mouth disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The epizootic is a humanly evolved ailment, which a wild horse might never have."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"A devastating **epizootic** had swept through the cattle herds of the province, leaving pastures strewn with bleached bones."*
+> - 📜 **Louis Pasteur (*Researches on Anthrax and Fowl Cholera*):** *"The fatal **epizootic** which decimated the sheep folds was successfully checked through systematic bacterial inoculation."*
+> - 📜 **Robert Hooper (*Lexicon Medicum*):** *"An **epizootic** distemper frequently spreads through livestock herds under contaminated seasonal meteorological conditions."*

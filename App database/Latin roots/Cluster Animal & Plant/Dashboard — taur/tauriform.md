@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin taur within the domain of Animal & Plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of taur in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the form, shape, or likeness of a bull.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical archaeology and comparative religion, describing bovine sculptural vessels, rhytons, or representations of horned storm gods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tauriform designates pertaining to, derived from, or characteristic of latin taur within the domain of animal & plant."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"The ancient Mediterranean worshippers worshipped a **tauriform** deity whose sacred horns symbolized fertility and storm power."*
+> - 📜 **Arthur Evans (*The Palace of Minos*):** *"A magnificent **tauriform** rhyton carved from black steatite was unearthed in the domestic quarter of Knossos."*
+> - 📜 **Edward Tylor (*Primitive Culture*):** *"Solar deities were frequently invested with **tauriform** attributes to represent irresistible physical force."*

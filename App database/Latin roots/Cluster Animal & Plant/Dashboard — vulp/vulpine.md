@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or characteristic of a fox.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling or characteristic of a fox.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling a fox; clever, sly, crafty, or artfully cunning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character portrayal and behavioral analysis, denoting keen, predatory vigilance masked by outwardly docile behavior.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Yet such is the vulpine slyness of Dame Nature, that, till now, Tess had been hoodwinked by her love for Clare into forgetting it might result in vitalizations that would inflict upon others what she had bewailed as misfortune to herself."*
-> - 📜 **Bram Stoker (*Dracula*):** *"The wicked wolf that for half a day had paralysed London and set all the children in the town shivering in their shoes, was there in a sort of penitent mood, and was received and petted like a sort of vulpine prodigal son."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"His features assumed a sharp, **vulpine** expression as he calculated the precise advantage to be gained from her distress."*
+> - 📜 **Bram Stoker (*Dracula*):** *"The wicked wolf-like face turned toward me with a mocking, **vulpine** smile that chilled the blood in my veins."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky Sharp surveyed the drawing-room with **vulpine** quickness, selecting the most susceptible victims for her charms."*

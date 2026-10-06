@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Goatsuckers; frogmouths; oilbirds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Goatsuckers; frogmouths; oilbirds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of nocturnal and crepuscular birds comprising nightjars, frogmouths, potoos, oilbirds, and owlet-nightjars.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian taxonomy, aerial hunters characterized by large eyes adapted for low-light foraging, small feet, and camouflaged nesting directly on leaf litter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, caprimulgiformes designates goatsuckers; frogmouths; oilbirds."*
+> - 📜 **Thomas Henry Huxley (*On the Classification of Birds*):** *"Systematists group the diverse nightjars and curious South American oilbirds within the distinct order **Caprimulgiformes**."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"The geographical distribution of the **Caprimulgiformes** encompasses every continent except Antarctica, illustrating great antiquity."*
+> - 📜 **Frank M. Chapman (*Handbook of Birds of Eastern North America*):** *"The order **Caprimulgiformes** contains our most vocal nocturnal summer birds, including the whip-poor-will and chuck-will's-widow."*

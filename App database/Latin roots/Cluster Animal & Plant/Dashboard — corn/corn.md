@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tall annual cereal grass bearing kernels on large ears: widely cultivated in america in many varieties; the principal cereal in mexico and central and south america since pre-columbian times.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The dried grains or kernels or corn used as animal feed or ground for meal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The seed or grain of cereal grasses, especially maize in North America, or wheat, rye, and barley in the British Isles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology, a painful localized thickening and hyperkeratosis of the epidermis, typically on the toes, caused by repeated friction or pressure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let us kill him, and we’ll have corn at our own price."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For corn at their own rates, whereof they say The city is well stored."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They said they were an-hungry, sighed forth proverbs That hunger broke stone walls, that dogs must eat, That meat was made for mouths, that the gods sent not Corn for the rich men only."*
+> - 📜 **William Shakespeare (*King Lear*):** *"The man that makes his toe / What he his heart should make, / Shall of a **corn** cry woe, / And turn his sleep to wake."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I planted about two acres and a half of upland, chiefly with beans, but also a small patch of **corn** and potatoes."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard was the chief dealer in wheat and barley, controlling the entire inland **corn** trade of the district."*

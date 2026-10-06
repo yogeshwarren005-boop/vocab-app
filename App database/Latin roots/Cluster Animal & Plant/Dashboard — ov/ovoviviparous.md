@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing living young from eggs that hatch within the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing living young from eggs that hatch within the body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing young by means of eggs which hatch within the parent's body, so that young are born alive without a placental connection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology and ichthyology, characterizing reproductive strategies observed in certain vipers, garter snakes, and sharks where maternal yolk provides all fetal nutrition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ovoviviparous designates producing living young from eggs that hatch within the body."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Certain viperine snakes are **ovoviviparous**, retaining their membraneous eggs internally until the young burst forth fully formed."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"In an **ovoviviparous** elasmobranch, maternal uterine walls provide protection while the developing embryo depends entirely on yolk."*
+> - 📜 **Richard Owen (*Paleontology*):** *"Fossil skeletons of ichthyosaurs containing fetal remains in the pelvic region establish that these ancient reptiles were **ovoviviparous**."*

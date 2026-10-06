@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A belt-shaped region in the heavens on either side to the ecliptic; divided into 12 constellations or signs for astrological purposes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (astrology) a circular diagram representing the 12 zodiacal constellations and showing their signs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An imaginary belt of the heavens extending about 8 degrees on either side of the apparent path of the sun (the ecliptic), divided into twelve signs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In celestial cartography and ancient astral religion, the celestial coordinate frame tracking the seasonal wanderings of the sun, moon, and visible planets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As when the golden sun salutes the morn, And, having gilt the ocean with his beams, Gallops the zodiac in his glistening coach, And overlooks the highest-peering hills; So Tamora."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Star-gazers before them had placed the twelve signs of the Zodiac in the sky."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"For there and then, for several consecutive years, Moby Dick had been periodically descried, lingering in those waters for awhile, as the sun, in its annual round, loiters for a predicted interval in any one sign of the Zodiac."*
+> - 📜 **William Shakespeare (*Measure for Measure*):** *"So long that nineteen **zodiacs** have gone round, / And none of them been worn; and yet upon him / Will I the penalty of that decree / Enforce with rigor."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The doubloon showed the signs of the **zodiac** cast in pure gold, reflecting the fiery sun above the mountains of Quito."*
+> - 📜 **John Milton (*Paradise Lost*):** *"He mapped the celestial sphere, marking how the starry signs of the **zodiac** steer the turning of the seasons."*

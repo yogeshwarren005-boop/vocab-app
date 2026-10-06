@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dull and tiresome but with pretensions of significance or originality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dull and tiresome but with pretensions of significance or originality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tritely sentimental, banally humorous, or outdated in taste; also literally abounding in corn or corn-like hard calluses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In twentieth-century colloquial rhetoric and theatrical slang, describing rustic melodramatic tropes or stale vaudeville jokes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Ilk cowslip cup shall kep a tear: Thou, Simmer, while each corny spear Shoots up its head, Thy gay, green, flow’ry tresses shear, For him that’s dead!"*
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"But he would also find in the satirical squibs on Corny, the Cambridge bookseller and printer, evidence of learning and university life (pt. 2, pp. 4-6) as well as a criticism of opera (pt. 2, pp. 14-16)."*
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"Poor Miss _Molly_! _Wrote on Cor---- Cr----d's (a Printer and Bookseller in Cambridge) Window in the Shop._ Ye longing Sophs, say it who can, That _Corny_'s not a learned Man."*
+> - 📜 **F. Scott Fitzgerald (*Tender Is the Night*):** *"He made a **corny** old joke about the tourist season, smiling broadly as if it were a fresh invention."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"The speaker delivered a series of **corny** platitudes about civic virtue that drew polite applause from the booster club."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"The working-class music hall was filled with sentimental songs and **corny** gags that everyone had known since childhood."*

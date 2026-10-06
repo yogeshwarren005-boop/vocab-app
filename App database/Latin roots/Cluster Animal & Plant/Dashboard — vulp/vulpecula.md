@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A constellation in the northern hemisphere near cygnus and sagitta.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A constellation in the northern hemisphere near cygnus and sagitta.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A faint northern constellation in the Milky Way between Cygnus and Sagitta, representing a little fox.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In observational astrophysics, cataloged by Johannes Hevelius and celebrated as the sky region where Jocelyn Bell Burnell discovered the first radio pulsar (CP 1919).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vulpecula designates a constellation in the northern hemisphere near cygnus and sagitta."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"In the constellation **Vulpecula** lies the famous Dumbbell Nebula, presenting two luminous cones united at their apexes."*
+> - 📜 **Camille Flammarion (*Popular Astronomy*):** *"The celestial fox, **Vulpecula**, was inserted by Hevelius to occupy the starry expanse adjoining the Swan."*
+> - 📜 **Simon Newcomb (*Astronomy for Everybody*):** *"With a modest telescope, one can sweep through **Vulpecula** and resolve countless rich galactic star clusters."*

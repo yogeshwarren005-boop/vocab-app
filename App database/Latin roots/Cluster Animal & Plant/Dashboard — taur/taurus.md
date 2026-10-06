@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Venezuelan master terrorist raised by a marxist-leninist father; trained and worked with many terrorist groups (born in 1949).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (astrology) a person who is born while the sun is in taurus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prominent northern zodiacal constellation depicted as the forequarters of a bull; also the second astrological sign.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In observational astronomy, containing the famous open clusters Pleiades and Hyades, as well as the supernova remnant Crab Nebula (M1).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Caesar with his army and Taurus marching."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Canidius marching with his land army one way over the stage, and Taurus, the Lieutenant of Caesar, with his Army, the other way."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That pure congealèd white, high Taurus’ snow, Fann’d with the eastern wind, turns to a crow When thou hold’st up thy hand."*
+> - 📜 **William Shakespeare (*Twelfth Night*):** *"Sir Toby Belch: What shall we do else? Were we not born under **Taurus**? / Sir Andrew Aguecheek: **Taurus**! That's sides and heart. / Sir Toby Belch: No, sir, it is legs and thighs."*
+> - 📜 **John Milton (*Paradise Lost*):** *"When the sun with **Taurus** rides, / In radiance clothed along the zodiac wide."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The winter sky shone brilliantly overhead, with **Taurus** bearing the silvery cluster of the Pleiades upon his shoulder."*

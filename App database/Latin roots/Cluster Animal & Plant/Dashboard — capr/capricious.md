@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Changeable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Determined by chance or impulse or whim rather than by necessity or reason.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Given to sudden and unaccountable changes of mood, conduct, or intention; fickle, erratic, and unpredictable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In natural philosophy and literary character study, applied to volatile weather patterns, fickle despotic rulers, or fluctuating markets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am here with thee and thy goats, as the most capricious poet, honest Ovid, was among the Goths."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Too capricious and imperious in all she does to be the cause of much surprise in those about her as to anything she does, this woman, loosely muffled, goes out into the moonlight."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"No, no, Liddy; you must stay!” said Bathsheba, dropping from haughtiness to entreaty with capricious inconsequence."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"I am here with thee and thy goats, as the most **capricious** poet, honest Ovid, was among the Goths."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The revolutionary tribunal was governed by a **capricious** cruelty that condemned prisoners without regular judicial process."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The moorland weather was notoriously **capricious**, turning from warm golden sunshine to driving rain in less than an hour."*

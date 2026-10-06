@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Roe deer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Roe deer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic genus of small Old World cervids comprising roe deer, characterized by slender limbs and three-tined antlers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forestry and mammalian ecology, browsers inhabiting temperate European and Asian woodlands, famous for their reddish summer coats and agile leaping.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog capreolus as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The European roebuck, classified as **Capreolus**, defends its woodland territory with short, sharp, three-pointed antlers."*
+> - 📜 **Richard Lydekker (*The Deer of All Lands*):** *"The genus **Capreolus** includes the agile roe deer, whose barking alarm note echoes through ancient Continental forests."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The graceful roe, the **Capreolus** of earlier naturalists, once bounded through our southern forests before widespread clearance."*

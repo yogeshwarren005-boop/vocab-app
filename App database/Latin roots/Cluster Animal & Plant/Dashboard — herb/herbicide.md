@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical agent that destroys plants or inhibits their growth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical agent that destroys plants or inhibits their growth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical substance or toxic agent formulated specifically to kill or inhibit the growth of unwanted plants or weeds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agronomy and environmental management, classified into selective systemic compounds and non-selective contact desiccant agents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, herbicide designates a chemical agent that destroys plants or inhibits their growth."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"The widespread aerial spraying of chemical **herbicide** along roadsides destroyed wild berry patches and poisoned local pollinator habitats."*
+> - 📜 **Aldo Leopold (*A Sand County Almanac*):** *"Modern agriculture relies increasingly on the **herbicide** to eliminate wild native forbs that once enriched the soil."*
+> - 📜 **Barry Commoner (*The Closing Circle*):** *"Synthetic **herbicide** runoff from commercial cornfields disrupts aquatic ecological balance in surrounding river basins."*

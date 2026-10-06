@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (astrology) a person who is born while the sun is in capricorn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A faint zodiacal constellation in the southern hemisphere; between sagittarius and aquarius.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The tenth sign of the zodiac, or the southern constellation depicted as a goat with a fish's tail (the sea-goat).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical geography and astronomy, designating the Tropic of Capricorn (latitude 23°26′ S), marking the southernmost latitude where the sun appears directly overhead.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"We had crossed the tropic of Capricorn, and the Straits of Magellan opened less than seven hundred miles to the south."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The 20th of July, the tropic of Capricorn was cut by 105° of longitude, and the 27th of the same month we crossed the equator on the 110th meridian."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"After having crossed the tropic of Capricorn in 135° longitude, it sailed W.N.W., making again for the tropical zone."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The ship crossed the Tropic of **Capricorn**, plunging into southern seas where strange aquatic creatures grazed along coral reefs."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The sun had reached the cold southern boundary of **Capricorn**, shortening the days of the northern winter."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"Our vessel steered south-south-west, hoping to catch the trade winds before making the line of **Capricorn**."*

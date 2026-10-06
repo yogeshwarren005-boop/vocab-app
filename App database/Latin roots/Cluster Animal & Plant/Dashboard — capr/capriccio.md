@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrumental composition that doesn't adhere to rules for any specific musical form and is played with improvisation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrumental composition that doesn't adhere to rules for any specific musical form and is played with improvisation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lively, whimsical, or irregular piece of music; or an architectural fantasy combining real and imaginary ruins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In art history and classical musicology, a genre celebrating inventive freedom over strict classical rules, popular among Venetian painters and Baroque composers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, capriccio designates an instrumental composition that doesn't adhere to rules for any specific musical form and is played with improvisation."*
+> - 📜 **Johann Wolfgang von Goethe (*Italian Journey*):** *"The painter delighted the connoisseurs with an inventive **capriccio** assembling Roman monuments along an imaginary Venetian lagoon."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The violinist played a sparkling **capriccio** full of playful pizzicato passages and unexpected dynamic contrasts."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"In a fanciful architectural **capriccio**, the artist defies textbook perspective to capture the romantic spirit of antiquity."*

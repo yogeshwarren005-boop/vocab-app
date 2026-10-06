@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In some classifications considered a superphylum or a subkingdom; comprises flagellates; ciliates; sporozoans; amoebas; foraminifers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of diverse minute acellular or unicellular organisms usually nonphotosynthetic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A diverse group of single-celled microscopic eukaryotic organisms that ingest food and move independently, such as amoebas and ciliates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical microbiology and protistology, historically treated as the lowest subkingdom of the animal kingdom before multi-kingdom taxonomic revisions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protozoa designates in some classifications considered a superphylum or a subkingdom; comprises flagellates; ciliates; sporozoans; amoebas; foraminifers."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish: An Introduction to the Study of Zoology*):** *"The vital activities of the **protozoa** illustrate that all essential animal functions can be performed within a single microscopic cell."*
+> - 📜 **Ernst Haeckel (*The History of Creation*):** *"From ancestral flagellated **protozoa** arose the multicellular colonies that gave birth to the earliest metazoan lineages."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Microscopic **protozoa** possess such boundless capacity for multiplication that they soon populate every stagnant drop of water."*

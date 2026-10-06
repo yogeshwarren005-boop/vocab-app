@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the sclera of the eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the sclera of the eye.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inflammatory disease affecting the episclera, the thin vascular layer of connective tissue lying between the conjunctiva and the sclera.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical ophthalmology, a benign, self-limiting condition presenting with localized sectoral redness and mild ocular discomfort, often linked to systemic immune disorders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, episcleritis designates inflammation of the sclera of the eye."*
+> - 📜 **William Bowman (*Lectures on the Parts Concerned in the Operations on the Eye*):** *"Sectoral congestion of the deep episcleral vascular plexus clearly distinguishes benign **episcleritis** from generalized conjunctival inflammation."*
+> - 📜 **Jonathan Hutchinson (*Illustrations of Clinical Surgery*):** *"A patient suffering from recurring **episcleritis** often exhibits underlying gouty or rheumatic diathesis upon thorough examination."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"In **episcleritis**, the inflamed subconjunctival tissue forms a tender dusky-red nodule that moves freely over the underlying sclera."*

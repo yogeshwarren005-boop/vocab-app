@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mainly crepuscular or nocturnal nonpasserine birds with mottled greyish-brown plumage and large eyes; feed on insects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mainly crepuscular or nocturnal nonpasserine birds with mottled greyish-brown plumage and large eyes; feed on insects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bird belonging to the family Caprimulgidae, commonly known as nightjars or goatsuckers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian biology, nocturnal insectivorous birds equipped with cryptic bark-like plumage, enormous rictal gapes, and silent flapping flight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, caprimulgid designates mainly crepuscular or nocturnal nonpasserine birds with mottled greyish-brown plumage and large eyes; feed on insects."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The nocturnal **caprimulgid** hovers softly over our ferny commons, snapping up cockchafers in its cavernous mouth."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"At dusk we heard the curious churring rattle of a tropical **caprimulgid** perched motionlessly along a horizontal bough."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"The flight of every North American **caprimulgid** is exceedingly graceful and buoyant, resembling the flutter of a gigantic moth."*

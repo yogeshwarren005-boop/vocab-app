@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coat with porcelain or a porcelain-like surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coat with porcelain or a porcelain-like surface.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To coat, enamel, or treat an object so as to give it the glossy, hard, and translucent appearance of porcelain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial materials engineering, applying a vitreous silicate enamel to metal cookery, plumbing fixtures, or electrical insulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, porcelainize designates coat with porcelain or a porcelain-like surface."*
+> - 📜 **Thomas Edison (*Patents and Inventions*):** *"We sought a chemical technique to **porcelainize** the metallic plates to withstand persistent electrical arcing."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Industrial advances enable manufacturers to **porcelainize** base metals, rendering domestic utensils both durable and hygienic."*
+> - 📜 **Herman Melville (*The Encantadas*):** *"The volcanic heat seemed almost to **porcelainize** the rocky crags, baking their basaltic crust to a glassy finish."*

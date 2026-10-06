@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serows.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serows.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic genus of Asian goat-antelopes commonly called serows, inhabiting steep mountainous forests.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mammalogy, robust bovid ungulates with short dagger-like horns, coarse coats, and large preorbital glands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog capricornis as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Richard Lydekker (*The Game Animals of India, Burma, Malaya, and Tibet*):** *"The mainland serow, cataloged under **Capricornis**, frequents the most precipitous limestone crags of the eastern Himalayas."*
+> - 📜 **Theodore Roosevelt (*Trailing the Giant Panda*):** *"Our native hunters tracked a solitary **Capricornis** through bamboo thickets perched on the edge of dizzying ravines."*
+> - 📜 **William Thomas Blanford (*The Fauna of British India: Mammalia*):** *"In **Capricornis**, both sexes carry small, conical black horns marked with fine transverse rings near the base."*

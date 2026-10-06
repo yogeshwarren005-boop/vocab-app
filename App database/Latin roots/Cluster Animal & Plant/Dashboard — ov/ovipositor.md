@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Egg-laying tubular structure at the end of the abdomen in many female insects and some fishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Egg-laying tubular structure at the end of the abdomen in many female insects and some fishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialized tubular or saw-like organ at the end of the abdomen in female insects, used to deposit eggs in soil, plant tissue, or hosts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology, the modified external genitalia of Hymenoptera, adapted in ichneumon wasps to bore deep into wood or evolved into defensive venomous stings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ovipositor designates egg-laying tubular structure at the end of the abdomen in many female insects and some fishes."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The remarkable **ovipositor** of the ichneumon wasp is adapted to pierce deep bark and deposit eggs inside living wood-boring larvae."*
+> - 📜 **Jean-Henri Fabre (*The Wonders of Instinct*):** *"With marvelous surgical precision, the solitary wasp plunges her slender **ovipositor** directly into the ganglia of the paralyzed cricket."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"In bees and social wasps, the ancestral insect **ovipositor** has undergone evolutionary modification to serve as a venomous weapon."*

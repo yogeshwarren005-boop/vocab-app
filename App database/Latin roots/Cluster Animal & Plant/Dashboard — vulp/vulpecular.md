@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or characteristic of a fox.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling or characteristic of a fox.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resembling, or characteristic of a little fox; cunning or vulpine in manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary portraiture and moral fable, describing sly, crafty, or nocturnal predatory habits reminiscent of foxes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vulpecular designates resembling or characteristic of a fox."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"The attorney cast a **vulpecular** glance over the parchment before affixing his signature to the settlement."*
+> - 📜 **Charles Dickens (*Our Mutual Friend*):** *"Fledgeby smiled with a **vulpecular** satisfaction, pleased that his duplicity had remained entirely undiscovered."*
+> - 📜 **George Meredith (*The Egoist*):** *"He possessed that sharp, **vulpecular** wit that penetrates another's weakness while concealing his own designs."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the caprimulgidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the caprimulgidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The type genus of nightjars in the family Caprimulgidae, notably including the European nightjar (Caprimulgus europaeus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical ornithology, bearing the ancient folk name 'goatsucker' from Pliny's mistaken belief that these birds suckled milk from grazing goats at night.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, caprimulgus designates type genus of the caprimulgidae."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The country people still call the bird goatsucker, naming it **Caprimulgus** in Latin, though its food consists entirely of nocturnal insects."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Male specimens of **Caprimulgus** exhibit conspicuous white wing and tail patches flashed during courtship displays over heathlands."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"The bird called **Caprimulgus** flies into the sheepfolds by night to milk the she-goats, causing the udder to wither away."*

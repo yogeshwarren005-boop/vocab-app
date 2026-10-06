@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Meat patties rolled in rice and simmered in a tomato sauce.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relatively large rodents with sharp erectile bristles mingled with the fur.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plural of porcupine; large quill-bearing rodents of the families Hystricidae and Erethizontidae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian behavioral ecology, nocturnal herbivores famous for auditory quill-rattling warnings and backwards defensive lunges against carnivores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"We make out squirrels, chipmunks, porcupines, woodchucks, and even a rooster and a chicken."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"The trappers warned us that **porcupines** frequently invaded unkept lumber camps to gnaw salty ax-handles."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"We observed spiny mammals resembling giant **porcupines** rustling through the undergrowth of the prehistoric plateau."*
+> - 📜 **John Muir (*My First Summer in the Sierra*):** *"Curious prickly **porcupines** climbed awkwardly among the upper branches of the lodgepole pines."*

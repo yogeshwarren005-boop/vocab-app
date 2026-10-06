@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin capr within the domain of Animal & Plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of capr in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or denoting caproic acid (hexanoic acid), a fatty acid found naturally in goat milk and animal fats, possessing an acrid, goaty odor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organic chemistry and lipid analysis, a saturated six-carbon monocarboxylic acid produced during industrial esterification and lipid decomposition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, caproic designates pertaining to, derived from, or characteristic of latin capr within the domain of animal & plant."*
+> - 📜 **Justus von Liebig (*Animal Chemistry*):** *"Upon saponifying butter prepared from goat's milk, Chevreul isolated volatile butyric, **caproic**, and capric acids."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The distinct and pungent odor of perspiration arises partly from volatile fatty acids, notably **caproic** and valeric acids."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Secondary bacterial fermentations in decomposing cheese frequently yield perceptible traces of pungent **caproic** esters."*

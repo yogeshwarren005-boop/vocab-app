@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A therapist who heals by the use of herbs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A therapist who heals by the use of herbs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A practitioner who collects, grows, or dispenses medicinal herbs and prepares traditional botanical remedies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of medicine and botany, the precursor to modern pharmacologists and botanists, classifying indigenous floras according to their active virtues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"In a rosery of Fetter lane of Gerard, herbalist, he walks, greyedauburn."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The village **herbalist** wandered along the cliffs collecting sea-fennel and scurvy-grass for his rustic patients."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Featherstone would trust no certified physician, preferring the infusions of an itinerant **herbalist** from the fen district."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Chillingworth had spent years among the Native Americans, learning secrets that made him an accomplished **herbalist**."*

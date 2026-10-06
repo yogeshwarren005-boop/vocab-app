@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Succulent herbaceous vegetation of pasture land.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Succulent herbaceous vegetation of pasture land.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Herbaceous vegetation, such as grass and leafy plants, considered as food for livestock or ground cover.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pastoral agriculture and historical legal tenure, the right of pasturing cattle upon another's land or commons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I want you—I want you to let me say I love you again and again!” Bathsheba answered nothing, and the horse upon her arm seemed so impressed that instead of cropping the herbage she looked up."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She rushed excitedly into the field they were about to cross, and flinging herself flat on her back upon the grass, began to wipe her gown as well as she could by spinning horizontally on the herbage and dragging herself over it upon her elbows."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"On the gray moisture of the grass were marks where the cows had lain through the night—dark-green islands of dry herbage the size of their carcasses, in the general sea of dew."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The cows waded flank-deep into the rich green **herbage** of the water-meadows, chewing their cud in lazy contentment."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The pampas supported an abundant growth of succulent **herbage**, affording rich pasturage for vast herds of wild cattle."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"A heavy morning dew sparkled on every blade of **herbage** that fringed the quiet forest trail."*

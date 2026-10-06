@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to fish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to fish.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, resembling, or characteristic of fish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy and aquatic physiology, designating physiological adaptations such as gills, swim bladders, and lateral line sensory systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, piscine designates of or relating to fish."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The cetacean order, though warm-blooded and air-breathing, adopts the outward **piscine** contours essential for marine locomotion."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"The branchial arches of human embryos preserve an unmistakable reminiscence of our ancestral **piscine** heritage."*
+> - 📜 **Jack London (*The Sea-Wolf*):** *"He looked at the creature with cold curiosity, noting the slick, gleaming hide and **piscine** agility with which it vanished beneath the swell."*

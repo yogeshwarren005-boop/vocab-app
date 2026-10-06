@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Foxes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Foxes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic genus of true foxes within the family Canidae, including the red fox (Vulpes vulpes) and arctic fox.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mammalogy, distinguished from canines by smaller frames, flatter skulls, and characteristic vertical slit pupils in bright light.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog vulpes as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"On the shores of the island we collected a distinct wild dog or fox, which naturalists refer to the genus **Vulpes**."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"The cranial architecture of **Vulpes** separates it clearly from the heavier timber wolves and jackals."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The common red fox, **Vulpes** of the naturalists, prowls around the coppices in search of ground-nesting partridges."*

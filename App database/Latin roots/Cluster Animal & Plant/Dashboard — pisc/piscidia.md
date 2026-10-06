@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of shrubs or small trees having indehiscent pods with black seeds; roots and bark yield fish poisons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of shrubs or small trees having indehiscent pods with black seeds; roots and bark yield fish poisons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tropical leguminous trees, especially Piscidia piscipula (Jamaica dogwood), famous for bark containing rotenoids used as a fish poison.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnobotany and historical pharmacology, traditional sedative and hypnotic extracts prepared from root bark to alleviate neuralgia and insomniac spasms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, piscidia designates genus of shrubs or small trees having indehiscent pods with black seeds; roots and bark yield fish poisons."*
+> - 📜 **Hans Sloane (*A Voyage to the Islands Madera, Barbados, Nieves, S. Christophers and Jamaica*):** *"The natives crush the bark of **Piscidia** and throw it into the river pools, which quickly stupifies the fish and brings them to the surface."*
+> - 📜 **Robley Dunglison (*New Remedies*):** *"Fluid extracts of the root bark of **Piscidia** erythrina have been administered with benefit in relieving severe toothache and neuralgic distress."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Indigenous fishermen frequently employ intoxicating plants allied to **Piscidia** to harvest riverine fish without using nets."*

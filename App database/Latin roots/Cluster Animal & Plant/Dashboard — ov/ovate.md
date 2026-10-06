@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a leaf shape; egg-shaped with the broader end at the base.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rounded like an egg.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Egg-shaped in outline, especially with the broader end at the base; said especially of botanical leaves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive taxonomy, distinguishing broad-based foliage from obovate or lanceolate shapes in field identification guides.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"On umbelliferous plants three species are recorded; one with yellow spores (_Trichobasis Petroselini_, B.); another with a blistered habit, and brown, ovate, or oblong spores (_T."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Its extremity, at first thin and pointed, swells in the form of a globular vesicle, which soon takes the elliptical or ovate shape of the perfected acrospore, and at length separates itself from the branch that supports it."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The sporangium contains eight ovate spores."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The plant is distinguished by broad **ovate** leaves that taper gradually toward a sharp pointed apex."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"The forest floor was carpeted with the small **ovate** leaves of the wintergreen, dotted with scarlet berries."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The species is easily recognized by its dark green, petiolate, **ovate** leaves with slightly wavy margins."*

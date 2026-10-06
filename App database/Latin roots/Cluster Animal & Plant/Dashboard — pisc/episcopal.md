@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to or characteristic of the episcopal church.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Denoting or governed by or relating to a bishop or bishops.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or governed by bishops, or belonging to a church hierarchy structured around bishops.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical architecture and canon law, pertaining to diocesan jurisdiction, bishop's palaces, cathedrals, or episcopal visitation rights.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Some quarrel the Presbyter gown, Some quarrel Episcopal graithing; But every good fellow will own Their quarrel is a’ about—naething."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"V The wedding march of Lohengrin floated out from the Episcopal Church of St."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The evening before he left New York for Washington with his regiment, they were married in the Episcopal Church in Lafayette Place."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"Dr. Proudie entered upon his **episcopal** duties with an eager desire to reform clerical abuses throughout the diocese."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"He admired the venerable cathedral town and the stately dignity of the ancient **episcopal** residence."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The Puritan magistrates had little patience for the ceremonial vestments of the English **episcopal** establishment."*

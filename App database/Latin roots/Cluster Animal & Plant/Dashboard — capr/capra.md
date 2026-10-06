@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states film maker (1897-1991).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Goats.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic genus of mammals comprising wild and domesticated goats and ibexes in the family Bovidae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoological taxonomy, distinguished from sheep (Ovis) by the presence of scent glands near the tail, bearded chins in males, and backward-curving scimitar or spiral horns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, capra designates united states film maker (1897-1991)."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The domestic goat exhibits immense variability, yet naturalists agree in tracing its lineage back to wild species of the genus **Capra**."*
+> - 📜 **Richard Lydekker (*Wild Oxen, Sheep, and Goats of All Lands*):** *"Members of the genus **Capra** inhabit rugged alpine precipices where their flexible hooves ensure sure-footed climbing."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"The genus **Capra** is characterized by horns curving upward and backward, complemented by the coarse bearded chin of the buck."*

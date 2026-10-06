@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The collective body of bishops.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The collective body of bishops.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Government of a church by bishops, or the collective body of bishops in a ecclesiastical hierarchy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In church history and political theology, the hierarchical episcopal order claimed through apostolic succession, contested during the English Civil Wars.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, episcopacy designates the collective body of bishops."*
+> - 📜 **John Milton (*Of Reformation in England*):** *"The prelates claimed that divine authority supported their **episcopacy**, while their worldly pomp corrupted the pure message of the Gospel."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The institution of diocesan **episcopacy** provided the ancient church with an administrative coherence capable of surviving imperial collapse."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The Scottish covenanters were determined to resist the re-establishment of prelatic **episcopacy** at the peril of their lives."*

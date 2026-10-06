@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or related to the cornea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or related to the cornea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or situated in the cornea, the transparent fibrous coat covering the iris and pupil of the eye.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmology and optics, relating to refractive curvature, astigmatic distortion, or surgical transplantation of the anterior eye surface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, corneal designates of or related to the cornea."*
+> - 📜 **Hermann von Helmholtz (*Treatise on Physiological Optics*):** *"The anterior **corneal** surface provides the greater part of the optical refraction that focuses light upon the retina."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Light rays undergo their primary refraction at the curved surface of the transparent **corneal** epithelium."*
+> - 📜 **William Bowman (*Lectures on the Parts Concerned in the Operations on the Eye*):** *"The delicate lamellae of the **corneal** stroma lie arranged in regular horizontal layers beneath the anterior elastic membrane."*

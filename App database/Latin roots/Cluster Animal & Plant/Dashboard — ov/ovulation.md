@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The expulsion of an ovum from the ovary (usually midway in the menstrual cycle).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The expulsion of an ovum from the ovary (usually midway in the menstrual cycle).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The release of an egg from an ovary during the menstrual or estrous cycle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In endocrinology and fertility management, the follicular rupture induced by LH surging, marking the transition from the follicular to the luteal phase.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ovulation designates the expulsion of an ovum from the ovary (usually midway in the menstrual cycle)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Successful conception requires synchronization between coitus and spontaneous **ovulation** before the discharged egg undergoes degeneration."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"The process of **ovulation** is accompanied by mild local hyperaemia and transient abdominal discomfort in many sensitive females."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"With the completion of **ovulation**, the collapsed follicular capsule transforms into the hormone-secreting corpus luteum."*

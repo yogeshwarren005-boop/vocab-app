@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sudden desire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sudden desire.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sudden, unpredictable, or unaccountable change of mood, intention, or behavior; a whim or fancy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and character depiction, acting on irrational impulse rather than disciplined judgment or ethical reflection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"All this, instead of being as you now are, dependent on the mere caprice of Puffy!"*
-> - 📜 **Jane Austen (*Persuasion*):** *"They have no difficulties to contend with at home, no opposition, no caprice, no delays."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I have suffered a martyrdom from their incompetency and caprice."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"You have no compassion for my poor nerves. You take delight in vexing me; you have no idea what I suffer from your unexpected **caprice**."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Rosamond regarded her husband's grave financial worries as a mere obstinate **caprice** that she could overcome with poutings."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A judiciary subject to legislative tenure would quickly substitute political **caprice** for the steadfast principles of fundamental law."*

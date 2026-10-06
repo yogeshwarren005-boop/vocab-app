@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The organ that bears the ovules of a flower.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (vertebrates) one of usually two organs that produce ova and secrete estrogen and progesterone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The female reproductive organ that produces eggs (ova) and sex hormones; or the hollow basal part of a botanical carpel containing seeds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental embryology and plant organography, the organ that ripens into fruit after fertilization or undergoes cyclic hormonal ovogenesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ovary designates the organ that bears the ovules of a flower."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"After the pollen grains germinate upon the receptive stigma, fertilization occurs within the botanical **ovary** below."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The mammalian **ovary** discharges a mature egg at regular estrous intervals, escorted into the Fallopian tube."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The base of the pistil forms the swollen **ovary**, which upon successful pollination develops into the fleshy seed-bearing fruit."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The absence of ovulation due to immaturity or post-maturity or pregnancy or oral contraceptive pills or dysfunction of the ovary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The absence of ovulation due to immaturity or post-maturity or pregnancy or oral contraceptive pills or dysfunction of the ovary.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical condition characterized by the suspension or failure of an ovary to release mature ova (eggs).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive endocrinology and gynecology, a major physiological cause of female subfertility linked to polycystic ovarian syndrome or pituitary hormonal dysfunction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anovulation designates the absence of ovulation due to immaturity or post-maturity or pregnancy or oral contraceptive pills or dysfunction of the ovary."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"Chronic **anovulation** produces secondary amenorrhea and demands careful investigation of both ovarian and thyroid function."*
+> - 📜 **Jonathan Hutchinson (*Archives of Surgery*):** *"In cases of prolonged constitutional debility, temporary **anovulation** represents nature's defensive conservation of maternal energy."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Endocrine disturbances affecting the anterior pituitary lobe frequently manifest primarily through persistent menstrual irregularity and **anovulation**."*

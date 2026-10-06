@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Goatsuckers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Goatsuckers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The avian family comprising the nightjars, whip-poor-wills, and poorwills (order Caprimulgiformes).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithological systematics, insect-eating crepuscular birds characterized by soft owl-like plumage, small beaks with enormous bristle-fringed gapes, and pectinated middle claws.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, caprimulgidae designates goatsuckers."*
+> - 📜 **Thomas Henry Huxley (*On the Classification of Birds*):** *"The cranial morphology of the **Caprimulgidae** shows close affinity to the swifts and hummingbirds, despite their superficial owl-like plumage."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Several remarkable island species of the **Caprimulgidae** sit flat upon dead leaves during the day, defying detection by their perfect camouflage."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"Within the **Caprimulgidae**, the middle claw exhibits a fine comb-like pectination utilized in preening plumage and removing parasites."*

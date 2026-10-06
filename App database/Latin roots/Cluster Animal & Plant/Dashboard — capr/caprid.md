@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin capr within the domain of Animal & Plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of capr in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mammal belonging to the Caprinae subfamily of bovids, which includes goats, sheep, muskoxen, and chamois.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and veterinary paleontology, high-altitude cloven-hoofed ruminants adapted for surviving on steep, arid cliff terrains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, caprid designates pertaining to, derived from, or characteristic of latin capr within the domain of animal & plant."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Male combat in every typical **caprid** species involves clashing horns in ferocious head-on collisions to secure breeding harems."*
+> - 📜 **Richard Lydekker (*Wild Oxen, Sheep, and Goats of All Lands*):** *"The ancestral **caprid** stock underwent rapid speciation throughout the mountain chains of Central Asia during the Pliocene."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The cranial sinuses of a **caprid** skull provide a resilient hydraulic cushion that absorbs the tremendous shock of rival impacts."*

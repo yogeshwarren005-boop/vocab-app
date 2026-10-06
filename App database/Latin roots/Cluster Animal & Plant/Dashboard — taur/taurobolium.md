@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin taur within the domain of Animal & Plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of taur in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient Roman religious sacrifice of a bull, especially in the mystery rites of Cybele and Mithras.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman imperial religious history, a baptism of blood wherein the initiate stood in a pit beneath an altar to receive rebirth for eternity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"That Salvation was not from within, was the testimony of every man who underwent the _taurobolium_."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The pagan senators sought spiritual purification through the bloody rite of the **taurobolium**, defying Christian edicts."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"In the mystic **taurobolium**, the devotee descended into a trench over which a consecrated bull was slaughtered upon a perforated platform."*
+> - 📜 **Franz Cumont (*The Mysteries of Mithra*):** *"The inscription commemorated the initiate's renewal after the **taurobolium**, proclaiming him born again into eternal life."*

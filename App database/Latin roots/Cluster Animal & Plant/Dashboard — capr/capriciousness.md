@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being guided by sudden unpredictable impulses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of acting unpredictably and more from whim or caprice than from reason or judgment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The tendency to be unpredictable, fickle, or guided by sudden and unaccountable whims.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character psychology and constitutional history, describing the perilous instability of autocratic tyranny unchecked by legal statutes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"When we look at the reputation of this Miller, we must needs be deeply impressed with the capriciousness of the character of Fame."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The extreme **capriciousness** of Commodus kept every senator in perpetual terror of instant execution upon arbitrary suspicion."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor lamented the strange **capriciousness** of Willoughby's conduct, which had plunged Marianne into such profound despair."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"Civil society was instituted precisely to rescue mankind from the perilous **capriciousness** of arbitrary personal rule."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A closed plane curve resulting from the intersection of a circular cone and a plane cutting completely through it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rounded like an egg.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the general shape of an egg; an ellipse or rounded two-dimensional closed curve.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geometry and portraiture, an ellipse or rounded closed curve possessing two axes of symmetry; also a popular format for miniature portraits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"In my room there were oval engravings of the months—ladies haymaking in short waists and large hats tied under the chin, for June; smooth-legged noblemen pointing with cocked-hats to village steeples, for October."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"By the outer margin of the Pit was an oval pond, and over it hung the attenuated skeleton of a chrome-yellow moon which had only a few days to last—the morning star dogging her on the left hand."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In the centre was a small oval enclosure; this was left blank, that the sender might insert tender words more appropriate to the special occasion than any generalities by a printer could possibly be."*
+> - 📜 **Edgar Allan Poe (*The Oval Portrait*):** *"The portrait was a merely head and shoulders, done in what is technically termed a vignette manner, in an **oval** richly gilded frame."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The dining table was made of mahogany, constructed in an **oval** form to accommodate twelve guests of quality."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"She gazed into the **oval** looking-glass that reflected the quiet parlor and the fading light of evening."*

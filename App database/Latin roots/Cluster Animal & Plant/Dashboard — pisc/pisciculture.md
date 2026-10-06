@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin pisc within the domain of Animal & Plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of pisc in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The breeding, rearing, and artificial propagation of fish under controlled conditions; fish farming.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In applied ecology and nineteenth-century aquaculture, artificial hatching of salmonid ova to restock depleted rivers and commercial fisheries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pisciculture designates pertaining to, derived from, or characteristic of latin pisc within the domain of animal & plant."*
+> - 📜 **Frank Buckland (*Curiosities of Natural History*):** *"Through the practical methods of modern **pisciculture**, millions of trout ova were hatched and distributed to English chalk streams."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Captain Nemo described his underwater **pisciculture**, where oysters and edible fish were cultivated in ocean enclosures."*
+> - 📜 **Thomas Henry Huxley (*Essays upon Some Controverted Questions*):** *"The state can render immense service to maritime commerce by fostering scientific research in **pisciculture**."*

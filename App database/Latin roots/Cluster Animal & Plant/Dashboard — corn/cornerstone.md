@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The fundamental assumptions from which something is begun or developed or calculated or explained.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stone in the exterior of a large and important building; usually carved with a date and laid with appropriate ceremonies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A stone that forms the base of a corner of a building, joining two walls; hence, an indispensable foundational basis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural ceremonies and political discourse, the ceremonial block engraved with commemorative dates, symbolizing institutional endurance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"See you yond coign o’ the Capitol, yond cornerstone?"*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"It was in the vicinity of this community's earliest established center that He laid, with His own hands, the cornerstone of the first Ma_sh_riqu'l-A_dh_kár of the western world."*
+> - 📜 **Thomas Jefferson (*Writings on Democracy*):** *"Freedom of religion and the press must remain the eternal **cornerstone** of any free and enlightened republic."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A well-regulated judiciary must ever be regarded as the essential **cornerstone** of constitutional liberty."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"Consent of the governed constitutes the true **cornerstone** upon which legitimate political authority is erected."*

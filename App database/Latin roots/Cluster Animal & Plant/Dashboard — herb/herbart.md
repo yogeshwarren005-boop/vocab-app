@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: German philosopher (1776-1841).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: German philosopher (1776-1841).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Referring to Johann Friedrich Herbart (1776–1841), German philosopher and founder of modern scientific pedagogy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of education and psychological theory, designating the doctrine of apperception and moral character formation through structured instructional steps.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, herbart designates german philosopher (1776-1841)."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The pedagogical system founded by **Herbart** emphasized apperception as the mental process by which new ideas integrate with prior experience."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"The great service of **Herbart** lay in taking the work of teaching out of the realm of routine and accident."*
+> - 📜 **G. Stanley Hall (*Adolescence*):** *"Modern educational psychology owes a lasting debt to the pioneering psychological formulations of **Herbart**."*

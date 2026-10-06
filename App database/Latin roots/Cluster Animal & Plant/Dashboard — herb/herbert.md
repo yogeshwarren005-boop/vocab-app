@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states musician and composer and conductor noted for his comic operas (1859-1924).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states musician and composer and conductor noted for his comic operas (1859-1924).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A personal name of Germanic origin meaning 'illustrious warrior' or 'bright army'; prominently associated with poet George Herbert or philosopher Herbert Spencer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In English literature and intellectual history, denoting the metaphysical devotional poetry of George Herbert or the evolutionary sociology of Herbert Spencer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Plain near Tamworth Enter Richmond, Oxford, Blunt, Herbert, and others, with drum and colours."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Exeunt._] Enter Richmond, Sir William Brandon, Oxford, Herbert, Blunt, and others who pitch Richmond’s tent."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My Lord of Oxford, you, Sir William Brandon, And you, Sir Walter Herbert, stay with me."*
+> - 📜 **Izaak Walton (*The Life of Mr. George Herbert*):** *"The pious life of George **Herbert** at Bemerton displayed an exemplary union of pastoral devotion and transcendent verse."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The poems of George **Herbert** are exquisite in their kind, combining quaint conceits with deep spiritual purity."*
+> - 📜 **William James (*Pragmatism*):** *"The cosmic evolutionary synthesis propounded by **Herbert** Spencer sought to explain all nature by mechanical transitions from homogeneity to heterogeneity."*

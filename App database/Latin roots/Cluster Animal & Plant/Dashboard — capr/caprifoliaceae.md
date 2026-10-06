@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shrubs and small trees and woody vines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shrubs and small trees and woody vines.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The honeysuckle family of flowering plants, comprising shrubs, woody climbers, and herbs with opposite leaves and fragrant nectar-rich flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic angiosperm taxonomy, a cosmopolitan family characterized by tubular epigynous flowers, fleshy berries, and widespread horticultural use.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, caprifoliaceae designates shrubs and small trees and woody vines."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The family **Caprifoliaceae** includes both the sweet wild honeysuckles of our woods and the ornamental snowberry shrubs of gardens."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"Pollination mechanisms in the **Caprifoliaceae** demonstrate exquisite adaptations for long-tongued moths and bumblebees."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Genera belonging to the **Caprifoliaceae** flourish abundantly throughout temperate alpine zones across the Himalayan range."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or suggesting swine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Repellently fat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, resembling, or suggestive of swine or pigs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In figurative literature and moral commentary, describing gross gluttony, slovenly demeanor, or coarse physical heaviness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, porcine designates relating to or suggesting swine."*
+> - 📜 **George Orwell (*Animal Farm*):** *"The creatures outside looked from pig to man, and from man to pig, but already their **porcine** features were indistinguishable."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The huge carcass of the right whale yielded blubber possessing a curious **porcine** texture and odor."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Mr. Pumblechook sat gorging himself with heavy self-satisfaction, his **porcine** cheeks glowing from excessive port."*

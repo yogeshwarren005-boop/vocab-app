@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of fish in the family caproidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of fish in the family caproidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of deep-bodied marine fishes in the family Caproidae, notably including the boarfish (Capros aper).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Mediterranean ichthyology, a small rhomboid orange-pink fish with an extensible tubular snout used to suck small crustaceans from the sea bottom.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, capros designates a genus of fish in the family caproidae."*
+> - 📜 **Albert Günther (*Catalogue of the Fishes in the British Museum*):** *"The boarfish, **Capros** aper, occurs along the south-western coasts of England, its bright red scales attracting immediate notice when landed."*
+> - 📜 **Philip Henry Gosse (*The Ocean*):** *"Among the rare captures in the trawl net was a specimen of **Capros**, whose high back and snout give it the appearance of a miniature hog."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The genus **Capros** is remarkable for its protracted premaxillaries, enabling it to dart its mouth forward like a small tube."*

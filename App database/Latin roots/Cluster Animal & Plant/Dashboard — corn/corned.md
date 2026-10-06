@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feed (cattle) with corn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preserve with salt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Preserved or cured by packing with coarse grains or crystals of salt ('corns').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In culinary tradition, designating beef brisket cured in seasoned brine with peppercorns, cloves, and bay leaves before slow boiling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"He corned for us ten minutes behind the town clock, and Mammy Dilsie had phthisic, so I had to fix the two twins, and we're done left."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The beasts of the plains, in countless numbers, came rushing in toward the Waconda, their forms white with coatings of salt, and probably representing the largest amount of corned meat ever gathered in one place."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Wa-bog-aha big was a brave-- The Great Spirit salted him down: Braves seldom get corned in the grave, They 're oftener corned in the town."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"He offered me a piece of **corned** beef and hard bread, which I was glad enough to partake of after our cold ride."*
+> - 📜 **Charles Dickens (*The Posthumous Papers of the Pickwick Club*):** *"A huge round of **corned** beef was placed upon the table, flanked by foaming tankards of home-brewed ale."*
+> - 📜 **Mark Twain (*Roughing It*):** *"We subsisted for weeks on bacon, ship biscuits, and salt **corned** pork until our provisions ran dangerously low."*

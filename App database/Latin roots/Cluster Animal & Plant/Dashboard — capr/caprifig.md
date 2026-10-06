@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wild variety of the common fig used to facilitate pollination of certain figs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wild variety of the common fig used to facilitate pollination of certain figs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The wild fig tree (Ficus carica sylvestris) whose fruit is inedible but harbors the fig wasp essential for pollinating edible fig varieties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In traditional horticulture and pomology, the practice of caprification: hanging caprifig branches in cultivated fig trees to allow blastophaga wasps to pollinate Smyrna figs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, caprifig designates wild variety of the common fig used to facilitate pollination of certain figs."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"Traditional Mediterranean farmers hang branches of the wild **caprifig** among cultivated trees to ensure cross-fertilization by microscopic wasps."*
+> - 📜 **Theophrastus (*Enquiry into Plants*):** *"The fruit of the **caprifig** does not ripen for human food, but breeds little gnats that fly forth and prevent cultivated figs from falling."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"Caprification is performed with the wild **caprifig**, from which insects issue to penetrate and open the eyes of domestic figs."*

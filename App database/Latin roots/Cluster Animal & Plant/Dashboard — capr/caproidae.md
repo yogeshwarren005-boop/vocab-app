@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Boarfishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Boarfishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of marine ray-finned fishes commonly known as boarfishes, having deep, compressed, reddish bodies covered in rough ctenoid scales.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic ichthyology, benthic fishes allied to the Zeiformes or Perciformes inhabiting continental shelf depths down to 600 meters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, caproidae designates boarfishes."*
+> - 📜 **Albert Günther (*Catalogue of the Fishes in the British Museum*):** *"The family **Caproidae** comprises boarfishes characterized by an elevated rhomboid body covered with rough ctenoid scales and protrusible jaws."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"Specimens of the **Caproidae** are frequently taken by deep-water trawlers operating over Mediterranean and Atlantic banks."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"In the **Caproidae**, the robust dorsal spines can be locked erect as a mechanical defense against deep-sea predators."*

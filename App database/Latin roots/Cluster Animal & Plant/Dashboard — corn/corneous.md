@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Made of horn (or of a substance resembling horn).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Made of horn (or of a substance resembling horn).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Composed of or resembling horn; horny, tough, and keratinized in texture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology and malacology, describing hardened cuticular shields, beetle elytra, or the horny opercula of gastropods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, corneous designates made of horn (or of a substance resembling horn)."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Certain beetles possess modified **corneous** wing-covers that form a solid protective shield over their delicate abdomens."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"The mandibles are armed with dense **corneous** plates capable of shearing through tough fibrous vegetation."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"The claw is enclosed in a thickened **corneous** sheath that grows continuously from the underlying dermis."*

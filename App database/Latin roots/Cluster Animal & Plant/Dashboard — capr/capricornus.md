@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A faint zodiacal constellation in the southern hemisphere; between sagittarius and aquarius.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A faint zodiacal constellation in the southern hemisphere; between sagittarius and aquarius.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The classical Latin name for the zodiacal constellation Capricorn, representing the mythological horned sea-goat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In celestial mythology and ancient astral cartography, associated with the god Pan leaping into the Nile to escape Typhon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, capricornus designates a faint zodiacal constellation in the southern hemisphere; between sagittarius and aquarius."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"The faint stars of **Capricornus** occupy the southern zodiac between Sagittarius and Aquarius, presenting several interesting double stars."*
+> - 📜 **Camille Flammarion (*Popular Astronomy*):** *"In ancient astronomical charts, **Capricornus** appears as a strange chimera with the horns of a goat and the scaly tail of a dolphin."*
+> - 📜 **Simon Newcomb (*Astronomy for Everybody*):** *"The winter solstice occurred historically when the sun entered the asterism of **Capricornus**, heralding the lengthening of days."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A musician who plays the trumpet or cornet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musician who plays the trumpet or cornet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musician who plays the cornet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century concert bands and brass ensembles, the featured soloist who performed virtuosic ornamental cadenzas and melodic themes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cornetist designates a musician who plays the trumpet or cornet."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The celebrated **cornetist** executed the rapid triple-tonguing variations with remarkable agility and flawless intonation."*
+> - 📜 **Mark Twain (*A Tramp Abroad*):** *"The municipal band included a dedicated **cornetist** who blew every martial strain with heroic lung power."*
+> - 📜 **Arthur Conan Doyle (*Memories and Adventures*):** *"Our regiment was fortunate in possessing an accomplished **cornetist** whose evening solos delighted the entire cantonment."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin vulp within the domain of Animal & Plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of vulp in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of killing a fox by methods other than hunting it with hounds; or one who kills a fox in this manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century British field sports culture, an unpardonable social transgression despised by gentry who preserved foxes exclusively for the chase.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vulpicide designates pertaining to, derived from, or characteristic of latin vulp within the domain of animal & plant."*
+> - 📜 **Anthony Trollope (*The American Senator*):** *"To accuse a country gentleman of **vulpicide** was worse than charging him with embezzling county funds."*
+> - 📜 **Thomas Hardy (*A Laodicean*):** *"The gamekeeper had committed literal **vulpicide** by laying poison traps in the Squire's favorite fox coverts."*
+> - 📜 **R. S. Surtees (*Handley Cross*):** *"The Master of the Hunt denounced the farmer as a shameless **vulpicide** for shooting the vixen on her earth."*

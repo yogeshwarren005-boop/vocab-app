@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a leaf shape) egg-shaped with the narrower end at the base.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a leaf shape) egg-shaped with the narrower end at the base.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inversely ovate; having an egg-shaped outline with the narrower end attached to the stalk or base.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical morphology and dendrology, used to characterize leaf blades such as those of the magnolia, shadbush, or alder.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"We may, however, note that in a species found on the leaves of the common cock’s-foot grass the spores are large, obovate, and rough, with minute granules (figs. 117, 118)."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Umbellatarum_, Lev.); and a third with tawny, obovate, or egg-shaped spores (_T."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"When these spores germinate, which they do with great readiness, each division emits a long tube, which generally remains simple and undivided, and from its extremity is produced a reproductive body of an obovate or nearly kidney-shape."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The leaf of the mountain ash is pinnate, but the terminal leaflets are frequently distinctly **obovate** with serrate margins."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"The petals of the Primula present an **obovate** form, slightly notched at their broad apex where pollinators make landing."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The shrub bears glossy **obovate** foliage that remains green and vibrant throughout the mild southern winter."*

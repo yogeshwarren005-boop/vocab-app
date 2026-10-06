@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sow bugs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sow bugs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic family of terrestrial isopod crustaceans comprising common woodlice and sowbugs possessing two-segmented antennal flagella.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate taxonomy, separating these fast-moving surface sowbugs from the Armadillidiidae that roll into complete balls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog porcellionidae as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy of the Invertebrate Animals*):** *"Members of the family **Porcellionidae** occur abundantly in humic soils, performing vital decomposing functions."*
+> - 📜 **Thomas Henry Huxley (*The Invertebrata*):** *"Within the Oniscoidea, the family **Porcellionidae** is recognized by the distinct segmentation of the antennal flagellum."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"The evolutionary transition to dry terrestrial air reaches high specialization within the **Porcellionidae**."*

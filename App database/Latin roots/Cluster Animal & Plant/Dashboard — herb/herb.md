@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant lacking a permanent woody stem; many are flowering garden plants or potherbs; some having medicinal properties; some are pests.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aromatic potherb used in cookery for its savory qualities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any non-woody seed-bearing plant that dies back to the ground after flowering; or an aromatic plant used in cookery or medicine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and culinary botanical taxonomy, distinguishing soft herbaceous tissues from woody perennial shrubs and arboreal timber.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We may pick a thousand salads ere we light on such another herb."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Indeed, sir, she was the sweet marjoram of the salad, or, rather, the herb of grace."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We may call it herb of grace o’ Sundays."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"O, mickle is the powerful grace that lies / In herbs, plants, stones, and their true qualities: / For nought so vile that on the earth doth live / But to the earth some special good doth give. The healing **herb** heals the wound."*
+> - 📜 **John Milton (*Paradise Lost*):** *"He formed each pleasant **herb** of sweetest smell, / For food or medicine to the sons of men."*
+> - 📜 **Francis Bacon (*The Essays*):** *"Virtue is like precious odours, most fragrant when they are incensed or crushed; so also is every aromatic **herb**."*

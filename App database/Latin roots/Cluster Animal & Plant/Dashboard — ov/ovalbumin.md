@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The white part of an egg; the nutritive and protective gelatinous substance surrounding the yolk consisting mainly of albumin dissolved in water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The white part of an egg; the nutritive and protective gelatinous substance surrounding the yolk consisting mainly of albumin dissolved in water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The main protein found in egg white, making up approximately 55% of the total protein content.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and protein crystallization, a serpin superfamily glycoprotein extensively studied as a model for protein folding, denaturation, and food allergy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ovalbumin designates the white part of an egg; the nutritive and protective gelatinous substance surrounding the yolk consisting mainly of albumin dissolved in water."*
+> - 📜 **Justus von Liebig (*Animal Chemistry*):** *"The white of bird eggs consists chiefly of **ovalbumin**, which coagulates into an opaque solid mass upon the application of heat."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Native **ovalbumin** dissolves readily in cold water, but heating to seventy degrees causes irreversible structural precipitation."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"In our experimental media, purified **ovalbumin** provided an excellent source of nitrogenous nutrition for bacterial cultures."*

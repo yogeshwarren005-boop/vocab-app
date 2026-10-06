@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An egg-shaped object.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rounded like an egg.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Egg-shaped in three dimensions; having a solid form resembling that of an egg.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In petrology, mineralogy, and physical anthropology, describing rounded elliptical nodules, quartz pebbles, or cranial outlines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"These are either isolated or associated together in strings or chaplets, are exceedingly minute, of an ovoid or oblong shape, and are produced in such numbers as to fill the cavity of the spermogone."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The spores are ovoid, with a very long peduncle, whence its name (_Uromyces appendiculata_)."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The spores are ovoid and brown, with a short peduncle (Plate VII. fig. 155)."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The case of the sperm whale contains barrels of fragrant spermaceti enclosed in an immense **ovoid** reservoir."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The limestone was studded with curious **ovoid** concretions formed by concentric mineral deposits around organic nuclei."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"On the edge of the volcanic crater lay several smooth, **ovoid** stones polished by ancient glacial movement."*

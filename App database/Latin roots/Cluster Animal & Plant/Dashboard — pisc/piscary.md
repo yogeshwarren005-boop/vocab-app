@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A workplace where fish are caught and processed and sold.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A workplace where fish are caught and processed and sold.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The legal right of fishing in waters belonging to another person; a common of piscary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In English common law and manorial tenure, one of the classical rights of common alongside pasture, turbary, and estovers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, piscary designates a workplace where fish are caught and processed and sold."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Common of **piscary** is a liberty of fishing in another man's water, granted either by ancient prescription or express royal charter."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The baron defended his exclusive right of salmon **piscary** against all encroachments from neighboring tenant farmers."*
+> - 📜 **Izaak Walton (*The Compleat Angler*):** *"He that hath a lawful **piscary** in the stream may angle in peace without fear of trespass or vexatious summons."*

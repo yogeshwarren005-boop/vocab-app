@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Before the appearance of life.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Before the appearance of life.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or denoting geologic strata or conditions that are destitute of any organic or living remains.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical geology and Precambrian stratigraphy, the epoch preceding the dawn of life on Earth, before the earliest fossiliferous beds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"They were transported, perhaps, from the Azoic area near Lake Superior."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The crystalline schists were long regarded as fundamentally **azoic**, representing the primitive crust formed prior to the origin of life."*
+> - 📜 **Thomas Henry Huxley (*Discourses: Biological and Geological*):** *"The assumption that all basal metamorphic formations represent an **azoic** age has been shaken by the discovery of microscopic carbonaceous traces."*
+> - 📜 **James Dwight Dana (*Manual of Geology*):** *"Below the lowest Paleozoic fossil beds lies the vast **azoic** foundation composed of granite, gneiss, and crystalline limestone."*

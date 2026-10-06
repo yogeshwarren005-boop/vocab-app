@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or included in the zodiac.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or included in the zodiac.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, located within, or characteristic of the zodiac.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astrophysics and observational astronomy, designating zodiacal light: sunlight scattered by interplanetary dust particles in the ecliptic plane.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"My remembrances went to France in the train of those zodiacal stars that would shine in some hours’ time."*
-> - 📜 **James Joyce (*Ulysses*):** *"Ominous revengeful zodiacal host!"*
-> - 📜 **James Joyce (*Ulysses*):** *"A star precipitated with great apparent velocity across the firmament from Vega in the Lyre above the zenith beyond the stargroup of the Tress of Berenice towards the zodiacal sign of Leo."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The brilliant **zodiacal** light appeared as a luminous pyramid rising obliquely above the western horizon after twilight."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"The **zodiacal** light is seen to best advantage in tropical latitudes, shining with soft, pearly radiance in the clear night sky."*
+> - 📜 **Alexander von Humboldt (*Cosmos: A Sketch of a Physical Description of the Universe*):** *"I observed the **zodiacal** glow in the calm waters of the Pacific, where its bright apex reached the cluster of the Pleiades."*

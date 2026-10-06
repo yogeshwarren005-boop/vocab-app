@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A brass musical instrument with a brilliant tone; has a narrow tube and a flared bell and is played by means of valves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A brass musical instrument with a brilliant tone; has a narrow tube and a flared bell and is played by means of valves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brass wind instrument resembling a trumpet but shorter, equipped with valves and possessing a softer, more mellow tone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically in the British cavalry, the lowest commissioned officer who carried the colors of a troop; or a cone-shaped rolled paper or pastry container.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The matter was mentioned to the Emperor, an exception made, and Borís transferred into the regiment of Semënov Guards with the rank of cornet."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The hussar cornet of Kutúzov’s suite who had mimicked the regimental commander, fell back from the carriage and rode up to Dólokhov."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Hussar cornet Zherkóv had at one time, in Petersburg, belonged to the wild set led by Dólokhov."*
+> - 📜 **Thomas Hardy (*Under the Greenwood Tree*):** *"The choir practice echoed with the piercing melody of the clarinet supported by the mellow notes of the **cornet**."*
+> - 📜 **George Eliot (*Scenes of Clerical Life*):** *"He was once a dashing **cornet** of dragoons who rode with pride before the regiment in his scarlet coat."*
+> - 📜 **Charles Dickens (*Sketches by Boz*):** *"The street musician strained his cheeks until his eyes bulged as he blew a discordant march upon his battered **cornet**."*

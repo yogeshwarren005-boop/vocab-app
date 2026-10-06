@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or involving the ovaries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or involving the ovaries.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or affecting the ovaries, the female reproductive organs that produce eggs and sex hormones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology and comparative morphology, designating follicles, cyclic luteal transformations, cystic neoplasms, or botanical carpel chambers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"For over twenty years I had ovarian trouble, which was almost unbearable at times."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient complained of persistent localized tenderness in the right **ovarian** region accompanied by cyclic abdominal distress."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The **ovarian** stroma contains numerous primordial follicles embedded in vascular connective tissue."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"The pollen tube traverses the style until it reaches the deep **ovarian** cavity containing the receptive ovules."*

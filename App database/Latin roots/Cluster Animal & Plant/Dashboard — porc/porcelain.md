@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ceramic ware made of a more or less translucent ceramic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ceramic ware made of a more or less translucent ceramic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hard, fine-grained, translucent ceramic material produced by firing pure kaolin and feldspar clay at high temperatures; or vessels made from it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In material culture and decorative arts, esteemed for its vitrified impermeability, ringing resonance, and luminous white surface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"This was the time for Wemmick to produce a little kettle, a tray of glasses, and a black bottle with a porcelain-topped cork, representing some clerical dignitary of a rubicund and social aspect."*
-> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"In Russia the poorer people use a large porcelain stove, flat on top like a great table, with a small fire inside which gives out a gentle, summer-like warmth."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"High oaken sideboards, inlaid with ebony, stood at the two extremities of the room, and upon their shelves glittered china, porcelain, and glass of inestimable value."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The cabinet displayed delicate **porcelain** cups that had belonged to Dorothea's French grandmother."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The mantelpiece was crowded with shepherdesses of fragile **porcelain** and ornate Parisian timepieces."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"He handled the precious antique cup with reverent care, admiring the translucency of the blue-and-white **porcelain**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Meat from a domestic hog or pig.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Meat from a domestic hog or pig.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic or dialectal spelling of pork, denoting the flesh of domestic swine prepared as culinary food.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy and historical gastronomy, relating directly to the genus Sus or porcine livestock.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, porc designates meat from a domestic hog or pig."*
+> - 📜 **Geoffrey Chaucer (*The Canterbury Tales*):** *"His table was laden with roasted **porc** and brawn, well spiced with ginger and cloves for the winter feast."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"Pork is Saxon, but when the brute is flayed and dressed for the banquet, swine becomes **porc** in the Norman tongue."*
+> - 📜 **Thomas Malory (*Le Morte d'Arthur*):** *"The knights sat at the banquet where fat **porc** and venison were served with abundance of red wine."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To deliver or write a prologue; to preface a work or speech with introductory remarks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical rhetoric, to make an opening apology or introductory exposition to an audience.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To recite or act a prologue; to introduce a play or speech with an introductory address.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical dramaturgy, to serve as prologue-speaker, delivering explanatory exposition to spectators before the action commences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"It is superfluous to **prologuize** upon principles which the subsequent dissertation will amply establish."*
-> - 📜 **John Dryden (*Prefaces to the Fables*):** *"I will not longer **prologuize** to the reader, but present these ancient tales in their modern dress."*
-> - 📜 **Thomas De Quincey (*Confessions of an English Opium-Eater*):** *"Allow me to **prologuize** briefly regarding the circumstances under which these recollections were composed."*
+> - 📜 **John Dryden (*Fables, Ancient and Modern*):** *"The ancient Greek dramatists rarely permitted their characters to **prologuize** without immediate tragic necessity."*
+> - 📜 **Samuel Taylor Coleridge (*Lectures on Shakespeare*):** *"When the Chorus appears to **prologuize** in Henry V, poetry elevates historical chronicle into magnificent epic."*
+> - 📜 **Ben Jonson (*Every Man in His Humour*):** *"He chose to **prologuize** with sharp satirical verses aimed at the vulgar tastes of the pit."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thick segment of felled tree trunk; an official recorded chronicle of events on a voyage or journey.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime navigation and operational management, a device measuring ship speed through water, or a chronological registry of events.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rough section of a felled tree trunk; or an official detailed record of a ship's voyage or daily events.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nautical navigation and computational systems, an instrument for measuring a vessel's speed through water, or a chronological registry of transactions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick*):** *"The captain paced the quarterdeck and ordered the mate to heave the **log** and record our dead-reckoning."*
-> - 📜 **Joseph Conrad (*The Secret Sharer*):** *"I turned over the pages of the ship's **log**, examining the entries made during the preceding gale."*
-> - 📜 **Henry David Thoreau (*Walden*):** *"I sat upon a pine **log** beside the pond, watching the sunlight sparkle across the ripples."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The **log** which was to form the back-brand of the evening fire was the uncleft trunk of a tree, so unwieldy that it could scarcely be moved."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"He kept his dead reckonings in the ship's **log**, noting every change in the wind and current."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Before winter I built a chimney, dragging each heavy pine **log** across the frosted grass to the hearth."*

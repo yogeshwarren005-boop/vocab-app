@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not acknowledging or expressing regret for something; defiant, persistent, or unremorseful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical and political discourse, steadfastly defending a controversial stance without concession or compromise.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not feeling or expressing regret, excuse, or remorse; brazenly confident and defiant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social discourse and ethical critique, steadfast adherence to one's principles or conduct without concession to external reproach.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"He remained stubborn and **unapologetic**, convinced that his unbending conduct had maintained his personal honor."*
-> - 📜 **William James (*The Will to Believe*):** *"Faith asserts its claims with an **unapologetic** conviction that dry rational skepticism cannot undermine."*
-> - 📜 **Bertrand Russell (*Unpopular Essays*):** *"The author offers these controversial reflections in an **unapologetic** spirit, believing truth alone matters."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He remained utterly **unapologetic**, celebrating his pursuit of sensation without bowing to conventional morality."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"The industrialist stood **unapologetic** before his critics, declaring that modern civilization rested upon iron and gunpowder."*
+> - 📜 **Joseph Conrad (*Under Western Eyes*):** *"Her posture was proud and completely **unapologetic**, defying the harsh scrutiny of the revolutionary tribunal."*

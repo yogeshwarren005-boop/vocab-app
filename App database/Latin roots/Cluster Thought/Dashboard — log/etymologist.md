@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A scholar who specializes in etymology, the study of the origins and historical development of words.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative linguistics, a researcher tracing lexical cognates across diverse language families through systematic sound laws.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A linguist or scholar who studies the origin and historical evolution of words.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philology, an investigator tracing lexical cognates across historical texts to reconstruct ancestral morphological roots.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Samuel Johnson (*A Dictionary of the English Language*):** *"The **etymologist** must explore the deep roots of speech and track every dialectical variation to its fountain."*
-> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Grimm was an extraordinary **etymologist** whose laws explained the transformation of consonants across Europe."*
-> - 📜 **Walter Scott (*The Antiquary*):** *"The pedantic **etymologist** derived the local Scottish placename from a fanciful combination of Celtic roots."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The patient **etymologist** compares ancient Sanskrit roots with modern Germanic words to chart linguistic evolution."*
+> - 📜 **Ralph Waldo Emerson (*Nature*):** *"The **etymologist** finds that the word spirit originally signified breath, and right signified straightness."*
+> - 📜 **Samuel Johnson (*Preface to the English Dictionary*):** *"The industrious **etymologist** is often seduced by fancied resemblances between words of wholly unrelated origin."*

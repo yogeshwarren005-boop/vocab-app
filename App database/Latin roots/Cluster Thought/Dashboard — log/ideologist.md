@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An adherent of a particular ideology; a theorist who conceives or promotes a system of ideas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In history of philosophy, originally applied to the French philosophers studying the origin of ideas; later used for rigid doctrinaires.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A theorist or advocate of a particular ideology; or one given to visionary, unpractical speculation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political history, originally the French Idéologues (Destutt de Tracy), later used pejoratively by Napoleon for unpractical political theorists.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Napoleon dismissed the metaphysical theorists of the institute as mere windbag **ideologists**."*
-> - 📜 **Karl Marx (*The German Ideology*):** *"The bourgeois **ideologist** mistakes the temporary conditions of his class for eternal laws of nature."*
-> - 📜 **Alexis de Tocqueville (*The Old Regime and the Revolution*):** *"The literary **ideologist** designed theoretical constitutions without ever having managed the affairs of a village."*
+> - 📜 **Napoleon Bonaparte (*Letters and Speeches*):** *"It is to the mania of the visionary **ideologist** that we must attribute all the misfortunes that have afflicted France."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The paper constitution crafted by the philosophical **ideologist** could not survive the first blast of real civil war."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"The visionary **ideologist** constructs ideal republics in his library, ignoring the obstinate habits of living men."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A long, uninterrupted speech delivered by a single person in a conversation, play, or public address.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theatrical dramaturgy, an extended soliloquy or speech through which a character reveals motives and internal psychological states.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A long speech by one actor in a play or movie, or a prolonged soliloquy in conversation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic literature and rhetoric, a structured dramatic device revealing an individual character's inner thoughts, motives, or narrative perspective.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*Hamlet*):** *"In his most celebrated **monologue**, the prince ponders the dread of death and the pangs of conscience."*
-> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab paced the quarterdeck muttering a fierce **monologue** against the white whale that none dared interrupt."*
-> - 📜 **George Eliot (*Middlemarch*):** *"His conversation was in reality an unbroken **monologue**, admitting no reply and inviting no dissent."*
+> - 📜 **James Joyce (*Dubliners*):** *"After a long while his **monologue** paused."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"His endless muttering **monologue** vitiated every effort I made to think out a line of action."*
+> - 📜 **G. K. Chesterton (*The Ball and the Cross*):** *"The cool voice of his companion cut in upon his **monologue**, calling to him from a little farther along the cliff."*

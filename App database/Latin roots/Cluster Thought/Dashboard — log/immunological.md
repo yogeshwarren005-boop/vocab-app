@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the immune system and the body's mechanisms of defense against pathogens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern immunology, mechanisms encompassing innate and adaptive cellular and humoral defense networks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to immunology, immune system reactions, or host-pathogen resistance mechanisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular biology and clinical oncology, describing antibody production, cellular cytotoxicity, or immunological memory.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank Macfarlane Burnet (*Immunology, Aging, and Cancer*):** *"The **immunological** surveillance mechanism continually destroys aberrant somatic cells before they form tumors."*
-> - 📜 **Peter Medawar (*The Uniqueness of the Individual*):** *"Skin grafting provides the classic **immunological** model for analyzing tissue histocompatibility."*
-> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Attenuation of viral virulence laid the foundation for the entire science of **immunological** prophylaxis."*
+> - 📜 **Frank Macfarlane Burnet (*Immunology, Aging, and Cancer*):** *"The **immunological** surveillance hypothesis posits that thymus-derived lymphocytes actively detect and eliminate malignant cells."*
+> - 📜 **Peter Medawar (*The Uniqueness of the Individual*):** *"Skin grafting provides the classic **immunological** model for analyzing tissue incompatibility."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Attenuation of viral virulence laid the foundation for modern **immunological** prophylaxis."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Soundness, coherence, and strict validity of reasoning according to formal principles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemology and literary characterization, rigorous consistency in intellectual deduction and systematic thought.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conformity to the principles of sound reasoning, consistency, and rational deduction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemological philosophy, rigorous internal consistency and strict demonstrative cogency within an intellectual system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William James (*The Principles of Psychology*):** *"The absolute **logicality** of a deduction cannot compensate for the falsity of its initial premises."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon's system possessed a rigid internal **logicality**, yet bore no relation to living historical reality."*
-> - 📜 **John Stuart Mill (*Autobiography*):** *"My early training in Greek dialectic gave my intellect a permanent habit of **logicality** and precision."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The relentless **logicality** of his argumentation left opponents no escape save by denying his primary axioms."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Absolute **logicality** is rarely achieved in everyday life, where emotional desires continually bias our thought processes."*
+> - 📜 **Bertrand Russell (*Mysticism and Logic*):** *"The pristine **logicality** of pure mathematics offers an enduring refuge from the ambiguities of empirical existence."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Short for antilogarithm; the number of which a given value is the logarithm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computational mathematics and navigation, the number obtained by raising the logarithmic base to a given power.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An antilogarithm; the inverse of a logarithm, or the number corresponding to a given logarithm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematical computation and slide-rule navigation, the exponential result obtained by raising the logarithmic base to the given power.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"The calculation of every **antilog** was verified against standard astronomical tables to eliminate mechanical error."*
-> - 📜 **John Herschel (*Outlines of Astronomy*):** *"Navigators determine distances at sea by taking the **antilog** of the sum of logarithmic sines."*
-> - 📜 **Augustus De Morgan (*A Budget of Paradoxes*):** *"A beginner in trigonometry frequently confuses the log of a sine with its corresponding **antilog**."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"The calculating engine was designed to compute tables of the logarithm and **antilog** without human transcriptional error."*
+> - 📜 **Augustus De Morgan (*Elements of Arithmetic*):** *"To find the natural number corresponding to a given logarithmic mantissa, the calculator consults the standard **antilog** table."*
+> - 📜 **William Thomson, Lord Kelvin (*Popular Lectures and Addresses*):** *"Rapid determination of the **antilog** enabled engineers to compute thermodynamic expansions during submarine cable signaling."*

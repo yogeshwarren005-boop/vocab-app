@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice or activity of tracing the origins and historical development of words.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual essays and literary criticism, pursuing verbal derivations to uncover hidden cultural or philosophical layers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice or activity of investigating and tracing the origin and historical development of words.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philological discourse, formulating hypotheses regarding lexical derivation based on phonetic correspondence and semantic evolution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"A habit of careful **etymologizing** protects the mind against vague generalizations and loose rhetoric."*
-> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Fanciful **etymologizing** was the fatal weakness of ancient grammarians from Plato to Varro."*
-> - 📜 **Richard Chenevix Trench (*On the Study of Words*):** *"There is profound moral profit in the sober **etymologizing** of terms that express human virtues and vices."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Unscientific **etymologizing** based on superficial sound resemblances was the bane of eighteenth-century philology."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"His playful habit of **etymologizing** common words illuminated unexpected connections between language and metaphysics."*
+> - 📜 **Henry Sweet (*The History of Language*):** *"Rigorous phonetic laws transformed **etymologizing** from speculative guesswork into an exact historical science."*

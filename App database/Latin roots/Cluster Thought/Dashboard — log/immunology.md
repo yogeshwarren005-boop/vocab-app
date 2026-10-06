@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of biomedical science concerned with immunity, the immune system, and defense against diseases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medicine, the discipline investigating humoral antibodies, cellular immunity, hypersensitivity, and autoimmune disorders.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific branch studying the immune system, immune responses, and biological defenses against disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern biology and clinical medicine, the discipline encompassing immunogenetics, antibody synthesis, autoimmunity, and transplantation tolerance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank Macfarlane Burnet (*The Integrity of the Body*):** *"Modern **immunology** began with Jenner's discovery of vaccination and Pasteur's work on attenuated microbes."*
-> - 📜 **Peter Medawar (*The Hope of Progress*):** *"The rapid expansion of **immunology** transformed organ transplantation from a dream into clinical reality."*
-> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"The side-chain theory established a chemical foundation for the emerging science of **immunology**."*
+> - 📜 **Frank Macfarlane Burnet (*The Integrity of the Body*):** *"Modern **immunology** began with the transition from bacteriological defense to cellular recognition of individuality."*
+> - 📜 **Peter Medawar (*The Hope of Progress*):** *"The rapid expansion of **immunology** transformed organ transplantation from surgical speculation into clinical reality."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"The side-chain theory established a chemical foundation that directed the course of early experimental **immunology**."*

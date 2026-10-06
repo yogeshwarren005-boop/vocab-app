@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the origin of words and the historical evolution of their meanings; a word's lineage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical linguistics, the documented lineage of a lexical unit through sound changes, borrowing, and morphological adaptation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the origin of words and the way in which their meanings have changed throughout history.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical linguistics, the chronological account of a word's birth, phonetic mutation, and semantic development from its earliest recorded root.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"He investigated the **etymology** of disputed words with indefatigable curiosity and robust learning."*
-> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The study of **etymology** reveals how ancient peoples conceived the fundamental operations of nature."*
-> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"If we trace the **etymology** of words denoting intellectual concepts, we find they all originally signified sensible ideas."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The historical **etymology** of a philosophical term frequently explains the subtle connotations that still adhere to it."*
+> - 📜 **Ralph Waldo Emerson (*Nature*):** *"The **etymology** of all words expressing spiritual and mental facts traces back to physical objects and sensations."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber indulged in learned disquisitions upon the Greek **etymology** of words while enjoying his evening punch."*

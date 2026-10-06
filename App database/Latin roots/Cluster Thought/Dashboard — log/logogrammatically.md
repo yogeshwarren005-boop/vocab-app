@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a logogrammatic manner; using written characters that represent whole words rather than sounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philological transcription, representing lexical semantics through whole-word ideograms rather than alphabetic segments.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a logogrammatic manner; through the use of signs representing whole words.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epigraphic decipherment, expressing morphemes or lexemes directly through word-signs without phonetic spelling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Isaac Taylor (*The History of the Alphabet*):** *"Sumerian scribes recorded commodity inventories **logogrammatically**, using styluses to press word-signs into wet clay."*
-> - 📜 **Edward Sapir (*Language*):** *"When concepts are rendered **logogrammatically**, readers bypass phonology and access semantic associations immediately."*
-> - 📜 **Archibald Sayce (*Comparative Philology*):** *"Ancient royal annals were transcribed **logogrammatically** to preserve sacred ancestral designations across shifting dialects."*
+> - 📜 **Jean-François Champollion (*Précis du système hiéroglyphique*):** *"The royal cartouches were inscribed phonetically, whereas religious titles were expressed **logogrammatically**."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"Sumerian accountants recorded agricultural commodities **logogrammatically** on clay tablets long before abstract grammatical markers were invented."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"Certain modern abbreviations function **logogrammatically**, evoking whole words instantly without linear phonetic decoding."*

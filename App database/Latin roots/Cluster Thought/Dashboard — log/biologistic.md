@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or relating to biologism; interpreting human behavior strictly through biological determinism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociology and philosophy of mind, overextending evolutionary mechanisms to explain artistic and social creations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of biological reductionism or determinism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical philosophy and social sciences, descriptive of theories that explain complex cultural, ethical, or psychological phenomena by biological analogies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Dewey (*Reconstruction in Philosophy*):** *"A purely **biologistic** approach fails to account for the reflective and symbolic dimensions of human culture."*
-> - 📜 **Bertrand Russell (*History of Western Philosophy*):** *"Nietzsche's ethics are tainted by a **biologistic** worship of brute vitality over justice and mercy."*
-> - 📜 **William James (*The Meaning of Truth*):** *"We need not surrender spiritual values to a cold, **biologistic** fatalism that denies human freedom."*
+> - 📜 **G. K. Chesterton (*The Victorian Age in Literature*):** *"A fashionable **biologistic** jargon infected late Victorian criticism, reducing poetic inspiration to nervous heredity."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The medical materialist advances a purely **biologistic** explanation of spiritual ecstasies, attributing them to hepatic congestion."*
+> - 📜 **Herbert Spencer (*The Study of Sociology*):** *"Critics accused his synthetic philosophy of relying upon an excessively **biologistic** model of institutional development."*

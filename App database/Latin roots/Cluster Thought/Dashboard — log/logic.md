@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reasoning conducted according to strict principles of validity; the study of correct reasoning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical philosophy and mathematics, the normative science initiated by Aristotle evaluating arguments and deductions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The systematic study of valid reasoning, inference, argumentation, and truth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal philosophy and computer science, deductive and inductive formal systems specifying rules of inference and symbolic computation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Stuart Mill (*A System of Logic*):** *"**Logic** is the common judge and arbiter of all particular investigations, whether physical or moral."*
-> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The traditional school **logic** is useful rather for disputation than for the discovery of new truths."*
-> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"Pure mathematics and symbolic **logic** have developed until they are now recognized as one and the same discipline."*
+> - 📜 **William Shakespeare (*The Taming of the Shrew*):** *"Balk **logic** with acquaintance that you have, And practise rhetoric in your common talk."*
+> - 📜 **Arthur Conan Doyle (*The Sign of Four*):** *"Eliminate all other factors, and the one which remains must be the truth; that is the very cornerstone of **logic**."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The drops of **logic** Tess had let fall into the sea of his enthusiasm served to chill its effervescence to stagnation."*

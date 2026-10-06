@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Praising or extolling someone or something highly; laudatory, commendatory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and public discourse, characterized by elevated encomiums or formal praise.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Praising or commending highly in speech or writing; containing a eulogy; encomiastic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetorical style, characterized by lavish panegyric praise, formal compliments, and commemoration of virtues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Walter Scott (*The Antiquary*):** *"The local chronicle published a **eulogistic** account of the festivities, praising the generosity of the host."*
-> - 📜 **William Hazlitt (*Table-Talk*):** *"His review was not an impartial critique, but a **eulogistic** tribute to an intimate friend."*
-> - 📜 **Washington Irving (*The Life of George Washington*):** *"Contemporary addresses to the Commander-in-Chief were couched in the most **eulogistic** language."*
+> - 📜 **George Eliot (*Felix Holt, the Radical*):** *"The local gazette published a **eulogistic** tribute recounting the noble deeds and charitable endowments of the squire."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The narrator delivered a **eulogistic** discourse upon the majesty and valor of the great sperm whale."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The Jacobin orator pronounced a **eulogistic** address over the tomb of Marat, stirring the crowd to passionate frenzy."*

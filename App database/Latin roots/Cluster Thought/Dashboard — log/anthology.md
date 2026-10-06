@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A published collection of poems, short stories, songs, or other pieces of writing by different authors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical philology, literally a garland of flowers, historically denoting collections of lyric epigrams.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A published collection of poems, stories, or other musical and literary pieces by various authors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical bibliography, originally a Greek 'collection of flowers' (anthologia), curating choice epigrams, lyrics, or philosophical excerpts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Walter Scott (*The Antiquary*):** *"He brought down from the library shelf an ancient Greek **anthology** bound in stamped vellum."*
-> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The modern **anthology** serves to introduce youthful minds to the sublime variety of national literature."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"A quaint **anthology** of seventeenth-century ballads lay open upon the window seat."*
+> - 📜 **Ralph Waldo Emerson (*Parnassus*):** *"This poetic **anthology** aims to gather the most memorable verse produced in our mother tongue across five centuries."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He presented her with an elegant **anthology** of Italian sonnets, bound in rich morocco with gilded tooling."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The volume was an **anthology** of decadent French poetry that poisoned his impressionable imagination with exotic perfumes."*

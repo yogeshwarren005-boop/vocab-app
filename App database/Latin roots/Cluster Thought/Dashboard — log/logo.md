@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A graphic symbol, emblem, or stylized mark adopted by an organization or brand for identification.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial design and typography, a distinctive logotype or visual trademark conveying institutional identity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A graphic mark, emblem, or stylized symbol used to identify a business, organization, or brand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In corporate design and visual branding, an iconic visual shorthand embodying trademark identity and consumer goodwill.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Walter Lippmann (*Public Opinion*):** *"A commercial **logo** functions as an instant visual stereotype, evoking pre-established habits of confidence."*
-> - 📜 **Marshall McLuhan (*Understanding Media*):** *"The corporate **logo** compresses complex institutional messaging into a single iconic configuration."*
-> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"The decorative **logo** stamped upon luxury goods confirms the reputability and pecuniary strength of the consumer."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"Commercial firms invest immense capital into making their trademark **logo** an indelible emblem of prestige."*
+> - 📜 **H. G. Wells (*The World of William Clissold*):** *"Modern advertising transformed the industrial trade emblem into an ubiquitous corporate **logo** seen on every street corner."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"The enamel **logo** of the Boosters Club gleamed proudly on his lapel throughout the annual banquet."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person skilled in or dedicated to the study and practice of logic and formal reasoning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scholastic and symbolic philosophy, a scholar analyzing syllogisms, truth functions, and formal systems.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert in or student of logic, formal deduction, and principles of valid reasoning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of ideas, a philosopher or mathematician specializing in symbolic calculi, model theory, or dialectical systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The traditional **logician** corrupts natural inquiry by forcing physical phenomena into rigid syllogistic molds."*
-> - 📜 **Lewis Carroll (*Through the Looking-Glass*):** *"'Contrariwise,' continued the profound **logician**, 'if it was so, it might be; and if it were so, it would be.'"*
-> - 📜 **John Stuart Mill (*An Examination of Sir William Hamilton's Philosophy*):** *"A competent **logician** does not invent truth; he verifies the paths by which truth is attained."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Men who had only known the quiet thinker and **logician** of Baker Street would have failed to recognise him."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"The sentence is so loaded with meaning, and so linked with its foregoers and followers, that the **logician** is satisfied."*
+> - 📜 **G. K. Chesterton (*The Ball and the Cross*):** *"The **logician** is, therefore, driven back upon the assumption that she did it; and that lends a sort of mysterious interest to her personality."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The characteristic of conforming strictly to the laws of logic; soundness or rationality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical argumentation, the rigorous coherence and non-contradictory structure of an exposition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of possessing logical consistency, clarity, and rational coherence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical rhetoric and pedagogical theory, systematic coherence exhibited in the construction of an argument.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Daniel Deronda*):** *"The relentless **logicalness** of her husband's demands left no room for the subtle appeals of sympathy."*
-> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"A foolish consistency is the hobgoblin of little minds, yet an underlying **logicalness** governs nature."*
-> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"Mental development advances toward greater **logicalness** as perceptions are classified into systematic hierarchies."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"The innate **logicalness** of a mature mind consists in the automatic rejection of incongruous propositions."*
+> - 📜 **William James (*The Principles of Psychology*):** *"We often admire the formal **logicalness** of a madman's reasoning, even while recognizing the insanity of his premise."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The intellectual value of geometry lies in training young minds in relentless, transparent **logicalness**."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist or expert responsible for the analysis, planning, and management of logistical operations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military science and industrial transport, a coordinator overseeing supply lines, storage facilities, and fleet routing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist responsible for analyzing, planning, and managing logistics, transport, and supply operations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organizational management and military command, an expert coordinating the procurement, maintenance, and distribution of equipment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Dwight D. Eisenhower (*Crusade in Europe*):** *"The master **logistician** must anticipate the requirements of the battlefield months before the artillery opens fire."*
-> - 📜 **Douglas MacArthur (*Reports of General MacArthur*):** *"To every combat commander, the tireless **logistician** is the indispensable architect of sustained victory."*
-> - 📜 **Antoine-Henri Jomini (*Summary of the Art of War*):** *"The staff **logistician** unites strategy and tactics by ensuring armies arrive at the decisive point fully provisioned."*
+> - 📜 **Carl von Clausewitz (*On War*):** *"The **logistician** operates in the background, yet without his methodical calculations no campaign can achieve victory."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"Every successful field marshal depends upon a brilliant **logistician** to sustain forward movement."*
+> - 📜 **Alfred Thayer Mahan (*Naval Administration and Warfare*):** *"The modern naval **logistician** must anticipate the consumption of fuel and ordnance across vast oceanic theatres."*

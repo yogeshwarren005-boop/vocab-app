@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to ecology, ecosystems, or the environment and interrelations of organisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In environmental science and geography, systematic analysis of habitats, food webs, and anthropogenic impacts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or concerned with the relation of living organisms to one another and to their physical surroundings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In environmental science, pertaining to ecosystem dynamics, trophic energy transfer, biogeochemical cycles, and conservation biology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Ernst Haeckel (*The History of Creation*):** *"Our **ecological** studies demonstrate how every species is shaped by its physical and organic environment."*
-> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"Earthworms perform an **ecological** service of immense importance by aerating the soil."*
+> - 📜 **John Muir (*Our National Parks*):** *"The destruction of mountain forests precipitates disastrous **ecological** consequences throughout the agricultural valleys below."*
 > - 📜 **Aldo Leopold (*A Sand County Almanac*):** *"An **ecological** conscience reflects a conviction of individual responsibility for the health of the land."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"The widespread dissemination of synthetic chemical pesticides threatens the fundamental **ecological** web supporting avian life."*

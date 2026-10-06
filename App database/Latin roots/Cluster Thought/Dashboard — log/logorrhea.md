@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An excessive, overwhelming, and often incoherent flow of words; extreme loquacity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurology and psychiatry, fluent, continuous, and rapid speech characteristic of aphasia or bipolar mania.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An excessive, overwhelming, and often incoherent flow of words; extreme volubility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry and rhetorical criticism, symptomatic pressured speech seen in mania or empty, verbose prolixity in prose.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William James (*The Principles of Psychology*):** *"The symptom known as **logorrhea** reflects a failure of cortical inhibition, leaving associative speech uncurbed."*
-> - 📜 **Oliver Wendell Holmes Sr. (*The Autocrat of the Breakfast-Table*):** *"Nothing is more tedious in social gatherings than an elderly pedant afflicted with chronic conversational **logorrhea**."*
-> - 📜 **Henry Maudsley (*Responsibility in Mental Disease*):** *"Morbid **logorrhea** must not be confused with wit; it is the chaotic discharge of an unstable nervous apparatus."*
+> - 📜 **Henry Maudsley (*The Pathology of Mind*):** *"The acute patient exhibited continuous **logorrhea**, babbling without pause or coherence through the sleepless night."*
+> - 📜 **William James (*The Principles of Psychology*):** *"In certain toxic mental conditions, an uncontrollable **logorrhea** replaces organized thought."*
+> - 📜 **George Bernard Shaw (*Pen Portraits and Reviews*):** *"The politician's address was a masterclass in parliamentary **logorrhea**, saying nothing in thousands of resounding phrases."*

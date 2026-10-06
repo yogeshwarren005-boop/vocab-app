@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner related to biology, living organisms, or organic processes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary anthropology and physiology, interpreted through the lens of natural selection and physiological functioning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner relating to biology, living organisms, or vital processes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, according to the principles of natural selection, cellular physiology, or genetic inheritance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"Mankind is **biologically** linked to the anthropoid apes through innumerable homologies of skeleton and brain."*
-> - 📜 **Charles Darwin (*The Descent of Man*):** *"Instincts that appear mysterious become **biologically** intelligible when viewed as products of natural selection."*
-> - 📜 **Herbert Spencer (*The Principles of Ethics*):** *"Conduct is **biologically** sound when it fosters the preservation of the individual and the species."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Man is **biologically** allied to the higher primates by innumerable detailed homologies of bone, muscle, and brain."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"Considered **biologically**, the human brain is simply the most highly differentiated coordinator of sensory-motor reflexes."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"Psychological instincts can only be understood when viewed **biologically** as evolutionary adaptations for survival."*

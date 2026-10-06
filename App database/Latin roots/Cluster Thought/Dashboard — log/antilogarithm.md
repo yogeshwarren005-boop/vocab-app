@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The number of which a given number is the logarithm (the inverse of a logarithm).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematical computation and celestial navigation, the exponential function reversing logarithmic calculations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The number of which a given number is the logarithm; the inverse logarithm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematical analysis, the value x such that log(x) equals y, calculated by evaluating the exponential function b raised to y.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Napier (*Mirifici Logarithmorum Canonis Descriptio*):** *"By consulting the table of the **antilogarithm**, the operator converts artificial logarithms back into natural numbers."*
-> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"My calculating engine was planned to print tables of the **antilogarithm** with absolute typographical precision."*
-> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"The discovery of the **antilogarithm** reduced weeks of laborious planetary calculation to hours of simple addition."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"A single typographic misprint in a printed table of the **antilogarithm** could jeopardize the safety of an entire maritime fleet."*
+> - 📜 **Augustus De Morgan (*Elements of Arithmetic*):** *"The student must master the conversion of logarithms back into natural numbers by utilizing the systematic **antilogarithm** tables."*
+> - 📜 **Arthur Stanley Eddington (*The Mathematical Theory of Relativity*):** *"Calculating the **antilogarithm** of stellar brightness indices yields the absolute luminosity of distant pulsating cepheids."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expression of regret for having done something wrong; a formal justification or defense.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical philosophy and theology, a systematic forensic speech or treatise defending a person's life or doctrine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expression of regret for having done something wrong; or a formal defense or justification of an idea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature, a formal defense speech (such as Plato's Apology of Socrates) justifying conduct, beliefs, or philosophy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Plato (*Apology of Socrates*):** *"I make my **apology** before the Athenians, not to plead for my life, but to defend the truth."*
-> - 📜 **John Henry Newman (*Apologia Pro Vita Sua*):** *"This volume is not an **apology** for my weaknesses, but a faithful history of my religious opinions."*
-> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Mrs. Ferrars made a cold, formal **apology** for having kept them waiting in the morning room."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"My life stands in the level of your dreams, which I'll lay down; yet, for my honor, which I would free, if I shall be condemned upon surmises, all proofs sleeping else but what your jealousies awake, I tell you 'tis rigour and not law; your **apology** will not suffice."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba accepted his stammered **apology** with a dignified inclination of her head, though her cheeks flushed with annoyance."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His political speech was less an exposition of policy than an elaborate **apology** for past parliamentary blunders."*

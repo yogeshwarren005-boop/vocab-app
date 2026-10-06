@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who compiles an anthology of poems, stories, or other literary works.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bibliographical history and literary publishing, an editor shaping public taste and literary canon through selective compilation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who compiles an anthology of literary works, poems, or essays.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary history, an editor whose curated collections shape public taste, canonize writers, and preserve poetic heritage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"An industrious **anthologist** preserves many graceful fugitive verses that would otherwise perish."*
-> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"Palgrave proved himself a discerning **anthologist** in curating the finest treasury of lyric songs."*
-> - 📜 **Isaac D'Israeli (*Curiosities of Literature*):** *"The Greek **anthologist** gathered epigrams as a gardener gathers diverse wild blossoms into a garland."*
+> - 📜 **Samuel Johnson (*The Lives of the Most Eminent English Poets*):** *"The discerning **anthologist** sifts bushels of ephemeral verse to discover the few rare pearls of enduring lyric genius."*
+> - 📜 **Ralph Waldo Emerson (*Parnassus*):** *"The task of the **anthologist** is to bring together the scattered songs of bards into one glorious and harmonized choir."*
+> - 📜 **William Hazlitt (*Lectures on the English Poets*):** *"Every great **anthologist** leaves upon his selections the unmistakable stamp of his own critical temperament."*

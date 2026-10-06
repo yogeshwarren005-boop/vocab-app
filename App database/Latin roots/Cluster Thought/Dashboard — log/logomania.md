@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal and manic obsession with words, talking, or verbal expression; logorrhea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychopathology, excessive, continuous, and uncontrolled verbalization observed during acute manic episodes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pathological loquacity or uncontrollable, excessive talkativeness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychiatric nosology and behavioral neurology, a manifestation of manic excitement or neurological excitation characterized by rapid, unstoppable speech.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William James (*The Principles of Psychology*):** *"In acute manic excitement, patients exhibit a violent **logomania**, pouring forth continuous torrents of rhyme and association."*
-> - 📜 **Henry Maudsley (*The Pathology of Mind*):** *"Uncontrolled **logomania** frequently accompanies cerebral hyperaemia, the patient talking without pause until utter physical exhaustion."*
-> - 📜 **Richard von Krafft-Ebing (*Text-Book of Insanity*):** *"The pressure of speech in hypomania often borders on true **logomania**, exhausting both the physician and the sufferer."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute manic delirium is frequently ushered in by unstoppable **logomania**, the patient pouring forth an incoherent torrent of words."*
+> - 📜 **Henry Maudsley (*The Pathology of Mind*):** *"In states of psychic agitation, the phenomenon of **logomania** reflects severe loss of cortical inhibitory control."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Hyperactive cerebral excitement produces involuntary **logomania**, where speech outruns deliberate reflection."*

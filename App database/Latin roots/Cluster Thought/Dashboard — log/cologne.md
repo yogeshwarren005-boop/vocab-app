@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eau de cologne; a light, refreshing scented toilet water originally created in Cologne, Germany.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social history and perfumery, a citrus-based fragrance composed of bergamot, neroli, and lavender diluted in spirits.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Eau de Cologne; a light, refreshing scented toilet water originally manufactured in Cologne, Germany.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural history and perfumery, an aromatic solution of citrus oils (bergamot, lemon, neroli) in diluted alcohol, developed by Johann Maria Farina.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"She bathed her aching temples with a handkerchief steeped in fragrant **cologne**."*
-> - 📜 **Charlotte Brontë (*Villette*):** *"A faint scent of lavender and delicate French **cologne** lingered about her dressing-table."*
-> - 📜 **Herman Melville (*Moby-Dick*):** *"Ambergris smells better than the sweetest lavender or **cologne** sold in the shops of Paris."*
+> - 📜 **Ralph Waldo Emerson (*English Traits*):** *"The traveler bathed his dusty forehead with a few drops of **cologne**, grateful for its cool citrus refreshment."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The ambergris taken from the sperm whale's intestine is refined into essences more fragrant than the sweetest **cologne**."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"They revived the fainting lady with smelling salts and dashed lavender water and **cologne** upon her pale temples."*

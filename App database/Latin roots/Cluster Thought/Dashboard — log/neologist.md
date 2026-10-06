@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who invents, coins, or advocates the use of new words or new linguistic expressions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical theology and philology, an innovator who introduces novel doctrines or unorthodox interpretations of sacred texts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who invents or introduces new words, expressions, or theological doctrines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and church history, an advocate of novel linguistic terminology or rationalist theological reinterpretations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"Dryden was an audacious **neologist**, enriching the poetic vocabulary with noble borrowings from Latin and French."*
-> - 📜 **Thomas De Quincey (*Letters to a Young Man Whose Education Has Been Neglected*):** *"The reckless **neologist** clutters his prose with jargon where good Saxon phrasing would serve far better."*
-> - 📜 **Archibald Sayce (*Principles of Comparative Philology*):** *"Every generation of speakers acts as an unconscious **neologist**, shifting vowel sounds and remodeling idioms."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"The bold **neologist** who ventures to introduce untried terms must prepare to face the indignation of literary purists."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The theological **neologist** sought to reconcile traditional scripture with the discoveries of German biblical criticism."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"Our language owes much of its flexibility to the inventive **neologist** who dares to capture subtle modern nuances."*

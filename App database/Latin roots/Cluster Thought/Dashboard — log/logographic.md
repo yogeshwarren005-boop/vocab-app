@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to a writing system or printing technique that employs signs representing complete words.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology of reading, describing the developmental stage where readers recognize whole words by visual shape.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or based upon logograms; using written signs that represent words.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In writing systems analysis, pertaining to orthographies where the primary grapheme maps directly to a morpheme or word unit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Leonard Bloomfield (*Language*):** *"The **logographic** nature of Chinese orthography preserves mutual intelligibility across mutually unintelligible regional dialects."*
-> - 📜 **John Walter (*The Art of Printing*):** *"Our **logographic** press arrangements have demonstrated that entire words can be composed as expeditiously as single letters."*
-> - 📜 **Edward Sapir (*Selected Writings in Language, Culture and Personality*):** *"Readers navigating a **logographic** script rely heavily on spatial memory and visual configuration."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"A purely **logographic** system of writing demands an immense tax upon memory compared to an alphabetic system."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"Hieroglyphic and cuneiform traditions retained strong **logographic** elements even after phonetic signs became prevalent."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The **logographic** origins of Mediterranean scripts reveal how concrete pictures gradually simplified into abstract phonetic symbols."*

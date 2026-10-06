@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To compile, collect, or include literary works in an anthology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In educational canon formation, including an author's essays or poems in standard cultural anthologies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To collect or publish literary works in an anthology; to include in an anthology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and publishing, selecting representative poems or excerpts that exemplify an author's stylistic contribution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Ralph Waldo Emerson (*Parnassus*):** *"I have sought to **anthologize** those noble verses that awaken the sleeping soul to higher aspiration."*
-> - 📜 **Henry James (*Partial Portraits*):** *"It is a dangerous honor to **anthologize** short stories, for isolation reveals every flaw in design."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Critics love to **anthologize** our youthful errors while forgetting our mature achievements."*
+> - 📜 **Ralph Waldo Emerson (*Parnassus*):** *"I have sought to **anthologize** those noble passages which have cheered my own solitary hours of meditation."*
+> - 📜 **Henry James (*Partial Portraits*):** *"Editors often **anthologize** his early sketches while neglecting the profound psychological complexities of his mature novels."*
+> - 📜 **Edgar Allan Poe (*The Poetic Principle*):** *"To **anthologize** short lyric masterpieces is to construct a portable gallery of ideal beauty for all mankind."*

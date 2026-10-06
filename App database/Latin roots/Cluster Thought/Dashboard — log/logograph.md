@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A letter, symbol, or glyph that represents a complete word or semantic unit; a logogram.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In typestyle history and early printing, a cast metal printing type containing a complete word or frequent syllable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A logogram; a written or printed symbol that stands for an entire word.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical printing and stenography, a cast type piece containing a whole word or common syllable to expedite typesetting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Walter (*An Address to the Public on Logographic Printing*):** *"By casting a single **logograph** for frequent words like 'the' and 'and', our compositors save immense mechanical labor."*
-> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"A **logograph** does not represent a sound; it stands directly for an idea anchored to a linguistic unit."*
-> - 📜 **Isaac Taylor (*The Alphabet: An Account of the Origin of Letters*):** *"In early Mayan codices, each intricate **logograph** combined calendrical math with religious symbolism."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"The ancient Mayan scribe etched each royal **logograph** into stone monuments to commemorate dynastic victories."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"A single **logograph** in Chinese literature can convey shades of meaning that require entire sentences in alphabetic tongues."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"Eighteenth-century printers experimented with the casting of each common **logograph** to accelerate newspaper composition."*

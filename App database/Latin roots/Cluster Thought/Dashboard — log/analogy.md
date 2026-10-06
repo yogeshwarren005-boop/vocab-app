@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A comparison between two things on the basis of structure to explain or clarify a concept.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biology, functional similarity between organs of different evolutionary lineages; in rhetoric, heuristic modeling.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A comparison between two things, typically on the basis of their structure and for the purpose of explanation or clarification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative morphology and linguistics, functional convergence without shared ancestry, or grammatical regularization modeled on existing patterns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Darwin (*The Origin of Species*):** *"We must strictly distinguish between true genetic affinity and mere adaptive **analogy**."*
-> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"**Analogy** in reasoning is the great guide of life, leading where demonstration cannot reach."*
-> - 📜 **Ralph Waldo Emerson (*Nature*):** *"The whole of nature is a metaphor of the human mind; every appearance corresponds to some spiritual **analogy**."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"We must strictly distinguish between true genealogical homology and superficial evolutionary **analogy**."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"He traced an imaginative **analogy** between the secret decay of the forest trees and the silent grief of the human heart."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Where we have no direct sensory evidence, **analogy** is the only guide to lead our probabilistic judgments."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who reasons, writes, or explains by means of analogies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological debate and natural philosophy, a thinker who deduces divine attributes or natural laws from structural correspondences.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who reasons, compares, or explains by drawing analogies and structural parallels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of science and philosophical theology, an investigator who reconstructs historical continuity or theological truths via analogical models.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Joseph Butler (*The Analogy of Religion*):** *"The Christian **analogist** shows that the difficulties in revealed religion are matched by corresponding difficulties in the constitution of nature."*
-> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"Cowley was an ingenious **analogist**, delighted by quaint conceits and remote comparisons."*
-> - 📜 **William Hazlitt (*Table-Talk*):** *"Bacon was a profound **analogist**, perceiving subtle links between moral virtues and physical laws."*
+> - 📜 **Joseph Butler (*The Analogy of Religion*):** *"The Christian **analogist** demonstrates that the difficulties found in divine revelation parallel the mysteries observed in natural law."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The paleontological **analogist** identifies extinct fossil structures by comparing them with homologous bones in living vertebrates."*
+> - 📜 **Ralph Waldo Emerson (*Nature*):** *"Every true poet is an **analogist**, perceiving secret spiritual correspondences connecting the external world with the human mind."*

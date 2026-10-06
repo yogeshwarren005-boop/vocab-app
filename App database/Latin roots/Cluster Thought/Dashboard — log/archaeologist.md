@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who studies human history and prehistory through the excavation of sites and analysis of artifacts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In field science, a specialist interpreting material cultures, stratigraphy, and ancient epigraphy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist or scholar who studies human history and prehistory through the excavation and analysis of artifacts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In field science, an investigator applying stratigraphic techniques, carbon dating, and material analysis to reconstruct past cultures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Heinrich Schliemann (*Ilios: The City and Country of the Trojans*):** *"Every devoted **archaeologist** dreams of uncovering the legendary walls sung by ancient bards."*
-> - 📜 **Arthur Evans (*The Palace of Minos*):** *"The skilled **archaeologist** must read the silent evidence of shattered pottery and charred masonry."*
-> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The local **archaeologist** traced the earthen ramparts of the Roman amphitheater with reverent care."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The amateur **archaeologist** had spent his life excavating the ancient British barrows scattered across the lonely downs."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"The scientific **archaeologist** must collaborate closely with the geologist to date the gravel strata containing prehistoric flints."*
+> - 📜 **Edward Tylor (*Primitive Culture*):** *"The **archaeologist** reconstructs the domestic life of extinct tribes from discarded potsherds and hearth stones."*

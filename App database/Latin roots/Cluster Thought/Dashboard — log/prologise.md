@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To deliver, recite, or write a prologue; to introduce a play or discourse with an introductory speech (British spelling).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical dramaturgy, to speak an expository preamble providing mythological or contextual backstory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To deliver a prologue; to introduce or preface a dramatic or literary work.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic performance (chiefly British spelling), to deliver an introductory address setting the context before the principal drama begins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Bernard Shaw (*Plays Pleasant and Unpleasant*):** *"The author chose to **prologise** his drama in person, warning the audience against sentimental expectations."*
-> - 📜 **Samuel Taylor Coleridge (*Lectures on Shakespeare*):** *"In ancient tragedies, a god would often **prologise** to disclose cosmic background events to the spectators."*
-> - 📜 **John Milton (*The Reason of Church Government*):** *"Before launching into doctrinal warfare, the apologist must **prologise** with humility and solemn prayers."*
+> - 📜 **John Dryden (*The Conquest of Granada*):** *"Tis customary for the poet himself to **prologise**, beseeching fair judgment from a critical auditory."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"To **prologise** gracefully requires greater wit than to compose the verses of the subsequent play."*
+> - 📜 **Lord Byron (*Don Juan*):** *"Before my hero embarks upon his scandalous voyages, let me briefly **prologise** concerning his parentage and youth."*

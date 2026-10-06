@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One addicted to disputation about words; an alternative form for a verbal disputant or logomach.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dialectical literature, a pedant obsessed with semantic trivialities and linguistic technicalities in debate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A practitioner of logomachy; a person addicted to verbal controversy or disputation over words.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dialectical philosophy, an opponent who exploits verbal ambiguities to confuse and distract from substantive issues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Hazlitt (*Table Talk*):** *"The inveterate **logomachist** cannot enjoy a conversation without arresting the narrative to dissect every casual metaphor."*
-> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Many a dry-as-dust **logomachist** has spent a lifetime constructing systems of sawdust while the universe rolled by."*
-> - 📜 **John Stuart Mill (*Dissertations and Discussions*):** *"The scholastic **logomachist** imagined that by refining terms he was unveiling the deepest arcana of nature."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The scholastic **logomachist** substituted intricate verbal labyrinths for genuine psychological observation."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"How many an idle **logomachist** wastes his brief span on earth spinning barren webs of semantic controversy!"*
+> - 📜 **William James (*The Will to Believe*):** *"The pragmatic philosopher quickly tires of the dogmatic **logomachist** who treats mere verbal formulas as sacred reality."*

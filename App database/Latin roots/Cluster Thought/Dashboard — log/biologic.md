@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to biology, the science of life and living organisms; biological.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In natural philosophy and medical theory, pertaining to vital organic processes and evolutionary mechanisms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to biology, living organisms, or vital physiological processes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In life sciences, relating to organic matter, evolutionary adaptation, or the cellular mechanisms of living entities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"The fundamental **biologic** law demands continuous adjustment of internal relations to external relations."*
-> - 📜 **Ernst Haeckel (*The Evolution of Man*):** *"Our **biologic** researches demonstrate the morphological unity uniting all multicellular animals."*
-> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Every **biologic** inquiry must begin with the careful description of cellular morphology."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The fundamental law of **biologic** evolution is the progressive integration of matter accompanied by the dissipation of motion."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"Every **biologic** inquiry must begin with the meticulous empirical description of living structures."*
+> - 📜 **Louis Agassiz (*Methods of Study in Natural History*):** *"The classification of organisms must rest upon verified **biologic** affinities rather than superficial external resemblances."*

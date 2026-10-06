@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner related to ideology or a system of political or economic ideas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociological analysis, motivated by rigid philosophical or partisan doctrines rather than pragmatic empirical facts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner relating to or determined by a particular ideology or system of political beliefs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political discourse and social analysis, evaluating events, policies, or art according to ideological dogmas rather than pragmatic facts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bertrand Russell (*The Practice and Theory of Bolshevism*):** *"The government was **ideologically** committed to principles that collided with economic reality."*
-> - 📜 **George Orwell (*Homage to Catalonia*):** *"The rival factions were **ideologically** divided, yet fighting side by side in the common trenches."*
-> - 📜 **John Dewey (*Individualism Old and New*):** *"Society remains **ideologically** anchored in eighteenth-century individualism while living in a corporate age."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"A nation divided **ideologically** into hostile camps cannot sustain the compromise necessary for parliamentary rule."*
+> - 📜 **Harold Laski (*A Grammar of Politics*):** *"The judiciary must not allow itself to be influenced **ideologically** by the class interests of the propertied minority."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"The reformer spoke **ideologically**, denouncing capitalist enterprise while accepting its charitable subsidies."*

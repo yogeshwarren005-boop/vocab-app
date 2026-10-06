@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing or showing regretful acknowledgment of an offense or failure; remorseful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theology and intellectual history, containing a formal defense or vindication of an ideological position.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing or showing regret for an error or offense; or offering a reasoned defense of an idea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological philosophy, relating to apologetics, the intellectual branch dedicated to the rational defense of Christian doctrines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He coughed in an **apologetic** manner, as if begging pardon of the company for presuming to exist."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Collins began an **apologetic** speech, expressing dismay at having unwittingly intruded upon the ladies."*
-> - 📜 **Thomas Henry Huxley (*Science and Christian Tradition*):** *"The **apologetic** literature of the early church was designed to refute pagan calumnies."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak offered an **apologetic** smile, acknowledging that his rustic advice had been somewhat unceremoniously delivered."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Brooke adopted an **apologetic** cough whenever his political inconsistencies were pointed out by conservative neighbors."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"A man should not walk about the world with an **apologetic** air, but stand erect and speak his own truth with conviction."*

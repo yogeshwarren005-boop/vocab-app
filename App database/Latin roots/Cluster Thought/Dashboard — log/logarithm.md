@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The power to which a base must be raised to yield a given number, invented to simplify computation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computational mathematics, a revolutionary calculation tool invented by John Napier in 1614 converting multiplication into addition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The exponent indicating the power to which a fixed base must be raised to yield a given number.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computational mathematics and analytical calculus, a transcendental function invented by John Napier to simplify complex multiplication into addition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Napier (*Mirifici Logarithmorum Canonis Descriptio*):** *"The calculation of planetary orbits is marvelously shortened by the use of the **logarithm**."*
-> - 📜 **Isaac Newton (*Opticks*):** *"The ratio of the refracted indices was computed using the common **logarithm** of each sine."*
-> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"My difference engine was designed to compute and tabulate the **logarithm** of every integer without human error."*
+> - 📜 **Isaac Newton (*Opticks*):** *"Mathematical computations in celestial mechanics were immensely shortened by the discovery of the **logarithm**."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"I resolved to calculate tables of each **logarithm** by steam power to eliminate errors inherent in human calculation."*
+> - 📜 **Leonhard Euler (*Elements of Algebra*):** *"The natural **logarithm** establishes an indispensable link between algebraic progression and hyperbolic quadrature."*

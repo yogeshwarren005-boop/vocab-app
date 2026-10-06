@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an analogous or corresponding manner; comparatively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific deduction and legal argument, proceeding by parallel inference from established models to new phenomena.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an analogous or comparable manner; by way of analogy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative analysis and deductive reasoning, extending principles validated in one domain to parallel circumstances in another.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herbert Spencer (*First Principles*):** *"Social institutions evolve **analogously** to biological organs, differentiating from simple to complex structures."*
-> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Wild species vary **analogously** to domesticated breeds when subjected to changed environments."*
-> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"Electric currents behave **analogously** to fluids flowing through pipes under hydrostatic pressure."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Sexual selection operates **analogously** across diverse animal classes, favoring weapons in males and aesthetic adornments."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Social institutions evolve **analogously** to biological organs, progressing from indefinite homogeneity to coherent heterogeneity."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The heart functions **analogously** to a mechanical force-pump, driving fluid through elastic conduits by rhythmic muscular stroke."*

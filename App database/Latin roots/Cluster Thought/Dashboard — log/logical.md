@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: According to the rules of logic or formal reasoning; reasonable, sound, and valid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical argumentation, a proposition that follows necessarily from established true premises.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In accordance with reason, valid principles of inference, or demonstrable sound judgment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemological methodology and formal systems, conforming strictly to the laws of deductive validity or algorithmic correctness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Eliminate all other factors, and the one which remains must be the truth; such is the **logical** method."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He followed the argument to its stern and **logical** conclusion with inexorable legal precision."*
-> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor's **logical** mind rejected every romantic illusion that contradicted common sense."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Within the remote depths of his constitution, so gentle and affectionate as he was in general, there lay hidden a hard **logical** structure."*
+> - 📜 **George Eliot (*Middlemarch*):** *"It was the only **logical** outcome possible under the tragic circumstances that bound their fates together."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Actual life was chaos, but there was something terribly **logical** in the imagination."*

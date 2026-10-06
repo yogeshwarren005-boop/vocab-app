@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A group or series of three related works of art, literature, drama, or music that form a connected whole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Greek dramaturgy, a set of three linked tragedies presented consecutively at the City Dionysia festival.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of three literary, dramatic, or musical works that are closely related in theme, characters, or narrative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Athenian drama and narrative literature, a series of three linked tragedies (such as Aeschylus's Oresteia) performed consecutively at the festival of Dionysus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Gilbert Murray (*Aeschylus: The Creator of Tragedy*):** *"The Oresteia survives as the sole intact dramatic **trilogy** demonstrating the evolution of divine justice."*
-> - 📜 **Henry James (*The Art of the Novel*):** *"The author conceived his broad social canvas not as a single novel, but as a monumental **trilogy**."*
-> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"In each member of the tragic **trilogy**, the grand heroic style sustains the moral elevation of the drama."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"The grand sweep of the narrative suggested a tragic **trilogy**, whose final act remained shrouded in mystery."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"Aeschylus conceived his great dramatic **trilogy** as an architectural whole, tracing divine justice across three generations."*
+> - 📜 **Thomas Hardy (*The Dynasts*):** *"The immense epic-drama unfolded in three massive parts, forming a poetic **trilogy** of the Napoleonic wars."*

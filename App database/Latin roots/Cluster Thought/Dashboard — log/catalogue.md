@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A complete list of items typically in alphabetical or systematic order; a directory or register.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical epic and bibliographical literature, an extended formal enumeration (such as Homer's catalogue of ships in the Iliad).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A complete list of items, such as books or museum artifacts, arranged systematically (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature, an extensive formal enumeration of ships, warriors, or lineages within an epic poem.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*Macbeth*):** *"Ay, in the **catalogue** ye go for men, as hounds and greyhounds, mongrels, spaniels, curs are clept all by the name of dogs."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"She looked through the circulating library's **catalogue** with eager anticipation of gothic romance."*
-> - 📜 **Charles Dickens (*David Copperfield*):** *"He presented a dreary **catalogue** of all his domestic grievances and financial misfortunes."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Ay, in the **catalogue** ye go for men, as hounds and greyhounds, mongrels, spaniels, curs, shoughs, water-rugs, and demi-wolves are clept all by the name of dogs."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"A mere **catalogue** of species inhabiting an archipelago gives no insight into the history of their ancestral colonization."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon had spent decades compiling a monumental **catalogue** of mythological parallels that remained unfinished at his death."*

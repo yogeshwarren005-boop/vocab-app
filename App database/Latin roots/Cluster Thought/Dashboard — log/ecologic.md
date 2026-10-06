@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the relationship between living organisms and their environment; ecological.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In natural history and biophysics, pertaining to the balance of energy, nutrient cycling, and species interdependence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to ecology, environmental relationships, or the balance of natural ecosystems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological science, describing the functional adaptations of organisms to their abiotic environment and biotic communities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Ernst Haeckel (*The Wonders of Life*):** *"The grand **ecologic** web of nature links the microscopic diatom to the largest marine mammals."*
-> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Every island presents a distinct **ecologic** equilibrium adapted to its peculiar climate and isolation."*
-> - 📜 **John Muir (*The Mountains of California*):** *"The alpine meadows exhibit a fragile **ecologic** harmony that human disturbance quickly shatters."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The intricate web of **ecologic** relations binding cats, mice, bees, and red clover demonstrates the complexity of nature's balance."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"Every species occupies a specific **ecologic** niche determined by temperature, food supply, and competitors."*
+> - 📜 **John Muir (*My First Summer in the Sierra*):** *"When we try to pick out anything by itself, we find it hitched to everything else in the magnificent **ecologic** universe."*

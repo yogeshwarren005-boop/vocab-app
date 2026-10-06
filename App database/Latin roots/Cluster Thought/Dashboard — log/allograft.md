@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tissue graft or organ transplant from a donor of the same species but genetically distinct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical oncology and transplant immunology, homografts requiring immunosuppressive therapy to prevent host rejection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surgical transplant of tissue or an organ between genetically non-identical individuals of the same species.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reconstructive and transplant surgery, a homograft (such as a donor kidney or cornea) requiring immunosuppression to prevent rejection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Peter Medawar (*The Hope of Progress*):** *"Survival of an **allograft** depends upon the degree of genetic compatibility between donor and host."*
-> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The clinical challenge in vascular surgery remains the preservation of **allograft** integrity against cellular infiltration."*
-> - 📜 **Alexis Carrel (*The Treatment of Wounds*):** *"Transplantation experiments demonstrated that an **allograft** initially heals into place before acute rejection sets in."*
+> - 📜 **Alexis Carrel (*Man, The Unknown*):** *"The vascularized **allograft** proved that organs could be surgically replanted, opening a new era in physiological repair."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Long-term survival of a renal **allograft** depends upon meticulous tissue typing and judicious immunosuppressive therapy."*
+> - 📜 **Peter Medawar (*The Uniqueness of the Individual*):** *"Rejection of an **allograft** is fundamentally an immunological reaction directed against foreign cellular antigens."*

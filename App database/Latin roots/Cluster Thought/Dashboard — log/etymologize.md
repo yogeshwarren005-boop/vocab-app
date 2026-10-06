@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To trace the etymology or historical development of a word or linguistic form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic pedagogy and lexicography, analyzing the morphological components of words to illuminate their original significance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To trace the origin and development of a word; to explain the derivation of a linguistic term.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In lexicographical analysis, applying comparative phonetics and historical morphology to deduce a word's ancestral form.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Ralph Waldo Emerson (*Essays: Second Series*):** *"The poet knows how to **etymologize** nature itself, discovering spirit hidden within physical forms."*
-> - 📜 **Henry David Thoreau (*Walden*):** *"I love to **etymologize** the names of our native ponds and hills, finding poetry in ancient Saxon roots."*
-> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"If we **etymologize** legal terms, we discover that ancient criminal remedies grew out of private vengeance."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"If we **etymologize** the word daughter through its Indo-European cognates, we arrive at an ancient root signifying milkmaid."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Plato loved to **etymologize** Greek names in the Cratylus, mingling playful fancies with profound metaphysical insights."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Scholars who **etymologize** modern colloquialisms often mistake accidental puns for genuine historical derivations."*

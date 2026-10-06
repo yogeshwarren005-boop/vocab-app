@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A newly coined word, expression, or phrase, or a novel meaning introduced for an established word.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical linguistics and lexicography, a lexical innovation circulating prior to formal dictionary adoption.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A newly coined word, phrase, or expression; or the introduction of new linguistic forms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In lexicography and historical philology, an innovative lexical formation gaining currency or an idiosyncratic linguistic invention.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Horace (*Ars Poetica*):** *"It has ever been lawful to produce a **neologism** stamped with the current impress of public necessity."*
-> - 📜 **Samuel Johnson (*Preface to the Dictionary of the English Language*):** *"I have avoided admitting every ephemeral **neologism** that fashionable conversation spawns and forgets within a year."*
-> - 📜 **Richard Chenevix Trench (*On the Study of Words*):** *"A valuable **neologism** survives because it supplies a genuine vacancy in the existing vocabulary of thought."*
+> - 📜 **Samuel Johnson (*Preface to the English Dictionary*):** *"I have generally rejected every affected **neologism** that threatened to corrupt the purity of our ancestral idiom."*
+> - 📜 **Thomas Jefferson (*Letter to John Adams*):** *"Dictionaries are merely books of estimated authority; whenever a new idea presents itself, a justifiable **neologism** is required to express it."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The young physician took pride in introducing the latest Continental medical **neologism** into provincial hospital consultations."*

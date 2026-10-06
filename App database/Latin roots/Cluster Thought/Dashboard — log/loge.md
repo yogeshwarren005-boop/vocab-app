@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A private box or the front section of the first balcony in a theater or opera house.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In French dramatic culture and social history, an enclosed theater booth where patrons observed performances in seclusion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A private box, compartment, or front row of the balcony in a theater or auditorium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theatrical architecture and cultural history, an enclosed seating area designed to provide elite patrons with privacy and prestige.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Villette*):** *"From our private **loge** in the theater, we had an unimpeded view of the glittering royal audience."*
-> - 📜 **Henry James (*The American*):** *"Newman sat back in the velvet-lined **loge**, surveying the fashionable Parisian assembly through his opera glass."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky Sharp smiled triumphantly from her aristocratic **loge** across the crowded opera house."*
+> - 📜 **Honoré de Balzac (*Lost Illusions*):** *"From her private **loge** at the Opera, the marquise surveyed the fashionable assembly through her mother-of-pearl lorgnette."*
+> - 📜 **Henry James (*The American*):** *"Newman sat back in his cushioned **loge**, enjoying the brilliance of the performance and the glittering audience below."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"In the discreet shadows of the Mingott family **loge**, conservative New York society observed every entrance."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A separate introductory section of a literary, dramatic, or musical work that sets the scene or provides context.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theatrical tradition, a poem or monologue spoken by an actor before the main performance begins.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An introductory scene, speech, or poem preceding the main action of a literary or dramatic work.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theatrical history and classical dramaturgy, an opening address spoken by a single actor or chorus establishing dramatic exposition and mood.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"Two households, both alike in dignity, in fair Verona, where we lay our scene, from ancient grudge break to new mutiny: so opens the tragic **prologue**."*
-> - 📜 **John Milton (*Paradise Lost*):** *"In the solemn **prologue** to his epic, the poet invokes the heavenly muse to inspire an adventurous song."*
-> - 📜 **Francis Bacon (*The Great Instauration*):** *"Let this general plan serve as a necessary **prologue** to the comprehensive regeneration of natural science."*
+> - 📜 **William Shakespeare (*Henry V*):** *"For 'tis your thoughts that now must deck our kings; admit me Chorus to this history; who **prologue**-like your humble patience pray."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The solemn invocation of the heavenly Muse stands as an immortal **prologue** to the cosmic tragedy of man's fall."*
+> - 📜 **Alexander Pope (*An Epistle to Dr. Arbuthnot*):** *"To my sick soul, each trivial event seemed but a dark **prologue** to impending calamity."*

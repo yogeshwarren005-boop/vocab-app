@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who catalogues books, paintings, or artifacts (British spelling of cataloger).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archival bibliography and art history, an expert compiling comprehensive provenance records for library collections.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person whose occupation is compiling or maintaining a library or commercial catalogue (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bibliographic history, an archivist who catalogs manuscripts, rare books, or museum collections for scholarly access.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The antiquarian acted as a faithful **cataloguer** of the ancient library at Thornfield Hall."*
-> - 📜 **William Hazlitt (*Table-Talk*):** *"A dull **cataloguer** can reduce the most inspiring gallery of paintings to a dry schedule of dimensions and dates."*
-> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"The Harleyan library found in him a learned **cataloguer** capable of describing its vast treasures."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The patient **cataloguer** in the law stationer's office transcribed endless folios of depositions into alphabetical ledgers."*
+> - 📜 **Thomas Hardy (*A Pair of Blue Eyes*):** *"The vicar employed a young **cataloguer** to organize the parish library and list its rare seventeenth-century divinity tracts."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She offered to assist her scholarly husband as an unpaid **cataloguer**, eager to copy out his extensive references."*

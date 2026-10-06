@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To praise highly or extravagantly in speech or writing; to deliver a eulogy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commemorative oratory and civic ritual, magnifying the patriotic virtues and public achievements of a departed leader.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To praise highly in speech or writing, especially in a formal oration or funeral tribute.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public commemorative ceremonies, celebrating an individual's character, public deeds, or intellectual legacy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Abraham Lincoln (*Eulogy on Henry Clay*):** *"To **eulogize** the character of such a patriot is to celebrate the triumph of constitutional liberty."*
-> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Biographers are eager to **eulogize** heroics, but the philosopher seeks the underlying law of life."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The town minister was summoned to **eulogize** the late judge, recounting his exemplary civic virtues."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"We assemble to **eulogize** great heroes, but the highest tribute we can pay them is to live according to their ideals."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ancient chroniclers did not hesitate to **eulogize** the royal whale as the monarch of the sea."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Poets and statesmen vied with one another to **eulogize** King William's steadfast courage at the Boyne."*

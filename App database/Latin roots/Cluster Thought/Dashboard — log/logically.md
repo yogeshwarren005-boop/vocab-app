@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a way that is in accordance with the rules of logic or formal reasoning; rationally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In deductive philosophy, following necessarily from valid premises through sound inference.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In accordance with valid logic, sound reasoning, or necessary inference.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal deduction, proceeding step-by-step from validated premises to an unavoidable conclusion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Darwin (*The Origin of Species*):** *"If we admit the variability of species, we must **logically** accept that all organisms descend from common ancestors."*
-> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"To argue **logically**, the mind must connect its intermediate ideas without introducing unexamined assumptions."*
-> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"A hypothesis that cannot be **logically** deduced from observed phenomena remains a mere flight of fancy."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Geographical distribution has often been used, though perhaps not quite **logically**, in classification, more especially in very large groups of closely allied forms."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Not at all: the result of the struggle is the same thing—picture or no picture—**logically**."*
+> - 📜 **Bram Stoker (*Dracula*):** *"I thought I would push his analogy to its utmost **logically**, so I said quickly: 'What of the souls of men?'"*

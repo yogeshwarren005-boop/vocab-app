@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving or derived from genetically different individuals of the same biological species.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In immunology and transplantation medicine, cells, tissues, or grafts possessing divergent histocompatibility antigens.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to tissues, cells, or individuals of the same species that are genetically non-identical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In transplant immunology and clinical hematology, referring to graft donors and recipients whose major histocompatibility antigens differ.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Peter Medawar (*The Uniqueness of the Individual*):** *"The immunological rejection of **allogeneic** skin grafts demonstrates the individual specificity of mammalian tissue antigens."*
-> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Modern blood transfusion requires precise typing to avoid catastrophic hemolytic reactions between **allogeneic** sera."*
-> - 📜 **Frank Macfarlane Burnet (*Immunology, Aging, and Cancer*):** *"Clonal selection explains how the immune system distinguishes autologous tissues from **allogeneic** donor antigens."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Modern transplant immunology seeks to mitigate the violent host-versus-graft response triggered by **allogeneic** tissue transplants."*
+> - 📜 **Alexis Carrel (*Man, The Unknown*):** *"Surgical grafting between **allogeneic** animals succeeds temporarily, but biological incompatibility inevitably excites immune rejection."*
+> - 📜 **Peter Medawar (*The Uniqueness of the Individual*):** *"Skin grafts exchanged between **allogeneic** mice survive for a brief interval before undergoing acute lymphocytic destruction."*

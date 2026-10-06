@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To trace the origin and development of a word; to study etymology (British spelling of etymologize).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical scholarship and philology, reconstructing ancient root forms and historical shifts in pronunciation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To trace or expound the origin and historical development of words (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical lexicography, analyzing the morphological components, cognates, and historical attestations of lexical items.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"To **etymologise** accurately requires not mere fanciful resemblance of sound, but strict historical grammar."*
-> - 📜 **Richard Chenevix Trench (*English Past and Present*):** *"When we **etymologise** common Saxon idioms, we uncover the domestic life of our ancestors."*
-> - 📜 **Max Müller (*Chips from a German Workshop*):** *"Scholars who **etymologise** without phonetic laws are like navigators sailing without a compass."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"When we **etymologise** classical vocabulary, we discover that abstract philosophical terms originally described concrete physical acts."*
+> - 📜 **Samuel Johnson (*Preface to the English Dictionary*):** *"I did not presume to **etymologise** every vernacular idiom where historical documentation was wanting."*
+> - 📜 **Henry Sweet (*The History of Language*):** *"To **etymologise** accurately, the scholar must master the strict phonetic laws governing sound changes between dialects."*

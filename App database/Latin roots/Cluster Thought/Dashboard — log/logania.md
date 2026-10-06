@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of shrubs and herbs in the family Loganiaceae, native to Australasia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, the type genus of Loganiaceae comprising opposite-leaved plants bearing small white or yellow flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of Australian herbs and shrubs in the family Loganiaceae with small white or yellow flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, the type genus of Loganiaceae named in honor of botanist James Logan, featuring opposite leaves and interpetiolar stipules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Brown (*Prodromus Florae Novae Hollandiae*):** *"The genus **Logania** was established to commemorate the botanical services of James Logan of Pennsylvania."*
-> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Species of **Logania** inhabit the sandy scrublands and coastal heaths of the Australian continent."*
-> - 📜 **George Bentham (*Genera Plantarum*):** *"The opposite leaves and interpetiolar stipules characterize the shrubs of the genus **Logania**."*
+> - 📜 **Robert Brown (*Prodromus Florae Novae Hollandiae*):** *"The genus **logania** comprises small shrubby species endemic to southern Australia, distinguished by opposite entire leaves."*
+> - 📜 **Joseph Dalton Hooker (*The Botany of the Antarctic Voyage*):** *"Several species of **logania** thrive on dry scrubland slopes, bearing compact cymes of fragrant white flowers."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"In his classification, Brown established **logania** as the titular representative of a widely dispersed family of flowering plants."*

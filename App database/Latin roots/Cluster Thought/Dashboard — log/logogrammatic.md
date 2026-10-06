@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or written with logograms; ideographic in character representation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative writing systems, employing symbols where each sign directly signifies a word or concept.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or relating to logograms; using symbols that represent whole words.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic typology and paleography, characterizing writing systems structured upon word-signs rather than alphabetic letters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Archibald Sayce (*The Archaeology of the Cuneiform Inscriptions*):** *"The earliest Mesopotamian tablets display a purely **logogrammatic** structure before phonetization took place."*
-> - 📜 **Isaac Taylor (*The History of the Alphabet*):** *"Every ancient script began with crude **logogrammatic** designs before developing cursive alphabetic characters."*
-> - 📜 **Leonard Bloomfield (*Language*):** *"A purely **logogrammatic** script requires thousands of distinct symbols to represent the lexical inventory of a living tongue."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"Chinese orthography represents the most prominent living example of a predominantly **logogrammatic** script."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The transition from **logogrammatic** glyphs to syllabic characters represents a decisive epoch in human cultural history."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"Ancient scribal scripts employed **logogrammatic** conventions alongside phonetic complements to resolve ambiguities."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist who studies living organisms, their structure, function, growth, origin, evolution, and distribution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In history of science, a naturalist working across genetics, ecology, physiology, and evolutionary taxonomy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist or specialist who studies living organisms, their vital functions, and their evolution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the natural sciences, an investigator examining genetics, ecology, physiology, or cell biology in laboratory and field settings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The modern **biologist** seeks to understand how living protoplasm organizes itself into complex tissues."*
-> - 📜 **Charles Darwin (*More Letters of Charles Darwin*):** *"Every observant **biologist** will encounter puzzles of geographic distribution that test the theory of descent."*
-> - 📜 **Ernst Haeckel (*The Wonders of Life*):** *"To the philosophic **biologist**, nature presents an interconnected web of living monads."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The modern **biologist** seeks to understand how living matter transforms energy according to verified physicochemical laws."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Every thoughtful **biologist** must acknowledge the profound difficulties in explaining the origin of complex instinctual behaviors."*
+> - 📜 **Louis Agassiz (*Methods of Study in Natural History*):** *"The true **biologist** approaches the living creation with reverent humility, observing nature's infinite diversity with patient devotion."*

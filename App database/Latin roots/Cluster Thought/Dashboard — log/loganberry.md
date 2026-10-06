@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cultivated hybrid berry between the blackberry and raspberry, bearing dark red edible fruit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticulture and pomology, Rubus × loganobaccus, created in California in 1881 by Judge James Harvey Logan.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A trailing bramble shrub or its edible dark-red, tart-sweet fruit, a hybrid between a blackberry and a raspberry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pomology and horticulture, Rubus loganobaccus, developed in California by Judge J. H. Logan in 1881 as a hexaploid hybrid.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Luther Burbank (*His Methods and Discoveries*):** *"The **loganberry** combined the vigorous growth of the Pacific wild blackberry with the delicate acid flavor of the red raspberry."*
-> - 📜 **John Burroughs (*Under the Maples*):** *"In the garden borders, heavy clusters of dark crimson **loganberry** ripened under the summer sun."*
-> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"The **loganberry** has proved one of the most valuable commercial bush fruits introduced in modern times."*
+> - 📜 **Asa Gray (*Field, Forest, and Garden Botany*):** *"The **loganberry** displays the vigorous trailing canes of the Pacific blackberry united with the fruit characteristics of the red raspberry."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Commercial growers prize the **loganberry** for its heavy yields of large, deep claret-colored berries ideal for preserves."*
+> - 📜 **Luther Burbank (*His Methods and Discoveries*):** *"My breeding experiments confirmed that the **loganberry** arose as a spontaneous fertile hybrid possessing exceptional vigor."*

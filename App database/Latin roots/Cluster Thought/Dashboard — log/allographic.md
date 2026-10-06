@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to an allograph, alternate letterform, or signature made on behalf of another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetics and philosophy of art, works of art (such as music or literature) capable of multiple authentic instances through notation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to an allograph, variant script form, or a document executed on behalf of another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical aesthetics and literary theory, art forms (such as music or poetry) that exist through multiple valid physical performances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nelson Goodman (*Languages of Art*):** *"Literature and music are **allographic** arts, whereas painting and sculpture are strictly autographic and unique."*
-> - 📜 **Leonard Bloomfield (*Linguistic Aspects of Science*):** *"The variation between cursive and printed letterforms is an **allographic** distinction devoid of phonological significance."*
-> - 📜 **Edward Sapir (*Selected Writings in Language, Culture and Personality*):** *"Native scribes quickly mastered the **allographic** conventions of the imported European alphabet."*
+> - 📜 **Nelson Goodman (*Languages of Art*):** *"Music is strictly **allographic**, for any performance that adheres faithfully to the written score constitutes a genuine instance of the work."*
+> - 📜 **Henry Sweet (*A Handbook of Phonetics*):** *"Historical scribes employed diverse **allographic** flourishes to embellish initial capital letters in medieval liturgical manuscripts."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"An **allographic** testament must be attested by competent witnesses who verify the testator's acknowledged proxy signature."*

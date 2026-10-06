@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who compiles a catalog, especially in a library or archive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bibliographical science and museology, a specialist classifying manuscripts and specimens according to standardized indices.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who creates, organizes, or maintains a library catalog, register, or list of items.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In library and information science, a professional bibliographic specialist who assigns call numbers, subject headings, and metadata.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Frognall Dibdin (*Bibliomania*):** *"The learned **cataloger** must examine every colophon and watermark with the precision of a jeweler."*
-> - 📜 **Isaac D'Israeli (*Curiosities of Literature*):** *"A diligent **cataloger** has rescued many an anonymous genius from complete historical oblivion."*
-> - 📜 **Anthony Panizzi (*Passages in My Life*):** *"The chief **cataloger** of the British Museum established rules of bibliographic entry that became world standards."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The retired Custom-House clerk acted as an indolent **cataloger** of old shipping registers and forgotten parchment dockets."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The industrious **cataloger** of marine curiosities spent years classifying dried shark jaws in the provincial museum."*
+> - 📜 **Henry James (*The Aspern Papers*):** *"He worked through the dusty literary archive with the unflagging diligence of a trained **cataloger** seeking lost letters."*

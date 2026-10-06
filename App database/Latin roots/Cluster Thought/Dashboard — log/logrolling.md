@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of exchanging political favors, especially mutual voting for each other's proposed legislation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political economy and social history, cooperative frontier timber-clearing transformed into a metaphor for reciprocal political bargaining.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of reciprocal voting or exchange of favors in legislative politics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political economy and literary criticism, collusive mutual assistance, whether exchanging votes on bills or exchanging flattering reviews.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Bryce (*The American Commonwealth*):** *"The practice of legislative **logrolling** ensures that localized expenditure bills pass with little scrutiny from the wider public."*
-> - 📜 **Woodrow Wilson (*Congressional Government*):** *"Through systematic **logrolling**, river and harbor improvement funds are distributed to buy regional allegiance."*
-> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Reciprocal legislative bargaining resembling frontier **logrolling** is the inevitable mechanism of democratic compromise."*
+> - 📜 **James Bryce (*The American Commonwealth*):** *"Systematic **logrolling** remains one of the chief vices of Congressional committee work, squandering public funds on local interests."*
+> - 📜 **Mark Twain (*The Gilded Age*):** *"The bill passed triumphantly through the Senate after intense behind-the-scenes **logrolling** by railroad lobbyists."*
+> - 📜 **George Bernard Shaw (*Dramatic Opinions and Essays*):** *"Lacking genuine critical standards, London theatrical journalism degenerated into shameless mutual **logrolling**."*

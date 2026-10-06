@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by cross-fertilization between different individual flowers or plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive plant biology, flower structures adapted to receive pollen from another individual to ensure genetic diversity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or practicing cross-fertilization between different individual plants of the same species.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive botanical ecology, designating floral mechanisms that prevent self-pollination and ensure genetic outcrossing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"In naturally **allogamous** species, self-pollination frequently results in diminished seed vigor."*
-> - 📜 **Asa Gray (*Structural Botany*):** *"Dichogamous flowers are almost necessarily **allogamous**, since their pollen ripens before or after the stigma matures."*
-> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"The showy petals and abundant nectar of these orchids indicate an exclusively **allogamous** habit."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"In **allogamous** species, floral heterostyly and dichogamy evolved specifically to enforce cross-fertilization by visiting insects."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Certain orchidaceous genera are strictly **allogamous**, incapable of setting viable seed without pollen transported from distinct plants."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The elaborate nectar guides of **allogamous** blossoms coordinate insect orientation to maximize cross-pollination efficiency."*

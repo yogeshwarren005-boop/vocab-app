@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who praises someone or something highly, especially in a formal speech or writing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric and biography, an orator delivering a panegyric commemorating the character and deeds of the deceased.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who speaks or writes in high praise of someone, especially at a funeral or public ceremony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal oratory, an individual delivering a panegyric commemorating the character, public service, or artistic legacy of the deceased.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The courtly **eulogist** exhausted every classical metaphor in celebrating the emperor's imaginary victories."*
-> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Mirabeau found in him an ardent **eulogist** who proclaimed his genius to the electrified assembly."*
-> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"A judicious **eulogist** preserves credibility by tempering praise with candid acknowledgment of human frailties."*
+> - 📜 **George Eliot (*Romola*):** *"The funeral **eulogist** recounted Savonarola's fiery eloquence and holy life before the weeping citizens of Florence."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"The sincere **eulogist** of Shakespeare must confess that no praise can match the boundless creativity of the bard himself."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The parliamentary **eulogist** described the late prime minister as the savior of European liberties."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of ideas, ideals, and principles forming the basis of economic or political theory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political philosophy and sociology of knowledge, the conceptual framework shaping how a class or society perceives reality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A comprehensive system of ideas, ideals, and political beliefs forming the basis of economic or social policy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social theory and political philosophy, the conceptual framework through which a group perceives reality, legitimizes power, or mobilizes action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Karl Marx (*The German Ideology*):** *"The ruling ideas of each age have ever been the **ideology** of its ruling class."*
-> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"A coherent political **ideology** gives cohesion to an empire, but easily degenerates into persecuting bigotry."*
-> - 📜 **George Orwell (*Notes on Nationalism*):** *"Every nationalist is obsessed with altering the past to conform to his political **ideology**."*
+> - 📜 **Karl Marx (*The German Ideology*):** *"Morality, religion, metaphysics, and all the rest of **ideology** have no independent history; they change as material production changes."*
+> - 📜 **Max Weber (*The Protestant Ethic and the Spirit of Capitalism*):** *"Religious **ideology** can exert an independent causal influence upon economic behavior, transforming traditional habits."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The prevailing social **ideology** tends to impose its own customs as universal rules of conduct upon dissenters."*

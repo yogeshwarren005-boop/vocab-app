@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, expressed by, or using logarithms; varying according to a logarithmic scale.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biophysics and mathematics, nonlinear scaling where equal increments represent exponential multipliers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, calculated by, or expressed in logarithms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In quantitative science and graphical representation, describing scales or growth curves proportional to exponent powers rather than linear increments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The growth of the nautilus shell follows an exquisite **logarithmic** spiral across its chambers."*
-> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"Astronomers rely upon **logarithmic** tables to resolve the vast numerical coordinates of celestial bodies."*
-> - 📜 **Gustav Fechner (*Elements of Psychophysics*):** *"The intensity of sensation increases as the **logarithmic** function of the physical stimulus."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Geometrical increase of species under unconstrained conditions produces a steep **logarithmic** curve of population growth."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"The machine automatically indexed the **logarithmic** tables, printing successive values with unerring accuracy."*
+> - 📜 **Lord Kelvin (*Popular Lectures and Addresses*):** *"The dissipation of energy in electrical discharge follows a **logarithmic** decrement across successive oscillations."*

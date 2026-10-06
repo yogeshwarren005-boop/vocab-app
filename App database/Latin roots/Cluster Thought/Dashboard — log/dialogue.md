@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conversation between two or more people; a literary work in the form of a conversation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy and dramatic writing, a classic genre wherein arguments unfold through dialectical exchange.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conversation between two or more people; or a literary work written in the form of a dramatic conversation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical literature and theatrical arts, a formal literary genre (such as Platonic dialogues) exploring ideas through dialectical interchange.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Plato (*The Republic*):** *"The philosophical **dialogue** allows divergent viewpoints to test their coherence through mutual examination."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth listened with lively amusement to the spirited **dialogue** between Mr. Darcy and her sister."*
-> - 📜 **William Shakespeare (*Twelfth Night*):** *"I will read you the lively **dialogue** between the shepherd and the nymph."*
+> - 📜 **William Shakespeare (*Love's Labour's Lost*):** *"This **dialogue** that the two learned men have compiled in praise of the owl and the cuckoo shall close our pageant."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The quiet **dialogue** between the two lovers beneath the ancient oaks was murmured in tones scarcely audible above the rustling leaves."*
+> - 📜 **Plato (*The Republic*):** *"Socrates conducted the philosophical **dialogue** by posing searching questions that exposed the contradictions in Thrasymachus's definition of justice."*

@@ -43,9 +43,9 @@ dv.container.appendChild(toggle);
 
 > [!book] 📖 Definitions & Semantic Range
 > 1. **Primary Definition (Lexical / Standard Consensus)**: To express regret for an offense, fault, or mistake; to offer an apology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social ethics and rhetoric, acknowledging an error or presenting a formal reasoned justification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal rhetoric, to present an explanatory vindication or acknowledge an unintentional breach of etiquette.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I was so ashamed of my conduct that I could only **apologize** with tears in my eyes."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Darcy was not inclined to **apologize** for behavior which he believed to be entirely justified."*
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"Tom hastened to **apologize** to Aunt Polly, hoping to avert the impending punishment."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard was too proud to **apologize** publicly, though secret remorse gnawed incessantly at his heart."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He felt constrained to **apologize** for his uninvited visit, murmuring polite excuses in the drawing-room."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"If you are true to yourself, you need never **apologize** to your contemporaries for nonconformity with custom."*

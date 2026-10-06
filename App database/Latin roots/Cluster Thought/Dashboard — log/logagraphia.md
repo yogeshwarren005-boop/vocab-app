@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Loss of the ability to express ideas in writing while retaining the ability to copy words; motor agraphia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical aphasiology and neurology, a motor-linguistic defect where written composition is impaired despite intact manual dexterity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inability to express thoughts in written language despite intact intellectual capacity and motor ability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neuropsychology and aphasiology, a form of agraphia resulting from cortical lesions disrupting language processing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William James (*The Principles of Psychology*):** *"In cases of **logagraphia**, the patient understands speech perfectly but cannot write a spontaneous sentence."*
-> - 📜 **Sigmund Freud (*On Aphasia*):** *"Clinical **logagraphia** demonstrates the dissociation between internal verbal conception and the motor acts of penmanship."*
-> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A localized lesion in the left frontal convolution frequently produces motor aphasia accompanied by **logagraphia**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Cortical damage to Broca's area frequently produces severe **logagraphia**, leaving the patient mute with the pen."*
+> - 📜 **Henry Maudsley (*The Pathology of Mind*):** *"In acute **logagraphia**, the patient articulates words mentally yet fails utterly to materialize them on paper."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The clinical phenomenon of **logagraphia** proves that linguistic conception and manual transcription occupy separable neural pathways."*

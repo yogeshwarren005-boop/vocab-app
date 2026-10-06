@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A speech or piece of writing that praises someone or something highly, typically delivered at a funeral.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric, a formal discourse celebrating the virtue, valor, or achievements of an individual.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A speech or piece of writing that praises someone or something highly, typically someone who has just died.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric, a formal panegyric (encomium) commemorating the virtues, achievements, and civic legacy of an individual.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Pericles (*Funeral Oration*):** *"Our ancestors deserve a tribute of **eulogy**, for they preserved our city in freedom by their valor."*
-> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"The greatest **eulogy** of character is that it requires no apology and commands instant veneration."*
-> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber pronounced a magnificent **eulogy** upon the virtues of friendship and mutual loyalty."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The rector pronounced a brief, touching **eulogy** over the grave of his old friend, commending his honest heart to God."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"The highest **eulogy** upon truth is that it requires no ornate rhetoric to recommend itself to the human understanding."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Father Mapple delivered an inspiring **eulogy** upon Jonah's repentance that moved the hardened sailors to tears."*

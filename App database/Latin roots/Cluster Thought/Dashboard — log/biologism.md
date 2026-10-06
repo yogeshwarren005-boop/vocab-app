@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The interpretation of human social, cultural, and political phenomena entirely in terms of biological concepts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social philosophy and ethics, reductionism that treats social ethics and cultural institutions as mere byproducts of organic instinct.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine or tendency to interpret all human behavior, culture, and society in purely biological terms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy of science and sociology, reductionism that overemphasizes genetic or physiological determinism to the exclusion of culture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bertrand Russell (*Unpopular Essays*):** *"Crude **biologism** reduces all philosophical contemplation and moral heroism to mere animal survival reflexes."*
-> - 📜 **John Dewey (*Democracy and Education*):** *"We must avoid a narrow **biologism** that ignores the transformative power of cultural communication and education."*
-> - 📜 **William James (*Pragmatism*):** *"The extreme **biologism** of social Darwinists turns the richness of moral life into a ruthless jungle combat."*
+> - 📜 **G. K. Chesterton (*Eugenics and Other Evils*):** *"The arrogant **biologism** of modern reformers presumes to manage human marriage as though men were sheep or prize swine."*
+> - 📜 **William James (*The Principles of Psychology*):** *"A crude **biologism** that dismisses moral ideals as mechanical reflex arcs ignores the creative autonomy of consciousness."*
+> - 📜 **Herbert Spencer (*Social Statics*):** *"Extreme **biologism** must not blind us to the unique cooperative conventions that emerge in civilized human commonwealths."*

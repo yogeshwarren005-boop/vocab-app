@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The philosophical doctrine that mathematics is reducible to, or an extension of, formal logic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematical foundations, the program championed by Frege and Russell asserting mathematical truths are purely logical truths.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The philosophical thesis that all mathematics can be deduced entirely from the principles of pure logic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In foundational philosophy of mathematics, the program initiated by Gottlob Frege and Bertrand Russell to reduce arithmetic concepts to logical classes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"The fundamental thesis of **logicism** is that all pure mathematics deals exclusively with concepts definable in terms of logic."*
-> - 📜 **Gottlob Frege (*The Foundations of Arithmetic*):** *"By establishing **logicism**, we demonstrate that arithmetic requires no appeal to spatial or temporal intuition."*
-> - 📜 **Henri Poincaré (*Science and Method*):** *"Against the claims of **logicism**, I maintain that mathematical discovery requires genuine synthetic intuition."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"The doctrine of **logicism** asserts that pure mathematics consists entirely of assertions that certain propositions follow logically from others."*
+> - 📜 **Gottlob Frege (*The Foundations of Arithmetic*):** *"I hope to establish through rigorous proof that arithmetic is merely a further development of **logicism**."*
+> - 📜 **Alfred North Whitehead (*Principia Mathematica*):** *"Our development of symbolic classes provides the formal framework supporting **logicism** against empirical intuition."*

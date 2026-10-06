@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or involving the coordination and operational organization of complex collective endeavors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In supply chain strategy and civil administration, managing the distribution networks and temporal staging of materiel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to logistics; involving the detailed organization and transport of supplies, personnel, or operations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In corporate supply chain management and field military doctrine, managing complex multi-modal distribution networks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Winston Churchill (*The World Crisis*):** *"The colossal **logistical** challenge of transporting two million American soldiers across the Atlantic was solved with astonishing speed."*
-> - 📜 **Dwight D. Eisenhower (*Crusade in Europe*):** *"No combat operation was ever launched without first resolving every intricate **logistical** detail of fuel and ammunition."*
-> - 📜 **Douglas MacArthur (*Reminiscences*):** *"Our rapid amphibious advances in the Pacific depended entirely upon overcoming formidable **logistical** obstacles."*
+> - 📜 **Carl von Clausewitz (*On War*):** *"The great commander must never overlook the **logistical** obstacles that can paralyze a victorious army far from its supply depots."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The cross-Channel invasion presented the most formidable **logistical** puzzle in military history."*
+> - 📜 **Alfred Thayer Mahan (*The Influence of Sea Power upon History*):** *"Coaling stations across the Pacific resolved the critical **logistical** dilemma facing modern steam navies."*

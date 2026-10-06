@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A written or pictorial character representing a whole word or morpheme rather than a phonetic sound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical epigraphy and semiotics, an ideographic sign found in Egyptian hieroglyphs, Sumerian cuneiform, or Chinese hanzi.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A written character, letter, or symbol representing a complete word or phrase rather than a single phoneme.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orthographic typography and historical epigraphy, ideographic and hieroglyphic glyphs such as Chinese characters or cuneiform signs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jean-François Champollion (*Précis du système hiéroglyphique*):** *"A single Egyptian **logogram** could signify both an abstract divinity and the material creature representing it."*
-> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"In Chinese writing, each distinct **logogram** embodies a meaningful grammatical unit rather than an arbitrary phonetic syllable."*
-> - 📜 **Archibald Sayce (*Lectures on the Assyrian Language*):** *"Cuneiform inscriptions demonstrate the gradual transition from an ancient pictorial **logogram** to a syllabic phonetic sign."*
+> - 📜 **Jean-François Champollion (*Précis du système hiéroglyphique*):** *"Egyptian inscriptions combine phonetic signs with the pictorial **logogram** representing complete words and concepts."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"In ancient ideographic scripts, each **logogram** stood directly for a semantic concept rather than an acoustic element."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The evolution of the alphabet arose from gradually discarding the cumbersome **logogram** in favor of phonetic signs."*

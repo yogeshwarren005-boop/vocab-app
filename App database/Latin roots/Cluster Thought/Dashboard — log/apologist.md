@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who offers an argument in defense of something controversial; a defender.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In religious historiography, early Christian writers defending faith against persecution, or polemical advocates of causes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who offers an argument in defense of something controversial, such as a religion or doctrine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual historiography, an intellectual champion defending an ideology, political administration, or theological creed against critics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The early Christian **apologist** addressed respectful memorials to the emperors, pleading for religious tolerance."*
-> - 📜 **John Stuart Mill (*On Liberty*):** *"Every established tyranny finds an ingenious **apologist** ready to justify oppression on grounds of public safety."*
-> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The eloquent **apologist** of King Charles sought to palliate actions that violated the constitution."*
+> - 📜 **George Eliot (*Romola*):** *"Savonarola found in the young humanist scholar a brilliant **apologist** who defended his prophetic mission before the magistrates."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The royalist **apologist** labored in vain to whitewash the unconstitutional exactions of the Stuart monarchy."*
+> - 📜 **John Henry Newman (*Apologia Pro Vita Sua*):** *"Every Christian **apologist** must demonstrate that religious faith answers the deepest moral instincts of the human conscience."*

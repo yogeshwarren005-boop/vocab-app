@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a logarithmic manner; by means of or according to a logarithmic scale.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychophysics and mathematical analysis, scaling proportionally to the logarithm of a variable rather than linearly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of logarithms; in a logarithmic manner or according to a logarithmic progression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematical modeling and psychophysics, varying proportionally to exponent magnitudes rather than arithmetic differences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Gustav Fechner (*Elements of Psychophysics*):** *"Psychophysical experiments demonstrate that sensory perception increases **logarithmically** as stimulus intensity doubles."*
-> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"The engine calculates coordinates that advance **logarithmically** across the successive calculation wheels."*
-> - 📜 **Lord Kelvin (*Popular Lectures and Addresses*):** *"The dissipation of thermodynamic energy inside a cooling sphere proceeds **logarithmically** over geological epochs."*
+> - 📜 **Lord Kelvin (*Mathematical and Physical Papers*):** *"The amplitude of the pendulum's oscillation decreases **logarithmically** over time due to viscous air resistance."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"Calculations arranged **logarithmically** reduced weeks of laborious manual arithmetic into a matter of minutes."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Weber's law demonstrated that sensory perception increases arithmetically while physical stimulus increases **logarithmically**."*

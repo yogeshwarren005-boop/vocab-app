@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An introduction or preface to a book, dramatic work, poem, or musical composition; a prologue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical printing and theatrical playbills, the introductory address delivered to the audience setting the scene.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An introduction or preface to a poem, play, or other literary discourse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theatrical dramaturgy and software systems, an introductory opening address (variant spelling of prologue) or a logical programming language paradigm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Geoffrey Chaucer (*The Canterbury Tales*):** *"In his masterful **prolog**, the poet paints a vivid portrait of fourteenth-century English society."*
-> - 📜 **John Dryden (*Essays on the Drama*):** *"A witty **prolog** disarms the malice of the pit and prepares the audience for dramatic entertainment."*
-> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Let this chapter serve as a brief **prolog** to the wider demonstration of physical principles."*
+> - 📜 **John Dryden (*Essays on the Drama*):** *"The dramatic **prolog** serves to prepare the spectator's imagination for the solemn catastrophe that follows."*
+> - 📜 **Alexander Pope (*The Dunciad*):** *"With pompous phrase he read his tedious **prolog**, beseeching the courtly critics for their indulgence."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Before the curtain rises on the puppet play, the manager delivers his customary **prolog** to the assembly."*

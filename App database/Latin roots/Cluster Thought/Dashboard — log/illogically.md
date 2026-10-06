@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a way that lacks sense or sound reasoning; contrarily to logic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character analysis, drawing emotional conclusions that defy the premises from which they ostensibly proceed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner violating sound reason, coherence, or valid principles of deduction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetorical discourse, reasoning or acting without systematic argumentative consistency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Angel Clare argued **illogically**, letting conventional social taboos overpower his philosophical convictions."*
-> - 📜 **Charlotte Brontë (*Villette*):** *"She reasoned **illogically**, yet her intuitive instinct led her straight to the truth."*
-> - 📜 **Mark Twain (*A Connecticut Yankee in King Arthur's Court*):** *"The knights reasoned so **illogically** that any modern schoolboy could have refuted their legends."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Angel Clare argued **illogically**, torn between rigid family traditions and his unconventional affection."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"She reasoned **illogically**, yet her intuitive instinct guided her safely through danger."*
+> - 📜 **Mark Twain (*A Connecticut Yankee in King Arthur's Court*):** *"The knights reasoned so **illogically** that no argument grounded in common sense could move them."*

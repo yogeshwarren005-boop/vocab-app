@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of human history and prehistory through the excavation of sites and the analysis of physical artifacts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social science, the systematic discipline reconstructing past cultures from material remains and architectural ruins.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of past human life and culture through the recovery and analysis of material remains.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropological history, the discipline investigating material culture, architecture, and biofacts to trace cultural evolution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Lyell (*The Antiquity of Man*):** *"Geology and **archaeology** converge when we discover human tools embedded in ancient diluvial deposits."*
-> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Classical **archaeology** restores the broken pillars and faded inscriptions of ancient greatness."*
-> - 📜 **Arthur Evans (*The Palace of Minos*):** *"The science of **archaeology** has resurrected Minoan Crete from the realm of mythological fable."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The modern science of prehistoric **archaeology** has completely overthrown the narrow biblical chronology of human origin."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"By coordinating paleontology and **archaeology**, we reconstruct the ancient environment inhabited by primeval hunters."*
+> - 📜 **Edward Tylor (*Primitive Culture*):** *"Comparative **archaeology** illuminates the gradual ascent of humanity through successive stages of savagery and civilization."*

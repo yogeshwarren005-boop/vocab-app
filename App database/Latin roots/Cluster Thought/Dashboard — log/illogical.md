@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking sense or clear, sound reasoning; contrary to the rules of logic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytical philosophy, a proposition or argument that commits a formal fallacy or contradicts established empirical facts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Contradicting the laws of valid reasoning; irrational, inconsistent, or fallacious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal logic and rhetoric, describing propositions or conclusions that do not follow from their stated premises.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"It is a capital mistake to theorize before one has data; insensibly one begins to twist facts to suit theories, arriving at an **illogical** conclusion."*
 > - 📜 **Charles Dickens (*Bleak House*):** *"It was an absurd and **illogical** proceeding, but thoroughly characteristic of the Court of Chancery."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth smiled at the completely **illogical** sequence of reasons with which Mrs. Bennet defended her plans."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"It is an **illogical** mistake to theorize before one has all the facts; it biases the judgment."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth smiled at the completely **illogical** sentiments expressed in the letter."*

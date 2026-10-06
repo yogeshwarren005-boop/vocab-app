@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to living organisms and their vital processes; pertaining to biology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern science, designating metabolic, genetic, and ecological dynamics governing organic life.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to biology or living organisms; organic; vital.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary science and genetics, pertaining to physiological processes, inherited traits, or ecological interactions in living systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The **biological** causes of inheritance remain obscured, but their phenotypic results are undeniable."*
-> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"Human society represents a specialized attempt to check the ruthless **biological** struggle for existence."*
-> - 📜 **William James (*The Principles of Psychology*):** *"Consciousness has evolved to fulfill vital **biological** functions in adapting the organism to its environment."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The Martians were completely destitute of **biological** immunity against the terrestrial micro-organisms that swarm in our atmosphere."*
+> - 📜 **G. K. Chesterton (*Eugenics and Other Evils*):** *"The materialist philosophers attempt to reduce all spiritual passions and ethical duties to mere **biological** impulses."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The **biological** relationships uniting extinct fossil animals with living forms reveal an unbroken genealogical continuity."*

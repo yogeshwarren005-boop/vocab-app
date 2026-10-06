@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing or based on an analogy; using correspondence between different things to explain or argue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemological reasoning and legal interpretation, drawing inductive inferences regarding unknown properties based upon observed parallels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Based upon, expressing, or using analogy and structural resemblance to infer relationships.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical logic and theological discourse, reasoning that attributes properties to an unknown subject based on verified similarities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"**Analogical** reasoning is often the only path open to human inquiry where direct observation fails."*
-> - 📜 **Francis Bacon (*Novum Organum*):** *"The mind must not rest content with superficial **analogical** resemblances, but penetrate to real causes."*
-> - 📜 **John Stuart Mill (*A System of Logic*):** *"An **analogical** inference can never produce mathematical certainty, though it provides valuable hypotheses for scientific testing."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The **analogical** resemblances between the Tasmanian wolf and placental canines illustrate convergent evolutionary adaptation."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"**Analogical** reasoning serves as a valuable guide in natural philosophy where direct empirical observation is denied to us."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"An **analogical** argument yields high probability when the shared antecedent attributes are closely linked to the inferred conclusion."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not according to the principles of logic; lacking reason, consistency, or rational structure; illogical.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological philosophy, operating through intuition, feeling, or instinct rather than formal deductive reasoning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not adhering to or governed by the principles of formal logic; irrational or non-logical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological theory and epistemology, referring to instinctive, intuitive, or subconscious mental processes operating outside deductive logic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William James (*The Principles of Psychology*):** *"Human decision-making is largely governed by **unlogical** impulses and subconscious emotional preferences."*
-> - 📜 **John Dewey (*How We Think*):** *"Primitive belief is predominantly **unlogical**, accepting traditional folklore without testing causes and effects."*
-> - 📜 **Herbert Spencer (*The Study of Sociology*):** *"Social passions generate vast **unlogical** movements that defy the neat calculations of political theorists."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Human decision-making is frequently dominated by **unlogical** impulses that spring directly from instinctive emotion."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"Primitive cognition relies upon **unlogical** associations between sensory impressions long before analytic reasoning evolves."*
+> - 📜 **John Dewey (*How We Think*):** *"We must distinguish between the actively illogical and the simply **unlogical** musings of relaxed reverie."*

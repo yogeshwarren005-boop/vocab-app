@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To praise highly in speech or writing; to deliver a eulogy for someone (British spelling of eulogize).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civic oratory and memorial literature, commemorating public services or moral excellence before an assembly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To praise highly in speech or writing; to deliver an encomium or eulogy (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ceremonial rhetoric, paying formal public tribute to an individual's virtues, achievements, or heroic sacrifices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"It was the orator's duty to **eulogise** the fallen statesman while acknowledging the hazards of his policy."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The parish vicar rose to **eulogise** the late baronet, dwelling with tears upon his private charities."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The town council met to **eulogise** the distinguished philanthropist who had founded the local infirmary."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The local newspaper did not fail to **eulogise** the generous municipal gifts bestowed by the retiring mayor."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The townsfolk assembled in the churchyard to **eulogise** the departed magistrate whose rough justice they had long respected."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Court orators were summoned to **eulogise** the military triumphs of emperors whose real reigns had been disastrous."*

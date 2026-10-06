@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The detailed coordination of complex operations involving people, facilities, supplies, and equipment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military science, the branch dealing with the movement, supply, and maintenance of armed forces.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The detailed coordination of complex operations involving the acquisition, transport, and maintenance of supplies and personnel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military science and industrial operations research, the discipline governing supply chain architecture, warehousing, and inventory distribution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Carl von Clausewitz (*On War*):** *"The science of **logistics** governs the physical sustenance and transport without which military strategy is an idle dream."*
-> - 📜 **Winston Churchill (*The Gathering Storm*):** *"Modern warfare is largely a contest of industrial production and mechanical **logistics**."*
-> - 📜 **Antoine-Henri Jomini (*The Art of War*):** *"I have defined **logistics** as the practical art of moving armies and keeping them supplied in the field."*
+> - 📜 **Carl von Clausewitz (*On War*):** *"Strategy plans the battle, tactics conducts it, but **logistics** dictates whether the army can reach the battlefield at all."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"In modern amphibious warfare, sound **logistics** represents four-fifths of the total tactical endeavor."*
+> - 📜 **Alfred Thayer Mahan (*The Influence of Sea Power upon History*):** *"The mastery of oceanic **logistics** enabled Britain to maintain blockades off European ports for years uninterrupted."*

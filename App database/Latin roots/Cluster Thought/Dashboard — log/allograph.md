@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A letter or symbol representing a sound in a language; a signature made on another's behalf.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleography and legal forensics, a contextual variant glyph of a letterform, or an instrument executed by an agent for a principal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant form of a letter, symbol, or grapheme; or a legal signature written on behalf of another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleography and structural phonology, positional variants of a written character that do not alter semantic meaning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Leonard Bloomfield (*Language*):** *"The letters 'f' and 'ph' represent the same phoneme in English, each functioning as an **allograph** in distinct orthographic environments."*
-> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"Every graphemic system develops positional variants, where each **allograph** is conditioned by surrounding letters."*
-> - 📜 **Henry Maine (*Ancient Law*):** *"In early testamentary law, a written **allograph** required the attested seals of seven witnesses to gain validity."*
+> - 📜 **Henry Sweet (*A Handbook of Phonetics*):** *"The cursive and uncial forms of the letter represent an **allograph** pair whose stylistic divergence reflects distinct scribal traditions."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A deed executed by an **allograph** requires clear proof of explicit procuration from the absent principal."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"In alphabetic writing, each **allograph** variant conforms to the formal constraints of the overarching graphemic system."*

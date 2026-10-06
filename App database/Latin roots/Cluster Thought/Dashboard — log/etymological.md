@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the origin and historical development of words and their meanings; linguistic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative philology, tracing cognate lexical roots back through sound shifts to ancestral Indo-European forms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the origin and historical development of words and their meanings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative linguistics, pertaining to the phonetic laws, morphological mutations, and semantic shifts reconstructing parent etymons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The true **etymological** analysis of a word reveals the historical psychology of the race that created it."*
-> - 📜 **Richard Chenevix Trench (*On the Study of Words*):** *"Many a moral truth lies fossilized in the **etymological** pedigree of an everyday term."*
-> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The examination of **etymological** derivations often discloses the philosophical intuitions of antiquity."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The **etymological** origin of a word often sheds invaluable light upon the primitive psychological ideas that prompted its creation."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Comparative philology provides rigorous **etymological** proof that the major European languages descended from a common Aryan ancestor."*
+> - 📜 **Ralph Waldo Emerson (*Nature*):** *"Language is fossil poetry; every word had an **etymological** root that was once a vivid physical metaphor."*

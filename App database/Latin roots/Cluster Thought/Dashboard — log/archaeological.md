@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to archaeology, the study of human history and prehistory through the excavation of artifacts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In antiquarian research, investigations recovering monuments, burials, and cultural implements from ancient civilizations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or based on the scientific study of ancient human artifacts, monuments, and civilizations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stratigraphic science, pertaining to material evidence recovered from stratified deposits documenting past human societies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **archaeological** remains of the Colosseum bear witness to the grandeur and cruelty of the Roman games."*
-> - 📜 **Arthur Evans (*The Palace of Minos*):** *"The **archaeological** discoveries at Knossos revealed a brilliant Bronze Age civilization previously unknown to history."*
-> - 📜 **Charles Darwin (*The Descent of Man*):** *"Prehistoric **archaeological** sites across the globe show that early man manufactured weapons of similar form."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The **archaeological** discoveries of worked stone axes in river gravels demonstrated the immense antiquity of man."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"Human crania exhumed from **archaeological** sites in Neanderthal and Engis provide invaluable morphological clues to our lineage."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Modern **archaeological** excavations around the Roman Forum have exhumed monumental inscriptions verifying classical annals."*

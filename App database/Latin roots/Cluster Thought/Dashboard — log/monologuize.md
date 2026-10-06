@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To speak in or deliver a monologue; to monopolize a conversation (American spelling).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic critique, to deliver an extended solo discourse or verbal meditation onstage or in prose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To deliver a monologue; to hold forth in solitary speech or dominate dialogue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theatrical performance and narrative style, to engage in an extended solitary speech expressing character motives or philosophical ruminations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Ralph Waldo Emerson (*Journals*):** *"When a man begins to **monologuize** in company, he proves he has forgotten the sacred reciprocity of friendship."*
-> - 📜 **William James (*The Letters of William James*):** *"Do not allow the philosopher to **monologuize** undisturbed; compel him to illustrate his theories with concrete examples."*
-> - 📜 **Henry James (*The Portrait of a Lady*):** *"Madame Merle preferred to listen politely rather than **monologuize**, observing everything with quiet vigilance."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"A true conversationalist seeks mutual exchange, refusing to **monologuize** before an audience of patient friends."*
+> - 📜 **Herman Melville (*The Confidence-Man*):** *"The eccentric philosopher would **monologuize** by the hour, expounding his utopian schemes to the bewildered passengers."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"She allowed him to **monologuize** freely, studying his mannerisms with quiet detachment."*

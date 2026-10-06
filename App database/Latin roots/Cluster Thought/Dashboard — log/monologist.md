@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who performs, writes, or delivers a monologue; a solo theatrical performer or speaker.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In conversational etiquette, an individual who monopolizes dialogue by speaking continuously without listening to others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who performs monologues, or someone who dominates a conversation by speaking exclusively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic performance and social critique, a theatrical performer reciting solo dramatic character pieces, or a conversational bore.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Hazlitt (*On the Conversation of Authors*):** *"Coleridge was not a conversationalist but a magnificent **monologist**, holding his listeners spellbound for hours."*
-> - 📜 **George Bernard Shaw (*Dramatic Opinions and Essays*):** *"The gifted theatrical **monologist** creates an entire universe of characters through voice and gesture alone."*
-> - 📜 **Oliver Wendell Holmes Sr. (*The Autocrat of the Breakfast-Table*):** *"A stubborn **monologist** at the dinner table converts polite social exchange into an involuntary lecture hall."*
+> - 📜 **William Makepeace Thackeray (*The Book of Snobs*):** *"The society diner was terrified of the pompous **monologist** who seized control of the table and would permit no one else to utter a syllable."*
+> - 📜 **George Bernard Shaw (*Dramatic Opinions and Essays*):** *"As a dramatic **monologist**, she commanded the stage entirely alone, holding the audience spellbound for two hours."*
+> - 📜 **Henry James (*The Bostonians*):** *"He listened in polite silence, acknowledging that the lady was an extraordinary **monologist** capable of addressing any subject without drawing breath."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A historic city and municipality in northern Spain, serving as the capital of the autonomous region of La Rioja.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Spanish history and geography, an important fortified trading center along the Ebro River and the Camino de Santiago pilgrimage route.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historic city and provincial capital on the Ebro River in northern Spain, renowned for Rioja wine production.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Spanish historical geography, the administrative center of La Rioja, serving historically as a strategic fortress city on the Camino de Santiago.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Richard Ford (*A Handbook for Travellers in Spain*):** *"The ancient stone bridge of **Logrono** spanning the broad waters of the Ebro has welcomed pilgrims for many centuries."*
-> - 📜 **George Borrow (*The Bible in Spain*):** *"From Vitoria we rode toward **Logrono**, where the fertile vineyards of the Rioja region unfold beneath the hills."*
-> - 📜 **Washington Irving (*Chronicle of the Conquest of Granada*):** *"Troops gathered in the strategic fortress of **Logrono** to guard the northern marches against invasion."*
+> - 📜 **Washington Irving (*Chronicle of the Conquest of Granada*):** *"The Christian armies marched through the fertile plains near **Logrono**, securing the strategic river crossings along the Ebro."*
+> - 📜 **Richard Ford (*A Handbook for Travellers in Spain*):** *"The ancient stone bridge of **Logrono** spans the waters of the Ebro, welcoming weary pilgrims on their journey to Compostela."*
+> - 📜 **George Borrow (*The Bible in Spain*):** *"Arriving at **Logrono** at dusk, I was impressed by its ancient ramparts and the bustling wine markets lining the streets."*

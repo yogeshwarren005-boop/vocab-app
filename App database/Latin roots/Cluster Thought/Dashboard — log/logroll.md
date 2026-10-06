@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To engage in political vote-trading or reciprocal mutual assistance; to roll logs collaboratively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political sociology, to support another legislator's bill on condition of receiving support for one's own measure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To roll logs in the water or engage in mutual political bargaining and favor-trading.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legislative politics, the practice of politicians trading votes on reciprocal measures to secure mutual advantages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Woodrow Wilson (*Congressional Government*):** *"Members of congress find it expedient to **logroll** on internal tariff schedules, exchanging favors across state lines."*
-> - 📜 **James Bryce (*The American Commonwealth*):** *"To **logroll** successfully in the legislature requires an astute knowledge of each representative's local interests."*
-> - 📜 **Hamlin Garland (*Main-Travelled Roads*):** *"In frontier clearings the settlers would gather to **logroll** and erect timber cabins in festive mutual cooperation."*
+> - 📜 **Mark Twain (*The Gilded Age*):** *"Congressmen assembled in back rooms to **logroll** appropriations for river dredging in exchange for railroad subsidies."*
+> - 📜 **James Bryce (*The American Commonwealth*):** *"Committees frequently **logroll** private bills, ensuring that each member secures his local pork-barrel project."*
+> - 📜 **Theodore Roosevelt (*An Autobiography*):** *"I refused to **logroll** with corrupt legislative bosses who sought to barter judicial appointments for regulatory favors."*

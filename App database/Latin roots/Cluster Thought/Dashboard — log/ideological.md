@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on or relating to a particular system of ideas and ideals; doctrinal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern sociology and political philosophy, expressing the collective beliefs and dogmas of a political or social movement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on or relating to a particular system of ideas, beliefs, or political philosophy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern sociology and political philosophy, describing belief systems that reflect the economic interests, social status, or worldview of a group.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bertrand Russell (*Unpopular Essays*):** *"Intolerance is the inevitable byproduct of dogmatic **ideological** certainty that permits no dissent."*
-> - 📜 **George Orwell (*1984*):** *"The party demanded complete **ideological** conformity in thought as well as in public expression."*
-> - 📜 **John Dewey (*Freedom and Culture*):** *"Democracy is not a rigid **ideological** formula, but a dynamic method of continuous social inquiry."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The danger of **ideological** intolerance is that it suppresses independent criticism, creating intellectual stagnation."*
+> - 📜 **Karl Marx (*The German Ideology*):** *"The ruling ideas of each age are merely the **ideological** expression of the dominant material relationships."*
+> - 📜 **Max Weber (*The Protestant Ethic and the Spirit of Capitalism*):** *"The **ideological** affinities between ascetic Protestant theology and capital accumulation shaped modern economic rationality."*

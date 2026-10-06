@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the scientific study of material remains of past human life and activities; archaeological.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical sciences and field surveys, pertaining to physical artifacts, inscriptions, and subterranean architectural strata.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to archaeology, the scientific study of material remains of past human cultures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical anthropology, relating to the excavation, classification, and analysis of prehistoric artifacts and architectural sites.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Lyell (*The Geological Evidences of the Antiquity of Man*):** *"The discovery of flint implements in cave gravels provided crucial **archaeologic** proof of human antiquity."*
-> - 📜 **Heinrich Schliemann (*Troy and Its Remains*):** *"Our excavations at Hissarlik brought to light **archaeologic** treasures confirming the Homeric narrative."*
-> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"The **archaeologic** record of prehistoric Europe demonstrates a steady progression from rough stone to bronze tools."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Recent **archaeologic** excavations in French caves reveal carved flint implements of primeval human craftsmanship."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"The **archaeologic** record confirms that human toolmaking traditions extend far back into Pleistocene geological strata."*
+> - 📜 **Edward Tylor (*Primitive Culture*):** *"Comparative **archaeologic** surveys establish a universal developmental progression from stone to bronze and iron technologies."*

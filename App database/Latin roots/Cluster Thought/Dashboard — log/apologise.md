@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To express regret for something that one has done wrong; to make an apology (British spelling of apologize).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic protocol and moral drama, offering formal acknowledgment of injury or breach of propriety.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To express regret for something that one has done wrong; to make an apology (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In interpersonal ethics and social diplomacy, acknowledging an offense or breach of decorum to restore harmonious relations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"He was eager to **apologise** for his sudden departure, pleading unexpected business in town."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Troy saw that he had gone too far, and offered to **apologise** with graceful nonchalance."*
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I felt no inclination to **apologise** for a fault I had never committed."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"I must **apologise** for my intrusion at this unseemly hour, but the urgency of the case admits of no delay."*
+> - 📜 **James Joyce (*A Portrait of the Artist as a Young Man*):** *"He knew that he must **apologise** or face the severe displeasure of his austere schoolmasters."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"The stranger did not **apologise** for breaking the parlor lamp, but demanded fresh bandages with surly impatience."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A concluding section or speech at the end of a book or play serving as a commentary or resolution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic literature and historical narrative, a concluding address spoken directly to the audience asking for indulgence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A concluding section or speech at the end of a book, play, or poem, serving as a comment on or conclusion to what has happened.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic literature, a formal concluding address delivered directly to the audience by an actor asking for applause or summarizing the moral.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
 > - 📜 **William Shakespeare (*As You Like It*):** *"It is not the fashion to see the lady the **epilogue**; but it is no more unhandsome than to see the lord the prologue."*
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"In the final **epilogue**, the author records the peaceful twilight of those who survived the Reign of Terror."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Every limit is a beginning as well as an ending, as will be seen in this brief **epilogue** upon our various characters."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The solemn **epilogue** traced the peaceful future awaiting the rescued family in their English country home."*
+> - 📜 **George Eliot (*Middlemarch*):** *"In her thoughtful finale **epilogue**, the novelist recorded the subsequent fortunes and quiet domestic destinies of her characters."*

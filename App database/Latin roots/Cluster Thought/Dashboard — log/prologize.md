@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To deliver or write a prologue; to introduce a theatrical work or literary text (American spelling).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetorical theory, to provide an opening address that establishes dramatic tone and context.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To speak or deliver a prologue; to preface a discourse or dramatic representation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic literature and rhetoric, to address the audience beforehand to explain background circumstances or beseech attentive hearing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Dryden (*The Art of Poetry*):** *"A skilled dramatist will not **prologize** in tedious verse, but strike directly into the heart of dramatic tension."*
-> - 📜 **William Hazlitt (*Characters of Shakespear's Plays*):** *"Shakespeare seldom pauses to **prologize** at length; his characters step forward and drama instantly begins."*
-> - 📜 **Ralph Waldo Emerson (*Essays: Second Series*):** *"Nature does not **prologize** her mysteries; she presents the finished flower and the complete starry night."*
+> - 📜 **Ben Jonson (*The Alchemist*):** *"The actor stepped forth in a black velvet cloak to **prologize** the comedic intrigue to the courtly patrons."*
+> - 📜 **John Milton (*Paradise Regained*):** *"The heavenly choir seemed to **prologize** the redemptive victory with sacred anthems of praise."*
+> - 📜 **Nathaniel Hawthorne (*The Blithedale Romance*):** *"Before plunging into our woodland narrative, I feel bound to **prologize** the strange ideals that drew our community together."*

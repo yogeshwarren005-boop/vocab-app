@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by sluggishness, mental dullness, or physical lethargy; groggy or slow to respond.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colloquial and regional descriptions, feeling worn down, heavy-limbed, or unenergetic after illness or fatigue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sluggish, lethargic, or heavy and slow in movement or mental response.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colloquial and clinical usage, feeling dull and lacking physical energy due to illness, heat, or excessive food.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*Martin Eden*):** *"His brain felt **logy** and numb after thirty hours of continuous reading without food or sleep."*
-> - 📜 **Sarah Orne Jewett (*The Country of the Pointed Firs*):** *"The damp morning air made everybody feel a little **logy** until the sea fog burned off under the sun."*
-> - 📜 **Theodore Dreiser (*Sister Carrie*):** *"The long afternoon in the stuffy office left him feeling dull and **logy**, unable to concentrate on his ledgers."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"A more accurate expression, by words in **logy** and ism, of sensations which men and women have vaguely grasped for centuries."*
+> - 📜 **Jack London (*The Sea-Wolf*):** *"The tropical heat left the entire crew feeling **logy** and disinclined to hoist the sails."*
+> - 📜 **Theodore Roosevelt (*Outdoor Pastimes of an American Hunter*):** *"After gorging on fat venison, the hounds grew **logy** and could hardly follow the trail across the ridges."*

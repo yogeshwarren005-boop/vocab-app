@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rocking stone or balanced boulder that rocks with slight force; a rocking boulder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geomorphology and Celtic antiquities, a huge perched boulder balanced so delicately on bedrock that a child can sway it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rocking stone; a massive poised boulder balanced so delicately that slight manual force rocks it without dislodging it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geomorphology and lithological weathering, a granitic or basaltic tor detached along jointing planes through spheroidal weathering.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Walter Scott (*The Antiquary*):** *"The great **logan** stone on the cliff rocked gently beneath the pressure of the antiquary's cane."*
-> - 📜 **Charles Lyell (*Principles of Geology*):** *"Weathering along joints in the granite created the famous perched **logan** stones of Cornwall."*
-> - 📜 **Thomas Hardy (*The Well-Beloved*):** *"The massive block swayed like a **logan** rock, balanced upon its ancient natural pivot."*
+> - 📜 **Ralph Waldo Emerson (*English Traits*):** *"On the Cornish coast stands a famed **logan**, perched so subtly upon its granite base that a child's hand can sway it."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Atmospheric weathering carving along structural joints produces the balanced **logan** stone atop granitic tors."*
+> - 📜 **Thomas Hardy (*A Pair of Blue Eyes*):** *"They climbed to the windy summit where the great **logan** rock trembled gently against the twilight sky."*

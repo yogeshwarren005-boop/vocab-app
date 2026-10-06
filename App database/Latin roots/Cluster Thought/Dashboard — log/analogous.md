@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Comparable in certain respects, typically in a way that makes clearer the nature of the things compared.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, describing organs that perform similar functions without sharing a common ancestral origin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Comparable in certain respects, typically in a way that makes clear the nature of the things compared.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, describing anatomical structures performing similar functions but having different evolutionary origins (such as bat and insect wings).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Darwin (*The Origin of Species*):** *"Structures are **analogous** when they perform identical functions in different organisms without sharing common descent."*
-> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"The hand of the chimpanzee is structurally homologous, rather than merely **analogous**, to the human hand."*
-> - 📜 **John Stuart Mill (*A System of Logic*):** *"The relations of colonies to the mother country are in many respects **analogous** to the relations of children to their parents."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The wing of a bat and the wing of an insect are **analogous** organs, fulfilling the same functional office through distinct structural means."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"His sudden domestic ruin was **analogous** to a sudden shipwreck on a calm summer sea."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Inferences drawn between **analogous** cases provide valuable working hypotheses for further empirical research."*

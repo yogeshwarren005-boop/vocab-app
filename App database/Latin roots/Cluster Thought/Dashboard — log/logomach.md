@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who engages in contentious disputes or verbal wrangling over mere words; a word-fighter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In polemical satire, a disputant who substitutes semantic quibbling for substantive philosophical inquiry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who engages in disputes about words or verbal quibbles; a verbal disputant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical polemics and classical rhetoric, a sophist who substitutes trivial verbal hairsplitting for substantive intellectual debate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The petty **logomach** wastes his life in splitting syllables, mistaking lexicography for celestial wisdom."*
-> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Montaigne smiles at the zealous **logomach** whose fierce controversies evaporate once terms are candidly defined."*
-> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"It is the mark of a superficial **logomach** to wage war against phrases while the underlying principles remain uncomprehended."*
+> - 📜 **Jonathan Swift (*A Tale of a Tub*):** *"The contentious **logomach** spent decades wrangling over the accentuation of Greek particles while neglecting moral truth."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"A pedantic **logomach** will disrupt the most agreeable conversation merely to contest the etymology of an ordinary phrase."*
+> - 📜 **William Hazlitt (*Table-Talk*):** *"The metaphysical **logomach** mistake subtle distinctions in terminology for profound insights into human nature."*

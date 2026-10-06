@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To explain, compare, or understand something by making an analogy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In judicial reasoning and rhetoric, arguing from precedents by establishing material structural equivalence between cases.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To explain, interpret, or compare by drawing an analogy between two different things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive science and jurisprudence, transferring relational knowledge from a familiar source domain to an unfamiliar target domain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Swedenborg sought to **analogize** every spiritual state to some outward natural object."*
-> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"Judges constantly **analogize** novel commercial disputes to ancient feudal doctrines of property."*
-> - 📜 **William James (*The Principles of Psychology*):** *"We naturally **analogize** unseen psychological processes to physical forces and fluids."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The inventive genius possesses a remarkable facility to **analogize** disparate sensory experiences through abstract relational concepts."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"Judges **analogize** novel commercial disputes to established precedents of bailment and tort to maintain legal consistency."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"We may **analogize** electrical current in a conducting wire with the hydraulic flow of water through an open conduit."*

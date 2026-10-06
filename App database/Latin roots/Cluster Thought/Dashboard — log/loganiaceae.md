@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of flowering plants in the order Gentianales, containing toxic alkaloids such as strychnine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic botany and pharmacognosy, a tropical family celebrated for yielding Strychnos nux-vomica and arrow poisons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of flowering plants in the order Gentianales, comprising tropical and subtropical shrubs, trees, and woody vines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical pharmacognosy, a family renowned for producing potent indole alkaloids, including strychnine and brucine from Strychnos.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Asa Gray (*Structural Botany*):** *"The family **Loganiaceae** contains arborescent and climbing plants notorious for yielding the virulent alkaloid strychnine."*
-> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Numerous climbing lianas of the tropical forest belong to the poisonous family **Loganiaceae**."*
-> - 📜 **George Bentham (*Genera Plantarum*):** *"The opposite simple leaves and cymose inflorescence are typical of **Loganiaceae**."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The order **loganiaceae** includes plants of notorious medicinal and toxicological potency, most notably the genus Strychnos."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"Members of the family **loganiaceae** possess opposite leaves with connecting stipular sheaths and actinomorphic flowers."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Forest lianas belonging to the **loganiaceae** climb into the highest canopy, bearing poisonous seeds."*

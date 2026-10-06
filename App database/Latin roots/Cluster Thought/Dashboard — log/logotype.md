@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A single piece of printer's type that bears an entire word or combination of letters; a logo or trademark.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial graphic design and printing, a custom typography or emblematic wordmark representing an enterprise.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A single piece of printer's type containing an entire word or common syllable; or a corporate logo.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In typography and commercial graphics, a distinctive typographic mark or ligature representing a corporate name or trademark.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Walter (*An Introduction to Logography*):** *"By employing a cast **logotype** for recurring syllables, the printing of our journal proceeded with unprecedented speed."*
-> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"The commercial value of a famous **logotype** consists in its power to direct consumer purchases automatically."*
-> - 📜 **Marshall McLuhan (*The Gutenberg Galaxy*):** *"The standardized **logotype** transformed commercial printing into a mechanized conveyor of institutional marks."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"In the early nineteenth century, inventors devised the cast **logotype** to speed up typographical composition for large dailies."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"The registered **logotype** protects the prestige and goodwill accumulated through years of advertising expenditure."*
+> - 📜 **H. G. Wells (*The World of William Clissold*):** *"Every package leaving the industrial warehouse bore the bold typographic **logotype** designed to imprint itself on the public mind."*

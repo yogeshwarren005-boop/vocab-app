@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to ideology, doctrine, or a system of ideas; ideological.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political theory and history of thought, pertaining to partisan intellectual systems governing public policy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to ideology, visionary doctrines, or systems of abstract political and social beliefs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political theory, describing principles, dogma, or conceptual frameworks that organize political movements and institutions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The great party struggles of modern times have lost their territorial character and assumed an **ideologic** nature."*
-> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Behind every tariff policy lies an **ideologic** debate concerning the legitimate functions of the state."*
-> - 📜 **Bertrand Russell (*Power: A New Social Analysis*):** *"The fiercest conflicts arise when military force is allied with fanatical **ideologic** fervor."*
+> - 📜 **Herbert Spencer (*Social Statics*):** *"The **ideologic** foundations of modern representative democracy rest upon the equal moral claim of all citizens."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The Jacobins defended their revolutionary violence by appealing to an abstract **ideologic** vision of pure virtue."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"Partisan conflicts are exacerbated when practical reforms are converted into rigid **ideologic** dogmas."*

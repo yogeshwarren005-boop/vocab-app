@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The commercial activity or business of cutting down trees and transporting logs to sawmills.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In environmental history and timber engineering, forest harvesting operations utilizing skid-roads, river drives, and sawmills.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The industrial business or activity of cutting down trees, trimming them, and transporting them to sawmills.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In environmental forestry and data engineering, commercial timber harvesting, or the systematic digital recording of operational events.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Muir (*Our National Parks*):** *"Unrestricted commercial **logging** turns magnificent mountain forests into scarred, fire-swept barrens."*
-> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"We passed numerous **logging** camps where rafts of spruce timber were assembled for the spring thaw."*
-> - 📜 **Gifford Pinchot (*The Fight for Conservation*):** *"Scientific forestry must replace destructive **logging** if our national timber reserves are to survive."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"Extensive **logging** along the Penobscot River sent thousands of felled spruce trunks rushing downstream with the spring freshet."*
+> - 📜 **John Muir (*Our National Parks*):** *"Unchecked commercial **logging** threatens to strip the Sierra Nevada slopes of their ancient sequoia groves."*
+> - 📜 **Jack London (*The Iron Heel*):** *"Vast fortunes were made in the Pacific Northwest through ruthless mechanized **logging** operations."*

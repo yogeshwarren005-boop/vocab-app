@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A complete, systematically arranged list of items, such as books, goods, or art; to list systematically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In library science and commerce, an organized descriptive inventory enabling search and retrieval of assets.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A complete, organized list of items arranged systematically with descriptive details.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bibliographic science and archival management, a searchable register indexing library holdings, commercial goods, or celestial bodies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick*):** *"In that ancient library, I spent hours poring over the descriptive **catalog** of rare cetological treatises."*
-> - 📜 **Walt Whitman (*Leaves of Grass*):** *"I give you a grand **catalog** of cities, trades, and workers across the boundless continent."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The auctioneer prepared a melancholy **catalog** of all the household effects to be sold under the distress."*
+> - 📜 **Bram Stoker (*Dracula*):** *"I found in the library an old **catalog** of foreign books that listed rare topographical folios concerning the Carpathian mountains."*
+> - 📜 **Ralph Waldo Emerson (*Nature*):** *"Natural history is not a mere dead **catalog** of Latin binomials, but a living record of cosmic relationship."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"He compiled a vast **catalog** of the cetological species, grouping them into folio, octavo, and duodecimo volumes."*

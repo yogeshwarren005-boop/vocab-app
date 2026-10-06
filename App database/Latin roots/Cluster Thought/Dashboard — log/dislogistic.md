@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing disapproval or dispraise; derogatory or pejorative (dyslogistic).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In utilitarian ethics and political rhetoric, terms intentionally chosen to cast moral censure upon an opponent's motives.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing disapproval, censure, or disparagement; dyslogistic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical ethics and linguistic rhetoric, describing terms or epithets loaded with negative moral evaluation (coined by Jeremy Bentham).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jeremy Bentham (*The Book of Fallacies*):** *"Politicians employ **dislogistic** epithets like 'anarchist' or 'faction' to discredit reforms without rational argument."*
-> - 📜 **John Stuart Mill (*A System of Logic*):** *"A philosophic thinker must strip controversial terms of their **dislogistic** connotations before evaluating facts."*
-> - 📜 **Herbert Spencer (*The Study of Sociology*):** *"Passionate partisans attach **dislogistic** labels to every policy proposed by the opposing administration."*
+> - 📜 **Jeremy Bentham (*A Table of the Springs of Action*):** *"Political partisans employ **dislogistic** terms to brand as criminal vices those actions which in their own party they style virtues."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"A philosopher must avoid **dislogistic** language, employing neutral scientific terms that do not prejudge the moral question."*
+> - 📜 **Samuel Taylor Coleridge (*The Friend*):** *"He rejected the **dislogistic** epithets hurled by hostile reviewers, appealing to the calm judgment of impartial posterity."*

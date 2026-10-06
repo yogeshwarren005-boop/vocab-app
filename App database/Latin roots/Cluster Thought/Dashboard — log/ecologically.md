@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a way that relates to the relations between organisms and their environment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In conservation science and biophysics, evaluated in terms of ecological footprint, biodiversity, or environmental balance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an ecological manner; from the standpoint of ecology and environmental relationships.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In conservation biology and evolutionary ecology, with reference to the interconnections between organisms and their environmental habitat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Ernst Haeckel (*The Wonders of Life*):** *"The flora and fauna of coral reefs are **ecologically** interdependent to an extraordinary degree."*
-> - 📜 **Alfred Russel Wallace (*Island Life*):** *"The fauna of Madagascar evolved in isolation, becoming **ecologically** distinct from the mainland."*
-> - 📜 **Aldo Leopold (*A Sand County Almanac*):** *"A thing is right when it tends to preserve the integrity of the biotic community; we must think **ecologically**."*
+> - 📜 **Aldo Leopold (*A Sand County Almanac*):** *"A thing is right when it tends to preserve the integrity, stability, and beauty of the biotic community; it is wrong when it tends otherwise, **ecologically** speaking."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"We must approach pest control **ecologically**, utilizing natural biological predators rather than indiscriminate poisons."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Species that are **ecologically** allied compete most fiercely for the limited resources of a shared geographic island."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To make an analogy; to explain, compare, or interpret by showing correspondence (British spelling of analogize).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary exposition and metaphysics, explaining complex abstract principles through concrete physical parallels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To draw an analogy, compare, or explain through parallel resemblances (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pedagogical method and scientific modeling, elucidating unfamiliar phenomena by demonstrating structural correspondence with known systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"We must not **analogise** spiritual truths to mechanical operations without cautious qualification."*
-> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"Philosophers frequently **analogise** the development of an empire to the physiological growth of an animal body."*
-> - 📜 **William Whewell (*The History of the Inductive Sciences*):** *"To **analogise** the propagation of light to ripples upon water was Huygens's grand stroke of genius."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"We may **analogise** the human eye with an optical camera to demonstrate how lenses focus inverted images upon the retina."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Sociologists frequently **analogise** the division of labor in industrial societies with cellular specialization in higher animals."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The speculative mind loves to **analogise** the operations of the physical universe with the intuitive movements of the human soul."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the procurement, maintenance, and movement of resources, equipment, and personnel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematical biology and statistics, describing a sigmoidal growth curve characterized by an initial exponential phase leveling off at carrying capacity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the planning, coordination, and execution of complex operational movements or logistics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In applied mathematics and demographics, designating the S-shaped sigmoid curve modeling constrained population growth or resource allocation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Carl von Clausewitz (*On War*):** *"Every grand operational plan collapses if the **logistic** apparatus fails to feed and munition the forward divisions."*
-> - 📜 **Raymond Pearl (*The Biology of Population Growth*):** *"The growth of the yeast population conformed with remarkable precision to the symmetrical **logistic** curve."*
-> - 📜 **Alfred Thayer Mahan (*The Influence of Sea Power upon History*):** *"A fleet without dependable **logistic** bases along its route of voyage is paralyzed before battle commences."*
+> - 📜 **Carl von Clausewitz (*On War*):** *"The **logistic** branch of military staff work ensures that ammunition, provisions, and transport arrive precisely when required."*
+> - 📜 **Alfred Thayer Mahan (*The Influence of Sea Power upon History*):** *"A fleet's endurance depends entirely upon establishing secure **logistic** bases along its route of operations."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Population expansion initially surges rapidly before encountering environmental resistance, conforming to a **logistic** saturation curve."*

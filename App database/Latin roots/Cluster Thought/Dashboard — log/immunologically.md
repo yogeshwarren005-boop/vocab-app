@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner related to the immune system, antibodies, or physiological immunity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In experimental pathology, characterized by antigen recognition, lymphocyte activation, and memory response.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of immune mechanisms, antibody reactions, or immunological principles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: From the standpoint of immunological specificity and lymphocyte recognition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Peter Medawar (*The Hope of Progress*):** *"The recipient animal was rendered **immunologically** tolerant by neonatal exposure to donor spleen cells."*
-> - 📜 **Frank Macfarlane Burnet (*The Clonal Selection Theory of Acquired Immunity*):** *"Plasma cells are **immunologically** committed to secreting a single molecular species of antibody."*
-> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient responded **immunologically** with a rapid rise in serum antitoxin titers."*
+> - 📜 **Peter Medawar (*The Hope of Progress*):** *"The recipient animal was rendered **immunologically** tolerant to allogeneic cells injected during embryonic life."*
+> - 📜 **Frank Macfarlane Burnet (*The Clonal Selection Theory of Acquired Immunity*):** *"Plasma cell clones react **immunologically** by synthesizing antibodies strictly matched to the inciting antigen."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient responded **immunologically** with a vigorous agglutination titer following convalescence."*

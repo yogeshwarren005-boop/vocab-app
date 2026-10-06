@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist or researcher in the branch of biomedical science dealing with the immune system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In laboratory medicine, an investigator exploring autoimmune pathologies, vaccine development, and antibody structure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A biomedical specialist or scientist who studies the immune system and mechanisms of resistance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In laboratory medicine and infectious disease research, an investigator designing vaccines, therapeutic antibodies, or immunosuppressive therapies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Peter Medawar (*The Uniqueness of the Individual*):** *"The modern **immunologist** investigates not merely disease resistance, but the biological basis of individuality."*
-> - 📜 **Frank Macfarlane Burnet (*Immunology, Aging, and Cancer*):** *"Every **immunologist** recognizes that somatic mutation plays a decisive role in antibody diversification."*
-> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"The **immunologist** must conceive of antibodies as chemical receptors complementary to specific microbial haptens."*
+> - 📜 **Peter Medawar (*The Uniqueness of the Individual*):** *"The modern **immunologist** investigates not merely infectious resistance, but the genetic individuality of cells."*
+> - 📜 **Frank Macfarlane Burnet (*Immunology, Aging, and Cancer*):** *"Every **immunologist** recognizes that autoimmune disease represents an internal breakdown of immunological tolerance."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"The **immunologist** must conceive of antibodies as chemical receptors possessing defined stereochemical affinities."*

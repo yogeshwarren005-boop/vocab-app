@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To speak in or deliver a monologue; to monopolize conversation continuously (British spelling).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic performance and literary description, to verbalize internal ruminations aloud without engaging interlocutors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To speak in or deliver a monologue; to monopolize conversation continuously.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic technique and conversational critique (chiefly British spelling), to express private thoughts aloud in an extended unilateral discourse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Bernard Shaw (*Our Theatres in the Nineties*):** *"An actor must not merely **monologuise** to the footlights, but respond to the living presence of his fellow players."*
-> - 📜 **Virginia Woolf (*The Waves*):** *"The solitary characters **monologuise** in rhythmic sequences, reflecting the ebb and flow of their inner consciousness."*
-> - 📜 **Thomas Carlyle (*Reminiscences*):** *"He would **monologuise** endlessly on German metaphysics while his tea grew stone cold upon the tray."*
+> - 📜 **George Bernard Shaw (*Our Theatres in the Nineties*):** *"The aging tragedian tended to **monologuise** through entire scenes, oblivious to the cues of his fellow actors."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"To **monologuise** within the solitude of one's mind is the solitary defense against the clamor of the world."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"He continued to **monologuise** under the twilight sky, casting his reflections out over the barren heath."*

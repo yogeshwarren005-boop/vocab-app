@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to immunology, immunity, or the body's physiological immune mechanisms; immunological.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pathology and biomedical research, pertaining to antibody-antigen kinetics and cellular defense responses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the body's defense mechanisms, antigenic responses, or the science of immunity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular pathology, pertaining to antibody-mediated or cell-mediated protective interactions against foreign pathogens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank Macfarlane Burnet (*The Integrity of the Body*):** *"The fundamental **immunologic** problem is how the vertebrate organism distinguishes self from non-self."*
-> - 📜 **Peter Medawar (*The Hope of Progress*):** *"Transplantation tolerance represents an induced **immunologic** unresponsiveness toward specific donor tissues."*
-> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The diagnostic test is based on a specific **immunologic** agglutination of bacterial antigens."*
+> - 📜 **Frank Macfarlane Burnet (*The Integrity of the Body*):** *"The fundamental **immunologic** problem centers upon self-recognition and the rejection of foreign macromolecular structures."*
+> - 📜 **Peter Medawar (*The Hope of Progress*):** *"Transplantation tolerance represents an induced **immunologic** unresponsiveness toward donor antigens."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The diagnostic test is based upon an **immunologic** precipitation between bacterial toxin and serum antitoxin."*

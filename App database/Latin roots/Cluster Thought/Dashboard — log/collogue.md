@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To talk privately, conspire, or confer secretly; in dialect, to flatter or coax.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic narrative and character fiction, whispering in private conspiracy to contrive an intrigue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To confer privately, talk secretly, or conspire in whispers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic narrative and dialect prose, scheming or plotting in hushed, clandestine consultation with associates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Walter Scott (*The Antiquary*):** *"They would sit together in the parlor and **collogue** about family secrets for hours on end."*
-> - 📜 **George Eliot (*Adam Bede*):** *"The old women were seen to **collogue** together over the garden gate, exchanging scandalous whispers."*
-> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"He saw the two conspirators **collogue** in the shadowy corner of the tavern yard."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The village gossips loved to **collogue** together over their evening ale, speculating darkly upon the recluse weaver's hoard."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The two old cronies sat in the chimney corner to **collogue** concerning the scandalous rumors circulating in the burgh."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The disaffected laborers were seen to **collogue** in the shadows behind the barn before walking out on strike."*

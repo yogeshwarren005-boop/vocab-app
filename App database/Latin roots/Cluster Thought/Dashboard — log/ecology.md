@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of biology dealing with the relations of organisms to one another and to their physical surroundings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary science, the comprehensive term coined by Ernst Haeckel in 1866 for the economy of nature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of biology that deals with the relations of organisms to one another and to their physical surroundings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In environmental science, the study of energy flow, nutrient cycles, population regulation, and community structure in natural ecosystems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Ernst Haeckel (*Generelle Morphologie der Organismen*):** *"By **ecology** we mean the investigation of the total relations of the animal both to its inorganic and to its organic environment."*
-> - 📜 **Charles Darwin (*The Origin of Species*):** *"The complex web of interactions that regulates plant and animal populations constitutes the true foundation of **ecology**."*
-> - 📜 **Arthur Tansley (*Practical Plant Ecology*):** *"The fundamental task of plant **ecology** is to discover how vegetation adapts to soil, climate, and topography."*
+> - 📜 **Aldo Leopold (*A Sand County Almanac*):** *"The study of **ecology** teaches us that the soil, water, plants, and animals constitute a unified, living organism."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"The modern discipline of **ecology** demonstrates our utter dependence upon the subtle biological balances of the biosphere."*
+> - 📜 **John Muir (*Our National Parks*):** *"The marvelous **ecology** of the giant sequoia groves has endured unharmed through millennia of natural climatic change."*

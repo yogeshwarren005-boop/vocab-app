@@ -42,8 +42,8 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of logic or valid reasoning; unreasonableness, absurdity, or irrationality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive critique and polemics, structural fallacies or emotional bias subverting coherent thought.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Absence of sound reasoning; invalid inference, absurdity, or irrational deduction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical argumentation and epistemology, systematic departure from established principles of formal inference.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
 > - 📜 **John Stuart Mill (*A System of Logic*):** *"The human mind falls into persistent **illogic** when it mistake its own prejudices for self-evident truths."*

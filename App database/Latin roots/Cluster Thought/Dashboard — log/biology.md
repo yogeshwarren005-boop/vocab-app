@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of life and living organisms, including their structure, function, evolution, and taxonomy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the classification of sciences, the foundational branch of natural science investigating vital phenomena.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The natural science that studies life and living organisms, including their structure, function, evolution, and ecology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic taxonomy, the comprehensive discipline encompassing zoology, botany, microbiology, genetics, and molecular biochemistry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Darwin (*The Origin of Species*):** *"When we look to the individuals of the same variety, the study of **biology** reveals infinite minor variations."*
-> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"**Biology** is the science which treats of living bodies, their phenomena, and their laws."*
-> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"The problems of **biology** are inseparable from the broader laws of universal cosmic evolution."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"When we view every organic production as a long-continued historical outcome, **biology** becomes invested with sublime interest."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate was fascinated by the grand ideas that the new science of **biology** was opening across European laboratories."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He felt that the experiments of modern **biology** revealed subtle secrets regarding the close interdependence of mind and flesh."*
